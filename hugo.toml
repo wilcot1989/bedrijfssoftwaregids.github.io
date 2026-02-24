@@ -1,0 +1,53 @@
+baseURL = "https://bedrijfssoftwaregids.nl/"
+languageCode = "nl"
+title = "Bedrijfssoftwaregids"
+theme = "starter"
+
+[params]
+  description = "Onafhankelijke vergelijkingen van kassasystemen, CRM, boekhoudsoftware en meer voor Nederlandse ondernemers."
+  author = "Bedrijfssoftwaregids"
+  tagline = "De beste zakelijke software voor jouw bedrijf"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Kassasystemen"
+    url = "/categories/kassasystemen/"
+    weight = 1
+  [[menu.main]]
+    name = "CRM Software"
+    url = "/categories/crm/"
+    weight = 2
+  [[menu.main]]
+    name = "Boekhouding"
+    url = "/categories/boekhouding/"
+    weight = 3
+  [[menu.main]]
+    name = "Projectmanagement"
+    url = "/categories/projectmanagement/"
+    weight = 4
+  [[menu.main]]
+    name = "Over Ons"
+    url = "/about/"
+    weight = 5
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[params.sitemapPriorities]
+  home = 1.0
+  posts = 0.8
+  categories = 0.6
+  tags = 0.4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
