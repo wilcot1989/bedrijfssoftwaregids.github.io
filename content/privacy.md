@@ -1,30 +1,52 @@
 ---
 title: "Privacybeleid"
-description: "Privacybeleid van Bedrijfssoftwaregids.nl"
+description: "Privacybeleid van Bedrijfssoftwaregids"
 layout: "single"
 ---
 
-# Privacybeleid
+## Privacybeleid
 
 *Laatst bijgewerkt: februari 2026*
 
-## Wie zijn wij
+### 1. Wie zijn wij
 
-Bedrijfssoftwaregids.nl is een onafhankelijke vergelijkingswebsite voor zakelijke software, gericht op de Nederlandse markt.
+Bedrijfssoftwaregids (bedrijfssoftwaregids.nl) is een onafhankelijk vergelijkingsplatform voor zakelijke software.
 
-## Welke gegevens verzamelen wij
+### 2. Welke gegevens verzamelen wij
 
-### Analytics
-Wij gebruiken Google Analytics 4 om anoniem websitegebruik te meten. Dit helpt ons de site te verbeteren. Er worden geen persoonsgegevens opgeslagen.
+Wij verzamelen geen persoonlijke gegevens direct. Wanneer je onze website bezoekt, kunnen de volgende gegevens automatisch worden verzameld via analytische cookies (alleen met jouw toestemming):
 
-### Cookies
-Wij gebruiken functionele cookies en analytics cookies. Via onze cookiebanner kun je je voorkeuren beheren.
+- IP-adres (geanonimiseerd)
+- Browsertype en versie
+- Bezochte pagina's en tijdsduur
+- Verwijzende website
 
-### Affiliate links
-Wanneer je op een affiliate link klikt, kan de betreffende aanbieder cookies plaatsen om de verwijzing te registreren. Raadpleeg het privacybeleid van de betreffende aanbieder.
+### 3. Cookies
 
-## Je rechten (AVG/GDPR)
-Je hebt recht op inzage, correctie en verwijdering van je gegevens. Neem contact met ons op via het contactformulier.
+Wij gebruiken cookies voor:
 
-## Contact
-Voor vragen over privacy kun je ons bereiken via de contactpagina.
+- **Analytische cookies** (Google Analytics) — Alleen met jouw expliciete toestemming. Deze cookies helpen ons begrijpen hoe bezoekers onze website gebruiken.
+- **Functionele cookies** — Om je cookievoorkeuren op te slaan.
+
+Je kunt je toestemming op elk moment intrekken door je browsergegevens te wissen.
+
+### 4. Affiliate Links
+
+Onze website bevat affiliate links naar externe diensten. Wanneer je op deze links klikt, kan de betreffende partij cookies plaatsen. Raadpleeg het privacybeleid van de betreffende dienst voor meer informatie.
+
+### 5. Derde Partijen
+
+Wij delen geen persoonlijke gegevens met derden, behalve de analytische data die Google Analytics verzamelt (met jouw toestemming).
+
+### 6. Jouw Rechten
+
+Op grond van de AVG heb je het recht om:
+
+- Inzage te vragen in je gegevens
+- Correctie of verwijdering te verzoeken
+- Bezwaar te maken tegen verwerking
+- Je toestemming in te trekken
+
+### 7. Contact
+
+Voor privacyvragen kun je contact opnemen via [info@bedrijfssoftwaregids.nl](mailto:info@bedrijfssoftwaregids.nl).

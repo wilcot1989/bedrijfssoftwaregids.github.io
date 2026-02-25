@@ -1,17 +1,28 @@
 ---
 title: "Over Ons"
-description: "Over Bedrijfssoftwaregids.nl — onafhankelijke vergelijkingen van zakelijke software voor Nederlandse ondernemers."
+description: "Leer meer over Bedrijfssoftwaregids en ons team"
 layout: "single"
 ---
 
-# Over Bedrijfssoftwaregids.nl
+## Over Bedrijfssoftwaregids
 
-Bedrijfssoftwaregids.nl helpt Nederlandse ondernemers, zzp'ers en mkb-bedrijven bij het kiezen van de juiste zakelijke software. Van kassasystemen tot CRM, van boekhoudsoftware tot projectmanagement — wij vergelijken, testen en beoordelen.
+Bedrijfssoftwaregids is een onafhankelijk platform dat Nederlandse ondernemers helpt bij het kiezen van de juiste zakelijke software. Of het nu gaat om CRM-systemen, boekhoudsoftware, kassasystemen of projectmanagement tools — wij testen, vergelijken en adviseren.
 
-## Onze missie
+### Onze Missie
 
-De juiste software kan het verschil maken voor je bedrijf. Maar met honderden opties is het lastig kiezen. Wij doen het onderzoek zodat jij dat niet hoeft te doen.
+Het kiezen van bedrijfssoftware kan overweldigend zijn. Er zijn tientallen opties, elk met eigen voor- en nadelen. Wij maken het simpel: we testen software zelf, schrijven eerlijke reviews en maken duidelijke vergelijkingen zodat jij de beste keuze kunt maken voor jouw bedrijf.
 
-## Hoe wij verdienen
+### Hoe Wij Werken
 
-Deze site bevat affiliate links. Wanneer je via onze links software aanschaft, ontvangen wij een vergoeding van de aanbieder. Dit kost jou niets extra en beïnvloedt onze beoordelingen niet.
+- **Onafhankelijk** — Onze aanbevelingen zijn gebaseerd op eigen ervaring en onderzoek
+- **Hands-on** — We testen elke tool die we reviewen zelf
+- **Nederlands** — Specifiek gericht op de Nederlandse markt en wetgeving
+- **Transparant** — We vermelden altijd wanneer we affiliate links gebruiken
+
+### Affiliate Disclaimer
+
+Sommige links op deze website zijn affiliate links. Dit betekent dat wij een kleine commissie ontvangen als je via onze link een aankoop doet. Dit kost jou niets extra en heeft geen invloed op onze reviews of aanbevelingen. Deze inkomsten helpen ons om deze website draaiende te houden en gratis content te blijven maken.
+
+### Contact
+
+Heb je vragen of suggesties? Stuur ons een e-mail op [info@bedrijfssoftwaregids.nl](mailto:info@bedrijfssoftwaregids.nl).
