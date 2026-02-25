@@ -1,67 +1,178 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0c4a6e;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#064e6e;stop-opacity:1"/>
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#134e4a"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#14b8a6"/>
+      <stop offset="100%" style="stop-color:#0d9488"/>
     </linearGradient>
   </defs>
+
   <!-- Background -->
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <!-- Decorative -->
-  <circle cx="100" cy="100" r="200" fill="#0891b2" opacity="0.06"/>
-  <circle cx="1100" cy="550" r="180" fill="#0891b2" opacity="0.05"/>
-  <!-- Kanban Board -->
-  <g transform="translate(280, 70)">
-    <!-- Board outline -->
-    <rect x="0" y="0" width="640" height="360" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
-    <!-- Column headers -->
-    <rect x="15" y="15" width="190" height="35" rx="6" fill="rgba(255,255,255,0.08)"/>
-    <text x="110" y="38" font-family="system-ui, sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" text-anchor="middle" font-weight="600">TO DO</text>
-    <rect x="225" y="15" width="190" height="35" rx="6" fill="rgba(8,145,178,0.15)"/>
-    <text x="320" y="38" font-family="system-ui, sans-serif" font-size="13" fill="#0891b2" text-anchor="middle" font-weight="600">IN PROGRESS</text>
-    <rect x="435" y="15" width="190" height="35" rx="6" fill="rgba(255,255,255,0.08)"/>
-    <text x="530" y="38" font-family="system-ui, sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" text-anchor="middle" font-weight="600">DONE</text>
-    <!-- Column dividers -->
-    <line x1="213" y1="60" x2="213" y2="345" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-    <line x1="426" y1="60" x2="426" y2="345" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-    <!-- To Do cards -->
-    <rect x="25" y="65" width="170" height="55" rx="6" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-    <line x1="35" y1="82" x2="120" y2="82" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/>
-    <line x1="35" y1="97" x2="90" y2="97" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
-    <circle cx="175" cy="105" r="4" fill="rgba(255,255,255,0.2)"/>
-    <rect x="25" y="130" width="170" height="55" rx="6" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
-    <line x1="35" y1="147" x2="140" y2="147" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/>
-    <line x1="35" y1="162" x2="100" y2="162" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
-    <circle cx="175" cy="170" r="4" fill="rgba(255,255,255,0.2)"/>
-    <rect x="25" y="195" width="170" height="55" rx="6" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-    <line x1="35" y1="212" x2="110" y2="212" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
-    <line x1="35" y1="227" x2="80" y2="227" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/>
-    <!-- In Progress cards (highlighted) -->
-    <rect x="235" y="65" width="170" height="55" rx="6" fill="rgba(8,145,178,0.12)" stroke="#0891b2" stroke-width="1.5" opacity="0.8"/>
-    <line x1="245" y1="82" x2="330" y2="82" stroke="#0891b2" stroke-width="1.5" opacity="0.7"/>
-    <line x1="245" y1="97" x2="300" y2="97" stroke="#0891b2" stroke-width="1.5" opacity="0.4"/>
-    <rect x="370" y="100" width="25" height="10" rx="5" fill="#0891b2" opacity="0.4"/>
-    <rect x="235" y="130" width="170" height="55" rx="6" fill="rgba(8,145,178,0.08)" stroke="#0891b2" stroke-width="1" opacity="0.6"/>
-    <line x1="245" y1="147" x2="350" y2="147" stroke="#0891b2" stroke-width="1.5" opacity="0.5"/>
-    <line x1="245" y1="162" x2="310" y2="162" stroke="#0891b2" stroke-width="1.5" opacity="0.3"/>
-    <!-- Done cards -->
-    <rect x="445" y="65" width="170" height="55" rx="6" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-    <line x1="455" y1="82" x2="530" y2="82" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
-    <!-- Checkmark -->
-    <polyline points="580,78 590,88 605,70" fill="none" stroke="#0891b2" stroke-width="2" opacity="0.5"/>
-    <rect x="445" y="130" width="170" height="55" rx="6" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-    <line x1="455" y1="147" x2="560" y2="147" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
-    <polyline points="580,143 590,153 605,135" fill="none" stroke="#0891b2" stroke-width="2" opacity="0.5"/>
-    <rect x="445" y="195" width="170" height="55" rx="6" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
-    <line x1="455" y1="212" x2="540" y2="212" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/>
-    <polyline points="580,208 590,218 605,200" fill="none" stroke="#0891b2" stroke-width="2" opacity="0.5"/>
-    <rect x="445" y="260" width="170" height="55" rx="6" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-    <line x1="455" y1="277" x2="520" y2="277" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
-    <polyline points="580,273 590,283 605,265" fill="none" stroke="#0891b2" stroke-width="2" opacity="0.4"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.04" stroke="#ffffff" stroke-width="1">
+    <line x1="0" y1="0" x2="0" y2="630"/><line x1="60" y1="0" x2="60" y2="630"/>
+    <line x1="120" y1="0" x2="120" y2="630"/><line x1="180" y1="0" x2="180" y2="630"/>
+    <line x1="240" y1="0" x2="240" y2="630"/><line x1="300" y1="0" x2="300" y2="630"/>
+    <line x1="360" y1="0" x2="360" y2="630"/><line x1="420" y1="0" x2="420" y2="630"/>
+    <line x1="480" y1="0" x2="480" y2="630"/><line x1="540" y1="0" x2="540" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/><line x1="660" y1="0" x2="660" y2="630"/>
+    <line x1="720" y1="0" x2="720" y2="630"/><line x1="780" y1="0" x2="780" y2="630"/>
+    <line x1="840" y1="0" x2="840" y2="630"/><line x1="900" y1="0" x2="900" y2="630"/>
+    <line x1="960" y1="0" x2="960" y2="630"/><line x1="1020" y1="0" x2="1020" y2="630"/>
+    <line x1="1080" y1="0" x2="1080" y2="630"/><line x1="1140" y1="0" x2="1140" y2="630"/>
+    <line x1="0" y1="60" x2="1200" y2="60"/><line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/><line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/><line x1="0" y1="360" x2="1200" y2="360"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/><line x1="0" y1="480" x2="1200" y2="480"/>
+    <line x1="0" y1="540" x2="1200" y2="540"/><line x1="0" y1="600" x2="1200" y2="600"/>
   </g>
-  <!-- Title -->
-  <text x="600" y="510" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">Projectmanagement</text>
-  <text x="600" y="555" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" fill="#0891b2" text-anchor="middle" letter-spacing="2">PLANNING &amp; SAMENWERKING</text>
-  <!-- Bottom accent line -->
-  <rect x="420" y="580" width="360" height="3" rx="1.5" fill="#0891b2" opacity="0.6"/>
+
+  <!-- Decorative background circles -->
+  <circle cx="140" cy="510" r="190" fill="#0d9488" opacity="0.06"/>
+  <circle cx="1060" cy="140" r="220" fill="#14b8a6" opacity="0.05"/>
+
+  <!-- === KANBAN BOARD (main, center) === -->
+  <!-- Board background -->
+  <rect x="250" y="165" width="700" height="330" rx="18" fill="#ffffff" opacity="0.08"/>
+
+  <!-- Column 1 - "To Do" -->
+  <rect x="275" y="185" width="210" height="290" rx="12" fill="#ffffff" opacity="0.07"/>
+  <!-- Column header -->
+  <rect x="285" y="195" width="190" height="30" rx="8" fill="url(#tealGrad)" opacity="0.5"/>
+  <!-- Card 1 -->
+  <rect x="285" y="240" width="190" height="55" rx="8" fill="#ffffff" opacity="0.15"/>
+  <rect x="300" y="253" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.4"/>
+  <rect x="300" y="268" width="80" height="4" rx="2" fill="#ffffff" opacity="0.2"/>
+  <circle cx="460" cy="275" r="8" fill="#ffffff" opacity="0.15"/>
+  <!-- Card 2 -->
+  <rect x="285" y="305" width="190" height="55" rx="8" fill="#ffffff" opacity="0.15"/>
+  <rect x="300" y="318" width="100" height="5" rx="2.5" fill="#ffffff" opacity="0.4"/>
+  <rect x="300" y="333" width="140" height="4" rx="2" fill="#ffffff" opacity="0.2"/>
+  <circle cx="460" cy="340" r="8" fill="#ffffff" opacity="0.15"/>
+  <!-- Card 3 -->
+  <rect x="285" y="370" width="190" height="55" rx="8" fill="#ffffff" opacity="0.12"/>
+  <rect x="300" y="383" width="130" height="5" rx="2.5" fill="#ffffff" opacity="0.3"/>
+  <rect x="300" y="398" width="90" height="4" rx="2" fill="#ffffff" opacity="0.15"/>
+  <circle cx="460" cy="405" r="8" fill="#ffffff" opacity="0.12"/>
+
+  <!-- Column divider -->
+  <line x1="495" y1="195" x2="495" y2="465" stroke="#ffffff" stroke-width="1" opacity="0.08"/>
+
+  <!-- Column 2 - "In Progress" -->
+  <rect x="505" y="185" width="210" height="290" rx="12" fill="#ffffff" opacity="0.07"/>
+  <!-- Column header -->
+  <rect x="515" y="195" width="190" height="30" rx="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <!-- Card 1 (in progress - teal accent) -->
+  <rect x="515" y="240" width="190" height="55" rx="8" fill="url(#tealGrad)" opacity="0.2"/>
+  <rect x="530" y="253" width="110" height="5" rx="2.5" fill="#ffffff" opacity="0.5"/>
+  <rect x="530" y="268" width="70" height="4" rx="2" fill="#ffffff" opacity="0.3"/>
+  <!-- Progress bar -->
+  <rect x="530" y="278" width="160" height="4" rx="2" fill="#ffffff" opacity="0.1"/>
+  <rect x="530" y="278" width="100" height="4" rx="2" fill="url(#tealGrad)" opacity="0.6"/>
+  <circle cx="690" cy="275" r="8" fill="url(#tealGrad)" opacity="0.3"/>
+  <!-- Card 2 -->
+  <rect x="515" y="305" width="190" height="55" rx="8" fill="url(#tealGrad)" opacity="0.15"/>
+  <rect x="530" y="318" width="130" height="5" rx="2.5" fill="#ffffff" opacity="0.45"/>
+  <rect x="530" y="333" width="90" height="4" rx="2" fill="#ffffff" opacity="0.25"/>
+  <!-- Progress bar -->
+  <rect x="530" y="343" width="160" height="4" rx="2" fill="#ffffff" opacity="0.1"/>
+  <rect x="530" y="343" width="60" height="4" rx="2" fill="url(#tealGrad)" opacity="0.6"/>
+  <circle cx="690" cy="340" r="8" fill="url(#tealGrad)" opacity="0.25"/>
+
+  <!-- Column divider -->
+  <line x1="725" y1="195" x2="725" y2="465" stroke="#ffffff" stroke-width="1" opacity="0.08"/>
+
+  <!-- Column 3 - "Done" -->
+  <rect x="735" y="185" width="200" height="290" rx="12" fill="#ffffff" opacity="0.07"/>
+  <!-- Column header -->
+  <rect x="745" y="195" width="180" height="30" rx="8" fill="#ffffff" opacity="0.2"/>
+  <!-- Card 1 (done - with checkmark) -->
+  <rect x="745" y="240" width="180" height="55" rx="8" fill="#ffffff" opacity="0.1"/>
+  <rect x="760" y="253" width="100" height="5" rx="2.5" fill="#ffffff" opacity="0.3"/>
+  <rect x="760" y="268" width="70" height="4" rx="2" fill="#ffffff" opacity="0.15"/>
+  <!-- Checkmark circle -->
+  <circle cx="910" cy="265" r="10" fill="url(#tealGrad)" opacity="0.6"/>
+  <polyline points="904,265 908,270 917,259" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <!-- Card 2 (done) -->
+  <rect x="745" y="305" width="180" height="55" rx="8" fill="#ffffff" opacity="0.1"/>
+  <rect x="760" y="318" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.3"/>
+  <rect x="760" y="333" width="85" height="4" rx="2" fill="#ffffff" opacity="0.15"/>
+  <!-- Checkmark circle -->
+  <circle cx="910" cy="330" r="10" fill="url(#tealGrad)" opacity="0.6"/>
+  <polyline points="904,330 908,335 917,324" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+
+  <!-- === GANTT/TIMELINE (bottom left) === -->
+  <rect x="60" y="330" width="160" height="140" rx="12" fill="#ffffff" opacity="0.08"/>
+  <!-- Timeline header -->
+  <rect x="60" y="330" width="160" height="28" rx="12" fill="url(#tealGrad)" opacity="0.4"/>
+  <!-- Gantt bars -->
+  <rect x="80" y="372" width="80" height="10" rx="4" fill="url(#tealGrad)" opacity="0.7"/>
+  <rect x="95" y="392" width="110" height="10" rx="4" fill="#ffffff" opacity="0.35"/>
+  <rect x="75" y="412" width="60" height="10" rx="4" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="105" y="432" width="90" height="10" rx="4" fill="#ffffff" opacity="0.25"/>
+  <rect x="85" y="452" width="70" height="10" rx="4" fill="url(#tealGrad)" opacity="0.4"/>
+
+  <!-- === PROGRESS CIRCLES (top left) === -->
+  <!-- Circle 1 - nearly complete -->
+  <circle cx="130" cy="230" r="40" fill="none" stroke="#ffffff" stroke-width="5" opacity="0.1"/>
+  <circle cx="130" cy="230" r="40" fill="none" stroke="url(#tealGrad)" stroke-width="5" opacity="0.6"
+    stroke-dasharray="226 251" stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90, 130, 230)"/>
+  <!-- Inner indicator -->
+  <circle cx="130" cy="230" r="5" fill="url(#tealGrad)" opacity="0.5"/>
+
+  <!-- Circle 2 - half complete -->
+  <circle cx="130" cy="230" r="28" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.08"/>
+  <circle cx="130" cy="230" r="28" fill="none" stroke="#14b8a6" stroke-width="4" opacity="0.4"
+    stroke-dasharray="88 176" stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90, 130, 230)"/>
+
+  <!-- === CHECKLIST (top right) === -->
+  <rect x="990" y="200" width="150" height="190" rx="12" fill="#ffffff" opacity="0.1"/>
+  <!-- Checklist items -->
+  <circle cx="1015" cy="230" r="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <polyline points="1010,230 1014,234 1021,225" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+  <rect x="1033" y="226" width="85" height="5" rx="2.5" fill="#ffffff" opacity="0.35"/>
+
+  <circle cx="1015" cy="260" r="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <polyline points="1010,260 1014,264 1021,255" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+  <rect x="1033" y="256" width="70" height="5" rx="2.5" fill="#ffffff" opacity="0.35"/>
+
+  <circle cx="1015" cy="290" r="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <polyline points="1010,290 1014,294 1021,285" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+  <rect x="1033" y="286" width="90" height="5" rx="2.5" fill="#ffffff" opacity="0.35"/>
+
+  <circle cx="1015" cy="320" r="8" fill="#ffffff" opacity="0.15"/>
+  <rect x="1033" y="316" width="75" height="5" rx="2.5" fill="#ffffff" opacity="0.2"/>
+
+  <circle cx="1015" cy="350" r="8" fill="#ffffff" opacity="0.15"/>
+  <rect x="1033" y="346" width="60" height="5" rx="2.5" fill="#ffffff" opacity="0.2"/>
+
+  <circle cx="1015" cy="380" r="8" fill="#ffffff" opacity="0.15"/>
+  <rect x="1033" y="376" width="80" height="5" rx="2.5" fill="#ffffff" opacity="0.2"/>
+
+  <!-- === TIMELINE/MILESTONE (bottom right) === -->
+  <line x1="970" y1="450" x2="1150" y2="450" stroke="#ffffff" stroke-width="2" opacity="0.2"/>
+  <!-- Milestone nodes -->
+  <circle cx="990" cy="450" r="7" fill="url(#tealGrad)" opacity="0.7"/>
+  <circle cx="1030" cy="450" r="7" fill="url(#tealGrad)" opacity="0.7"/>
+  <circle cx="1070" cy="450" r="7" fill="url(#tealGrad)" opacity="0.5"/>
+  <circle cx="1110" cy="450" r="7" fill="#ffffff" opacity="0.2"/>
+  <circle cx="1140" cy="450" r="7" fill="#ffffff" opacity="0.15"/>
+  <!-- Small connector lines going up from milestones -->
+  <line x1="990" y1="443" x2="990" y2="428" stroke="#14b8a6" stroke-width="1.5" opacity="0.4"/>
+  <rect x="975" y="418" width="30" height="8" rx="3" fill="url(#tealGrad)" opacity="0.3"/>
+  <line x1="1030" y1="443" x2="1030" y2="428" stroke="#14b8a6" stroke-width="1.5" opacity="0.4"/>
+  <rect x="1015" y="418" width="30" height="8" rx="3" fill="url(#tealGrad)" opacity="0.3"/>
+
+  <!-- Scattered decorative dots -->
+  <circle cx="350" cy="530" r="4" fill="#14b8a6" opacity="0.2"/>
+  <circle cx="650" cy="540" r="3" fill="#14b8a6" opacity="0.15"/>
+  <circle cx="850" cy="520" r="4" fill="#14b8a6" opacity="0.2"/>
+  <circle cx="200" cy="170" r="3" fill="#ffffff" opacity="0.1"/>
+  <circle cx="500" cy="140" r="3" fill="#14b8a6" opacity="0.2"/>
+  <circle cx="900" cy="160" r="4" fill="#ffffff" opacity="0.1"/>
 </svg>
