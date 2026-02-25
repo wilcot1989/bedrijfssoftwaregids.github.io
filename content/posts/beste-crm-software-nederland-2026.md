@@ -1,6 +1,6 @@
 ---
 title: "Beste CRM Software Nederland 2026: Top 7 Vergeleken"
-date: 2026-02-25T10:00:00+01:00
+date: 2026-02-24T10:00:00+01:00
 description: "Ontdek de beste CRM software voor Nederlandse bedrijven in 2026. Vergelijk HubSpot, Pipedrive, Salesforce en meer op prijs en functies."
 categories: ["crm"]
 tags: ["crm software", "crm vergelijking", "mkb software", "klantbeheer", "sales software"]

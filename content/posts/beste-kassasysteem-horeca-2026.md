@@ -1,6 +1,6 @@
 ---
 title: "Beste Kassasysteem Horeca 2026: Top 6 voor Restaurants & Cafés"
-date: 2026-02-26T10:00:00+01:00
+date: 2026-02-24T10:00:00+01:00
 description: "Vergelijk de beste kassasystemen voor horeca in 2026. Ontdek welk POS systeem past bij jouw restaurant, café of bar."
 categories: ["kassasystemen"]
 tags: ["kassasysteem", "horeca", "pos systeem", "restaurant software", "kassa horeca"]

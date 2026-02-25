@@ -1,6 +1,6 @@
 ---
 title: "Beste Boekhoudsoftware voor ZZP'ers 2026: Top 6 Vergeleken"
-date: 2026-02-28T10:00:00+01:00
+date: 2026-02-24T10:00:00+01:00
 description: "De beste boekhoudsoftware voor ZZP'ers in 2026. Vergelijk Moneybird, Exact Online, e-Boekhouden en meer op prijs, functies en gebruiksgemak."
 categories: ["boekhouding"]
 tags: ["boekhoudsoftware", "zzp", "freelancer", "boekhouden", "factuur software", "btw-aangifte"]
