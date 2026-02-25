@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#134e4a"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#14b8a6"/>
+      <stop offset="100%" style="stop-color:#0d9488"/>
+    </linearGradient>
+    <linearGradient id="tealGradH" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#14b8a6"/>
+      <stop offset="100%" style="stop-color:#0d9488"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle dot pattern -->
+  <g opacity="0.03" fill="#ffffff">
+    <circle cx="30" cy="30" r="2"/><circle cx="90" cy="30" r="2"/><circle cx="150" cy="30" r="2"/>
+    <circle cx="210" cy="30" r="2"/><circle cx="270" cy="30" r="2"/><circle cx="330" cy="30" r="2"/>
+    <circle cx="30" cy="90" r="2"/><circle cx="90" cy="90" r="2"/><circle cx="150" cy="90" r="2"/>
+    <circle cx="210" cy="90" r="2"/><circle cx="270" cy="90" r="2"/><circle cx="330" cy="90" r="2"/>
+    <circle cx="870" cy="540" r="2"/><circle cx="930" cy="540" r="2"/><circle cx="990" cy="540" r="2"/>
+    <circle cx="1050" cy="540" r="2"/><circle cx="1110" cy="540" r="2"/><circle cx="1170" cy="540" r="2"/>
+    <circle cx="870" cy="600" r="2"/><circle cx="930" cy="600" r="2"/><circle cx="990" cy="600" r="2"/>
+    <circle cx="1050" cy="600" r="2"/><circle cx="1110" cy="600" r="2"/><circle cx="1170" cy="600" r="2"/>
+  </g>
+
+  <!-- Decorative background shapes -->
+  <circle cx="200" cy="500" r="200" fill="#0d9488" opacity="0.05"/>
+  <circle cx="1000" cy="130" r="250" fill="#14b8a6" opacity="0.04"/>
+
+  <!-- === LARGE EMAIL ENVELOPE (center-left) === -->
+  <g transform="translate(280, 180)">
+    <!-- Envelope body -->
+    <rect x="0" y="0" width="240" height="170" rx="16" fill="#ffffff" opacity="0.13"/>
+    <!-- Envelope flap -->
+    <polygon points="0,0 120,80 240,0" fill="none" stroke="#14b8a6" stroke-width="3" opacity="0.7"/>
+    <!-- Envelope flap filled -->
+    <polygon points="4,4 120,76 236,4 236,0 4,0" fill="url(#tealGrad)" opacity="0.25"/>
+    <!-- Lines on envelope (content preview) -->
+    <rect x="40" y="110" width="160" height="6" rx="3" fill="#ffffff" opacity="0.2"/>
+    <rect x="40" y="128" width="120" height="6" rx="3" fill="#ffffff" opacity="0.15"/>
+    <rect x="40" y="146" width="140" height="6" rx="3" fill="#ffffff" opacity="0.1"/>
+  </g>
+
+  <!-- Small flying envelopes -->
+  <g transform="translate(180, 130) rotate(-15)" opacity="0.4">
+    <rect x="0" y="0" width="60" height="42" rx="6" fill="#ffffff" opacity="0.3"/>
+    <polygon points="0,0 30,20 60,0" fill="none" stroke="#14b8a6" stroke-width="1.5" opacity="0.6"/>
+  </g>
+  <g transform="translate(500, 100) rotate(10)" opacity="0.25">
+    <rect x="0" y="0" width="50" height="35" rx="5" fill="#ffffff" opacity="0.3"/>
+    <polygon points="0,0 25,17 50,0" fill="none" stroke="#14b8a6" stroke-width="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- === MEGAPHONE (center-right) === -->
+  <g transform="translate(700, 150)">
+    <!-- Megaphone cone -->
+    <polygon points="0,60 160,0 160,150 0,90" fill="url(#tealGrad)" opacity="0.8"/>
+    <!-- Megaphone handle -->
+    <rect x="-30" y="52" width="40" height="46" rx="8" fill="#14b8a6" opacity="0.6"/>
+    <!-- Sound waves -->
+    <path d="M 175,45 Q 210,75 175,105" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+    <path d="M 190,25 Q 240,75 190,125" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+    <path d="M 205,5 Q 270,75 205,145" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.2"/>
+  </g>
+
+  <!-- === BAR CHART (bottom-left) === -->
+  <g transform="translate(100, 380)">
+    <!-- Chart background -->
+    <rect x="0" y="0" width="260" height="180" rx="14" fill="#ffffff" opacity="0.08"/>
+    <!-- Axis lines -->
+    <line x1="40" y1="155" x2="235" y2="155" stroke="#ffffff" stroke-width="1.5" opacity="0.2"/>
+    <line x1="40" y1="30" x2="40" y2="155" stroke="#ffffff" stroke-width="1.5" opacity="0.2"/>
+    <!-- Bars -->
+    <rect x="60" y="110" width="28" height="45" rx="4" fill="#ffffff" opacity="0.3"/>
+    <rect x="100" y="80" width="28" height="75" rx="4" fill="#ffffff" opacity="0.4"/>
+    <rect x="140" y="55" width="28" height="100" rx="4" fill="url(#tealGrad)" opacity="0.7"/>
+    <rect x="180" y="35" width="28" height="120" rx="4" fill="url(#tealGrad)" opacity="0.9"/>
+    <!-- Trend line -->
+    <polyline points="74,105 114,72 154,48 194,28" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+    <!-- Trend dots -->
+    <circle cx="74" cy="105" r="4" fill="#ffffff" opacity="0.7"/>
+    <circle cx="114" cy="72" r="4" fill="#ffffff" opacity="0.7"/>
+    <circle cx="154" cy="48" r="4" fill="#ffffff" opacity="0.7"/>
+    <circle cx="194" cy="28" r="5" fill="#14b8a6"/>
+  </g>
+
+  <!-- === SOCIAL MEDIA CIRCLES (right side) === -->
+  <!-- Circle cluster -->
+  <circle cx="950" cy="380" r="42" fill="url(#tealGrad)" opacity="0.7"/>
+  <!-- Share/network icon inside -->
+  <circle cx="940" cy="370" r="6" fill="#ffffff" opacity="0.8"/>
+  <circle cx="965" cy="358" r="6" fill="#ffffff" opacity="0.8"/>
+  <circle cx="965" cy="395" r="6" fill="#ffffff" opacity="0.8"/>
+  <line x1="945" y1="368" x2="960" y2="360" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+  <line x1="945" y1="374" x2="960" y2="392" stroke="#ffffff" stroke-width="2" opacity="0.7"/>
+
+  <circle cx="1040" cy="340" r="36" fill="#ffffff" opacity="0.12"/>
+  <!-- Heart/like icon inside -->
+  <path d="M 1028,336 Q 1028,326 1040,332 Q 1052,326 1052,336 L 1040,350 Z" fill="#14b8a6" opacity="0.7"/>
+
+  <circle cx="1080" cy="430" r="32" fill="#ffffff" opacity="0.1"/>
+  <!-- Play/video icon inside -->
+  <polygon points="1072,418 1072,442 1094,430" fill="#14b8a6" opacity="0.6"/>
+
+  <circle cx="970" cy="470" r="28" fill="#14b8a6" opacity="0.2"/>
+  <!-- Chat bubble icon -->
+  <rect x="955" y="458" width="30" height="20" rx="8" fill="#ffffff" opacity="0.5"/>
+  <polygon points="963,478 958,488 972,478" fill="#ffffff" opacity="0.5"/>
+
+  <!-- Connection lines between social circles -->
+  <line x1="988" y1="368" x2="1010" y2="352" stroke="#14b8a6" stroke-width="1.5" opacity="0.25"/>
+  <line x1="975" y1="418" x2="972" y2="445" stroke="#14b8a6" stroke-width="1.5" opacity="0.25"/>
+  <line x1="1055" y1="370" x2="1065" y2="402" stroke="#14b8a6" stroke-width="1.5" opacity="0.2"/>
+
+  <!-- === NOTIFICATION BELL (top area) === -->
+  <g transform="translate(560, 400)">
+    <path d="M 0,40 Q 0,10 20,5 L 20,0 Q 25,-5 30,0 L 30,5 Q 50,10 50,40 L 55,48 L -5,48 Z" fill="#ffffff" opacity="0.25"/>
+    <circle cx="25" cy="53" r="6" fill="#ffffff" opacity="0.25"/>
+    <!-- Notification dot -->
+    <circle cx="42" cy="5" r="8" fill="#14b8a6" opacity="0.9"/>
+  </g>
+
+  <!-- === CURSOR/CLICK ICON (floating) === -->
+  <g transform="translate(440, 430)" opacity="0.4">
+    <polygon points="0,0 0,36 10,28 18,42 24,38 16,24 28,22" fill="#ffffff" opacity="0.7"/>
+  </g>
+
+  <!-- === TARGET/BULLSEYE (top-right area) === -->
+  <g transform="translate(1060, 130)">
+    <circle cx="0" cy="0" r="45" fill="none" stroke="#14b8a6" stroke-width="3" opacity="0.3"/>
+    <circle cx="0" cy="0" r="30" fill="none" stroke="#14b8a6" stroke-width="2.5" opacity="0.4"/>
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#14b8a6" stroke-width="2" opacity="0.5"/>
+    <circle cx="0" cy="0" r="5" fill="#14b8a6" opacity="0.8"/>
+    <!-- Arrow hitting target -->
+    <line x1="-55" y1="-55" x2="-3" y2="-3" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
+    <polygon points="-3,-3 -12,2 -2,12" fill="#ffffff" opacity="0.0"/>
+  </g>
+
+  <!-- Decorative dots -->
+  <circle cx="600" cy="560" r="3" fill="#14b8a6" opacity="0.3"/>
+  <circle cx="500" cy="550" r="4" fill="#ffffff" opacity="0.1"/>
+  <circle cx="700" cy="570" r="3" fill="#14b8a6" opacity="0.2"/>
+  <circle cx="850" cy="550" r="2" fill="#ffffff" opacity="0.15"/>
+</svg>
