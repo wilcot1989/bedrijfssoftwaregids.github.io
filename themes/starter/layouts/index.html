@@ -1,19 +1,19 @@
 {{ define "main" }}
 <div class="hero">
   <div class="container">
-    <h1>Protect Your Digital Life</h1>
-    <p>Expert reviews and guides on VPNs, password managers, antivirus software, and online privacy. Independently tested. Honestly reviewed.</p>
-    <a href="/categories/vpn/" class="cta">Best VPNs 2026</a>
-    <a href="/posts/best-antivirus-software-2026/" class="cta">Best Antivirus</a>
-    <a href="/categories/password-managers/" class="cta cta-outline" style="color:white;border-color:white;">Password Managers</a>
+    <h1>Vind de Beste Software voor Jouw Bedrijf</h1>
+    <p>Onafhankelijke vergelijkingen en reviews van CRM, boekhoudsoftware, kassasystemen en meer. Speciaal voor Nederlandse ondernemers.</p>
+    <a href="/categories/crm/" class="cta">CRM Software</a>
+    <a href="/categories/boekhouding/" class="cta">Boekhouding</a>
+    <a href="/categories/kassasystemen/" class="cta cta-outline" style="color:white;border-color:white;">Kassasystemen</a>
   </div>
 </div>
 <div class="container" style="padding-top:2rem;">
-  <h2>Latest Security Guides & Reviews</h2>
+  <h2>Laatste Reviews & Vergelijkingen</h2>
   {{ range (where .Site.RegularPages "Type" "posts") }}
   <div class="card">
     {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="card-thumb">{{ end }}
-    <div class="meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</div>
+    <div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd</div>
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>
     <div class="tags">

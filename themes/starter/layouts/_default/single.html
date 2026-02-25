@@ -9,7 +9,7 @@
         &rsaquo; {{ .Title }}
       </div>
       <h1 class="article-hero-title">{{ .Title }}</h1>
-      {{ if not .Date.IsZero }}<div class="meta meta-light">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</div>{{ end }}
+      {{ if not .Date.IsZero }}<div class="meta meta-light">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd</div>{{ end }}
     </div>
   </div>
 </div>
@@ -23,12 +23,12 @@
       {{ range .Params.categories }}<a href="/categories/{{ . }}/">{{ . | humanize | title }}</a>{{ end }}
       &rsaquo; {{ .Title }}
     </div>
-    {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read · Updated {{ .Lastmod.Format "January 2, 2006" }}</div>{{ end }}
+    {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</div>{{ end }}
     <h1>{{ .Title }}</h1>
 {{ end }}
     {{ if .Params.affiliate }}
     <div class="affiliate-disclosure">
-      This article contains affiliate links. We may earn a commission at no extra cost to you.
+      Dit artikel bevat affiliate links. Wij ontvangen mogelijk een commissie zonder extra kosten voor jou.
     </div>
     {{ end }}
     {{ .Content }}
@@ -40,7 +40,7 @@
 
     {{ if .Params.faq }}
     <div class="faq-section">
-      <h2>Frequently Asked Questions</h2>
+      <h2>Veelgestelde Vragen</h2>
       {{ range .Params.faq }}
       <details class="faq-item">
         <summary>{{ .q }}</summary>
@@ -51,16 +51,17 @@
     {{ end }}
 
     <div class="author-box">
+      <div class="author-avatar">BSG</div>
       <div class="author-info">
-        <div class="author-name">Digital Shield Pro Editorial Team</div>
-        <div class="author-bio">Our team tests and reviews cybersecurity products hands-on. Every recommendation is backed by real-world testing, not just spec sheets. We use the tools we recommend.</div>
+        <div class="author-name">Redactie Bedrijfssoftwaregids</div>
+        <div class="author-bio">Ons team test en vergelijkt zakelijke software voor het Nederlandse MKB. Elke aanbeveling is gebaseerd op hands-on ervaring en onafhankelijk onderzoek.</div>
       </div>
     </div>
 
     {{ $related := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink | first 4 }}
     {{ if $related }}
     <div class="related-articles">
-      <h3>Related Security Guides</h3>
+      <h3>Gerelateerde Artikelen</h3>
       <ul>
         {{ range $related }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
