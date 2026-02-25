@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f172a"/>
-      <stop offset="100%" style="stop-color:#134e4a"/>
+      <stop offset="0%" style="stop-color:#0c4a6e"/>
+      <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
     <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#14b8a6"/>
-      <stop offset="100%" style="stop-color:#0d9488"/>
+      <stop offset="0%" style="stop-color:#0891b2"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
@@ -33,8 +33,8 @@
   </g>
 
   <!-- Decorative background circles -->
-  <circle cx="140" cy="510" r="190" fill="#0d9488" opacity="0.06"/>
-  <circle cx="1060" cy="140" r="220" fill="#14b8a6" opacity="0.05"/>
+  <circle cx="140" cy="510" r="190" fill="#06b6d4" opacity="0.06"/>
+  <circle cx="1060" cy="140" r="220" fill="#0891b2" opacity="0.05"/>
 
   <!-- === KANBAN BOARD (main, center) === -->
   <!-- Board background -->
@@ -127,7 +127,7 @@
 
   <!-- Circle 2 - half complete -->
   <circle cx="130" cy="230" r="28" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.08"/>
-  <circle cx="130" cy="230" r="28" fill="none" stroke="#14b8a6" stroke-width="4" opacity="0.4"
+  <circle cx="130" cy="230" r="28" fill="none" stroke="#0891b2" stroke-width="4" opacity="0.4"
     stroke-dasharray="88 176" stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90, 130, 230)"/>
 
   <!-- === CHECKLIST (top right) === -->
@@ -163,16 +163,16 @@
   <circle cx="1110" cy="450" r="7" fill="#ffffff" opacity="0.2"/>
   <circle cx="1140" cy="450" r="7" fill="#ffffff" opacity="0.15"/>
   <!-- Small connector lines going up from milestones -->
-  <line x1="990" y1="443" x2="990" y2="428" stroke="#14b8a6" stroke-width="1.5" opacity="0.4"/>
+  <line x1="990" y1="443" x2="990" y2="428" stroke="#0891b2" stroke-width="1.5" opacity="0.4"/>
   <rect x="975" y="418" width="30" height="8" rx="3" fill="url(#tealGrad)" opacity="0.3"/>
-  <line x1="1030" y1="443" x2="1030" y2="428" stroke="#14b8a6" stroke-width="1.5" opacity="0.4"/>
+  <line x1="1030" y1="443" x2="1030" y2="428" stroke="#0891b2" stroke-width="1.5" opacity="0.4"/>
   <rect x="1015" y="418" width="30" height="8" rx="3" fill="url(#tealGrad)" opacity="0.3"/>
 
   <!-- Scattered decorative dots -->
-  <circle cx="350" cy="530" r="4" fill="#14b8a6" opacity="0.2"/>
-  <circle cx="650" cy="540" r="3" fill="#14b8a6" opacity="0.15"/>
-  <circle cx="850" cy="520" r="4" fill="#14b8a6" opacity="0.2"/>
+  <circle cx="350" cy="530" r="4" fill="#0891b2" opacity="0.2"/>
+  <circle cx="650" cy="540" r="3" fill="#0891b2" opacity="0.15"/>
+  <circle cx="850" cy="520" r="4" fill="#0891b2" opacity="0.2"/>
   <circle cx="200" cy="170" r="3" fill="#ffffff" opacity="0.1"/>
-  <circle cx="500" cy="140" r="3" fill="#14b8a6" opacity="0.2"/>
+  <circle cx="500" cy="140" r="3" fill="#0891b2" opacity="0.2"/>
   <circle cx="900" cy="160" r="4" fill="#ffffff" opacity="0.1"/>
 </svg>

@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f172a"/>
-      <stop offset="100%" style="stop-color:#134e4a"/>
+      <stop offset="0%" style="stop-color:#0c4a6e"/>
+      <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
     <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#14b8a6"/>
-      <stop offset="100%" style="stop-color:#0d9488"/>
+      <stop offset="0%" style="stop-color:#0891b2"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
     <linearGradient id="tealGradH" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#14b8a6"/>
-      <stop offset="100%" style="stop-color:#0d9488"/>
+      <stop offset="0%" style="stop-color:#0891b2"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
@@ -30,15 +30,15 @@
   </g>
 
   <!-- Decorative background shapes -->
-  <circle cx="200" cy="500" r="200" fill="#0d9488" opacity="0.05"/>
-  <circle cx="1000" cy="130" r="250" fill="#14b8a6" opacity="0.04"/>
+  <circle cx="200" cy="500" r="200" fill="#06b6d4" opacity="0.05"/>
+  <circle cx="1000" cy="130" r="250" fill="#0891b2" opacity="0.04"/>
 
   <!-- === LARGE EMAIL ENVELOPE (center-left) === -->
   <g transform="translate(280, 180)">
     <!-- Envelope body -->
     <rect x="0" y="0" width="240" height="170" rx="16" fill="#ffffff" opacity="0.13"/>
     <!-- Envelope flap -->
-    <polygon points="0,0 120,80 240,0" fill="none" stroke="#14b8a6" stroke-width="3" opacity="0.7"/>
+    <polygon points="0,0 120,80 240,0" fill="none" stroke="#0891b2" stroke-width="3" opacity="0.7"/>
     <!-- Envelope flap filled -->
     <polygon points="4,4 120,76 236,4 236,0 4,0" fill="url(#tealGrad)" opacity="0.25"/>
     <!-- Lines on envelope (content preview) -->
@@ -50,11 +50,11 @@
   <!-- Small flying envelopes -->
   <g transform="translate(180, 130) rotate(-15)" opacity="0.4">
     <rect x="0" y="0" width="60" height="42" rx="6" fill="#ffffff" opacity="0.3"/>
-    <polygon points="0,0 30,20 60,0" fill="none" stroke="#14b8a6" stroke-width="1.5" opacity="0.6"/>
+    <polygon points="0,0 30,20 60,0" fill="none" stroke="#0891b2" stroke-width="1.5" opacity="0.6"/>
   </g>
   <g transform="translate(500, 100) rotate(10)" opacity="0.25">
     <rect x="0" y="0" width="50" height="35" rx="5" fill="#ffffff" opacity="0.3"/>
-    <polygon points="0,0 25,17 50,0" fill="none" stroke="#14b8a6" stroke-width="1.5" opacity="0.5"/>
+    <polygon points="0,0 25,17 50,0" fill="none" stroke="#0891b2" stroke-width="1.5" opacity="0.5"/>
   </g>
 
   <!-- === MEGAPHONE (center-right) === -->
@@ -62,7 +62,7 @@
     <!-- Megaphone cone -->
     <polygon points="0,60 160,0 160,150 0,90" fill="url(#tealGrad)" opacity="0.8"/>
     <!-- Megaphone handle -->
-    <rect x="-30" y="52" width="40" height="46" rx="8" fill="#14b8a6" opacity="0.6"/>
+    <rect x="-30" y="52" width="40" height="46" rx="8" fill="#0891b2" opacity="0.6"/>
     <!-- Sound waves -->
     <path d="M 175,45 Q 210,75 175,105" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
     <path d="M 190,25 Q 240,75 190,125" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
@@ -87,7 +87,7 @@
     <circle cx="74" cy="105" r="4" fill="#ffffff" opacity="0.7"/>
     <circle cx="114" cy="72" r="4" fill="#ffffff" opacity="0.7"/>
     <circle cx="154" cy="48" r="4" fill="#ffffff" opacity="0.7"/>
-    <circle cx="194" cy="28" r="5" fill="#14b8a6"/>
+    <circle cx="194" cy="28" r="5" fill="#0891b2"/>
   </g>
 
   <!-- === SOCIAL MEDIA CIRCLES (right side) === -->
@@ -102,28 +102,28 @@
 
   <circle cx="1040" cy="340" r="36" fill="#ffffff" opacity="0.12"/>
   <!-- Heart/like icon inside -->
-  <path d="M 1028,336 Q 1028,326 1040,332 Q 1052,326 1052,336 L 1040,350 Z" fill="#14b8a6" opacity="0.7"/>
+  <path d="M 1028,336 Q 1028,326 1040,332 Q 1052,326 1052,336 L 1040,350 Z" fill="#0891b2" opacity="0.7"/>
 
   <circle cx="1080" cy="430" r="32" fill="#ffffff" opacity="0.1"/>
   <!-- Play/video icon inside -->
-  <polygon points="1072,418 1072,442 1094,430" fill="#14b8a6" opacity="0.6"/>
+  <polygon points="1072,418 1072,442 1094,430" fill="#0891b2" opacity="0.6"/>
 
-  <circle cx="970" cy="470" r="28" fill="#14b8a6" opacity="0.2"/>
+  <circle cx="970" cy="470" r="28" fill="#0891b2" opacity="0.2"/>
   <!-- Chat bubble icon -->
   <rect x="955" y="458" width="30" height="20" rx="8" fill="#ffffff" opacity="0.5"/>
   <polygon points="963,478 958,488 972,478" fill="#ffffff" opacity="0.5"/>
 
   <!-- Connection lines between social circles -->
-  <line x1="988" y1="368" x2="1010" y2="352" stroke="#14b8a6" stroke-width="1.5" opacity="0.25"/>
-  <line x1="975" y1="418" x2="972" y2="445" stroke="#14b8a6" stroke-width="1.5" opacity="0.25"/>
-  <line x1="1055" y1="370" x2="1065" y2="402" stroke="#14b8a6" stroke-width="1.5" opacity="0.2"/>
+  <line x1="988" y1="368" x2="1010" y2="352" stroke="#0891b2" stroke-width="1.5" opacity="0.25"/>
+  <line x1="975" y1="418" x2="972" y2="445" stroke="#0891b2" stroke-width="1.5" opacity="0.25"/>
+  <line x1="1055" y1="370" x2="1065" y2="402" stroke="#0891b2" stroke-width="1.5" opacity="0.2"/>
 
   <!-- === NOTIFICATION BELL (top area) === -->
   <g transform="translate(560, 400)">
     <path d="M 0,40 Q 0,10 20,5 L 20,0 Q 25,-5 30,0 L 30,5 Q 50,10 50,40 L 55,48 L -5,48 Z" fill="#ffffff" opacity="0.25"/>
     <circle cx="25" cy="53" r="6" fill="#ffffff" opacity="0.25"/>
     <!-- Notification dot -->
-    <circle cx="42" cy="5" r="8" fill="#14b8a6" opacity="0.9"/>
+    <circle cx="42" cy="5" r="8" fill="#0891b2" opacity="0.9"/>
   </g>
 
   <!-- === CURSOR/CLICK ICON (floating) === -->
@@ -133,18 +133,18 @@
 
   <!-- === TARGET/BULLSEYE (top-right area) === -->
   <g transform="translate(1060, 130)">
-    <circle cx="0" cy="0" r="45" fill="none" stroke="#14b8a6" stroke-width="3" opacity="0.3"/>
-    <circle cx="0" cy="0" r="30" fill="none" stroke="#14b8a6" stroke-width="2.5" opacity="0.4"/>
-    <circle cx="0" cy="0" r="15" fill="none" stroke="#14b8a6" stroke-width="2" opacity="0.5"/>
-    <circle cx="0" cy="0" r="5" fill="#14b8a6" opacity="0.8"/>
+    <circle cx="0" cy="0" r="45" fill="none" stroke="#0891b2" stroke-width="3" opacity="0.3"/>
+    <circle cx="0" cy="0" r="30" fill="none" stroke="#0891b2" stroke-width="2.5" opacity="0.4"/>
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#0891b2" stroke-width="2" opacity="0.5"/>
+    <circle cx="0" cy="0" r="5" fill="#0891b2" opacity="0.8"/>
     <!-- Arrow hitting target -->
     <line x1="-55" y1="-55" x2="-3" y2="-3" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.5"/>
     <polygon points="-3,-3 -12,2 -2,12" fill="#ffffff" opacity="0.0"/>
   </g>
 
   <!-- Decorative dots -->
-  <circle cx="600" cy="560" r="3" fill="#14b8a6" opacity="0.3"/>
+  <circle cx="600" cy="560" r="3" fill="#0891b2" opacity="0.3"/>
   <circle cx="500" cy="550" r="4" fill="#ffffff" opacity="0.1"/>
-  <circle cx="700" cy="570" r="3" fill="#14b8a6" opacity="0.2"/>
+  <circle cx="700" cy="570" r="3" fill="#0891b2" opacity="0.2"/>
   <circle cx="850" cy="550" r="2" fill="#ffffff" opacity="0.15"/>
 </svg>

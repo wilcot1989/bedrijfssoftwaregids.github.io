@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f172a"/>
-      <stop offset="100%" style="stop-color:#134e4a"/>
+      <stop offset="0%" style="stop-color:#0c4a6e"/>
+      <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
     <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#14b8a6"/>
-      <stop offset="100%" style="stop-color:#0d9488"/>
+      <stop offset="0%" style="stop-color:#0891b2"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
@@ -33,22 +33,22 @@
   </g>
 
   <!-- Decorative background circles -->
-  <circle cx="200" cy="500" r="200" fill="#0d9488" opacity="0.06"/>
-  <circle cx="1000" cy="150" r="240" fill="#14b8a6" opacity="0.05"/>
+  <circle cx="200" cy="500" r="200" fill="#06b6d4" opacity="0.06"/>
+  <circle cx="1000" cy="150" r="240" fill="#0891b2" opacity="0.05"/>
 
   <!-- === NETWORK CONNECTION LINES (behind people) === -->
-  <line x1="400" y1="310" x2="600" y2="250" stroke="#14b8a6" stroke-width="3" opacity="0.4"/>
-  <line x1="600" y1="250" x2="800" y2="310" stroke="#14b8a6" stroke-width="3" opacity="0.4"/>
-  <line x1="400" y1="310" x2="600" y2="410" stroke="#14b8a6" stroke-width="3" opacity="0.4"/>
-  <line x1="800" y1="310" x2="600" y2="410" stroke="#14b8a6" stroke-width="3" opacity="0.4"/>
-  <line x1="400" y1="310" x2="800" y2="310" stroke="#14b8a6" stroke-width="2" opacity="0.25"/>
-  <line x1="600" y1="250" x2="600" y2="410" stroke="#14b8a6" stroke-width="2" opacity="0.25"/>
+  <line x1="400" y1="310" x2="600" y2="250" stroke="#0891b2" stroke-width="3" opacity="0.4"/>
+  <line x1="600" y1="250" x2="800" y2="310" stroke="#0891b2" stroke-width="3" opacity="0.4"/>
+  <line x1="400" y1="310" x2="600" y2="410" stroke="#0891b2" stroke-width="3" opacity="0.4"/>
+  <line x1="800" y1="310" x2="600" y2="410" stroke="#0891b2" stroke-width="3" opacity="0.4"/>
+  <line x1="400" y1="310" x2="800" y2="310" stroke="#0891b2" stroke-width="2" opacity="0.25"/>
+  <line x1="600" y1="250" x2="600" y2="410" stroke="#0891b2" stroke-width="2" opacity="0.25"/>
 
   <!-- Small connection dots on the lines -->
-  <circle cx="500" cy="280" r="4" fill="#14b8a6" opacity="0.6"/>
-  <circle cx="700" cy="280" r="4" fill="#14b8a6" opacity="0.6"/>
-  <circle cx="500" cy="360" r="4" fill="#14b8a6" opacity="0.6"/>
-  <circle cx="700" cy="360" r="4" fill="#14b8a6" opacity="0.6"/>
+  <circle cx="500" cy="280" r="4" fill="#0891b2" opacity="0.6"/>
+  <circle cx="700" cy="280" r="4" fill="#0891b2" opacity="0.6"/>
+  <circle cx="500" cy="360" r="4" fill="#0891b2" opacity="0.6"/>
+  <circle cx="700" cy="360" r="4" fill="#0891b2" opacity="0.6"/>
 
   <!-- === PERSON 1 - Top center (primary) === -->
   <circle cx="600" cy="230" r="28" fill="url(#tealGrad)"/>
@@ -118,11 +118,11 @@
   <line x1="860" y1="460" x2="800" y2="340" stroke="#ffffff" stroke-width="1" opacity="0.1"/>
 
   <!-- Scattered decorative dots -->
-  <circle cx="500" cy="180" r="3" fill="#14b8a6" opacity="0.3"/>
-  <circle cx="700" cy="180" r="3" fill="#14b8a6" opacity="0.25"/>
-  <circle cx="450" cy="480" r="4" fill="#14b8a6" opacity="0.2"/>
-  <circle cx="750" cy="490" r="3" fill="#14b8a6" opacity="0.2"/>
-  <circle cx="600" cy="520" r="4" fill="#14b8a6" opacity="0.15"/>
+  <circle cx="500" cy="180" r="3" fill="#0891b2" opacity="0.3"/>
+  <circle cx="700" cy="180" r="3" fill="#0891b2" opacity="0.25"/>
+  <circle cx="450" cy="480" r="4" fill="#0891b2" opacity="0.2"/>
+  <circle cx="750" cy="490" r="3" fill="#0891b2" opacity="0.2"/>
+  <circle cx="600" cy="520" r="4" fill="#0891b2" opacity="0.15"/>
   <circle cx="200" cy="310" r="3" fill="#ffffff" opacity="0.1"/>
   <circle cx="1000" cy="340" r="3" fill="#ffffff" opacity="0.1"/>
 </svg>
