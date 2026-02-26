@@ -144,7 +144,7 @@ Voor het MKB is **Google Workspace** of **SharePoint** (als je al Microsoft 365 
 
 - **[Beste ERP Software MKB 2026](/posts/beste-erp-software-mkb-2026/)** — Documentbeheer in je ERP
 - **[Notion vs Monday.com 2026](/posts/notion-vs-monday-vergelijking-2026/)** — Projectmanagement + documenten
-- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-2026/)** — Financiële documenten
+- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Financiële documenten
 - **[Beste Offerte Software 2026](/posts/beste-offerte-software-2026/)** — Offertes en contracten
 
 ---

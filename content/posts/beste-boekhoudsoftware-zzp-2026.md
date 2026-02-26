@@ -76,7 +76,7 @@ Het gratis plan is zo beperkt (maximaal 10 facturen per jaar) dat het eigenlijk 
 - **Standaard + Facturen**: €24/maand (onbeperkt boekingen en facturen)
 - Eerste 60 dagen gratis bij elk betaald plan
 
-Voor de meeste ZZP'ers is het Standaard-plan van €14,50 het sweet spot. Je krijgt onbeperkte boekingen en bankkoppeling — alles wat je nodig hebt. Benieuwd hoe Moneybird zich verhoudt tot e-Boekhouden? Lees mijn uitgebreide [Moneybird vs e-Boekhouden vergelijking](/posts/moneybird-vs-e-boekhouden-2026/).
+Voor de meeste ZZP'ers is het Standaard-plan van €14,50 het sweet spot. Je krijgt onbeperkte boekingen en bankkoppeling — alles wat je nodig hebt. Benieuwd hoe Moneybird zich verhoudt tot e-Boekhouden? Lees mijn uitgebreide Moneybird vs e-Boekhouden vergelijking.
 
 [Start gratis met Moneybird](https://www.moneybird.nl/)
 
@@ -110,7 +110,7 @@ De prijs. €39/maand voor het instappakket is fors als je tien facturen per maa
 - **Premium**: ~€279/maand
 - 30 dagen gratis proberen
 
-Het verschil met Moneybird is substantieel: €39 vs. €14,50 per maand, dat is €294 per jaar meer. Die investering moet je terugverdienen met functies die je ook daadwerkelijk gebruikt. Lees ook mijn volledige [Exact Online review](/posts/exact-online-review-2026/) voor een diepere analyse.
+Het verschil met Moneybird is substantieel: €39 vs. €14,50 per maand, dat is €294 per jaar meer. Die investering moet je terugverdienen met functies die je ook daadwerkelijk gebruikt. Lees ook mijn volledige Exact Online review voor een diepere analyse.
 
 [Probeer Exact Online 30 dagen gratis](https://www.exact.com/nl)
 
@@ -244,7 +244,7 @@ Voor €9/maand heb je alles wat een startende ZZP'er nodig heeft. Dat is de pri
 
 Na jaren ZZP'ers adviseren zie ik steeds dezelfde fouten terugkomen:
 
-1. **Te veel betalen voor functies die je niet gebruikt** — Een ZZP'er met 15 facturen per maand op Exact Online van €39/maand? Dat is €468/jaar voor software die je voor €120/jaar bij e-Boekhouden hebt. Reken altijd door of je die extra functies echt nodig hebt. Zoek je specifiek facturatiesoftware? Bekijk dan mijn artikel over de [beste facturatie software voor MKB](/posts/beste-facturatie-software-mkb-2026/).
+1. **Te veel betalen voor functies die je niet gebruikt** — Een ZZP'er met 15 facturen per maand op Exact Online van €39/maand? Dat is €468/jaar voor software die je voor €120/jaar bij e-Boekhouden hebt. Reken altijd door of je die extra functies echt nodig hebt. Zoek je specifiek facturatiesoftware? Bekijk dan mijn artikel over de beste facturatie software voor MKB.
 
 2. **Kiezen op basis van wat je boekhouder gebruikt** — Ja, samenwerking is handig. Maar als je boekhouder alleen met Exact werkt en jij hebt een simpele administratie, betaal je €300/jaar te veel. Vraag je boekhouder of die ook met Moneybird of e-Boekhouden kan werken — de meeste kunnen dat prima.
 

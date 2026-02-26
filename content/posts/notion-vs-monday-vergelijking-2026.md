@@ -164,7 +164,7 @@ Mijn advies na beide tools bij tientallen teams te hebben ingezet:
 ## Lees ook
 
 - **[Beste Urenregistratie Software 2026](/posts/beste-urenregistratie-software-2026/)** — Uren bijhouden bij je projecten
-- **[Beste CRM Software 2026](/posts/beste-crm-software-2026/)** — Klantbeheer naast projectmanagement
+- **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Klantbeheer naast projectmanagement
 - **[HubSpot vs Pipedrive 2026](/posts/hubspot-vs-pipedrive-2026/)** — CRM-vergelijking
 - **[Beste Klantenservice Software 2026](/posts/beste-klantenservice-software-2026/)** — Support tools
 

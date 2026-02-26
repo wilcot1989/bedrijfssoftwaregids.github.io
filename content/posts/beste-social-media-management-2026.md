@@ -164,7 +164,7 @@ Voor de meeste MKB'ers is **Buffer** de beste start: gratis, eenvoudig en meer d
 ## Lees ook
 
 - **[Beste Email Marketing Software 2026](/posts/beste-email-marketing-software-2026/)** — Combineer met social media
-- **[Beste CRM Software 2026](/posts/beste-crm-software-2026/)** — Leads uit social media opvolgen
+- **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Leads uit social media opvolgen
 - **[Notion vs Monday.com 2026](/posts/notion-vs-monday-vergelijking-2026/)** — Content planning
 - **[Beste Website Bouwers MKB 2026](/posts/beste-website-bouwers-mkb-2026/)** — Social media traffic naar je site
 
