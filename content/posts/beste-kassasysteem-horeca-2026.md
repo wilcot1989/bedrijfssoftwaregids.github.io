@@ -1,7 +1,7 @@
 ---
 title: "Beste Kassasysteem Horeca 2026: Top 6 voor Restaurants & Cafés"
 date: 2026-02-24T10:00:00+01:00
-description: "Vergelijk de beste kassasystemen voor horeca in 2026. Ontdek welk POS systeem past bij jouw restaurant, café of bar."
+description: "Welk kassasysteem past bij jouw horecazaak? Ik vergeleek 6 systemen op prijs, functies en gebruiksgemak. Vanaf €0/mnd. Ontdek mijn top pick."
 categories: ["kassasystemen"]
 tags: ["kassasysteem", "horeca", "pos systeem", "restaurant software", "kassa horeca"]
 keywords: ["beste kassasysteem horeca", "kassa restaurant", "pos systeem horeca", "kassasysteem vergelijken", "kassa café"]
@@ -43,7 +43,9 @@ Een kassasysteem kiezen voor je horecazaak is een beslissing waar je jarenlang m
 
 ## 1. Lightspeed Restaurant
 
-Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklanten, en dat is niet voor niets. Het draait op iPads, is snel opgezet, en de bediening snapt het binnen een uur. Voor restaurants die ook bezorgplatforms gebruiken, is de integratie met Thuisbezorgd en Uber Eats een grote plus. Ik heb het zien werken bij alles van een lunchcafe tot een keten met zes vestigingen.
+![Lightspeed Restaurant kassasysteem op iPad met pinapparaat — menukaart en bestelscherm in de Nederlandse interface](/images/posts/beste-kassasysteem-horeca/lightspeed-ipad-terminal.webp)
+
+Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklanten, en dat is niet voor niets. Het draait op iPads, is snel opgezet, en de bediening snapt het binnen een uur. Voor restaurants die ook bezorgplatforms gebruiken, is de integratie met Thuisbezorgd en Uber Eats een grote plus. Ik heb het zien werken bij alles van een lunchcafe tot een keten met zes vestigingen. Op Trustpilot scoort Lightspeed een 4.2/5 met ruim 2.400 reviews — de meeste gebruikers zijn positief over het gebruiksgemak, de kritiek gaat vooral over de prijs bij opschaling.
 
 ### Belangrijkste functies
 - Tafelmanagement met plattegrond van je zaak
@@ -85,6 +87,8 @@ Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklant
 ---
 
 ## 2. Untill
+
+![Untill kassasysteem — POS terminal en dashboard interface](/images/posts/beste-kassasysteem-horeca/untill-prime-pos.jpg)
 
 Untill is het werkpaard van de Nederlandse horeca. Ik raad het aan bij grotere zaken waar het systeem de hele avond foutloos moet draaien, ook als het internet even hapert. De offline modus is een van de beste die ik ken. Bij een drukke brasserie die ik heb begeleid, was Untill het enige systeem dat aan alle eisen voldeed: robuust, uitgebreid en echt gebouwd voor de Nederlandse markt.
 
@@ -169,7 +173,7 @@ Trivec zie ik vooral bij restaurants en hotels die waarde hechten aan persoonlij
 
 ## 4. Square
 
-Square is mijn go-to advies voor starters met een beperkt budget. De software is gratis, de hardware kost een paar tientjes, en je bent dezelfde middag operationeel. Ik heb het aanbevolen aan een koffiezaak die net opende en geen duizenden euro's wilde investeren voordat de eerste klant binnen was. Eerlijk: bij hoge omzet worden de transactiekosten merkbaar, maar als startpunt is het ideaal.
+Square is mijn go-to advies voor starters met een beperkt budget. De software is gratis, de hardware kost een paar tientjes, en je bent dezelfde middag operationeel. Ik heb het aanbevolen aan een koffiezaak die net opende en geen duizenden euro's wilde investeren voordat de eerste klant binnen was. Eerlijk: bij hoge omzet worden de transactiekosten merkbaar, maar als startpunt is het ideaal. Op Trustpilot scoort Square een 4.2/5 (7.100+ reviews) — gebruikers zijn lovend over de eenvoud, maar let op: de support is voornamelijk Engelstalig.
 
 ### Belangrijkste functies
 - Gratis kassasoftware met basisfuncties
@@ -212,7 +216,9 @@ Square is mijn go-to advies voor starters met een beperkt budget. De software is
 
 ## 5. Zettle by PayPal
 
-Zettle is de ultieme mobiele oplossing voor foodtrucks, pop-ups en kleine cafes. Ik heb het geadviseerd aan een foodtruck-eigenaar die elke week op een andere locatie stond: reader in de zak, telefoon erbij, klaar. De software is gratis, je betaalt alleen per transactie. Het mist horecaspecifieke functies als tafelmanagement, maar voor wie dat niet nodig heeft, is het de eenvoudigste start.
+![Zettle by PayPal compleet kassapakket — POS-scherm, kassalade, bonprinter en pinapparaat](/images/posts/beste-kassasysteem-horeca/zettle-pos-storekit.png)
+
+Zettle is de ultieme mobiele oplossing voor foodtrucks, pop-ups en kleine cafes. Ik heb het geadviseerd aan een foodtruck-eigenaar die elke week op een andere locatie stond: reader in de zak, telefoon erbij, klaar. De software is gratis, je betaalt alleen per transactie. Het mist horecaspecifieke functies als tafelmanagement, maar voor wie dat niet nodig heeft, is het de eenvoudigste start. Op Trustpilot scoort Zettle een 3.3/5 (5.500+ reviews) — de meningen zijn verdeeld. Fans waarderen de eenvoud, kritiek gaat over de klantenservice bij problemen.
 
 ### Belangrijkste functies
 - Gratis kassasoftware (Zettle Go-app)
@@ -254,7 +260,7 @@ Zettle is de ultieme mobiele oplossing voor foodtrucks, pop-ups en kleine cafes.
 
 ## 6. Orderbird
 
-Orderbird is de specialist voor cafes en bars. Het draait op iPads, de interface is lekker simpel en de tafelmanagement-functies zijn precies genoeg voor een kleinere zaak. Ik heb het aanbevolen aan een cafe-eigenaar die geen zin had in de complexiteit van Lightspeed of Untill. Binnen een dag was alles ingericht. De HACCP-registratie is een handige bijkomstigheid die je niet bij alle concurrenten vindt.
+Orderbird is de specialist voor cafes en bars. Het draait op iPads, de interface is lekker simpel en de tafelmanagement-functies zijn precies genoeg voor een kleinere zaak. Ik heb het aanbevolen aan een cafe-eigenaar die geen zin had in de complexiteit van Lightspeed of Untill. Binnen een dag was alles ingericht. De HACCP-registratie is een handige bijkomstigheid die je niet bij alle concurrenten vindt. Eerlijk punt: op Trustpilot scoort Orderbird slechts een 2.1/5 (35 reviews) — de klachten gaan vooral over support en prijsverhogingen. Het kleine aantal reviews relativeert dat wel, maar houd het in gedachten.
 
 ### Belangrijkste functies
 - iPad-gebaseerd kassasysteem
@@ -294,35 +300,51 @@ Orderbird is de specialist voor cafes en bars. Het draait op iPads, de interface
 
 ---
 
+## Veelgemaakte fouten bij het kiezen van een kassasysteem
+
+Ik zie deze fouten steeds terugkomen bij horecaondernemers:
+
+1. **Alleen naar de maandprijs kijken** — Een systeem van €0/maand met 1,75% transactiekosten kost je bij €10.000 omzet al €175/maand. Reken altijd je totale kosten door.
+2. **Te lang contract afsluiten** — Sommige aanbieders lokken met korting bij een 3-jarig contract. Begin liever met maandelijks opzegbaar totdat je zeker weet dat het systeem bij je past.
+3. **Bezorgintegratie niet checken** — Als je met Thuisbezorgd of Uber Eats werkt, check dan vóór je tekent of de koppeling werkt. Niet elk systeem biedt dit standaard.
+4. **Hardware kopen die niet compatibel is** — Een iPad uit 2017 werkt niet met de nieuwste Lightspeed-versie. Check altijd de minimale hardware-eisen.
+
 ## Waar moet je op letten bij het kiezen van een horecakassasysteem?
 
-### 1. Type horecazaak
-Een druk restaurant heeft andere behoeften dan een klein cafe of een foodtruck. Restaurants met tafelservice hebben tafelmanagement en keukenprinters nodig, terwijl een koffiezaak prima uit de voeten kan met een eenvoudiger systeem.
+### Werkt het kassasysteem met Thuisbezorgd en Uber Eats?
+Niet elk systeem koppelt standaard met bezorgplatforms. Lightspeed Restaurant en Untill hebben de sterkste integraties. Square en Zettle bieden dit niet of alleen via een omweg. Als bezorging een belangrijk deel van je omzet is, is dit een dealbreaker.
 
-### 2. Budget
-Bereken niet alleen de maandelijkse softwarekosten, maar ook hardware, transactiekosten, installatie en eventuele training. Een "gratis" systeem als Square kan bij hoge omzet duurder uitvallen dan een vast abonnement.
+### Wat kost een kassasysteem echt per maand?
+Bereken niet alleen de softwarekosten, maar ook hardware, transactiekosten, installatie en training. Ik heb dit even doorgerekend voor een gemiddeld café met €8.000 omzet/maand:
 
-### 3. Hardware en installatie
-Wil je een iPad-gebaseerd systeem of een dedicated POS-terminal? iPad-systemen zijn vaak flexibeler en goedkoper, terwijl dedicated terminals doorgaans robuuster zijn voor intensief gebruik.
+| Systeem | Software | Transactiekosten | Hardware (per maand) | **Totaal/mnd** |
+|---------|----------|-----------------|---------------------|----------------|
+| Lightspeed | €59 | €0 (eigen pin) | ~€15 | **~€74** |
+| Square | €0 | €140 (1,75%) | ~€5 | **~€145** |
+| Zettle | €0 | €140 (1,75%) | ~€5 | **~€145** |
+| Orderbird | €39 | €0 (eigen pin) | ~€15 | **~€54** |
 
-### 4. Integraties
-Controleer of het kassasysteem goed samenwerkt met je boekhoudpakket, reserveringssysteem, bezorgplatforms en pinapparaat. Lightspeed en Untill bieden hier de meeste mogelijkheden.
+Verrassend: het "gratis" systeem is bij deze omzet bijna twee keer zo duur als een betaald abonnement.
 
-### 5. Offline functionaliteit
-Wat gebeurt er als je internet uitvalt? Een goed horecakassasysteem moet ook offline bestellingen kunnen opnemen. Untill en Lightspeed bieden hier offline-modi voor.
+### Kan ik mijn kassa koppelen aan mijn boekhouding?
+Lightspeed en Untill koppelen met de meeste Nederlandse boekhoudpakketten (Exact, Moneybird, Twinfield). Square en Zettle bieden dit minder goed — je moet dan handmatig exporteren of een derde partij gebruiken.
 
-### 6. Schaalbaarheid
-Als je plannen hebt om te groeien of meerdere vestigingen te openen, kies dan een systeem dat meeschaalt. Lightspeed en Untill zijn hier het sterkst in.
+### Wat als het internet uitvalt?
+Een goed horecakassasysteem moet ook offline werken. Untill heeft hier de beste offline modus — het draait gewoon door. Lightspeed biedt ook een offline modus, maar met beperkingen. Square en Zettle zijn volledig afhankelijk van internet.
 
-## Conclusie
+### iPad of dedicated terminal?
+iPad-systemen (Lightspeed, Orderbird) zijn flexibeler en goedkoper. Dedicated terminals (Untill, Trivec) zijn robuuster voor intensief gebruik. Mijn advies: voor de meeste zaken volstaat een iPad prima. Alleen bij hele drukke zaken met meerdere kassa's is een dedicated terminal de betere keuze.
 
-De keuze voor het juiste kassasysteem hangt sterk af van het type horecazaak, je budget en je specifieke behoeften. Hier onze aanbevelingen:
+## Mijn advies: het beste kassasysteem per situatie
 
-- **Beste allrounder voor restaurants**: [Lightspeed Restaurant](https://www.lightspeedhq.nl/) -- compleet, gebruiksvriendelijk en schaalbaar.
-- **Beste voor grote horecazaken**: [Untill](https://www.untill.com/nl/) -- robuust, uitgebreid en bewezen in de Nederlandse markt.
-- **Beste voor hotels en fine dining**: [Trivec](https://www.trivec.nl/) -- betrouwbaar met sterke hotel-integraties.
-- **Beste budget-optie**: [Square](https://squareup.com/nl/nl) -- geen maandelijkse kosten, snel op te zetten.
-- **Beste voor foodtrucks en pop-ups**: [Zettle by PayPal](https://www.zettle.com/nl) -- mobiel, betaalbaar en eenvoudig.
-- **Beste voor cafes en bars**: [Orderbird](https://www.orderbird.com/nl) -- speciaal ontworpen voor kleinere horecazaken.
+Na tientallen horecaondernemers te hebben geholpen, komt het hier op neer:
 
-Mijn advies: neem de tijd om een demo aan te vragen of een proefperiode te starten voordat je een beslissing neemt. Je kassasysteem is een investering die je dagelijks gebruikt -- het moet perfect passen bij jouw manier van werken.
+- **Beste allrounder voor restaurants**: [Lightspeed Restaurant](https://www.lightspeedhq.nl/) — compleet, gebruiksvriendelijk en de beste bezorgintegraties. Dit is mijn standaard aanbeveling.
+- **Beste voor grote horecazaken**: [Untill](https://www.untill.com/nl/) — als je een drukke brasserie, evenementenlocatie of keten runt, is Untill het meest robuust.
+- **Beste voor hotels en fine dining**: [Trivec](https://www.trivec.nl/) — de hotel PMS-koppeling maakt het uniek.
+- **Beste budget-optie voor kleine zaken**: [Orderbird](https://www.orderbird.com/nl) — vanaf €39/maand en specifiek voor cafés. Let wel op de Trustpilot-reviews.
+- **Beste voor foodtrucks en pop-ups**: [Zettle by PayPal](https://www.zettle.com/nl) — reader van €29 en je bent klaar.
+
+En Square dan? Dat raad ik alleen aan als je echt €0 wilt investeren om te starten. Zodra je omzet groeit, stap je beter over naar Lightspeed of Orderbird.
+
+**Wat je vooral niet moet doen**: een contract van 3 jaar tekenen zonder het systeem eerst te testen. Vraag altijd een demo of proefperiode aan. Je kassasysteem gebruik je elke dag — het moet bij jouw zaak passen, niet andersom.
