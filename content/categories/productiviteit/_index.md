@@ -18,10 +18,10 @@ Elke review is gebaseerd op weken van daadwerkelijk gebruik. Ik let op integrati
 
 ## Artikelen in deze categorie
 
-- [Beste Urenregistratie Software 2026: Top 5](/posts/beste-urenregistratie-software-2026/)
-- [Beste DMS Software 2026: Top 5 Documentbeheer](/posts/beste-documenten-management-2026/)
-- [Beste Videoconferencing Software 2026: Top 5 voor Bedrijven](/posts/beste-videoconferencing-software-2026/)
-- [Beste Website Bouwers voor MKB 2026: Top 5 Vergeleken](/posts/beste-website-bouwers-mkb-2026/)
-- [Beste Intranet Software voor MKB 2026: Top 5 Vergeleken](/posts/beste-intranet-software-mkb-2026/)
-- [Beste Contractmanagement Software 2026: Top 5 Vergeleken](/posts/beste-contractmanagement-software-2026/)
-- [Notion vs Monday.com 2026: Welke Projecttool Past bij Jou?](/posts/notion-vs-monday-vergelijking-2026/)
+- Binnenkort: Beste Urenregistratie Software 2026
+- Binnenkort: Beste DMS Software 2026
+- Binnenkort: Beste Videoconferencing Software 2026
+- Binnenkort: Beste Website Bouwers voor MKB 2026
+- Binnenkort: Beste Intranet Software voor MKB 2026
+- Binnenkort: Beste Contractmanagement Software 2026
+- Binnenkort: Notion vs Monday.com 2026

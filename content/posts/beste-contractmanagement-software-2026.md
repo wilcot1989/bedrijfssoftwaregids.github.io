@@ -149,8 +149,8 @@ Voor de meeste MKB-bedrijven is **PandaDoc** de beste start: betaalbaar (€15/u
 
 - **[Beste Offerte Software 2026](/posts/beste-offerte-software-2026/)** — Van offerte naar contract
 - **[Beste Documenten Management 2026](/posts/beste-documenten-management-2026/)** — Documentbeheer
-- **[Beste CRM Software 2026](/posts/beste-crm-software-2026/)** — Koppel contracten aan klanten
-- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-2026/)** — Financieel beheer
+- **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Koppel contracten aan klanten
+- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Financieel beheer
 
 ---
 

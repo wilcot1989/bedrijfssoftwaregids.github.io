@@ -16,4 +16,4 @@ Van een simpele live chat widget tot een compleet omnichannel platform — ik he
 
 ## Artikelen in deze categorie
 
-- [Beste Chatbot Software 2026: Top 5 Vergeleken](/posts/beste-chatbot-software-2026/)
+- Binnenkort: Beste Chatbot Software 2026

@@ -29,7 +29,7 @@ Ik zie het keer op keer: webshop-eigenaren die duizenden euro's uitgeven aan adv
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
-Zoek je een algemeen CRM voor niet-e-commerce? Bekijk onze [beste CRM software gids](/posts/beste-crm-software-2026/) of [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-2026/).
+Zoek je een algemeen CRM voor niet-e-commerce? Bekijk onze [beste CRM software gids](/posts/beste-crm-software-nederland-2026/) of [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-2026/).
 
 ## Snelle vergelijking
 
@@ -174,7 +174,7 @@ Voor de meeste webshops is **Klaviyo** de beste keuze: de diepste e-commerce int
 
 ## Lees ook
 
-- **[Beste CRM Software 2026](/posts/beste-crm-software-2026/)** — Alle CRM's vergeleken
+- **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Alle CRM's vergeleken
 - **[HubSpot vs Pipedrive 2026](/posts/hubspot-vs-pipedrive-2026/)** — CRM-vergelijking
 - **[Salesforce vs HubSpot 2026](/posts/salesforce-vs-hubspot-2026/)** — Enterprise CRM
 - **[Beste Klantenservice Software 2026](/posts/beste-klantenservice-software-2026/)** — Support voor je webshop

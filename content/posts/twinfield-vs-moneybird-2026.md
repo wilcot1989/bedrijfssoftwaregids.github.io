@@ -29,7 +29,7 @@ Als een ondernemer mij vraagt "Twinfield of Moneybird?", is mijn tegenvraag alti
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
-Bekijk ook onze [Exact Online vs Twinfield vergelijking](/posts/exact-online-vs-twinfield-2026/) en het overzicht van de [beste boekhoudsoftware](/posts/beste-boekhoudsoftware-2026/).
+Bekijk ook onze [Exact Online vs Twinfield vergelijking](/posts/exact-online-vs-twinfield-2026/) en het overzicht van de [beste boekhoudsoftware](/posts/beste-boekhoudsoftware-zzp-2026/).
 
 ## Snelle vergelijking
 
@@ -179,7 +179,7 @@ Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:
 ## Lees ook
 
 - **[Exact Online vs Twinfield 2026](/posts/exact-online-vs-twinfield-2026/)** — De twee grote pakketten vergeleken
-- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-2026/)** — Alle opties op een rij
+- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Alle opties op een rij
 - **[Beste Offerte Software 2026](/posts/beste-offerte-software-2026/)** — Van offerte naar factuur
 - **[Beste Urenregistratie Software 2026](/posts/beste-urenregistratie-software-2026/)** — Uren koppelen aan facturatie
 

@@ -26,11 +26,6 @@
     {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</div>{{ end }}
     <h1>{{ .Title }}</h1>
 {{ end }}
-    {{ if .Params.affiliate }}
-    <div class="affiliate-disclosure">
-      Dit artikel bevat affiliate links. Wij ontvangen mogelijk een commissie zonder extra kosten voor jou.
-    </div>
-    {{ end }}
     {{ .Content }}
     {{ if .Params.tags }}
     <div class="tags" style="margin-top:2rem;">

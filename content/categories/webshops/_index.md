@@ -16,4 +16,4 @@ De beste webshop software hangt af van wat je verkoopt, hoeveel producten je heb
 
 ## Artikelen in deze categorie
 
-- [Beste Webshop Software Nederland 2026 Vergeleken](/posts/beste-webshop-software-2026/)
+- Binnenkort: Beste Webshop Software Nederland 2026

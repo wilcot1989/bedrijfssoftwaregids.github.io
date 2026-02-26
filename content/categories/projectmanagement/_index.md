@@ -16,5 +16,5 @@ Of je nu een klein team van 5 aanstuurt of projecten coördineert met 50 collega
 
 ## Artikelen in deze categorie
 
-- [Beste Projectmanagement Software 2026: Top 7 voor Teams](/posts/beste-projectmanagement-software-2026/)
-- [Monday.com vs Asana 2026: Welke Projecttool is Beter?](/posts/monday-com-vs-asana-2026/)
+- Binnenkort: Beste Projectmanagement Software 2026
+- Binnenkort: Monday.com vs Asana 2026

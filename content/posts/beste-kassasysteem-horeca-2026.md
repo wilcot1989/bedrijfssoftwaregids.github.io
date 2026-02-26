@@ -54,7 +54,7 @@ Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklant
 - Bestellen aan tafel via QR-code of tablet
 - Keuken- en barprinters met ordermanagement
 - Uitgebreid voorraadbeheer met recepturen
-- Personeelsmanagement en urenregistratie (zoek je een apart systeem? Bekijk de [beste planning software voor horeca](/posts/beste-planning-software-horeca-2026/))
+- Personeelsmanagement en urenregistratie (zoek je een apart systeem? Bekijk de beste planning software voor horeca)
 - Rapportages en analytics in real-time
 - Integraties met Thuisbezorgd, Uber Eats en Deliveroo
 
@@ -328,7 +328,7 @@ Bereken niet alleen de softwarekosten, maar ook hardware, transactiekosten, inst
 Verrassend: het "gratis" systeem is bij deze omzet bijna twee keer zo duur als een betaald abonnement.
 
 ### Kan ik mijn kassa koppelen aan mijn boekhouding?
-Lightspeed en Untill koppelen met de meeste Nederlandse boekhoudpakketten (Exact, Moneybird, Twinfield). Square en Zettle bieden dit minder goed — je moet dan handmatig exporteren of een derde partij gebruiken. Heb je ook behoefte aan apart [voorraadbeheer software](/posts/beste-voorraadbeheer-software-2026/)? Dan is een goede koppeling met je kassasysteem essentieel.
+Lightspeed en Untill koppelen met de meeste Nederlandse boekhoudpakketten (Exact, Moneybird, Twinfield). Square en Zettle bieden dit minder goed — je moet dan handmatig exporteren of een derde partij gebruiken. Heb je ook behoefte aan apart voorraadbeheer software? Dan is een goede koppeling met je kassasysteem essentieel.
 
 ### Wat als het internet uitvalt?
 Een goed horecakassasysteem moet ook offline werken. Untill heeft hier de beste offline modus — het draait gewoon door. Lightspeed biedt ook een offline modus, maar met beperkingen. Square en Zettle zijn volledig afhankelijk van internet.
@@ -346,6 +346,6 @@ Na tientallen horecaondernemers te hebben geholpen, komt het hier op neer:
 - **Beste budget-optie voor kleine zaken**: [Orderbird](https://www.orderbird.com/nl) — vanaf €39/maand en specifiek voor cafés. Let wel op de Trustpilot-reviews.
 - **Beste voor foodtrucks en pop-ups**: [Zettle by PayPal](https://www.zettle.com/nl) — reader van €29 en je bent klaar.
 
-En Square dan? Dat raad ik alleen aan als je echt €0 wilt investeren om te starten. Zodra je omzet groeit, stap je beter over naar Lightspeed of Orderbird. Twijfel je specifiek tussen die twee? Lees dan mijn [Lightspeed vs Square vergelijking](/posts/lightspeed-vs-square-2026/).
+En Square dan? Dat raad ik alleen aan als je echt €0 wilt investeren om te starten. Zodra je omzet groeit, stap je beter over naar Lightspeed of Orderbird. Twijfel je specifiek tussen die twee? Lees dan mijn Lightspeed vs Square vergelijking.
 
 **Wat je vooral niet moet doen**: een contract van 3 jaar tekenen zonder het systeem eerst te testen. Vraag altijd een demo of proefperiode aan. Je kassasysteem gebruik je elke dag — het moet bij jouw zaak passen, niet andersom.

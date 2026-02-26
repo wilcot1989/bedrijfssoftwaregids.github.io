@@ -151,7 +151,7 @@ Voor het MKB is **Nmbrs** de beste balans tussen functionaliteit, gebruiksgemak 
 
 - **[Beste ERP Software MKB 2026](/posts/beste-erp-software-mkb-2026/)** — ERP met geïntegreerde payroll
 - **[Beste Urenregistratie Software 2026](/posts/beste-urenregistratie-software-2026/)** — Uren koppelen aan loon
-- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-2026/)** — Financiële administratie
+- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Financiële administratie
 - **[Exact Online vs Twinfield 2026](/posts/exact-online-vs-twinfield-2026/)** — Boekhouding met payroll
 
 ---

@@ -16,5 +16,5 @@ Of je nu net begint met email marketing of je social media strategie wilt profes
 
 ## Artikelen in deze categorie
 
-- [Beste Email Marketing Software 2026: Top 7 NL](/posts/beste-email-marketing-software-2026/)
-- [Beste Social Media Tools 2026: Top 5 Vergeleken](/posts/beste-social-media-management-2026/)
+- Binnenkort: Beste Email Marketing Software 2026
+- Binnenkort: Beste Social Media Tools 2026

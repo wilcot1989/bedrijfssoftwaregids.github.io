@@ -17,7 +17,7 @@ Of je nu een restaurant runt dat een compleet horeca-kassasysteem nodig heeft, o
 ## Artikelen in deze categorie
 
 - [Beste Kassasysteem Horeca 2026: Top 6 Getest](/posts/beste-kassasysteem-horeca-2026/)
-- [Lightspeed vs Square 2026: Welk Kassasysteem is Beter?](/posts/lightspeed-vs-square-2026/)
-- [Beste Voorraadbeheer Software 2026: Top 5](/posts/beste-voorraadbeheer-software-2026/)
-- [Beste Software voor Kappers & Schoonheidssalons 2026](/posts/beste-software-kappers-schoonheidssalons-2026/)
-- [Beste Online Afspraken Software 2026: Top 6 Vergeleken](/posts/beste-afspraken-software-2026/)
+- Binnenkort: Lightspeed vs Square 2026
+- Binnenkort: Beste Voorraadbeheer Software 2026
+- Binnenkort: Beste Software voor Kappers & Schoonheidssalons 2026
+- Binnenkort: Beste Online Afspraken Software 2026

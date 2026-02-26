@@ -17,10 +17,10 @@ Van BTW-aangifte tot bankkoppelingen, van UBL-facturen tot accountantsportaal â€
 ## Artikelen in deze categorie
 
 - [Beste Boekhoudsoftware voor ZZP'ers 2026: Top 6 Vergeleken](/posts/beste-boekhoudsoftware-zzp-2026/)
-- [Exact Online Review 2026: Is het de Prijs Waard?](/posts/exact-online-review-2026/)
-- [Exact Online vs Twinfield 2026: Welke Boekhoudsoftware?](/posts/exact-online-vs-twinfield-2026/)
-- [Moneybird vs e-Boekhouden 2026: Welke is Beter voor Jou?](/posts/moneybird-vs-e-boekhouden-2026/)
-- [Twinfield vs Moneybird 2026: Welke Kies Je?](/posts/twinfield-vs-moneybird-2026/)
-- [Beste Boekhoud-App 2026: Top 5 voor Mobiel Boekhouden](/posts/beste-boekhouder-app-2026/)
-- [Beste Facturatie Software voor MKB 2026: Top 6 Vergeleken](/posts/beste-facturatie-software-mkb-2026/)
-- [Beste ERP Software voor MKB 2026: Top 5 Vergeleken](/posts/beste-erp-software-mkb-2026/)
+- Binnenkort: Exact Online Review 2026
+- Binnenkort: Exact Online vs Twinfield 2026
+- Binnenkort: Moneybird vs e-Boekhouden 2026
+- Binnenkort: Twinfield vs Moneybird 2026
+- Binnenkort: Beste Boekhouder-app 2026
+- Binnenkort: Beste Facturatie Software voor MKB 2026
+- Binnenkort: Beste ERP Software voor MKB 2026
