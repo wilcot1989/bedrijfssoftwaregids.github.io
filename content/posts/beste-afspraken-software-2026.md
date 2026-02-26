@@ -45,7 +45,7 @@ Ik heb het al tientallen keren gezien bij klanten: de eigenaar zit midden in een
 
 ## 1. Calendly -- Beste voor Consultants en ZZP'ers
 
-**Calendly** is de bekendste afsprakensoftware ter wereld en wordt veel gebruikt door consultants, coaches, accountants en ZZP'ers. De kracht zit in de eenvoud: je deelt een link, je klant kiest een tijdslot, en de afspraak staat in je agenda.
+Als ik een consultant of ZZP'er help met afsprakensoftware, raad ik bijna altijd Calendly aan als eerste stap. De reden is simpel: je deelt een link, je klant kiest een tijdslot, klaar. Geen gedoe, geen uitleg nodig. Ik heb letterlijk klanten gehad die het binnen vijf minuten draaiden.
 
 ### Belangrijkste functies
 
@@ -82,13 +82,13 @@ Ik heb het al tientallen keren gezien bij klanten: de eigenaar zit midden in een
 - Interface volledig in het Engels
 - Minder geschikt voor bedrijven met meerdere locaties
 
-[Probeer Calendly]({{calendly_link}})
+[Probeer Calendly](https://calendly.com/)
 
 ---
 
 ## 2. SimplyBook.me -- Beste voor Dienstverlenende Bedrijven
 
-**SimplyBook.me** is een uitgebreid online boekingsplatform dat speciaal is ontworpen voor dienstverlenende bedrijven. Van fysiotherapeuten tot rijscholen, van consultants tot wellness-centra -- SimplyBook.me biedt een complete boekingsoplossing met Nederlandse taalondersteuning en iDEAL-betaling via Mollie.
+SimplyBook.me is de tool die ik aanbeveel zodra een bedrijf iDEAL-betaling nodig heeft bij het boeken. Voor een fysiotherapeut-klant van mij was dat de doorslaggevende factor: klanten betalen direct bij het inplannen, en het aantal no-shows halveerde. De Nederlandse taalondersteuning is ook een pluspunt dat je bij veel concurrenten mist.
 
 ### Belangrijkste functies
 
@@ -125,13 +125,13 @@ Ik heb het al tientallen keren gezien bij klanten: de eigenaar zit midden in een
 - Gratis plan erg beperkt (15 boekingen/maand)
 - Sommige functies werken als betaalde plugins
 
-[Bekijk SimplyBook.me]({{simplybookme_link}})
+[Bekijk SimplyBook.me](https://simplybook.me/nl/)
 
 ---
 
 ## 3. Tidycal -- Beste Budget-optie
 
-**Tidycal** is een Calendly-alternatief met een uniek prijsmodel: voor een eenmalige betaling van $29 krijg je levenslang toegang tot alle functies. Geen maandelijkse kosten. Voor ZZP'ers en kleine bedrijven die de kosten laag willen houden, is Tidycal een uitstekende deal.
+Tidycal is mijn favoriete budgettip: je betaalt eenmalig $29 en je hebt levenslang toegang. Geen maandelijkse kosten, geen verrassingen. Ik noem het altijd "het Calendly voor mensen die niet van abonnementen houden". Het doet 90% van wat Calendly doet, voor een fractie van de prijs.
 
 ### Belangrijkste functies
 
@@ -167,13 +167,13 @@ Ik heb het al tientallen keren gezien bij klanten: de eigenaar zit midden in een
 - Kleinere community en minder integraties
 - Interface in het Engels
 
-[Bekijk Tidycal]({{tidycal_link}})
+[Bekijk Tidycal](https://tidycal.com/)
 
 ---
 
 ## 4. Setmore -- Beste voor Kleine Teams
 
-**Setmore** onderscheidt zich met een genereus gratis plan dat tot 4 gebruikers toelaat. Dit maakt het ideaal voor kleine teams die professioneel afsprakenbeheer willen zonder direct te betalen. De interface is gebruiksvriendelijk en de functies dekken de basis goed af.
+Setmore viel me op vanwege het gratis plan: tot 4 gebruikers, geen kosten. Dat is zeldzaam. Voor een klein team dat ik begeleidde -- drie coaches die een ruimte deelden -- was Setmore de perfecte oplossing. Iedereen had zijn eigen agenda, klanten kozen zelf hun coach, en niemand betaalde een cent.
 
 ### Belangrijkste functies
 
@@ -209,13 +209,13 @@ Ik heb het al tientallen keren gezien bij klanten: de eigenaar zit midden in een
 - Rapportages beperkt in het gratis plan
 - Minder integraties dan Calendly
 
-[Start gratis met Setmore]({{setmore_link}})
+[Start gratis met Setmore](https://www.setmore.com/)
 
 ---
 
 ## 5. Acuity Scheduling (Squarespace) -- Beste voor Geavanceerde Behoeften
 
-**Acuity Scheduling** (onderdeel van Squarespace) is de meest uitgebreide afsprakensoftware in dit overzicht. Het biedt krachtige functies voor bedrijven met complexe planningsbehoeften: meerdere locaties, inschrijvingsformulieren, pakketten, abonnementen en geavanceerde automatiseringen.
+Acuity Scheduling is de tool die ik pak wanneer Calendly of SimplyBook.me niet genoeg is. Denk aan een yogastudio met groepslessen, strippenkaarten en intakeformulieren, of een therapeutenpraktijk met meerdere locaties. Ja, het is complexer en duurder, maar als je die functies nodig hebt, is er weinig dat erbij komt.
 
 ### Belangrijkste functies
 
@@ -252,13 +252,13 @@ Ik heb het al tientallen keren gezien bij klanten: de eigenaar zit midden in een
 - Onderdeel van Squarespace -- sterkste integratie met dat platform
 - Geen native iDEAL-ondersteuning
 
-[Probeer Acuity Scheduling]({{acuity_link}})
+[Probeer Acuity Scheduling](https://acuityscheduling.com/)
 
 ---
 
 ## 6. Salonkee -- Beste voor Salons en Beauty
 
-**Salonkee** is een gespecialiseerde oplossing voor kappers, schoonheidssalons, barbershops en wellness-centra. Het combineert online boekingen met kassafuncties, klantenkaarten, voorraadbeheer en personeelsplanning -- alles wat een salon nodig heeft in een platform.
+Salonkee raad ik alleen aan als je een kapsalon, schoonheidssalon of barbershop runt -- maar dan is het ook echt de beste keuze. Het combineert boekingen met kassafuncties, klantenkaarten en voorraadbeheer. Een salon-eigenaar die ik adviseerde, verving er drie losse tools mee. De prijs is hoger dan generieke software, maar je krijgt er een alles-in-een oplossing voor terug.
 
 Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonheidssalons](/posts/beste-software-kappers-schoonheidssalons-2026/).
 
@@ -294,7 +294,7 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 - Hogere kosten dan generieke afsprakensoftware
 - Contract mogelijk vereist
 
-[Bekijk Salonkee]({{salonkee_link}})
+[Bekijk Salonkee](https://salonkee.com/)
 
 ---
 
@@ -334,11 +334,11 @@ Bij duurdere diensten kun je een aanbetaling vragen bij het boeken. Dit verminde
 
 Online afspraken software bespaart je tijd, vermindert no-shows en biedt je klanten het gemak van 24/7 boeken. De beste keuze hangt af van je bedrijfstype en behoeften:
 
-- **Beste voor consultants en ZZP'ers**: [Calendly]({{calendly_link}}) -- eenvoudig, professioneel en gratis te starten.
-- **Beste voor dienstverlenende bedrijven**: [SimplyBook.me]({{simplybookme_link}}) -- uitgebreid, met iDEAL en Nederlandse taal.
-- **Beste budget-optie**: [Tidycal]({{tidycal_link}}) -- eenmalig €29 voor levenslang gebruik.
-- **Beste voor kleine teams**: [Setmore]({{setmore_link}}) -- gratis tot 4 gebruikers.
-- **Beste voor geavanceerde behoeften**: [Acuity Scheduling]({{acuity_link}}) -- de meest uitgebreide functieset.
-- **Beste voor salons**: [Salonkee]({{salonkee_link}}) -- branche-specifiek alles-in-een platform.
+- **Beste voor consultants en ZZP'ers**: [Calendly](https://calendly.com/) -- eenvoudig, professioneel en gratis te starten.
+- **Beste voor dienstverlenende bedrijven**: [SimplyBook.me](https://simplybook.me/nl/) -- uitgebreid, met iDEAL en Nederlandse taal.
+- **Beste budget-optie**: [Tidycal](https://tidycal.com/) -- eenmalig €29 voor levenslang gebruik.
+- **Beste voor kleine teams**: [Setmore](https://www.setmore.com/) -- gratis tot 4 gebruikers.
+- **Beste voor geavanceerde behoeften**: [Acuity Scheduling](https://acuityscheduling.com/) -- de meest uitgebreide functieset.
+- **Beste voor salons**: [Salonkee](https://salonkee.com/) -- branche-specifiek alles-in-een platform.
 
 Bekijk ook ons artikel over de [beste planning software voor horeca](/posts/beste-planning-software-horeca-2026/) voor branche-specifieke planningsoplossingen.

@@ -40,7 +40,7 @@ Fouten in de loonadministratie zijn de snelste manier om het vertrouwen van je m
 
 ## 1. Nmbrs — Beste voor MKB
 
-Nmbrs is een moderne, cloudgebaseerde payroll-oplossing die populair is bij zowel MKB-bedrijven als salarisadministrateurs. De intuïtieve interface en uitgebreide API maken het een flexibele keuze.
+Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat komt door de combinatie van gebruiksgemak en betrouwbaarheid. Ik heb HR-managers gezien die na een korte onboarding zelfstandig de maandelijkse loonrun draaiden. De API is een van de sterkste op de markt, waardoor je het moeiteloos koppelt aan je boekhouding of HR-tools.
 
 ### Belangrijkste functies
 - **Salarisverwerking** — Automatische berekening loonheffingen, pensioenpremies, toeslagen
@@ -61,7 +61,7 @@ Nmbrs is een moderne, cloudgebaseerde payroll-oplossing die populair is bij zowe
 
 ## 2. Visma Raet — Beste voor groot MKB
 
-Visma Raet (voorheen Raet) is een van de grootste HR- en payroll-providers in Nederland met meer dan 10.000 klanten. Het biedt een compleet HR-ecosysteem naast salarisverwerking.
+Visma Raet is het platform waar ik naar verwijs als een bedrijf complexe CAO's, uitgebreid verzuimmanagement en een complete HR-suite nodig heeft naast de salarisverwerking. Met 10.000+ klanten in Nederland is het een bewezen speler. De interface is niet de modernste, maar de betrouwbaarheid en diepgang compenseren dat ruimschoots.
 
 ### Belangrijkste functies
 - **Salarisverwerking** — Volledig geautomatiseerd, alle CAO's
@@ -79,7 +79,7 @@ Vanaf €8-€15/medewerker/maand (afhankelijk van modules en bedrijfsgrootte)
 
 ## 3. Loket.nl — Beste voor klein MKB
 
-Loket.nl is de goedkoopste professionele payroll-oplossing in Nederland en specifiek gericht op kleine bedrijven die snel en eenvoudig hun lonen willen verwerken.
+Loket.nl raad ik aan als de portemonnee krap is maar je wel professionele salarisverwerking wilt. Vanaf drie euro per medewerker per maand heb je loonaangifte, loonstroken en jaaropgaven geregeld. Ik heb het aanbevolen aan een startend bedrijf met 8 man dat geen honderden euro's per maand wilde uitgeven. Het doet wat het moet doen, zonder franjes.
 
 ### Belangrijkste functies
 - **Salarisverwerking** — Eenvoudige interface, stap-voor-stap
@@ -99,7 +99,7 @@ Loket.nl is de goedkoopste professionele payroll-oplossing in Nederland en speci
 
 ## 4. AFAS Software — Meest complete NL platform
 
-AFAS biedt een geïntegreerd platform met ERP, HRM, CRM en payroll. Voor bedrijven die alles in één willen, is AFAS de meest Nederlandse oplossing.
+AFAS adviseer ik aan bedrijven die salaris, HR, boekhouding en CRM in een platform willen en bereid zijn daar serieus in te investeren. Het is het meest complete Nederlandse platform dat ik ken. De integratie tussen modules is naadloos -- je salarisgegevens stromen direct door naar je boekhouding zonder enige handmatige actie. Overkill voor een klein bedrijf, maar goud voor middelgrote organisaties.
 
 ### Belangrijkste functies
 - **Volledige ERP-integratie** — Salaris gekoppeld aan boekhouding, projecten, facturatie
@@ -117,7 +117,7 @@ Lees meer over AFAS in ons [ERP software overzicht](/posts/beste-erp-software-mk
 
 ## 5. ADP — Beste voor internationaal
 
-ADP is de mondiale marktleider in payroll-diensten. Voor bedrijven met internationale medewerkers of vestigingen is ADP de veiligste keuze.
+ADP is de keuze die ik maak als een bedrijf zegt: "We hebben medewerkers in vijf landen en willen een partij die overal de compliance regelt." Voor puur Nederlandse bedrijven is het vaak te duur en te zwaar, maar zodra je internationaal opereert, is de compliance-zekerheid van ADP moeilijk te evenaren. Ze verwerken salarissen in 140+ landen -- dat kun je niet zelf bijhouden.
 
 ### Belangrijkste functies
 - **Globale payroll** — Salarisverwerking in 140+ landen

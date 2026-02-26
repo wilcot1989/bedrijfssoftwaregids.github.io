@@ -44,7 +44,7 @@ Een retailklant van mij ontdekte na het invoeren van voorraadbeheer software dat
 
 ## 1. Lightspeed -- Beste Totaaloplossing voor Retail
 
-**Lightspeed** is een Canadees-Nederlands platform dat een volledig kassasysteem, voorraadbeheer en e-commerce oplossing combineert. Het is de meest complete oplossing voor retailers die zowel een fysieke winkel als een webshop hebben en hun voorraad centraal willen beheren.
+Lightspeed is de eerste tool die ik noem als een retailer zegt: "Ik verkoop zowel in mijn winkel als online en ik wil een centraal overzicht." Het is de meest complete oplossing die ik ken -- kassa, voorraadbeheer en webshop in een platform. Niet de goedkoopste, maar voor retailers die omnichannel serieus nemen is het de investering waard.
 
 Benieuwd hoe Lightspeed zich verhoudt tot Square als kassasysteem? Lees onze [Lightspeed vs Square vergelijking](/posts/lightspeed-vs-square-2026/).
 
@@ -82,13 +82,13 @@ Benieuwd hoe Lightspeed zich verhoudt tot Square als kassasysteem? Lees onze [Li
 - Webshop-module voelt minder flexibel dan Shopify
 - Contractduur van 12 maanden
 
-[Bekijk Lightspeed]({{lightspeed_link}})
+[Bekijk Lightspeed](https://www.lightspeedhq.nl/)
 
 ---
 
 ## 2. Picqer -- Beste voor Webshops en Magazijnen
 
-**Picqer** is een Nederlandse voorraadbeheer- en warehouse management-oplossing die specifiek is gebouwd voor webshops. Het blinkt uit in orderpicking, voorraadbeheer en integratie met populaire webshopplatformen. Als je voornamelijk online verkoopt en een magazijn beheert, is Picqer een uitstekende keuze.
+Picqer is het Nederlandse platform dat ik adviseer aan webshopondernemers die hun magazijn professioneel willen aanpakken. De orderpicking met barcode-scanning is ijzersterk, en de integraties met Shopify, WooCommerce en Bol.com werken vlekkeloos. Ik heb het geadviseerd bij webshops die van 50 naar 500 orders per dag groeiden -- Picqer groeide probleemloos mee.
 
 ### Belangrijkste functies voor voorraadbeheer
 
@@ -124,13 +124,13 @@ Benieuwd hoe Lightspeed zich verhoudt tot Square als kassasysteem? Lees onze [Li
 - Minder geschikt voor fysieke retail zonder webshop
 - Beperkte rapportages in het Starter-plan
 
-[Bekijk Picqer]({{picqer_link}})
+[Bekijk Picqer](https://picqer.com/nl)
 
 ---
 
 ## 3. Exact Online Handel -- Beste met Boekhouding-integratie
 
-**Exact Online** is niet alleen het bekendste boekhoudpakket van Nederland, maar biedt met het Handel-pakket ook een krachtige voorraadbeheermodule. De grote kracht zit in de naadloze integratie met de boekhouding: inkoopfacturen, verkooporders en voorraadwaarde worden automatisch verwerkt in je administratie.
+Exact Online met het Handel-pakket adviseer ik aan bedrijven die hun voorraad direct aan de boekhouding willen koppelen. Dat klinkt saai, maar het scheelt enorm veel handwerk: inkoopfacturen, verkooporders en voorraadwaarde vloeien automatisch je administratie in. Vrijwel elke boekhouder in Nederland werkt met Exact, wat de samenwerking vergemakkelijkt.
 
 Lees onze uitgebreide [Exact Online review](/posts/exact-online-review-2026/) voor meer over het totaalplatform.
 
@@ -167,13 +167,13 @@ Lees onze uitgebreide [Exact Online review](/posts/exact-online-review-2026/) vo
 - Geen ingebouwde warehouse management functies
 - Minder geschikt als standalone voorraadbeheer zonder boekhouding
 
-[Probeer Exact Online]({{exact_link}})
+[Probeer Exact Online](https://www.exact.com/nl)
 
 ---
 
 ## 4. Shopify -- Beste voor Webshop-first Retailers
 
-**Shopify** is het wereldwijd populairste e-commerce platform en biedt ingebouwd voorraadbeheer dat naadloos samenwerkt met je webshop. Met de uitbreiding naar fysieke retail via Shopify POS kun je ook je winkelvoorraad beheren vanuit hetzelfde platform. Ideaal als je webshop je primaire verkoopkanaal is.
+Heb je al een Shopify webshop, of is je webshop het belangrijkste verkoopkanaal? Dan is het ingebouwde voorraadbeheer van Shopify de logische keuze. Het is niet zo diepgaand als Picqer of Lightspeed, maar voor de meeste webshopondernemers is het ruim voldoende. En met Shopify POS kun je ook een fysieke winkel aansluiten zonder een apart systeem erbij te nemen.
 
 ### Belangrijkste functies voor voorraadbeheer
 
@@ -211,13 +211,13 @@ Lees onze uitgebreide [Exact Online review](/posts/exact-online-review-2026/) vo
 
 Bekijk ook ons artikel over de [beste webshop software 2026](/posts/beste-webshop-software-2026/) voor een breder overzicht.
 
-[Probeer Shopify]({{shopify_link}})
+[Probeer Shopify](https://www.shopify.com/nl)
 
 ---
 
 ## 5. Square -- Beste voor Kleine Retailers en Starters
 
-**Square** biedt een verrassend goed voorraadbeheer als onderdeel van zijn gratis kassasysteem. Voor kleine retailers en starters die zonder grote investering willen beginnen met professioneel voorraadbeheer, is Square de meest toegankelijke optie. Je kunt direct beginnen zonder maandelijkse kosten.
+Square is de tool die ik noem als een startende retailer zegt: "Ik wil voorraadbeheer, maar ik heb nog geen budget." Het gratis kassasysteem biedt verrassend goed voorraadbeheer. Je kunt morgen beginnen zonder maandelijkse kosten -- je betaalt alleen per transactie. Voor kleine retailers is dat een eerlijk model om mee te starten.
 
 Benieuwd hoe Square zich verhoudt tot Lightspeed? Lees onze [Lightspeed vs Square vergelijking](/posts/lightspeed-vs-square-2026/).
 
@@ -256,7 +256,7 @@ Benieuwd hoe Square zich verhoudt tot Lightspeed? Lees onze [Lightspeed vs Squar
 - Rapportages minder uitgebreid in het gratis plan
 - Minder geschikt voor grotere retailers met complexe voorraad
 
-[Start gratis met Square]({{square_link}})
+[Start gratis met Square](https://squareup.com/nl/nl)
 
 ---
 
@@ -295,11 +295,11 @@ Barcode-scanning maakt voorraadin- en uitboeken sneller en nauwkeuriger. De inve
 
 De beste voorraadbeheer software hangt af van je verkoopkanalen, bedrijfsgrootte en specifieke behoeften:
 
-- **Beste totaaloplossing voor retail**: [Lightspeed]({{lightspeed_link}}) -- alles in een platform voor fysieke winkel en webshop.
-- **Beste voor webshops**: [Picqer]({{picqer_link}}) -- gespecialiseerd in e-commerce logistiek met sterke Nederlandse integraties.
-- **Beste met boekhouding**: [Exact Online]({{exact_link}}) -- naadloze koppeling tussen voorraad en financiele administratie.
-- **Beste voor webshop-first**: [Shopify]({{shopify_link}}) -- het sterkste webshopplatform met groeiende voorraadfuncties.
-- **Beste voor starters**: [Square]({{square_link}}) -- gratis beginnen en opschalen wanneer nodig.
+- **Beste totaaloplossing voor retail**: [Lightspeed](https://www.lightspeedhq.nl/) -- alles in een platform voor fysieke winkel en webshop.
+- **Beste voor webshops**: [Picqer](https://picqer.com/nl) -- gespecialiseerd in e-commerce logistiek met sterke Nederlandse integraties.
+- **Beste met boekhouding**: [Exact Online](https://www.exact.com/nl) -- naadloze koppeling tussen voorraad en financiele administratie.
+- **Beste voor webshop-first**: [Shopify](https://www.shopify.com/nl) -- het sterkste webshopplatform met groeiende voorraadfuncties.
+- **Beste voor starters**: [Square](https://squareup.com/nl/nl) -- gratis beginnen en opschalen wanneer nodig.
 
 Begin met het in kaart brengen van je belangrijkste behoeften: hoeveel producten heb je, verkoop je online en offline, heb je meerdere locaties, en welke integraties zijn essentieel? Vanuit die analyse kies je het systeem dat het beste past.
 

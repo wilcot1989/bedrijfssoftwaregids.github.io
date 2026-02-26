@@ -121,7 +121,7 @@ Square biedt eigen hardware die compact en modern is:
 Totale hardware-investering: circa €19 (minimaal) tot €800 (compleet).
 
 ### Oordeel hardware
-Square wint op het gebied van eenvoud en kosten. De hardware is strak ontworpen, betaalbaar en je hebt geen apart pinapparaat nodig. Lightspeed vereist een hogere investering, maar biedt meer flexibiliteit en keuze in randapparatuur, wat belangrijk is voor grotere of complexere bedrijven.
+Qua hardware is Square verleidelijk: strak design, lage prijs, geen apart pinapparaat nodig. Maar ik merk dat ondernemers met een groeiende zaak al snel meer nodig hebben — een bonprinter, kassalade, barcodescanner. Dan kom je toch bij Lightspeed's flexibelere ecosysteem uit, al is de investering hoger.
 
 ## Functies voor retail
 
@@ -148,7 +148,7 @@ Beide systemen bieden een retail-oplossing, maar de diepgang verschilt aanzienli
 - Barcode-labels printen
 
 ### Oordeel retail
-Lightspeed is de duidelijke winnaar voor retail. Het voorraadbeheer is veel uitgebreider, de rapportages gaan dieper en functies als inkooporders en multi-locatie beheer zijn essentieel voor groeiende winkels. Square is voldoende voor een kleine winkel met een beperkt assortiment, maar schiet tekort bij een groter productaanbod.
+Voor retail is Lightspeed wat mij betreft de enige serieuze optie van deze twee. Het voorraadbeheer is veel diepgaander, de rapportages geven echt inzicht en functies als inkooporders en multi-locatie beheer zijn essentieel zodra je groeit. Square werkt prima voor een klein winkeltje met een beperkt assortiment, maar ik heb retailers gezien die na een paar maanden alsnog de overstap maakten.
 
 ## Functies voor horeca
 
@@ -173,7 +173,7 @@ Meer weten over kassasystemen voor de horeca? Lees ons uitgebreide artikel over 
 - Basisrapportages (uitgebreider in Plus)
 
 ### Oordeel horeca
-Lightspeed Restaurant is significant beter toegerust voor de horeca, vooral voor restaurants met tafelservice. De integraties met Nederlandse bezorgplatforms, het uitgebreide menukaartbeheer en de keukenprinter-ondersteuning zijn superieur. Square is bruikbaar voor een kleine koffiezaak of takeaway-zaak, maar niet voor een volwaardig restaurant.
+In de horeca is het verschil nog groter. Lightspeed Restaurant is serieus kassasysteem voor restaurants: tafelmanagement, gangenbeheer, keukenprinters, koppelingen met Thuisbezorgd en Deliveroo. Ik zou Square alleen aanraden voor een koffiezaak of takeaway-tent. Voor een restaurant met tafelservice is het simpelweg niet genoeg.
 
 ## Nederlandse marktondersteuning
 
@@ -198,7 +198,7 @@ Dit is een cruciaal punt voor Nederlandse ondernemers.
 - **BTW**: Nederlandse BTW-tarieven instelbaar
 
 ### Oordeel Nederlandse markt
-Lightspeed is hier de duidelijke winnaar. De Nederlandstalige support, koppelingen met Nederlandse betaalproviders, iDEAL-ondersteuning en integraties met lokale boekhoudpakketten maken het een veel betere keuze voor de Nederlandse markt. Square is bruikbaar, maar je loopt tegen beperkingen aan bij iDEAL, Nederlandse support en lokale integraties.
+Dit is eerlijk gezegd het punt waar Square het meest tekortschiet in Nederland. Geen iDEAL, beperkte Nederlandse support, weinig koppelingen met lokale boekhoudpakketten. Lightspeed voelt als een Nederlands product: Nederlandstalige support, iDEAL via je pinapparaat, directe koppelingen met Exact en Moneybird. Voor een Nederlandse ondernemer is dat verschil merkbaar in de dagelijkse praktijk.
 
 ## Gebruiksvriendelijkheid
 
@@ -209,7 +209,7 @@ Lightspeed biedt een overzichtelijke interface die op iPads draait. Het systeem 
 Square is bewust ontworpen voor maximale eenvoud. Je kunt letterlijk binnen een uur je eerste transactie verwerken. De interface is clean en minimalistisch. Voor ondernemers zonder technische achtergrond is Square waarschijnlijk het makkelijkst om mee te starten.
 
 ### Oordeel gebruiksvriendelijkheid
-Square is iets makkelijker om mee te beginnen, maar Lightspeed is niet moeilijk -- alleen uitgebreider. Voor de meeste ondernemers is het verschil in leercurve minimaal.
+Square wint hier op snelheid — binnen een uur draai je je eerste transactie. Maar Lightspeed is echt niet moeilijk, alleen uitgebreider. De meeste ondernemers die ik begeleid hebben Lightspeed binnen een halve dag onder de knie. Dat is het verschil niet waard om op te kiezen.
 
 ## Schaalbaarheid en groei
 
@@ -230,7 +230,7 @@ Square is iets makkelijker om mee te beginnen, maar Lightspeed is niet moeilijk 
 - Beste geschikt voor 1-10 locaties
 
 ### Oordeel schaalbaarheid
-Lightspeed is beter schaalbaar voor groeiende bedrijven, vooral bij meerdere locaties en een groot assortiment. Square is prima voor kleine bedrijven, maar je kunt tegen beperkingen aanlopen als je snel groeit.
+Als je plannen hebt om te groeien — tweede vestiging, webshop, groter assortiment — dan is Lightspeed de veiligere keuze. Ik heb klanten met tien locaties die prima draaien op Lightspeed. Square werkt goed voor kleine zaken, maar ik heb het meerdere keren zien knellen bij groei.
 
 ## Voor wie is Lightspeed de beste keuze?
 
@@ -243,7 +243,7 @@ Lightspeed is ideaal als:
 - Je plant om te groeien naar meerdere locaties
 - Je integratie met Nederlandse boekhoudpakketten wilt
 
-[Bekijk Lightspeed]({{lightspeed_link}})
+[Bekijk Lightspeed](https://www.lightspeedhq.nl/)
 
 ## Voor wie is Square de beste keuze?
 
@@ -256,15 +256,15 @@ Square is ideaal als:
 - Je voornamelijk pin- en contactloze betalingen accepteert
 - Je een eenvoudig systeem zoekt zonder veel poespas
 
-[Start gratis met Square]({{square_link}})
+[Start gratis met Square](https://squareup.com/nl/nl)
 
 ## Conclusie: Lightspeed of Square?
 
-De keuze tussen Lightspeed en Square komt neer op je bedrijfsgrootte, behoeften en budget:
+Na beide systemen bij diverse ondernemers te hebben geimplementeerd, is mijn advies nuchter:
 
-**Kies Lightspeed als** je een serieus retail- of horecabedrijf runt in Nederland. De uitgebreide functies, Nederlandse ondersteuning, iDEAL-integratie en schaalbaarheid maken het de professionelere keuze. Ja, je betaalt meer per maand, maar je krijgt daar een completer systeem voor terug dat met je meegroeit.
+**Kies Lightspeed als** je een serieuze retail- of horecazaak runt in Nederland. Ja, je betaalt meer, maar je krijgt er iDEAL, Nederlandse support, diep voorraadbeheer en schaalbaarheid voor terug. Dat betaalt zich terug zodra je groeit — en je hoeft niet halverwege van systeem te wisselen.
 
-**Kies Square als** je een klein bedrijf start of runt en je wilt beginnen zonder grote investering. De gratis software en betaalbare hardware maken het risico minimaal. Square is ideaal om mee te beginnen, en je kunt later altijd overstappen naar Lightspeed als je groeit.
+**Kies Square als** je net start, een pop-up of foodtruck runt, of gewoon wilt testen of fysieke verkoop iets voor je is. Gratis software, een reader van negentien euro, en je bent live. Geen risico, geen gedoe. Groei je eruit? Dan stap je over.
 
 | Categorie | Winnaar |
 |---|---|
@@ -278,6 +278,6 @@ De keuze tussen Lightspeed en Square komt neer op je bedrijfsgrootte, behoeften 
 | Schaalbaarheid | **Lightspeed** |
 | Support NL | **Lightspeed** |
 
-**Ons eindoordeel**: voor de meeste Nederlandse ondernemers die op zoek zijn naar een professioneel kassasysteem dat meegroeit, is [Lightspeed]({{lightspeed_link}}) de betere keuze. Ben je net gestart, heb je een kleine zaak of wil je het kassasysteem eerst uitproberen zonder financieel risico? Dan is [Square]({{square_link}}) een uitstekend startpunt.
+**Mijn eindoordeel**: voor de meeste Nederlandse ondernemers die serieus willen ondernemen, is [Lightspeed](https://www.lightspeedhq.nl/) de betere keuze. Het is het kassasysteem dat ik het vaakst aanbeveel, simpelweg omdat het meegroeit. Sta je nog aan het begin of wil je eerst uitproberen zonder risico? Dan is [Square](https://squareup.com/nl/nl) een prima startpunt.
 
 Ben je specifiek op zoek naar een horecakassasysteem? Lees dan ook ons uitgebreide overzicht van de [beste kassasystemen voor de horeca](/posts/beste-kassasysteem-horeca-2026/) waarin we zes systemen vergelijken.

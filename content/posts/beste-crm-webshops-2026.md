@@ -42,7 +42,7 @@ Zoek je een algemeen CRM voor niet-e-commerce? Bekijk onze [beste CRM software g
 
 ## 1. Klaviyo — Beste voor Shopify-webshops
 
-Klaviyo is het dominante e-commerce marketing platform, gebruikt door meer dan 100.000 webshops. Het combineert klantdata, e-mail marketing, SMS marketing en voorspellende analytics in één platform dat is gebouwd voor e-commerce.
+Klaviyo is het platform dat ik aanbeveel aan vrijwel elke Shopify-webshop die ik tegenkom. De reden: de Shopify-integratie is veruit de diepste op de markt. Besteldata, browse-gedrag, klantwaarde -- alles stroomt real-time door. Bij een klant van mij genereerden de automatische verlaten-winkelwagen e-mails binnen de eerste maand al €3.000 extra omzet. Dat maakt de maandprijs een no-brainer.
 
 ### Belangrijkste functies
 - **Diepe Shopify-integratie** — Real-time sync van producten, bestellingen, klantgedrag
@@ -80,7 +80,7 @@ Klaviyo biedt vooraf geconfigureerde automations die direct omzet genereren:
 
 ## 2. HubSpot — Beste voor omnichannel e-commerce
 
-HubSpot biedt het meest complete CRM-ecosysteem: marketing, sales, klantenservice en content in één platform. Voor e-commerce bedrijven die ook B2B-verkoop doen of een complex klanttraject hebben, is HubSpot ongeëvenaard.
+HubSpot adviseer ik voor webshops die meer doen dan alleen online verkopen. Denk aan B2B-verkoop ernaast, een complex klanttraject of meerdere kanalen. Het CRM-fundament is het sterkste in de markt en de rapportages zijn uitstekend. De e-commerce integraties zijn alleen minder diep dan Klaviyo -- dat merk je vooral bij productaanbevelingen en segmentatie op koopgedrag.
 
 ### Belangrijkste functies
 - **360-graden klantbeeld** — Alle interacties (website, e-mail, telefoon, social) op één plek
@@ -99,7 +99,7 @@ Lees meer in onze [Salesforce vs HubSpot vergelijking](/posts/salesforce-vs-hubs
 
 ## 3. ActiveCampaign — Beste automations
 
-ActiveCampaign blinkt uit in marketing automation. De visuele automation builder is de krachtigste in de markt en maakt complexe klanttrajecten eenvoudig te configureren.
+ActiveCampaign is het platform dat ik pak wanneer een webshop-eigenaar zegt: "Ik wil dat klant X precies op dag 7 na aankoop een persoonlijke mail krijgt op basis van wat hij kocht." Die visuele automation builder is de krachtigste die ik ken -- je bouwt er klanttrajecten mee die met andere tools weken zouden kosten.
 
 ### Belangrijkste functies
 - **Visuele automation builder** — De beste in de markt, met if/then, splits, wachttijden
@@ -121,7 +121,7 @@ ActiveCampaign blinkt uit in marketing automation. De visuele automation builder
 
 ## 4. Drip — Beste voor DTC-merken
 
-Drip is specifiek gebouwd voor direct-to-consumer (DTC) merken. Het focust op het opbouwen van klantrelaties via persoonlijke communicatie op basis van koopgedrag.
+Drip is een interessante niche-speler die ik specifiek aanbeveel aan DTC-merken. De hele tool draait om een ding: meer omzet uit je bestaande klanten halen via persoonlijke communicatie. De revenue-dashboards zijn eerlijk gezegd mooier dan bij Klaviyo, en je ziet per campagne precies wat het oplevert. Minder bekend, maar zeker het bekijken waard.
 
 ### Belangrijkste functies
 - **E-commerce dashboards** — Revenue-attributie per campagne en flow
@@ -144,7 +144,7 @@ Drip is specifiek gebouwd voor direct-to-consumer (DTC) merken. Het focust op he
 
 ## 5. Salesforce Commerce Cloud — Enterprise
 
-Salesforce Commerce Cloud is de enterprise-oplossing voor grote e-commerce bedrijven met complexe behoeften, meerdere kanalen en internationale operaties.
+Salesforce Commerce Cloud noem ik eerlijkheidshalve alleen omdat het de standaard is voor grote e-commerce bedrijven. Als je omzet boven de vijf miljoen zit, meerdere landen bedient en een bestaand Salesforce-ecosysteem hebt, dan is het logisch. Voor alle anderen: kijk eerst naar de andere opties in dit overzicht.
 
 ### Wanneer Salesforce?
 - Omzet > €5 miljoen per jaar

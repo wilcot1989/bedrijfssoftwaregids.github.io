@@ -90,7 +90,7 @@ De kosten zijn een van de grootste verschillen tussen Salesforce en HubSpot. Sal
 
 ### Sales functies
 
-Beide platformen bieden sterke sales-functionaliteit, maar met een andere aanpak.
+Beide platformen zijn sterk in sales, maar de aanpak verschilt fundamenteel. Salesforce is de F1-auto: ongelofelijk snel als je een team van monteurs hebt, maar je moet weten wat je doet. HubSpot is de Tesla: stap in en rijd.
 
 **Salesforce** blinkt uit in:
 - Complexe salesprocessen met meerdere stappen en goedkeuringsniveaus
@@ -129,13 +129,13 @@ Dit is waar HubSpot duidelijk wint voor het MKB.
 
 ## Gebruiksvriendelijkheid
 
-Dit is het grootste verschil dat je dagelijks merkt.
+Dit is waar ik het vaakst over spreek met klanten, en waar de keuze meestal valt.
 
-**HubSpot** is ontworpen met gebruiksvriendelijkheid als topprioriteit. Nieuwe medewerkers zijn doorgaans binnen een dag productief. De interface is modern, logisch ingedeeld, en alles is bereikbaar in maximaal 2-3 klikken.
+**HubSpot** is het CRM waar ik nieuwe medewerkers binnen een dag productief mee krijg. Moderne interface, logische navigatie, alles in 2-3 klikken bereikbaar. Teams adopteren het snel, en dat is cruciaal — een CRM dat niemand gebruikt is geldverspilling.
 
-**Salesforce** is krachtiger maar complexer. De meeste bedrijven hebben een Salesforce-admin nodig (part-time of full-time) om het systeem te beheren en aan te passen. Nieuwe gebruikers hebben doorgaans 1-2 weken training nodig om productief te zijn.
+**Salesforce** is een ander verhaal. Het is krachtiger, geen twijfel mogelijk. Maar ik heb bedrijven begeleid die een part-time of zelfs full-time Salesforce-admin moesten aannemen om het systeem draaiende te houden. Nieuwe gebruikers hebben 1-2 weken training nodig. Dat is een serieuze investering.
 
-**Mijn oordeel:** Voor teams zonder dedicated IT-support is HubSpot de duidelijke winnaar op gebruiksvriendelijkheid.
+**Mijn oordeel:** Voor teams zonder dedicated IT-support is HubSpot de duidelijke winnaar. Als je een admin hebt en complexe processen moet ondersteunen, is Salesforce die investering waard.
 
 ## Aanpasbaarheid & Integraties
 
@@ -188,11 +188,11 @@ Beide platformen integreren met de populairste zakelijke tools. De meest gevraag
 
 ## Verdict
 
-Voor het Nederlandse MKB raden wij in de meeste gevallen **HubSpot** aan. De combinatie van gebruiksvriendelijkheid, geïntegreerde marketing-functies en voorspelbare kosten maakt het de betere keuze voor bedrijven tot 200 medewerkers. Je bent sneller productief, hebt minder training nodig, en de totale kosten liggen 40-60% lager dan bij Salesforce.
+Na jarenlang beide platforms te implementeren is mijn advies helder: voor het Nederlandse MKB is **HubSpot** in de meeste gevallen de betere keuze. Niet omdat Salesforce slecht is — integendeel — maar omdat de meeste MKB-bedrijven die ik begeleid de kracht van Salesforce niet nodig hebben en wel verdrinken in de complexiteit. HubSpot is sneller opgezet, makkelijker te leren, en de kosten liggen 40-60% lager.
 
-**Salesforce** is de betere keuze voor grotere bedrijven (50+ salesgebruikers) met complexe processen, een dedicated IT-team, en de behoefte aan maximale aanpasbaarheid. Het is krachtiger, maar die kracht komt met een prijs — zowel financieel als qua complexiteit.
+**Salesforce** adviseer ik wanneer een bedrijf echt complexe processen heeft, een dedicated IT-team beschikbaar is, en er budget is voor implementatie en onderhoud. Bij 50+ salesgebruikers met geavanceerde rapportagebehoeften is het de enige serieuze optie.
 
-Twijfel je nog? Begin met het **gratis CRM van HubSpot** om te ervaren of het bij je past. Dat kost je niets en geeft je een realistisch beeld van het platform.
+Twijfel je nog? Begin met het **gratis CRM van HubSpot**. Dat kost je niets en geeft binnen een week een realistisch beeld van of het bij je past.
 
 ## Lees ook
 

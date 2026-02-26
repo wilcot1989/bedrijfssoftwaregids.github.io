@@ -42,7 +42,7 @@ Zoek je nog iets eenvoudigers? Bekijk dan eerst onze gids over de [beste boekhou
 
 ## 1. Exact Online — Populairste ERP voor Nederlands MKB
 
-Exact Online is met meer dan 675.000 gebruikers het meest gebruikte cloud-ERP systeem in de Benelux. Het is oorspronkelijk begonnen als boekhoudsoftware, maar heeft zich ontwikkeld tot een volwaardig ERP-platform met modules voor CRM, projectmanagement, voorraad en productie.
+Als een klant me vraagt "waar moet ik beginnen?", is Exact Online in 9 van de 10 gevallen mijn antwoord. Niet omdat het de meest geavanceerde software is, maar omdat vrijwel elke accountant in Nederland ermee werkt. Die afstemming met je boekhouder bespaart je op de lange termijn enorm veel gedoe. Met 675.000+ gebruikers is het ecosysteem ook het grootst: voor bijna elke koppeling bestaat een oplossing.
 
 ### Functies
 
@@ -80,7 +80,7 @@ Lees onze uitgebreide [Exact Online Review 2026](/posts/exact-online-review-2026
 
 ## 2. Afas Software — Alles-in-één voor Groeiende Bedrijven
 
-Afas Software is een Nederlands ERP-systeem dat zich onderscheidt door zijn brede functionaliteit, met name op het gebied van HR en salarisadministratie. Het is populair bij middelgrote bedrijven die alles in één platform willen.
+Bij bedrijven met 30+ medewerkers waar HR en salaris de grootste pijnpunten zijn, adviseer ik vaak Afas. De salarismodule is ronduit de sterkste die ik in Nederland ken -- en dat alles zit in hetzelfde systeem als je boekhouding en CRM. Die integratie scheelt enorm als je niet meer wilt overtypen tussen losse tools. Het is niet goedkoop, maar je krijgt er veel voor terug.
 
 ### Functies
 
@@ -118,7 +118,7 @@ Afas hanteert een abonnementsmodel op basis van het aantal medewerkers en gekoze
 
 ## 3. SAP Business One — Enterprise-kracht voor het MKB
 
-SAP Business One brengt de kracht van SAP naar het MKB. Het is geschikt voor bedrijven die robuuste functionaliteit nodig hebben op het gebied van financiën, voorraad, productie en CRM, maar niet de complexiteit (en kosten) van SAP S/4HANA willen.
+SAP Business One raad ik niet snel aan voor een bedrijf met 8 medewerkers, maar voor productie- en handelsbedrijven met serieuze voorraadstromen is het ijzersterk. Ik heb het ingezet bij een groothandel met drie magazijnen die real-time inzicht nodig had in voorraad en inkoop. De implementatie was intensief, maar het resultaat overtrof de verwachtingen. Dit is enterprise-kwaliteit in een MKB-jasje.
 
 ### Functies
 
@@ -153,7 +153,7 @@ SAP Business One brengt de kracht van SAP naar het MKB. Het is geschikt voor bed
 
 ## 4. Microsoft Dynamics 365 Business Central — Naadloze Microsoft-integratie
 
-Dynamics 365 Business Central (voorheen Navision) is de ERP-oplossing van Microsoft, ontworpen voor middelgrote bedrijven. Het grote voordeel: naadloze integratie met Microsoft 365, Teams, Outlook en Power BI.
+Als je bedrijf al draait op Microsoft 365, Teams en Outlook, dan is Dynamics 365 Business Central een logische keuze. Ik heb het geadviseerd bij een adviesbureau van 40 man waar alles al via Microsoft liep. De overstap was relatief soepel omdat het aansluit op wat ze al kenden. De Power BI-dashboards waren voor de directie de doorslaggevende factor.
 
 ### Functies
 
@@ -188,7 +188,7 @@ Dynamics 365 Business Central (voorheen Navision) is de ERP-oplossing van Micros
 
 ## 5. Odoo — Open-source ERP met Maximale Flexibiliteit
 
-Odoo is een open-source ERP dat opvalt door zijn modulaire opbouw en aantrekkelijke prijsmodel. Je kiest precies de modules die je nodig hebt, en de Community-editie is zelfs volledig gratis.
+Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een technisch team hebt dat niet bang is voor configuratie, krijg je hier het meeste ERP voor het minste geld. De Community-editie is gratis, en zelfs de betaalde cloud-versie kost een fractie van SAP of Dynamics. Ik heb het aangeraden bij een startup die maximale flexibiliteit wilde zonder vastgeketend te zitten aan dure licenties.
 
 ### Functies
 

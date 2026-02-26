@@ -40,7 +40,7 @@ Bij vrijwel elk MKB-bedrijf waar ik binnenkom, stel ik dezelfde vraag: "Waar sta
 
 ## 1. SharePoint — Beste voor Microsoft 365 gebruikers
 
-SharePoint is het DMS-platform van Microsoft, geïntegreerd in het Microsoft 365-ecosysteem. Als je team al met Word, Excel, Outlook en Teams werkt, is SharePoint de natuurlijke keuze.
+SharePoint is de keuze die ik maak voor bedrijven die al in Microsoft 365 zitten. De integratie met Teams, Word en Excel is gewoon onverslaanbaar -- elk Teams-kanaal heeft automatisch een SharePoint-site erachter. Maar ik waarschuw klanten ook: SharePoint is krachtig en complex. Zonder iemand die het goed inricht, wordt het al snel een rommeltje.
 
 ### Belangrijkste functies
 - **Documentbibliotheken** — Gestructureerde opslag met metadata en views
@@ -56,7 +56,7 @@ SharePoint is het DMS-platform van Microsoft, geïntegreerd in het Microsoft 365
 
 ## 2. Google Workspace — Beste voor MKB
 
-Google Workspace combineert Google Drive met Gmail, Google Docs, Sheets en Meet. Het is eenvoudig, snel en iedereen kent de interface.
+Google Workspace is het DMS dat ik het vaakst aanbeveel aan kleine teams. De reden is nuchter: iedereen kent Google Drive al, niemand heeft training nodig. Bij een MKB-klant van mij was de hele migratie in een middag klaar. Voor geavanceerd metadata-beheer of complexe workflows moet je elders zijn, maar voor 90% van de MKB-bedrijven is dit meer dan voldoende.
 
 ### Belangrijkste functies
 - **Google Drive** — Bestanden opslaan en delen, map-structuur
@@ -79,7 +79,7 @@ Google Workspace combineert Google Drive met Gmail, Google Docs, Sheets en Meet.
 
 ## 3. Dropbox Business — Beste voor extern delen
 
-Dropbox Business blinkt uit in samenwerking met externe partijen: klanten, leveranciers en freelancers. Het delen van bestanden en mappen is de beste in de markt.
+Dropbox Business is de tool die ik noem als een bedrijf zegt: "We delen constant bestanden met klanten en freelancers en dat moet makkelijker." Die externe samenwerking is waar Dropbox het verschil maakt. Smart Sync is ook briljant: bestanden lijken lokaal te staan maar nemen geen ruimte in tot je ze opent. Bij een architectenbureau dat ik hielp, bespaarde dat alleen al 200GB per laptop.
 
 ### Belangrijkste functies
 - **Smart Sync** — Bestanden op je computer zonder opslagruimte te gebruiken
@@ -100,7 +100,7 @@ Dropbox Business blinkt uit in samenwerking met externe partijen: klanten, lever
 
 ## 4. Box — Beste voor enterprise en compliance
 
-Box is een cloud-first DMS gericht op enterprise-bedrijven met strenge compliance-eisen. Het biedt de meest geavanceerde beveiliging en governance-functies.
+Box is het DMS dat ik alleen aanbeveel als compliance en beveiliging je topprioriteit zijn. Denk aan de zorgsector, financiele dienstverlening of overheid. De dreigingsdetectie met AI (Box Shield) en het onbeperkte opslagmodel zijn indrukwekkend. Maar voor een gemiddeld MKB-bedrijf is het overkill -- zowel in functies als in prijs.
 
 ### Belangrijkste functies
 - **Content Security** — Geavanceerde classificatie, DLP, watermarking
@@ -114,7 +114,7 @@ Box is een cloud-first DMS gericht op enterprise-bedrijven met strenge complianc
 
 ## 5. DocuWare — Beste voor workflow-automatisering
 
-DocuWare gaat verder dan opslaan: het automatiseert documentprocessen zoals factuurverwerking, contractbeheer en goedkeuringsworkflows.
+DocuWare is de keuze voor bedrijven waar documenten niet alleen opgeslagen maar ook verwerkt moeten worden. Ik heb het geadviseerd aan een bedrijf dat honderden inkoopfacturen per maand ontving -- de automatische herkenning en goedkeuringsflow bespaarden twee werkdagen per week. Maar de implementatie is complex en de kosten zijn hoog, dus het moet wel die schaal hebben.
 
 ### Wanneer DocuWare
 - Je verwerkt veel facturen (automatische herkenning en boeking)

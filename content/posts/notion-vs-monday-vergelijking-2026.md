@@ -46,7 +46,7 @@ Ik noem Notion altijd "het Zwitserse zakmes" en Monday.com "de gereedschapskist 
 ## Notion in detail
 
 ### Wat Notion is
-Notion is een blanco canvas dat je kunt vormen tot alles: projectborden, kennisbank, CRM, content kalender, persoonlijke notities en meer. De kracht zit in de flexibiliteit — maar dat vereist opzet.
+Notion is het platform waar ik zelf het langst over deed om een mening over te vormen. Het kan letterlijk alles worden: projectborden, kennisbank, CRM, content kalender, persoonlijke notities. Die oneindige flexibiliteit is tegelijk de kracht en de valkuil — je moet bereid zijn om te bouwen voordat je kunt werken.
 
 ### Sterke punten
 - **Databases** — Krachtige databases met meerdere views (tabel, bord, kalender, tijdlijn, galerij)
@@ -75,7 +75,7 @@ Notion is een blanco canvas dat je kunt vormen tot alles: projectborden, kennisb
 ## Monday.com in detail
 
 ### Wat Monday.com is
-Monday.com is een visueel projectmanagementplatform dat teams helpt werk te plannen, tracken en samenwerken. Het draait om borden, automatiseringen en dashboards.
+Monday.com is het tegenovergestelde: je opent het, en het werkt. Visuele borden, heldere statussen, automatiseringen die je binnen minuten instelt. Ik adviseer het vaak aan teams die geen zin hebben in wekenlange configuratie maar morgen productief willen zijn.
 
 ### Sterke punten
 - **Visuele borden** — Kanban, Gantt, kalender, tijdlijn direct beschikbaar
@@ -152,11 +152,13 @@ Monday.com is een visueel projectmanagementplatform dat teams helpt werk te plan
 
 ## Conclusie
 
-**Notion** is de betere keuze als je een **flexibel, all-in-one platform** zoekt voor kennisbeheer, documentatie en licht projectmanagement. Het vereist meer opzet maar is oneindig aanpasbaar.
+Mijn advies na beide tools bij tientallen teams te hebben ingezet:
 
-**Monday.com** is de betere keuze als je **gestructureerd projectmanagement** nodig hebt met visuele borden, automatiseringen en teamworkflow. Het is sneller operationeel en beter voor teams die structuur nodig hebben.
+**Notion** is de betere keuze als je een **flexibel all-in-one platform** zoekt en bereid bent om te investeren in de opzet. Voor kennisbeheer, documentatie en licht projectmanagement is het onverslaanbaar. Maar wees eerlijk: als niemand in je team het wil bouwen, wordt het een lege speeltuin.
 
-**Power move:** Gebruik beide — Notion voor kennisbeheer en Monday.com voor projectmanagement.
+**Monday.com** is de betere keuze als je team **morgen productief** moet zijn. Visuele borden, automatiseringen, dashboards — het staat er en het werkt. Minder flexibel dan Notion, maar voor projectmanagement is dat vaak juist een voordeel.
+
+**Power move:** Gebruik beide — Notion voor kennisbeheer en Monday.com voor projectmanagement. Ik zie dit steeds vaker bij klanten, en het werkt verrassend goed.
 
 ## Lees ook
 

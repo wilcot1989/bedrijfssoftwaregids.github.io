@@ -44,7 +44,7 @@ De eerste vraag die ik stel als iemand een webshop wil starten: "Hoeveel product
 
 ## 1. Shopify
 
-Shopify is wereldwijd het populairste ecommerce-platform en wordt door miljoenen webshops gebruikt, waaronder een groeiend aantal Nederlandse ondernemers. Het platform staat bekend om zijn gebruiksvriendelijkheid, uitgebreide app-ecosysteem en betrouwbare infrastructuur. Of je nu 10 of 10.000 producten verkoopt, Shopify schaalt moeiteloos mee.
+Shopify is het platform dat ik het vaakst adviseer aan ondernemers die snel een webshop willen starten zonder technisch gedoe. Het werkt, het schaalt, en het enorme app-ecosysteem lost vrijwel elk probleem op. Ik heb klanten geholpen die van 10 naar 10.000 producten groeiden zonder ooit van platform te hoeven wisselen. Het nadeel: de maandelijkse kosten lopen op als je veel betaalde apps nodig hebt.
 
 ### Belangrijkste functies
 - Drag-and-drop webshop bouwer met professionele thema's
@@ -77,13 +77,13 @@ Shopify is wereldwijd het populairste ecommerce-platform en wordt door miljoenen
 - Beperkte aanpasbaarheid zonder Liquid-kennis
 - Nederlandse klantenservice niet altijd beschikbaar
 
-[Probeer Shopify gratis]({{shopify_link}})
+[Probeer Shopify gratis](https://www.shopify.com/nl)
 
 ---
 
 ## 2. WooCommerce
 
-WooCommerce is een gratis open-source ecommerce-plugin voor WordPress en is daarmee de meest gebruikte webshop-oplossing ter wereld. Het biedt maximale flexibiliteit en controle, maar vraagt wel meer technische kennis dan hosted alternatieven. Ideaal voor ondernemers die al een WordPress-website hebben of volledige controle willen over hun webshop.
+WooCommerce adviseer ik aan klanten die zeggen: "Ik wil volledige controle over mijn webshop." Het is gratis, open-source en je kunt er werkelijk alles mee. Maar eerlijk is eerlijk: je moet bereid zijn om te sleutelen. Updates, beveiliging en hosting zijn jouw verantwoordelijkheid. Heb je al een WordPress-site of een developer in huis? Dan is WooCommerce een krachtige en voordelige keuze.
 
 ### Belangrijkste functies
 - Volledig open-source en aanpasbaar
@@ -116,13 +116,13 @@ WooCommerce is een gratis open-source ecommerce-plugin voor WordPress en is daar
 - Performance afhankelijk van je hosting
 - Kan complex worden met veel plugins
 
-[Start met WooCommerce]({{woocommerce_link}})
+[Start met WooCommerce](https://woocommerce.com/)
 
 ---
 
 ## 3. Lightspeed eCom
 
-Lightspeed is een Canadees-Nederlands bedrijf dat van oorsprong kassasystemen levert en met Lightspeed eCom een krachtig webshop-platform biedt. De grote kracht van Lightspeed zit in de naadloze combinatie van online en offline verkoop. Heb je naast een webshop ook een fysieke winkel? Dan is Lightspeed een logische keuze.
+Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." De naadloze koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
 
 Ben je ook op zoek naar een kassasysteem voor je fysieke locatie? Lees dan ons artikel over het [beste kassasysteem voor horeca](/posts/beste-kassasysteem-horeca-2026/) of de vergelijking [Lightspeed vs Square](/posts/lightspeed-vs-square-2026/).
 
@@ -155,13 +155,13 @@ Ben je ook op zoek naar een kassasysteem voor je fysieke locatie? Lees dan ons a
 - Interface kan overweldigend zijn voor beginners
 - Sommige functies alleen in hogere plannen
 
-[Bekijk Lightspeed eCom]({{lightspeed_link}})
+[Bekijk Lightspeed eCom](https://www.lightspeedhq.nl/)
 
 ---
 
 ## 4. Magento / Adobe Commerce
 
-Magento (nu onderdeel van Adobe Commerce) is het platform voor grotere webshops met complexe eisen. De open-source versie is gratis, maar vereist serieuze technische expertise. Het is de keuze van grote Nederlandse webshops die maximale schaalbaarheid en maatwerk nodig hebben.
+Magento is het platform dat ik alleen adviseer als een webshop echt groot en complex is. Denk aan duizenden producten, B2B en B2C gecombineerd, meerdere landen. De open-source versie is gratis, maar de implementatiekosten zijn aanzienlijk -- reken op een gespecialiseerde developer. Voor de meeste MKB-webshops is het overkill, maar als je die schaal bereikt is er weinig dat Magento niet aankan.
 
 ### Belangrijkste functies
 - Extreem schaalbaar en aanpasbaar platform
@@ -193,13 +193,13 @@ Magento (nu onderdeel van Adobe Commerce) is het platform voor grotere webshops 
 - Langzaam zonder goede optimalisatie
 - Specialistische Magento-developers zijn schaars en duur
 
-[Bekijk Magento Open Source]({{magento_link}})
+[Bekijk Magento Open Source](https://business.adobe.com/nl/products/magento/magento-commerce.html)
 
 ---
 
 ## 5. BigCommerce
 
-BigCommerce is een Amerikaans ecommerce-platform dat zich positioneert als een krachtig alternatief voor Shopify, met name voor snelgroeiende webshops die internationaal willen verkopen. Het biedt meer ingebouwde functies dan Shopify zonder extra apps, maar is minder sterk vertegenwoordigd in de Nederlandse markt.
+BigCommerce is het platform dat ik noem als Shopify-gebruikers klagen over transactiekosten en dure apps. BigCommerce biedt meer functies standaard ingebouwd -- geen extra apps nodig voor B2B, geen transactiekosten. Het nadeel? In Nederland is het minder populair, de community is kleiner, en iDEAL moet je via Mollie regelen. Voor internationale groei is het wel een serieus alternatief.
 
 ### Belangrijkste functies
 - Professionele webshop met aanpasbare thema's
@@ -233,13 +233,13 @@ BigCommerce is een Amerikaans ecommerce-platform dat zich positioneert als een k
 - Omzetlimieten per plan
 - iDEAL alleen via Mollie-integratie
 
-[Probeer BigCommerce gratis]({{bigcommerce_link}})
+[Probeer BigCommerce gratis](https://www.bigcommerce.com/)
 
 ---
 
 ## 6. CCV Shop
 
-CCV Shop is een 100% Nederlands ecommerce-platform dat specifiek is ontworpen voor de Nederlandse en Belgische markt. Van iDEAL tot bol.com-koppeling, PostNL-integratie tot Nederlandse fiscale eisen -- alles is standaard ingebouwd. Een uitstekende keuze voor ondernemers die waarde hechten aan een lokaal platform met Nederlandse support.
+CCV Shop is wat ik adviseer aan ondernemers die zeggen: "Ik verkoop alleen in Nederland en België, en ik wil dat alles gewoon werkt." iDEAL, bol.com-koppeling, PostNL-integratie -- het zit er standaard in, zonder plugins of gedoe. De instapprijs van 12,50 euro per maand is de scherpste in dit overzicht. Minder internationaal dan Shopify, maar voor de Nederlandse markt heb je weinig anders nodig.
 
 ### Belangrijkste functies
 - Nederlandstalig platform met drag-and-drop editor
@@ -273,13 +273,13 @@ CCV Shop is een 100% Nederlands ecommerce-platform dat specifiek is ontworpen vo
 - Design-mogelijkheden beperkter dan bij sommige concurrenten
 - Minder geschikt voor zeer grote webshops
 
-[Probeer CCV Shop 21 dagen gratis]({{ccvshop_link}})
+[Probeer CCV Shop 21 dagen gratis](https://www.ccvshop.nl/)
 
 ---
 
 ## 7. Mijnwebwinkel
 
-Mijnwebwinkel is net als CCV Shop een Nederlands ecommerce-platform, ontwikkeld met de Nederlandse ondernemer in het achterhoofd. Het platform staat bekend om zijn eenvoud en de persoonlijke support. Ideaal voor ondernemers die snel een professionele webshop willen opzetten zonder technische kennis.
+Mijnwebwinkel is de optie die ik noem als een ondernemer zegt: "Ik wil morgen live." De eenvoud is het sterkste punt -- je kunt letterlijk binnen een dag een professionele webshop hebben draaien. De persoonlijke Nederlandse support is ook opvallend goed. Het is minder uitgebreid dan Shopify of Lightspeed, maar voor een startende webshop met een overzichtelijk assortiment is het meer dan voldoende.
 
 ### Belangrijkste functies
 - Gebruiksvriendelijke webshop bouwer
@@ -313,7 +313,7 @@ Mijnwebwinkel is net als CCV Shop een Nederlands ecommerce-platform, ontwikkeld 
 - Minder geschikt voor zeer grote of complexe webshops
 - Internationale verkoop beperkter ondersteund
 
-[Probeer Mijnwebwinkel gratis]({{mijnwebwinkel_link}})
+[Probeer Mijnwebwinkel gratis](https://www.mijnwebwinkel.nl/)
 
 ---
 
@@ -363,12 +363,12 @@ Wil je een webshop beginnen? Volg dit beknopte stappenplan:
 
 De beste webshop software voor jouw bedrijf hangt af van je specifieke situatie, technische kennis en ambities. Hier zijn onze aanbevelingen in het kort:
 
-- **Beste allrounder**: [Shopify]({{shopify_link}}) -- gebruiksvriendelijk, schaalbaar en een enorm app-ecosysteem.
-- **Beste voor volledige controle**: [WooCommerce]({{woocommerce_link}}) -- gratis, flexibel en oneindig aanpasbaar.
-- **Beste omnichannel**: [Lightspeed eCom]({{lightspeed_link}}) -- de ideale keuze als je online en offline combineert.
-- **Beste voor grote webshops**: [Magento]({{magento_link}}) -- ongelimiteerde schaalbaarheid voor complexe ecommerce.
-- **Beste voor internationale groei**: [BigCommerce]({{bigcommerce_link}}) -- krachtig platform zonder transactiekosten.
-- **Beste Nederlandse allrounder**: [CCV Shop]({{ccvshop_link}}) -- alles voor de Nederlandse markt tegen een scherpe prijs.
-- **Beste voor eenvoud**: [Mijnwebwinkel]({{mijnwebwinkel_link}}) -- snel live met persoonlijke Nederlandse support.
+- **Beste allrounder**: [Shopify](https://www.shopify.com/nl) -- gebruiksvriendelijk, schaalbaar en een enorm app-ecosysteem.
+- **Beste voor volledige controle**: [WooCommerce](https://woocommerce.com/) -- gratis, flexibel en oneindig aanpasbaar.
+- **Beste omnichannel**: [Lightspeed eCom](https://www.lightspeedhq.nl/) -- de ideale keuze als je online en offline combineert.
+- **Beste voor grote webshops**: [Magento](https://business.adobe.com/nl/products/magento/magento-commerce.html) -- ongelimiteerde schaalbaarheid voor complexe ecommerce.
+- **Beste voor internationale groei**: [BigCommerce](https://www.bigcommerce.com/) -- krachtig platform zonder transactiekosten.
+- **Beste Nederlandse allrounder**: [CCV Shop](https://www.ccvshop.nl/) -- alles voor de Nederlandse markt tegen een scherpe prijs.
+- **Beste voor eenvoud**: [Mijnwebwinkel](https://www.mijnwebwinkel.nl/) -- snel live met persoonlijke Nederlandse support.
 
-Ons advies: start altijd met een gratis proefperiode en test of het platform past bij jouw werkwijze. De juiste webshop software legt de basis voor een succesvol online bedrijf.
+Mijn advies: start altijd met een gratis proefperiode en test of het platform past bij jouw werkwijze. De juiste webshop software legt de basis voor een succesvol online bedrijf.

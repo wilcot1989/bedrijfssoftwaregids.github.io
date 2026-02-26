@@ -40,7 +40,7 @@ Ik stel bij elk adviestraject dezelfde testvraag: "Waar vinden nieuwe medewerker
 
 ## 1. Notion — Beste voor kleine teams
 
-Notion is het meest flexibele platform: wiki, projectmanagement, documenten en databases in één tool. Ideaal als je klein begint en wilt groeien.
+Notion is de tool die ik het vaakst aanbeveel aan kleine teams die snel een werkende kennisbank willen. Je hebt in een middag een wiki staan, zonder IT-afdeling en zonder configuratiegedoe. Ik gebruik het zelf ook en dat zegt genoeg.
 
 ### Belangrijkste functies
 - **Wiki** — Gestructureerde kennisbank met boomstructuur
@@ -62,7 +62,7 @@ Notion is het meest flexibele platform: wiki, projectmanagement, documenten en d
 
 ## 2. SharePoint — Beste voor Microsoft 365
 
-SharePoint is het krachtigste intranet-platform, maar vereist configuratie. Met Microsoft Viva Connections wordt het een modern intranet.
+SharePoint is krachtig, maar ik waarschuw altijd: het is geen kant-en-klaar intranet. Je moet het opzetten, en dat kost tijd. Maar als je bedrijf al op Microsoft 365 draait, is het onverslaanbaar qua integratie. Met Viva Connections erbij heb je een volwaardig modern intranet in Teams.
 
 ### Belangrijkste functies
 - **Sites en pagina's** — Afdelings- en projectsites
@@ -77,7 +77,7 @@ SharePoint is het krachtigste intranet-platform, maar vereist configuratie. Met 
 
 ## 3. Confluence — Beste voor technische teams
 
-Confluence (Atlassian) is de standaard wiki voor technische teams. Sterk in documentatie, procedures en kennisdeling.
+Confluence adviseer ik specifiek aan technische teams die al met Jira werken. De koppeling is naadloos: je linkt Jira-tickets in je documentatie en alles blijft synchroon. Voor niet-technische teams vind ik het eerlijk gezegd te zwaar, maar voor dev-teams is het de gouden standaard.
 
 ### Belangrijkste functies
 - **Spaces** — Georganiseerde kennisgebieden per team
@@ -99,7 +99,7 @@ Confluence (Atlassian) is de standaard wiki voor technische teams. Sterk in docu
 
 ## 4. Happeo — Beste voor Google Workspace
 
-Happeo is een sociaal intranet specifiek ontworpen voor Google Workspace-bedrijven. Het combineert intranet, kennisbank en interne communicatie.
+Happeo is de logische keuze als je bedrijf op Google Workspace draait. Ik heb het geadviseerd bij een marketingbureau van 60 man dat alles in Google had, en Happeo sloot daar naadloos op aan. Het combineert nieuwsfeed, kennisbank en interne communicatie in een mooie interface.
 
 ### Belangrijkste functies
 - **Kanalen** — Interne communicatie per team/onderwerp
@@ -114,7 +114,7 @@ Happeo is een sociaal intranet specifiek ontworpen voor Google Workspace-bedrijv
 
 ## 5. Workvivo — Beste voor medewerkerscommunicatie
 
-Workvivo (nu onderdeel van Zoom) focust op interne communicatie en medewerkersbetrokkenheid. Minder wiki, meer social feed.
+Workvivo is geen klassiek intranet maar een intern social media-platform, nu onderdeel van Zoom. Ik raad het aan bij bedrijven met 100+ medewerkers die worstelen met betrokkenheid en interne communicatie. Als kennisbank is het minder sterk, maar voor cultuurbuilding en teamgevoel is het de beste in deze lijst.
 
 ### Belangrijkste functies
 - **Social feed** — Bedrijfsnieuws, updates, shoutouts

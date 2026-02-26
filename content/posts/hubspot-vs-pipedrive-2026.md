@@ -86,57 +86,57 @@ Pipedrive is bij vergelijkbare functionaliteit vaak **40-50% goedkoper** dan Hub
 
 ### Contactbeheer en pipeline management
 
-**HubSpot** biedt uitgebreid contactbeheer met een volledige tijdlijn van alle interacties, inclusief website-activiteit, e-mails, calls en social media. De pipeline is visueel en aanpasbaar, maar het systeem biedt veel meer dan alleen sales-functies, wat het soms onoverzichtelijk maakt.
+**HubSpot** geeft je een compleet beeld per contact: alle e-mails, websitebezoeken, calls, social media — alles in een tijdlijn. Dat is indrukwekkend, maar ik merk bij implementaties dat sales-teams soms verdwalen in al die informatie. De pipeline is visueel en aanpasbaar, maar het systeem doet zoveel meer dan sales dat het af en toe afleidt.
 
-**Pipedrive** is ontworpen rondom de visuele sales pipeline. Elke deal doorloopt duidelijke fases en het systeem helpt je actief om deals vooruit te bewegen. De focus op verkoop maakt het intuïtiever voor sales-teams, maar minder breed dan HubSpot.
+**Pipedrive** is gebouwd rondom die ene visuele pipeline, en dat merk je. Elke deal sleept door duidelijke fases, het systeem duwt je om de volgende actie te nemen. Sales-teams die ik ermee laat werken zijn binnen een uur productief. Minder breed dan HubSpot, maar voor pure verkoop is die focus juist een kracht.
 
 **Winnaar: gelijkspel** -- HubSpot is uitgebreider, Pipedrive is gerichter en overzichtelijker.
 
 ### E-mailmarketing en marketing automation
 
-**HubSpot** blinkt uit in marketing. Je kunt e-mailcampagnes opzetten, landing pages bouwen, lead nurturing flows creëren en alles meten in gedetailleerde rapportages. De marketing automation is een van de krachtigste op de markt, maar beschikbaar vanaf het Professional-plan (€90/gebruiker/maand).
+**HubSpot** is hier een klasse apart. E-mailcampagnes, landing pages, lead nurturing flows, gedetailleerde rapportages — als marketing een kernactiviteit is voor jouw bedrijf, is HubSpot wat je zoekt. Het enige nadeel: de serieuze marketing automation zit pas in het Professional-plan (€90/gebruiker/maand), en dat tikt door.
 
-**Pipedrive** biedt basale e-mailfuncties en heeft een Campaigns-add-on voor nieuwsbrieven. Het is geschikt voor eenvoudige sales-e-mails, maar komt niet in de buurt van HubSpot's marketingmogelijkheden.
+**Pipedrive** heeft een Campaigns-add-on voor nieuwsbrieven en basale e-mailfuncties. Prima voor een maandelijkse update naar je leads, maar verwacht geen marketing-powerhouse. Als je serieuze campagnes wilt draaien, kom je hier tekort.
 
 **Winnaar: HubSpot** -- veruit de betere keuze voor marketing.
 
 ### Sales automatisering
 
-**HubSpot** biedt workflows en sequences waarmee je terugkerende taken automatiseert. Je kunt automatisch e-mails sturen, taken aanmaken en deals verplaatsen op basis van triggers. De geavanceerde automatiseringen zijn echter pas beschikbaar vanaf het Professional-plan.
+**HubSpot** biedt workflows en sequences die behoorlijk krachtig zijn — automatisch e-mails sturen, taken aanmaken, deals verplaatsen op basis van triggers. Maar hier komt het pijnpunt: die geavanceerde automatiseringen zitten pas in het Professional-plan. Voor €90 per gebruiker per maand, dat is een flinke investering.
 
-**Pipedrive** maakt automatiseringen al toegankelijk vanaf het Advanced-plan (€27,90). Je kunt workflows instellen met triggers en acties, e-mails automatisch versturen en taken toewijzen. De interface voor automatisering is eenvoudig en visueel.
+**Pipedrive** maakt automatiseringen al toegankelijk vanaf het Advanced-plan (€27,90). De workflow-builder is visueel en eenvoudig — ik heb salesmanagers zonder technische achtergrond binnen een halfuur hun eerste automatisering zien opzetten. Niet zo diep als HubSpot, maar voor de meeste teams meer dan voldoende.
 
 **Winnaar: Pipedrive** -- niet per se krachtiger, maar betaalbaarder en toegankelijker.
 
 ### Rapportages en analytics
 
-**HubSpot** biedt indrukwekkende rapportagemogelijkheden, van standaarddashboards tot volledig aangepaste rapporten. Je kunt sales-, marketing- en servicedata combineren voor een compleet beeld. De krachtigste rapportages zijn wel voorbehouden aan duurdere plannen.
+**HubSpot** levert indrukwekkende dashboards waarin je sales-, marketing- en servicedata kunt combineren. Voor management dat het grote plaatje wil zien, is dat goud waard. Maar let op: de echt krachtige rapportages zijn voorbehouden aan de duurdere plannen.
 
-**Pipedrive** biedt solide rapportages in alle plannen, inclusief pipeline-analyses, activiteitsrapportages en omzetvoorspellingen. Vanaf het Professional-plan zijn er geavanceerde custom rapportages beschikbaar.
+**Pipedrive** biedt solide rapportages in alle plannen: pipeline-analyses, activiteitsrapportages, omzetvoorspellingen. Het is minder diep dan HubSpot, maar ik merk dat de meeste salesteams met Pipedrive's rapportages prima uit de voeten kunnen. Vanaf Professional komen er custom rapportages bij.
 
 **Winnaar: HubSpot** -- diepere en bredere rapportagemogelijkheden, maar tegen een hogere prijs.
 
 ### Integraties
 
-**HubSpot** heeft een marketplace met meer dan 1.500 integraties, waaronder koppelingen met vrijwel elke populaire tool: van Slack en Zoom tot Exact Online en Moneybird.
+**HubSpot** heeft een marketplace met 1.500+ integraties. Van Slack en Zoom tot Exact Online en Moneybird — de kans is groot dat je favoriete tool erbij zit. Dat ecosysteem is een serieus voordeel.
 
-**Pipedrive** biedt circa 400 integraties en heeft een open API voor maatwerkoplossingen. De meest gangbare tools zijn beschikbaar, maar het aanbod is beperkter dan HubSpot.
+**Pipedrive** biedt circa 400 integraties plus een open API voor maatwerkoplossingen. In de praktijk heb ik zelden meegemaakt dat een klant een koppeling miste — de meest gangbare tools zijn beschikbaar. Maar HubSpot heeft hier objectief gezien meer te bieden.
 
 **Winnaar: HubSpot** -- meer keuze in integraties.
 
 ### Gebruiksvriendelijkheid
 
-**HubSpot** is goed ontworpen, maar de rijkdom aan functies maakt het leerproces langer. Nieuwe gebruikers kunnen overweldigd raken door de hoeveelheid opties, tabbladen en instellingen. De HubSpot Academy biedt wel uitstekende gratis trainingen.
+**HubSpot** is goed ontworpen, maar ik merk bij implementaties dat nieuwe gebruikers soms overweldigd raken. Zoveel tabbladen, zoveel opties — het kost een paar weken voordat iedereen comfortabel werkt. De HubSpot Academy helpt enorm, maar reken op een investering in training.
 
-**Pipedrive** wordt consequent geprezen om zijn intuïtieve interface. De meeste teams zijn binnen een dag productief. De visuele pipeline-aanpak maakt het systeem direct begrijpelijk en de leercurve is minimaal.
+**Pipedrive** is het CRM waarbij ik het minste weerstand ervaar bij teams. De meeste mensen snappen het binnen een uur, en na een dag werkt iedereen zelfstandig. Die lage drempel is geen detail — het maakt het verschil tussen een CRM dat daadwerkelijk wordt gebruikt en een dat na drie maanden stof vangt.
 
 **Winnaar: Pipedrive** -- eenvoudiger, sneller te leren, hogere adoptie in teams.
 
 ### Mobiele app
 
-**HubSpot** biedt een uitgebreide mobiele app waarmee je contacten beheert, deals bijwerkt, e-mails verstuurt en rapportages bekijkt. De app is functioneel maar kan traag aanvoelen bij grote datasets.
+**HubSpot** heeft een uitgebreide mobiele app — contacten, deals, e-mails, rapportages, het zit er allemaal in. Functioneel, maar ik hoor regelmatig van gebruikers dat de app traag aanvoelt, vooral bij grote datasets.
 
-**Pipedrive** heeft een snelle, overzichtelijke mobiele app met offline functionaliteit. Je kunt bellen, e-mailen en deals bijwerken vanuit de app. De app krijgt consistent hoge reviews in de App Store en Google Play.
+**Pipedrive** heeft een van de beste mobiele CRM-apps die ik ken. Snel, overzichtelijk, met offline functionaliteit. Voor verkopers die veel onderweg zijn, is dit een serieus pluspunt. Niet voor niets consistent hoge reviews in de App Store en Google Play.
 
 **Winnaar: Pipedrive** -- snellere, meer gefocuste mobiele ervaring.
 
@@ -159,7 +159,7 @@ HubSpot is het meest geschikt voor bedrijven die:
 - **Grotere teams hebben** (20+ medewerkers) die profiteren van het brede ecosysteem
 - **Veel integraties nodig hebben** met diverse tools en platformen
 
-[Start gratis met HubSpot CRM]({{hubspot_link}})
+[Start gratis met HubSpot CRM](https://www.hubspot.com/nl)
 
 ## Voor wie is Pipedrive de beste keuze?
 
@@ -172,7 +172,7 @@ Pipedrive is het meest geschikt voor bedrijven die:
 - **Visueel pipeline management** als prioriteit zien
 - **Hoge adoptie in het team** belangrijk vinden vanwege het gebruiksgemak
 
-[Probeer Pipedrive 14 dagen gratis]({{pipedrive_link}})
+[Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
 
 ## Migratietips: overstappen van HubSpot naar Pipedrive (of andersom)
 
@@ -197,12 +197,12 @@ Lees onze [volledige vergelijking van de beste CRM software](/posts/beste-crm-so
 
 ## Conclusie: HubSpot of Pipedrive?
 
-De keuze tussen HubSpot en Pipedrive komt neer op je prioriteiten:
+Na tientallen implementaties van beide platforms is mijn advies helder:
 
-**Kies HubSpot als** je een compleet platform wilt dat marketing, sales en service combineert, en je bereid bent te investeren in de betaalde plannen om het maximale eruit te halen. Het gratis plan is een uitstekend startpunt, maar de echte kracht zit in de betaalde versies.
+**Kies HubSpot als** marketing en sales bij jullie hand in hand gaan. De kracht van HubSpot zit in die combinatie — lead nurturing, campagnes en sales in een platform. Het gratis plan is een prima startpunt, maar investeer in de betaalde versies om er echt iets aan te hebben.
 
-**Kies Pipedrive als** je een gefocust, gebruiksvriendelijk sales-CRM wilt dat je team direct kan gebruiken zonder weken training. Pipedrive biedt de beste prijs-kwaliteitverhouding voor MKB-bedrijven die hun verkoopproces willen stroomlijnen.
+**Kies Pipedrive als** verkopen je corebusiness is en je team morgen productief moet zijn. Geen weken training, geen overweldigende feature-lijsten — gewoon een CRM dat doet wat het moet doen, en dat betaalbaar.
 
-**Mijn aanbeveling voor het gemiddelde Nederlandse MKB-bedrijf**: [Pipedrive]({{pipedrive_link}}). De combinatie van gebruiksvriendelijkheid, betaalbare prijzen en sterke sales-functies maakt het de ideale keuze voor de meeste bedrijven. Alleen als marketing automation een kernbehoefte is, raden we [HubSpot]({{hubspot_link}}) aan.
+**Mijn aanbeveling voor het gemiddelde Nederlandse MKB-bedrijf**: [Pipedrive](https://www.pipedrive.com/nl). Ik zie het keer op keer: teams die met Pipedrive starten, gebruiken het ook daadwerkelijk. En een CRM dat wordt gebruikt is altijd beter dan een CRM dat alles kan maar waar niemand in werkt. Alleen als marketing automation een kernbehoefte is, wijs ik naar [HubSpot](https://www.hubspot.com/nl).
 
 Start vandaag nog met een gratis proefperiode en ontdek welke CRM het beste werkt voor jouw team.

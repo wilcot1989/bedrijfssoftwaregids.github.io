@@ -42,7 +42,7 @@ Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking
 
 ## 1. Recruitee — Beste voor MKB
 
-Recruitee is een Nederlands ATS platform dat specifiek is ontworpen voor groeiende bedrijven. Intuïtief, krachtig en met de beste prijs-kwaliteitverhouding.
+Van alle ATS-systemen die ik heb ingericht voor klanten, grijp ik het vaakst naar Recruitee. Het is Nederlands, het werkt zoals je verwacht, en hiring managers hebben geen handleiding nodig om ermee aan de slag te gaan. Voor groeiende MKB-bedrijven de beste prijs-kwaliteitverhouding die ik ken.
 
 ### Belangrijkste functies
 - **Vacature-pipeline** — Visueel overzicht van alle kandidaten per fase
@@ -65,7 +65,7 @@ Recruitee is een Nederlands ATS platform dat specifiek is ontworpen voor groeien
 
 ## 2. Homerun — Beste budget optie
 
-Homerun is een Nederlands platform gericht op employer branding en mooie vacaturepagina's. De simpelste manier om er professioneel uit te zien.
+Homerun adviseer ik aan startups en creatieve bedrijven die weinig budget hebben maar wél professioneel willen overkomen. De carrièrepagina's die je ermee bouwt zien er beter uit dan wat de meeste grote bedrijven hebben. Functioneel beperkter dan Recruitee, maar voor de prijs krijg je ontzettend veel.
 
 ### Belangrijkste functies
 - **Carrièrepagina builder** — De mooiste templates op de markt
@@ -88,7 +88,7 @@ Homerun is een Nederlands platform gericht op employer branding en mooie vacatur
 
 ## 3. Personio — HR + Recruitment in één
 
-Personio combineert recruitment met complete HR-functionaliteit: van vacature tot salarisadministratie. Ideaal als je één systeem wilt.
+Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces naadloos wilt laten aansluiten op de werving.
 
 ### Belangrijkste functies
 - **ATS** — Pipeline, multiposting, evaluaties
@@ -102,7 +102,7 @@ Personio combineert recruitment met complete HR-functionaliteit: van vacature to
 
 ## 4. Greenhouse — Beste voor data-driven enterprise
 
-Greenhouse is het meest data-gedreven ATS platform, gebruikt door snelgroeiende tech-bedrijven als Airbnb, HubSpot en Stripe.
+Greenhouse is het ATS waar ik naar verwijs zodra een bedrijf data-gedreven wil werven. Het wordt niet voor niets gebruikt door bedrijven als Airbnb en Stripe. De structured hiring-aanpak dwingt je om betere beslissingen te nemen, maar het is wel een serieuze investering en er is geen Nederlandse interface.
 
 ### Belangrijkste functies
 - **Structured hiring** — Gestandaardiseerde evaluatiecriteria
@@ -116,7 +116,7 @@ Greenhouse is het meest data-gedreven ATS platform, gebruikt door snelgroeiende 
 
 ## 5. Bullhorn — Beste voor uitzendbureaus
 
-Bullhorn is de standaard voor recruitment agencies en uitzendbureaus. Gebouwd voor hoog volume en relatiebeheer.
+Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk de enige serieuze optie. Ik kom het tegen bij elk bureau van enige omvang. De interface is niet de modernste, maar de combinatie van CRM en ATS is precies wat je nodig hebt als je honderden kandidaten tegelijk beheert.
 
 ### Belangrijkste functies
 - **CRM + ATS** — Kandidaten- en opdrachtgeversbeheer

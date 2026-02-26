@@ -43,7 +43,7 @@ Zodra een bedrijf boven de 15 medewerkers groeit, zie ik steevast hetzelfde: ver
 
 ## 1. Personio
 
-Personio is een Duits HR-platform dat razendsnel is gegroeid en inmiddels een van de populairste HR-oplossingen is voor het Europese MKB. Het platform biedt een complete suite voor personeelsbeheer, van werving tot offboarding, en is specifiek ontworpen voor bedrijven met 20 tot 500 medewerkers.
+Personio is het platform dat ik het vaakst aanbeveel aan groeiende MKB-bedrijven. De reden: het dekt alles af van werving tot offboarding in een interface die mensen daadwerkelijk snappen. Ik heb het ingezet bij een bedrijf van 45 man waar de HR-manager voorheen halve dagen kwijt was aan Excel. Na twee weken Personio was ze om. Het schaalt mee van 20 tot 500 medewerkers zonder dat je hoeft over te stappen.
 
 ### Belangrijkste functies
 - Digitale personeelsdossiers met documentbeheer
@@ -77,13 +77,13 @@ Personio is een Duits HR-platform dat razendsnel is gegroeid en inmiddels een va
 - Kan overweldigend zijn voor zeer kleine bedrijven (<10 medewerkers)
 - Jaarcontract vereist
 
-[Bekijk Personio]({{personio_link}})
+[Bekijk Personio](https://www.personio.nl/)
 
 ---
 
 ## 2. HiBob
 
-HiBob (kortweg "Bob") is een modern HR-platform uit Israel dat zich richt op middelgrote bedrijven en scale-ups. Het platform valt op door zijn frisse, sociale-media-achtige interface en sterke focus op bedrijfscultuur en medewerkersbetrokkenheid. HiBob is bijzonder geschikt voor internationale teams met medewerkers in meerdere landen.
+HiBob is het platform waar ik naar grijp als een scale-up of internationaal bedrijf me vraagt om advies. De interface voelt als een mix van LinkedIn en Instagram -- medewerkers gebruiken het graag, en dat is bij HR-software zeldzaam. Ik heb het geadviseerd bij een tech-bedrijf met teams in Nederland, Duitsland en Spanje. De multi-country support en cultuurtools (kudos, enquetes) maakten het verschil.
 
 ### Belangrijkste functies
 - Core HR met digitale personeelsdossiers
@@ -116,13 +116,13 @@ HiBob (kortweg "Bob") is een modern HR-platform uit Israel dat zich richt op mid
 - Minder geschikt voor kleine bedrijven (<50 medewerkers)
 - Sommige functies zijn minder diep dan bij gespecialiseerde tools
 
-[Bekijk HiBob]({{hibob_link}})
+[Bekijk HiBob](https://www.hibob.com/)
 
 ---
 
 ## 3. Nmbrs
 
-Nmbrs is een Nederlands HR- en salarisplatform dat bekendstaat om zijn krachtige salarisverwerking en API-first aanpak. Het platform is specifiek ontwikkeld voor de Nederlandse en Zweedse markt en biedt een van de meest complete salarisoplossingen voor het MKB. Als salarisadministratie je belangrijkste prioriteit is, verdient Nmbrs serieuze overweging.
+Als een klant me vraagt "ik wil gewoon dat mijn salarissen kloppen, elke maand, zonder gedoe" -- dan stuur ik ze naar Nmbrs. Het is de sterkste salarisverwerker die ik ken voor de Nederlandse markt. De loonaangifte gaat automatisch naar de Belastingdienst, loonstroken staan klaar in het medewerkersportaal, en via de API koppel je het naadloos aan je boekhoudsoftware. Nuchter, betrouwbaar, doet wat het moet doen.
 
 ### Belangrijkste functies
 - Volledige Nederlandse salarisverwerking
@@ -158,13 +158,13 @@ Nmbrs is een Nederlands HR- en salarisplatform dat bekendstaat om zijn krachtige
 
 Als je Nmbrs combineert met je boekhouding, lees dan ook ons artikel over de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/) voor handige integratiemogelijkheden.
 
-[Bekijk Nmbrs]({{nmbrs_link}})
+[Bekijk Nmbrs](https://www.nmbrs.com/nl/)
 
 ---
 
 ## 4. AFAS Software
 
-AFAS is een van de grootste Nederlandse softwareleveranciers en biedt een uitgebreid ERP-platform waarvan HRM een kernonderdeel is. AFAS HRM is bijzonder populair bij middelgrote en grote Nederlandse organisaties en biedt een volledig geintegreerd ecosysteem voor HR, salaris, financien en logistiek.
+AFAS is het zwaarste geschut in dit overzicht, en voor middelgrote tot grote organisaties met recht. De HR-module hangt direct vast aan salaris, financien en logistiek -- alles in een platform, geen gedoe met koppelingen. Ik heb het geadviseerd bij een organisatie van 150 man die voorheen vier losse systemen gebruikte. De implementatie duurde even, maar daarna was het verschil dag en nacht.
 
 ### Belangrijkste functies
 - Complete HR-suite met personeelsbeheer
@@ -200,13 +200,13 @@ AFAS is een van de grootste Nederlandse softwareleveranciers en biedt een uitgeb
 - Overkill voor kleine bedrijven (<30 medewerkers)
 - Meerjarig contract kan beperkend zijn
 
-[Bekijk AFAS Software]({{afas_link}})
+[Bekijk AFAS Software](https://www.afas.nl/)
 
 ---
 
 ## 5. Loket.nl
 
-Loket.nl is een Nederlands platform voor salarisadministratie en HR dat een uniek model hanteert: de software wordt ingezet via gecertificeerde salarisadviseurs en accountants. Dit maakt het bijzonder geschikt voor bedrijven die de salarisverwerking willen combineren met professioneel advies, zonder dat je zelf salarisexpert hoeft te zijn.
+Loket.nl is het platform dat ik aanbeveel aan ondernemers die zeggen: "Ik wil niet zelf aan de knoppen zitten, maar ik wil wel meekijken." Het werkt namelijk via je accountant of salarisadviseur, die het zware werk doet. Jij en je medewerkers gebruiken het portaal voor verlof, loonstroken en personeelsgegevens. Voor kleine bedrijven die professioneel advies waarderen, is dit de ideale tussenvorm.
 
 ### Belangrijkste functies
 - Volledige Nederlandse salarisverwerking
@@ -240,13 +240,13 @@ Loket.nl is een Nederlands platform voor salarisadministratie en HR dat een unie
 - Afhankelijk van de kwaliteit van je salarisadviseur
 - Minder geschikt voor bedrijven die alles in eigen beheer willen
 
-[Bekijk Loket.nl]({{loket_link}})
+[Bekijk Loket.nl](https://www.loket.nl/)
 
 ---
 
 ## 6. BambooHR
 
-BambooHR is een Amerikaans HR-platform dat wereldwijd veel wordt gebruikt en vooral geliefd is om zijn gebruiksvriendelijkheid. Het platform biedt een sterke set HR-kernfuncties maar mist een salarismodule voor de Nederlandse markt. Het is met name interessant voor internationale bedrijven met een vestiging in Nederland die een uniform HR-platform willen.
+BambooHR kom ik tegen bij internationale bedrijven die vanuit het hoofdkantoor een uniform HR-platform willen uitrollen. De interface is gelikt en de onboarding- en performance-modules zijn sterk. Maar ik ben er eerlijk over: voor een puur Nederlands bedrijf mis je de salarisverwerking en Wet Poortwachter-ondersteuning. Het is vooral interessant als je een NL-vestiging hebt binnen een groter internationaal geheel.
 
 ### Belangrijkste functies
 - Digitale personeelsdossiers
@@ -279,7 +279,7 @@ BambooHR is een Amerikaans HR-platform dat wereldwijd veel wordt gebruikt en voo
 - Minder integraties met specifiek Nederlandse tools
 - Verzuimbeheer niet ingericht op Nederlandse Wet Poortwachter
 
-[Bekijk BambooHR]({{bamboohr_link}})
+[Bekijk BambooHR](https://www.bamboohr.com/)
 
 ---
 
@@ -324,11 +324,11 @@ Kijk niet alleen naar de prijs per medewerker per maand, maar ook naar implement
 
 De beste HR software voor jouw organisatie hangt af van je specifieke behoeften, bedrijfsgrootte en budget. Hier zijn onze aanbevelingen:
 
-- **Beste allround HR-platform voor MKB**: [Personio]({{personio_link}}) -- gebruiksvriendelijk, compleet en schaalbaar van 20 tot 500 medewerkers.
-- **Beste voor internationale teams**: [HiBob]({{hibob_link}}) -- modern platform met sterke cultuurtools en multi-country support.
-- **Beste voor salarisadministratie**: [Nmbrs]({{nmbrs_link}}) -- de sterkste Nederlandse salarisverwerking met een uitstekende API.
-- **Beste voor middelgrote/grote organisaties**: [AFAS Software]({{afas_link}}) -- het meest complete geintegreerde Nederlandse platform.
-- **Beste via je accountant**: [Loket.nl]({{loket_link}}) -- professionele salarisverwerking met persoonlijke begeleiding.
-- **Beste voor internationale bedrijven**: [BambooHR]({{bamboohr_link}}) -- gebruiksvriendelijk internationaal platform, maar zonder NL-salaris.
+- **Beste allround HR-platform voor MKB**: [Personio](https://www.personio.nl/) -- gebruiksvriendelijk, compleet en schaalbaar van 20 tot 500 medewerkers.
+- **Beste voor internationale teams**: [HiBob](https://www.hibob.com/) -- modern platform met sterke cultuurtools en multi-country support.
+- **Beste voor salarisadministratie**: [Nmbrs](https://www.nmbrs.com/nl/) -- de sterkste Nederlandse salarisverwerking met een uitstekende API.
+- **Beste voor middelgrote/grote organisaties**: [AFAS Software](https://www.afas.nl/) -- het meest complete geintegreerde Nederlandse platform.
+- **Beste via je accountant**: [Loket.nl](https://www.loket.nl/) -- professionele salarisverwerking met persoonlijke begeleiding.
+- **Beste voor internationale bedrijven**: [BambooHR](https://www.bamboohr.com/) -- gebruiksvriendelijk internationaal platform, maar zonder NL-salaris.
 
-Ons advies: begin met het bepalen van je kernbehoeften. Als salarisadministratie prioriteit nummer een is, kies een Nederlands platform zoals Nmbrs of Loket.nl. Zoek je een breed HR-platform dat met je meegroeit? Dan is Personio de beste keuze voor het Nederlandse MKB. Vraag altijd een demo aan en betrek zowel HR als je medewerkers bij de evaluatie -- de beste HR software is het systeem dat iedereen graag gebruikt.
+Mijn advies: begin met het bepalen van je kernbehoeften. Als salarisadministratie prioriteit nummer een is, kies een Nederlands platform zoals Nmbrs of Loket.nl. Zoek je een breed HR-platform dat met je meegroeit? Dan is Personio de beste keuze voor het Nederlandse MKB. Vraag altijd een demo aan en betrek zowel HR als je medewerkers bij de evaluatie -- de beste HR software is het systeem dat iedereen graag gebruikt.

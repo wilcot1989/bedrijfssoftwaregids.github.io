@@ -43,9 +43,7 @@ Het klinkt simpel -- een factuur versturen -- maar ik spreek regelmatig ondernem
 
 ## 1. Moneybird
 
-Moneybird is de onbetwiste favoriet van het Nederlandse MKB als het gaat om facturatie software. Het platform combineert een frisse, moderne interface met precies die functies die je als ondernemer nodig hebt. Geen overbodige complexiteit, maar wel alles wat je verwacht: facturen, offertes, BTW-aangifte en bankkoppelingen.
-
-Wat Moneybird onderscheidt, is de balans tussen eenvoud en volledigheid. Je kunt binnen een kwartier je eerste factuur versturen, maar het platform groeit mee als je bedrijf groeit. Van je eerste offerte tot je kwartaal-BTW-aangifte: Moneybird regelt het.
+Moneybird is het pakket dat ik het vaakst aanbeveel, en dat komt door een ding: het werkt gewoon. Ik heb ondernemers binnen een kwartier hun eerste factuur zien versturen, inclusief eigen logo en automatische BTW-berekening. Geen handleiding nodig, geen telefoontje naar support. En toch groeit het mee: bankkoppeling, BTW-aangifte, offertes -- het zit er allemaal in zonder dat het complex wordt.
 
 ### Belangrijkste functies
 - Professionele facturen met eigen huisstijl
@@ -82,15 +80,13 @@ Wat Moneybird onderscheidt, is de balans tussen eenvoud en volledigheid. Je kunt
 
 Ben je ZZP'er? Lees dan ook ons artikel over de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/) voor een vergelijking die specifiek op jouw situatie is gericht.
 
-[Probeer Moneybird gratis]({{moneybird_link}})
+[Probeer Moneybird gratis](https://www.moneybird.nl/)
 
 ---
 
 ## 2. Exact Online
 
-Exact Online is het zwaargewicht onder de Nederlandse boekhoudsoftware en biedt een compleet platform voor facturatie, boekhouding en bedrijfsvoering. Als je bedrijf groeit en je behoeften complexer worden, is Exact Online een logische keuze. Het platform wordt gebruikt door meer dan 600.000 bedrijven wereldwijd en is diep geworteld in de Nederlandse zakelijke markt.
-
-De facturatiemodule van Exact is uitgebreid: van eenvoudige facturen tot complexe facturatieregels met meerdere BTW-tarieven, afdelingsboekingen en projectfacturatie. De echte kracht zit in de integratie met de volledige boekhoudmodule, waardoor je een compleet financieel overzicht hebt.
+Exact Online is niet het makkelijkste pakket op deze lijst, maar wel het meest complete. Ik adviseer het aan MKB-bedrijven die doorgroeien en merken dat Moneybird of Jortt niet meer voldoet. De facturatie is uitgebreid -- meerdere BTW-tarieven, projectfacturatie, afdelingsboekingen -- en alles stroomt direct door naar een volledige boekhouding. Plus: je accountant werkt er vrijwel zeker al mee.
 
 ### Belangrijkste functies
 - Professionele facturen met automatische BTW-berekening
@@ -129,15 +125,13 @@ De facturatiemodule van Exact is uitgebreid: van eenvoudige facturen tot complex
 
 Gebruik je Exact ook als CRM? Lees dan ons artikel over de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) voor een vergelijking met gespecialiseerde CRM-tools.
 
-[Probeer Exact Online]({{exact_link}})
+[Probeer Exact Online](https://www.exact.com/nl)
 
 ---
 
 ## 3. e-Boekhouden
 
-e-Boekhouden is een van de langst bestaande online boekhoudpakketten in Nederland en heeft een trouwe schare gebruikers opgebouwd. Het platform richt zich op het MKB dat een betrouwbare, volledige boekhouding zoekt zonder de complexiteit van een pakket als Exact Online. De facturatiefuncties zijn solide en goed geïntegreerd met de boekhoudmodule.
-
-Wat e-Boekhouden bijzonder maakt, is de nauwe samenwerking met boekhouders en accountants. Het platform is zo ingericht dat je boekhouder eenvoudig kan meekijken en corrigeren, zonder dat je extra hoeft te betalen voor de accountantstoegang.
+e-Boekhouden is de stille betrouwbare in dit rijtje. Ik kom het vooral tegen bij ondernemers die nauw samenwerken met hun boekhouder, en dat is precies waar het in uitblinkt. Je accountant kan gratis meekijken en corrigeren, zonder extra licentie. De facturatie is degelijk, de boekhouding compleet, en het loopt al jaren probleemloos bij klanten die ik heb geholpen. Niet de modernste interface, maar wel rotsvast.
 
 ### Belangrijkste functies
 - Facturatie met eigen huisstijl en logo
@@ -174,15 +168,13 @@ Wat e-Boekhouden bijzonder maakt, is de nauwe samenwerking met boekhouders en ac
 - Mobiele app minder uitgebreid dan concurrenten
 - Automatiseringsmogelijkheden zijn beperkter
 
-[Start met e-Boekhouden]({{eboekhouden_link}})
+[Start met e-Boekhouden](https://www.e-boekhouden.nl/)
 
 ---
 
 ## 4. Rompslomp
 
-De naam zegt het al: Rompslomp wil de rompslomp uit je administratie halen. Dit Nederlandse pakket richt zich op ondernemers die zo min mogelijk tijd aan facturatie en boekhouding willen besteden. De interface is opvallend clean en de werkwijze is gericht op snelheid. Een factuur aanmaken kost letterlijk minder dan een minuut.
-
-Rompslomp is bijzonder populair bij kleine MKB-bedrijven en ZZP'ers die een stap verder willen dan alleen facturatie, maar niet de complexiteit van een volledig boekhoudpakket zoeken. Het platform biedt precies genoeg voor een nette administratie, zonder overbodige knoppen.
+Rompslomp doet precies wat de naam belooft: de rompslomp eruit halen. Ik heb het een keer live laten zien aan een ondernemer en hij had binnen een minuut zijn eerste factuur verstuurd. Geen menu's doorworstelen, geen instellingen configureren. Voor kleine MKB'ers die gewoon snel willen factureren en hun BTW-aangifte op orde willen hebben, is dit de snelste route. De digitale ondertekening bij offertes is een leuke bonus.
 
 ### Belangrijkste functies
 - Snelle facturatie met slimme templates
@@ -217,15 +209,13 @@ Rompslomp is bijzonder populair bij kleine MKB-bedrijven en ZZP'ers die een stap
 - Geen gratis plan
 - Minder geschikt voor complexe BTW-situaties (bijv. ICL/ICV)
 
-[Start met Rompslomp]({{rompslomp_link}})
+[Start met Rompslomp](https://www.rompslomp.nl/)
 
 ---
 
 ## 5. Informer
 
-Informer is de stille kracht in het Nederlandse boekhoudlandschap. Het platform wordt veel gebruikt door administratiekantoren en hun klanten, maar biedt ook voor zelfstandige MKB-bedrijven een compleet pakket. De facturatiefuncties zijn uitgebreid en de boekhouding is diepgaand, inclusief mogelijkheden die je bij eenvoudigere pakketten niet vindt.
-
-Wat Informer onderscheidt, is de combinatie van een volledige boekhouding met een gebruiksvriendelijke interface. Het platform bewijst dat een compleet boekhoudpakket niet per se ingewikkeld hoeft te zijn.
+Informer is een pakket dat weinig mensen kennen maar dat me telkens weer verrast. Ik heb het aanbevolen aan een administratiekantoor dat voor meerdere klanten de boekhouding deed, en het werkte uitstekend: multi-administratie, professionele rapportages en een accountantsmodule die echt is doordacht. Ook voor zelfstandige MKB'ers die een volledige boekhouding willen zonder de prijs van Exact is het een serieuze optie.
 
 ### Belangrijkste functies
 - Facturatie met periodieke facturen en creditnota's
@@ -261,15 +251,13 @@ Wat Informer onderscheidt, is de combinatie van een volledige boekhouding met ee
 - Minder integraties met externe tools
 - Kan overkill zijn als je alleen facturen wilt versturen
 
-[Start met Informer]({{informer_link}})
+[Start met Informer](https://www.informer.nl/)
 
 ---
 
 ## 6. Jortt
 
-Jortt (spreek uit als "jort") is het instapmodel onder de facturatiesoftware en biedt een gratis plan dat voor micro-ondernemingen en starters vaak al voldoende is. Het platform is bewust eenvoudig gehouden: je kunt facturen versturen, bonnetjes scannen en je administratie bijhouden zonder enige boekhoudkundige kennis.
-
-Jortt is ideaal als je net begint met ondernemen en nog niet weet hoeveel facturen je gaat versturen. Het gratis plan geeft je de kans om te ervaren hoe online factureren werkt, zonder financieel risico.
+Jortt adviseer ik aan starters die nog niet weten of ze 5 of 50 facturen per maand gaan versturen. Het gratis plan is echt gratis -- geen creditcard, geen verborgen kosten -- en je kunt ermee factureren zonder enige boekhoudkennis. Ik ken ondernemers die er jarenlang blij mee zijn gebleven. Wel eerlijk zijn: zodra je een bankkoppeling en BTW-aangifte nodig hebt, moet je naar het betaalde plan.
 
 ### Belangrijkste functies
 - Eenvoudige facturatie met professionele opmaak
@@ -304,7 +292,7 @@ Jortt is ideaal als je net begint met ondernemen en nog niet weet hoeveel factur
 - Weinig integratiemogelijkheden
 - Geen volledige grootboekadministratie
 
-[Start gratis met Jortt]({{jortt_link}})
+[Start gratis met Jortt](https://www.jortt.nl/)
 
 ---
 
@@ -342,11 +330,11 @@ Werk je in de horeca en heb je ook een kassasysteem nodig? Lees dan ons artikel 
 
 De juiste facturatiesoftware bespaart je uren per week en voorkomt kostbare fouten in je administratie. Hier zijn onze aanbevelingen:
 
-- **Beste allrounder voor MKB**: [Moneybird]({{moneybird_link}}) -- de perfecte balans tussen gebruiksgemak, functies en prijs.
-- **Beste voor groeiend MKB**: [Exact Online]({{exact_link}}) -- het meest complete platform dat meegroeit met je bedrijf.
-- **Beste samenwerking met boekhouder**: [e-Boekhouden]({{eboekhouden_link}}) -- betrouwbaar platform met gratis accountantstoegang.
-- **Beste voor eenvoud**: [Rompslomp]({{rompslomp_link}}) -- minimale rompslomp, maximaal resultaat.
-- **Beste voor administratiekantoren**: [Informer]({{informer_link}}) -- professioneel platform met uitgebreide boekhoudfuncties.
-- **Beste voor starters**: [Jortt]({{jortt_link}}) -- gratis beginnen en opschalen wanneer je klaar bent.
+- **Beste allrounder voor MKB**: [Moneybird](https://www.moneybird.nl/) -- de perfecte balans tussen gebruiksgemak, functies en prijs.
+- **Beste voor groeiend MKB**: [Exact Online](https://www.exact.com/nl) -- het meest complete platform dat meegroeit met je bedrijf.
+- **Beste samenwerking met boekhouder**: [e-Boekhouden](https://www.e-boekhouden.nl/) -- betrouwbaar platform met gratis accountantstoegang.
+- **Beste voor eenvoud**: [Rompslomp](https://www.rompslomp.nl/) -- minimale rompslomp, maximaal resultaat.
+- **Beste voor administratiekantoren**: [Informer](https://www.informer.nl/) -- professioneel platform met uitgebreide boekhoudfuncties.
+- **Beste voor starters**: [Jortt](https://www.jortt.nl/) -- gratis beginnen en opschalen wanneer je klaar bent.
 
-Ons advies: kies een pakket dat past bij je huidige situatie, maar dat ook ruimte biedt om te groeien. Start met een gratis proefperiode en neem je boekhouder mee in de evaluatie. Een goed begin is het halve werk, zeker als het om je administratie gaat.
+Mijn advies: kies een pakket dat past bij je huidige situatie, maar dat ook ruimte biedt om te groeien. Start met een gratis proefperiode en neem je boekhouder mee in de evaluatie. Een goed begin is het halve werk, zeker als het om je administratie gaat.

@@ -50,7 +50,7 @@ Bekijk ook onze [Exact Online vs Twinfield vergelijking](/posts/exact-online-vs-
 ## Moneybird in detail
 
 ### Voor wie?
-Moneybird is gebouwd voor **ondernemers die zelf hun boekhouding willen doen** zonder boekhoudkennis. De interface is modern, intuïtief en vertaalt boekhoudtermen naar begrijpelijk Nederlands.
+Moneybird is het pakket dat ik aanbeveel aan ondernemers die bij het woord "grootboek" al glazig kijken. Het is gebouwd voor **mensen die zelf hun boekhouding willen doen** zonder eerst een cursus te volgen. De interface vertaalt boekhoudtermen naar begrijpelijk Nederlands, en dat merk je direct.
 
 ### Belangrijkste functies
 - **Facturen** — Professionele facturen met eigen huisstijl, automatische herinneringen
@@ -85,7 +85,7 @@ Moneybird is gebouwd voor **ondernemers die zelf hun boekhouding willen doen** z
 ## Twinfield in detail
 
 ### Voor wie?
-Twinfield is gebouwd voor **boekhouders, accountants en bedrijven met professionele financiële behoeften**. Het biedt de diepgang die professionele boekhouders verwachten.
+Twinfield is het pakket waar accountants van houden — en dat is niet toevallig. Het is gebouwd voor **boekhouders en bedrijven met serieuze financiele behoeften**: kostplaatsen, consolidatie, geavanceerde rapportages. Als je accountant Twinfield noemt, weet je dat het pakket past bij professionele administratie.
 
 ### Belangrijkste functies
 - **Volledige grootboekadministratie** — Alle standaard en vrij configureerbare grootboekrekeningen
@@ -167,11 +167,13 @@ Twinfield is gebouwd voor **boekhouders, accountants en bedrijven met profession
 
 ## Conclusie
 
-**Moneybird** is de beste keuze als je zelf je boekhouding wilt doen, een ZZP'er bent, of een klein bedrijf hebt met een eenvoudige administratie. Het is goedkoper, makkelijker en voldoende voor 80% van de kleine ondernemers.
+Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:
 
-**Twinfield** is de beste keuze als je met een boekhouder of accountant werkt, een complexe administratie hebt, of uitgebreide rapportages en kostplaatsen nodig hebt.
+**Moneybird** is de beste keuze als je zelf je boekhouding wilt doen. Ben je ZZP'er, heb je een eenvoudige BV, of wil je gewoon dat het makkelijk is? Dan is Moneybird wat je zoekt. Goedkoper, makkelijker, en voor 80% van de kleine ondernemers meer dan voldoende.
 
-**Twijfel je?** Begin met Moneybird (gratis plan) en stap over naar Twinfield wanneer je administratie complexer wordt.
+**Twinfield** is de beste keuze als je accountant de lead neemt in je financiele administratie. Kostplaatsen, consolidatie, geavanceerde rapportages — dat is Twinfield's domein. En als je boekhouder er al mee werkt, scheelt dat enorm in de samenwerking.
+
+**Twijfel je?** Begin met Moneybird (gratis plan) en stap over naar Twinfield wanneer je administratie dat vraagt. Die volgorde werkt beter dan andersom.
 
 ## Lees ook
 

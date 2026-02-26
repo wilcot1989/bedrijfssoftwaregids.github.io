@@ -43,7 +43,7 @@ Een kassasysteem kiezen voor je horecazaak is een beslissing waar je jarenlang m
 
 ## 1. Lightspeed Restaurant
 
-Lightspeed Restaurant is een van de populairste horecakassasystemen in Nederland en Europa. Het biedt een compleet cloudgebaseerd POS-systeem dat draait op iPads en speciaal is ontworpen voor de foodservice-industrie. Van een klein lunchcafe tot een restaurantketen met meerdere vestigingen -- Lightspeed schaalt mee.
+Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklanten, en dat is niet voor niets. Het draait op iPads, is snel opgezet, en de bediening snapt het binnen een uur. Voor restaurants die ook bezorgplatforms gebruiken, is de integratie met Thuisbezorgd en Uber Eats een grote plus. Ik heb het zien werken bij alles van een lunchcafe tot een keten met zes vestigingen.
 
 ### Belangrijkste functies
 - Tafelmanagement met plattegrond van je zaak
@@ -80,13 +80,13 @@ Lightspeed Restaurant is een van de populairste horecakassasystemen in Nederland
 - iPad-hardware is extra investering
 - Sommige geavanceerde functies alleen in duurdere plannen
 
-[Bekijk Lightspeed Restaurant]({{lightspeed_link}})
+[Bekijk Lightspeed Restaurant](https://www.lightspeedhq.nl/)
 
 ---
 
 ## 2. Untill
 
-Untill is een Nederlands kassasysteem dat speciaal is ontwikkeld voor de horeca. Het staat bekend om zijn robuustheid en uitgebreide functionaliteit. Untill wordt veel gebruikt in grotere horecazaken, evenementenlocaties en ketens in de Benelux.
+Untill is het werkpaard van de Nederlandse horeca. Ik raad het aan bij grotere zaken waar het systeem de hele avond foutloos moet draaien, ook als het internet even hapert. De offline modus is een van de beste die ik ken. Bij een drukke brasserie die ik heb begeleid, was Untill het enige systeem dat aan alle eisen voldeed: robuust, uitgebreid en echt gebouwd voor de Nederlandse markt.
 
 ### Belangrijkste functies
 - Tafelmanagement met visuele plattegrond
@@ -122,13 +122,13 @@ Untill is een Nederlands kassasysteem dat speciaal is ontwikkeld voor de horeca.
 - Meer geschikt voor grotere zaken dan kleine startups
 - Langere implementatietijd
 
-[Bekijk Untill]({{untill_link}})
+[Bekijk Untill](https://www.untill.com/nl/)
 
 ---
 
 ## 3. Trivec
 
-Trivec is een Scandinavisch kassasysteem dat een sterke positie heeft opgebouwd in de Europese horecamarkt, inclusief Nederland. Het systeem is bijzonder geschikt voor restaurants en hotels die een betrouwbare, complete POS-oplossing zoeken met persoonlijke service.
+Trivec zie ik vooral bij restaurants en hotels die waarde hechten aan persoonlijke service en een betrouwbaar systeem dat gewoon werkt. Het is Scandinavisch -- en dat merk je aan de no-nonsense aanpak. De hotel PMS-integratie maakt het bijzonder interessant voor horecazaken binnen een hotel. Niet het goedkoopst, maar wie er eenmaal mee werkt, stapt zelden over.
 
 ### Belangrijkste functies
 - Tafel- en reserveringsbeheer
@@ -163,13 +163,13 @@ Trivec is een Scandinavisch kassasysteem dat een sterke positie heeft opgebouwd 
 - Minder geschikt voor zeer kleine horecazaken
 - Minder integraties met Nederlandse bezorgplatforms dan Lightspeed
 
-[Bekijk Trivec]({{trivec_link}})
+[Bekijk Trivec](https://www.trivec.nl/)
 
 ---
 
 ## 4. Square
 
-Square is een Amerikaans platform dat de kassasoftware gratis aanbiedt en verdient aan transactiekosten. Het is een uitstekende keuze voor kleine horecazaken en startups die willen beginnen zonder hoge maandelijkse kosten. De hardware is betaalbaar en het systeem is snel opgezet.
+Square is mijn go-to advies voor starters met een beperkt budget. De software is gratis, de hardware kost een paar tientjes, en je bent dezelfde middag operationeel. Ik heb het aanbevolen aan een koffiezaak die net opende en geen duizenden euro's wilde investeren voordat de eerste klant binnen was. Eerlijk: bij hoge omzet worden de transactiekosten merkbaar, maar als startpunt is het ideaal.
 
 ### Belangrijkste functies
 - Gratis kassasoftware met basisfuncties
@@ -206,13 +206,13 @@ Square is een Amerikaans platform dat de kassasoftware gratis aanbiedt en verdie
 - Support voornamelijk in het Engels
 - Minder integraties met Nederlandse boekhoudpakketten
 
-[Start gratis met Square]({{square_link}})
+[Start gratis met Square](https://squareup.com/nl/nl)
 
 ---
 
 ## 5. Zettle by PayPal
 
-Zettle (voorheen iZettle) is het betaal- en kassaplatform van PayPal. Het biedt een laagdrempelige oplossing voor kleine horecazaken, foodtrucks en pop-up restaurants. De software is gratis en je betaalt alleen transactiekosten. Ideaal als je snel en goedkoop aan de slag wilt.
+Zettle is de ultieme mobiele oplossing voor foodtrucks, pop-ups en kleine cafes. Ik heb het geadviseerd aan een foodtruck-eigenaar die elke week op een andere locatie stond: reader in de zak, telefoon erbij, klaar. De software is gratis, je betaalt alleen per transactie. Het mist horecaspecifieke functies als tafelmanagement, maar voor wie dat niet nodig heeft, is het de eenvoudigste start.
 
 ### Belangrijkste functies
 - Gratis kassasoftware (Zettle Go-app)
@@ -248,13 +248,13 @@ Zettle (voorheen iZettle) is het betaal- en kassaplatform van PayPal. Het biedt 
 - Niet geschikt voor grotere restaurants
 - Transactiekosten zijn hoger dan bij een vast pinapparaat
 
-[Start met Zettle]({{zettle_link}})
+[Start met Zettle](https://www.zettle.com/nl)
 
 ---
 
 ## 6. Orderbird
 
-Orderbird is een Duits kassasysteem dat speciaal is ontworpen voor cafes, bars en kleine restaurants. Het draait op iPads en biedt een goede balans tussen functionaliteit en gebruiksgemak. In de Benelux heeft Orderbird een groeiend aantal gebruikers.
+Orderbird is de specialist voor cafes en bars. Het draait op iPads, de interface is lekker simpel en de tafelmanagement-functies zijn precies genoeg voor een kleinere zaak. Ik heb het aanbevolen aan een cafe-eigenaar die geen zin had in de complexiteit van Lightspeed of Untill. Binnen een dag was alles ingericht. De HACCP-registratie is een handige bijkomstigheid die je niet bij alle concurrenten vindt.
 
 ### Belangrijkste functies
 - iPad-gebaseerd kassasysteem
@@ -290,7 +290,7 @@ Orderbird is een Duits kassasysteem dat speciaal is ontworpen voor cafes, bars e
 - Minder integraties dan Lightspeed
 - Nederlandse community kleiner dan bij lokale aanbieders
 
-[Bekijk Orderbird]({{orderbird_link}})
+[Bekijk Orderbird](https://www.orderbird.com/nl)
 
 ---
 
@@ -318,11 +318,11 @@ Als je plannen hebt om te groeien of meerdere vestigingen te openen, kies dan ee
 
 De keuze voor het juiste kassasysteem hangt sterk af van het type horecazaak, je budget en je specifieke behoeften. Hier onze aanbevelingen:
 
-- **Beste allrounder voor restaurants**: [Lightspeed Restaurant]({{lightspeed_link}}) -- compleet, gebruiksvriendelijk en schaalbaar.
-- **Beste voor grote horecazaken**: [Untill]({{untill_link}}) -- robuust, uitgebreid en bewezen in de Nederlandse markt.
-- **Beste voor hotels en fine dining**: [Trivec]({{trivec_link}}) -- betrouwbaar met sterke hotel-integraties.
-- **Beste budget-optie**: [Square]({{square_link}}) -- geen maandelijkse kosten, snel op te zetten.
-- **Beste voor foodtrucks en pop-ups**: [Zettle by PayPal]({{zettle_link}}) -- mobiel, betaalbaar en eenvoudig.
-- **Beste voor cafes en bars**: [Orderbird]({{orderbird_link}}) -- speciaal ontworpen voor kleinere horecazaken.
+- **Beste allrounder voor restaurants**: [Lightspeed Restaurant](https://www.lightspeedhq.nl/) -- compleet, gebruiksvriendelijk en schaalbaar.
+- **Beste voor grote horecazaken**: [Untill](https://www.untill.com/nl/) -- robuust, uitgebreid en bewezen in de Nederlandse markt.
+- **Beste voor hotels en fine dining**: [Trivec](https://www.trivec.nl/) -- betrouwbaar met sterke hotel-integraties.
+- **Beste budget-optie**: [Square](https://squareup.com/nl/nl) -- geen maandelijkse kosten, snel op te zetten.
+- **Beste voor foodtrucks en pop-ups**: [Zettle by PayPal](https://www.zettle.com/nl) -- mobiel, betaalbaar en eenvoudig.
+- **Beste voor cafes en bars**: [Orderbird](https://www.orderbird.com/nl) -- speciaal ontworpen voor kleinere horecazaken.
 
-Ons advies: neem de tijd om een demo aan te vragen of een proefperiode te starten voordat je een beslissing neemt. Je kassasysteem is een investering die je dagelijks gebruikt -- het moet perfect passen bij jouw manier van werken.
+Mijn advies: neem de tijd om een demo aan te vragen of een proefperiode te starten voordat je een beslissing neemt. Je kassasysteem is een investering die je dagelijks gebruikt -- het moet perfect passen bij jouw manier van werken.

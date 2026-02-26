@@ -113,33 +113,33 @@ Zowel Exact Online als Twinfield genereren automatisch btw-aangiftes en bieden d
 
 ## Extra functies: waar Exact Online wint
 
-Exact Online gaat verder dan puur boekhouding. Dit is het grootste verschil met Twinfield.
+Hier zit het grote verschil. Exact Online is niet zomaar een boekhoudpakket — het is een bedrijfsplatform. Bij klanten die naast boekhouding ook hun voorraad en klantrelaties willen beheren, komt Exact keer op keer als winnaar uit de bus.
 
 ### CRM
-Exact Online biedt een ingebouwde CRM-module voor contactbeheer, verkoopkansen, pipeline management en offertes. Twinfield heeft geen CRM-functionaliteit — je hebt een apart CRM-systeem nodig.
+Exact Online heeft een ingebouwde CRM-module voor contactbeheer, verkoopkansen, pipeline management en offertes. Niet het sterkste CRM dat ik ken, maar goed genoeg voor veel MKB'ers die geen apart systeem willen draaien. Twinfield heeft simpelweg geen CRM — je hebt een losse tool nodig.
 
 ### Voorraad & Logistiek
-Het Handel+ plan van Exact Online biedt voorraadbeheer, inkoop- en verkooporderverwerking, magazijnbeheer en levertijdberekeningen. Ideaal voor handelsbedrijven. Twinfield biedt dit niet.
+Dit is waar Exact echt scoort bij handelsbedrijven. Het Handel+ plan biedt voorraadbeheer, inkoop- en verkooporderverwerking, magazijnbeheer en levertijdberekeningen. Ik heb groothandels geholpen die hiermee hun hele logistiek aansturen. Twinfield biedt dit niet.
 
 ### Projectmanagement
-Exact Online bevat projectregistratie met urenboekingen, budgetten en winstgevendheid per project. Twinfield biedt basisprojectregistratie voor het koppelen van kosten aan projecten, maar niet de uitgebreide projectmanagementfuncties van Exact.
+Exact Online bevat projectregistratie met urenboekingen, budgetten en winstgevendheid per project. Handig als je wilt zien of een project nog op koers ligt. Twinfield biedt basisprojectregistratie voor het koppelen van kosten aan projecten, maar dat is het dan ook.
 
 ### Productie
-Met het Manufacturing-plan biedt Exact Online stuklijsten, werkorders en productieplanning. Twinfield biedt geen productiefuncties.
+Met het Manufacturing-plan biedt Exact Online stuklijsten, werkorders en productieplanning. Een nichefunctie, maar voor productiebedrijven een reden om niet verder te kijken. Twinfield biedt hier niets.
 
 ## Extra functies: waar Twinfield wint
 
 ### Multi-administratie
-Twinfield is ontworpen voor het beheren van meerdere administraties. Je schakelt eenvoudig tussen administraties, vergelijkt cijfers en consolideert. Ideaal voor holdingstructuren, accountantskantoren en bedrijven met meerdere entiteiten.
+Als ik met accountantskantoren of holdingstructuren werk, wijs ik vrijwel altijd naar Twinfield. Het is gebouwd voor meerdere administraties: schakelen, vergelijken en consolideren gaat vloeiend. Exact kan het ook, maar dan betaal je per administratie een apart abonnement — dat tikt aan.
 
 ### Consolidatie
-Twinfield biedt geavanceerde consolidatiemogelijkheden voor het samenvoegen van cijfers uit meerdere administraties, inclusief intercompany-eliminatie en valutaherrekening. Exact Online biedt dit beperkt via de Exact Online Premium-editie.
+Twinfield biedt serieuze consolidatiemogelijkheden: cijfers uit meerdere administraties samenvoegen, intercompany-eliminatie, valutaherrekening. Voor ondernemers met meerdere BV's is dit een gamechanger. Exact Online biedt dit alleen beperkt via de Premium-editie.
 
 ### Accountant-samenwerking
-Hoewel beide systemen een accountantportaal bieden, is Twinfield sterker in de samenwerking met accountants. Het biedt specifieke accountantsrollen, batch-verwerking van meerdere administraties en efficiënte controle-workflows.
+Beide systemen hebben een accountantportaal, maar Twinfield is hier de favoriet van de meeste boekhouders die ik spreek. Specifieke accountantsrollen, batch-verwerking en efficiënte controle-workflows — het merk je dat Wolters Kluwer weet wat accountants nodig hebben.
 
 ### Geavanceerde rapportages
-Twinfield biedt meer dimensies (tot 6 vs 3 bij Exact), meer standaardrapportages en een krachtigere rapportage-editor. Voor bedrijven die complexe management-rapportages nodig hebben, is Twinfield sterker.
+Twinfield biedt tot 6 dimensies (versus 3 bij Exact), meer standaardrapportages en een krachtigere rapportage-editor. Als je CFO of controller regelmatig om detailrapportages vraagt, is Twinfield merkbaar sterker.
 
 ## Integraties
 
@@ -177,9 +177,11 @@ Twinfield biedt 150+ integraties, waaronder:
 
 ## Verdict
 
-**Exact Online** is het beste voor MKB-bedrijven die een alles-in-één platform zoeken. De combinatie van boekhouding, CRM, voorraad en projectmanagement in één systeem maakt het de meest veelzijdige keuze. Het is dan ook terecht het meest gebruikte systeem in Nederland.
+Na tientallen implementaties van beide pakketten komt mijn advies hierop neer:
 
-**Twinfield** is de betere keuze voor bedrijven met een puur financiële focus, meerdere administraties of de behoefte aan consolidatie. Het is ook sterker voor accountantskantoren die veel klantadministraties beheren.
+**Exact Online** is de beste keuze als je meer nodig hebt dan alleen boekhouden. Handel, voorraad, CRM, projecten — Exact bundelt dat in een platform. Het is niet voor niets marktleider in Nederland, en voor de meeste MKB-bedrijven is het de veiligste keuze.
+
+**Twinfield** is de betere keuze als financiele diepgang je prioriteit is. Meerdere administraties, consolidatie, geavanceerde rapportages — daar is Twinfield sterker. En als je accountant Twinfield prefereert, is dat op zichzelf al een goede reden.
 
 Twijfel je? Beide bieden een gratis proefperiode van 30 dagen. Test ze naast elkaar en bespreek de uitkomst met je accountant.
 

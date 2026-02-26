@@ -42,7 +42,7 @@ Zoek je een compleet klantenservice-platform? Lees onze [vergelijking klantenser
 
 ## 1. Intercom — Beste AI-chatbot
 
-Intercom's Fin AI Agent is de meest geavanceerde AI-chatbot op de markt. Fin leert van je kennisbank en beantwoordt tot 80% van de vragen zonder menselijke tussenkomst.
+Intercom's Fin AI Agent is de chatbot waar ik het meest van onder de indruk ben. Bij een SaaS-klant van mij beantwoordt Fin inmiddels 75% van de supportvragen zelfstandig -- en de antwoorden zijn verrassend goed. Het is de duurste optie in dit overzicht, maar als je het volume hebt, verdient het zich dubbel terug.
 
 ### Belangrijkste functies
 - **Fin AI Agent** — Beantwoordt vragen op basis van je kennisbank, website en documenten
@@ -64,7 +64,7 @@ Intercom's Fin AI Agent is de meest geavanceerde AI-chatbot op de markt. Fin lee
 
 ## 2. Tidio — Beste voor MKB
 
-Tidio combineert live chat, AI-chatbot en e-mailmarketing in één betaalbaar platform. Ideaal voor kleine bedrijven en webshops die snel willen starten.
+Tidio is de chatbot die ik aanbeveel aan MKB'ers die zeggen: "Ik wil morgen een chatbot live hebben." Installatie kostte bij mijn laatste klant precies acht minuten. Het gratis plan is ruim genoeg om te testen, en de Lyro AI begrijpt Nederlands prima. Niet zo geavanceerd als Intercom, maar voor de meeste webshops meer dan voldoende.
 
 ### Belangrijkste functies
 - **Lyro AI** — AI-chatbot die leert van je FAQ's en kennisbank
@@ -87,7 +87,7 @@ Tidio combineert live chat, AI-chatbot en e-mailmarketing in één betaalbaar pl
 
 ## 3. Zendesk — Beste voor enterprise klantenservice
 
-Zendesk biedt AI-chatbots als onderdeel van hun complete klantenserviceplatform. Ideaal voor bedrijven die al Zendesk gebruiken of een all-in-one helpdesk zoeken.
+Zendesk adviseer ik voor chatbots alleen als je al op hun platform draait of een complete helpdesk nodig hebt. De AI Agent is degelijk en getraind op miljarden interacties, maar voor alleen een chatbot is Zendesk als een vrachtwagen huren om boodschappen te doen. Heb je die complete suite wel nodig? Dan is het een sterke keuze.
 
 ### Belangrijkste functies
 - **AI Agent** — Getraind op miljarden klantenservice-interacties
@@ -101,7 +101,7 @@ Zendesk biedt AI-chatbots als onderdeel van hun complete klantenserviceplatform.
 
 ## 4. Drift — Beste voor B2B leadgeneratie
 
-Drift (nu onderdeel van Salesloft) is gespecialiseerd in conversational marketing: chatbots die websitebezoekers omzetten in gekwalificeerde leads en vergaderingen inplannen.
+Drift is de tool die ik alleen noem bij B2B-bedrijven met deals van duizenden euro's. De chatbot herkent welk bedrijf je website bezoekt en plant direct een meeting met je salesteam in. Briljant als je dealwaarde hoog genoeg is. Bij een startprijs van €2.500 per maand moet het dat ook zijn -- voor MKB'ers raad ik het af.
 
 ### Belangrijkste functies
 - **Revenue-chatbot** — Identificeert en kwalificeert bezoekers op basis van bedrijfsdata
@@ -115,7 +115,7 @@ Drift (nu onderdeel van Salesloft) is gespecialiseerd in conversational marketin
 
 ## 5. ChatBot — Beste visuele bouwer
 
-ChatBot biedt de meest intuïtieve visuele chatbot-bouwer. Zonder code bouw je complexe chatbotflows met condities, API-koppelingen en AI-antwoorden.
+ChatBot is mijn aanbeveling voor bedrijven die zelf de controle willen over hun chatbotflows. De visuele bouwer is de beste die ik heb gezien: je sleept blokken, stelt condities in en test direct -- zonder ook maar een regel code. Ideaal als je een specifiek klanttraject wilt opbouwen in plaats van alles aan AI over te laten.
 
 ### Belangrijkste functies
 - **Visuele flow-bouwer** — Drag-and-drop chatbotflows

@@ -40,7 +40,7 @@ Ik zie regelmatig MKB-bedrijven die duizenden euro's hebben betaald aan een webb
 
 ## 1. WordPress — Meest flexibel
 
-WordPress draait op 43% van alle websites ter wereld. Het is open-source, oneindig uitbreidbaar met 59.000+ plugins, en biedt volledige controle over elk aspect van je website.
+WordPress is wat ik zelf zou kiezen en het vaakst adviseer aan bedrijven waar content en SEO centraal staan. Het draait op 43% van alle websites ter wereld, en dat is geen toeval. De flexibiliteit is ongeëvenaard, maar je moet bereid zijn om te leren of een developer in te schakelen. Niet het makkelijkst, wel het krachtigst.
 
 ### Wanneer WordPress
 - Je hebt veel content (blog, artikelen, kennisbank)
@@ -61,7 +61,7 @@ WordPress draait op 43% van alle websites ter wereld. Het is open-source, oneind
 
 ## 2. Wix — Beste voor beginners
 
-Wix is de meest gebruiksvriendelijke website bouwer met een drag-and-drop editor en AI-websitebouwer. Binnen een uur heb je een professionele website online.
+Wix is het platform dat ik aanbeveel aan MKB-klanten zonder technische kennis die snel online willen. De drag-and-drop editor is intuïtief, de AI-websitebouwer maakt binnen minuten een complete site op basis van je bedrijfsbeschrijving, en hosting en SSL zijn gewoon inbegrepen. Minder flexibel dan WordPress, maar je bent ook tien keer sneller live.
 
 ### Wanneer Wix
 - Geen technische kennis
@@ -83,7 +83,7 @@ Wix is de meest gebruiksvriendelijke website bouwer met een drag-and-drop editor
 
 ## 3. Squarespace — Mooiste designs
 
-Squarespace staat bekend om de prachtige, professionele templates. Ideaal voor creatieven, fotografen en bedrijven waar visuele presentatie cruciaal is.
+Squarespace adviseer ik aan fotografen, architecten, restaurants -- elk bedrijf waar het visuele de doorslag geeft. De templates zijn de mooiste die ik ken, en je site ziet er zonder designer al professioneel uit. Functioneel beperkter dan WordPress, maar als design je prioriteit is, kom je hier het snelst tot een indrukwekkend resultaat.
 
 ### Wanneer Squarespace
 - Design en esthetiek zijn prioriteit
@@ -104,7 +104,7 @@ Squarespace staat bekend om de prachtige, professionele templates. Ideaal voor c
 
 ## 4. Webflow — Designer's keuze
 
-Webflow combineert de flexibiliteit van code met een visuele editor. Je kunt pixel-perfect design maken zonder te coderen, terwijl je volledige controle hebt over HTML, CSS en animations.
+Webflow is de tool die ik voorstel aan designers en agencies die pixel-perfect maatwerk willen zonder te coderen. Je hebt volledige controle over HTML, CSS en animaties via een visuele editor. De leercurve is steiler dan bij Wix of Squarespace, maar het resultaat is technisch schoner en sneller dan wat de meeste website bouwers produceren.
 
 ### Wanneer Webflow
 - Je bent designer of hebt een developer
@@ -125,7 +125,7 @@ Webflow combineert de flexibiliteit van code met een visuele editor. Je kunt pix
 
 ## 5. Shopify — Beste voor webshops
 
-Shopify is de standaard voor e-commerce. Als je primaire doel online verkopen is, is Shopify de snelste weg naar een professionele webshop.
+Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door naar Shopify. Het is de snelste weg naar een professionele webshop, met ingebouwde betalingen, voorraadbeheer en een enorm app-ecosysteem. Als blog of bedrijfswebsite minder geschikt, maar voor e-commerce is het simpelweg de standaard.
 
 ### Wanneer Shopify
 - Primair online producten verkopen

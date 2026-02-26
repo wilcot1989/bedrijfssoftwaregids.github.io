@@ -42,7 +42,7 @@ Gebruik je al een CRM? Bekijk dan hoe klantenservice software integreert met de 
 
 ## 1. Zendesk — Beste voor grote teams
 
-Zendesk is de onbetwiste marktleider in klantenservice software. Met meer dan 100.000 bedrijven als klant biedt het de meest complete en aanpasbare helpdesk-oplossing op de markt.
+Zendesk is het platform waar ik naar verwijs als een bedrijf zegt: "We zijn uit onze helpdesk gegroeid." Voor teams met 10+ agents die complexe workflows, SLA's en omnichannel support nodig hebben, is het simpelweg de krachtigste optie. Het is niet goedkoop en niet simpel, maar als je het eenmaal goed hebt ingericht, is het een machine.
 
 ### Belangrijkste functies
 - **Omnichannel ticketing** — E-mail, chat, telefoon, social media, WhatsApp in één inbox
@@ -69,7 +69,7 @@ Zendesk is de beste keuze voor teams met **10+ agents** die complexe workflows n
 
 ## 2. Freshdesk — Beste voor MKB
 
-Freshdesk is de ideale klantenservice tool voor het midden- en kleinbedrijf. Met een gratis plan voor 2 agents en een intuïtieve interface kun je binnen een uur aan de slag.
+Freshdesk is het eerste wat ik aanbeveel aan MKB'ers die van een gedeelde mailbox willen overstappen naar echte ticketing. Het gratis plan voor 2 agents is geen uitgeklede demo maar echt bruikbaar, en ik heb teams gezien die binnen een uur hun eerste ticket afhandelden. Het is Zendesk-light, maar dan voor een fractie van de prijs.
 
 ### Belangrijkste functies
 - **Ticketing** — E-mail, telefoon, chat, social media, WhatsApp
@@ -96,7 +96,7 @@ Freshdesk is perfect voor **kleine teams (1-15 agents)** die snel aan de slag wi
 
 ## 3. HubSpot Service Hub — Beste voor HubSpot-gebruikers
 
-HubSpot Service Hub is de klantenservice-module binnen het HubSpot-ecosysteem. Als je al HubSpot CRM, Marketing Hub of Sales Hub gebruikt, is Service Hub de logische keuze.
+HubSpot Service Hub is een no-brainer als je al in het HubSpot-ecosysteem zit. Ik heb het geadviseerd bij een B2B-bedrijf dat al HubSpot CRM en Marketing Hub gebruikte. Het 360-graden klantbeeld -- van eerste websitebezoek tot supportticket -- was precies wat ze zochten. Als standalone product is het prijzig, maar binnen HubSpot is de meerwaarde enorm.
 
 ### Belangrijkste functies
 - **Gespreksinbox** — Gedeelde inbox voor e-mail en live chat
@@ -125,7 +125,7 @@ Lees meer over HubSpot in onze [HubSpot vs Pipedrive vergelijking](/posts/hubspo
 
 ## 4. Intercom — Beste voor SaaS en proactieve support
 
-Intercom onderscheidt zich door de focus op proactieve en conversational support. In plaats van te wachten tot klanten contact opnemen, helpt Intercom je om proactief te communiceren via in-app berichten, tours en chatbots.
+Intercom is de tool die ik aanbeveel aan SaaS-bedrijven die niet willen wachten tot klanten contact opnemen. Het draait om proactieve communicatie: in-app berichten, product tours, chatbots die vragen opvangen voordat ze een ticket worden. De Fin AI-chatbot is de beste die ik in de praktijk heb gezien -- hij lost daadwerkelijk vragen op, niet alleen maar doorverwijzen.
 
 ### Belangrijkste functies
 - **Messenger** — Moderne chat-widget voor website en in-app
@@ -153,7 +153,7 @@ Intercom is de beste keuze voor **SaaS-bedrijven** die in-app support willen bie
 
 ## 5. Trengo — Beste voor Nederlandse bedrijven
 
-Trengo is een Nederlands bedrijf dat multichannel klantcommunicatie centraliseert. De native WhatsApp Business API-integratie maakt het bijzonder geschikt voor de Nederlandse markt.
+Trengo is de tool die ik aanbeveel aan Nederlandse bedrijven waar WhatsApp het belangrijkste klantkanaal is -- en dat zijn er meer dan je denkt. De native WhatsApp Business API werkt zonder tussenpartij, en je hebt WhatsApp, e-mail, Instagram en Facebook in een inbox. Nederlands bedrijf, Nederlandse support, en een prijs die eerlijk is voor wat je krijgt.
 
 ### Belangrijkste functies
 - **WhatsApp Business API** — Native integratie, geen derde partij nodig

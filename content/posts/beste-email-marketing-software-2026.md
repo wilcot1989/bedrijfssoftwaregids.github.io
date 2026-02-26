@@ -44,7 +44,7 @@ Van alle marketingtools die ik klanten help implementeren, levert email marketin
 
 ## 1. Mailchimp
 
-Mailchimp is wereldwijd de bekendste email marketing tool en wordt door miljoenen bedrijven gebruikt. Het platform biedt een uitgebreide set functies die varieen van eenvoudige nieuwsbrieven tot geavanceerde e-commerce automations. De drag-and-drop editor is een van de beste in de markt.
+Mailchimp is de tool waar de meeste klanten mee bij me aankloppen -- iedereen kent het. En terecht: de drag-and-drop editor is een van de prettigste die ik heb gebruikt, en de e-commerce integraties zijn sterk. Waar ik klanten wel voor waarschuw: het gratis plan is flink uitgekleed de laatste jaren, en bij een groeiend contactenbestand word je snel geconfronteerd met stijgende kosten.
 
 ### Belangrijkste functies
 - Drag-and-drop e-maileditor met 100+ templates
@@ -80,13 +80,13 @@ Mailchimp is wereldwijd de bekendste email marketing tool en wordt door miljoene
 - Automation in het gratis plan is zeer beperkt
 - Support pas in betaalde plannen beschikbaar
 
-[Probeer Mailchimp gratis]({{mailchimp_link}})
+[Probeer Mailchimp gratis](https://mailchimp.com/nl/)
 
 ---
 
 ## 2. Brevo (voorheen Sendinblue)
 
-Brevo, voorheen bekend als Sendinblue, is een Frans platform dat zich sterk heeft gepositioneerd als een betaalbaar alternatief voor Mailchimp. Het grote verschil: Brevo rekent per verzonden e-mail in plaats van per contact. Dit maakt het bijzonder aantrekkelijk voor bedrijven met een groot contactenbestand die niet dagelijks mailen.
+Brevo is de tool die ik aanbeveel als een klant zegt: "Ik heb 10.000 contacten maar mail ze maar twee keer per maand." Waar Mailchimp je laat betalen per contact, rekent Brevo per verzonden e-mail. Dat scheelt flink bij grote lijsten met lage frequentie. En als bonus: je data staat in de EU, wat het AVG-gesprek met je jurist een stuk korter maakt.
 
 ### Belangrijkste functies
 - Drag-and-drop e-maileditor met templates
@@ -123,13 +123,13 @@ Brevo, voorheen bekend als Sendinblue, is een Frans platform dat zich sterk heef
 - Brevo-branding in het gratis plan
 - Rapportages minder diepgaand dan sommige concurrenten
 
-[Probeer Brevo gratis]({{brevo_link}})
+[Probeer Brevo gratis](https://www.brevo.com/nl/)
 
 ---
 
 ## 3. ActiveCampaign
 
-ActiveCampaign is de krachtigste marketing automation tool in dit overzicht. Het platform combineert email marketing met geavanceerde automatiseringen, een ingebouwd CRM en machine learning. Het is de ideale keuze voor bedrijven die verder willen gaan dan standaard nieuwsbrieven en persoonlijke, gedragsgestuurde e-mailcampagnes willen opzetten.
+ActiveCampaign is de tool waar ik enthousiast over word als een klant zegt: "Ik wil meer dan nieuwsbrieven versturen." De automation builder is de krachtigste die ik ken -- je bouwt er persoonlijke klanttrajecten mee op basis van gedrag, en er zit ook nog een volledig CRM in. Wel eerlijk: de leercurve is steiler dan bij Mailchimp. Je moet er tijd in investeren, maar dat betaalt zich terug.
 
 ### Belangrijkste functies
 - Geavanceerde visuele automation builder
@@ -168,13 +168,13 @@ ActiveCampaign is de krachtigste marketing automation tool in dit overzicht. Het
 
 Gebruik je al een CRM? Lees dan onze [vergelijking van de beste CRM software](/posts/beste-crm-software-nederland-2026/) om te kijken hoe ActiveCampaign zich verhoudt tot standalone CRM-systemen.
 
-[Probeer ActiveCampaign 14 dagen gratis]({{activecampaign_link}})
+[Probeer ActiveCampaign 14 dagen gratis](https://www.activecampaign.com/nl/)
 
 ---
 
 ## 4. MailerLite
 
-MailerLite is een Litouws platform dat zich richt op eenvoud en betaalbaarheid. Het is een uitstekende keuze voor kleine bedrijven, bloggers en creators die een gebruiksvriendelijke en betaalbare email marketing tool zoeken. Het gratis plan is een van de meest genereuze in de markt.
+MailerLite is mijn geheime favoriet voor kleine bedrijven die een goed gratis plan zoeken. 1.000 contacten en 12.000 e-mails per maand -- cadeau. De editor is verrassend goed voor de prijs, en de deliverability-scores zijn hoog. Ik heb het geadviseerd aan meerdere startende ondernemers die Mailchimp te duur vonden, en ze waren allemaal tevreden. Enige punt: de interface is niet volledig in het Nederlands.
 
 ### Belangrijkste functies
 - Drag-and-drop e-maileditor en rich text editor
@@ -211,13 +211,13 @@ MailerLite is een Litouws platform dat zich richt op eenvoud en betaalbaarheid. 
 - Support alleen in het Engels
 - Goedkeuring van je account vereist (anti-spam beleid)
 
-[Probeer MailerLite gratis]({{mailerlite_link}})
+[Probeer MailerLite gratis](https://www.mailerlite.com/)
 
 ---
 
 ## 5. Spotler (voorheen MailPlus/Squeezely)
 
-Spotler is een Nederlands marketing automation platform dat speciaal is ontwikkeld voor de Europese markt. Het combineert email marketing met website personalisatie, marketing automation en data management. Voor Nederlandse bedrijven die een lokale partner zoeken met diepgaande marketing automation, is Spotler een topkeuze.
+Spotler is de tool die ik noem zodra AVG-compliance en Nederlandse support niet onderhandelbaar zijn. Het is een Nederlands platform, je data staat in Nederland, en je krijgt een dedicated accountmanager die je taal spreekt. De marketing automation is op het niveau van ActiveCampaign, en de website-personalisatie is een mooie extra. De prijs is wel fors -- reken op minimaal €200 per maand voor MKB.
 
 ### Belangrijkste functies
 - E-mailcampagnes met drag-and-drop editor
@@ -252,13 +252,13 @@ Spotler is een Nederlands marketing automation platform dat speciaal is ontwikke
 - Steile leercurve door uitgebreide functionaliteit
 - Minder geschikt voor zeer kleine bedrijven
 
-[Bekijk Spotler]({{spotler_link}})
+[Bekijk Spotler](https://www.spotler.nl/)
 
 ---
 
 ## 6. Laposta
 
-Laposta is een volledig Nederlandse email marketing tool die zich richt op eenvoud en betaalbaarheid. Het platform is specifiek gebouwd voor de Nederlandse markt en biedt een overzichtelijke tool voor het versturen van nieuwsbrieven. Laposta is de ideale keuze als je een Nederlandse tool wilt zonder de complexiteit van internationale platformen.
+Laposta is het platform dat ik adviseer aan Nederlandse bedrijven die zeggen: "Ik wil gewoon een nette nieuwsbrief versturen, zonder gedoe." Alles is in het Nederlands, de klantenservice is bereikbaar en behulpzaam, en je data verlaat Nederland niet. Het is geen tool voor geavanceerde automations, maar als je primair nieuwsbrieven wilt versturen, doet Laposta precies wat het moet doen.
 
 ### Belangrijkste functies
 - Drag-and-drop e-maileditor
@@ -295,13 +295,13 @@ Laposta is een volledig Nederlandse email marketing tool die zich richt op eenvo
 - Duurder per contact dan MailerLite of Brevo
 - Minder geschikt voor complexe marketing automation
 
-[Probeer Laposta 30 dagen gratis]({{laposta_link}})
+[Probeer Laposta 30 dagen gratis](https://www.laposta.nl/)
 
 ---
 
 ## 7. ConvertKit (Kit)
 
-ConvertKit, recentelijk omgedoopt tot Kit, is een email marketing platform dat speciaal is ontworpen voor creators: bloggers, podcasters, YouTubers, schrijvers en online cursusmakers. Het platform draait om eenvoud en effectiviteit, met een sterke focus op automations en het verkopen van digitale producten.
+ConvertKit (nu Kit) is een niche-tool die ik specifiek aanbeveel aan creators: bloggers, podcasters, cursusmakers. Het is niet gebouwd voor e-commerce of B2B, maar voor mensen die hun publiek willen laten groeien en digitale producten willen verkopen. Het tag-systeem is slimmer dan het lijstensysteem van de meeste concurrenten, en de Creator Network-functie voor cross-promotie is een unieke vondst.
 
 ### Belangrijkste functies
 - Visuele automation builder
@@ -337,7 +337,7 @@ ConvertKit, recentelijk omgedoopt tot Kit, is een email marketing platform dat s
 - Geen data in EU (opslag in VS)
 - Beperkte rapportages vergeleken met Mailchimp of ActiveCampaign
 
-[Probeer ConvertKit gratis]({{convertkit_link}})
+[Probeer ConvertKit gratis](https://convertkit.com/)
 
 ---
 
@@ -379,12 +379,12 @@ Als je al een CRM-systeem gebruikt, controleer dan of je email marketing tool hi
 
 De beste email marketing software hangt af van je specifieke situatie. Hier zijn onze aanbevelingen:
 
-- **Beste allrounder**: [Mailchimp]({{mailchimp_link}}) -- uitgebreide functies, goede editor en sterke e-commerce integraties.
-- **Beste prijs-kwaliteit**: [Brevo]({{brevo_link}}) -- onbeperkt contacten, betaalbaar en data in de EU.
-- **Beste marketing automation**: [ActiveCampaign]({{activecampaign_link}}) -- de krachtigste automations met ingebouwd CRM.
-- **Beste gratis plan**: [MailerLite]({{mailerlite_link}}) -- 1.000 contacten gratis met een uitstekende editor.
-- **Beste voor Nederlands MKB**: [Spotler]({{spotler_link}}) -- lokale expertise, data in Nederland en geavanceerde personalisatie.
-- **Beste Nederlandse tool**: [Laposta]({{laposta_link}}) -- eenvoudig, overzichtelijk en volledig Nederlands.
-- **Beste voor creators**: [ConvertKit]({{convertkit_link}}) -- speciaal ontworpen voor bloggers, podcasters en cursusmakers.
+- **Beste allrounder**: [Mailchimp](https://mailchimp.com/nl/) -- uitgebreide functies, goede editor en sterke e-commerce integraties.
+- **Beste prijs-kwaliteit**: [Brevo](https://www.brevo.com/nl/) -- onbeperkt contacten, betaalbaar en data in de EU.
+- **Beste marketing automation**: [ActiveCampaign](https://www.activecampaign.com/nl/) -- de krachtigste automations met ingebouwd CRM.
+- **Beste gratis plan**: [MailerLite](https://www.mailerlite.com/) -- 1.000 contacten gratis met een uitstekende editor.
+- **Beste voor Nederlands MKB**: [Spotler](https://www.spotler.nl/) -- lokale expertise, data in Nederland en geavanceerde personalisatie.
+- **Beste Nederlandse tool**: [Laposta](https://www.laposta.nl/) -- eenvoudig, overzichtelijk en volledig Nederlands.
+- **Beste voor creators**: [ConvertKit](https://convertkit.com/) -- speciaal ontworpen voor bloggers, podcasters en cursusmakers.
 
-Ons advies: begin met een gratis plan of trial om de tool in de praktijk te testen. Let bij je keuze niet alleen op de prijs, maar ook op de deliverability (het percentage e-mails dat daadwerkelijk aankomt), de kwaliteit van de editor en de automation-mogelijkheden. Een goede email marketing tool verdient zichzelf ruimschoots terug.
+Mijn advies: begin met een gratis plan of trial om de tool in de praktijk te testen. Let bij je keuze niet alleen op de prijs, maar ook op de deliverability (het percentage e-mails dat daadwerkelijk aankomt), de kwaliteit van de editor en de automation-mogelijkheden. Een goede email marketing tool verdient zichzelf ruimschoots terug.

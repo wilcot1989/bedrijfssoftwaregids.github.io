@@ -42,7 +42,7 @@ Zoek je ook projectmanagement? Bekijk onze [Notion vs Monday.com vergelijking](/
 
 ## 1. Clockify — Beste gratis optie
 
-Clockify is de populairste gratis urenregistratie tool ter wereld, met meer dan 4 miljoen gebruikers. Het gratis plan biedt onbeperkte gebruikers en projecten — iets wat vrijwel geen concurrent biedt.
+Clockify is de tool die ik aanbeveel als een klant zegt "we willen uren bijhouden maar hebben geen budget." Het gratis plan is verbluffend compleet: onbeperkte gebruikers, onbeperkte projecten. Bij meer dan 4 miljoen gebruikers wereldwijd is dat geen marketingtruc maar een bewezen model. Pas als je geavanceerde rapportages of facturatie nodig hebt, hoef je te betalen.
 
 ### Belangrijkste functies
 - **Timer of handmatige invoer** — Start/stop timer of voer uren achteraf in
@@ -70,7 +70,7 @@ Clockify is perfect voor **teams die een gratis, eenvoudige oplossing** zoeken. 
 
 ## 2. Toggl Track — Beste voor ZZP en MKB
 
-Toggl Track onderscheidt zich door gebruiksgemak. De one-click timer, slimme herinneringen en gepolijste interface maken het de minst vervelende manier om uren bij te houden.
+Toggl Track is wat ik zelf gebruik, en dat zegt genoeg. De one-click timer, slimme herinneringen als je vergeet te starten, en die strakke interface -- het is simpelweg de minst vervelende manier om uren bij te houden. En bij urenregistratie is "minst vervelend" precies wat je wilt, want anders stopt je team er binnen twee weken mee.
 
 ### Belangrijkste functies
 - **One-click timer** — Start met één klik, voeg later project/klant toe
@@ -97,7 +97,7 @@ Toggl Track is ideaal voor **ZZP'ers en kleine teams** die snel en makkelijk ure
 
 ## 3. Harvest — Beste voor factureerbare uren
 
-Harvest combineert urenregistratie met facturatie, waardoor je direct van uren naar facturen kunt gaan. Ideaal voor bureaus en consultants die uren doorberekenen aan klanten.
+Harvest is de tool die ik adviseer aan bureaus en consultants die uren doorberekenen. De kracht zit in de korte lijn tussen timen en factureren: je registreert uren, en met een paar klikken wordt dat een factuur. Geen export, geen handmatig overtikken. Bij klanten die factureerbare uren verloren omdat ze vergaten te declareren, lost Harvest dat probleem op.
 
 ### Belangrijkste functies
 - **Uren naar facturen** — Maak facturen direct vanuit geregistreerde uren
@@ -122,7 +122,7 @@ Harvest is de beste keuze als je **uren direct wilt omzetten in facturen**. De c
 
 ## 4. TimeCamp — Beste automatische tracking
 
-TimeCamp onderscheidt zich door automatische tijdregistratie. De desktop-app registreert automatisch welke apps, websites en documenten je gebruikt en categoriseert dit naar projecten.
+TimeCamp is mijn antwoord op de vraag "maar mijn team vergeet altijd de timer te starten." De desktop-app registreert automatisch welke apps, websites en documenten je gebruikt en categoriseert dat naar projecten. Het klinkt als Big Brother, maar in de praktijk is het juist een opluchting -- niemand hoeft meer handmatig bij te houden waar de tijd naartoe ging.
 
 ### Belangrijkste functies
 - **Automatische tracking** — Registreert apps, websites en documenten automatisch
@@ -150,7 +150,7 @@ TimeCamp is de beste keuze als je **vergeten om te timen** het grootste probleem
 
 ## 5. Gripp — Beste voor Nederlandse bureaus
 
-Gripp is een Nederlands platform dat urenregistratie combineert met projectmanagement, CRM en facturatie. Specifiek ontworpen voor dienstverlenende bedrijven en bureaus.
+Gripp is het platform dat ik aanbeveel aan Nederlandse bureaus die genoeg hebben van vijf losse tools. Urenregistratie, projectmanagement, CRM en facturatie zitten allemaal in een systeem, met een directe Exact Online-koppeling. Het is duurder dan de rest in dit overzicht, maar het vervangt ook meer. Voor bureaus van 10-100 medewerkers is het een serieuze tijdsbesparing.
 
 ### Belangrijkste functies
 - **Alles-in-één** — Uren, projecten, CRM, offertes en facturatie in één tool

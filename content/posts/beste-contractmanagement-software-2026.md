@@ -40,7 +40,7 @@ Vorige maand hielp ik een bedrijf dat €14.000 per jaar kwijtraakte aan automat
 
 ## 1. Contractbook — Beste voor MKB
 
-Contractbook is een Deens platform dat contractmanagement eenvoudig maakt. Van template tot handtekening tot bewaking — alles in één intuïtieve tool.
+Contractbook is de tool die ik het vaakst aanbeveel voor MKB-contractbeheer. De interface is zo helder dat je geen training nodig hebt: template kiezen, invullen, laten ondertekenen, en het systeem herinnert je wanneer een contract afloopt. Die eenvoud maakt het verschil -- ik heb te veel bedrijven gezien die hun CLM-tool niet gebruiken omdat die te complex is.
 
 ### Belangrijkste functies
 - **Contract templates** — Maak herbruikbare sjablonen met variabelen
@@ -62,7 +62,7 @@ Contractbook is een Deens platform dat contractmanagement eenvoudig maakt. Van t
 
 ## 2. Juro — Beste voor scale-ups
 
-Juro is ontworpen voor juridische teams en scale-ups die hoog volume contracten verwerken. Het biedt in-browser bewerken (geen Word nodig).
+Juro is het platform dat ik noem zodra een bedrijf zegt: "We verwerken honderden contracten per maand en onze juristen zijn de bottleneck." De in-browser editor vervangt het eindeloze heen-en-weer-mailen van Word-bestanden, en de bulk-operaties besparen uren. Wel duur en gericht op grotere organisaties -- voor MKB is het vaak overkill.
 
 ### Belangrijkste functies
 - **Browser-native editor** — Contracten bewerken zonder Word
@@ -76,7 +76,7 @@ Juro is ontworpen voor juridische teams en scale-ups die hoog volume contracten 
 
 ## 3. PandaDoc — Beste voor offertes + contracten
 
-PandaDoc combineert offertes, voorstellen en contracten in één platform. Ideaal als je salescyclus van voorstel tot contract in één tool wilt beheren.
+PandaDoc is mijn budgettip en tegelijk het meest veelzijdige platform in dit overzicht. Wat mij overtuigde: je kunt de hele flow van offerte tot ondertekend contract in een tool afhandelen. Een salesteam dat ik begeleidde, halveerde hun doorlooptijd van voorstel naar deal ermee. En het onbeperkt digitaal ondertekenen zit al in het gratis plan.
 
 ### Belangrijkste functies
 - **Document builder** — Drag-and-drop offertes en contracten
@@ -98,7 +98,7 @@ PandaDoc combineert offertes, voorstellen en contracten in één platform. Ideaa
 
 ## 4. DocuSign CLM — Beste voor enterprise
 
-DocuSign is de wereldleider in digitale handtekeningen. Hun CLM-product breidt dat uit naar volledig contractmanagement op enterprise-schaal.
+DocuSign kennen de meeste mensen van de digitale handtekening, maar hun CLM-product is veel breder. Het is de Rolls-Royce onder de contractmanagement-tools: AI-analyse, compliance op het hoogste niveau, en de meest geaccepteerde digitale handtekening ter wereld. Maar ook de prijs is Rolls-Royce-niveau -- ik raad het alleen aan voor enterprise.
 
 ### Belangrijkste functies
 - **Digitale handtekening** — Meest geaccepteerde e-signature wereldwijd
@@ -112,7 +112,7 @@ DocuSign is de wereldleider in digitale handtekeningen. Hun CLM-product breidt d
 
 ## 5. Precisely — Beste voor NL/EU compliance
 
-Precisely (voorheen GetAccept) is een Scandinavisch platform met sterke focus op EU-compliance en GDPR. Populair in de Benelux.
+Precisely viel me op vanwege de EU-focus. Als GDPR-compliance en eIDAS-handtekeningen bij jou hoog op de agenda staan, is dit het platform dat daar het serieusts mee omgaat. De video-functie bij contractvoorstellen is een leuke bonus -- ik heb een klant die daarmee zijn close-rate verhoogde. Het is wel meer een sales-tool dan puur contractbeheer.
 
 ### Belangrijkste functies
 - **eIDAS-compliant** — AES en QES handtekeningen

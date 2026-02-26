@@ -59,13 +59,13 @@ Pipedrive wordt wereldwijd door meer dan 100.000 bedrijven gebruikt. In Nederlan
 
 ### Visuele salespipeline
 
-De kern van Pipedrive is de visuele salespipeline. Deals worden weergegeven als kaarten die je door de verschillende fases van je verkoopproces sleept -- van lead tot gewonnen deal. Dit kanban-achtige overzicht geeft direct inzicht in je verkoopstatus.
+De pipeline is de reden waarom ik Pipedrive aanbeveel. Het is zo simpel dat het bijna misleidend is: deals als kaarten die je door fases sleept, van lead tot gewonnen deal. Maar die eenvoud is precies wat werkt. Bij elke implementatie zie ik hetzelfde: salesteams die binnen een uur hun hele proces in beeld hebben.
 
 Je kunt meerdere pipelines aanmaken voor verschillende producten, diensten of processen. Elke pipeline is volledig aanpasbaar: voeg fases toe, hernoem ze of verwijder ze naar eigen inzicht.
 
 ### Contactbeheer
 
-Pipedrive biedt een gedegen contactbeheersysteem met:
+Het contactbeheer is solide — niet het meest uitgebreide dat ik ken, maar meer dan voldoende voor de meeste salesteams. Wat ik waardeer is de scheiding tussen organisaties en personen en de automatische verrijking van gegevens:
 
 - Organisaties en personen als gescheiden entiteiten
 - Aangepaste velden voor specifieke informatie
@@ -76,7 +76,7 @@ Pipedrive biedt een gedegen contactbeheersysteem met:
 
 ### Activiteitenbeheer
 
-Pipedrive werkt met een activiteiten-gedreven aanpak. Je plant activiteiten (bellen, mailen, vergaderen, offertes) en het systeem herinnert je eraan. Dit voorkomt dat leads door de mazen glippen.
+Dit is een onderschat sterk punt van Pipedrive. Het systeem dwingt je om bij elke deal een volgende actie te plannen — bellen, mailen, vergaderen, offerte sturen. Klinkt simpel, maar in de praktijk is dit precies waardoor leads niet meer door de mazen glippen.
 
 - Activiteitenkalender met dag-, week- en maandweergave
 - Herinneringen via e-mail en push-notificaties
@@ -147,15 +147,15 @@ Pipedrive heeft in 2025-2026 flink geinvesteerd in AI:
 
 ### 1. Uitzonderlijk gebruiksgemak
 
-Pipedrive is een van de meest intuïtieve CRM-systemen op de markt. De visuele pipeline is direct duidelijk, het toevoegen van deals en contacten gaat snel, en de navigatie is logisch. Nieuwe gebruikers zijn binnen een uur productief, zonder uitgebreide training.
+Van alle CRM-systemen die ik heb geimplementeerd, levert Pipedrive de minste weerstand op bij teams. De visuele pipeline is direct duidelijk, deals en contacten toevoegen gaat snel, en ik hoef zelden meer dan een uur training te geven. Dat klinkt als een detail, maar het is het verschil tussen een CRM dat wordt gebruikt en een dat na drie maanden stof vangt.
 
 ### 2. Sterke mobiele app
 
-De Pipedrive app voor iOS en Android is uitstekend. Je kunt deals beheren, activiteiten loggen, bellen, e-mailen en zelfs offline werken. Voor vertegenwoordigers die veel onderweg zijn, is dit een belangrijk pluspunt.
+De mobiele app is een van de beste die ik in CRM-land ben tegengekomen. Deals beheren, activiteiten loggen, bellen, e-mailen — het werkt allemaal vlot. De offline-functie is een echte plus voor verkopers die onderweg zijn en niet altijd bereik hebben.
 
 ### 3. Effectieve automatiseringen
 
-De workflow-automatiseringen (vanaf het Advanced-plan) zijn krachtig maar eenvoudig in te stellen. Je kunt repetitieve taken automatiseren zonder technische kennis. Dit bespaart tijd en zorgt voor consistentie in je verkoopproces.
+Vanaf het Advanced-plan worden de automatiseringen serieus nuttig. Ik stel bij klanten standaard een paar workflows in: automatisch een follow-up taak na een demo, een e-mail bij statuswijziging, een notificatie als een deal te lang stilstaat. Geen technische kennis nodig, en het scheelt uren per week.
 
 ### 4. Goede integraties
 
@@ -177,23 +177,23 @@ Pipedrive is volledig beschikbaar in het Nederlands, inclusief de helpdocumentat
 
 ### 1. Beperkte marketingfuncties
 
-Pipedrive is primair een sales-CRM. De marketingfuncties (via de Campaigns add-on) zijn basaal vergeleken met HubSpot of ActiveCampaign. Als marketing een belangrijk onderdeel is van je strategie, heb je een aanvullende tool nodig.
+Dit is het punt waar ik klanten altijd eerlijk over ben: Pipedrive is een sales-tool, geen marketing-platform. De Campaigns add-on is prima voor een simpele nieuwsbrief, maar als je serieuze campagnes wilt draaien, heb je iets als HubSpot of ActiveCampaign ernaast nodig.
 
 ### 2. Rapportages in het Essential-plan zijn beperkt
 
-De basis rapportages in het Essential-plan geven een globaal overzicht, maar aangepaste rapporten en diepere analyses vereisen het Professional-plan (€49,90/gebruiker/mnd). Dit kan de kosten flink opdrijven.
+Een veelvoorkomende frustratie die ik tegenkom: je start met het Essential-plan, maar zodra je serieuze rapportages wilt draaien, moet je naar Professional (€49,90/gebruiker/mnd). Dat is een flinke stap die de kosten snel opdrijft.
 
 ### 3. Kosten lopen op bij groeiende teams
 
-Omdat prijzen per gebruiker zijn, stijgen de kosten lineair. Een team van 10 verkopers op het Professional-plan betaalt €499 per maand -- en dan zijn add-ons nog niet meegerekend.
+De per-user pricing is fair, maar het tikt door. Ik reken het altijd even voor bij klanten: 10 verkopers op Professional is €499 per maand, en dan komen de add-ons er nog bovenop. Niet onredelijk voor wat je krijgt, maar iets om bewust mee te nemen in je budget.
 
 ### 4. Geen gratis plan
 
-Anders dan HubSpot biedt Pipedrive geen gratis plan. De 14-dagen trial is een goede kennismaking, maar na afloop moet je betalen of stoppen. Voor ZZP'ers die nog twijfelen, is de gratis CRM van HubSpot een laagdrempelig alternatief.
+Dit merk ik vooral bij ZZP'ers die aarzelen: er is geen gratis plan. Je krijgt 14 dagen om te testen en dan moet je kiezen. Vergelijk dat met HubSpot, dat een gratis CRM biedt waarmee je onbeperkt kunt starten. Voor twijfelaars is dat een lagere drempel.
 
 ### 5. Customer service kan beter
 
-De support is bereikbaar via chat en e-mail, maar telefonische ondersteuning is pas beschikbaar vanaf het Power-plan. Reactietijden via chat zijn doorgaans goed, maar bij complexere vragen kan het langer duren.
+De chat-support is doorgaans prima — snelle reacties op standaardvragen. Maar bij complexere issues heb ik gemerkt dat het langer duurt, en telefonische ondersteuning zit pas in het Power-plan. Voor teams die af en toe een helpdesk-medewerker aan de lijn willen hebben, is dat een minpunt.
 
 ---
 
@@ -231,7 +231,7 @@ Pipedrive is minder geschikt voor:
 
 ---
 
-## Onze ervaring met Pipedrive instellen
+## Mijn ervaring met Pipedrive instellen
 
 ### Stap 1: Account aanmaken en pipeline inrichten
 
@@ -257,7 +257,7 @@ Maak je eerste deals aan, koppel ze aan contacten en plan activiteiten. Binnen e
 
 ## Conclusie: is Pipedrive het waard?
 
-Pipedrive verdient zijn reputatie als een van de beste sales-CRM's voor het MKB. De visuele pipeline, het gebruiksgemak en de effectieve automatiseringen maken het een krachtige tool voor elk bedrijf dat zijn verkoopproces wil stroomlijnen.
+Kort antwoord: ja. Pipedrive is het CRM dat ik het vaakst aanbeveel, en waar ik het minste klachten over terughoor. Het doet een ding — sales — en het doet dat goed. Geen overbodige complexiteit, geen feature-bloat, gewoon een tool die je team helpt meer deals te sluiten.
 
 **Mijn aanbeveling**:
 
@@ -265,6 +265,6 @@ Pipedrive verdient zijn reputatie als een van de beste sales-CRM's voor het MKB.
 - **Kies Professional** (€49,90/gebruiker/mnd) als je uitgebreide rapportages en revenue forecasting nodig hebt.
 - **ZZP'ers** kunnen prima starten met het Essential-plan (€14,90/mnd) en upgraden wanneer nodig.
 
-[Probeer Pipedrive 14 dagen gratis]({{pipedrive_link}})
+[Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
 
 Bekijk ook ons brede overzicht van de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) en ons artikel over [CRM voor ZZP'ers en freelancers](/posts/beste-crm-zzp-freelancers-2026/).

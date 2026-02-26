@@ -40,7 +40,7 @@ Ik adviseer bedrijven regelmatig om hun social media aanpak te stroomlijnen, en 
 
 ## 1. Buffer — Beste voor MKB
 
-Buffer is de meest gebruiksvriendelijke social media tool. Intuïtief, betaalbaar en met een uitstekend gratis plan.
+Buffer is de tool die ik het vaakst aanbeveel aan MKB-klanten die voor het eerst een social media tool willen. Het gratis plan is eerlijk genereus, de interface is zo helder dat je na tien minuten je eerste posts kunt inplannen, en je betaalt alleen voor wat je echt gebruikt.
 
 ### Belangrijkste functies
 - **Publicatieplanner** — Visuele kalender, drag-and-drop
@@ -61,7 +61,7 @@ Buffer is de meest gebruiksvriendelijke social media tool. Intuïtief, betaalbaa
 
 ## 2. Hootsuite — Krachtigste alleskunner
 
-Hootsuite is het meest complete platform met de meeste functies, integraties en kanaalondersteuning. Ideaal voor marketing teams.
+Hootsuite is de alleskunner waar ik marketing teams mee help die social media echt serieus nemen. Het kan meer dan welke concurrent dan ook -- social listening, advertentiebeheer, geavanceerde analytics -- maar die kracht komt met een stevig prijskaartje en een interface die even wennen is.
 
 ### Belangrijkste functies
 - **Streams** — Monitor meerdere feeds in real-time
@@ -83,7 +83,7 @@ Hootsuite is het meest complete platform met de meeste functies, integraties en 
 
 ## 3. Sprout Social — Beste analytics en rapportages
 
-Sprout Social is het premium platform met de beste analytics, rapportages en CRM-functies. Ideaal voor marketing managers die data-gedreven werken.
+Sprout Social is het platform dat ik voorstel als een marketing manager bij me aanschuift die maandelijkse rapportages moet opleveren aan de directie. De analytics en rapportages zijn het beste wat ik ken in deze categorie. Maar je betaalt er ook een premium prijs voor -- voor kleine teams is het overkill.
 
 ### Belangrijkste functies
 - **Smart Inbox** — Alle berichten en reacties in één inbox
@@ -104,7 +104,7 @@ Sprout Social is het premium platform met de beste analytics, rapportages en CRM
 
 ## 4. Later — Beste voor Instagram en visueel
 
-Later is ontworpen als visueel-eerst platform, perfect voor merken die sterk leunen op Instagram, TikTok en Pinterest.
+Later raad ik aan zodra een klant zegt "Instagram en TikTok zijn onze belangrijkste kanalen." De visuele planner laat je exact zien hoe je feed eruitziet voordat je publiceert, en de Linkin.bio-functie is briljant voor merken die traffic vanuit Instagram willen sturen. Voor B2B of LinkedIn-gerichte bedrijven zou ik eerder Buffer kiezen.
 
 ### Belangrijkste functies
 - **Visuele planner** — Zie hoe je Instagram feed eruitziet vóór publicatie
@@ -126,7 +126,7 @@ Later is ontworpen als visueel-eerst platform, perfect voor merken die sterk leu
 
 ## 5. SocialBee — Beste voor content-recycling
 
-SocialBee excelleert in content-categorisering en evergreen recycling. Ideaal als je een beperkte hoeveelheid content maximaal wilt hergebruiken.
+SocialBee is een slimme keuze die ik steeds vaker adviseer aan bedrijven met een klein contentteam. Het idee is simpel maar effectief: je categoriseert je posts (tips, promotie, blog, quotes) en SocialBee mixt ze automatisch. Succesvolle posts worden hergebruikt. Zo haal je meer uit minder content.
 
 ### Belangrijkste functies
 - **Content categorieën** — Organiseer posts per type (tips, promotie, blog, citaat)

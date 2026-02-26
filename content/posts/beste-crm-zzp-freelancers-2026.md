@@ -45,7 +45,7 @@ Zoek je een breder overzicht van CRM-oplossingen, ook voor grotere teams? Bekijk
 
 ## 1. HubSpot Free CRM
 
-HubSpot biedt het meest uitgebreide gratis CRM op de markt, en voor ZZP'ers is het een goudmijn. Je krijgt contactbeheer, deal tracking, e-mail integratie en zelfs beperkte marketing tools -- allemaal zonder een cent te betalen. Het platform groeit met je mee als je bedrijf groeit.
+HubSpot Free CRM is de eerste tool die ik noem als een ZZP'er vraagt: "Wat moet ik nemen?" Je krijgt contactbeheer, deal tracking en e-mail integratie cadeau -- en dan bedoel ik echt gratis, niet "14 dagen proberen". Ik ken freelancers die er al twee jaar op draaien zonder een cent te betalen. De truc is: niet verleid raken door de dure upsells.
 
 Benieuwd hoe HubSpot zich verhoudt tot Pipedrive? Lees dan onze uitgebreide [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-2026/).
 
@@ -79,13 +79,13 @@ Benieuwd hoe HubSpot zich verhoudt tot Pipedrive? Lees dan onze uitgebreide [Hub
 - Kan overweldigend zijn door de veelheid aan functies
 - Geavanceerde automatisering pas vanaf Professional (€90/mnd)
 
-[Start gratis met HubSpot CRM]({{hubspot_link}})
+[Start gratis met HubSpot CRM](https://www.hubspot.com/nl)
 
 ---
 
 ## 2. Pipedrive
 
-Pipedrive is gebouwd voor verkoop en dat merk je. De visuele pipeline maakt het direct duidelijk waar je deals staan en wat je volgende actie moet zijn. Voor ZZP'ers die actief aan acquisitie doen -- offertes versturen, leads opvolgen, netwerkcontacten beheren -- is Pipedrive de beste keuze.
+Pipedrive is voor de ZZP'er die serieus aan acquisitie doet. Ik adviseerde het laatst aan een freelance consultant die vijftien offertes tegelijk in de lucht had en het overzicht kwijtraakte. Na een week Pipedrive zei hij: "Ik snap nu eindelijk waar al mijn deals staan." Die visuele pipeline is verslavend -- je wilt niets meer laten liggen.
 
 ### Belangrijkste functies
 - Visuele sales pipeline met aanpasbare fases
@@ -116,13 +116,13 @@ Pipedrive is gebouwd voor verkoop en dat merk je. De visuele pipeline maakt het 
 - Voor ZZP'ers met weinig leads misschien te uitgebreid
 - Kosten tellen op als je meerdere tools nodig hebt
 
-[Probeer Pipedrive 14 dagen gratis]({{pipedrive_link}})
+[Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
 
 ---
 
 ## 3. Monday CRM
 
-Monday.com is van oorsprong een projectmanagement-tool en dat is een groot voordeel voor freelancers die sales en projecten willen combineren. Je kunt klantcontacten beheren, deals tracken en vervolgens gewonnen opdrachten direct als project opzetten -- alles in een platform.
+Monday CRM is de keuze die ik maak voor freelancers die hun sales en projecten niet in twee losse tools willen beheren. De kracht zit in die combinatie: je wint een deal en zet hem direct om in een project met taken en deadlines. Een freelance designer die ik begeleidde, noemde het "de eerste tool waar ik niet omheen hoef te werken."
 
 Voor een bredere vergelijking van projectmanagement-tools, bekijk ons artikel over de [beste projectmanagement software](/posts/beste-projectmanagement-software-2026/).
 
@@ -157,13 +157,13 @@ Voor een bredere vergelijking van projectmanagement-tools, bekijk ons artikel ov
 - Geen ingebouwde facturatie-koppeling met Nederlandse tools
 - CRM-specifieke functies als e-mail tracking minder diepgaand
 
-[Start met Monday CRM]({{monday_link}})
+[Start met Monday CRM](https://monday.com/lang/nl)
 
 ---
 
 ## 4. Notion (als CRM)
 
-Notion is geen CRM in de traditionele zin, maar veel freelancers gebruiken het als zodanig. Met Notion's krachtige databases kun je een volledig op maat gemaakt klantbeheersysteem opzetten. De kracht zit in de flexibiliteit: je combineert klantbeheer, projectnotities, kennisbank en takenlijsten in een werkruimte.
+Notion als CRM is een optie die ik met een kanttekening aanbeveel. Als je toch al in Notion leeft -- notities, projecten, wiki -- dan is het logisch om daar ook je klanten bij te zetten. Maar verwacht geen e-mail tracking of pipeline-automatisering. Ik gebruik het zelf voor een handvol vaste klanten, en daarvoor werkt het prima. Maar zodra je serieus gaat acquireren, adviseer ik een echt CRM.
 
 ### Hoe gebruik je Notion als CRM?
 
@@ -194,13 +194,13 @@ Notion is geen CRM in de traditionele zin, maar veel freelancers gebruiken het a
 - Rapportages zijn beperkt vergeleken met echte CRM's
 - Niet geschikt als je serieuze sales-processen hebt
 
-[Start gratis met Notion]({{notion_link}})
+[Start gratis met Notion](https://www.notion.so/)
 
 ---
 
 ## 5. Google Contacts + Google Sheets
 
-De meest basale en gratis oplossing: gebruik Google Contacts voor je contactbeheer en Google Sheets als eenvoudige deal tracker. Het is geen CRM in de traditionele zin, maar voor ZZP'ers met een handvol klanten en een minimaal budget kan het een werkbare startoplossing zijn.
+Dit is de optie die ik noem als iemand zegt: "Ik heb echt nul euro budget." Google Contacts plus een simpele Google Sheet als deal-tracker. Is het een CRM? Eigenlijk niet. Maar ik heb ZZP'ers begeleid die hier een jaar prima mee draaiden tot ze genoeg klanten hadden om een echte tool te rechtvaardigen. Eerlijk en werkbaar, zolang je minder dan twintig leads hebt.
 
 ### Hoe zet je dit op?
 
@@ -234,7 +234,7 @@ De meest basale en gratis oplossing: gebruik Google Contacts voor je contactbehe
 
 ## 6. Freshsales
 
-Freshsales (van Freshworks) is een relatief onbekend maar krachtig CRM dat een uitstekende optie is voor ZZP'ers en freelancers die meer zoeken dan een gratis basispakket, maar minder willen betalen dan bij Pipedrive. Het biedt AI-gestuurde functies, ingebouwde telefonie en e-mail, en een overzichtelijk gratis plan.
+Freshsales is mijn dark horse in dit overzicht. Weinig ZZP'ers kennen het, maar het biedt opvallend veel voor de prijs: AI-lead scoring, ingebouwde telefonie en e-mail, en een betaald plan vanaf slechts €9 per maand. Ik heb het getest als alternatief voor Pipedrive en was positief verrast. Het enige nadeel: de Nederlandse community is klein, dus je bent meer op jezelf aangewezen.
 
 ### Belangrijkste functies
 - Contactbeheer met activiteitentijdlijn
@@ -267,7 +267,7 @@ Freshsales (van Freshworks) is een relatief onbekend maar krachtig CRM dat een u
 - Interface volledig in het Engels
 - Gratis plan beperkter dan HubSpot Free
 
-[Probeer Freshsales gratis]({{freshsales_link}})
+[Probeer Freshsales gratis](https://www.freshworks.com/nl/crm/)
 
 ---
 
@@ -277,23 +277,23 @@ De beste keuze hangt af van hoe je werkt en wat je nodig hebt. Hier zijn typisch
 
 ### Scenario 1: Je begint net als ZZP'er
 
-Je hebt nog weinig klanten en een minimaal budget. **Start met [HubSpot Free CRM]({{hubspot_link}})**. Het is gratis, uitgebreid genoeg om mee te beginnen en groeit met je mee. Alternatief: als je al met Google werkt, begin dan met Google Contacts + Sheets totdat je meer dan 15-20 klanten hebt.
+Je hebt nog weinig klanten en een minimaal budget. **Start met [HubSpot Free CRM](https://www.hubspot.com/nl)**. Het is gratis, uitgebreid genoeg om mee te beginnen en groeit met je mee. Alternatief: als je al met Google werkt, begin dan met Google Contacts + Sheets totdat je meer dan 15-20 klanten hebt.
 
 ### Scenario 2: Je doet actief acquisitie
 
-Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces stroomlijnen. **Kies [Pipedrive]({{pipedrive_link}})**. De visuele pipeline en automatische herinneringen zorgen dat je geen kans mist. De investering van €14,90/maand verdient zich snel terug als je er een extra opdracht mee binnenhaalt.
+Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces stroomlijnen. **Kies [Pipedrive](https://www.pipedrive.com/nl)**. De visuele pipeline en automatische herinneringen zorgen dat je geen kans mist. De investering van €14,90/maand verdient zich snel terug als je er een extra opdracht mee binnenhaalt.
 
 ### Scenario 3: Je combineert sales met projecten
 
-Je bent een freelance designer, developer of consultant die deals wil tracken en vervolgens projecten wil managen. **Kies [Monday CRM]({{monday_link}})**. De combinatie van CRM en projectmanagement in een tool bespaart je het jongleren met meerdere systemen.
+Je bent een freelance designer, developer of consultant die deals wil tracken en vervolgens projecten wil managen. **Kies [Monday CRM](https://monday.com/lang/nl)**. De combinatie van CRM en projectmanagement in een tool bespaart je het jongleren met meerdere systemen.
 
 ### Scenario 4: Je wilt alles in een tool
 
-Je bent al een Notion-gebruiker en wilt klantbeheer integreren in je bestaande werkruimte. **Gebruik [Notion als CRM]({{notion_link}})**. Het vergt meer opzettijd, maar je hebt alles op een plek: klanten, projecten, notities en kennis.
+Je bent al een Notion-gebruiker en wilt klantbeheer integreren in je bestaande werkruimte. **Gebruik [Notion als CRM](https://www.notion.so/)**. Het vergt meer opzettijd, maar je hebt alles op een plek: klanten, projecten, notities en kennis.
 
 ### Scenario 5: Je groeit en zoekt meer dan een basis-CRM
 
-Je freelance-business groeit, je hebt steeds meer leads en wilt AI-ondersteuning bij het prioriteren. **Kies [Freshsales]({{freshsales_link}})**. De combinatie van AI-lead scoring, ingebouwde telefonie en een lage prijs maakt het ideaal voor groeiende freelancers.
+Je freelance-business groeit, je hebt steeds meer leads en wilt AI-ondersteuning bij het prioriteren. **Kies [Freshsales](https://www.freshworks.com/nl/crm/)**. De combinatie van AI-lead scoring, ingebouwde telefonie en een lage prijs maakt het ideaal voor groeiende freelancers.
 
 ## Tips voor CRM-gebruik als ZZP'er
 
@@ -309,11 +309,11 @@ Je freelance-business groeit, je hebt steeds meer leads en wilt AI-ondersteuning
 
 Voor ZZP'ers en freelancers geldt: het beste CRM is het CRM dat je daadwerkelijk gebruikt. Een eenvoudige tool die je bijhoudt, is waardevoller dan een geavanceerd systeem dat stof verzamelt. Hier zijn onze aanbevelingen:
 
-- **Beste gratis CRM voor ZZP'ers**: [HubSpot Free CRM]({{hubspot_link}}) -- het meest complete gratis pakket dat meegroeit met je bedrijf.
-- **Beste voor actieve acquisitie**: [Pipedrive]({{pipedrive_link}}) -- de visuele pipeline en slimme herinneringen helpen je om geen deal te missen.
-- **Beste voor sales + projecten**: [Monday CRM]({{monday_link}}) -- ideaal als je CRM en projectmanagement wilt combineren.
-- **Beste voor Notion-gebruikers**: [Notion]({{notion_link}}) -- flexibel en gratis, mits je bereid bent het zelf in te richten.
+- **Beste gratis CRM voor ZZP'ers**: [HubSpot Free CRM](https://www.hubspot.com/nl) -- het meest complete gratis pakket dat meegroeit met je bedrijf.
+- **Beste voor actieve acquisitie**: [Pipedrive](https://www.pipedrive.com/nl) -- de visuele pipeline en slimme herinneringen helpen je om geen deal te missen.
+- **Beste voor sales + projecten**: [Monday CRM](https://monday.com/lang/nl) -- ideaal als je CRM en projectmanagement wilt combineren.
+- **Beste voor Notion-gebruikers**: [Notion](https://www.notion.so/) -- flexibel en gratis, mits je bereid bent het zelf in te richten.
 - **Beste voor nul budget**: Google Contacts + Sheets -- de meest basale maar werkbare gratis oplossing.
-- **Beste budget-CRM met AI**: [Freshsales]({{freshsales_link}}) -- krachtige functies voor een scherpe prijs.
+- **Beste budget-CRM met AI**: [Freshsales](https://www.freshworks.com/nl/crm/) -- krachtige functies voor een scherpe prijs.
 
-Ons advies: start vandaag met het gratis plan van HubSpot of Freshsales. Het kost je niets om te beginnen en je ontdekt snel of een CRM je manier van werken verbetert. En dat doet het vrijwel altijd.
+Mijn advies: start vandaag met het gratis plan van HubSpot of Freshsales. Het kost je niets om te beginnen en je ontdekt snel of een CRM je manier van werken verbetert. En dat doet het vrijwel altijd.

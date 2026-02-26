@@ -43,9 +43,7 @@ Saloneigenaren die ik help hebben vaak hetzelfde probleem: ze zijn zo druk met k
 
 ## 1. Salonkee
 
-Salonkee is een alles-in-een salonmanagement platform dat in Europa snel aan populariteit wint. Het systeem is specifiek ontworpen voor kappers, schoonheidssalons, barbershops en nagelstudio's. De kracht van Salonkee zit in de volledigheid: van online boekingen tot kassabeheer, van klantprofielen tot voorraadbeheer, alles zit in een systeem.
-
-De interface is modern en overzichtelijk, ontworpen met de dagelijkse praktijk van een salon in het achterhoofd. Je medewerkers kunnen het systeem bedienen op een tablet aan de receptie, terwijl je als eigenaar op je telefoon de omzetcijfers bijhoudt.
+Salonkee is de tool die ik aanbeveel aan salons die alles in een systeem willen. Ik heb het laten zien aan een paar saloneigenaren en wat me opviel: de interface voelt modern en logisch. Je medewerkers bedienen het op een tablet bij de receptie, jij checkt de omzetcijfers op je telefoon. Boekingen, kassa, klantprofielen, voorraadbeheer -- alles zit erin zonder dat het rommelig wordt.
 
 ### Belangrijkste functies
 - Online boekingspagina met eigen branding
@@ -83,15 +81,13 @@ De interface is modern en overzichtelijk, ontworpen met de dagelijkse praktijk v
 - Beperkte integraties met externe systemen
 - Leercurve bij de uitgebreidere functies
 
-[Bekijk Salonkee]({{salonkee_link}})
+[Bekijk Salonkee](https://salonkee.com/)
 
 ---
 
 ## 2. Treatwell Pro (voorheen Salonized Connect)
 
-Treatwell is het grootste platform voor salon-boekingen in Europa, met miljoenen consumenten die maandelijks een kapper of schoonheidsspecialist zoeken. Treatwell Pro is de beheersoftware voor salons die via Treatwell worden geboekt, maar het biedt ook een eigen boekingspagina en managementtools.
-
-Het unieke van Treatwell Pro is de dubbele werking: je krijgt niet alleen software om je salon te beheren, maar ook toegang tot het Treatwell-platform waar potentiële klanten je kunnen vinden en boeken. Dit maakt Treatwell Pro bijzonder interessant voor salons die hun klantenbestand willen uitbreiden.
+Treatwell Pro is interessant om een andere reden dan de meeste salon software: het geeft je direct toegang tot miljoenen consumenten die via het Treatwell-platform een kapper of salon zoeken. Ik adviseer het vooral aan salons die nieuw zijn of hun klantenbestand willen uitbreiden. Je krijgt beheersoftware plus een marketingkanaal in een. Het nadeel? Je betaalt commissie op boekingen via het platform, en daar moet je mee leren leven.
 
 ### Belangrijkste functies
 - Zichtbaarheid op het Treatwell-consumentenplatform
@@ -125,15 +121,13 @@ Het unieke van Treatwell Pro is de dubbele werking: je krijgt niet alleen softwa
 - Prijzen niet transparant op de website
 - Minder controle over je eigen boekingsproces
 
-[Bekijk Treatwell Pro]({{treatwell_link}})
+[Bekijk Treatwell Pro](https://www.treatwell.nl/)
 
 ---
 
 ## 3. Phorest
 
-Phorest is een Iers salonmanagement platform dat zich onderscheidt door een sterke focus op marketing en klantloyaliteit. Het platform is populair bij ambitieuze salons die niet alleen hun afspraken willen beheren, maar actief hun omzet willen verhogen via gerichte marketingcampagnes, reviews en loyaliteitsprogramma's.
-
-Phorest noemt zichzelf "de salon software die je helpt groeien" en dat is geen loze belofte. De ingebouwde marketingtools zijn verreweg de meest uitgebreide in dit overzicht. Van geautomatiseerde verjaardagsmails tot gerichte campagnes voor klanten die al een tijdje niet zijn geweest: Phorest doet het allemaal.
+Phorest beveel ik aan bij salons die niet alleen hun agenda willen beheren, maar echt willen groeien. De marketingtools zijn het sterkste punt -- geautomatiseerde verjaardagsmails, campagnes voor klanten die al een tijdje niet zijn geweest, reviewverzoeken. Geen enkel ander salonpakket in dit overzicht komt daar in de buurt. Wel is het prijziger en in Nederland minder bekend dan in Ierland en het VK, waar het vandaan komt.
 
 ### Belangrijkste functies
 - Online boekingssysteem met slimme suggesties
@@ -171,15 +165,13 @@ Phorest noemt zichzelf "de salon software die je helpt groeien" en dat is geen l
 - Interface is minder modern dan Salonkee
 - Minder bekend in Nederland dan in Ierland en het VK
 
-[Bekijk Phorest]({{phorest_link}})
+[Bekijk Phorest](https://www.phorest.com/)
 
 ---
 
 ## 4. Planfy
 
-Planfy is de budgetvriendelijke optie in dit overzicht en biedt een gratis plan dat voor de kleinste salons al bruikbaar is. Het platform is niet specifiek voor salons ontworpen (het wordt ook gebruikt door coaches, therapeuten en andere dienstverleners), maar de functies sluiten goed aan bij de behoeften van kappers en schoonheidssalons.
-
-De kracht van Planfy is de eenvoud. Je hebt binnen een half uur een online boekingspagina die je kunt delen met klanten. Geen ingewikkelde configuratie, geen onnodige functies, gewoon een werkend boekingssysteem.
+Planfy raad ik aan als een saloneigenaar zegt: "Ik wil gewoon dat klanten online kunnen boeken, zonder poespas." Binnen een half uur heb je een werkende boekingspagina. Het is niet specifiek voor salons gebouwd -- coaches en therapeuten gebruiken het ook -- maar voor een eenpersoonskapsalon of kleine nagelstudio is het precies genoeg. En het gratis plan is eerlijk bruikbaar.
 
 ### Belangrijkste functies
 - Online boekingspagina
@@ -214,15 +206,13 @@ De kracht van Planfy is de eenvoud. Je hebt binnen een half uur een online boeki
 - Geen loyaliteitsprogramma
 - Minder geschikt voor grotere salons
 
-[Start gratis met Planfy]({{planfy_link}})
+[Start gratis met Planfy](https://planfy.com/)
 
 ---
 
 ## 5. SimplyBook.me
 
-SimplyBook.me is een internationaal boekingsplatform dat door duizenden salons wereldwijd wordt gebruikt. Het platform is modulair opgebouwd: je begint met een basispakket en voegt naar behoefte extra functies toe via "custom features". Dit maakt het flexibel en betaalbaar, want je betaalt alleen voor wat je gebruikt.
-
-SimplyBook.me biedt een gratis plan met beperkte boekingen per maand, wat het ideaal maakt om te testen. Het betaalde plan is scherp geprijsd en biedt aanzienlijk meer mogelijkheden.
+SimplyBook.me is de optie die ik noem als budget de doorslag geeft. Het modulaire systeem is slim opgezet: je begint goedkoop en schakelt alleen de functies bij die je nodig hebt. De prijs is scherper dan vrijwel elke concurrent. Het is niet de mooiste of meest salonspecifieke software, maar de koppeling met Instagram, Facebook en Google Reserve maakt het bijzonder praktisch voor salons die via social media boekingen binnenhalen.
 
 ### Belangrijkste functies
 - Online boekingspagina en widget
@@ -260,15 +250,13 @@ SimplyBook.me biedt een gratis plan met beperkte boekingen per maand, wat het id
 - Klantenbeheer minder uitgebreid
 - Geen voorraadbeheer
 
-[Start gratis met SimplyBook.me]({{simplybookme_link}})
+[Start gratis met SimplyBook.me](https://simplybook.me/nl/)
 
 ---
 
 ## 6. Salonized
 
-Salonized is een Nederlandse salon software die specifiek is ontwikkeld voor de Nederlandse markt. Het platform combineert online boekingen, agenda, kassa en klantenbeheer in een overzichtelijk systeem. De Nederlandse oorsprong zorgt voor een interface in correct Nederlands, lokale support en integraties die aansluiten bij de Nederlandse markt.
-
-Voor salons die waarde hechten aan een Nederlandstalig systeem met persoonlijke support, is Salonized een sterke keuze. Het platform wordt actief doorontwikkeld en luistert naar feedback van gebruikers.
+Salonized noem ik altijd als een saloneigenaar zegt "ik wil gewoon Nederlandse software met Nederlandse support." Het is hier gebouwd, de interface is in foutloos Nederlands, en als je belt krijg je iemand aan de lijn die de salonbranche kent. Wat ik er ook sterk aan vind: de specifieke salonvelden voor kleurformules en consultformulieren -- dat hebben de internationale concurrenten niet. Een solide keuze voor salons met 2-10 medewerkers.
 
 ### Belangrijkste functies
 - Online boekingspagina in het Nederlands
@@ -308,7 +296,7 @@ Voor salons die waarde hechten aan een Nederlandstalig systeem met persoonlijke 
 
 Werk je in de horeca in plaats van de beautybranche? Lees dan ons artikel over het [beste kassasysteem voor horeca](/posts/beste-kassasysteem-horeca-2026/) voor een vergelijking van horecaspecifieke oplossingen.
 
-[Start met Salonized]({{salonized_link}})
+[Start met Salonized](https://www.salonized.com/nl/)
 
 ---
 
@@ -357,11 +345,11 @@ Zoek je ook een goed CRM-systeem om je klantrelaties te beheren? Lees dan ons ar
 
 De juiste salon software transformeert je dagelijkse werkzaamheden. Minder telefoon, minder no-shows, meer overzicht en uiteindelijk meer omzet. Hier zijn onze eindaanbevelingen:
 
-- **Beste alles-in-een salon software**: [Salonkee]({{salonkee_link}}) -- compleet platform met uitstekend kassasysteem en moderne interface.
-- **Beste voor klantenwerving**: [Treatwell Pro]({{treatwell_link}}) -- ongeëvenaarde zichtbaarheid via het Treatwell-consumentenplatform.
-- **Beste voor marketing en groei**: [Phorest]({{phorest_link}}) -- de krachtigste marketingtools en loyaliteitsprogramma's.
-- **Beste gratis optie**: [Planfy]({{planfy_link}}) -- eenvoudig en gratis starten met online boekingen.
-- **Beste budget-keuze**: [SimplyBook.me]({{simplybookme_link}}) -- modulair en betaalbaar, met veel aanpassingsmogelijkheden.
-- **Beste voor Nederlandse salons**: [Salonized]({{salonized_link}}) -- Nederlandse software met salon-specifieke functies en persoonlijke support.
+- **Beste alles-in-een salon software**: [Salonkee](https://salonkee.com/) -- compleet platform met uitstekend kassasysteem en moderne interface.
+- **Beste voor klantenwerving**: [Treatwell Pro](https://www.treatwell.nl/) -- ongeëvenaarde zichtbaarheid via het Treatwell-consumentenplatform.
+- **Beste voor marketing en groei**: [Phorest](https://www.phorest.com/) -- de krachtigste marketingtools en loyaliteitsprogramma's.
+- **Beste gratis optie**: [Planfy](https://planfy.com/) -- eenvoudig en gratis starten met online boekingen.
+- **Beste budget-keuze**: [SimplyBook.me](https://simplybook.me/nl/) -- modulair en betaalbaar, met veel aanpassingsmogelijkheden.
+- **Beste voor Nederlandse salons**: [Salonized](https://www.salonized.com/nl/) -- Nederlandse software met salon-specifieke functies en persoonlijke support.
 
-Ons advies: vraag een demo of start een proefperiode bij minimaal twee van deze tools. Let daarbij niet alleen op de functies, maar ook op hoe prettig het systeem werkt in de dagelijkse praktijk van jouw salon. De beste software is de software die jij en je team graag gebruiken.
+Mijn advies: vraag een demo of start een proefperiode bij minimaal twee van deze tools. Let daarbij niet alleen op de functies, maar ook op hoe prettig het systeem werkt in de dagelijkse praktijk van jouw salon. De beste software is de software die jij en je team graag gebruiken.

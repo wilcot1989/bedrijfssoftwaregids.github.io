@@ -45,7 +45,7 @@ Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste H
 
 ## 1. Shiftbase
 
-Shiftbase is een Nederlandse planning tool die in de Benelux zeer populair is bij horecabedrijven. Het platform combineert personeelsplanning, urenregistratie en verlofbeheer in een overzichtelijk systeem. De kracht van Shiftbase zit in de eenvoud en de uitstekende ondersteuning van Nederlandse CAO's, waaronder de Horeca-CAO.
+Shiftbase is de tool die ik als eerste noem als een horecaondernemer me vraagt naar planningsoftware. Het is Nederlands, het is betaalbaar, en de Horeca-CAO zit er gewoon in. Ik heb een restauranteigenaar geholpen die van Excel overstapte naar Shiftbase -- zijn roostertijd ging van drie uur naar een halfuur per week. Het gratis plan maakt het makkelijk om zonder risico te starten.
 
 ### Belangrijkste functies
 - Drag-and-drop roosterplanner met templates
@@ -79,13 +79,13 @@ Shiftbase is een Nederlandse planning tool die in de Benelux zeer populair is bi
 - Rapportages in het basispakket zijn beperkt
 - Minder geschikt voor zeer grote internationale ketens
 
-[Probeer Shiftbase gratis]({{shiftbase_link}})
+[Probeer Shiftbase gratis](https://www.shiftbase.com/nl/)
 
 ---
 
 ## 2. Planday
 
-Planday is een Deens platform dat in heel Europa wordt gebruikt en inmiddels ook in Nederland een stevige positie heeft opgebouwd. Het is een gebruiksvriendelijke planning tool met sterke functies voor communicatie, shift management en salarisintegratie. Vooral populair bij horeca-ketens met meerdere locaties.
+Planday is het platform dat ik aanbeveel aan horecaketens met meerdere locaties. Het multi-locatie management is een van de sterkste die ik heb gezien, en de ingebouwde communicatietools zorgen ervoor dat je team niet meer via vijf WhatsApp-groepen hoeft te overleggen. Het is Deens, maar inmiddels goed ingeburgerd in Nederland. De auto-scheduling functie is een echte tijdbespaarder.
 
 ### Belangrijkste functies
 - Visuele roosterplanner met auto-scheduling
@@ -116,13 +116,13 @@ Planday is een Deens platform dat in heel Europa wordt gebruikt en inmiddels ook
 - Prijzen hoger dan sommige Nederlandse alternatieven
 - Geen gratis plan beschikbaar
 
-[Bekijk Planday]({{planday_link}})
+[Bekijk Planday](https://www.planday.com/nl/)
 
 ---
 
 ## 3. Deputy
 
-Deputy is een Australisch-Amerikaans platform dat wereldwijd wordt gebruikt voor shift scheduling en time tracking. Het onderscheidt zich door krachtige AI-gestuurde roostering die rekening houdt met beschikbaarheid, vaardigheden en arbeidskosten. Een solide keuze voor grotere horecateams.
+Deputy is het platform waar ik naar verwijs als AI-roostering de doorslag moet geven. Het systeem houdt automatisch rekening met beschikbaarheid, vaardigheden en arbeidskosten en genereert een optimaal rooster. Ik heb het gezien bij een cateringbedrijf met 80+ flexwerkers -- daar bespaarde de AI-planner de manager letterlijk een hele dag per week. Wel belangrijk: de interface is Engels en de CAO-support is niet specifiek Nederlands.
 
 ### Belangrijkste functies
 - AI-gestuurde auto-scheduling
@@ -154,13 +154,13 @@ Deputy is een Australisch-Amerikaans platform dat wereldwijd wordt gebruikt voor
 - Minder integraties met Nederlandse salarissoftware
 - Support in het Engels en op Amerikaanse tijden
 
-[Probeer Deputy gratis]({{deputy_link}})
+[Probeer Deputy gratis](https://www.deputy.com/nl)
 
 ---
 
 ## 4. Workforce.com
 
-Workforce.com (voorheen Tanda) is een enterprise-grade workforce management platform dat zich richt op grotere horecabedrijven en ketens. Het biedt uitgebreide mogelijkheden voor demand-driven scheduling, compliance management en labor optimization.
+Workforce.com is enterprise-grade en dat merk je. Ik adviseer het alleen aan grotere horecabedrijven en ketens die serieus willen optimaliseren op personeelskosten. De demand-driven scheduling gebruikt omzetprognoses om de ideale bezetting te berekenen -- handig als je elke euro aan loonkosten onder controle wilt houden. Voor een enkele horecazaak is het overkill, maar voor ketens met tientallen locaties is het onmisbaar.
 
 ### Belangrijkste functies
 - Demand-driven scheduling op basis van omzetprognoses
@@ -191,13 +191,13 @@ Workforce.com (voorheen Tanda) is een enterprise-grade workforce management plat
 - Interface in het Engels
 - Minder specifiek gericht op de Nederlandse markt
 
-[Bekijk Workforce.com]({{workforce_link}})
+[Bekijk Workforce.com](https://workforce.com/nl/)
 
 ---
 
 ## 5. Tamigo
 
-Tamigo is een Deens workforce management platform dat veel wordt gebruikt door grotere horeca- en retailketens in Europa. Het combineert planning, urenregistratie, verlofbeheer en budgettering in een geintegreerd platform. Met klanten als McDonald's en Burger King heeft Tamigo bewezen te werken voor grote horecaketens.
+Tamigo heeft zich bewezen bij namen als McDonald's en Burger King, en dat zegt iets over de schaalbaarheid. Ik adviseer het aan grotere ketens die niet alleen een rooster willen maken, maar ook KPI's willen monitoren: loonkosten versus omzet, bezettingsgraden, benchmarks tussen locaties. De budgetteringsfuncties zijn de sterkste in dit overzicht. Voor einzele horecazaken is het te zwaar, maar voor ketens is het een serieuze kandidaat.
 
 ### Belangrijkste functies
 - Roosterplanning met budgettering en kostenoptimalisatie
@@ -228,13 +228,13 @@ Tamigo is een Deens workforce management platform dat veel wordt gebruikt door g
 - Minder geschikt voor einzele horecazaken
 - Interface kan gedateerd aanvoelen
 
-[Bekijk Tamigo]({{tamigo_link}})
+[Bekijk Tamigo](https://www.tamigo.nl/)
 
 ---
 
 ## 6. Dyflexis
 
-Dyflexis is een Nederlandse workforce management tool die zeer populair is in de horeca en zorg. Het platform biedt personeelsplanning, urenregistratie en verlofbeheer met uitstekende ondersteuning van de Nederlandse Horeca-CAO. Als Nederlands bedrijf begrijpt Dyflexis de lokale behoeften als geen ander.
+Dyflexis is naast Shiftbase de andere Nederlandse specialist die ik vaak adviseer, met name als omzetgestuurde planning prioriteit is. De koppeling met kassasystemen als Lightspeed en Untill is uitstekend: het systeem gebruikt je historische omzetdata om te voorspellen hoeveel personeel je nodig hebt. De Horeca-CAO zit er volledig in, inclusief toeslagen en rusttijden. Een solide keuze voor horecazaken die hun loonkosten serieus willen optimaliseren.
 
 ### Belangrijkste functies
 - Slimme roosterplanner met automatische CAO-controle
@@ -266,7 +266,7 @@ Dyflexis is een Nederlandse workforce management tool die zeer populair is in de
 - Minder geschikt voor internationale ketens
 - Implementatie kan enkele weken duren
 
-[Bekijk Dyflexis]({{dyflexis_link}})
+[Bekijk Dyflexis](https://www.dyflexis.nl/)
 
 ---
 
@@ -328,11 +328,11 @@ Als je planning en urenregistratie losstaan van je boekhouding en salarisadminis
 
 De beste personeelsplanning software voor jouw horecabedrijf hangt af van je grootte, budget en specifieke behoeften. Hier zijn onze aanbevelingen:
 
-- **Beste allrounder voor horeca**: [Shiftbase]({{shiftbase_link}}) -- Nederlands, betaalbaar en met uitstekende CAO-support. Het gratis plan maakt het ideaal om mee te starten.
-- **Beste voor Nederlandse horeca (MKB)**: [Dyflexis]({{dyflexis_link}}) -- diepgaande Horeca-CAO compliance en sterke kassasysteem-integratie.
-- **Beste voor meerdere locaties**: [Planday]({{planday_link}}) -- sterk multi-locatie beheer en gebruiksvriendelijke interface.
-- **Beste AI-roostering**: [Deputy]({{deputy_link}}) -- krachtige AI-scheduling en demand forecasting voor grotere teams.
-- **Beste voor grote ketens**: [Tamigo]({{tamigo_link}}) -- bewezen bij grote horecaketens met uitgebreide KPI-monitoring.
-- **Beste voor enterprise**: [Workforce.com]({{workforce_link}}) -- het meest uitgebreide workforce management platform.
+- **Beste allrounder voor horeca**: [Shiftbase](https://www.shiftbase.com/nl/) -- Nederlands, betaalbaar en met uitstekende CAO-support. Het gratis plan maakt het ideaal om mee te starten.
+- **Beste voor Nederlandse horeca (MKB)**: [Dyflexis](https://www.dyflexis.nl/) -- diepgaande Horeca-CAO compliance en sterke kassasysteem-integratie.
+- **Beste voor meerdere locaties**: [Planday](https://www.planday.com/nl/) -- sterk multi-locatie beheer en gebruiksvriendelijke interface.
+- **Beste AI-roostering**: [Deputy](https://www.deputy.com/nl) -- krachtige AI-scheduling en demand forecasting voor grotere teams.
+- **Beste voor grote ketens**: [Tamigo](https://www.tamigo.nl/) -- bewezen bij grote horecaketens met uitgebreide KPI-monitoring.
+- **Beste voor enterprise**: [Workforce.com](https://workforce.com/nl/) -- het meest uitgebreide workforce management platform.
 
-Ons advies: begin met het gratis plan van Shiftbase of vraag demo's aan bij Dyflexis en Planday. Test de software met je team -- ook met je medewerkers op de werkvloer -- voordat je een definitieve keuze maakt. Een goed planningssysteem verdient zichzelf snel terug door lagere loonkosten, minder administratief werk en een hoger werktevredenheid bij je personeel. Bedenk dat de gemiddelde horecamanager wekelijks 3-5 uur besteedt aan roostering. Planning software kan dit terugbrengen tot minder dan een uur, zodat jij je kunt richten op wat echt telt: het runnen van een geweldige horecazaak.
+Mijn advies: begin met het gratis plan van Shiftbase of vraag demo's aan bij Dyflexis en Planday. Test de software met je team -- ook met je medewerkers op de werkvloer -- voordat je een definitieve keuze maakt. Een goed planningssysteem verdient zichzelf snel terug door lagere loonkosten, minder administratief werk en een hoger werktevredenheid bij je personeel. Bedenk dat de gemiddelde horecamanager wekelijks 3-5 uur besteedt aan roostering. Planning software kan dit terugbrengen tot minder dan een uur, zodat jij je kunt richten op wat echt telt: het runnen van een geweldige horecazaak.

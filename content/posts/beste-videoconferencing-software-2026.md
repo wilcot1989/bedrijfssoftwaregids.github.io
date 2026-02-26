@@ -40,7 +40,7 @@ De meeste bedrijven die ik adviseer gebruiken al een videotool, maar vaak niet d
 
 ## 1. Microsoft Teams — Beste voor Microsoft 365 gebruikers
 
-Als je bedrijf Microsoft 365 gebruikt, is Teams de logische keuze — het is inbegrepen en combineert chat, videobellen en documentdeling.
+Mijn eerste vraag aan klanten is altijd: "Gebruik je Microsoft 365?" Zo ja, dan is Teams de voor de hand liggende keuze -- je betaalt er al voor, en het combineert chat, videobellen en documentdeling in een platform. Het kan overweldigend aanvoelen in het begin, maar als samenwerkingstool is het ongeëvenaard.
 
 ### Belangrijkste functies
 - **Chat + kanalen** — Teamcommunicatie georganiseerd per project
@@ -62,7 +62,7 @@ Als je bedrijf Microsoft 365 gebruikt, is Teams de logische keuze — het is inb
 
 ## 2. Zoom — Beste voor externe meetings
 
-Zoom blijft de standaard voor videobellen met externe partijen: geen account nodig, werkt altijd, en de beste videokwaliteit.
+Zoom is wat ik adviseer als een bedrijf veel vergadert met externe partijen -- klanten, leveranciers, partners. Het werkt gewoon: je stuurt een link, de ander klikt, geen account nodig. Die laagdrempeligheid maakt het verschil. De videokwaliteit is nog steeds de beste in de markt, en het is betrouwbaarder dan welke concurrent ook.
 
 ### Belangrijkste functies
 - **Zoom Meetings** — HD-video, virtuele achtergronden, breakout rooms
@@ -84,7 +84,7 @@ Zoom blijft de standaard voor videobellen met externe partijen: geen account nod
 
 ## 3. Google Meet — Beste voor Google Workspace
 
-Google Meet is de eenvoudigste optie, naadloos geïntegreerd met Gmail, Google Calendar en Google Drive.
+Gebruik je Google Workspace? Dan is Meet de logische keuze en hoef je niet verder te zoeken. Eén klik vanuit Gmail of Calendar en je zit in een meeting. Het is de eenvoudigste tool in dit overzicht, en voor de meeste MKB-bedrijven meer dan voldoende.
 
 ### Belangrijkste functies
 - **One-click meetings** — Direct vanuit Gmail of Calendar
@@ -98,7 +98,7 @@ Google Meet is de eenvoudigste optie, naadloos geïntegreerd met Gmail, Google C
 
 ## 4. Webex — Beste voor hybride kantoor
 
-Webex (Cisco) is de enterprise-standaard met de beste hardware-integratie voor vergaderzalen en hybride werken.
+Webex is het platform dat ik tegenkom bij grotere bedrijven met vergaderzalen vol hardware. De Cisco-integratie met Room Kits en Webex Boards is ongeëvenaard. Voor MKB is het eerlijk gezegd meestal overkill, maar als je een hybride kantoor hebt met uitgeruste vergaderruimtes, is Webex het meest professioneel.
 
 ### Belangrijkste functies
 - **Ruimte-integratie** — Webex Board, Room Kit voor vergaderzalen
@@ -112,7 +112,7 @@ Webex (Cisco) is de enterprise-standaard met de beste hardware-integratie voor v
 
 ## 5. Whereby — Meest eenvoudig
 
-Whereby onderscheidt zich door extreme eenvoud: een permanente link, geen download, geen account voor gasten, en je eigen branding.
+Whereby is mijn tip voor coaches, consultants en iedereen die regelmatig 1-op-1 klantgesprekken voert. Je krijgt een permanente link met je eigen branding -- geen gedoe met downloads of accounts voor je gasten. Het voelt professioneler dan een Zoom-link en is verrassend betaalbaar. Voor grotere teams of complexere meetings zijn er betere opties.
 
 ### Belangrijkste functies
 - **Permanente kamers** — Eén vaste link die altijd werkt

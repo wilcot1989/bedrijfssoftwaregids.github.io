@@ -42,7 +42,7 @@ De makelaarsbranche is een van de sectoren waar een CRM het snelst terugverdient
 
 ## 1. Realworks
 
-Realworks is het meest gebruikte softwareplatform in de Nederlandse makelaardij en is onlosmakelijk verbonden met de NVM (Nederlandse Vereniging van Makelaars). Het biedt een volledig geintegreerd ecosysteem dat specifiek is gebouwd voor de dagelijkse werkzaamheden van makelaars: van intake tot verkoop, van bezichtiging tot overdracht.
+Realworks is de de facto standaard in de Nederlandse makelaardij, en als ik met NVM-makelaars werk is het bijna altijd mijn eerste aanbeveling. De directe Funda-koppeling en automatische woningmatching zijn functies die je bij geen enkel generiek CRM vindt. De interface voelt niet altijd even modern, maar de functionaliteit is gebouwd door mensen die de makelaarsbranche van binnenuit kennen.
 
 ### Belangrijkste functies
 - Volledige CRM voor relatiebeheer (kopers, verkopers, huurders, verhuurders)
@@ -83,13 +83,13 @@ Realworks is het meest gebruikte softwareplatform in de Nederlandse makelaardij 
 - Steile leercurve door uitgebreide functionaliteit
 - Minder geschikt voor makelaars die ook andere diensten aanbieden (taxatie, advies)
 
-[Bekijk Realworks]({{realworks_link}})
+[Bekijk Realworks](https://www.realworks.nl/)
 
 ---
 
 ## 2. HubSpot CRM
 
-HubSpot is een van de populairste CRM-systemen ter wereld en biedt een gratis basisversie. Hoewel het niet specifiek is gebouwd voor de makelaardij, is het flexibel genoeg om aan te passen aan de workflow van een makelaarskantoor. HubSpot blinkt uit in marketing en leadgeneratie, wat het bijzonder interessant maakt voor makelaars die actief online leads willen genereren.
+HubSpot is niet gebouwd voor makelaars, maar ik heb het succesvol ingericht voor kantoren die sterk inzetten op online leadgeneratie. Denk aan landingspagina's voor gratis waardebepalingen, geautomatiseerde opvolgmails, en een compleet overzicht van elke interactie met een potentiele klant. Het gratis plan is een prima startpunt, maar de echte kracht zit in de betaalde marketing-features.
 
 Voor een uitgebreide vergelijking van HubSpot met andere CRM-systemen, lees onze [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-2026/).
 
@@ -136,13 +136,13 @@ Je kunt pipelines aanmaken per proces: een voor verkoop (intake > opname > marke
 - Geen kadaster- of BAG-integratie
 - Minder inzicht in vastgoedspecifieke workflows
 
-[Probeer HubSpot CRM gratis]({{hubspot_link}})
+[Probeer HubSpot CRM gratis](https://www.hubspot.com/nl)
 
 ---
 
 ## 3. Pipedrive
 
-Pipedrive is een verkoopgericht CRM dat populair is bij kleinere makelaarskantoren vanwege de lage instapprijs en intuïtieve visuele pipeline. Het systeem is gebouwd rond het principe van activiteitgestuurd verkopen: je plant acties (bellen, bezichtigen, opvolgen) en Pipedrive zorgt dat je niets vergeet.
+Pipedrive is het CRM dat ik adviseer aan kleine makelaarskantoren die een betaalbaar systeem zoeken dat ze zelf kunnen inrichten. De visuele pipeline is briljant voor het bijhouden van woningen en deals, en de activiteitengestuurde aanpak voorkomt dat je vergeet om een koper op te volgen na een bezichtiging. Voor 15 euro per maand per gebruiker is het een fractie van wat Realworks kost.
 
 Lees ook ons uitgebreide artikel over de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) waarin we Pipedrive vergelijken met zes andere CRM-systemen.
 
@@ -188,13 +188,13 @@ Pipedrive is zeer flexibel aan te passen:
 - Geen gratis plan
 - Marketingfuncties zijn beperkt
 
-[Probeer Pipedrive 14 dagen gratis]({{pipedrive_link}})
+[Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
 
 ---
 
 ## 4. Salesforce
 
-Salesforce is het meest uitgebreide CRM-platform ter wereld en biedt via de AppExchange ook specifieke vastgoedoplossingen. Voor grotere makelaarskantoren en makelaarsketens die maximale schaalbaarheid en aanpasbaarheid zoeken, is Salesforce een krachtige optie -- mits je bereid bent te investeren in implementatie en configuratie.
+Salesforce noem ik pas als een makelaarskantoor echt groot is of ambities heeft om een keten te bouwen. Het is het meest schaalbare CRM dat er is, met vastgoedapps via de AppExchange, maar de implementatie is een project op zich. Ik heb het zien werken bij kantoren met 20+ makelaars -- daar verdient de investering zich terug. Voor een klein kantoor is het eerlijk gezegd te veel van het goede.
 
 ### Belangrijkste functies
 - Volledig aanpasbaar CRM-platform
@@ -240,13 +240,13 @@ Salesforce heeft een ecosysteem van vastgoedspecifieke apps:
 - Geen out-of-the-box Funda of NVM-koppeling
 - Vastgoedapps zijn vaak Engelstalig
 
-[Probeer Salesforce 30 dagen gratis]({{salesforce_link}})
+[Probeer Salesforce 30 dagen gratis](https://www.salesforce.com/nl/)
 
 ---
 
 ## 5. Gripp
 
-Gripp is een Nederlandse alles-in-een bedrijfssoftware die CRM combineert met projectmanagement, urenregistratie en facturatie. Het is bijzonder geschikt voor makelaars die naast bemiddeling ook taxaties, adviestrajecten of projectontwikkeling doen. Gripp helpt je om niet alleen je klantrelaties te beheren, maar ook je projecten en financien.
+Gripp is de optie die ik aanbeveel aan makelaars die meer doen dan alleen bemiddeling. Doe je ook taxaties, adviestrajecten of projectontwikkeling? Dan wil je een systeem dat CRM, projectbeheer, urenregistratie en facturatie combineert. Gripp doet dat in een Nederlands platform met Nederlandse support. Het mist Funda-koppeling en woningmatching, maar voor makelaars-adviseurs is het de meest complete tool.
 
 ### Belangrijkste functies
 - CRM met contactbeheer en organisatieprofielen
@@ -284,7 +284,7 @@ Als je Gripp koppelt aan je boekhouding, bekijk dan ook ons overzicht van de [be
 - Geen kadaster- of BAG-integratie
 - Pipeline minder visueel dan Pipedrive
 
-[Bekijk Gripp]({{gripp_link}})
+[Bekijk Gripp](https://www.gripp.com/nl/)
 
 ---
 
@@ -335,10 +335,10 @@ Deze combinatiestrategie kan effectief zijn, maar vereist wel discipline in het 
 
 De beste CRM voor jouw makelaarskantoor hangt af van je specifieke situatie. Hier zijn onze aanbevelingen:
 
-- **Beste makelaar-specifiek CRM**: [Realworks]({{realworks_link}}) -- het meest complete platform met Funda-koppeling, NVM-integratie en automatische woningmatching. De standaard in de Nederlandse makelaardij.
-- **Beste voor online leadgeneratie**: [HubSpot CRM]({{hubspot_link}}) -- krachtige marketingtools en gratis CRM als basis, ideaal voor makelaars die actief online leads genereren.
-- **Beste budget CRM voor kleine kantoren**: [Pipedrive]({{pipedrive_link}}) -- intuïtief, betaalbaar en eenvoudig aan te passen aan de makelaarsworkflow.
-- **Beste voor grote kantoren en ketens**: [Salesforce]({{salesforce_link}}) -- maximale schaalbaarheid en aanpasbaarheid met vastgoedapps via AppExchange.
-- **Beste alles-in-een voor makelaars-adviseurs**: [Gripp]({{gripp_link}}) -- CRM, projecten, uren en facturatie in een Nederlands platform.
+- **Beste makelaar-specifiek CRM**: [Realworks](https://www.realworks.nl/) -- het meest complete platform met Funda-koppeling, NVM-integratie en automatische woningmatching. De standaard in de Nederlandse makelaardij.
+- **Beste voor online leadgeneratie**: [HubSpot CRM](https://www.hubspot.com/nl) -- krachtige marketingtools en gratis CRM als basis, ideaal voor makelaars die actief online leads genereren.
+- **Beste budget CRM voor kleine kantoren**: [Pipedrive](https://www.pipedrive.com/nl) -- intuïtief, betaalbaar en eenvoudig aan te passen aan de makelaarsworkflow.
+- **Beste voor grote kantoren en ketens**: [Salesforce](https://www.salesforce.com/nl/) -- maximale schaalbaarheid en aanpasbaarheid met vastgoedapps via AppExchange.
+- **Beste alles-in-een voor makelaars-adviseurs**: [Gripp](https://www.gripp.com/nl/) -- CRM, projecten, uren en facturatie in een Nederlands platform.
 
-Ons advies: als NVM-makelaar is Realworks de veiligste keuze vanwege de directe Funda-koppeling en NVM-integratie. Maar als je de flexibiliteit, marketingkracht of het prijspunt van een algemeen CRM prefereert, zijn HubSpot en Pipedrive uitstekende alternatieven -- mits je bereid bent om de makelaarsspecifieke functies handmatig in te richten. Vraag altijd een demo aan en test het systeem met je eigen werkprocessen voordat je een definitieve keuze maakt.
+Mijn advies: als NVM-makelaar is Realworks de veiligste keuze vanwege de directe Funda-koppeling en NVM-integratie. Maar als je de flexibiliteit, marketingkracht of het prijspunt van een algemeen CRM prefereert, zijn HubSpot en Pipedrive uitstekende alternatieven -- mits je bereid bent om de makelaarsspecifieke functies handmatig in te richten. Vraag altijd een demo aan en test het systeem met je eigen werkprocessen voordat je een definitieve keuze maakt.
