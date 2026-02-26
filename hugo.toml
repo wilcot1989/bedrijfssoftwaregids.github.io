@@ -2,6 +2,7 @@ baseURL = "https://bedrijfssoftwaregids.nl/"
 languageCode = "nl"
 title = "Bedrijfssoftwaregids"
 theme = "starter"
+buildFuture = true
 
 [params]
   description = "Onafhankelijke vergelijkingen van kassasystemen, CRM, boekhoudsoftware en meer voor Nederlandse ondernemers."

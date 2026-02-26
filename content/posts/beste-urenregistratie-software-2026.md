@@ -201,10 +201,10 @@ Voor de meeste bedrijven is **Clockify** (gratis) of **Toggl Track** (beste UX) 
 
 ## Lees ook
 
-- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-2026/)** — Koppel je uren aan je boekhouding
+- **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Koppel je uren aan je boekhouding
 - **[Exact Online vs Twinfield 2026](/posts/exact-online-vs-twinfield-2026/)** — Boekhoudpakketten vergeleken
 - **[Beste Offerte Software 2026](/posts/beste-offerte-software-2026/)** — Van offerte naar factuur
-- **[Beste CRM Software 2026](/posts/beste-crm-software-2026/)** — Klantbeheer met uren koppelen
+- **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Klantbeheer met uren koppelen
 
 ---
 
