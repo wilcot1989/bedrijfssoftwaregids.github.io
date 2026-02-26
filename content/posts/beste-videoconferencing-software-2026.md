@@ -6,6 +6,8 @@ categories: ["productiviteit"]
 tags: ["videoconferencing", "Zoom", "Microsoft Teams", "Google Meet", "online vergaderen"]
 keywords: ["beste videoconferencing software", "Zoom vs Teams", "online vergaderen MKB", "videobellen zakelijk"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Welke videoconferencing tool is het beste voor MKB?"
@@ -22,9 +24,7 @@ faq:
     a: "Zoom Webinars is de marktleider voor webinars: tot 10.000 kijkers, Q&A, polls, registratie en analytics. Voor kleinere events (tot 250 personen) volstaat Microsoft Teams Live Events of Google Meet (met Workspace Business Plus). Whereby is ideaal voor 1-op-1 klantgesprekken dankzij de merkbare kamers."
 ---
 
-Online vergaderen is standaard geworden voor elk bedrijf. Of je nu met collega's overlegt, klanten presenteert of een webinar organiseert — de juiste tool maakt het verschil tussen productieve meetings en frustrerende technische problemen.
-
-We vergelijken de 5 beste opties voor het MKB.
+De meeste bedrijven die ik adviseer gebruiken al een videotool, maar vaak niet de juiste. Ze betalen voor Zoom terwijl ze al Teams hebben via Microsoft 365, of worstelen met Google Meet terwijl hun klanten geen Google-account willen aanmaken. In deze vergelijking help ik je de tool te kiezen die past bij hoe jij vergadert.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

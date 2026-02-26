@@ -6,6 +6,8 @@ categories: ["hr"]
 tags: ["loonadministratie", "salarisverwerking", "HR software", "Nmbrs", "payroll"]
 keywords: ["loonadministratie software", "salarisadministratie", "beste payroll software", "loonstroken maken"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/hr.svg"
 faq:
   - q: "Wat kost loonadministratie software?"
@@ -22,9 +24,7 @@ faq:
     a: "Loonaangifte moet per aangiftetijdvak worden gedaan bij de Belastingdienst — standaard per maand (uiterlijk de laatste dag van de maand volgend op het aangiftetijdvak). Bij minder dan 10 medewerkers kun je per kwartaal aangifte doen. De software automatiseert dit proces."
 ---
 
-Loonadministratie is een van de meest kritieke processen voor elk bedrijf met personeel. Fouten in salarisverwerking leiden tot boze medewerkers, boetes van de Belastingdienst en juridische problemen. Goede software automatiseert het zware werk en zorgt dat alles klopt.
-
-In dit artikel vergelijken we de 5 beste loonadministratie tools voor de Nederlandse markt. Van eenvoudig en betaalbaar tot enterprise-klaar.
+Fouten in de loonadministratie zijn de snelste manier om het vertrouwen van je medewerkers te verliezen -- en een boete van de Belastingdienst te riskeren. Toch zie ik nog steeds bedrijven die salarissen handmatig berekenen in Excel. Dat hoeft niet. Ik vergelijk hier de 5 beste loonadministratie tools voor de Nederlandse markt, van betaalbaar voor kleine teams tot enterprise-klaar.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

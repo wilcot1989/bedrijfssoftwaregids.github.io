@@ -6,6 +6,8 @@ categories: ["kassasystemen"]
 tags: ["kassasysteem", "horeca", "pos systeem", "restaurant software", "kassa horeca"]
 keywords: ["beste kassasysteem horeca", "kassa restaurant", "pos systeem horeca", "kassasysteem vergelijken", "kassa café"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/kassasystemen.svg"
 faq:
   - q: "Wat kost een kassasysteem voor horeca?"
@@ -24,9 +26,9 @@ faq:
     a: "Ja, vrijwel alle moderne horecakassasystemen bieden voorraadbeheer. Je kunt recepturen invoeren, automatisch voorraad afboeken bij verkoop en meldingen instellen wanneer producten opraken. Lightspeed Restaurant en Untill bieden de meest uitgebreide voorraadfuncties."
 ---
 
-Het juiste kassasysteem is cruciaal voor een goed draaiend horecabedrijf. Of je nu een druk restaurant, een gezellig cafe of een trendy lunchroom runt -- je wilt een systeem dat bestellingen snel verwerkt, je omzet bijhoudt en je medewerkers ondersteunt. In dit artikel vergelijken we de 6 beste kassasystemen voor de horeca in 2026.
+Een kassasysteem kiezen voor je horecazaak is een beslissing waar je jarenlang mee zit. Ik heb cafehouders geholpen die vastzaten aan een verouderd systeem met hoge contractkosten, en restauranteigenaren die na een slimme keuze uren per week bespaarden op voorraadbeheer en afrekengemak. In deze vergelijking deel ik de 6 kassasystemen die ik voor de horeca aanbeveel -- en waar je op moet letten.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste Kassasystemen Horeca 2026
 

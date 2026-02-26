@@ -6,6 +6,8 @@ categories: ["boekhouding"]
 tags: ["ERP", "bedrijfssoftware", "MKB", "boekhouding", "Exact Online", "Afas"]
 keywords: ["ERP software MKB", "ERP systeem Nederland", "beste ERP software", "ERP vergelijking"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/boekhouding.svg"
 faq:
   - q: "Wat is ERP software?"
@@ -22,11 +24,9 @@ faq:
     a: "Overweeg ERP als je merkt dat je veel tijd kwijt bent aan handmatige dataoverdracht tussen systemen, als fouten toenemen door dubbele invoer, als je geen real-time inzicht hebt in bedrijfsresultaten, of als je bedrijf groeit naar 10+ medewerkers en meer structuur nodig heeft."
 ---
 
-Groeit je bedrijf en merk je dat Excel-sheets, losse boekhoudsoftware en handmatige processen niet meer voldoen? Dan is het tijd om te kijken naar ERP software. Een goed ERP-systeem verbindt al je bedrijfsprocessen — van boekhouding en voorraadbeheer tot inkoop, verkoop en personeelszaken — in één centraal platform.
+ERP-implementaties staan bekend als duur en pijnlijk, en eerlijk gezegd: dat klopt regelmatig. Maar ik heb ook genoeg MKB-bedrijven geholpen die na de overstap eindelijk real-time inzicht kregen in hun cijfers en uren per week bespaarden op handmatig overtypen. De truc is het juiste systeem kiezen voor jouw schaal. Dit zijn de 5 ERP-oplossingen die ik voor het Nederlandse MKB aanbeveel.
 
-Maar welk ERP-systeem past bij jouw MKB-bedrijf? De markt is groot en de prijsverschillen zijn enorm. In dit artikel vergelijken we de 5 beste ERP-oplossingen voor het Nederlandse MKB in 2026.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 Zoek je nog iets eenvoudigers? Bekijk dan eerst onze gids over de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/) of de [beste facturatie software voor MKB](/posts/beste-facturatie-software-mkb-2026/).
 

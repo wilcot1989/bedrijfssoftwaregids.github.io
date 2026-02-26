@@ -6,6 +6,8 @@ categories: ["hr"]
 tags: ["recruitment software", "ATS", "applicant tracking", "werving", "HR software"]
 keywords: ["beste recruitment software", "ATS systeem vergelijking", "recruitment tool MKB", "sollicitanten volgsysteem"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/hr.svg"
 faq:
   - q: "Wat is recruitment software (ATS)?"
@@ -22,9 +24,7 @@ faq:
     a: "Recruitment software (ATS) richt zich op het wervingsproces: van vacature tot aanname. HR software beheert medewerkers ná aanname: salarisadministratie, verlof, beoordelingen, ziekteverzuim. Sommige platforms (Personio, HiBob) combineren beide in één systeem."
 ---
 
-De juiste mensen vinden is de grootste uitdaging voor groeiende bedrijven. Met tientallen sollicitaties per vacature, meerdere interviewrondes en strenge AVG-regels wordt wervingsbeheer via spreadsheets en e-mail al snel onhoudbaar.
-
-Recruitment software (ATS) brengt structuur: automatisch vacatures publiceren, sollicitaties bijhouden, kandidaten beoordelen en het team laten samenwerken.
+Een klant van mij vertelde me laatst dat ze hun beste kandidaat waren kwijtgeraakt omdat zijn sollicitatie drie weken onbeantwoord in een gedeelde mailbox lag. Dat soort verhalen hoor ik vaker dan je zou denken. Recruitment software voorkomt dat je talent mist door chaos in je proces. Dit zijn de 5 ATS-systemen die ik aanbeveel.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

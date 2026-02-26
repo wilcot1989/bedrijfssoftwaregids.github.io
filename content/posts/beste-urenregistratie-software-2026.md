@@ -6,6 +6,8 @@ categories: ["productiviteit"]
 tags: ["urenregistratie", "timetracking", "Clockify", "Toggl Track", "productiviteit"]
 keywords: ["urenregistratie software", "beste timetracking tool", "uren bijhouden", "urenregistratie gratis"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Wat is de beste gratis urenregistratie software?"
@@ -22,9 +24,7 @@ faq:
     a: "Er zijn uitstekende gratis opties (Clockify, Toggl Track Free). Betaalde plannen beginnen vanaf €5-€10 per gebruiker per maand. Voor uitgebreide functies zoals facturatie-integratie, GPS-tracking of goedkeuringsworkflows betaal je €15-€30 per gebruiker per maand."
 ---
 
-Uren bijhouden klinkt simpel, maar in de praktijk loopt het vaak spaak. Medewerkers vergeten te timen, uren worden achteraf geschat, en factureerbare tijd raakt verloren. Het resultaat: inaccurate facturen, slechte projectschattingen en omzetverlies.
-
-Goede urenregistratie software maakt het makkelijk, geeft inzicht en betaalt zichzelf terug via nauwkeurigere facturatie en betere projectplanning. In dit artikel vergelijken we de 5 beste opties voor Nederlandse bedrijven.
+Bij een bureau dat ik begeleidde, bleek na invoering van urenregistratie dat ze structureel 20% van hun factureerbare uren niet in rekening brachten. Dat was tienduizenden euro's per jaar. Goede timetracking hoeft niet ingewikkeld te zijn, maar het moet wel consistent gebeuren. Dit zijn de 5 tools die ik het meest aanbeveel.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

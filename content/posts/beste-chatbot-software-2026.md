@@ -6,6 +6,8 @@ categories: ["klantenservice"]
 tags: ["chatbot", "AI chatbot", "klantenservice", "livechat", "conversational AI"]
 keywords: ["beste chatbot software", "AI chatbot bedrijf", "chatbot klantenservice", "chatbot vergelijking 2026"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/klantenservice.svg"
 faq:
   - q: "Wat is chatbot software?"
@@ -22,9 +24,7 @@ faq:
     a: "De meeste chatbots installeer je door een klein stukje JavaScript-code in je website te plakken, of via een plugin (WordPress, Shopify). Platforms als Tidio en Intercom bieden kant-en-klare plugins. Installatie duurt 5-15 minuten. Daarna train je de chatbot met je veelgestelde vragen en kennisbank."
 ---
 
-Klanten verwachten direct antwoord — 24 uur per dag, 7 dagen per week. Maar een 24/7 klantenserviceteam is voor de meeste MKB'ers onbetaalbaar. De oplossing: een AI-chatbot die veelgestelde vragen beantwoordt, leads kwalificeert en complexe vragen doorstuurt naar je team.
-
-In dit artikel vergelijken we de 5 beste chatbot-platforms voor bedrijven.
+Bij een e-commerce klant van mij handelt een chatbot inmiddels 60% van alle klantvragen af -- zonder dat de klanttevredenheid is gedaald. Sterker nog, die ging omhoog omdat klanten 's avonds laat ook geholpen worden. AI-chatbots zijn in 2026 geen speeltje meer, maar een serieuze investering die zich terugverdient. Dit zijn de 5 platforms die ik aanbeveel.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

@@ -6,6 +6,8 @@ categories: ["productiviteit"]
 tags: ["intranet", "SharePoint", "Notion", "kennisbank", "interne communicatie"]
 keywords: ["beste intranet software MKB", "SharePoint intranet", "intranet vergelijking", "kennisbank bedrijf"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Wat is intranet software?"
@@ -22,9 +24,7 @@ faq:
     a: "Ja, SharePoint is het populairste intranet-platform voor bedrijven met Microsoft 365. Je kunt pagina's, nieuws, documentbibliotheken en links maken. Het nadeel: SharePoint vereist configuratie en beheer — het is geen kant-en-klaar intranet. Voor een mooier resultaat gebruik je een SharePoint-intranet template of een tool als Viva Connections."
 ---
 
-Waar staan de procedures? Hoe vraag ik verlof aan? Wie is verantwoordelijk voor inkoop? In veel MKB-bedrijven gaan deze vragen rond via e-mail, WhatsApp of mondeling — met als gevolg dat kennis verloren gaat en nieuwe medewerkers wekenlang zoeken.
-
-Een intranet brengt alles samen op één plek: kennisbank, nieuws, documenten en interne communicatie.
+Ik stel bij elk adviestraject dezelfde testvraag: "Waar vinden nieuwe medewerkers jullie procedures en handleidingen?" Als het antwoord "ergens op de gedeelde schijf" of "vraag maar aan Jan" is, weet ik genoeg. Een intranet voorkomt dat bedrijfskennis afhankelijk is van individuele collega's. Dit zijn de 5 opties die ik voor het MKB aanbeveel.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

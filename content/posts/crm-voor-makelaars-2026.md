@@ -6,6 +6,8 @@ categories: ["crm"]
 tags: ["crm makelaars", "makelaar software", "vastgoed crm", "realworks", "crm vastgoed"]
 keywords: ["crm makelaars", "makelaar software", "crm vastgoed", "realworks crm", "crm voor makelaardij"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/crm.svg"
 faq:
   - q: "Wat is het beste CRM voor een startende makelaar?"
@@ -24,11 +26,9 @@ faq:
     a: "Voor grotere makelaarskantoren (5+ makelaars) zijn Realworks en Salesforce het meest geschikt. Realworks biedt kantoorbreed beheer met gedeelde woningportefeuille en contacten. Salesforce biedt de meeste schaalbaarheid en aanpasbaarheid. Gripp is een goede keuze als je ook projectbeheer en facturatie in een systeem wilt."
 ---
 
-Als makelaar draait je dagelijks werk om relaties: met kopers, verkopers, huurders en verhuurders. Een goed CRM-systeem helpt je om deze relaties te beheren, woningen te matchen aan zoekers, bezichtigingen te plannen en geen enkele opvolgactie te missen. Maar welk CRM past het beste bij jouw makelaarskantoor?
+De makelaarsbranche is een van de sectoren waar een CRM het snelst terugverdient. Ik heb kantoren geholpen waar leads letterlijk verdwenen in een berg post-its en losse e-mails. De Funda-koppeling, woningmatching, bezichtigingsplanning -- het zijn functies die een generiek CRM niet biedt. In deze vergelijking laat ik zien welke 5 systemen het beste passen bij Nederlandse makelaarskantoren.
 
-In dit artikel vergelijken we de 5 beste CRM-oplossingen voor makelaars in 2026. We kijken specifiek naar functies die voor de makelaardij essentieel zijn: Funda-koppeling, woningmatching, bezichtigingsplanning en NVM-integratie.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste CRM voor Makelaars 2026
 

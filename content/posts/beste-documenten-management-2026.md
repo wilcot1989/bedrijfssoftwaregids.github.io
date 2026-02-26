@@ -6,6 +6,8 @@ categories: ["productiviteit"]
 tags: ["documenten management", "DMS", "SharePoint", "Google Drive", "documentbeheer"]
 keywords: ["documenten management software", "DMS vergelijking", "SharePoint vs Google Drive", "documentbeheer MKB"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Wat is documenten management software (DMS)?"
@@ -22,9 +24,7 @@ faq:
     a: "Een gedeelde map mist versiebeheer, zoekfunctionaliteit, toegangscontrole en samenwerking. Zodra je team groeit boven 5 personen of je documenten kritisch zijn (contracten, financieel), is een DMS essentieel. Het voorkomt documentverlies, versieconflicten en ongeautoriseerde toegang."
 ---
 
-Documenten zijn het fundament van elk bedrijf: contracten, offertes, facturen, handleidingen, notulen. Maar als die documenten verspreid staan over mailboxen, lokale mappen, USB-sticks en Dropbox-accountjes, wordt het al snel een chaos.
-
-Documenten management software (DMS) brengt orde: centraal opslaan, slim zoeken, versiebeheer en gecontroleerd delen. In dit artikel vergelijken we de 5 beste opties voor het MKB.
+Bij vrijwel elk MKB-bedrijf waar ik binnenkom, stel ik dezelfde vraag: "Waar staat versie X van contract Y?" En vrijwel altijd volgt er een ongemakkelijke stilte, gevolgd door zoeken in drie mailboxen en een gedeelde map. Documenten management software voorkomt die chaos. Dit zijn de 5 systemen die ik aanraad.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

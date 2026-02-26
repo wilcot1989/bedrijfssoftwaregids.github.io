@@ -1,28 +1,37 @@
 ---
-title: "Over Ons"
-description: "Leer meer over Bedrijfssoftwaregids en ons team"
+title: "Over Bedrijfssoftwaregids"
+description: "Maak kennis met Lars de Vries — software consultant en de persoon achter de onafhankelijke reviews op Bedrijfssoftwaregids.nl."
 layout: "single"
 ---
 
-## Over Bedrijfssoftwaregids
+## Hoi, ik ben Lars
 
-Bedrijfssoftwaregids is een onafhankelijk platform dat Nederlandse ondernemers helpt bij het kiezen van de juiste zakelijke software. Of het nu gaat om CRM-systemen, boekhoudsoftware, kassasystemen of projectmanagement tools — wij testen, vergelijken en adviseren.
+Ik ben Lars de Vries, onafhankelijk software consultant. Na 6 jaar in SaaS sales — waar ik aan de verkoopkant zat — besloot ik de kant van de koper te kiezen. Ik heb inmiddels tientallen MKB-bedrijven en ZZP'ers geholpen met het selecteren van de juiste bedrijfssoftware.
 
-### Onze Missie
+Wat me opviel in al die jaren: de meeste ondernemers betalen te veel voor software die ze niet volledig benutten. Of ze kiezen het verkeerde pakket omdat ze afgaan op marketing in plaats van hun eigen behoeften.
 
-Het kiezen van bedrijfssoftware kan overweldigend zijn. Er zijn tientallen opties, elk met eigen voor- en nadelen. Wij maken het simpel: we testen software zelf, schrijven eerlijke reviews en maken duidelijke vergelijkingen zodat jij de beste keuze kunt maken voor jouw bedrijf.
+Daar wil ik verandering in brengen.
 
-### Hoe Wij Werken
+## Wat ik doe op deze site
 
-- **Onafhankelijk** — Onze aanbevelingen zijn gebaseerd op eigen ervaring en onderzoek
-- **Hands-on** — We testen elke tool die we reviewen zelf
-- **Nederlands** — Specifiek gericht op de Nederlandse markt en wetgeving
-- **Transparant** — We vermelden altijd wanneer we affiliate links gebruiken
+Ik test elke tool die ik bespreek zelf. Ik maak proefaccounts aan, importeer testdata, en gebruik de software zoals een echte ondernemer dat zou doen. Geen oppervlakkige reviews op basis van een screenshot — maar eerlijke ervaringen na dagen van testen.
 
-### Affiliate Disclaimer
+Mijn focus ligt op de Nederlandse markt. Dat betekent: Nederlandse taalondersteuning, integraties met Exact Online en Moneybird, AVG-compliance, en prijzen in euro's.
 
-Sommige links op deze website zijn affiliate links. Dit betekent dat wij een kleine commissie ontvangen als je via onze link een aankoop doet. Dit kost jou niets extra en heeft geen invloed op onze reviews of aanbevelingen. Deze inkomsten helpen ons om deze website draaiende te houden en gratis content te blijven maken.
+## Mijn aanpak
 
-### Contact
+- **Eerlijk** — Als software teleurstelt, zeg ik dat. Ook als ze een hoge commissie bieden.
+- **Praktisch** — Ik kijk naar wat jij als ondernemer nodig hebt, niet naar feature-lijstjes.
+- **Nuchter** — Geen overdreven enthousiasme. Gewoon de feiten en mijn mening.
 
-Heb je vragen of suggesties? Stuur ons een e-mail op [info@bedrijfssoftwaregids.nl](mailto:info@bedrijfssoftwaregids.nl).
+## Hoe deze site geld verdient
+
+Transparantie vind ik belangrijk. Bedrijfssoftwaregids verdient geld via affiliate commissies. Als je via een link op deze site software aanschaft, ontvang ik een kleine vergoeding. Dit kost jou niets extra.
+
+Dit heeft geen invloed op mijn aanbevelingen. Ik adviseer alleen software waar ik zelf achter sta.
+
+## Contact
+
+Vragen over software-selectie? Fout gevonden in een artikel? Laat het me weten.
+
+E-mail: **lars@bedrijfssoftwaregids.nl**

@@ -6,6 +6,8 @@ categories: ["crm"]
 tags: ["crm zzp", "crm freelancer", "gratis crm", "klantbeheer zzp", "crm software", "sales software"]
 keywords: ["crm zzp", "crm freelancer", "gratis crm zzp", "beste crm zzp", "klantenbeheer freelancer"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/crm.svg"
 faq:
   - q: "Heb ik als ZZP'er een CRM nodig?"
@@ -24,9 +26,9 @@ faq:
     a: "Ja, alle CRM-systemen in dit artikel bieden een mobiele app of zijn via de mobiele browser toegankelijk. HubSpot, Pipedrive en Freshsales hebben uitstekende mobiele apps waarmee je onderweg klantgegevens kunt inzien, notities kunt toevoegen en deals kunt bijwerken."
 ---
 
-Als ZZP'er of freelancer ben je sales, marketing, projectmanager en administratie in een. Een goed CRM-systeem helpt je om klantrelaties bij te houden, verkoopkansen niet te missen en je acquisitie gestructureerd aan te pakken -- zonder dat het een dagtaak wordt. Maar welk CRM past bij een eenmanszaak met een beperkt budget? In dit artikel vergelijken we de 6 beste CRM-oplossingen voor ZZP'ers en freelancers in 2026.
+Eerlijk? De meeste ZZP'ers die ik spreek hebben geen CRM nodig. Een spreadsheet volstaat prima als je vijf vaste klanten hebt. Maar zodra je actief acquireert, offertes verstuurt en leads opvolgt, wordt het zonder systeem al snel een rommeltje. Voor die groep heb ik de 6 beste CRM-opties op een rij gezet -- inclusief gratis opties die verrassend goed zijn.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 Zoek je een breder overzicht van CRM-oplossingen, ook voor grotere teams? Bekijk dan ons artikel over de [beste CRM software in Nederland](/posts/beste-crm-software-nederland-2026/) of de [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-2026/).
 

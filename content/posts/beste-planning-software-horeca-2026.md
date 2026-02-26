@@ -6,6 +6,8 @@ categories: ["hr-software"]
 tags: ["personeelsplanning", "horeca", "rooster software", "urenregistratie", "hr software", "planning horeca"]
 keywords: ["personeelsplanning horeca", "rooster software restaurant", "personeel inplannen horeca", "urenregistratie horeca", "planning software cafe"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat kost personeelsplanning software voor horeca?"
@@ -24,9 +26,9 @@ faq:
     a: "Personeelsplanning richt zich op het maken van roosters en inplannen van medewerkers. Workforce management is breder en omvat ook urenregistratie, verlofbeheer, omzetprognoses, personeelsbezettingsoptimalisatie en loonverwerking. Tools als Workforce.com en Tamigo bieden het bredere workforce management-pakket."
 ---
 
-In de horeca draait alles om het juiste team op het juiste moment. Of je nu een druk restaurant runt, een cafe met wisselende piekuren beheert of een cateringbedrijf met flexibele krachten aanstuurt -- goede personeelsplanning software bespaart je uren werk en voorkomt dat je onder- of overbezet bent. In dit artikel vergelijken we de 6 beste planning tools voor de horeca in 2026.
+Ik heb horeca-ondernemers gesproken die elke week drie uur bezig waren met het Excel-rooster. Diensten ruilen via WhatsApp, bellen naar oproepkrachten, handmatig controleren of ze de CAO-regels niet overtreden. Met de juiste planning software kost datzelfde rooster een halfuur. Hier zijn de 6 tools die ik voor de horeca aanbeveel.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste HR software in Nederland](/posts/beste-hr-software-nederland-2026/).
 

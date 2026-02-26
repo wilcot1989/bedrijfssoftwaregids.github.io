@@ -6,6 +6,8 @@ categories: ["webshops"]
 tags: ["webshop software", "webshop vergelijking", "shopify", "woocommerce", "lightspeed", "ecommerce", "online verkopen"]
 keywords: ["beste webshop software", "shopify vs woocommerce", "webshop beginnen", "webshop software vergelijken", "beste ecommerce platform nederland"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/webshops.svg"
 faq:
   - q: "Wat is de beste webshop software voor beginners?"
@@ -24,9 +26,9 @@ faq:
     a: "Dit verschilt per platform en abonnement. Shopify biedt onbeperkte producten op alle plannen. WooCommerce kent geen limiet (afhankelijk van je hosting). CCV Shop biedt in het basispakket 100 producten, oplopend tot onbeperkt in hogere plannen. Lightspeed en BigCommerce bieden ook onbeperkte producten op alle abonnementen."
 ---
 
-Een professionele webshop opzetten begint met de juiste software. Maar met zoveel opties op de markt -- van internationale giganten als Shopify tot Nederlandse spelers als CCV Shop -- is het lastig om door de bomen het bos te zien. In dit uitgebreide vergelijkingsartikel zetten we de 7 beste webshop platformen van 2026 naast elkaar, zodat jij de juiste keuze maakt voor jouw online onderneming.
+De eerste vraag die ik stel als iemand een webshop wil starten: "Hoeveel producten, en wil je zelf sleutelen of niet?" Het antwoord bepaalt namelijk direct welk platform je nodig hebt. Shopify voor gemak, WooCommerce voor controle, CCV Shop voor Nederland-specifieke features. In deze vergelijking zet ik de 7 beste opties naast elkaar, zodat je geen maanden hoeft te twijfelen.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste Webshop Software 2026
 

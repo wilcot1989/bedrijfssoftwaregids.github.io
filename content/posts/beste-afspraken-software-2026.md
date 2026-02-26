@@ -6,6 +6,8 @@ categories: ["kassasystemen"]
 tags: ["afspraken software", "online boeken", "booking software", "afspraak plannen", "agenda software", "planning tool"]
 keywords: ["online afspraken software", "afspraak plannen tool", "booking software", "afsprakenplanner", "online boekingssysteem"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/kassasystemen.svg"
 faq:
   - q: "Wat kost online afspraken software gemiddeld?"
@@ -24,11 +26,9 @@ faq:
     a: "Alle tools in dit artikel bieden een embed-code of widget die je op je website kunt plaatsen. Klanten klikken op de knop en zien direct je beschikbare tijdsloten. De integratie werkt met vrijwel elke website, inclusief WordPress, Squarespace en Wix."
 ---
 
-Telefonisch afspraken inplannen is tijdrovend, foutgevoelig en leidt regelmatig tot gemiste boekingen. Met online afspraken software kunnen je klanten 24 uur per dag, 7 dagen per week zelf een afspraak boeken. Jij bespaart tijd, je klant heeft het gemak, en je agenda wordt automatisch bijgewerkt.
+Ik heb het al tientallen keren gezien bij klanten: de eigenaar zit midden in een klantenafspraak terwijl de telefoon gaat voor de volgende boeking. Gemiste oproepen, dubbele afspraken, frustratie. Online afspraken software lost dat probleem definitief op. Hier zijn de 6 tools die ik in de praktijk het beste heb zien werken.
 
-In dit artikel vergelijken we de 6 beste online afspraken software-oplossingen die beschikbaar zijn voor Nederlandse bedrijven in 2026.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste Online Afspraken Software 2026
 

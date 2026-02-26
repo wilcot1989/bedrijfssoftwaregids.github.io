@@ -6,6 +6,8 @@ categories: ["boekhouding"]
 tags: ["moneybird", "e-boekhouden", "boekhoudsoftware", "boekhouden vergelijken", "btw-aangifte", "zzp"]
 keywords: ["moneybird vs e-boekhouden", "boekhoudsoftware vergelijken", "moneybird of e-boekhouden", "e-boekhouden review", "moneybird review"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/boekhouding.svg"
 faq:
   - q: "Wat is goedkoper, Moneybird of e-Boekhouden?"
@@ -24,9 +26,9 @@ faq:
     a: "Ja, overstappen is mogelijk bij beide pakketten via import- en exportfuncties. Het is het eenvoudigst om te wisselen aan het begin van een nieuw boekjaar. Moneybird biedt een specifieke importfunctie voor gegevens uit andere boekhoudpakketten."
 ---
 
-Moneybird en e-Boekhouden zijn twee van de populairste boekhoudsoftware-oplossingen in Nederland. Beide worden veelvuldig gebruikt door ZZP'ers, freelancers en kleine bedrijven. Maar welk pakket past het beste bij jouw situatie? In deze uitgebreide vergelijking zetten we Moneybird en e-Boekhouden naast elkaar op alle punten die ertoe doen: prijs, functies, gebruiksgemak, BTW-aangifte, bankkoppelingen en meer.
+Dit is een keuze die ik vrijwel wekelijks met ZZP'ers bespreek: Moneybird of e-Boekhouden? Mijn korte advies: kies Moneybird als gebruiksgemak bovenaan staat, e-Boekhouden als je elke euro wilt besparen. Maar er zijn meer factoren die meespelen, en die loop ik in deze vergelijking allemaal langs.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Snelle vergelijkingstabel
 

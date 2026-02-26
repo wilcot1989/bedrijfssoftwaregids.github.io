@@ -6,6 +6,8 @@ categories: ["kassasystemen"]
 tags: ["lightspeed", "square", "kassasysteem", "pos systeem", "kassasysteem vergelijken"]
 keywords: ["lightspeed vs square", "kassasysteem vergelijken", "lightspeed of square", "beste kassasysteem", "pos systeem nederland"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/kassasystemen.svg"
 faq:
   - q: "Is Square beschikbaar in Nederland?"
@@ -24,11 +26,9 @@ faq:
     a: "Ja, overstappen is mogelijk maar vergt enige inspanning. Je moet je productcatalogus, klantgegevens en instellingen opnieuw invoeren. Verkoophistorie van het oude systeem kun je exporteren maar niet altijd importeren. Plan een overstap bij voorkeur in een rustige periode."
 ---
 
-Lightspeed en Square zijn twee van de bekendste kassasystemen ter wereld, maar ze richten zich op heel verschillende doelgroepen. Lightspeed is een uitgebreid POS-platform voor retail en horeca, terwijl Square zich profileert als een laagdrempelig en gratis kassasysteem voor kleine ondernemers. Welk systeem past het beste bij jouw zaak in Nederland?
+Square is verleidelijk: gratis software, snel op te zetten, lage drempel. Maar ik heb ondernemers geholpen die na zes maanden alsnog moesten overstappen naar Lightspeed omdat Square te beperkt bleek voor hun groeiende zaak. De keuze tussen deze twee hangt af van je ambitie en omvang. In deze vergelijking zet ik ze punt voor punt naast elkaar, specifiek voor de Nederlandse markt.
 
-In deze uitgebreide head-to-head vergelijking zetten we Lightspeed en Square punt voor punt naast elkaar. We kijken naar prijs, hardware, functies, ondersteuning voor de Nederlandse markt en geschiktheid voor retail versus horeca.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Lightspeed vs Square: Snelle vergelijking
 

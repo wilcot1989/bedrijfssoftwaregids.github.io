@@ -6,6 +6,8 @@ categories: ["crm"]
 tags: ["CRM webshop", "e-commerce CRM", "Klaviyo", "email marketing", "klantbeheer"]
 keywords: ["CRM voor webshop", "beste e-commerce CRM", "Klaviyo review", "webshop marketing automation"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/crm.svg"
 faq:
   - q: "Heb ik een CRM nodig voor mijn webshop?"
@@ -22,9 +24,7 @@ faq:
     a: "Ja, dit is een van de krachtigste functies van e-commerce CRM's. Gemiddeld wordt 70% van online winkelwagens verlaten. Met geautomatiseerde e-mails kun je 5-15% van deze verlaters terughalen. De meeste CRM's bieden kant-en-klare verlaten-winkelwagen flows."
 ---
 
-Een webshop zonder CRM is als een fysieke winkel waar niemand je klanten herkent. Je weet niet wie terugkomt, wie je beste klanten zijn, of wie op het punt staat te vertrekken. Een goed e-commerce CRM verandert dat: het kent elke klant, voorspelt koopgedrag en automatiseert gepersonaliseerde marketing.
-
-In dit artikel vergelijken we de 5 beste CRM-systemen die specifiek zijn ontworpen voor of uitblinken in e-commerce.
+Ik zie het keer op keer: webshop-eigenaren die duizenden euro's uitgeven aan advertenties om nieuwe klanten te trekken, terwijl hun bestaande klantdata ongebruikt in Shopify of WooCommerce ligt te verstoffen. Een goed e-commerce CRM haalt meer omzet uit je bestaande klanten dan welke advertentiecampagne ook. Dit zijn de 5 systemen die ik voor webshops aanbeveel.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

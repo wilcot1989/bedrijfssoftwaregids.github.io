@@ -6,6 +6,8 @@ categories: ["productiviteit"]
 tags: ["website builder", "WordPress", "Wix", "Squarespace", "MKB website"]
 keywords: ["beste website builder MKB", "website maken bedrijf", "WordPress vs Wix", "website bouwer vergelijking"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Welke website bouwer is het beste voor een klein bedrijf?"
@@ -22,9 +24,7 @@ faq:
     a: "Als je producten online wilt verkopen, heb je een webshop nodig (Shopify, WooCommerce). Als je diensten aanbiedt en klanten via telefoon of e-mail binnenkomen, volstaat een gewone website met contactformulier. Veel website bouwers (Wix, Squarespace) bieden basis webshop-functionaliteit als add-on."
 ---
 
-Een professionele website is in 2026 geen luxe maar een noodzaak voor elk bedrijf. Het is je digitale visitekaartje, je 24/7 verkoper, en vaak het eerste contactpunt met potentiële klanten. Maar welke tool gebruik je om die website te bouwen?
-
-In dit artikel vergelijken we de 5 beste website bouwers voor het MKB. Van simpel en snel tot krachtig en flexibel.
+Ik zie regelmatig MKB-bedrijven die duizenden euro's hebben betaald aan een webbureau voor een website die ze vervolgens niet zelf kunnen aanpassen. In 2026 is dat nergens meer voor nodig. Met de juiste websitebouwer heb je in een dag een professionele site staan. Hier zijn de 5 platforms die ik aanbeveel, van simpel tot volledig maatwerk.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

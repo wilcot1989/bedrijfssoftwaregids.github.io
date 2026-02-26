@@ -6,6 +6,8 @@ categories: ["boekhouding"]
 tags: ["boekhoud app", "mobiel boekhouden", "bonnetjes scannen", "factuur app", "btw-aangifte app", "zzp app"]
 keywords: ["boekhoud app", "boekhouding app", "mobiel boekhouden", "beste boekhouding app", "boekhouding telefoon"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/boekhouding.svg"
 faq:
   - q: "Kan ik volledig boekhouden op mijn telefoon?"
@@ -24,11 +26,9 @@ faq:
     a: "Ja, alle boekhoud-apps in dit artikel ondersteunen het aanmaken en versturen van facturen. Je kunt facturen maken met je eigen logo en huisstijl, en deze direct per e-mail versturen naar je klant. Moneybird en FreshBooks bieden hier de beste mobiele ervaring voor."
 ---
 
-Als ondernemer ben je niet altijd achter je bureau. Klantgesprekken, zakelijke lunches, beurzen, reizen -- je administratie wacht niet tot je thuiskomt. Met een goede boekhoud-app op je telefoon kun je bonnetjes direct scannen, facturen onderweg versturen en je financiele overzicht altijd bij de hand hebben.
+Een van mijn klanten deed zijn hele boekhouding op zondagavond achter de laptop. Tot ik hem liet zien dat hij bonnetjes direct na een zakenlunch kan scannen en facturen kan versturen vanuit de trein. Mobiel boekhouden bespaart je niet alleen tijd, het voorkomt dat bonnetjes verdwijnen en facturen blijven liggen. Dit zijn de 5 apps die ik daarvoor aanbeveel.
 
-In dit artikel vergelijken we de 5 beste boekhoud-apps voor mobiel boekhouden in 2026. We kijken specifiek naar de mobiele ervaring: hoe goed werkt de app, wat kun je ermee en hoe verhoudt het zich tot de desktopversie?
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste Boekhoud-Apps 2026
 

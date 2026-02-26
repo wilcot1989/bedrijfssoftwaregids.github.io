@@ -6,6 +6,8 @@ categories: ["crm"]
 tags: ["pipedrive", "crm software", "sales crm", "pipedrive review", "crm nederland", "verkoopsoftware"]
 keywords: ["pipedrive review", "pipedrive ervaringen", "pipedrive nederland", "pipedrive kosten", "pipedrive crm review"]
 affiliate: true
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "/images/categories/crm.svg"
 faq:
   - q: "Wat kost Pipedrive per maand?"
@@ -24,9 +26,9 @@ faq:
     a: "Ja, Pipedrive biedt basis e-mailmarketing via de Campaigns add-on. Je kunt nieuwsbrieven en campagnes versturen naar je contacten. Voor geavanceerde marketing automation is een gespecialiseerde tool als Mailchimp of ActiveCampaign echter krachtiger."
 ---
 
-Pipedrive is een van de populairste CRM-systemen ter wereld voor sales-gerichte teams. Het platform is gebouwd rondom een visuele salespipeline en staat bekend om zijn eenvoud en effectiviteit. Maar hoe presteert Pipedrive voor Nederlandse bedrijven in 2026? In deze uitgebreide review testen we alle aspecten: functies, prijzen, gebruiksgemak, integraties en meer.
+Pipedrive is het CRM dat ik het vaakst aanbeveel aan salesteams van 2 tot 20 man. Het doet een ding en het doet dat goed: je pipeline beheren zonder gedoe. Maar het is niet voor iedereen de juiste keuze. In deze review deel ik mijn ervaringen na tientallen Pipedrive-implementaties bij Nederlandse bedrijven -- inclusief de nadelen waar de meeste reviews overheen stappen.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Pipedrive in het kort
 
@@ -257,7 +259,7 @@ Maak je eerste deals aan, koppel ze aan contacten en plan activiteiten. Binnen e
 
 Pipedrive verdient zijn reputatie als een van de beste sales-CRM's voor het MKB. De visuele pipeline, het gebruiksgemak en de effectieve automatiseringen maken het een krachtige tool voor elk bedrijf dat zijn verkoopproces wil stroomlijnen.
 
-**Onze aanbeveling**:
+**Mijn aanbeveling**:
 
 - **Start met het Advanced-plan** (€27,90/gebruiker/mnd) voor de beste balans tussen functies en prijs. De automatiseringen en e-mailsync die hier worden toegevoegd, zijn voor de meeste teams essentieel.
 - **Kies Professional** (€49,90/gebruiker/mnd) als je uitgebreide rapportages en revenue forecasting nodig hebt.
