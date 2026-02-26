@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8f9fa"/>
+      <stop offset="100%" stop-color="#e9ecef"/>
+    </linearGradient>
+    <linearGradient id="hubspot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff7a59"/>
+      <stop offset="100%" stop-color="#e8613d"/>
+    </linearGradient>
+    <linearGradient id="pipedrive" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#28a745"/>
+      <stop offset="100%" stop-color="#1e7e34"/>
+    </linearGradient>
+    <filter id="shadow" x="-2%" y="-2%" width="104%" height="104%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)" rx="12"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="1200" height="80" fill="#1a1a2e" rx="12"/>
+  <rect x="0" y="40" width="1200" height="40" fill="#1a1a2e"/>
+  <text x="600" y="50" text-anchor="middle" fill="white" font-size="28" font-weight="700">Prijsvergelijking: HubSpot vs Pipedrive 2026</text>
+  <text x="600" y="72" text-anchor="middle" fill="#adb5bd" font-size="14">Per gebruiker per maand (EUR) | Bron: officiële prijspagina's feb 2026</text>
+
+  <!-- Legend -->
+  <rect x="400" y="95" width="18" height="18" rx="3" fill="url(#hubspot)"/>
+  <text x="424" y="110" fill="#333" font-size="14" font-weight="600">HubSpot Sales Hub</text>
+  <rect x="600" y="95" width="18" height="18" rx="3" fill="url(#pipedrive)"/>
+  <text x="624" y="110" fill="#333" font-size="14" font-weight="600">Pipedrive</text>
+
+  <!-- Chart area -->
+  <!-- Y-axis -->
+  <line x1="120" y1="140" x2="120" y2="520" stroke="#dee2e6" stroke-width="1"/>
+
+  <!-- Y-axis labels and gridlines -->
+  <text x="110" y="520" text-anchor="end" fill="#6c757d" font-size="13">€0</text>
+  <line x1="120" y1="516" x2="1140" y2="516" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="110" y="444" text-anchor="end" fill="#6c757d" font-size="13">€25</text>
+  <line x1="120" y1="440" x2="1140" y2="440" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="110" y="368" text-anchor="end" fill="#6c757d" font-size="13">€50</text>
+  <line x1="120" y1="364" x2="1140" y2="364" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="110" y="292" text-anchor="end" fill="#6c757d" font-size="13">€75</text>
+  <line x1="120" y1="288" x2="1140" y2="288" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="110" y="216" text-anchor="end" fill="#6c757d" font-size="13">€100</text>
+  <line x1="120" y1="212" x2="1140" y2="212" stroke="#f0f0f0" stroke-width="1"/>
+
+  <text x="110" y="140" text-anchor="end" fill="#6c757d" font-size="13">€150</text>
+  <line x1="120" y1="136" x2="1140" y2="136" stroke="#f0f0f0" stroke-width="1"/>
+
+  <!-- X-axis -->
+  <line x1="120" y1="520" x2="1140" y2="520" stroke="#dee2e6" stroke-width="2"/>
+
+  <!-- Scale: 0=y520, 150=y136, so 1 EUR = (520-136)/150 = 2.56px -->
+  <!-- Bar width: 55px per bar, gap 10px between pair, group spacing ~140px -->
+  <!-- Group centers: 250, 430, 610, 790, 970 -->
+
+  <!-- Group 1: Gratis/Trial -->
+  <!-- HubSpot: €0 (gratis) -->
+  <rect x="218" y="514" width="55" height="6" rx="3" fill="url(#hubspot)" filter="url(#shadow)"/>
+  <text x="245" y="510" text-anchor="middle" fill="#e8613d" font-size="12" font-weight="700">GRATIS</text>
+  <!-- Pipedrive: geen gratis plan -->
+  <rect x="283" y="514" width="55" height="6" rx="3" fill="#dee2e6" filter="url(#shadow)" stroke="#adb5bd" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="310" y="510" text-anchor="middle" fill="#999" font-size="11" font-weight="600">Geen</text>
+  <!-- Label -->
+  <text x="278" y="548" text-anchor="middle" fill="#333" font-size="13" font-weight="600">Gratis / Trial</text>
+
+  <!-- Group 2: Basis (HubSpot Starter €15, Pipedrive Essential €14.90) -->
+  <!-- HubSpot: €15 -> y = 520 - 15*2.56 = 520-38.4 = 481.6 -->
+  <rect x="398" y="482" width="55" height="38" rx="3" fill="url(#hubspot)" filter="url(#shadow)"/>
+  <text x="425" y="477" text-anchor="middle" fill="#e8613d" font-size="13" font-weight="700">€15</text>
+  <!-- Pipedrive: €14.90 -> y = 520 - 14.9*2.56 = 520-38.1 = 481.9 -->
+  <rect x="463" y="482" width="55" height="38" rx="3" fill="url(#pipedrive)" filter="url(#shadow)"/>
+  <text x="490" y="477" text-anchor="middle" fill="#1e7e34" font-size="13" font-weight="700">€14,90</text>
+  <!-- Label -->
+  <text x="458" y="548" text-anchor="middle" fill="#333" font-size="13" font-weight="600">Basis</text>
+  <text x="458" y="563" text-anchor="middle" fill="#6c757d" font-size="11">Starter / Essential</text>
+
+  <!-- Group 3: Middel (HubSpot Professional €90, Pipedrive Advanced €27.90) -->
+  <!-- HubSpot: €90 -> y = 520 - 90*2.56 = 520-230.4 = 289.6 -->
+  <rect x="578" y="290" width="55" height="230" rx="3" fill="url(#hubspot)" filter="url(#shadow)"/>
+  <text x="605" y="285" text-anchor="middle" fill="#e8613d" font-size="13" font-weight="700">€90</text>
+  <!-- Pipedrive: €27.90 -> y = 520 - 27.9*2.56 = 520-71.4 = 448.6 -->
+  <rect x="643" y="449" width="55" height="71" rx="3" fill="url(#pipedrive)" filter="url(#shadow)"/>
+  <text x="670" y="444" text-anchor="middle" fill="#1e7e34" font-size="13" font-weight="700">€27,90</text>
+  <!-- Label -->
+  <text x="638" y="548" text-anchor="middle" fill="#333" font-size="13" font-weight="600">Middel</text>
+  <text x="638" y="563" text-anchor="middle" fill="#6c757d" font-size="11">Professional / Advanced</text>
+  <!-- Highlight callout -->
+  <rect x="570" y="246" width="160" height="30" rx="6" fill="#fff3cd" stroke="#ffc107" stroke-width="1"/>
+  <text x="650" y="266" text-anchor="middle" fill="#856404" font-size="12" font-weight="700">3,2x duurder!</text>
+
+  <!-- Group 4: Geavanceerd (HubSpot Enterprise €150, Pipedrive Professional €49.90) -->
+  <!-- HubSpot: €150 -> y = 520 - 150*2.56 = 520-384 = 136 -->
+  <rect x="758" y="136" width="55" height="384" rx="3" fill="url(#hubspot)" filter="url(#shadow)"/>
+  <text x="785" y="131" text-anchor="middle" fill="#e8613d" font-size="13" font-weight="700">€150</text>
+  <!-- Pipedrive: €49.90 -> y = 520 - 49.9*2.56 = 520-127.7 = 392.3 -->
+  <rect x="823" y="392" width="55" height="128" rx="3" fill="url(#pipedrive)" filter="url(#shadow)"/>
+  <text x="850" y="387" text-anchor="middle" fill="#1e7e34" font-size="13" font-weight="700">€49,90</text>
+  <!-- Label -->
+  <text x="818" y="548" text-anchor="middle" fill="#333" font-size="13" font-weight="600">Geavanceerd</text>
+  <text x="818" y="563" text-anchor="middle" fill="#6c757d" font-size="11">Enterprise / Professional</text>
+
+  <!-- Group 5: Top/Enterprise (HubSpot: geen, Pipedrive Power €64.90 + Enterprise €99) -->
+  <!-- HubSpot: geen hoger plan -->
+  <rect x="938" y="514" width="55" height="6" rx="3" fill="#dee2e6" stroke="#adb5bd" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="965" y="510" text-anchor="middle" fill="#999" font-size="11" font-weight="600">Geen</text>
+  <!-- Pipedrive Power: €64.90 -> y = 520 - 64.9*2.56 = 520-166.1 = 353.9 -->
+  <rect x="1003" y="354" width="24" height="166" rx="3" fill="url(#pipedrive)" filter="url(#shadow)"/>
+  <text x="1015" y="349" text-anchor="middle" fill="#1e7e34" font-size="11" font-weight="700">€64,90</text>
+  <!-- Pipedrive Enterprise: €99 -> y = 520 - 99*2.56 = 520-253.4 = 266.6 -->
+  <rect x="1033" y="267" width="24" height="253" rx="3" fill="#1e7e34" filter="url(#shadow)"/>
+  <text x="1045" y="262" text-anchor="middle" fill="#1e7e34" font-size="11" font-weight="700">€99</text>
+  <!-- Label -->
+  <text x="998" y="548" text-anchor="middle" fill="#333" font-size="13" font-weight="600">Top / Enterprise</text>
+  <text x="998" y="563" text-anchor="middle" fill="#6c757d" font-size="11">Power + Enterprise</text>
+
+  <!-- Bottom insight bar -->
+  <rect x="40" y="582" width="1120" height="36" rx="8" fill="#e3f2fd" stroke="#90caf9" stroke-width="1"/>
+  <text x="600" y="605" text-anchor="middle" fill="#1565c0" font-size="14" font-weight="600">
+    Grootste verschil: automatiseringen (HubSpot €90 vs Pipedrive €27,90) = €3.726/jaar besparing bij 5 gebruikers
+  </text>
+
+  <!-- bedrijfssoftwaregids.nl watermark -->
+  <text x="1170" y="622" text-anchor="end" fill="#adb5bd" font-size="10">bedrijfssoftwaregids.nl</text>
+</svg>

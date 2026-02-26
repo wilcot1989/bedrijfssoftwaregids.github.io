@@ -34,6 +34,8 @@ faq:
 
 Voordat ik de tools afzonderlijk bespreek, hier het overzicht waar de meeste teams naar zoeken. Prijzen gecheckt in februari 2026:
 
+![Staafdiagram met prijsvergelijking van 7 projectmanagement tools — Trello en MS Planner zijn het voordeligst, Basecamp het duurst](/images/posts/beste-projectmanagement-software/prijsvergelijking-projectmanagement.svg)
+
 | Software | Gratis plan | Startprijs | 10 gebruikers/mnd | 25 gebruikers/mnd | Gantt inbegrepen? |
 |---|---|---|---|---|---|
 | **Monday.com** | Ja (2 pers.) | €9/gebruiker | €120/mnd (min. 3) | €225/mnd | Vanaf Standard (€12) |
@@ -317,6 +319,8 @@ Planner is basaal vergeleken met de andere tools in dit overzicht. Geen serieuze
 [Bekijk Microsoft Planner](https://www.microsoft.com/nl-nl/microsoft-365/business/task-management-software)
 
 ---
+
+![Overzicht van gebruikersscores: MS Planner scoort het hoogst (4.2 op G2), ClickUp en Basecamp boven 3.0, Monday.com en Trello rond 2.7-2.8, Asana het laagst (1.5)](/images/posts/beste-projectmanagement-software/trustpilot-scores-projectmanagement.svg)
 
 ### Hoeveel kost projectmanagement software voor een team van 10?
 

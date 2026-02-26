@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8f9fa"/>
+      <stop offset="100%" stop-color="#e9ecef"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-1%" y="-1%" width="102%" height="102%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad2)" rx="12"/>
+
+  <!-- Title bar -->
+  <rect x="0" y="0" width="1200" height="75" fill="#1a1a2e" rx="12"/>
+  <rect x="0" y="40" width="1200" height="35" fill="#1a1a2e"/>
+  <text x="600" y="46" text-anchor="middle" fill="white" font-size="26" font-weight="700">Feature Vergelijking: HubSpot vs Pipedrive</text>
+  <text x="600" y="67" text-anchor="middle" fill="#adb5bd" font-size="13">Eerlijke vergelijking op de belangrijkste CRM-functies | 2026</text>
+
+  <!-- Table card -->
+  <rect x="50" y="90" width="1100" height="490" rx="10" fill="white" filter="url(#cardShadow)" stroke="#e9ecef" stroke-width="1"/>
+
+  <!-- Column headers -->
+  <rect x="50" y="90" width="430" height="48" rx="10" fill="#f1f3f5"/>
+  <rect x="50" y="114" width="430" height="24" fill="#f1f3f5"/>
+  <text x="265" y="120" text-anchor="middle" fill="#495057" font-size="16" font-weight="700">Functie</text>
+
+  <rect x="480" y="90" width="310" height="48" rx="0" fill="#fff5f3"/>
+  <rect x="480" y="90" width="1" height="48" fill="#e9ecef"/>
+  <!-- HubSpot logo area -->
+  <circle cx="560" cy="114" r="14" fill="#ff7a59"/>
+  <text x="560" y="119" text-anchor="middle" fill="white" font-size="12" font-weight="700">H</text>
+  <text x="620" y="120" text-anchor="start" fill="#e8613d" font-size="16" font-weight="700">HubSpot</text>
+
+  <rect x="790" y="90" width="360" height="48" rx="10" fill="#f0faf0"/>
+  <rect x="790" y="114" width="360" height="24" fill="#f0faf0"/>
+  <rect x="790" y="90" width="1" height="48" fill="#e9ecef"/>
+  <!-- Pipedrive logo area -->
+  <circle cx="870" cy="114" r="14" fill="#28a745"/>
+  <text x="870" y="119" text-anchor="middle" fill="white" font-size="12" font-weight="700">P</text>
+  <text x="930" y="120" text-anchor="start" fill="#1e7e34" font-size="16" font-weight="700">Pipedrive</text>
+
+  <!-- Row height: 52px, starting at y=138 -->
+  <!-- Row dividers -->
+  <line x1="70" y1="190" x2="1130" y2="190" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="70" y1="242" x2="1130" y2="242" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="70" y1="294" x2="1130" y2="294" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="70" y1="346" x2="1130" y2="346" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="70" y1="398" x2="1130" y2="398" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="70" y1="450" x2="1130" y2="450" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="70" y1="502" x2="1130" y2="502" stroke="#f0f0f0" stroke-width="1"/>
+
+  <!-- Column dividers -->
+  <line x1="480" y1="138" x2="480" y2="555" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="790" y1="138" x2="790" y2="555" stroke="#f0f0f0" stroke-width="1"/>
+
+  <!-- Checkmark symbol: green circle with white check -->
+  <!-- Cross symbol: red circle with white X -->
+  <!-- Partial: orange circle with ~ -->
+
+  <!-- Row 1: Gratis plan (y center = 164) -->
+  <text x="80" y="170" fill="#333" font-size="15" font-weight="600">Gratis plan</text>
+  <!-- HubSpot: Yes -->
+  <circle cx="635" cy="164" r="16" fill="#28a745"/>
+  <path d="M626,164 L632,170 L644,158" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="169" fill="#495057" font-size="13">Uitgebreid gratis CRM</text>
+  <!-- Pipedrive: No -->
+  <circle cx="945" cy="164" r="16" fill="#dc3545"/>
+  <path d="M938,157 L952,171 M952,157 L938,171" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="970" y="169" fill="#495057" font-size="13">Alleen 14-daagse trial</text>
+
+  <!-- Row 2: E-mail tracking (y center = 216) -->
+  <text x="80" y="222" fill="#333" font-size="15" font-weight="600">E-mail tracking</text>
+  <!-- HubSpot: Yes -->
+  <circle cx="635" cy="216" r="16" fill="#28a745"/>
+  <path d="M626,216 L632,222 L644,210" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="221" fill="#495057" font-size="13">Ingebouwd + automation</text>
+  <!-- Pipedrive: Yes -->
+  <circle cx="945" cy="216" r="16" fill="#28a745"/>
+  <path d="M936,216 L942,222 L954,210" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="970" y="221" fill="#495057" font-size="13">Ingebouwd + add-on</text>
+
+  <!-- Row 3: Pipeline management (y center = 268) -->
+  <text x="80" y="274" fill="#333" font-size="15" font-weight="600">Pipeline management</text>
+  <!-- HubSpot: Yes -->
+  <circle cx="635" cy="268" r="16" fill="#28a745"/>
+  <path d="M626,268 L632,274 L644,262" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="273" fill="#495057" font-size="13">Visueel, uitgebreid</text>
+  <!-- Pipedrive: Yes (star) -->
+  <circle cx="945" cy="268" r="16" fill="#28a745"/>
+  <path d="M936,268 L942,274 L954,262" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="970" y="273" fill="#1e7e34" font-size="13" font-weight="700">Beste in klasse</text>
+
+  <!-- Row 4: Rapportages (y center = 320) -->
+  <text x="80" y="326" fill="#333" font-size="15" font-weight="600">Rapportages &amp; analytics</text>
+  <!-- HubSpot: Yes (star) -->
+  <circle cx="635" cy="320" r="16" fill="#28a745"/>
+  <path d="M626,320 L632,326 L644,314" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="325" fill="#e8613d" font-size="13" font-weight="700">Diepste rapportages</text>
+  <!-- Pipedrive: Partial -->
+  <circle cx="945" cy="320" r="16" fill="#fd7e14"/>
+  <text x="945" y="325" text-anchor="middle" fill="white" font-size="16" font-weight="700">~</text>
+  <text x="970" y="325" fill="#495057" font-size="13">Solide, minder diep</text>
+
+  <!-- Row 5: Integraties (y center = 372) -->
+  <text x="80" y="378" fill="#333" font-size="15" font-weight="600">Integraties</text>
+  <!-- HubSpot: 1500+ -->
+  <circle cx="635" cy="372" r="16" fill="#28a745"/>
+  <path d="M626,372 L632,378 L644,366" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="377" fill="#e8613d" font-size="13" font-weight="700">1.500+ integraties</text>
+  <!-- Pipedrive: 400+ -->
+  <circle cx="945" cy="372" r="16" fill="#fd7e14"/>
+  <text x="945" y="377" text-anchor="middle" fill="white" font-size="16" font-weight="700">~</text>
+  <text x="970" y="377" fill="#495057" font-size="13">400+ integraties</text>
+
+  <!-- Row 6: Mobiele app (y center = 424) -->
+  <text x="80" y="430" fill="#333" font-size="15" font-weight="600">Mobiele app</text>
+  <!-- HubSpot: Good -->
+  <circle cx="635" cy="424" r="16" fill="#28a745"/>
+  <path d="M626,424 L632,430 L644,418" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="429" fill="#495057" font-size="13">Goed, veel functies</text>
+  <!-- Pipedrive: Excellent -->
+  <circle cx="945" cy="424" r="16" fill="#28a745"/>
+  <path d="M936,424 L942,430 L954,418" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="970" y="429" fill="#1e7e34" font-size="13" font-weight="700">Uitstekend + offline</text>
+
+  <!-- Row 7: Trustpilot score (y center = 476) -->
+  <text x="80" y="482" fill="#333" font-size="15" font-weight="600">Trustpilot score</text>
+  <!-- HubSpot: 1.8/5 -->
+  <circle cx="635" cy="476" r="16" fill="#dc3545"/>
+  <text x="635" y="481" text-anchor="middle" fill="white" font-size="13" font-weight="700">!</text>
+  <text x="660" y="481" fill="#dc3545" font-size="13" font-weight="700">1,8 / 5</text>
+  <text x="720" y="481" fill="#6c757d" font-size="12">(1.049 reviews)</text>
+  <!-- Pipedrive: 4.5/5 -->
+  <circle cx="945" cy="476" r="16" fill="#28a745"/>
+  <path d="M936,476 L942,482 L954,470" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="970" y="481" fill="#1e7e34" font-size="13" font-weight="700">4,5 / 5</text>
+  <text x="1030" y="481" fill="#6c757d" font-size="12">(3.224 reviews)</text>
+
+  <!-- Row 8: Marketing automation (y center = 528) -->
+  <text x="80" y="534" fill="#333" font-size="15" font-weight="600">Marketing automation</text>
+  <!-- HubSpot: Star -->
+  <circle cx="635" cy="528" r="16" fill="#28a745"/>
+  <path d="M626,528 L632,534 L644,522" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="660" y="533" fill="#e8613d" font-size="13" font-weight="700">Beste in klasse</text>
+  <!-- Pipedrive: No -->
+  <circle cx="945" cy="528" r="16" fill="#dc3545"/>
+  <path d="M938,521 L952,535 M952,521 L938,535" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="970" y="533" fill="#495057" font-size="13">Zeer beperkt</text>
+
+  <!-- Bottom summary bar -->
+  <rect x="50" y="565" width="540" height="44" rx="8" fill="#fff5f3" stroke="#ffcdc2" stroke-width="1"/>
+  <text x="70" y="583" fill="#e8613d" font-size="13" font-weight="700">HubSpot wint op:</text>
+  <text x="70" y="600" fill="#666" font-size="12">Gratis plan, marketing automation, rapportages, integraties</text>
+
+  <rect x="610" y="565" width="540" height="44" rx="8" fill="#f0faf0" stroke="#a3d9a5" stroke-width="1"/>
+  <text x="630" y="583" fill="#1e7e34" font-size="13" font-weight="700">Pipedrive wint op:</text>
+  <text x="630" y="600" fill="#666" font-size="12">Pipeline mgmt, mobiele app, Trustpilot, prijs-kwaliteit</text>
+
+  <!-- Watermark -->
+  <text x="1170" y="622" text-anchor="end" fill="#c0c0c0" font-size="10">bedrijfssoftwaregids.nl</text>
+</svg>

@@ -32,6 +32,8 @@ Je hebt een groeiend klantenbestand, deals die je bijhoudt in spreadsheets en ee
 
 ## Kostenvergelijking: wat kost CRM software echt per maand?
 
+![Prijsvergelijking CRM software 2026 — startprijs per gebruiker per maand](/images/posts/beste-crm-software-nederland/prijsvergelijking-crm-software.svg)
+
 Voordat ik de systemen individueel bespreek, wil ik je eerst laten zien wat je werkelijk kwijt bent. Ik heb de kosten doorgerekend voor een team van 5 gebruikers (prijzen gecheckt februari 2026):
 
 | CRM Software | Prijs/gebruiker/mnd | 5 gebruikers/mnd | Gratis plan | Jaarkosten (5 pers.) |
@@ -47,6 +49,8 @@ Voordat ik de systemen individueel bespreek, wil ik je eerst laten zien wat je w
 Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel op zodra je geavanceerde functies nodig hebt. Teamleader en Gripp zijn duurder op papier, maar vervangen meerdere losse tools -- reken dat mee.
 
 ## Vergelijkingstabel: Beste CRM Software 2026
+
+![Trustpilot scores CRM software 2026 — gebruikersbeoordelingen van alle 7 systemen](/images/posts/beste-crm-software-nederland/trustpilot-scores-crm.svg)
 
 | CRM Software | Startprijs/mnd | Gratis plan | Nederlands | Trustpilot | Beste voor |
 |---|---|---|---|---|---|

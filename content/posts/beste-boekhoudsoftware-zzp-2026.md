@@ -34,6 +34,8 @@ Ik spreek wekelijks ZZP'ers die te veel betalen voor hun boekhoudsoftware. Een g
 
 Voordat ik elk pakket apart bespreek, eerst het overzicht waar het om draait — de kosten. Prijzen gecheckt in februari 2026:
 
+![Prijsvergelijking boekhoudsoftware ZZP 2026 — horizontale bar chart met maandprijzen van Jortt, FreshBooks, e-Boekhouden, Moneybird, InformerOnline en Exact Online](/images/posts/beste-boekhoudsoftware-zzp/prijsvergelijking-boekhoudsoftware.svg)
+
 | Software | Goedkoopste plan | Middenplan | Gratis optie | BTW-aangifte | Bankkoppeling | Trustpilot |
 |---|---|---|---|---|---|---|
 | **Moneybird** | €9,95/mnd (240 boekingen) | €14,50/mnd (onbeperkt) | Ja (zeer beperkt) | Ja | Ja | 3.5/5 (180) |
@@ -44,6 +46,8 @@ Voordat ik elk pakket apart bespreek, eerst het overzicht waar het om draait —
 | **Jortt** | Gratis (basis) | €9/mnd (Compleet) | Ja | Ja | Ja (betaald) | 4.7/5 (185) |
 
 Wat meteen opvalt: het duurste pakket (Exact Online) heeft de laagste Trustpilot-score. En e-Boekhouden.nl — niet het meest sexy merk — scoort het hoogst met een 4.6 op bijna 1.900 reviews. Dat zegt iets.
+
+![Trustpilot beoordelingen boekhoudsoftware 2026 — overzicht met scores en sterren van alle 6 pakketten](/images/posts/beste-boekhoudsoftware-zzp/trustpilot-scores-boekhoudsoftware.svg)
 
 ## 1. Moneybird — de populairste keuze onder ZZP'ers
 

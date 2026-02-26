@@ -52,6 +52,8 @@ Zoek je een breder overzicht van CRM-oplossingen? Bekijk dan ook mijn artikel ov
 
 Die Trustpilot-scores vertellen een verhaal. Pipedrive scoort 4.5/5 met ruim 3.200 reviews -- gebruikers zijn consistent positief over het gebruiksgemak en de focus op sales. HubSpot scoort beduidend lager met 1.8/5 op basis van 1.049 reviews. De klachten gaan vooral over agressieve contractvoorwaarden en onverwachte prijsverhogingen. Eerlijk gezegd: de lage HubSpot-score weerspiegelt niet per se de productkwaliteit, maar zegt veel over hoe gebruikers de commerciele aanpak ervaren.
 
+{{< figure src="/images/posts/hubspot-vs-pipedrive/feature-vergelijking-hubspot-pipedrive.svg" alt="Feature vergelijking HubSpot vs Pipedrive: visuele matrix met scores op gratis plan, e-mail tracking, pipeline management, rapportages, integraties, mobiele app en Trustpilot" caption="Visuele vergelijking van de belangrijkste CRM-functies tussen HubSpot en Pipedrive." >}}
+
 ## Kostenvergelijking: wat betaal je echt per maand?
 
 Dit is waar de meeste ondernemers zich verkijken. De startprijzen lijken vergelijkbaar, maar bij opschaling lopen de kosten ver uiteen.
@@ -78,6 +80,8 @@ Dit is waar de meeste ondernemers zich verkijken. De startprijzen lijken vergeli
 Die middelste rij is cruciaal. De meeste groeiende bedrijven willen automatiseringen -- e-mails automatisch versturen, deals verplaatsen op basis van triggers, taken toewijzen. Bij HubSpot betaal je daar €90/gebruiker/maand voor. Bij Pipedrive €27,90. Dat is €3.726 per jaar verschil voor een team van 5. Genoeg om een extra salesmedewerker een halve dag per week in te huren.
 
 **Let op bij HubSpot:** de prijzen hierboven gelden alleen voor de Sales Hub. Wil je ook de Marketing Hub of Service Hub? Dan betaal je per Hub extra. Ik heb klanten gezien die bij €15/maand begonnen en binnen een jaar op €400+/maand zaten doordat ze Hubs bleven toevoegen.
+
+{{< figure src="/images/posts/hubspot-vs-pipedrive/prijsvergelijking-hubspot-pipedrive.svg" alt="Prijsvergelijking HubSpot vs Pipedrive 2026: grouped bar chart met alle plannen van gratis tot enterprise naast elkaar" caption="Alle HubSpot- en Pipedrive-plannen naast elkaar. Het grootste prijsverschil zit bij de middelste plannen: HubSpot Professional kost 3,2x meer dan Pipedrive Advanced." >}}
 
 ## HubSpot: het alles-in-een platform
 

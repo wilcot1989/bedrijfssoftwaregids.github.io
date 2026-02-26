@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bgTP" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e2e8f0;stop-opacity:1" />
+    </linearGradient>
+    <filter id="cardShadow" x="-3%" y="-3%" width="106%" height="112%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgTP)" rx="12"/>
+
+  <!-- Title area -->
+  <rect x="0" y="0" width="1200" height="90" fill="#00b67a" rx="12"/>
+  <rect x="0" y="40" width="1200" height="50" fill="#00b67a"/>
+  <text x="600" y="42" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#ffffff" opacity="0.9">TRUSTPILOT SCORES</text>
+  <text x="600" y="70" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#ffffff">Boekhoudsoftware Beoordelingen 2026</text>
+
+  <!-- Row 1: Top 3 (Jortt, e-Boekhouden, InformerOnline) -->
+
+  <!-- Card 1: Jortt - 4.7 - HIGHEST -->
+  <rect x="40" y="115" width="360" height="220" fill="#ffffff" rx="12" filter="url(#cardShadow)"/>
+  <rect x="40" y="115" width="360" height="6" fill="#00b67a" rx="3"/>
+  <!-- Crown / badge -->
+  <rect x="290" y="128" width="100" height="24" fill="#00b67a" rx="12"/>
+  <text x="340" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#fff">HOOGSTE</text>
+  <text x="220" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#0f172a">Jortt</text>
+  <!-- Score -->
+  <text x="220" y="210" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="800" fill="#00b67a">4.7</text>
+  <text x="220" y="232" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">van 5.0</text>
+  <!-- Stars 4.7 -->
+  <g transform="translate(107, 240)">
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a" transform="translate(28,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a" transform="translate(56,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a" transform="translate(84,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(112,0)"/>
+    <clipPath id="star5j"><rect x="112" y="0" width="16.8" height="24"/></clipPath>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a" transform="translate(112,0)" clip-path="url(#star5j)"/>
+  </g>
+  <!-- Reviews count -->
+  <text x="220" y="292" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">185 reviews</text>
+  <!-- Bar showing % 5-star -->
+  <rect x="70" y="304" width="300" height="8" fill="#e2e8f0" rx="4"/>
+  <rect x="70" y="304" width="249" height="8" fill="#00b67a" rx="4"/>
+  <text x="220" y="326" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">83% geeft 5 sterren</text>
+
+  <!-- Card 2: e-Boekhouden - 4.6 -->
+  <rect x="420" y="115" width="360" height="220" fill="#ffffff" rx="12" filter="url(#cardShadow)"/>
+  <rect x="420" y="115" width="360" height="6" fill="#00b67a" rx="3"/>
+  <rect x="650" y="128" width="120" height="24" fill="#00b67a" rx="12"/>
+  <text x="710" y="145" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#fff">MEESTE REVIEWS</text>
+  <text x="600" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#0f172a">e-Boekhouden.nl</text>
+  <!-- Score -->
+  <text x="600" y="210" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="800" fill="#00b67a">4.6</text>
+  <text x="600" y="232" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">van 5.0</text>
+  <!-- Stars 4.6 -->
+  <g transform="translate(487, 240)">
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a" transform="translate(28,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a" transform="translate(56,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a" transform="translate(84,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(112,0)"/>
+    <clipPath id="star5e"><rect x="112" y="0" width="14.4" height="24"/></clipPath>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#00b67a" transform="translate(112,0)" clip-path="url(#star5e)"/>
+  </g>
+  <!-- Reviews count -->
+  <text x="600" y="292" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">1.857 reviews</text>
+  <rect x="450" y="304" width="300" height="8" fill="#e2e8f0" rx="4"/>
+  <rect x="450" y="304" width="225" height="8" fill="#00b67a" rx="4"/>
+  <text x="600" y="326" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">75% geeft 5 sterren</text>
+
+  <!-- Card 3: InformerOnline - 4.3 -->
+  <rect x="800" y="115" width="360" height="220" fill="#ffffff" rx="12" filter="url(#cardShadow)"/>
+  <rect x="800" y="115" width="360" height="6" fill="#73cf11" rx="3"/>
+  <text x="980" y="168" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#0f172a">InformerOnline</text>
+  <text x="980" y="210" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="800" fill="#73cf11">4.3</text>
+  <text x="980" y="232" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">van 5.0</text>
+  <!-- Stars 4.3 -->
+  <g transform="translate(867, 240)">
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11" transform="translate(28,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11" transform="translate(56,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11" transform="translate(84,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(112,0)"/>
+    <clipPath id="star5i"><rect x="112" y="0" width="7.2" height="24"/></clipPath>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11" transform="translate(112,0)" clip-path="url(#star5i)"/>
+  </g>
+  <text x="980" y="292" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">113 reviews</text>
+  <rect x="830" y="304" width="300" height="8" fill="#e2e8f0" rx="4"/>
+  <rect x="830" y="304" width="195" height="8" fill="#73cf11" rx="4"/>
+  <text x="980" y="326" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">65% geeft 5 sterren</text>
+
+  <!-- Row 2: Bottom 3 (FreshBooks, Moneybird, Exact Online) -->
+
+  <!-- Card 4: FreshBooks - 3.9 -->
+  <rect x="40" y="360" width="360" height="220" fill="#ffffff" rx="12" filter="url(#cardShadow)"/>
+  <rect x="40" y="360" width="360" height="6" fill="#73cf11" rx="3"/>
+  <text x="220" y="413" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#0f172a">FreshBooks</text>
+  <text x="220" y="455" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="800" fill="#73cf11">3.9</text>
+  <text x="220" y="477" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">van 5.0</text>
+  <!-- Stars 3.9 -->
+  <g transform="translate(107, 485)">
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11" transform="translate(28,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11" transform="translate(56,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(84,0)"/>
+    <clipPath id="star4f"><rect x="84" y="0" width="21.6" height="24"/></clipPath>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#73cf11" transform="translate(84,0)" clip-path="url(#star4f)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(112,0)"/>
+  </g>
+  <text x="220" y="537" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">984 reviews</text>
+  <rect x="70" y="549" width="300" height="8" fill="#e2e8f0" rx="4"/>
+  <rect x="70" y="549" width="165" height="8" fill="#73cf11" rx="4"/>
+  <text x="220" y="571" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">55% geeft 5 sterren</text>
+
+  <!-- Card 5: Moneybird - 3.5 -->
+  <rect x="420" y="360" width="360" height="220" fill="#ffffff" rx="12" filter="url(#cardShadow)"/>
+  <rect x="420" y="360" width="360" height="6" fill="#deba0a" rx="3"/>
+  <text x="600" y="413" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#0f172a">Moneybird</text>
+  <text x="600" y="455" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="800" fill="#deba0a">3.5</text>
+  <text x="600" y="477" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">van 5.0</text>
+  <!-- Stars 3.5 -->
+  <g transform="translate(487, 485)">
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#deba0a"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#deba0a" transform="translate(28,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#deba0a" transform="translate(56,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(84,0)"/>
+    <clipPath id="star4m"><rect x="84" y="0" width="12" height="24"/></clipPath>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#deba0a" transform="translate(84,0)" clip-path="url(#star4m)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(112,0)"/>
+  </g>
+  <text x="600" y="537" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">180 reviews</text>
+  <rect x="450" y="549" width="300" height="8" fill="#e2e8f0" rx="4"/>
+  <rect x="450" y="549" width="135" height="8" fill="#deba0a" rx="4"/>
+  <text x="600" y="571" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">45% geeft 5 sterren</text>
+
+  <!-- Card 6: Exact Online - 2.6 -->
+  <rect x="800" y="360" width="360" height="220" fill="#ffffff" rx="12" filter="url(#cardShadow)"/>
+  <rect x="800" y="360" width="360" height="6" fill="#ff3722" rx="3"/>
+  <rect x="1040" y="373" width="110" height="24" fill="#ff3722" rx="12"/>
+  <text x="1095" y="390" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#fff">LAAGSTE</text>
+  <text x="980" y="413" text-anchor="middle" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#0f172a">Exact Online</text>
+  <text x="980" y="455" text-anchor="middle" font-family="system-ui, sans-serif" font-size="48" font-weight="800" fill="#ff3722">2.6</text>
+  <text x="980" y="477" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">van 5.0</text>
+  <!-- Stars 2.6 -->
+  <g transform="translate(867, 485)">
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#ff3722"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#ff3722" transform="translate(28,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(56,0)"/>
+    <clipPath id="star3x"><rect x="56" y="0" width="14.4" height="24"/></clipPath>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#ff3722" transform="translate(56,0)" clip-path="url(#star3x)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(84,0)"/>
+    <polygon points="12,0 15.5,7.5 24,8.7 18,14.5 19.4,23 12,19 4.6,23 6,14.5 0,8.7 8.5,7.5" fill="#dbeafe" transform="translate(112,0)"/>
+  </g>
+  <text x="980" y="537" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#64748b">641 reviews</text>
+  <rect x="830" y="549" width="300" height="8" fill="#e2e8f0" rx="4"/>
+  <rect x="830" y="549" width="75" height="8" fill="#ff3722" rx="4"/>
+  <text x="980" y="571" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">25% geeft 5 sterren</text>
+
+  <!-- Footer -->
+  <text x="600" y="622" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#94a3b8">bedrijfssoftwaregids.nl | Trustpilot-scores februari 2026 | Gesorteerd op score</text>
+</svg>
