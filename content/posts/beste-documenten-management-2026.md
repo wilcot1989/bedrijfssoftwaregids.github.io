@@ -1,6 +1,7 @@
 ---
-title: "Beste Documenten Management Software 2026: Top 5 DMS Vergeleken"
+title: "Beste DMS Software 2026: Top 5 Documentbeheer"
 date: 2026-05-27T10:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "De beste documenten management systemen (DMS) van 2026 vergeleken. SharePoint, Google Workspace, Dropbox Business, Box en DocuWare op prijs en functies."
 categories: ["productiviteit"]
 tags: ["documenten management", "DMS", "SharePoint", "Google Drive", "documentbeheer"]

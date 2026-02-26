@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0c4a6e"/>
+      <stop offset="100%" style="stop-color:#064e6e"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0891b2"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.04" stroke="#ffffff" stroke-width="1">
+    <line x1="0" y1="0" x2="0" y2="630"/><line x1="60" y1="0" x2="60" y2="630"/>
+    <line x1="120" y1="0" x2="120" y2="630"/><line x1="180" y1="0" x2="180" y2="630"/>
+    <line x1="240" y1="0" x2="240" y2="630"/><line x1="300" y1="0" x2="300" y2="630"/>
+    <line x1="360" y1="0" x2="360" y2="630"/><line x1="420" y1="0" x2="420" y2="630"/>
+    <line x1="480" y1="0" x2="480" y2="630"/><line x1="540" y1="0" x2="540" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/><line x1="660" y1="0" x2="660" y2="630"/>
+    <line x1="720" y1="0" x2="720" y2="630"/><line x1="780" y1="0" x2="780" y2="630"/>
+    <line x1="840" y1="0" x2="840" y2="630"/><line x1="900" y1="0" x2="900" y2="630"/>
+    <line x1="960" y1="0" x2="960" y2="630"/><line x1="1020" y1="0" x2="1020" y2="630"/>
+    <line x1="1080" y1="0" x2="1080" y2="630"/><line x1="1140" y1="0" x2="1140" y2="630"/>
+    <line x1="0" y1="60" x2="1200" y2="60"/><line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/><line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/><line x1="0" y1="360" x2="1200" y2="360"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/><line x1="0" y1="480" x2="1200" y2="480"/>
+    <line x1="0" y1="540" x2="1200" y2="540"/><line x1="0" y1="600" x2="1200" y2="600"/>
+  </g>
+
+  <!-- Decorative background circles -->
+  <circle cx="200" cy="500" r="200" fill="#06b6d4" opacity="0.06"/>
+  <circle cx="1000" cy="150" r="240" fill="#0891b2" opacity="0.05"/>
+
+  <!-- === CENTRAL DASHBOARD / SCREEN === -->
+  <rect x="400" y="180" width="400" height="280" rx="16" fill="#ffffff" opacity="0.12"/>
+  <rect x="400" y="180" width="400" height="40" rx="16" fill="url(#tealGrad)" opacity="0.5"/>
+  <!-- Screen dots (window controls) -->
+  <circle cx="425" cy="200" r="5" fill="#ffffff" opacity="0.5"/>
+  <circle cx="445" cy="200" r="5" fill="#ffffff" opacity="0.4"/>
+  <circle cx="465" cy="200" r="5" fill="#ffffff" opacity="0.3"/>
+
+  <!-- Checklist items -->
+  <rect x="435" y="240" width="16" height="16" rx="3" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="462" y="242" width="120" height="8" rx="4" fill="#ffffff" opacity="0.3"/>
+  <rect x="462" y="254" width="80" height="5" rx="2.5" fill="#ffffff" opacity="0.15"/>
+
+  <rect x="435" y="280" width="16" height="16" rx="3" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="462" y="282" width="140" height="8" rx="4" fill="#ffffff" opacity="0.3"/>
+  <rect x="462" y="294" width="95" height="5" rx="2.5" fill="#ffffff" opacity="0.15"/>
+
+  <rect x="435" y="320" width="16" height="16" rx="3" fill="#ffffff" opacity="0.25"/>
+  <rect x="462" y="322" width="110" height="8" rx="4" fill="#ffffff" opacity="0.2"/>
+  <rect x="462" y="334" width="70" height="5" rx="2.5" fill="#ffffff" opacity="0.1"/>
+
+  <rect x="435" y="360" width="16" height="16" rx="3" fill="#ffffff" opacity="0.25"/>
+  <rect x="462" y="362" width="130" height="8" rx="4" fill="#ffffff" opacity="0.2"/>
+  <rect x="462" y="374" width="85" height="5" rx="2.5" fill="#ffffff" opacity="0.1"/>
+
+  <!-- Progress bar -->
+  <rect x="435" y="410" width="330" height="12" rx="6" fill="#ffffff" opacity="0.1"/>
+  <rect x="435" y="410" width="200" height="12" rx="6" fill="url(#tealGrad)" opacity="0.7"/>
+
+  <!-- Checkmarks on completed items -->
+  <path d="M439 248 L443 252 L449 243" stroke="#ffffff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M439 288 L443 292 L449 283" stroke="#ffffff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- === SIDE CARD - Left (clock/time) === -->
+  <rect x="100" y="220" width="200" height="140" rx="14" fill="#ffffff" opacity="0.08"/>
+  <!-- Clock circle -->
+  <circle cx="200" cy="275" r="35" fill="none" stroke="url(#tealGrad)" stroke-width="3" opacity="0.6"/>
+  <line x1="200" y1="275" x2="200" y2="252" stroke="#ffffff" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
+  <line x1="200" y1="275" x2="218" y2="280" stroke="#ffffff" stroke-width="2" opacity="0.4" stroke-linecap="round"/>
+  <circle cx="200" cy="275" r="3" fill="#0891b2" opacity="0.8"/>
+  <!-- Time label -->
+  <rect x="140" y="330" width="120" height="8" rx="4" fill="#ffffff" opacity="0.2"/>
+
+  <!-- === SIDE CARD - Right (chart) === -->
+  <rect x="900" y="220" width="200" height="140" rx="14" fill="#ffffff" opacity="0.08"/>
+  <!-- Bar chart -->
+  <rect x="930" y="310" width="24" height="30" rx="4" fill="#ffffff" opacity="0.2"/>
+  <rect x="962" y="290" width="24" height="50" rx="4" fill="#ffffff" opacity="0.3"/>
+  <rect x="994" y="270" width="24" height="70" rx="4" fill="url(#tealGrad)" opacity="0.6"/>
+  <rect x="1026" y="255" width="24" height="85" rx="4" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="1058" y="240" width="24" height="100" rx="4" fill="url(#tealGrad)" opacity="0.5"/>
+
+  <!-- === BOTTOM CARDS === -->
+  <!-- Left bottom card -->
+  <rect x="140" y="420" width="170" height="100" rx="12" fill="#ffffff" opacity="0.06"/>
+  <circle cx="180" cy="458" r="18" fill="url(#tealGrad)" opacity="0.4"/>
+  <rect x="210" y="450" width="80" height="6" rx="3" fill="#ffffff" opacity="0.2"/>
+  <rect x="210" y="462" width="55" height="4" rx="2" fill="#ffffff" opacity="0.12"/>
+  <rect x="158" y="492" width="130" height="4" rx="2" fill="#ffffff" opacity="0.1"/>
+
+  <!-- Right bottom card -->
+  <rect x="890" y="420" width="170" height="100" rx="12" fill="#ffffff" opacity="0.06"/>
+  <circle cx="930" cy="458" r="18" fill="url(#tealGrad)" opacity="0.4"/>
+  <rect x="960" y="450" width="80" height="6" rx="3" fill="#ffffff" opacity="0.2"/>
+  <rect x="960" y="462" width="55" height="4" rx="2" fill="#ffffff" opacity="0.12"/>
+  <rect x="908" y="492" width="130" height="4" rx="2" fill="#ffffff" opacity="0.1"/>
+
+  <!-- Scattered decorative dots -->
+  <circle cx="500" cy="160" r="3" fill="#0891b2" opacity="0.3"/>
+  <circle cx="700" cy="155" r="3" fill="#0891b2" opacity="0.25"/>
+  <circle cx="350" cy="500" r="4" fill="#0891b2" opacity="0.2"/>
+  <circle cx="850" cy="510" r="3" fill="#0891b2" opacity="0.2"/>
+  <circle cx="600" cy="540" r="4" fill="#0891b2" opacity="0.15"/>
+</svg>

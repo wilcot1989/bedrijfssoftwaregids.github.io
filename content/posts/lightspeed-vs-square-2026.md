@@ -1,6 +1,7 @@
 ---
 title: "Lightspeed vs Square 2026: Welk Kassasysteem is Beter?"
 date: 2026-03-10T10:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "Lightspeed vs Square: welk kassasysteem is beter voor jouw zaak? Vergelijk prijs, hardware, features en NL-ondersteuning."
 categories: ["kassasystemen"]
 tags: ["lightspeed", "square", "kassasysteem", "pos systeem", "kassasysteem vergelijken"]

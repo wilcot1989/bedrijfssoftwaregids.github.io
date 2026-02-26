@@ -1,14 +1,15 @@
 ---
 title: "Beste Loonadministratie Software 2026: Top 5 Vergeleken"
 date: 2026-05-12T10:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "De beste loonadministratie software voor Nederlandse bedrijven in 2026. Nmbrs, Visma, Loket.nl, AFAS en ADP vergeleken op prijs, functies en gebruiksgemak."
-categories: ["hr"]
+categories: ["hr-software"]
 tags: ["loonadministratie", "salarisverwerking", "HR software", "Nmbrs", "payroll"]
 keywords: ["loonadministratie software", "salarisadministratie", "beste payroll software", "loonstroken maken"]
 affiliate: true
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat kost loonadministratie software?"
     a: "Prijzen variëren van €3-€15 per medewerker per maand. Voor een bedrijf met 10 medewerkers betaal je €30-€150/maand. Loket.nl begint vanaf €3/medewerker, Nmbrs vanaf €5/medewerker. Uitbesteden aan een salarisadministrateur kost €15-€25 per medewerker per maand."

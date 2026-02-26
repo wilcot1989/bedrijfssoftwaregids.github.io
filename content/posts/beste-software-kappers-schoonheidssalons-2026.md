@@ -1,6 +1,7 @@
 ---
 title: "Beste Software voor Kappers & Schoonheidssalons 2026"
 date: 2026-03-04T10:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "Ontdek de beste software voor kappers en schoonheidssalons in 2026. Vergelijk Salonkee, Treatwell Pro, Phorest en meer op functies en prijs."
 categories: ["kassasystemen"]
 tags: ["salon software", "kapper software", "boekingssysteem", "schoonheidssalon", "online afspraken", "kassasysteem salon"]
@@ -306,7 +307,7 @@ De keuze voor salon software heeft een grote impact op je dagelijkse werkzaamhed
 
 ### 1. Online boeken
 
-In 2026 is online boeken geen luxe meer, maar een vereiste. Controleer of het boekingssysteem makkelijk te gebruiken is voor je klanten, of het integreert met je website en of het er professioneel uitziet. Let ook op de mogelijkheid om via Google, Instagram en Facebook te laten boeken. Dat verlaagt de drempel voor nieuwe klanten.
+In 2026 is online boeken geen luxe meer, maar een vereiste. Controleer of het boekingssysteem makkelijk te gebruiken is voor je klanten, of het integreert met je website en of het er professioneel uitziet. Let ook op de mogelijkheid om via Google, Instagram en Facebook te laten boeken. Dat verlaagt de drempel voor nieuwe klanten. Wil je meer opties vergelijken? Lees dan ook mijn overzicht van de [beste online afspraken software](/posts/beste-afspraken-software-2026/).
 
 ### 2. No-show bescherming
 

@@ -1,6 +1,7 @@
 ---
 title: "Beste CRM voor ZZP'ers & Freelancers 2026"
 date: 2026-03-24T12:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "De beste CRM software voor ZZP'ers en freelancers in 2026. Vergelijk HubSpot Free, Pipedrive, Monday CRM, Notion, Google Contacts en Freshsales op prijs en functies."
 categories: ["crm"]
 tags: ["crm zzp", "crm freelancer", "gratis crm", "klantbeheer zzp", "crm software", "sales software"]

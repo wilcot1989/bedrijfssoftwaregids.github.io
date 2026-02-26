@@ -1,6 +1,7 @@
 ---
 title: "Beste Online Afspraken Software 2026: Top 6 Vergeleken"
 date: 2026-04-05T12:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "De 6 beste online afspraken software voor Nederlandse bedrijven in 2026. Vergelijk functies, prijzen en integraties voor het automatiseren van je afsprakenbeheer."
 categories: ["kassasystemen"]
 tags: ["afspraken software", "online boeken", "booking software", "afspraak plannen", "agenda software", "planning tool"]

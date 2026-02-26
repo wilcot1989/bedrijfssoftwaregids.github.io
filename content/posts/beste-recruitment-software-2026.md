@@ -1,14 +1,15 @@
 ---
-title: "Beste Recruitment Software 2026: Top 5 ATS Systemen Vergeleken"
+title: "Beste Recruitment Software 2026: Top 5 ATS"
 date: 2026-06-12T10:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "De beste recruitment software en ATS systemen van 2026 vergeleken. Recruitee, Homerun, Personio, Greenhouse en Bullhorn op prijs, functies en gebruiksgemak."
-categories: ["hr"]
+categories: ["hr-software"]
 tags: ["recruitment software", "ATS", "applicant tracking", "werving", "HR software"]
 keywords: ["beste recruitment software", "ATS systeem vergelijking", "recruitment tool MKB", "sollicitanten volgsysteem"]
 affiliate: true
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat is recruitment software (ATS)?"
     a: "Een ATS (Applicant Tracking System) is software waarmee je het complete wervingsproces beheert: vacatures publiceren, sollicitaties ontvangen en bijhouden, kandidaten beoordelen, interviews plannen en aanbiedingen versturen. Het vervangt spreadsheets en e-mail door een gestructureerd, overzichtelijk systeem."

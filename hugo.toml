@@ -19,7 +19,7 @@ theme = "starter"
     url = "/categories/kassasystemen/"
     weight = 1
   [[menu.main]]
-    name = "CRM Software"
+    name = "CRM"
     url = "/categories/crm/"
     weight = 2
   [[menu.main]]
@@ -31,9 +31,21 @@ theme = "starter"
     url = "/categories/projectmanagement/"
     weight = 4
   [[menu.main]]
+    name = "Productiviteit"
+    url = "/categories/productiviteit/"
+    weight = 5
+  [[menu.main]]
+    name = "HR"
+    url = "/categories/hr-software/"
+    weight = 6
+  [[menu.main]]
+    name = "Marketing"
+    url = "/categories/marketing/"
+    weight = 7
+  [[menu.main]]
     name = "Over Ons"
     url = "/about/"
-    weight = 5
+    weight = 8
 
 [outputs]
   home = ["HTML", "RSS"]

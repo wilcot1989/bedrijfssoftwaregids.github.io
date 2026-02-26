@@ -1,6 +1,7 @@
 ---
 title: "Beste CRM voor Makelaars 2026: Top 5 Vergeleken"
 date: 2026-03-14T10:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "Ontdek het beste CRM voor makelaars in 2026. Vergelijk Realworks, HubSpot, Pipedrive, Salesforce en Gripp op functies en prijs."
 categories: ["crm"]
 tags: ["crm makelaars", "makelaar software", "vastgoed crm", "realworks", "crm vastgoed"]

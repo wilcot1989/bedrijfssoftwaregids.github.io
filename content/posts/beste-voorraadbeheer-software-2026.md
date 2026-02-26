@@ -1,6 +1,7 @@
 ---
-title: "Beste Voorraadbeheer Software 2026: Top 5 voor Retail & Webshop"
+title: "Beste Voorraadbeheer Software 2026: Top 5"
 date: 2026-03-28T12:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "De 5 beste voorraadbeheer software voor retail en webshops in 2026. Vergelijk functionaliteiten, prijzen en integraties voor optimaal voorraadbeheer."
 categories: ["kassasystemen"]
 tags: ["voorraadbeheer", "voorraadsoftware", "retail software", "webshop voorraad", "inventory management", "kassasysteem"]

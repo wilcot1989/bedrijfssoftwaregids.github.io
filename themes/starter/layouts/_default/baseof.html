@@ -97,6 +97,33 @@
   }
   </script>
   {{ end }}
+  {{ if .Params.categories }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ .Site.BaseURL }}"
+      },
+      {{ range $i, $cat := .Params.categories }}{{ if $i }},{{ end }}{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ $cat | humanize | title }}",
+        "item": "{{ $.Site.BaseURL }}categories/{{ $cat }}/"
+      }{{ end }},
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ .Title }}"
+      }
+    ]
+  }
+  </script>
+  {{ end }}
   {{ end }}
 
   <!-- Google Analytics with Consent Mode v2 -->
@@ -272,7 +299,7 @@
   <footer>
     <div class="container">
       <p>&copy; {{ now.Year }} Bedrijfssoftwaregids. Alle rechten voorbehouden.</p>
-      <p>Dit artikel kan affiliate links bevatten. Wij ontvangen mogelijk een commissie zonder extra kosten voor jou.</p>
+      <p style="font-size:0.75rem;">Sommige links op deze site zijn affiliate links.</p>
       <p><a href="/privacy/">Privacybeleid</a> &middot; <a href="/about/">Over Ons</a></p>
     </div>
   </footer>

@@ -1,6 +1,7 @@
 ---
 title: "Pipedrive Review 2026: CRM Getest voor Nederlandse Bedrijven"
 date: 2026-03-31T12:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "Uitgebreide Pipedrive review voor Nederlandse bedrijven in 2026. Ontdek functies, prijzen, voor- en nadelen, en of Pipedrive het juiste CRM is voor jou."
 categories: ["crm"]
 tags: ["pipedrive", "crm software", "sales crm", "pipedrive review", "crm nederland", "verkoopsoftware"]

@@ -1,6 +1,7 @@
 ---
 title: "Beste Facturatie Software voor MKB 2026: Top 6 Vergeleken"
 date: 2026-03-02T10:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "Ontdek de beste facturatie software voor het MKB in 2026. Vergelijk Moneybird, Exact Online, e-Boekhouden en meer op prijs en functies."
 categories: ["boekhouding"]
 tags: ["facturatie software", "factuur programma", "mkb software", "boekhouding", "btw-aangifte", "ubl-facturen"]

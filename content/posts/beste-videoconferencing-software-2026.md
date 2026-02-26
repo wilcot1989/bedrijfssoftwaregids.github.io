@@ -1,6 +1,7 @@
 ---
 title: "Beste Videoconferencing Software 2026: Top 5 voor Bedrijven"
 date: 2026-06-17T10:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "De beste videoconferencing tools van 2026 vergeleken. Zoom, Microsoft Teams, Google Meet, Webex en Whereby op prijs, kwaliteit en functies voor MKB."
 categories: ["productiviteit"]
 tags: ["videoconferencing", "Zoom", "Microsoft Teams", "Google Meet", "online vergaderen"]

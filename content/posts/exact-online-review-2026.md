@@ -1,6 +1,7 @@
 ---
 title: "Exact Online Review 2026: Is het de Prijs Waard?"
 date: 2026-03-21T12:00:00+01:00
+lastmod: 2026-02-26T10:00:00+01:00
 description: "Uitgebreide Exact Online review 2026: functies, prijzen per pakket, voordelen, nadelen en vergelijking met Moneybird, e-Boekhouden en Twinfield. Is het de investering waard?"
 categories: ["boekhouding"]
 tags: ["exact online", "boekhoudsoftware", "exact online review", "boekhouden", "mkb software", "financiele software"]

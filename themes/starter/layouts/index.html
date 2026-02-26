@@ -10,7 +10,7 @@
 </div>
 <div class="container" style="padding-top:2rem;">
   <h2>Laatste Reviews & Vergelijkingen</h2>
-  {{ range (where .Site.RegularPages "Type" "posts") }}
+  {{ range first 12 (where .Site.RegularPages "Type" "posts") }}
   {{ $pageTitle := .Title }}
   <div class="card">
     {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb">{{ end }}
@@ -22,5 +22,8 @@
     </div>
   </div>
   {{ end }}
+  <div style="text-align:center;margin:2rem 0;">
+    <a href="/categories/" class="cta">Bekijk alle artikelen</a>
+  </div>
 </div>
 {{ end }}
