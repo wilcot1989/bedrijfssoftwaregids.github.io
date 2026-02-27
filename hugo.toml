@@ -42,6 +42,14 @@ theme = "starter"
     name = "Marketing"
     url = "/categories/marketing/"
     weight = 7
+  [[menu.main]]
+    name = "Webshops"
+    url = "/categories/webshops/"
+    weight = 8
+  [[menu.main]]
+    name = "Klantenservice"
+    url = "/categories/klantenservice/"
+    weight = 9
   [[menu.utility]]
     name = "Over Lars"
     url = "/about/"
