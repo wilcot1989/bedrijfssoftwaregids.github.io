@@ -3,7 +3,7 @@ title: "Beste Kassasystemen Nederland 2026 (Horeca Vergelijken)"
 description: "Vergelijk kassasystemen voor horeca op kosten, hardware, transactietarieven en integraties. Praktische keuzehulp voor Nederlandse ondernemers."
 ---
 
-Zoek je een kassasysteem voor je horecazaak? Op deze categoriepagina vind je onze actuele gidsen, plus een praktische checklist om sneller te kiezen.
+Zoek je een kassasysteem voor je horecazaak? Op deze pagina vind je mijn actuele gidsen, plus een praktische checklist om sneller te kiezen.
 
 ## Snel kiezen: welk kassasysteem past bij jouw zaak?
 
@@ -30,7 +30,6 @@ Vergelijk niet alleen abonnementen, maar ook:
 - Lightspeed vs Square 2026
 - Beste Voorraadbeheer Software 2026
 - Beste Software voor Kappers & Schoonheidssalons 2026
-- Beste Online Afspraken Software 2026
 
 ## Gerelateerde categorieën
 

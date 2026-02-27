@@ -28,14 +28,10 @@ Vergelijk altijd:
 ## Binnenkort in deze categorie
 
 - Exact Online Review 2026
-- Exact Online vs Twinfield 2026
 - Moneybird vs e-Boekhouden 2026
-- Twinfield vs Moneybird 2026
-- Beste Boekhouder-app 2026
 - Beste Facturatie Software voor MKB 2026
-- Beste ERP Software voor MKB 2026
 
 ## Gerelateerde categorieën
 
 - [CRM software](/categories/crm/) — voor lead-to-cash processen.
-- [Productiviteitssoftware](/categories/productiviteit/) — voor urenregistratie en documentbeheer.
+- [Productiviteit](/categories/productiviteit/) — voor urenregistratie en documentbeheer.
