@@ -263,12 +263,12 @@
     .section-title p { color: var(--text-muted); max-width: 500px; margin: 0.5rem auto 0; }
 
     /* Categorie grid */
-    .cat-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
-    .cat-card { background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.25rem 1rem; text-align: center; text-decoration: none; color: var(--text); transition: box-shadow 0.2s, transform 0.2s; box-shadow: var(--shadow-sm); }
-    .cat-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); text-decoration: none; color: var(--text); }
-    .cat-icon { font-size: 1.8rem; margin-bottom: 0.5rem; display: block; }
-    .cat-name { font-weight: 600; font-size: 0.95rem; color: var(--primary-dark); display: block; }
-    .cat-count { font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem; display: block; }
+    .cat-grid { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; }
+    .cat-card { background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem 1rem; text-decoration: none; color: var(--text); transition: border-color 0.2s, box-shadow 0.2s; display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.88rem; }
+    .cat-card:hover { border-color: var(--accent); box-shadow: var(--shadow-sm); text-decoration: none; color: var(--text); }
+    .cat-icon { font-size: 1.1rem; flex-shrink: 0; }
+    .cat-name { font-weight: 500; color: var(--primary-dark); }
+    .cat-count { font-size: 0.75rem; color: var(--text-muted); }
 
     /* Trust strip */
     .trust-strip { display: flex; gap: 2rem; margin-top: 1.5rem; flex-wrap: wrap; }
@@ -404,7 +404,7 @@
     @media (max-width: 600px) {
       .hero h1 { font-size: 1.7rem; }
       .pros-cons { grid-template-columns: 1fr; }
-      .cat-grid { grid-template-columns: repeat(2, 1fr); }
+      .cat-grid { gap: 0.5rem; }
       .author-box, .author-cta { flex-direction: column; text-align: center; }
       .trust-strip { justify-content: center; }
       .footer-grid { grid-template-columns: 1fr; gap: 1.5rem; }
