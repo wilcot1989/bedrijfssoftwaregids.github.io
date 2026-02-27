@@ -1,6 +1,6 @@
 ---
 title: "Beste Email Marketing Software 2026: Top 7 NL"
-date: 2026-03-12T10:00:00+01:00
+date: 2026-02-27T10:00:00+01:00
 lastmod: 2026-02-26T10:00:00+01:00
 description: "Vergelijk de beste email marketing software voor Nederland in 2026. Mailchimp, Brevo, ActiveCampaign en meer op prijs en functies."
 categories: ["marketing"]

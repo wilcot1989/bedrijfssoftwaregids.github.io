@@ -1,6 +1,6 @@
 ---
 title: "Beste Webshop Software Nederland 2026 Vergeleken"
-date: 2026-03-17T12:00:00+01:00
+date: 2026-02-27T12:00:00+01:00
 lastmod: 2026-02-26T10:00:00+01:00
 description: "Ontdek de beste webshop software voor Nederland in 2026. Vergelijk Shopify, WooCommerce, Lightspeed, Magento, BigCommerce, CCV Shop en Mijnwebwinkel op prijs en functies."
 categories: ["webshops"]

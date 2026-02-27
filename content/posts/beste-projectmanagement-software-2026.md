@@ -1,6 +1,6 @@
 ---
 title: "Beste Projectmanagement Software 2026: Top 7 voor Teams"
-date: 2026-03-01T10:00:00+01:00
+date: 2026-02-27T10:00:00+01:00
 lastmod: 2026-02-26T10:00:00+01:00
 description: "Projectmanagement software vergelijken? Ik testte 7 tools op prijs, functies en gebruiksgemak. Ontdek welke bij jouw team past."
 categories: ["projectmanagement"]
