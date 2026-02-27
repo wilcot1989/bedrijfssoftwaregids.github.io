@@ -29,7 +29,7 @@
         <a href="/categories/{{ $name }}/" class="cat-card">
           <span class="cat-icon">{{ $icon }}</span>
           <span class="cat-name">{{ $name | humanize | title }}</span>
-          <span class="cat-count">({{ len $taxonomy }})</span>
+          <span class="cat-count">{{ len $taxonomy }} {{ if eq (len $taxonomy) 1 }}artikel{{ else }}artikelen{{ end }}</span>
         </a>
       {{ end }}
     </div>
