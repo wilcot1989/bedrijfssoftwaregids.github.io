@@ -22,8 +22,8 @@
       <p>Kies een categorie om vergelijkingen en reviews te bekijken.</p>
     </div>
     <div class="cat-grid">
-      {{ $catIcons := dict "kassasystemen" "🏪" "crm" "🤝" "boekhouding" "📊" "projectmanagement" "📋" "hr-software" "👥" "marketing" "📣" "productiviteit" "⚡" "webshops" "🛒" "klantenservice" "💬" }}
-      {{ $catNames := dict "kassasystemen" "Kassasystemen" "crm" "CRM" "boekhouding" "Boekhouding" "projectmanagement" "Projectmanagement" "hr-software" "HR Software" "marketing" "Marketing" "productiviteit" "Productiviteit" "webshops" "Webshops" "klantenservice" "Klantenservice" }}
+      {{ $catIcons := dict "kassasystemen" "🏪" "crm" "🤝" "boekhouding" "📊" "projectmanagement" "📋" "hr-software" "👥" "marketing" "📣" "productiviteit" "⚡" "webshops" "🛒" }}
+      {{ $catNames := dict "kassasystemen" "Kassasystemen" "crm" "CRM" "boekhouding" "Boekhouding" "projectmanagement" "Projectmanagement" "hr-software" "HR Software" "marketing" "Marketing" "productiviteit" "Productiviteit" "webshops" "Webshops" }}
       {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
         {{ $icon := index $catIcons $name }}
         {{ if not $icon }}{{ $icon = "📁" }}{{ end }}
