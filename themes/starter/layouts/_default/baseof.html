@@ -200,7 +200,7 @@
     .header-top { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 0; }
     .header-top a { color: white; text-decoration: none; }
     .header-top a:hover { opacity: 0.85; }
-    .logo { font-size: 1.15rem; font-weight: 600; display: flex; align-items: center; gap: 0.5rem; letter-spacing: -0.01em; }
+    .logo { font-size: 1.15rem; font-weight: 600; display: flex; align-items: center; gap: 0.4rem; letter-spacing: -0.01em; }
     .logo-icon { width: 22px; height: 22px; color: #93c5fd; flex-shrink: 0; }
     .logo span { color: #93c5fd; font-weight: 400; }
     .header-utility { font-size: 0.9rem; opacity: 0.8; }
@@ -419,8 +419,7 @@
     <div class="container wide">
       <div class="header-top">
         <a href="/" class="logo">
-          <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
-          bedrijfssoftwaregids<span>.nl</span>
+          <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>bedrijfssoftwaregids<span>.nl</span>
         </a>
         {{ range .Site.Menus.utility }}
         <a href="{{ .URL }}" class="header-utility">{{ .Name }}</a>
