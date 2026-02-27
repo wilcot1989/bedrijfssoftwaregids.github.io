@@ -1,7 +1,7 @@
 ---
 title: "Beste Kassasysteem Horeca 2026: Top 6 Getest"
 date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-02-26T10:00:00+01:00
+lastmod: 2026-02-27T10:00:00+01:00
 description: "Welk kassasysteem past bij jouw horecazaak? Ik vergeleek 6 systemen op prijs, functies en gebruiksgemak. Vanaf €0/mnd. Ontdek mijn top pick."
 categories: ["kassasystemen"]
 tags: ["kassasysteem", "horeca", "pos systeem", "restaurant software", "kassa horeca"]
@@ -97,7 +97,7 @@ Untill is het werkpaard van de Nederlandse horeca. Ik raad het aan bij grotere z
 - Bestellen via handheld terminals of tablets
 - Uitgebreide menukaartconfiguratie
 - Voorraadbeheer en inkoopmodule
-- Personeelsplanning en urenregistratie
+- [Personeelsplanning en urenregistratie](/posts/beste-urenregistratie-software-2026/)
 - Happy hour en kortingsacties instellen
 - Koppeling met alle gangbare pinapparaten
 - Uitgebreide rapportages en omzetanalyses
@@ -327,7 +327,7 @@ Bereken niet alleen de softwarekosten, maar ook hardware, transactiekosten, inst
 Verrassend: het "gratis" systeem is bij deze omzet bijna twee keer zo duur als een betaald abonnement.
 
 ### Kan ik mijn kassa koppelen aan mijn boekhouding?
-Lightspeed en Untill koppelen met de meeste Nederlandse boekhoudpakketten (Exact, Moneybird, Twinfield). Square en Zettle bieden dit minder goed — je moet dan handmatig exporteren of een derde partij gebruiken. Heb je ook behoefte aan apart voorraadbeheer software? Dan is een goede koppeling met je kassasysteem essentieel.
+Lightspeed en Untill koppelen met de meeste Nederlandse [boekhoudpakketten](/posts/beste-boekhoudsoftware-zzp-2026/) (Exact, Moneybird, Twinfield). Square en Zettle bieden dit minder goed — je moet dan handmatig exporteren of een derde partij gebruiken. Heb je ook behoefte aan apart voorraadbeheer software? Dan is een goede koppeling met je kassasysteem essentieel.
 
 ### Wat als het internet uitvalt?
 Een goed horecakassasysteem moet ook offline werken. Untill heeft hier de beste offline modus — het draait gewoon door. Lightspeed biedt ook een offline modus, maar met beperkingen. Square en Zettle zijn volledig afhankelijk van internet.
@@ -348,3 +348,10 @@ Na tientallen horecaondernemers te hebben geholpen, komt het hier op neer:
 En Square dan? Dat raad ik alleen aan als je echt €0 wilt investeren om te starten. Zodra je omzet groeit, stap je beter over naar Lightspeed of Orderbird. Twijfel je specifiek tussen die twee? Lees dan mijn Lightspeed vs Square vergelijking.
 
 **Wat je vooral niet moet doen**: een contract van 3 jaar tekenen zonder het systeem eerst te testen. Vraag altijd een demo of proefperiode aan. Je kassasysteem gebruik je elke dag — het moet bij jouw zaak passen, niet andersom.
+
+## Lees ook
+
+- **[Beste Boekhoudsoftware voor ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Koppel je kassa aan je boekhouding
+- **[Beste Webshop Software 2026](/posts/beste-webshop-software-2026/)** — Online verkopen naast je fysieke locatie
+- **[Beste Urenregistratie Software 2026](/posts/beste-urenregistratie-software-2026/)** — Personeelsuren bijhouden
+- **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Klantrelaties beheren
