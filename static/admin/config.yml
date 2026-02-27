@@ -1,0 +1,139 @@
+backend:
+  name: github
+  repo: wilcot1989/bedrijfssoftwaregids.github.io
+  branch: main
+
+locale: nl
+
+media_folder: static/images
+public_folder: /images
+
+slug:
+  encoding: ascii
+  clean_accents: true
+
+collections:
+  # ============ ARTIKELEN ============
+  - name: posts
+    label: "Artikelen"
+    label_singular: "Artikel"
+    folder: content/posts
+    create: true
+    slug: "{{slug}}"
+    sortable_fields: ["date", "title"]
+    summary: "{{title}} — {{date | date('DD-MM-YYYY')}}"
+    fields:
+      - { name: title, label: Titel, widget: string }
+      - { name: description, label: Meta beschrijving, widget: text, hint: "Max 155 tekens. Wordt getoond in Google." }
+      - { name: date, label: Publicatiedatum, widget: datetime, date_format: "DD-MM-YYYY", time_format: "HH:mm", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - { name: lastmod, label: Laatst bijgewerkt, widget: datetime, date_format: "DD-MM-YYYY", time_format: "HH:mm", format: "YYYY-MM-DDTHH:mm:ssZ" }
+      - name: categories
+        label: Categorie
+        widget: select
+        multiple: true
+        options:
+          - { label: "Kassasystemen", value: "kassasystemen" }
+          - { label: "CRM", value: "crm" }
+          - { label: "Boekhouding", value: "boekhouding" }
+          - { label: "Projectmanagement", value: "projectmanagement" }
+          - { label: "HR Software", value: "hr-software" }
+          - { label: "Marketing", value: "marketing" }
+          - { label: "Productiviteit", value: "productiviteit" }
+          - { label: "Webshops", value: "webshops" }
+      - { name: tags, label: Tags, widget: list, required: false, hint: "Komma-gescheiden tags voor interne navigatie." }
+      - { name: keywords, label: Keywords, widget: list, required: false, hint: "SEO keywords, komma-gescheiden." }
+      - { name: featured_image, label: Featured image, widget: image, required: false }
+      - { name: affiliate, label: Affiliate artikel, widget: boolean, default: true }
+      - { name: author, label: Auteur, widget: string, default: "Lars de Vries" }
+      - { name: author_bio, label: Auteur bio, widget: string, default: "Onafhankelijk software consultant met 12+ jaar ervaring in bedrijfssoftware. Helpt MKB-bedrijven bij het kiezen van de juiste tools." }
+      - { name: noindex, label: Noindex, widget: boolean, default: false, required: false, hint: "Zet op true om pagina uit Google te houden." }
+      - { name: body, label: Inhoud, widget: markdown }
+      - name: faq
+        label: Veelgestelde vragen (FAQ)
+        widget: list
+        required: false
+        collapsed: true
+        hint: "FAQ-items verschijnen onderaan het artikel en als FAQ Schema in Google."
+        fields:
+          - { name: q, label: Vraag, widget: string }
+          - { name: a, label: Antwoord, widget: text }
+
+  # ============ CATEGORIEEN ============
+  - name: categories
+    label: "Categorieën"
+    files:
+      - name: kassasystemen
+        label: Kassasystemen
+        file: content/categories/kassasystemen/_index.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+      - name: crm
+        label: CRM
+        file: content/categories/crm/_index.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+      - name: boekhouding
+        label: Boekhouding
+        file: content/categories/boekhouding/_index.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+      - name: projectmanagement
+        label: Projectmanagement
+        file: content/categories/projectmanagement/_index.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+      - name: hr-software
+        label: HR Software
+        file: content/categories/hr-software/_index.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+      - name: marketing
+        label: Marketing
+        file: content/categories/marketing/_index.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+      - name: productiviteit
+        label: Productiviteit
+        file: content/categories/productiviteit/_index.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+      - name: webshops
+        label: Webshops
+        file: content/categories/webshops/_index.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+
+  # ============ PAGINAS ============
+  - name: pages
+    label: "Pagina's"
+    files:
+      - name: about
+        label: Over Lars
+        file: content/about.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
+      - name: privacy
+        label: Privacybeleid
+        file: content/privacy.md
+        fields:
+          - { name: title, label: Titel, widget: string }
+          - { name: description, label: Meta beschrijving, widget: text }
+          - { name: body, label: Inhoud, widget: markdown }
