@@ -7,11 +7,7 @@ Webshopsoftware kiezen gaat om balans tussen groei, beheer en kosten. Deze categ
 
 ## Live artikelen in deze categorie
 
-Nog geen live artikelen in deze categorie.
-
-## Binnenkort in deze categorie
-
-- Beste Webshop Software Nederland 2026
+- [Beste Webshop Software Nederland 2026](/posts/beste-webshop-software-2026/)
 
 ## Gerelateerde categorieën
 

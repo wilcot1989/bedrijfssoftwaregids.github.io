@@ -23,12 +23,15 @@
     </div>
     <div class="cat-grid">
       {{ $catIcons := dict "kassasystemen" "🏪" "crm" "🤝" "boekhouding" "📊" "projectmanagement" "📋" "hr-software" "👥" "marketing" "📣" "productiviteit" "⚡" "webshops" "🛒" "klantenservice" "💬" }}
+      {{ $catNames := dict "kassasystemen" "Kassasystemen" "crm" "CRM" "boekhouding" "Boekhouding" "projectmanagement" "Project­management" "hr-software" "HR Software" "marketing" "Marketing" "productiviteit" "Productiviteit" "webshops" "Webshops" "klantenservice" "Klantenservice" }}
       {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
         {{ $icon := index $catIcons $name }}
         {{ if not $icon }}{{ $icon = "📁" }}{{ end }}
+        {{ $label := index $catNames $name }}
+        {{ if not $label }}{{ $label = ($name | humanize | title) }}{{ end }}
         <a href="/categories/{{ $name }}/" class="cat-card">
           <span class="cat-icon">{{ $icon }}</span>
-          <span class="cat-name">{{ $name | humanize | title }}</span>
+          <span class="cat-name">{{ $label }}</span>
           <span class="cat-count">{{ len $taxonomy }} {{ if eq (len $taxonomy) 1 }}artikel{{ else }}artikelen{{ end }}</span>
         </a>
       {{ end }}
