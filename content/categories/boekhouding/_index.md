@@ -1,6 +1,6 @@
 ---
-title: "Boekhoudsoftware vergelijken (ZZP & MKB) — gids 2026"
-description: "Vergelijk boekhoudsoftware voor Nederlandse ondernemers op prijs, btw-aangifte, bankkoppeling en samenwerking met je boekhouder."
+title: "Beste Boekhoudsoftware ZZP & MKB 2026 (Vergelijken)"
+description: "Vergelijk de beste boekhoudsoftware voor ZZP en MKB in Nederland. Onafhankelijk getest op prijs, btw-aangifte, bankkoppeling en samenwerking met je boekhouder."
 ---
 
 Boekhoudsoftware is vaak een keuze voor jaren. Daarom vind je hier niet alleen lijstjes, maar vooral selectiecriteria die je helpen om overstapgedoe te voorkomen.

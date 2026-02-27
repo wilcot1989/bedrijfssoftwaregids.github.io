@@ -1,5 +1,5 @@
 ---
-title: "Projectmanagement software vergelijken — gids 2026"
+title: "Beste Projectmanagement Software 2026 (Vergelijken)"
 description: "Vergelijk projectmanagement tools op gebruiksgemak, planning, samenwerking en kosten. Eerlijk advies per teamgrootte."
 ---
 

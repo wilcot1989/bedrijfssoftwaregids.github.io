@@ -1,5 +1,5 @@
 ---
-title: "Marketing software vergelijken — gids 2026"
+title: "Beste Marketing Software Nederland 2026 (Vergelijken)"
 description: "Vergelijk email marketing, chatbot en social media tools op automatisering, prijs en resultaat. Praktisch advies voor Nederlandse ondernemers."
 ---
 

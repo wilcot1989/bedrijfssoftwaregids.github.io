@@ -1,5 +1,5 @@
 ---
-title: "Productiviteitssoftware voor bedrijven — gids 2026"
+title: "Beste Productiviteitssoftware 2026 (Vergelijken)"
 description: "Vergelijk tools voor urenregistratie, documentbeheer en samenwerking. Praktisch advies voor Nederlandse teams."
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Webshop software vergelijken — gids 2026"
+title: "Beste Webshop Software Nederland 2026 (Vergelijken)"
 description: "Vergelijk webshop software voor Nederlandse ondernemers op kosten, gebruiksgemak, betaalmethoden en integraties."
 ---
 

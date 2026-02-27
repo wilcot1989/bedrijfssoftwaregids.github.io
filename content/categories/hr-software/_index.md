@@ -1,5 +1,5 @@
 ---
-title: "HR Software vergelijken — gids 2026"
+title: "Beste HR Software Nederland 2026 (Vergelijken)"
 description: "Vergelijk HR software voor MKB op personeelsadministratie, loonverwerking, planning en recruitment. Eerlijk advies van Lars de Vries."
 ---
 
