@@ -1,5 +1,5 @@
 ---
-title: "Kassasysteem vergelijken voor horeca (NL) — gids 2026"
+title: "Beste Kassasystemen Nederland 2026 (Horeca Vergelijken)"
 description: "Vergelijk kassasystemen voor horeca op kosten, hardware, transactietarieven en integraties. Praktische keuzehulp voor Nederlandse ondernemers."
 ---
 

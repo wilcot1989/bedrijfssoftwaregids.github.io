@@ -1,5 +1,5 @@
 ---
-title: "CRM software vergelijken (NL) — gids 2026"
+title: "Beste CRM Software Nederland 2026 (Vergelijken)"
 description: "Vergelijk CRM software voor Nederlandse bedrijven op prijs, adoptie, integraties en schaalbaarheid. Met praktische selectiehulp per type team."
 ---
 
