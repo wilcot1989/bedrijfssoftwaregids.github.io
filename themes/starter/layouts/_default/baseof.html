@@ -9,6 +9,7 @@
   <link rel="canonical" href="{{ .Permalink }}">
   <meta name="robots" content="{{ if .Params.noindex }}noindex, follow{{ else }}index, follow{{ end }}">
   <meta name="author" content="{{ .Site.Params.author }}">
+  <meta name="impact-site-verification" value="ca0b4fb2-7247-4310-92f2-f687cdd2ac25">
   {{ with .Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
 
