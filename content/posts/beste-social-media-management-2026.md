@@ -27,7 +27,6 @@ faq:
 
 Ik adviseer bedrijven regelmatig om hun social media aanpak te stroomlijnen, en het eerste dat opvalt: de meesten loggen dagelijks in op vier losse platforms en verliezen zo minstens vijf uur per week. Een social media management tool halveert die tijd. Dit zijn de 5 tools die ik in de praktijk het beste heb zien werken.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ## Snelle vergelijking
 

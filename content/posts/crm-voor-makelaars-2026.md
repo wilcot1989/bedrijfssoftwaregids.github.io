@@ -29,7 +29,6 @@ faq:
 
 De makelaarsbranche is een van de sectoren waar een CRM het snelst terugverdient. Ik heb kantoren geholpen waar leads letterlijk verdwenen in een berg post-its en losse e-mails. De Funda-koppeling, woningmatching, bezichtigingsplanning -- het zijn functies die een generiek CRM niet biedt. In deze vergelijking laat ik zien welke 5 systemen het beste passen bij Nederlandse makelaarskantoren.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste CRM voor Makelaars 2026
 

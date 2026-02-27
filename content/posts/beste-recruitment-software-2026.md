@@ -27,7 +27,6 @@ faq:
 
 Een klant van mij vertelde me laatst dat ze hun beste kandidaat waren kwijtgeraakt omdat zijn sollicitatie drie weken onbeantwoord in een gedeelde mailbox lag. Dat soort verhalen hoor ik vaker dan je zou denken. Recruitment software voorkomt dat je talent mist door chaos in je proces. Dit zijn de 5 ATS-systemen die ik aanbeveel.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking](/posts/beste-hr-software-nederland-2026/).
 

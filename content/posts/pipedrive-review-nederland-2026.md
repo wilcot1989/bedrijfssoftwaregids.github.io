@@ -29,7 +29,6 @@ faq:
 
 Pipedrive is het CRM dat ik het vaakst aanbeveel aan salesteams van 2 tot 20 man. Het doet een ding en het doet dat goed: je pipeline beheren zonder gedoe. Maar het is niet voor iedereen de juiste keuze. In deze review deel ik mijn ervaringen na tientallen Pipedrive-implementaties bij Nederlandse bedrijven -- inclusief de nadelen waar de meeste reviews overheen stappen.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Pipedrive in het kort
 

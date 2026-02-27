@@ -29,7 +29,6 @@ faq:
 
 Exact Online is het boekhoudpakket dat ik het vaakst tegenkom bij MKB-klanten. Soms terecht, soms omdat de boekhouder het heeft aangeraden zonder naar alternatieven te kijken. In deze review geef ik mijn eerlijke oordeel: waar blinkt Exact uit, waar schiet het tekort, en voor wie zijn goedkopere alternatieven als Moneybird of e-Boekhouden een betere keuze?
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 Zoek je een breder overzicht van boekhoudpakketten? Lees dan ook ons artikel over de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/).
 

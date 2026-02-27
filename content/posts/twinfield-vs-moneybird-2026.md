@@ -27,7 +27,6 @@ faq:
 
 Als een ondernemer mij vraagt "Twinfield of Moneybird?", is mijn tegenvraag altijd: "Doe je zelf je boekhouding, of laat je dat aan je accountant over?" Doe je het zelf, dan is Moneybird bijna altijd beter. Werk je nauw samen met een accountant, dan is Twinfield vaak de logischere keuze. In deze vergelijking leg ik uit waarom.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 Bekijk ook onze [Exact Online vs Twinfield vergelijking](/posts/exact-online-vs-twinfield-2026/) en het overzicht van de [beste boekhoudsoftware](/posts/beste-boekhoudsoftware-zzp-2026/).
 

@@ -29,7 +29,6 @@ faq:
 
 Een van mijn klanten deed zijn hele boekhouding op zondagavond achter de laptop. Tot ik hem liet zien dat hij bonnetjes direct na een zakenlunch kan scannen en facturen kan versturen vanuit de trein. Mobiel boekhouden bespaart je niet alleen tijd, het voorkomt dat bonnetjes verdwijnen en facturen blijven liggen. Dit zijn de 5 apps die ik daarvoor aanbeveel.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste Boekhoud-Apps 2026
 

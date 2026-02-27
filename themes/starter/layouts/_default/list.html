@@ -5,7 +5,7 @@
   {{ range .Pages }}
   {{ $pageTitle := .Title }}
   <div class="card">
-    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb">{{ end }}
+    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
     <div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd</div>
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>

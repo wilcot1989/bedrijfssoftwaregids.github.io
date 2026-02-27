@@ -7,7 +7,7 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="canonical" href="{{ .Permalink }}">
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="{{ if .Params.noindex }}noindex, follow{{ else }}index, follow{{ end }}">
   <meta name="author" content="{{ .Site.Params.author }}">
   {{ with .Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
@@ -126,17 +126,27 @@
   {{ end }}
   {{ end }}
 
-  <!-- Google Analytics with Consent Mode v2 -->
+  <!-- Google Analytics loads only after explicit consent -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    gtag('consent','default',{
-      'analytics_storage': localStorage.getItem('cookie-consent')==='true' ? 'granted' : 'denied'
-    });
-    gtag('js', new Date());
-    gtag('config', 'G-WJQPSWJT3E');
+
+    function loadAnalytics(){
+      if(window.__analyticsLoaded) return;
+      window.__analyticsLoaded = true;
+      var s = document.createElement('script');
+      s.async = true;
+      s.src = 'https://www.googletagmanager.com/gtag/js?id=G-WJQPSWJT3E';
+      document.head.appendChild(s);
+      gtag('js', new Date());
+      gtag('config', 'G-WJQPSWJT3E');
+      gtag('consent','update',{'analytics_storage':'granted'});
+    }
+
+    if(localStorage.getItem('cookie-consent')==='true'){
+      loadAnalytics();
+    }
   </script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJQPSWJT3E"></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -316,7 +326,7 @@
     function acceptCookies(){
       localStorage.setItem('cookie-consent','true');
       document.getElementById('cookieBanner').classList.remove('show');
-      gtag('consent','update',{'analytics_storage':'granted'});
+      loadAnalytics();
     }
     if(!localStorage.getItem('cookie-consent')){
       document.getElementById('cookieBanner').classList.add('show');

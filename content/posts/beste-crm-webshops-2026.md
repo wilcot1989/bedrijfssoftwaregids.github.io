@@ -27,7 +27,6 @@ faq:
 
 Ik zie het keer op keer: webshop-eigenaren die duizenden euro's uitgeven aan advertenties om nieuwe klanten te trekken, terwijl hun bestaande klantdata ongebruikt in Shopify of WooCommerce ligt te verstoffen. Een goed e-commerce CRM haalt meer omzet uit je bestaande klanten dan welke advertentiecampagne ook. Dit zijn de 5 systemen die ik voor webshops aanbeveel.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 Zoek je een algemeen CRM voor niet-e-commerce? Bekijk onze [beste CRM software gids](/posts/beste-crm-software-nederland-2026/) of [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-2026/).
 

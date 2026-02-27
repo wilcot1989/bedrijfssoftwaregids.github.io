@@ -27,7 +27,6 @@ faq:
 
 Fouten in de loonadministratie zijn de snelste manier om het vertrouwen van je medewerkers te verliezen -- en een boete van de Belastingdienst te riskeren. Toch zie ik nog steeds bedrijven die salarissen handmatig berekenen in Excel. Dat hoeft niet. Ik vergelijk hier de 5 beste loonadministratie tools voor de Nederlandse markt, van betaalbaar voor kleine teams tot enterprise-klaar.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ## Snelle vergelijking
 

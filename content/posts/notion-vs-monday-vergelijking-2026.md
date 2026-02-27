@@ -27,7 +27,6 @@ faq:
 
 Ik noem Notion altijd "het Zwitserse zakmes" en Monday.com "de gereedschapskist met labels." Notion kan alles worden wat je wilt, maar je moet het zelf bouwen. Monday.com werkt direct uit de doos maar is minder flexibel. Welke beter past bij jouw team hangt af van hoeveel tijd je wilt investeren in opzet versus direct aan de slag gaan.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ## Snelle vergelijking
 

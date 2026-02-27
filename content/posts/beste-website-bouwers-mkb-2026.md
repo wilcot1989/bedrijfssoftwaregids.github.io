@@ -27,7 +27,6 @@ faq:
 
 Ik zie regelmatig MKB-bedrijven die duizenden euro's hebben betaald aan een webbureau voor een website die ze vervolgens niet zelf kunnen aanpassen. In 2026 is dat nergens meer voor nodig. Met de juiste websitebouwer heb je in een dag een professionele site staan. Hier zijn de 5 platforms die ik aanbeveel, van simpel tot volledig maatwerk.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ## Snelle vergelijking
 

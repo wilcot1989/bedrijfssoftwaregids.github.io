@@ -9,11 +9,21 @@
   </div>
 </div>
 <div class="container" style="padding-top:2rem;">
+  <h2>Hoe wij software testen</h2>
+  <p>We beoordelen software op gebruiksgemak, totale kosten, supportervaring en integraties die relevant zijn voor Nederlandse bedrijven. We testen tools hands-on en werken prijzen periodiek bij.</p>
+
+  <h2>Start met de belangrijkste categorieën</h2>
+  <ul>
+    <li><a href="/categories/kassasystemen/">Kassasystemen</a> — voor horeca, retail en fysieke verkooppunten.</li>
+    <li><a href="/categories/crm/">CRM software</a> — voor salesprocessen, opvolging en klantbeheer.</li>
+    <li><a href="/categories/boekhouding/">Boekhoudsoftware</a> — voor facturatie, btw en financieel overzicht.</li>
+  </ul>
+
   <h2>Laatste Reviews & Vergelijkingen</h2>
   {{ range first 12 (where .Site.RegularPages "Type" "posts") }}
   {{ $pageTitle := .Title }}
   <div class="card">
-    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb">{{ end }}
+    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
     <div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd</div>
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>

@@ -27,7 +27,6 @@ faq:
 
 Bij een bureau dat ik begeleidde, bleek na invoering van urenregistratie dat ze structureel 20% van hun factureerbare uren niet in rekening brachten. Dat was tienduizenden euro's per jaar. Goede timetracking hoeft niet ingewikkeld te zijn, maar het moet wel consistent gebeuren. Dit zijn de 5 tools die ik het meest aanbeveel.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 Zoek je ook projectmanagement? Bekijk onze [Notion vs Monday.com vergelijking](/posts/notion-vs-monday-vergelijking-2026/) voor projecttools met ingebouwde timetracking.
 

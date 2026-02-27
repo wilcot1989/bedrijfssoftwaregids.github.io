@@ -29,7 +29,6 @@ faq:
 
 Eerlijk? De meeste ZZP'ers die ik spreek hebben geen CRM nodig. Een spreadsheet volstaat prima als je vijf vaste klanten hebt. Maar zodra je actief acquireert, offertes verstuurt en leads opvolgt, wordt het zonder systeem al snel een rommeltje. Voor die groep heb ik de 6 beste CRM-opties op een rij gezet -- inclusief gratis opties die verrassend goed zijn.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 Zoek je een breder overzicht van CRM-oplossingen, ook voor grotere teams? Bekijk dan ons artikel over de [beste CRM software in Nederland](/posts/beste-crm-software-nederland-2026/) of de [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-2026/).
 

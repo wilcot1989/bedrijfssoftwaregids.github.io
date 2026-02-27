@@ -29,7 +29,6 @@ faq:
 
 Een kassasysteem kiezen voor je horecazaak is een beslissing waar je jarenlang mee zit. Ik heb cafehouders geholpen die vastzaten aan een verouderd systeem met hoge contractkosten, en restauranteigenaren die na een slimme keuze uren per week bespaarden op voorraadbeheer en afrekengemak. In deze vergelijking deel ik de 6 kassasystemen die ik voor de horeca aanbeveel -- en waar je op moet letten.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste Kassasystemen Horeca 2026
 

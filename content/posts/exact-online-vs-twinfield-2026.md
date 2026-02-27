@@ -27,7 +27,6 @@ faq:
 
 Dit is de vergelijking die ik het vaakst maak voor klanten: Exact Online of Twinfield? Het korte antwoord: Exact als je meer wilt dan alleen boekhouden, Twinfield als je accountant de lead neemt en je meerdere administraties beheert. Maar er zit meer nuance in dan dat. Hier zet ik beide pakketten punt voor punt naast elkaar.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 Bekijk ook onze [Exact Online Review 2026](/posts/exact-online-review-2026/) voor een diepgaande analyse, of ons overzicht van de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/) als je iets eenvoudigers zoekt.
 

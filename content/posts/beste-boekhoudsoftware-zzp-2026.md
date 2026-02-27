@@ -29,7 +29,6 @@ faq:
 
 Ik spreek wekelijks ZZP'ers die te veel betalen voor hun boekhoudsoftware. Een grafisch ontwerper met tien facturen per maand die op Exact Online zit van €39/maand, terwijl Jortt hetzelfde doet voor €9. Of iemand die al twee jaar gratis Moneybird gebruikt en zich afvraagt waarom de BTW-aangifte zo'n gedoe is — terwijl die functie in het betaalde plan gewoon automatisch gaat. In deze vergelijking laat ik je zien welke 6 pakketten echt geschikt zijn voor ZZP'ers, wat ze kosten en welke bij jouw specifieke situatie past.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Kostenvergelijking: wat betaal je echt per maand?
 

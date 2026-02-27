@@ -29,7 +29,6 @@ faq:
 
 Je hebt een groeiend klantenbestand, deals die je bijhoudt in spreadsheets en een team dat steeds vaker langs elkaar heen werkt. Herkenbaar? Ik heb de afgelopen 12 jaar tientallen MKB-bedrijven geholpen met hun CRM-keuze en ik zie steeds dezelfde fout: ondernemers kiezen een systeem op basis van een mooie demo en komen er na drie maanden achter dat ze te veel betalen voor functies die niemand gebruikt. In deze vergelijking van de beste CRM software voor Nederland laat ik je zien welke 7 systemen echt de moeite waard zijn -- en welke bij jouw situatie past.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Kostenvergelijking: wat kost CRM software echt per maand?
 
