@@ -1,27 +1,27 @@
 ---
-title: "Beste Productiviteitssoftware voor Bedrijven 2026"
-description: "Vergelijk productiviteitstools voor het MKB: urenregistratie, documentbeheer, videoconferencing, website bouwers en meer."
+title: "Productiviteitssoftware voor bedrijven — gids 2026"
+description: "Vergelijk tools voor urenregistratie, documentbeheer, videobellen en interne samenwerking voor Nederlandse teams."
 ---
 
-Productiviteit gaat niet over harder werken, maar over de juiste tools die je tijd besparen. Van urenregistratie tot documentbeheer, van videoconferencing tot website bouwers — ik test software die je dagelijkse werkprocessen stroomlijnt.
+Productiviteit draait om frictie weghalen: minder handmatig werk, minder context-switching en betere samenwerking. Hier vind je onze productiviteitsgidsen zodra ze live staan.
 
-**Wat je hier vindt:**
+## Waar beoordeelden we op?
 
-- Urenregistratie en timetracking tools vergeleken
-- Documentmanagement systemen (DMS) voor het MKB
-- Videoconferencing software voor zakelijke meetings
-- Website bouwers voor ondernemers zonder technische kennis
-- Intranet-oplossingen voor interne communicatie
-- Contractmanagement tools
+- tijdswinst in dagelijkse processen;
+- koppelingen met tools die je al gebruikt;
+- schaalbaarheid voor teams;
+- prijs-kwaliteit voor MKB.
 
-Elke review is gebaseerd op weken van daadwerkelijk gebruik. Ik let op integraties met tools die je waarschijnlijk al gebruikt, en of de prijs-kwaliteitverhouding klopt voor een Nederlands bedrijf.
+## Live artikelen in deze categorie
 
-## Artikelen in deze categorie
+Nog geen live artikelen in deze categorie.
 
-- Binnenkort: Beste Urenregistratie Software 2026
-- Binnenkort: Beste DMS Software 2026
-- Binnenkort: Beste Videoconferencing Software 2026
-- Binnenkort: Beste Website Bouwers voor MKB 2026
-- Binnenkort: Beste Intranet Software voor MKB 2026
-- Binnenkort: Beste Contractmanagement Software 2026
-- Binnenkort: Notion vs Monday.com 2026
+## Binnenkort in deze categorie
+
+- Beste Urenregistratie Software 2026
+- Beste DMS Software 2026
+- Beste Videoconferencing Software 2026
+- Beste Website Bouwers voor MKB 2026
+- Beste Intranet Software voor MKB 2026
+- Beste Contractmanagement Software 2026
+- Notion vs Monday.com 2026

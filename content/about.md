@@ -35,3 +35,15 @@ Dit heeft geen invloed op mijn aanbevelingen. Ik adviseer alleen software waar i
 Vragen over software-selectie? Fout gevonden in een artikel? Laat het me weten.
 
 E-mail: **lars@bedrijfssoftwaregids.nl**
+
+
+## Redactionele richtlijnen en updatebeleid
+
+Om onze vergelijkingen betrouwbaar te houden, werken we met een vast updateproces:
+
+- **Prijscontroles per kwartaal** voor de belangrijkste artikelen.
+- **Functionele updates** zodra leveranciers belangrijke wijzigingen doorvoeren.
+- **Correcties binnen 5 werkdagen** na een gemelde fout.
+- **Duidelijke updatevermelding** in artikelen via publicatie- en revisiedatum.
+
+Heb je een fout gevonden of mis je een belangrijke tool? Dan passen we dit actief aan op basis van feedback van lezers.

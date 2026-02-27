@@ -1,23 +1,38 @@
 ---
-title: "Beste Kassasystemen Nederland 2026"
-description: "Vergelijk de beste kassasystemen voor horeca, retail en salons. Onafhankelijke reviews met actuele prijzen en ervaringen."
+title: "Kassasysteem vergelijken voor horeca (NL) — gids 2026"
+description: "Vergelijk kassasystemen voor horeca op kosten, hardware, transactietarieven en integraties. Praktische keuzehulp voor Nederlandse ondernemers."
 ---
 
-Op zoek naar het juiste kassasysteem? Ik heb de afgelopen jaren tientallen kassasystemen getest voor restaurants, winkels, salons en andere ondernemers. Op deze pagina vind je al mijn vergelijkingen en reviews.
+Zoek je een kassasysteem voor je horecazaak? Op deze categoriepagina vind je onze actuele gidsen, plus een praktische checklist om sneller te kiezen.
 
-**Wat je hier vindt:**
+## Snel kiezen: welk kassasysteem past bij jouw zaak?
 
-- Uitgebreide vergelijkingen per branche (horeca, retail, kappers)
-- Actuele prijzen en abonnementskosten
-- Eerlijke ervaringen met voor- en nadelen
-- Specifieke aanbevelingen op basis van jouw situatie
+- **Restaurant met tafelservice**: focus op tafelplattegrond, keukenbonnen en multi-user workflows.
+- **Café of bar**: focus op snelheid aan de kassa, happy-hour logica en robuuste hardware.
+- **Foodtruck of pop-up**: focus op mobiel pinnen, lage opstartkosten en offline fallback.
+- **Grotere zaak met meerdere locaties**: focus op rapportages, gebruikersrechten en centrale aansturing.
 
-Of je nu een restaurant runt dat een compleet horeca-kassasysteem nodig heeft, of een winkel die voorraadbeheer wil koppelen aan de kassa — ik help je de juiste keuze maken zonder dat je overal losse informatie bij elkaar hoeft te zoeken.
+## Kosten waar je op moet letten
 
-## Artikelen in deze categorie
+Vergelijk niet alleen abonnementen, maar ook:
+
+1. transactiekosten per pinbetaling;
+2. hardwarekosten (iPad, bonprinter, kassalade);
+3. extra modules (voorraad, personeel, bezorgkoppelingen);
+4. contractduur en opzegvoorwaarden.
+
+## Live artikelen in deze categorie
 
 - [Beste Kassasysteem Horeca 2026: Top 6 Getest](/posts/beste-kassasysteem-horeca-2026/)
-- Binnenkort: Lightspeed vs Square 2026
-- Binnenkort: Beste Voorraadbeheer Software 2026
-- Binnenkort: Beste Software voor Kappers & Schoonheidssalons 2026
-- Binnenkort: Beste Online Afspraken Software 2026
+
+## Binnenkort in deze categorie
+
+- Lightspeed vs Square 2026
+- Beste Voorraadbeheer Software 2026
+- Beste Software voor Kappers & Schoonheidssalons 2026
+- Beste Online Afspraken Software 2026
+
+## Gerelateerde categorieën
+
+- [CRM software](/categories/crm/) — voor opvolging van offertes en klantbeheer.
+- [Boekhoudsoftware](/categories/boekhouding/) — voor koppeling met je administratie.
