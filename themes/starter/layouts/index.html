@@ -2,20 +2,14 @@
 
 {{/* ===== 1. HERO ===== */}}
 <div class="hero">
-  <div class="container wide" style="display:flex;align-items:center;justify-content:space-between;gap:2rem;flex-wrap:wrap;">
-    <div style="flex:1;min-width:280px;">
-      <h1>De juiste software voor jouw bedrijf. Zonder verkooppraatjes.</h1>
-      <p>Ik test zakelijke software hands-on en vergelijk op prijs, gebruiksgemak en support. Eerlijk advies voor Nederlandse ondernemers.</p>
-      <div class="trust-strip">
-        {{ $totalArticles := len (where .Site.RegularPages "Type" "posts") }}
-        <span class="trust-item">{{ $totalArticles }}+ reviews</span>
-        <span class="trust-item">{{ len .Site.Taxonomies.categories }} categorieën</span>
-        <span class="trust-item">100% onafhankelijk</span>
-      </div>
-    </div>
-    <div style="flex-shrink:0;text-align:center;">
-      <div style="width:100px;height:100px;background:linear-gradient(135deg,#1e3a5f,#2563eb);border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-weight:700;font-size:2.2rem;box-shadow:0 4px 16px rgba(0,0,0,0.2);">LV</div>
-      <div style="color:rgba(255,255,255,0.8);font-size:0.85rem;margin-top:0.5rem;font-weight:500;">Lars de Vries</div>
+  <div class="container wide">
+    <h1>De juiste software voor jouw bedrijf. Zonder verkooppraatjes.</h1>
+    <p>Ik test zakelijke software hands-on en vergelijk op prijs, gebruiksgemak en support. Eerlijk advies voor Nederlandse ondernemers.</p>
+    <div class="trust-strip">
+      {{ $totalArticles := len (where .Site.RegularPages "Type" "posts") }}
+      <span class="trust-item">{{ $totalArticles }}+ reviews</span>
+      <span class="trust-item">{{ len .Site.Taxonomies.categories }} categorieën</span>
+      <span class="trust-item">100% onafhankelijk</span>
     </div>
   </div>
 </div>

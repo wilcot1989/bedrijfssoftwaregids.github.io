@@ -34,7 +34,7 @@ Dit heeft geen invloed op mijn aanbevelingen. Ik adviseer alleen software waar i
 
 Vragen over software-selectie? Fout gevonden in een artikel? Laat het me weten.
 
-E-mail: **lars@bedrijfssoftwaregids.nl**
+E-mail: **info@bedrijfssoftwaregids.nl**
 
 
 ## Redactionele richtlijnen en updatebeleid
