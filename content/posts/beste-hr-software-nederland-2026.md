@@ -29,7 +29,6 @@ faq:
 
 Zodra een bedrijf boven de 15 medewerkers groeit, zie ik steevast hetzelfde: verlofaanvragen via WhatsApp, personeelsdossiers in Excel, en een officemanager die halve dagen kwijt is aan administratie. HR-software lost dat op, maar de keuze is overweldigend. Ik heb de 6 beste opties voor het Nederlandse MKB naast elkaar gezet, specifiek getoetst op Nederlandse wet- en regelgeving.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste HR Software 2026
 

@@ -29,7 +29,6 @@ faq:
 
 Square is verleidelijk: gratis software, snel op te zetten, lage drempel. Maar ik heb ondernemers geholpen die na zes maanden alsnog moesten overstappen naar Lightspeed omdat Square te beperkt bleek voor hun groeiende zaak. De keuze tussen deze twee hangt af van je ambitie en omvang. In deze vergelijking zet ik ze punt voor punt naast elkaar, specifiek voor de Nederlandse markt.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Lightspeed vs Square: Snelle vergelijking
 

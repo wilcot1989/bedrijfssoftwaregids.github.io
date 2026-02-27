@@ -27,7 +27,6 @@ faq:
 
 ERP-implementaties staan bekend als duur en pijnlijk, en eerlijk gezegd: dat klopt regelmatig. Maar ik heb ook genoeg MKB-bedrijven geholpen die na de overstap eindelijk real-time inzicht kregen in hun cijfers en uren per week bespaarden op handmatig overtypen. De truc is het juiste systeem kiezen voor jouw schaal. Dit zijn de 5 ERP-oplossingen die ik voor het Nederlandse MKB aanbeveel.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 Zoek je nog iets eenvoudigers? Bekijk dan eerst onze gids over de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/) of de [beste facturatie software voor MKB](/posts/beste-facturatie-software-mkb-2026/).
 

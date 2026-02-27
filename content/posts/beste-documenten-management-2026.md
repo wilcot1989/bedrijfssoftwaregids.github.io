@@ -27,7 +27,6 @@ faq:
 
 Bij vrijwel elk MKB-bedrijf waar ik binnenkom, stel ik dezelfde vraag: "Waar staat versie X van contract Y?" En vrijwel altijd volgt er een ongemakkelijke stilte, gevolgd door zoeken in drie mailboxen en een gedeelde map. Documenten management software voorkomt die chaos. Dit zijn de 5 systemen die ik aanraad.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ## Snelle vergelijking
 

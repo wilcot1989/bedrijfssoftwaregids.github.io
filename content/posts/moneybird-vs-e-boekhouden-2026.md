@@ -29,7 +29,6 @@ faq:
 
 Dit is een keuze die ik vrijwel wekelijks met ZZP'ers bespreek: Moneybird of e-Boekhouden? Mijn korte advies: kies Moneybird als gebruiksgemak bovenaan staat, e-Boekhouden als je elke euro wilt besparen. Maar er zijn meer factoren die meespelen, en die loop ik in deze vergelijking allemaal langs.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Snelle vergelijkingstabel
 

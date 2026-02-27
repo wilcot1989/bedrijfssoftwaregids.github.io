@@ -29,7 +29,6 @@ faq:
 
 Het klinkt simpel -- een factuur versturen -- maar ik spreek regelmatig ondernemers die elke maand uren kwijt zijn aan handmatig facturen opmaken in Word, BTW-bedragen uitrekenen en betalingen controleren. Goede facturatiesoftware reduceert dat tot een paar klikken. Hier zijn de 6 pakketten die ik voor het Nederlandse MKB aanbeveel, getoetst op prijs, UBL-ondersteuning en BTW-aangifte.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste Facturatie Software MKB 2026
 

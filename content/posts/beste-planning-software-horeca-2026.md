@@ -29,7 +29,6 @@ faq:
 
 Ik heb horeca-ondernemers gesproken die elke week drie uur bezig waren met het Excel-rooster. Diensten ruilen via WhatsApp, bellen naar oproepkrachten, handmatig controleren of ze de CAO-regels niet overtreden. Met de juiste planning software kost datzelfde rooster een halfuur. Hier zijn de 6 tools die ik voor de horeca aanbeveel.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste HR software in Nederland](/posts/beste-hr-software-nederland-2026/).
 

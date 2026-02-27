@@ -27,7 +27,6 @@ faq:
 
 Ik stel bij elk adviestraject dezelfde testvraag: "Waar vinden nieuwe medewerkers jullie procedures en handleidingen?" Als het antwoord "ergens op de gedeelde schijf" of "vraag maar aan Jan" is, weet ik genoeg. Een intranet voorkomt dat bedrijfskennis afhankelijk is van individuele collega's. Dit zijn de 5 opties die ik voor het MKB aanbeveel.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ## Snelle vergelijking
 

@@ -27,7 +27,6 @@ faq:
 
 Vorige maand hielp ik een bedrijf dat €14.000 per jaar kwijtraakte aan automatisch verlengde contracten die ze eigenlijk wilden opzeggen. Niemand hield de deadlines bij. Dat is precies het probleem dat contractmanagement software oplost: je weet wat je hebt, wanneer het afloopt, en je mist geen enkele deadline meer. Dit zijn de 5 beste opties.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ## Snelle vergelijking
 

@@ -29,7 +29,6 @@ faq:
 
 "Welke projecttool moet ik kiezen?" Die vraag krijg ik minstens twee keer per week. Na 12 jaar bedrijven helpen met software-selectie is mijn eerlijke antwoord nog steeds: dat hangt af van hoe je team werkt. Een creatief bureau van 8 man heeft iets compleet anders nodig dan een IT-afdeling van 40 mensen. Ik heb teams gezien die maandenlang rondshopten, drie proefaccounts aanmaakten, en uiteindelijk toch de verkeerde kozen. In deze vergelijking van de beste projectmanagement software zet ik 7 tools naast elkaar -- met echte prijzen, eerlijke nadelen en mijn persoonlijke ervaring na tientallen implementaties.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Wat kost projectmanagement software per maand? (prijsvergelijking 2026)
 

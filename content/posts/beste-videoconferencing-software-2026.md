@@ -27,7 +27,6 @@ faq:
 
 De meeste bedrijven die ik adviseer gebruiken al een videotool, maar vaak niet de juiste. Ze betalen voor Zoom terwijl ze al Teams hebben via Microsoft 365, of worstelen met Google Meet terwijl hun klanten geen Google-account willen aanmaken. In deze vergelijking help ik je de tool te kiezen die past bij hoe jij vergadert.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ## Snelle vergelijking
 
