@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg_boekhouding" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0c4a6e"/>
       <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
-    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="tg_boekhouding" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0891b2"/>
       <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#bg_boekhouding)"/>
 
   <!-- Subtle grid pattern -->
   <g opacity="0.04" stroke="#ffffff" stroke-width="1">
@@ -40,7 +40,7 @@
   <!-- Calculator body -->
   <rect x="300" y="180" width="240" height="300" rx="18" fill="#ffffff" opacity="0.12"/>
   <!-- Calculator screen -->
-  <rect x="320" y="200" width="200" height="60" rx="10" fill="url(#tealGrad)" opacity="0.7"/>
+  <rect x="320" y="200" width="200" height="60" rx="10" fill="url(#tg_boekhouding)" opacity="0.7"/>
   <!-- Display lines on screen -->
   <rect x="340" y="235" width="120" height="6" rx="3" fill="#ffffff" opacity="0.5"/>
   <rect x="340" y="215" width="80" height="5" rx="2.5" fill="#ffffff" opacity="0.3"/>
@@ -50,21 +50,21 @@
   <rect x="325" y="280" width="40" height="35" rx="8" fill="#ffffff" opacity="0.3"/>
   <rect x="375" y="280" width="40" height="35" rx="8" fill="#ffffff" opacity="0.3"/>
   <rect x="425" y="280" width="40" height="35" rx="8" fill="#ffffff" opacity="0.3"/>
-  <rect x="475" y="280" width="40" height="35" rx="8" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="475" y="280" width="40" height="35" rx="8" fill="url(#tg_boekhouding)" opacity="0.5"/>
   <!-- Row 2 -->
   <rect x="325" y="325" width="40" height="35" rx="8" fill="#ffffff" opacity="0.25"/>
   <rect x="375" y="325" width="40" height="35" rx="8" fill="#ffffff" opacity="0.25"/>
   <rect x="425" y="325" width="40" height="35" rx="8" fill="#ffffff" opacity="0.25"/>
-  <rect x="475" y="325" width="40" height="35" rx="8" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="475" y="325" width="40" height="35" rx="8" fill="url(#tg_boekhouding)" opacity="0.5"/>
   <!-- Row 3 -->
   <rect x="325" y="370" width="40" height="35" rx="8" fill="#ffffff" opacity="0.2"/>
   <rect x="375" y="370" width="40" height="35" rx="8" fill="#ffffff" opacity="0.2"/>
   <rect x="425" y="370" width="40" height="35" rx="8" fill="#ffffff" opacity="0.2"/>
-  <rect x="475" y="370" width="40" height="35" rx="8" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="475" y="370" width="40" height="35" rx="8" fill="url(#tg_boekhouding)" opacity="0.5"/>
   <!-- Row 4 -->
   <rect x="325" y="415" width="90" height="35" rx="8" fill="#ffffff" opacity="0.2"/>
   <rect x="425" y="415" width="40" height="35" rx="8" fill="#ffffff" opacity="0.2"/>
-  <rect x="475" y="415" width="40" height="35" rx="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <rect x="475" y="415" width="40" height="35" rx="8" fill="url(#tg_boekhouding)" opacity="0.7"/>
 
   <!-- === BAR CHART (center-right) === -->
   <!-- Chart background -->
@@ -77,10 +77,10 @@
   <line x1="660" y1="280" x2="870" y2="280" stroke="#ffffff" stroke-width="1" opacity="0.08"/>
   <line x1="660" y1="250" x2="870" y2="250" stroke="#ffffff" stroke-width="1" opacity="0.08"/>
   <!-- Bars -->
-  <rect x="685" y="310" width="32" height="90" rx="4" fill="url(#tealGrad)" opacity="0.9"/>
-  <rect x="727" y="260" width="32" height="140" rx="4" fill="url(#tealGrad)" opacity="0.7"/>
+  <rect x="685" y="310" width="32" height="90" rx="4" fill="url(#tg_boekhouding)" opacity="0.9"/>
+  <rect x="727" y="260" width="32" height="140" rx="4" fill="url(#tg_boekhouding)" opacity="0.7"/>
   <rect x="769" y="290" width="32" height="110" rx="4" fill="#ffffff" opacity="0.5"/>
-  <rect x="811" y="235" width="32" height="165" rx="4" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="811" y="235" width="32" height="165" rx="4" fill="url(#tg_boekhouding)" opacity="0.8"/>
   <rect x="853" y="270" width="32" height="130" rx="4" fill="#ffffff" opacity="0.4"/>
   <!-- Trend line -->
   <polyline points="701,305 743,255 785,285 827,230 869,265" fill="none" stroke="#0891b2" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
@@ -93,15 +93,15 @@
   <!-- === PIE CHART (top right) === -->
   <circle cx="1020" cy="300" r="75" fill="#ffffff" opacity="0.1"/>
   <!-- Pie segments using paths -->
-  <path d="M1020,300 L1020,225 A75,75 0 0,1 1085,265 Z" fill="url(#tealGrad)" opacity="0.8"/>
+  <path d="M1020,300 L1020,225 A75,75 0 0,1 1085,265 Z" fill="url(#tg_boekhouding)" opacity="0.8"/>
   <path d="M1020,300 L1085,265 A75,75 0 0,1 1060,370 Z" fill="#ffffff" opacity="0.4"/>
-  <path d="M1020,300 L1060,370 A75,75 0 0,1 965,350 Z" fill="url(#tealGrad)" opacity="0.5"/>
+  <path d="M1020,300 L1060,370 A75,75 0 0,1 965,350 Z" fill="url(#tg_boekhouding)" opacity="0.5"/>
   <path d="M1020,300 L965,350 A75,75 0 0,1 1020,225 Z" fill="#ffffff" opacity="0.2"/>
 
   <!-- === RECEIPT/INVOICE (far left) === -->
   <rect x="80" y="210" width="150" height="200" rx="12" fill="#ffffff" opacity="0.1"/>
   <!-- Receipt header -->
-  <rect x="80" y="210" width="150" height="35" rx="12" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="80" y="210" width="150" height="35" rx="12" fill="url(#tg_boekhouding)" opacity="0.5"/>
   <!-- Receipt lines -->
   <rect x="100" y="265" width="110" height="5" rx="2.5" fill="#ffffff" opacity="0.3"/>
   <rect x="100" y="282" width="80" height="5" rx="2.5" fill="#ffffff" opacity="0.2"/>
@@ -113,23 +113,23 @@
   <!-- Divider -->
   <line x1="100" y1="368" x2="210" y2="368" stroke="#ffffff" stroke-width="1" opacity="0.15"/>
   <!-- Total line -->
-  <rect x="100" y="380" width="60" height="6" rx="3" fill="url(#tealGrad)" opacity="0.6"/>
+  <rect x="100" y="380" width="60" height="6" rx="3" fill="url(#tg_boekhouding)" opacity="0.6"/>
   <rect x="170" y="380" width="40" height="6" rx="3" fill="#0891b2" opacity="0.5"/>
 
   <!-- === COINS (bottom center) === -->
   <!-- Stacked coins -->
-  <ellipse cx="570" cy="480" rx="30" ry="10" fill="url(#tealGrad)" opacity="0.4"/>
-  <ellipse cx="570" cy="473" rx="30" ry="10" fill="url(#tealGrad)" opacity="0.5"/>
-  <ellipse cx="570" cy="466" rx="30" ry="10" fill="url(#tealGrad)" opacity="0.6"/>
+  <ellipse cx="570" cy="480" rx="30" ry="10" fill="url(#tg_boekhouding)" opacity="0.4"/>
+  <ellipse cx="570" cy="473" rx="30" ry="10" fill="url(#tg_boekhouding)" opacity="0.5"/>
+  <ellipse cx="570" cy="466" rx="30" ry="10" fill="url(#tg_boekhouding)" opacity="0.6"/>
 
   <ellipse cx="640" cy="485" rx="25" ry="8" fill="#ffffff" opacity="0.2"/>
   <ellipse cx="640" cy="479" rx="25" ry="8" fill="#ffffff" opacity="0.25"/>
   <ellipse cx="640" cy="473" rx="25" ry="8" fill="#ffffff" opacity="0.3"/>
 
   <!-- === EURO SYMBOL (decorative, made from paths) === -->
-  <path d="M160,475 A35,35 0 1,1 160,530" fill="none" stroke="url(#tealGrad)" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
-  <line x1="125" y1="495" x2="165" y2="495" stroke="url(#tealGrad)" stroke-width="4" stroke-linecap="round" opacity="0.4"/>
-  <line x1="125" y1="510" x2="165" y2="510" stroke="url(#tealGrad)" stroke-width="4" stroke-linecap="round" opacity="0.4"/>
+  <path d="M160,475 A35,35 0 1,1 160,530" fill="none" stroke="url(#tg_boekhouding)" stroke-width="5" stroke-linecap="round" opacity="0.4"/>
+  <line x1="125" y1="495" x2="165" y2="495" stroke="url(#tg_boekhouding)" stroke-width="4" stroke-linecap="round" opacity="0.4"/>
+  <line x1="125" y1="510" x2="165" y2="510" stroke="url(#tg_boekhouding)" stroke-width="4" stroke-linecap="round" opacity="0.4"/>
 
   <!-- Scattered decorative dots -->
   <circle cx="550" cy="180" r="3" fill="#0891b2" opacity="0.3"/>

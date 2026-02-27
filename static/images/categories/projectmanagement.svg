@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg_projectmanagement" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0c4a6e"/>
       <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
-    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="tg_projectmanagement" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0891b2"/>
       <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#bg_projectmanagement)"/>
 
   <!-- Subtle grid pattern -->
   <g opacity="0.04" stroke="#ffffff" stroke-width="1">
@@ -43,7 +43,7 @@
   <!-- Column 1 - "To Do" -->
   <rect x="275" y="185" width="210" height="290" rx="12" fill="#ffffff" opacity="0.07"/>
   <!-- Column header -->
-  <rect x="285" y="195" width="190" height="30" rx="8" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="285" y="195" width="190" height="30" rx="8" fill="url(#tg_projectmanagement)" opacity="0.5"/>
   <!-- Card 1 -->
   <rect x="285" y="240" width="190" height="55" rx="8" fill="#ffffff" opacity="0.15"/>
   <rect x="300" y="253" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.4"/>
@@ -66,23 +66,23 @@
   <!-- Column 2 - "In Progress" -->
   <rect x="505" y="185" width="210" height="290" rx="12" fill="#ffffff" opacity="0.07"/>
   <!-- Column header -->
-  <rect x="515" y="195" width="190" height="30" rx="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <rect x="515" y="195" width="190" height="30" rx="8" fill="url(#tg_projectmanagement)" opacity="0.7"/>
   <!-- Card 1 (in progress - teal accent) -->
-  <rect x="515" y="240" width="190" height="55" rx="8" fill="url(#tealGrad)" opacity="0.2"/>
+  <rect x="515" y="240" width="190" height="55" rx="8" fill="url(#tg_projectmanagement)" opacity="0.2"/>
   <rect x="530" y="253" width="110" height="5" rx="2.5" fill="#ffffff" opacity="0.5"/>
   <rect x="530" y="268" width="70" height="4" rx="2" fill="#ffffff" opacity="0.3"/>
   <!-- Progress bar -->
   <rect x="530" y="278" width="160" height="4" rx="2" fill="#ffffff" opacity="0.1"/>
-  <rect x="530" y="278" width="100" height="4" rx="2" fill="url(#tealGrad)" opacity="0.6"/>
-  <circle cx="690" cy="275" r="8" fill="url(#tealGrad)" opacity="0.3"/>
+  <rect x="530" y="278" width="100" height="4" rx="2" fill="url(#tg_projectmanagement)" opacity="0.6"/>
+  <circle cx="690" cy="275" r="8" fill="url(#tg_projectmanagement)" opacity="0.3"/>
   <!-- Card 2 -->
-  <rect x="515" y="305" width="190" height="55" rx="8" fill="url(#tealGrad)" opacity="0.15"/>
+  <rect x="515" y="305" width="190" height="55" rx="8" fill="url(#tg_projectmanagement)" opacity="0.15"/>
   <rect x="530" y="318" width="130" height="5" rx="2.5" fill="#ffffff" opacity="0.45"/>
   <rect x="530" y="333" width="90" height="4" rx="2" fill="#ffffff" opacity="0.25"/>
   <!-- Progress bar -->
   <rect x="530" y="343" width="160" height="4" rx="2" fill="#ffffff" opacity="0.1"/>
-  <rect x="530" y="343" width="60" height="4" rx="2" fill="url(#tealGrad)" opacity="0.6"/>
-  <circle cx="690" cy="340" r="8" fill="url(#tealGrad)" opacity="0.25"/>
+  <rect x="530" y="343" width="60" height="4" rx="2" fill="url(#tg_projectmanagement)" opacity="0.6"/>
+  <circle cx="690" cy="340" r="8" fill="url(#tg_projectmanagement)" opacity="0.25"/>
 
   <!-- Column divider -->
   <line x1="725" y1="195" x2="725" y2="465" stroke="#ffffff" stroke-width="1" opacity="0.08"/>
@@ -96,34 +96,34 @@
   <rect x="760" y="253" width="100" height="5" rx="2.5" fill="#ffffff" opacity="0.3"/>
   <rect x="760" y="268" width="70" height="4" rx="2" fill="#ffffff" opacity="0.15"/>
   <!-- Checkmark circle -->
-  <circle cx="910" cy="265" r="10" fill="url(#tealGrad)" opacity="0.6"/>
+  <circle cx="910" cy="265" r="10" fill="url(#tg_projectmanagement)" opacity="0.6"/>
   <polyline points="904,265 908,270 917,259" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
   <!-- Card 2 (done) -->
   <rect x="745" y="305" width="180" height="55" rx="8" fill="#ffffff" opacity="0.1"/>
   <rect x="760" y="318" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.3"/>
   <rect x="760" y="333" width="85" height="4" rx="2" fill="#ffffff" opacity="0.15"/>
   <!-- Checkmark circle -->
-  <circle cx="910" cy="330" r="10" fill="url(#tealGrad)" opacity="0.6"/>
+  <circle cx="910" cy="330" r="10" fill="url(#tg_projectmanagement)" opacity="0.6"/>
   <polyline points="904,330 908,335 917,324" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
 
   <!-- === GANTT/TIMELINE (bottom left) === -->
   <rect x="60" y="330" width="160" height="140" rx="12" fill="#ffffff" opacity="0.08"/>
   <!-- Timeline header -->
-  <rect x="60" y="330" width="160" height="28" rx="12" fill="url(#tealGrad)" opacity="0.4"/>
+  <rect x="60" y="330" width="160" height="28" rx="12" fill="url(#tg_projectmanagement)" opacity="0.4"/>
   <!-- Gantt bars -->
-  <rect x="80" y="372" width="80" height="10" rx="4" fill="url(#tealGrad)" opacity="0.7"/>
+  <rect x="80" y="372" width="80" height="10" rx="4" fill="url(#tg_projectmanagement)" opacity="0.7"/>
   <rect x="95" y="392" width="110" height="10" rx="4" fill="#ffffff" opacity="0.35"/>
-  <rect x="75" y="412" width="60" height="10" rx="4" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="75" y="412" width="60" height="10" rx="4" fill="url(#tg_projectmanagement)" opacity="0.5"/>
   <rect x="105" y="432" width="90" height="10" rx="4" fill="#ffffff" opacity="0.25"/>
-  <rect x="85" y="452" width="70" height="10" rx="4" fill="url(#tealGrad)" opacity="0.4"/>
+  <rect x="85" y="452" width="70" height="10" rx="4" fill="url(#tg_projectmanagement)" opacity="0.4"/>
 
   <!-- === PROGRESS CIRCLES (top left) === -->
   <!-- Circle 1 - nearly complete -->
   <circle cx="130" cy="230" r="40" fill="none" stroke="#ffffff" stroke-width="5" opacity="0.1"/>
-  <circle cx="130" cy="230" r="40" fill="none" stroke="url(#tealGrad)" stroke-width="5" opacity="0.6"
+  <circle cx="130" cy="230" r="40" fill="none" stroke="url(#tg_projectmanagement)" stroke-width="5" opacity="0.6"
     stroke-dasharray="226 251" stroke-dashoffset="0" stroke-linecap="round" transform="rotate(-90, 130, 230)"/>
   <!-- Inner indicator -->
-  <circle cx="130" cy="230" r="5" fill="url(#tealGrad)" opacity="0.5"/>
+  <circle cx="130" cy="230" r="5" fill="url(#tg_projectmanagement)" opacity="0.5"/>
 
   <!-- Circle 2 - half complete -->
   <circle cx="130" cy="230" r="28" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.08"/>
@@ -133,15 +133,15 @@
   <!-- === CHECKLIST (top right) === -->
   <rect x="990" y="200" width="150" height="190" rx="12" fill="#ffffff" opacity="0.1"/>
   <!-- Checklist items -->
-  <circle cx="1015" cy="230" r="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <circle cx="1015" cy="230" r="8" fill="url(#tg_projectmanagement)" opacity="0.7"/>
   <polyline points="1010,230 1014,234 1021,225" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
   <rect x="1033" y="226" width="85" height="5" rx="2.5" fill="#ffffff" opacity="0.35"/>
 
-  <circle cx="1015" cy="260" r="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <circle cx="1015" cy="260" r="8" fill="url(#tg_projectmanagement)" opacity="0.7"/>
   <polyline points="1010,260 1014,264 1021,255" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
   <rect x="1033" y="256" width="70" height="5" rx="2.5" fill="#ffffff" opacity="0.35"/>
 
-  <circle cx="1015" cy="290" r="8" fill="url(#tealGrad)" opacity="0.7"/>
+  <circle cx="1015" cy="290" r="8" fill="url(#tg_projectmanagement)" opacity="0.7"/>
   <polyline points="1010,290 1014,294 1021,285" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
   <rect x="1033" y="286" width="90" height="5" rx="2.5" fill="#ffffff" opacity="0.35"/>
 
@@ -157,16 +157,16 @@
   <!-- === TIMELINE/MILESTONE (bottom right) === -->
   <line x1="970" y1="450" x2="1150" y2="450" stroke="#ffffff" stroke-width="2" opacity="0.2"/>
   <!-- Milestone nodes -->
-  <circle cx="990" cy="450" r="7" fill="url(#tealGrad)" opacity="0.7"/>
-  <circle cx="1030" cy="450" r="7" fill="url(#tealGrad)" opacity="0.7"/>
-  <circle cx="1070" cy="450" r="7" fill="url(#tealGrad)" opacity="0.5"/>
+  <circle cx="990" cy="450" r="7" fill="url(#tg_projectmanagement)" opacity="0.7"/>
+  <circle cx="1030" cy="450" r="7" fill="url(#tg_projectmanagement)" opacity="0.7"/>
+  <circle cx="1070" cy="450" r="7" fill="url(#tg_projectmanagement)" opacity="0.5"/>
   <circle cx="1110" cy="450" r="7" fill="#ffffff" opacity="0.2"/>
   <circle cx="1140" cy="450" r="7" fill="#ffffff" opacity="0.15"/>
   <!-- Small connector lines going up from milestones -->
   <line x1="990" y1="443" x2="990" y2="428" stroke="#0891b2" stroke-width="1.5" opacity="0.4"/>
-  <rect x="975" y="418" width="30" height="8" rx="3" fill="url(#tealGrad)" opacity="0.3"/>
+  <rect x="975" y="418" width="30" height="8" rx="3" fill="url(#tg_projectmanagement)" opacity="0.3"/>
   <line x1="1030" y1="443" x2="1030" y2="428" stroke="#0891b2" stroke-width="1.5" opacity="0.4"/>
-  <rect x="1015" y="418" width="30" height="8" rx="3" fill="url(#tealGrad)" opacity="0.3"/>
+  <rect x="1015" y="418" width="30" height="8" rx="3" fill="url(#tg_projectmanagement)" opacity="0.3"/>
 
   <!-- Scattered decorative dots -->
   <circle cx="350" cy="530" r="4" fill="#0891b2" opacity="0.2"/>

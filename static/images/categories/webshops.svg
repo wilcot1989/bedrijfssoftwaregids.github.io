@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg_webshops" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0c4a6e"/>
       <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
-    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="tg_webshops" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0891b2"/>
       <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
-    <linearGradient id="tealGradH" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="tgH_webshops" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#0891b2"/>
       <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#bg_webshops)"/>
 
   <!-- Subtle diagonal line pattern -->
   <g opacity="0.03" stroke="#ffffff" stroke-width="1">
@@ -39,9 +39,9 @@
   <!-- === SHOPPING CART (center) === -->
   <g transform="translate(440, 140)">
     <!-- Cart body -->
-    <polyline points="0,0 20,0 55,120 260,120 290,30 70,30" fill="none" stroke="url(#tealGradH)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+    <polyline points="0,0 20,0 55,120 260,120 290,30 70,30" fill="none" stroke="url(#tgH_webshops)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
     <!-- Cart basket fill -->
-    <polygon points="55,120 70,30 290,30 260,120" fill="url(#tealGrad)" opacity="0.15"/>
+    <polygon points="55,120 70,30 290,30 260,120" fill="url(#tg_webshops)" opacity="0.15"/>
     <!-- Cart wheels -->
     <circle cx="100" cy="145" r="16" fill="none" stroke="#0891b2" stroke-width="4" opacity="0.7"/>
     <circle cx="100" cy="145" r="4" fill="#0891b2" opacity="0.7"/>
@@ -58,7 +58,7 @@
   <g transform="translate(70, 160)">
     <rect x="0" y="0" width="160" height="200" rx="14" fill="#ffffff" opacity="0.1"/>
     <!-- Product image placeholder -->
-    <rect x="15" y="15" width="130" height="100" rx="10" fill="url(#tealGrad)" opacity="0.25"/>
+    <rect x="15" y="15" width="130" height="100" rx="10" fill="url(#tg_webshops)" opacity="0.25"/>
     <!-- Product image icon (box) -->
     <rect x="55" y="40" width="50" height="50" rx="6" fill="#ffffff" opacity="0.3"/>
     <line x1="55" y1="65" x2="105" y2="65" stroke="#ffffff" stroke-width="1.5" opacity="0.2"/>
@@ -69,14 +69,14 @@
     <rect x="15" y="150" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.2"/>
     <rect x="15" y="163" width="90" height="5" rx="2.5" fill="#ffffff" opacity="0.15"/>
     <!-- Add to cart button -->
-    <rect x="15" y="180" width="60" height="8" rx="4" fill="url(#tealGrad)" opacity="0.5"/>
+    <rect x="15" y="180" width="60" height="8" rx="4" fill="url(#tg_webshops)" opacity="0.5"/>
   </g>
 
   <!-- Product card 2 -->
   <g transform="translate(250, 200)">
     <rect x="0" y="0" width="140" height="180" rx="14" fill="#ffffff" opacity="0.08"/>
     <!-- Product image placeholder -->
-    <rect x="12" y="12" width="116" height="85" rx="10" fill="url(#tealGrad)" opacity="0.2"/>
+    <rect x="12" y="12" width="116" height="85" rx="10" fill="url(#tg_webshops)" opacity="0.2"/>
     <!-- Product icon (shirt shape) -->
     <polygon points="35,35 45,25 70,25 80,35 75,45 65,40 65,70 50,70 50,40 40,45" fill="#ffffff" opacity="0.3"/>
     <!-- Price -->
@@ -85,7 +85,7 @@
     <rect x="12" y="130" width="100" height="5" rx="2.5" fill="#ffffff" opacity="0.18"/>
     <rect x="12" y="143" width="75" height="5" rx="2.5" fill="#ffffff" opacity="0.12"/>
     <!-- Button -->
-    <rect x="12" y="158" width="52" height="7" rx="3.5" fill="url(#tealGrad)" opacity="0.4"/>
+    <rect x="12" y="158" width="52" height="7" rx="3.5" fill="url(#tg_webshops)" opacity="0.4"/>
   </g>
 
   <!-- === CREDIT CARD (bottom center) === -->
@@ -94,7 +94,7 @@
     <!-- Card stripe -->
     <rect x="0" y="40" width="280" height="35" fill="#06b6d4" opacity="0.3"/>
     <!-- Chip -->
-    <rect x="30" y="95" width="45" height="32" rx="6" fill="url(#tealGrad)" opacity="0.6"/>
+    <rect x="30" y="95" width="45" height="32" rx="6" fill="url(#tg_webshops)" opacity="0.6"/>
     <line x1="30" y1="111" x2="75" y2="111" stroke="#0c4a6e" stroke-width="1" opacity="0.3"/>
     <line x1="52" y1="95" x2="52" y2="127" stroke="#0c4a6e" stroke-width="1" opacity="0.3"/>
     <!-- Card number dots -->
@@ -123,7 +123,7 @@
   <!-- === EURO SIGN (right side, large) === -->
   <g transform="translate(850, 150)">
     <!-- Euro circle backdrop -->
-    <circle cx="80" cy="85" r="80" fill="url(#tealGrad)" opacity="0.15"/>
+    <circle cx="80" cy="85" r="80" fill="url(#tg_webshops)" opacity="0.15"/>
     <!-- Euro symbol using paths -->
     <path d="M 120,35 Q 60,15 40,60 L 25,60 L 25,70 L 37,70 Q 36,78 36,85 Q 36,92 37,100 L 25,100 L 25,110 L 40,110 Q 60,155 120,135" fill="none" stroke="#0891b2" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
     <!-- Horizontal euro lines are part of the path above (integrated) -->
@@ -132,7 +132,7 @@
   <!-- === PRICE TAGS (scattered) === -->
   <!-- Price tag 1 -->
   <g transform="translate(800, 370) rotate(-15)">
-    <rect x="0" y="0" width="70" height="40" rx="6" fill="url(#tealGrad)" opacity="0.5"/>
+    <rect x="0" y="0" width="70" height="40" rx="6" fill="url(#tg_webshops)" opacity="0.5"/>
     <circle cx="12" cy="20" r="5" fill="#0c4a6e" opacity="0.5"/>
     <!-- String -->
     <line x1="70" y1="0" x2="85" y2="-10" stroke="#0891b2" stroke-width="2" opacity="0.4"/>
@@ -157,7 +157,7 @@
 
   <!-- === PERCENTAGE/DISCOUNT BADGE (floating) === -->
   <g transform="translate(160, 430)">
-    <circle cx="35" cy="35" r="35" fill="url(#tealGrad)" opacity="0.4"/>
+    <circle cx="35" cy="35" r="35" fill="url(#tg_webshops)" opacity="0.4"/>
     <!-- Percent symbol approximation with shapes -->
     <circle cx="24" cy="24" r="7" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.7"/>
     <circle cx="46" cy="46" r="7" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.7"/>

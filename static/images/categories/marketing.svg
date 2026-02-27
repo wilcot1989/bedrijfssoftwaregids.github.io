@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg_marketing" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0c4a6e"/>
       <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
-    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="tg_marketing" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0891b2"/>
       <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
-    <linearGradient id="tealGradH" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="tgH_marketing" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#0891b2"/>
       <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#bg_marketing)"/>
 
   <!-- Subtle dot pattern -->
   <g opacity="0.03" fill="#ffffff">
@@ -40,7 +40,7 @@
     <!-- Envelope flap -->
     <polygon points="0,0 120,80 240,0" fill="none" stroke="#0891b2" stroke-width="3" opacity="0.7"/>
     <!-- Envelope flap filled -->
-    <polygon points="4,4 120,76 236,4 236,0 4,0" fill="url(#tealGrad)" opacity="0.25"/>
+    <polygon points="4,4 120,76 236,4 236,0 4,0" fill="url(#tg_marketing)" opacity="0.25"/>
     <!-- Lines on envelope (content preview) -->
     <rect x="40" y="110" width="160" height="6" rx="3" fill="#ffffff" opacity="0.2"/>
     <rect x="40" y="128" width="120" height="6" rx="3" fill="#ffffff" opacity="0.15"/>
@@ -60,7 +60,7 @@
   <!-- === MEGAPHONE (center-right) === -->
   <g transform="translate(700, 150)">
     <!-- Megaphone cone -->
-    <polygon points="0,60 160,0 160,150 0,90" fill="url(#tealGrad)" opacity="0.8"/>
+    <polygon points="0,60 160,0 160,150 0,90" fill="url(#tg_marketing)" opacity="0.8"/>
     <!-- Megaphone handle -->
     <rect x="-30" y="52" width="40" height="46" rx="8" fill="#0891b2" opacity="0.6"/>
     <!-- Sound waves -->
@@ -79,8 +79,8 @@
     <!-- Bars -->
     <rect x="60" y="110" width="28" height="45" rx="4" fill="#ffffff" opacity="0.3"/>
     <rect x="100" y="80" width="28" height="75" rx="4" fill="#ffffff" opacity="0.4"/>
-    <rect x="140" y="55" width="28" height="100" rx="4" fill="url(#tealGrad)" opacity="0.7"/>
-    <rect x="180" y="35" width="28" height="120" rx="4" fill="url(#tealGrad)" opacity="0.9"/>
+    <rect x="140" y="55" width="28" height="100" rx="4" fill="url(#tg_marketing)" opacity="0.7"/>
+    <rect x="180" y="35" width="28" height="120" rx="4" fill="url(#tg_marketing)" opacity="0.9"/>
     <!-- Trend line -->
     <polyline points="74,105 114,72 154,48 194,28" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
     <!-- Trend dots -->
@@ -92,7 +92,7 @@
 
   <!-- === SOCIAL MEDIA CIRCLES (right side) === -->
   <!-- Circle cluster -->
-  <circle cx="950" cy="380" r="42" fill="url(#tealGrad)" opacity="0.7"/>
+  <circle cx="950" cy="380" r="42" fill="url(#tg_marketing)" opacity="0.7"/>
   <!-- Share/network icon inside -->
   <circle cx="940" cy="370" r="6" fill="#ffffff" opacity="0.8"/>
   <circle cx="965" cy="358" r="6" fill="#ffffff" opacity="0.8"/>

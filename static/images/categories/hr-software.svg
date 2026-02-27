@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg_hr_software" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0c4a6e"/>
       <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
-    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="tg_hr_software" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0891b2"/>
       <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#bg_hr_software)"/>
 
   <!-- Subtle grid pattern -->
   <g opacity="0.04" stroke="#ffffff" stroke-width="1">
@@ -39,8 +39,8 @@
   <!-- === ORGANIZATIONAL CHART === -->
 
   <!-- Top person (CEO level) -->
-  <circle cx="600" cy="135" r="28" fill="url(#tealGrad)"/>
-  <rect x="572" y="170" width="56" height="40" rx="12" fill="url(#tealGrad)"/>
+  <circle cx="600" cy="135" r="28" fill="url(#tg_hr_software)"/>
+  <rect x="572" y="170" width="56" height="40" rx="12" fill="url(#tg_hr_software)"/>
 
   <!-- Connecting lines from top to middle row -->
   <line x1="600" y1="210" x2="600" y2="240" stroke="#0891b2" stroke-width="3" opacity="0.6"/>
@@ -91,7 +91,7 @@
 
   <!-- === CALENDAR (bottom left) === -->
   <rect x="80" y="320" width="140" height="130" rx="12" fill="#ffffff" opacity="0.12"/>
-  <rect x="80" y="320" width="140" height="32" rx="12" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="80" y="320" width="140" height="32" rx="12" fill="url(#tg_hr_software)" opacity="0.8"/>
   <!-- Calendar dots (days) -->
   <circle cx="108" cy="376" r="6" fill="#ffffff" opacity="0.5"/>
   <circle cx="138" cy="376" r="6" fill="#ffffff" opacity="0.5"/>
@@ -109,9 +109,9 @@
   <!-- === CHECKLIST / DOCUMENT (bottom right) === -->
   <rect x="980" y="310" width="140" height="170" rx="12" fill="#ffffff" opacity="0.12"/>
   <!-- Checklist lines -->
-  <rect x="1005" y="335" width="14" height="14" rx="3" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="1005" y="335" width="14" height="14" rx="3" fill="url(#tg_hr_software)" opacity="0.8"/>
   <rect x="1028" y="339" width="70" height="6" rx="3" fill="#ffffff" opacity="0.4"/>
-  <rect x="1005" y="365" width="14" height="14" rx="3" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="1005" y="365" width="14" height="14" rx="3" fill="url(#tg_hr_software)" opacity="0.8"/>
   <rect x="1028" y="369" width="55" height="6" rx="3" fill="#ffffff" opacity="0.4"/>
   <rect x="1005" y="395" width="14" height="14" rx="3" fill="#ffffff" opacity="0.2"/>
   <rect x="1028" y="399" width="65" height="6" rx="3" fill="#ffffff" opacity="0.25"/>
@@ -122,7 +122,7 @@
 
   <!-- === ID BADGE (top left) === -->
   <rect x="80" y="100" width="120" height="160" rx="14" fill="#ffffff" opacity="0.12"/>
-  <rect x="80" y="100" width="120" height="40" rx="14" fill="url(#tealGrad)" opacity="0.6"/>
+  <rect x="80" y="100" width="120" height="40" rx="14" fill="url(#tg_hr_software)" opacity="0.6"/>
   <circle cx="140" cy="175" r="22" fill="#ffffff" opacity="0.5"/>
   <rect x="110" y="210" width="60" height="6" rx="3" fill="#ffffff" opacity="0.35"/>
   <rect x="118" y="226" width="44" height="5" rx="2.5" fill="#ffffff" opacity="0.2"/>

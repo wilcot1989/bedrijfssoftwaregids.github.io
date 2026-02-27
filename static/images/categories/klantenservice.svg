@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg_klantenservice" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0c4a6e"/>
       <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
-    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="tg_klantenservice" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" style="stop-color:#0891b2"/>
       <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#bg_klantenservice)"/>
 
   <!-- Subtle grid pattern -->
   <g opacity="0.04" stroke="#ffffff" stroke-width="1">
@@ -38,14 +38,14 @@
 
   <!-- === CENTRAL HEADSET ICON === -->
   <!-- Headset band -->
-  <path d="M480 280 C480 210, 720 210, 720 280" stroke="url(#tealGrad)" stroke-width="8" fill="none" opacity="0.8"/>
+  <path d="M480 280 C480 210, 720 210, 720 280" stroke="url(#tg_klantenservice)" stroke-width="8" fill="none" opacity="0.8"/>
   <!-- Left earpiece -->
-  <rect x="465" y="270" width="30" height="55" rx="12" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="465" y="270" width="30" height="55" rx="12" fill="url(#tg_klantenservice)" opacity="0.8"/>
   <!-- Right earpiece -->
-  <rect x="705" y="270" width="30" height="55" rx="12" fill="url(#tealGrad)" opacity="0.8"/>
+  <rect x="705" y="270" width="30" height="55" rx="12" fill="url(#tg_klantenservice)" opacity="0.8"/>
   <!-- Microphone arm -->
-  <path d="M705 310 Q740 310, 740 340 Q740 370, 720 370" stroke="url(#tealGrad)" stroke-width="5" fill="none" opacity="0.7"/>
-  <circle cx="715" cy="370" r="8" fill="url(#tealGrad)" opacity="0.8"/>
+  <path d="M705 310 Q740 310, 740 340 Q740 370, 720 370" stroke="url(#tg_klantenservice)" stroke-width="5" fill="none" opacity="0.7"/>
+  <circle cx="715" cy="370" r="8" fill="url(#tg_klantenservice)" opacity="0.8"/>
 
   <!-- === CHAT BUBBLES === -->
   <!-- Left chat bubble (incoming) -->
@@ -57,12 +57,12 @@
   <path d="M340 260 L370 270 L340 270" fill="#ffffff" opacity="0.12"/>
 
   <!-- Right chat bubble (outgoing) -->
-  <rect x="840" y="200" width="220" height="80" rx="16" fill="url(#tealGrad)" opacity="0.25"/>
+  <rect x="840" y="200" width="220" height="80" rx="16" fill="url(#tg_klantenservice)" opacity="0.25"/>
   <rect x="865" y="222" width="130" height="8" rx="4" fill="#ffffff" opacity="0.35"/>
   <rect x="865" y="238" width="90" height="6" rx="3" fill="#ffffff" opacity="0.25"/>
   <rect x="865" y="252" width="110" height="6" rx="3" fill="#ffffff" opacity="0.2"/>
   <!-- Bubble tail -->
-  <path d="M860 260 L830 270 L860 270" fill="url(#tealGrad)" opacity="0.25"/>
+  <path d="M860 260 L830 270 L860 270" fill="url(#tg_klantenservice)" opacity="0.25"/>
 
   <!-- Left chat bubble 2 (lower) -->
   <rect x="120" y="340" width="200" height="65" rx="14" fill="#ffffff" opacity="0.08"/>
@@ -71,38 +71,38 @@
   <path d="M300 380 L325 388 L300 388" fill="#ffffff" opacity="0.08"/>
 
   <!-- Right chat bubble 2 (lower) -->
-  <rect x="880" y="340" width="200" height="65" rx="14" fill="url(#tealGrad)" opacity="0.15"/>
+  <rect x="880" y="340" width="200" height="65" rx="14" fill="url(#tg_klantenservice)" opacity="0.15"/>
   <rect x="905" y="358" width="110" height="7" rx="3.5" fill="#ffffff" opacity="0.25"/>
   <rect x="905" y="372" width="75" height="5" rx="2.5" fill="#ffffff" opacity="0.15"/>
-  <path d="M900 380 L875 388 L900 388" fill="url(#tealGrad)" opacity="0.15"/>
+  <path d="M900 380 L875 388 L900 388" fill="url(#tg_klantenservice)" opacity="0.15"/>
 
   <!-- === TICKET / STATUS CARDS === -->
   <!-- Bottom left card -->
   <rect x="180" y="440" width="180" height="100" rx="12" fill="#ffffff" opacity="0.06"/>
-  <rect x="200" y="458" width="60" height="20" rx="8" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="200" y="458" width="60" height="20" rx="8" fill="url(#tg_klantenservice)" opacity="0.5"/>
   <rect x="200" y="488" width="140" height="6" rx="3" fill="#ffffff" opacity="0.15"/>
   <rect x="200" y="502" width="100" height="5" rx="2.5" fill="#ffffff" opacity="0.1"/>
   <rect x="200" y="516" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.08"/>
 
   <!-- Bottom right card -->
   <rect x="840" y="440" width="180" height="100" rx="12" fill="#ffffff" opacity="0.06"/>
-  <rect x="860" y="458" width="60" height="20" rx="8" fill="url(#tealGrad)" opacity="0.5"/>
+  <rect x="860" y="458" width="60" height="20" rx="8" fill="url(#tg_klantenservice)" opacity="0.5"/>
   <rect x="860" y="488" width="140" height="6" rx="3" fill="#ffffff" opacity="0.15"/>
   <rect x="860" y="502" width="100" height="5" rx="2.5" fill="#ffffff" opacity="0.1"/>
   <rect x="860" y="516" width="120" height="5" rx="2.5" fill="#ffffff" opacity="0.08"/>
 
   <!-- === SATISFACTION STARS (center bottom) === -->
   <g transform="translate(510, 430)" opacity="0.5">
-    <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="url(#tealGrad)"/>
+    <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="url(#tg_klantenservice)"/>
   </g>
   <g transform="translate(555, 430)" opacity="0.5">
-    <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="url(#tealGrad)"/>
+    <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="url(#tg_klantenservice)"/>
   </g>
   <g transform="translate(600, 430)" opacity="0.5">
-    <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="url(#tealGrad)"/>
+    <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="url(#tg_klantenservice)"/>
   </g>
   <g transform="translate(645, 430)" opacity="0.5">
-    <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="url(#tealGrad)"/>
+    <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="url(#tg_klantenservice)"/>
   </g>
   <g transform="translate(690, 430)" opacity="0.25">
     <polygon points="20,0 25,15 40,15 28,24 32,40 20,30 8,40 12,24 0,15 15,15" fill="#ffffff"/>
