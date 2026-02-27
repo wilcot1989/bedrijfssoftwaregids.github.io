@@ -1,17 +1,28 @@
 {{ define "main" }}
-<div class="container">
+<div class="container wide" style="padding-top:1rem;">
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  {{ range .Pages }}
-  {{ $pageTitle := .Title }}
-  <div class="card">
-    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
-    <div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd</div>
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    <div class="tags">
-      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+  {{ if .Pages }}
+  <div class="card-grid" style="margin-top:1.5rem;">
+    {{ range .Pages }}
+    {{ $pageTitle := .Title }}
+    <div class="card">
+      {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
+      {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
+      <div class="meta">{{ .Date.Format "02-01-2006" }} · {{ .ReadingTime }} min leestijd</div>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p style="color:#64748b;font-size:0.92rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ .Summary }}</p>
+      <div class="tags">
+        {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+      </div>
+      <a href="{{ .RelPermalink }}" class="read-more" style="margin-top:0.75rem;display:inline-block;">Lees meer →</a>
     </div>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="empty-state">
+    <p>Hier verschijnen binnenkort reviews en vergelijkingen.</p>
+    <a href="/" class="cta" style="margin-top:1rem;">Terug naar home</a>
   </div>
   {{ end }}
 </div>

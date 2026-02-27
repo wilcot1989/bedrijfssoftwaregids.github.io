@@ -1,39 +1,134 @@
 {{ define "main" }}
+
+{{/* ===== 1. HERO ===== */}}
 <div class="hero">
-  <div class="container">
-    <h1>Vind de Beste Software voor Jouw Bedrijf</h1>
-    <p>Onafhankelijke vergelijkingen en reviews van CRM, boekhoudsoftware, kassasystemen en meer. Speciaal voor Nederlandse ondernemers.</p>
-    <a href="/categories/crm/" class="cta">CRM Software</a>
-    <a href="/categories/boekhouding/" class="cta">Boekhouding</a>
-    <a href="/categories/kassasystemen/" class="cta cta-outline" style="color:white;border-color:white;">Kassasystemen</a>
-  </div>
-</div>
-<div class="container" style="padding-top:2rem;">
-  <h2>Hoe wij software testen</h2>
-  <p>We beoordelen software op gebruiksgemak, totale kosten, supportervaring en integraties die relevant zijn voor Nederlandse bedrijven. We testen tools hands-on en werken prijzen periodiek bij.</p>
-
-  <h2>Start met de belangrijkste categorieën</h2>
-  <ul>
-    <li><a href="/categories/kassasystemen/">Kassasystemen</a> — voor horeca, retail en fysieke verkooppunten.</li>
-    <li><a href="/categories/crm/">CRM software</a> — voor salesprocessen, opvolging en klantbeheer.</li>
-    <li><a href="/categories/boekhouding/">Boekhoudsoftware</a> — voor facturatie, btw en financieel overzicht.</li>
-  </ul>
-
-  <h2>Laatste Reviews & Vergelijkingen</h2>
-  {{ range first 12 (where .Site.RegularPages "Type" "posts") }}
-  {{ $pageTitle := .Title }}
-  <div class="card">
-    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
-    <div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd</div>
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    <div class="tags">
-      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+  <div class="container wide" style="display:flex;align-items:center;justify-content:space-between;gap:2rem;flex-wrap:wrap;">
+    <div style="flex:1;min-width:280px;">
+      <h1>De juiste software voor jouw bedrijf. Zonder verkooppraatjes.</h1>
+      <p>Ik test zakelijke software hands-on en vergelijk op prijs, gebruiksgemak en support. Eerlijk advies voor Nederlandse ondernemers.</p>
+      <div class="trust-strip">
+        {{ $totalArticles := len (where .Site.RegularPages "Type" "posts") }}
+        <span class="trust-item">{{ $totalArticles }}+ reviews</span>
+        <span class="trust-item">{{ len .Site.Taxonomies.categories }} categorieën</span>
+        <span class="trust-item">100% onafhankelijk</span>
+      </div>
+    </div>
+    <div style="flex-shrink:0;text-align:center;">
+      <div style="width:100px;height:100px;background:linear-gradient(135deg,#1e3a5f,#2563eb);border-radius:50%;display:flex;align-items:center;justify-content:center;color:white;font-weight:700;font-size:2.2rem;box-shadow:0 4px 16px rgba(0,0,0,0.2);">LV</div>
+      <div style="color:rgba(255,255,255,0.8);font-size:0.85rem;margin-top:0.5rem;font-weight:500;">Lars de Vries</div>
     </div>
   </div>
-  {{ end }}
-  <div style="text-align:center;margin:2rem 0;">
-    <a href="/categories/" class="cta">Bekijk alle artikelen</a>
+</div>
+
+{{/* ===== 2. CATEGORIE GRID ===== */}}
+<div class="section section-warm">
+  <div class="container wide">
+    <div class="section-title">
+      <h2>Alle categorieën</h2>
+      <p>Kies een categorie om vergelijkingen en reviews te bekijken.</p>
+    </div>
+    <div class="cat-grid">
+      {{ $catIcons := dict "kassasystemen" "🏪" "crm" "🤝" "boekhouding" "📊" "projectmanagement" "📋" "hr-software" "👥" "marketing" "📣" "productiviteit" "⚡" "webshops" "🛒" "klantenservice" "💬" }}
+      {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+        {{ $icon := index $catIcons $name }}
+        {{ if not $icon }}{{ $icon = "📁" }}{{ end }}
+        <a href="/categories/{{ $name }}/" class="cat-card">
+          <span class="cat-icon">{{ $icon }}</span>
+          <span class="cat-name">{{ $name | humanize | title }}</span>
+          <span class="cat-count">{{ len $taxonomy }} {{ if eq (len $taxonomy) 1 }}artikel{{ else }}artikelen{{ end }}</span>
+        </a>
+      {{ end }}
+    </div>
   </div>
 </div>
+
+{{/* ===== 3. POPULAIRE VERGELIJKINGEN ===== */}}
+{{ $allPosts := where .Site.RegularPages "Type" "posts" }}
+{{ $popularPosts := first 4 $allPosts }}
+{{ if $popularPosts }}
+<div class="section">
+  <div class="container wide">
+    <div class="section-title">
+      <h2>Populaire vergelijkingen</h2>
+    </div>
+    <div class="popular-grid">
+      {{ range $popularPosts }}
+      {{ $pageTitle := .Title }}
+      <div class="card">
+        {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
+        {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div class="meta">{{ .Date.Format "02-01-2006" }} · {{ .ReadingTime }} min leestijd</div>
+        <p style="color:#64748b;font-size:0.92rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}" class="read-more">Lees meer →</a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{/* ===== 4. METHODIEK ===== */}}
+<div class="section section-dark">
+  <div class="container wide">
+    <div class="section-title">
+      <h2>Hoe ik software test</h2>
+    </div>
+    <div class="method-grid">
+      <div class="method-item">
+        <span class="method-icon">🔍</span>
+        <div class="method-title">Hands-on testen</div>
+        <div class="method-desc">Ik meld me aan, configureer en gebruik elke tool zelf. Geen herverpakte marketingteksten.</div>
+      </div>
+      <div class="method-item">
+        <span class="method-icon">💰</span>
+        <div class="method-title">Actuele prijzen</div>
+        <div class="method-desc">Alle prijzen worden periodiek gecontroleerd en bijgewerkt. Inclusief verborgen kosten.</div>
+      </div>
+      <div class="method-item">
+        <span class="method-icon">🎯</span>
+        <div class="method-title">Onafhankelijk advies</div>
+        <div class="method-desc">Geen betaalde reviews of voorkeursposities. Mijn aanbevelingen zijn gebaseerd op kwaliteit.</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{/* ===== 5. ALLE ARTIKELEN ===== */}}
+{{ $remainingPosts := after 4 $allPosts }}
+{{ if $remainingPosts }}
+<div class="section section-warm">
+  <div class="container wide">
+    <div class="section-title">
+      <h2>Alle reviews & vergelijkingen</h2>
+    </div>
+    <div style="background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:0.5rem 1.25rem;">
+      {{ range $remainingPosts }}
+      <div class="article-row">
+        {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
+        <a href="{{ .RelPermalink }}" class="article-row-title">{{ .Title }}</a>
+      </div>
+      {{ end }}
+    </div>
+    <div style="text-align:center;margin-top:1.5rem;">
+      <a href="/categories/" class="cta cta-outline">Bekijk alle categorieën</a>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{/* ===== 6. AUTEUR CTA ===== */}}
+<div class="section">
+  <div class="container" style="max-width:700px;">
+    <div class="author-cta">
+      <div class="author-cta-avatar">LV</div>
+      <div class="author-cta-info">
+        <h3>Over Lars de Vries</h3>
+        <p>B2B software consultant met jarenlange ervaring. Ik help Nederlandse ondernemers de juiste software te kiezen — eerlijk, praktisch en zonder verkooppraatjes.</p>
+        <a href="/about/" class="cta" style="margin:0;padding:0.5rem 1.25rem;font-size:0.9rem;">Meer over mij</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 {{ end }}
