@@ -6,7 +6,7 @@ theme = "starter"
 [params]
   description = "Onafhankelijke vergelijkingen van kassasystemen, CRM, boekhoudsoftware en meer voor Nederlandse ondernemers."
   author = "Bedrijfssoftwaregids"
-  tagline = "De beste zakelijke software voor jouw bedrijf"
+  tagline = "Vergelijk de Beste Zakelijke Software"
 
 [markup]
   [markup.goldmark]
