@@ -1,9 +1,9 @@
 {{ define "main" }}
 
 {{/* ===== 1. HERO ===== */}}
-<div class="hero">
+<div class="hero hero-home">
   <div class="container wide">
-    <h1>De juiste software voor jouw bedrijf. Zonder verkooppraatjes.</h1>
+    <h1>Vind de beste software voor jouw bedrijf</h1>
     <p>Ik test zakelijke software hands-on en vergelijk op prijs, gebruiksgemak en support. Eerlijk advies voor Nederlandse ondernemers.</p>
     <div class="trust-strip">
       {{ $totalArticles := len (where .Site.RegularPages "Type" "posts") }}
