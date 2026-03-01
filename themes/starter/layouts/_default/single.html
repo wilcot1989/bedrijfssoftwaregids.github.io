@@ -53,7 +53,7 @@
 
     <div class="author-box">
       {{ if .Params.author }}
-      <div class="author-avatar">{{ index (split .Params.author " ") 0 | truncate 1 "" }}{{ index (split .Params.author " ") 1 | truncate 1 "" }}</div>
+      {{ $nameParts := split .Params.author " " }}<div class="author-avatar">{{ index $nameParts 0 | truncate 1 "" }}{{ index $nameParts (sub (len $nameParts) 1) | truncate 1 "" }}</div>
       <div class="author-info">
         <div class="author-name">{{ .Params.author }}</div>
         <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Software consultant en redacteur bij Bedrijfssoftwaregids.nl.{{ end }}</div>
