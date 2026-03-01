@@ -1,7 +1,7 @@
 ---
 title: "Beste Software voor Kappers & Schoonheidssalons 2026"
 date: 2026-03-04T10:00:00+01:00
-lastmod: 2026-02-26T10:00:00+01:00
+lastmod: 2026-03-04T10:00:00+01:00
 description: "Ontdek de beste software voor kappers en schoonheidssalons in 2026. Vergelijk Salonkee, Treatwell Pro, Phorest en meer op functies en prijs."
 categories: ["kassasystemen"]
 tags: ["salon software", "kapper software", "boekingssysteem", "schoonheidssalon", "online afspraken", "kassasysteem salon"]
