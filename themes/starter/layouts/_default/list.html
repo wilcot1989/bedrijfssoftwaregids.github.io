@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ $catIcons := dict "kassasystemen" "🏪" "crm" "🤝" "boekhouding" "📊" "projectmanagement" "📋" "hr-software" "👥" "marketing" "📣" "productiviteit" "⚡" "webshops" "🛒" "klantenservice" "🎧" }}
-{{ $slug := .Page.File.ContentBaseName | default (.Title | urlize) }}
+{{ $slug := .Title | urlize }}
+{{ with .Data.Term }}{{ $slug = . }}{{ end }}
 {{ $icon := index $catIcons $slug }}
 <div class="hero" style="padding:3rem 0;">
   <div class="container wide">
