@@ -1,6 +1,18 @@
 {{ define "main" }}
-<div class="container wide" style="padding-top:1rem;">
-  <h1>{{ .Title }}</h1>
+{{ $catIcons := dict "kassasystemen" "🏪" "crm" "🤝" "boekhouding" "📊" "projectmanagement" "📋" "hr-software" "👥" "marketing" "📣" "productiviteit" "⚡" "webshops" "🛒" "klantenservice" "🎧" }}
+{{ $slug := .Page.File.ContentBaseName | default (.Title | urlize) }}
+{{ $icon := index $catIcons $slug }}
+<div class="hero" style="padding:3rem 0;">
+  <div class="container wide">
+    {{ with $icon }}<span style="font-size:3rem;display:block;margin-bottom:0.75rem;">{{ . }}</span>{{ end }}
+    <h1 style="color:white;margin-bottom:0.5rem;">{{ .Title }}</h1>
+    {{ with .Description }}<p style="opacity:0.85;max-width:600px;margin:0 auto;">{{ . }}</p>{{ end }}
+    <div class="breadcrumb breadcrumb-light" style="margin-top:1rem;">
+      <a href="/">Home</a> &rsaquo; {{ .Title }}
+    </div>
+  </div>
+</div>
+<div class="container wide" style="padding-top:1.5rem;">
   {{ .Content }}
   {{ if .Pages }}
   <div class="card-grid" style="margin-top:1.5rem;">
