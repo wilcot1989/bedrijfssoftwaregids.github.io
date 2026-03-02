@@ -23,14 +23,14 @@ faq:
     a: "Ja, maar het is bewerkelijk. Je moet producten, klantdata, bestelgeschiedenis en SEO-instellingen migreren. Tools als Cart2Cart en LitExtension automatiseren een deel van het proces. Mijn advies: kies vanaf het begin een platform dat meegroeit, zodat je niet binnen twee jaar moet overstappen."
 ---
 
-De juiste webshop software kiezen is meer dan een platform kiezen. Het gaat om een compleet ecosysteem: hoe ontvang je betalingen, hoe verstuur je pakketten, hoe houd je voorraad bij, en hoe trek je klanten? Ik heb in de afgelopen jaren tientallen webshop-eigenaren geholpen met precies deze puzzel. Het patroon dat ik steeds terugzie: ondernemers die weken besteden aan het kiezen van een platform, maar vergeten dat de betaalprovider, verzendtool en marketingsoftware net zo bepalend zijn voor hun succes.
+Welke webshop starten software heb je nodig? Meer dan alleen een platform. Het gaat om een compleet ecosysteem: hoe ontvang je betalingen, hoe verstuur je pakketten, hoe houd je voorraad bij, en hoe trek je klanten? Ik heb in de afgelopen jaren tientallen webshop-eigenaren geholpen met precies deze puzzel. Het patroon dat ik steeds terugzie: ondernemers die weken besteden aan het kiezen van een platform, maar vergeten dat de betaalprovider, verzendtool en marketingsoftware net zo bepalend zijn voor hun succes.
 
-In dit artikel behandel ik alle software die je nodig hebt om een webshop succesvol te runnen in 2026. Niet alleen de 6 beste e-commerce platforms, maar ook de betaalproviders, verzendtools, voorraadbeheer-software en marketingoplossingen die het verschil maken.
+In dit artikel behandel ik alle software voor je webshop die je nodig hebt om succesvol te verkopen in 2026. Niet alleen de 6 beste e-commerce platforms, maar ook de betaalproviders, verzendtools, voorraadbeheer-software en marketingoplossingen die het verschil maken.
 
 Zoek je puur een platformvergelijking? Lees dan mijn [uitgebreide webshop software vergelijking](/posts/beste-webshop-software-2026/). Wil je weten welke betaalprovider bij jou past? Bekijk de [Mollie review](/posts/mollie-review-2026/) of de [Mollie vs MultiSafepay vergelijking](/posts/mollie-vs-multisafepay-2026/).
 
 
-## Waar let je op bij het kiezen van webshop software?
+## Webshop starten: waar let je op bij het kiezen van software?
 
 Voordat ik de specifieke tools bespreek, wil ik vijf criteria benoemen die ik bij elke klant als eerste doorloop. Dit zijn de vragen die bepalen welke softwarestack je nodig hebt.
 
@@ -55,9 +55,9 @@ Eerlijk: WooCommerce is krachtiger dan Shopify, maar als je geen HTML van CSS ku
 Niet alleen de maandprijs van het platform, maar het totaalplaatje: platform + betaalprovider + verzending + marketing + eventueel voorraadbeheer. Ik zie ondernemers die kiezen voor het goedkoopste platform maar vervolgens honderden euro's per maand kwijt zijn aan plugins en apps.
 
 
-## De 6 beste e-commerce platforms van 2026
+## De 6 beste e-commerce platforms (kort overzicht)
 
-Hieronder vergelijk ik de 6 platforms die ik het vaakst aanbeveel aan Nederlandse webshop-eigenaren. Elk platform beoordeel ik op gebruiksgemak, prijs-kwaliteit, schaalbaarheid en geschiktheid voor de Nederlandse markt.
+Hieronder vat ik de 6 platforms samen die ik het vaakst aanbeveel. Per platform focus ik op de **stack-integratie**: hoe goed past het samen met je betaalprovider, verzendtool, boekhouding en marketing? Voor de volledige platformvergelijking met alle functies, lees mijn [webshop software vergelijking](/posts/beste-webshop-software-2026/).
 
 ### Vergelijkingstabel
 
@@ -75,7 +75,7 @@ Hieronder vergelijk ik de 6 platforms die ik het vaakst aanbeveel aan Nederlands
 <tbody>
 <tr>
 <td><strong>Shopify</strong></td>
-<td>&euro;27/mnd (Basic)</td>
+<td>&euro;36/mnd (Basic)</td>
 <td>Via Mollie / Shopify Payments</td>
 <td>Onbeperkt</td>
 <td>Via app</td>
@@ -83,15 +83,15 @@ Hieronder vergelijk ik de 6 platforms die ik het vaakst aanbeveel aan Nederlands
 </tr>
 <tr>
 <td><strong>Mijnwebwinkel (Acendy)</strong></td>
-<td>&euro;20/mnd (Grow)</td>
+<td>&euro;17/mnd (Start)</td>
 <td>Standaard</td>
-<td>500</td>
+<td>50</td>
 <td>Ja</td>
 <td>Nederlandse starters</td>
 </tr>
 <tr>
 <td><strong>Lightspeed eCom</strong></td>
-<td>&euro;49/mnd (Essential)</td>
+<td>&euro;59/mnd (Basic)</td>
 <td>Standaard</td>
 <td>250</td>
 <td>Ja</td>
@@ -107,9 +107,9 @@ Hieronder vergelijk ik de 6 platforms die ik het vaakst aanbeveel aan Nederlands
 </tr>
 <tr>
 <td><strong>CCV Shop</strong></td>
-<td>&euro;30/mnd (Basic)</td>
+<td>&euro;12,50/mnd (Smart)</td>
 <td>Standaard</td>
-<td>Onbeperkt</td>
+<td>100</td>
 <td>Ja</td>
 <td>Nederlands MKB</td>
 </tr>
@@ -125,67 +125,23 @@ Hieronder vergelijk ik de 6 platforms die ik het vaakst aanbeveel aan Nederlands
 </table>
 
 
+Hieronder vat ik de 6 platforms samen op basis van hoe goed ze passen in een complete webshop-stack. Voor uitgebreide per-platform reviews met alle functies en prijzen, lees mijn [webshop software vergelijking](/posts/beste-webshop-software-2026/).
+
 ### 1. Shopify -- Beste allrounder voor groei
 
-Shopify is het platform dat ik het vaakst aanbeveel, en dat heeft een reden: het werkt gewoon. Je kunt binnen een middag een professionele webshop live hebben, zonder ook maar een regel code te schrijven. De App Store lost elk probleem op dat je tegenkomt -- van verlaten winkelwagen e-mails tot bol.com-koppelingen. Het nadeel is dat die apps optellen: ik heb klanten gezien die €200 per maand aan apps kwijt waren bovenop hun abonnement.
+Shopify werkt gewoon. Je kunt binnen een middag live zijn zonder een regel code. De App Store lost elk probleem op -- van verlaten-winkelwagen mails tot bol.com-koppelingen. Maar die apps tellen op: ik heb klanten gezien die €200/maand aan apps kwijt waren bovenop hun abonnement. Sinds 2024 ondersteunt Shopify Payments iDEAL, maar ik raad Mollie vaak alsnog aan vanwege bredere betaalmethoden. Prijs: vanaf €36/maand (Basic).
 
-Sinds 2024 ondersteunt Shopify Payments iDEAL in Nederland, waardoor je niet per se Mollie nodig hebt (al raad ik Mollie vaak alsnog aan vanwege de bredere betaalmethoden).
+**Stack-integratie:** Mollie en MultiSafepay plug-and-play. Sendcloud en MyParcel direct gekoppeld. Klaviyo als standaard e-mail tool. Boekhoudkoppelingen met Moneybird en Exact via apps. Bol.com-sync via ChanableApp. De totale stack (Shopify + Mollie + Sendcloud + Klaviyo + Moneybird) kost circa €130-200/maand.
 
-**Prijzen (april 2026):**
-
-- **Basic:** €27/maand -- voor starters, 2 medewerkeraccounts
-- **Shopify (Grow):** €79/maand -- voor groeiende webshops, 5 accounts, betere rapportages
-- **Advanced:** €289/maand -- voor hoge volumes, 15 accounts, geavanceerde analytics
-- **Plus:** vanaf €2.300/maand -- enterprise, dedicated support
-
-**Voordelen:**
-- Zeer gebruiksvriendelijk, geen technische kennis nodig
-- Meer dan 8.000 apps in de App Store
-- Hosting, SSL en beveiliging volledig inbegrepen
-- Multichannel: Instagram, TikTok, Facebook en bol.com via apps
-- Sterke mobiele app voor orderbeheer onderweg
-- Schaalbaar van 1 tot 100.000+ producten
-
-**Nadelen:**
-- Transactiekosten van 0,5-2% bij externe betaalproviders
-- Maandkosten lopen snel op door betaalde apps
-- Nederlandse klantenservice niet altijd direct bereikbaar
-- Beperkt aanpasbaar zonder Liquid-kennis (Shopify's templating taal)
-
-[Probeer Shopify 3 dagen gratis](https://www.shopify.com/nl)
+[Probeer Shopify gratis](https://www.shopify.com/nl)
 
 ---
 
-### 2. Mijnwebwinkel (Acendy) -- Beste Nederlandse starter-platform
+### 2. Mijnwebwinkel (Acendy) -- Beste Nederlandse starter
 
-Mijnwebwinkel is een naam die ik al jaren ken in de Nederlandse e-commerce. Eind 2025 is het platform opgegaan in Acendy, een samenwerking met het Noorse Mystore onder Visma. De overstap levert een moderner platform op met betere design-mogelijkheden. Bestaande Mijnwebwinkel-klanten worden gefaseerd gemigreerd in 2026.
+Gebouwd voor de Nederlandse markt: iDEAL, PostNL, bol.com en btw-regels zitten er standaard in. Geen plugins nodig voor basisfunctionaliteit. Eind 2025 opgegaan in Acendy (Visma). Persoonlijke support in het Nederlands, door mensen die je terugbellen. Prijs: vanaf €17/maand (Start), Acendy vanaf €40/maand.
 
-Wat mij aanspreekt aan Mijnwebwinkel/Acendy: het is gebouwd voor de Nederlandse markt. iDEAL, PostNL, bol.com, Nederlandse btw-regels -- het zit er allemaal standaard in. Je hoeft geen plugins te installeren voor basisfunctionaliteit die je in Nederland nodig hebt. De persoonlijke support (in het Nederlands, door mensen die je terugbellen) is iets wat je bij Shopify niet krijgt.
-
-**Prijzen (april 2026):**
-
-- **Grow:** €20/maand -- 500 producten, basis SEO-tools
-- **Pro:** €40/maand -- 5.000 producten, geavanceerde functies, B2B-opties
-- **Premium:** €70/maand -- onbeperkt producten, prioriteit support
-
-Bij Acendy (de nieuwe versie):
-- **Startup:** €40/maand
-- **Business:** €80/maand -- inclusief bulkacties, digitale producten, B2B-verkoop
-
-**Voordelen:**
-- 100% ingericht op de Nederlandse markt
-- iDEAL, PostNL en bol.com standaard gekoppeld
-- Persoonlijke Nederlandstalige telefonische support
-- Snelle setup: binnen een dag live
-- Geen transactiekosten van het platform
-- Gemiddelde klantwaardering 8,6 uit meer dan 5 miljoen transacties per jaar
-
-**Nadelen:**
-- Overgang naar Acendy kan verwarrend zijn voor bestaande klanten
-- Kleiner app-ecosysteem dan Shopify
-- Minder geschikt voor internationale verkoop
-- Productlimieten op lagere abonnementen
-- Minder design-vrijheid dan WooCommerce (al verbetert Acendy dit)
+**Stack-integratie:** iDEAL en PostNL out-of-the-box -- je hebt geen aparte Mollie-account nodig. Bol.com-koppeling standaard. Directe koppelingen met Moneybird, e-Boekhouden en Exact Online. Beperktere app-keuze voor marketing -- Klaviyo werkt niet native, Brevo wel. De goedkoopste complete stack: circa €50-70/maand.
 
 [Bekijk Mijnwebwinkel](https://www.mijnwebwinkel.nl/)
 
@@ -193,33 +149,9 @@ Bij Acendy (de nieuwe versie):
 
 ### 3. Lightspeed eCom -- Beste voor online + fysieke winkel
 
-Lightspeed eCom is mijn aanbeveling zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." Of andersom: een webshop die ook een fysiek verkooppunt opent. De kracht van Lightspeed zit in de naadloze koppeling tussen kassa (POS) en webshop. Je voorraad synchroniseert real-time -- verkoop je iets in de winkel, dan past de webshopvoorraad zich direct aan.
+De keuze zodra je online én offline verkoopt. Je voorraad synchroniseert real-time -- verkoop je iets in de winkel, dan past de webshop zich direct aan. Duurder als instap, maar je bespaart een berg gedoe met losse koppelingen. Capterra: 4,0/5 (100+ reviews). Prijs: vanaf €59/maand (Basic). Meer details in de [Lightspeed kassa review](/posts/lightspeed-kassa-review-2026/).
 
-De instapprijs is hoger dan bij Shopify of CCV Shop, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen en dubbel voorraadbeheer. Op Capterra scoort Lightspeed eCom een 4,0/5 op basis van meer dan 100 reviews.
-
-Bekijk ook de [Lightspeed kassa review](/posts/lightspeed-kassa-review-2026/) en de [Lightspeed vs Square vergelijking](/posts/lightspeed-vs-square-2026/).
-
-**Prijzen (april 2026):**
-
-- **Essential:** €49/maand -- 250 producten, basis webshop
-- **Advanced:** €89/maand -- 5.000 producten, productfilters, retourmanagement
-- **Professional:** €189/maand -- onbeperkt producten, geavanceerde B2B, multi-shop
-- POS-licentie apart beschikbaar
-
-**Voordelen:**
-- Naadloze omnichannel-ervaring (online + offline in een systeem)
-- Sterk in de Nederlandse en Europese markt
-- iDEAL en Bancontact standaard ingebouwd
-- Directe bol.com en Amazon-koppeling
-- Nederlandstalige support met lokaal team
-- Uitgebreide rapportages over online en offline verkoop
-
-**Nadelen:**
-- Hogere instapprijs dan concurrenten
-- App-aanbod kleiner dan Shopify
-- Interface kan overweldigend zijn voor beginners
-- Productlimiet van 250 op het goedkoopste plan
-- Sommige functies (B2B, multi-shop) alleen in het duurste plan
+**Stack-integratie:** iDEAL en Bancontact standaard ingebouwd. Directe bol.com en Amazon-koppeling. Eigen POS-systeem (centrale voorraad). Sterke Exact Online-integratie. De totale omnichannel-stack (eCom + POS + Mollie + Sendcloud + Exact) kost circa €250-400/maand -- maar je vervangt twee losse systemen.
 
 [Bekijk Lightspeed eCom](https://www.lightspeedhq.nl/)
 
@@ -227,67 +159,19 @@ Bekijk ook de [Lightspeed kassa review](/posts/lightspeed-kassa-review-2026/) en
 
 ### 4. WooCommerce -- Beste voor volledige controle
 
-WooCommerce is de optie die ik adviseer aan klanten die zeggen: "Ik wil alles zelf in de hand hebben." Het is een gratis WordPress-plugin waarmee je je WordPress-site omtovert tot een volwaardige webshop. De flexibiliteit is ongeevenaerd -- van productpagina tot checkout, je kunt letterlijk alles aanpassen. Maar die vrijheid heeft een prijs: je bent zelf verantwoordelijk voor hosting, updates en beveiliging.
+WooCommerce is voor wie alles zelf in de hand wil hebben. Gratis WordPress-plugin, letterlijk alles aanpasbaar, maar je bent zelf verantwoordelijk voor hosting, updates en beveiliging. Wereldwijd het meestgebruikte e-commerce platform (5M+ installaties). Ideaal als je al een WordPress-site hebt of een developer in huis. Prijs: gratis (+ hosting €8-25/maand).
 
-WooCommerce is wereldwijd het meestgebruikte e-commerce platform (meer dan 5 miljoen actieve installaties). In Nederland zie ik het vooral bij webshops die al een WordPress-site hebben, bij developers die maatwerk willen, en bij ondernemers die principieel niet afhankelijk willen zijn van een SaaS-aanbieder.
-
-**Kosten (april 2026):**
-
-- **WooCommerce plugin:** gratis
-- **Hosting:** €8-25/maand (Cloud86, Mijn.host of Hypernode voor snelheid)
-- **Domeinnaam:** €10-15/jaar
-- **Premium thema:** eenmalig €50-100
-- **Essentiële plugins:** €0-50/maand (Mollie voor betalingen, Sendcloud voor verzending)
-- **Geschatte totaalkosten:** €15-75/maand
-
-**Voordelen:**
-- Geen maandelijkse platformkosten (open source)
-- Maximale flexibiliteit en maatwerk
-- Duizenden plugins en thema's beschikbaar
-- Volledige controle over je data, hosting en design
-- Sterke SEO via WordPress en Yoast SEO
-- Geen transactiekosten van het platform
-- Grootste community en meeste documentatie
-
-**Nadelen:**
-- Technische kennis vereist voor installatie en onderhoud
-- Beveiliging en updates zijn je eigen verantwoordelijkheid
-- Performance afhankelijk van hostingkwaliteit
-- Kan complex en instabiel worden met veel plugins
-- Geen telefonische support (je bent aangewezen op community en hosting-support)
+**Stack-integratie:** Mollie via plugin (5 min setup). Sendcloud en MyParcel hebben gratis WooCommerce-plugins. Yoast SEO standaard. Moneybird-koppeling via WooCommerce-plugin. Het voordeel: geen transactiekosten van het platform. Het nadeel: elke integratie is een plugin -- hoe meer plugins, hoe trager en instabieler. Totale stack: €15-75/maand.
 
 [Start met WooCommerce](https://woocommerce.com/)
 
 ---
 
-### 5. CCV Shop -- Beste puur Nederlandse oplossing
+### 5. CCV Shop -- Beste als alles gewoon moet werken
 
-CCV Shop is wat ik aanbeveel aan ondernemers die zeggen: "Ik verkoop in Nederland en Belgie, en ik wil dat alles gewoon werkt." iDEAL, bol.com-koppeling, PostNL-integratie, koppeling met Exact Online -- het zit er standaard in. Geen plugins installeren, geen gedoe met configuraties. CCV Shop is een totaalpakket inclusief hosting, updates en Nederlandse support.
+iDEAL, bol.com, PostNL, Exact Online-koppeling -- het zit er standaard in, zonder plugins of configuratie. CCV Shop is een totaalpakket inclusief hosting, updates en Nederlandse telefonische support. Trustpilot: 3,9/5. Minder internationaal dan Shopify, maar voor de Nederlandse markt hoef je niets extra's te installeren. Prijs: vanaf €12,50/maand (Smart, 100 producten).
 
-Op Trustpilot scoort CCV Shop een 3,9/5. De positieve reviews gaan over het gebruiksgemak en de Nederlandse aanpak. De kritische reviews noemen de beperktere design-mogelijkheden vergeleken met Shopify.
-
-**Prijzen (april 2026, excl. btw):**
-
-- **Basic:** €30/maand -- onbeperkt producten, standaard thema's
-- **Professional:** €59/maand -- inclusief groothandelskoppeling, meertalig
-- **Enterprise:** €129/maand -- custom design, dedicated support
-- Eenmalige setupkosten: €30 (bij jaarcontract)
-- Geen transactiekosten
-
-**Voordelen:**
-- 100% Nederlands platform met telefonische support
-- iDEAL, bol.com, PostNL en boekhoudkoppelingen standaard
-- Geen transactiekosten
-- Onbeperkt producten op alle plannen
-- Totaalpakket: hosting, updates en SSL inbegrepen
-- B2B-webshop functionaliteit ingebouwd
-
-**Nadelen:**
-- Minder geschikt voor internationale verkoop
-- Kleiner thema- en app-aanbod dan Shopify
-- Design-mogelijkheden beperkter
-- Interface voelt minder modern aan dan concurrenten
-- Jaarcontract bij alle betaalde plannen
+**Stack-integratie:** De meest complete out-of-the-box stack. iDEAL en Bancontact native. PostNL en DHL standaard. Directe boekhoudkoppelingen (Exact, Moneybird, e-Boekhouden). Bol.com en Marktplaats-koppeling. Geen transactiekosten. De totale stack is effectief gewoon CCV Shop + Mollie als backup + eventueel Brevo voor e-mail: circa €30-60/maand.
 
 [Probeer CCV Shop 21 dagen gratis](https://www.ccvshop.nl/)
 
@@ -295,31 +179,9 @@ Op Trustpilot scoort CCV Shop een 3,9/5. De positieve reviews gaan over het gebr
 
 ### 6. Shopware -- Beste voor middelgroot tot enterprise
 
-Shopware is het platform dat ik noem zodra een webshop het punt bereikt waar Shopify of CCV Shop gaat knellen. Denk aan complexe productconfiguraties, B2B en B2C gecombineerd, meerdere storefronts vanuit een backend, of een webshop met meer dan 50.000 producten. Shopware is Duits, open source in de basis, en heeft een sterke positie in de Benelux en DACH-regio.
+Shopware is waar je naartoe groeit als Shopify of CCV Shop gaat knellen. Complexe productconfiguraties, B2B en B2C gecombineerd, meerdere storefronts, 50.000+ producten. Duits, open source in de basis, sterke positie in de Benelux. De Community Edition is gratis, maar serieus gebruik vereist Rise (€600/maand). Geen startersplatform.
 
-De Community Edition is gratis en volledig bruikbaar. Maar eerlijk: voor serieus zakelijk gebruik heb je Rise of hoger nodig, en dan zit je snel in een ander prijssegment. Het is geen startersplatform -- het is waar je naartoe groeit.
-
-**Prijzen (april 2026):**
-
-- **Community Edition:** gratis (open source, MIT-licentie)
-- **Rise:** vanaf €600/maand -- voor professionele webshops
-- **Evolve:** vanaf €2.400/maand -- enterprise, GMV-gebaseerde prijsstelling
-- **Beyond:** vanaf €6.500/maand -- high-end enterprise met dedicated support
-
-**Voordelen:**
-- Gratis Community Edition voor starters en developers
-- Extreem schaalbaar en flexibel
-- Sterke B2B-functionaliteit
-- Headless commerce (API-first architectuur)
-- Actieve community en marktplaats met extensies
-- Sterk in de Europese markt (DACH, Benelux)
-
-**Nadelen:**
-- Betaalde edities zijn prijzig (vanaf €600/maand)
-- Technische kennis of een Shopware-partner vereist
-- Niet geschikt als startersplatform
-- Kleinere community dan WooCommerce of Shopify
-- Implementatiekosten kunnen hoog oplopen (€10.000-€50.000+)
+**Stack-integratie:** API-first (headless commerce) -- je kunt elke tool via API koppelen. Mollie en MultiSafepay via extensies. Sterke ERP-koppelingen (Exact, SAP). De implementatiekosten zijn hoog (€10.000-50.000+), maar je krijgt een stack die volledig op maat werkt. Totale stack: €600-3.000+/maand (inclusief hosting en extensies).
 
 [Bekijk Shopware](https://www.shopware.com/nl/)
 
@@ -488,45 +350,63 @@ Je webshop genereert facturen, btw-aangiftes en financiele overzichten. Een goed
 Lees ook: [Beste boekhoudsoftware voor zzp 2026](/posts/beste-boekhoudsoftware-zzp-2026/) en de [Moneybird vs e-Boekhouden vergelijking](/posts/moneybird-vs-e-boekhouden-2026/).
 
 
-## Voor wie welk platform? Mijn aanbevelingen
+## Complete softwarestack per situatie
 
-Na het bespreken van alle tools, hier mijn concrete aanbevelingen op basis van de meest voorkomende situaties die ik tegenkom.
+Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet alleen welk platform, maar welke complete set tools je nodig hebt.
 
 ### Startende webshop (minder dan 100 producten, beperkt budget)
 
-**Aanbeveling: Mijnwebwinkel (Acendy) of CCV Shop**
-
-Beide platforms zijn gebouwd voor de Nederlandse markt, hebben iDEAL standaard, en je bent binnen een dag live. Koppel Mollie als betaalprovider, gebruik MyParcel voor verzending, en je draait voor minder dan 50 euro per maand.
+| Component | Tool | Kosten |
+|---|---|---|
+| Platform | CCV Shop Smart of Mijnwebwinkel Start | €12,50-17/mnd |
+| Betalingen | Ingebouwd (iDEAL standaard) | Transactiekosten |
+| Verzending | MyParcel (gratis) | Alleen verzendkosten |
+| E-mail | Brevo gratis plan | €0 |
+| Boekhouding | Moneybird Basis | €16,50/mnd |
+| **Totaal** | | **~€30-50/mnd** |
 
 ### Groeiende webshop (100-5.000 producten, ambitie)
 
-**Aanbeveling: Shopify**
-
-Shopify groeit met je mee. De App Store lost elk probleem op dat je onderweg tegenkomt. Combineer met Mollie voor betalingen, Sendcloud voor verzending, en Klaviyo voor e-mail marketing. Budget: circa 100-200 euro per maand voor de complete stack.
+| Component | Tool | Kosten |
+|---|---|---|
+| Platform | Shopify (€105/mnd) | €105/mnd |
+| Betalingen | Mollie | Transactiekosten |
+| Verzending | Sendcloud Lite | €29/mnd |
+| E-mail | Klaviyo | €30/mnd |
+| Boekhouding | Exact Online | €45/mnd |
+| **Totaal** | | **~€210/mnd** |
 
 ### Online + fysieke winkel (omnichannel)
 
-**Aanbeveling: Lightspeed eCom + POS**
-
-De naadloze koppeling tussen kassa en webshop is waar Lightspeed onverslaanbaar is. Je voorraad synchroniseert real-time, je hebt een klantendatabase over online en offline, en je rapportages combineren beide kanalen. Duurder, maar de tijdsbesparing verdient zich terug.
+| Component | Tool | Kosten |
+|---|---|---|
+| Platform + POS | Lightspeed eCom + POS | €89-189/mnd |
+| Betalingen | Lightspeed Payments / Mollie | Transactiekosten |
+| Verzending | Sendcloud Growth | €89/mnd |
+| E-mail | Klaviyo | €30/mnd |
+| Boekhouding | Exact Online | €45/mnd |
+| **Totaal** | | **~€250-400/mnd** |
 
 ### Techneut of developer (maximale controle)
 
-**Aanbeveling: WooCommerce**
-
-Volledige controle over elke pixel en functie. Investeer in goede hosting (Cloud86 of Hypernode), installeer Mollie voor betalingen en Yoast SEO voor zoekoptimalisatie. Budget: €15-75 per maand, afhankelijk van je plugin-keuzes.
-
-### Grote of complexe webshop (5.000+ producten, B2B, internationaal)
-
-**Aanbeveling: Shopware of Shopify Plus**
-
-Bij deze schaal heb je een platform nodig dat complexe productconfiguraties, meerdere storefronts en B2B-functionaliteit aankan. Shopware Community Edition is gratis om mee te starten; Shopify Plus biedt een managed oplossing. Beide vereisen een hoger budget en vaak een implementatiepartner.
+| Component | Tool | Kosten |
+|---|---|---|
+| Platform | WooCommerce + hosting (Cloud86/Hypernode) | €8-25/mnd |
+| Betalingen | Mollie (gratis plugin) | Transactiekosten |
+| Verzending | MyParcel (gratis plugin) | Alleen verzendkosten |
+| SEO | Yoast SEO | Gratis / €99/jaar |
+| Boekhouding | Moneybird (WooCommerce-plugin) | €16,50/mnd |
+| **Totaal** | | **~€25-50/mnd** |
 
 ### Alleen Nederland, alles moet gewoon werken
 
-**Aanbeveling: CCV Shop**
-
-Geen poespas. iDEAL, bol.com, PostNL, Exact Online-koppeling -- het werkt allemaal out-of-the-box. Je betaalt 30 euro per maand en je hoeft je niet bezig te houden met plugins, integraties of technische configuratie.
+| Component | Tool | Kosten |
+|---|---|---|
+| Platform | CCV Shop Level | €32,50/mnd |
+| Betalingen | Ingebouwd | Transactiekosten |
+| Verzending | Ingebouwd (PostNL/DHL) | Alleen verzendkosten |
+| Boekhouding | Exact Online (directe koppeling) | €45/mnd |
+| **Totaal** | | **~€80/mnd** |
 
 
 ## Compleet software-overzicht per budget
@@ -545,8 +425,8 @@ Dit is het totaaloverzicht dat ik aan klanten geef als ze vragen: "Wat kost het 
 <tbody>
 <tr>
 <td><strong>Platform</strong></td>
-<td>CCV Shop Basic (€30/mnd)</td>
-<td>Shopify Grow (€79/mnd)</td>
+<td>CCV Shop Smart (€12,50/mnd)</td>
+<td>Shopify (€105/mnd)</td>
 <td>Lightspeed Professional (€189/mnd)</td>
 </tr>
 <tr>

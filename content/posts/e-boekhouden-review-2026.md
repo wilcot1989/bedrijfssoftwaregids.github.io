@@ -27,7 +27,7 @@ faq:
     a: "Ja, als je KvK-inschrijving minder dan 15 maanden oud is, kun je e-Boekhouden tot 15 maanden gratis gebruiken. Dit is het meest genereuze startersaanbod in de Nederlandse boekhoudmarkt. Na afloop betaal je het reguliere tarief vanaf €9,95 per maand."
 ---
 
-Vorige maand hielp ik een interieurstylist die al twee jaar met Excel haar boekhouding deed. Geen bankkoppeling, geen automatische BTW-aangifte, elk kwartaal paniek. Ik zette haar op e-Boekhouden en na een uurtje had ze haar administratie staan. Haar reactie: "Waarom heb ik dit niet eerder gedaan?" Dat vat mijn e-Boekhouden review vrij goed samen: niet het mooiste pakket, wel een van de degelijkste.
+Mijn e-Boekhouden review in het kort: niet het mooiste pakket, wel een van de degelijkste. Vorige maand hielp ik een interieurstylist die al twee jaar met Excel haar boekhouding deed. Geen bankkoppeling, geen automatische BTW-aangifte, elk kwartaal paniek. Ik zette haar op e-Boekhouden en na een uurtje had ze haar administratie staan. Haar reactie: "Waarom heb ik dit niet eerder gedaan?"
 
 In deze e-Boekhouden review deel ik mijn ervaringen na drie maanden testen. Ik loop de interface, facturatie, BTW-aangifte, bankkoppeling, rapportages en support stuk voor stuk langs — eerlijk, met prijzen en echte Trustpilot-scores.
 

@@ -27,7 +27,7 @@ faq:
     a: "De drie grootste nadelen zijn de prijssprong van Starter naar Professional (van 15 naar 90 euro per gebruiker per maand), de beperkte rapportages op lagere plannen, en de verplichte onboarding bij Professional-plannen. Daarnaast klagen gebruikers op Trustpilot over moeilijk opzegbare contracten."
 ---
 
-Ik heb HubSpot CRM nu bij meer dan dertig Nederlandse MKB-bedrijven geimplementeerd -- van een driekoppig salesteam bij een Utrechts marketingbureau tot een scale-up met vijftig medewerkers in Amsterdam. Mijn conclusie na al die trajecten? HubSpot is een fantastisch platform als je het goed inzet. Maar het is ook het CRM waar ik de meeste teleurgestelde ondernemers tegenkom. Niet omdat het product slecht is, maar omdat bedrijven starten met het gratis plan, verliefd worden op de interface, en vervolgens schrikken van de kosten zodra ze echt willen opschalen.
+Dit is mijn eerlijke HubSpot CRM review, gebaseerd op meer dan dertig implementaties bij Nederlandse MKB-bedrijven -- van een driekoppig salesteam bij een Utrechts marketingbureau tot een scale-up met vijftig medewerkers in Amsterdam. Mijn conclusie na al die trajecten? HubSpot is een fantastisch platform als je het goed inzet. Maar het is ook het CRM waar ik de meeste teleurgestelde ondernemers tegenkom. Niet omdat het product slecht is, maar omdat bedrijven starten met het gratis plan, verliefd worden op de interface, en vervolgens schrikken van de kosten zodra ze echt willen opschalen.
 
 In deze HubSpot CRM review deel ik precies wat je kunt verwachten: de sterke kanten, de valkuilen, de actuele prijzen en of HubSpot bij jouw situatie past.
 

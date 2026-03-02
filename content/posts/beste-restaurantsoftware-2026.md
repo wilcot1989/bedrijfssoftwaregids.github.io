@@ -160,27 +160,29 @@ Wil je dieper duiken in wat Lightspeed kan? Lees mijn [uitgebreide Lightspeed ka
 
 #### Prijzen (2026)
 
-- **Essential**: €59/maand per kassa
-- **Plus**: €109/maand per kassa
-- **Pro**: €189/maand per kassa
+- **Essential** (€59/mnd): kassa + tafelmanagement -- géén voorraadbeheer of KDS
+- **Plus** (€109/mnd): + voorraadbeheer met recepturen en food cost berekening
+- **Pro** (€189/mnd): + KDS, multi-locatie, geavanceerde rapportages
 - Extra kassa: vanaf €39/maand
-- Hardware startpakket (iPad, printer, kassalade): vanaf €399
-- Lightspeed Payments: transactiekosten vanaf 0,6% + €0,05
+- Hardware: iPad + printer + kassalade vanaf €399
+- Lightspeed Payments: 0,6% + €0,05 per transactie
 
-#### Voordelen
+**Let op:** voor de operationele functies uit dit artikel (voorraadbeheer, KDS, food cost) heb je minimaal het Plus-pakket nodig.
 
-- Meest complete restaurantfuncties in een gebruiksvriendelijk pakket
-- QR-bestellen, KDS en voorraadbeheer standaard beschikbaar
-- Sterke integraties met reserveringsplatforms en bezorgdiensten
-- Goede Nederlandse klantenservice
-- Regelmatige updates -- het product wordt steeds beter
+#### Voordelen (operations)
 
-#### Nadelen
+- Voorraadbeheer met recepturen: ingrediënten worden automatisch afgeboekt per verkocht gerecht
+- Food cost berekening per gerecht -- je ziet je marge in real-time
+- KDS met ganggestuurde timers en kleurcodering (geen papierberg in de keuken)
+- Breedste reserveringskoppelingen in deze vergelijking (Formitable, TheFork, Couverts)
+- Bezorgorders van Thuisbezorgd/Uber Eats landen automatisch in je keukenflow
 
-- Hoger geprijsd dan budget-alternatieven
-- iPad-hardware is een extra investering
-- Uitgebreide functies (voorraadbeheer, KDS) zitten in de duurdere plannen
-- Vereist stabiele internetverbinding (offline modus is beperkt)
+#### Nadelen (operations)
+
+- Voorraadbeheer en KDS pas vanaf het Plus-pakket (€109/mnd) -- Essential is alleen een kassa
+- Recepturen invoeren kost tijd: reken op 2-3 dagen setup voor een volledig menu
+- Reserveringen lopen via externe koppelingen, niet ingebouwd -- je betaalt dus dubbel
+- Geen inkoopmodule: je kunt niet vanuit Lightspeed bij leveranciers bestellen
 
 [Bekijk Lightspeed Restaurant](https://www.lightspeedhq.nl/)
 
@@ -209,29 +211,27 @@ Ben je benieuwd hoe Untill zich verhoudt tot Lightspeed? Ik schreef er een [dire
 
 #### Prijzen (2026)
 
-- **Basis**: vanaf €79/maand
-- **Professioneel**: vanaf €129/maand
-- **Enterprise**: op aanvraag (maatwerk offerte)
-- Hardware: variabel, afhankelijk van configuratie
-- Installatie en training: vaak inbegrepen bij offerte
-- Untill Air (light-versie voor kleine zaken): lagere instapprijs
+- **Basis** (vanaf €79/mnd): kassa + tafelmanagement + basisvoorraad
+- **Professioneel** (vanaf €129/mnd): + inkoopmodule, geavanceerd voorraadbeheer, personeelskostenanalyse
+- **Enterprise**: maatwerk voor multi-locatie met centraal voorraadbeheer
+- Hardware variabel (offerte) -- installatie en training vaak inbegrepen
+- Untill Air: light-versie voor kleinere zaken
 
-#### Voordelen
+#### Voordelen (operations)
 
-- Uiterst robuust en betrouwbaar, ook bij hoge drukte
-- Beste offline modus in deze vergelijking
-- Speciaal gebouwd voor de Nederlandse horeca
-- Uitgebreide functies voor grote zaken met meerdere kassa's
-- Persoonlijke installatie en lokale support op locatie
-- Breed integratie-ecosysteem (125+ koppelingen)
+- Enige systeem met inkoopmodule: direct bij leveranciers bestellen op basis van voorraadniveaus
+- Theoretische vs. werkelijke voorraad vergelijking -- je ziet precies waar verspilling zit
+- Personeelskostenanalyse per dienst: weet je of je te veel of te weinig hebt ingepland
+- Offline modus draait volledig door -- ook je KDS en keukenprinters blijven werken bij internetuitval
+- 125+ integraties inclusief Exact Online voor directe boekhouding-koppeling
 
-#### Nadelen
+#### Nadelen (operations)
 
-- Interface oogt minder modern dan Lightspeed
-- Instapkosten hoger door hardware-investering
-- Implementatie duurt 1-2 weken (configuratie en training)
-- Overkill voor een klein restaurant met een enkele kassa
-- Prijzen niet transparant op de website (offerte nodig)
+- Receptuur- en inkoopmodule vereist het Professioneel-pakket (€129/mnd)
+- Implementatie duurt 1-2 weken: alle recepturen, leveranciers en menukaarten moeten ingericht worden
+- Geen native reserveringskoppeling met TheFork -- alleen Formitable en CoverManager
+- QR-bestellen loopt via Jamezz (apart platform, extra kosten)
+- Interface voor voorraadbeheer oogt gedateerd vergeleken met Lightspeed
 
 [Bekijk Untill](https://www.untill.com/nl/)
 
@@ -259,27 +259,26 @@ De keerzijde: Trivec publiceert geen vaste prijzen. Je krijgt altijd een maatwer
 
 #### Prijzen (2026)
 
-- Prijzen op maatwerkbasis (offerte nodig)
-- Gemiddeld vanaf €100-150/maand per terminal
-- Hardware lease-opties beschikbaar
-- Installatie en training bij offerte inbegrepen
-- Geen vaste contractduur vereist bij sommige pakketten
+- Maatwerkofferte (gemiddeld €100-150/mnd per terminal)
+- Hardware lease beschikbaar -- geen grote eenmalige investering
+- Installatie, menukaartinrichting en training inbegrepen bij offerte
+- Geen standaard contractduur bij sommige pakketten
 
-#### Voordelen
+#### Voordelen (operations)
 
-- Beste hotel-PMS integratie in deze vergelijking
-- Ingebouwd reserveringssysteem (geen externe koppeling nodig)
-- Zeer stabiel en betrouwbaar bij langdurig gebruik
-- Persoonlijke installatie en support
-- Flexibel aanpasbaar aan complexe menustructuren
+- Ingebouwd reserveringssysteem -- geen extern platform nodig, geen extra maandkosten
+- Hotel-PMS integratie (Oracle, Mews, Protel): gasten boeken alles op de kamer, één factuur
+- Menukaartbeheer met seizoenskaarten en wijnpairing-opties (ideaal voor fine dining)
+- Food cost rapportages per gerecht met marge-inzicht
+- API voor maatwerk-integraties met eigen hotel- of eventsystemen
 
-#### Nadelen
+#### Nadelen (operations)
 
-- Geen publieke prijzen -- je moet altijd een offerte aanvragen
-- Hogere instapkosten dan cloud-only alternatieven
-- Minder integraties met Nederlandse bezorgplatforms
-- Minder geschikt voor kleine, simpele restaurants
-- Kleinere community en minder online reviews in Nederland
+- Geen koppeling met Thuisbezorgd/Uber Eats -- ongeschikt als bezorging deel van je omzet is
+- Food cost rapportages minder gedetailleerd dan Lightspeed of Untill (geen receptuurniveau)
+- Geen inkoopmodule: voorraad bijhouden kan, maar niet direct bij leveranciers bestellen
+- Minder online reviews in Nederland -- lastig om ervaringen van andere restauranthouders te vinden
+- Reserveringssysteem is basaal vergeleken met gespecialiseerde platforms als Formitable
 
 [Bekijk Trivec](https://www.trivec.nl/)
 
@@ -305,29 +304,25 @@ De beperkingen worden duidelijk als je verder kijkt dan de kassa: er is geen res
 
 #### Prijzen (2026)
 
-- **Starter**: €39/maand
-- **Professional**: €59/maand
-- **Enterprise**: op aanvraag
-- Hardware startpakket (iPad, printer, kassalade): vanaf €349
-- Orderbird PAY terminal: op aanvraag
-- Geen lange contractverplichting, maandelijks opzegbaar
+- **Starter** (€39/mnd): kassa + tafelmanagement + HACCP -- géén voorraadbeheer op ingrediëntniveau
+- **Professional** (€59/mnd): + basisvoorraadbeheer en uitgebreidere rapportages
+- **Enterprise**: op aanvraag voor meerdere locaties
+- Hardware: iPad + printer + kassalade vanaf €349, maandelijks opzegbaar
 
-#### Voordelen
+#### Voordelen (operations)
 
-- Lage instapprijs voor een volwaardig kassasysteem
-- Gebruiksvriendelijke iPad-interface
-- Goede tafelmanagementfuncties voor kleine zaken
-- Snel op te zetten (binnen een halve dag)
-- HACCP-registratie is een handige extra
+- HACCP-registratie ingebouwd: temperatuurcontroles en schoonmaakregistratie in één systeem
+- Binnen een halve dag volledig ingericht -- ideaal bij een snelle opening of overname
+- Ganggestuurde bestellingen via keukenprinter werken betrouwbaar
+- Maandelijks opzegbaar: geen risico als je zaak net begint
 
-#### Nadelen
+#### Nadelen (operations)
 
-- Geen QR-bestelfunctie
-- Reserveringen niet ingebouwd (extern systeem nodig)
-- Voorraadbeheer is basaal (geen receptuurbeheer)
-- Support primair Duitstalig
-- Lage Trustpilot-score (2.1/5) -- check recente reviews
-- Minder geschikt als je groeit naar meerdere locaties
+- Geen receptuurbeheer: je kunt geen food cost per gerecht berekenen
+- Geen reserveringskoppeling -- je hebt een apart systeem nodig (extra kosten, dubbel werk)
+- Geen QR-bestellen aan tafel -- je personeel moet alles handmatig opnemen
+- Geen KDS-ondersteuning: alleen keukenprinters, geen digitaal overzicht met timers
+- Support primair Duitstalig -- lastig als je keukenmanager een vraag heeft
 
 [Bekijk Orderbird](https://www.orderbird.com/nl)
 
@@ -352,29 +347,23 @@ Waar het wel werkt: foodtrucks, pop-up restaurants en seizoensterrassen. Reader 
 
 #### Prijzen (2026)
 
-- **Software**: Gratis (Zettle Go-app)
-- **Transactiekosten Go**: 1,75% per transactie
-- **Transactiekosten Pro**: 1,25% per transactie (abonnement vereist)
-- **Zettle Reader 2**: €29
-- **Store Kit (compleet met dock en printer)**: vanaf €249
-- Geen maandelijkse softwarekosten, geen contractverplichting
+- **Software**: gratis (Zettle Go-app) -- maar: géén operationele functies
+- **Transactiekosten**: 1,75% (Go) of 1,25% (Pro-abonnement)
+- **Hardware**: reader €29, Store Kit (met dock en printer) vanaf €249
 
-#### Voordelen
+#### Voordelen (operations)
 
-- Laagste instapkosten in deze vergelijking (reader €29)
-- Geen maandelijkse softwarekosten
-- Extreem eenvoudig en snel op te zetten
-- Compact en mobiel -- past in je broekzak
-- Betrouwbare betaalverwerking via PayPal-netwerk
+- Dezelfde middag operationeel: reader uitpakken, app downloaden, verkopen
+- Koppeling met Moneybird en e-Boekhouden voor dagafsluiting
 
-#### Nadelen
+#### Nadelen (operations)
 
-- Geen tafelmanagement, KDS of keukenprinters
-- Geen reserveringsfuncties
+- Geen tafelmanagement, KDS, keukenprinters of ganggestuurde bestellingen
+- Geen reserveringsfuncties of koppelingen met Formitable/TheFork
+- Geen voorraadbeheer op ingrediëntniveau -- je kunt geen food cost berekenen
 - Geen QR-bestellen aan tafel
-- Voorraadbeheer is zeer basaal
-- Transactiekosten lopen op bij hogere omzet
-- Niet geschikt voor restaurants met bediening
+- Bij €15.000/mnd omzet betaal je €263 aan transactiekosten -- duurder dan elk betaald systeem
+- **Kortom: dit is een kassa, geen horeca software** -- ik neem het op als eerlijke referentie
 
 [Start met Zettle](https://www.zettle.com/nl)
 
@@ -486,23 +475,26 @@ Bij elk restaurant dat ik adviseer, komt dezelfde vraag: keukenprinter of Kitche
 Mijn ervaring: restaurants met meer dan 50 couverts per avond hebben baat bij een KDS. Kleinere zaken komen prima uit met een keukenprinter. Lightspeed, Untill en Trivec ondersteunen alledrie zowel printers als KDS. Orderbird werkt alleen met printers.
 
 
-## Mijn advies: de beste horeca software per situatie
+## Mijn advies: welke horeca software bij welke operations?
 
-Na tientallen horecaondernemers geholpen te hebben, komt mijn advies neer op vijf scenario's:
+De keuze hangt af van wat je restaurant operationeel nodig heeft. Niet elke zaak heeft alles nodig -- kies op basis van je knelpunten.
 
-- **Restaurant met 50-200 couverts, bezorging, en groeiambitie**: [Lightspeed Restaurant](https://www.lightspeedhq.nl/) -- de meest complete oplossing met de breedste integraties. Mijn standaard aanbeveling voor de meeste restaurants.
+### "Ik wil grip op mijn food cost en verspilling tegengaan"
+→ **[Lightspeed Restaurant Plus](https://www.lightspeedhq.nl/)** (€109/mnd) of **[Untill Professioneel](https://www.untill.com/nl/)** (€129/mnd). Beide bieden receptuurbeheer met automatisch afboeken. Lightspeed geeft je food cost per gerecht. Untill gaat een stap verder met een inkoopmodule en theoretische vs. werkelijke voorraad vergelijking. Bij een wisselende kaart met seizoensproducten heeft Untill de edge.
 
-- **Groot restaurant, meerdere zalen, evenementenlocatie**: [Untill](https://www.untill.com/nl/) -- de robuustheid en offline modus zijn ongeëvenaard. Als je 10+ kassapunten hebt en het systeem onder alle omstandigheden moet draaien, kies Untill.
+### "Ik heb reserveringen en wil geen dubbel werk"
+→ **[Trivec](https://www.trivec.nl/)** als je een ingebouwd systeem wilt zonder extra maandkosten. **[Lightspeed](https://www.lightspeedhq.nl/)** als je liever koppelt met Formitable of TheFork (breder bereik, meer gasten). Untill koppelt met Formitable en CoverManager maar mist TheFork.
 
-- **Hotelrestaurant of fine dining**: [Trivec](https://www.trivec.nl/) -- de hotel-PMS integratie en het ingebouwde reserveringssysteem maken het de logische keuze.
+### "Mijn keuken loopt vast op drukke avonden"
+→ Investeer in een KDS. **Lightspeed** en **Untill** bieden allebei ganggestuurde bestellingen met timers en kleurcodering. Trivec heeft ook KDS-ondersteuning. Budget nodig? Een keukenprinter (€150-300) doet het ook -- maar je mist het timing-overzicht.
 
-- **Klein restaurant of cafe (tot 50 couverts)**: [Orderbird](https://www.orderbird.com/nl) -- betaalbaar, snel opgezet en goed genoeg voor een kleine zaak. Let op de Duitstalige support.
+### "Ik run een hotelrestaurant of fine dining"
+→ **[Trivec](https://www.trivec.nl/)** -- de enige in dit overzicht met hotel-PMS integratie (Oracle, Mews, Protel). Gasten boeken alles op de kamer. Het menukaartbeheer ondersteunt seizoenskaarten en wijnpairing.
 
-- **Foodtruck, pop-up of seizoensterras**: [Zettle by PayPal](https://www.zettle.com/nl) -- reader van €29, geen maandkosten, dezelfde middag operationeel.
+### "Ik wil gewoon een betrouwbaar systeem, alles in-house"
+→ **[Untill](https://www.untill.com/nl/)** -- draait ook volledig offline, eigen inkoopmodule, personeelskostenanalyse per dienst. De implementatie duurt 1-2 weken, maar daarna heb je een systeem dat álles aankan.
 
-Twijfel je tussen twee systemen? Begin altijd met een demo of proefperiode. Je kassasysteem gebruik je elke dag, bij elke bestelling. Het moet bij jouw manier van werken passen. Bekijk ook mijn [kassasysteem-vergelijking voor de horeca](/posts/beste-kassasysteem-horeca-2026/) voor een breder overzicht met meer opties.
-
-**Wat je vooral niet moet doen**: een meerjarig contract tekenen zonder het systeem eerst in je eigen zaak te testen. Een demo in een showroom is iets anders dan een drukke zaterdagavond met 80 couverts.
+Zoek je puur een kassasysteem zonder al deze operationele functies? Bekijk dan mijn [kassasysteem-vergelijking voor de horeca](/posts/beste-kassasysteem-horeca-2026/) met meer opties waaronder Square.
 
 
 ## Lees ook

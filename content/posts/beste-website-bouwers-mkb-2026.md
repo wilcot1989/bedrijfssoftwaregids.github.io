@@ -25,10 +25,10 @@ faq:
     a: "Als je producten online wilt verkopen, heb je een webshop nodig (Shopify, WooCommerce). Als je diensten aanbiedt en klanten via telefoon of e-mail binnenkomen, volstaat een gewone website met contactformulier. Veel websitebouwers (Wix, Squarespace) bieden basis webshop-functionaliteit als add-on."
 ---
 
-Ik zie regelmatig MKB-bedrijven die duizenden euro's hebben betaald aan een webbureau voor een website die ze vervolgens niet zelf kunnen aanpassen. In 2026 is dat nergens meer voor nodig. Met de juiste websitebouwer heb je in een dag een professionele site staan. Hier zijn de 5 platforms die ik aanbeveel, van simpel tot volledig maatwerk.
+Wat is de beste websitebouwer voor het MKB? Ik zie regelmatig bedrijven die duizenden euro's hebben betaald aan een webbureau voor een website die ze vervolgens niet zelf kunnen aanpassen. In 2026 is dat nergens meer voor nodig. Met de juiste websitebouwer heb je als MKB-ondernemer in een dag een professionele site staan. Hier zijn de 5 platforms die ik aanbeveel, van simpel tot volledig maatwerk.
 
 
-## Snelle vergelijking
+## Beste websitebouwer MKB: snelle vergelijking
 
 | Platform | Prijs vanaf | Gebruiksgemak | Flexibiliteit | SEO | Webshop | Beste voor |
 |----------|-----------|-------------|-------------|-----|---------|------------|
