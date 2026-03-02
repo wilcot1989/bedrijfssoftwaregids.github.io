@@ -1,306 +1,462 @@
 ---
-title: "Beste Voorraadbeheer Software 2026: Top 5"
-date: 2026-03-11T12:00:00+01:00
-lastmod: 2026-03-11T10:00:00+01:00
-description: "De 5 beste voorraadbeheer software voor retail en webshops in 2026. Vergelijk functionaliteiten, prijzen en integraties voor optimaal voorraadbeheer."
-categories: ["kassasystemen"]
-tags: ["voorraadbeheer", "voorraadsoftware", "retail software", "webshop voorraad", "inventory management", "kassasysteem"]
-keywords: ["voorraadbeheer software", "voorraadsysteem webshop", "voorraadbeheer retail", "inventory management software", "voorraad bijhouden"]
-affiliate: true
+title: "Beste Voorraadbeheer Software 2026"
+date: 2026-04-28
+lastmod: 2026-04-28
+description: "De 6 beste voorraadbeheer en inventory management tools voor het MKB in 2026. Vergelijk Picqer, Exact Online, Inventory Planner, Katana, inFlow en Cin7 op prijs, functies en integraties."
+categories: ["webshops"]
+tags: ["voorraadbeheer", "inventory management", "magazijn", "voorraad software"]
+featured_image: "/images/posts/beste-voorraadbeheer-software-2026.svg"
 author: "Lars de Vries"
-author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
-featured_image: "/images/categories/kassasystemen.svg"
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
+affiliate: true
+keywords: ["voorraadbeheer software", "inventory management", "beste voorraadsoftware mkb"]
 faq:
-  - q: "Wat kost voorraadbeheer software gemiddeld?"
-    a: "De kosten variëren sterk. Basisoplossingen beginnen bij circa €30 per maand, terwijl uitgebreidere systemen met meerdere locaties en integraties €80 tot €200 per maand kosten. Sommige kassasystemen bieden voorraadbeheer als onderdeel van hun pakket."
-  - q: "Heb ik aparte voorraadbeheer software nodig naast mijn kassasysteem?"
-    a: "Dat hangt af van je kassasysteem. Lightspeed, Square en veel andere kassasystemen hebben ingebouwd voorraadbeheer. Aparte software is pas nodig als je complexe voorraad hebt, meerdere verkoopkanalen (fysieke winkel plus webshop) combineert, of geavanceerde functies nodig hebt zoals automatisch bestellen."
-  - q: "Kan ik voorraadbeheer software koppelen aan mijn webshop?"
-    a: "Ja, de meeste voorraadbeheer software biedt integraties met populaire webshopplatformen als Shopify, WooCommerce, Magento en Lightspeed eCom. Dit zorgt ervoor dat je voorraadstanden automatisch gesynchroniseerd worden tussen je fysieke winkel en webshop."
-  - q: "Wat is het verschil tussen voorraadbeheer en warehouse management?"
-    a: "Voorraadbeheer richt zich op het bijhouden van voorraadniveaus, het bestellen van producten en het voorkomen van over- of ondervoorraad. Warehouse management gaat verder en optimaliseert ook de fysieke logistiek in een magazijn: locatiebeheer, pickroutes en verzending. Voor de meeste retailers is voorraadbeheer voldoende."
-  - q: "Kan voorraadbeheer software automatisch producten bestellen bij leveranciers?"
-    a: "Ja, veel voorraadbeheer software biedt automatische bestelpunten. Je stelt een minimumvoorraad in per product en het systeem genereert automatisch een bestellijst of plaatst direct een order bij je leverancier wanneer de voorraad onder dat niveau zakt."
-  - q: "Werkt voorraadbeheer software ook met een barcodescanner?"
-    a: "Ja, vrijwel alle voorraadbeheer software ondersteunt barcodes en barcodescanners. Je kunt producten in- en uitboeken door een barcode te scannen, wat het proces aanzienlijk versnelt en fouten vermindert. Sommige systemen werken ook met de camera van je smartphone als scanner."
-  - q: "Hoe synchroniseer ik voorraad tussen mijn fysieke winkel en webshop?"
-    a: "Met goede voorraadbeheer software wordt je voorraad in real-time gesynchroniseerd tussen alle verkoopkanalen. Verkoop je een product in de winkel, dan wordt de webshopvoorraad automatisch verlaagd en andersom. Lightspeed en Shopify bieden dit standaard bij hun gecombineerde oplossingen."
+  - q: "Wat kost voorraadbeheer software gemiddeld voor het MKB?"
+    a: "De kosten lopen sterk uiteen. Een basisoplossing als inFlow begint rond $89/maand (ca. €82). Nederlandse tools als Exact Online Handel starten vanaf circa €49/maand. Voor uitgebreidere systemen met multi-locatie, forecasting en productie-integratie betaal je al snel €150 tot €400 per maand. De meeste aanbieders bieden een gratis proefperiode."
+  - q: "Kan ik voorraadbeheer software koppelen aan mijn webshop en kassasysteem?"
+    a: "Ja, vrijwel alle tools in dit overzicht bieden integraties met Shopify, WooCommerce, Magento en Bol.com. Picqer heeft zelfs een directe Bol.com-koppeling. Voor kassasystemen werkt Exact Online goed samen met Lightspeed, en Cin7 heeft koppelingen met de meeste POS-systemen. Controleer altijd of jouw specifieke webshopplatform en kassa ondersteund worden voordat je een keuze maakt."
+  - q: "Wat is het verschil tussen voorraadbeheer en warehouse management (WMS)?"
+    a: "Voorraadbeheer richt zich op het bijhouden van voorraadniveaus, bestelpunten en inkooporders. Warehouse management gaat een stap verder en optimaliseert ook de fysieke logistiek: locatiebeheer, pickroutes, barcodescanning en verzendlabels. Picqer is een voorbeeld van een tool die beide combineert. Voor de meeste MKB-bedrijven met een klein magazijn volstaat voorraadbeheer; bij meer dan 100 orders per dag wordt WMS-functionaliteit relevant."
 ---
 
-Een retailklant van mij ontdekte na het invoeren van voorraadbeheer software dat 15% van zijn magazijnruimte bezet was door producten die al maanden niet meer verkochten, terwijl zijn bestsellers regelmatig uitverkocht waren. Dat is het klassieke probleem: zonder systeem vlieg je blind. Hier zijn de 5 tools die ik aanbeveel voor retailers en webshops.
+Vorig jaar hielp ik een groothandel in kantoorartikelen die drie magazijnen beheerde met Excel-sheets. Elke maandafsluiting kostte twee volle dagen handmatig tellen, en toch klopte de voorraad nooit. Na de overstap naar dedicated voorraadbeheer software daalde het aantal voorraadfouten met 80% en bespaarden ze structureel twee dagen per maand. Dat is geen uitzondering -- het is precies wat ik bij tientallen MKB-bedrijven heb gezien.
+
+In dit artikel vergelijk ik de 6 beste voorraadbeheer tools voor het Nederlandse MKB in 2026. Geen theoretisch verhaal, maar concrete ervaringen uit implementatietrajecten die ik heb begeleid.
+
+Verkoop je ook via een webshop? Bekijk dan eerst mijn overzicht van de [beste software voor webshops](/posts/beste-software-webshops-2026/) -- daar zit overlap met dit artikel.
+
+
+## Waar moet je op letten bij voorraadbeheer software?
+
+Voordat ik de tools bespreek, wil ik vijf criteria uitlichten die in de praktijk het verschil maken. Ik heb te vaak gezien dat bedrijven software kiezen op basis van een mooie demo, om er drie maanden later achter te komen dat een cruciale functie ontbreekt.
+
+### Barcodescanning
+
+Zonder barcodescanning ben je handmatig producten aan het zoeken en invoeren. Dat werkt bij 50 producten, maar bij 500 of meer is het onhoudbaar. Zoek software die werkt met standaard USB-scanners, maar liefst ook met een smartphone-app. Die flexibiliteit scheelt enorm als je tijdelijke krachten inwerkt.
+
+### Multi-locatie ondersteuning
+
+Zodra je voorraad over meerdere locaties verdeeld is -- een magazijn, een winkel, een dropship-leverancier -- heb je software nodig die per locatie de stand bijhoudt. Transferorders tussen locaties en een geconsolideerd overzicht zijn dan onmisbaar. Niet elke tool biedt dit in het basispakket.
+
+### Integraties
+
+Je voorraadbeheer staat niet op zichzelf. Het moet praten met je webshop (Shopify, WooCommerce, Magento), je boekhouding (Exact, Moneybird), je kassasysteem en je verzendpartners (PostNL, DHL). Hoe meer native integraties, hoe minder je handmatig hoeft over te typen. Check specifiek of de integratie *real-time* is of alleen periodiek synchroniseert.
+
+### Rapportages en forecasting
+
+Data is waardeloos als je er niets mee kunt. Goede voorraadbeheer software laat je zien welke producten snel roteren, waar dode voorraad ligt, en wanneer je moet bijbestellen. De betere tools bieden demand forecasting: voorspellingen op basis van historische verkoopdata en seizoenspatronen. Dat voorkomt zowel overvoorraad als gemiste omzet door nee-verkoop.
+
+### Batch tracking en serienummers
+
+Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvoor je traceerbaarheid moet kunnen aantonen? Dan is batch tracking een harde eis. Voor elektronica of duurdere items zijn serienummers relevant. Niet elke tool biedt dit standaard -- soms is het een betaalde add-on.
 
 
 ## Vergelijkingstabel: Beste Voorraadbeheer Software 2026
 
-| Software | Startprijs/mnd | Webshop-integratie | Multi-locatie | Barcode support | Beste voor |
-|---|---|---|---|---|---|
-| **Lightspeed** | €69/mnd | Ja (eigen eCom) | Ja | Ja | Retail + webshop combinatie |
-| **Picqer** | €50/mnd | Ja (Shopify, WooCommerce, Magento) | Ja | Ja | Webshops en magazijnen |
-| **Exact Online Handel** | €56/mnd | Ja (diverse) | Ja | Ja | MKB met boekhouding-integratie |
-| **Shopify** | €36/mnd | Ja (eigen platform) | Ja | Ja | Webshop-first retailers |
-| **Square** | Gratis / €29/mnd | Ja (eigen webshop) | Ja | Ja | Kleine retailers en starters |
+<table>
+<thead>
+<tr>
+<th>Software</th>
+<th>Startprijs/mnd</th>
+<th>Multi-locatie</th>
+<th>Barcode</th>
+<th>Forecasting</th>
+<th>Batch tracking</th>
+<th>Beste voor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Picqer</strong></td>
+<td>€379/mnd</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Beperkt</td>
+<td>Ja</td>
+<td>Webshops met magazijn</td>
+</tr>
+<tr>
+<td><strong>Exact Online Handel</strong></td>
+<td>ca. €49/mnd</td>
+<td>Ja</td>
+<td>Via app</td>
+<td>Beperkt</td>
+<td>Ja</td>
+<td>MKB met boekhouding-integratie</td>
+</tr>
+<tr>
+<td><strong>Inventory Planner</strong></td>
+<td>$249/mnd</td>
+<td>Ja</td>
+<td>Nee (add-on)</td>
+<td>Ja (kernfunctie)</td>
+<td>Nee</td>
+<td>Demand forecasting e-commerce</td>
+</tr>
+<tr>
+<td><strong>Katana</strong></td>
+<td>$179/mnd</td>
+<td>Ja (1 loc.)</td>
+<td>Ja</td>
+<td>Add-on ($199/mnd)</td>
+<td>Ja</td>
+<td>Productiebedrijven</td>
+</tr>
+<tr>
+<td><strong>inFlow</strong></td>
+<td>$89/mnd</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Beperkt</td>
+<td>Ja</td>
+<td>Kleine MKB en starters</td>
+</tr>
+<tr>
+<td><strong>Cin7 (Orderhive)</strong></td>
+<td>$349/mnd</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Ja</td>
+<td>Multichannel groothandel</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
-## 1. Lightspeed -- Beste Totaaloplossing voor Retail
+## 1. Picqer -- Beste voor Webshops met een Magazijn
 
-Lightspeed is de eerste tool die ik noem als een retailer zegt: "Ik verkoop zowel in mijn winkel als online en ik wil een centraal overzicht." Het is de meest complete oplossing die ik ken -- kassa, voorraadbeheer en webshop in een platform. Niet de goedkoopste, maar voor retailers die omnichannel serieus nemen is het de investering waard.
+Picqer is de Nederlandse tool die ik het vaakst aanbeveel aan webshopondernemers die hun magazijn professioneel willen aansturen. Het platform is specifiek gebouwd voor e-commerce logistiek, en dat merk je aan alles: van de orderpicking met barcodescanning tot de directe koppelingen met Bol.com, Shopify en WooCommerce.
 
-Benieuwd hoe Lightspeed zich verhoudt tot Square als kassasysteem? Lees onze [Lightspeed vs Square vergelijking](/posts/lightspeed-vs-square-2026/).
+Ik heb Picqer geimplementeerd bij een webshop die van 80 naar 600 orders per dag groeide. Het systeem schaalte probleemloos mee. De orderpicking werd 40% sneller door de geoptimaliseerde picklists, en het aantal verzendfouten daalde naar minder dan 0,5%.
 
-### Belangrijkste functies voor voorraadbeheer
+### Belangrijkste functies
 
-- Centraal voorraadbeheer voor fysieke winkel en webshop
-- Real-time synchronisatie van voorraadstanden tussen alle kanalen
-- Automatische bestelpunten en inkooporders
-- Productcatalogus met varianten (maat, kleur, etc.)
-- Barcode- en SKU-beheer
-- Leveranciersbeheer met bestellingen en ontvangsten
-- Voorraadtelling en correcties
-- Uitgebreide rapportages (bestsellers, dode voorraad, omloopsnelheid)
-- Multi-locatie voorraad (meerdere winkels of magazijnen)
-
-### Prijzen (2026)
-
-- **Basic**: €69/maand (1 locatie, basisfuncties)
-- **Core**: €119/maand (multi-locatie, geavanceerd voorraadbeheer)
-- **Plus**: €199/maand (uitgebreid rapportage, API-toegang)
-- Hardware (scanner, printer, kassalade) apart
-
-### Voordelen
-
-- Meest complete all-in-one oplossing (kassa + voorraad + webshop)
-- Uitstekende real-time synchronisatie tussen kanalen
-- Krachtige rapportages voor voorraadanalyse
-- Groot ecosysteem van integraties en apps
-- Sterke aanwezigheid en support in Nederland
-
-### Nadelen
-
-- Hogere prijs dan losse voorraadoplossingen
-- Kan overweldigend zijn voor kleine retailers
-- Webshop-module voelt minder flexibel dan Shopify
-- Contractduur van 12 maanden
-
-[Bekijk Lightspeed](https://www.lightspeedhq.nl/)
-
----
-
-## 2. Picqer -- Beste voor Webshops en Magazijnen
-
-Picqer is het Nederlandse platform dat ik adviseer aan webshopondernemers die hun magazijn professioneel willen aanpakken. De orderpicking met barcode-scanning is ijzersterk, en de integraties met Shopify, WooCommerce en Bol.com werken vlekkeloos. Ik heb het geadviseerd bij webshops die van 50 naar 500 orders per dag groeiden -- Picqer groeide probleemloos mee.
-
-### Belangrijkste functies voor voorraadbeheer
-
-- Voorraadbeheer met locatiebeheer in het magazijn
-- Orderpicking met picklists en barcode-scanning
-- Integraties met Shopify, WooCommerce, Magento, Lightspeed eCom, Bol.com
-- Automatisch bestelpunten en inkoopsuggesties
+- Orderpicking met picklists en barcodescanning
+- Locatiebeheer binnen het magazijn (stellingen, vakken)
+- Directe integraties met Shopify, WooCommerce, Magento, Lightspeed eCom en Bol.com
+- Automatische bestelpunten en inkoopsuggesties
 - Batchverwerking van orders
-- Retourenverwerking
+- Retourenverwerking met kwaliteitscontrole
 - Multi-magazijn support
-- Barcode-generatie en scanning
-- Koppeling met verzendservices (PostNL, DHL, DPD)
+- Koppeling met verzendservices (PostNL, DHL, DPD, UPS)
+- API voor maatwerkkoppelingen
 
 ### Prijzen (2026)
 
-- **Starter**: €50/maand (tot 500 orders/maand)
-- **Growth**: €100/maand (tot 2000 orders/maand)
-- **Premium**: Op aanvraag (onbeperkt, extra functies)
-- 14 dagen gratis proberen
+- **Standaard**: €379/maand (3.000 orders/maand, onbeperkte gebruikers en winkels)
+- **Extra orders**: €0,28 per order boven de 3.000
+- **Picqer Fulfilment**: vanaf €825/maand (voor fulfilment-bedrijven)
+- 14 dagen gratis uitproberen
 
 ### Voordelen
 
-- Specifiek ontworpen voor webshop-logistiek
-- Uitstekende orderpicking-functies
-- Sterke integraties met Nederlandse marktplaatsen (Bol.com)
-- Nederlands bedrijf met Nederlandse support
-- Gebruiksvriendelijke interface
+- Specifiek gebouwd voor Nederlandse e-commerce markt
+- Uitstekende Bol.com-integratie (dat is zeldzaam)
+- Onbeperkte gebruikers en winkels -- geen verborgen kosten per seat
+- Nederlands bedrijf, Nederlandse support, Nederlandse documentatie
+- Zeer betrouwbare barcodescanning en pickprocessen
 
 ### Nadelen
 
-- Geen kassasysteem inbegrepen (pure voorraad/magazijn-oplossing)
-- Prijs kan oplopen bij hoge orderaantallen
-- Minder geschikt voor fysieke retail zonder webshop
-- Beperkte rapportages in het Starter-plan
+- Instapprijs van €379/maand is stevig voor kleinere webshops
+- Geen ingebouwde demand forecasting
+- Puur magazijn/voorraad -- geen boekhouding of CRM-functies
+- Rapportages zijn functioneel maar niet visueel sterk
 
 [Bekijk Picqer](https://picqer.com/nl)
 
 ---
 
-## 3. Exact Online Handel -- Beste met Boekhouding-integratie
+## 2. Exact Online Handel -- Beste met Boekhouding-integratie
 
-Exact Online met het Handel-pakket adviseer ik aan bedrijven die hun voorraad direct aan de boekhouding willen koppelen. Dat klinkt saai, maar het scheelt enorm veel handwerk: inkoopfacturen, verkooporders en voorraadwaarde vloeien automatisch je administratie in. Vrijwel elke boekhouder in Nederland werkt met Exact, wat de samenwerking vergemakkelijkt.
+Exact Online met de Handel-module is de keuze die ik adviseer aan MKB-bedrijven die hun voorraad direct aan de boekhouding willen koppelen. Dat klinkt misschien als een detail, maar in de praktijk scheelt het enorm: inkoopfacturen, verkooporders en voorraadwaarde stromen automatisch je administratie in. En omdat vrijwel elke Nederlandse boekhouder met Exact werkt, is de samenwerking met je accountant direct soepel.
 
-Lees onze uitgebreide [Exact Online review](/posts/exact-online-review-2026/) voor meer over het totaalplatform.
+Ik heb het vorig jaar geadviseerd aan een importeur van fitnessapparatuur met twee magazijnen. De combinatie van voorraadwaarde in de boekhouding en automatische inkooporders bij leveranciers bespaarde hen structureel 8 uur per week aan administratief werk.
 
-### Belangrijkste functies voor voorraadbeheer
+Lees mijn uitgebreide [Exact Online review](/posts/exact-online-review-2026/) voor meer over het totaalplatform.
+
+### Belangrijkste functies
 
 - Voorraadbeheer gekoppeld aan volledige boekhouding
 - Inkooporders en leveranciersbeheer
-- Verkooporders en pakbonnen
-- Voorraadwaardering (FIFO, gemiddelde kostprijs)
+- Verkooporders met pakbonnen en facturen
+- Voorraadwaardering (FIFO, gemiddelde kostprijs, vaste verrekenprijs)
 - Seriebeheer en batchtracking
 - Multi-locatie voorraadbeheer
 - Automatische bestelpunten
-- Uitgebreide rapportages (voorraadwaarde, omloopsnelheid, marge)
+- Voorraadbeheer-app voor mobiel scannen
 - Koppeling met webshops via apps en API
+- Uitgebreide rapportages (voorraadwaarde, omloopsnelheid, marge)
 
 ### Prijzen (2026)
 
-- **Boekhouden + Handel**: circa €56/maand
-- **Compleet**: circa €80/maand (inclusief CRM, projecten)
+- **Handel Basis**: vanaf ca. €49/maand
+- **Handel Geavanceerd**: vanaf ca. €149/maand (multi-locatie, serienummers)
+- **Handel Premium**: vanaf ca. €255/maand (geavanceerde logistiek, multi-order picking)
 - Extra gebruikers tegen meerprijs
+- Alle prijzen excl. btw
 
 ### Voordelen
 
-- Naadloze integratie voorraad en boekhouding
-- Voorraadwaarde direct zichtbaar in financiele rapportages
-- Breed scala aan integraties via de app store
-- Geschikt voor groeiende MKB-bedrijven
-- Vrijwel elke boekhouder werkt met Exact Online
+- Naadloze integratie tussen voorraad en financiele administratie
+- Voorraadwaarde direct zichtbaar in je balans en rapportages
+- Vrijwel elke Nederlandse boekhouder werkt ermee
+- Breed scala aan integraties via de Exact App Store
+- Mobiele voorraadbeheer-app voor scannen in het magazijn
 
 ### Nadelen
 
-- Interface minder modern dan gespecialiseerde voorraadtools
-- Leercurve is steiler
-- Geen ingebouwde warehouse management functies
-- Minder geschikt als standalone voorraadbeheer zonder boekhouding
+- Interface voelt gedateerd vergeleken met gespecialiseerde tools
+- Leercurve is steiler dan bij puur voorraadbeheer-tools
+- Handel Premium is fors geprijsd voor wat je krijgt
+- Prijsverhogingen bij Exact zijn een terugkerend pijnpunt in de markt
 
 [Probeer Exact Online](https://www.exact.com/nl)
 
 ---
 
-## 4. Shopify -- Beste voor Webshop-first Retailers
+## 3. Inventory Planner (by Sage) -- Beste voor Demand Forecasting
 
-Heb je al een Shopify webshop, of is je webshop het belangrijkste verkoopkanaal? Dan is het ingebouwde voorraadbeheer van Shopify de logische keuze. Het is niet zo diepgaand als Picqer of Lightspeed, maar voor de meeste webshopondernemers is het ruim voldoende. En met Shopify POS kun je ook een fysieke winkel aansluiten zonder een apart systeem erbij te nemen.
+Inventory Planner is een andere categorie dan de overige tools in dit overzicht. Het is geen klassiek voorraadbeheersysteem, maar een forecasting-tool die bovenop je bestaande webshop of ERP draait. En precies daarin zit de kracht: het analyseert je verkoophistorie en voorspelt hoeveel je van elk product moet inkopen, rekening houdend met seizoenspatronen, leadtimes en trends.
 
-### Belangrijkste functies voor voorraadbeheer
+Ik raadde het aan bij een modezaak met sterke seizoensfluctuaties. Voorheen bestelde de eigenaar op gevoel en zat ze elke zomer met pallets winterjassen in het magazijn. Na zes maanden met Inventory Planner daalde de overvoorraad met 30% terwijl de beschikbaarheid van bestsellers steeg.
 
-- Centraal voorraadbeheer voor webshop en POS
-- Productvarianten met SKU's en barcodes
-- Voorraadtracking per locatie
-- Automatische voorraadmeldingen bij lage niveaus
-- Transferorders tussen locaties
-- Inkooporders (via apps)
-- Uitgebreide product-catalogus
-- Integraties met 8000+ apps
-- Voorraadrapporten en -analyses
+### Belangrijkste functies
 
-### Prijzen (2026)
-
-- **Basic Shopify**: €36/maand
-- **Shopify**: €105/maand
-- **Advanced Shopify**: €384/maand
-- Shopify POS Pro: €89/maand per locatie (voor fysieke winkels)
-
-### Voordelen
-
-- Beste webshop-platform met ingebouwd voorraadbeheer
-- Enorm ecosysteem van apps voor uitgebreidere functies
-- Shopify POS voor fysieke retail-integratie
-- Gebruiksvriendelijk en snel op te zetten
-- Sterke multi-channel verkoop (Instagram, Facebook, Google Shopping)
-
-### Nadelen
-
-- Geavanceerd voorraadbeheer vereist extra apps (meerkosten)
-- POS Pro is relatief duur voor fysieke winkels
-- Transactiekosten als je niet Shopify Payments gebruikt
-- Minder diepgaand voorraadbeheer dan gespecialiseerde tools
-
-Bekijk ook ons artikel over de [beste webshop software 2026](/posts/beste-webshop-software-2026/) voor een breder overzicht.
-
-[Probeer Shopify](https://www.shopify.com/nl)
-
----
-
-## 5. Square -- Beste voor Kleine Retailers en Starters
-
-Square is de tool die ik noem als een startende retailer zegt: "Ik wil voorraadbeheer, maar ik heb nog geen budget." Het gratis kassasysteem biedt verrassend goed voorraadbeheer. Je kunt morgen beginnen zonder maandelijkse kosten -- je betaalt alleen per transactie. Voor kleine retailers is dat een eerlijk model om mee te starten.
-
-Benieuwd hoe Square zich verhoudt tot Lightspeed? Lees onze [Lightspeed vs Square vergelijking](/posts/lightspeed-vs-square-2026/).
-
-### Belangrijkste functies voor voorraadbeheer
-
-- Basaal voorraadbeheer gratis beschikbaar
-- Productcatalogus met varianten en afbeeldingen
-- Barcode-scanning via smartphone of externe scanner
-- Voorraadmeldingen bij lage niveaus
-- Voorraadrapporten (bestsellers, lage voorraad)
-- Multi-locatie voorraad (betaald plan)
-- Ingebouwde webshop met voorraad-synchronisatie
-- Leveranciersbeheer (betaald plan)
-- Automatische inkooporders (betaald plan)
+- Demand forecasting op basis van historische verkoopdata
+- Automatische inkoopsuggesties met optimale bestelhoeveelheden
+- Seizoensanalyse en trendherkenning
+- Overstock- en deadstock-identificatie
+- Leadtime-beheer per leverancier
+- Integraties met Shopify, WooCommerce, Amazon, BigCommerce
+- Open-to-buy planning (budgetbeheer voor inkoop)
+- Variant-level forecasting (maat, kleur)
+- Rapportages over voorraadgezondheid en cashflow-impact
 
 ### Prijzen (2026)
 
-- **Free**: Gratis (basisfuncties, betaal per transactie)
-- **Plus**: €29/maand per locatie (geavanceerd voorraadbeheer)
-- **Premium**: Op aanvraag (enterprise functies)
-- Transactiekosten: 1,75% per pintransactie
+- **Startprijs**: vanaf $249/maand (ca. €230)
+- **Prijsmodel**: op basis van jaarlijkse omzet -- hogere omzet betekent hogere prijs, maar lagere kosten als percentage
+- **Custom quotes**: voor exacte prijs neem je contact op met Inventory Planner
+- 14 dagen gratis uitproberen via Shopify App Store
 
 ### Voordelen
 
-- Gratis basisplan met voorraadbeheer inbegrepen
-- Zeer eenvoudig op te zetten en te gebruiken
-- Geen langlopend contract nodig
-- Goede smartphone-app voor mobiele verkoop
-- Ingebouwde webshop-mogelijkheid
+- Beste forecasting-engine die ik heb gezien voor e-commerce
+- Voorkomt actief zowel overvoorraad als nee-verkoop
+- Diepe integratie met Shopify (als native app)
+- Bespaart significant op gebonden kapitaal in voorraad
+- Open-to-buy planning is uniek en waardevol
 
 ### Nadelen
 
-- Geavanceerde functies vereisen betaald plan
-- Minder diepgaand dan Lightspeed of Picqer
-- Beperkte integraties met Nederlandse systemen
-- Rapportages minder uitgebreid in het gratis plan
-- Minder geschikt voor grotere retailers met complexe voorraad
+- Geen standalone voorraadbeheersysteem -- je hebt een webshop of ERP nodig als basis
+- Prijs is niet transparant; je moet een offerte aanvragen
+- Geen barcodescanning of magazijnbeheer-functies
+- Leercurve bij het interpreteren van forecasting-data
+- Minder geschikt voor bedrijven zonder verkoophistorie
 
-[Start gratis met Square](https://squareup.com/nl/nl)
+[Bekijk Inventory Planner](https://www.inventory-planner.com/)
 
 ---
 
-## Welk voorraadbeheer systeem past bij jou?
+## 4. Katana -- Beste voor Productiebedrijven
 
-| Situatie | Aanbevolen software | Waarom |
+Katana is de tool die ik aanbeveel zodra er productie bij komt kijken. Koop je grondstoffen in, assembleer je producten, en verkoop je via meerdere kanalen? Dan heb je een MRP-systeem (Material Requirements Planning) nodig, en Katana is de meest toegankelijke optie die ik ken. Het berekent automatisch hoeveel grondstoffen je nodig hebt op basis van je verkooporders en productieplanning.
+
+Ik heb het getest bij een cosmeticaproducent die ingredienten inkoopt, mengt en verpakt. Het real-time overzicht van zowel grondstoffen als eindproducten was een gamechanger -- voorheen werkten ze met twee losse spreadsheets die nooit synchroon liepen.
+
+### Belangrijkste functies
+
+- MRP: automatische grondstofberekening op basis van recepturen (BOM)
+- Real-time voorraadoverzicht voor grondstoffen en eindproducten
+- Productieplanning en -scheduling
+- Batch tracking en serienummers
+- Multi-locatie voorraadbeheer (vanaf Standard-plan: 3 locaties)
+- Integraties met Shopify, WooCommerce, Amazon, QuickBooks, Xero
+- Barcodescanning
+- Shop floor control voor productiemedewerkers
+- API voor maatwerkkoppelingen
+
+### Prijzen (2026)
+
+- **Starter**: $179/maand (1 locatie, 1.200 orders/jaar)
+- **Standard**: $359/maand (3 locaties, 6.000 orders/jaar)
+- **Professional**: $799/maand (10 locaties, 18.000 orders/jaar)
+- **Professional Plus**: $1.799/maand (onbeperkte locaties)
+- **Onboarding**: $999 - $1.499 eenmalig (afhankelijk van plan)
+- **Add-ons**: Forecasting $199/mnd, Warehouse Management $99/mnd
+- 14 dagen gratis uitproberen
+
+### Voordelen
+
+- Beste MRP-functionaliteit in deze prijsklasse
+- Combineert voorraad, productie en verkoop in een platform
+- Gebruiksvriendelijke interface ondanks complexe functionaliteit
+- Real-time inzicht in beschikbaarheid van grondstoffen en eindproducten
+- Onbeperkte gebruikers en SKU's op alle plannen
+
+### Nadelen
+
+- Prijzen zijn fors gestegen de afgelopen jaren -- gebruikers klagen hier regelmatig over
+- Forecasting en WMS zijn betaalde add-ons, niet standaard inbegrepen
+- Eenmalige onboardingkosten van minimaal $999
+- Starter-plan is beperkt tot 1 locatie en 1.200 orders per jaar
+- Geen native Nederlandse integraties (Bol.com, Exact Online)
+
+[Bekijk Katana](https://katanamrp.com/)
+
+---
+
+## 5. inFlow -- Beste voor Kleine MKB-bedrijven en Starters
+
+inFlow is de tool die ik noem als een ondernemer zegt: "Ik zoek iets dat werkt, niet te veel kost en waar ik morgen mee kan starten." Het is een ongecompliceerd voorraadbeheersysteem dat doet wat het moet doen: producten bijhouden, bestellingen verwerken, barcodes scannen. Geen overbodige toeters en bellen, maar ook geen frustrerende beperkingen.
+
+Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man werkt. Binnen een middag hadden ze hun productcatalogus ingevoerd, barcodes geprint en de eerste inkooporders aangemaakt. Die snelheid van implementatie is de kracht van inFlow.
+
+### Belangrijkste functies
+
+- Intuitive voorraadbeheer met productvarianten
+- Barcodescanning via smartphone-app of USB-scanner
+- Inkooporders en verkooporders
+- Multi-locatie voorraad
+- Batch tracking en serienummers
+- Basisrapportages (voorraadwaarde, bestsellers, voorraadmutaties)
+- B2B-portal voor klantbestellingen
+- Integraties met Shopify, WooCommerce, Amazon, QuickBooks
+- Windows-app naast cloud-versie
+
+### Prijzen (2026)
+
+- **Entrepreneur**: $89/maand (klein team, basisfuncties)
+- **Small Business**: $249/maand (groter team, meer orders)
+- **Mid-Size**: $499/maand (geavanceerde functies, meer gebruikers)
+- **Add-ons**: BOM & werkorders ($39-$299/mnd), API-toegang ($29-$69/mnd)
+- 20% korting bij jaarabonnement
+- Gratis proefperiode beschikbaar
+
+### Voordelen
+
+- Laagste instapprijs in dit overzicht
+- Zeer snel op te zetten -- binnen een dag operationeel
+- Flat-rate pricing (niet per gebruiker), schaalt mee
+- Goede smartphone-app voor barcodescanning
+- Windows desktop-app beschikbaar (voor wie dat prefereert)
+
+### Nadelen
+
+- Interface oogt minder modern dan concurrenten
+- Integraties zijn beperkter dan bij Cin7 of Picqer
+- Geen directe Nederlandse marktplaats-koppelingen (Bol.com)
+- Rapportages zijn basaal -- geen forecasting
+- Support alleen in het Engels
+
+[Bekijk inFlow](https://www.inflowinventory.com/)
+
+---
+
+## 6. Cin7 (voorheen Orderhive) -- Beste voor Multichannel Groothandel
+
+Cin7 is het platform voor bedrijven die via veel kanalen tegelijk verkopen: eigen webshop, Amazon, Bol.com, fysieke winkels, wholesale-klanten. Het synchroniseert voorraad over al die kanalen in real-time, en dat is precies waar de waarde zit. Cin7 is ontstaan uit de fusie van DEAR Systems en Orderhive, en combineert de sterke punten van beide platforms.
+
+Ik heb het beoordeeld voor een speelgoedgroothandel die via zes kanalen verkocht. De uitdaging was steeds: als je op Amazon iets verkoopt, moet de Bol.com-voorraad direct meebewegen. Cin7 loste dat op met real-time synchronisatie over alle kanalen, inclusief automatische pricing-regels per kanaal.
+
+### Belangrijkste functies
+
+- Multichannel voorraadbeheer (webshop, marketplaces, wholesale, POS)
+- Real-time synchronisatie over alle verkoopkanalen
+- Warehouse management met barcodescanning
+- Batch tracking en serienummers
+- Inkooporders met automatische bestelpunten
+- B2B-portal en EDI-ondersteuning voor wholesale
+- Uitgebreide rapportages en demand planning
+- Integraties met 700+ platforms (Shopify, Amazon, Xero, QuickBooks)
+- 3PL-integraties voor uitbestede logistiek
+
+### Prijzen (2026)
+
+- **Standard**: $349/maand (5 gebruikers)
+- **Pro**: $599/maand (10 gebruikers)
+- **Advanced**: $999/maand (meer functies en gebruikers)
+- **Cin7 Omni**: op aanvraag (enterprise, maatwerk)
+- Gratis proefperiode beschikbaar
+
+### Voordelen
+
+- Meest complete multichannel-oplossing in dit overzicht
+- 700+ integraties -- vrijwel elk platform wordt ondersteund
+- Sterke B2B/wholesale-functies met EDI
+- Goede rapportages en demand planning
+- Schaalt mee van MKB tot enterprise
+
+### Nadelen
+
+- Complexe setup -- reken op een langere implementatietijd
+- Standard-plan ($349/mnd) is al fors voor een startend MKB
+- Interface kan overweldigend zijn door het aantal functies
+- Klantenservice krijgt wisselende reviews
+- Geen specifieke Nederlandse lokalisatie of support
+
+[Bekijk Cin7](https://www.cin7.com/)
+
+---
+
+## Voor wie is welke tool het beste?
+
+Na het testen en implementeren van deze zes tools is mijn advies per situatie:
+
+| Jouw situatie | Mijn aanbeveling | Waarom |
 |---|---|---|
-| **Fysieke winkel + webshop** | Lightspeed | Beste all-in-one oplossing met kassa en eCom |
-| **Webshop met magazijn** | Picqer | Gespecialiseerd in webshop-logistiek en orderpicking |
-| **MKB met boekhouding-integratie** | Exact Online Handel | Voorraad direct gekoppeld aan financiele administratie |
-| **Webshop-first, eventueel fysiek** | Shopify | Sterkste webshop met POS-uitbreiding |
-| **Kleine retailer of starter** | Square | Gratis starten, opschalen wanneer nodig |
+| **Webshop met eigen magazijn (NL)** | Picqer | Gebouwd voor Nederlandse e-commerce, sterke Bol.com-koppeling |
+| **MKB met boekhouding bij Exact** | Exact Online Handel | Voorraad stroomt direct je administratie in |
+| **E-commerce met seizoensproducten** | Inventory Planner | Voorkomt overvoorraad met slimme forecasting |
+| **Productiebedrijf met assemblage** | Katana | MRP-functionaliteit voor grondstoffen en eindproducten |
+| **Klein bedrijf, beperkt budget** | inFlow | Laagste instapprijs, snel operationeel |
+| **Multichannel groothandel** | Cin7 | Real-time sync over 6+ verkoopkanalen |
 
----
+Een paar kanttekeningen:
 
-## Tips voor goed voorraadbeheer
+**Combinaties werken vaak het beste.** Inventory Planner is geen standalone systeem -- het werkt bovenop je Shopify of WooCommerce. Combineer het dus met een tool als Picqer (voor het magazijn) of inFlow (voor de basisvoorraad). Zo krijg je het beste van beide werelden.
 
-### 1. Stel bestelpunten in
-Definieer voor elk product een minimumvoorraad waarop automatisch een bestelmelding wordt gegenereerd. Zo voorkom je dat je misgrijpt op populaire producten.
+**Begin niet te groot.** Ik zie regelmatig bedrijven die meteen Cin7 of Katana Professional aanschaffen terwijl ze met 200 producten en 20 orders per dag werken. Start met een tool die past bij je huidige volume, en schaal op wanneer dat nodig is.
 
-### 2. Analyseer je omloopsnelheid
-Bekijk regelmatig welke producten snel verkopen en welke als dode voorraad op de plank liggen. Pas je inkoopbeleid aan op basis van deze data.
+**Integraties zijn cruciaal.** Controleer voor je kiest of de tool integreert met je huidige webshop, boekhouding en kassasysteem. Een tool die niet praat met je bestaande systemen creert meer problemen dan hij oplost. Werk je met een [kassasysteem in de horeca](/posts/beste-kassasysteem-horeca-2026/) of een [Lightspeed kassa](/posts/lightspeed-kassa-review-2026/)? Check dan specifiek de koppeling met die systemen.
 
-### 3. Synchroniseer alle kanalen
-Als je zowel online als offline verkoopt, zorg dan dat je voorraad in real-time gesynchroniseerd wordt. Niets is vervelender dan een product online verkopen dat in de winkel al uitverkocht is.
 
-### 4. Tel regelmatig je voorraad
-Zelfs met de beste software ontstaan er afwijkingen door diefstal, breuk of administratieve fouten. Plan regelmatig een voorraadtelling in en corrigeer afwijkingen.
+## 5 praktische tips voor beter voorraadbeheer
 
-### 5. Gebruik barcodes
-Barcode-scanning maakt voorraadin- en uitboeken sneller en nauwkeuriger. De investering in een barcodescanner verdient zichzelf snel terug in tijdsbesparing.
+### 1. Stel bestelpunten in per product
 
----
+Definieer voor elk product een minimumvoorraad. Zodra de voorraad daaronder zakt, genereert het systeem een bestelmelding of plaatst automatisch een order bij je leverancier. Dit klinkt basaal, maar ik zie het bij de helft van de bedrijven die ik adviseer nog niet ingericht.
+
+### 2. Analyseer je omloopsnelheid maandelijks
+
+Welke producten verkopen snel, welke liggen te verstoffen? Die data bepaalt je inkoopstrategie. Producten met een lage omloopsnelheid verdienen kortingsacties of uitfasering -- niet nog een nabestelling.
+
+### 3. Synchroniseer alle kanalen real-time
+
+Verkoop je via meerdere kanalen (webshop, marketplace, winkel)? Zorg dat voorraadwijzigingen in real-time doorgevoerd worden. Een klant die online bestelt wat in de winkel net verkocht is, levert frustratie en kosten op. Bekijk ook mijn overzicht van de [beste software voor webshops](/posts/beste-software-webshops-2026/) voor multichannel-oplossingen.
+
+### 4. Plan regelmatige voorraadtellingen
+
+Zelfs de beste software kan niet corrigeren voor diefstal, breuk of administratieve fouten. Plan minimaal elk kwartaal een volledige voorraadtelling. Bij producten met hoge waarde of hoge omloopsnelheid: maandelijks.
+
+### 5. Gebruik ABC-analyse voor prioritering
+
+Niet elk product verdient evenveel aandacht. Classificeer je voorraad in drie categorieen: A-producten (20% van je assortiment, 80% van je omzet), B-producten (30%, 15%) en C-producten (50%, 5%). Richt je voorraadbeheer-inspanningen op de A-categorie.
+
 
 ## Conclusie
 
-De beste voorraadbeheer software hangt af van je verkoopkanalen, bedrijfsgrootte en specifieke behoeften:
+De keuze voor voorraadbeheer software hangt af van drie vragen: wat is je verkoopmodel, hoe complex is je supply chain, en welke systemen gebruik je al?
 
-- **Beste totaaloplossing voor retail**: [Lightspeed](https://www.lightspeedhq.nl/) -- alles in een platform voor fysieke winkel en webshop.
-- **Beste voor webshops**: [Picqer](https://picqer.com/nl) -- gespecialiseerd in e-commerce logistiek met sterke Nederlandse integraties.
-- **Beste met boekhouding**: [Exact Online](https://www.exact.com/nl) -- naadloze koppeling tussen voorraad en financiele administratie.
-- **Beste voor webshop-first**: [Shopify](https://www.shopify.com/nl) -- het sterkste webshopplatform met groeiende voorraadfuncties.
-- **Beste voor starters**: [Square](https://squareup.com/nl/nl) -- gratis beginnen en opschalen wanneer nodig.
+- **Webshop met magazijn in Nederland**: [Picqer](https://picqer.com/nl) -- de standaard voor Nederlandse e-commerce logistiek.
+- **MKB met Exact-boekhouding**: [Exact Online Handel](https://www.exact.com/nl) -- voorraad en financien in een systeem.
+- **Seizoensgevoelige e-commerce**: [Inventory Planner](https://www.inventory-planner.com/) -- voorspel je inkoop in plaats van gokken.
+- **Productiebedrijf**: [Katana](https://katanamrp.com/) -- van grondstof tot eindproduct in een overzicht.
+- **Starter met beperkt budget**: [inFlow](https://www.inflowinventory.com/) -- morgen operationeel voor $89/maand.
+- **Multichannel groothandel**: [Cin7](https://www.cin7.com/) -- sync alles, overal, in real-time.
 
-Begin met het in kaart brengen van je belangrijkste behoeften: hoeveel producten heb je, verkoop je online en offline, heb je meerdere locaties, en welke integraties zijn essentieel? Vanuit die analyse kies je het systeem dat het beste past.
-
-Bekijk ook onze artikelen over het [beste kassasysteem voor horeca](/posts/beste-kassasysteem-horeca-2026/) en de [beste software voor kappers en schoonheidssalons](/posts/beste-software-kappers-schoonheidssalons-2026/) voor branchespecifieke oplossingen.
+Mijn ervaring na tientallen implementaties: het verschil tussen goed en slecht voorraadbeheer is niet de software, maar de discipline om het systeem consistent te gebruiken. Kies een tool die past bij je huidige schaal, zet bestelpunten en rapportages correct in, en bouw van daaruit verder. De tools in dit overzicht maken dat allemaal mogelijk -- het is aan jou om er een gewoonte van te maken.

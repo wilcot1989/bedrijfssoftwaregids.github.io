@@ -1,7 +1,7 @@
 ---
 title: "Beste Loonadministratie Software 2026: Top 5 Vergeleken"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+date: 2026-03-22
+lastmod: 2026-03-22
 description: "De beste loonadministratie software voor Nederlandse bedrijven in 2026. Nmbrs, Visma, Loket.nl, AFAS en ADP vergeleken op prijs, functies en gebruiksgemak."
 categories: ["hr-software"]
 tags: ["loonadministratie", "salarisverwerking", "HR software", "Nmbrs", "payroll"]
