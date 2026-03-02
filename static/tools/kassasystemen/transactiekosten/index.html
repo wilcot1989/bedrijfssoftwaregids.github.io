@@ -29,13 +29,15 @@
     .logo-icon{width:24px;height:24px;color:#93c5fd;flex-shrink:0}
     .logo span{color:#93c5fd;font-weight:400}
     .header-utility{font-size:.9rem;opacity:.8}
-    .main-nav{border-top:1px solid rgba(255,255,255,.1);padding:.5rem 0;overflow-x:auto;white-space:nowrap}
+    .main-nav{border-top:1px solid rgba(255,255,255,.1);padding:.5rem 0}
     .main-nav a{color:rgba(255,255,255,.8);text-decoration:none;font-size:.88rem;font-weight:500;margin-right:1.75rem;padding:.25rem 0;display:inline-block;border-bottom:2px solid transparent;transition:color .2s,border-color .2s}
     .main-nav a:hover{color:#fff;border-bottom-color:#2563eb;text-decoration:none}
     .breadcrumb{font-size:.85rem;color:#64748b;margin-bottom:1rem}.breadcrumb a{color:#64748b}
     .site-footer{background:#0f2439;color:#94a3b8;margin-top:3rem}
     .site-footer a{color:#94a3b8;text-decoration:underline}
-    @media(max-width:900px){.header-utility{display:none}.main-nav{padding:.75rem 0}}
+    main{padding:2rem 0;min-height:60vh}
+    .hamburger{display:none;background:none;border:none;color:#fff;font-size:1.5rem;cursor:pointer;padding:.25rem;line-height:1}
+    @media(max-width:900px){.hamburger{display:block}.header-utility{display:none}.main-nav{display:none;padding:.75rem 0}.main-nav.open{display:block}.main-nav a{display:block;margin:0;padding:.6rem 0;border-bottom:1px solid rgba(255,255,255,.08);border-left:none}.main-nav a:last-child{border-bottom:none}}
   </style>
 </head>
 <body>
@@ -46,10 +48,12 @@
           <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>bedrijfssoftwaregids<span>.nl</span>
         </a>
         <a href="/about/" class="header-utility">Over Lars</a>
+        <button class="hamburger" onclick="document.querySelector('.main-nav').classList.toggle('open')" aria-label="Menu">&#9776;</button>
       </div>
       <nav class="main-nav"><a href="/categories/kassasystemen/">Kassasystemen</a><a href="/categories/crm/">CRM</a><a href="/categories/boekhouding/">Boekhouding</a><a href="/categories/projectmanagement/">PM</a><a href="/categories/productiviteit/">Productiviteit</a><a href="/categories/hr-software/">HR</a><a href="/categories/marketing/">Marketing</a><a href="/categories/webshops/">Webshops</a></nav>
     </div>
   </header>
+  <main>
   <div class="article-hero" style="background-image: url('/images/tools/geavanceerd.svg');">
     <div class="article-hero-overlay">
       <div class="container wide">
@@ -62,7 +66,7 @@
       </div>
     </div>
   </div>
-  <main class="container wide" style="padding:1rem 1.5rem 2rem;">
+  <div class="container wide" style="padding-top:1.5rem;">
     <p class="bsg-intro">Elke pinbetaling kost geld, maar hoeveel precies? Vul je gemiddelde transactiebedrag en maandelijks volume in en vergelijk direct de kosten van verschillende betaalproviders en tariefmodellen.</p>
 
     <div id="bsg-advanced"></div>
@@ -93,6 +97,7 @@
         <li><a href="/categories/kassasystemen/">Alle kassasystemen artikelen</a> — reviews en vergelijkingen per branche.</li>
       </ul>
     </section>
+  </div>
   </main>
   <footer class="site-footer">
     <div class="container wide">
