@@ -146,7 +146,7 @@ async function initWizard() {
         <p style="font-weight:600;margin-bottom:0.5rem;">Bewaar je resultaat</p>
         <p style="font-size:0.9rem;color:#64748b;margin-bottom:0.75rem;">Ontvang je persoonlijke shortlist per e-mail, inclusief een vergelijkings-PDF.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap;">
-          <input type="email" id="bsg-lead-email" placeholder="je@email.nl" style="flex:1;min-width:200px;">
+          <input type="email" id="bsg-lead-email" placeholder="info@jouwbedrijf.nl" style="flex:1;min-width:200px;">
           <button type="button" id="bsg-lead-submit" class="bsg-btn" style="white-space:nowrap;margin-top:0;">Verstuur</button>
         </div>
         <p id="bsg-lead-msg" style="font-size:0.8rem;color:#64748b;margin-top:0.5rem;display:none;"></p>
