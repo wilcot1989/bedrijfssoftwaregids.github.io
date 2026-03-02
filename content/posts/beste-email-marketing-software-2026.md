@@ -173,7 +173,7 @@ Meer weten? Lees mijn uitgebreide [Brevo review](/posts/brevo-review-2026/) of b
 
 ---
 
-## 2. Mailchimp -- de bekendste naam in email marketing
+## 2. Mailchimp -- de bekendste naam in e-mailmarketing
 
 Mailchimp is het platform waar de meeste klanten mee bij mij aankloppen. Iedereen kent het, en dat heeft een reden: de drag-and-drop editor is een van de prettigste die ik heb gebruikt. Je sleept blokken op z'n plek, past kleuren aan en hebt binnen tien minuten een professioneel ogende nieuwsbrief. De 100+ templates zijn een fijn startpunt als je geen ontwerper in dienst hebt.
 
@@ -293,11 +293,11 @@ Twee kanttekeningen. De interface is niet volledig in het Nederlands -- de kern 
 
 ## 5. Klaviyo -- de e-commerce specialist
 
-Klaviyo is de tool die ik aanbeveel aan webshops die serieus zijn over email marketing. Waar Mailchimp een allrounder is met goede e-commerce functies, is Klaviyo van de grond af gebouwd voor online retail. De integraties met Shopify, WooCommerce en Magento zijn dieper dan bij welke concurrent ook. Klaviyo weet precies wat een klant heeft bekeken, in z'n winkelwagen heeft gelegd en gekocht -- en bouwt daar automatisch persoonlijke mailflows omheen.
+Klaviyo is de tool die ik aanbeveel aan webshops die serieus zijn over e-mailmarketing. Waar Mailchimp een allrounder is met goede e-commerce functies, is Klaviyo van de grond af gebouwd voor online retail. De integraties met Shopify, WooCommerce en Magento zijn dieper dan bij welke concurrent ook. Klaviyo weet precies wat een klant heeft bekeken, in z'n winkelwagen heeft gelegd en gekocht -- en bouwt daar automatisch persoonlijke mailflows omheen.
 
 Wat Klaviyo onderscheidt is de data. Het platform combineert je e-maildata met webshopdata tot gedetailleerde klantprofielen. De predictive analytics vertellen je wanneer iemand waarschijnlijk opnieuw koopt, wat de verwachte klantwaarde is en wie je dreigt te verliezen. Op basis daarvan bouw je segmenten en automations die echt converteren. Ik heb een webshop-klant geholpen die overstapte van Mailchimp naar Klaviyo en binnen drie maanden 40% meer omzet uit email haalde -- puur door betere segmentatie en timing.
 
-De prijs is niet mals. Klaviyo is duurder dan de meeste alternatieven, en de kosten stijgen flink bij meer contacten. Bij 5.000 profielen zit je al op zo'n $100 per maand. Maar als email marketing een serieus omzetkanaal is voor je webshop, verdient die investering zichzelf doorgaans ruim terug.
+De prijs is niet mals. Klaviyo is duurder dan de meeste alternatieven, en de kosten stijgen flink bij meer contacten. Bij 5.000 profielen zit je al op zo'n $100 per maand. Maar als e-mailmarketing een serieus omzetkanaal is voor je webshop, verdient die investering zichzelf doorgaans ruim terug.
 
 ### Prijzen (april 2026)
 

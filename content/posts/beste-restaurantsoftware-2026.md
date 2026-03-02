@@ -130,7 +130,7 @@ Veel restauranthouders schatten hun voorraad op gevoel. Dat kost geld. Goed voor
 
 ### Personeelsplanning
 
-Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij de meeste restaurantsoftwarepakketten zijn ingebouwd of via een koppeling beschikbaar zijn. Sommige systemen bieden zelfs personeelskostenanalyse per dienst, zodat je precies weet of je te veel of te weinig personeel hebt ingepland. Zoek je hier een gespecialiseerde oplossing voor? Bekijk dan mijn vergelijking van de [beste planning software voor horeca](/posts/beste-planning-software-horeca-2026/).
+Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij de meeste horeca software pakketten zijn ingebouwd of via een koppeling beschikbaar zijn. Sommige systemen bieden zelfs personeelskostenanalyse per dienst, zodat je precies weet of je te veel of te weinig personeel hebt ingepland. Zoek je hier een gespecialiseerde oplossing voor? Bekijk dan mijn vergelijking van de [beste planning software voor horeca](/posts/beste-planning-software-horeca-2026/).
 
 
 ## Top 5: Beste Horeca Software 2026
@@ -339,7 +339,7 @@ Eerlijk punt: op Trustpilot scoort Orderbird slechts een 2.1/5 met 35 reviews --
 
 ### 5. Zettle by PayPal -- Beste mobiele optie voor foodtrucks en pop-ups
 
-Zettle is geen traditionele restaurantsoftware. Het is een mobiel kassasysteem dat je op je smartphone of tablet draait, met een pinapparaat van €29. Ik noem het hier omdat het voor een specifieke groep restauranthouders precies de juiste keuze is: foodtrucks, pop-up restaurants, seizoensterrassen en kleine eetgelegenheden die vooral snel en goedkoop willen afrekenen.
+Zettle is geen traditionele horeca software. Het is een mobiel kassasysteem dat je op je smartphone of tablet draait, met een pinapparaat van €29. Ik noem het hier omdat het voor een specifieke groep restauranthouders precies de juiste keuze is: foodtrucks, pop-up restaurants, seizoensterrassen en kleine eetgelegenheden die vooral snel en goedkoop willen afrekenen.
 
 Ik heb Zettle aanbevolen aan een foodtruck-eigenaar die elke week op een andere markt stond. Reader in de zak, telefoon erbij, klaar. Geen maandelijkse softwarekosten -- je betaalt 1,75% per transactie via het standaardtarief (Go), of 1,25% als je kiest voor het Pro-abonnement. Op Trustpilot scoort Zettle een 3.3/5 met meer dan 5.500 reviews. Fans zijn lovend over de eenvoud, de kritiek gaat over de klantenservice bij problemen.
 
