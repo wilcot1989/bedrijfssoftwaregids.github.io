@@ -100,10 +100,10 @@ async function initMatrix() {
 
   /* Tool links */
   const advBtn = cat?.advanced?.enabled
-    ? `<a class="bsg-btn" style="margin-left:8px;" href="${BSG_BASE}/${escapeHTML(cat.slug)}/${escapeHTML(cat.advanced.page)}">${escapeHTML(cat.advanced.title)}</a>`
+    ? `<a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/${escapeHTML(cat.advanced.page)}">${escapeHTML(cat.advanced.title)}</a>`
     : "";
   const calcBtn = cat?.calculator?.enabled
-    ? `<a class="bsg-btn" style="margin-left:8px;" href="${BSG_BASE}/${escapeHTML(cat.slug)}/calculator.html">Bereken kosten</a>`
+    ? `<a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/calculator.html">Bereken kosten</a>`
     : "";
 
   mount.innerHTML = `

@@ -1,20 +1,368 @@
-.bsg-card{max-width:960px;margin:20px auto;padding:18px;border:1px solid #e7e7e7;border-radius:12px}
-.bsg-q{margin:12px 0}
-.bsg-q label{display:block;font-weight:600;margin-bottom:6px}
-.bsg-q select,.bsg-q input[type="number"]{width:100%;padding:10px;border:1px solid #ddd;border-radius:10px}
-.bsg-bool{display:flex;gap:14px;flex-wrap:wrap}
-.bsg-chips{display:flex;flex-wrap:wrap;gap:10px}
-.bsg-chip{border:1px solid #ddd;border-radius:999px;padding:8px 10px}
-.bsg-btn{display:inline-block;padding:10px 14px;border-radius:10px;border:1px solid #111;text-decoration:none}
-.bsg-btn-sm{display:inline-block;padding:6px 10px;border-radius:10px;border:1px solid #111;text-decoration:none}
-.bsg-results{margin-top:14px}
-.bsg-result{border:1px solid #eee;border-radius:12px;padding:12px;margin:10px 0}
-.bsg-result-head{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap}
-.bsg-badge{border:1px solid #ddd;border-radius:999px;padding:4px 8px;font-size:12px}
-.bsg-table{width:100%;border-collapse:collapse}
-.bsg-table th,.bsg-table td{padding:10px;border-bottom:1px solid #eee;vertical-align:top}
-.bsg-filters{display:flex;gap:14px;flex-wrap:wrap;margin:10px 0 14px}
-.bsg-inline{display:flex;align-items:center;gap:8px}
-.bsg-note{font-size:12px;color:#666}
-.bsg-table-wrap{overflow:auto}
-.bsg-matrix-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+/* ===== BSG Tools — consistent met site design system ===== */
+
+/* Card container */
+.bsg-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+}
+.bsg-card h1 {
+  color: #0f2439;
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.02em;
+}
+.bsg-card h2 {
+  color: #0f2439;
+  font-size: 1.4rem;
+  margin-bottom: 0.75rem;
+  margin-top: 0;
+}
+.bsg-card > p {
+  color: #64748b;
+  margin-bottom: 1.25rem;
+  line-height: 1.6;
+}
+
+/* ===== FORM FIELDS ===== */
+
+/* Default: all labels in bsg-card are form field labels */
+.bsg-card label {
+  display: block;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #1e293b;
+  margin-bottom: 1rem;
+}
+
+/* Text-like inputs + selects (NOT radio/checkbox) */
+.bsg-card select,
+.bsg-card input[type="number"],
+.bsg-card input[type="text"],
+.bsg-card input[type="email"] {
+  display: block;
+  width: 100%;
+  margin-top: 0.35rem;
+  padding: 0.7rem 0.9rem;
+  border: 1.5px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-family: inherit;
+  color: #1e293b;
+  background: #fff;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  -webkit-appearance: none;
+}
+.bsg-card select:focus,
+.bsg-card input[type="number"]:focus,
+.bsg-card input[type="text"]:focus,
+.bsg-card input[type="email"]:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 3px rgba(37,99,235,0.1);
+}
+
+/* Wizard question wrapper */
+.bsg-q {
+  margin-bottom: 1.25rem;
+}
+.bsg-q > label {
+  margin-bottom: 0.4rem;
+}
+
+/* Bool radio groups */
+.bsg-bool {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.bsg-bool label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 400;
+  cursor: pointer;
+  padding: 0.55rem 1.1rem;
+  border: 1.5px solid #d1d5db;
+  border-radius: 8px;
+  margin-bottom: 0;
+  background: #fff;
+  transition: border-color 0.2s, background 0.2s;
+}
+.bsg-bool label:hover {
+  border-color: #93c5fd;
+}
+.bsg-bool label:has(input:checked) {
+  border-color: #2563eb;
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+/* Multi-select chips */
+.bsg-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.bsg-chips .bsg-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  border: 1.5px solid #d1d5db;
+  border-radius: 999px;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  cursor: pointer;
+  background: #fff;
+  margin-bottom: 0;
+  transition: border-color 0.2s, background 0.2s;
+}
+.bsg-chips .bsg-chip:hover {
+  border-color: #93c5fd;
+}
+.bsg-chips .bsg-chip:has(input:checked) {
+  border-color: #2563eb;
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+/* ===== BUTTONS ===== */
+.bsg-btn {
+  display: inline-block;
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  border: none;
+  background: #2563eb;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.95rem;
+  font-family: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.2s, box-shadow 0.2s;
+  margin-top: 0.5rem;
+}
+.bsg-btn:hover {
+  background: #1d4ed8;
+  box-shadow: 0 2px 8px rgba(37,99,235,0.3);
+  color: #fff;
+  text-decoration: none;
+}
+.bsg-btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+.bsg-btn-sm {
+  display: inline-block;
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  border: none;
+  background: #2563eb;
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.85rem;
+  font-family: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.bsg-btn-sm:hover {
+  background: #1d4ed8;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* ===== RESULTS ===== */
+.bsg-results {
+  margin-top: 1.5rem;
+}
+.bsg-result {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 0.75rem;
+}
+.bsg-result-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.bsg-badge {
+  display: inline-block;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #bfdbfe;
+  border-radius: 999px;
+  padding: 0.2rem 0.7rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+.bsg-cta {
+  margin-top: 0.75rem;
+}
+
+/* Large number display for calculator results */
+.bsg-amount {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #0f2439;
+  margin: 0.75rem 0 0.25rem;
+  line-height: 1.2;
+}
+.bsg-amount-sub {
+  font-size: 0.92rem;
+  color: #64748b;
+  margin: 0 0 0.75rem;
+}
+
+/* ===== TABLE ===== */
+.bsg-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 10px;
+  border: 1px solid #e2e8f0;
+  margin: 1rem 0;
+}
+.bsg-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  min-width: 500px;
+}
+.bsg-table th {
+  background: #0f2439;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.7rem 0.9rem;
+  text-align: left;
+  white-space: nowrap;
+  font-size: 0.88rem;
+}
+.bsg-table th:first-child { border-radius: 9px 0 0 0; }
+.bsg-table th:last-child { border-radius: 0 9px 0 0; }
+.bsg-table td {
+  padding: 0.7rem 0.9rem;
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 0.92rem;
+  vertical-align: middle;
+}
+.bsg-table tr:nth-child(even) td {
+  background: #f8fafc;
+}
+.bsg-table tr:last-child td {
+  border-bottom: none;
+}
+.bsg-table tr:hover td {
+  background: #eff6ff;
+}
+
+/* ===== FILTERS ===== */
+.bsg-filters {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  margin: 1rem 0 1.25rem;
+  padding: 1rem 1.25rem;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+}
+.bsg-filters label {
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: #1e293b;
+  margin-bottom: 0;
+}
+.bsg-filters select {
+  display: block;
+  margin-top: 0.25rem;
+  padding: 0.4rem 0.75rem;
+  border: 1.5px solid #d1d5db;
+  border-radius: 6px;
+  font-size: 0.88rem;
+  font-family: inherit;
+  width: auto;
+}
+.bsg-inline {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.88rem;
+}
+
+/* ===== MISC ===== */
+.bsg-note {
+  font-size: 0.82rem;
+  color: #94a3b8;
+  margin-top: 0.75rem;
+}
+.bsg-matrix-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+.bsg-matrix-actions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+.bsg-lead-capture {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  background: #f8fafc;
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .bsg-card {
+    padding: 1.25rem;
+  }
+  .bsg-card h1 {
+    font-size: 1.4rem;
+  }
+  .bsg-amount {
+    font-size: 1.5rem;
+  }
+  .bsg-filters {
+    flex-direction: column;
+    gap: 0.75rem;
+    align-items: stretch;
+  }
+  .bsg-matrix-head {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .bsg-result-head {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .bsg-table {
+    font-size: 0.85rem;
+  }
+  .bsg-table th, .bsg-table td {
+    padding: 0.5rem 0.7rem;
+  }
+}
+@media (max-width: 480px) {
+  .bsg-card {
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  .bsg-bool {
+    flex-direction: column;
+  }
+}

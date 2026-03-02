@@ -50,9 +50,9 @@ async function initCalculator() {
 
       <div id="bsg-calc-inputs"></div>
 
-      <button class="bsg-btn" id="bsg-calc-run">Bereken</button>
+      <button class="bsg-btn" id="bsg-calc-run">Bereken kosten</button>
       <div id="bsg-calc-out" class="bsg-results"></div>
-      <p class="bsg-note">Let op: indicatief. Werk prijzen bij in <code>/data/software.json</code>.</p>
+      <p class="bsg-note">Prijzen zijn indicatief en kunnen afwijken van actuele tarieven.</p>
     </div>
   `;
 
@@ -134,11 +134,17 @@ async function initCalculator() {
       else total = calcPerUserMonthly(t, units, months);
     }
 
+    const monthly = Math.round(total / months);
     out.innerHTML = `
       <div class="bsg-result">
-        <strong>Totale kosten (indicatief):</strong> €${Math.round(total).toLocaleString("nl-NL")}
-        <div class="bsg-cta" style="margin-top:10px;">
-          <a class="bsg-btn" href="${escapeHTML(t.affiliate?.url || "#")}" rel="sponsored nofollow">Bekijk / demo aanvragen</a>
+        <div class="bsg-result-head">
+          <strong>${escapeHTML(t.name)}</strong>
+          <span class="bsg-badge">Indicatieve kosten</span>
+        </div>
+        <div class="bsg-amount">&euro;${Math.round(total).toLocaleString("nl-NL")}</div>
+        <p class="bsg-amount-sub">over ${months} maanden (&euro;${monthly.toLocaleString("nl-NL")}/maand)</p>
+        <div class="bsg-cta">
+          <a class="bsg-btn" href="${escapeHTML(t.affiliate?.url || "#")}" rel="sponsored nofollow">Bekijk ${escapeHTML(t.name)}</a>
         </div>
       </div>
     `;

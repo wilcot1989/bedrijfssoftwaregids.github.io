@@ -134,15 +134,15 @@ async function initWizard() {
 
     /* Lead capture CTA after results */
     const leadCapture = `
-      <div class="bsg-lead-capture" style="margin-top:1.5rem;padding:1.25rem;border:1px solid #e2e8f0;border-radius:12px;background:#f8fafc;">
+      <div class="bsg-lead-capture">
         <p style="font-weight:600;margin-bottom:0.5rem;">Bewaar je resultaat</p>
         <p style="font-size:0.9rem;color:#64748b;margin-bottom:0.75rem;">Ontvang je persoonlijke shortlist per e-mail, inclusief een vergelijkings-PDF.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap;">
-          <input type="email" id="bsg-lead-email" placeholder="je@email.nl" style="flex:1;min-width:200px;padding:10px;border:1px solid #ddd;border-radius:10px;font-size:0.95rem;">
-          <button type="button" id="bsg-lead-submit" class="bsg-btn" style="white-space:nowrap;">Verstuur</button>
+          <input type="email" id="bsg-lead-email" placeholder="je@email.nl" style="flex:1;min-width:200px;">
+          <button type="button" id="bsg-lead-submit" class="bsg-btn" style="white-space:nowrap;margin-top:0;">Verstuur</button>
         </div>
         <p id="bsg-lead-msg" style="font-size:0.8rem;color:#64748b;margin-top:0.5rem;display:none;"></p>
-        <p style="font-size:0.72rem;color:#94a3b8;margin-top:0.5rem;">Geen spam. Je gegevens worden niet gedeeld. <a href="/privacy/" style="color:#94a3b8;">Privacybeleid</a></p>
+        <p class="bsg-note">Geen spam. Je gegevens worden niet gedeeld. <a href="/privacy/" style="color:#94a3b8;">Privacybeleid</a></p>
       </div>
     `;
 

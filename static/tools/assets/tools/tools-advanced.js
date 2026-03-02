@@ -31,7 +31,11 @@ async function initAdvancedTool() {
       const newSales = leads*(conv*(1+lift));
       const delta = (newSales-baseSales)*deal*12;
 
-      qs("#out").innerHTML = `<div class="bsg-result"><strong>Extra omzet per jaar (indicatief):</strong> €${Math.round(delta).toLocaleString("nl-NL")}<p class="bsg-note">Indicatief model; gebruik als richtinggevend.</p></div>`;
+      qs("#out").innerHTML = `<div class="bsg-result">
+        <div class="bsg-result-head"><strong>Geschatte extra omzet</strong><span class="bsg-badge">ROI indicatie</span></div>
+        <div class="bsg-amount">&euro;${Math.round(delta).toLocaleString("nl-NL")} per jaar</div>
+        <p class="bsg-amount-sub">Van ${Math.round(baseSales)} naar ${Math.round(newSales)} deals/maand (+${Math.round(lift*100)}%)</p>
+      </div>`;
     });
     return;
   }
@@ -53,7 +57,11 @@ async function initAdvancedTool() {
       const dividend = Math.max(0, parseFloat(qs("#dividend").value||0));
       const score = (winst/100000) + (dividend/30000) - (salaris/80000);
       const verdict = score > 1.2 ? "BV is het onderzoeken waard" : "ZZP blijft vaak prima (check met adviseur)";
-      qs("#out").innerHTML = `<div class="bsg-result"><strong>Indicatie:</strong> ${escapeHTML(verdict)}<p class="bsg-note">Gebruik dit als richting. Werk dit later uit met echte tarieven/regels.</p></div>`;
+      qs("#out").innerHTML = `<div class="bsg-result">
+        <div class="bsg-result-head"><strong>Indicatie</strong><span class="bsg-badge">ZZP vs BV</span></div>
+        <p style="font-size:1.1rem;font-weight:600;color:#0f2439;margin:0.75rem 0 0.25rem;">${escapeHTML(verdict)}</p>
+        <p class="bsg-note">Dit is een vereenvoudigde indicatie. Raadpleeg een fiscalist voor persoonlijk advies.</p>
+      </div>`;
     });
     return;
   }
@@ -84,7 +92,14 @@ async function initAdvancedTool() {
     qs("#run").addEventListener("click", () => {
       const score = ["sprints","cer","dep","rep","int"].reduce((a,id)=>a+parseInt(qs("#"+id).value,10),0);
       const level = score >= 16 ? "Advanced (enterprise tooling)" : (score >= 9 ? "Intermediate" : "Basic");
-      qs("#out").innerHTML = `<div class="bsg-result"><strong>Score:</strong> ${score}/20 — <strong>${escapeHTML(level)}</strong></div>`;
+      const pct = Math.round((score/20)*100);
+      qs("#out").innerHTML = `<div class="bsg-result">
+        <div class="bsg-result-head"><strong>Agile maturity</strong><span class="bsg-badge">${score}/20</span></div>
+        <div style="background:#e2e8f0;border-radius:6px;height:10px;margin:0.75rem 0 0.5rem;overflow:hidden;">
+          <div style="background:#2563eb;height:100%;width:${pct}%;border-radius:6px;transition:width 0.3s;"></div>
+        </div>
+        <p style="font-size:1.05rem;font-weight:600;color:#0f2439;margin:0;">${escapeHTML(level)}</p>
+      </div>`;
     });
     return;
   }
@@ -105,7 +120,12 @@ async function initAdvancedTool() {
       const avg = Math.max(0, parseFloat(qs("#avg").value||0));
       const fee = Math.max(0, parseFloat(qs("#fee").value||0))/100.0;
       const yearly = tx*avg*fee*12;
-      qs("#out").innerHTML = `<div class="bsg-result"><strong>Jaarlijkse fee (indicatief):</strong> €${Math.round(yearly).toLocaleString("nl-NL")}</div>`;
+      const monthly = tx * avg * fee;
+      qs("#out").innerHTML = `<div class="bsg-result">
+        <div class="bsg-result-head"><strong>Transactiekosten</strong><span class="bsg-badge">Indicatie</span></div>
+        <div class="bsg-amount">&euro;${Math.round(yearly).toLocaleString("nl-NL")} per jaar</div>
+        <p class="bsg-amount-sub">&euro;${Math.round(monthly).toLocaleString("nl-NL")} per maand aan transactiekosten</p>
+      </div>`;
     });
     return;
   }
@@ -127,7 +147,12 @@ async function initAdvancedTool() {
       const sal = Math.max(0, parseFloat(qs("#sal").value||0));
       const cf = Math.max(1, parseFloat(qs("#cf").value||1.2));
       const yearly = emp*sal*vz*cf;
-      qs("#out").innerHTML = `<div class="bsg-result"><strong>Verzuimkosten/jaar (indicatief):</strong> €${Math.round(yearly).toLocaleString("nl-NL")}</div>`;
+      const monthlyAbsence = yearly / 12;
+      qs("#out").innerHTML = `<div class="bsg-result">
+        <div class="bsg-result-head"><strong>Verzuimkosten</strong><span class="bsg-badge">Indicatie</span></div>
+        <div class="bsg-amount">&euro;${Math.round(yearly).toLocaleString("nl-NL")} per jaar</div>
+        <p class="bsg-amount-sub">&euro;${Math.round(monthlyAbsence).toLocaleString("nl-NL")} per maand bij ${(vz*100).toFixed(1)}% verzuim</p>
+      </div>`;
     });
     return;
   }
@@ -153,7 +178,11 @@ async function initAdvancedTool() {
       const base = vis*lcr*cr*aov*12;
       const improved = base*(1+upl);
       const delta = improved-base;
-      qs("#out").innerHTML = `<div class="bsg-result"><strong>Extra omzet/jaar (indicatief):</strong> €${Math.round(delta).toLocaleString("nl-NL")}</div>`;
+      qs("#out").innerHTML = `<div class="bsg-result">
+        <div class="bsg-result-head"><strong>Lead ROI</strong><span class="bsg-badge">Indicatie</span></div>
+        <div class="bsg-amount">&euro;${Math.round(delta).toLocaleString("nl-NL")} extra per jaar</div>
+        <p class="bsg-amount-sub">Huidige omzet: &euro;${Math.round(base).toLocaleString("nl-NL")} &rarr; Verbeterd: &euro;${Math.round(improved).toLocaleString("nl-NL")}</p>
+      </div>`;
     });
     return;
   }
@@ -175,7 +204,11 @@ async function initAdvancedTool() {
       const cx = Math.max(1, Math.min(5, parseFloat(qs("#cx").value||3)));
       const effort = (prod/200) + (cx*1.5);
       const verdict = (rev>150000 && effort<8) ? "Migratie is het onderzoeken waard" : "Migratie alleen als je duidelijke pijnpunten hebt";
-      qs("#out").innerHTML = `<div class="bsg-result"><strong>Advies:</strong> ${escapeHTML(verdict)}<p class="bsg-note">Indicatief. Maak dit later specifieker per platform.</p></div>`;
+      qs("#out").innerHTML = `<div class="bsg-result">
+        <div class="bsg-result-head"><strong>Migratie-advies</strong><span class="bsg-badge">Indicatie</span></div>
+        <p style="font-size:1.1rem;font-weight:600;color:#0f2439;margin:0.75rem 0 0.25rem;">${escapeHTML(verdict)}</p>
+        <p class="bsg-amount-sub">Geschatte inspanning: ${effort.toFixed(1)} punten (${prod} producten, complexiteit ${cx})</p>
+      </div>`;
     });
     return;
   }
@@ -201,7 +234,10 @@ async function initAdvancedTool() {
         "Taken: Trello/Asana/Jira (afhankelijk van team)",
         "Notities: Notion/OneNote"
       ];
-      qs("#out").innerHTML = `<div class="bsg-result"><strong>Aanbevolen stack (${escapeHTML(ws)}, team ${escapeHTML(ts)}, budget ${escapeHTML(b)}):</strong><ul>${rec.map(x=>`<li>${escapeHTML(x)}</li>`).join("")}</ul></div>`;
+      qs("#out").innerHTML = `<div class="bsg-result">
+        <div class="bsg-result-head"><strong>Aanbevolen stack</strong><span class="bsg-badge">${escapeHTML(ws)} &middot; ${escapeHTML(ts)} personen</span></div>
+        <ul style="margin:0.75rem 0 0 1.25rem;line-height:1.8;">${rec.map(x=>`<li>${escapeHTML(x)}</li>`).join("")}</ul>
+      </div>`;
     });
     return;
   }
