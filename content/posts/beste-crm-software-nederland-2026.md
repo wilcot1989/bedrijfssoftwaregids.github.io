@@ -341,7 +341,7 @@ Na 12 jaar MKB-bedrijven begeleiden, zie ik dezelfde fouten steeds terugkomen:
 
 4. **Geen datamigratiestrategie** -- Je hebt 5.000 contacten in spreadsheets en drie jaar aan e-mailgeschiedenis. Hoe krijg je dat in je nieuwe CRM? Denk hier van tevoren over na. Pipedrive en HubSpot hebben goede importtools, maar bij Salesforce heb je vaak een consultant nodig.
 
-5. **Integraties niet checken** -- Je CRM moet samenwerken met je e-mail, boekhouding, telefonie en website. Check vooraf of de koppelingen die je nodig hebt beschikbaar zijn -- en of ze extra kosten. Wil je offertes vanuit je CRM versturen? Lees dan ook mijn artikel over de [beste offerte software](/posts/beste-offerte-software-2026/).
+5. **Integraties niet checken** -- Je CRM moet samenwerken met je e-mail, boekhouding, telefonie en website. Check vooraf of de koppelingen die je nodig hebt beschikbaar zijn -- en of ze extra kosten. Wil je offertes vanuit je CRM versturen? Lees dan ook mijn artikel over de [beste offertesoftware](/posts/beste-offerte-software-2026/).
 
 ---
 

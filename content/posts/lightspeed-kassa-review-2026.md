@@ -29,7 +29,7 @@ faq:
 
 Lightspeed is het kassasysteem dat ik het vaakst tegenkom bij mijn klanten -- en dat is logisch. Het is een van de bekendste namen in Nederland, actief in zowel horeca als retail, en het marketingbudget is enorm. Maar een groot merk betekent niet automatisch de beste keuze voor jouw zaak.
 
-Ik werk nu ruim drie jaar met Lightspeed-klanten. Van een lunchcafe in Utrecht dat net opende tot een retailketen met zes vestigingen. In die tijd heb ik het systeem van binnen en buiten leren kennen: de sterke punten, de frustraties, en de momenten waarop ik klanten soms toch een alternatief adviseerde. Dit is mijn eerlijke review.
+Ik werk nu ruim drie jaar met Lightspeed-klanten. Van een lunchcafe in Utrecht dat net opende tot een retailketen met zes vestigingen. In die tijd heb ik het systeem van binnen en buiten leren kennen: de sterke punten, de frustraties, en de momenten waarop ik klanten soms toch een alternatief adviseerde. Dit is mijn eerlijke Lightspeed kassa review.
 
 ## Lightspeed in het kort
 
@@ -56,7 +56,7 @@ Het bedrijf biedt drie hoofdproducten:
 - **Lightspeed Retail** (R-Series/X-Series) -- voor winkels
 - **Lightspeed eCommerce** (C-Series) -- voor webshops
 
-In deze review focus ik op Restaurant en Retail, de twee producten die ik het meest heb getest en geadviseerd.
+In deze Lightspeed kassa review focus ik op Restaurant en Retail, de twee producten die ik het meest heb getest en geadviseerd.
 
 ## Lightspeed Restaurant: mijn ervaring
 
@@ -194,7 +194,7 @@ Dit is waar het in de praktijk duurder uitvalt dan je denkt:
 
 **Rekenvoorbeeld**: een restaurant met 1 kassa, Essential-pakket en Deliverect voor Thuisbezorgd + Uber Eats betaalt minimaal €59 + €49 = **€108/maand aan software**, plus hardware en transactiekosten.
 
-## Review scores: wat zeggen gebruikers?
+## Lightspeed kassa review: wat zeggen gebruikers?
 
 | Platform | Score | Aantal reviews | Opvallend |
 |---|---|---|---|
@@ -230,7 +230,7 @@ Na tientallen Lightspeed-implementaties heb ik deze fouten keer op keer zien ter
 
 **5. Integraties niet vooraf testen.** De Lightspeed-website toont honderden integraties, maar niet elke koppeling werkt even goed in de praktijk. Test je belangrijkste integraties (boekhouding, bezorging, personeelsplanning) tijdens de proefperiode, niet erna.
 
-## Lightspeed vs de concurrentie
+## Lightspeed kassa review: vergelijking met de concurrentie
 
 Hoe verhoudt Lightspeed zich tot alternatieven? Een kort overzicht:
 
@@ -263,7 +263,7 @@ Wil je een uitgebreidere vergelijking? Lees mijn [Lightspeed vs Square vergelijk
 - Een **onbetrouwbare internetverbinding** hebt -- kijk dan naar Untill
 - Primair een **webshop** wilt bouwen -- Shopify of WooCommerce is dan beter
 
-## Voordelen en nadelen samengevat
+## Lightspeed kassa review: voordelen en nadelen
 
 ### Voordelen
 
@@ -287,7 +287,7 @@ Wil je een uitgebreidere vergelijking? Lees mijn [Lightspeed vs Square vergelijk
 - Prijsverhogingen zonder duidelijke communicatie vooraf
 - iPad-hardware is verplicht (geen Android-support)
 
-## Mijn eindoordeel
+## Lightspeed kassa review: mijn eindoordeel
 
 Lightspeed is niet het goedkoopste kassasysteem, en het is niet het meest flexibele. Maar het is wel een van de meest complete en betrouwbare oplossingen die je in Nederland kunt krijgen -- zeker voor horeca met bezorgambities en retail met serieus voorraadbeheer.
 

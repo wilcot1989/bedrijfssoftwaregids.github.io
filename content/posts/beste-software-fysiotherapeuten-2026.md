@@ -1,8 +1,8 @@
 ---
-title: "Beste Software voor Fysiotherapeuten 2026"
+title: "Beste Fysiotherapie Software 2026: Top 5"
 date: 2026-04-15
 lastmod: 2026-04-15
-description: "Vergelijk de 5 beste softwarepakketten voor fysiotherapeuten in 2026. Van EPD en agenda tot declaraties en oefenprogramma's — inclusief prijzen, voor- en nadelen."
+description: "Vergelijk de 5 beste fysiotherapie software pakketten van 2026. Van EPD en agenda tot declaraties en oefenprogramma's — inclusief prijzen, voor- en nadelen."
 categories: ["productiviteit"]
 tags: ["fysiotherapie software", "EPD", "praktijkbeheer", "declaratie", "zorgverleners"]
 featured_image: "/images/posts/beste-software-fysiotherapeuten-2026.svg"
@@ -29,7 +29,7 @@ faq:
 
 Vorige maand hielp ik een fysiotherapeut die nog met Excel-lijsten en papieren dossiers werkte. Zijn declaraties werden regelmatig afgewezen door zorgverzekeraars, hij had geen overzicht over zijn agenda en patienten moesten bellen voor een afspraak. Na de overstap naar een volledig EPD-pakket daalde zijn administratietijd met meer dan de helft. Dat soort verhalen hoor ik vaker — de juiste software maakt het verschil tussen een chaotische praktijk en een die soepel draait.
 
-In dit artikel vergelijk ik de 5 beste softwarepakketten voor fysiotherapeuten in Nederland. Ik kijk specifiek naar het EPD, de agenda, declaratiemogelijkheden, oefenprogramma's en het patientenportaal. Geen marketingverhalen, maar wat je er in de dagelijkse praktijk aan hebt.
+In dit artikel vergelijk ik de 5 beste fysiotherapie software pakketten in Nederland. Ik kijk specifiek naar het EPD, de agenda, declaratiemogelijkheden, oefenprogramma's en het patientenportaal. Geen marketingverhalen, maar wat je er in de dagelijkse praktijk aan hebt.
 
 
 ## Vergelijkingstabel: Beste Fysiotherapie Software 2026
@@ -365,7 +365,7 @@ Wat je inlevert ten opzichte van de duurdere pakketten: de interface is minder g
 ---
 
 
-## Hoe kies je de juiste software? Mijn aanbevelingen
+## Hoe kies je de juiste fysiotherapie software? Mijn aanbevelingen
 
 De keuze hangt af van drie factoren: je praktijkgrootte, je budget en wat je het belangrijkst vindt in je dagelijks werk.
 
@@ -420,7 +420,7 @@ Alle software in dit overzicht voldoet aan de AVG (GDPR). Patientgegevens worden
 
 ## Conclusie
 
-De markt voor fysiotherapie-software in Nederland wordt gedomineerd door Intramed met 53 procent marktaandeel, maar de concurrentie haalt in. FysioRoadmap biedt het sterkste inhoudelijke EPD, Fysiomanager het flexibelste prijsmodel, Crossuite de beste multidisciplinaire aanpak en SpotOnMedics de laagste prijs.
+De markt voor fysiotherapie software in Nederland wordt gedomineerd door Intramed met 53 procent marktaandeel, maar de concurrentie haalt in. FysioRoadmap biedt het sterkste inhoudelijke EPD, Fysiomanager het flexibelste prijsmodel, Crossuite de beste multidisciplinaire aanpak en SpotOnMedics de laagste prijs.
 
 Mijn advies: vraag bij minimaal twee aanbieders een demo of proefperiode aan. Test je dagelijkse workflow — een intake registreren, een behandeling plannen, een declaratie versturen, een oefenprogramma samenstellen. Pas dan merk je welk systeem bij jouw manier van werken past.
 

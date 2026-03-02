@@ -1,5 +1,5 @@
 ---
-title: "Lightspeed vs Square 2026"
+title: "Lightspeed vs Square 2026: Welke Kassa Kies Je?"
 date: 2026-04-21
 lastmod: 2026-04-21
 description: "Lightspeed vs Square: welk kassasysteem past bij jouw winkel? Vergelijk actuele prijzen, functies, voorraadbeheer, hardware en Nederlandse support. Met rekenvoorbeelden, review scores en een helder advies per bedrijfstype."
@@ -27,13 +27,13 @@ faq:
     a: "Lightspeed koppelt direct met Exact Online, Twinfield en Moneybird. Square heeft minder directe integraties met Nederlandse boekhoudpakketten, maar biedt koppelingen via Zapier of CSV-exports."
 ---
 
-Square is verleidelijk. Gratis software, een betaalterminal van negentien euro, en binnen een uur draai je je eerste transactie. Maar ik heb meerdere winkeliers begeleid die na zes maanden alsnog overstapten naar Lightspeed -- omdat het voorraadbeheer te beperkt werd, iDEAL ontbrak of de Engelstalige support hen gek maakte.
+Lightspeed vs Square -- welk kassasysteem past bij jouw zaak? Square is verleidelijk. Gratis software, een betaalterminal van negentien euro, en binnen een uur draai je je eerste transactie. Maar ik heb meerdere winkeliers begeleid die na zes maanden alsnog overstapten naar Lightspeed -- omdat het voorraadbeheer te beperkt werd, iDEAL ontbrak of de Engelstalige support hen gek maakte.
 
 De keuze tussen Lightspeed en Square draait niet om welk systeem "beter" is. Het draait om waar jij staat met je zaak, wat je omzet is en hoe snel je wilt groeien. In dit artikel zet ik ze naast elkaar op alles wat ertoe doet: prijs, functies, hardware, support en de Nederlandse markt.
 
 Wil je eerst meer weten over Lightspeed? Lees dan mijn [uitgebreide Lightspeed kassa review](/posts/lightspeed-kassa-review-2026/).
 
-## Lightspeed en Square: wie zijn ze?
+## Lightspeed vs Square: wie zijn ze?
 
 ### Lightspeed in het kort
 
@@ -445,7 +445,7 @@ Square is het betere kassasysteem als je:
 
 <a href="https://squareup.com/nl/nl" target="_blank" rel="noopener" class="cta">Start gratis met Square</a>
 
-## Conclusie: Lightspeed of Square voor jouw winkel?
+## Conclusie: Lightspeed vs Square -- welke past bij jouw winkel?
 
 Na beide systemen bij tientallen ondernemers te hebben gezien, is mijn advies helder:
 

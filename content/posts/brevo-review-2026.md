@@ -27,7 +27,7 @@ faq:
     a: "Ja, Brevo is een Frans bedrijf en slaat standaard alle data op binnen de Europese Unie. Dit maakt Brevo een AVG-vriendelijke keuze vergeleken met Amerikaanse alternatieven als Mailchimp of ActiveCampaign. Brevo biedt ook een verwerkersovereenkomst aan."
 ---
 
-Brevo is een van die tools die ik bij veel klanten tegenkom -- vaak nog onder de oude naam Sendinblue. En de vraag is bijna altijd dezelfde: "Is dat gratis plan echt zo goed als het klinkt?" Na tientallen implementaties kan ik zeggen: het gratis plan is degelijk, maar het echte verhaal zit in de nuances. In deze review deel ik mijn eerlijke ervaringen met Brevo in 2026, inclusief de punten waar andere reviews omheen draaien.
+Brevo is een van die tools die ik bij veel klanten tegenkom -- vaak nog onder de oude naam Sendinblue. En de vraag is bijna altijd dezelfde: "Is dat gratis plan echt zo goed als het klinkt?" Na tientallen implementaties kan ik zeggen: het gratis plan is degelijk, maar het echte verhaal zit in de nuances. In deze Brevo review deel ik mijn eerlijke ervaringen in 2026, inclusief de punten waar andere reviews omheen draaien.
 
 Zoek je een breder overzicht? Lees dan ook mijn vergelijking van de [beste email marketing software voor Nederland](/posts/beste-email-marketing-software-2026/).
 
@@ -110,7 +110,7 @@ Het nadeel: de meer geavanceerde triggers (zoals predictive sending en AI-segmen
 
 Brevo biedt een ingebouwde CRM -- en dat is redelijk uniek in deze prijsklasse. Je kunt contacten beheren, deals tracken via een pipeline, taken toewijzen en notities bijhouden. Het is geen volwaardige CRM zoals Pipedrive of HubSpot, maar voor bedrijven die nu alles in een spreadsheet bijhouden, is het een grote stap vooruit.
 
-Ik gebruik het zelf niet als primaire CRM-aanbeveling (daarvoor verwijs ik naar [Pipedrive](/posts/pipedrive-review-nederland-2026/) of [HubSpot](/posts/hubspot-vs-pipedrive-2026/)), maar als lichte CRM-toevoeging naast je email marketing is het prima.
+Ik gebruik het zelf niet als primaire CRM-aanbeveling (daarvoor verwijs ik naar [Pipedrive](/posts/pipedrive-review-nederland-2026/) of [HubSpot](/posts/hubspot-crm-review-2026/)), maar als lichte CRM-toevoeging naast je email marketing is het prima.
 
 ### SMS-marketing
 
@@ -190,7 +190,7 @@ De chat-support is redelijk voor standaardvragen, maar bij complexere technische
 
 ---
 
-## Reviewscores: wat vinden gebruikers?
+## Brevo review: wat vinden gebruikers?
 
 | Platform | Score | Aantal reviews |
 |---|---|---|
@@ -213,7 +213,7 @@ De chat-support is redelijk voor standaardvragen, maar bij complexere technische
 
 ---
 
-## Voordelen en nadelen
+## Brevo review: voordelen en nadelen
 
 ### Wat ik goed vind aan Brevo
 
@@ -235,7 +235,7 @@ De chat-support is redelijk voor standaardvragen, maar bij complexere technische
 
 ---
 
-## Brevo vs de concurrentie
+## Brevo review: vergelijking met de concurrentie
 
 | Kenmerk | Brevo | Mailchimp | ActiveCampaign | MailerLite |
 |---|---|---|---|---|
@@ -327,7 +327,7 @@ Stuur je eerste campagne naar een klein segment om te testen. Check de preview o
 
 ---
 
-## Conclusie: is Brevo het waard?
+## Brevo review: is het de investering waard?
 
 Brevo is een solide keuze voor Nederlandse bedrijven die email marketing serieus willen aanpakken zonder een vermogen uit te geven. Het pricing-model op basis van verzonden e-mails in plaats van contacten is een enorm voordeel voor bedrijven met groeiende lijsten. De combinatie van email, SMS, CRM en transactionele mails in een platform is uniek in deze prijsklasse.
 

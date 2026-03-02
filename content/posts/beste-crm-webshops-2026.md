@@ -25,7 +25,7 @@ faq:
     a: "Ja, dit is een van de krachtigste functies van e-commerce CRM's. Gemiddeld wordt 70% van online winkelwagens verlaten. Met geautomatiseerde e-mails kun je 5-15% van deze verlaters terughalen. De meeste CRM's bieden kant-en-klare verlaten-winkelwagen flows."
 ---
 
-Ik zie het keer op keer: webshop-eigenaren die duizenden euro's uitgeven aan advertenties om nieuwe klanten te trekken, terwijl hun bestaande klantdata ongebruikt in Shopify of WooCommerce ligt te verstoffen. Een goed e-commerce CRM haalt meer omzet uit je bestaande klanten dan welke advertentiecampagne ook. Dit zijn de 5 systemen die ik voor webshops aanbeveel.
+Ik zie het keer op keer: webshop-eigenaren die duizenden euro's uitgeven aan advertenties om nieuwe klanten te trekken, terwijl hun bestaande klantdata ongebruikt in Shopify of WooCommerce ligt te verstoffen. Een goed CRM voor webshops haalt meer omzet uit je bestaande klanten dan welke advertentiecampagne ook. Dit zijn de 5 CRM-systemen voor webshops die ik aanbeveel.
 
 
 Zoek je een algemeen CRM voor niet-e-commerce? Bekijk onze [beste CRM software gids](/posts/beste-crm-software-nederland-2026/) of [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-2026/).
@@ -156,7 +156,7 @@ Salesforce Commerce Cloud noem ik eerlijkheidshalve alleen omdat het de standaar
 **✅ Voordelen:** Meest schaalbaar, beste voor enterprise, uitgebreide B2B e-commerce
 **❌ Nadelen:** Zeer duur (€2.000+/mnd), complexe implementatie, lange opstarttijd
 
-## Welk CRM past bij jouw webshop?
+## Welk CRM voor webshops past bij jou?
 
 | Jouw situatie | Beste keuze | Waarom |
 |-------------|-------------|--------|
@@ -169,14 +169,14 @@ Salesforce Commerce Cloud noem ik eerlijkheidshalve alleen omdat het de standaar
 
 ## Conclusie
 
-Voor de meeste webshops is **Klaviyo** de beste keuze: de diepste e-commerce integraties, krachtige segmentatie en voorspellende analytics maken het de standaard voor e-commerce marketing. Heb je complexe automations nodig? Dan is **ActiveCampaign** het sterkste platform. Zoek je een compleet CRM voor zowel e-commerce als B2B? Dan is **HubSpot** de juiste keuze.
+Voor de meeste webshops is **Klaviyo** het beste CRM voor webshops: de diepste e-commerce integraties, krachtige segmentatie en voorspellende analytics maken het de standaard voor e-commerce marketing. Heb je complexe automations nodig? Dan is **ActiveCampaign** het sterkste CRM voor webshops. Zoek je een compleet CRM voor zowel e-commerce als B2B? Dan is **HubSpot** de juiste keuze.
 
 ## Lees ook
 
 - **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Alle CRM's vergeleken
 - **[HubSpot vs Pipedrive 2026](/posts/hubspot-vs-pipedrive-2026/)** — CRM-vergelijking
 - **[Salesforce vs HubSpot 2026](/posts/salesforce-vs-hubspot-2026/)** — Enterprise CRM
-- **[Beste Klantenservice Software 2026](/posts/beste-klantenservice-software-2026/)** — Support voor je webshop
+- **[Beste Helpdesk Software 2026](/posts/beste-klantenservice-software-2026/)** — Support voor je webshop
 
 ---
 

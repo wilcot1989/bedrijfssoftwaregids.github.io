@@ -25,7 +25,7 @@ faq:
     a: "Ja, SharePoint is het populairste intranet-platform voor bedrijven met Microsoft 365. Je kunt pagina's, nieuws, documentbibliotheken en links maken. Het nadeel: SharePoint vereist configuratie en beheer — het is geen kant-en-klaar intranet. Voor een mooier resultaat gebruik je een SharePoint-intranet template of een tool als Viva Connections."
 ---
 
-Ik stel bij elk adviestraject dezelfde testvraag: "Waar vinden nieuwe medewerkers jullie procedures en handleidingen?" Als het antwoord "ergens op de gedeelde schijf" of "vraag maar aan Jan" is, weet ik genoeg. Een intranet voorkomt dat bedrijfskennis afhankelijk is van individuele collega's. Dit zijn de 5 opties die ik voor het MKB aanbeveel.
+Ik stel bij elk adviestraject dezelfde testvraag: "Waar vinden nieuwe medewerkers jullie procedures en handleidingen?" Als het antwoord "ergens op de gedeelde schijf" of "vraag maar aan Jan" is, weet ik genoeg. Goede intranet software voorkomt dat bedrijfskennis afhankelijk is van individuele collega's. Dit zijn de 5 intranet software oplossingen die ik voor het MKB aanbeveel.
 
 
 ## Snelle vergelijking
@@ -127,7 +127,7 @@ Workvivo is geen klassiek intranet maar een intern social media-platform, nu ond
 **✅ Voordelen:** Beste voor cultuur en engagement, mooie sociale ervaring
 **❌ Nadelen:** Minder sterk als kennisbank, duur, overkill voor kleine bedrijven
 
-## Welk platform past bij jou?
+## Welke intranet software past bij jou?
 
 | Jouw situatie | Beste keuze | Waarom |
 |-------------|-------------|--------|
@@ -146,7 +146,7 @@ Voor de meeste MKB-bedrijven is **Notion** de snelste start: in een middag heb j
 - **[Beste Documenten Management 2026](/posts/beste-documenten-management-2026/)** — Documentbeheer
 - **[Notion vs Monday.com 2026](/posts/notion-vs-monday-vergelijking-2026/)** — Projectmanagement
 - **[Beste HR Software 2026](/posts/beste-hr-software-nederland-2026/)** — HR-systemen
-- **[Beste Klantenservice Software 2026](/posts/beste-klantenservice-software-2026/)** — Interne + externe communicatie
+- **[Beste Helpdesk Software 2026](/posts/beste-klantenservice-software-2026/)** — Interne + externe communicatie
 
 ---
 

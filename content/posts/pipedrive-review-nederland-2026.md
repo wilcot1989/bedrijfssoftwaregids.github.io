@@ -27,7 +27,7 @@ faq:
     a: "Ja, Pipedrive biedt basis e-mailmarketing via de Campaigns add-on. Je kunt nieuwsbrieven en campagnes versturen naar je contacten. Voor geavanceerde marketing automation is een gespecialiseerde tool als Mailchimp of ActiveCampaign echter krachtiger."
 ---
 
-Pipedrive is het CRM dat ik het vaakst aanbeveel aan salesteams van 2 tot 20 man. Het doet een ding en het doet dat goed: je pipeline beheren zonder gedoe. Maar het is niet voor iedereen de juiste keuze. In deze review deel ik mijn ervaringen na tientallen Pipedrive-implementaties bij Nederlandse bedrijven -- inclusief de nadelen waar de meeste reviews overheen stappen.
+Pipedrive is het CRM dat ik het vaakst aanbeveel aan salesteams van 2 tot 20 man. Het doet een ding en het doet dat goed: je pipeline beheren zonder gedoe. Maar het is niet voor iedereen de juiste keuze. In deze Pipedrive review deel ik mijn ervaringen na tientallen implementaties bij Nederlandse bedrijven -- inclusief de nadelen waar de meeste Pipedrive reviews overheen stappen.
 
 
 ## Pipedrive in het kort
@@ -255,7 +255,7 @@ Maak je eerste deals aan, koppel ze aan contacten en plan activiteiten. Binnen e
 
 ---
 
-## Conclusie: is Pipedrive het waard?
+## Pipedrive review: is het het waard?
 
 Kort antwoord: ja. Pipedrive is het CRM dat ik het vaakst aanbeveel, en waar ik het minste klachten over terughoor. Het doet een ding — sales — en het doet dat goed. Geen overbodige complexiteit, geen feature-bloat, gewoon een tool die je team helpt meer deals te sluiten.
 
@@ -267,4 +267,4 @@ Kort antwoord: ja. Pipedrive is het CRM dat ik het vaakst aanbeveel, en waar ik 
 
 [Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
 
-Bekijk ook ons brede overzicht van de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) en ons artikel over [CRM voor ZZP'ers en freelancers](/posts/beste-crm-zzp-freelancers-2026/).
+Bekijk ook ons brede overzicht van de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) en ons artikel over [CRM voor ZZP'ers](/posts/beste-crm-zzp-freelancers-2026/).

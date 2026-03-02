@@ -1,5 +1,5 @@
 ---
-title: "Lightspeed vs Untill 2026"
+title: "Lightspeed vs Untill 2026: Welke Kassa Kies Je?"
 date: 2026-04-11
 lastmod: 2026-04-11
 description: "Lightspeed of Untill voor jouw horecazaak? Ik vergelijk prijs, functies, integraties, support en gebruiksgemak. Met actuele prijzen en review scores."
@@ -19,7 +19,7 @@ faq:
     a: "Ja. Lightspeed koppelt met Exact Online, Twinfield en Moneybird. Untill koppelt met Exact Online, Twinfield, AFAS en Mews. Voor de meeste Nederlandse boekhoudpakketten zit je bij beide systemen goed."
 ---
 
-Twee namen die altijd terugkomen als horecaondernemers mij vragen welk kassasysteem ze moeten kiezen: Lightspeed en Untill. Ik snap de verwarring. Lightspeed is het hippe cloudsysteem op iPads dat je overal ziet staan. Untill is de stille kracht achter duizenden Nederlandse horecazaken, van strandtenten tot hotels.
+Lightspeed vs Untill -- twee namen die altijd terugkomen als horecaondernemers mij vragen welk kassasysteem ze moeten kiezen. Ik snap de verwarring. Lightspeed is het hippe cloudsysteem op iPads dat je overal ziet staan. Untill is de stille kracht achter duizenden Nederlandse horecazaken, van strandtenten tot hotels.
 
 Na jaren met beide systemen te hebben gewerkt -- bij klanten geinstalleerd, support gebeld, rapporten doorgespit -- zie ik dat de keuze neerkomt op een fundamenteel verschil in filosofie. Lightspeed wil alles modern en visueel houden. Untill wil alles robuust en koppelbaar maken.
 
@@ -67,7 +67,7 @@ Het systeem draait hybride. De kassa werkt lokaal (dus ook zonder internet), ter
 
 **Review scores:** Untill heeft geen G2- of Trustpilot-listing, wat typisch is voor dealergedreven systemen. Op SourceForge staan positieve reviews. In de praktijk is de reputatie van Untill in de Nederlandse horeca uitstekend -- ik hoor zelden klachten.
 
-## Prijs en kosten vergeleken
+## Lightspeed vs Untill: prijs en kosten vergeleken
 
 ### Lightspeed Restaurant prijzen (2026)
 
@@ -376,7 +376,7 @@ Untill is de betere keuze als je:
 
 <a href="https://untill.nl/tarieven/" target="_blank" rel="noopener" class="cta">Vraag een gratis Untill demo aan</a>
 
-## Mijn conclusie
+## Mijn conclusie: Lightspeed vs Untill
 
 Na jaren met beide systemen gewerkt te hebben, komt het voor mij neer op dit:
 

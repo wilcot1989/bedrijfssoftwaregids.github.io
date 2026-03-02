@@ -29,7 +29,7 @@ faq:
 
 Toen ik vijf jaar geleden voor het eerst Mollie koppelde aan een WooCommerce webshop voor een klant, duurde dat precies 12 minuten. Account aanmaken, plugin installeren, API-key invoeren, testbetaling doen. Klaar. Dat was het moment dat ik begreep waarom Mollie zo populair is in Nederland: het werkt gewoon.
 
-Maar "het werkt gewoon" is niet genoeg voor een review. In dit artikel duik ik dieper: wat kost Mollie precies per betaalmethode, hoe zit het dashboard in elkaar, waar liggen de beperkingen, en wanneer kies je beter een alternatief als MultiSafepay of Adyen?
+Maar "het werkt gewoon" is niet genoeg voor een Mollie review. In dit artikel duik ik dieper: wat kost Mollie precies per betaalmethode, hoe zit het dashboard in elkaar, waar liggen de beperkingen, en wanneer kies je beter een alternatief als MultiSafepay of Adyen?
 
 Heb je een webshop nodig? Bekijk dan ook mijn vergelijking van de [beste webshop software in Nederland](/posts/beste-webshop-software-2026/).
 
@@ -149,7 +149,7 @@ Dit is waar Mollie het verschil maakt voor de meeste gebruikers. De lijst met on
 - **PrestaShop** -- officiële module
 - **OpenCart** -- officiële extensie
 - **CCV Shop** -- standaard geintegreerd
-- **Lightspeed eCom** -- standaard geintegreerd
+- **[Lightspeed](/posts/lightspeed-kassa-review-2026/) eCom** -- standaard geintegreerd
 - **Mijnwebwinkel** -- standaard geintegreerd
 - **BigCommerce** -- via plugin
 - **Wix** -- via integratie
@@ -244,7 +244,7 @@ Op Trustpilot scoort Mollie rond de 4,0 op 5 sterren. De positieve reviews gaan 
 Op G2 scoort Mollie circa 4,2 op 5 sterren, met name hoge scores op gebruiksgemak (4,5) en integratiemogelijkheden (4,4).
 
 
-## Voordelen van Mollie
+## Mollie review: voordelen
 
 - **Geen vaste maandkosten** -- je betaalt alleen per transactie, ideaal voor starters en kleine webshops
 - **Uitstekend dashboard** -- overzichtelijk, snel, en begrijpelijk zonder handleiding
@@ -258,7 +258,7 @@ Op G2 scoort Mollie circa 4,2 op 5 sterren, met name hoge scores op gebruiksgema
 - **PCI DSS Level 1** -- hoogste beveiligingsniveau, je hoeft zelf niets te regelen
 
 
-## Nadelen van Mollie
+## Mollie review: nadelen
 
 - **Geen telefonische support voor kleine accounts** -- bij urgente problemen een gemis
 - **Transactiekosten niet de laagste** -- bij hoog volume zijn er goedkopere alternatieven
@@ -269,7 +269,7 @@ Op G2 scoort Mollie circa 4,2 op 5 sterren, met name hoge scores op gebruiksgema
 - **Recurring payments vereisen initieel mandaat** -- de flow is minder soepel dan bij gespecialiseerde incasso-diensten
 
 
-## Mollie vs. de concurrentie
+## Mollie review: vergelijking met de concurrentie
 
 ### Vergelijkingstabel
 
@@ -298,7 +298,7 @@ Adyen is een ander kaliber: een enterprise-betaalplatform dat bedrijven als Spot
 Stripe is de Amerikaans-Ierse concurrent die vooral populair is bij tech-bedrijven en SaaS-platforms. De API is legendarisch goed, net als bij Mollie. Het verschil: Stripe is sterker internationaal, Mollie is sterker op de Nederlandse en Belgische markt. **Kies Mollie als** je focus op de Benelux ligt. **Kies Stripe als** je wereldwijd verkoopt en een tech-team hebt.
 
 
-## Veelgemaakte fouten bij Mollie
+## Veelgemaakte fouten bij Mollie (review)
 
 In de afgelopen jaren heb ik bij klanten steeds dezelfde fouten gezien. Voorkom ze:
 
@@ -351,7 +351,7 @@ Als je ook naar Belgie of Duitsland verzendt maar alleen iDEAL aanbiedt, verlies
 7. **Bewaar je API-keys veilig** -- niet in je code repository, maar in environment variables
 
 
-## Conclusie: is Mollie de juiste betaalprovider?
+## Mollie review: is het de juiste betaalprovider?
 
 **Voor de meeste Nederlandse webshops: ja.** Mollie combineert een gebruiksvriendelijk dashboard, brede integraties, een sterke API en transparante prijzen zonder vaste kosten. Het is niet de goedkoopste optie bij hoog volume, en de klantenservice kan beter -- maar voor het overgrote deel van het Nederlandse MKB is het de betaalprovider die ik het vaakst aanbeveel.
 

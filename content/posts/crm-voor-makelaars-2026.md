@@ -27,7 +27,7 @@ faq:
     a: "Voor grotere makelaarskantoren (5+ makelaars) zijn Realworks en Salesforce het meest geschikt. Realworks biedt kantoorbreed beheer met gedeelde woningportefeuille en contacten. Salesforce biedt de meeste schaalbaarheid en aanpasbaarheid. Gripp is een goede keuze als je ook projectbeheer en facturatie in een systeem wilt."
 ---
 
-De makelaarsbranche is een van de sectoren waar een CRM het snelst terugverdient. Ik heb kantoren geholpen waar leads letterlijk verdwenen in een berg post-its en losse e-mails. De Funda-koppeling, woningmatching, bezichtigingsplanning -- het zijn functies die een generiek CRM niet biedt. In deze vergelijking laat ik zien welke 5 systemen het beste passen bij Nederlandse makelaarskantoren.
+Een goed CRM voor makelaars verdient zich sneller terug dan in vrijwel elke andere branche. Ik heb kantoren geholpen waar leads letterlijk verdwenen in een berg post-its en losse e-mails. De Funda-koppeling, woningmatching, bezichtigingsplanning -- het zijn functies die een generiek CRM niet biedt. In deze vergelijking laat ik zien welke 5 CRM-systemen voor makelaars het beste passen bij Nederlandse makelaarskantoren.
 
 
 ## Vergelijkingstabel: Beste CRM voor Makelaars 2026
@@ -144,7 +144,7 @@ Je kunt pipelines aanmaken per proces: een voor verkoop (intake > opname > marke
 
 Pipedrive is het CRM dat ik adviseer aan kleine makelaarskantoren die een betaalbaar systeem zoeken dat ze zelf kunnen inrichten. De visuele pipeline is briljant voor het bijhouden van woningen en deals, en de activiteitengestuurde aanpak voorkomt dat je vergeet om een koper op te volgen na een bezichtiging. Voor 15 euro per maand per gebruiker is het een fractie van wat Realworks kost.
 
-Lees ook ons uitgebreide artikel over de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) waarin we Pipedrive vergelijken met zes andere CRM-systemen.
+Lees ook onze uitgebreide [Pipedrive review](/posts/pipedrive-review-nederland-2026/) en ons artikel over de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) waarin we Pipedrive vergelijken met zes andere CRM-systemen.
 
 ### Belangrijkste functies
 - Visuele sales pipeline met drag-and-drop
@@ -331,9 +331,9 @@ Veel makelaars kiezen voor een combinatie van twee systemen:
 
 Deze combinatiestrategie kan effectief zijn, maar vereist wel discipline in het bijhouden van beide systemen.
 
-## Conclusie
+## Conclusie: beste CRM voor makelaars
 
-De beste CRM voor jouw makelaarskantoor hangt af van je specifieke situatie. Hier zijn onze aanbevelingen:
+Het beste CRM voor makelaars hangt af van je specifieke situatie. Hier zijn onze aanbevelingen:
 
 - **Beste makelaar-specifiek CRM**: [Realworks](https://www.realworks.nl/) -- het meest complete platform met Funda-koppeling, NVM-integratie en automatische woningmatching. De standaard in de Nederlandse makelaardij.
 - **Beste voor online leadgeneratie**: [HubSpot CRM](https://www.hubspot.com/nl) -- krachtige marketingtools en gratis CRM als basis, ideaal voor makelaars die actief online leads genereren.

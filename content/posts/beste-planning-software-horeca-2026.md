@@ -1,5 +1,5 @@
 ---
-title: "Beste Personeelsplanning Horeca 2026"
+title: "Beste Personeelsplanning Software Horeca 2026"
 date: 2026-03-07
 lastmod: 2026-03-07
 description: "De beste personeelsplanning software voor horeca in 2026. Vergelijk Shiftbase, Planday, Deputy, Workforce.com, Tamigo en Dyflexis op functies, prijs en CAO-compliance."
@@ -27,7 +27,7 @@ faq:
     a: "Personeelsplanning richt zich op het maken van roosters en inplannen van medewerkers. Workforce management is breder en omvat ook urenregistratie, verlofbeheer, omzetprognoses, personeelsbezettingsoptimalisatie en loonverwerking. Tools als Workforce.com en Tamigo bieden het bredere workforce management-pakket."
 ---
 
-Ik heb horeca-ondernemers gesproken die elke week drie uur bezig waren met het Excel-rooster. Diensten ruilen via WhatsApp, bellen naar oproepkrachten, handmatig controleren of ze de CAO-regels niet overtreden. Met de juiste planning software kost datzelfde rooster een halfuur. Hier zijn de 6 tools die ik voor de horeca aanbeveel.
+Ik heb horeca-ondernemers gesproken die elke week drie uur bezig waren met het Excel-rooster. Diensten ruilen via WhatsApp, bellen naar oproepkrachten, handmatig controleren of ze de CAO-regels niet overtreden. Met de juiste personeelsplanning software horeca kost datzelfde rooster een halfuur. Hier zijn de 6 beste tools die ik voor de horeca aanbeveel.
 
 
 Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste HR software in Nederland](/posts/beste-hr-software-nederland-2026/).
@@ -270,7 +270,7 @@ Dyflexis is naast Shiftbase de andere Nederlandse specialist die ik vaak advisee
 
 ---
 
-## Waar let je op bij planning software voor horeca?
+## Waar let je op bij personeelsplanning software voor horeca?
 
 Bij het kiezen van de juiste personeelsplanning software voor je horecabedrijf zijn er enkele cruciale factoren:
 
@@ -298,7 +298,7 @@ Heb je een enkele locatie met 10 medewerkers, of meerdere vestigingen met honder
 
 ### 6. Salarisintegratie
 
-De koppeling met je salarissoftware scheelt je enorm veel handmatig werk. Controleer of de planning tool integreert met je huidige salarispakket, of je overweegt software als [Exact Online](/posts/beste-boekhoudsoftware-zzp-2026/) te gebruiken.
+De koppeling met je salarissoftware scheelt je enorm veel handmatig werk. Controleer of de planning tool integreert met je huidige salarispakket, of je overweegt software als [Exact Online](/posts/exact-online-review-2026/) te gebruiken.
 
 ## Veelgemaakte fouten bij personeelsplanning in de horeca
 

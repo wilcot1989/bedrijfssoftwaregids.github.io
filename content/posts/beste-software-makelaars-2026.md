@@ -1,5 +1,5 @@
 ---
-title: "Beste Software voor Makelaars 2026"
+title: "Beste Makelaarssoftware 2026: Top 5"
 date: 2026-04-17
 lastmod: 2026-04-17
 description: "Vergelijk de 5 beste makelaarssoftware-pakketten van Nederland op CRM, Funda-koppeling, woningpresentatie en transactiebeheer. Met actuele prijzen en ervaringen uit de praktijk."

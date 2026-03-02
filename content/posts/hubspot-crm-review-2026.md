@@ -29,7 +29,7 @@ faq:
 
 Ik heb HubSpot CRM nu bij meer dan dertig Nederlandse MKB-bedrijven geimplementeerd -- van een driekoppig salesteam bij een Utrechts marketingbureau tot een scale-up met vijftig medewerkers in Amsterdam. Mijn conclusie na al die trajecten? HubSpot is een fantastisch platform als je het goed inzet. Maar het is ook het CRM waar ik de meeste teleurgestelde ondernemers tegenkom. Niet omdat het product slecht is, maar omdat bedrijven starten met het gratis plan, verliefd worden op de interface, en vervolgens schrikken van de kosten zodra ze echt willen opschalen.
 
-In deze review deel ik precies wat je kunt verwachten: de sterke kanten, de valkuilen, de actuele prijzen en of HubSpot bij jouw situatie past.
+In deze HubSpot CRM review deel ik precies wat je kunt verwachten: de sterke kanten, de valkuilen, de actuele prijzen en of HubSpot bij jouw situatie past.
 
 
 Zoek je een breder overzicht? Bekijk dan mijn vergelijking van de [beste CRM software in Nederland](/posts/beste-crm-software-nederland-2026/) of lees de [HubSpot vs Pipedrive](/posts/hubspot-vs-pipedrive-2026/) en [Salesforce vs HubSpot](/posts/salesforce-vs-hubspot-2026/) vergelijkingen.
@@ -199,7 +199,7 @@ De support op Professional-niveau is goed: snelle reactietijden en competente me
 
 HubSpot Academy verdient een aparte vermelding. De gratis cursussen en certificeringen over inbound marketing, sales en CRM-gebruik zijn uitstekend. Ik stuur nieuwe gebruikers er altijd naartoe -- het verkort de leercurve aanzienlijk.
 
-## Voordelen en nadelen
+## HubSpot CRM review: voordelen en nadelen
 
 ### Voordelen
 
@@ -225,7 +225,7 @@ HubSpot Academy verdient een aparte vermelding. De gratis cursussen en certifice
 - **E-mail sequences pas vanaf €90/gebruiker** -- onbetaalbaar voor kleine teams
 - **Native NL-integraties** -- weinig directe koppelingen met Nederlandse tools
 
-## Gebruikersscores samengevat
+## HubSpot CRM review: gebruikersscores
 
 | Platform | Score | Aantal reviews | Opvallend |
 |---|---|---|---|
@@ -252,7 +252,7 @@ Het Trustpilot-patroon herken ik van mijn eigen klantervaringen. Bedrijven die o
 - **Bedrijven die sterk afhankelijk zijn van Nederlandse tools** -- de native integraties zijn beperkt
 - **Teams groter dan 3 personen op het gratis plan** -- de limiet van 2 gebruikers is te krap
 
-## Veelgemaakte fouten bij HubSpot
+## Veelgemaakte fouten bij HubSpot CRM
 
 Na tientallen implementaties zie ik steeds dezelfde fouten terugkomen. Hier zijn de vijf die je het meeste geld en frustratie kosten:
 
@@ -276,7 +276,7 @@ Op het gratis plan heb je 1.000 contacten. Dat klinkt veel, maar als je formulie
 
 HubSpot biedt korting bij jaarlijkse betaling, maar je zit dan ook een jaar vast. Ik heb meerdere klanten gehad die na drie maanden ontdekten dat Professional te complex of te duur was voor hun behoeften. Start altijd met maandelijkse betaling voor de eerste drie maanden.
 
-## Veelgestelde vragen over HubSpot CRM
+## Veelgestelde vragen (HubSpot CRM review)
 
 ### Hoeveel kost HubSpot CRM per maand?
 
@@ -290,7 +290,7 @@ Ja. HubSpot is SOC 2 Type II gecertificeerd, biedt tweefactorauthenticatie, SSO 
 
 Ja, je kunt contacten, bedrijven, deals en activiteiten exporteren als CSV. Pipedrive biedt zelfs een specifieke migratie-tool voor HubSpot-gebruikers. Houd er rekening mee dat je bij een jaarcontract niet tussentijds kunt opzeggen -- je data exporteren kan altijd, maar je betaalt wel door tot het einde van je contractperiode.
 
-## Mijn eindoordeel
+## HubSpot CRM review: mijn eindoordeel
 
 HubSpot CRM is het beste all-in-one platform voor bedrijven die marketing en sales willen combineren. Daar ben ik na al die implementaties nog steeds van overtuigd. De interface is uitstekend, het gratis plan is een goede instap, en het Starter Customer Platform biedt veel waar voor €15 per gebruiker per maand.
 
