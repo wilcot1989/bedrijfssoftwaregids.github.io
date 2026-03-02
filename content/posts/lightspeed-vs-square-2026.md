@@ -477,4 +477,4 @@ Benieuwd hoe Lightspeed zich verhoudt tot andere horecakassa's? Lees dan mijn [L
 
 *Prijzen en review scores laatst gecontroleerd: april 2026.*
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.

@@ -323,4 +323,4 @@ Sterke projectmanagement tool met de beste interface in zijn klasse. De prijs en
 - [Monday.com vs Asana: welke past beter?](/posts/monday-com-vs-asana-2026/)
 - [Notion vs Monday.com: welke projecttool past bij jou?](/posts/notion-vs-monday-vergelijking-2026/)
 
-Wil je monday.com vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/projectmanagement/)** of gebruik de **[keuzehulp](/tools/projectmanagement/keuzehulp.html)**.
+Wil je monday.com vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/projectmanagement/)** of gebruik de **[keuzehulp](/tools/projectmanagement/keuzehulp/)**.

@@ -461,4 +461,4 @@ De keuze voor voorraadbeheer software hangt af van drie vragen: wat is je verkoo
 
 Mijn ervaring na tientallen implementaties: het verschil tussen goed en slecht voorraadbeheer is niet de software, maar de discipline om het systeem consistent te gebruiken. Kies een tool die past bij je huidige schaal, zet bestelpunten en rapportages correct in, en bouw van daaruit verder. De tools in dit overzicht maken dat allemaal mogelijk -- het is aan jou om er een gewoonte van te maken.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp.html)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)** voor een persoonlijk advies.

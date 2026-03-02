@@ -147,7 +147,7 @@ Op aanvraag (typisch €15-€30/medewerker/maand, afhankelijk van landen en mod
 Als salarisadministratie software voor het MKB is **Nmbrs** de beste balans tussen functionaliteit, gebruiksgemak en prijs. Klein budget? Start met **Loket.nl** — de goedkoopste professionele salarisadministratie software. Grotere bedrijven met complexe HR-behoeften zijn het beste af met **Visma Raet** of **AFAS**.
 
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp.html)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)** voor een persoonlijk advies.
 
 ## Lees ook
 

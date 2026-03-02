@@ -103,7 +103,7 @@ async function initMatrix() {
     ? `<a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/${escapeHTML(cat.advanced.page)}">${escapeHTML(cat.advanced.title)}</a>`
     : "";
   const calcBtn = cat?.calculator?.enabled
-    ? `<a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/calculator.html">Bereken kosten</a>`
+    ? `<a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/calculator/">Bereken kosten</a>`
     : "";
 
   mount.innerHTML = `
@@ -111,7 +111,7 @@ async function initMatrix() {
       <div class="bsg-matrix-head">
         <h2>${escapeHTML(cat.title)} vergelijken</h2>
         <div class="bsg-matrix-actions">
-          <a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/keuzehulp.html">Start keuzehulp</a>
+          <a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/keuzehulp/">Start keuzehulp</a>
           ${calcBtn}
           ${advBtn}
         </div>

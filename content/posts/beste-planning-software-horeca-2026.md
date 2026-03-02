@@ -337,4 +337,4 @@ De beste personeelsplanning software voor jouw horecabedrijf hangt af van je gro
 
 Mijn advies: begin met het gratis plan van Shiftbase of vraag demo's aan bij Dyflexis en Planday. Test de software met je team -- ook met je medewerkers op de werkvloer -- voordat je een definitieve keuze maakt. Een goed planningssysteem verdient zichzelf snel terug door lagere loonkosten, minder administratief werk en een hoger werktevredenheid bij je personeel. Bedenk dat de gemiddelde horecamanager wekelijks 3-5 uur besteedt aan roostering. Planning software kan dit terugbrengen tot minder dan een uur, zodat jij je kunt richten op wat echt telt: het runnen van een geweldige horecazaak.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp.html)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)** voor een persoonlijk advies.

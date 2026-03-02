@@ -35,8 +35,8 @@ Webshopsoftware kiezen gaat om balans tussen groei, beheer en kosten. Hier vind 
 
 ### Gratis tools
 
-- **[Keuzehulp](/tools/webshops/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/webshops/calculator.html)** — Bereken je maandelijkse kosten
+- **[Keuzehulp](/tools/webshops/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/webshops/calculator/)** — Bereken je maandelijkse kosten
 
 
 </div>

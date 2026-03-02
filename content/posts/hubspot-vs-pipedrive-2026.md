@@ -237,7 +237,7 @@ Zijn HubSpot en Pipedrive allebei niet de perfecte match? Overweeg dan:
 Lees mijn [volledige vergelijking van de beste CRM software](/posts/beste-crm-software-nederland-2026/) voor meer opties.
 
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/crm/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/crm/)**.
 
 ## Lees ook
 

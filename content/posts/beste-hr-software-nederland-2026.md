@@ -336,6 +336,6 @@ Mijn advies: begin met het bepalen van je kernbehoeften. Als salarisadministrati
 ## Interactieve hulp
 
 Twijfel je nog? Gebruik onze gratis tools:
-- **[Keuzehulp](/tools/hr-software/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/hr-software/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Keuzehulp](/tools/hr-software/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/hr-software/calculator/)** — Bereken wat je per maand kwijt bent
 - **[Vergelijkingsmatrix](/categories/hr-software/)** — Filter en vergelijk alle opties

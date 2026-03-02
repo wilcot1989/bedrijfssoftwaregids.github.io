@@ -145,7 +145,7 @@ Precisely viel me op vanwege de EU-focus. Als GDPR-compliance en eIDAS-handteken
 Voor de meeste MKB-bedrijven is **PandaDoc** de beste start: betaalbaar (€15/user/mnd), onbeperkt e-signatures en een vloeiende offerte-naar-contract workflow. Heb je meer contractmanagement software nodig met herinneringen, dashboards en analytics? Dan is **Contractbook** de investering waard.
 
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp.html)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)** voor een persoonlijk advies.
 
 ## Lees ook
 

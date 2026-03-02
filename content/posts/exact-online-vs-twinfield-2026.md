@@ -186,7 +186,7 @@ Na tientallen implementaties van beide pakketten komt mijn advies hierop neer:
 Twijfel je? Beide bieden een gratis proefperiode van 30 dagen. Test ze naast elkaar en bespreek de uitkomst met je accountant.
 
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.
 
 ## Lees ook
 

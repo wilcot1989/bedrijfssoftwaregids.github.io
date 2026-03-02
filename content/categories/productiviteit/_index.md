@@ -34,7 +34,7 @@ Productiviteit draait om frictie weghalen: minder handmatig werk, minder context
 
 ### Gratis tools
 
-- **[Keuzehulp](/tools/productiviteit/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Keuzehulp](/tools/productiviteit/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 
 
 </div>

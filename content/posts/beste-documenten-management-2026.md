@@ -143,7 +143,7 @@ Voor het MKB is **Google Workspace** of **SharePoint** (als je al Microsoft 365 
 ## Interactieve hulp
 
 Twijfel je nog? Gebruik onze gratis tools:
-- **[Keuzehulp](/tools/productiviteit/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Keuzehulp](/tools/productiviteit/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
 
 ## Lees ook

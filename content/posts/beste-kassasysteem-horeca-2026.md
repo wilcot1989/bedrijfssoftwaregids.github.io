@@ -353,8 +353,8 @@ En Square dan? Dat raad ik alleen aan als je echt €0 wilt investeren om te sta
 ## Interactieve hulp
 
 Twijfel je nog? Gebruik onze gratis tools:
-- **[Keuzehulp](/tools/kassasystemen/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/kassasystemen/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Keuzehulp](/tools/kassasystemen/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/kassasystemen/calculator/)** — Bereken wat je per maand kwijt bent
 - **[Vergelijkingsmatrix](/categories/kassasystemen/)** — Filter en vergelijk alle opties
 
 ## Lees ook

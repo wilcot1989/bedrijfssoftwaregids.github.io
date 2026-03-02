@@ -34,8 +34,8 @@ Marketingtools moeten niet alleen functies hebben, maar vooral concrete groei op
 
 ### Gratis tools
 
-- **[Keuzehulp](/tools/marketing/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/marketing/calculator.html)** — Bereken je maandelijkse kosten
+- **[Keuzehulp](/tools/marketing/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/marketing/calculator/)** — Bereken je maandelijkse kosten
 
 
 </div>

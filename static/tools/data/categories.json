@@ -67,7 +67,7 @@
     "advanced": {
       "enabled": true,
       "type": "crm_roi",
-      "page": "roi-calculator.html",
+      "page": "roi-calculator/",
       "title": "CRM ROI calculator"
     }
   },
@@ -129,7 +129,7 @@
     "advanced": {
       "enabled": true,
       "type": "zzp_bv",
-      "page": "zzp-bv-calculator.html",
+      "page": "zzp-bv-calculator/",
       "title": "ZZP → BV calculator"
     }
   },
@@ -194,7 +194,7 @@
     "advanced": {
       "enabled": true,
       "type": "agile_score",
-      "page": "agile-score.html",
+      "page": "agile-score/",
       "title": "Agile maturity score"
     }
   },
@@ -258,7 +258,7 @@
     "advanced": {
       "enabled": true,
       "type": "pos_tx_cost",
-      "page": "transactiekosten.html",
+      "page": "transactiekosten/",
       "title": "Transactiekosten calculator"
     }
   },
@@ -316,7 +316,7 @@
     "advanced": {
       "enabled": true,
       "type": "hr_absence_cost",
-      "page": "verzuimkosten.html",
+      "page": "verzuimkosten/",
       "title": "Verzuimkosten calculator"
     }
   },
@@ -388,7 +388,7 @@
     "advanced": {
       "enabled": true,
       "type": "lead_roi",
-      "page": "lead-roi.html",
+      "page": "lead-roi/",
       "title": "Lead ROI calculator"
     }
   },
@@ -458,7 +458,7 @@
     "advanced": {
       "enabled": true,
       "type": "migration_planner",
-      "page": "migratie-planner.html",
+      "page": "migratie-planner/",
       "title": "Migratie planner"
     }
   },
@@ -527,7 +527,7 @@
     "advanced": {
       "enabled": true,
       "type": "stack_planner",
-      "page": "stack-planner.html",
+      "page": "stack-planner/",
       "title": "Tool stack planner"
     }
   }

@@ -318,4 +318,4 @@ Bekijk ook mijn complete vergelijking van de [beste CRM software in Nederland](/
 
 *Prijzen en scores gecontroleerd op 1 maart 2026. HubSpot past prijzen regelmatig aan -- controleer altijd de actuele tarieven op hubspot.com/pricing.*
 
-Wil je HubSpot vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)** of gebruik de **[keuzehulp](/tools/crm/keuzehulp.html)**.
+Wil je HubSpot vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)** of gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**.

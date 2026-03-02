@@ -388,8 +388,8 @@ Om het je makkelijker te maken:
 ## Interactieve hulp
 
 Twijfel je nog? Gebruik onze gratis tools:
-- **[Keuzehulp](/tools/projectmanagement/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/projectmanagement/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Keuzehulp](/tools/projectmanagement/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/projectmanagement/calculator/)** — Bereken wat je per maand kwijt bent
 - **[Vergelijkingsmatrix](/categories/projectmanagement/)** — Filter en vergelijk alle opties
 
 ## Lees ook

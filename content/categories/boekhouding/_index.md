@@ -43,8 +43,8 @@ Vergelijk altijd:
 
 ### Gratis tools
 
-- **[Keuzehulp](/tools/boekhouding/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/boekhouding/calculator.html)** — Bereken je maandelijkse kosten
+- **[Keuzehulp](/tools/boekhouding/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/boekhouding/calculator/)** — Bereken je maandelijkse kosten
 
 
 </div>

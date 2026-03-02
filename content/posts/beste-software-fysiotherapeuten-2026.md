@@ -426,4 +426,4 @@ Mijn advies: vraag bij minimaal twee aanbieders een demo of proefperiode aan. Te
 
 Heb je vragen over welk pakket het beste bij jouw praktijk past? Laat een reactie achter of neem contact op via de [over ons-pagina](/about/). Ik help je graag met een persoonlijk advies.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp.html)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)** voor een persoonlijk advies.

@@ -164,7 +164,7 @@ Er is geen "beste" websitebouwer — het hangt af van je behoeften. **Wix** als 
 ## Interactieve hulp
 
 Twijfel je nog? Gebruik onze gratis tools:
-- **[Keuzehulp](/tools/productiviteit/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Keuzehulp](/tools/productiviteit/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
 
 ## Lees ook

@@ -531,6 +531,6 @@ Wil je eerst je CRM op orde brengen voordat je aan e-mailmarketing begint? Lees 
 ## Interactieve hulp
 
 Twijfel je nog? Gebruik onze gratis tools:
-- **[Keuzehulp](/tools/marketing/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/marketing/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Keuzehulp](/tools/marketing/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/marketing/calculator/)** — Bereken wat je per maand kwijt bent
 - **[Vergelijkingsmatrix](/categories/marketing/)** — Filter en vergelijk alle opties

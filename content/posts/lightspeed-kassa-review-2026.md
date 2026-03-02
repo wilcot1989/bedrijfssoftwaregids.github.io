@@ -308,7 +308,7 @@ Mijn advies: **vraag een demo aan en test het systeem minimaal twee weken voorda
 [Bekijk Lightspeed](https://www.lightspeedhq.nl/)
 
 
-Wil je Lightspeed vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/kassasystemen/)** of gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp.html)**.
+Wil je Lightspeed vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/kassasystemen/)** of gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)**.
 
 ## Lees ook
 

@@ -304,4 +304,4 @@ De Trustpilot-score van 4,4 en G2-score van 4,3 bevestigen wat ik in de praktijk
 
 Lees ook mijn overzicht van de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) en het artikel over de [beste facturatiesoftware voor het MKB](/posts/beste-facturatie-software-mkb-2026/).
 
-Wil je Teamleader vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)** of gebruik de **[keuzehulp](/tools/crm/keuzehulp.html)**.
+Wil je Teamleader vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)** of gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**.

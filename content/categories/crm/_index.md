@@ -44,8 +44,8 @@ Kijk verder dan "prijs per gebruiker":
 
 ### Gratis tools
 
-- **[Keuzehulp](/tools/crm/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/crm/calculator.html)** — Bereken je maandelijkse kosten
+- **[Keuzehulp](/tools/crm/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/crm/calculator/)** — Bereken je maandelijkse kosten
 
 
 </div>

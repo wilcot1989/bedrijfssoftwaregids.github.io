@@ -34,8 +34,8 @@ HR-software moet administratie versimpelen en fouten voorkomen. In deze categori
 
 ### Gratis tools
 
-- **[Keuzehulp](/tools/hr-software/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/hr-software/calculator.html)** — Bereken je maandelijkse kosten
+- **[Keuzehulp](/tools/hr-software/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/hr-software/calculator/)** — Bereken je maandelijkse kosten
 
 
 </div>

@@ -191,7 +191,7 @@ Het belangrijkste: begin met het minimum en bouw uit. Je hebt op dag 1 echt alle
 
 
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp.html)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)** voor een persoonlijk advies.
 
 ## Lees ook
 

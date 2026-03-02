@@ -342,6 +342,6 @@ Mijn advies: kies een pakket dat past bij je huidige situatie, maar dat ook ruim
 ## Interactieve hulp
 
 Twijfel je nog? Gebruik onze gratis tools:
-- **[Keuzehulp](/tools/boekhouding/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/boekhouding/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Keuzehulp](/tools/boekhouding/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/boekhouding/calculator/)** — Bereken wat je per maand kwijt bent
 - **[Vergelijkingsmatrix](/categories/boekhouding/)** — Filter en vergelijk alle opties

@@ -42,8 +42,8 @@ Vergelijk niet alleen abonnementen, maar ook:
 
 ### Gratis tools
 
-- **[Keuzehulp](/tools/kassasystemen/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/kassasystemen/calculator.html)** — Bereken je maandelijkse kosten
+- **[Keuzehulp](/tools/kassasystemen/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/kassasystemen/calculator/)** — Bereken je maandelijkse kosten
 
 
 </div>

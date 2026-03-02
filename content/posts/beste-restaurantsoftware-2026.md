@@ -498,7 +498,7 @@ Zoek je puur een kassasysteem zonder al deze operationele functies? Bekijk dan m
 
 
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp.html)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)** voor een persoonlijk advies.
 
 ## Lees ook
 
