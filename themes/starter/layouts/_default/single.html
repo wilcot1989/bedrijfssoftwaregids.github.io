@@ -2,7 +2,7 @@
 {{ if .Params.featured_image }}
 <div class="article-hero" style="background-image: url('{{ .Params.featured_image }}');">
   <div class="article-hero-overlay">
-    <div class="container">
+    <div class="container wide">
       <div class="breadcrumb breadcrumb-light">
         <a href="/">Home</a> &rsaquo;
         {{ range .Params.categories }}<a href="/categories/{{ . }}/">{{ . | humanize | title }}</a>{{ end }}
@@ -13,11 +13,11 @@
     </div>
   </div>
 </div>
-<div class="container">
+<div class="container wide">
   <article>
     <div class="article-divider"></div>
 {{ else }}
-<div class="container">
+<div class="container wide">
   <article>
     <div class="breadcrumb">
       <a href="/">Home</a> &rsaquo;
