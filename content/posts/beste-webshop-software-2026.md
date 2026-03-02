@@ -27,7 +27,7 @@ faq:
     a: "Dit verschilt per platform en abonnement. Shopify biedt onbeperkte producten op alle plannen. WooCommerce kent geen limiet (afhankelijk van je hosting). CCV Shop biedt in het basispakket 100 producten, oplopend tot onbeperkt in hogere plannen. Lightspeed en BigCommerce bieden ook onbeperkte producten op alle abonnementen."
 ---
 
-De eerste vraag die ik stel als iemand een webshop wil starten: "Hoeveel producten, en wil je zelf sleutelen of niet?" Het antwoord bepaalt namelijk direct welk platform je nodig hebt. Shopify voor gemak, WooCommerce voor controle, CCV Shop voor Nederland-specifieke features. In deze vergelijking zet ik de 7 beste opties naast elkaar, zodat je geen maanden hoeft te twijfelen.
+De eerste vraag die ik stel als iemand webshop software zoekt: "Hoeveel producten, en wil je zelf sleutelen of niet?" Het antwoord bepaalt namelijk direct welke webshop software je nodig hebt. Shopify voor gemak, WooCommerce voor controle, CCV Shop voor Nederland-specifieke features. In deze vergelijking zet ik de 7 beste opties naast elkaar, zodat je geen maanden hoeft te twijfelen.
 
 
 ## Vergelijkingstabel: Beste Webshop Software 2026

@@ -27,7 +27,7 @@ faq:
     a: "Ja, vrijwel alle moderne horecakassasystemen bieden voorraadbeheer. Je kunt recepturen invoeren, automatisch voorraad afboeken bij verkoop en meldingen instellen wanneer producten opraken. Lightspeed Restaurant en Untill bieden de meest uitgebreide voorraadfuncties."
 ---
 
-Een kassasysteem kiezen voor je horecazaak is een beslissing waar je jarenlang mee zit. Ik heb cafehouders geholpen die vastzaten aan een verouderd systeem met hoge contractkosten, en restauranteigenaren die na een slimme keuze uren per week bespaarden op voorraadbeheer en afrekengemak. In deze vergelijking deel ik de 6 kassasystemen die ik voor de horeca aanbeveel -- en waar je op moet letten.
+Een kassasysteem horeca kiezen is een beslissing waar je jarenlang mee zit. Ik heb cafehouders geholpen die vastzaten aan een verouderd systeem met hoge contractkosten, en restauranteigenaren die na een slimme keuze uren per week bespaarden op voorraadbeheer en afrekengemak. In deze vergelijking deel ik de 6 beste kassasystemen voor horeca die ik aanbeveel -- en waar je op moet letten.
 
 
 ## Vergelijkingstabel: Beste Kassasystemen Horeca 2026
@@ -53,7 +53,7 @@ Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklant
 - Bestellen aan tafel via QR-code of tablet
 - Keuken- en barprinters met ordermanagement
 - Uitgebreid voorraadbeheer met recepturen
-- Personeelsmanagement en urenregistratie (zoek je een apart systeem? Bekijk de beste planning software voor horeca)
+- Personeelsmanagement en urenregistratie (zoek je een apart systeem? Bekijk de beste [planning software voor horeca](/posts/beste-planning-software-horeca-2026/))
 - Rapportages en analytics in real-time
 - Integraties met Thuisbezorgd, Uber Eats en Deliveroo
 
@@ -302,7 +302,7 @@ Orderbird is de specialist voor cafes en bars. Het draait op iPads, de interface
 
 ## Veelgemaakte fouten bij het kiezen van een kassasysteem
 
-Ik zie deze fouten steeds terugkomen bij horecaondernemers:
+Bij het kiezen van een kassasysteem horeca zie ik deze fouten steeds terugkomen:
 
 1. **Alleen naar de maandprijs kijken** — Een systeem van €0/maand met 1,75% transactiekosten kost je bij €10.000 omzet al €175/maand. Reken altijd je totale kosten door.
 2. **Te lang contract afsluiten** — Sommige aanbieders lokken met korting bij een 3-jarig contract. Begin liever met maandelijks opzegbaar totdat je zeker weet dat het systeem bij je past.
@@ -330,14 +330,14 @@ Verrassend: het "gratis" systeem is bij deze omzet bijna twee keer zo duur als e
 Lightspeed en Untill koppelen met de meeste Nederlandse [boekhoudpakketten](/posts/beste-boekhoudsoftware-zzp-2026/) (Exact, Moneybird, Twinfield). Square en Zettle bieden dit minder goed — je moet dan handmatig exporteren of een derde partij gebruiken. Heb je ook behoefte aan apart voorraadbeheer software? Dan is een goede koppeling met je kassasysteem essentieel.
 
 ### Wat als het internet uitvalt?
-Een goed horecakassasysteem moet ook offline werken. Untill heeft hier de beste offline modus — het draait gewoon door. Lightspeed biedt ook een offline modus, maar met beperkingen. Square en Zettle zijn volledig afhankelijk van internet.
+Een goed kassasysteem horeca moet ook offline werken. Untill heeft hier de beste offline modus — het draait gewoon door. Lightspeed biedt ook een offline modus, maar met beperkingen. Square en Zettle zijn volledig afhankelijk van internet.
 
 ### iPad of dedicated terminal?
-iPad-systemen (Lightspeed, Orderbird) zijn flexibeler en goedkoper. Dedicated terminals (Untill, Trivec) zijn robuuster voor intensief gebruik. Mijn advies: voor de meeste zaken volstaat een iPad prima. Alleen bij hele drukke zaken met meerdere kassa's is een dedicated terminal de betere keuze.
+iPad-systemen (Lightspeed, Orderbird) zijn flexibeler en goedkoper als horeca kassa. Dedicated terminals (Untill, Trivec) zijn robuuster voor intensief gebruik. Mijn advies: voor de meeste zaken volstaat een iPad-gebaseerde horeca kassa prima. Alleen bij hele drukke zaken met meerdere kassa's is een dedicated terminal de betere keuze.
 
 ## Mijn advies: het beste kassasysteem per situatie
 
-Na tientallen horecaondernemers te hebben geholpen, komt het hier op neer:
+Na tientallen horecaondernemers te hebben geholpen met het kiezen van een kassasysteem horeca, komt het hier op neer:
 
 - **Beste allrounder voor restaurants**: [Lightspeed Restaurant](https://www.lightspeedhq.nl/) — compleet, gebruiksvriendelijk en de beste bezorgintegraties. Dit is mijn standaard aanbeveling.
 - **Beste voor grote horecazaken**: [Untill](https://www.untill.com/nl/) — als je een drukke brasserie, evenementenlocatie of keten runt, is Untill het meest robuust.
