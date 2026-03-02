@@ -111,6 +111,14 @@ async function initWizard() {
     </div>
   `);
 
+  /* Clear results when any answer changes */
+  const form = qs("#bsg-wizard-form");
+  if (form) {
+    form.addEventListener("change", () => {
+      setHTML("bsg-wizard-results", "");
+    });
+  }
+
   qs("#bsg-wizard-submit")?.addEventListener("click", () => {
     const answers = collectWizardAnswers(cat.wizard.questions);
     const candidates = software.filter(s => (s.categories || []).includes(catKey));
