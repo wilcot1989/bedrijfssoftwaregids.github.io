@@ -343,4 +343,4 @@ Maar ga er niet blindelings in. De deliverability vraagt aandacht (verifieer je 
 
 Bekijk ook mijn vergelijking van de [beste email marketing software voor Nederland](/posts/beste-email-marketing-software-2026/) voor een breder overzicht van alle opties.
 
-Wil je Brevo vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/marketing/)** of gebruik de **[keuzehulp](/tools/marketing/keuzehulp/)**.
+Wil je Brevo vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/marketing/)**, gebruik de **[keuzehulp](/tools/marketing/keuzehulp/)** of bereken je **[marketing software kosten](/tools/marketing/kosten-berekenen/)**.

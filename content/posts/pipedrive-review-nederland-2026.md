@@ -269,4 +269,4 @@ Kort antwoord: ja. Pipedrive is het CRM dat ik het vaakst aanbeveel, en waar ik 
 
 Bekijk ook ons brede overzicht van de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) en ons artikel over [CRM voor ZZP'ers](/posts/beste-crm-zzp-freelancers-2026/).
 
-Wil je Pipedrive vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)** of gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**.
+Wil je Pipedrive vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)**, gebruik de **[keuzehulp](/tools/crm/keuzehulp/)** of bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)**.

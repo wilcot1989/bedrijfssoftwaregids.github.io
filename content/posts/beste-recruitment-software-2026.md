@@ -143,7 +143,7 @@ Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk d
 Voor de meeste Nederlandse MKB-bedrijven is **Recruitee** de beste keuze: Nederlands, intuïtief en met de juiste balans tussen functies en prijs. **Homerun** is ideaal als je mooi wilt beginnen met een kleiner budget. Groei je uit je ATS-software? Dan is **Greenhouse** de logische volgende stap.
 
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**.
 
 ## Lees ook
 

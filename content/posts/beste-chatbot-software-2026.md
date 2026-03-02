@@ -171,7 +171,8 @@ Voor de meeste MKB'ers is **Tidio** de beste chatbot software keuze: betaalbaar,
 
 Twijfel je nog? Gebruik onze gratis tools:
 - **[Keuzehulp](/tools/marketing/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/marketing/calculator/)** — Bereken wat je per maand kwijt bent
+- **[Kosten calculator](/tools/marketing/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
+- **[Lead ROI berekenen](/tools/marketing/lead-roi-berekenen/)** — Bereken wat marketing automation je oplevert per lead
 - **[Vergelijkingsmatrix](/categories/marketing/)** — Filter en vergelijk alle opties
 
 ## Lees ook

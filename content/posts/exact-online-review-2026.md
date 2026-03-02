@@ -265,4 +265,4 @@ Wil je nog meer opties verkennen? Bekijk dan onze vergelijking van de [beste fac
 
 [Probeer Exact Online 30 dagen gratis](https://www.exact.com/nl)
 
-Wil je Exact Online vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)** of gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**.
+Wil je Exact Online vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.

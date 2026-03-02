@@ -354,4 +354,4 @@ De juiste kapsalon software transformeert je dagelijkse werkzaamheden. Minder te
 
 Mijn advies: vraag een demo of start een proefperiode bij minimaal twee van deze tools. Let daarbij niet alleen op de functies, maar ook op hoe prettig het systeem werkt in de dagelijkse praktijk van jouw salon. De beste software is de software die jij en je team graag gebruiken.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)**, bereken je **[kassasysteem kosten](/tools/kassasystemen/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.

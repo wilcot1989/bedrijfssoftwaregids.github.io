@@ -593,4 +593,4 @@ Wil je meer weten over betaaloplossingen voor je webshop? Lees dan mijn [uitgebr
 
 <a href="https://www.mollie.com/nl" target="_blank" rel="noopener noreferrer" class="cta">Start gratis met Mollie</a> of <a href="https://www.multisafepay.com/nl-nl" target="_blank" rel="noopener noreferrer" class="cta">Bekijk MultiSafepay tarieven</a>
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/webshops/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)**, bereken je **[webshop kosten](/tools/webshops/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/webshops/)**.

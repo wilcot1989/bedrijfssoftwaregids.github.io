@@ -389,7 +389,8 @@ Om het je makkelijker te maken:
 
 Twijfel je nog? Gebruik onze gratis tools:
 - **[Keuzehulp](/tools/projectmanagement/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/projectmanagement/calculator/)** — Bereken wat je per maand kwijt bent
+- **[Kosten calculator](/tools/projectmanagement/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
+- **[Agile maturity score](/tools/projectmanagement/agile-score/)** — Meet hoe volwassen jouw agile werkwijze is
 - **[Vergelijkingsmatrix](/categories/projectmanagement/)** — Filter en vergelijk alle opties
 
 ## Lees ook

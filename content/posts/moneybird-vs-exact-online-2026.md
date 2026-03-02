@@ -235,4 +235,4 @@ En vergeet niet: bel je boekhouder. Die ene vraag bespaart je meer hoofdpijn dan
 
 Heb je nog twijfels? Lees ook mijn [Exact Online review](/posts/exact-online-review-2026/) voor een diepgaande analyse van Exact, mijn [Moneybird review](/posts/moneybird-review-2026/) voor een uitgebreid oordeel, of mijn [Moneybird vs e-Boekhouden vergelijking](/posts/moneybird-vs-e-boekhouden-2026/) als je twijfelt tussen Moneybird en een nog goedkoper alternatief.
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.

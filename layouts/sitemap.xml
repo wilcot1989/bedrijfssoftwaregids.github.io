@@ -1,0 +1,43 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {{- range .Data.Pages }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
+    {{- end }}
+    {{- with .Sitemap.ChangeFreq }}
+    <changefreq>{{ . }}</changefreq>
+    {{- end }}
+    {{- if ge .Sitemap.Priority 0.0 }}
+    <priority>{{ .Sitemap.Priority }}</priority>
+    {{- end }}
+  </url>
+  {{- end }}
+  <!-- Static tool pages -->
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/crm/keuzehulp/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/crm/kosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/crm/roi-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/boekhouding/keuzehulp/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/boekhouding/kosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/boekhouding/zzp-bv-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/kassasystemen/keuzehulp/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/kassasystemen/kosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/kassasystemen/transactiekosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/hr-software/keuzehulp/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/hr-software/kosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/hr-software/verzuimkosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/marketing/keuzehulp/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/marketing/kosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/marketing/lead-roi-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/projectmanagement/keuzehulp/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/projectmanagement/kosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/projectmanagement/agile-score/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/webshops/keuzehulp/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/webshops/kosten-berekenen/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/webshops/migratie-planner/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/productiviteit/keuzehulp/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://bedrijfssoftwaregids.nl/tools/productiviteit/tool-stack-planner/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>

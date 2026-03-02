@@ -389,4 +389,4 @@ Mijn concrete advies: vraag bij minimaal twee van deze partijen een demo aan en 
 
 Zoek je een breder overzicht van CRM-systemen, inclusief generieke oplossingen als HubSpot en Pipedrive? Lees dan mijn [CRM voor makelaars vergelijking](/posts/crm-voor-makelaars-2026/) of het complete overzicht van de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/).
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)** voor meer informatie.

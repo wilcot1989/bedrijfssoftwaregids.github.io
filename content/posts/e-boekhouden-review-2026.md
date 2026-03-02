@@ -317,4 +317,4 @@ Na drie maanden testen is mijn conclusie helder: e-Boekhouden is het beste boekh
 
 [Probeer e-Boekhouden gratis](https://www.e-boekhouden.nl/)
 
-Wil je e-Boekhouden vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)** of gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**.
+Wil je e-Boekhouden vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.

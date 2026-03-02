@@ -103,7 +103,7 @@ async function initMatrix() {
     ? `<a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/${escapeHTML(cat.advanced.page)}">${escapeHTML(cat.advanced.title)}</a>`
     : "";
   const calcBtn = cat?.calculator?.enabled
-    ? `<a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/calculator/">Bereken kosten</a>`
+    ? `<a class="bsg-btn" href="${BSG_BASE}/${escapeHTML(cat.slug)}/kosten-berekenen/">Bereken kosten</a>`
     : "";
 
   mount.innerHTML = `

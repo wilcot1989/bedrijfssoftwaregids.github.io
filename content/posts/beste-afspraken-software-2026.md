@@ -343,4 +343,4 @@ De juiste afsprakensoftware bespaart je tijd, vermindert no-shows en biedt je kl
 
 Bekijk ook ons artikel over de [beste planning software voor horeca](/posts/beste-planning-software-horeca-2026/) voor branche-specifieke planningsoplossingen.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)**, bereken je **[kassasysteem kosten](/tools/kassasystemen/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.

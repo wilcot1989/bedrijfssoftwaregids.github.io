@@ -282,4 +282,4 @@ Waar het tekortschiet: de extra kosten voor bankkoppelingen, de beperkte rapport
 
 [Probeer Moneybird 60 dagen gratis](https://www.moneybird.nl/)
 
-Wil je Moneybird vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)** of gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**.
+Wil je Moneybird vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.

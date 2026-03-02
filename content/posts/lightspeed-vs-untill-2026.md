@@ -388,4 +388,4 @@ Geen van beide is "beter." Het hangt af van jouw zaak, jouw budget en jouw manie
 
 **Nog twijfelen?** Lees mijn [overzicht van de beste kassasystemen voor horeca](/posts/beste-kassasysteem-horeca-2026/) waarin ik zes systemen vergelijk, waaronder Lightspeed, Untill en vier alternatieven. Of bekijk de [Lightspeed vs Square vergelijking](/posts/lightspeed-vs-square-2026/) als je ook een budgetvriendelijkere optie overweegt.
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)**, bereken je **[kassasysteem kosten](/tools/kassasystemen/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.

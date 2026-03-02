@@ -34,7 +34,8 @@ Projectmanagement software werkt pas als het aansluit op hoe je team echt samenw
 ### Gratis tools
 
 - **[Keuzehulp](/tools/projectmanagement/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/projectmanagement/calculator/)** — Bereken je maandelijkse kosten
+- **[Kosten calculator](/tools/projectmanagement/kosten-berekenen/)** — Bereken je maandelijkse kosten
+- **[Agile maturity score](/tools/projectmanagement/agile-score/)** — Meet hoe volwassen jouw agile werkwijze is
 
 
 </div>

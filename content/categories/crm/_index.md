@@ -45,7 +45,8 @@ Kijk verder dan "prijs per gebruiker":
 ### Gratis tools
 
 - **[Keuzehulp](/tools/crm/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/crm/calculator/)** — Bereken je maandelijkse kosten
+- **[Kosten calculator](/tools/crm/kosten-berekenen/)** — Bereken je maandelijkse kosten
+- **[CRM ROI berekenen](/tools/crm/roi-berekenen/)** — Bereken wat een CRM-systeem je oplevert
 
 
 </div>

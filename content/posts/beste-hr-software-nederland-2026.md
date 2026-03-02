@@ -337,5 +337,6 @@ Mijn advies: begin met het bepalen van je kernbehoeften. Als salarisadministrati
 
 Twijfel je nog? Gebruik onze gratis tools:
 - **[Keuzehulp](/tools/hr-software/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/hr-software/calculator/)** — Bereken wat je per maand kwijt bent
+- **[Kosten calculator](/tools/hr-software/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
+- **[Verzuimkosten berekenen](/tools/hr-software/verzuimkosten-berekenen/)** — Bereken wat ziekteverzuim je bedrijf kost
 - **[Vergelijkingsmatrix](/categories/hr-software/)** — Filter en vergelijk alle opties

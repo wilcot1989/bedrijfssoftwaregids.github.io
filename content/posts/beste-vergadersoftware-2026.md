@@ -150,6 +150,7 @@ De meeste MKB-bedrijven hebben al goede vergadersoftware in hun bestaande abonne
 
 Twijfel je nog? Gebruik onze gratis tools:
 - **[Keuzehulp](/tools/productiviteit/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Tool Stack Planner](/tools/productiviteit/tool-stack-planner/)** — Stel je ideale softwarecombinatie samen
 - **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
 
 ## Lees ook

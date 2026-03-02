@@ -207,7 +207,8 @@ Voor de meeste Nederlandse MKB-bedrijven is **Freshdesk** de beste helpdesk soft
 
 Twijfel je nog? Gebruik onze gratis tools:
 - **[Keuzehulp](/tools/crm/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/crm/calculator/)** — Bereken wat je per maand kwijt bent
+- **[Kosten calculator](/tools/crm/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
+- **[CRM ROI berekenen](/tools/crm/roi-berekenen/)** — Bereken wat een CRM je oplevert
 - **[Vergelijkingsmatrix](/categories/crm/)** — Filter en vergelijk alle opties
 
 ## Lees ook

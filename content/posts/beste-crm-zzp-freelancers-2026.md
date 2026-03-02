@@ -318,4 +318,4 @@ Voor ZZP'ers geldt: het beste CRM is het CRM dat je daadwerkelijk gebruikt. Een 
 
 Mijn advies: start vandaag met het gratis plan van HubSpot of Freshsales. Het kost je niets om te beginnen en je ontdekt snel of een CRM je manier van werken verbetert. En dat doet het vrijwel altijd.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)** voor een persoonlijk advies.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)** voor meer informatie.

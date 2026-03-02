@@ -463,4 +463,4 @@ Brevo is een Frans bedrijf en slaat alle data standaard op binnen de EU. Dat maa
 
 Beide tools zijn toegankelijk voor beginners. Mailchimp heeft een iets intuitivere interface en meer templates om mee te starten. Brevo heeft een eenvoudigere prijsstructuur en een ruimer gratis plan. Voor iemand die net begint met email marketing en een beperkt budget heeft, raad ik Brevo aan vanwege het genereuze gratis plan met 300 mails per dag.
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/marketing/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/marketing/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/marketing/keuzehulp/)**, bereken je **[marketing software kosten](/tools/marketing/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/marketing/)**.

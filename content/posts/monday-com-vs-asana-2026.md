@@ -281,4 +281,4 @@ Monday.com wint nipt op totaalscore, en het is ook de tool die ik iets vaker aan
 - [Probeer Monday.com gratis](https://monday.com/lang/nl)
 - [Start gratis met Asana](https://asana.com/nl)
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/projectmanagement/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/projectmanagement/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/projectmanagement/keuzehulp/)**, bereken je **[projectmanagement kosten](/tools/projectmanagement/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/projectmanagement/)**.

@@ -489,5 +489,6 @@ Heb je vragen over welke combinatie bij jouw situatie past? Bekijk de [volledige
 
 Twijfel je nog? Gebruik onze gratis tools:
 - **[Keuzehulp](/tools/webshops/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/webshops/calculator/)** — Bereken wat je per maand kwijt bent
+- **[Kosten calculator](/tools/webshops/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
+- **[Migratie planner](/tools/webshops/migratie-planner/)** — Plan je platformwissel stap voor stap
 - **[Vergelijkingsmatrix](/categories/webshops/)** — Filter en vergelijk alle opties

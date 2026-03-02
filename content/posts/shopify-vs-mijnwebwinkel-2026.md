@@ -361,4 +361,4 @@ Voor de meeste Nederlandse ondernemers die ik adviseer, valt de keuze op Shopify
 - [Beste boekhoudsoftware ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/) -- boekhouden naast je webshop
 - [Mollie vs MultiSafepay 2026](/posts/mollie-vs-multisafepay-2026/) -- betaalproviders vergeleken
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/webshops/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)**, bereken je **[webshop kosten](/tools/webshops/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/webshops/)**.

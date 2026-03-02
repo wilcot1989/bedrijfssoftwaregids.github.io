@@ -272,4 +272,4 @@ Lees ook mijn [HubSpot vs Pipedrive vergelijking](/posts/hubspot-vs-pipedrive-20
 
 *Prijzen en G2-scores laatst gecheckt: april 2026.*
 
-Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/crm/)**.
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)**.

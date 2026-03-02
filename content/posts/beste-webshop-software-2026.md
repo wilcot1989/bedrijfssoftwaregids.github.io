@@ -377,5 +377,6 @@ Mijn advies: start altijd met een gratis proefperiode en test of het platform pa
 
 Twijfel je nog? Gebruik onze gratis tools:
 - **[Keuzehulp](/tools/webshops/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/webshops/calculator/)** — Bereken wat je per maand kwijt bent
+- **[Kosten calculator](/tools/webshops/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
+- **[Migratie planner](/tools/webshops/migratie-planner/)** — Plan je platformwissel stap voor stap
 - **[Vergelijkingsmatrix](/categories/webshops/)** — Filter en vergelijk alle opties

@@ -67,8 +67,8 @@
     "advanced": {
       "enabled": true,
       "type": "crm_roi",
-      "page": "roi-calculator/",
-      "title": "CRM ROI calculator"
+      "page": "roi-berekenen/",
+      "title": "CRM ROI berekenen"
     }
   },
   "boekhouding": {
@@ -129,8 +129,8 @@
     "advanced": {
       "enabled": true,
       "type": "zzp_bv",
-      "page": "zzp-bv-calculator/",
-      "title": "ZZP → BV calculator"
+      "page": "zzp-bv-berekenen/",
+      "title": "ZZP of BV berekenen"
     }
   },
   "projectmanagement": {
@@ -258,8 +258,8 @@
     "advanced": {
       "enabled": true,
       "type": "pos_tx_cost",
-      "page": "transactiekosten/",
-      "title": "Transactiekosten calculator"
+      "page": "transactiekosten-berekenen/",
+      "title": "Transactiekosten berekenen"
     }
   },
   "hr-software": {
@@ -316,8 +316,8 @@
     "advanced": {
       "enabled": true,
       "type": "hr_absence_cost",
-      "page": "verzuimkosten/",
-      "title": "Verzuimkosten calculator"
+      "page": "verzuimkosten-berekenen/",
+      "title": "Verzuimkosten berekenen"
     }
   },
   "marketing": {
@@ -388,8 +388,8 @@
     "advanced": {
       "enabled": true,
       "type": "lead_roi",
-      "page": "lead-roi/",
-      "title": "Lead ROI calculator"
+      "page": "lead-roi-berekenen/",
+      "title": "Lead ROI berekenen"
     }
   },
   "webshops": {
@@ -527,7 +527,7 @@
     "advanced": {
       "enabled": true,
       "type": "stack_planner",
-      "page": "stack-planner/",
+      "page": "tool-stack-planner/",
       "title": "Tool stack planner"
     }
   }

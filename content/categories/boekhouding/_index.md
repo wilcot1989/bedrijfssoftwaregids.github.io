@@ -44,7 +44,8 @@ Vergelijk altijd:
 ### Gratis tools
 
 - **[Keuzehulp](/tools/boekhouding/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/boekhouding/calculator/)** — Bereken je maandelijkse kosten
+- **[Kosten calculator](/tools/boekhouding/kosten-berekenen/)** — Bereken je maandelijkse kosten
+- **[ZZP of BV berekenen](/tools/boekhouding/zzp-bv-berekenen/)** — Bereken of een BV oprichten fiscaal voordeliger is
 
 
 </div>

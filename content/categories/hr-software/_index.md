@@ -35,7 +35,8 @@ HR-software moet administratie versimpelen en fouten voorkomen. In deze categori
 ### Gratis tools
 
 - **[Keuzehulp](/tools/hr-software/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/hr-software/calculator/)** — Bereken je maandelijkse kosten
+- **[Kosten calculator](/tools/hr-software/kosten-berekenen/)** — Bereken je maandelijkse kosten
+- **[Verzuimkosten berekenen](/tools/hr-software/verzuimkosten-berekenen/)** — Bereken hoeveel ziekteverzuim je bedrijf kost
 
 
 </div>

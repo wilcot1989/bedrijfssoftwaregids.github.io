@@ -343,5 +343,6 @@ Mijn advies: kies een pakket dat past bij je huidige situatie, maar dat ook ruim
 
 Twijfel je nog? Gebruik onze gratis tools:
 - **[Keuzehulp](/tools/boekhouding/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/boekhouding/calculator/)** — Bereken wat je per maand kwijt bent
+- **[Kosten calculator](/tools/boekhouding/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
+- **[ZZP of BV berekenen](/tools/boekhouding/zzp-bv-berekenen/)** — Bereken of een BV fiscaal voordelig is
 - **[Vergelijkingsmatrix](/categories/boekhouding/)** — Filter en vergelijk alle opties

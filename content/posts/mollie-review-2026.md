@@ -365,4 +365,4 @@ Wil je weten welk webshop-platform het beste bij Mollie past? Lees dan mijn verg
 
 [Maak gratis een Mollie-account aan](https://www.mollie.com/nl)
 
-Wil je Mollie vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/webshops/)** of gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)**.
+Wil je Mollie vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/webshops/)**, gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)** of bereken je **[webshop kosten](/tools/webshops/kosten-berekenen/)**.

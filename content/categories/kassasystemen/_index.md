@@ -43,7 +43,8 @@ Vergelijk niet alleen abonnementen, maar ook:
 ### Gratis tools
 
 - **[Keuzehulp](/tools/kassasystemen/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/kassasystemen/calculator/)** — Bereken je maandelijkse kosten
+- **[Kosten calculator](/tools/kassasystemen/kosten-berekenen/)** — Bereken je maandelijkse kosten
+- **[Transactiekosten berekenen](/tools/kassasystemen/transactiekosten-berekenen/)** — Vergelijk pinkosten per betaalprovider
 
 
 </div>

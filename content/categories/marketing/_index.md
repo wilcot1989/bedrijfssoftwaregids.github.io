@@ -35,7 +35,8 @@ Marketingtools moeten niet alleen functies hebben, maar vooral concrete groei op
 ### Gratis tools
 
 - **[Keuzehulp](/tools/marketing/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/marketing/calculator/)** — Bereken je maandelijkse kosten
+- **[Kosten calculator](/tools/marketing/kosten-berekenen/)** — Bereken je maandelijkse kosten
+- **[Lead ROI berekenen](/tools/marketing/lead-roi-berekenen/)** — Bereken wat marketing automation je oplevert per lead
 
 
 </div>
