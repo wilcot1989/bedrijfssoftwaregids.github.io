@@ -1,5 +1,11 @@
 /* ===== BSG Tools — consistent met site design system ===== */
 
+/* Inter font — zelfde als baseof.html, nodig voor standalone tool-pagina's */
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; font-display: swap; src: url(/fonts/inter-latin.woff2) format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 500; font-display: swap; src: url(/fonts/inter-latin.woff2) format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 600; font-display: swap; src: url(/fonts/inter-latin.woff2) format('woff2'); }
+@font-face { font-family: 'Inter'; font-style: normal; font-weight: 700; font-display: swap; src: url(/fonts/inter-latin.woff2) format('woff2'); }
+
 /* Card container */
 .bsg-card {
   background: #fff;
