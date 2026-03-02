@@ -12,7 +12,7 @@ async function initAdvancedTool() {
   if (toolType === "crm_roi") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>${escapeHTML(cat.title)} ROI calculator</h1>
+        <h2>${escapeHTML(cat.title)} ROI calculator</h2>
         <p>Bereken een indicatie van de omzetimpact van betere opvolging en pipeline management.</p>
         <label>Leads per maand <input id="leads" type="number" min="0" value="200"></label>
         <label>Huidige conversie (%) <input id="conv" type="number" min="0" step="0.1" value="2.0"></label>
@@ -43,7 +43,7 @@ async function initAdvancedTool() {
   if (toolType === "zzp_bv") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>ZZP of BV? Rekenmodel</h1>
+        <h2>ZZP of BV? Rekenmodel</h2>
         <p>Krijg een eerste indruk of een BV fiscaal interessant kan zijn voor jouw situatie.</p>
         <label>Winst per jaar (€) <input id="winst" type="number" min="0" value="120000"></label>
         <label>Salaris DGA (€) <input id="salaris" type="number" min="0" value="56000"></label>
@@ -69,7 +69,7 @@ async function initAdvancedTool() {
   if (toolType === "agile_score") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>Agile maturity score</h1>
+        <h2>Agile maturity score</h2>
         <p>Beantwoord 5 vragen en krijg een tool-adviesniveau.</p>
         <label>Team werkt in sprints? 
           <select id="sprints"><option value="0">Nee</option><option value="2">Soms</option><option value="4">Ja</option></select>
@@ -107,7 +107,7 @@ async function initAdvancedTool() {
   if (toolType === "pos_tx_cost") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>POS transactiekosten calculator</h1>
+        <h2>POS transactiekosten calculator</h2>
         <p>Indicatie voor jaarlijkse betaal-/providerkosten. Vul jouw mix in.</p>
         <label>Transacties per maand <input id="tx" type="number" min="0" value="2000"></label>
         <label>Gem. bonbedrag (€) <input id="avg" type="number" min="0" value="18"></label>
@@ -133,7 +133,7 @@ async function initAdvancedTool() {
   if (toolType === "hr_absence_cost") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>Verzuimkosten calculator</h1>
+        <h2>Verzuimkosten calculator</h2>
         <label>Aantal medewerkers <input id="emp" type="number" min="0" value="25"></label>
         <label>Verzuim (%) <input id="vz" type="number" min="0" step="0.1" value="4.0"></label>
         <label>Gem. bruto jaarsalaris (€) <input id="sal" type="number" min="0" value="42000"></label>
@@ -160,7 +160,7 @@ async function initAdvancedTool() {
   if (toolType === "lead_roi") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>Lead ROI calculator</h1>
+        <h2>Lead ROI calculator</h2>
         <label>Websitebezoekers per maand <input id="vis" type="number" min="0" value="10000"></label>
         <label>Conversie naar lead (%) <input id="lcr" type="number" min="0" step="0.1" value="1.5"></label>
         <label>Close rate (%) <input id="cr" type="number" min="0" step="0.1" value="15"></label>
@@ -190,7 +190,7 @@ async function initAdvancedTool() {
   if (toolType === "migration_planner") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>Migratie planner (webshop)</h1>
+        <h2>Migratie planner (webshop)</h2>
         <label>Huidig platform <input id="plat" type="text" value="WooCommerce"></label>
         <label>Aantal producten <input id="prod" type="number" min="0" value="300"></label>
         <label>Jaaromzet (€) <input id="rev" type="number" min="0" value="250000"></label>
@@ -216,7 +216,7 @@ async function initAdvancedTool() {
   if (toolType === "stack_planner") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>Tool stack planner</h1>
+        <h2>Tool stack planner</h2>
         <p>Stel een basisstack samen op basis van jouw team en workflow.</p>
         <label>Teamgrootte <select id="ts"><option>1</option><option>2-10</option><option>11-50</option><option>50+</option></select></label>
         <label>Werkstijl <select id="ws"><option>Remote</option><option>Hybride</option><option>On-site</option></select></label>
@@ -250,6 +250,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }).catch(err => {
     console.error(err);
     const mount = document.getElementById("bsg-advanced");
-    if (mount) mount.innerHTML = `<div class="bsg-card"><h1>Oeps</h1><p>Tool kon niet laden.</p></div>`;
+    if (mount) mount.innerHTML = `<div class="bsg-card"><h2>Oeps</h2><p>Tool kon niet laden.</p></div>`;
   });
 });

@@ -326,6 +326,54 @@
   background: #f8fafc;
 }
 
+/* ===== SEO CONTENT SECTIONS ===== */
+.bsg-intro {
+  color: #475569;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 0.5rem;
+  max-width: 680px;
+}
+.bsg-seo {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e2e8f0;
+}
+.bsg-seo h2 {
+  color: #0f2439;
+  font-size: 1.3rem;
+  margin: 1.75rem 0 0.5rem;
+  letter-spacing: -0.01em;
+}
+.bsg-seo h2:first-child {
+  margin-top: 0;
+}
+.bsg-seo p {
+  color: #475569;
+  line-height: 1.7;
+  margin-bottom: 0.75rem;
+}
+.bsg-seo ul {
+  margin: 0.5rem 0 1rem 1.25rem;
+  color: #475569;
+  line-height: 1.8;
+}
+.bsg-seo a {
+  color: #2563eb;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.bsg-seo a:hover {
+  color: #1d4ed8;
+}
+.bsg-page-h1 {
+  color: #0f2439;
+  font-size: 1.85rem;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
+}
+
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
   .bsg-card {

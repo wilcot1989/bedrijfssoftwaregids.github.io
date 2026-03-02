@@ -40,7 +40,7 @@ async function initCalculator() {
 
   mount.innerHTML = `
     <div class="bsg-card">
-      <h1>${escapeHTML(cat.title)} kosten calculator</h1>
+      <h2>${escapeHTML(cat.title)} kosten calculator</h2>
 
       <label>Software
         <select id="bsg-tool">
@@ -154,6 +154,6 @@ document.addEventListener("DOMContentLoaded", () => {
   initCalculator().catch(err => {
     console.error(err);
     const mount = document.getElementById("bsg-calculator");
-    if (mount) mount.innerHTML = `<div class="bsg-card"><h1>Oeps</h1><p>Calculator kon niet laden. Check console.</p><pre class="bsg-note">${escapeHTML(err.message)}</pre></div>`;
+    if (mount) mount.innerHTML = `<div class="bsg-card"><h2>Oeps</h2><p>Calculator kon niet laden. Check console.</p><pre class="bsg-note">${escapeHTML(err.message)}</pre></div>`;
   });
 });

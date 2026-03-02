@@ -100,7 +100,7 @@ async function initWizard() {
 
   setHTML("bsg-wizard", `
     <div class="bsg-card">
-      <h1>${escapeHTML(cat.title)} keuzehulp</h1>
+      <h2>${escapeHTML(cat.title)} keuzehulp</h2>
       <p>Beantwoord een paar vragen en krijg een shortlist met beste matches.</p>
       <form id="bsg-wizard-form">
         ${cat.wizard.questions.map(renderQuestion).join("")}
@@ -182,6 +182,6 @@ document.addEventListener("DOMContentLoaded", () => {
   initWizard().catch(err => {
     console.error(err);
     const mount = document.getElementById("bsg-wizard");
-    if (mount) mount.innerHTML = `<div class="bsg-card"><h1>Oeps</h1><p>Wizard kon niet laden. Check console.</p><pre class="bsg-note">${escapeHTML(err.message)}</pre></div>`;
+    if (mount) mount.innerHTML = `<div class="bsg-card"><h2>Oeps</h2><p>Wizard kon niet laden. Check console.</p><pre class="bsg-note">${escapeHTML(err.message)}</pre></div>`;
   });
 });
