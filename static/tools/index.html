@@ -36,7 +36,7 @@
     .site-footer a{color:#94a3b8;text-decoration:underline}
     main{padding:2rem 0;min-height:60vh}
     .hamburger{display:none;background:none;border:none;color:#fff;font-size:1.5rem;cursor:pointer;padding:.25rem;line-height:1}
-    @media(max-width:900px){.hamburger{display:block}.header-utility{display:none}.main-nav{display:none;padding:.75rem 0}.main-nav.open{display:block}.main-nav a{display:block;margin:0;padding:.6rem 0;border-bottom:1px solid rgba(255,255,255,.08);border-left:none}.main-nav a:last-child{border-bottom:none}}
+    @media(max-width:900px){.hamburger{display:block}.header-utility{display:none}.main-nav{display:none;padding:.75rem 0}.main-nav.open{display:block}.main-nav a{display:block;margin:0;padding:.6rem 0;border-bottom:1px solid rgba(255,255,255,.08);border-left:none}.main-nav a:last-child{border-bottom:none}.mobile-utility{display:block;padding:.6rem 0;border-top:1px solid rgba(255,255,255,.08);margin-top:.25rem}.mobile-utility a{color:rgba(255,255,255,.7);font-size:.88rem;text-decoration:none}}
 
     /* Tool overview grid */
     .tools-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-top:2rem}
@@ -72,7 +72,7 @@
         <a href="/about/" class="header-utility">Over Lars</a>
         <button class="hamburger" onclick="document.querySelector('.main-nav').classList.toggle('open')" aria-label="Menu">&#9776;</button>
       </div>
-      <nav class="main-nav"><a href="/categories/kassasystemen/">Kassasystemen</a><a href="/categories/crm/">CRM</a><a href="/categories/boekhouding/">Boekhouding</a><a href="/categories/projectmanagement/">PM</a><a href="/categories/productiviteit/">Productiviteit</a><a href="/categories/hr-software/">HR</a><a href="/categories/marketing/">Marketing</a><a href="/categories/webshops/">Webshops</a><a href="/tools/">Tools</a></nav>
+      <nav class="main-nav"><a href="/categories/kassasystemen/">Kassasystemen</a><a href="/categories/crm/">CRM</a><a href="/categories/boekhouding/">Boekhouding</a><a href="/categories/projectmanagement/">Projectmanagement</a><a href="/categories/productiviteit/">Productiviteit</a><a href="/categories/hr-software/">HR</a><a href="/categories/marketing/">Marketing</a><a href="/categories/webshops/">Webshops</a><a href="/tools/">Tools</a><div class="mobile-utility" style="display:none;"><a href="/about/">Over Lars</a></div></nav>
     </div>
   </header>
   <main>
@@ -82,7 +82,7 @@
         <nav class="breadcrumb breadcrumb-light" aria-label="Breadcrumb">
           <a href="/">Home</a> &rsaquo;
           <span>Gratis Tools</span>
-        </nav>
+        <div class="mobile-utility" style="display:none;"><a href="/about/">Over Lars</a></div></nav>
         <h1 class="article-hero-title">Gratis tools voor Nederlandse ondernemers</h1>
       </div>
     </div>
@@ -214,5 +214,6 @@
       </div>
     </div>
   </footer>
+<script>(function(){var mu=document.querySelector('.mobile-utility');if(mu){var mq=window.matchMedia('(max-width:900px)');function t(e){mu.style.display=e.matches?'block':'none';}t(mq);mq.addEventListener('change',t);}})();</script>
 </body>
 </html>
