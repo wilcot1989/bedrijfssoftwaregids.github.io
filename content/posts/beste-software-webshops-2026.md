@@ -1,5 +1,5 @@
 ---
-title: "Beste Software voor Webshops 2026"
+title: "Beste Webshop Software 2026: Top 5"
 date: 2026-04-19
 lastmod: 2026-04-19
 description: "Compleet overzicht van de beste software voor webshops in 2026. Van platform tot betaalprovider, verzending en marketing: alles wat je nodig hebt om succesvol online te verkopen in Nederland."

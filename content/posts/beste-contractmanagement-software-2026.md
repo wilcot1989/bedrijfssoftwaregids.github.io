@@ -1,5 +1,5 @@
 ---
-title: "Beste Contractmanagement Software 2026: Top 5 Vergeleken"
+title: "Beste Contractmanagement Software 2026: Top 5"
 date: 2026-03-30
 lastmod: 2026-03-30
 description: "De beste contractmanagement software van 2026 vergeleken. Contractbook, Juro, PandaDoc, DocuSign CLM en Precisely op prijs, functies en gebruiksgemak."

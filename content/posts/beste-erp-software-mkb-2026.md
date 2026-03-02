@@ -1,5 +1,5 @@
 ---
-title: "Beste ERP Software voor MKB 2026: Top 5 Vergeleken"
+title: "Beste ERP-Software MKB 2026: Top 5"
 date: 2026-03-15
 lastmod: 2026-03-15
 description: "Vergelijking van de 5 beste ERP-systemen voor het Nederlandse MKB in 2026. Exact Online, Afas, SAP Business One, Dynamics 365 en Odoo vergeleken op prijs en functies."

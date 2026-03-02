@@ -1,5 +1,5 @@
 ---
-title: "Beste Social Media Tools 2026: Top 5 Vergeleken"
+title: "Beste Social Media Tools 2026: Top 5"
 date: 2026-03-26
 lastmod: 2026-03-26
 description: "De beste social media management tools van 2026 vergeleken. Hootsuite, Buffer, Sprout Social, Later en SocialBee op prijs, functies en gebruiksgemak."

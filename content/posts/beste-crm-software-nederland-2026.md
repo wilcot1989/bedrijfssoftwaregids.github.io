@@ -1,5 +1,5 @@
 ---
-title: "Beste CRM Software Nederland 2026: Top 7 Vergeleken"
+title: "Beste CRM-Systeem Nederland 2026: Top 7"
 date: 2026-02-24T10:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
 description: "CRM software vergelijken? Ik testte 7 systemen op prijs, functies en gebruiksgemak voor het Nederlandse MKB. Ontdek welke bij jou past."

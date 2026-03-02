@@ -1,5 +1,5 @@
 ---
-title: "Beste Intranet Software voor MKB 2026: Top 5 Vergeleken"
+title: "Beste Intranet Software MKB 2026: Top 5"
 date: 2026-03-29
 lastmod: 2026-03-29
 description: "De beste intranet software voor het MKB in 2026. SharePoint, Notion, Confluence, Happeo en Workvivo vergeleken op prijs, gebruiksgemak en functies."

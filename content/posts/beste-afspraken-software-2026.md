@@ -1,5 +1,5 @@
 ---
-title: "Beste Online Afspraken Software 2026: Top 6 Vergeleken"
+title: "Beste Afsprakensoftware 2026: Top 6"
 date: 2026-03-14
 lastmod: 2026-03-14
 description: "De 6 beste online afspraken software voor Nederlandse bedrijven in 2026. Vergelijk functies, prijzen en integraties voor het automatiseren van je afsprakenbeheer."

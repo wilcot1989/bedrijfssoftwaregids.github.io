@@ -1,11 +1,11 @@
 ---
-title: "Beste Boekhoudsoftware voor ZZP'ers 2026: Top 6 Vergeleken"
+title: "Beste Boekhoudprogramma ZZP 2026 Vergeleken"
 date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-02-27T10:00:00+01:00
-description: "Beste boekhoudsoftware ZZP 2026 vergeleken op prijs en gemak. Ontdek welk pakket bij jouw situatie past — met Trustpilot-scores en echte kosten."
+lastmod: 2026-03-02T10:00:00+01:00
+description: "Beste boekhoudprogramma ZZP 2026 vergeleken op prijs en gemak. Ontdek welk pakket bij jouw situatie past — met Trustpilot-scores en echte kosten."
 categories: ["boekhouding"]
-tags: ["boekhoudsoftware", "zzp", "freelancer", "boekhouden", "factuur software", "btw-aangifte"]
-keywords: ["beste boekhoudsoftware zzp", "boekhouden zzp", "factuur software zzp", "boekhoudsoftware vergelijken", "boekhoudprogramma zzp"]
+tags: ["boekhoudprogramma", "zzp", "freelancer", "boekhouden", "factuur software", "btw-aangifte"]
+keywords: ["beste boekhoudprogramma zzp", "boekhouden zzp", "boekhoudpakket zzp", "boekhoudprogramma vergelijken", "boekhoudprogramma zzp 2026"]
 affiliate: true
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 12+ jaar ervaring in bedrijfssoftware. Helpt ZZP'ers en MKB-bedrijven bij het kiezen van de juiste tools."

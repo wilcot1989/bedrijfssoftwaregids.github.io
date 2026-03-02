@@ -1,5 +1,5 @@
 ---
-title: "Beste Personeelsplanning Software Horeca 2026"
+title: "Beste Personeelsplanning Horeca 2026"
 date: 2026-03-07
 lastmod: 2026-03-07
 description: "De beste personeelsplanning software voor horeca in 2026. Vergelijk Shiftbase, Planday, Deputy, Workforce.com, Tamigo en Dyflexis op functies, prijs en CAO-compliance."

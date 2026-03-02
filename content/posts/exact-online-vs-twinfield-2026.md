@@ -1,5 +1,5 @@
 ---
-title: "Exact Online vs Twinfield 2026: Welke Boekhoudsoftware?"
+title: "Exact Online vs Twinfield 2026: Welke Kies Je?"
 date: 2026-03-18
 lastmod: 2026-03-18
 description: "Exact Online vs Twinfield: uitgebreide vergelijking van functies, prijzen en integraties. Ontdek welke boekhoudsoftware het beste past bij jouw bedrijf."
