@@ -317,7 +317,7 @@ De cliëntpakketten:
 
 Voor een kantoor met 20 administraties: €41 + (20 × €10) = **€241/maand**. Dat is aanzienlijk lager dan Yuki of Exact.
 
-[Probeer Visma eAccounting 30 dagen gratis](https://eaccounting.nl/voor-de-accountant/)
+<a href="https://lt45.net/c/?si=11068&li=1492000&wi=418626&ws=&dl=eaccounting%2Fvoor-de-accountant%2F" rel="nofollow sponsored">Probeer Visma eAccounting 30 dagen gratis</a>
 
 **Pluspunten:**
 - Laagste instapprijs in dit overzicht

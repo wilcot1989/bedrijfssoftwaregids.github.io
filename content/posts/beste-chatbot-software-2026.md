@@ -139,10 +139,10 @@ ChatBot is mijn aanbeveling voor bedrijven die zelf de controle willen over hun 
 | Team | €142 | 5.000 chats, 5 chatbots |
 | Business | €424 | 25.000 chats, onbeperkt |
 
-**→ [Bekijk ChatBot](https://www.chatbot.com/)**
+**→ <a href="https://www.chatbot.com/?a=_vxQh-ODg&utm_campaign=pp_chatbot-default&utm_source=PP" rel="nofollow sponsored">Bekijk ChatBot</a>**
 
 **✅ Voordelen:** Beste visuele bouwer, makkelijk templates, goede integraties
-**❌ Nadelen:** AI minder geavanceerd, LiveChat apart product, prijzig per chat
+**❌ Nadelen:** AI minder geavanceerd, <a href="https://www.livechat.com/?a=_vxQh-ODg&utm_campaign=pp_livechat-default&utm_source=PP" rel="nofollow sponsored">LiveChat</a> apart product, prijzig per chat
 
 ## Welke chatbot past bij jou?
 
