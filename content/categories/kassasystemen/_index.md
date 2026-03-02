@@ -21,16 +21,6 @@ Vergelijk niet alleen abonnementen, maar ook:
 3. extra modules (voorraad, personeel, bezorgkoppelingen);
 4. contractduur en opzegvoorwaarden.
 
-## Live artikelen in deze categorie
-
-- [Beste Kassasysteem Horeca 2026: Top 6 Getest](/posts/beste-kassasysteem-horeca-2026/)
-
-## Binnenkort in deze categorie
-
-- Lightspeed vs Square 2026
-- Beste Voorraadbeheer Software 2026
-- Beste Software voor Kappers & Schoonheidssalons 2026
-
 ## Gerelateerde categorieën
 
 - [CRM software](/categories/crm/) — voor opvolging van offertes en klantbeheer.

@@ -12,10 +12,6 @@ Webshopsoftware kiezen gaat om balans tussen groei, beheer en kosten. Hier vind 
 - **Integraties**: koppeling met boekhouding, voorraad en marketingtools.
 - **Nederlandse markt**: btw-berekening, PostNL/DHL-koppeling, Nederlandse support.
 
-## Live artikelen in deze categorie
-
-- [Beste Webshop Software Nederland 2026 Vergeleken](/posts/beste-webshop-software-2026/)
-
 ## Gerelateerde categorieën
 
 - [Kassasystemen](/categories/kassasystemen/) — voor fysieke verkooppunten naast je webshop.

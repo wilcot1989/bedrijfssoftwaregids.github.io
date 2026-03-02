@@ -21,19 +21,6 @@ Kijk verder dan "prijs per gebruiker":
 - koppelingen met boekhouding, e-mail en telefonie;
 - schaalprijs als je team groeit.
 
-## Live artikelen in deze categorie
-
-- [Beste CRM Software Nederland 2026: Top 7 Vergeleken](/posts/beste-crm-software-nederland-2026/)
-- [HubSpot vs Pipedrive 2026: Welke CRM Past Bij Jouw Bedrijf?](/posts/hubspot-vs-pipedrive-2026/)
-
-## Binnenkort in deze categorie
-
-- Salesforce vs HubSpot 2026
-- Pipedrive Review 2026
-- Beste CRM voor ZZP'ers & Freelancers 2026
-- Beste CRM voor Makelaars 2026
-- Beste Offerte Software Nederland 2026
-
 ## Gerelateerde categorieën
 
 - [Boekhoudsoftware](/categories/boekhouding/) — voor facturatie en omzetinzicht.

@@ -21,16 +21,6 @@ Vergelijk altijd:
 3. kosten voor extra gebruikers of modules;
 4. kosten van overstap en datamigratie.
 
-## Live artikelen in deze categorie
-
-- [Beste Boekhoudsoftware voor ZZP'ers 2026: Top 6 Vergeleken](/posts/beste-boekhoudsoftware-zzp-2026/)
-
-## Binnenkort in deze categorie
-
-- Exact Online Review 2026
-- Moneybird vs e-Boekhouden 2026
-- Beste Facturatie Software voor MKB 2026
-
 ## Gerelateerde categorieën
 
 - [CRM software](/categories/crm/) — voor lead-to-cash processen.
