@@ -21,3 +21,13 @@ function getCategoryFromPage() {
 const BSG_BASE = "/tools";
 const BSG_DATA = `${BSG_BASE}/data`;
 const BSG_ASSETS = `${BSG_BASE}/assets/tools`;
+function renderKeuzehulpCTA(catKey) {
+  var existing = document.querySelector(".bsg-keuzehulp-cta");
+  if (existing) existing.remove();
+  var outEl = document.getElementById("out");
+  if (!outEl || !catKey) return;
+  outEl.insertAdjacentHTML("afterend",
+    '<div class="bsg-keuzehulp-cta" style="margin-top:1.25rem;padding:1.25rem;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;text-align:center;">' +
+    '<p style="font-weight:600;color:#0f2439;margin:0 0 .5rem">Wil je de beste software vinden?</p>' +
+    '<a class="bsg-btn" href="/tools/' + escapeHTML(catKey) + '/keuzehulp/">Doe de keuzehulp</a></div>');
+}

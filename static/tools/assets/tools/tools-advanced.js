@@ -36,6 +36,7 @@ async function initAdvancedTool() {
         <div class="bsg-amount">&euro;${Math.round(delta).toLocaleString("nl-NL")} per jaar</div>
         <p class="bsg-amount-sub">Van ${Math.round(baseSales)} naar ${Math.round(newSales)} deals/maand (+${Math.round(lift*100)}%)</p>
       </div>`;
+      renderKeuzehulpCTA(catKey);
     });
     return;
   }
@@ -62,6 +63,7 @@ async function initAdvancedTool() {
         <p style="font-size:1.1rem;font-weight:600;color:#0f2439;margin:0.75rem 0 0.25rem;">${escapeHTML(verdict)}</p>
         <p class="bsg-note">Dit is een vereenvoudigde indicatie. Raadpleeg een fiscalist voor persoonlijk advies.</p>
       </div>`;
+      renderKeuzehulpCTA(catKey);
     });
     return;
   }
@@ -100,6 +102,7 @@ async function initAdvancedTool() {
         </div>
         <p style="font-size:1.05rem;font-weight:600;color:#0f2439;margin:0;">${escapeHTML(level)}</p>
       </div>`;
+      renderKeuzehulpCTA(catKey);
     });
     return;
   }
@@ -126,6 +129,7 @@ async function initAdvancedTool() {
         <div class="bsg-amount">&euro;${Math.round(yearly).toLocaleString("nl-NL")} per jaar</div>
         <p class="bsg-amount-sub">&euro;${Math.round(monthly).toLocaleString("nl-NL")} per maand aan transactiekosten</p>
       </div>`;
+      renderKeuzehulpCTA(catKey);
     });
     return;
   }
@@ -153,6 +157,7 @@ async function initAdvancedTool() {
         <div class="bsg-amount">&euro;${Math.round(yearly).toLocaleString("nl-NL")} per jaar</div>
         <p class="bsg-amount-sub">&euro;${Math.round(monthlyAbsence).toLocaleString("nl-NL")} per maand bij ${(vz*100).toFixed(1)}% verzuim</p>
       </div>`;
+      renderKeuzehulpCTA(catKey);
     });
     return;
   }
@@ -183,6 +188,7 @@ async function initAdvancedTool() {
         <div class="bsg-amount">&euro;${Math.round(delta).toLocaleString("nl-NL")} extra per jaar</div>
         <p class="bsg-amount-sub">Huidige omzet: &euro;${Math.round(base).toLocaleString("nl-NL")} &rarr; Verbeterd: &euro;${Math.round(improved).toLocaleString("nl-NL")}</p>
       </div>`;
+      renderKeuzehulpCTA(catKey);
     });
     return;
   }
@@ -209,6 +215,7 @@ async function initAdvancedTool() {
         <p style="font-size:1.1rem;font-weight:600;color:#0f2439;margin:0.75rem 0 0.25rem;">${escapeHTML(verdict)}</p>
         <p class="bsg-amount-sub">Geschatte inspanning: ${effort.toFixed(1)} punten (${prod} producten, complexiteit ${cx})</p>
       </div>`;
+      renderKeuzehulpCTA(catKey);
     });
     return;
   }
@@ -238,6 +245,7 @@ async function initAdvancedTool() {
         <div class="bsg-result-head"><strong>Aanbevolen stack</strong><span class="bsg-badge">${escapeHTML(ws)} &middot; ${escapeHTML(ts)} personen</span></div>
         <ul style="margin:0.75rem 0 0 1.25rem;line-height:1.8;">${rec.map(x=>`<li>${escapeHTML(x)}</li>`).join("")}</ul>
       </div>`;
+      renderKeuzehulpCTA(catKey);
     });
     return;
   }

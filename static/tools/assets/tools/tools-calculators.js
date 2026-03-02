@@ -26,6 +26,42 @@ function calcWebshopTxCost(tool, monthlyRevenue, months) {
   return (base * months) + tx;
 }
 
+function getMonthlyEstimate(tool, calcType) {
+  var c = tool.cost || {};
+  var model = c.model || calcType;
+  if (model === "per_user_monthly") return (c.base || 0) + (c.per_user || 0) * 5;
+  if (model === "per_employee_monthly") return (c.base || 0) + (c.per_employee || 0) * 5;
+  if (model === "pos_terminals_monthly") return (c.base || 0) + (c.per_terminal || 0) * 2;
+  if (model === "tiered_monthly") {
+    var tiers = c.tiers || [];
+    var mid = tiers[Math.min(1, tiers.length - 1)];
+    return mid ? mid.price : 0;
+  }
+  if (model === "webshop_tx_cost") return (c.base || 0) + 5000 * ((c.tx_fee_pct || 0) / 100);
+  return (c.base || 0) + (c.per_user || 0) * 5;
+}
+
+function renderAlternatives(selectedTool, allItems, calcType) {
+  var selectedEst = getMonthlyEstimate(selectedTool, calcType);
+  var alts = allItems
+    .filter(function(t) { return t.id !== selectedTool.id; })
+    .map(function(t) { return { t: t, est: getMonthlyEstimate(t, calcType), dist: Math.abs(getMonthlyEstimate(t, calcType) - selectedEst) }; })
+    .sort(function(a, b) { return a.dist - b.dist; })
+    .slice(0, 3);
+  if (alts.length === 0) return "";
+  var rows = alts.map(function(a) {
+    return '<div style="display:flex;justify-content:space-between;align-items:center;padding:0.5rem 0;border-bottom:1px solid #f1f5f9;">' +
+      '<span style="font-weight:500;">' + escapeHTML(a.t.name) + '</span>' +
+      '<span style="display:flex;align-items:center;gap:0.75rem;">' +
+      '<span style="color:#64748b;font-size:0.9rem;">~\u20AC' + Math.round(a.est).toLocaleString("nl-NL") + '/mnd</span>' +
+      '<a class="bsg-btn" style="font-size:0.85rem;padding:0.35rem 0.75rem;" href="' + escapeHTML(a.t.affiliate?.url || "#") + '" rel="sponsored nofollow">Bekijk</a>' +
+      '</span></div>';
+  }).join("");
+  return '<div style="border-top:2px solid #e2e8f0;margin-top:1.25rem;padding-top:1rem;">' +
+    '<p style="font-weight:600;color:#0f2439;margin:0 0 0.5rem;">Vergelijkbare alternatieven</p>' +
+    rows + '</div>';
+}
+
 async function initCalculator() {
   const catKey = getCategoryFromPage();
   const mount = document.getElementById("bsg-calculator");
@@ -147,7 +183,7 @@ async function initCalculator() {
           <a class="bsg-btn" href="${escapeHTML(t.affiliate?.url || "#")}" rel="sponsored nofollow">Bekijk ${escapeHTML(t.name)}</a>
         </div>
       </div>
-    `;
+    ` + renderAlternatives(t, items, cat.calculator.type);
   });
 }
 document.addEventListener("DOMContentLoaded", () => {

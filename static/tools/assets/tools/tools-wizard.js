@@ -58,17 +58,19 @@ function collectWizardAnswers(questions) {
 
 function scoreToolForCategory(tool, catKey, answers) {
   let score = 0;
+  var breakdown = { budget: 0, bools: 0, boolTotal: 0, integrations: 0, industry: 0 };
 
   // Budget match (pricing band)
   if (answers.budget && tool.pricing_band) {
-    if (answers.budget === tool.pricing_band) score += 3;
-    else score += 1;
+    if (answers.budget === tool.pricing_band) { score += 3; breakdown.budget = 3; }
+    else { score += 1; breakdown.budget = 1; }
   }
 
   // Direct bool matches
   for (const [k, v] of Object.entries(answers)) {
     if (typeof v === "boolean" && typeof tool[k] === "boolean") {
-      score += (v === tool[k]) ? 2 : 0;
+      breakdown.boolTotal++;
+      if (v === tool[k]) { score += 2; breakdown.bools++; }
     }
   }
 
@@ -77,15 +79,26 @@ function scoreToolForCategory(tool, catKey, answers) {
     if (Array.isArray(v) && Array.isArray(tool[k])) {
       const overlap = v.filter(x => tool[k].includes(x)).length;
       score += overlap * 1.5;
+      breakdown.integrations += overlap;
     }
   }
 
   // POS industry fit
   if (catKey === "kassasystemen" && answers.industry && Array.isArray(tool.industry_fit)) {
-    score += tool.industry_fit.includes(answers.industry) ? 4 : 0;
+    if (tool.industry_fit.includes(answers.industry)) { score += 4; breakdown.industry = 4; }
   }
 
-  return score;
+  return { score: score, breakdown: breakdown };
+}
+
+function buildRecommendationReasons(bd, catKey) {
+  var reasons = [];
+  if (bd.budget >= 3) reasons.push("Past binnen je budget");
+  if (bd.boolTotal > 0 && bd.bools >= bd.boolTotal * 0.5) reasons.push("Heeft alle gewenste functies");
+  if (bd.integrations > 0) reasons.push("Goede integraties");
+  if (catKey === "kassasystemen" && bd.industry > 0) reasons.push("Geschikt voor jouw branche");
+  if (reasons.length === 0) reasons.push("Hoogste matchscore op basis van jouw antwoorden");
+  return reasons;
 }
 
 async function initWizard() {
@@ -124,9 +137,23 @@ async function initWizard() {
     const candidates = software.filter(s => (s.categories || []).includes(catKey));
 
     const ranked = candidates
-      .map(t => ({ t, score: scoreToolForCategory(t, catKey, answers) }))
+      .map(t => { var r = scoreToolForCategory(t, catKey, answers); return { t: t, score: r.score, breakdown: r.breakdown }; })
       .sort((a, b) => b.score - a.score)
       .slice(0, 3);
+
+    /* "Onze aanbeveling" highlight for #1 */
+    var recHTML = "";
+    if (ranked.length > 0 && ranked[0].score > 0) {
+      var top = ranked[0];
+      var reasons = buildRecommendationReasons(top.breakdown, catKey);
+      recHTML = '<div class="bsg-result" style="border-left:4px solid #2563eb;background:#eff6ff;">' +
+        '<div class="bsg-result-head"><strong>\u2605 Onze aanbeveling: ' + escapeHTML(top.t.name) + '</strong>' +
+        '<span class="bsg-badge">Matchscore: ' + Math.round(top.score) + '</span></div>' +
+        '<ul style="margin:0.5rem 0 0.75rem 1.25rem;line-height:1.8;color:#1e40af;">' +
+        reasons.map(function(r) { return '<li>' + escapeHTML(r) + '</li>'; }).join('') +
+        '</ul>' +
+        '<div class="bsg-cta"><a class="bsg-btn" href="' + escapeHTML(top.t.affiliate?.url || "#") + '" rel="sponsored nofollow">Bekijk ' + escapeHTML(top.t.name) + '</a></div></div>';
+    }
 
     const html = ranked.map(({ t, score }, i) => `
       <div class="bsg-result">
@@ -154,7 +181,7 @@ async function initWizard() {
       </div>
     `;
 
-    setHTML("bsg-wizard-results", (html || "<p>Geen matches gevonden. Pas je antwoorden aan.</p>") + leadCapture);
+    setHTML("bsg-wizard-results", recHTML + (html || "<p>Geen matches gevonden. Pas je antwoorden aan.</p>") + leadCapture);
 
     /* Handle lead submit */
     qs("#bsg-lead-submit")?.addEventListener("click", () => {
