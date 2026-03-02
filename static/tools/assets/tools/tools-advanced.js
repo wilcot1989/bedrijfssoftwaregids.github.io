@@ -43,8 +43,8 @@ async function initAdvancedTool() {
   if (toolType === "zzp_bv") {
     mount.innerHTML = `
       <div class="bsg-card">
-        <h1>ZZP → BV calculator (indicatief)</h1>
-        <p>Snelle indicatie of BV (fiscaal) interessant kan worden. Geen financieel advies.</p>
+        <h1>ZZP of BV? Rekenmodel</h1>
+        <p>Krijg een eerste indruk of een BV fiscaal interessant kan zijn voor jouw situatie.</p>
         <label>Winst per jaar (€) <input id="winst" type="number" min="0" value="120000"></label>
         <label>Salaris DGA (€) <input id="salaris" type="number" min="0" value="56000"></label>
         <label>Dividend (€) <input id="dividend" type="number" min="0" value="20000"></label>
@@ -244,9 +244,12 @@ async function initAdvancedTool() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  initAdvancedTool().catch(err => {
+  initAdvancedTool().then(() => {
+    const card = document.querySelector("#bsg-advanced .bsg-card");
+    if (card) card.insertAdjacentHTML("beforeend", '<p class="bsg-note">Aan de uitkomsten van deze tool kunnen geen rechten worden ontleend.</p>');
+  }).catch(err => {
     console.error(err);
     const mount = document.getElementById("bsg-advanced");
-    if (mount) mount.innerHTML = `<div class="bsg-card"><h1>Oeps</h1><p>Tool kon niet laden. Check console.</p><pre class="bsg-note">${escapeHTML(err.message)}</pre></div>`;
+    if (mount) mount.innerHTML = `<div class="bsg-card"><h1>Oeps</h1><p>Tool kon niet laden.</p></div>`;
   });
 });

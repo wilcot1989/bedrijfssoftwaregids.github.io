@@ -23,7 +23,7 @@
     "pipeline": true,
     "integrations": ["Google Workspace", "Microsoft 365", "Zapier", "Slack"],
     "affiliate": { "type": "link", "url": "https://www.pipedrive.com/nl" },
-    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 14.90 }
+    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 14 }
   },
   {
     "id": "monday_crm",
@@ -74,7 +74,7 @@
     "pipeline": true,
     "integrations": ["Exact", "Microsoft 365"],
     "affiliate": { "type": "link", "url": "https://www.exact.com/nl" },
-    "cost": { "model": "per_user_monthly", "base": 35, "per_user": 10 }
+    "cost": { "model": "per_user_monthly", "base": 48, "per_user": 16 }
   },
   {
     "id": "gripp",
@@ -86,7 +86,7 @@
     "pipeline": true,
     "integrations": ["Exact"],
     "affiliate": { "type": "link", "url": "https://www.gripp.com/nl/" },
-    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 29 }
+    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 33 }
   },
   {
     "id": "moneybird",
@@ -98,7 +98,7 @@
     "payroll": false,
     "bank_sync": true,
     "affiliate": { "type": "link", "url": "https://www.moneybird.nl/" },
-    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 9.95 }, { "up_to": 3, "price": 14.50 }, { "up_to": 10, "price": 24 }] }
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 15 }, { "up_to": 3, "price": 28 }, { "up_to": 10, "price": 39 }] }
   },
   {
     "id": "exact_online",
@@ -110,7 +110,7 @@
     "payroll": true,
     "bank_sync": true,
     "affiliate": { "type": "link", "url": "https://www.exact.com/nl" },
-    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 39 }, { "up_to": 3, "price": 48 }, { "up_to": 10, "price": 79 }] }
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 48 }, { "up_to": 3, "price": 55 }, { "up_to": 10, "price": 79 }] }
   },
   {
     "id": "eboekhouden",
@@ -134,7 +134,7 @@
     "payroll": false,
     "bank_sync": false,
     "affiliate": { "type": "link", "url": "https://www.freshbooks.com/" },
-    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 5, "price": 8.50 }, { "up_to": 50, "price": 15 }, { "up_to": 500, "price": 27.50 }] }
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 5, "price": 15 }, { "up_to": 50, "price": 30 }, { "up_to": 500, "price": 55 }] }
   },
   {
     "id": "informeronline",
@@ -146,19 +146,19 @@
     "payroll": false,
     "bank_sync": true,
     "affiliate": { "type": "link", "url": "https://www.informer.nl/" },
-    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 17 }, { "up_to": 3, "price": 27 }] }
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 15 }, { "up_to": 3, "price": 23 }, { "up_to": 10, "price": 34 }] }
   },
   {
     "id": "jortt",
     "name": "Jortt",
     "categories": ["boekhouding"],
-    "pricing_band": "<€20",
+    "pricing_band": "€20-€50",
     "nl_support": true,
     "vat": true,
     "payroll": false,
     "bank_sync": true,
     "affiliate": { "type": "link", "url": "https://www.jortt.nl/" },
-    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 0 }, { "up_to": 3, "price": 9 }, { "up_to": 10, "price": 19 }] }
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 0 }, { "up_to": 3, "price": 19.95 }, { "up_to": 10, "price": 24.95 }] }
   },
   {
     "id": "rompslomp",
@@ -170,7 +170,7 @@
     "payroll": false,
     "bank_sync": true,
     "affiliate": { "type": "link", "url": "https://www.rompslomp.nl/" },
-    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 9.50 }] }
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 12.50 }] }
   },
   {
     "id": "asana",
@@ -242,7 +242,7 @@
     "kds": true,
     "payments": true,
     "affiliate": { "type": "link", "url": "https://www.lightspeedhq.nl/" },
-    "cost": { "model": "pos_terminals_monthly", "base": 59, "per_terminal": 39 }
+    "cost": { "model": "pos_terminals_monthly", "base": 79, "per_terminal": 39 }
   },
   {
     "id": "untill",
@@ -302,7 +302,7 @@
     "kds": false,
     "payments": true,
     "affiliate": { "type": "link", "url": "https://www.orderbird.com/nl" },
-    "cost": { "model": "pos_terminals_monthly", "base": 39, "per_terminal": 20 }
+    "cost": { "model": "pos_terminals_monthly", "base": 35, "per_terminal": 35 }
   },
   {
     "id": "personio",
@@ -380,7 +380,7 @@
     "performance": true,
     "onboarding": true,
     "affiliate": { "type": "link", "url": "https://www.bamboohr.com/" },
-    "cost": { "model": "per_employee_monthly", "base": 0, "per_employee": 5 }
+    "cost": { "model": "per_employee_monthly", "base": 0, "per_employee": 9 }
   },
   {
     "id": "visma_raet",
@@ -404,7 +404,7 @@
     "crm_needed": false,
     "integrations": ["Shopify", "WooCommerce", "Zapier", "Google Analytics"],
     "affiliate": { "type": "link", "url": "https://www.brevo.com/nl/" },
-    "cost": { "model": "per_user_monthly", "base": 9, "per_user": 0 }
+    "cost": { "model": "per_user_monthly", "base": 7, "per_user": 0 }
   },
   {
     "id": "mailchimp",
@@ -509,7 +509,7 @@
     "scrum": false,
     "integrations": ["Google Workspace", "Slack", "Zapier"],
     "affiliate": { "type": "link", "url": "https://www.notion.so/" },
-    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 8 }
+    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 10 }
   },
   {
     "id": "m365",
@@ -527,7 +527,7 @@
     "pricing_band": "€10-€20",
     "integrations": ["Google Workspace", "Slack", "Zapier"],
     "affiliate": { "type": "link", "url": "https://workspace.google.com/" },
-    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 6 }
+    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 6.90 }
   },
   {
     "id": "shopify",
@@ -549,7 +549,7 @@
     "pos_sync": false,
     "integrations": ["Mollie", "Stripe", "Sendcloud", "Exact"],
     "affiliate": { "type": "link", "url": "https://woocommerce.com/" },
-    "cost": { "model": "webshop_tx_cost", "base": 0, "tx_fee_pct": 1.4 }
+    "cost": { "model": "webshop_tx_cost", "base": 0, "tx_fee_pct": 1.8 }
   },
   {
     "id": "lightspeed_ecom",
@@ -560,7 +560,7 @@
     "pos_sync": true,
     "integrations": ["Mollie", "Stripe", "Bol.com", "Google Shopping", "Sendcloud"],
     "affiliate": { "type": "link", "url": "https://www.lightspeedhq.nl/" },
-    "cost": { "model": "webshop_tx_cost", "base": 59, "tx_fee_pct": 0 }
+    "cost": { "model": "webshop_tx_cost", "base": 49, "tx_fee_pct": 0 }
   },
   {
     "id": "magento",
@@ -588,12 +588,12 @@
     "id": "ccvshop",
     "name": "CCV Shop",
     "categories": ["webshops"],
-    "pricing_band": "<€30",
+    "pricing_band": "€30-€100",
     "payments": true,
     "pos_sync": false,
     "integrations": ["Mollie", "Bol.com", "Google Shopping", "Sendcloud", "Exact"],
     "affiliate": { "type": "link", "url": "https://www.ccvshop.nl/" },
-    "cost": { "model": "webshop_tx_cost", "base": 12.50, "tx_fee_pct": 0 }
+    "cost": { "model": "webshop_tx_cost", "base": 34, "tx_fee_pct": 0 }
   },
   {
     "id": "mijnwebwinkel",
@@ -604,6 +604,6 @@
     "pos_sync": false,
     "integrations": ["Mollie", "Bol.com", "Sendcloud"],
     "affiliate": { "type": "link", "url": "https://www.mijnwebwinkel.nl/" },
-    "cost": { "model": "webshop_tx_cost", "base": 17, "tx_fee_pct": 0 }
+    "cost": { "model": "webshop_tx_cost", "base": 20, "tx_fee_pct": 0 }
   }
 ]

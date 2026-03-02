@@ -52,7 +52,7 @@ async function initCalculator() {
 
       <button class="bsg-btn" id="bsg-calc-run">Bereken kosten</button>
       <div id="bsg-calc-out" class="bsg-results"></div>
-      <p class="bsg-note">Prijzen zijn indicatief en kunnen afwijken van actuele tarieven.</p>
+      <p class="bsg-note">Aan de uitkomsten van deze calculator kunnen geen rechten worden ontleend.</p>
     </div>
   `;
 
