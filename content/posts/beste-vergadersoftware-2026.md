@@ -145,6 +145,13 @@ Whereby is mijn tip voor coaches, consultants en iedereen die regelmatig 1-op-1 
 
 De meeste MKB-bedrijven hebben al goede vergadersoftware in hun bestaande abonnement: **Teams** (Microsoft 365) of **Meet** (Google Workspace). Heb je veel externe meetings met klanten en leveranciers? Dan is **Zoom** de meest universele vergadersoftware. Voor 1-op-1 klantgesprekken is **Whereby** ideaal door de eenvoud en eigen branding.
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/productiviteit/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Notion vs Monday.com 2026](/posts/notion-vs-monday-vergelijking-2026/)** — Projectmanagement

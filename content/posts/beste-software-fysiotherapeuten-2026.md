@@ -425,3 +425,5 @@ De markt voor fysiotherapie software in Nederland wordt gedomineerd door Intrame
 Mijn advies: vraag bij minimaal twee aanbieders een demo of proefperiode aan. Test je dagelijkse workflow — een intake registreren, een behandeling plannen, een declaratie versturen, een oefenprogramma samenstellen. Pas dan merk je welk systeem bij jouw manier van werken past.
 
 Heb je vragen over welk pakket het beste bij jouw praktijk past? Laat een reactie achter of neem contact op via de [over ons-pagina](/about/). Ik help je graag met een persoonlijk advies.
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp.html)** voor een persoonlijk advies.

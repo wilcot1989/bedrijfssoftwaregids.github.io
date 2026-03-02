@@ -317,3 +317,5 @@ Maar ik kan niet om de olifant in de kamer heen: de prijssprong naar Professiona
 Bekijk ook mijn complete vergelijking van de [beste CRM software in Nederland](/posts/beste-crm-software-nederland-2026/) voor een uitgebreider overzicht.
 
 *Prijzen en scores gecontroleerd op 1 maart 2026. HubSpot past prijzen regelmatig aan -- controleer altijd de actuele tarieven op hubspot.com/pricing.*
+
+Wil je HubSpot vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)** of gebruik de **[keuzehulp](/tools/crm/keuzehulp.html)**.

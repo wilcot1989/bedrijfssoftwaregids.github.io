@@ -160,6 +160,13 @@ Zoek je een CRM voor je webshop? Bekijk onze [CRM voor webshops gids](/posts/bes
 
 Er is geen "beste" websitebouwer — het hangt af van je behoeften. **Wix** als je snel en simpel online wilt. **WordPress** als je flexibiliteit en SEO nodig hebt. **Squarespace** als design prioriteit is. **Shopify** als je primair wilt verkopen. **Webflow** als je maatwerk design wilt zonder code.
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/productiviteit/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Koppel je website aan je CRM

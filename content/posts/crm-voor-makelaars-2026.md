@@ -345,6 +345,9 @@ Het beste CRM voor makelaars hangt af van je specifieke situatie. Hier zijn onze
 
 Mijn advies: als NVM-makelaar is Realworks de veiligste keuze vanwege de directe Funda-koppeling en NVM-integratie. Maar als je de flexibiliteit, marketingkracht of het prijspunt van een algemeen CRM prefereert, zijn HubSpot en Pipedrive uitstekende alternatieven -- mits je bereid bent om de makelaarsspecifieke functies handmatig in te richten. Vraag altijd een demo aan en test het systeem met je eigen werkprocessen voordat je een definitieve keuze maakt.
 
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp.html)** voor een persoonlijk advies.
+
 ## Lees ook
 
 - **[Beste Makelaarssoftware 2026](/posts/beste-software-makelaars-2026/)** — Compleet overzicht van branche-specifieke pakketten (Realworks, Kolibri, Yes-co, Friva, KeySoftware)

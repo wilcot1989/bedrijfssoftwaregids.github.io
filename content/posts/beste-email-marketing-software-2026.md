@@ -527,3 +527,10 @@ Mijn advies na jaren klanten adviseren: begin niet met de duurste tool. Begin me
 Wat je ook kiest: investeer tijd in het opzetten van je automatiseringen. Een welkomstreeks, een verlaten-winkelwagen flow en een re-engagement campagne zijn de drie automations die bij vrijwel elk bedrijf het verschil maken. Die drie alleen al rechtvaardigen de investering in een betaalde tool.
 
 Wil je eerst je CRM op orde brengen voordat je aan e-mailmarketing begint? Lees dan mijn vergelijking van de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) of bekijk de [Brevo review](/posts/brevo-review-2026/) voor een diepere duik in het platform dat e-mailmarketing en CRM combineert.
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/marketing/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/marketing/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/marketing/)** — Filter en vergelijk alle opties

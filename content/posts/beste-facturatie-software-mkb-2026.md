@@ -338,3 +338,10 @@ Het juiste factuurprogramma bespaart je uren per week en voorkomt kostbare foute
 - **Beste voor starters**: [Jortt](https://www.jortt.nl/) -- gratis beginnen en opschalen wanneer je klaar bent.
 
 Mijn advies: kies een pakket dat past bij je huidige situatie, maar dat ook ruimte biedt om te groeien. Online factureren hoeft niet ingewikkeld te zijn -- start met een gratis proefperiode en neem je boekhouder mee in de evaluatie. Let ook op e-facturatie (Peppol) ondersteuning, want dat wordt de komende jaren verplicht voor steeds meer sectoren. Een goed begin is het halve werk, zeker als het om je administratie gaat.
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/boekhouding/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/boekhouding/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/boekhouding/)** — Filter en vergelijk alle opties

@@ -1,0 +1,20 @@
+.bsg-card{max-width:960px;margin:20px auto;padding:18px;border:1px solid #e7e7e7;border-radius:12px}
+.bsg-q{margin:12px 0}
+.bsg-q label{display:block;font-weight:600;margin-bottom:6px}
+.bsg-q select,.bsg-q input[type="number"]{width:100%;padding:10px;border:1px solid #ddd;border-radius:10px}
+.bsg-bool{display:flex;gap:14px;flex-wrap:wrap}
+.bsg-chips{display:flex;flex-wrap:wrap;gap:10px}
+.bsg-chip{border:1px solid #ddd;border-radius:999px;padding:8px 10px}
+.bsg-btn{display:inline-block;padding:10px 14px;border-radius:10px;border:1px solid #111;text-decoration:none}
+.bsg-btn-sm{display:inline-block;padding:6px 10px;border-radius:10px;border:1px solid #111;text-decoration:none}
+.bsg-results{margin-top:14px}
+.bsg-result{border:1px solid #eee;border-radius:12px;padding:12px;margin:10px 0}
+.bsg-result-head{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap}
+.bsg-badge{border:1px solid #ddd;border-radius:999px;padding:4px 8px;font-size:12px}
+.bsg-table{width:100%;border-collapse:collapse}
+.bsg-table th,.bsg-table td{padding:10px;border-bottom:1px solid #eee;vertical-align:top}
+.bsg-filters{display:flex;gap:14px;flex-wrap:wrap;margin:10px 0 14px}
+.bsg-inline{display:flex;align-items:center;gap:8px}
+.bsg-note{font-size:12px;color:#666}
+.bsg-table-wrap{overflow:auto}
+.bsg-matrix-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}

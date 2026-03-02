@@ -141,6 +141,9 @@ Workvivo is geen klassiek intranet maar een intern social media-platform, nu ond
 
 Voor de meeste MKB-bedrijven is **Notion** de snelste start: in een middag heb je een werkende kennisbank. Gebruik je Microsoft 365? Dan is **SharePoint** (met Viva Connections) de krachtigste optie. Technische teams met Jira kiezen **Confluence**. En voor bedrijven die medewerkersbetrokkenheid willen versterken, is **Workvivo** de specialist.
 
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp.html)** voor een persoonlijk advies.
+
 ## Lees ook
 
 - **[Beste Documenten Management 2026](/posts/beste-documenten-management-2026/)** — Documentbeheer

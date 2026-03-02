@@ -185,6 +185,9 @@ Na tientallen implementaties van beide pakketten komt mijn advies hierop neer:
 
 Twijfel je? Beide bieden een gratis proefperiode van 30 dagen. Test ze naast elkaar en bespreek de uitkomst met je accountant.
 
+
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.
+
 ## Lees ook
 
 - **[Exact Online Review 2026](/posts/exact-online-review-2026/)** — Uitgebreide review met alle voor- en nadelen

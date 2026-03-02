@@ -1,6 +1,7 @@
 ---
 title: "Beste Kassasystemen Nederland 2026 (Horeca Vergelijken)"
 description: "Vergelijk kassasystemen voor horeca op kosten, hardware, transactietarieven en integraties. Praktische keuzehulp voor Nederlandse ondernemers."
+tools_category: "kassasystemen"
 ---
 
 Zoek je een kassasysteem voor je horecazaak? Op deze pagina vind je mijn actuele gidsen, plus een praktische checklist om sneller te kiezen.
@@ -25,3 +26,24 @@ Vergelijk niet alleen abonnementen, maar ook:
 
 - [CRM software](/categories/crm/) — voor opvolging van offertes en klantbeheer.
 - [Boekhoudsoftware](/categories/boekhouding/) — voor koppeling met je administratie.
+
+<div id="bsg-matrix">
+
+## Kassasystemen vergelijken
+
+| Software | Prijsklasse | Voorraadbeheer | Keuken/KDS | Pinbetaling |
+|---|---|---|---|---|
+| **Lightspeed Restaurant** | €50-€100 | Ja | Ja | Ja |
+| **Untill** | €50-€100 | Ja | Ja | Ja |
+| **Trivec** | €100+ | Ja | Ja | Ja |
+| **Square** | <€20 | Nee | Nee | Ja |
+| **Zettle by PayPal** | <€20 | Nee | Nee | Ja |
+| **Orderbird** | €20-€50 | Nee | Nee | Ja |
+
+### Gratis tools
+
+- **[Keuzehulp](/tools/kassasystemen/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/kassasystemen/calculator.html)** — Bereken je maandelijkse kosten
+
+
+</div>

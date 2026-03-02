@@ -241,3 +241,5 @@ Ik krijg deze vraag zo vaak dat ik er bijna een standaardantwoord voor heb:
 Laat me eerlijk zijn: beide pakketten doen wat ze moeten doen. Je BTW-aangifte is bij allebei correct, je facturen zien er bij allebei professioneel uit. Het verschil zit in de beleving en de prijs, niet in het eindresultaat.
 
 **Mijn advies**: probeer allebei. Moneybird heeft een gratis plan, e-Boekhouden een 15-dagen trial. Binnen een uurtje weet je welke beter voelt. Wil je ook mobiel boekhouden? Bekijk dan ons overzicht van de [beste boekhoud-apps](/posts/beste-boekhouder-app-2026/).
+
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.

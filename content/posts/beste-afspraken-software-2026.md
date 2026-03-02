@@ -342,3 +342,5 @@ De juiste afsprakensoftware bespaart je tijd, vermindert no-shows en biedt je kl
 - **Beste voor salons**: [Salonkee](https://salonkee.com/) -- branche-specifiek alles-in-een platform.
 
 Bekijk ook ons artikel over de [beste planning software voor horeca](/posts/beste-planning-software-horeca-2026/) voor branche-specifieke planningsoplossingen.
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp.html)** voor een persoonlijk advies.

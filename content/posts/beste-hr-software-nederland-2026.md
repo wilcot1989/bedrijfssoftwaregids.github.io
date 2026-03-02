@@ -332,3 +332,10 @@ De beste HR software voor jouw organisatie hangt af van je specifieke behoeften,
 - **Beste voor internationale bedrijven**: [BambooHR](https://www.bamboohr.com/) -- gebruiksvriendelijk internationaal platform, maar zonder NL-salaris.
 
 Mijn advies: begin met het bepalen van je kernbehoeften. Als salarisadministratie prioriteit nummer een is, kies een Nederlands platform zoals Nmbrs of Loket.nl. Zoek je een breed HR-platform dat met je meegroeit? Dan is Personio de beste keuze voor het Nederlandse MKB. Vraag altijd een demo aan en betrek zowel HR als je medewerkers bij de evaluatie -- de beste HR software is het systeem dat iedereen graag gebruikt.
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/hr-software/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/hr-software/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/hr-software/)** — Filter en vergelijk alle opties

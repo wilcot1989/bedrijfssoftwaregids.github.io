@@ -245,6 +245,14 @@ Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een t
 
 Voor de meeste Nederlandse MKB-bedrijven is **Exact Online** het veiligste ERP-systeem: breed gebruikt, goed ondersteund door accountants, en betaalbaar voor kleinere teams. **Afas** is het betere ERP-systeem als HR en salarisadministratie belangrijk zijn. **Dynamics 365 Business Central** past perfect in een Microsoft-omgeving, terwijl **SAP Business One** het sterkste ERP-systeem is voor productie- en handelsbedrijven. **Odoo** is ideaal voor technisch onderlegde teams die maximale flexibiliteit en lage kosten zoeken.
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/boekhouding/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/boekhouding/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/boekhouding/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Exact Online Review 2026](/posts/exact-online-review-2026/)** — Uitgebreide review van het populairste ERP in Nederland

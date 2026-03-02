@@ -139,6 +139,13 @@ DocuWare is de keuze voor bedrijven waar documenten niet alleen opgeslagen maar 
 
 Voor het MKB is **Google Workspace** of **SharePoint** (als je al Microsoft 365 hebt) de beste keuze. Beide bieden voldoende functionaliteit voor versiebeheer, samenwerking en zoeken. Werk je veel met externe partijen? Dan is **Dropbox Business** de sterkste keuze.
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/productiviteit/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Beste ERP-Systeem MKB 2026](/posts/beste-erp-software-mkb-2026/)** — Documentbeheer in je ERP

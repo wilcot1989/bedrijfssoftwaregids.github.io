@@ -161,6 +161,14 @@ Inbegrepen in Moneybird-abonnementen. Moneybird kost vanaf €12,50/maand (inclu
 4. **Volg snel op** — Stuur je offerte binnen 24 uur na het gesprek. De win rate daalt met 17% na 3 dagen
 5. **Maak het makkelijk** — Digitale handtekening en online betaling verlagen de drempel om te accepteren
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/crm/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/crm/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/crm/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Beste CRM Software Nederland 2026](/posts/beste-crm-software-nederland-2026/)** — Beheer je klanten en verkoopkansen

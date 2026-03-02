@@ -194,6 +194,9 @@ Na jarenlang beide platforms te implementeren is mijn advies helder: voor het Ne
 
 Twijfel je nog? Begin met het **gratis CRM van HubSpot**. Dat kost je niets en geeft binnen een week een realistisch beeld van of het bij je past.
 
+
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/crm/)**.
+
 ## Lees ook
 
 - **[Beste CRM Software Nederland 2026](/posts/beste-crm-software-nederland-2026/)** — Compleet overzicht van alle CRM-opties

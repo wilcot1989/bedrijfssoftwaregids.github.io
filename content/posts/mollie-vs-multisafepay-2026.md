@@ -592,3 +592,5 @@ Hoe dan ook: beide zijn solide Nederlandse betaalproviders die onder toezicht st
 Wil je meer weten over betaaloplossingen voor je webshop? Lees dan mijn [uitgebreide Mollie review](/posts/mollie-review-2026/) of bekijk de [beste webshop software voor Nederland](/posts/beste-webshop-software-2026/). Zoek je ook een webshopplatform? Lees mijn [Shopify vs Mijnwebwinkel vergelijking](/posts/shopify-vs-mijnwebwinkel-2026/).
 
 <a href="https://www.mollie.com/nl" target="_blank" rel="noopener noreferrer" class="cta">Start gratis met Mollie</a> of <a href="https://www.multisafepay.com/nl-nl" target="_blank" rel="noopener noreferrer" class="cta">Bekijk MultiSafepay tarieven</a>
+
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/webshops/)**.

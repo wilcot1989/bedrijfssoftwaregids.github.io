@@ -360,3 +360,5 @@ Voor de meeste Nederlandse ondernemers die ik adviseer, valt de keuze op Shopify
 - [Beste facturatie software MKB 2026](/posts/beste-facturatie-software-mkb-2026/) -- facturen automatiseren
 - [Beste boekhoudsoftware ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/) -- boekhouden naast je webshop
 - [Mollie vs MultiSafepay 2026](/posts/mollie-vs-multisafepay-2026/) -- betaalproviders vergeleken
+
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/webshops/)**.

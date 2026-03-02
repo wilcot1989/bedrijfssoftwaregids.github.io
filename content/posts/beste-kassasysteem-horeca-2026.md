@@ -349,6 +349,14 @@ En Square dan? Dat raad ik alleen aan als je echt €0 wilt investeren om te sta
 
 **Wat je vooral niet moet doen**: een contract van 3 jaar tekenen zonder het systeem eerst te testen. Vraag altijd een demo of proefperiode aan. Je kassasysteem gebruik je elke dag — het moet bij jouw zaak passen, niet andersom.
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/kassasystemen/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/kassasystemen/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/kassasystemen/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Beste Boekhoudsoftware voor ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Koppel je kassa aan je boekhouding

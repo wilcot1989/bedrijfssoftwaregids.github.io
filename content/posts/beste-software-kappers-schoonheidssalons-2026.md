@@ -353,3 +353,5 @@ De juiste kapsalon software transformeert je dagelijkse werkzaamheden. Minder te
 - **Beste voor Nederlandse salons**: [Salonized](https://www.salonized.com/nl/) -- Nederlandse software met salon-specifieke functies en persoonlijke support.
 
 Mijn advies: vraag een demo of start een proefperiode bij minimaal twee van deze tools. Let daarbij niet alleen op de functies, maar ook op hoe prettig het systeem werkt in de dagelijkse praktijk van jouw salon. De beste software is de software die jij en je team graag gebruiken.
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp.html)** voor een persoonlijk advies.

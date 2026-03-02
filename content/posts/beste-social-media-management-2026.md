@@ -160,6 +160,14 @@ SocialBee is een slimme keuze die ik steeds vaker adviseer aan bedrijven met een
 
 Voor de meeste MKB'ers is **Buffer** de beste start: gratis, eenvoudig en meer dan voldoende. Groei je uit Buffer? Dan is **Hootsuite** de logische volgende stap. Voor visuele merken op Instagram is **Later** ideaal, en voor contentmakers die slim willen recyclen is **SocialBee** de uitblinker.
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/marketing/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/marketing/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/marketing/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Beste Email Marketing Software 2026](/posts/beste-email-marketing-software-2026/)** — Combineer met social media

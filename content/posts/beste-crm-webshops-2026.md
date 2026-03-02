@@ -171,6 +171,9 @@ Salesforce Commerce Cloud noem ik eerlijkheidshalve alleen omdat het de standaar
 
 Voor de meeste webshops is **Klaviyo** het beste CRM voor webshops: de diepste e-commerce integraties, krachtige segmentatie en voorspellende analytics maken het de standaard voor e-commerce marketing. Heb je complexe automations nodig? Dan is **ActiveCampaign** het sterkste CRM voor webshops. Zoek je een compleet CRM voor zowel e-commerce als B2B? Dan is **HubSpot** de juiste keuze.
 
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp.html)** voor een persoonlijk advies.
+
 ## Lees ook
 
 - **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Alle CRM's vergeleken

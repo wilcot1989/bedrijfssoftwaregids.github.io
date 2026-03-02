@@ -288,3 +288,5 @@ De beste boekhoud-app hangt af van je prioriteiten en je huidige boekhoudsoftwar
 **Mijn advies**: kies je boekhoudsoftware primair op basis van de webversie en je zakelijke behoeften. De mobiele app is een belangrijke aanvulling, maar niet je enige werkplek. Moneybird biedt de beste balans tussen een uitstekende desktop- en mobiele ervaring voor de meeste Nederlandse ondernemers.
 
 Bekijk ons volledige overzicht van de [beste boekhoudsoftware voor ZZP'ers 2026](/posts/beste-boekhoudsoftware-zzp-2026/) voor alle opties en een uitgebreide vergelijking.
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp.html)** voor een persoonlijk advies.

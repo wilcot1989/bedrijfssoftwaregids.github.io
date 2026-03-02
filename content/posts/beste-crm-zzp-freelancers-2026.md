@@ -317,3 +317,5 @@ Voor ZZP'ers geldt: het beste CRM is het CRM dat je daadwerkelijk gebruikt. Een 
 - **Beste budget-CRM met AI**: [Freshsales](https://www.freshworks.com/nl/crm/) -- krachtige functies voor een scherpe prijs.
 
 Mijn advies: start vandaag met het gratis plan van HubSpot of Freshsales. Het kost je niets om te beginnen en je ontdekt snel of een CRM je manier van werken verbetert. En dat doet het vrijwel altijd.
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp.html)** voor een persoonlijk advies.

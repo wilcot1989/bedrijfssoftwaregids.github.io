@@ -160,6 +160,9 @@ Mijn advies na beide tools bij tientallen teams te hebben ingezet:
 
 **Power move:** Gebruik beide — Notion voor kennisbeheer en Monday.com voor projectmanagement. Ik zie dit steeds vaker bij klanten, en het werkt verrassend goed.
 
+
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/productiviteit/)**.
+
 ## Lees ook
 
 - **[Beste Urenregistratie Software 2026](/posts/beste-urenregistratie-software-2026/)** — Uren bijhouden bij je projecten

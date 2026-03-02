@@ -497,6 +497,9 @@ De keuze hangt af van wat je restaurant operationeel nodig heeft. Niet elke zaak
 Zoek je puur een kassasysteem zonder al deze operationele functies? Bekijk dan mijn [kassasysteem-vergelijking voor de horeca](/posts/beste-kassasysteem-horeca-2026/) met meer opties waaronder Square.
 
 
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp.html)** voor een persoonlijk advies.
+
 ## Lees ook
 
 - **[Lightspeed Kassa Review 2026](/posts/lightspeed-kassa-review-2026/)** -- Diepgaande review van het populairste horecakassasysteem

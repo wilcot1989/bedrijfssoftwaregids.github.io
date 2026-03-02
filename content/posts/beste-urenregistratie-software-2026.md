@@ -210,6 +210,13 @@ Voor de meeste bedrijven is **Clockify** (gratis) of **Toggl Track** (beste UX) 
 
 Zoek je ook een tool om projecten te beheren? Lees de [beste projectmanagement software](/posts/beste-projectmanagement-software-2026/).
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/productiviteit/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Beste Boekhoudsoftware 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Koppel je uren aan je boekhouding

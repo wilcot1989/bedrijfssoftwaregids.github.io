@@ -484,3 +484,10 @@ Mijn advies in het kort:
 Begin met een gratis proefperiode van het platform dat je aanspreekt, test het hele bestelproces (inclusief betalingen en verzending), en schaal je softwarestack mee met je groei.
 
 Heb je vragen over welke combinatie bij jouw situatie past? Bekijk de [volledige webshop software vergelijking](/posts/beste-webshop-software-2026/) of laat je inspireren door de [Shopify vs Mijnwebwinkel vergelijking](/posts/shopify-vs-mijnwebwinkel-2026/).
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/webshops/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/webshops/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/webshops/)** — Filter en vergelijk alle opties

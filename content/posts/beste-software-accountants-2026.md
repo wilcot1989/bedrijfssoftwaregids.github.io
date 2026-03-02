@@ -547,3 +547,5 @@ Mijn persoonlijke aanbevelingen in het kort:
 Wat ik alle kantoren aanraad: vraag een demo aan bij minimaal twee pakketten en test ze met een echte administratie. Een salesverhaal is mooi, maar je ontdekt de beperkingen pas als je er daadwerkelijk mee werkt.
 
 Heb je een vraag over een specifiek pakket of wil je sparren over de juiste keuze voor jouw kantoor? [Neem contact op](/about/) — ik denk graag mee.
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp.html)** voor een persoonlijk advies.

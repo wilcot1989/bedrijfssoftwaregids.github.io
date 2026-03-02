@@ -298,6 +298,14 @@ Technisch kan het, maar ik raad het af. De meeste pakketten bieden import/export
 | **ZZP'er die wil groeien naar BV** | Exact Online | Meest complete, schaalt mee | €39 |
 | **Internationale freelancer** | FreshBooks | Multi-valuta, Engelse interface | €8,50 |
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/boekhouding/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/boekhouding/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/boekhouding/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - [Beste kassasysteem voor horeca](/posts/beste-kassasysteem-horeca-2026/) — als je naast boekhouding ook een kassasysteem nodig hebt

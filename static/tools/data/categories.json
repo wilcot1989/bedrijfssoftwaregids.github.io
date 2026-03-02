@@ -1,0 +1,534 @@
+{
+  "crm": {
+    "title": "CRM Software",
+    "slug": "crm",
+    "wizard": {
+      "questions": [
+        {
+          "id": "team_size",
+          "type": "select",
+          "label": "Teamgrootte",
+          "options": [
+            "1-2",
+            "3-10",
+            "11-50",
+            "50+"
+          ]
+        },
+        {
+          "id": "budget",
+          "type": "select",
+          "label": "Budget per gebruiker per maand",
+          "options": [
+            "<€20",
+            "€20-€50",
+            "€50-€100",
+            "€100+"
+          ]
+        },
+        {
+          "id": "marketing_automation",
+          "type": "bool",
+          "label": "Marketing automation nodig?"
+        },
+        {
+          "id": "pipeline",
+          "type": "bool",
+          "label": "Sales pipeline (deals) nodig?"
+        },
+        {
+          "id": "integrations",
+          "type": "multi",
+          "label": "Belangrijke integraties",
+          "options": [
+            "Google Workspace",
+            "Microsoft 365",
+            "Exact",
+            "Moneybird",
+            "Slack",
+            "Zapier"
+          ]
+        }
+      ]
+    },
+    "matrix": {
+      "filters": [
+        "pricing_band",
+        "nl_support",
+        "marketing_automation",
+        "pipeline",
+        "integrations"
+      ]
+    },
+    "calculator": {
+      "enabled": true,
+      "type": "per_user_monthly"
+    },
+    "advanced": {
+      "enabled": true,
+      "type": "crm_roi",
+      "page": "roi-calculator.html",
+      "title": "CRM ROI calculator"
+    }
+  },
+  "boekhouding": {
+    "title": "Boekhoudsoftware",
+    "slug": "boekhouding",
+    "wizard": {
+      "questions": [
+        {
+          "id": "legal_form",
+          "type": "select",
+          "label": "Rechtsvorm",
+          "options": [
+            "ZZP",
+            "BV",
+            "Stichting/Vereniging"
+          ]
+        },
+        {
+          "id": "invoices",
+          "type": "select",
+          "label": "Facturen per maand",
+          "options": [
+            "0-10",
+            "11-50",
+            "50+"
+          ]
+        },
+        {
+          "id": "vat",
+          "type": "bool",
+          "label": "BTW-aangifte (NL) nodig?"
+        },
+        {
+          "id": "payroll",
+          "type": "bool",
+          "label": "Salarisadministratie nodig?"
+        },
+        {
+          "id": "bank_sync",
+          "type": "bool",
+          "label": "Automatische bankkoppeling nodig?"
+        }
+      ]
+    },
+    "matrix": {
+      "filters": [
+        "pricing_band",
+        "vat",
+        "payroll",
+        "bank_sync",
+        "nl_support"
+      ]
+    },
+    "calculator": {
+      "enabled": true,
+      "type": "tiered_monthly"
+    },
+    "advanced": {
+      "enabled": true,
+      "type": "zzp_bv",
+      "page": "zzp-bv-calculator.html",
+      "title": "ZZP → BV calculator"
+    }
+  },
+  "projectmanagement": {
+    "title": "Projectmanagement Software",
+    "slug": "projectmanagement",
+    "wizard": {
+      "questions": [
+        {
+          "id": "team_size",
+          "type": "select",
+          "label": "Teamgrootte",
+          "options": [
+            "1-5",
+            "6-20",
+            "20+"
+          ]
+        },
+        {
+          "id": "gantt",
+          "type": "bool",
+          "label": "Gantt nodig?"
+        },
+        {
+          "id": "time_tracking",
+          "type": "bool",
+          "label": "Time tracking nodig?"
+        },
+        {
+          "id": "scrum",
+          "type": "bool",
+          "label": "Scrum/Agile boards nodig?"
+        },
+        {
+          "id": "integrations",
+          "type": "multi",
+          "label": "Integraties",
+          "options": [
+            "Slack",
+            "Teams",
+            "Google Drive",
+            "OneDrive",
+            "Jira",
+            "Zapier"
+          ]
+        }
+      ]
+    },
+    "matrix": {
+      "filters": [
+        "pricing_band",
+        "gantt",
+        "time_tracking",
+        "scrum",
+        "integrations"
+      ]
+    },
+    "calculator": {
+      "enabled": true,
+      "type": "per_user_monthly"
+    },
+    "advanced": {
+      "enabled": true,
+      "type": "agile_score",
+      "page": "agile-score.html",
+      "title": "Agile maturity score"
+    }
+  },
+  "kassasystemen": {
+    "title": "Kassasystemen (POS)",
+    "slug": "kassasystemen",
+    "wizard": {
+      "questions": [
+        {
+          "id": "industry",
+          "type": "select",
+          "label": "Branche",
+          "options": [
+            "Horeca",
+            "Retail",
+            "Kapsalon",
+            "Foodtruck",
+            "Dienstverlening"
+          ]
+        },
+        {
+          "id": "terminals",
+          "type": "select",
+          "label": "Aantal kassa's",
+          "options": [
+            "1",
+            "2-3",
+            "4+"
+          ]
+        },
+        {
+          "id": "kds",
+          "type": "bool",
+          "label": "Keuken/KDS nodig (horeca)?"
+        },
+        {
+          "id": "inventory",
+          "type": "bool",
+          "label": "Voorraadbeheer nodig?"
+        },
+        {
+          "id": "payments",
+          "type": "bool",
+          "label": "Pin/koppeling betaalprovider nodig?"
+        }
+      ]
+    },
+    "matrix": {
+      "filters": [
+        "industry_fit",
+        "inventory",
+        "kds",
+        "payments",
+        "pricing_band"
+      ]
+    },
+    "calculator": {
+      "enabled": true,
+      "type": "pos_terminals_monthly"
+    },
+    "advanced": {
+      "enabled": true,
+      "type": "pos_tx_cost",
+      "page": "transactiekosten.html",
+      "title": "Transactiekosten calculator"
+    }
+  },
+  "hr-software": {
+    "title": "HR Software",
+    "slug": "hr-software",
+    "wizard": {
+      "questions": [
+        {
+          "id": "employees",
+          "type": "select",
+          "label": "Aantal medewerkers",
+          "options": [
+            "1-10",
+            "11-50",
+            "50+"
+          ]
+        },
+        {
+          "id": "payroll",
+          "type": "bool",
+          "label": "Salarisadministratie nodig?"
+        },
+        {
+          "id": "leave",
+          "type": "bool",
+          "label": "Verlof/urenregistratie nodig?"
+        },
+        {
+          "id": "performance",
+          "type": "bool",
+          "label": "Performance reviews nodig?"
+        },
+        {
+          "id": "onboarding",
+          "type": "bool",
+          "label": "Onboarding workflows nodig?"
+        }
+      ]
+    },
+    "matrix": {
+      "filters": [
+        "pricing_band",
+        "payroll",
+        "leave",
+        "performance",
+        "onboarding",
+        "nl_support"
+      ]
+    },
+    "calculator": {
+      "enabled": true,
+      "type": "per_employee_monthly"
+    },
+    "advanced": {
+      "enabled": true,
+      "type": "hr_absence_cost",
+      "page": "verzuimkosten.html",
+      "title": "Verzuimkosten calculator"
+    }
+  },
+  "marketing": {
+    "title": "Marketing Software",
+    "slug": "marketing",
+    "wizard": {
+      "questions": [
+        {
+          "id": "channel",
+          "type": "select",
+          "label": "Belangrijkste kanaal",
+          "options": [
+            "E-mail",
+            "SEO",
+            "Ads",
+            "Social",
+            "Alles"
+          ]
+        },
+        {
+          "id": "team_size",
+          "type": "select",
+          "label": "Teamgrootte",
+          "options": [
+            "1",
+            "2-5",
+            "6-20",
+            "20+"
+          ]
+        },
+        {
+          "id": "automation",
+          "type": "bool",
+          "label": "Automations nodig (flows, triggers)?"
+        },
+        {
+          "id": "crm_needed",
+          "type": "bool",
+          "label": "CRM inbegrepen nodig?"
+        },
+        {
+          "id": "integrations",
+          "type": "multi",
+          "label": "Integraties",
+          "options": [
+            "Shopify",
+            "WooCommerce",
+            "Zapier",
+            "Google Analytics",
+            "Meta Ads",
+            "HubSpot"
+          ]
+        }
+      ]
+    },
+    "matrix": {
+      "filters": [
+        "pricing_band",
+        "automation",
+        "crm_needed",
+        "integrations"
+      ]
+    },
+    "calculator": {
+      "enabled": true,
+      "type": "per_user_monthly"
+    },
+    "advanced": {
+      "enabled": true,
+      "type": "lead_roi",
+      "page": "lead-roi.html",
+      "title": "Lead ROI calculator"
+    }
+  },
+  "webshops": {
+    "title": "Webshop Software",
+    "slug": "webshops",
+    "wizard": {
+      "questions": [
+        {
+          "id": "products",
+          "type": "select",
+          "label": "Aantal producten",
+          "options": [
+            "1-50",
+            "51-500",
+            "500+"
+          ]
+        },
+        {
+          "id": "budget",
+          "type": "select",
+          "label": "Budget per maand",
+          "options": [
+            "<€30",
+            "€30-€100",
+            "€100+"
+          ]
+        },
+        {
+          "id": "payments",
+          "type": "bool",
+          "label": "Veel betaalmethodes nodig?"
+        },
+        {
+          "id": "pos_sync",
+          "type": "bool",
+          "label": "Koppeling met POS/kassa nodig?"
+        },
+        {
+          "id": "integrations",
+          "type": "multi",
+          "label": "Integraties",
+          "options": [
+            "Mollie",
+            "Stripe",
+            "Klarna",
+            "Bol.com",
+            "Google Shopping",
+            "Exact",
+            "Sendcloud"
+          ]
+        }
+      ]
+    },
+    "matrix": {
+      "filters": [
+        "pricing_band",
+        "payments",
+        "pos_sync",
+        "integrations"
+      ]
+    },
+    "calculator": {
+      "enabled": true,
+      "type": "webshop_tx_cost"
+    },
+    "advanced": {
+      "enabled": true,
+      "type": "migration_planner",
+      "page": "migratie-planner.html",
+      "title": "Migratie planner"
+    }
+  },
+  "productiviteit": {
+    "title": "Productiviteit Software",
+    "slug": "productiviteit",
+    "wizard": {
+      "questions": [
+        {
+          "id": "team_size",
+          "type": "select",
+          "label": "Teamgrootte",
+          "options": [
+            "1",
+            "2-10",
+            "11-50",
+            "50+"
+          ]
+        },
+        {
+          "id": "use_case",
+          "type": "select",
+          "label": "Waarvoor zoek je software?",
+          "options": [
+            "Notities",
+            "Documenten",
+            "Teamchat",
+            "Planning",
+            "All-in-one"
+          ]
+        },
+        {
+          "id": "budget",
+          "type": "select",
+          "label": "Budget per gebruiker per maand",
+          "options": [
+            "<€10",
+            "€10-€20",
+            "€20+"
+          ]
+        },
+        {
+          "id": "integrations",
+          "type": "multi",
+          "label": "Integraties",
+          "options": [
+            "Google Workspace",
+            "Microsoft 365",
+            "Slack",
+            "Teams",
+            "Zapier"
+          ]
+        }
+      ]
+    },
+    "matrix": {
+      "filters": [
+        "pricing_band",
+        "integrations"
+      ]
+    },
+    "calculator": {
+      "enabled": false,
+      "type": null
+    },
+    "advanced": {
+      "enabled": true,
+      "type": "stack_planner",
+      "page": "stack-planner.html",
+      "title": "Tool stack planner"
+    }
+  }
+}

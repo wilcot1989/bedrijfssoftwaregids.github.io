@@ -316,3 +316,5 @@ Na drie maanden testen is mijn conclusie helder: e-Boekhouden is het beste boekh
 **Mijn score: 7.5/10** — een betrouwbare, betaalbare keuze die ik met een gerust hart aanbeveel aan elke budgetbewuste ondernemer. De interface en mobiele app zijn de enige zwakke plekken, en voor de meeste ZZP'ers wegen die niet op tegen de prijs en de support.
 
 [Probeer e-Boekhouden gratis](https://www.e-boekhouden.nl/)
+
+Wil je e-Boekhouden vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)** of gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp.html)**.

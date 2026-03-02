@@ -12,6 +12,8 @@
   <meta name="impact-site-verification" value="ca0b4fb2-7247-4310-92f2-f687cdd2ac25">
   <meta name="f5b3374595df9e1" content="576bf8e1028d7a0318ff5ea2a7ce7974">
   {{ with .Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+  {{ with .Params.tools_category }}<meta name="bsg-category" content="{{ . }}">
+  <link rel="stylesheet" href="/tools/assets/tools/tools.css">{{ end }}
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
 
   <!-- Open Graph -->
@@ -501,6 +503,10 @@
       </div>
     </div>
   </div>
+  {{ if .Params.tools_category }}
+  <script src="/tools/assets/tools/tools-core.js"></script>
+  <script src="/tools/assets/tools/tools-matrix.js"></script>
+  {{ end }}
   <script>
     function acceptCookies(){
       localStorage.setItem('cookie-consent','true');

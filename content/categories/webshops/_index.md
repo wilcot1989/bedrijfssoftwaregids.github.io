@@ -1,6 +1,7 @@
 ---
 title: "Beste Webshop Software Nederland 2026 (Vergelijken)"
 description: "Vergelijk webshop software voor Nederlandse ondernemers op kosten, gebruiksgemak, betaalmethoden en integraties."
+tools_category: "webshops"
 ---
 
 Webshopsoftware kiezen gaat om balans tussen groei, beheer en kosten. Hier vind je mijn vergelijkingen en praktijkreviews van e-commerce platforms.
@@ -17,3 +18,25 @@ Webshopsoftware kiezen gaat om balans tussen groei, beheer en kosten. Hier vind 
 - [Kassasystemen](/categories/kassasystemen/) — voor fysieke verkooppunten naast je webshop.
 - [CRM software](/categories/crm/) — voor klantbeheer en herhaalaankopen.
 - [Marketing](/categories/marketing/) — voor email marketing en chatbot-integraties.
+
+<div id="bsg-matrix">
+
+## Webshop Software vergelijken
+
+| Software | Prijsklasse | Betaalmethoden | POS-koppeling |
+|---|---|---|---|
+| **Shopify** | €30-€100 | Ja | Ja |
+| **WooCommerce** | <€30 | Ja | Nee |
+| **Lightspeed eCom** | €30-€100 | Ja | Ja |
+| **Magento** | €100+ | Ja | Nee |
+| **BigCommerce** | €30-€100 | Ja | Nee |
+| **CCV Shop** | <€30 | Ja | Nee |
+| **Mijnwebwinkel** | <€30 | Ja | Nee |
+
+### Gratis tools
+
+- **[Keuzehulp](/tools/webshops/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/webshops/calculator.html)** — Bereken je maandelijkse kosten
+
+
+</div>

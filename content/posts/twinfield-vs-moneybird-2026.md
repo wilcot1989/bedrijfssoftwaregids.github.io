@@ -175,6 +175,9 @@ Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:
 
 **Twijfel je?** Begin met Moneybird (gratis plan) en stap over naar Twinfield wanneer je administratie dat vraagt. Die volgorde werkt beter dan andersom.
 
+
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.
+
 ## Lees ook
 
 - **[Exact Online vs Twinfield 2026](/posts/exact-online-vs-twinfield-2026/)** — De twee grote pakketten vergeleken

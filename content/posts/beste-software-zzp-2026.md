@@ -190,6 +190,9 @@ Nog beter: als starter krijg je e-Boekhouden 15 maanden gratis. Dan is je eerste
 Het belangrijkste: begin met het minimum en bouw uit. Je hebt op dag 1 echt alleen boekhoudsoftware nodig. De rest komt vanzelf als je groeit. En overstappen kan altijd — je zit nergens aan vast.
 
 
+
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp.html)** voor een persoonlijk advies.
+
 ## Lees ook
 
 - **[Beste Boekhoudprogramma ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — 6 boekhoudpakketten diepgaand vergeleken

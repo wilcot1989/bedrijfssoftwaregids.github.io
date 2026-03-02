@@ -166,6 +166,14 @@ ChatBot is mijn aanbeveling voor bedrijven die zelf de controle willen over hun 
 
 Voor de meeste MKB'ers is **Tidio** de beste chatbot software keuze: betaalbaar, eenvoudig en snel te installeren. Wil je de beste AI-chatbot software? Dan is **Intercom Fin** ongeëvenaard. Voor B2B bedrijven met hoge dealwaarde is **Drift** de investering waard.
 
+
+## Interactieve hulp
+
+Twijfel je nog? Gebruik onze gratis tools:
+- **[Keuzehulp](/tools/marketing/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/marketing/calculator.html)** — Bereken wat je per maand kwijt bent
+- **[Vergelijkingsmatrix](/categories/marketing/)** — Filter en vergelijk alle opties
+
 ## Lees ook
 
 - **[Beste Webshop Software 2026](/posts/beste-webshop-software-2026/)** — E-commerce met chatbot-integraties

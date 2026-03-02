@@ -1,6 +1,7 @@
 ---
 title: "Beste Boekhoudsoftware ZZP & MKB 2026 (Vergelijken)"
 description: "Vergelijk de beste boekhoudsoftware voor ZZP en MKB in Nederland. Onafhankelijk getest op prijs, btw-aangifte, bankkoppeling en samenwerking met je boekhouder."
+tools_category: "boekhouding"
 ---
 
 Boekhoudsoftware is vaak een keuze voor jaren. Daarom vind je hier niet alleen lijstjes, maar vooral selectiecriteria die je helpen om overstapgedoe te voorkomen.
@@ -25,3 +26,25 @@ Vergelijk altijd:
 
 - [CRM software](/categories/crm/) — voor lead-to-cash processen.
 - [Productiviteit](/categories/productiviteit/) — voor urenregistratie en documentbeheer.
+
+<div id="bsg-matrix">
+
+## Boekhoudsoftware vergelijken
+
+| Software | Prijsklasse | BTW-aangifte | Salarisadministratie | Bankkoppeling |
+|---|---|---|---|---|
+| **Moneybird** | <€20 | Ja | Nee | Ja |
+| **Exact Online** | €50-€100 | Ja | Ja | Ja |
+| **e-Boekhouden.nl** | <€20 | Ja | Nee | Ja |
+| **FreshBooks** | <€20 | Nee | Nee | Nee |
+| **InformerOnline** | €20-€50 | Ja | Nee | Ja |
+| **Jortt** | <€20 | Ja | Nee | Ja |
+| **Rompslomp** | <€20 | Ja | Nee | Ja |
+
+### Gratis tools
+
+- **[Keuzehulp](/tools/boekhouding/keuzehulp.html)** — Beantwoord 5 vragen, krijg een persoonlijk advies
+- **[Kosten calculator](/tools/boekhouding/calculator.html)** — Bereken je maandelijkse kosten
+
+
+</div>

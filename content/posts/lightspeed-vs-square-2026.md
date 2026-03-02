@@ -476,3 +476,5 @@ Na beide systemen bij tientallen ondernemers te hebben gezien, is mijn advies he
 Benieuwd hoe Lightspeed zich verhoudt tot andere horecakassa's? Lees dan mijn [Lightspeed vs Untill vergelijking](/posts/lightspeed-vs-untill-2026/) of het complete overzicht van de [beste kassasystemen voor de horeca](/posts/beste-kassasysteem-horeca-2026/).
 
 *Prijzen en review scores laatst gecontroleerd: april 2026.*
+
+Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp.html)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.
