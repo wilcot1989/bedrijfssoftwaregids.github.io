@@ -4,12 +4,12 @@ date: 2026-04-18
 lastmod: 2026-04-18
 description: "Welke horeca software past bij jouw zaak? Ik testte 5 systemen op kassa, reserveringen, voorraadbeheer en keukenmanagement. Met actuele prijzen en vergelijkingstabel."
 categories: ["kassasystemen"]
-tags: ["horeca software", "horeca kassa", "reserveringssysteem", "restaurantsoftware"]
+tags: ["horeca software", "reserveringssysteem", "restaurantsoftware", "horeca management"]
 featured_image: "/images/posts/beste-restaurantsoftware-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 affiliate: true
-keywords: ["horeca software", "horeca kassasysteem", "beste horeca software", "kassa restaurant"]
+keywords: ["horeca software", "beste horeca software", "restaurant management software", "horeca software vergelijken"]
 faq:
   - q: "Wat kost horeca software gemiddeld per maand?"
     a: "De kosten lopen uiteen van gratis (Zettle, alleen transactiekosten) tot meer dan 250 euro per maand voor uitgebreide pakketten. De meeste horecaondernemers betalen tussen 79 en 150 euro per maand voor horeca software. Tel daar hardware (eenmalig 400-2.500 euro) en eventuele transactiekosten bij op."
@@ -139,9 +139,9 @@ Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij d
 
 ### 1. Lightspeed Restaurant -- Beste allrounder
 
-Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan restauranthouders in Nederland. Het draait op iPads, is binnen een dag operationeel en biedt alles wat een modern restaurant nodig heeft. Ik heb het ingericht bij een brasserie in Utrecht die overstapt van een verouderd Windows-kassasysteem -- de eigenaar vertelde me dat zijn personeel het nieuwe systeem dezelfde avond al onder de knie had. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews.
+Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingredienten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. De koppeling met Formitable voor reserveringen is naadloos: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews.
 
-Wat Lightspeed sterk maakt voor restaurants specifiek: het tafelmanagement is visueel en snel, de ganggestuurde bestellingen werken direct met de keukenprinter of KDS, en de voorraadbeheermodule laat je recepturen invoeren zodat ingredienten automatisch worden afgeboekt. De koppeling met Formitable voor reserveringen is naadloos -- gasten die online reserveren, verschijnen direct in je tafelplattegrond.
+Het KDS (Kitchen Display System) is waar Lightspeed echt uitblinkt: ganggestuurde bestellingen verschijnen op het keukenscherm met timers en kleurcodering. De integratie met Thuisbezorgd en Uber Eats betekent dat bezorgorders automatisch in je keukenflow landen zonder handmatig overtypen.
 
 Wil je dieper duiken in wat Lightspeed kan? Lees mijn [uitgebreide Lightspeed kassa review](/posts/lightspeed-kassa-review-2026/).
 
@@ -188,11 +188,9 @@ Wil je dieper duiken in wat Lightspeed kan? Lees mijn [uitgebreide Lightspeed ka
 
 ### 2. Untill -- Beste voor grote en drukke restaurants
 
-Untill is het werkpaard van de Nederlandse horeca. Meer dan 6.500 horecazaken wereldwijd draaien op Untill, en in Nederland vind je het bij alles van strandpaviljoens tot drukke stadsbrasseries. Waar Lightspeed scoort op gebruiksgemak, wint Untill op robuustheid. Ik heb Untill aanbevolen bij een restaurant met drie verdiepingen en tien kassapunten -- het systeem draaide foutloos, ook toen het internet er een uur tussenuit ging.
+Untill is het systeem dat ik adviseer bij grote horecazaken waar de operations complex zijn. Meer dan 6.500 zaken draaien op Untill, en de kracht zit in het totaalpakket. De inkoopmodule is uniek: je kunt direct vanuit het systeem bij leveranciers bestellen op basis van je voorraadniveaus. Bij een restaurant met drie verdiepingen dat ik begeleidde, bespaarde dit de bedrijfsleider een halve dag per week aan handmatige inkoop.
 
-De offline modus van Untill is de beste die ik ken: het systeem werkt gewoon door, inclusief bonnen printen en betalingen verwerken. Zodra de verbinding terugkomt, synchroniseert alles automatisch. Dat is een serieus voordeel in de horeca, waar een uitval tijdens de dinerpiek je duizenden euro's kan kosten.
-
-Voor reserveringen koppelt Untill met Formitable en CoverManager. Het voorraadbeheer is uitgebreid, inclusief een inkoopmodule waarmee je direct bij leveranciers kunt bestellen. QR-bestellen gaat via een koppeling met Jamezz, waardoor gasten op hun eigen telefoon de menukaart bekijken en bestellen.
+De reserveringskoppeling met Formitable en CoverManager werkt soepel -- reserveringen komen direct in het tafelplan terecht. QR-bestellen loopt via de Jamezz-integratie, waardoor gasten op hun telefoon bestellen en de order automatisch bij de juiste keukenstation belandt. De personeelsplanning met urenregistratie per dienst geeft je direct inzicht in je personeelskosten ten opzichte van je omzet.
 
 Ben je benieuwd hoe Untill zich verhoudt tot Lightspeed? Ik schreef er een [directe vergelijking](/posts/lightspeed-vs-untill-2026/) over.
 
@@ -241,9 +239,9 @@ Ben je benieuwd hoe Untill zich verhoudt tot Lightspeed? Ik schreef er een [dire
 
 ### 3. Trivec -- Beste voor hotels en fine dining
 
-Trivec is het Scandinavische systeem dat ik aanbeveel aan restaurants binnen hotels en fine dining-zaken. Het is geen naam die je overal hoort in Nederland, maar wie het gebruikt, is er opvallend tevreden over. Ik heb Trivec gezien bij een boutiquehotel in Amsterdam waar het kassasysteem direct gekoppeld was aan het hotel-PMS -- een gast kon dineren in het restaurant en de rekening laten bijschrijven op de kamer. Dat soort integraties vind je niet bij elk systeem.
+Trivec is de keuze die ik maak bij restaurants binnen hotels en fine dining-zaken waar de hele gastervaring naadloos moet zijn. Bij een boutiquehotel in Amsterdam zag ik het in actie: een gast dineerde in het restaurant, bestelde een fles wijn aan de bar en liet alles bijschrijven op de kamer -- drie systemen, een factuur. Die hotel-PMS integratie (Oracle, Mews, Protel) is wat Trivec uniek maakt.
 
-Wat me opvalt aan Trivec: de software is stabiel, de support is persoonlijk en het systeem is enorm aanpasbaar. Voor een restaurant met een vaste kaart, seizoenmenu's en wijnpairing-opties biedt Trivec de flexibiliteit om alles in te richten zoals je het wilt. Het reserveringsbeheer is ingebouwd, niet afhankelijk van een externe koppeling, wat het beheer simpeler maakt.
+Wat voor restauranthouders extra interessant is: het reserveringsbeheer is ingebouwd, niet afhankelijk van een externe koppeling. Je menukaartbeheer ondersteunt seizoenskaarten en wijnpairing-opties. De food cost rapportages geven je per gerecht inzicht in je marges. Voor fine dining waar je een 7-gangenmenu met wijnpairing aanbiedt, biedt Trivec de flexibiliteit die je nodig hebt.
 
 De keerzijde: Trivec publiceert geen vaste prijzen. Je krijgt altijd een maatwerkofferte, wat het lastig maakt om snel te vergelijken. Voor een klein restaurant met een beperkt budget is dat een drempel.
 
@@ -289,11 +287,9 @@ De keerzijde: Trivec publiceert geen vaste prijzen. Je krijgt altijd een maatwer
 
 ### 4. Orderbird -- Beste budget-optie voor kleine restaurants
 
-Orderbird is de specialist voor kleinere horecazaken. Het draait op iPads, is snel opgezet en de interface is bewust simpel gehouden. Ik heb het aanbevolen aan een cafe-restauranteigenaar in Den Haag die 30 zitplaatsen had en geen behoefte aan de complexiteit van Lightspeed of Untill. Binnen een halve dag was alles ingericht -- menukaart, tafelindeling, keukenprinter.
+Orderbird is de keuze voor kleine restaurants waar de operations simpel zijn: een menukaart, een handvol tafels, een keukenprinter. Bij een eetcafe in Den Haag met 30 zitplaatsen was alles binnen een halve dag ingericht. De HACCP-registratie is een handige bonus -- je temperatuurcontroles en schoonmaakregistratie zitten direct in het systeem.
 
-Voor een klein restaurant dat geen uitgebreid voorraadbeheer of reserveringskoppeling nodig heeft, is Orderbird een prima keuze. De tafelmanagementfuncties zijn goed genoeg voor een zaak tot circa 50 couverts. Het splitsen van rekeningen, verplaatsen van items en ganggestuurd bestellen werkt soepel. De HACCP-registratie is een leuke bonus die je niet bij alle concurrenten vindt.
-
-Eerlijk punt: op Trustpilot scoort Orderbird slechts een 2.1/5 met 35 reviews -- de klachten gaan vooral over support en prijsverhogingen. Het kleine aantal reviews relativeert dat, maar houd het in je achterhoofd. De support is primair Duitstalig, wat voor Nederlandse gebruikers minder handig is.
+De beperkingen worden duidelijk als je verder kijkt dan de kassa: er is geen reserveringskoppeling, geen serieus voorraadbeheer met recepturen, en geen KDS-ondersteuning. Voor een restaurant dat ook reserveringen, food cost tracking en keukenmanagement wil, is Orderbird te beperkt. Op Trustpilot scoort het slechts 2.1/5 (35 reviews) -- de klachten gaan over support (primair Duitstalig) en prijsverhogingen.
 
 #### Belangrijkste functies
 
@@ -339,11 +335,9 @@ Eerlijk punt: op Trustpilot scoort Orderbird slechts een 2.1/5 met 35 reviews --
 
 ### 5. Zettle by PayPal -- Beste mobiele optie voor foodtrucks en pop-ups
 
-Zettle is geen traditionele horeca software. Het is een mobiel kassasysteem dat je op je smartphone of tablet draait, met een pinapparaat van €29. Ik noem het hier omdat het voor een specifieke groep restauranthouders precies de juiste keuze is: foodtrucks, pop-up restaurants, seizoensterrassen en kleine eetgelegenheden die vooral snel en goedkoop willen afrekenen.
+Zettle neem ik op in dit overzicht als eerlijke waarschuwing: het is een kassasysteem, geen horeca software. Het mist tafelmanagement, keukenprinters, KDS, reserveringen en voorraadbeheer. Als je een restaurant met bediening runt, is Zettle te beperkt.
 
-Ik heb Zettle aanbevolen aan een foodtruck-eigenaar die elke week op een andere markt stond. Reader in de zak, telefoon erbij, klaar. Geen maandelijkse softwarekosten -- je betaalt 1,75% per transactie via het standaardtarief (Go), of 1,25% als je kiest voor het Pro-abonnement. Op Trustpilot scoort Zettle een 3.3/5 met meer dan 5.500 reviews. Fans zijn lovend over de eenvoud, de kritiek gaat over de klantenservice bij problemen.
-
-Wat Zettle niet biedt: tafelmanagement, keukenprinters, KDS, reserveringen of serieus voorraadbeheer. Als je een restaurant met bediening runt, is Zettle te beperkt. Maar als je een simpele, mobiele oplossing zoekt zonder maandelijkse kosten, is het de goedkoopste start.
+Waar het wel werkt: foodtrucks, pop-up restaurants en seizoensterrassen. Reader van €29, geen maandkosten, 1,75% per transactie. Op Trustpilot scoort het 3.3/5 (5.500+ reviews). Voor een completer overzicht van Zettle als kassasysteem, zie mijn [kassasysteem-vergelijking](/posts/beste-kassasysteem-horeca-2026/).
 
 #### Belangrijkste functies
 

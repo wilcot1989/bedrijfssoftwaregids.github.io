@@ -4,12 +4,12 @@ date: 2026-04-17
 lastmod: 2026-04-17
 description: "Vergelijk de 5 beste makelaarssoftware-pakketten van Nederland op CRM, Funda-koppeling, woningpresentatie en transactiebeheer. Met actuele prijzen en ervaringen uit de praktijk."
 categories: ["crm"]
-tags: ["makelaarssoftware", "vastgoed CRM", "makelaardij", "woningpresentatie"]
+tags: ["makelaarssoftware", "makelaardij", "woningpresentatie", "makelaar software"]
 featured_image: "/images/posts/beste-software-makelaars-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 affiliate: true
-keywords: ["software makelaars", "makelaarssoftware", "vastgoed CRM", "beste software makelaardij"]
+keywords: ["software makelaars", "makelaarssoftware", "beste software makelaardij", "makelaar software vergelijken"]
 faq:
   - q: "Wat kost makelaarssoftware gemiddeld per maand?"
     a: "De kosten variëren sterk per pakket en kantoorgrootte. Kolibri begint bij 109 euro per maand voor het CRM. Yes-co start vanaf 75 euro per maand. Realworks werkt met prijzen op aanvraag, maar reken op 200 tot 500 euro per maand afhankelijk van je modules en kantoorgrootte. Bij de meeste aanbieders betaal je maandelijks en zijn er eenmalige implementatiekosten."

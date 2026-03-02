@@ -4,7 +4,7 @@ date: 2026-02-24T10:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
 description: "Welk kassasysteem past bij jouw horecazaak? Ik vergeleek 6 systemen op prijs, functies en gebruiksgemak. Vanaf €0/mnd. Ontdek mijn top pick."
 categories: ["kassasystemen"]
-tags: ["kassasysteem", "horeca", "pos systeem", "restaurant software", "kassa horeca"]
+tags: ["kassasysteem", "horeca", "pos systeem", "kassa horeca", "kassasysteem vergelijken"]
 keywords: ["beste kassasysteem horeca", "kassa restaurant", "pos systeem horeca", "kassasysteem vergelijken", "kassa café"]
 affiliate: true
 author: "Lars de Vries"
