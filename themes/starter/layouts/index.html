@@ -92,16 +92,16 @@
   </div>
 </div>
 
-{{/* ===== 5. ALLE ARTIKELEN ===== */}}
+{{/* ===== 5. RECENTE ARTIKELEN ===== */}}
 {{ $remainingPosts := after 4 $allPosts }}
 {{ if $remainingPosts }}
 <div class="section section-warm">
   <div class="container wide">
     <div class="section-title">
-      <h2>Alle reviews & vergelijkingen</h2>
+      <h2>Recente artikelen</h2>
     </div>
     <div style="background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:0.5rem 1.25rem;">
-      {{ range $remainingPosts }}
+      {{ range first 8 $remainingPosts }}
       <div class="article-row">
         {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
         <a href="{{ .RelPermalink }}" class="article-row-title">{{ .Title }}</a>
@@ -109,7 +109,7 @@
       {{ end }}
     </div>
     <div style="text-align:center;margin-top:1.5rem;">
-      <a href="/categories/" class="cta cta-outline">Bekijk alle categorieën</a>
+      <a href="/blog/" class="cta cta-outline">Bekijk alle artikelen →</a>
     </div>
   </div>
 </div>
