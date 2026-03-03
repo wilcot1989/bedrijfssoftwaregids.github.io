@@ -487,7 +487,7 @@ Heb je vragen over welke combinatie bij jouw situatie past? Bekijk de [volledige
 
 ## Interactieve hulp
 
-Twijfel je nog? Gebruik onze gratis tools:
+Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/webshops/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Kosten calculator](/tools/webshops/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
 - **[Migratie planner](/tools/webshops/migratie-planner/)** — Plan je platformwissel stap voor stap

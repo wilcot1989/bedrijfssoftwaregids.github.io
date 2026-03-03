@@ -258,7 +258,7 @@ Voor de meeste Nederlandse MKB-bedrijven is **Exact Online** het veiligste ERP-s
 
 ## Interactieve hulp
 
-Twijfel je nog? Gebruik onze gratis tools:
+Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/boekhouding/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Kosten calculator](/tools/boekhouding/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
 - **[ZZP of BV berekenen](/tools/boekhouding/zzp-bv-berekenen/)** — Bereken of een BV fiscaal voordelig is

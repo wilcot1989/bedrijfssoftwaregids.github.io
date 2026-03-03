@@ -100,7 +100,7 @@ Nmbrs is een payrollplatform dat sterk leunt op de samenwerking tussen onderneme
 
 De grootste fout die ondernemers maken bij hun eerste personeelslid is de salarisadministratie onderschatten. Een loonstrook is niet alleen een bedrag overmaken -- het gaat om correcte loonheffingen, de juiste CAO, vakantiegeld en loonaangifte. Kies een systeem dat dit voor je automatiseert, zodat jij je kunt richten op je bedrijf.
 
-Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) om in vijf vragen te bepalen welke tool het beste aansluit bij jouw situatie. Bereken ook de [kosten van HR software voor jouw team](/tools/hr/kosten-berekenen/) inclusief licentie en salarisverwerking.
+Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) om in vijf vragen te bepalen welke tool het beste aansluit bij jouw situatie. Bereken ook de [kosten van HR software voor jouw team](/tools/hr-software/kosten-berekenen/) inclusief licentie en salarisverwerking.
 
 ## Hoe wij vergelijken
 
@@ -122,4 +122,4 @@ E-mailmarketing is naast HR een effectieve manier om je klantrelaties te onderho
 
 - **[HR software voor MKB](/sectoren/hr/hr-software-mkb/)** -- Als je team groeit naar 10 of meer medewerkers
 - **[Boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/)** -- Koppel je HR aan je boekhouding
-- **[Alle HR software vergelijken](/categories/hr/)** -- Compleet overzicht met filteropties
+- **[Alle HR software vergelijken](/categories/hr-software/)** -- Compleet overzicht met filteropties

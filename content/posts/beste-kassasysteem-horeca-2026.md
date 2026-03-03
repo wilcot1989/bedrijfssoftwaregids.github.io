@@ -352,7 +352,7 @@ En Square dan? Dat raad ik alleen aan als je echt €0 wilt investeren om te sta
 
 ## Interactieve hulp
 
-Twijfel je nog? Gebruik onze gratis tools:
+Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/kassasystemen/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Kosten calculator](/tools/kassasystemen/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
 - **[Transactiekosten berekenen](/tools/kassasystemen/transactiekosten-berekenen/)** — Vergelijk pinkosten per betaalprovider

@@ -23,9 +23,12 @@
   <meta property="og:site_name" content="{{ .Site.Title }}">
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:locale" content="nl_NL">
-  {{ with .Params.featured_image }}<meta property="og:image" content="{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" . }}">
+  {{ $ogImage := "" }}
+  {{ with .Params.featured_image }}{{ $ogImage = . }}{{ else }}{{ $ogImage = "images/og-default.svg" }}{{ end }}
+  <meta property="og:image" content="{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" $ogImage }}">
   <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">{{ end }}
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="{{ .Title }}">
   {{ if .IsPage }}
   <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
   <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
@@ -37,7 +40,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ if not .IsHome }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-  {{ with .Params.featured_image }}<meta name="twitter:image" content="{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" . }}">{{ end }}
+  <meta name="twitter:image" content="{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" $ogImage }}">
 
   <!-- JSON-LD Structured Data -->
   {{ if .IsHome }}
@@ -118,6 +121,12 @@
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied'
+    });
 
     function loadAnalytics(){
       if(window.__analyticsLoaded) return;

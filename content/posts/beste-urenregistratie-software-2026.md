@@ -213,7 +213,7 @@ Zoek je ook een tool om projecten te beheren? Lees de [beste projectmanagement s
 
 ## Interactieve hulp
 
-Twijfel je nog? Gebruik onze gratis tools:
+Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/productiviteit/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Tool Stack Planner](/tools/productiviteit/tool-stack-planner/)** — Stel je ideale softwarecombinatie samen
 - **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties

@@ -103,7 +103,7 @@ De combinatie van Shiftbase voor planning en Loket.nl voor salarisverwerking is 
 
 Let bij de keuze ook op hoe snel je nieuwe medewerkers kunt onboarden. In de horeca is de instroom van tijdelijk personeel hoog, zeker in het zomerseizoen. Een systeem dat nieuwe medewerkers in vijf minuten kan toevoegen en direct een contract kan genereren, bespaart je per jaar tientallen uren administratie. Shiftbase en Loket.nl scoren hier goed op; AFAS vereist meer configuratie maar biedt ook meer diepgang voor vaste medewerkers.
 
-Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een gepersonaliseerd advies op basis van jouw personeelsomvang en planningscomplexiteit. Bereken ook de [kosten van HR software voor jouw horecabedrijf](/tools/hr/kosten-berekenen/).
+Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een gepersonaliseerd advies op basis van jouw personeelsomvang en planningscomplexiteit. Bereken ook de [kosten van HR software voor jouw horecabedrijf](/tools/hr-software/kosten-berekenen/).
 
 ## Hoe wij vergelijken
 
@@ -125,4 +125,4 @@ Horeca die ook online bestellingen accepteert of cadeaubonnen verkoopt, heeft ba
 
 - **[HR software voor MKB](/sectoren/hr/hr-software-mkb/)** -- Als je naast horeca ook kantoorpersoneel beheert
 - **[Kassasysteem voor horeca](/sectoren/kassasystemen/kassasysteem-horeca/)** -- Koppel je HR aan je kassa
-- **[Alle HR software vergelijken](/categories/hr/)** -- Compleet overzicht met filteropties
+- **[Alle HR software vergelijken](/categories/hr-software/)** -- Compleet overzicht met filteropties

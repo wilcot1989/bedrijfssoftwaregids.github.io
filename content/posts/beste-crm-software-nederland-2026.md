@@ -370,7 +370,7 @@ Pipedrive wint hier met afstand. De app werkt ook offline, je kunt deals updaten
 
 ## Interactieve hulp
 
-Twijfel je nog? Gebruik onze gratis tools:
+Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/crm/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Kosten calculator](/tools/crm/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
 - **[CRM ROI berekenen](/tools/crm/roi-berekenen/)** — Bereken wat een CRM je oplevert

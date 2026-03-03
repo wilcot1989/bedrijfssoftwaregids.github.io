@@ -84,4 +84,4 @@ Zorg dat de re-integratievoortgang wordt vastgelegd in hetzelfde dossier als de 
 
 Goed verzuimbeleid begint bij een cultuur waarin medewerkers zich veilig voelen om vroeg een signaal te geven als het niet goed gaat. HR-software kan de administratie organiseren en deadlines bewaken, maar de menselijke component -- aandacht, gesprek, vertrouwen -- is de basis van elk effectief verzuimbeleid.
 
-Wil je direct HR software vergelijken? Gebruik onze [HR software keuzehulp](/tools/hr-software/keuzehulp/).
+Wil je direct HR software vergelijken? Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/).

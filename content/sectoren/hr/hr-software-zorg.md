@@ -103,7 +103,7 @@ Een specifiek risico voor de zorg is werken met medewerkers wier BIG-registratie
 
 Denk ook aan de koppeling tussen verzuim en bedrijfscontinuiteit. In de zorg kan een onverwachte ziekmelding directe gevolgen hebben voor de kwaliteit van zorg. HR-software die automatisch een signaal stuurt naar de roosterplanning zodra een medewerker zich ziek meldt, en die bijhoudt of vervanging is geregeld, is in de zorg geen luxe maar een noodzaak. AFAS en Visma Raet ondersteunen dit; voor kleinere zorgteams biedt Loket.nl een basale maar werkbare oplossing.
 
-Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een gepersonaliseerd advies voor jouw zorgorganisatie. Bereken ook de [kosten van HR software voor zorg](/tools/hr/kosten-berekenen/) inclusief implementatie en licenties.
+Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een gepersonaliseerd advies voor jouw zorgorganisatie. Bereken ook de [kosten van HR software voor zorg](/tools/hr-software/kosten-berekenen/) inclusief implementatie en licenties.
 
 ## Hoe wij vergelijken
 
@@ -125,4 +125,4 @@ Zorgorganisaties die hun doelgroep willen bereiken via nieuwsbrieven of campagne
 
 - **[HR software voor MKB](/sectoren/hr/hr-software-mkb/)** -- Generieke HR-software voor middelgrote organisaties
 - **[Boekhoudsoftware voor stichtingen](/sectoren/boekhouding/boekhoudsoftware-stichtingen/)** -- Als je stichting ook boekhoudondersteuning zoekt
-- **[Alle HR software vergelijken](/categories/hr/)** -- Compleet overzicht met filteropties
+- **[Alle HR software vergelijken](/categories/hr-software/)** -- Compleet overzicht met filteropties

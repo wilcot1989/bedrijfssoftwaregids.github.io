@@ -70,4 +70,4 @@ Hoe langer je met de combinatie werkt, hoe afhankelijker je wordt van de koppeli
 
 Schakel bij voorkeur ook de boekhouder in bij de initiële configuratie van de koppeling. Een boekhoudkundige blik op de exportstructuur voorkomt dat BTW-categorieën verkeerd worden gemapt en bespaart correctiewerk achteraf.
 
-Wil je direct kassasystemen vergelijken? Gebruik onze [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).
+Wil je direct kassasystemen vergelijken? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

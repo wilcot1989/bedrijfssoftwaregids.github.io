@@ -74,4 +74,4 @@ Na drie maanden: evalueer of de gekozen tool werkt. Is de verlofregistratie in g
 
 Een goed HR-systeem neemt de administratieve druk weg zodat jij je kunt focussen op het werk dat jou en je medewerker vooruitbrengt.
 
-Wil je direct HR software vergelijken? Gebruik onze [HR software keuzehulp](/tools/hr-software/keuzehulp/).
+Wil je direct HR software vergelijken? Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/).

@@ -70,4 +70,4 @@ Daartussenin: probeer drie maanden met software en beoordeel dan eerlijk hoeveel
 
 De kosten zijn het makkelijkste deel van de vergelijking. Het moeilijkere deel is eerlijk inschatten hoeveel jij jouw tijd en de rust van professionele begeleiding waard vindt.
 
-Wil je direct boekhoudsoftware vergelijken? Gebruik onze [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).
+Wil je direct boekhoudsoftware vergelijken? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

@@ -173,7 +173,7 @@ Voor de meeste MKB'ers is **Buffer** de beste start: gratis, eenvoudig en meer d
 
 ## Interactieve hulp
 
-Twijfel je nog? Gebruik onze gratis tools:
+Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/marketing/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Kosten calculator](/tools/marketing/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
 - **[Lead ROI berekenen](/tools/marketing/lead-roi-berekenen/)** — Bereken wat marketing automation je oplevert per lead

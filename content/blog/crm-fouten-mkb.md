@@ -68,4 +68,4 @@ Een pipeline die realtime klopt is meer waard dan een mooie rapportage die gebas
 
 Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) als je twijfelt of het huidige systeem de juiste keuze is voor jouw bedrijfsgrootte en sector, of zie de [CRM software sectorgids](/sectoren/crm/) voor een vergelijking per branche.
 
-Wil je direct CRM software vergelijken? Gebruik onze [CRM keuzehulp](/tools/crm/keuzehulp/).
+Wil je direct CRM software vergelijken? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/).

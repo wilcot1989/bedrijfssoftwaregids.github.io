@@ -174,7 +174,7 @@ Inbegrepen in Moneybird-abonnementen. Moneybird kost vanaf €12,50/maand (inclu
 
 ## Interactieve hulp
 
-Twijfel je nog? Gebruik onze gratis tools:
+Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/crm/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Kosten calculator](/tools/crm/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
 - **[ZZP of BV berekenen](/tools/boekhouding/zzp-bv-berekenen/)** — Bereken of een BV fiscaal voordelig is

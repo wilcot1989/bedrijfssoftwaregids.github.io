@@ -41,7 +41,7 @@ De complexiteit van CAO-berekeningen is voor veel branches de doorslaggevende fa
 
 De integratie met je andere bedrijfssoftware is eveneens bepalend. HR software die naadloos koppelt met je boekhoudsoftware voorkomt dubbele invoer en vermindert de kans op fouten. Werkt je bedrijf met projecten, dan is een koppeling met je CRM of projectmanagementsoftware waardevol zodat uren direct aan de juiste klant worden doorbelast. Op de pagina [boekhoudsoftware per doelgroep](/sectoren/boekhouding/) vind je een overzicht van boekhoudsystemen die HR-koppelingen ondersteunen. Overweeg je ook een CRM, bekijk dan [CRM software per sector](/sectoren/crm/) voor systemen die goed samenwerken met personeelsplanning.
 
-Op deze pagina vergelijken we HR software per sector. Gebruik ook de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een persoonlijk advies op basis van jouw personeelsomvang en branche.
+Op deze pagina vergelijken we HR software per sector. Gebruik ook de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een persoonlijk advies op basis van jouw personeelsomvang en branche.
 
 ## Hoe wij vergelijken
 
@@ -67,7 +67,7 @@ HR software wordt relevant zodra je personeel in dienst neemt. Maar er zijn duid
 
 Vier situaties waarbij HR software direct meerwaarde heeft: je berekent lonen handmatig in Excel en maakt daarbij regelmatig fouten door complexe CAO-bepalingen; medewerkers vragen vaker naar hun verlofregistratie dan je bijhoudt en de administratie klopt niet meer; je hebt geen centraal overzicht van contracten, beoordelingsdata en opleidingsvereisten; de koppeling tussen je urenregistratie en je boekhouding bestaat niet en je tikt kostprijzen handmatig over naar een apart systeem.
 
-Een HR-systeem pakt deze problemen structureel aan. Salarisberekeningen gebeuren automatisch op basis van de correct ingevoerde CAO-regels, verlof wordt real-time bijgehouden door medewerkers zelf via een self-service portaal en de koppeling met je boekhoudsoftware zorgt dat salariskosten zonder handmatige invoer in je financiële administratie terechtkomen. Gebruik de [HR kosten berekenen tool](/tools/hr/kosten-berekenen/) om te zien wat de investering in een goed systeem je per jaar kost.
+Een HR-systeem pakt deze problemen structureel aan. Salarisberekeningen gebeuren automatisch op basis van de correct ingevoerde CAO-regels, verlof wordt real-time bijgehouden door medewerkers zelf via een self-service portaal en de koppeling met je boekhoudsoftware zorgt dat salariskosten zonder handmatige invoer in je financiële administratie terechtkomen. Gebruik de [HR kosten berekenen tool](/tools/hr-software/kosten-berekenen/) om te zien wat de investering in een goed systeem je per jaar kost.
 
 ## Veelgestelde vragen
 
@@ -91,6 +91,6 @@ Ja, de meeste HR-systemen bieden koppelingen met Exact Online, Twinfield, AFAS e
 - [HR software voor bouw](/sectoren/hr/hr-software-bouw/) -- Projecturen, CAO Bouw en VCA-registratie
 - [HR software voor zorg](/sectoren/hr/hr-software-zorg/) -- BIG-register, CAO Zorg en complexe roostering
 
-Of gebruik direct de [HR software keuzehulp](/tools/hr/keuzehulp/), [bereken je kosten](/tools/hr/kosten-berekenen/) of [bekijk alle HR software](/categories/hr/).
+Of gebruik direct de [HR software keuzehulp](/tools/hr-software/keuzehulp/), [bereken je kosten](/tools/hr-software/kosten-berekenen/) of [bekijk alle HR software](/categories/hr-software/).
 
 {{< sector-cta-hr >}}
