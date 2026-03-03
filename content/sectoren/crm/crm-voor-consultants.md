@@ -7,12 +7,7 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---
 
-<div style="background:#eff6ff;border:1px solid #bfdbfe;border-radius:12px;padding:1.5rem 1.75rem;margin-bottom:2rem;">
-<p style="font-weight:700;color:#1e3a5f;font-size:1.1rem;margin:0 0 .5rem">Vind het beste CRM voor jouw adviesbureau</p>
-<p style="color:#374151;margin:0 0 1.25rem">Van eerste gesprek tot terugkerende opdracht — ontdek welk systeem past bij de consultancybranche.</p>
-<a href="/tools/crm/keuzehulp/" class="cta">Doe de CRM keuzehulp →</a>
-<a href="/tools/crm/kosten-berekenen/" class="cta-outline" style="margin-left:.75rem">Bereken je kosten</a>
-</div>
+{{< sector-cta-crm >}}
 
 Als consultant is jouw CRM eigenlijk een relatiebeheer-systeem. Je hebt geen hoge volumes aan deals — je hebt een beperkt aantal waardevolle, langlopende klantrelaties die je koestert. De vraag is niet "hoeveel leads heb ik?" maar "wie ken ik, wat weten ze van me, en wie kan me introduceren bij de volgende opdrachtgever?"
 
@@ -96,12 +91,9 @@ Teamleader is een Nederlandse speler die CRM, projectmanagement en facturatie co
 - **Actief acquirerend bureau, meerdere consultants:** Pipedrive voor pipeline-overzicht.
 - **Bureau dat alles in één wil (CRM + projecten + facturatie):** Teamleader.
 
-<div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem 1.75rem;margin-top:2rem;">
-<p style="font-weight:700;color:#1e3a5f;margin:0 0 .5rem">Nog niet zeker welk CRM past bij jouw bureau?</p>
-<p style="color:#374151;margin:0 0 1.25rem">Gebruik de keuzehulp — 5 vragen, een persoonlijk advies.</p>
-<a href="/tools/crm/keuzehulp/" class="cta">Doe de CRM keuzehulp →</a>
-<a href="/tools/crm/roi-berekenen/" class="cta-outline" style="margin-left:.75rem">Bereken je CRM-ROI</a>
-</div>
+Nog niet zeker? Gebruik de [CRM keuzehulp voor adviesbureaus](/tools/crm/keuzehulp/) — beantwoord vijf vragen en krijg een aanbeveling afgestemd op jouw werkwijze. Bereken ook de [CRM kosten per consultant](/tools/crm/kosten-berekenen/) en de [ROI van professioneel relatiebeheer](/tools/crm/roi-berekenen/).
+
+{{< sector-cta-crm >}}
 
 ## Lees ook
 

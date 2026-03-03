@@ -7,12 +7,7 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---
 
-<div style="background:#eff6ff;border:1px solid #bfdbfe;border-radius:12px;padding:1.5rem 1.75rem;margin-bottom:2rem;">
-<p style="font-weight:700;color:#1e3a5f;font-size:1.1rem;margin:0 0 .5rem">Vind het beste CRM voor jouw recruitmentbureau</p>
-<p style="color:#374151;margin:0 0 1.25rem">Beheer kandidaten én opdrachtgevers vanuit één systeem — ontdek welk platform past.</p>
-<a href="/tools/crm/keuzehulp/" class="cta">Doe de CRM keuzehulp →</a>
-<a href="/tools/crm/kosten-berekenen/" class="cta-outline" style="margin-left:.75rem">Bereken je kosten</a>
-</div>
+{{< sector-cta-crm >}}
 
 Een recruitmentbureau werkt aan twee kanten tegelijk: je bouwt relaties op met kandidaten (je "product") én met opdrachtgevers (je klanten). Die twee-zijdige markt maakt standaard CRM-software vaak ongeschikt. De meeste systemen zijn gebouwd voor B2B-sales, niet voor het bijhouden van CV's, competenties, beschikbaarheid en plaatsingshistorie.
 
@@ -99,12 +94,9 @@ Sommige recruitmentbureaus werken meer account-based: je hebt vaste opdrachtgeve
 - **Groot bureau, enterprise-opdrachtgevers:** Bullhorn — marktleider met reden.
 - **AVG-aandacht:** Alle drie voldoen aan GDPR. Bullhorn heeft de sterkste compliance-tools.
 
-<div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem 1.75rem;margin-top:2rem;">
-<p style="font-weight:700;color:#1e3a5f;margin:0 0 .5rem">Nog twijfels over welk systeem past?</p>
-<p style="color:#374151;margin:0 0 1.25rem">Gebruik de keuzehulp voor een advies op maat.</p>
-<a href="/tools/crm/keuzehulp/" class="cta">Doe de CRM keuzehulp →</a>
-<a href="/tools/crm/roi-berekenen/" class="cta-outline" style="margin-left:.75rem">Bereken je CRM-ROI</a>
-</div>
+Nog twijfels? Gebruik de [CRM keuzehulp voor recruitmentbureaus](/tools/crm/keuzehulp/) voor een advies op maat. Bereken vooraf de [CRM kosten voor jouw bureaugrootte](/tools/crm/kosten-berekenen/) en de [ROI van een geïntegreerd CRM+ATS systeem](/tools/crm/roi-berekenen/).
+
+{{< sector-cta-crm >}}
 
 ## Lees ook
 

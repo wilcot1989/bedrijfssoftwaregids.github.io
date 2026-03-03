@@ -7,12 +7,7 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---
 
-<div style="background:#eff6ff;border:1px solid #bfdbfe;border-radius:12px;padding:1.5rem 1.75rem;margin-bottom:2rem;">
-<p style="font-weight:700;color:#1e3a5f;font-size:1.1rem;margin:0 0 .5rem">Vind het beste CRM voor jouw SaaS-startup</p>
-<p style="color:#374151;margin:0 0 1.25rem">Van pre-seed tot Series A — ontdek welk CRM past bij jouw groeifase.</p>
-<a href="/tools/crm/keuzehulp/" class="cta">Doe de CRM keuzehulp →</a>
-<a href="/tools/crm/kosten-berekenen/" class="cta-outline" style="margin-left:.75rem">Bereken je kosten</a>
-</div>
+{{< sector-cta-crm >}}
 
 SaaS-startups hebben een specifiek verkoopprobleem: je leads zijn anoniem (website bezoekers, trialgebruikers) totdat ze zichzelf identificeren. Je conversie-funnel loopt van websitebezoek → trial → activation → betaling → churn-preventie. Dat is een ander spel dan een klassiek B2B-salesteam. Ik heb meer dan tien SaaS-bedrijven geholpen met hun CRM-keuze — dit zijn mijn bevindingen.
 
@@ -96,12 +91,9 @@ Salesforce Starter (vroeger Essentials) is het instappunt van het meest krachtig
 - **Sales-led model (outbound, SDR-team):** Pipedrive voor de pipeline-efficiëntie.
 - **Enterprise SaaS, grote deals:** Salesforce zodra je de implementatiecapaciteit hebt.
 
-<div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem 1.75rem;margin-top:2rem;">
-<p style="font-weight:700;color:#1e3a5f;margin:0 0 .5rem">Nog niet zeker welk CRM past bij jouw groeifase?</p>
-<p style="color:#374151;margin:0 0 1.25rem">Beantwoord 5 vragen en krijg een concreet advies.</p>
-<a href="/tools/crm/keuzehulp/" class="cta">Doe de CRM keuzehulp →</a>
-<a href="/tools/crm/roi-berekenen/" class="cta-outline" style="margin-left:.75rem">Bereken je CRM-ROI</a>
-</div>
+Nog onzeker? Gebruik de [CRM keuzehulp voor SaaS-startups](/tools/crm/keuzehulp/) om op basis van jouw groeifase en model een aanbeveling te krijgen. Bereken ook de [maandelijkse CRM kosten per teamlid](/tools/crm/kosten-berekenen/) en de [verwachte ROI van jouw CRM](/tools/crm/roi-berekenen/) voordat je een keuze maakt.
+
+{{< sector-cta-crm >}}
 
 ## Lees ook
 

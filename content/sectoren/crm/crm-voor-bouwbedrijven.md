@@ -7,12 +7,7 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---
 
-<div style="background:#eff6ff;border:1px solid #bfdbfe;border-radius:12px;padding:1.5rem 1.75rem;margin-bottom:2rem;">
-<p style="font-weight:700;color:#1e3a5f;font-size:1.1rem;margin:0 0 .5rem">Vind het beste CRM voor jouw bouwbedrijf</p>
-<p style="color:#374151;margin:0 0 1.25rem">Van offerte tot oplevering — ontdek welk systeem past bij jouw projecten en klanten.</p>
-<a href="/tools/crm/keuzehulp/" class="cta">Doe de CRM keuzehulp →</a>
-<a href="/tools/crm/kosten-berekenen/" class="cta-outline" style="margin-left:.75rem">Bereken je kosten</a>
-</div>
+{{< sector-cta-crm >}}
 
 De bouwsector werkt anders dan de meeste andere branches. Verkoopprocessen lopen maanden, offertes zijn complex en projectgebonden, en een opdrachtgever van nu kan over twee jaar terugkomen voor een verbouwing. Tegelijkertijd werken veel bouwbedrijven nog met Excel-sheets of losse e-mails om hun klantencontacten bij te houden. Dat is een gemiste kans.
 
@@ -95,12 +90,9 @@ Heb je een actief acquisiteam dat offertes uitbrengt en klanten bezoekt? Dan is 
 - **MKB bouwbedrijf (5-25 pers.), wil één systeem:** Exact Online — prijs-kwaliteit winnaar.
 - **Groter bouwbedrijf, complex projectbeheer:** AFAS — de investering verdient zichzelf terug.
 
-<div style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem 1.75rem;margin-top:2rem;">
-<p style="font-weight:700;color:#1e3a5f;margin:0 0 .5rem">Weet je nog niet welk systeem het beste past?</p>
-<p style="color:#374151;margin:0 0 1.25rem">De keuzehulp geeft je in 2 minuten een concreet advies.</p>
-<a href="/tools/crm/keuzehulp/" class="cta">Doe de CRM keuzehulp →</a>
-<a href="/tools/crm/roi-berekenen/" class="cta-outline" style="margin-left:.75rem">Bereken je CRM-ROI</a>
-</div>
+Twijfel je nog? Gebruik de [CRM keuzehulp voor bouwbedrijven](/tools/crm/keuzehulp/) — in vijf vragen krijg je een concreet advies afgestemd op jouw bedrijfsgrootte en werkwijze. Bereken ook de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de [ROI van jouw CRM-investering](/tools/crm/roi-berekenen/) om de businesscase te maken.
+
+{{< sector-cta-crm >}}
 
 ## Lees ook
 
