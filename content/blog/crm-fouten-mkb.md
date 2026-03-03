@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Welke CRM-fouten maken Nederlandse MKB-bedrijven het vaakst? Voorkom dataverlies, lage adoptie en verkeerd gebruik. Doe de CRM keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/crm.svg"
 categories:
   - Blog
-  - CRM
+  - crm
 faq:
   - q: "Wat zijn de meest gemaakte fouten bij CRM-gebruik in het MKB?"
     a: "De meest voorkomende fouten zijn: te weinig dagelijks gebruik door slechte adoptie, te veel custom velden waardoor het systeem onoverzichtelijk wordt, geen integratie met e-mail of boekhouding, slechte datakwaliteit die lang onopgemerkt blijft, en geen evaluatie na de implementatie. De meeste van deze fouten zijn te vermijden met een goede voorbereiding en een heldere CRM-eigenaar die verantwoordelijkheid draagt."

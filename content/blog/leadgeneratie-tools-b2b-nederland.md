@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Welke B2B leadgeneratie tools werken in Nederland? Vergelijk opties voor MKB en bureaus. Bereken de lead-ROI voor jouw salesproces."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/marketing.svg"
 categories:
   - Blog
-  - Marketing
+  - marketing
 faq:
   - q: "Wat zijn de beste leadgeneratie tools voor B2B in Nederland?"
     a: "De keuze hangt sterk af van je kanaal en budget. Voor LinkedIn-gebaseerde leadgeneratie zijn LinkedIn Sales Navigator en Phantombuster veelgebruikte combinaties. Voor contentmarketing met geautomatiseerde opvolging werkt ActiveCampaign goed in combinatie met een eenvoudig CRM. Voor outbound e-mail zijn Lemlist en Instantly populair bij Nederlandse bureaus. Er is geen universeel beste tool — begin met het kanaal dat het best past bij jouw doelgroep en kies daar de bijbehorende tool bij."

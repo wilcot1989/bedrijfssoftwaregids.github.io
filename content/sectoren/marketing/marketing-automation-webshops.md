@@ -7,7 +7,7 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 
 categories:
-  - Marketing
+  - marketing
 tags:
   - marketing
   - sector

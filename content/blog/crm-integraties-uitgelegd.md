@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Welke CRM-integraties zijn onmisbaar voor jouw bedrijf? Vergelijk koppelingen voor e-mail, boekhouding en marketing. Bereken de ROI van jouw CRM."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/crm.svg"
 categories:
   - Blog
-  - CRM
+  - crm
 faq:
   - q: "Welke CRM-integraties zijn het belangrijkst voor een MKB-bedrijf?"
     a: "De drie integraties met de hoogste dagelijkse impact zijn e-mailsynchronisatie, kalenderintegratie en een boekhoudkoppeling. E-mailintegratie bespaart gemiddeld vijf tot tien minuten per verkoopmedewerker per dag aan handmatige invoer. Kalenderintegratie zorgt dat afspraken direct zichtbaar zijn in het contactprofiel. De boekhoudkoppeling voorkomt dubbele invoer van klantgegevens en facturen. Begin met deze drie voordat je naar geavanceerdere koppelingen kijkt."

@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Kassasysteem kiezen zonder verborgen kosten? Gebruik deze checklist voor hardware, transactiefees en support. Bereken de werkelijke totaalkosten."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/kassasystemen.svg"
 categories:
   - Blog
-  - Kassasystemen
+  - kassasystemen
 faq:
   - q: "Wat zijn de meest voorkomende verborgen kosten van een kassasysteem?"
     a: "Naast het maandabonnement zijn de grootste kostenposten die ondernemers verrassen: transactiefees (0,5–2,5% per betaling), hardwarekosten voor tablet, bonprinter en kassalade, installatie- en trainingskosten, en supportkosten buiten kantooruren. Bij een omzet van €25.000 per maand kunnen transactiefees alleen al oplopen tot €4.500 per jaar — meer dan de jaarlijkse softwarelicentie."

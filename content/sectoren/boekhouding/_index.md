@@ -25,7 +25,7 @@ faq:
       keuze maakt. Samenwerken in hetzelfde systeem bespaart beiden tijd.
 
 categories:
-  - Boekhouding
+  - boekhouding
 tags:
   - boekhouding
   - sector

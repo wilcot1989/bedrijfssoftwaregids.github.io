@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Wet Verbetering Poortwachter nakomen zonder boetes? Vergelijk HR software met verzuimregistratie voor zorg en bouw. Bereken je verzuimkosten."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/hr-software.svg"
 categories:
   - Blog
-  - HR Software
+  - hr-software
 tags:
   - hr
   - verzuim

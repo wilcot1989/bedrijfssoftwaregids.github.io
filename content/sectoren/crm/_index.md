@@ -25,7 +25,7 @@ faq:
       zoals Salesforce of AFAS vergt meerdere weken implementatie.
 
 categories:
-  - CRM
+  - crm
 tags:
   - crm
   - sector

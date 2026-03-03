@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Combineer je facturatieprogramma en boekhouding in één tool? Vergelijk de voordelen voor ZZP en freelancers. Bereken wat jou het meeste oplevert."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/boekhouding.svg"
 categories:
   - Blog
-  - Boekhouding
+  - boekhouding
 faq:
   - q: "Wat is het voordeel van factureren en boekhouden in één pakket?"
     a: "Het grootste voordeel is dat je dubbele invoer elimineert. Een factuur die je verstuurt, staat direct in de boekhouding. Als de klant betaalt en de banktransactie binnenkomt, koppelt het systeem de betaling automatisch aan de openstaande factuur. Dat bespaart tijd, vermindert fouten en maakt de BTW-aangifte aanzienlijk eenvoudiger."
