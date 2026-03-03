@@ -25,8 +25,6 @@ faq:
       contacten en het inrichten van je pipeline-stappen. Een volledig pakket
       zoals Salesforce of AFAS vergt meerdere weken implementatie.
 
-categories:
-  - crm
 tags:
   - crm
   - sector

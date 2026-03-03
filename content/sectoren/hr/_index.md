@@ -29,8 +29,6 @@ faq:
       administratie. Op de pagina boekhoudsoftware voor MKB vind je een
       overzicht van pakketten die HR-koppelingen ondersteunen.
 
-categories:
-  - hr-software
 tags:
   - hr-software
   - sector
