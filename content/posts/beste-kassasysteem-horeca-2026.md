@@ -82,7 +82,7 @@ Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklant
 - iPad-hardware is extra investering
 - Sommige geavanceerde functies alleen in duurdere plannen
 
-[Bekijk Lightspeed Restaurant](https://www.lightspeedhq.nl/)
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 ---
 
@@ -126,7 +126,7 @@ Untill is het werkpaard van de Nederlandse horeca. Ik raad het aan bij grotere z
 - Meer geschikt voor grotere zaken dan kleine startups
 - Langere implementatietijd
 
-[Bekijk Untill](https://www.untill.com/nl/)
+<a href="https://www.untill.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar untill.com →</a>
 
 ---
 
@@ -167,7 +167,7 @@ Trivec zie ik vooral bij restaurants en hotels die waarde hechten aan persoonlij
 - Minder geschikt voor zeer kleine horecazaken
 - Minder integraties met Nederlandse bezorgplatforms dan Lightspeed
 
-[Bekijk Trivec](https://www.trivec.nl/)
+<a href="https://www.trivec.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar trivec.nl →</a>
 
 ---
 
@@ -210,7 +210,7 @@ Square is mijn go-to advies voor starters met een beperkt budget. De software is
 - Support voornamelijk in het Engels
 - Minder integraties met Nederlandse boekhoudpakketten
 
-[Start gratis met Square](https://squareup.com/nl/nl)
+<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar squareup.com →</a>
 
 ---
 
@@ -254,7 +254,7 @@ Zettle is de ultieme mobiele oplossing voor foodtrucks, pop-ups en kleine cafes.
 - Niet geschikt voor grotere restaurants
 - Transactiekosten zijn hoger dan bij een vast pinapparaat
 
-[Start met Zettle](https://www.zettle.com/nl)
+<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zettle.com →</a>
 
 ---
 
@@ -296,7 +296,7 @@ Orderbird is de specialist voor cafes en bars. Het draait op iPads, de interface
 - Minder integraties dan Lightspeed
 - Nederlandse community kleiner dan bij lokale aanbieders
 
-[Bekijk Orderbird](https://www.orderbird.com/nl)
+<a href="https://www.orderbird.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar orderbird.com →</a>
 
 ---
 
