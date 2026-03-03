@@ -17,8 +17,6 @@ Een makelaar wil leads koppelen en bezichtigingen plannen. Een recruitmentbureau
 
 Op deze pagina vind je sector-specifieke CRM-gidsen voor vijf branches. Gebruik ook de [CRM keuzehulp](/tools/crm/keuzehulp/) voor een persoonlijk advies op basis van je teamgrootte en salesproces. Bekijk ook [HR software per sector](/sectoren/hr/) en [marketing software per sector](/sectoren/marketing/) voor een completer beeld van je bedrijfssoftware stack. Zorg je ook voor je boekhouding, dan vind je op [boekhoudsoftware per doelgroep](/sectoren/boekhouding/) pakketten die koppelen met de meeste CRM-systemen op deze pagina.
 
-Op deze pagina vind je sector-specifieke CRM-gidsen voor vijf branches. Per sector bespreken we welke functies echt nodig zijn, welke systemen de beste verhouding bieden tussen prijs en functionaliteit en hoe je een CRM succesvol inricht voor jouw verkoopproces.
-
 ## CRM software per sector
 
 **Makelaars** werken met leads, bezichtigingen en lange aankooptrajecten waarbij meerdere contactmomenten zorgvuldig worden bijgehouden. Op de pagina [CRM voor makelaars](/sectoren/crm/crm-voor-makelaars/) vergelijken we systemen die pipeline-beheer bieden voor langlopende vastgoedtransacties.

@@ -17,8 +17,6 @@ Een ZZP'er die tien facturen per maand verstuurt en kwartaalaangifte doet, heeft
 
 Op deze pagina vergelijken we boekhoudsoftware per doelgroep. Elke sectie behandelt de specifieke behoeften van die groep: welke functies echt nodig zijn, welke systemen de beste prijs-kwaliteitsverhouding bieden en voor wie welke tool niet geschikt is. Wil je snel een persoonlijk advies? Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) of [bereken direct je kosten](/tools/boekhouding/kosten-berekenen/). Bekijk ook de vergelijking met [HR software per sector](/sectoren/hr/) en [marketing software per sector](/sectoren/marketing/) als je een complete bedrijfssoftware stack overweegt. Gebruik je ook een kassasysteem, dan vind je op [kassasystemen per branche](/sectoren/kassasystemen/) een overzicht van POS-systemen met directe boekhouding-koppelingen.
 
-Op deze pagina vergelijken we boekhoudsoftware per doelgroep zodat je direct het systeem vindt dat past bij jouw bedrijfsgrootte, BTW-situatie en samenwerking met je accountant.
-
 ## Software per sector
 
 **ZZP'ers** hebben behoefte aan software die snel factureert, BTW-aangifte faciliteert en een koppeling heeft met de zakelijke bankrekening. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we Moneybird, Jortt en e-Boekhouden op gebruiksgemak, BTW-aangifte en prijs.
