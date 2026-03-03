@@ -86,4 +86,9 @@ Neem altijd een gratis proefperiode van minimaal twee weken voor je een abonneme
 
 De [kosten berekenen tool voor boekhoudsoftware](/tools/boekhouding/kosten-berekenen/) helpt je de totaalkosten voor jouw situatie in kaart te brengen. Een volledig overzicht per bedrijfsgrootte vind je op de [boekhoudsoftware sectorpagina](/sectoren/boekhouding/).
 
+## Lees ook
+
+- [Beste boekhoudsoftware voor ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/) — de beste pakketten die facturatie en boekhouding combineren
+- [Beste facturatie software MKB 2026](/posts/beste-facturatie-software-mkb-2026/) — standalone facturatietools vergeleken
+
 Wil je direct boekhoudsoftware vergelijken? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

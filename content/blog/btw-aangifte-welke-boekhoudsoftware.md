@@ -90,4 +90,8 @@ Sla je BTW-aangiften op als pdf voor je eigen administratie. De Belastingdienst 
 
 Een volledig overzicht van opties per doelgroep biedt de [boekhoudsoftware sectorgids](/sectoren/boekhouding/).
 
+## Lees ook
+
+- [Beste boekhoudsoftware voor ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/) — welk pakket maakt BTW-aangifte het makkelijkst?
+
 Wil je direct boekhoudsoftware vergelijken? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

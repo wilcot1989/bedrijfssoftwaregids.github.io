@@ -398,6 +398,9 @@ Twijfel je nog? Gebruik de gratis tools:
 - [Beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) — beheer klantrelaties naast je projecten
 - [Beste kassasysteem voor horeca](/posts/beste-kassasysteem-horeca-2026/) — compleet kassasysteem voor de horeca
 - [Beste email marketing software](/posts/beste-email-marketing-software-2026/) — verstuur campagnes en nieuwsbrieven
+- [Beste contractmanagement software 2026](/posts/beste-contractmanagement-software-2026/) — beheer contracten en deadlines
+- [Beste intranet software MKB 2026](/posts/beste-intranet-software-mkb-2026/) — interne communicatie en kennisdeling
+- [Beste vergadersoftware 2026](/posts/beste-vergadersoftware-2026/) — effectiever vergaderen op afstand
 
 ## Mijn advies: de beste projectmanagement software per situatie
 

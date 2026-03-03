@@ -312,6 +312,11 @@ Twijfel je nog? Gebruik de gratis tools:
 - [Beste kassasysteem voor horeca](/posts/beste-kassasysteem-horeca-2026/) — als je naast boekhouding ook een kassasysteem nodig hebt
 - [Beste projectmanagement software](/posts/beste-projectmanagement-software-2026/) — plan projecten en koppel ze aan je facturatie
 - [Beste email marketing software](/posts/beste-email-marketing-software-2026/) — verstuur professionele nieuwsbrieven naar je klanten
+- [Boekhoudsoftware vs. boekhouder: kostenvergelijking](/blog/boekhoudsoftware-vs-boekhouder-kostenvergelijking/) — wanneer loont software meer dan een boekhouder?
+- [BTW-aangifte: welke boekhoudsoftware?](/blog/btw-aangifte-welke-boekhoudsoftware/) — welk pakket maakt je BTW-aangifte het makkelijkst?
+- [Twinfield vs Moneybird 2026](/posts/twinfield-vs-moneybird-2026/) — directe vergelijking van twee populaire pakketten
+- [Beste software voor accountants 2026](/posts/beste-software-accountants-2026/) — software vanuit het perspectief van je boekhouder
+- [Boekhoudsoftware per doelgroep](/sectoren/boekhouding/) — welk pakket past bij jouw type onderneming?
 
 ## Mijn advies: het beste boekhoudprogramma per situatie
 

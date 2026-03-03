@@ -94,4 +94,8 @@ Voor [social media management bureaus](/sectoren/marketing/social-media-manageme
 
 Een volledig overzicht van marketing automation en leadgeneratie platforms staat op de [marketing software sectorgids](/sectoren/marketing/).
 
+## Lees ook
+
+- [Beste email marketing software 2026](/posts/beste-email-marketing-software-2026/) — email tools voor B2B leadgeneratie
+
 Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/).

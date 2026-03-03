@@ -380,6 +380,10 @@ Twijfel je nog? Gebruik de gratis tools:
 
 - [Beste webshop software](/posts/beste-webshop-software-2026/) — koppel je CRM aan je e-commerce platform
 - [Beste urenregistratie software](/posts/beste-urenregistratie-software-2026/) — registreer uren per klant en project
+- [5 CRM-fouten die MKB-bedrijven maken](/blog/crm-fouten-mkb/) — voorkom de meest gemaakte fouten
+- [CRM implementatieplan in 30 dagen](/blog/crm-implementatieplan-30-dagen/) — stap-voor-stap plan voor je implementatie
+- [Teamleader review 2026](/posts/teamleader-review-2026/) — diepgaande review van het populaire Nederlandse CRM
+- [CRM software per branche](/sectoren/crm/) — bekijk welk CRM past bij jouw sector
 
 ## Mijn advies: de beste CRM software per situatie
 
