@@ -10,9 +10,13 @@ function setHTML(idOrEl, html) {
   if (el) el.innerHTML = html;
 }
 function escapeHTML(str) {
-  return String(str ?? '').replace(/[&<>"']/g, function (m) {
-    return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' })[m];
-  });
+  return String(str ?? "").replace(/[&<>"']/g, (m) => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#039;"
+  }[m]));
 }
 function getCategoryFromPage() {
   const meta = document.querySelector('meta[name="bsg-category"]');
