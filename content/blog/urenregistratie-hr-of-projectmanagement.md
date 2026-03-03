@@ -7,14 +7,26 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
 categories:
   - Blog
+  - HR Software
 tags:
   - hr
   - urenregistratie
   - projectmanagement
   - mkb
+faq:
+  - q: "Moet ik urenregistratie in mijn HR software of in een projectmanagement tool bijhouden?"
+    a: "Dat hangt af van hoe je de uren gebruikt. Als de uren primair naar de salarisadministratie gaan — voor verlof, overuren en loonkosten — gebruik dan de urenmodule in je HR-software. Als de uren worden doorbelast aan klanten of gebruikt voor projectrentabiliteit, kies dan een projectmanagement- of tijdregistratietool. Bij de meeste dienstverlenende bedrijven is er behoefte aan beide, en dan is een koppeling tussen de twee systemen de meest efficiënte oplossing."
+  - q: "Wat is het verschil tussen urenregistratie in HR software en in een projectmanagement tool?"
+    a: "HR-urenregistratie is gericht op arbeidsrechtelijke verplichtingen: contracturen, overuren, verlof en CAO-toeslagen. De output gaat naar de salarisadministratie. Projectmanagement-urenregistratie is gericht op bedrijfseconomische doelen: projectrentabiliteit, facturatie en capaciteitsplanning. De output gaat naar de projectadministratie en de facturering. Beide systemen gebruiken de gewerkte uren als input, maar verwerken ze voor een fundamenteel ander doel."
+  - q: "Welke urenregistratie is het beste voor een consultancybureau?"
+    a: "Voor een consultancybureau is een projecttool doorgaans de kern van de urenregistratie, omdat uren per klant en per project worden doorbelast en gefactureerd. Tools als Harvest, Toggl Track of Teamleader zijn in Nederland populair voor deze use case. Daarnaast is een koppeling met de HR-software nodig voor salarisverwerking en verlofregistratie. De uren worden dan eenmalig ingevoerd in de projecttool en automatisch doorgestuurd naar de salarisadministratie — dat voorkomt dubbele invoer en discrepanties."
+  - q: "Hoe verhoog ik de adoptie van urenregistratie bij medewerkers?"
+    a: "De grootste barrière is gemak: als registreren meer dan twee minuten kost per dag, doen medewerkers het niet consistent. Kies een tool met een mobiele app en een eenvoudig dag-invoerscherm, zorg dat projectcodes herkenbaar zijn en koppel de registratie aan een bestaand dagelijks moment zoals het afsluiten van een taak. Wekelijkse herinneringen helpen, maar lossen het probleem niet op als het systeem zelf te omslachtig is."
 ---
 
 Urenregistratie is voor veel Nederlandse ondernemers een dagelijkse ergernis. Medewerkers vullen te laat in, vergeten projectcodes, registreren minder uren dan ze gewerkt hebben of vullen alles op vrijdagmiddag tegelijk in terwijl ze allang niet meer weten wat ze maandag deden. Het resultaat is een salarisstrook die gecorrigeerd moet worden, een projectkostenberekening die nergens op slaat en een factuurvoorstel dat de accountmanager moet uitleggen aan de klant.
+
+Bij een consultancybureau dat ik adviseerde speelde exact dit dilemma: urenregistratie via de HR-software of via de projectmanagement tool? Ze hadden drie maanden lang beide systemen parallel gedraaid en niemand wist meer welk cijfer klopte. De oplossing was eenvoudig, maar had eerder al gevonden kunnen worden met de juiste analyse vooraf.
 
 De keuze voor het juiste instrument begint met een eenvoudige vraag: waarvoor gebruik je de uren en wie heeft er toegang tot nodig?
 
@@ -44,7 +56,7 @@ Tools als Harvest, Toggl Track en Teamleader zijn in Nederland populair bij dien
 
 ## De gecombineerde aanpak voor bouwbedrijven
 
-[Bouwbedrijven](/sectoren/hr/hr-software-bouw/) hebben een specifiek probleem dat andere sectoren minder kennen: uren moeten worden geregistreerd per bouwproject voor kostprijsberekening en facturatie, én per medewerker voor loonberekening inclusief reistijdvergoeding, cao-toeslagen en overwerk. Beide berekeningen zijn noodzakelijk en gebruiken dezelfde uren als bron.
+[Bouwbedrijven](/sectoren/hr/hr-software-bouw/) hebben een specifiek probleem dat andere sectoren minder kennen: uren moeten worden geregistreerd per bouwproject voor kostprijsberekening en facturatie, én per medewerker voor loonberekening inclusief reistijdvergoeding, cao-toeslagen en overwerk. Beide berekeningen zijn onmisbaar en gebruiken dezelfde uren als bron.
 
 Generieke HR-tools missen het projectniveau. Generieke projecttools kennen de bouw-cao niet. De meest efficiënte oplossing is een sector-specifieke tool die beide combineert -- of een goed geconfigureerde koppeling tussen een HR-systeem en een projectadministratiepakket.
 
@@ -58,7 +70,7 @@ Voor HR: de salarisverwerking (welke medewerker heeft hoeveel uren gewerkt en we
 
 Voor projectmanagement: de projectrentabiliteit (bestede uren versus begrote uren versus gerealiseerde omzet), de capaciteitsplanning (hoeveel uren zijn beschikbaar in de komende weken en hoe vol is de planner) en de klantportfolio-analyse (welke klanten nemen de meeste uren in beslag en wat leveren ze op).
 
-Het is de moeite waard bij aanschaf te controleren welke standaardrapportages beschikbaar zijn en of ze exporteerbaar zijn naar Excel of een BI-tool. Een tool die mooie rapportages toont maar geen ruwe data exporteert, belemmert verdere analyse.
+Het is de moeite waard bij aanschaf te controleren welke standaardrapportages beschikbaar zijn en of ze exporteerbaar zijn naar Excel of een BI-tool. Een tool die mooie rapportages toont maar geen ruwe data exporteert, belemmert verdere analyse. Ik raad altijd aan om in een demo expliciet te vragen: "Kan ik alle uren als CSV exporteren?" — het antwoord zegt veel over hoe open het systeem werkelijk is.
 
 ## Hoe je de adoptie structureel verhoogt
 

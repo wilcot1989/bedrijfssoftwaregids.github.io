@@ -7,6 +7,18 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
 categories:
   - Blog
+  - Boekhouding
+faq:
+  - q: "Kan boekhoudsoftware mijn BTW-aangifte automatisch invullen?"
+    a: "Ja, alle moderne boekhoudsoftware voor Nederlandse ondernemers vult de negen rubrieken van de BTW-aangifte automatisch in op basis van je geboekte transacties. Je hoeft alleen te controleren of de bedragen kloppen en daarna in te dienen. Pakketten als Moneybird, e-Boekhouden en Exact Online bieden ook een directe koppeling met de Belastingdienst via Digipoort, zodat je de aangifte vanuit het systeem zelf indient."
+  - q: "Welke boekhoudsoftware is het beste voor de BTW-aangifte als ZZP'er?"
+    a: "Voor ZZP'ers met enkelvoudige dienstverlening of productverkoop in Nederland zijn Moneybird, e-Boekhouden en Jortt de meest gebruikte en best beoordeelde opties. Ze hebben alle BTW-rubrieken ingebouwd, koppelen met de Belastingdienst en zijn zonder boekhoudkundige achtergrond te gebruiken. Werk je ook met internationale klanten of meerdere BTW-tarieven, dan biedt Exact Online meer diepgang."
+  - q: "Hoe voorkom ik fouten bij de BTW-aangifte?"
+    a: "De meest gemaakte fouten zijn: uitgaven deels zakelijk als volledig zakelijk boeken, bonnen laat invoeren waardoor ze in de verkeerde periode vallen, en BTW niet afdragen over privégebruik van zakelijke goederen. Goede software heeft hiervoor ingebouwde controlemechanismen zoals een privécorrectiemodule en automatische periodecontroles. Stel daarnaast een vaste aangifte-dag in per kwartaal zodat je nooit te laat bent."
+  - q: "Wat doe ik als ik een fout ontdek na het indienen van mijn BTW-aangifte?"
+    a: "Je kunt een suppletie-aangifte indienen via het Belastingdienst-portaal om een eerder ingediende aangifte te corrigeren. Dat kan tot vijf jaar na het belastingjaar. Wie een fout vrijwillig corrigeert via een suppletie, wordt doorgaans niet beboet. Wacht je tot de Belastingdienst de fout zelf constateert, dan riskeer je een boete bovenop de naheffing."
+  - q: "Ondersteunt boekhoudsoftware ook de ICP-aangifte voor internationale dienstverlening?"
+    a: "Niet alle pakketten bieden dit. Als je diensten levert aan bedrijven in de EU geldt BTW-verlegging, en daarvoor is een aparte ICP-aangifte verplicht naast de reguliere BTW-aangifte. Exact Online, Twinfield en AFAS ondersteunen dit volledig. Pakketten in het lagere segment zoals Jortt en e-Boekhouden zijn hier beperkter. Controleer dit expliciet voor aankoop als je internationaal werkt."
 tags:
   - boekhouding
   - btw
@@ -15,6 +27,8 @@ tags:
 ---
 
 De BTW-aangifte is voor de meeste Nederlandse ondernemers elk kwartaal een terugkerende administratieve verplichting. Wie het goed heeft ingericht, is er in twintig minuten klaar. Wie het verkeerd heeft ingericht, besteedt uren aan het nazoeken van bonnetjes, het handmatig optellen van bedragen en het vervolgens corrigeren van fouten die er achteraf toch in zaten.
+
+Bij een klant ontdekte ik dat de automatische BTW-herkenning van zijn software drie fouten had voorkomen die anders tot een naheffing hadden geleid -- voor bonnen met gemengde BTW-tarieven die hij handmatig waarschijnlijk verkeerd had geboekt. Dat is precies het verschil tussen goed en slecht gereedschap.
 
 Het verschil zit niet in de discipline van de ondernemer maar in het gereedschap. Goede boekhoudsoftware maakt BTW-aangifte een routineklus. Verkeerde of te beperkte software maakt het een bron van stress en risico.
 
@@ -34,7 +48,7 @@ De basisfunctionaliteit werkt voor de meeste Nederlandse ondernemers met enkelvo
 
 Bij diensten aan bedrijven in de EU geldt verlegging: jij berekent geen BTW, de afnemer draagt af in zijn eigen land. Dat boek je als intracommunautaire dienstverlening -- ICP-aangifte, apart van de reguliere BTW-aangifte en met een afzonderlijke deadline.
 
-Bij [freelancers](/sectoren/boekhouding/boekhoudsoftware-freelancers/) die werken voor buitenlandse opdrachtgevers is dit een veelgemaakte fout. Ze boeken inkomsten als normale omzet inclusief BTW, terwijl de BTW-verlegging van toepassing is. Correctie achteraf is tijdrovend en kan leiden tot naheffingen plus boete.
+Bij [freelancers](/sectoren/boekhouding/boekhoudsoftware-freelancers/) die werken voor buitenlandse opdrachtgevers is dit een veelgemaakte fout. Ik zie dit regelmatig bij nieuwe klanten die net zijn overgestapt van een boekhouder naar zelfstandig werken met software: ze boeken inkomsten als normale omzet inclusief BTW, terwijl de BTW-verlegging van toepassing is. Correctie achteraf is tijdrovend en kan leiden tot naheffingen plus boete.
 
 Controleer bij aanschaf expliciet of de software ICP-aangifte ondersteunt als je internationaal werkt. Niet alle pakketten in het lagere segment bieden dit.
 
@@ -56,7 +70,7 @@ Fout twee: bonnen laat invoeren waardoor ze in de verkeerde aangifte-periode val
 
 Fout drie: BTW niet afdragen over privégebruik van zakelijke goederen. Wie een zakelijke laptop ook privé gebruikt, moet periodiek een BTW-correctie boeken voor het privégedeelte. Dit wordt zelden spontaan gedaan en is een veelgemaakte fout bij ZZP'ers.
 
-Fout vier: de aangifte te laat indienen. De Belastingdienst rekent automatisch een boete van 7% over de te betalen BTW bij niet-tijdige indiening, met een maximum van EUR 5.514 per aangifte. De meeste softwarepakketten sturen een herinnering, maar de verantwoordelijkheid ligt bij jou.
+Fout vier: de aangifte te laat indienen. De Belastingdienst rekent automatisch een boete van 7% over de te betalen BTW bij niet-tijdige indiening, met een maximum van EUR 5.514 per aangifte. De meeste softwarepakketten sturen een herinnering, maar de verantwoordelijkheid ligt bij jou. In mijn ervaring gaat het hier zelden om opzet -- het zijn ondernemers die de herinnering wegklikten omdat ze dachten dat het nog wel even kon wachten.
 
 ## Wat je doet als je een fout ontdekt na indiening
 
