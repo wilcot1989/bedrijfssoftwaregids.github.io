@@ -5,11 +5,28 @@ lastmod: 2026-03-03
 description: "Welke marketing software past bij jouw situatie? Vergelijk tools voor MKB, webshops, ZZP, bureaus en B2B-bedrijven. Met keuzehulp en ROI-berekening."
 faq:
   - q: "Wat is marketing automation en heb ik het nodig?"
-    a: "Marketing automation is het automatisch uitvoeren van marketingacties op basis van het gedrag van leads of klanten -- denk aan een welkomstmail na aanmelding voor een nieuwsbrief, een herinneringsmail na het achterlaten van een winkelwagen, of een follow-up na het downloaden van een whitepaper. Voor bedrijven met meer dan vijftig leads per maand is automation bijna altijd de moeite waard: het scheelt tijd en verhoogt de conversie."
+    a: >-
+      Marketing automation is het automatisch uitvoeren van marketingacties op
+      basis van het gedrag van leads of klanten. Denk aan een welkomstmail na
+      aanmelding, een herinneringsmail na het verlaten van een winkelwagen, of
+      een follow-up na het downloaden van een whitepaper. Voor bedrijven met
+      meer dan vijftig leads per maand is automation bijna altijd de moeite
+      waard.
   - q: "Is marketing software zinvol voor een kleine ondernemer?"
-    a: "Ja, ook voor kleine ondernemers. Platforms als Mailchimp en Brevo bieden gratis abonnementen waarmee je al een professionele nieuwsbrief en eenvoudige automations kunt opzetten. Je betaalt pas als je lijst groeit. De investering is laag en de meerwaarde -- betrokken klanten die vaker terugkomen -- is meetbaar via de statistieken die het platform zelf biedt."
+    a: >-
+      Ja, ook voor kleine ondernemers. Platforms als Mailchimp en Brevo bieden
+      gratis abonnementen waarmee je al een professionele nieuwsbrief en
+      eenvoudige automations kunt opzetten. Je betaalt pas als je lijst groeit.
+      De investering is laag en de meerwaarde is meetbaar via de statistieken
+      die het platform zelf biedt.
   - q: "Hoe koppel ik marketing software aan mijn CRM?"
-    a: "De meeste marketing platforms bieden native integraties met populaire CRM's zoals HubSpot, Pipedrive en Salesforce. Via deze koppeling stromen gekwalificeerde leads automatisch door naar het salesteam zonder handmatige export of datatransfer. Gebruik je nog geen CRM, bekijk dan [CRM software per sector](/sectoren/crm/) voor een overzicht van systemen die goed samenwerken met de marketing tools op deze pagina."
+    a: >-
+      De meeste marketing platforms bieden native integraties met populaire
+      CRM's zoals HubSpot, Pipedrive en Salesforce. Via deze koppeling stromen
+      gekwalificeerde leads automatisch door naar het salesteam zonder
+      handmatige export. Gebruik je nog geen CRM, bekijk dan CRM software per
+      sector voor een overzicht van systemen die goed samenwerken met marketing
+      tools.
 ---
 
 {{< sector-cta-marketing >}}

@@ -5,11 +5,24 @@ lastmod: 2026-03-03
 description: "Welk CRM past bij jouw branche? Sector-specifieke aanbevelingen voor makelaars, bouwbedrijven, recruitmentbureaus, SaaS-startups en consultants."
 faq:
   - q: "Wat is het verschil tussen een CRM en een klantendatabase in Excel?"
-    a: "Excel geeft je een statische lijst; een CRM is dynamisch. Een CRM houdt bij wanneer je voor het laatste contact had, welke stappen er nog openstaan en hoe de deal verloopt. Bovendien kan een team er tegelijk in werken en worden automatische herinneringen en follow-ups ingesteld."
+    a: >-
+      Excel geeft je een statische lijst; een CRM is dynamisch. Een CRM houdt
+      bij wanneer je voor het laatste contact had, welke stappen er nog
+      openstaan en hoe de deal verloopt. Bovendien kan een team er tegelijk in
+      werken en worden automatische herinneringen en follow-ups ingesteld.
   - q: "Moet ik een duur CRM kopen als ik net start?"
-    a: "Nee. HubSpot biedt een volledig gratis CRM met onbeperkt contacten dat voor de meeste startende bedrijven ruim voldoende is. Pas als je automation, lead scoring of uitgebreide rapportages nodig hebt, is een betaald pakket zinvol. Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) om te bepalen welke tier bij jou past."
+    a: >-
+      Nee. HubSpot biedt een volledig gratis CRM met onbeperkt contacten dat
+      voor de meeste startende bedrijven ruim voldoende is. Pas als je
+      automation, lead scoring of uitgebreide rapportages nodig hebt, is een
+      betaald pakket zinvol. Gebruik de CRM keuzehulp om te bepalen welke tier
+      bij jou past.
   - q: "Hoe lang duurt het om een CRM in te richten?"
-    a: "Een eenvoudig CRM zoals HubSpot of Pipedrive kun je in een middag operationeel hebben. De tijd zit vooral in het importeren van je bestaande contacten en het inrichten van je pipeline-stappen. Een volledig pakket zoals Salesforce of AFAS vergt meerdere weken implementatie."
+    a: >-
+      Een eenvoudig CRM zoals HubSpot of Pipedrive kun je in een middag
+      operationeel hebben. De tijd zit vooral in het importeren van je bestaande
+      contacten en het inrichten van je pipeline-stappen. Een volledig pakket
+      zoals Salesforce of AFAS vergt meerdere weken implementatie.
 ---
 
 {{< sector-cta-crm >}}

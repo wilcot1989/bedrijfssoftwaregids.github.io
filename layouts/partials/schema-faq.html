@@ -1,10 +1,10 @@
-{{- if .Params.faq -}}
+{{ if .Params.faq }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-    {{- range $i, $faq := .Params.faq }}{{ if $i }},{{ end }}
+    {{ range $i, $faq := .Params.faq }}{{ if $i }},{{ end }}
     {
       "@type": "Question",
       "name": {{ $faq.q | jsonify }},
@@ -16,4 +16,4 @@
   ]
 }
 </script>
-{{- end -}}
+{{ end }}

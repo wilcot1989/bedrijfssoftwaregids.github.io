@@ -5,11 +5,24 @@ lastmod: 2026-03-03
 description: "Welk kassasysteem past bij jouw branche? Vergelijk POS-systemen voor horeca, retail, kapsalon, foodtruck en sportschool. Met keuzehulp en kosten-berekenen."
 faq:
   - q: "Wat is het verschil tussen een kassasysteem en een betaalterminal?"
-    a: "Een betaalterminal verwerkt alleen de betaling zelf. Een kassasysteem is de software die de verkoop registreert, bonnen afdrukt, voorraad bijhoudt en rapportages genereert. Beide heb je nodig; een betaalterminal is onderdeel van, of gekoppeld aan, een kassasysteem."
+    a: >-
+      Een betaalterminal verwerkt alleen de betaling zelf. Een kassasysteem is
+      de software die de verkoop registreert, bonnen afdrukt, voorraad bijhoudt
+      en rapportages genereert. Beide heb je nodig; een betaalterminal is
+      onderdeel van, of gekoppeld aan, een kassasysteem.
   - q: "Moet ik kassabonnen bewaren voor de Belastingdienst?"
-    a: "Ja, de Belastingdienst vereist dat je kassabonnen en transactiegegevens zeven jaar bewaart als onderdeel van je administratieplicht. De meeste moderne kassasystemen slaan alle transacties automatisch digitaal op en voldoen daarmee aan deze verplichting."
+    a: >-
+      Ja, de Belastingdienst vereist dat je kassabonnen en transactiegegevens
+      zeven jaar bewaart als onderdeel van je administratieplicht. De meeste
+      moderne kassasystemen slaan alle transacties automatisch digitaal op en
+      voldoen daarmee aan deze verplichting.
   - q: "Kan ik mijn kassasysteem koppelen aan mijn boekhouding?"
-    a: "Ja, de meeste moderne kassasystemen bieden koppelingen met populaire boekhoudsoftware zoals Exact Online, Moneybird en e-Boekhouden. Daarmee stromen verkopen automatisch door naar je financiële administratie. Op de pagina [boekhoudsoftware per sector](/sectoren/boekhouding/) vind je een overzicht van systemen die deze koppeling ondersteunen."
+    a: >-
+      Ja, de meeste moderne kassasystemen bieden koppelingen met populaire
+      boekhoudsoftware zoals Exact Online, Moneybird en e-Boekhouden. Daarmee
+      stromen verkopen automatisch door naar je financiele administratie. Op de
+      pagina boekhoudsoftware per sector vind je een overzicht van systemen die
+      deze koppeling ondersteunen.
 ---
 
 {{< sector-cta-kassasystemen >}}
