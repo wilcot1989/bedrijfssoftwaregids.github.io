@@ -32,7 +32,7 @@ Boekhoudsoftware varieert van gratis tot circa EUR 100 per maand. De meest gebru
 
 Moneybird kost voor ZZP rond EUR 12 per maand. Exact Online voor ZZP zit rond EUR 15 tot EUR 20. AFAS en grotere pakketten beginnen boven de EUR 50 per maand, maar zijn gericht op bedrijven met meerdere medewerkers en meer administratieve complexiteit.
 
-De echte kosten zitten niet in het abonnement maar in de tijd die je kwijt bent. Een ondernemer die nooit eerder geboekt heeft, besteedt in het begin twee tot drie uur per maand aan de administratie. Na zes maanden, als de bankkoppeling loopt en de categorieën zijn ingericht, is dat teruggebracht naar dertig tot zestig minuten per maand. Reken voor jezelf hoeveel jouw uur waard is en of het verschil opweegt.
+De echte kosten zitten niet in het abonnement maar in de tijd die je kwijt bent. Een ondernemer die nooit eerder geboekt heeft, besteedt in het begin twee tot drie uur per maand aan de administratie. Na zes maanden, als de bankkoppeling loopt en de categorieën zijn ingericht, is dat teruggebracht naar dertig tot zestig minuten per maand. Reken voor jezelf hoeveel jouw uur waard is en of het verschil opweegt. Wie factureren en boekhouden in één pakket wil combineren om dubbele invoer te vermijden, vindt een volledige vergelijking in [Factureren en boekhouden in één pakket](/blog/factureren-en-boekhouden-alles-in-een/).
 
 Gebruik de [kosten berekenen tool voor boekhoudsoftware](/tools/boekhouding/kosten-berekenen/) om op basis van jouw omzet, transactievolume en situatie een realistische totaalkostenberekening te maken over drie jaar.
 
@@ -58,7 +58,7 @@ Als je kiest voor software aangevuld met een boekhouder, is de samenwerking het 
 
 Vraag bij het kiezen van software altijd welke pakketten jouw boekhouder gebruikt of ondersteunt. Exact Online is bij Nederlandse accountantskantoren verreweg het meest gebruikt; Moneybird en Twinfield zijn goede alternatieven. Als jouw boekhouder een pakket gebruikt waartoe jij ook toegang hebt, scheelt dat uren per kwartaal aan afstemming.
 
-Stel vooraf duidelijke afspraken op: wat doe jij, wat doet de boekhouder, hoe vaak wordt er overlegd en wat zijn de contacttijden voor spoedvragen? Onduidelijkheid hierover leidt tot overlap, dubbele rekeningen en misverstanden over wie wat heeft ingediend.
+Stel vooraf duidelijke afspraken op: wat doe jij, wat doet de boekhouder, hoe vaak wordt er overlegd en wat zijn de contacttijden voor spoedvragen? Onduidelijkheid hierover leidt tot overlap, dubbele rekeningen en misverstanden over wie wat heeft ingediend. Hoe je boekhoudsoftware specifiek inricht voor een correcte BTW-aangifte -- inclusief de meest gemaakte fouten -- lees je in [BTW-aangifte doen met boekhoudsoftware](/blog/btw-aangifte-welke-boekhoudsoftware/).
 
 ## De beslisboom in kort bestek
 
@@ -69,3 +69,5 @@ Meer dan EUR 300.000 omzet, personeel, ingewikkelde kostenstructuur of weinig ti
 Daartussenin: probeer drie maanden met software en beoordeel dan eerlijk hoeveel tijd het kost en of je comfortabel bent met de uitkomst. Gratis proefperiodes zijn er bij vrijwel elk pakket.
 
 De kosten zijn het makkelijkste deel van de vergelijking. Het moeilijkere deel is eerlijk inschatten hoeveel jij jouw tijd en de rust van professionele begeleiding waard vindt.
+
+Wil je direct boekhoudsoftware vergelijken? Gebruik onze [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

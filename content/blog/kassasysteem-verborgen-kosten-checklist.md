@@ -56,7 +56,7 @@ Een kostenpost die ondernemers vaak vergeten is de contractduur en de kosten om 
 
 Als je na een jaar ontdekt dat het systeem toch niet past bij je bedrijf, wil je de flexibiliteit hebben om over te stappen zonder een factuur van duizenden euro's. Vraag bij aanschaf expliciet naar de minimale contractduur, de opzegtermijn en de kosten bij vroegtijdige beëindiging.
 
-Maandelijkse contracten zijn duurder per maand maar geven maximale flexibiliteit. Jaarcontracten bieden korting maar binden je. Meerjarige contracten zijn alleen zinvol als je het systeem al uitgebreid getest hebt en zeker bent van de keuze.
+Maandelijkse contracten zijn duurder per maand maar geven maximale flexibiliteit. Jaarcontracten bieden korting maar binden je. Meerjarige contracten zijn alleen zinvol als je het systeem al uitgebreid getest hebt en zeker bent van de keuze. Of je voor cloud of lokale kassasoftware kiest, heeft ook invloed op contractvorm en migratiekosten; dat vergelijk je in [Cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/).
 
 Houd ook rekening met migratiekosten: als je overstapt naar een ander kassasysteem, moet je de artikellijst, BTW-configuratie en eventueel historische transactiedata overzetten. Dat kost tijd en soms geld voor de hulp van de nieuwe leverancier.
 
@@ -64,7 +64,7 @@ Houd ook rekening met migratiekosten: als je overstapt naar een ander kassasyste
 
 Voeg alle kosten bij elkaar voor je vergelijkt: maandabonnement, hardware (eenmalig gespreid over drie jaar), transactiepercentage op de verwachte maandomzet, supportkosten, installatiekosten en eventuele updatekosten.
 
-Gebruik de [kosten berekenen tool voor kassasystemen](/tools/kassasystemen/kosten-berekenen/) om een volledige driejaarsberekening te maken op basis van jouw specifieke situatie. Het goedkoopste pakket op de productpagina is zelden het goedkoopste pakket in de praktijk, en de rangorde verandert significant als je alle posten meeneemt.
+Gebruik de [kosten berekenen tool voor kassasystemen](/tools/kassasystemen/kosten-berekenen/) om een volledige driejaarsberekening te maken op basis van jouw specifieke situatie. Het goedkoopste pakket op de productpagina is zelden het goedkoopste pakket in de praktijk, en de rangorde verandert significant als je alle posten meeneemt. Een bijkomende kostenpost die ondernemers soms vergeten is de koppeling met de boekhouding; wat dat vraagt en oplevert lees je in [Kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
 
 Een vergelijking van kassasystemen per sector vind je op de [kassasystemen sectorgids](/sectoren/kassasystemen/).
 
@@ -73,3 +73,5 @@ Een vergelijking van kassasystemen per sector vind je op de [kassasystemen secto
 Vraag bij minimaal drie aanbieders een prijsopgave aan voor precies dezelfde configuratie: het aantal kassa's, het verwachte maandelijkse transactievolume en de gewenste integraties. Zo vergelijk je appels met appels.
 
 Vraag ook om een overzicht van alle kosten in jaar één en jaar drie apart. Jaar één bevat installatiekosten; jaar drie laat zien wat het systeem structureel kost als die eenmalige kosten zijn weggevallen. Dat tweede getal is de relevantste benchmark voor langetermijnkosten.
+
+Wil je direct kassasystemen vergelijken? Gebruik onze [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

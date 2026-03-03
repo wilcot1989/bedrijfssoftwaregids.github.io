@@ -42,7 +42,7 @@ Controleer bij aanschaf expliciet of de software ICP-aangifte ondersteunt als je
 
 Voor [eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/) met eenvoudige administratie voldoen tools als Moneybird, e-Boekhouden en Jortt uitstekend. Ze hebben alle BTW-rubrieken ingebouwd, koppelen met de Belastingdienst en zijn gebruiksvriendelijk genoeg om zonder boekhoudkundige achtergrond te gebruiken. De instaptijd is laag en de BTW-aangifte is na een korte inrichting reproduceerbaar in minder dan een kwartier.
 
-Exact Online is sterker voor complexere situaties: meerdere BTW-tarieven door elkaar, buitenlandse transacties, werknemers of situaties waarbij je ook salarisadministratie voert. De leercurve is hoger, maar de diepgang en de rapportagemogelijkheden zijn ook groter.
+Exact Online is sterker voor complexere situaties: meerdere BTW-tarieven door elkaar, buitenlandse transacties, werknemers of situaties waarbij je ook salarisadministratie voert. De leercurve is hoger, maar de diepgang en de rapportagemogelijkheden zijn ook groter. Wie twijfelt of software de juiste keuze is ten opzichte van een externe boekhouder, vindt een kosten-batenanalyse in [Boekhoudsoftware vs boekhouder](/blog/boekhoudsoftware-vs-boekhouder-kostenvergelijking/).
 
 AFAS, AccountView en Twinfield zijn bestemd voor bedrijven met een boekhouder of financieel medewerker die dagelijks in het systeem werkt. Ze bieden de meest volledige BTW-functionaliteit maar zijn niet ontworpen voor zelfbeheer door niet-boekhouders.
 
@@ -64,7 +64,7 @@ Een ingediende BTW-aangifte is niet definitief als er een fout in zit. Je kunt e
 
 Als de correctie in jouw voordeel is -- je hebt te veel afgedragen -- krijg je het verschil terug plus belastingrente. Als de correctie in het nadeel van de Belastingdienst is, betaal je het verschil plus belastingrente. Wie een fout vrijwillig corrigeert via een suppletie, wordt doorgaans niet beboet. Wie wacht tot de Belastingdienst zelf de fout constateert, riskeert een boete bovenop de naheffing.
 
-Zorg dat je boekhoudpakket suppleties ondersteunt of minstens een duidelijk overzicht genereert van het verschil tussen de eerder ingediende aangifte en de gecorrigeerde versie. Dat versnelt de correctie aanzienlijk.
+Zorg dat je boekhoudpakket suppleties ondersteunt of minstens een duidelijk overzicht genereert van het verschil tussen de eerder ingediende aangifte en de gecorrigeerde versie. Dat versnelt de correctie aanzienlijk. Ondernemers die ook factureren en boekhouden willen samenvoegen in één systeem voor minder handmatige stappen, lezen verder in [Factureren en boekhouden in één pakket](/blog/factureren-en-boekhouden-alles-in-een/).
 
 ## Hoe je de aangifte structureel foutloos maakt
 
@@ -75,3 +75,5 @@ Loop op die dag het BTW-overzicht door, controleer of alle inkomsten en uitgaven
 Sla je BTW-aangiften op als pdf voor je eigen administratie. De Belastingdienst bewaart de digitale aangifte, maar bij een controle of vraag heb je ze zelf snel bij de hand.
 
 Een volledig overzicht van opties per doelgroep biedt de [boekhoudsoftware sectorgids](/sectoren/boekhouding/).
+
+Wil je direct boekhoudsoftware vergelijken? Gebruik onze [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

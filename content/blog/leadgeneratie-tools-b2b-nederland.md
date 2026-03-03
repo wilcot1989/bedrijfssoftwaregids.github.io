@@ -24,7 +24,7 @@ In Nederland is contentmarketing de meest duurzame bron van B2B-leads. Whitepape
 
 De sleutel is specialisatie. Een algemene gids over projectmanagement trekt een breed publiek dat moeilijk te converteren is. Een vergelijking van projectmanagementtools speciaal voor bouwbedrijven trekt precies de doelgroep aan die een bouwsoftwareleverancier wil bereiken.
 
-Na het downloaden van een contentasset stel je een geautomatiseerde opvolgsequentie in. Niet een directe salespitch, maar twee à drie educatieve e-mails over het onderwerp, gevolgd door een aanbod voor een vrijblijvend gesprek. Dit past bij de Nederlandse zakelijke cultuur: geen druk, wel relevantie.
+Na het downloaden van een contentasset stel je een geautomatiseerde opvolgsequentie in. Niet een directe salespitch, maar twee à drie educatieve e-mails over het onderwerp, gevolgd door een aanbod voor een vrijblijvend gesprek. Dit past bij de Nederlandse zakelijke cultuur: geen druk, wel relevantie. Wat die opvolgsequenties in de praktijk opleveren en hoe je de ROI concreet berekent, lees je in [Marketing automation ROI: 4 voorbeelden](/blog/marketing-automation-roi-voorbeelden/).
 
 De [B2B leadgeneratie software die dit ondersteunt](/sectoren/marketing/leadgeneratie-software-b2b/) combineert een contentstrategie met geautomatiseerde opvolging en leadscoringmodellen.
 
@@ -56,7 +56,7 @@ Onderschat het belang van reacties op negatieve reviews niet. Een professionele,
 
 Koude e-mail werkt als het goed is gedaan: gepersonaliseerd op bedrijf en functie, relevant voor de ontvangende situatie, kort en to-the-point, en niet te frequent. Een reeks van drie tot vijf e-mails over vier weken, gericht op een specifiek herkenbaar probleem, haalt openpercentages van 30 tot 40% bij de juiste doelgroep en selectieve verzending.
 
-Wat niet werkt: bulk-e-mail naar ingekochte lijsten. Nederlandse bedrijven rapporteren dit consequent als spam. Een spammeldingrate boven de 0,3% beschadigt de reputatie van het afzenddomein en leidt tot deliverability-problemen voor de hele e-mailmarketing van de organisatie.
+Wat niet werkt: bulk-e-mail naar ingekochte lijsten. Nederlandse bedrijven rapporteren dit consequent als spam. Een spammeldingrate boven de 0,3% beschadigt de reputatie van het afzenddomein en leidt tot deliverability-problemen voor de hele e-mailmarketing van de organisatie. Hoe je deliverability structureel op orde houdt en wat de technische oorzaken zijn van spamplaatsing, lees je in [E-mail deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/).
 
 ## Wat je morgen kunt doen
 
@@ -75,3 +75,5 @@ Gebruik de [lead-ROI berekenen tool](/tools/marketing/lead-roi-berekenen/) om ka
 Voor [social media management bureaus](/sectoren/marketing/social-media-management-bureaus/) die ook voor klanten leadgeneratiecampagnes beheren, is het cruciaal onderscheid te maken tussen de eigen leadkosten en de klantenportfolio -- beide hebben verschillende meetpunten en benchmarks.
 
 Een volledig overzicht van marketing automation en leadgeneratie platforms staat op de [marketing software sectorgids](/sectoren/marketing/).
+
+Wil je direct marketingsoftware vergelijken? Gebruik onze [marketing keuzehulp](/tools/marketing/keuzehulp/).

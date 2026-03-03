@@ -58,7 +58,7 @@ Een integratie die technisch werkt maar regelmatig fouten maakt, is in sommige g
 
 Controleer na de eerste twee weken of de integratie foutloos werkt. Loop een steekproef van twintig contacten door en controleer of de gesynchroniseerde data klopt. Als er afwijkingen zijn, los die op voor je het systeem volledig vertrouwt.
 
-Sommige integratieproblemen zijn inherent aan de combinatie van systemen en lossen zich niet vanzelf op. In dat geval is het beter een alternatieve koppelmethode te kiezen of de integratie handmatig te doen voor de kritische data.
+Sommige integratieproblemen zijn inherent aan de combinatie van systemen en lossen zich niet vanzelf op. In dat geval is het beter een alternatieve koppelmethode te kiezen of de integratie handmatig te doen voor de kritische data. De bredere context van waarom CRM-trajecten mislukken -- ook buiten integratiefouten -- lees je in [CRM-fouten die MKB-bedrijven het meeste geld kosten](/blog/crm-fouten-mkb/).
 
 ## Integraties die je kunt uitstellen
 
@@ -74,4 +74,6 @@ Een volledig overzicht van CRM-opties per sector vind je op de [CRM software sec
 
 Niet elk bedrijf heeft de tijd en het budget om alle integraties tegelijk in te richten. Prioriteer op basis van tijdsbesparing per week. E-mailintegratie bespaart het meeste tijd bij de meeste bedrijven en staat daarom bovenaan. Kalenderintegratie is snel in te richten en heeft directe impact. Boekhoudkoppeling vraagt meer configuratie maar reduceert handmatige fouten.
 
-Stel een volgorde op en richt elke maand één nieuwe integratie in. Na drie maanden heb je de meeste waardevolle koppelingen actief en kun je op basis van dagelijks gebruik bepalen of aanvullende integraties zinvol zijn.
+Stel een volgorde op en richt elke maand één nieuwe integratie in. Na drie maanden heb je de meeste waardevolle koppelingen actief en kun je op basis van dagelijks gebruik bepalen of aanvullende integraties zinvol zijn. Hoe die eerste implementatiefase er stap voor stap uitziet, lees je in [CRM implementeren in 30 dagen](/blog/crm-implementatieplan-30-dagen/).
+
+Wil je direct CRM software vergelijken? Gebruik onze [CRM keuzehulp](/tools/crm/keuzehulp/).

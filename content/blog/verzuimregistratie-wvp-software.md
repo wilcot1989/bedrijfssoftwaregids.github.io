@@ -40,7 +40,7 @@ Week 104: WIA-aanvraag door de medewerker bij het UWV, na het vereiste re-integr
 
 De complexiteit zit niet in de stappen zelf maar in het bijhouden ervan voor meerdere medewerkers tegelijk, terwijl de dagelijkse bedrijfsvoering doorgaat. Een werkgever met tien medewerkers en twee langdurig zieken heeft al tien actieve WVP-deadlines te bewaken, naast gewone verlofregistratie en salarisadministratie.
 
-Zonder gestructureerd systeem glijden deadlines voorbij. De week 42-melding wordt vergeten omdat de dagelijkse urgentie altijd wint van de administratieve achtergrondtaak. Het gevolg is een boete plus, erger nog, een loonsanctie waarbij je de medewerker een extra jaar moet doorbetalen.
+Zonder gestructureerd systeem glijden deadlines voorbij. Wie net zijn eerste medewerker in dienst heeft genomen en de volledige HR-administratie wil inrichten, vindt een praktisch startpunt in [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/). De week 42-melding wordt vergeten omdat de dagelijkse urgentie altijd wint van de administratieve achtergrondtaak. Het gevolg is een boete plus, erger nog, een loonsanctie waarbij je de medewerker een extra jaar moet doorbetalen.
 
 ## Hoe HR-software helpt bij WVP-compliance
 
@@ -64,7 +64,7 @@ Preventief arbobeleid begint met een Risico-inventarisatie en -evaluatie (RI&E),
 
 Voor kantooromgevingen zijn de grootste risicofactoren werkdruk en werkstress -- verantwoordelijk voor een significant deel van het langdurig verzuim. Regelmatige voortgangsgesprekken en aandacht voor werkbalans reduceren de kans op uitval meer dan welke verzekeringsoplossing ook.
 
-HR-software met een checklistmodule voor periodieke medewerkersgesprekken helpt leidinggevenden dit structureel bij te houden, ook als het team druk heeft.
+HR-software met een checklistmodule voor periodieke medewerkersgesprekken helpt leidinggevenden dit structureel bij te houden, ook als het team druk heeft. Structureel inzicht in werkbelasting begint ook bij goede urenregistratie; welk systeem daarvoor het best past lees je in [Urenregistratie: HR software of projectmanagement tool](/blog/urenregistratie-hr-of-projectmanagement/).
 
 ## Verzuim in de bouw: extra complexiteit
 
@@ -83,3 +83,5 @@ Re-integratie is meer dan de medewerker laten terugkeren op zijn oude werkplek. 
 Zorg dat de re-integratievoortgang wordt vastgelegd in hetzelfde dossier als de verzuimperiode. Bij een eventuele UWV-beoordeling is een volledig en consistent dossier van begin tot einde essentieel voor het aantonen van voldoende re-integratie-inspanning.
 
 Goed verzuimbeleid begint bij een cultuur waarin medewerkers zich veilig voelen om vroeg een signaal te geven als het niet goed gaat. HR-software kan de administratie organiseren en deadlines bewaken, maar de menselijke component -- aandacht, gesprek, vertrouwen -- is de basis van elk effectief verzuimbeleid.
+
+Wil je direct HR software vergelijken? Gebruik onze [HR software keuzehulp](/tools/hr-software/keuzehulp/).

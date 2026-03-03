@@ -52,7 +52,7 @@ Hier wordt het complexer. Je hebt mogelijk een medewerker nodig die andere recht
 
 Een functionaliteit die te weinig aandacht krijgt: de betaalkoppeling op de factuur zelf. Een pakket dat een iDEAL-betaallink in de factuur plaatst, zorgt dat klanten direct betalen zonder dat ze een aparte bankoverschrijving hoeven te doen. Klanten die via iDEAL betalen, doen dat gemiddeld drie dagen sneller dan klanten die handmatig een overschrijving moeten uitvoeren.
 
-Moneybird, Factuursturen.nl en Exact Online ondersteunen betaallinks via iDEAL of creditcard. Controleer of dit is inbegrepen in het abonnement of als add-on apart wordt berekend. Bij een ZZP'er die maandelijks EUR 15.000 factureert, kan dit het verschil betekenen tussen betaling binnen drie dagen of betaling na twee weken -- en dat heeft directe impact op je liquiditeit.
+Moneybird, Factuursturen.nl en Exact Online ondersteunen betaallinks via iDEAL of creditcard. Controleer of dit is inbegrepen in het abonnement of als add-on apart wordt berekend. Bij een ZZP'er die maandelijks EUR 15.000 factureert, kan dit het verschil betekenen tussen betaling binnen drie dagen of betaling na twee weken -- en dat heeft directe impact op je liquiditeit. Voor wie daarna ook de BTW-verwerking wil stroomlijnen, biedt [BTW-aangifte doen met boekhoudsoftware](/blog/btw-aangifte-welke-boekhoudsoftware/) een praktische handleiding per softwarecategorie.
 
 ## De impact op je liquiditeitspositie
 
@@ -68,6 +68,8 @@ Begin met de kostenvergelijking: wat betaal je nu samen voor je facturatietool e
 
 Controleer dan of het gecombineerde pakket integreert met de andere tools die je gebruikt: projectmanagementsoftware, CRM, tijdregistratie. Hoe minder losse systemen je hebt, hoe minder kans op inconsistente data en dubbele invoer.
 
-Neem altijd een gratis proefperiode van minimaal twee weken voor je een abonnement afsluit. Maak in die periode een testfactuur aan, verwerk een betaling en kijk hoe de BTW-aangifte eruitziet. Pas dan weet je zeker of het systeem bij jouw werkproces past.
+Neem altijd een gratis proefperiode van minimaal twee weken voor je een abonnement afsluit. Maak in die periode een testfactuur aan, verwerk een betaling en kijk hoe de BTW-aangifte eruitziet. Pas dan weet je zeker of het systeem bij jouw werkproces past. Wie ook afweegt of een externe boekhouder goedkoper uitpakt dan volledig zelfstandig werken met software, vindt die vergelijking in [Boekhoudsoftware vs boekhouder](/blog/boekhoudsoftware-vs-boekhouder-kostenvergelijking/).
 
 De [kosten berekenen tool voor boekhoudsoftware](/tools/boekhouding/kosten-berekenen/) helpt je de totaalkosten voor jouw situatie in kaart te brengen. Een volledig overzicht per bedrijfsgrootte vind je op de [boekhoudsoftware sectorpagina](/sectoren/boekhouding/).
+
+Wil je direct boekhoudsoftware vergelijken? Gebruik onze [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

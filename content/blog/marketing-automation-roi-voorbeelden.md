@@ -24,7 +24,7 @@ Een Nederlands B2B-softwarebedrijf met acht medewerkers werkte met een handmatig
 
 Na implementatie van HubSpot Marketing Hub werden leads die een whitepaper downloadden automatisch in een nurture-flow gezet: drie educatieve e-mails gespreid over tien dagen, gevolgd door een uitnodiging voor een persoonlijke demo. Leads die de demo-uitnodiging openden maar niet klikten, kregen een week later een tweede uitnodiging met een andere invalshoek en een andere CTA.
 
-Resultaat na zes maanden: het aantal demo-aanvragen steeg met 35%. De handmatige opvolgtijd van de salesmanager daalde met 40%, waardoor diens beschikbare tijd voor actieve prospectie verdubbelde. De terugverdientijd op de platforminvestering bedroeg acht maanden.
+Resultaat na zes maanden: het aantal demo-aanvragen steeg met 35%. De handmatige opvolgtijd van de salesmanager daalde met 40%, waardoor diens beschikbare tijd voor actieve prospectie verdubbelde. De terugverdientijd op de platforminvestering bedroeg acht maanden. Wie nog onvoldoende leads binnenhaalt om automation zinvol te maken, leest eerst [Leadgeneratie tools voor B2B in Nederland](/blog/leadgeneratie-tools-b2b-nederland/) voor concrete kanaalopties.
 
 ## Voorbeeld 2: Webshop -- EUR 8.500 extra omzet per maand
 
@@ -32,7 +32,7 @@ Een Nederlandse webshop met EUR 80.000 maandelijkse omzet had een verlaten-winke
 
 Via Klaviyo werd een driedelige automation ingesteld: één uur na het verlaten van de winkelwagen een herinneringsmail met een overzicht van de producten, na 24 uur een mail met een productbeoordeling en een vergelijking met alternatieven, na 72 uur een mail met een kortingscode van 5% en een duidelijkere urgentie.
 
-Van de verstuurde e-mails in de reeks converteerde 12% naar een aankoop. Op maandbasis leverde dat EUR 8.500 extra omzet op die anders verloren was gegaan. De platformkosten: EUR 150 per maand. De ROI was positief vanaf de eerste maand.
+Van de verstuurde e-mails in de reeks converteerde 12% naar een aankoop. Op maandbasis leverde dat EUR 8.500 extra omzet op die anders verloren was gegaan. De platformkosten: EUR 150 per maand. De ROI was positief vanaf de eerste maand. Een voorwaarde voor succesvolle e-mailautomation is dat de verstuurde e-mails ook daadwerkelijk aankomen; hoe je deliverability-problemen oplost lees je in [E-mail deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/).
 
 Voor [webshops](/sectoren/marketing/marketing-automation-webshops/) is verlaten-wagen-automation een van de makkelijkste en hoogst renderende automations om mee te beginnen. De technische implementatie kost minder dan een dag; de inhoudelijke inrichting vraagt wat langer.
 
@@ -73,3 +73,5 @@ Een overzicht van marketing automation platforms voor jouw bedrijfstype vind je 
 Marketing automation vereist een initiële investering in content en inrichting die veel aanbieders onderschatten in hun ROI-berekeningen. Een nurture-sequentie van drie e-mails schrijven, testen en inrichten kost al gauw vier tot acht uur. Een goede verlaten-wagen-flow kost twee à drie uur.
 
 Reken die tijd mee tegen jouw uurtarief. Als je een marketingmedewerker inzet of een bureau inschakelt, zijn de kosten navenant hoger. De ROI is pas positief als de automation meer oplevert dan de totale investering in platform plus inrichting plus onderhoud.
+
+Wil je direct marketingsoftware vergelijken? Gebruik onze [marketing keuzehulp](/tools/marketing/keuzehulp/).

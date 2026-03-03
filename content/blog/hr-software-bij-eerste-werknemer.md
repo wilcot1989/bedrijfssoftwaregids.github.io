@@ -26,7 +26,7 @@ Als ZZP'er ben je verantwoordelijk voor je eigen belastingaangifte. Als werkgeve
 
 Daarboven heb je verplichtingen rond de Arbowet (gezonde en veilige werkomstandigheden), de Wet Verbetering Poortwachter (verzuimbegeleiding bij ziekte), verlofregistratie conform het arbeidscontract en de toepasselijke CAO, en bewaarplicht van de salarisadministratie gedurende ten minste vijf jaar.
 
-Een fout in de loonaangifte of een gemiste meldingstermijn bij langdurig ziekteverzuim kan leiden tot boetes. Dat maakt een gestructureerde aanpak van dag één essentieel.
+Een fout in de loonaangifte of een gemiste meldingstermijn bij langdurig ziekteverzuim kan leiden tot boetes. Dat maakt een gestructureerde aanpak van dag één essentieel. Wat de Wet Verbetering Poortwachter precies vereist en hoe HR-software de bijbehorende deadlines bewaakt, lees je in [Verzuimregistratie en de Wet Verbetering Poortwachter](/blog/verzuimregistratie-wvp-software/).
 
 Voor [ZZP'ers die groeien naar een klein bedrijf](/sectoren/hr/hr-software-zzp/) is de stap naar werkgeverschap een van de meest ingrijpende administratieve veranderingen. Het loont om die stap goed te voorbereiden.
 
@@ -68,8 +68,10 @@ Reken die werkgeverslasten mee in je budgettering voor je de vacature plaatst --
 
 Voor de eerste werkdag van de medewerker: vraag de loonheffingsnummers aan bij de Belastingdienst (aanvraag duurt twee tot vier weken), laat het arbeidscontract ondertekenen en richt de salarisadministratie in inclusief de persoonlijke gegevens van de medewerker.
 
-In de eerste maand: doe de eerste loonaangifte op tijd. De deadline is de laatste werkdag van de maand volgend op de verloonperiode bij maandlonen. Te laat indienen leidt tot een automatische boete die oploopt bij herhaaldelijk verzuim.
+In de eerste maand: doe de eerste loonaangifte op tijd. De deadline is de laatste werkdag van de maand volgend op de verloonperiode bij maandlonen. Te laat indienen leidt tot een automatische boete die oploopt bij herhaaldelijk verzuim. Als de medewerker ook uren per project registreert, is het vroeg bepalen welk systeem daarvoor past zinvol; dat vergelijk je in [Urenregistratie: HR software of projectmanagement tool](/blog/urenregistratie-hr-of-projectmanagement/).
 
 Na drie maanden: evalueer of de gekozen tool werkt. Is de verlofregistratie in gebruik bij de medewerker? Klopt de salarisstrook met het arbeidscontract? Zijn er integraties nodig met de boekhouding voor automatische verwerking van salariskosten?
 
 Een goed HR-systeem neemt de administratieve druk weg zodat jij je kunt focussen op het werk dat jou en je medewerker vooruitbrengt.
+
+Wil je direct HR software vergelijken? Gebruik onze [HR software keuzehulp](/tools/hr-software/keuzehulp/).
