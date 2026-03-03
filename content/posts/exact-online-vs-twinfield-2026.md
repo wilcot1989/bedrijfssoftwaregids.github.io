@@ -185,6 +185,10 @@ Na tientallen implementaties van beide pakketten komt mijn advies hierop neer:
 
 Twijfel je? Beide bieden een gratis proefperiode van 30 dagen. Test ze naast elkaar en bespreek de uitkomst met je accountant.
 
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+
+<a href="https://www.twinfield.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar twinfield.nl →</a>
+
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.
 

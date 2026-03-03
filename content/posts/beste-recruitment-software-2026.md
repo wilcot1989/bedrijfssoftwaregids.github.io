@@ -63,6 +63,8 @@ Van alle ATS-systemen die ik heb ingericht voor klanten, grijp ik het vaakst naa
 **✅ Voordelen:** Nederlands, intuïtief, sterke jobboard-integraties, onbeperkte gebruikers
 **❌ Nadelen:** Geen HR-functies (alleen recruitment), duurder dan Homerun
 
+<a href="https://recruitee.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar recruitee.com →</a>
+
 ## 2. Homerun — Beste budget optie
 
 Homerun adviseer ik aan startups en creatieve bedrijven die weinig budget hebben maar wél professioneel willen overkomen. De carrièrepagina's die je ermee bouwt zien er beter uit dan wat de meeste grote bedrijven hebben. Functioneel beperkter dan Recruitee, maar voor de prijs krijg je ontzettend veel.
@@ -86,6 +88,8 @@ Homerun adviseer ik aan startups en creatieve bedrijven die weinig budget hebben
 **✅ Voordelen:** Mooiste carrièrepagina's, betaalbaar, zeer Nederlands
 **❌ Nadelen:** Beperktere ATS-functies, minder jobboard-integraties
 
+<a href="https://homerun.co/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar homerun.co →</a>
+
 ## 3. Personio — HR + Recruitment in één
 
 Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces naadloos wilt laten aansluiten op de werving.
@@ -99,6 +103,8 @@ Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Pe
 
 **✅ Voordelen:** All-in-one HR + recruitment, geen dubbele data-invoer
 **❌ Nadelen:** Recruitment-deel minder uitgebreid dan dedicated ATS, prijzig
+
+<a href="https://www.personio.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar personio.nl →</a>
 
 ## 4. Greenhouse — Beste voor data-driven enterprise
 
@@ -114,6 +120,8 @@ Greenhouse is het ATS waar ik naar verwijs zodra een bedrijf data-gedreven wil w
 **✅ Voordelen:** Meest data-gedreven, beste integraties, DEI-focus
 **❌ Nadelen:** Duur, complexer, geen Nederlandse interface
 
+<a href="https://www.greenhouse.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar greenhouse.com →</a>
+
 ## 5. Bullhorn — Beste voor uitzendbureaus
 
 Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk de enige serieuze optie. Ik kom het tegen bij elk bureau van enige omvang. De interface is niet de modernste, maar de combinatie van CRM en ATS is precies wat je nodig hebt als je honderden kandidaten tegelijk beheert.
@@ -127,6 +135,8 @@ Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk d
 
 **✅ Voordelen:** Beste voor bureaus, CRM ingebouwd, hoog volume
 **❌ Nadelen:** Overkill voor directe werving, verouderde interface, duur
+
+<a href="https://www.bullhorn.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar bullhorn.com →</a>
 
 ## Welke ATS-software past bij jou?
 

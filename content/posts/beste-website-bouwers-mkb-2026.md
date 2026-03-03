@@ -59,6 +59,8 @@ WordPress is wat ik zelf zou kiezen en het vaakst adviseer aan bedrijven waar co
 **✅ Voordelen:** Meest flexibel, beste SEO, enorm plugin-ecosysteem, eigendom van data
 **❌ Nadelen:** Leercurve, zelf hosting regelen, updates en beveiliging eigen verantwoording
 
+<a href="https://wordpress.org/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar wordpress.org →</a>
+
 ## 2. Wix — Beste voor beginners
 
 Wix is het platform dat ik aanbeveel aan MKB-klanten zonder technische kennis die snel online willen. De drag-and-drop editor is intuïtief, de AI-websitebouwer maakt binnen minuten een complete site op basis van je bedrijfsbeschrijving, en hosting en SSL zijn gewoon inbegrepen. Minder flexibel dan WordPress, maar je bent ook tien keer sneller live.
@@ -81,6 +83,8 @@ Wix is het platform dat ik aanbeveel aan MKB-klanten zonder technische kennis di
 **✅ Voordelen:** Makkelijkst te gebruiken, AI-bouwer, alles-in-één, snel online
 **❌ Nadelen:** Minder flexibel dan WordPress, website niet verplaatsbaar, SEO beperkter
 
+<a href="https://www.wix.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar wix.com →</a>
+
 ## 3. Squarespace — Mooiste designs
 
 Squarespace adviseer ik aan fotografen, architecten, restaurants -- elk bedrijf waar het visuele de doorslag geeft. De templates zijn de mooiste die ik ken, en je site ziet er zonder designer al professioneel uit. Functioneel beperkter dan WordPress, maar als design je prioriteit is, kom je hier het snelst tot een indrukwekkend resultaat.
@@ -101,6 +105,8 @@ Squarespace adviseer ik aan fotografen, architecten, restaurants -- elk bedrijf 
 
 **✅ Voordelen:** Mooiste templates, professioneel design, goede blogfunctie
 **❌ Nadelen:** Minder plugins dan WordPress, beperktere aanpassingsmogelijkheden
+
+<a href="https://www.squarespace.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar squarespace.com →</a>
 
 ## 4. Webflow — Designer's keuze
 
@@ -123,6 +129,8 @@ Webflow is de tool die ik voorstel aan designers en agencies die pixel-perfect m
 **✅ Voordelen:** Meeste design-vrijheid, schone code, uitstekende SEO, CMS flexibiliteit
 **❌ Nadelen:** Steile leercurve, minder plugins, duurder voor e-commerce
 
+<a href="https://webflow.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar webflow.com →</a>
+
 ## 5. Shopify — Beste voor webshops
 
 Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door naar Shopify. Het is de snelste weg naar een professionele webshop, met ingebouwde betalingen, voorraadbeheer en een enorm app-ecosysteem. Als blog of bedrijfswebsite minder geschikt, maar voor e-commerce is het simpelweg de standaard.
@@ -142,6 +150,8 @@ Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door 
 
 **✅ Voordelen:** Beste e-commerce platform, uitgebreid app-ecosysteem, iDEAL ingebouwd
 **❌ Nadelen:** Duurder dan alternatieven, transactiekosten (tenzij Shopify Payments), als blog/website minder geschikt
+
+<a href="https://www.shopify.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
 
 Zoek je een CRM voor je webshop? Bekijk onze [CRM voor webshops gids](/posts/beste-crm-webshops-2026/).
 

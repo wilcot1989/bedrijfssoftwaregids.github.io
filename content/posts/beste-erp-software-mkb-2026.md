@@ -76,6 +76,8 @@ Als een klant me vraagt "waar moet ik beginnen?", is Exact Online in 9 van de 10
 - Geavanceerde functies vereisen duurdere pakketten
 - Rapportages zijn beperkt zonder add-ons
 
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+
 Lees onze uitgebreide [Exact Online Review 2026](/posts/exact-online-review-2026/) voor meer details.
 
 ## 2. Afas Software — Alles-in-één voor Groeiende Bedrijven
@@ -116,6 +118,8 @@ Afas hanteert een abonnementsmodel op basis van het aantal medewerkers en gekoze
 - Minder geschikt voor pure productie- of handelsbedrijven
 - Beperktere integratiemogelijkheden dan Exact Online
 
+<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar afas.nl →</a>
+
 ## 3. SAP Business One — Enterprise-kracht voor het MKB
 
 SAP Business One raad ik niet snel aan voor een bedrijf met 8 medewerkers, maar voor productie- en handelsbedrijven met serieuze voorraadstromen is het ijzersterk. Ik heb het ingezet bij een groothandel met drie magazijnen die real-time inzicht nodig had in voorraad en inkoop. De implementatie was intensief, maar het resultaat overtrof de verwachtingen. Dit is enterprise-kwaliteit in een MKB-jasje.
@@ -150,6 +154,8 @@ SAP Business One raad ik niet snel aan voor een bedrijf met 8 medewerkers, maar 
 - Interface is minder intuïtief dan modernere alternatieven
 - Vereist een gecertificeerde SAP-partner voor implementatie
 - Overweldigend voor kleinere bedrijven (<10 medewerkers)
+
+<a href="https://www.sap.com/netherlands/products/erp/business-one.html" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar sap.com →</a>
 
 ## 4. Microsoft Dynamics 365 Business Central — Naadloze Microsoft-integratie
 
@@ -186,6 +192,8 @@ Als je bedrijf al draait op Microsoft 365, Teams en Outlook, dan is Dynamics 365
 - Kan complex worden bij uitgebreid maatwerk
 - Basis CRM-functionaliteit (voor meer heb je Dynamics 365 Sales nodig)
 
+<a href="https://dynamics.microsoft.com/nl-nl/business-central/overview/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar microsoft.com/dynamics →</a>
+
 ## 5. Odoo — Open-source ERP met Maximale Flexibiliteit
 
 Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een technisch team hebt dat niet bang is voor configuratie, krijg je hier het meeste ERP voor het minste geld. De Community-editie is gratis, en zelfs de betaalde cloud-versie kost een fractie van SAP of Dynamics. Ik heb het aangeraden bij een startup die maximale flexibiliteit wilde zonder vastgeketend te zitten aan dure licenties.
@@ -221,6 +229,8 @@ Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een t
 - Community-editie mist belangrijke functies (zoals bankreconciliatie)
 - Maatwerk kan complex worden bij upgrades
 - Minder Nederlandse partners beschikbaar dan bij Exact of Afas
+
+<a href="https://www.odoo.com/nl_NL" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar odoo.com →</a>
 
 ## Keuzegids: Welk ERP-Systeem Past Bij Jouw Bedrijf?
 

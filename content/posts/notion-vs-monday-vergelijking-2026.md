@@ -160,6 +160,10 @@ Mijn advies na beide tools bij tientallen teams te hebben ingezet:
 
 **Power move:** Gebruik beide — Notion voor kennisbeheer en Monday.com voor projectmanagement. Ik zie dit steeds vaker bij klanten, en het werkt verrassend goed.
 
+<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
+
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
+
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)**, stel je **[ideale tool stack samen](/tools/productiviteit/tool-stack-planner/)** of bekijk de **[volledige vergelijking](/categories/productiviteit/)**.
 

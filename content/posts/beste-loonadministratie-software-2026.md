@@ -59,6 +59,8 @@ Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat
 **✅ Voordelen:** Modern en gebruiksvriendelijk, sterke API, goed medewerkersportaal, schaalbaar
 **❌ Nadelen:** Minder geschikt voor heel kleine bedrijven (<5), support kan beter
 
+<a href="https://www.nmbrs.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar nmbrs.com →</a>
+
 ## 2. Visma Raet — Beste voor groot MKB
 
 Visma Raet is het platform waar ik naar verwijs als een bedrijf complexe CAO's, uitgebreid verzuimmanagement en een complete HR-suite nodig heeft naast de salarisverwerking. Met 10.000+ klanten in Nederland is het een bewezen speler. De interface is niet de modernste, maar de betrouwbaarheid en diepgang compenseren dat ruimschoots.
@@ -76,6 +78,8 @@ Vanaf €8-€15/medewerker/maand (afhankelijk van modules en bedrijfsgrootte)
 
 **✅ Voordelen:** Meest complete HR + payroll suite, alle CAO's, sterk verzuimmanagement, betrouwbaar
 **❌ Nadelen:** Duurder, interface kan moderner, implementatie kost tijd
+
+<a href="https://www.visma.nl/raet/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar visma.nl/raet →</a>
 
 ## 3. Loket.nl — Beste voor klein MKB
 
@@ -97,6 +101,8 @@ Loket.nl raad ik aan als de portemonnee krap is maar je wel professionele salari
 **✅ Voordelen:** Goedkoopst, eenvoudig, snel operationeel, goede Nederlandse support
 **❌ Nadelen:** Minder functies dan Nmbrs/Visma, interface basaal, beperkte integraties
 
+<a href="https://www.loket.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar loket.nl →</a>
+
 ## 4. AFAS Software — Meest complete NL platform
 
 AFAS adviseer ik aan bedrijven die salaris, HR, boekhouding en CRM in een platform willen en bereid zijn daar serieus in te investeren. Het is het meest complete Nederlandse platform dat ik ken. De integratie tussen modules is naadloos -- je salarisgegevens stromen direct door naar je boekhouding zonder enige handmatige actie. Overkill voor een klein bedrijf, maar goud voor middelgrote organisaties.
@@ -112,6 +118,8 @@ Op aanvraag (typisch €20-€40/medewerker/maand voor het complete pakket)
 
 **✅ Voordelen:** Meest geïntegreerd NL platform, alles-in-één, sterke automatisering
 **❌ Nadelen:** Duur, overkill voor kleine bedrijven, langere implementatie
+
+<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar afas.nl →</a>
 
 Lees meer over AFAS in ons [ERP-systeem overzicht](/posts/beste-erp-software-mkb-2026/).
 
@@ -130,6 +138,8 @@ Op aanvraag (typisch €15-€30/medewerker/maand, afhankelijk van landen en mod
 
 **✅ Voordelen:** Internationale dekking, compliance-zekerheid, schaalbaar
 **❌ Nadelen:** Duur voor alleen Nederland, interface niet de modernste, grote contracten
+
+<a href="https://www.adp.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar adp.com →</a>
 
 ## Salarisadministratie software: zelf doen vs uitbesteden
 

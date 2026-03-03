@@ -60,6 +60,8 @@ Mijn eerste vraag aan klanten is altijd: "Gebruik je Microsoft 365?" Zo ja, dan 
 **✅ Voordelen:** Inbegrepen in M365, beste samenwerkingsplatform, Copilot AI
 **❌ Nadelen:** Kan overweldigend zijn, externe deelnemers hebben soms moeite
 
+<a href="https://www.microsoft.com/nl-nl/microsoft-teams/group-chat-software" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar microsoft.com/teams →</a>
+
 ## 2. Zoom — Beste voor externe meetings
 
 Zoom is wat ik adviseer als een bedrijf veel vergadert met externe partijen -- klanten, leveranciers, partners. Het werkt gewoon: je stuurt een link, de ander klikt, geen account nodig. Die laagdrempeligheid maakt het verschil. De videokwaliteit is nog steeds de beste in de markt, en het is betrouwbaarder dan welke concurrent ook.
@@ -82,6 +84,8 @@ Zoom is wat ik adviseer als een bedrijf veel vergadert met externe partijen -- k
 **✅ Voordelen:** Beste videokwaliteit, geen account nodig voor gasten, betrouwbaarst
 **❌ Nadelen:** Niet zo sterk als samenwerkingsplatform, extra kosten voor functies
 
+<a href="https://zoom.us/nl-nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zoom.us →</a>
+
 ## 3. Google Meet — Beste voor Google Workspace
 
 Gebruik je Google Workspace? Dan is Meet de logische keuze en hoef je niet verder te zoeken. Eén klik vanuit Gmail of Calendar en je zit in een meeting. Het is de eenvoudigste tool in dit overzicht, en voor de meeste MKB-bedrijven meer dan voldoende.
@@ -96,6 +100,8 @@ Gebruik je Google Workspace? Dan is Meet de logische keuze en hoef je niet verde
 **✅ Voordelen:** Eenvoudigst, geen aparte app nodig (browser), goede AI-functies
 **❌ Nadelen:** Minder geavanceerde meeting-functies, geen breakout rooms in gratis plan
 
+<a href="https://meet.google.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar meet.google.com →</a>
+
 ## 4. Webex — Beste voor hybride kantoor
 
 Webex is het platform dat ik tegenkom bij grotere bedrijven met vergaderzalen vol hardware. De Cisco-integratie met Room Kits en Webex Boards is ongeëvenaard. Voor MKB is het eerlijk gezegd meestal overkill, maar als je een hybride kantoor hebt met uitgeruste vergaderruimtes, is Webex het meest professioneel.
@@ -109,6 +115,8 @@ Webex is het platform dat ik tegenkom bij grotere bedrijven met vergaderzalen vo
 
 **✅ Voordelen:** Beste vergaderzaal-hardware, enterprise security, noise cancelling
 **❌ Nadelen:** Duurder, complexere interface, minder geschikt voor MKB
+
+<a href="https://www.webex.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar webex.com →</a>
 
 ## 5. Whereby — Meest eenvoudig
 
@@ -130,6 +138,8 @@ Whereby is mijn tip voor coaches, consultants en iedereen die regelmatig 1-op-1 
 
 **✅ Voordelen:** Eenvoudigst, permanente link, eigen branding, geen app nodig
 **❌ Nadelen:** Minder functies, geen AI-functies, niet geschikt voor grote organisaties
+
+<a href="https://whereby.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar whereby.com →</a>
 
 ## Welke vergadersoftware past bij jou?
 

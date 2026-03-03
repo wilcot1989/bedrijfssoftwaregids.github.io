@@ -175,6 +175,10 @@ Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:
 
 **Twijfel je?** Begin met Moneybird (gratis plan) en stap over naar Twinfield wanneer je administratie dat vraagt. Die volgorde werkt beter dan andersom.
 
+<a href="https://www.twinfield.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar twinfield.nl →</a>
+
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.
 
