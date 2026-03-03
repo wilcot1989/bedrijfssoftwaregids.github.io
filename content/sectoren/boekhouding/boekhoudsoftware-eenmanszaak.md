@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Boekhoudsoftware voor eenmanszaak vergelijken: Moneybird, Snelstart en Exact Online op groei, salarisadministratie en prijs. Start de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+featured_image: "images/categories/boekhouding.svg"
 
-categories:
-  - boekhouding
 tags:
   - boekhouding
   - sector

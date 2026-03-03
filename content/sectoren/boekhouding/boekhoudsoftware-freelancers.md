@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Boekhoudsoftware voor freelancers vergelijken: Moneybird, Bonsai en e-Boekhouden op urenbeheer, projectfacturatie en internationale klanten. Start keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+featured_image: "images/categories/boekhouding.svg"
 
-categories:
-  - boekhouding
 tags:
   - boekhouding
   - sector

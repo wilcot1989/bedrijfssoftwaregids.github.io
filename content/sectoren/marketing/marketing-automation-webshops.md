@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Marketing automation voor webshops vergelijken: Klaviyo, Mailchimp en ActiveCampaign op abandoned cart, productflows en Shopify-koppeling. Start keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+featured_image: "images/categories/marketing.svg"
 
-categories:
-  - marketing
 tags:
   - marketing
   - sector

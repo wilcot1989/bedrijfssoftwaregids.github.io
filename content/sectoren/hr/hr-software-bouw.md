@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "HR software voor de bouw vergelijken: AFAS, Nmbrs en Loket.nl op projecturen, CAO Bouw en VCA-registratie. Start de gratis HR keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+featured_image: "images/categories/hr-software.svg"
 
-categories:
-  - hr-software
 tags:
   - hr-software
   - sector

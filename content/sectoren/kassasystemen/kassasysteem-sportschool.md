@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Kassasysteem voor sportschool: vergelijk Square, Zettle en Lightspeed op losse productverkoop, abonnementen en transactiekosten. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+featured_image: "images/categories/kassasystemen.svg"
 
-categories:
-  - kassasystemen
 tags:
   - kassasystemen
   - sector
