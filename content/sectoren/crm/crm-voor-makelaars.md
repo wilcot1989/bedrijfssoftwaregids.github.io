@@ -73,7 +73,7 @@ Realworks is niet zomaar een CRM — het is specifiek gebouwd voor de Nederlands
 
 **Prijs:** Op aanvraag (abonnement + NVM-lidmaatschap).
 
-<a href="https://www.realworks.nl/" target="_blank" rel="noopener noreferrer" class="cta-outline">Bekijk Realworks →</a>
+<a href="https://www.realworks.nl/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Bekijk Realworks →</a>
 
 ---
 
