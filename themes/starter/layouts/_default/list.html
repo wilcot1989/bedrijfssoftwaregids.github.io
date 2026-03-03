@@ -19,7 +19,7 @@
     {{ range .Pages }}
     {{ $pageTitle := .Title }}
     <div class="card">
-      {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
+      {{ with .Params.featured_image }}<img src="/{{ strings.TrimPrefix "/" . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
       {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . | urlize }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
       <div class="meta">{{ .Date.Format "02-01-2006" }} · {{ .ReadingTime }} min leestijd</div>
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
