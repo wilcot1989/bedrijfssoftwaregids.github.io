@@ -105,6 +105,14 @@ Vergeet ook de VCA-administratie niet. In de bouw is het een wettelijke vereiste
 
 Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een advies afgestemd op jouw bouwbedrijf. Bereken ook de [kosten van HR software voor bouwbedrijven](/tools/hr/kosten-berekenen/).
 
+## Handige vervolgstappen
+
+HR-beheer en CRM werken in de bouw nauw samen: projectmedewerkers en opdrachtgevers vragen elk een eigen systeem. Op de pagina [CRM voor bouwbedrijven](/sectoren/crm/crm-voor-bouwbedrijven/) vind je een vergelijking van CRM-tools die specifiek op de bouwsector zijn gericht.
+
+Naast HR hoort ook een solide financiële administratie bij een georganiseerd bouwbedrijf. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vergelijken we systemen die goed koppelen met AFAS en andere bouw-ERP's.
+
+Bouwbedrijven die nieuwe opdrachtgevers structureel willen benaderen, vinden toegankelijke opties op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/).
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

@@ -103,6 +103,14 @@ Vraag jezelf bij de keuze deze drie dingen af: hoeveel facturen stuur je per maa
 
 Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om in vijf vragen te bepalen welke software bij jouw groeifase past. Of bereken direct de [kosten van boekhoudsoftware voor jouw eenmanszaak](/tools/boekhouding/kosten-berekenen/).
 
+## Handige vervolgstappen
+
+Een eenmanszaak die groeit heeft vroeg of laat een systeem nodig om klantcontacten en offertes bij te houden. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) staan toegankelijke CRM-opties die goed integreren met gangbare boekhoudsoftware.
+
+Als je eenmanszaak groeit naar je eerste medewerker, verandert ook de administratieve situatie ingrijpend. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) bespreken we welke systemen het beste ondersteunen bij die stap.
+
+Naast een goede financiële administratie hoort ook marketing bij een groeiende eenmanszaak. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) vergelijken we de meest gebruikte opties voor kleine teams.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

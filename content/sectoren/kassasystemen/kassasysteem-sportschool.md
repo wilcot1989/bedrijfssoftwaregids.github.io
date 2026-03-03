@@ -100,6 +100,14 @@ Lightspeed Retail is de sterkste keuze voor sportscholen die ook een serieuze wi
 
 Weet je nog niet welk kassasysteem voor jouw sportschool het beste werkt? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) voor een aanbeveling op maat. Bereken ook de [kassaystemen kosten per maand](/tools/kassasystemen/kosten-berekenen/) voor jouw situatie en vergelijk de [transactiekosten per betaalmethode](/tools/kassasystemen/transactiekosten-berekenen/) — bij een bar-omzet van €8.000/maand scheelt dat al snel €100 per maand.
 
+## Handige vervolgstappen
+
+Sportscholen met meerdere instructeurs en wisselende contracttypen hebben baat bij HR-software die verlof, roosters en salarisadministratie combineert. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) staan systemen die goed werken voor teams met flexibele contracten.
+
+Een sportschool met abonnementsomzet heeft een boekhoudsysteem nodig dat terugkerende inkomsten goed verwerkt. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vergelijken we systemen die hierop zijn ingericht.
+
+Nieuwe leden werven en bestaande leden behouden vraagt om gerichte marketing. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) staan tools voor e-mailcampagnes en automation die goed werken voor sportscholen.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

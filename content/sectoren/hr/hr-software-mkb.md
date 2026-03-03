@@ -105,6 +105,14 @@ Vraag jezelf ook af welke HR-processen nu het meeste tijd kosten. Als je wekelij
 
 Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een aanbeveling op maat voor jouw bedrijfsgrootte en sector. Bereken ook de [totale kosten van HR software](/tools/hr/kosten-berekenen/) inclusief implementatie, licenties en salarisverwerking.
 
+## Handige vervolgstappen
+
+HR-software en boekhouding integreren betekent dat salariskosten automatisch in de financiële administratie worden verwerkt. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vergelijken we systemen die koppelingen ondersteunen met AFAS, Loket.nl en Nmbrs.
+
+MKB-bedrijven die ook hun klantrelaties structureel willen beheren, vinden een vergelijking op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/).
+
+Als de HR-processen op orde zijn, is de volgende stap vaak het structureren van marketing. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) staan de meest gebruikte marketingtools voor teams van vijf tot vijftig mensen.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

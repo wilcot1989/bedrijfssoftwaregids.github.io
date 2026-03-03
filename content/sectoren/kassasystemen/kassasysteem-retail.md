@@ -100,6 +100,14 @@ Zettle is de eenvoudigste instap voor een winkel die primair PIN-betalingen wil 
 
 Twijfel je welk kassasysteem voor retail het beste bij jouw winkel past? Doe de [kassasysteem keuzehulp voor winkels](/tools/kassasystemen/keuzehulp/) en ontvang een aanbeveling op maat. Bereken ook de [kassaystemen kosten](/tools/kassasystemen/kosten-berekenen/) voor jouw situatie en vergelijk de [transactiekosten per betaalmethode](/tools/kassasystemen/transactiekosten-berekenen/) — want een "gratis" systeem is bij €15.000 omzet €263/maand duurder dan Lightspeed.
 
+## Handige vervolgstappen
+
+Een kassasysteem en boekhouding samen geven het meeste inzicht in de winstgevendheid per productgroep. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vergelijken we systemen die koppelingen ondersteunen met populaire retailkassa's.
+
+Retailers met meerdere medewerkers en wisselende roosters hebben baat bij gespecialiseerde HR-software. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) staan systemen die goed werken voor winkels met flexibel personeel.
+
+Fysieke retailers die ook online verkopen, profiteren van geautomatiseerde marketing. Op de pagina [marketing automation voor webshops](/sectoren/marketing/marketing-automation-webshops/) vergelijken we tools voor abandoned-cart flows en productaanbevelingen.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

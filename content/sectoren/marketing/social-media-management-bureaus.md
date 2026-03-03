@@ -103,6 +103,14 @@ Let bij de keuze ook op hoe je klanten content goedkeuren. Als je content ter re
 
 Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) voor een advies op maat voor jouw bureaugrootte en klantenportfolio. Bereken ook de [ROI van social media tools](/tools/marketing/roi-berekenen/).
 
+## Handige vervolgstappen
+
+Social media management voor klanten werkt efficiënter als klantcontact en rapportages worden bijgehouden in een CRM. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) vergelijken we systemen die goed werken voor bureaus en freelance professionals.
+
+Bureaus die hun klanten ook adviseren over bredere marketingstrategie, vinden een overzicht van tools op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/).
+
+Een groeiend bureau heeft ook een solide financiële administratie nodig naast zijn social media tools. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vergelijken we systemen die goed schaalbaar zijn voor professionele dienstverleners.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

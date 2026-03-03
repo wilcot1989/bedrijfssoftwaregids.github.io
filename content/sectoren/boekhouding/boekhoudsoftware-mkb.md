@@ -103,6 +103,14 @@ Een veelgemaakte fout bij MKB-bedrijven is het onderschatten van implementatieti
 
 Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) voor een advies dat aansluit bij de omvang en complexiteit van jouw organisatie. Bereken ook de [totale softwarekosten voor jouw MKB](/tools/boekhouding/kosten-berekenen/) inclusief implementatie en licenties.
 
+## Handige vervolgstappen
+
+Boekhoudsoftware werkt het beste in combinatie met een CRM dat klantdata en facturatie verbindt. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) vind je een vergelijking van CRM-systemen die veelgebruikte boekhoudpakketten ondersteunen.
+
+MKB-bedrijven die hun boekhouding professionaliseren, doen dat vaak tegelijk met hun HR-administratie. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) bespreken we welke systemen goed integreren met AFAS, Exact Online en Snelstart.
+
+Een solide financiële basis stelt je in staat om gerichter te investeren in marketing. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) vergelijken we de meest gebruikte marketingtools voor teams van vijf tot vijftig mensen.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

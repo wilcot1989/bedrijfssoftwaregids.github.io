@@ -101,6 +101,14 @@ e-Boekhouden.nl is al meer dan twintig jaar een vaste naam in de Nederlandse mar
 
 Weet je nog niet welke boekhoudsoftware bij jou past? Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om in vijf vragen een concreet advies te krijgen. Of bereken vooraf de [kosten van boekhoudsoftware voor jouw situatie](/tools/boekhouding/kosten-berekenen/).
 
+## Handige vervolgstappen
+
+Als ZZP'er groeit je klantenbestand snel, en dan is een CRM handig om afspraken en offertes gestructureerd bij te houden. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) vind je een overzicht van lichtgewicht CRM-tools die goed combineren met boekhoudsoftware.
+
+Naast je boekhouding is e-mailmarketing een directe manier om in contact te blijven met klanten zonder veel tijdsinvestering. Op de pagina [e-mail marketing voor ZZP'ers](/sectoren/marketing/email-marketing-zzp/) vergelijken we de meest betaalbare opties voor kleine lijsten.
+
+Als je overweegt voor het eerst iemand in dienst te nemen, is het goed om je te verdiepen in wat dat administratief betekent. Op de pagina [HR software voor ZZP'ers](/sectoren/hr/hr-software-zzp/) bespreken we welke tools je helpen bij je eerste medewerker.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

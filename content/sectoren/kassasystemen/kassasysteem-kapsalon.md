@@ -100,6 +100,14 @@ Voor kapsalons en schoonheidscentra die ook een uitgebreide winkel runnen — me
 
 Nog onzeker welk kassasysteem voor jouw kapsalon het beste werkt? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) voor een advies op maat. Bereken ook de [kassaystemen kosten](/tools/kassasystemen/kosten-berekenen/) per maand voor jouw salongrootte, en vergelijk de [transactiekosten per betaalmethode](/tools/kassasystemen/transactiekosten-berekenen/) zodat je weet of transactiekosten of een vast abonnement voordeliger uitpakt.
 
+## Handige vervolgstappen
+
+Een kassasysteem geeft meer inzicht als de omzetdata automatisch doorstroomt naar je boekhouding. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we betaalbare systemen die veelgebruikte kapperskassa's ondersteunen.
+
+Kapsalons die een medewerker in dienst nemen, hebben ook HR-software nodig voor salarisadministratie en verlofregistratie. Op de pagina [HR software voor ZZP'ers](/sectoren/hr/hr-software-zzp/) staan lichtgewichte opties voor kleine teams.
+
+Een klantenkaart bijhouden en afspraakherinneringen sturen werkt beter met een eenvoudig CRM. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) vind je toegankelijke CRM-opties die ook voor zelfstandige kappers geschikt zijn.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

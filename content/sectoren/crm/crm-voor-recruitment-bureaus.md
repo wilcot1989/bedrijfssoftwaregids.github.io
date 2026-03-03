@@ -96,6 +96,14 @@ Sommige recruitmentbureaus werken meer account-based: je hebt vaste opdrachtgeve
 
 Nog twijfels? Gebruik de [CRM keuzehulp voor recruitmentbureaus](/tools/crm/keuzehulp/) voor een advies op maat. Bereken vooraf de [CRM kosten voor jouw bureaugrootte](/tools/crm/kosten-berekenen/) en de [ROI van een geïntegreerd CRM+ATS systeem](/tools/crm/roi-berekenen/).
 
+## Handige vervolgstappen
+
+Recruitmentbureaus beheren zowel kandidaten als opdrachtgevers; een CRM dekt de klantrelaties en HR-software de interne personeelsadministratie. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) staan de meest gebruikte opties voor middelgrote bureaus.
+
+Kandidaten en opdrachtgevers bereiken vraagt om meer dan een CRM alleen. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) vergelijken we welke marketingtools goed combineren met een recruitmentsysteem.
+
+Voor een recruitmentbureau met meerdere medewerkers is ook een solide boekhoudsysteem nodig. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) staan systemen die goed schaalbaar zijn voor groeiende dienstverleners.
+
 {{< sector-cta-crm >}}
 
 ## Lees ook
