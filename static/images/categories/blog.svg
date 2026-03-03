@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg_blog" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1e3a5f"/>
-      <stop offset="100%" style="stop-color:#0f2439"/>
+      <stop offset="0%" style="stop-color:#0c4a6e"/>
+      <stop offset="100%" style="stop-color:#064e6e"/>
     </linearGradient>
     <linearGradient id="tg_blog" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#2563eb"/>
-      <stop offset="100%" style="stop-color:#1d4ed8"/>
+      <stop offset="0%" style="stop-color:#0891b2"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
     </linearGradient>
   </defs>
 
@@ -33,8 +33,8 @@
   </g>
 
   <!-- Decorative background circles -->
-  <circle cx="250" cy="480" r="200" fill="#2563eb" opacity="0.06"/>
-  <circle cx="950" cy="180" r="240" fill="#1d4ed8" opacity="0.05"/>
+  <circle cx="250" cy="480" r="200" fill="#0891b2" opacity="0.06"/>
+  <circle cx="950" cy="180" r="240" fill="#06b6d4" opacity="0.05"/>
 
   <!-- === ARTICLE CARD - Large center === -->
   <rect x="380" y="160" width="440" height="310" rx="16" fill="#ffffff" opacity="0.1"/>
@@ -51,11 +51,11 @@
   <rect x="410" y="334" width="370" height="6" rx="3" fill="#ffffff" opacity="0.2"/>
   <rect x="410" y="350" width="280" height="6" rx="3" fill="#ffffff" opacity="0.15"/>
   <!-- Tags -->
-  <rect x="410" y="390" width="60" height="22" rx="11" fill="#2563eb" opacity="0.3"/>
-  <rect x="480" y="390" width="50" height="22" rx="11" fill="#2563eb" opacity="0.3"/>
-  <rect x="540" y="390" width="70" height="22" rx="11" fill="#2563eb" opacity="0.3"/>
+  <rect x="410" y="390" width="60" height="22" rx="11" fill="#0891b2" opacity="0.3"/>
+  <rect x="480" y="390" width="50" height="22" rx="11" fill="#0891b2" opacity="0.3"/>
+  <rect x="540" y="390" width="70" height="22" rx="11" fill="#0891b2" opacity="0.3"/>
   <!-- Read more -->
-  <rect x="410" y="430" width="100" height="8" rx="4" fill="#2563eb" opacity="0.5"/>
+  <rect x="410" y="430" width="100" height="8" rx="4" fill="#0891b2" opacity="0.5"/>
 
   <!-- === ARTICLE CARD - Left small === -->
   <rect x="80" y="200" width="240" height="200" rx="14" fill="#ffffff" opacity="0.08"/>
@@ -66,8 +66,8 @@
   <rect x="100" y="304" width="200" height="5" rx="2.5" fill="#ffffff" opacity="0.15"/>
   <rect x="100" y="318" width="180" height="5" rx="2.5" fill="#ffffff" opacity="0.15"/>
   <rect x="100" y="332" width="160" height="5" rx="2.5" fill="#ffffff" opacity="0.12"/>
-  <rect x="100" y="364" width="45" height="18" rx="9" fill="#2563eb" opacity="0.2"/>
-  <rect x="152" y="364" width="55" height="18" rx="9" fill="#2563eb" opacity="0.2"/>
+  <rect x="100" y="364" width="45" height="18" rx="9" fill="#0891b2" opacity="0.2"/>
+  <rect x="152" y="364" width="55" height="18" rx="9" fill="#0891b2" opacity="0.2"/>
 
   <!-- === ARTICLE CARD - Right small === -->
   <rect x="880" y="230" width="240" height="200" rx="14" fill="#ffffff" opacity="0.08"/>
@@ -78,8 +78,8 @@
   <rect x="900" y="334" width="200" height="5" rx="2.5" fill="#ffffff" opacity="0.15"/>
   <rect x="900" y="348" width="180" height="5" rx="2.5" fill="#ffffff" opacity="0.15"/>
   <rect x="900" y="362" width="160" height="5" rx="2.5" fill="#ffffff" opacity="0.12"/>
-  <rect x="900" y="394" width="45" height="18" rx="9" fill="#2563eb" opacity="0.2"/>
-  <rect x="952" y="394" width="55" height="18" rx="9" fill="#2563eb" opacity="0.2"/>
+  <rect x="900" y="394" width="45" height="18" rx="9" fill="#0891b2" opacity="0.2"/>
+  <rect x="952" y="394" width="55" height="18" rx="9" fill="#0891b2" opacity="0.2"/>
 
   <!-- === PENCIL ICON - top right of main card === -->
   <g transform="translate(770, 140) rotate(-45)">
@@ -88,9 +88,9 @@
   </g>
 
   <!-- Scattered decorative dots -->
-  <circle cx="500" cy="130" r="3" fill="#2563eb" opacity="0.3"/>
-  <circle cx="700" cy="520" r="4" fill="#2563eb" opacity="0.2"/>
+  <circle cx="500" cy="130" r="3" fill="#0891b2" opacity="0.3"/>
+  <circle cx="700" cy="520" r="4" fill="#0891b2" opacity="0.2"/>
   <circle cx="180" cy="450" r="3" fill="#ffffff" opacity="0.1"/>
   <circle cx="1020" cy="480" r="4" fill="#ffffff" opacity="0.1"/>
-  <circle cx="600" cy="540" r="3" fill="#2563eb" opacity="0.15"/>
+  <circle cx="600" cy="540" r="3" fill="#0891b2" opacity="0.15"/>
 </svg>
