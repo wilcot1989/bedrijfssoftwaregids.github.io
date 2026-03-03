@@ -5,7 +5,7 @@
     <div class="container wide">
       <div class="breadcrumb breadcrumb-light">
         <a href="/">Home</a> &rsaquo;
-        {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a> &rsaquo; {{ end }}
+        {{ if .Params.categories }}{{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a> &rsaquo; {{ end }}{{ else if .Parent }}<a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &rsaquo; {{ end }}
         {{ .Title }}
       </div>
       <h1 class="article-hero-title">{{ .Title }}</h1>
@@ -21,7 +21,7 @@
   <article>
     <div class="breadcrumb">
       <a href="/">Home</a> &rsaquo;
-      {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a> &rsaquo; {{ end }}
+      {{ if .Params.categories }}{{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a> &rsaquo; {{ end }}{{ else if .Parent }}<a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &rsaquo; {{ end }}
       {{ .Title }}
     </div>
     {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</div>{{ end }}

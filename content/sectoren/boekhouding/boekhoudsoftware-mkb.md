@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Boekhoudsoftware voor MKB vergelijken: Exact Online, AFAS en Twinfield op multi-user, rapportages en ERP-integratie. Start de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+featured_image: "images/categories/boekhouding.svg"
 
-categories:
-  - boekhouding
 tags:
   - boekhouding
   - sector
