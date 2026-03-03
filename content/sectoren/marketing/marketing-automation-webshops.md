@@ -103,6 +103,14 @@ De grootste gemiste kans bij webshops is het niet opzetten van een abandoned-car
 
 Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) voor een aanbeveling op basis van jouw webshopplatform en omzetschaal. Bereken ook de [marketing ROI](/tools/marketing/roi-berekenen/) om te zien wat automation jou oplevert.
 
+## Handige vervolgstappen
+
+Webshops die ook een fysieke winkel hebben, profiteren van een kassasysteem dat omnichannel voorraadbeheer ondersteunt. Op de pagina [kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/) vergelijken we systemen die goed combineren met e-commerce platforms.
+
+Marketing automation die omzet genereert, moet ook aansluiten op je financiële administratie. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) staan systemen die koppelingen ondersteunen met Shopify, WooCommerce en Klaviyo.
+
+Webshops die ook een B2B-klantensegment bedienen, hebben baat bij een CRM naast hun marketingtool. Op de pagina [CRM voor SaaS-startups](/sectoren/crm/crm-voor-saas-startups/) staan lichtgewichte CRM-opties die goed werken voor snelgroeiende e-commerce bedrijven.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

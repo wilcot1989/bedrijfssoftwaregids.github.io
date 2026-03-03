@@ -102,6 +102,14 @@ De grootste fout die ondernemers maken bij hun eerste personeelslid is de salari
 
 Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) om in vijf vragen te bepalen welke tool het beste aansluit bij jouw situatie. Bereken ook de [kosten van HR software voor jouw team](/tools/hr/kosten-berekenen/) inclusief licentie en salarisverwerking.
 
+## Handige vervolgstappen
+
+HR-software en boekhoudsoftware werken het best als ze gekoppeld zijn, zodat salariskosten automatisch in de boekhouding verwerkt worden. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we systemen die populaire HR-tools ondersteunen.
+
+Als ZZP'er met een eerste medewerker groeit ook je klantenbestand, en dan is een CRM handig om alle contacten bij te houden. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) staan lichtgewichte CRM-opties die goed passen bij zelfstandigen.
+
+E-mailmarketing is naast HR een effectieve manier om je klantrelaties te onderhouden zonder veel tijdsinvestering. Op de pagina [e-mail marketing voor ZZP'ers](/sectoren/marketing/email-marketing-zzp/) vergelijken we de meest betaalbare opties voor kleine lijsten.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

@@ -98,6 +98,14 @@ Orderbird is de specialist voor cafés en kleinere horecazaken met maximaal 60 c
 
 Nog niet zeker welk POS systeem voor horeca bij jou past? Gebruik de [kassasysteem keuzehulp voor horeca](/tools/kassasystemen/keuzehulp/) — beantwoord vijf vragen en ontvang een concreet advies. Bereken ook de [totale kassaystemen kosten per maand](/tools/kassasystemen/kosten-berekenen/) inclusief hardware, en vergelijk de [transactiekosten per betaalmethode](/tools/kassasystemen/transactiekosten-berekenen/) om te zien of een gratis systeem echt goedkoper is.
 
+## Handige vervolgstappen
+
+Een kassasysteem is het meest efficiënt als het direct koppelt met je boekhouding. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we systemen die veelgebruikte kassasystemen ondersteunen.
+
+Horecaondernemers die ook hun personeelsplanning willen automatiseren, vinden een vergelijking op de pagina [HR software voor horeca](/sectoren/hr/hr-software-horeca/).
+
+Horeca die ook online bestellingen of cadeaubonnen verkoopt, heeft baat bij marketing automation. Op de pagina [marketing automation voor webshops](/sectoren/marketing/marketing-automation-webshops/) staan tools die goed combineren met e-commerce in de horeca.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

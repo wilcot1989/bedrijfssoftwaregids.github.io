@@ -103,6 +103,14 @@ De combinatie van Leadinfo en HubSpot is krachtig: Leadinfo identificeert welke 
 
 Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) voor een aanbeveling op basis van jouw salesproces en leadvolume. Bereken ook de [ROI van leadgeneratiesoftware](/tools/marketing/roi-berekenen/) op basis van je gemiddelde orderwaarde.
 
+## Handige vervolgstappen
+
+Leadgeneratiesoftware is pas echt krachtig als de gegenereerde leads automatisch worden overgedragen aan een CRM. Op de pagina [CRM voor SaaS-startups](/sectoren/crm/crm-voor-saas-startups/) vergelijken we lichtgewichte CRM-opties die goed koppelen met leadgeneratietools.
+
+Naast leadgeneratie hoort ook een bredere marketingstrategie bij een serieus B2B-bedrijf. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) staan systemen voor e-mail, automation en campagnebeheer.
+
+B2B-bedrijven die hun salesproces professionaliseren, doen dat vaak tegelijk met hun financiële administratie. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vergelijken we systemen die goed integreren met CRM en salestools.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

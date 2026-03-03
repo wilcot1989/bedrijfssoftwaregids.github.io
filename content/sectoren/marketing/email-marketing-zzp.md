@@ -102,6 +102,14 @@ Begin klein maar begin nu. Een e-maillijst van 200 geinteresseerde contacten die
 
 Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) om te bepalen welke tool het beste aansluit bij jouw werkwijze en klantenportefeuille. Bereken ook de [kosten van e-mailmarketing](/tools/marketing/kosten-berekenen/) per jaar inclusief de waarde van je tijd.
 
+## Handige vervolgstappen
+
+ZZP'ers die e-mailmarketing inzetten als onderdeel van hun bedrijfsvoering, hebben ook baat bij overzichtelijke boekhoudsoftware. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we betaalbare opties die goed passen bij de schaal van een eenmanszaak.
+
+E-mailmarketing en een eenvoudig CRM vullen elkaar goed aan: je nieuwsbriefsoftware bereikt je lijst, het CRM houdt individuele klantrelaties bij. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) staan lichtgewichte opties die goed werken voor zelfstandige professionals.
+
+Als je klantbestand groeit en je overweegt een eerste medewerker aan te nemen, is het goed om je te oriënteren op HR-software. Op de pagina [HR software voor ZZP'ers](/sectoren/hr/hr-software-zzp/) bespreken we welke tools je helpen bij die stap.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

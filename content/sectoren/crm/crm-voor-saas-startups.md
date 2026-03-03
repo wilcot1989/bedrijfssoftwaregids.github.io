@@ -93,6 +93,14 @@ Salesforce Starter (vroeger Essentials) is het instappunt van het meest krachtig
 
 Nog onzeker? Gebruik de [CRM keuzehulp voor SaaS-startups](/tools/crm/keuzehulp/) om op basis van jouw groeifase en model een aanbeveling te krijgen. Bereken ook de [maandelijkse CRM kosten per teamlid](/tools/crm/kosten-berekenen/) en de [verwachte ROI van jouw CRM](/tools/crm/roi-berekenen/) voordat je een keuze maakt.
 
+## Handige vervolgstappen
+
+Een CRM voor SaaS-bedrijven is pas echt krachtig als het gevoed wordt door een goede leadgeneratietool. Op de pagina [leadgeneratie software voor B2B](/sectoren/marketing/leadgeneratie-software-b2b/) vergelijken we systemen die B2B-websitebezoekers identificeren.
+
+Snelgroeiende SaaS-startups schalen hun team snel op, en dan is HR-software geen luxe meer. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) staan de meest gebruikte opties voor teams in de groeifase.
+
+Naast CRM en HR hoort ook een solide financiële administratie bij een serieuze SaaS-onderneming. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vind je een vergelijking van de meest gebruikte systemen.
+
 {{< sector-cta-crm >}}
 
 ## Lees ook

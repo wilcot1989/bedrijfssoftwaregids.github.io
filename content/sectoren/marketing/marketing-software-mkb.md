@@ -102,6 +102,14 @@ Een tip die ik elke MKB-ondernemer meegeef: begin met het bijhouden van je conta
 
 Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) om in vijf vragen een aanbeveling te krijgen voor jouw situatie. Bereken ook de [marketing ROI](/tools/marketing/roi-berekenen/) om te weten welke investering rendeert.
 
+## Handige vervolgstappen
+
+Marketingsoftware levert meer op als de leads die het genereert automatisch worden overgedragen aan een CRM. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) vind je een vergelijking van CRM-systemen die veelgebruikte marketingtools ondersteunen.
+
+MKB-bedrijven die naast marketing ook hun financiële administratie willen professionaliseren, vinden een vergelijking op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/).
+
+Als marketinginvestering vruchten afwerpt en je team groeit, wordt ook HR-software relevanter. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) staan systemen die goed schaalbaar zijn voor groeiende bedrijven.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

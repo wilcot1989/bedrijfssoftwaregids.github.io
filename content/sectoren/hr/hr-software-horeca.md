@@ -105,6 +105,14 @@ Let bij de keuze ook op hoe snel je nieuwe medewerkers kunt onboarden. In de hor
 
 Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een gepersonaliseerd advies op basis van jouw personeelsomvang en planningscomplexiteit. Bereken ook de [kosten van HR software voor jouw horecabedrijf](/tools/hr/kosten-berekenen/).
 
+## Handige vervolgstappen
+
+HR-software en een kassasysteem vormen samen de kern van de operationele bedrijfsvoering in de horeca. Op de pagina [kassasysteem voor horeca](/sectoren/kassasystemen/kassasysteem-horeca/) vergelijken we systemen die koppelingen ondersteunen met HR- en salarissoftware.
+
+Horecaondernemers die ook hun boekhouding willen automatiseren, vinden een vergelijking op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/).
+
+Horeca die ook online bestellingen accepteert of cadeaubonnen verkoopt, heeft baat bij marketing automation. Op de pagina [marketing automation voor webshops](/sectoren/marketing/marketing-automation-webshops/) staan tools die goed combineren met online verkoop in de horeca.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

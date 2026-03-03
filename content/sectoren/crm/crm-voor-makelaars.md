@@ -93,6 +93,14 @@ Realworks is niet zomaar een CRM — het is specifiek gebouwd voor de Nederlands
 
 Weet je nog niet welk systeem het beste past? Gebruik de [CRM keuzehulp voor makelaars](/tools/crm/keuzehulp/) om in vijf vragen een concreet advies te krijgen. Of bereken vooraf de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de verwachte [ROI van je CRM-investering](/tools/crm/roi-berekenen/).
 
+## Handige vervolgstappen
+
+Een CRM werkt het best in combinatie met tools die nieuwe leads aanleveren voordat ze zelf contact opnemen. Op de pagina [leadgeneratie software voor B2B](/sectoren/marketing/leadgeneratie-software-b2b/) staan systemen die websitebezoekers identificeren en doorsturen naar je CRM.
+
+Makelaars die naast hun CRM ook hun financiële administratie willen stroomlijnen, vinden een vergelijking op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/).
+
+Als je makelaarskantoor groeit, raakt ook de HR-administratie complexer. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) bespreken we welke systemen goed schaalbaar zijn voor groeiende teams.
+
 {{< sector-cta-crm >}}
 
 ## Lees ook

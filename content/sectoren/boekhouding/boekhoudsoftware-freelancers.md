@@ -105,6 +105,14 @@ Denk ook na over hoe je je uren registreert. Als je veel projecten parallel doet
 
 Wil je weten welke tool het beste past bij jouw projectstructuur en klantenportefeuille? Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) voor een aanbeveling op maat. Bereken ook de [kosten van boekhoudsoftware per jaar](/tools/boekhouding/kosten-berekenen/) zodat je weet wat je daadwerkelijk kwijt bent.
 
+## Handige vervolgstappen
+
+Als freelancer werk je met meerdere opdrachtgevers tegelijk, en een CRM helpt om offertes, projecten en contactmomenten bij te houden. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) staan lichtgewicht CRM-tools die goed passen bij freelancers.
+
+E-mailmarketing is voor freelancers een van de meest directe manieren om nieuwe opdrachten te genereren. Op de pagina [e-mail marketing voor ZZP'ers](/sectoren/marketing/email-marketing-zzp/) vind je een vergelijking van betaalbare tools voor kleine lijsten.
+
+Als je als freelancer overweegt iemand aan te nemen, verandert je administratieve situatie ingrijpend. Op de pagina [HR software voor ZZP'ers](/sectoren/hr/hr-software-zzp/) bespreken we welke tools je helpen bij die eerste stap.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

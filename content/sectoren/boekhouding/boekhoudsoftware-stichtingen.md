@@ -101,6 +101,14 @@ AFAS is in de zorg- en welzijnssector een veelgebruikt systeem en richt zich spe
 
 Weet je nog niet welk systeem het beste past bij jouw stichting? Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) voor een advies op maat. Bereken ook de [totale softwarekosten voor jouw organisatie](/tools/boekhouding/kosten-berekenen/) inclusief implementatie en ondersteuning.
 
+## Handige vervolgstappen
+
+Stichtingen in de zorgsector hebben naast boekhouding ook te maken met complexe HR-vraagstukken zoals CAO Zorg en BIG-registraties. Op de pagina [HR software voor zorg](/sectoren/hr/hr-software-zorg/) vind je een vergelijking van systemen die hierop zijn ingericht.
+
+Donateurs en subsidiegevers bijhouden vraagt om een gestructureerd relatiebeheersysteem naast de financiële administratie. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) staan toegankelijke CRM-opties die ook voor non-profitorganisaties geschikt zijn.
+
+Een stichting die haar doelgroep wil bereiken heeft baat bij een basale marketingtool voor nieuwsbrieven en campagnes. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) vergelijken we welke tools ook voor non-profit goed werken.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

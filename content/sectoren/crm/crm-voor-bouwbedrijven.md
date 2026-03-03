@@ -92,6 +92,14 @@ Heb je een actief acquisiteam dat offertes uitbrengt en klanten bezoekt? Dan is 
 
 Twijfel je nog? Gebruik de [CRM keuzehulp voor bouwbedrijven](/tools/crm/keuzehulp/) — in vijf vragen krijg je een concreet advies afgestemd op jouw bedrijfsgrootte en werkwijze. Bereken ook de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de [ROI van jouw CRM-investering](/tools/crm/roi-berekenen/) om de businesscase te maken.
 
+## Handige vervolgstappen
+
+CRM en HR hangen in de bouwsector nauw samen: contacten met opdrachtgevers en beheer van projectmedewerkers vragen elk een eigen systeem. Op de pagina [HR software voor bouw](/sectoren/hr/hr-software-bouw/) vind je een vergelijking van tools die specifiek op de bouwsector zijn gericht.
+
+Naast klantbeheer hoort ook een degelijke financiële administratie bij een georganiseerd bouwbedrijf. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vergelijken we systemen die goed koppelen met projectbeheersoftware.
+
+Bouwbedrijven die nieuwe opdrachtgevers willen bereiken, kunnen ook marketing structureler aanpakken. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) staan toegankelijke opties voor bedrijven zonder dedicated marketeer.
+
 {{< sector-cta-crm >}}
 
 ## Lees ook

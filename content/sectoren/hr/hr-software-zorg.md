@@ -105,6 +105,14 @@ Denk ook aan de koppeling tussen verzuim en bedrijfscontinuiteit. In de zorg kan
 
 Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een gepersonaliseerd advies voor jouw zorgorganisatie. Bereken ook de [kosten van HR software voor zorg](/tools/hr/kosten-berekenen/) inclusief implementatie en licenties.
 
+## Handige vervolgstappen
+
+Zorgorganisaties met ANBI-status of een stichtingsvorm hebben specifieke boekhoudbehoeften naast hun HR-vraagstukken. Op de pagina [boekhoudsoftware voor stichtingen](/sectoren/boekhouding/boekhoudsoftware-stichtingen/) vergelijken we systemen die hierop zijn ingericht.
+
+Zorgorganisaties die ook donateurs, partners of verwijzers structureel willen bijhouden, hebben baat bij een eenvoudig CRM. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) staan toegankelijke opties die ook voor non-profit werken.
+
+Zorgorganisaties die hun doelgroep willen bereiken via nieuwsbrieven of campagnes, vinden geschikte tools op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/).
+
 {{< sector-cta-hr >}}
 
 ## Lees ook
