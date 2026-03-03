@@ -1,7 +1,7 @@
 ---
 title: "Moneybird Review 2026: Eerlijk Oordeel na 4 Weken"
-date: 2026-04-01T10:00:00+02:00
-lastmod: 2026-04-01T10:00:00+02:00
+date: 2026-04-04
+lastmod: 2026-04-04
 description: "Moneybird review 2026: prijzen, functies, voor- en nadelen na 4 weken testen. Ontdek of dit boekhoudpakket bij jouw bedrijf past."
 categories: ["boekhouding"]
 tags: ["moneybird", "boekhoudsoftware", "moneybird review", "boekhouden zzp", "btw-aangifte", "facturatie software", "online boekhouden"]

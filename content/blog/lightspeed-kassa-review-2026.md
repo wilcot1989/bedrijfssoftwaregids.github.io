@@ -1,7 +1,7 @@
 ---
 title: "Lightspeed Kassa Review 2026: Getest"
-date: 2026-04-04T10:00:00+02:00
-lastmod: 2026-04-04T10:00:00+02:00
+date: 2026-04-08
+lastmod: 2026-04-08
 description: "Mijn eerlijke Lightspeed review na 3 jaar testen. Lees over prijzen, functies, bezorgkoppelingen en nadelen. Ontdek of het bij jouw zaak past."
 categories: ["kassasystemen"]
 tags: ["Kassasysteem", "Lightspeed", "Horeca", "Retail", "POS", "Review"]

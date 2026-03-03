@@ -1,7 +1,7 @@
 ---
 title: "Beste Helpdesk Software 2026: Top 5"
-date: 2026-03-19
-lastmod: 2026-03-19
+date: 2026-03-20
+lastmod: 2026-03-20
 description: "De beste helpdesk software van 2026 vergeleken. Zendesk, Freshdesk, HubSpot Service Hub, Intercom en Trengo op prijs, functies en gebruiksgemak."
 categories: ["crm"]
 tags: ["klantenservice software", "helpdesk", "Zendesk", "Freshdesk", "ticketing systeem"]

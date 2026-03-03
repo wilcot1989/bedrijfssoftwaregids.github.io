@@ -1,7 +1,7 @@
 ---
 title: "HubSpot CRM Review 2026: Compleet Getest"
-date: 2026-04-02T10:00:00+02:00
-lastmod: 2026-04-02T10:00:00+02:00
+date: 2026-04-05
+lastmod: 2026-04-05
 description: "Eerlijke HubSpot CRM review na jarenlang testen. Ontdek functies, prijzen, voor- en nadelen voor het Nederlandse MKB. Met Trustpilot- en G2-scores."
 categories: ["crm"]
 tags: ["CRM", "HubSpot", "Sales", "Marketing", "MKB", "Review"]

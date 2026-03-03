@@ -1,7 +1,7 @@
 ---
 title: "Pipedrive vs Monday CRM 2026: Welke Past?"
-date: 2026-04-09T10:00:00+02:00
-lastmod: 2026-04-09T10:00:00+02:00
+date: 2026-04-14
+lastmod: 2026-04-14
 description: "Pipedrive vs Monday CRM: eerlijke vergelijking op prijs, functies en gebruiksgemak. Ontdek welke CRM bij jouw team past — met scores en echte kosten."
 categories: ["crm"]
 tags: ["CRM", "Pipedrive", "Monday.com", "Vergelijking", "MKB"]

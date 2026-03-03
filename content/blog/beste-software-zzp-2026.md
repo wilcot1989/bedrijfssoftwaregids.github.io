@@ -1,7 +1,7 @@
 ---
 title: "Beste ZZP Tools 2026: Software voor Zelfstandigen"
-date: 2026-04-20
-lastmod: 2026-04-20
+date: 2026-04-28
+lastmod: 2026-04-28
 description: "De beste ZZP tools van 2026: boekhouding, CRM, urenregistratie, offertes en meer. Compleet overzicht van software die elke zelfstandige nodig heeft."
 categories: ["productiviteit"]
 tags: ["ZZP tools", "zzp software", "freelancer tools", "software zelfstandigen"]

@@ -1,7 +1,7 @@
 ---
 title: "Mollie Review 2026: Betaalprovider Getest"
-date: 2026-04-07T10:00:00+02:00
-lastmod: 2026-04-07T10:00:00+02:00
+date: 2026-04-11
+lastmod: 2026-04-11
 description: "Eerlijke Mollie review 2026: transactiekosten per betaalmethode, dashboard, integraties en ervaringen. Ontdek of Mollie past bij jouw webshop of platform."
 categories: ["webshops"]
 tags: ["Betalen", "Mollie", "Webshop", "iDEAL", "MKB", "Review"]

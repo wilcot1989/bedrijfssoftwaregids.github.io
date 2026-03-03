@@ -1,7 +1,7 @@
 ---
 title: "Lightspeed vs Untill 2026: Welke Kassa Kies Je?"
-date: 2026-04-11
-lastmod: 2026-04-11
+date: 2026-04-16
+lastmod: 2026-04-16
 description: "Lightspeed of Untill voor jouw horecazaak? Ik vergelijk prijs, functies, integraties, support en gebruiksgemak. Met actuele prijzen en review scores."
 categories: ["kassasystemen"]
 tags: ["lightspeed", "untill", "kassasysteem", "horeca", "vergelijking"]

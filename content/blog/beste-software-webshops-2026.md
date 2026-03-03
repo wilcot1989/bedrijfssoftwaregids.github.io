@@ -1,7 +1,7 @@
 ---
 title: "Webshop Starten: Welke Software Heb Je Nodig? (2026)"
-date: 2026-04-19
-lastmod: 2026-04-19
+date: 2026-04-26
+lastmod: 2026-04-26
 description: "Welke software heb je nodig voor een webshop? Compleet overzicht: platform, betaalprovider, verzending, marketing en boekhouding. Met kosten per budget."
 categories: ["webshops"]
 tags: ["webshop starten", "e-commerce stack", "online verkopen", "webshop tools"]

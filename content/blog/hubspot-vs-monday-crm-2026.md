@@ -1,7 +1,7 @@
 ---
 title: "HubSpot vs Monday CRM 2026: Welke Kies Je?"
-date: 2026-04-13
-lastmod: 2026-04-13
+date: 2026-04-19
+lastmod: 2026-04-19
 description: "HubSpot vs Monday CRM eerlijk vergeleken op prijs, functies, integraties en gebruiksgemak. Ontdek welk CRM bij jouw bedrijf past -- met actuele prijzen en reviewscores."
 categories: ["crm"]
 tags: ["hubspot", "monday crm", "crm vergelijking", "crm software"]

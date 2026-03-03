@@ -1,7 +1,7 @@
 ---
 title: "Beste ATS-Software Nederland 2026: Top 5"
-date: 2026-03-27
-lastmod: 2026-03-27
+date: 2026-03-30
+lastmod: 2026-03-30
 description: "De beste recruitment software en ATS systemen van 2026 vergeleken. Recruitee, Homerun, Personio, Greenhouse en Bullhorn op prijs, functies en gebruiksgemak."
 categories: ["hr-software"]
 tags: ["recruitment software", "ATS", "applicant tracking", "werving", "HR software"]
