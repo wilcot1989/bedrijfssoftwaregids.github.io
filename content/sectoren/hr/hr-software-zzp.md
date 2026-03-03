@@ -102,6 +102,12 @@ De grootste fout die ondernemers maken bij hun eerste personeelslid is de salari
 
 Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) om in vijf vragen te bepalen welke tool het beste aansluit bij jouw situatie. Bereken ook de [kosten van HR software voor jouw team](/tools/hr/kosten-berekenen/) inclusief licentie en salarisverwerking.
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 HR-software en boekhoudsoftware werken het best als ze gekoppeld zijn, zodat salariskosten automatisch in de boekhouding verwerkt worden. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we systemen die populaire HR-tools ondersteunen.

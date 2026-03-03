@@ -92,6 +92,12 @@ Heb je een actief acquisiteam dat offertes uitbrengt en klanten bezoekt? Dan is 
 
 Twijfel je nog? Gebruik de [CRM keuzehulp voor bouwbedrijven](/tools/crm/keuzehulp/) — in vijf vragen krijg je een concreet advies afgestemd op jouw bedrijfsgrootte en werkwijze. Bereken ook de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de [ROI van jouw CRM-investering](/tools/crm/roi-berekenen/) om de businesscase te maken.
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 CRM en HR hangen in de bouwsector nauw samen: contacten met opdrachtgevers en beheer van projectmedewerkers vragen elk een eigen systeem. Op de pagina [HR software voor bouw](/sectoren/hr/hr-software-bouw/) vind je een vergelijking van tools die specifiek op de bouwsector zijn gericht.

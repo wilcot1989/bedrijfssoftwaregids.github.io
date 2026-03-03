@@ -103,6 +103,12 @@ Vraag jezelf bij de keuze deze drie dingen af: hoeveel facturen stuur je per maa
 
 Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om in vijf vragen te bepalen welke software bij jouw groeifase past. Of bereken direct de [kosten van boekhoudsoftware voor jouw eenmanszaak](/tools/boekhouding/kosten-berekenen/).
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Een eenmanszaak die groeit heeft vroeg of laat een systeem nodig om klantcontacten en offertes bij te houden. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) staan toegankelijke CRM-opties die goed integreren met gangbare boekhoudsoftware.

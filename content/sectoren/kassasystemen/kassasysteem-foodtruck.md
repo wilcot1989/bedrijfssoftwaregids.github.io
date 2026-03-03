@@ -100,6 +100,12 @@ SumUp is de meest compacte en goedkoopste instap voor foodtrucks en marktkramen.
 
 Let op transactiekosten: bij €5.000 omzet per maand kost 1,75% je €87,50 in transactiekosten. Bereken de [transactiekosten voor jouw foodtruck](/tools/kassasystemen/transactiekosten-berekenen/) om te zien wanneer een vast abonnement voordeliger wordt. Gebruik ook de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) voor een advies op maat en vergelijk de [totale maandkosten](/tools/kassasystemen/kosten-berekenen/) per systeem.
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Een kassasysteem in een foodtruck werkt het meest efficiënt als de omzetdata automatisch gesynchroniseerd wordt met je boekhouding. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we systemen die mobiele kassasystemen ondersteunen.

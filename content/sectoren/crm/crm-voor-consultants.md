@@ -93,6 +93,12 @@ Teamleader is een Nederlandse speler die CRM, projectmanagement en facturatie co
 
 Nog niet zeker? Gebruik de [CRM keuzehulp voor adviesbureaus](/tools/crm/keuzehulp/) — beantwoord vijf vragen en krijg een aanbeveling afgestemd op jouw werkwijze. Bereken ook de [CRM kosten per consultant](/tools/crm/kosten-berekenen/) en de [ROI van professioneel relatiebeheer](/tools/crm/roi-berekenen/).
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Een CRM is het meest waardevol als het aangevuld wordt met een leadgeneratietool die nieuwe opdrachtgevers identificeert. Op de pagina [leadgeneratie software voor B2B](/sectoren/marketing/leadgeneratie-software-b2b/) vergelijken we systemen die websitebezoekers herkennen en doorsturen naar je CRM.

@@ -100,6 +100,12 @@ Voor kapsalons en schoonheidscentra die ook een uitgebreide winkel runnen — me
 
 Nog onzeker welk kassasysteem voor jouw kapsalon het beste werkt? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) voor een advies op maat. Bereken ook de [kassaystemen kosten](/tools/kassasystemen/kosten-berekenen/) per maand voor jouw salongrootte, en vergelijk de [transactiekosten per betaalmethode](/tools/kassasystemen/transactiekosten-berekenen/) zodat je weet of transactiekosten of een vast abonnement voordeliger uitpakt.
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Een kassasysteem geeft meer inzicht als de omzetdata automatisch doorstroomt naar je boekhouding. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we betaalbare systemen die veelgebruikte kapperskassa's ondersteunen.

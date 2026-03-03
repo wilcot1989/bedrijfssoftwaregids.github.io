@@ -102,6 +102,12 @@ Een tip die ik elke MKB-ondernemer meegeef: begin met het bijhouden van je conta
 
 Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) om in vijf vragen een aanbeveling te krijgen voor jouw situatie. Bereken ook de [marketing ROI](/tools/marketing/roi-berekenen/) om te weten welke investering rendeert.
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Marketingsoftware levert meer op als de leads die het genereert automatisch worden overgedragen aan een CRM. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) vind je een vergelijking van CRM-systemen die veelgebruikte marketingtools ondersteunen.
