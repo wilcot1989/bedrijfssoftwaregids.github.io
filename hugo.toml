@@ -56,7 +56,7 @@ theme = "starter"
     weight = 1
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "Sitemap"]
 
 [sitemap]
   changefreq = "weekly"
