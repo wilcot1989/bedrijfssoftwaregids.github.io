@@ -25,8 +25,6 @@ faq:
       pagina boekhoudsoftware per sector vind je een overzicht van systemen die
       deze koppeling ondersteunen.
 
-categories:
-  - kassasystemen
 tags:
   - kassasystemen
   - sector
