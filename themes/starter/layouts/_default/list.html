@@ -1,7 +1,7 @@
 {{ define "main" }}
-{{ $slug := .Section | default (.Title | urlize) }}
-{{ with .Data.Term }}{{ $slug = . }}{{ end }}
-<div class="article-hero" style="background-image: url('/images/categories/{{ $slug }}.svg');">
+{{ $heroImage := "" }}
+{{ with .Params.featured_image }}{{ $heroImage = printf "/%s" (strings.TrimPrefix "/" .) }}{{ else }}{{ $slug := .Section | default (.Title | urlize) }}{{ with $.Data.Term }}{{ $slug = . }}{{ end }}{{ $heroImage = printf "/images/categories/%s.svg" $slug }}{{ end }}
+<div class="article-hero" style="background-image: url('{{ $heroImage }}');">
   <div class="article-hero-overlay">
     <div class="container wide">
       <div class="breadcrumb breadcrumb-light">

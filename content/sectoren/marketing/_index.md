@@ -2,6 +2,7 @@
 title: "Marketing software per sector -- keuzehulp per doelgroep"
 date: 2026-03-03
 lastmod: 2026-03-03
+featured_image: "images/categories/marketing.svg"
 description: "Welke marketing software past bij jouw situatie? Vergelijk tools voor MKB, webshops, ZZP, bureaus en B2B-bedrijven. Met keuzehulp en ROI-berekening."
 faq:
   - q: "Wat is marketing automation en heb ik het nodig?"

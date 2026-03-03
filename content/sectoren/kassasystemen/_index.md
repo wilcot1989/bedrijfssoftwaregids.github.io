@@ -2,6 +2,7 @@
 title: "Kassasysteem per branche -- keuzehulp per sector"
 date: 2026-03-03
 lastmod: 2026-03-03
+featured_image: "images/categories/kassasystemen.svg"
 description: "Welk kassasysteem past bij jouw branche? Vergelijk POS-systemen voor horeca, retail, kapsalon, foodtruck en sportschool. Met keuzehulp en kosten-berekenen."
 faq:
   - q: "Wat is het verschil tussen een kassasysteem en een betaalterminal?"

@@ -2,6 +2,7 @@
 title: "HR software per doelgroep -- keuzehulp per sector"
 date: 2026-03-03
 lastmod: 2026-03-03
+featured_image: "images/categories/hr-software.svg"
 description: "Welke HR software past bij jouw organisatie? Vergelijk tools voor ZZP, MKB, horeca, bouw en zorg. Met keuzehulp en kostenvergelijking."
 faq:
   - q: "Wat is het verschil tussen HR software en salarisadministratie?"

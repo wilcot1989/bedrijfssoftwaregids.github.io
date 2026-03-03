@@ -2,6 +2,7 @@
 title: "Boekhoudsoftware per doelgroep -- keuzehulp per sector"
 date: 2026-03-03
 lastmod: 2026-03-03
+featured_image: "images/categories/boekhouding.svg"
 description: "Welke boekhoudsoftware past bij jouw situatie? Vergelijk tools voor ZZP, eenmanszaak, MKB, freelancers en stichtingen. Met keuzehulp en kostenvergelijking."
 faq:
   - q: "Wat kost boekhoudsoftware gemiddeld per maand?"
