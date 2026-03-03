@@ -116,7 +116,7 @@ Als je makelaarskantoor groeit, raakt ook de HR-administratie complexer. Op de p
 
 ## Lees ook
 
-- **[Beste CRM software Nederland 2026](/posts/beste-crm-software-nederland-2026/)** — Uitgebreide vergelijking van alle CRM-systemen
-- **[CRM voor makelaars: uitgebreide review](/posts/crm-voor-makelaars-2026/)** — Meer detail over software voor de vastgoedbranche
-- **[HubSpot CRM review 2026](/posts/hubspot-crm-review-2026/)** — Diepgaande beoordeling van HubSpot
+- **[Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/)** — Uitgebreide vergelijking van alle CRM-systemen
+- **[CRM voor makelaars: uitgebreide review](/blog/crm-voor-makelaars-2026/)** — Meer detail over software voor de vastgoedbranche
+- **[HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/)** — Diepgaande beoordeling van HubSpot
 - **[CRM voor consultants](/sectoren/crm/crm-voor-consultants/)** — Andere adviesgerichte sector

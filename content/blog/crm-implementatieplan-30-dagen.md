@@ -83,6 +83,6 @@ Na dertig dagen staat het fundament. De komende maanden bouw je de inrichting ve
 
 ## Lees ook
 
-- [Beste CRM software 2026 vergelijken](/posts/beste-crm-software-nederland-2026/) — complete vergelijking met prijzen en reviews
+- [Beste CRM software 2026 vergelijken](/blog/beste-crm-software-nederland-2026/) — complete vergelijking met prijzen en reviews
 
 Wil je direct CRM software vergelijken? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/).

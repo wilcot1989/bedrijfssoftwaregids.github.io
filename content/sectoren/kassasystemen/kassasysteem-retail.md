@@ -125,5 +125,5 @@ Fysieke retailers die ook online verkopen, profiteren van geautomatiseerde marke
 
 - **[Kassasysteem voor kapsalon](/sectoren/kassasystemen/kassasysteem-kapsalon/)** — Schoonheidssalons en kappers
 - **[Kassasysteem voor sportschool](/sectoren/kassasystemen/kassasysteem-sportschool/)** — Fitness en gym
-- **[Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/)** — Vergelijking voor de horecasector
+- **[Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/)** — Vergelijking voor de horecasector
 - **[Alle kassasystemen vergelijken](/categories/kassasystemen/)** — Compleet overzicht met filteropties

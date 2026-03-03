@@ -83,6 +83,6 @@ Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) als je twijfelt of het huidige
 
 ## Lees ook
 
-- [Beste CRM software 2026 vergelijken](/posts/beste-crm-software-nederland-2026/) — welk systeem past bij jouw bedrijf?
+- [Beste CRM software 2026 vergelijken](/blog/beste-crm-software-nederland-2026/) — welk systeem past bij jouw bedrijf?
 
 Wil je direct CRM software vergelijken? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/).

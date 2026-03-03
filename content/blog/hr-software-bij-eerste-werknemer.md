@@ -89,6 +89,6 @@ Een goed HR-systeem neemt de administratieve druk weg zodat jij je kunt focussen
 
 ## Lees ook
 
-- [Beste HR software Nederland 2026](/posts/beste-hr-software-nederland-2026/) — vergelijk HR-pakketten voor startende werkgevers
+- [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — vergelijk HR-pakketten voor startende werkgevers
 
 Wil je direct HR software vergelijken? Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/).

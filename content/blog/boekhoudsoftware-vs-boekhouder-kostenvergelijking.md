@@ -87,6 +87,6 @@ De kosten zijn het makkelijkste deel van de vergelijking. Het moeilijkere deel i
 
 ## Lees ook
 
-- [Beste boekhoudsoftware voor ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/) — vergelijk pakketten op prijs en functies
+- [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — vergelijk pakketten op prijs en functies
 
 Wil je direct boekhoudsoftware vergelijken? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

@@ -91,6 +91,6 @@ Stel een volgorde op en richt elke maand één nieuwe integratie in. Na drie maa
 
 ## Lees ook
 
-- [Beste CRM software 2026 vergelijken](/posts/beste-crm-software-nederland-2026/) — ontdek welk CRM de beste integraties biedt
+- [Beste CRM software 2026 vergelijken](/blog/beste-crm-software-nederland-2026/) — ontdek welk CRM de beste integraties biedt
 
 Wil je direct CRM software vergelijken? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/).

@@ -89,6 +89,6 @@ Cloud-systemen lossen dit automatisch op: data wordt extern opgeslagen en is ook
 
 ## Lees ook
 
-- [Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/) — cloud en lokale systemen vergeleken
+- [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — cloud en lokale systemen vergeleken
 
 Wil je direct kassasystemen vergelijken? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

@@ -95,6 +95,6 @@ In de offertes die ik voor klanten beoordeel, ontbreekt de inrichtingstijd struc
 
 ## Lees ook
 
-- [Beste email marketing software 2026](/posts/beste-email-marketing-software-2026/) — platforms met marketing automation vergeleken
+- [Beste email marketing software 2026](/blog/beste-email-marketing-software-2026/) — platforms met marketing automation vergeleken
 
 Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/).

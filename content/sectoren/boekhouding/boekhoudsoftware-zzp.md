@@ -124,7 +124,7 @@ Als je overweegt voor het eerst iemand in dienst te nemen, is het goed om je te 
 
 ## Lees ook
 
-- **[Beste boekhoudsoftware ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** -- Uitgebreide vergelijking voor zelfstandigen
+- **[Beste boekhoudsoftware ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/)** -- Uitgebreide vergelijking voor zelfstandigen
 - **[Boekhoudsoftware voor freelancers](/sectoren/boekhouding/boekhoudsoftware-freelancers/)** -- Specifiek voor projectgebaseerd werk
 - **[Boekhoudsoftware voor eenmanszaak](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/)** -- Als je groeiplannen hebt
 - **[Alle boekhoudsoftware vergelijken](/categories/boekhouding/)** -- Compleet overzicht

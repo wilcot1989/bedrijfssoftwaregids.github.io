@@ -40,7 +40,7 @@ tags:
 
 HR software is een van de meest onderschatte categorieën bedrijfssoftware. Veel ondernemers beginnen met een simpele spreadsheet voor de salarisadministratie, misschien aangevuld met een losstaand tijdregistratiesysteem. Dat werkt -- tot het moment dat je eerste medewerker in dienst treedt en je ineens te maken krijgt met loonheffingstabellen, CAO-verplichtingen, verlofregistratie en arbeidscontracten.
 
-Bekijk ook de complete vergelijking: [Beste HR software Nederland 2026](/posts/beste-hr-software-nederland-2026/) — alle HR-pakketten op een rij met prijzen en reviews.
+Bekijk ook de complete vergelijking: [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — alle HR-pakketten op een rij met prijzen en reviews.
 
 HR software bundelt al deze taken in één systeem. De beste pakketten berekenen automatisch het bruto-nettoloon inclusief de correcte loonheffing, registreren gewerkte uren per project of locatie, houden verlofrechten bij en zorgen dat salarisstroken op tijd uitgestuurd worden. Ze koppelen bovendien met je boekhoudsoftware zodat salariskosten direct in de financiële administratie verwerkt worden -- zonder dat je bedragen handmatig overtikt.
 

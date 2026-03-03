@@ -116,7 +116,7 @@ Naast CRM en HR hoort ook een solide financiële administratie bij een serieuze 
 
 ## Lees ook
 
-- **[Beste CRM software Nederland 2026](/posts/beste-crm-software-nederland-2026/)** — Uitgebreide vergelijking
-- **[HubSpot vs Pipedrive 2026](/posts/hubspot-vs-pipedrive-2026/)** — Directe vergelijking
-- **[HubSpot CRM review 2026](/posts/hubspot-crm-review-2026/)** — Diepgaande beoordeling
+- **[Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/)** — Uitgebreide vergelijking
+- **[HubSpot vs Pipedrive 2026](/blog/hubspot-vs-pipedrive-2026/)** — Directe vergelijking
+- **[HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/)** — Diepgaande beoordeling
 - **[CRM voor consultants](/sectoren/crm/crm-voor-consultants/)** — Adviesgerichte sector

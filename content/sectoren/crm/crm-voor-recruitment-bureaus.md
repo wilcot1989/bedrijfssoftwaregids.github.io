@@ -119,7 +119,7 @@ Voor een recruitmentbureau met meerdere medewerkers is ook een solide boekhoudsy
 
 ## Lees ook
 
-- **[Beste recruitment software 2026](/posts/beste-recruitment-software-2026/)** — Uitgebreide vergelijking van ATS-systemen
-- **[Beste CRM software Nederland 2026](/posts/beste-crm-software-nederland-2026/)** — Algemeen CRM-overzicht
-- **[HubSpot CRM review 2026](/posts/hubspot-crm-review-2026/)** — Diepgaande HubSpot-beoordeling
+- **[Beste recruitment software 2026](/blog/beste-recruitment-software-2026/)** — Uitgebreide vergelijking van ATS-systemen
+- **[Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/)** — Algemeen CRM-overzicht
+- **[HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/)** — Diepgaande HubSpot-beoordeling
 - **[CRM voor consultants](/sectoren/crm/crm-voor-consultants/)** — Verwante adviseurenbranche

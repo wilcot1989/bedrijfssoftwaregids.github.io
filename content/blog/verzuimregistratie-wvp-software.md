@@ -99,6 +99,6 @@ Goed verzuimbeleid begint bij een cultuur waarin medewerkers zich veilig voelen 
 
 ## Lees ook
 
-- [Beste HR software Nederland 2026](/posts/beste-hr-software-nederland-2026/) — HR software met verzuimregistratie vergeleken
+- [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — HR software met verzuimregistratie vergeleken
 
 Wil je direct HR software vergelijken? Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/).
