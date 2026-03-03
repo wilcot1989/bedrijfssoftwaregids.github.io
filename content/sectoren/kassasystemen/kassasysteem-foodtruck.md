@@ -80,7 +80,7 @@ SumUp is de meest compacte en goedkoopste instap voor foodtrucks en marktkramen.
 
 **Prijs:** Software gratis. Transactiekosten: 1,69% per betaling. SumUp Air reader: €39. SumUp 3G: €69.
 
-<a href="https://sumup.nl/" target="_blank" rel="noopener noreferrer">Bekijk SumUp →</a>
+<a href="https://sumup.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk SumUp →</a>
 
 ---
 
