@@ -2,6 +2,7 @@
 title: "CRM software per sector -- keuzehulp per branche"
 date: 2026-03-03
 lastmod: 2026-03-03
+featured_image: "images/categories/crm.svg"
 description: "Welk CRM past bij jouw branche? Sector-specifieke aanbevelingen voor makelaars, bouwbedrijven, recruitmentbureaus, SaaS-startups en consultants."
 faq:
   - q: "Wat is het verschil tussen een CRM en een klantendatabase in Excel?"
