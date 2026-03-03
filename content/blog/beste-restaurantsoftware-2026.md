@@ -1,7 +1,7 @@
 ---
 title: "Beste Horeca Software 2026: Top 5"
-date: 2026-04-18
-lastmod: 2026-04-18
+date: 2026-04-25
+lastmod: 2026-04-25
 description: "Welke horeca software past bij jouw zaak? Ik testte 5 systemen op kassa, reserveringen, voorraadbeheer en keukenmanagement. Met actuele prijzen en vergelijkingstabel."
 categories: ["kassasystemen"]
 tags: ["horeca software", "reserveringssysteem", "restaurantsoftware", "horeca management"]

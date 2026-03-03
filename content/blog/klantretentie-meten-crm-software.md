@@ -1,7 +1,7 @@
 ---
 title: "Klantretentie meten en verbeteren met CRM-software"
-date: 2026-04-30
-lastmod: 2026-04-30
+date: 2026-05-02
+lastmod: 2026-05-02
 description: "Hoe meet en verbeter je klantretentie met CRM-software? KPI's, churn-signalen en concrete strategieën. Behoud je bestaande klanten en verhoog je omzet."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."

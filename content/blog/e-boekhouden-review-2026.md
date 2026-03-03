@@ -1,7 +1,7 @@
 ---
 title: "e-Boekhouden Review 2026: Eerlijk Oordeel"
-date: 2026-04-05T10:00:00+02:00
-lastmod: 2026-04-05T10:00:00+02:00
+date: 2026-04-09
+lastmod: 2026-04-09
 description: "Eerlijke e-Boekhouden review 2026: prijzen, functies, BTW-aangifte en ervaringen na 3 maanden testen. Ontdek of het bij jouw bedrijf past."
 categories: ["boekhouding"]
 tags: ["Boekhouding", "e-Boekhouden", "ZZP", "MKB", "Review"]

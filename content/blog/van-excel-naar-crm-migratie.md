@@ -1,7 +1,7 @@
 ---
 title: "Van Excel naar CRM: migratie zonder dataverlies"
-date: 2026-03-11
-lastmod: 2026-03-11
+date: 2026-03-08
+lastmod: 2026-03-08
 description: "Stap van Excel over naar een CRM zonder dataverlies. Praktisch migratieplan met voorbereiding, opschoning en importtips. Doe de gratis CRM keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."

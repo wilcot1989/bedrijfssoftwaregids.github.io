@@ -1,7 +1,7 @@
 ---
 title: "CRM-data opschonen: stappenplan voor betere datakwaliteit"
-date: 2026-04-22
-lastmod: 2026-04-22
+date: 2026-04-07
+lastmod: 2026-04-07
 description: "CRM-data vervuild? Stappenplan voor het opschonen van duplicaten, verouderde contacten en onvolledige records. Verhoog je conversie met schone data."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."

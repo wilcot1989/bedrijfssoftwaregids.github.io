@@ -1,7 +1,7 @@
 ---
 title: "A/B testen voor beginners: je eerste experiment opzetten"
-date: 2026-04-26
-lastmod: 2026-04-26
+date: 2026-04-22
+lastmod: 2026-04-22
 description: "A/B testen starten zonder ervaring? Stap-voor-stap je eerste experiment opzetten. Van hypothese tot resultaat. Met tools en voorbeelden voor MKB."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."

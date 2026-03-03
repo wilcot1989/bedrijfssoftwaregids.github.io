@@ -1,7 +1,7 @@
 ---
 title: "Twinfield vs Moneybird 2026: Welke Kies Je?"
-date: 2026-03-21
-lastmod: 2026-03-21
+date: 2026-03-22
+lastmod: 2026-03-22
 description: "Twinfield vs Moneybird vergeleken op prijs, functies, gebruiksgemak en geschiktheid. Ontdek welk boekhoudpakket het beste past bij jouw bedrijf."
 categories: ["boekhouding"]
 tags: ["Twinfield", "Moneybird", "boekhoudsoftware", "boekhouding vergelijking", "ZZP"]

@@ -1,7 +1,7 @@
 ---
 title: "Beste Fysiotherapie Software 2026: Top 5"
-date: 2026-04-15
-lastmod: 2026-04-15
+date: 2026-04-21
+lastmod: 2026-04-21
 description: "Vergelijk de 5 beste fysiotherapie software pakketten van 2026. Van EPD en agenda tot declaraties en oefenprogramma's — inclusief prijzen, voor- en nadelen."
 categories: ["productiviteit"]
 tags: ["fysiotherapie software", "EPD", "praktijkbeheer", "declaratie", "zorgverleners"]

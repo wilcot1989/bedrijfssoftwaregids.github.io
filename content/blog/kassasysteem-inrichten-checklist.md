@@ -1,7 +1,7 @@
 ---
 title: "Kassasysteem inrichten: checklist voor een vlekkeloze opening"
-date: 2026-04-24
-lastmod: 2026-04-24
+date: 2026-04-12
+lastmod: 2026-04-12
 description: "Kassasysteem inrichten voor je opening? Complete checklist met artikelen, BTW-tarieven, betaalmethoden en training. Voorkom stress op dag één."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."

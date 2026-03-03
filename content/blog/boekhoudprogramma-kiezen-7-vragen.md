@@ -1,7 +1,7 @@
 ---
 title: "Boekhoudprogramma kiezen: 7 vragen die je moet stellen"
-date: 2026-03-15
-lastmod: 2026-03-15
+date: 2026-03-13
+lastmod: 2026-03-13
 description: "Welk boekhoudprogramma past bij jouw bedrijf? Stel deze 7 vragen voordat je kiest. Met concrete tips voor ZZP, BV en MKB. Vergelijk direct."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."

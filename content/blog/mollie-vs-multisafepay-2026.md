@@ -1,7 +1,7 @@
 ---
 title: "Mollie vs MultiSafepay 2026: Welke Kies Je?"
-date: 2026-04-12
-lastmod: 2026-04-12
+date: 2026-04-18
+lastmod: 2026-04-18
 description: "Mollie vs MultiSafepay vergeleken op transactiekosten, betaalmethoden, integraties en support. Ontdek welke betaalprovider het beste past bij jouw webshop of platform in 2026."
 categories: ["webshops"]
 tags: ["mollie", "multisafepay", "betaalprovider", "online betalen", "vergelijking"]

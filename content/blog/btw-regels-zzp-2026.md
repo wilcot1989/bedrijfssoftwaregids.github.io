@@ -1,7 +1,7 @@
 ---
 title: "BTW-regels voor ZZP'ers in 2026: wat verandert er?"
-date: 2026-03-31
-lastmod: 2026-03-31
+date: 2026-04-02
+lastmod: 2026-04-02
 description: "Welke BTW-regels gelden voor ZZP'ers in 2026? KOR-grens, BTW-aangifte, intracommunautaire diensten en aftrek. Praktische tips en veelgemaakte fouten."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."

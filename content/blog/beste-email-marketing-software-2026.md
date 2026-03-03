@@ -1,7 +1,7 @@
 ---
 title: "Beste E-mailmarketing Software 2026: Top 5"
-date: 2026-04-29
-lastmod: 2026-04-29
+date: 2026-05-03
+lastmod: 2026-05-03
 description: "De 6 beste e-mailmarketing software tools voor Nederland vergeleken op prijs, automatisering, deliverability en gebruiksgemak. Met actuele prijzen, eerlijke voor- en nadelen en concrete aanbevelingen per bedrijfstype."
 categories: ["marketing"]
 tags: ["e-mailmarketing software", "nieuwsbrief software", "marketing automation", "mailing"]
