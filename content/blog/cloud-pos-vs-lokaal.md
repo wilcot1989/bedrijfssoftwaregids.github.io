@@ -76,4 +76,4 @@ Een aandachtspunt bij lokale systemen is dataverlies bij hardwaredefecten. Als d
 
 Cloud-systemen lossen dit automatisch op: data wordt extern opgeslagen en is ook bij hardware-uitval direct beschikbaar zodra een vervangend apparaat is geconfigureerd. Bij lokale systemen is een geautomatiseerde dagelijkse backup naar een externe locatie of cloudopslag een minimale verplichting.
 
-Wil je direct kassasystemen vergelijken? Gebruik onze [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).
+Wil je direct kassasystemen vergelijken? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

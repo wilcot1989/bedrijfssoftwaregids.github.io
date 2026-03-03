@@ -301,7 +301,7 @@ Technisch kan het, maar ik raad het af. De meeste pakketten bieden import/export
 
 ## Interactieve hulp
 
-Twijfel je nog? Gebruik onze gratis tools:
+Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/boekhouding/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Kosten calculator](/tools/boekhouding/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
 - **[ZZP of BV berekenen](/tools/boekhouding/zzp-bv-berekenen/)** — Bereken of een BV fiscaal voordelig is

@@ -68,4 +68,4 @@ Voor [bouwbedrijven](/sectoren/crm/crm-voor-bouwbedrijven/) die werken met lange
 
 Na dertig dagen staat het fundament. De komende maanden bouw je de inrichting verder uit op basis van wat je in de praktijk tegenkomt -- dat is altijd het beste startpunt.
 
-Wil je direct CRM software vergelijken? Gebruik onze [CRM keuzehulp](/tools/crm/keuzehulp/).
+Wil je direct CRM software vergelijken? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/).

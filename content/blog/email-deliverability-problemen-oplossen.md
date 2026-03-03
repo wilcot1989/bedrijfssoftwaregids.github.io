@@ -78,4 +78,4 @@ AVG-compliance heeft een directe impact op deliverability. E-mailmarketing aan c
 
 Gebruik altijd een dubbele opt-in waarbij de ontvanger zijn aanmelding bevestigt via een bevestigingsmail. Dat verlaagt de lijstgrootte maar verhoogt de kwaliteit en de betrokkenheid, wat direct ten goede komt aan de deliverability. Zodra de deliverability op orde is, is automation de logische volgende stap; wat dat in de praktijk oplevert lees je in [Marketing automation ROI: 4 voorbeelden](/blog/marketing-automation-roi-voorbeelden/).
 
-Wil je direct marketingsoftware vergelijken? Gebruik onze [marketing keuzehulp](/tools/marketing/keuzehulp/).
+Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/).

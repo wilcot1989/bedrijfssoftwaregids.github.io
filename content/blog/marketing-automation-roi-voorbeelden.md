@@ -74,4 +74,4 @@ Marketing automation vereist een initiële investering in content en inrichting 
 
 Reken die tijd mee tegen jouw uurtarief. Als je een marketingmedewerker inzet of een bureau inschakelt, zijn de kosten navenant hoger. De ROI is pas positief als de automation meer oplevert dan de totale investering in platform plus inrichting plus onderhoud.
 
-Wil je direct marketingsoftware vergelijken? Gebruik onze [marketing keuzehulp](/tools/marketing/keuzehulp/).
+Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/).

@@ -76,4 +76,4 @@ Sla je BTW-aangiften op als pdf voor je eigen administratie. De Belastingdienst 
 
 Een volledig overzicht van opties per doelgroep biedt de [boekhoudsoftware sectorgids](/sectoren/boekhouding/).
 
-Wil je direct boekhoudsoftware vergelijken? Gebruik onze [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).
+Wil je direct boekhoudsoftware vergelijken? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

@@ -72,4 +72,4 @@ Neem altijd een gratis proefperiode van minimaal twee weken voor je een abonneme
 
 De [kosten berekenen tool voor boekhoudsoftware](/tools/boekhouding/kosten-berekenen/) helpt je de totaalkosten voor jouw situatie in kaart te brengen. Een volledig overzicht per bedrijfsgrootte vind je op de [boekhoudsoftware sectorpagina](/sectoren/boekhouding/).
 
-Wil je direct boekhoudsoftware vergelijken? Gebruik onze [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).
+Wil je direct boekhoudsoftware vergelijken? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

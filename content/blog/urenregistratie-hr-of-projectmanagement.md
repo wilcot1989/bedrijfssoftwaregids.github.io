@@ -76,4 +76,4 @@ Als je twijfelt welke richting je kiest, stel dan de vraag: wie heeft de meeste 
 
 In de meeste bedrijven is de behoefte aan beide. Kies dan het systeem dat het meest gebruikt wordt door het dagelijkse team en bouw van daaruit een koppeling naar het andere. Een half-ingerichte dubbele oplossing is altijd beter dan een volledig genegeerd alternatief.
 
-Wil je direct HR software vergelijken? Gebruik onze [HR software keuzehulp](/tools/hr-software/keuzehulp/).
+Wil je direct HR software vergelijken? Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/).

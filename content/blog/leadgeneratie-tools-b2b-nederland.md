@@ -76,4 +76,4 @@ Voor [social media management bureaus](/sectoren/marketing/social-media-manageme
 
 Een volledig overzicht van marketing automation en leadgeneratie platforms staat op de [marketing software sectorgids](/sectoren/marketing/).
 
-Wil je direct marketingsoftware vergelijken? Gebruik onze [marketing keuzehulp](/tools/marketing/keuzehulp/).
+Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/).

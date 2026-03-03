@@ -103,7 +103,7 @@ Een veelgemaakte fout bij het MKB is HR-software kiezen op basis van prijs per g
 
 Vraag jezelf ook af welke HR-processen nu het meeste tijd kosten. Als je wekelijks uren kwijt bent aan verlofaanvragen via e-mail, is een medewerkerportaal de prioriteit. Als je salarisfouten maakt door handmatige invoer, is geautomatiseerde salarisverwerking de eerste stap. HR-software lost niet alles tegelijk op -- begin met het proces dat het meeste pijn doet en bouw van daaruit verder.
 
-Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een aanbeveling op maat voor jouw bedrijfsgrootte en sector. Bereken ook de [totale kosten van HR software](/tools/hr/kosten-berekenen/) inclusief implementatie, licenties en salarisverwerking.
+Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een aanbeveling op maat voor jouw bedrijfsgrootte en sector. Bereken ook de [totale kosten van HR software](/tools/hr-software/kosten-berekenen/) inclusief implementatie, licenties en salarisverwerking.
 
 ## Hoe wij vergelijken
 
@@ -127,4 +127,4 @@ Als de HR-processen op orde zijn, is de volgende stap vaak het structureren van 
 - **[HR software voor horeca](/sectoren/hr/hr-software-horeca/)** -- Flexibele roosters en oproepkrachten
 - **[Boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/)** -- Koppel HR aan je financiele administratie
 - **[CRM software voor consultants](/sectoren/crm/crm-voor-consultants/)** -- Volledige bedrijfssoftware stack voor MKB
-- **[Alle HR software vergelijken](/categories/hr/)** -- Compleet overzicht met filteropties
+- **[Alle HR software vergelijken](/categories/hr-software/)** -- Compleet overzicht met filteropties

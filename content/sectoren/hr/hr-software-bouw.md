@@ -103,7 +103,7 @@ De grootste pijnpunt in de bouw is het handmatig overtypen van urenbriefjes naar
 
 Vergeet ook de VCA-administratie niet. In de bouw is het een wettelijke vereiste dat medewerkers de juiste veiligheidscertificaten hebben voordat ze een bouwplaats betreden. HR-software die automatisch bijhoudt wanneer certificaten verlopen en hierover tijdig een melding stuurt, voorkomt boetes en gevaarlijke situaties. Alleen AFAS biedt dit uit de doos; bij Loket.nl en Nmbrs moet je dit handmatig bijhouden of via een externe oplossing regelen.
 
-Gebruik de [HR software keuzehulp](/tools/hr/keuzehulp/) voor een advies afgestemd op jouw bouwbedrijf. Bereken ook de [kosten van HR software voor bouwbedrijven](/tools/hr/kosten-berekenen/).
+Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een advies afgestemd op jouw bouwbedrijf. Bereken ook de [kosten van HR software voor bouwbedrijven](/tools/hr-software/kosten-berekenen/).
 
 ## Hoe wij vergelijken
 
@@ -125,4 +125,4 @@ Bouwbedrijven die nieuwe opdrachtgevers structureel willen benaderen, vinden toe
 
 - **[HR software voor MKB](/sectoren/hr/hr-software-mkb/)** -- Algemene HR-software vergelijking voor middelgrote bedrijven
 - **[CRM software voor bouwbedrijven](/sectoren/crm/crm-voor-bouwbedrijven/)** -- Beheer offertes en projecten
-- **[Alle HR software vergelijken](/categories/hr/)** -- Compleet overzicht met filteropties
+- **[Alle HR software vergelijken](/categories/hr-software/)** -- Compleet overzicht met filteropties

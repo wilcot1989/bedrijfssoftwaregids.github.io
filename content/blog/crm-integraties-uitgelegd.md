@@ -76,4 +76,4 @@ Niet elk bedrijf heeft de tijd en het budget om alle integraties tegelijk in te 
 
 Stel een volgorde op en richt elke maand één nieuwe integratie in. Na drie maanden heb je de meeste waardevolle koppelingen actief en kun je op basis van dagelijks gebruik bepalen of aanvullende integraties zinvol zijn. Hoe die eerste implementatiefase er stap voor stap uitziet, lees je in [CRM implementeren in 30 dagen](/blog/crm-implementatieplan-30-dagen/).
 
-Wil je direct CRM software vergelijken? Gebruik onze [CRM keuzehulp](/tools/crm/keuzehulp/).
+Wil je direct CRM software vergelijken? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/).
