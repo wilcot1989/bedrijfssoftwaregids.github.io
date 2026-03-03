@@ -1,12 +1,12 @@
 {{ define "main" }}
 {{ if .Params.featured_image }}
-<div class="article-hero" style="background-image: url('{{ .Params.featured_image }}');">
+<div class="article-hero" style="background-image: url('/{{ strings.TrimPrefix "/" .Params.featured_image }}');">
   <div class="article-hero-overlay">
     <div class="container wide">
       <div class="breadcrumb breadcrumb-light">
         <a href="/">Home</a> &rsaquo;
-        {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a>{{ end }}
-        &rsaquo; {{ .Title }}
+        {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a> &rsaquo; {{ end }}
+        {{ .Title }}
       </div>
       <h1 class="article-hero-title">{{ .Title }}</h1>
       {{ if not .Date.IsZero }}<div class="meta meta-light">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd{{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}{{ end }}</div>{{ end }}
@@ -21,8 +21,8 @@
   <article>
     <div class="breadcrumb">
       <a href="/">Home</a> &rsaquo;
-      {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a>{{ end }}
-      &rsaquo; {{ .Title }}
+      {{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a> &rsaquo; {{ end }}
+      {{ .Title }}
     </div>
     {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</div>{{ end }}
     <h1>{{ .Title }}</h1>
