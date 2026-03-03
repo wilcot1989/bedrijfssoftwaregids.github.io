@@ -79,7 +79,7 @@ Shiftbase is de tool die ik als eerste noem als een horecaondernemer me vraagt n
 - Rapportages in het basispakket zijn beperkt
 - Minder geschikt voor zeer grote internationale ketens
 
-[Probeer Shiftbase gratis](https://www.shiftbase.com/nl/)
+<a href="https://www.shiftbase.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shiftbase.com →</a>
 
 ---
 
@@ -116,7 +116,7 @@ Planday is het platform dat ik aanbeveel aan horecaketens met meerdere locaties.
 - Prijzen hoger dan sommige Nederlandse alternatieven
 - Geen gratis plan beschikbaar
 
-[Bekijk Planday](https://www.planday.com/nl/)
+<a href="https://www.planday.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar planday.com →</a>
 
 ---
 
@@ -154,7 +154,7 @@ Deputy is het platform waar ik naar verwijs als AI-roostering de doorslag moet g
 - Minder integraties met Nederlandse salarissoftware
 - Support in het Engels en op Amerikaanse tijden
 
-[Probeer Deputy gratis](https://www.deputy.com/nl)
+<a href="https://www.deputy.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar deputy.com →</a>
 
 ---
 
@@ -191,7 +191,7 @@ Workforce.com is enterprise-grade en dat merk je. Ik adviseer het alleen aan gro
 - Interface in het Engels
 - Minder specifiek gericht op de Nederlandse markt
 
-[Bekijk Workforce.com](https://workforce.com/nl/)
+<a href="https://workforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar workforce.com →</a>
 
 ---
 
@@ -228,7 +228,7 @@ Tamigo heeft zich bewezen bij namen als McDonald's en Burger King, en dat zegt i
 - Minder geschikt voor einzele horecazaken
 - Interface kan gedateerd aanvoelen
 
-[Bekijk Tamigo](https://www.tamigo.nl/)
+<a href="https://www.tamigo.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar tamigo.nl →</a>
 
 ---
 
@@ -266,7 +266,7 @@ Dyflexis is naast Shiftbase de andere Nederlandse specialist die ik vaak advisee
 - Minder geschikt voor internationale ketens
 - Implementatie kan enkele weken duren
 
-[Bekijk Dyflexis](https://www.dyflexis.nl/)
+<a href="https://www.dyflexis.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar dyflexis.nl →</a>
 
 ---
 

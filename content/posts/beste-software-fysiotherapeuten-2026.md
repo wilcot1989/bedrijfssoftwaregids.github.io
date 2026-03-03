@@ -172,7 +172,7 @@ De financiele kant is ook sterk. Declaraties gaan via VECOZO, en je boekhouding 
 - Marktaandeel daalt licht (2 procent in twee jaar) — concurrenten halen in
 - Overstap vanuit Intramed naar een ander systeem is complex
 
-[Bekijk Intramed](https://www.intramed.nl/beroepsgroepen/fysiotherapie/)
+<a href="https://www.intramed.nl/beroepsgroepen/fysiotherapie/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar intramed.nl →</a>
 
 ---
 
@@ -218,7 +218,7 @@ De helpdesk krijgt consistent goede reviews van gebruikers. Dat klinkt als een k
 - Minder BI-functionaliteit dan Intramed Insight
 - Eenmalige opstartkosten kunnen oplopen
 
-[Bekijk FysioRoadmap](https://www.hci-software.com/fysioroadmap/)
+<a href="https://www.hci-software.com/fysioroadmap/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hci-software.com →</a>
 
 ---
 
@@ -266,7 +266,7 @@ De klinimetrie is uitgebreid, met meetinstrumenten, testen en vragenlijsten die 
 - MijnZorgtoegang patientenportaal is een betaalde add-on
 - Minder bekende naam dan Intramed
 
-[Bekijk Fysiomanager](https://fysiomanager.nl/)
+<a href="https://fysiomanager.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar fysiomanager.nl →</a>
 
 ---
 
@@ -313,7 +313,7 @@ Het patientenportaal is sterk: patienten boeken zelf afspraken, ontvangen oefenp
 - Prijzen vereisen simulatie op de website (niet direct zichtbaar)
 - Minder community-ondersteuning in Nederland
 
-[Bekijk Crossuite](https://www.crossuite.com/nl_nl/software-fysiotherapie/)
+<a href="https://www.crossuite.com/nl_nl/software-fysiotherapie/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar crossuite.com →</a>
 
 ---
 
@@ -360,7 +360,7 @@ Wat je inlevert ten opzichte van de duurdere pakketten: de interface is minder g
 - Minder integraties met externe systemen
 - Minder persoonlijke ondersteuning bij de overstap
 
-[Bekijk SpotOnMedics](https://spotonmedics.nl/)
+<a href="https://spotonmedics.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar spotonmedics.nl →</a>
 
 ---
 

@@ -107,7 +107,7 @@ De interface kan overweldigend zijn voor kleine teams. Zoveel tabbladen, zoveel 
 
 En die Trustpilot-reviews? De terugkerende klacht is het jaarlijkse contract dat automatisch verlengt. Meerdere gebruikers melden dat opzeggen moeizaam gaat. Dat is iets om vooraf goed uit te zoeken.
 
-[Start gratis met HubSpot CRM](https://www.hubspot.com/nl)
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ---
 
@@ -137,7 +137,7 @@ De rapportages zijn solide maar niet diep. Voor management dat cross-departement
 
 En het integratieaanbod (400+) is kleiner dan bij HubSpot (1.500+). In de praktijk heb ik zelden meegemaakt dat een klant een koppeling miste, maar als je een nichetool gebruikt, check dan vooraf of de integratie bestaat.
 
-[Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
+<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
 

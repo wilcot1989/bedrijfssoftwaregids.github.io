@@ -77,7 +77,7 @@ Het gratis plan is zo beperkt (maximaal 10 facturen per jaar) dat het eigenlijk 
 
 Voor de meeste ZZP'ers is het Standaard-plan van €14,50 het sweet spot. Je krijgt onbeperkte boekingen en bankkoppeling — alles wat je nodig hebt. Benieuwd hoe Moneybird zich verhoudt tot e-Boekhouden? Lees mijn uitgebreide [Moneybird vs e-Boekhouden vergelijking](/posts/moneybird-vs-e-boekhouden-2026/).
 
-[Start gratis met Moneybird](https://www.moneybird.nl/)
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -111,7 +111,7 @@ De prijs. €39/maand voor het instappakket is fors als je tien facturen per maa
 
 Het verschil met Moneybird is substantieel: €39 vs. €14,50 per maand, dat is €294 per jaar meer. Die investering moet je terugverdienen met functies die je ook daadwerkelijk gebruikt. Lees ook mijn volledige [Exact Online review](/posts/exact-online-review-2026/) voor een diepere analyse.
 
-[Probeer Exact Online 30 dagen gratis](https://www.exact.com/nl)
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -143,7 +143,7 @@ De interface is functioneel maar niet inspirerend. De mobiele app is basaal verg
 
 Die starter-actie is goud waard. 15 maanden gratis een compleet boekhoudpakket — nergens anders vind je dat.
 
-[Probeer e-Boekhouden.nl](https://www.e-boekhouden.nl/)
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -174,7 +174,7 @@ Geen automatische BTW-aangifte bij de Belastingdienst. Beperkte bankkoppeling me
 
 Let op die klantlimiet bij het Lite-plan. Vijf klanten klinkt weinig, maar als freelancer met een handvol vaste opdrachtgevers kan het prima werken.
 
-[Probeer FreshBooks](https://www.freshbooks.com/nl)
+<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshbooks.com →</a>
 
 ---
 
@@ -205,7 +205,7 @@ Zonder boekhouder is InformerOnline een duur pakket voor wat je krijgt. De inter
 
 Die gratis boekhouder-toegang is het verkoopargument. Bij Exact Online betaal je extra voor dezelfde functie.
 
-[Bekijk InformerOnline](https://www.informer.nl/)
+<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar informer.nl →</a>
 
 ---
 
@@ -235,7 +235,7 @@ Te beperkt voor serieuze administraties. De gratis versie heeft geen bankkoppeli
 
 Voor €9/maand heb je alles wat een startende ZZP'er nodig heeft. Dat is de prijs van twee kopjes koffie. Lastig om daar tegenin te gaan.
 
-[Start gratis met Jortt](https://www.jortt.nl/)
+<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 

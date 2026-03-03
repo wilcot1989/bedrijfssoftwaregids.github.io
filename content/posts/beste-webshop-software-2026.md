@@ -77,7 +77,7 @@ Shopify is het platform dat ik het vaakst adviseer aan ondernemers die snel een 
 - Beperkte aanpasbaarheid zonder Liquid-kennis
 - Nederlandse klantenservice niet altijd beschikbaar
 
-[Probeer Shopify gratis](https://www.shopify.com/nl)
+<a href="https://www.shopify.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
 
 ---
 
@@ -116,7 +116,7 @@ WooCommerce adviseer ik aan klanten die zeggen: "Ik wil volledige controle over 
 - Performance afhankelijk van je hosting
 - Kan complex worden met veel plugins
 
-[Start met WooCommerce](https://woocommerce.com/)
+<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar woocommerce.com →</a>
 
 ---
 
@@ -155,7 +155,7 @@ Ben je ook op zoek naar een kassasysteem voor je fysieke locatie? Lees dan ons a
 - Interface kan overweldigend zijn voor beginners
 - Sommige functies alleen in hogere plannen
 
-[Bekijk Lightspeed eCom](https://www.lightspeedhq.nl/)
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 ---
 
@@ -193,7 +193,7 @@ Magento is het platform dat ik alleen adviseer als een webshop echt groot en com
 - Langzaam zonder goede optimalisatie
 - Specialistische Magento-developers zijn schaars en duur
 
-[Bekijk Magento Open Source](https://business.adobe.com/nl/products/magento/magento-commerce.html)
+<a href="https://business.adobe.com/nl/products/magento/magento-commerce.html" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar business.adobe.com →</a>
 
 ---
 
@@ -233,7 +233,7 @@ BigCommerce is het platform dat ik noem als Shopify-gebruikers klagen over trans
 - Omzetlimieten per plan
 - iDEAL alleen via Mollie-integratie
 
-[Probeer BigCommerce gratis](https://www.bigcommerce.com/)
+<a href="https://www.bigcommerce.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar bigcommerce.com →</a>
 
 ---
 
@@ -273,7 +273,7 @@ CCV Shop is wat ik adviseer aan ondernemers die zeggen: "Ik verkoop alleen in Ne
 - Design-mogelijkheden beperkter dan bij sommige concurrenten
 - Minder geschikt voor zeer grote webshops
 
-[Probeer CCV Shop 21 dagen gratis](https://www.ccvshop.nl/)
+<a href="https://www.ccvshop.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar ccvshop.nl →</a>
 
 ---
 
@@ -313,7 +313,7 @@ Mijnwebwinkel is de optie die ik noem als een ondernemer zegt: "Ik wil morgen li
 - Minder geschikt voor zeer grote of complexe webshops
 - Internationale verkoop beperkter ondersteund
 
-[Probeer Mijnwebwinkel gratis](https://www.mijnwebwinkel.nl/)
+<a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mijnwebwinkel.nl →</a>
 
 ---
 

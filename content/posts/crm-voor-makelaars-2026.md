@@ -85,7 +85,7 @@ Realworks is de de facto standaard in de Nederlandse makelaardij, en als ik met 
 - Steile leercurve door uitgebreide functionaliteit
 - Minder geschikt voor makelaars die ook andere diensten aanbieden (taxatie, advies)
 
-[Bekijk Realworks](https://www.realworks.nl/)
+<a href="https://www.realworks.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar realworks.nl →</a>
 
 ---
 
@@ -138,7 +138,7 @@ Je kunt pipelines aanmaken per proces: een voor verkoop (intake > opname > marke
 - Geen kadaster- of BAG-integratie
 - Minder inzicht in vastgoedspecifieke workflows
 
-[Probeer HubSpot CRM gratis](https://www.hubspot.com/nl)
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ---
 
@@ -190,7 +190,7 @@ Pipedrive is zeer flexibel aan te passen:
 - Geen gratis plan
 - Marketingfuncties zijn beperkt
 
-[Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
+<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
 
@@ -242,7 +242,7 @@ Salesforce heeft een ecosysteem van vastgoedspecifieke apps:
 - Geen out-of-the-box Funda of NVM-koppeling
 - Vastgoedapps zijn vaak Engelstalig
 
-[Probeer Salesforce 30 dagen gratis](https://www.salesforce.com/nl/)
+<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salesforce.com →</a>
 
 ---
 
@@ -286,7 +286,7 @@ Als je Gripp koppelt aan je boekhouding, bekijk dan ook ons overzicht van de [be
 - Geen kadaster- of BAG-integratie
 - Pipeline minder visueel dan Pipedrive
 
-[Bekijk Gripp](https://www.gripp.com/nl/)
+<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar gripp.com →</a>
 
 ---
 

@@ -59,7 +59,7 @@ Intercom's Fin AI Agent is de chatbot waar ik het meest van onder de indruk ben.
 | Advanced | €127/mnd | + workflows, SLA, meerdere teams |
 | Expert | €169/mnd | + SSO, HIPAA, custom rollen |
 
-**→ [Bekijk Intercom](https://www.intercom.com/)**
+<a href="https://www.intercom.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar intercom.com →</a>
 
 **✅ Voordelen:** Beste AI-kwaliteit, meertalig, krachtige automatisering
 **❌ Nadelen:** Duurste optie, Fin-kosten per resolutie tellen op
@@ -84,7 +84,7 @@ Tidio is de chatbot software die ik aanbeveel aan MKB'ers die zeggen: "Ik wil mo
 | Growth | €59 | Onbeperkt, Lyro AI, analytics |
 | Tidio+ | €398 | Dedicated support, custom limits |
 
-**→ [Bekijk Tidio](https://www.tidio.com/)**
+<a href="https://www.tidio.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar tidio.com →</a>
 
 **✅ Voordelen:** Gratis plan, makkelijkste installatie, goede e-commerce integraties
 **❌ Nadelen:** AI minder geavanceerd dan Intercom, beperktere workflows
@@ -100,7 +100,7 @@ Zendesk adviseer ik voor chatbots alleen als je al op hun platform draait of een
 - **Omnichannel** — Chat, e-mail, telefoon, social media
 - **Rapportages** — Uitgebreide analytics en dashboards
 
-**→ [Bekijk Zendesk](https://www.zendesk.com/)**
+<a href="https://www.zendesk.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zendesk.com →</a>
 
 **✅ Voordelen:** Complete klantenservice-suite, krachtige rapportages, enterprise-ready
 **❌ Nadelen:** Duur, complex, overkill voor kleine bedrijven
@@ -116,7 +116,7 @@ Drift is de tool die ik alleen noem bij B2B-bedrijven met deals van duizenden eu
 - **Salesforce/HubSpot integratie** — Leads direct in je CRM
 - **Playbooks** — Geautomatiseerde verkoopscripts per segment
 
-**→ [Bekijk Drift](https://www.salesloft.com/)**
+<a href="https://www.salesloft.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salesloft.com →</a>
 
 **✅ Voordelen:** Beste voor B2B sales, directe CRM-integratie, account-based marketing
 **❌ Nadelen:** Zeer duur (€2.500+/mnd), alleen zinvol voor B2B met hoge dealwaarde

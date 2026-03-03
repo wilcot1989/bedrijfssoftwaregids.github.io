@@ -361,7 +361,7 @@ Lightspeed Restaurant is de betere keuze als je:
 - **QR-bestellen aan tafel** wilt aanbieden zonder extra software
 - **Retail combineert met horeca** (Lightspeed biedt ook een sterke retailoplossing)
 
-<a href="https://www.lightspeedhq.nl/kassasysteem/restaurant/" target="_blank" rel="noopener" class="cta">Probeer Lightspeed Restaurant 14 dagen gratis</a>
+<a href="https://www.lightspeedhq.nl/kassasysteem/restaurant/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 ## Voor wie is Untill de beste keuze?
 
@@ -374,7 +374,7 @@ Untill is de betere keuze als je:
 - **Veel integraties** nodig hebt (personeel, boekhouden, reserveren, bezorging, hotel)
 - **Food cost management** serieus wilt aanpakken met recepturen en marge-analyses
 
-<a href="https://untill.nl/tarieven/" target="_blank" rel="noopener" class="cta">Vraag een gratis Untill demo aan</a>
+<a href="https://untill.nl/tarieven/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar untill.nl →</a>
 
 ## Mijn conclusie: Lightspeed vs Untill
 

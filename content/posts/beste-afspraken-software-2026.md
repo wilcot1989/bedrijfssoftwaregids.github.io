@@ -82,7 +82,7 @@ Als ik een consultant of ZZP'er help met afsprakensoftware, raad ik bijna altijd
 - Interface volledig in het Engels
 - Minder geschikt voor bedrijven met meerdere locaties
 
-[Probeer Calendly](https://calendly.com/)
+<a href="https://calendly.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar calendly.com →</a>
 
 ---
 
@@ -125,7 +125,7 @@ SimplyBook.me is de tool die ik aanbeveel zodra een bedrijf iDEAL-betaling nodig
 - Gratis plan erg beperkt (15 boekingen/maand)
 - Sommige functies werken als betaalde plugins
 
-[Bekijk SimplyBook.me](https://simplybook.me/nl/)
+<a href="https://simplybook.me/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar simplybook.me →</a>
 
 ---
 
@@ -167,7 +167,7 @@ Tidycal is mijn favoriete budgettip: je betaalt eenmalig $29 en je hebt levensla
 - Kleinere community en minder integraties
 - Interface in het Engels
 
-[Bekijk Tidycal](https://tidycal.com/)
+<a href="https://tidycal.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar tidycal.com →</a>
 
 ---
 
@@ -209,7 +209,7 @@ Setmore viel me op vanwege het gratis plan: tot 4 gebruikers, geen kosten. Dat i
 - Rapportages beperkt in het gratis plan
 - Minder integraties dan Calendly
 
-[Start gratis met Setmore](https://www.setmore.com/)
+<a href="https://www.setmore.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar setmore.com →</a>
 
 ---
 
@@ -252,7 +252,7 @@ Acuity Scheduling is de tool die ik pak wanneer Calendly of SimplyBook.me niet g
 - Onderdeel van Squarespace -- sterkste integratie met dat platform
 - Geen native iDEAL-ondersteuning
 
-[Probeer Acuity Scheduling](https://acuityscheduling.com/)
+<a href="https://acuityscheduling.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar acuityscheduling.com →</a>
 
 ---
 
@@ -294,7 +294,7 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 - Hogere kosten dan generieke afsprakensoftware of een standaard afsprakenplanner
 - Contract mogelijk vereist
 
-[Bekijk Salonkee](https://salonkee.com/)
+<a href="https://salonkee.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salonkee.com →</a>
 
 ---
 

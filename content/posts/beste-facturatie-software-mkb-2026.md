@@ -80,7 +80,7 @@ Moneybird is het pakket dat ik het vaakst aanbeveel, en dat komt door een ding: 
 
 Ben je ZZP'er? Lees dan ook ons artikel over de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/) voor een vergelijking die specifiek op jouw situatie is gericht.
 
-[Probeer Moneybird gratis](https://www.moneybird.nl/)
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -125,7 +125,7 @@ Exact Online is niet het makkelijkste pakket op deze lijst, maar wel het meest c
 
 Gebruik je Exact ook als CRM? Lees dan ons artikel over de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) voor een vergelijking met gespecialiseerde CRM-tools.
 
-[Probeer Exact Online](https://www.exact.com/nl)
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -168,7 +168,7 @@ e-Boekhouden is de stille betrouwbare in dit rijtje. Ik kom het vooral tegen bij
 - Mobiele app minder uitgebreid dan concurrenten
 - Automatiseringsmogelijkheden zijn beperkter
 
-[Start met e-Boekhouden](https://www.e-boekhouden.nl/)
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -209,7 +209,7 @@ Rompslomp doet precies wat de naam belooft: de rompslomp eruit halen. Ik heb het
 - Geen gratis plan
 - Minder geschikt voor complexe BTW-situaties (bijv. ICL/ICV)
 
-[Start met Rompslomp](https://www.rompslomp.nl/)
+<a href="https://www.rompslomp.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar rompslomp.nl →</a>
 
 ---
 
@@ -251,7 +251,7 @@ Informer is een pakket dat weinig mensen kennen maar dat me telkens weer verrast
 - Minder integraties met externe tools
 - Kan overkill zijn als je alleen facturen wilt versturen
 
-[Start met Informer](https://www.informer.nl/)
+<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar informer.nl →</a>
 
 ---
 
@@ -292,7 +292,7 @@ Jortt adviseer ik aan starters die nog niet weten of ze 5 of 50 facturen per maa
 - Weinig integratiemogelijkheden
 - Geen volledige grootboekadministratie
 
-[Start gratis met Jortt](https://www.jortt.nl/)
+<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 

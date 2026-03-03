@@ -374,7 +374,7 @@ Als je in een sector werkt waar dataverwerking gevoelig ligt -- denk aan zorg, f
 **4. Je budget is beperkt**
 Het gratis plan van Brevo (300 mails/dag, onbeperkt contacten) is het meest genereuze op de markt. Voor een startend bedrijf dat net begint met nieuwsbrieven is dat een perfecte start zonder financieel risico.
 
-[Probeer Brevo gratis](https://www.brevo.com/nl/) -- geen creditcard nodig.
+<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar brevo.com →</a>
 
 ---
 
@@ -394,7 +394,7 @@ Bij minder dan 2.500 contacten die je wekelijks mailt, is het prijsverschil met 
 **4. Deliverability is je prioriteit**
 Als je in een sector werkt waar elke gemiste e-mail telt -- denk aan transactiemeldingen, afspraaherinneringen of tijdkritieke aanbiedingen -- is Mailchimp's hogere deliverability-score een serieus argument.
 
-[Start gratis met Mailchimp](https://mailchimp.com/) -- gratis tot 500 contacten.
+<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mailchimp.com →</a>
 
 ---
 

@@ -280,6 +280,6 @@ Waar het tekortschiet: de extra kosten voor bankkoppelingen, de beperkte rapport
 
 **Het alternatief:** Zoek je hetzelfde gemak voor minder geld? Bekijk dan [e-Boekhouden.nl](/posts/moneybird-vs-e-boekhouden-2026/). Heb je meer functionaliteit nodig? Dan is [Exact Online](/posts/exact-online-review-2026/) de logische stap omhoog. Lees ook mijn complete vergelijking van de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/).
 
-[Probeer Moneybird 60 dagen gratis](https://www.moneybird.nl/)
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 Wil je Moneybird vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.

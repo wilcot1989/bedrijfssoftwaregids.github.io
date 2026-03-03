@@ -169,7 +169,7 @@ Wat mij ook aanspreekt: je data staat in de EU. Dat maakt het AVG-gesprek met je
 
 Meer weten? Lees mijn uitgebreide [Brevo review](/posts/brevo-review-2026/) of bekijk de [Brevo vs Mailchimp vergelijking](/posts/brevo-vs-mailchimp-2026/) voor een directe confrontatie.
 
-[Probeer Brevo gratis](https://www.brevo.com/nl/)
+<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar brevo.com →</a>
 
 ---
 
@@ -206,7 +206,7 @@ De e-commerce integraties zijn waar Mailchimp echt uitblinkt. De koppelingen met
 - Data opgeslagen in de VS (aandachtspunt AVG)
 - Support pas beschikbaar in betaalde plannen
 
-[Probeer Mailchimp gratis](https://mailchimp.com/nl/)
+<a href="https://mailchimp.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mailchimp.com →</a>
 
 ---
 
@@ -248,7 +248,7 @@ De keerzijde: de leercurve is steiler dan bij Mailchimp of MailerLite. Je moet e
 
 Gebruik je al een CRM? Lees dan mijn [HubSpot CRM review](/posts/hubspot-crm-review-2026/) om te zien hoe ActiveCampaign's ingebouwde CRM zich verhoudt tot een dedicated CRM-platform.
 
-[Probeer ActiveCampaign 14 dagen gratis](https://www.activecampaign.com/nl/)
+<a href="https://www.activecampaign.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar activecampaign.com →</a>
 
 ---
 
@@ -287,7 +287,7 @@ Twee kanttekeningen. De interface is niet volledig in het Nederlands -- de kern 
 - Geen ingebouwd CRM
 - Account moet worden goedgekeurd (anti-spam beleid)
 
-[Probeer MailerLite gratis](https://www.mailerlite.com/)
+<a href="https://www.mailerlite.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mailerlite.com →</a>
 
 ---
 
@@ -325,7 +325,7 @@ De prijs is niet mals. Klaviyo is duurder dan de meeste alternatieven, en de kos
 - Data opgeslagen in de VS
 - Leercurve bij het opzetten van geavanceerde flows
 
-[Probeer Klaviyo gratis](https://www.klaviyo.com/)
+<a href="https://www.klaviyo.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar klaviyo.com →</a>
 
 ---
 
@@ -367,7 +367,7 @@ Het prijsmodel is anders dan bij de internationale spelers. Laposta werkt met ja
 - Geen ingebouwd CRM of lead scoring
 - Minder geschikt voor complexe marketing automation of e-commerce flows
 
-[Probeer Laposta gratis](https://www.laposta.nl/)
+<a href="https://www.laposta.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar laposta.nl →</a>
 
 ---
 

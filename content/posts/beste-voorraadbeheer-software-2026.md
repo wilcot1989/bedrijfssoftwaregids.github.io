@@ -165,7 +165,7 @@ Ik heb Picqer geimplementeerd bij een webshop die van 80 naar 600 orders per dag
 - Puur magazijn/voorraad -- geen boekhouding of CRM-functies
 - Rapportages zijn functioneel maar niet visueel sterk
 
-[Bekijk Picqer](https://picqer.com/nl)
+<a href="https://picqer.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar picqer.com →</a>
 
 ---
 
@@ -213,7 +213,7 @@ Lees mijn uitgebreide [Exact Online review](/posts/exact-online-review-2026/) vo
 - Handel Premium is fors geprijsd voor wat je krijgt
 - Prijsverhogingen bij Exact zijn een terugkerend pijnpunt in de markt
 
-[Probeer Exact Online](https://www.exact.com/nl)
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -258,7 +258,7 @@ Ik raadde het aan bij een modezaak met sterke seizoensfluctuaties. Voorheen best
 - Leercurve bij het interpreteren van forecasting-data
 - Minder geschikt voor bedrijven zonder verkoophistorie
 
-[Bekijk Inventory Planner](https://www.inventory-planner.com/)
+<a href="https://www.inventory-planner.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar inventory-planner.com →</a>
 
 ---
 
@@ -306,7 +306,7 @@ Ik heb het getest bij een cosmeticaproducent die ingredienten inkoopt, mengt en 
 - Starter-plan is beperkt tot 1 locatie en 1.200 orders per jaar
 - Geen native Nederlandse integraties (Bol.com, Exact Online)
 
-[Bekijk Katana](https://katanamrp.com/)
+<a href="https://katanamrp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar katanamrp.com →</a>
 
 ---
 
@@ -353,7 +353,7 @@ Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man w
 - Rapportages zijn basaal -- geen forecasting
 - Support alleen in het Engels
 
-[Bekijk inFlow](https://www.inflowinventory.com/)
+<a href="https://www.inflowinventory.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar inflowinventory.com →</a>
 
 ---
 
@@ -399,7 +399,7 @@ Ik heb het beoordeeld voor een speelgoedgroothandel die via zes kanalen verkocht
 - Klantenservice krijgt wisselende reviews
 - Geen specifieke Nederlandse lokalisatie of support
 
-[Bekijk Cin7](https://www.cin7.com/)
+<a href="https://www.cin7.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar cin7.com →</a>
 
 ---
 

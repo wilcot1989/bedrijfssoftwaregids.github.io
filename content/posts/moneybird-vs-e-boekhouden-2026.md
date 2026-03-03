@@ -199,7 +199,7 @@ Moneybird is de beste keuze als:
 - Je **integraties** nodig hebt met tools als Shopify, WooCommerce of Zapier
 - Je regelmatig **facturen verstuurt** en deze professioneel wilt laten ogen
 
-[Probeer Moneybird gratis](https://www.moneybird.nl/)
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -214,7 +214,7 @@ e-Boekhouden is de beste keuze als:
 - Je een **bewezen, stabiel platform** wilt zonder franje
 - Je zowel **enkelvoudig als dubbel** wilt kunnen boekhouden tegen dezelfde prijs
 
-[Probeer e-Boekhouden.nl](https://www.e-boekhouden.nl/)
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 

@@ -79,7 +79,7 @@ Benieuwd hoe HubSpot zich verhoudt tot Pipedrive? Lees dan onze uitgebreide [Hub
 - Kan overweldigend zijn door de veelheid aan functies
 - Geavanceerde automatisering pas vanaf Professional (€90/mnd)
 
-[Start gratis met HubSpot CRM](https://www.hubspot.com/nl)
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ---
 
@@ -116,7 +116,7 @@ Pipedrive is voor de ZZP'er die serieus aan acquisitie doet. Ik adviseerde het l
 - Voor ZZP'ers met weinig leads misschien te uitgebreid
 - Kosten tellen op als je meerdere tools nodig hebt
 
-[Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
+<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
 
@@ -157,7 +157,7 @@ Voor een bredere vergelijking van projectmanagement-tools, bekijk ons artikel ov
 - Geen ingebouwde facturatie-koppeling met Nederlandse tools
 - CRM-specifieke functies als e-mail tracking minder diepgaand
 
-[Start met Monday CRM](https://monday.com/lang/nl)
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 
 ---
 
@@ -194,7 +194,7 @@ Notion als CRM is een optie die ik met een kanttekening aanbeveel. Als je toch a
 - Rapportages zijn beperkt vergeleken met echte CRM's
 - Niet geschikt als je serieuze sales-processen hebt
 
-[Start gratis met Notion](https://www.notion.so/)
+<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
 
 ---
 
@@ -267,7 +267,7 @@ Freshsales is mijn dark horse in dit overzicht. Weinig ZZP'ers kennen het, maar 
 - Interface volledig in het Engels
 - Gratis plan beperkter dan HubSpot Free
 
-[Probeer Freshsales gratis](https://www.freshworks.com/nl/crm/)
+<a href="https://www.freshworks.com/nl/crm/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshworks.com →</a>
 
 ---
 

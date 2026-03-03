@@ -111,7 +111,7 @@ De exacte prijzen per administratie zijn niet publiek beschikbaar — je krijgt 
 
 Lees ook mijn uitgebreide [Exact Online review](/posts/exact-online-review-2026/) en de [vergelijking Exact Online vs Twinfield](/posts/exact-online-vs-twinfield-2026/).
 
-[Vraag een Exact Online Accountancy demo aan](https://www.exact.com/nl/producten/accountancy)
+<a href="https://www.exact.com/nl/producten/accountancy" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 **Pluspunten:**
 - Grootste ecosysteem met 450+ koppelingen
@@ -158,7 +158,7 @@ Voor accountantskantoren geldt een vast tarief per administratie, op basis van o
 
 Benieuwd hoe Twinfield zich verhoudt tot Exact? Lees mijn [Exact Online vs Twinfield vergelijking](/posts/exact-online-vs-twinfield-2026/).
 
-[Vraag een Twinfield Accountancy demo aan](https://www.wolterskluwer.com/nl-nl/solutions/twinfield-accounting/accountants)
+<a href="https://www.wolterskluwer.com/nl-nl/solutions/twinfield-accounting/accountants" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar wolterskluwer.com →</a>
 
 **Pluspunten:**
 - Beste multi-administratie beheer in de markt
@@ -212,7 +212,7 @@ Voor cliënten van accountants gelden aparte tarieven:
 
 De prijzen zijn transparanter dan bij Exact of Twinfield. Je weet vooraf wat je betaalt.
 
-[Start een gratis Minox proefperiode](https://minox.nl/)
+<a href="https://minox.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar minox.nl →</a>
 
 **Pluspunten:**
 - Beste scan & herken in de markt
@@ -267,7 +267,7 @@ De MKB-pakketten voor je cliënten:
 - **Large**: €82,00/maand
 - **Unlimited**: €180,00/maand
 
-[Vraag een Yuki demo aan](https://www.yukisoftware.com/nl-nl/accountantskantoren/)
+<a href="https://www.yukisoftware.com/nl-nl/accountantskantoren/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar yukisoftware.com →</a>
 
 **Pluspunten:**
 - Sterkste automatisering van documentverwerking
@@ -317,7 +317,7 @@ De cliëntpakketten:
 
 Voor een kantoor met 20 administraties: €41 + (20 × €10) = **€241/maand**. Dat is aanzienlijk lager dan Yuki of Exact.
 
-<a href="https://lt45.net/c/?si=11068&li=1492000&wi=418626&ws=&dl=eaccounting%2Fvoor-de-accountant%2F" rel="nofollow sponsored">Probeer Visma eAccounting 30 dagen gratis</a>
+<a href="https://lt45.net/c/?si=11068&li=1492000&wi=418626&ws=&dl=eaccounting%2Fvoor-de-accountant%2F" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lt45.net →</a>
 
 **Pluspunten:**
 - Laagste instapprijs in dit overzicht

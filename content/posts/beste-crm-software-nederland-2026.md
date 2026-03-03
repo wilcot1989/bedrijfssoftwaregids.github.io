@@ -96,7 +96,7 @@ HubSpot is het CRM dat ik het vaakst als startpunt aanbeveel, en de reden is sim
 
 Als je net begint en nog niet weet hoeveel je aan CRM wilt besteden, zou ik zeggen: begin met HubSpot Free en ontdek wat je werkelijk nodig hebt. Kost je niets, en je kunt altijd overstappen.
 
-[Probeer HubSpot CRM gratis](https://www.hubspot.com/nl)
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ---
 
@@ -136,7 +136,7 @@ Benieuwd hoe Pipedrive zich verhoudt tot HubSpot? Lees dan mijn uitgebreide [Hub
 
 Als je een verkoopteam van 3 tot 20 mensen hebt en je wilt een CRM dat iedereen daadwerkelijk gaat gebruiken, is Pipedrive mijn eerste keuze. Start met het Advanced-plan (€27,90) -- dat heeft de automatiseringen die je echt nodig hebt.
 
-[Probeer Pipedrive 14 dagen gratis](https://www.pipedrive.com/nl)
+<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
 
@@ -174,7 +174,7 @@ Monday CRM is de tool die ik aanbeveel als een klant zegt: "Ik wil mijn deals tr
 
 Heb je een dienstverlenend bedrijf waarbij deals naadloos in projecten moeten overgaan? Dan is Monday CRM een slimme keuze. Begin met het Standard-plan (€17/gebruiker) voor de automatiseringen.
 
-[Start met Monday CRM](https://monday.com/lang/nl)
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 
 ---
 
@@ -212,7 +212,7 @@ Salesforce raad ik eerlijk gezegd alleen aan als je bedrijf de schaal heeft om h
 
 Heb je 50+ medewerkers, een dedicated IT-team en complexe salesprocessen? Dan is Salesforce de investering waard. Voor alle anderen: kijk eerst naar Pipedrive of HubSpot.
 
-[Probeer Salesforce 30 dagen gratis](https://www.salesforce.com/nl/)
+<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salesforce.com →</a>
 
 ---
 
@@ -249,7 +249,7 @@ Teamleader is mijn go-to aanbeveling voor Benelux MKB'ers die een alles-in-een o
 
 Als je een bedrijf hebt met 5 tot 30 medewerkers en je wilt offertes, projecten en facturatie onder een dak, bespaar je met Teamleader al snel op losse tools. Begin met het Go-plan en upgrade wanneer je de projectmodule nodig hebt.
 
-[Start met Teamleader](https://www.teamleader.eu/nl)
+<a href="https://www.teamleader.eu/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar teamleader.eu →</a>
 
 ---
 
@@ -287,7 +287,7 @@ Als je ook op zoek bent naar boekhoudsoftware, lees dan mijn artikel over de [be
 
 Draai je al op Exact voor je boekhouding? Dan is de CRM-module de logische aanvulling. Je bespaart tijd op dubbele invoer en alles klopt direct in je administratie. In alle andere gevallen: kies een van de gespecialiseerde CRM's hierboven.
 
-[Bekijk Exact Online CRM](https://www.exact.com/nl)
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -325,7 +325,7 @@ Gripp is het platform dat ik aanbeveel aan marketingbureaus, adviesbedrijven en 
 
 Heb je een bureau met 5+ medewerkers en wil je declarabiliteit, projecten en CRM in een tool? Dan is Gripp het waard om te testen. Vraag een demo aan en beoordeel of het bij jullie werkwijze past.
 
-[Bekijk Gripp](https://www.gripp.com/nl/)
+<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar gripp.com →</a>
 
 ---
 

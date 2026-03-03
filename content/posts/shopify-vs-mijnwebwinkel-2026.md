@@ -280,7 +280,7 @@ Shopify is mijn standaardadvies voor ondernemers met groeiambitie. Het platform 
 
 Wil je jouw webshopklanten beter begrijpen? Lees dan ook mijn artikel over de [beste CRM-systemen voor webshops](/posts/beste-crm-webshops-2026/).
 
-<a href="https://www.shopify.com/nl/gratis-proefperiode" class="cta" rel="nofollow sponsored">Probeer Shopify gratis</a>
+<a href="https://www.shopify.com/nl/gratis-proefperiode" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
 
 
 ## Voor wie is Mijnwebwinkel (Acendy) de beste keuze?

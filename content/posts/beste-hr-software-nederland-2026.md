@@ -77,7 +77,7 @@ Personio is het platform dat ik het vaakst aanbeveel aan groeiende MKB-bedrijven
 - Kan overweldigend zijn voor zeer kleine bedrijven (<10 medewerkers)
 - Jaarcontract vereist
 
-[Bekijk Personio](https://www.personio.nl/)
+<a href="https://www.personio.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar personio.nl →</a>
 
 ---
 
@@ -116,7 +116,7 @@ HiBob is het platform waar ik naar grijp als een scale-up of internationaal bedr
 - Minder geschikt voor kleine bedrijven (<50 medewerkers)
 - Sommige functies zijn minder diep dan bij gespecialiseerde tools
 
-[Bekijk HiBob](https://www.hibob.com/)
+<a href="https://www.hibob.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hibob.com →</a>
 
 ---
 
@@ -158,7 +158,7 @@ Als een klant me vraagt "ik wil gewoon dat mijn salarissen kloppen, elke maand, 
 
 Als je Nmbrs combineert met je boekhouding, lees dan ook ons artikel over de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/) voor handige integratiemogelijkheden.
 
-[Bekijk Nmbrs](https://www.nmbrs.com/nl/)
+<a href="https://www.nmbrs.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar nmbrs.com →</a>
 
 ---
 
@@ -200,7 +200,7 @@ AFAS is het zwaarste geschut in dit overzicht, en voor middelgrote tot grote org
 - Overkill voor kleine bedrijven (<30 medewerkers)
 - Meerjarig contract kan beperkend zijn
 
-[Bekijk AFAS Software](https://www.afas.nl/)
+<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar afas.nl →</a>
 
 ---
 
@@ -240,7 +240,7 @@ Loket.nl is het platform dat ik aanbeveel aan ondernemers die zeggen: "Ik wil ni
 - Afhankelijk van de kwaliteit van je salarisadviseur
 - Minder geschikt voor bedrijven die alles in eigen beheer willen
 
-[Bekijk Loket.nl](https://www.loket.nl/)
+<a href="https://www.loket.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar loket.nl →</a>
 
 ---
 
@@ -279,7 +279,7 @@ BambooHR kom ik tegen bij internationale bedrijven die vanuit het hoofdkantoor e
 - Minder integraties met specifiek Nederlandse tools
 - Verzuimbeheer niet ingericht op Nederlandse Wet Poortwachter
 
-[Bekijk BambooHR](https://www.bamboohr.com/)
+<a href="https://www.bamboohr.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar bamboohr.com →</a>
 
 ---
 

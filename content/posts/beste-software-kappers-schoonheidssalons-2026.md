@@ -81,7 +81,7 @@ Salonkee is de tool die ik aanbeveel aan salons die alles in een systeem willen.
 - Beperkte integraties met externe systemen
 - Leercurve bij de uitgebreidere functies
 
-[Bekijk Salonkee](https://salonkee.com/)
+<a href="https://salonkee.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salonkee.com →</a>
 
 ---
 
@@ -121,7 +121,7 @@ Treatwell Pro is interessant om een andere reden dan de meeste salon software: h
 - Prijzen niet transparant op de website
 - Minder controle over je eigen boekingsproces
 
-[Bekijk Treatwell Pro](https://www.treatwell.nl/)
+<a href="https://www.treatwell.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar treatwell.nl →</a>
 
 ---
 
@@ -165,7 +165,7 @@ Phorest beveel ik aan bij salons die niet alleen hun agenda willen beheren, maar
 - Interface is minder modern dan Salonkee
 - Minder bekend in Nederland dan in Ierland en het VK
 
-[Bekijk Phorest](https://www.phorest.com/)
+<a href="https://www.phorest.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar phorest.com →</a>
 
 ---
 
@@ -206,7 +206,7 @@ Planfy raad ik aan als een saloneigenaar zegt: "Ik wil gewoon dat klanten online
 - Geen loyaliteitsprogramma
 - Minder geschikt voor grotere salons
 
-[Start gratis met Planfy](https://planfy.com/)
+<a href="https://planfy.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar planfy.com →</a>
 
 ---
 
@@ -250,7 +250,7 @@ SimplyBook.me is de optie die ik noem als budget de doorslag geeft. Het modulair
 - Klantenbeheer minder uitgebreid
 - Geen voorraadbeheer
 
-[Start gratis met SimplyBook.me](https://simplybook.me/nl/)
+<a href="https://simplybook.me/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar simplybook.me →</a>
 
 ---
 
@@ -296,7 +296,7 @@ Salonized noem ik altijd als een saloneigenaar zegt "ik wil gewoon Nederlandse s
 
 Werk je in de horeca in plaats van de beautybranche? Lees dan ons artikel over het [beste kassasysteem voor horeca](/posts/beste-kassasysteem-horeca-2026/) voor een vergelijking van horecaspecifieke oplossingen.
 
-[Start met Salonized](https://www.salonized.com/nl/)
+<a href="https://www.salonized.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salonized.com →</a>
 
 ---
 

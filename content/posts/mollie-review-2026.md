@@ -363,6 +363,6 @@ Als je ook naar Belgie of Duitsland verzendt maar alleen iDEAL aanbiedt, verlies
 
 Wil je weten welk webshop-platform het beste bij Mollie past? Lees dan mijn vergelijking van de [beste webshop software in Nederland](/posts/beste-webshop-software-2026/) of bekijk de [beste facturatie software voor het MKB](/posts/beste-facturatie-software-mkb-2026/) als je je boekhoudkoppeling wilt optimaliseren.
 
-[Maak gratis een Mollie-account aan](https://www.mollie.com/nl)
+<a href="https://www.mollie.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mollie.com →</a>
 
 Wil je Mollie vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/webshops/)**, gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)** of bereken je **[webshop kosten](/tools/webshops/kosten-berekenen/)**.

@@ -65,7 +65,7 @@ Clockify is de tool die ik aanbeveel als een klant zegt "we willen uren bijhoude
 ### Voor wie?
 Clockify is perfect voor **teams die een gratis, eenvoudige urenregistratie software** zoeken. De urenregistratie app is beschikbaar op alle platforms. Als je geen geavanceerde rapportages of facturatie-integratie nodig hebt, is er geen reden om te betalen.
 
-**→ [Bekijk Clockify](https://clockify.me/)**
+<a href="https://clockify.me/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar clockify.me →</a>
 
 **✅ Voordelen:** Gratis voor onbeperkte gebruikers, eenvoudig, goede integraties, alle platforms
 **❌ Nadelen:** Gratis rapportages zijn beperkt, geen automatische tracking, interface is functioneel maar niet fraai
@@ -94,7 +94,7 @@ Toggl Track is wat ik zelf gebruik, en dat zegt genoeg. De one-click timer, slim
 ### Voor wie?
 Toggl Track is ideaal voor **ZZP'ers en kleine teams** die snel en makkelijk uren willen bijhouden. De urenregistratie app voor mobiel is een van de beste die ik heb getest. De gratis versie voor 5 gebruikers is perfect voor startups.
 
-**→ [Bekijk Toggl Track](https://toggl.com/track/)**
+<a href="https://toggl.com/track/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar toggl.com →</a>
 
 **✅ Voordelen:** Beste gebruikservaring, slimme herinneringen, goede rapportages, prachtige interface
 **❌ Nadelen:** Geen facturatie, duurder dan Clockify bij meer dan 5 users, gratis plan beperkt tot 5 gebruikers
@@ -121,7 +121,7 @@ Harvest is de tool die ik adviseer aan bureaus en consultants die uren doorberek
 ### Voor wie?
 Harvest is de beste keuze als je **uren direct wilt omzetten in facturen**. De combinatie van timetracking en facturatie bespaart een aparte facturatietool.
 
-**→ [Bekijk Harvest](https://www.getharvest.com/)**
+<a href="https://www.getharvest.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar getharvest.com →</a>
 
 **✅ Voordelen:** Ingebouwde facturatie, kostenregistratie, goede projectbudgettering, QuickBooks-integratie
 **❌ Nadelen:** Gratis plan zeer beperkt (1 user, 2 projecten), interface wat gedateerd, minder integraties dan Toggl
@@ -151,7 +151,7 @@ TimeCamp is mijn antwoord op de vraag "maar mijn team vergeet altijd de timer te
 ### Voor wie?
 TimeCamp is de beste keuze als je **vergeten om te timen** het grootste probleem is. De automatische tracking vangt alles op, zelfs als medewerkers vergeten de timer te starten.
 
-**→ [Bekijk TimeCamp](https://www.timecamp.com/)**
+<a href="https://www.timecamp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar timecamp.com →</a>
 
 **✅ Voordelen:** Automatische tracking, productiviteitsanalyse, gratis voor onbeperkte users, facturatie inbegrepen
 **❌ Nadelen:** Automatische categorisering vereist initiële configuratie, privacy-overwegingen bij monitoring, desktop app vereist
@@ -179,7 +179,7 @@ Gripp is het platform dat ik aanbeveel aan Nederlandse bureaus die genoeg hebben
 ### Voor wie?
 Gripp is ideaal voor **Nederlandse bureaus (10-100 medewerkers)** die een compleet platform willen voor uren, projecten en facturatie. Het is duurder, maar vervangt meerdere losse tools.
 
-**→ [Bekijk Gripp](https://www.gripp.com/nl/)**
+<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar gripp.com →</a>
 
 **✅ Voordelen:** Alles-in-één NL platform, Exact Online koppeling, projectplanning + facturatie, Nederlandse support
 **❌ Nadelen:** Duurste optie, overkill voor solo-gebruikers, leercurve bij implementatie, geen gratis plan

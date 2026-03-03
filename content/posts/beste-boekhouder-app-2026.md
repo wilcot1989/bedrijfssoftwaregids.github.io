@@ -82,7 +82,7 @@ De Moneybird app voelt als een natuurlijke extensie van de webversie. De interfa
 
 Lees meer over Moneybird in ons overzicht van de [beste boekhoudsoftware voor ZZP'ers](/posts/beste-boekhoudsoftware-zzp-2026/) of in onze [Moneybird vs e-Boekhouden vergelijking](/posts/moneybird-vs-e-boekhouden-2026/).
 
-[Start gratis met Moneybird](https://www.moneybird.nl/)
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -124,7 +124,7 @@ De Jortt app is bijzonder gebruiksvriendelijk. Alles is eenvoudig en overzichtel
 - Bankkoppeling alleen in betaald plan
 - Minder professionele factuursjablonen
 
-[Start gratis met Jortt](https://www.jortt.nl/)
+<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 
@@ -168,7 +168,7 @@ De Exact Online app is functioneel en stabiel, maar voelt minder intuïtief dan 
 
 Lees onze uitgebreide [Exact Online review](/posts/exact-online-review-2026/) voor een volledig beeld.
 
-[Probeer Exact Online](https://www.exact.com/nl)
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -209,7 +209,7 @@ De e-Boekhouden app is functioneel maar voelt gedateerder dan de concurrentie. D
 
 Vergelijk e-Boekhouden direct met Moneybird in ons artikel [Moneybird vs e-Boekhouden 2026](/posts/moneybird-vs-e-boekhouden-2026/).
 
-[Probeer e-Boekhouden.nl](https://www.e-boekhouden.nl/)
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -252,7 +252,7 @@ De FreshBooks app is een van de best ontworpen boekhoud-apps. De interface is mo
 - Beperkte bankkoppeling met Nederlandse banken
 - Minder geschikt als enige boekhoudtool voor Nederlandse ondernemers
 
-[Probeer FreshBooks](https://www.freshbooks.com/nl)
+<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshbooks.com →</a>
 
 ---
 
