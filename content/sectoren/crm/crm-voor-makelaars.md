@@ -93,6 +93,12 @@ Realworks is niet zomaar een CRM — het is specifiek gebouwd voor de Nederlands
 
 Weet je nog niet welk systeem het beste past? Gebruik de [CRM keuzehulp voor makelaars](/tools/crm/keuzehulp/) om in vijf vragen een concreet advies te krijgen. Of bereken vooraf de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de verwachte [ROI van je CRM-investering](/tools/crm/roi-berekenen/).
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Een CRM werkt het best in combinatie met tools die nieuwe leads aanleveren voordat ze zelf contact opnemen. Op de pagina [leadgeneratie software voor B2B](/sectoren/marketing/leadgeneratie-software-b2b/) staan systemen die websitebezoekers identificeren en doorsturen naar je CRM.

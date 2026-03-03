@@ -102,6 +102,12 @@ Begin klein maar begin nu. Een e-maillijst van 200 geinteresseerde contacten die
 
 Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) om te bepalen welke tool het beste aansluit bij jouw werkwijze en klantenportefeuille. Bereken ook de [kosten van e-mailmarketing](/tools/marketing/kosten-berekenen/) per jaar inclusief de waarde van je tijd.
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 ZZP'ers die e-mailmarketing inzetten als onderdeel van hun bedrijfsvoering, hebben ook baat bij overzichtelijke boekhoudsoftware. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we betaalbare opties die goed passen bij de schaal van een eenmanszaak.

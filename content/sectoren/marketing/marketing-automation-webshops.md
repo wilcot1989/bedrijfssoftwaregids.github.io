@@ -103,6 +103,12 @@ De grootste gemiste kans bij webshops is het niet opzetten van een abandoned-car
 
 Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) voor een aanbeveling op basis van jouw webshopplatform en omzetschaal. Bereken ook de [marketing ROI](/tools/marketing/roi-berekenen/) om te zien wat automation jou oplevert.
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Webshops die ook een fysieke winkel hebben, profiteren van een kassasysteem dat omnichannel voorraadbeheer ondersteunt. Op de pagina [kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/) vergelijken we systemen die goed combineren met e-commerce platforms.

@@ -96,6 +96,12 @@ Sommige recruitmentbureaus werken meer account-based: je hebt vaste opdrachtgeve
 
 Nog twijfels? Gebruik de [CRM keuzehulp voor recruitmentbureaus](/tools/crm/keuzehulp/) voor een advies op maat. Bereken vooraf de [CRM kosten voor jouw bureaugrootte](/tools/crm/kosten-berekenen/) en de [ROI van een geïntegreerd CRM+ATS systeem](/tools/crm/roi-berekenen/).
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Recruitmentbureaus beheren zowel kandidaten als opdrachtgevers; een CRM dekt de klantrelaties en HR-software de interne personeelsadministratie. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) staan de meest gebruikte opties voor middelgrote bureaus.

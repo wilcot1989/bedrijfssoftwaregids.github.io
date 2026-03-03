@@ -101,6 +101,12 @@ e-Boekhouden.nl is al meer dan twintig jaar een vaste naam in de Nederlandse mar
 
 Weet je nog niet welke boekhoudsoftware bij jou past? Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om in vijf vragen een concreet advies te krijgen. Of bereken vooraf de [kosten van boekhoudsoftware voor jouw situatie](/tools/boekhouding/kosten-berekenen/).
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Als ZZP'er groeit je klantenbestand snel, en dan is een CRM handig om afspraken en offertes gestructureerd bij te houden. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) vind je een overzicht van lichtgewicht CRM-tools die goed combineren met boekhoudsoftware.

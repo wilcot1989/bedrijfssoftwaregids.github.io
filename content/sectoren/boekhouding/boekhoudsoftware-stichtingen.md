@@ -101,6 +101,12 @@ AFAS is in de zorg- en welzijnssector een veelgebruikt systeem en richt zich spe
 
 Weet je nog niet welk systeem het beste past bij jouw stichting? Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) voor een advies op maat. Bereken ook de [totale softwarekosten voor jouw organisatie](/tools/boekhouding/kosten-berekenen/) inclusief implementatie en ondersteuning.
 
+## Hoe wij vergelijken
+
+Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
+
+Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op actualiteit. Raadpleeg de website van de aanbieder voor de actuele tarieven.
+
 ## Handige vervolgstappen
 
 Stichtingen in de zorgsector hebben naast boekhouding ook te maken met complexe HR-vraagstukken zoals CAO Zorg en BIG-registraties. Op de pagina [HR software voor zorg](/sectoren/hr/hr-software-zorg/) vind je een vergelijking van systemen die hierop zijn ingericht.
