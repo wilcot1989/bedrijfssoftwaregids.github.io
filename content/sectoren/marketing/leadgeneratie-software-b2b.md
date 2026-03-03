@@ -5,6 +5,12 @@ lastmod: 2026-03-03
 description: "Leadgeneratie software voor B2B vergelijken: Leadinfo, HubSpot en LinkedIn Sales Navigator op websitebezoekers, lead scoring en CRM. Start keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+
+categories:
+  - Marketing
+tags:
+  - marketing
+  - sector
 ---
 
 {{< sector-cta-marketing >}}

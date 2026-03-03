@@ -27,6 +27,12 @@ faq:
       automatisch door naar de juiste kostenplaatsen in je financiele
       administratie. Op de pagina boekhoudsoftware voor MKB vind je een
       overzicht van pakketten die HR-koppelingen ondersteunen.
+
+categories:
+  - HR Software
+tags:
+  - hr-software
+  - sector
 ---
 
 {{< sector-cta-hr >}}

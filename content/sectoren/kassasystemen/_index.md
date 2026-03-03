@@ -23,6 +23,12 @@ faq:
       stromen verkopen automatisch door naar je financiele administratie. Op de
       pagina boekhoudsoftware per sector vind je een overzicht van systemen die
       deze koppeling ondersteunen.
+
+categories:
+  - Kassasystemen
+tags:
+  - kassasystemen
+  - sector
 ---
 
 {{< sector-cta-kassasystemen >}}

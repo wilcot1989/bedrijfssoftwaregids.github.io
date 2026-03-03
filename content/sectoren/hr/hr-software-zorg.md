@@ -5,6 +5,12 @@ lastmod: 2026-03-03
 description: "HR software voor de zorg vergelijken: AFAS, Visma Raet en Loket.nl op CAO Zorg, BIG-register en dienstrooster. Start de gratis HR keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+
+categories:
+  - HR Software
+tags:
+  - hr-software
+  - sector
 ---
 
 {{< sector-cta-hr >}}

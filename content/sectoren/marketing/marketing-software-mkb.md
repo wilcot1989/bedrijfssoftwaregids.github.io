@@ -5,6 +5,12 @@ lastmod: 2026-03-03
 description: "Marketing software voor MKB vergelijken: HubSpot, ActiveCampaign en Mailchimp op automation, lead tracking en CRM-koppeling. Start de keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+
+categories:
+  - Marketing
+tags:
+  - marketing
+  - sector
 ---
 
 {{< sector-cta-marketing >}}

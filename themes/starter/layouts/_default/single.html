@@ -30,7 +30,7 @@
     {{ .Content }}
     {{ if .Params.tags }}
     <div class="tags" style="margin-top:2rem;">
-      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+      {{ range .Params.tags }}<a class="tag" href="/tags/{{ . | urlize }}/">{{ . }}</a>{{ end }}
     </div>
     {{ end }}
     {{ if .Params.affiliate }}
