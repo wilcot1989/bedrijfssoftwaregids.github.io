@@ -1,0 +1,110 @@
+---
+title: "Kassasysteem voor kapsalon 2026: POS voor schoonheidssalons"
+date: 2026-03-03
+lastmod: 2026-03-03
+description: "Kassasysteem voor kapsalon: vergelijk Square, Zettle en Lightspeed op afsprakenbeheer, productverkoop en gebruiksgemak. Doe de gratis keuzehulp."
+author: "Lars de Vries"
+author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+---
+
+{{< sector-cta-kassasystemen >}}
+
+Een kapsalon heeft een heel specifieke kassa-behoefte: je verkoopt diensten (knippen, verven, behandelingen) én producten (shampoo, styling), en je wilt fooi gemakkelijk kunnen verwerken. De meeste generieke kassasystemen zijn hierop niet ingericht. Ik bespreek de drie systemen die ik in de praktijk het vaakst zie werken bij kappers en schoonheidssalons.
+
+## Wat heeft een kapsalon nodig van een kassasysteem?
+
+Een POS kassasysteem voor kapsalon wijkt af van retail of horeca:
+
+- **Diensten én producten** — Behandelingen als dienst registreren naast fysieke productverkoop
+- **Fooi-verwerking** — Fooi toevoegen aan de rekening voor PIN-betalingen; splitsen per medewerker
+- **Medewerker-koppeling** — Omzet en fooi per stylist bijhouden voor provisieberekening
+- **Cadeaubonnen** — Cadeaubonnen uitgeven en inlossen; populair bij kapsalons
+- **Eenvoudige bediening** — Kassasysteem dat klaar is terwijl de klant nog in de stoel zit
+- **Pinbetaling zonder contract** — Geen langlopend contract met een grote provider
+
+## Beste kassasystemen voor kapsalon
+
+### 1. Square — Beste allrounder voor kapsalons
+
+Square is de meest gebruikte kassa-oplossing onder kapsalons en schoonheidssalons. De app is gratis, de hardware is betaalbaar, en de fooi-functie zit standaard ingebouwd. Ik heb Square geadviseerd aan meerdere kapperszaken — de terugkerende reden is altijd hetzelfde: het werkt gewoon, zonder gedoe. De Square Appointments-app (afsprakenbeheer) is een gratis extra die het systeem compleet maakt voor salons.
+
+**Wat werkt goed voor kapsalons:**
+- Diensten en producten in dezelfde productcatalogus registreren
+- Fooi toevoegen bij de afrekening via touchscreen of PIN-terminal
+- Omzet per medewerker bijhouden voor provisieberekening
+- Cadeaubonnen aanmaken en inlossen
+- Square Appointments: gratis online afsprakenbeheer inclusief
+- Contactloze betaling via reader van €19
+
+**Wat ontbreekt:** Geen geavanceerd voorraadbeheer; transactiekosten lopen op bij hoge omzet.
+
+**Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Square Reader: €19. Square Stand (voor vaste opstelling): €129.
+
+<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Square →</a>
+
+---
+
+### 2. Zettle by PayPal — Beste voor kleine salons en ZZP-kappers
+
+Zettle is ideaal voor de zelfstandige kapper of kleine salon die een eenvoudige, betaalbare kassa-oplossing zoekt. Reader van €29, gratis app, en je accepteert dezelfde dag nog PIN-betalingen. De fooi-functie zit ingebouwd; voor grotere salonketens met meerdere medewerkers en uitgebreider productenassortiment is Square of Lightspeed beter geschikt.
+
+**Wat werkt goed voor kapsalons:**
+- Minimale investering: reader €29, app gratis
+- Producten en diensten registreren in eenvoudige interface
+- Fooi toevoegen bij afrekening
+- Betrouwbare betaalverwerking via PayPal-netwerk
+- Dagrapporten en BTW-export voor je boekhouder
+- Meerdere betaalmethoden: PIN, contactloos, QR
+
+**Wat ontbreekt:** Geen medewerker-provisiebeheer, geen cadeaubon-module, geen afsprakenbeheer.
+
+**Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Zettle Reader 2: €29. Store Kit: vanaf €249.
+
+<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Zettle →</a>
+
+---
+
+### 3. Lightspeed Retail — Beste voor grotere salons met uitgebreid assortiment
+
+Voor kapsalons en schoonheidscentra die ook een uitgebreide winkel runnen — met tientallen haarproducten, behandelingsproducten en accessoires — is Lightspeed Retail de sterkste keuze. Het voorraadbeheer en de productvarianten (maat, kleur, formaat) zijn van een ander niveau. Ik adviseer Lightspeed Retail aan salons die ook online verkopen of meerdere vestigingen hebben.
+
+**Wat werkt goed voor kapsalons:**
+- Uitgebreid productenassortiment met varianten beheren
+- Medewerker-omzetrapportage per dag, week en behandeling
+- Cadeaubonnen aanmaken en inlossen
+- Koppeling met webshop voor online productverkoop
+- Barcode-scannen bij producten aan de balie
+- Loyaltyprogramma voor vaste klanten
+
+**Wat ontbreekt:** Geen ingebouwd afsprakensysteem; hogere maandkosten dan Square of Zettle.
+
+**Prijs:** Basic €59/maand. Standard €119/maand. Hardware startpakket: iPad + scanner.
+
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed Retail →</a>
+
+---
+
+## Vergelijking: kassasystemen voor kapsalon
+
+| Kassasysteem | Prijs/maand | Fooi-verwerking | Medewerker-omzet | Cadeaubonnen | Afsprakenbeheer |
+|-------------|------------|----------------|-----------------|-------------|----------------|
+| **Square** | Gratis | ✅ | ✅✅ | ✅ | ✅ (Appointments) |
+| **Zettle** | Gratis | ✅ | ❌ | ❌ | ❌ |
+| **Lightspeed Retail** | €59 | ✅ | ✅✅✅ | ✅ | ❌ (apart) |
+
+## Mijn advies
+
+- **ZZP-kapper of kleine salon:** Zettle — reader van €29 en je bent direct klaar.
+- **Salon met 2-10 medewerkers:** Square — fooi, medewerker-omzet, cadeaubonnen en afspraken in één gratis pakket.
+- **Salon met grote productlijn of meerdere vestigingen:** Lightspeed Retail — het voorraadbeheer en de rapportages zijn van een ander niveau.
+
+Nog onzeker welk kassasysteem voor jouw kapsalon het beste werkt? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) voor een advies op maat. Bereken ook de [kassaystemen kosten](/tools/kassasystemen/kosten-berekenen/) per maand voor jouw salongrootte, en vergelijk de [transactiekosten per betaalmethode](/tools/kassasystemen/transactiekosten-berekenen/) zodat je weet of transactiekosten of een vast abonnement voordeliger uitpakt.
+
+{{< sector-cta-kassasystemen >}}
+
+## Lees ook
+
+- **[Kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/)** — Vergelijkbare behoeften voor winkels
+- **[Kassasysteem voor sportschool](/sectoren/kassasystemen/kassasysteem-sportschool/)** — Abonnementen en losse verkoop combineren
+- **[Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/)** — Uitgebreide POS-vergelijking
+- **[Alle kassasystemen vergelijken](/categories/kassasystemen/)** — Compleet overzicht
