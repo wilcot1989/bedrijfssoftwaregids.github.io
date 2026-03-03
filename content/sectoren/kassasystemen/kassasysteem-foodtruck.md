@@ -125,5 +125,5 @@ Vaste klanten bereiken via een nieuwsbrief of locatie-updates is een eenvoudige 
 
 - **[Kassasysteem voor horeca](/sectoren/kassasystemen/kassasysteem-horeca/)** — Vaste horecalocaties met tafelmanagement
 - **[Kassasysteem voor kapsalon](/sectoren/kassasystemen/kassasysteem-kapsalon/)** — Mobiele en kleine locaties
-- **[Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/)** — Uitgebreide vergelijking inclusief Zettle en Square
+- **[Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/)** — Uitgebreide vergelijking inclusief Zettle en Square
 - **[Alle kassasystemen vergelijken](/categories/kassasystemen/)** — Compleet overzicht met filteropties

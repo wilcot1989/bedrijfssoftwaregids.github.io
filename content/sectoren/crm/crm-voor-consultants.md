@@ -116,8 +116,8 @@ Als je consultancybedrijf groeit naar een klein team, is ook HR-software relevan
 
 ## Lees ook
 
-- **[Beste CRM software Nederland 2026](/posts/beste-crm-software-nederland-2026/)** — Uitgebreide CRM-vergelijking
-- **[HubSpot vs Pipedrive vergelijking](/posts/pipedrive-vs-monday-crm-2026/)** — Directe vergelijking
-- **[HubSpot CRM review 2026](/posts/hubspot-crm-review-2026/)** — Diepgaande beoordeling
+- **[Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/)** — Uitgebreide CRM-vergelijking
+- **[HubSpot vs Pipedrive vergelijking](/blog/pipedrive-vs-monday-crm-2026/)** — Directe vergelijking
+- **[HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/)** — Diepgaande beoordeling
 - **[CRM voor bouwbedrijven](/sectoren/crm/crm-voor-bouwbedrijven/)** — Vergelijkbare projectgebaseerde sector
-- **[Beste software voor ZZP 2026](/posts/beste-software-zzp-2026/)** — Tools voor freelance consultants
+- **[Beste software voor ZZP 2026](/blog/beste-software-zzp-2026/)** — Tools voor freelance consultants

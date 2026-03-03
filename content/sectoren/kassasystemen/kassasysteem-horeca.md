@@ -121,7 +121,7 @@ Horeca die ook online bestellingen of cadeaubonnen verkoopt, heeft baat bij mark
 
 ## Lees ook
 
-- **[Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/)** — Uitgebreide vergelijking van 6 systemen inclusief Square en Zettle
+- **[Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/)** — Uitgebreide vergelijking van 6 systemen inclusief Square en Zettle
 - **[Kassasysteem voor foodtruck](/sectoren/kassasystemen/kassasysteem-foodtruck/)** — Mobiel kassasysteem voor buiten
 - **[Kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/)** — Voor winkels en mode
 - **[Alle kassasystemen vergelijken](/categories/kassasystemen/)** — Compleet overzicht met filteropties

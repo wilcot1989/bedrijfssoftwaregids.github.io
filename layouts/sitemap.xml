@@ -14,7 +14,7 @@
       {{- $priority = "0.8" }}
     {{- else if eq .Section "sectoren" }}
       {{- $priority = "0.8" }}
-    {{- else if in (slice "posts" "blog") .Section }}
+    {{- else if eq .Section "blog" }}
       {{- $priority = "0.7" }}
     {{- else if eq .Kind "section" }}
       {{- $priority = "0.6" }}

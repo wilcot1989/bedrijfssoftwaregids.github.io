@@ -125,5 +125,5 @@ Een klantenkaart bijhouden en afspraakherinneringen sturen werkt beter met een e
 
 - **[Kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/)** — Vergelijkbare behoeften voor winkels
 - **[Kassasysteem voor sportschool](/sectoren/kassasystemen/kassasysteem-sportschool/)** — Abonnementen en losse verkoop combineren
-- **[Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/)** — Uitgebreide POS-vergelijking
+- **[Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/)** — Uitgebreide POS-vergelijking
 - **[Alle kassasystemen vergelijken](/categories/kassasystemen/)** — Compleet overzicht

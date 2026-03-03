@@ -91,7 +91,7 @@ In de meeste bedrijven is de behoefte aan beide. Kies dan het systeem dat het me
 
 ## Lees ook
 
-- [Beste HR software Nederland 2026](/posts/beste-hr-software-nederland-2026/) — HR-pakketten met urenregistratie
-- [Beste urenregistratie software 2026](/posts/beste-urenregistratie-software-2026/) — standalone urenregistratie tools
+- [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — HR-pakketten met urenregistratie
+- [Beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/) — standalone urenregistratie tools
 
 Wil je direct HR software vergelijken? Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/).

@@ -125,5 +125,5 @@ Nieuwe leden werven en bestaande leden behouden vraagt om gerichte marketing. Op
 
 - **[Kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/)** — Voor winkels met uitgebreid assortiment
 - **[Kassasysteem voor kapsalon](/sectoren/kassasystemen/kassasysteem-kapsalon/)** — Vergelijkbare mix van diensten en producten
-- **[Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/)** — Uitgebreide vergelijking
+- **[Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/)** — Uitgebreide vergelijking
 - **[Alle kassasystemen vergelijken](/categories/kassasystemen/)** — Compleet overzicht met filteropties

@@ -87,6 +87,6 @@ Vraag ook om een overzicht van alle kosten in jaar één en jaar drie apart. Jaa
 
 ## Lees ook
 
-- [Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/) — vergelijk kassasystemen op prijs en verborgen kosten
+- [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — vergelijk kassasystemen op prijs en verborgen kosten
 
 Wil je direct kassasystemen vergelijken? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

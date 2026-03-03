@@ -36,7 +36,7 @@ tags:
 
 Een kassasysteem is voor veel ondernemers een dagelijks werktuig, maar de keuze ervan verdient meer aandacht dan het op het eerste gezicht lijkt. Een kassasysteem is niet alleen een manier om betalingen te verwerken -- het is ook een rapportagetool, een voorraadbeheerder en in veel gevallen de brug naar je boekhouding en salarisadministratie.
 
-Bekijk ook de complete vergelijking: [Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/) — alle kassasystemen vergeleken op prijs en functies.
+Bekijk ook de complete vergelijking: [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — alle kassasystemen vergeleken op prijs en functies.
 
 De diversiteit in kassasystemen is groot. Aan de ene kant zijn er ultraeenvoudige readers voor minder dan EUR 30 die via je smartphone werken en perfect zijn voor een foodtruck of marktkoopman. Aan de andere kant zijn er volledig geintegreerde POS-systemen met tafelmanagement, bezorgkoppelingen, loyaliteitsprogrammas en koppelingen met meerdere vestigingen -- systemen die duizenden euro's kunnen kosten maar voor een fullservice restaurant of retailketen goud waard zijn.
 

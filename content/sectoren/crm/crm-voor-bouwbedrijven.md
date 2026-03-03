@@ -115,7 +115,7 @@ Bouwbedrijven die nieuwe opdrachtgevers willen bereiken, kunnen ook marketing st
 
 ## Lees ook
 
-- **[Beste ERP software MKB 2026](/posts/beste-erp-software-mkb-2026/)** — Volledige ERP-vergelijking
-- **[Beste CRM software Nederland 2026](/posts/beste-crm-software-nederland-2026/)** — Algemeen CRM-overzicht
-- **[Beste boekhoudsoftware ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/)** — Voor ZZP-aannemers
+- **[Beste ERP software MKB 2026](/blog/beste-erp-software-mkb-2026/)** — Volledige ERP-vergelijking
+- **[Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/)** — Algemeen CRM-overzicht
+- **[Beste boekhoudsoftware ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/)** — Voor ZZP-aannemers
 - **[CRM voor consultants](/sectoren/crm/crm-voor-consultants/)** — Vergelijkbare projectgebaseerde sector
