@@ -27,6 +27,12 @@ faq:
       handmatige export. Gebruik je nog geen CRM, bekijk dan CRM software per
       sector voor een overzicht van systemen die goed samenwerken met marketing
       tools.
+
+categories:
+  - Marketing
+tags:
+  - marketing
+  - sector
 ---
 
 {{< sector-cta-marketing >}}

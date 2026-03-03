@@ -7,7 +7,7 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="canonical" href="{{ .Permalink }}">
-  <meta name="robots" content="{{ if .Params.noindex }}noindex, follow{{ else }}index, follow{{ end }}">
+  <meta name="robots" content="{{ if .Params.noindex }}noindex, follow{{ else if and (eq .Kind "term") (eq .Type "tags") (lt (len .Pages) 3) }}noindex, follow{{ else }}index, follow{{ end }}">
   <meta name="author" content="{{ .Site.Params.author }}">
   <meta name="impact-site-verification" value="ca0b4fb2-7247-4310-92f2-f687cdd2ac25">
   <meta name="f5b3374595df9e1" content="576bf8e1028d7a0318ff5ea2a7ce7974">
@@ -74,12 +74,17 @@
     "publisher": {
       "@type": "Organization",
       "name": "{{ .Site.Title }}",
-      "url": "{{ .Site.BaseURL }}"
+      "url": "{{ .Site.BaseURL }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}favicon.svg"
+      }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "{{ .Permalink }}"
-    }
+    },
+    "image": "{{ .Site.BaseURL }}{{ with .Params.featured_image }}{{ strings.TrimPrefix "/" . }}{{ else }}images/og-default.svg{{ end }}"
   }
   </script>
   {{ partial "schema-faq.html" . }}
@@ -112,6 +117,18 @@
   {{ end }}
   {{ else if .IsSection }}
   {{ partial "schema-faq.html" . }}
+  {{ end }}
+  {{ if or (eq .Kind "term") (eq .Kind "section") }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type":"ListItem","position":1,"name":"Home","item":"{{ .Site.BaseURL }}"},
+      {"@type":"ListItem","position":2,"name":"{{ .Title }}","item":"{{ .Permalink }}"}
+    ]
+  }
+  </script>
   {{ end }}
 
   <!-- Google Analytics loads only after explicit consent -->

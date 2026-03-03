@@ -5,6 +5,12 @@ lastmod: 2026-03-03
 description: "CRM software voor recruitmentbureaus: vergelijk Bullhorn, HubSpot en Recruitee op kandidaatbeheer en opdrachtgeverspipeline. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+
+categories:
+  - CRM
+tags:
+  - crm
+  - sector
 ---
 
 {{< sector-cta-crm >}}

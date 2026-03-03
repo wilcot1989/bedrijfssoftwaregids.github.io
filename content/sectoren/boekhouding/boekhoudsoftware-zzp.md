@@ -5,6 +5,12 @@ lastmod: 2026-03-03
 description: "Boekhoudsoftware voor ZZP'ers vergelijken: Moneybird, Jortt en e-Boekhouden op prijs, BTW-aangifte en gebruiksgemak. Start de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+
+categories:
+  - Boekhouding
+tags:
+  - boekhouding
+  - sector
 ---
 
 {{< sector-cta-boekhouding >}}

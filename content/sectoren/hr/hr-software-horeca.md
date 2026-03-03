@@ -5,6 +5,12 @@ lastmod: 2026-03-03
 description: "HR software voor horeca vergelijken: Shiftbase, Loket.nl en AFAS op roosterplanning, oproepkrachten en loonverwerking. Start de gratis HR keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+
+categories:
+  - HR Software
+tags:
+  - hr-software
+  - sector
 ---
 
 {{< sector-cta-hr >}}

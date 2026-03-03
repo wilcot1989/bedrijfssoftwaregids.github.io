@@ -23,6 +23,12 @@ faq:
       Nederlandse accountantskantoren. Als je samenwerkt met een externe
       accountant, vraag dan eerst welk systeem zij gebruiken voordat je een
       keuze maakt. Samenwerken in hetzelfde systeem bespaart beiden tijd.
+
+categories:
+  - Boekhouding
+tags:
+  - boekhouding
+  - sector
 ---
 
 {{< sector-cta-boekhouding >}}

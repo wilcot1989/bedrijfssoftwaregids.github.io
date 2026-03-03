@@ -5,6 +5,12 @@ lastmod: 2026-03-03
 description: "E-mail marketing voor ZZP'ers vergelijken: MailerLite, Brevo en Mailchimp op prijs, nieuwsbrieven en landingspaginas. Start de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+
+categories:
+  - Marketing
+tags:
+  - marketing
+  - sector
 ---
 
 {{< sector-cta-marketing >}}

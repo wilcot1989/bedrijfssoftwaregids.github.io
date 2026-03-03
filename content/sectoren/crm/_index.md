@@ -23,6 +23,12 @@ faq:
       operationeel hebben. De tijd zit vooral in het importeren van je bestaande
       contacten en het inrichten van je pipeline-stappen. Een volledig pakket
       zoals Salesforce of AFAS vergt meerdere weken implementatie.
+
+categories:
+  - CRM
+tags:
+  - crm
+  - sector
 ---
 
 {{< sector-cta-crm >}}

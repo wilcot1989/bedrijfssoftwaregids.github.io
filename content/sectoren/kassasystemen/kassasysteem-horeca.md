@@ -5,6 +5,12 @@ lastmod: 2026-03-03
 description: "Kassasysteem voor horeca vergelijken: Lightspeed Restaurant, Untill en Orderbird op tafelmanagement, bezorgintegratie en prijs. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
+
+categories:
+  - Kassasystemen
+tags:
+  - kassasystemen
+  - sector
 ---
 
 {{< sector-cta-kassasystemen >}}
