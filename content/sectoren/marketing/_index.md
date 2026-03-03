@@ -29,7 +29,7 @@ faq:
       tools.
 
 categories:
-  - Marketing
+  - marketing
 tags:
   - marketing
   - sector

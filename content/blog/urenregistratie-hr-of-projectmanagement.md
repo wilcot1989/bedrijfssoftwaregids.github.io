@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Urenregistratie via HR software of projectmanagement? Vergelijk de opties voor MKB en bouwbedrijven. Bereken de kosten van HR software voor jouw situatie."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/hr-software.svg"
 categories:
   - Blog
-  - HR Software
+  - hr-software
 tags:
   - hr
   - urenregistratie

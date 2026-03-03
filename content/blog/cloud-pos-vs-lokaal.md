@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Cloud kassasysteem of lokale POS-software? Vergelijk betrouwbaarheid, kosten en flexibiliteit voor horeca en retail. Doe de gratis kassasysteem keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/kassasystemen.svg"
 categories:
   - Blog
-  - Kassasystemen
+  - kassasystemen
 faq:
   - q: "Wat is het verschil tussen een cloud kassasysteem en een lokaal kassasysteem?"
     a: "Een cloud kassasysteem slaat alle data op externe servers op en werkt via internetverbinding. Een lokaal kassasysteem installeert de software op een eigen server of kassa-pc op locatie en is onafhankelijk van internet. Cloud biedt meer flexibiliteit, automatische updates en eenvoudige uitbreiding naar meerdere locaties. Een lokaal systeem biedt meer zekerheid bij slechte of onbetrouwbare internetverbinding."

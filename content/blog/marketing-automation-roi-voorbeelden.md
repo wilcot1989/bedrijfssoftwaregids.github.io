@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Marketing automation loont -- maar wanneer precies? Bekijk 4 ROI-voorbeelden voor MKB en webshops. Bereken de lead-ROI voor jouw situatie."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/marketing.svg"
 categories:
   - Blog
-  - Marketing
+  - marketing
 faq:
   - q: "Wat is een realistische ROI van marketing automation voor MKB?"
     a: "Voor Nederlandse MKB-bedrijven ligt de ROI sterk afhankelijk van het startpunt en de kwaliteit van de implementatie. In de praktijk zie ik dat bedrijven die automation inzetten voor e-mail nurturing en verlaten-wagen-opvolging een positieve ROI bereiken binnen drie tot acht maanden. Een conservatieve schatting: als automation je leadconversie met 20% verbetert en je huidige omzet EUR 50.000 per maand is, praat je over EUR 10.000 extra per jaar — ruim boven de platformkosten van de meeste tools."

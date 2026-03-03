@@ -107,7 +107,7 @@
         "@type": "ListItem",
         "position": 2,
         "name": "{{ $cat | humanize | title }}",
-        "item": "{{ $.Site.BaseURL }}categories/{{ $cat }}/"
+        "item": "{{ $.Site.BaseURL }}categories/{{ $cat | urlize }}/"
       }{{ end }},
       {
         "@type": "ListItem",

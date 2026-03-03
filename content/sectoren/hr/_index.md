@@ -29,7 +29,7 @@ faq:
       overzicht van pakketten die HR-koppelingen ondersteunen.
 
 categories:
-  - HR Software
+  - hr-software
 tags:
   - hr-software
   - sector

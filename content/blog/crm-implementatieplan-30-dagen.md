@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "CRM implementeren zonder gedoe in 30 dagen? Dit stappenplan werkt voor MKB-bedrijven van 2 tot 20 medewerkers. Doe eerst de CRM keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/crm.svg"
 categories:
   - Blog
-  - CRM
+  - crm
 faq:
   - q: "Hoe lang duurt een CRM-implementatie voor een MKB-bedrijf?"
     a: "Voor een MKB-bedrijf met twee tot twintig medewerkers is dertig dagen een realistische termijn voor de basisimplementatie. Week één is voor selectie en voorbereiding, week twee voor inrichting, week drie voor data-import en onboarding, en week vier voor validatie en optimalisatie. Na dertig dagen staat het fundament, maar de maanden erna zijn minstens zo belangrijk voor het doorontwikkelen van het systeem op basis van dagelijks gebruik."

@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Boekhoudsoftware of een boekhouder inhuren? Vergelijk de werkelijke kosten en bespaar tot EUR 2.000 per jaar. Inclusief keuzehulp per bedrijfsgrootte."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/boekhouding.svg"
 categories:
   - Blog
-  - Boekhouding
+  - boekhouding
 faq:
   - q: "Hoeveel goedkoper is boekhoudsoftware dan een externe boekhouder?"
     a: "Voor een ZZP'er of eenmanszaak met eenvoudige administratie is het verschil al snel EUR 1.500 tot EUR 3.000 per jaar. Een externe boekhouder kost gemiddeld EUR 1.800 tot EUR 4.000 per jaar; boekhoudsoftware kost EUR 100 tot EUR 400 per jaar. De exacte besparing hangt af van je omzet, het aantal transacties en de complexiteit van je kosten."

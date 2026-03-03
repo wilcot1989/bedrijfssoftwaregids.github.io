@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Welke boekhoudsoftware ondersteunt BTW-aangifte in Nederland het best? Vergelijk functies voor eenmanszaken en freelancers. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/boekhouding.svg"
 categories:
   - Blog
-  - Boekhouding
+  - boekhouding
 faq:
   - q: "Kan boekhoudsoftware mijn BTW-aangifte automatisch invullen?"
     a: "Ja, alle moderne boekhoudsoftware voor Nederlandse ondernemers vult de negen rubrieken van de BTW-aangifte automatisch in op basis van je geboekte transacties. Je hoeft alleen te controleren of de bedragen kloppen en daarna in te dienen. Pakketten als Moneybird, e-Boekhouden en Exact Online bieden ook een directe koppeling met de Belastingdienst via Digipoort, zodat je de aangifte vanuit het systeem zelf indient."

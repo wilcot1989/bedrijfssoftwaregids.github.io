@@ -25,7 +25,7 @@ faq:
       deze koppeling ondersteunen.
 
 categories:
-  - Kassasystemen
+  - kassasystemen
 tags:
   - kassasystemen
   - sector

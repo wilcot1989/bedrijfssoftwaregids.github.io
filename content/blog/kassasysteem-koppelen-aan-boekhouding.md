@@ -5,9 +5,10 @@ lastmod: 2026-03-03
 description: "Kassasysteem automatisch koppelen aan je boekhouding? Vergelijk de beste combinaties voor horeca en kapsalon. Bereken hoeveel tijd je bespaart."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+featured_image: "images/categories/kassasystemen.svg"
 categories:
   - Blog
-  - Kassasystemen
+  - kassasystemen
 faq:
   - q: "Hoe koppel ik mijn kassasysteem aan mijn boekhouding?"
     a: "Je koppelt een kassasysteem aan je boekhouding via een directe API-koppeling, een CSV-export of via een middleware-tool zoals Zapier of Make. De meest gebruikte combinatie in Nederland is Lightspeed Restaurant met Exact Online via een directe API. Controleer eerst het exportformat van je kassasysteem en het importformat van je boekhoudpakket. Test de koppeling twee weken lang met live data voor je er volledig op vertrouwt — vergelijk de automatisch geïmporteerde bedragen altijd met de handmatige dagstaat."
