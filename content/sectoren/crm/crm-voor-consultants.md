@@ -1,8 +1,8 @@
 ---
-title: "CRM voor Consultants en Adviesbureaus 2026"
+title: "CRM software voor consultants en adviesbureaus 2026"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "Beste CRM voor consultants en adviesbureaus. Vergelijk HubSpot, Pipedrive en Teamleader op relatiebeheer, proposalbeheer en retainer-tracking."
+description: "CRM software voor consultants en adviesbureaus: vergelijk HubSpot, Pipedrive en Teamleader op relatiebeheer en proposalbeheer. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---

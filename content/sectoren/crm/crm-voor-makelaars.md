@@ -1,8 +1,8 @@
 ---
-title: "CRM voor Makelaars 2026: Beste Software voor Vastgoedbureaus"
+title: "CRM software voor makelaars 2026: Vastgoed CRM vergelijken"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "Welk CRM past bij een makelaarskantoor? Vergelijk HubSpot, Pipedrive en Realworks op leadbeheer, bezichtigingen en Funda-integratie."
+description: "CRM software voor makelaars: vergelijk HubSpot, Pipedrive en Realworks op leadbeheer, bezichtigingen en Funda-integratie. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---
@@ -21,7 +21,7 @@ Makelaarskantoren hebben andere eisen dan een typisch B2B-bedrijf:
 - **Woningkoppeling** — Contacten koppelen aan specifieke woningen (niet elke CRM ondersteunt dit out-of-the-box)
 - **Follow-up automatisering** — Automatisch een week na bezichtiging mailen: "Heb je al een beslissing genomen?"
 
-## Beste CRM-opties voor makelaars
+## Beste CRM software voor makelaars
 
 ### 1. HubSpot CRM — Beste gratis optie
 
@@ -73,9 +73,11 @@ Realworks is niet zomaar een CRM — het is specifiek gebouwd voor de Nederlands
 
 **Prijs:** Op aanvraag (abonnement + NVM-lidmaatschap).
 
+<a href="https://www.realworks.nl/" target="_blank" rel="noopener noreferrer" class="cta-outline">Bekijk Realworks →</a>
+
 ---
 
-## Vergelijking
+## Vergelijking: vastgoed CRM systemen
 
 | CRM | Prijs/maand | Funda-koppeling | Pipeline | NL-support |
 |-----|------------|----------------|---------|-----------|

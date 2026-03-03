@@ -1,8 +1,8 @@
 ---
-title: "CRM voor SaaS Startups 2026: Van Trial tot MRR"
+title: "CRM software voor SaaS startups 2026: Van Trial tot MRR"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "Welk CRM past bij een SaaS-startup? Vergelijk HubSpot, Pipedrive en Salesforce op trial-conversie, churn-preventie en PLG-integratie."
+description: "CRM software voor SaaS startups: vergelijk HubSpot, Pipedrive en Salesforce op trial-conversie, churn-preventie en PLG-integratie. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---
@@ -98,6 +98,6 @@ Nog onzeker? Gebruik de [CRM keuzehulp voor SaaS-startups](/tools/crm/keuzehulp/
 ## Lees ook
 
 - **[Beste CRM software Nederland 2026](/posts/beste-crm-software-nederland-2026/)** — Uitgebreide vergelijking
-- **[HubSpot vs Pipedrive 2026](/posts/hubspot-vs-monday-crm-2026/)** — Directe vergelijking
+- **[HubSpot vs Pipedrive 2026](/posts/hubspot-vs-pipedrive-2026/)** — Directe vergelijking
 - **[HubSpot CRM review 2026](/posts/hubspot-crm-review-2026/)** — Diepgaande beoordeling
 - **[CRM voor consultants](/sectoren/crm/crm-voor-consultants/)** — Adviesgerichte sector

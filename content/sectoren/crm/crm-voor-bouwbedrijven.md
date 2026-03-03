@@ -1,8 +1,8 @@
 ---
-title: "CRM voor Bouwbedrijven 2026: Offertes, Projecten en Klantrelaties"
+title: "CRM software voor bouwbedrijven 2026: Offertes, Projecten en Klantrelaties"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "Beste CRM voor de bouw. Vergelijk AFAS, Exact Online en Pipedrive op offertebeheer, projectkoppeling en langlopende klantrelaties in de bouwsector."
+description: "CRM software voor bouwbedrijven: vergelijk AFAS, Exact Online en Pipedrive op offertebeheer, projectkoppeling en klantrelaties. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---

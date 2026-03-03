@@ -1,8 +1,8 @@
 ---
-title: "CRM voor Recruitment Bureaus 2026: Kandidaten en Opdrachtgevers"
+title: "CRM software voor recruitmentbureaus 2026: Kandidaten en Opdrachtgevers"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "Beste CRM voor recruitmentbureaus. Vergelijk Bullhorn, HubSpot en Recruitee op kandidaatbeheer, opdrachtgeverspipeline en plaatsingsregistratie."
+description: "CRM software voor recruitmentbureaus: vergelijk Bullhorn, HubSpot en Recruitee op kandidaatbeheer en opdrachtgeverspipeline. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 ---
