@@ -44,7 +44,7 @@ Een lijst met 5.000 contacten waarvan 2.000 al twee jaar niet hebben geopend is 
 
 Plan twee keer per jaar een opschoonronde. Verwijder harde bounces direct en permanent -- een hard bounce betekent dat het e-mailadres niet bestaat en herhaald verzenden naar dat adres schaadt de reputatie. Zachte bounces -- mailbox vol, server tijdelijk onbereikbaar -- kun je na drie opeenvolgende mislukkingen archiveren.
 
-Stuur een reactiveringsmail naar iedereen die zes tot twaalf maanden niet heeft geopend. Een directe vraag werkt het best: "Wil je onze nieuwsbrief blijven ontvangen? Klik hier." Wie niet reageert binnen twee weken, verwijder je van de actieve lijst.
+Stuur een reactiveringsmail naar iedereen die zes tot twaalf maanden niet heeft geopend. Een directe vraag werkt het best: "Wil je onze nieuwsbrief blijven ontvangen? Klik hier." Wie niet reageert binnen twee weken, verwijder je van de actieve lijst. Een lijst die langzaam krimpt wijst soms op een leadgeneratieprobleem; welke B2B-kanalen structureel nieuwe contacten aanleveren lees je in [Leadgeneratie tools voor B2B in Nederland](/blog/leadgeneratie-tools-b2b-nederland/).
 
 Voor [ZZP'ers en kleine ondernemers](/sectoren/marketing/email-marketing-zzp/) met een kleine lijst is dit extra belangrijk: een spammelding-rate van 0,3% -- drie klachten op duizend e-mails -- kan bij een kleine verzender leiden tot tijdelijke opschorting van het account door het platform.
 
@@ -76,4 +76,6 @@ Een volledig overzicht van e-mailmarketingtools voor jouw situatie vind je op de
 
 AVG-compliance heeft een directe impact op deliverability. E-mailmarketing aan contacten die geen toestemming hebben gegeven is niet alleen juridisch problematisch maar ook technisch schadelijk: ontvangers die zich niet herinneren zich te hebben aangemeld, markeren de e-mail eerder als spam.
 
-Gebruik altijd een dubbele opt-in waarbij de ontvanger zijn aanmelding bevestigt via een bevestigingsmail. Dat verlaagt de lijstgrootte maar verhoogt de kwaliteit en de betrokkenheid, wat direct ten goede komt aan de deliverability.
+Gebruik altijd een dubbele opt-in waarbij de ontvanger zijn aanmelding bevestigt via een bevestigingsmail. Dat verlaagt de lijstgrootte maar verhoogt de kwaliteit en de betrokkenheid, wat direct ten goede komt aan de deliverability. Zodra de deliverability op orde is, is automation de logische volgende stap; wat dat in de praktijk oplevert lees je in [Marketing automation ROI: 4 voorbeelden](/blog/marketing-automation-roi-voorbeelden/).
+
+Wil je direct marketingsoftware vergelijken? Gebruik onze [marketing keuzehulp](/tools/marketing/keuzehulp/).

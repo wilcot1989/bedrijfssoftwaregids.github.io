@@ -32,7 +32,7 @@ Wie beide doelen met één tool wil bereiken heeft een gecombineerde oplossing n
 
 Voor [MKB-bedrijven](/sectoren/hr/hr-software-mkb/) waarbij medewerkers standaard contracturen werken zonder projectgebonden facturering is de HR-urenmodule meer dan voldoende. Medewerkers registreren aanwezigheid, verlof en eventueel overwerk. De software koppelt dit aan de salarisadministratie en berekent automatisch de loonkosten inclusief eventuele overurentoeslag.
 
-Dit werkt ook goed voor bedrijven met ploegendiensten, wisselende roosters of nachtdiensten waarbij cao-toeslagen berekend moeten worden. De HR-tool kent de cao-parameters en berekent de salariskosten automatisch -- mits de cao correct is ingericht in het systeem.
+Dit werkt ook goed voor bedrijven met ploegendiensten, wisselende roosters of nachtdiensten waarbij cao-toeslagen berekend moeten worden. De HR-tool kent de cao-parameters en berekent de salariskosten automatisch -- mits de cao correct is ingericht in het systeem. Wie net een eerste medewerker aanneemt en de volledige HR-administratie wil opzetten, vindt een overzicht van de minimale toolset in [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/).
 
 De instap is laag: de meeste HR-pakketten hebben een urenmodule ingebouwd of als optie beschikbaar. NMBRS, Loket.nl en HR-tools als Personio bieden dit standaard.
 
@@ -48,7 +48,7 @@ Tools als Harvest, Toggl Track en Teamleader zijn in Nederland populair bij dien
 
 Generieke HR-tools missen het projectniveau. Generieke projecttools kennen de bouw-cao niet. De meest efficiënte oplossing is een sector-specifieke tool die beide combineert -- of een goed geconfigureerde koppeling tussen een HR-systeem en een projectadministratiepakket.
 
-Controleer bij aanschaf of de koppeling bidirectioneel werkt: uren ingevoerd in het projectsysteem moeten automatisch en zonder handmatige tussenstap zichtbaar zijn in de salarisadministratie.
+Controleer bij aanschaf of de koppeling bidirectioneel werkt: uren ingevoerd in het projectsysteem moeten automatisch en zonder handmatige tussenstap zichtbaar zijn in de salarisadministratie. Voor bouwbedrijven speelt naast urenregistratie ook verzuimregistratie een grote rol; wat de Wet Verbetering Poortwachter daarvoor vereist staat beschreven in [Verzuimregistratie en de Wet Verbetering Poortwachter](/blog/verzuimregistratie-wvp-software/).
 
 ## De rapportages die het meeste waarde toevoegen
 
@@ -75,3 +75,5 @@ Gebruik de [kosten berekenen tool voor HR software](/tools/hr-software/kosten-be
 Als je twijfelt welke richting je kiest, stel dan de vraag: wie heeft de meeste behoefte aan de data? Als de eigenaar of projectmanager wil weten hoe winstgevend een project is, kies je voor een projecttool. Als de salarisadministrateur wil weten hoeveel overuren er zijn gemaakt, kies je voor een HR-tool.
 
 In de meeste bedrijven is de behoefte aan beide. Kies dan het systeem dat het meest gebruikt wordt door het dagelijkse team en bouw van daaruit een koppeling naar het andere. Een half-ingerichte dubbele oplossing is altijd beter dan een volledig genegeerd alternatief.
+
+Wil je direct HR software vergelijken? Gebruik onze [HR software keuzehulp](/tools/hr-software/keuzehulp/).

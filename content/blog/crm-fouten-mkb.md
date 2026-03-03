@@ -40,7 +40,7 @@ Een CRM dat niet integreert met de e-mailclient, het boekhoudpakket of de offert
 
 De minimale integraties voor een functioneel CRM bij een gemiddeld MKB-bedrijf zijn drie: e-mailsynchronisatie zodat alle correspondentie automatisch aan het contactprofiel hangt, kalenderintegratie zodat afspraken direct in het CRM zichtbaar zijn, en idealiter een koppeling met het facturatiesysteem zodat iedereen weet welke klanten betaald hebben en welke niet.
 
-[Consultancybureaus](/sectoren/crm/crm-voor-consultants/) werken vaak met offertetrajecten die maanden duren en meerdere contactpersonen omvatten. Zonder integratie tussen CRM en offertesoftware raken versies zoek, worden dubbele offertes verstuurd en wordt de rapportage op dealstatus onbetrouwbaar -- met als gevolg dat de prognoses kloppen op papier maar niet in de realiteit.
+[Consultancybureaus](/sectoren/crm/crm-voor-consultants/) werken vaak met offertetrajecten die maanden duren en meerdere contactpersonen omvatten. Zonder integratie tussen CRM en offertesoftware raken versies zoek, worden dubbele offertes verstuurd en wordt de rapportage op dealstatus onbetrouwbaar -- met als gevolg dat de prognoses kloppen op papier maar niet in de realiteit. Een overzicht van welke koppelingen daadwerkelijk waarde toevoegen en hoe je ze evalueert, lees je in [CRM-integraties uitgelegd](/blog/crm-integraties-uitgelegd/).
 
 ## Fout 4: Slechte data-kwaliteit die verborgen blijft
 
@@ -64,6 +64,8 @@ De meeste bedrijven evalueren hun CRM-gebruik nooit systematisch. Ze weten niet 
 
 Stel na de implementatie drie meetpunten in: adoptie (hoeveel procent van de actieve deals staat in het systeem), nauwkeurigheid (kloppen dealwaarden en -fasen met de werkelijkheid) en snelheid (hoe lang staat een deal gemiddeld in elke fase). Evalueer na drie maanden en pas de inrichting aan op basis van wat je ziet.
 
-Een pipeline die realtime klopt is meer waard dan een mooie rapportage die gebaseerd is op onvolledige data. Pas als de cijfers betrouwbaar zijn, kun je op basis van het CRM sturen.
+Een pipeline die realtime klopt is meer waard dan een mooie rapportage die gebaseerd is op onvolledige data. Pas als de cijfers betrouwbaar zijn, kun je op basis van het CRM sturen. Wie wil weten hoe je een CRM stap voor stap invoert en adoptie bevordert, vindt een concreet stappenplan in [CRM implementeren in 30 dagen](/blog/crm-implementatieplan-30-dagen/).
 
 Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) als je twijfelt of het huidige systeem de juiste keuze is voor jouw bedrijfsgrootte en sector, of zie de [CRM software sectorgids](/sectoren/crm/) voor een vergelijking per branche.
+
+Wil je direct CRM software vergelijken? Gebruik onze [CRM keuzehulp](/tools/crm/keuzehulp/).

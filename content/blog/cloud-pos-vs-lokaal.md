@@ -52,7 +52,7 @@ Twee vragen bepalen de keuze voor de meeste ondernemers.
 
 **Hoe betrouwbaar is de internetverbinding op de locatie?** Als je werkt met een stabiele glasvezelverbinding en een 4G-backup-router als failover, is cloud vrijwel risicoloos. Als de internetverbinding regelmatig uitvalt en een stroomstoring ook de router raakt, heeft een lokaal systeem meer zekerheid voor de dagelijkse bedrijfsvoering.
 
-**Hoe belangrijk is externe toegang tot rapportages en flexibiliteit?** Als je meerdere locaties hebt of wilt, onderweg omzetcijfers wilt inzien of je boekhouder real-time toegang wil tot de kassa-export, is cloud de logische keuze. Een lokaal systeem vereist aanvullende technische configuratie voor externe toegang die extra kosten en complexiteit met zich meebrengt.
+**Hoe belangrijk is externe toegang tot rapportages en flexibiliteit?** Als je meerdere locaties hebt of wilt, onderweg omzetcijfers wilt inzien of je boekhouder real-time toegang wil tot de kassa-export, is cloud de logische keuze. Een lokaal systeem vereist aanvullende technische configuratie voor externe toegang die extra kosten en complexiteit met zich meebrengt. Naast de keuze tussen cloud en lokaal verdient ook de totale kostenstructuur aandacht; een volledige checklist vind je in [Kassasysteem verborgen kosten](/blog/kassasysteem-verborgen-kosten-checklist/).
 
 ## De impact op uitbreiding naar meerdere locaties
 
@@ -66,7 +66,7 @@ Voor ondernemers die nu één locatie hebben maar plannen hebben voor uitbreidin
 
 ## Hybride systemen als middenweg
 
-Sommige leveranciers bieden hybride systemen aan: de basis draait lokaal maar rapportages en beheer zijn via de cloud toegankelijk. Dit combineert de offline-betrouwbaarheid van een lokaal systeem met de toegankelijkheid van cloud. De kosten zijn doorgaans hoger dan een puur cloud-systeem maar lager dan een volledig geïnstalleerd lokaal systeem.
+Sommige leveranciers bieden hybride systemen aan: de basis draait lokaal maar rapportages en beheer zijn via de cloud toegankelijk. Dit combineert de offline-betrouwbaarheid van een lokaal systeem met de toegankelijkheid van cloud. De kosten zijn doorgaans hoger dan een puur cloud-systeem maar lager dan een volledig geïnstalleerd lokaal systeem. Ongeacht welke architectuur je kiest, wil je het kassasysteem koppelen aan de boekhouding; hoe dat werkt lees je in [Kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
 
 Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) voor een aanbeveling op basis van jouw branche, transactievolume en locatiesituatie. Een volledig overzicht van kassasystemen per branche staat op de [kassasystemen sectorgids](/sectoren/kassasystemen/).
 
@@ -75,3 +75,5 @@ Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) voor een aa
 Een aandachtspunt bij lokale systemen is dataverlies bij hardwaredefecten. Als de lokale server of kassa-pc uitvalt en er is geen actuele backup, ben je transactiegeschiedenis kwijt. Een kassasysteem dat je wettelijk verplicht bent zeven jaar te bewaren, moet ook daadwerkelijk zeven jaar beschikbaar zijn.
 
 Cloud-systemen lossen dit automatisch op: data wordt extern opgeslagen en is ook bij hardware-uitval direct beschikbaar zodra een vervangend apparaat is geconfigureerd. Bij lokale systemen is een geautomatiseerde dagelijkse backup naar een externe locatie of cloudopslag een minimale verplichting.
+
+Wil je direct kassasystemen vergelijken? Gebruik onze [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

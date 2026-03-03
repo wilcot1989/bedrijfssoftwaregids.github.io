@@ -34,7 +34,7 @@ Begin met de pipeline. Definieer de stappen die een lead doorloopt van eerste co
 
 Maak vervolgens de minimale veldset aan. Wat moet je weten over een contact om goed te kunnen werken? Naam, bedrijf, functie, telefoonnummer, e-mailadres, herkomst van de lead, verantwoordelijke verkoopmedewerker en huidige dealstatus. Begin niet met meer. Velden die later nodig blijken, voeg je toe.
 
-Stel de e-mailintegratie in. De meeste CRM-systemen koppelen met Gmail en Outlook via een plugin of IMAP-koppeling. Zorg dat inkomend en uitgaand mailverkeer automatisch gelogd wordt bij het juiste contact. Dit is de integratie met de hoogste dagelijkse impact.
+Stel de e-mailintegratie in. De meeste CRM-systemen koppelen met Gmail en Outlook via een plugin of IMAP-koppeling. Zorg dat inkomend en uitgaand mailverkeer automatisch gelogd wordt bij het juiste contact. Dit is de integratie met de hoogste dagelijkse impact. Welke integraties je daarna nog kunt toevoegen en in welke volgorde, lees je in [CRM-integraties uitgelegd](/blog/crm-integraties-uitgelegd/).
 
 Bouw een eenvoudige rapportage: openstaande deals per medewerker, deals per fase en deals die langer dan twee weken niet zijn bijgewerkt. Die laatste rapportage is het vroeg-waarschuwingssysteem voor deals die doodlopen.
 
@@ -62,8 +62,10 @@ Evalueer aan het einde van week drie wat goed gaat en wat wrijving veroorzaakt. 
 
 Bekijk de rapportages: kloppen de dealwaarden? Staan alle actieve prospects in het systeem? Zijn er medewerkers die nog buiten het systeem werken?
 
-Stel een vaste CRM-ronde in voor de wekelijkse verkoopvergadering: vijf tot tien minuten lang het dashboard doorlopen en bespreken welke deals actie nodig hebben. Dit verankert het gebruik in de werkroutine en maakt het CRM een sturingstool in plaats van een registratiesysteem.
+Stel een vaste CRM-ronde in voor de wekelijkse verkoopvergadering: vijf tot tien minuten lang het dashboard doorlopen en bespreken welke deals actie nodig hebben. Dit verankert het gebruik in de werkroutine en maakt het CRM een sturingstool in plaats van een registratiesysteem. De vijf fouten die MKB-bedrijven bij CRM het vaakst maken en hoe je ze tijdig herkent, staan beschreven in [CRM-fouten die MKB-bedrijven het meeste geld kosten](/blog/crm-fouten-mkb/).
 
 Voor [bouwbedrijven](/sectoren/crm/crm-voor-bouwbedrijven/) die werken met lange aanbestedingstrajecten is week vier kritisch: de rapportage moet onderscheid maken tussen aanbestedingen in voorbereiding, ingediend, gegund en verloren, zodat de pipeline een realistisch beeld geeft van de verwachte orderintake.
 
 Na dertig dagen staat het fundament. De komende maanden bouw je de inrichting verder uit op basis van wat je in de praktijk tegenkomt -- dat is altijd het beste startpunt.
+
+Wil je direct CRM software vergelijken? Gebruik onze [CRM keuzehulp](/tools/crm/keuzehulp/).

@@ -32,7 +32,7 @@ De meest gebruikte koppeling in de Nederlandse horeca is Lightspeed Restaurant g
 
 Moneybird werkt goed samen met meerdere kassasystemen via third-party koppelingen, vaak via Zapier of directe integratiepartners. Voor [kapsalons](/sectoren/kassasystemen/kassasysteem-kapsalon/) die werken met Treatwell of vergelijkbare afsprakensoftware zijn er ook directe exportmogelijkheden naar e-Boekhouden en Yuki.
 
-Nmbrs, Unit4 en AFAS zijn voor grotere horecaketens of retailorganisaties interessant: de koppeling met kassasystemen verwerkt niet alleen omzet maar ook personeelskosten en inkooporders in één geïntegreerd systeem. De implementatiekosten zijn hoger maar de tijdsbesparing is navenant groter.
+Nmbrs, Unit4 en AFAS zijn voor grotere horecaketens of retailorganisaties interessant: de koppeling met kassasystemen verwerkt niet alleen omzet maar ook personeelskosten en inkooporders in één geïntegreerd systeem. De implementatiekosten zijn hoger maar de tijdsbesparing is navenant groter. Of het kassasysteem in de cloud of lokaal draait, is bepalend voor de technische opzet van de koppeling; dat vergelijk je in [Cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/).
 
 Voor [horecabedrijven](/sectoren/kassasystemen/kassasysteem-horeca/) is het essentieel dat de koppeling BTW-correct omgaat met de 9%-categorie voor eten en de 21%-categorie voor alcoholische dranken. Een fout in de categorisering aan de kassazijde leidt rechtstreeks tot een onjuiste BTW-aangifte, wat bij controle een naheffing plus boete oplevert.
 
@@ -66,6 +66,8 @@ Gebruik de [kosten berekenen tool voor kassasystemen](/tools/kassasystemen/koste
 
 Kassasystemen en boekhoudpakketten worden regelmatig bijgewerkt. Een API-koppeling die vandaag werkt, kan na een grote versie-update van één van de systemen tijdelijk stuk zijn. Vraag bij de leverancier hoe update-compatibiliteit wordt gewaarborgd en of er een testomgeving is waarin updates worden gecontroleerd voor ze live gaan.
 
-Hoe langer je met de combinatie werkt, hoe afhankelijker je wordt van de koppeling. Zorg dat je weet hoe je het tijdelijk handmatig kunt overbruggen als de koppeling uitvalt -- en dat je boekhouder dat ook weet.
+Hoe langer je met de combinatie werkt, hoe afhankelijker je wordt van de koppeling. Zorg dat je weet hoe je het tijdelijk handmatig kunt overbruggen als de koppeling uitvalt -- en dat je boekhouder dat ook weet. Wie ook de overige kostenposten van een kassasysteem in kaart wil brengen, vindt een volledige checklist in [Kassasysteem verborgen kosten](/blog/kassasysteem-verborgen-kosten-checklist/).
 
 Schakel bij voorkeur ook de boekhouder in bij de initiële configuratie van de koppeling. Een boekhoudkundige blik op de exportstructuur voorkomt dat BTW-categorieën verkeerd worden gemapt en bespaart correctiewerk achteraf.
+
+Wil je direct kassasystemen vergelijken? Gebruik onze [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).
