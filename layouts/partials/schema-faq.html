@@ -8,7 +8,6 @@
     "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify))
   ) -}}
 {{- end -}}
-{{- $json := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $items -}}
-{{ $json | jsonify }}
+{{- (dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $items) | jsonify -}}
 </script>
 {{ end }}
