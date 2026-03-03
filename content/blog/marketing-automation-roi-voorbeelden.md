@@ -92,4 +92,8 @@ Reken die tijd mee tegen jouw uurtarief. Als je een marketingmedewerker inzet of
 
 In de offertes die ik voor klanten beoordeel, ontbreekt de inrichtingstijd structureel. Vraag altijd expliciet naar de geschatte uren voor onboarding en de eerste drie maanden van onderhoud — dat geeft een realistischer totaalplaatje.
 
+## Lees ook
+
+- [Beste email marketing software 2026](/posts/beste-email-marketing-software-2026/) — platforms met marketing automation vergeleken
+
 Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/).

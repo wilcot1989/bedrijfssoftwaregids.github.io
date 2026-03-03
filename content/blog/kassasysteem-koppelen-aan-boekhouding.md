@@ -80,4 +80,9 @@ Hoe langer je met de combinatie werkt, hoe afhankelijker je wordt van de koppeli
 
 Schakel bij voorkeur ook de boekhouder in bij de initiële configuratie van de koppeling. Een boekhoudkundige blik op de exportstructuur voorkomt dat BTW-categorieën verkeerd worden gemapt en bespaart correctiewerk achteraf.
 
+## Lees ook
+
+- [Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/) — kassasystemen met de beste boekhoudkoppelingen
+- [Beste boekhoudsoftware voor ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/) — boekhoudpakketten die koppelen met kassasystemen
+
 Wil je direct kassasystemen vergelijken? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

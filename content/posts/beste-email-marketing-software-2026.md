@@ -528,6 +528,12 @@ Wat je ook kiest: investeer tijd in het opzetten van je automatiseringen. Een we
 
 Wil je eerst je CRM op orde brengen voordat je aan e-mailmarketing begint? Lees dan mijn vergelijking van de [beste CRM software voor Nederland](/posts/beste-crm-software-nederland-2026/) of bekijk de [Brevo review](/posts/brevo-review-2026/) voor een diepere duik in het platform dat e-mailmarketing en CRM combineert.
 
+## Lees ook
+
+- [Email deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/) — als je mails in spam belanden
+- [Marketing automation ROI: voorbeelden](/blog/marketing-automation-roi-voorbeelden/) — concrete ROI-berekeningen voor het MKB
+- [Marketing software per sector](/sectoren/marketing/) — welke tools passen bij jouw branche?
+
 ## Interactieve hulp
 
 Twijfel je nog? Gebruik de gratis tools:

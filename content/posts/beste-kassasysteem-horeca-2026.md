@@ -364,3 +364,7 @@ Twijfel je nog? Gebruik de gratis tools:
 - **[Beste Webshop Software 2026](/posts/beste-webshop-software-2026/)** — Online verkopen naast je fysieke locatie
 - **[Beste Urenregistratie Software 2026](/posts/beste-urenregistratie-software-2026/)** — Personeelsuren bijhouden
 - **[Beste CRM Software 2026](/posts/beste-crm-software-nederland-2026/)** — Klantrelaties beheren
+- [Verborgen kosten van kassasystemen: checklist](/blog/kassasysteem-verborgen-kosten-checklist/) — voorkom onverwachte maandlasten
+- [Cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/) — welk type past bij jouw zaak?
+- [Beste restaurantsoftware 2026](/posts/beste-restaurantsoftware-2026/) — complete restaurantmanagement oplossingen
+- [Kassasystemen per sector](/sectoren/kassasystemen/) — welk systeem past bij jouw branche?

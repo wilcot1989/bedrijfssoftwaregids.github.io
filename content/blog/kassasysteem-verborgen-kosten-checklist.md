@@ -84,4 +84,8 @@ Vraag bij minimaal drie aanbieders een prijsopgave aan voor precies dezelfde con
 
 Vraag ook om een overzicht van alle kosten in jaar één en jaar drie apart. Jaar één bevat installatiekosten; jaar drie laat zien wat het systeem structureel kost als die eenmalige kosten zijn weggevallen. Dat tweede getal is de relevantste benchmark voor langetermijnkosten.
 
+## Lees ook
+
+- [Beste kassasysteem horeca 2026](/posts/beste-kassasysteem-horeca-2026/) — vergelijk kassasystemen op prijs en verborgen kosten
+
 Wil je direct kassasystemen vergelijken? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

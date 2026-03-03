@@ -84,4 +84,8 @@ Daartussenin: probeer drie maanden met software en beoordeel dan eerlijk hoeveel
 
 De kosten zijn het makkelijkste deel van de vergelijking. Het moeilijkere deel is eerlijk inschatten hoeveel jij jouw tijd en de rust van professionele begeleiding waard vindt.
 
+## Lees ook
+
+- [Beste boekhoudsoftware voor ZZP 2026](/posts/beste-boekhoudsoftware-zzp-2026/) — vergelijk pakketten op prijs en functies
+
 Wil je direct boekhoudsoftware vergelijken? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).
