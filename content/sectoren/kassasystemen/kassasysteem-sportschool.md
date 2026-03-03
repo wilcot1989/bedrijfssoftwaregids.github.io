@@ -40,7 +40,7 @@ Square is de meest gebruikte kassa-oplossing bij sportscholen en fitnessstudio's
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Square Stand (iPad-dock met ingebouwde reader): €129. Retail Plus: €69/maand voor extra functies.
 
-<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Square →</a>
+<a href="https://squareup.com/nl/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Square →</a>
 
 ---
 
@@ -60,7 +60,7 @@ Zettle is de eenvoudigste kassa-oplossing voor kleine yoga-studio's, boutique gy
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Zettle Reader 2: €29. Store Kit: vanaf €249.
 
-<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Zettle →</a>
+<a href="https://www.zettle.com/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Zettle →</a>
 
 ---
 
@@ -80,7 +80,7 @@ Lightspeed Retail is de sterkste keuze voor sportscholen die ook een serieuze wi
 
 **Prijs:** Basic €59/maand. Standard €119/maand. Hardware: iPad + barcode-scanner + bonprinter.
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed Retail →</a>
+<a href="https://www.lightspeedhq.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Lightspeed Retail →</a>
 
 ---
 

@@ -40,7 +40,7 @@ Lightspeed Retail is het kassasysteem dat ik adviseer aan winkels die verder wil
 
 **Prijs:** Basic €59/maand. Standard €119/maand. Hardware: iPad + barcode-scanner + printer.
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed Retail →</a>
+<a href="https://www.lightspeedhq.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Lightspeed Retail →</a>
 
 ---
 
@@ -60,7 +60,7 @@ Square is mijn go-to advies voor winkels die net starten of een eenvoudig kassas
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Square Reader: €19. Retail Plus: €69/maand per locatie.
 
-<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Square →</a>
+<a href="https://squareup.com/nl/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Square →</a>
 
 ---
 
@@ -80,7 +80,7 @@ Zettle is de eenvoudigste instap voor een winkel die primair PIN-betalingen wil 
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Zettle Reader 2: €29. Store Kit: vanaf €249.
 
-<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Zettle →</a>
+<a href="https://www.zettle.com/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Zettle →</a>
 
 ---
 

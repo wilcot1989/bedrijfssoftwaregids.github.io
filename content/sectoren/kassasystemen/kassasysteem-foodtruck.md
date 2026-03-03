@@ -40,7 +40,7 @@ Zettle is mijn eerste aanbeveling voor foodtrucks en mobiele horeca. De reader k
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Zettle Reader 2: €29. Optioneel: Zettle Dock (voor vaste opstelling in de truck).
 
-<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Zettle →</a>
+<a href="https://www.zettle.com/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Zettle →</a>
 
 ---
 
@@ -60,7 +60,7 @@ Square is de sterkste keuze voor foodtrucks die ook online bestellingen willen o
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Square Reader: €19. Square Terminal: €299.
 
-<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Square →</a>
+<a href="https://squareup.com/nl/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Square →</a>
 
 ---
 
@@ -80,7 +80,7 @@ SumUp is de meest compacte en goedkoopste instap voor foodtrucks en marktkramen.
 
 **Prijs:** Software gratis. Transactiekosten: 1,69% per betaling. SumUp Air reader: €39. SumUp 3G: €69.
 
-<a href="https://sumup.nl/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Bekijk SumUp →</a>
+<a href="https://sumup.nl/" target="_blank" rel="noopener noreferrer">Bekijk SumUp →</a>
 
 ---
 

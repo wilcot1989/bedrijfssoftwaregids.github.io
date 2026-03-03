@@ -39,7 +39,7 @@ Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaonder
 
 **Prijs:** Essential €59/maand (1 kassa). Plus €109/maand. Extra kassa: €39/maand. Hardware startpakket: vanaf €399.
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed Restaurant →</a>
+<a href="https://www.lightspeedhq.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Lightspeed Restaurant →</a>
 
 ---
 
@@ -59,7 +59,7 @@ Untill is het werkpaard van de Nederlandse horeca. Voor drukke brasseries, evene
 
 **Prijs:** Basis vanaf €79/maand. Professioneel: €129/maand. Enterprise: op aanvraag. Hardware op offertebasis.
 
-<a href="https://www.untill.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Untill →</a>
+<a href="https://www.untill.com/nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Untill →</a>
 
 ---
 
@@ -78,7 +78,7 @@ Orderbird is de specialist voor cafés en kleinere horecazaken met maximaal 60 c
 
 **Prijs:** Starter €39/maand. Professional: €59/maand. Hardware startpakket: vanaf €349.
 
-<a href="https://www.orderbird.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Orderbird →</a>
+<a href="https://www.orderbird.com/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Orderbird →</a>
 
 ---
 

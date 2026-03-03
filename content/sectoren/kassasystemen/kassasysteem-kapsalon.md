@@ -40,7 +40,7 @@ Square is de meest gebruikte kassa-oplossing onder kapsalons en schoonheidssalon
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Square Reader: €19. Square Stand (voor vaste opstelling): €129.
 
-<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Square →</a>
+<a href="https://squareup.com/nl/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Square →</a>
 
 ---
 
@@ -60,7 +60,7 @@ Zettle is ideaal voor de zelfstandige kapper of kleine salon die een eenvoudige,
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Zettle Reader 2: €29. Store Kit: vanaf €249.
 
-<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Zettle →</a>
+<a href="https://www.zettle.com/nl" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Zettle →</a>
 
 ---
 
@@ -80,7 +80,7 @@ Voor kapsalons en schoonheidscentra die ook een uitgebreide winkel runnen — me
 
 **Prijs:** Basic €59/maand. Standard €119/maand. Hardware startpakket: iPad + scanner.
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed Retail →</a>
+<a href="https://www.lightspeedhq.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Lightspeed Retail →</a>
 
 ---
 
