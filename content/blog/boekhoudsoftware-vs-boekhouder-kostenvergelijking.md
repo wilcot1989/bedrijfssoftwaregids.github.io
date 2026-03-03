@@ -7,6 +7,18 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
 categories:
   - Blog
+  - Boekhouding
+faq:
+  - q: "Hoeveel goedkoper is boekhoudsoftware dan een externe boekhouder?"
+    a: "Voor een ZZP'er of eenmanszaak met eenvoudige administratie is het verschil al snel EUR 1.500 tot EUR 3.000 per jaar. Een externe boekhouder kost gemiddeld EUR 1.800 tot EUR 4.000 per jaar; boekhoudsoftware kost EUR 100 tot EUR 400 per jaar. De exacte besparing hangt af van je omzet, het aantal transacties en de complexiteit van je kosten."
+  - q: "Kan ik zonder boekhoudkundige kennis overstappen van een boekhouder naar software?"
+    a: "Ja, voor de meeste eenvoudige situaties wel. Moderne pakketten als Moneybird en e-Boekhouden zijn ontworpen voor ondernemers zonder boekhoudachtergrond. De overstap kost wat tijd voor de eerste inrichting, maar na één à twee kwartalen loopt het systeem grotendeels automatisch. Een korte cursus of de helpdesk van de softwareaanbieder helpt bij opstartproblemen."
+  - q: "Wanneer heb ik toch een boekhouder nodig naast mijn software?"
+    a: "Zodra je personeel aanneemt, regelmatig internationaal inkoopt, overweegt over te stappen naar een BV, of te maken krijgt met een belastingcontrole, is professioneel advies onmisbaar. Ook wie weinig affiniteit heeft met cijfers of wiens administratie meerdere BTW-tarieven en kostensoorten combineert, is beter af met een boekhouder die minimaal eens per kwartaal meekijkt."
+  - q: "Wat is de beste combinatie van software en boekhouder?"
+    a: "De tussenoplossing die het vaakst werkt: jij doet de dagelijkse administratie in software, en een boekhouder verzorgt de jaaraangifte, geeft fiscaal advies en kijkt eens per kwartaal mee. Dat kost gemiddeld EUR 800 tot EUR 1.400 per jaar voor de boekhouder, plus de softwarekosten -- en levert meer dan een boekhouder die de volledige administratie beheert."
+  - q: "Welke boekhoudsoftware wordt het meest gebruikt door Nederlandse accountantskantoren?"
+    a: "Exact Online is verreweg het meest gebruikt door Nederlandse accountants en administratiekantoren. Als jouw boekhouder ook toegang heeft tot jouw Exact Online-omgeving, scheelt dat aanzienlijk in de afstemming. Moneybird en Twinfield zijn goede alternatieven die ook breed worden ondersteund."
 tags:
   - boekhouding
   - kosten
@@ -15,6 +27,8 @@ tags:
 ---
 
 Veel ondernemers stellen de vraag op het verkeerde moment: niet voor ze een boekhouder inschakelen, maar jaren later als ze de jaarrekening zien. Een externe boekhouder kost voor een eenmanszaak al snel EUR 1.800 tot EUR 4.000 per jaar. Boekhoudsoftware kost een fractie daarvan. Toch is software niet altijd de juiste keuze -- een goedkope keuze aan het begin kan later duur uitpakken als je meer complexiteit krijgt dan het systeem aankan.
+
+Ik heb zelf de overstap gezien bij tientallen klanten en de besparing is vaak EUR 2.000 tot EUR 4.000 per jaar. Soms is het meer, afhankelijk van hoeveel de boekhouder rekende voor taken die software nu automatisch doet.
 
 Dit artikel legt de werkelijke kosten naast elkaar op basis van wat Nederlandse ondernemers in de praktijk betalen, niet op basis van brochures.
 
@@ -32,7 +46,7 @@ Boekhoudsoftware varieert van gratis tot circa EUR 100 per maand. De meest gebru
 
 Moneybird kost voor ZZP rond EUR 12 per maand. Exact Online voor ZZP zit rond EUR 15 tot EUR 20. AFAS en grotere pakketten beginnen boven de EUR 50 per maand, maar zijn gericht op bedrijven met meerdere medewerkers en meer administratieve complexiteit.
 
-De echte kosten zitten niet in het abonnement maar in de tijd die je kwijt bent. Een ondernemer die nooit eerder geboekt heeft, besteedt in het begin twee tot drie uur per maand aan de administratie. Na zes maanden, als de bankkoppeling loopt en de categorieën zijn ingericht, is dat teruggebracht naar dertig tot zestig minuten per maand. Reken voor jezelf hoeveel jouw uur waard is en of het verschil opweegt. Wie factureren en boekhouden in één pakket wil combineren om dubbele invoer te vermijden, vindt een volledige vergelijking in [Factureren en boekhouden in één pakket](/blog/factureren-en-boekhouden-alles-in-een/).
+De echte kosten zitten niet in het abonnement maar in de tijd die je kwijt bent. Wat ik in de praktijk zie: ondernemers die voor het eerst zelf boeken, schrikken van de tijdsinvestering in de eerste maanden -- maar zijn na een half jaar vaak sneller klaar dan ze dachten. Een ondernemer die nooit eerder geboekt heeft, besteedt in het begin twee tot drie uur per maand aan de administratie. Na zes maanden, als de bankkoppeling loopt en de categorieën zijn ingericht, is dat teruggebracht naar dertig tot zestig minuten per maand. Reken voor jezelf hoeveel jouw uur waard is en of het verschil opweegt. Wie factureren en boekhouden in één pakket wil combineren om dubbele invoer te vermijden, vindt een volledige vergelijking in [Factureren en boekhouden in één pakket](/blog/factureren-en-boekhouden-alles-in-een/).
 
 Gebruik de [kosten berekenen tool voor boekhoudsoftware](/tools/boekhouding/kosten-berekenen/) om op basis van jouw omzet, transactievolume en situatie een realistische totaalkostenberekening te maken over drie jaar.
 
@@ -42,7 +56,7 @@ Voor [ZZP'ers en eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-zzp/) is d
 
 Dat is anders voor [MKB-bedrijven met personeel](/sectoren/boekhouding/boekhoudsoftware-mkb/). Zodra je medewerkers hebt, regelmatig inkoopt in het buitenland of werkt met projectkosten die worden doorbelast aan klanten, wordt de administratie ingewikkelder. De salarisadministratie alleen al vraagt specifieke kennis van loonheffing, CAO-bepalingen en loonaangifteverplichtingen. Een boekhouder die ook controller-taken vervult, is dan de investering waard.
 
-De tussenoplossing die steeds meer ondernemers kiezen: software voor de dagelijkse administratie, aangevuld met een boekhouder die eens per kwartaal meekijkt, de jaaraangifte verzorgt en fiscaal advies geeft waar nodig. Dat kost gemiddeld EUR 800 tot EUR 1.400 per jaar voor de boekhouder, plus de softwarekosten. De totaalprijs is lager dan een boekhouder die de volledige administratie beheert, terwijl je de voordelen van professioneel advies behoudt.
+De tussenoplossing die steeds meer ondernemers kiezen: software voor de dagelijkse administratie, aangevuld met een boekhouder die eens per kwartaal meekijkt, de jaaraangifte verzorgt en fiscaal advies geeft waar nodig. Dit is ook de oplossing die ik het vaakst adviseer aan klanten die net boven de grens zitten van wat ze comfortabel zelfstandig kunnen beheren. Dat kost gemiddeld EUR 800 tot EUR 1.400 per jaar voor de boekhouder, plus de softwarekosten. De totaalprijs is lager dan een boekhouder die de volledige administratie beheert, terwijl je de voordelen van professioneel advies behoudt.
 
 ## Wanneer software structureel tekortschiet
 

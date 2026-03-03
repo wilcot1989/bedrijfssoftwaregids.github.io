@@ -7,6 +7,18 @@ author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
 categories:
   - Blog
+  - Marketing
+faq:
+  - q: "Hoe verbeter je e-mail deliverability snel?"
+    a: "De snelste verbetering komt bijna altijd van drie dingen: controleer of SPF, DKIM en DMARC correct zijn ingesteld in je DNS, verwijder harde bounces direct van je lijst, en stuur een reactiveringsmail naar iedereen die langer dan zes maanden niets heeft geopend. Deze drie stappen kosten samen een halve dag en hebben direct merkbaar effect op placement in de inbox."
+  - q: "Waarom komen mijn e-mails in de spamfolder terecht?"
+    a: "De meest voorkomende oorzaken zijn een ontbrekende of verkeerd geconfigureerde SPF-record, een te lage engagement-score doordat veel ontvangers de e-mail nooit openen, of een hoog spamklachtenpercentage boven de 0,3%. Ook het gebruik van een nieuw verzenddomein zonder opwarmperiode leidt tot spamplaatsing. Begin met een gratis SPF/DKIM/DMARC-check via je e-mailplatform om technische fouten uit te sluiten."
+  - q: "Wat is het verschil tussen SPF, DKIM en DMARC?"
+    a: "SPF bepaalt welke mailservers gemachtigd zijn om e-mail te versturen namens jouw domein — het is een whitelist in je DNS. DKIM voegt een cryptografische handtekening toe aan elke e-mail die de ontvanger kan verifiëren en die bewijst dat de e-mail niet is aangepast onderweg. DMARC vertelt ontvangende servers wat ze moeten doen als SPF of DKIM niet kloppen: negeren, quarantaine of weigeren. Alle drie samen vormen de technische basis voor een goede reputatie bij mailproviders."
+  - q: "Hoe vaak moet je je e-maillijst opschonen?"
+    a: "Twee keer per jaar is een goede richtlijn voor de meeste bedrijven. Verwijder harde bounces direct na elke verzending. Zachte bounces na drie opeenvolgende mislukkingen archiveren. Stuur een reactiveringsmail naar contacten die zes tot twaalf maanden niets hebben geopend en verwijder wie niet reageert. Een kleinere, actievere lijst levert altijd betere deliverability op dan een grote lijst met veel inactieve contacten."
+  - q: "Welk e-mailmarketingplatform heeft de beste deliverability voor Nederlandse bedrijven?"
+    a: "Brevo en ActiveCampaign worden in Nederland het meest gewaardeerd om hun deliverability-reputatie. Beide hebben Europese datacenters, wat ook voordelen biedt voor AVG-compliance. Mailchimp is populair maar scoort bij hogere verzendvolumes soms minder goed op deliverability, deels door de brede gebruikersbasis op gedeelde IP's. Klaviyo is sterk voor e-commerce. Het platform alleen bepaalt overigens niet alles — de instellingen en lijstkwaliteit wegen even zwaar."
 tags:
   - marketing
   - email
@@ -15,6 +27,8 @@ tags:
 ---
 
 Je hebt een mooie nieuwsbrief samengesteld, het verzendmoment zorgvuldig gekozen en de campagne verstuurd. En dan bereikt de e-mail de helft van je lijst niet. Ze belanden in de spamfolder, de promotietab of worden stil geblokkeerd zonder dat de ontvanger het merkt. Een hoog openpercentage helpt je niets als de e-mail de inbox niet haalt.
+
+Ik heb dit onlangs van dichtbij meegemaakt bij een klant: zijn open rate kelderde van 25% naar 3% in één maand. Het probleem bleek een verkeerd geconfigureerde SPF-record — een eenmalige fout bij een domeinmigratie die weken onopgemerkt bleef. Na de correctie was de open rate binnen twee weken terug op het oude niveau.
 
 Deliverability is het technische fundament waarop e-mailmarketing staat. Zonder het te begrijpen is elk ander advies over onderwerpregel, timing of segmentatie zinloos -- je optimaliseert een bericht dat toch niet aankomt.
 
@@ -44,6 +58,8 @@ Een lijst met 5.000 contacten waarvan 2.000 al twee jaar niet hebben geopend is 
 
 Plan twee keer per jaar een opschoonronde. Verwijder harde bounces direct en permanent -- een hard bounce betekent dat het e-mailadres niet bestaat en herhaald verzenden naar dat adres schaadt de reputatie. Zachte bounces -- mailbox vol, server tijdelijk onbereikbaar -- kun je na drie opeenvolgende mislukkingen archiveren.
 
+Wat ik bij klanten regelmatig zie: lijsten die jaren niet zijn opgeschoond en voor 40% uit inactieve adressen bestaan. Die bedrijven denken dat een grote lijst een voordeel is, maar sturen feitelijk hun reputatiescore omlaag bij elke campagne.
+
 Stuur een reactiveringsmail naar iedereen die zes tot twaalf maanden niet heeft geopend. Een directe vraag werkt het best: "Wil je onze nieuwsbrief blijven ontvangen? Klik hier." Wie niet reageert binnen twee weken, verwijder je van de actieve lijst. Een lijst die langzaam krimpt wijst soms op een leadgeneratieprobleem; welke B2B-kanalen structureel nieuwe contacten aanleveren lees je in [Leadgeneratie tools voor B2B in Nederland](/blog/leadgeneratie-tools-b2b-nederland/).
 
 Voor [ZZP'ers en kleine ondernemers](/sectoren/marketing/email-marketing-zzp/) met een kleine lijst is dit extra belangrijk: een spammelding-rate van 0,3% -- drie klachten op duizend e-mails -- kan bij een kleine verzender leiden tot tijdelijke opschorting van het account door het platform.
@@ -63,6 +79,8 @@ Als je een nieuw verzenddomein gebruikt of een lange periode niet hebt verzonden
 Begin met een kleine verzending aan de meest betrokken ontvangers -- degenen die de afgelopen zes maanden hebben geopend en geklikt. Stuur de eerste week vijfhonderd e-mails, de tweede week tweeduizend, de derde week vijfduizend. Als de statistieken goed zijn, bouw je verder op.
 
 Warm-up-processen gelden ook bij het overstappen naar een nieuw e-mailmarketingplatform. Ook al gebruik je hetzelfde afzenddomein, een nieuw platform betekent een nieuw IP-adres met een eigen reputatiehistorie.
+
+Dit is een stap die bijna iedereen overslaat bij een platformmigratie. In mijn ervaring is een slechte start op een nieuw platform de meest voorkomende oorzaak van tijdelijke deliverability-problemen die niets met configuratie of lijstkwaliteit te maken hebben.
 
 ## Testen voor verzending
 
