@@ -6,7 +6,7 @@
     <h1>Vind de beste software voor jouw bedrijf</h1>
     <p>Ik test zakelijke software hands-on en vergelijk op prijs, gebruiksgemak en support. Eerlijk advies voor Nederlandse ondernemers.</p>
     <div class="trust-strip">
-      {{ $totalArticles := len (where .Site.RegularPages "Type" "posts") }}
+      {{ $totalArticles := len (where .Site.RegularPages "Type" "blog") }}
       <span class="trust-item">{{ $totalArticles }}+ reviews</span>
       <span class="trust-item">{{ len .Site.Taxonomies.categories }} categorieën</span>
       <span class="trust-item">100% onafhankelijk</span>
@@ -41,7 +41,7 @@
 </div>
 
 {{/* ===== 3. POPULAIRE VERGELIJKINGEN ===== */}}
-{{ $allPosts := where .Site.RegularPages "Type" "posts" }}
+{{ $allPosts := where .Site.RegularPages "Type" "blog" }}
 {{ $popularPosts := first 4 $allPosts }}
 {{ if $popularPosts }}
 <div class="section">

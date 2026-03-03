@@ -29,8 +29,6 @@ faq:
       sector voor een overzicht van systemen die goed samenwerken met marketing
       tools.
 
-categories:
-  - marketing
 tags:
   - marketing
   - sector

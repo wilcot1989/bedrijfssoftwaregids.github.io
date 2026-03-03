@@ -25,8 +25,6 @@ faq:
       accountant, vraag dan eerst welk systeem zij gebruiken voordat je een
       keuze maakt. Samenwerken in hetzelfde systeem bespaart beiden tijd.
 
-categories:
-  - boekhouding
 tags:
   - boekhouding
   - sector
