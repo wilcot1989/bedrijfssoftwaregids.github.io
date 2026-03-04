@@ -8,6 +8,6 @@
     "acceptedAnswer" (dict "@type" "Answer" "text" (.a | markdownify | plainify))
   ) -}}
 {{- end -}}
-{{- (dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $items) | jsonify | safeHTML -}}
+{{- (dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $items) | jsonify | safeJS -}}
 </script>
 {{ end }}
