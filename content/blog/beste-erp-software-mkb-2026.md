@@ -29,7 +29,7 @@ faq:
     a: "Overweeg ERP als je merkt dat je veel tijd kwijt bent aan handmatige dataoverdracht tussen systemen, als fouten toenemen door dubbele invoer, als je geen real-time inzicht hebt in bedrijfsresultaten, of als je bedrijf groeit naar 10+ medewerkers en meer structuur nodig heeft."
 ---
 
-ERP-implementaties staan bekend als duur en pijnlijk, en eerlijk gezegd: dat klopt regelmatig. Maar ik heb ook genoeg MKB-bedrijven geholpen die na de overstap naar een goed ERP-systeem eindelijk real-time inzicht kregen in hun cijfers en uren per week bespaarden op handmatig overtypen. De truc is het juiste ERP-systeem kiezen voor jouw schaal. Dit zijn de 5 ERP-oplossingen die ik voor het Nederlandse MKB aanbeveel.
+ERP-implementaties staan bekend als duur en pijnlijk, en eerlijk gezegd: dat klopt regelmatig. Maar ik heb ook genoeg MKB-bedrijven geholpen die na de overstap naar een goed ERP-systeem eindelijk real-time inzicht kregen in hun cijfers en uren per week bespaarden op handmatig overtypen. De truc is het juiste ERP-systeem kiezen voor jouw schaal. Dit zijn de 5 ERP-oplossingen die ik voor het Nederlandse MKB aanbeveel. Wil je ook je CRM-processen integreren naast je ERP? Lees dan het overzicht van de [beste CRM software voor Nederland 2026](/blog/beste-crm-software-nederland-2026/).
 
 Zoek je nog iets eenvoudigers? Bekijk dan eerst mijn gids over de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) of de [beste facturatie software voor MKB](/blog/beste-facturatie-software-mkb-2026/). Twijfel je welk boekhoudprogramma het beste bij jou past? Lees dan ook de [7 vragen om een boekhoudprogramma te kiezen](/blog/boekhoudprogramma-kiezen-7-vragen/).
 
@@ -45,7 +45,7 @@ Zoek je nog iets eenvoudigers? Bekijk dan eerst mijn gids over de [beste boekhou
 
 ## 1. Exact Online — Populairste ERP voor Nederlands MKB
 
-Als een klant me vraagt "waar moet ik beginnen?", is Exact Online in 9 van de 10 gevallen mijn antwoord. Niet omdat het de meest geavanceerde software is, maar omdat vrijwel elke accountant in Nederland ermee werkt. Die afstemming met je boekhouder bespaart je op de lange termijn enorm veel gedoe. Met 675.000+ gebruikers is het ecosysteem ook het grootst: voor bijna elke koppeling bestaat een oplossing.
+Als een klant me vraagt "waar moet ik beginnen?", is Exact Online in 9 van de 10 gevallen mijn antwoord. Niet omdat het de meest geavanceerde software is, maar omdat vrijwel elke accountant in Nederland ermee werkt. Voor recruitment van nieuw personeel voor je groeiende MKB, is ook de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) een nuttige aanvulling. Die afstemming met je boekhouder bespaart je op de lange termijn enorm veel gedoe. Met 675.000+ gebruikers is het ecosysteem ook het grootst: voor bijna elke koppeling bestaat een oplossing.
 
 ### Functies
 
@@ -162,7 +162,7 @@ SAP Business One raad ik niet snel aan voor een bedrijf met 8 medewerkers, maar 
 
 ## 4. Microsoft Dynamics 365 Business Central — Naadloze Microsoft-integratie
 
-Als je bedrijf al draait op Microsoft 365, Teams en Outlook, dan is Dynamics 365 Business Central een logische keuze. Ik heb het geadviseerd bij een adviesbureau van 40 man waar alles al via Microsoft liep. De overstap was relatief soepel omdat het aansluit op wat ze al kenden. De Power BI-dashboards waren voor de directie de doorslaggevende factor.
+Als je bedrijf al draait op Microsoft 365, Teams en Outlook, dan is Dynamics 365 Business Central een logische keuze. Ik heb het geadviseerd bij een adviesbureau van 40 man waar alles al via Microsoft liep. Als je ook een intranet wilt integreren met je ERP, lees dan het overzicht van de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/). De overstap was relatief soepel omdat het aansluit op wat ze al kenden. De Power BI-dashboards waren voor de directie de doorslaggevende factor.
 
 ### Functies
 
@@ -199,7 +199,7 @@ Als je bedrijf al draait op Microsoft 365, Teams en Outlook, dan is Dynamics 365
 
 ## 5. Odoo — Open-source ERP met Maximale Flexibiliteit
 
-Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een technisch team hebt dat niet bang is voor configuratie, krijg je hier het meeste ERP voor het minste geld. De Community-editie is gratis, en zelfs de betaalde cloud-versie kost een fractie van SAP of Dynamics. Ik heb het aangeraden bij een startup die maximale flexibiliteit wilde zonder vastgeketend te zitten aan dure licenties.
+Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een technisch team hebt dat niet bang is voor configuratie, krijg je hier het meeste ERP voor het minste geld. Voor het beheren van projecten en taken naast je ERP-processen, bekijk dan de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/). De Community-editie is gratis, en zelfs de betaalde cloud-versie kost een fractie van SAP of Dynamics. Ik heb het aangeraden bij een startup die maximale flexibiliteit wilde zonder vastgeketend te zitten aan dure licenties.
 
 ### Functies
 
@@ -248,15 +248,15 @@ Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een t
 
 ### Tips voor het kiezen van een ERP-systeem
 
-1. **Begin met je pijnpunten** — Welke processen kosten nu de meeste tijd en veroorzaken de meeste fouten?
+1. **Begin met je pijnpunten** — Welke processen kosten nu de meeste tijd en veroorzaken de meeste fouten? Wil je ook je loonadministratie meenemen in je ERP-keuze? Lees dan ook de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/).
 2. **Betrek je accountant** — Veel accountants hebben voorkeur voor een bepaald systeem. Afstemming bespaart tijd en geld.
 3. **Denk aan groei** — Kies een ERP-systeem dat meegroeit. Overstappen naar een ander ERP-systeem is kostbaar en tijdrovend.
-4. **Vraag demo's aan** — Alle leveranciers bieden persoonlijke demo's. Plan er minimaal 3 in voordat je beslist.
+4. **Vraag demo's aan** — Alle leveranciers bieden persoonlijke demo's. Plan er minimaal 3 in voordat je beslist. Gebruik de [vergadersoftware 2026](/blog/beste-vergadersoftware-2026/) om die demo's efficiënt online te plannen en je team erbij te betrekken.
 5. **Reken totale kosten** — Tel licenties, implementatie, training, maatwerk en jaarlijks onderhoud bij elkaar op.
 
 ## Conclusie
 
-Voor de meeste Nederlandse MKB-bedrijven is **Exact Online** het veiligste ERP-systeem: breed gebruikt, goed ondersteund door accountants, en betaalbaar voor kleinere teams. **Afas** is het betere ERP-systeem als HR en salarisadministratie belangrijk zijn. **Dynamics 365 Business Central** past perfect in een Microsoft-omgeving, terwijl **SAP Business One** het sterkste ERP-systeem is voor productie- en handelsbedrijven. **Odoo** is ideaal voor technisch onderlegde teams die maximale flexibiliteit en lage kosten zoeken.
+Voor de meeste Nederlandse MKB-bedrijven is **Exact Online** het veiligste ERP-systeem: breed gebruikt, goed ondersteund door accountants, en betaalbaar voor kleinere teams. Als je ook je urenregistratie wilt koppelen aan je ERP-projecten, lees dan het overzicht van de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/). **Afas** is het betere ERP-systeem als HR en salarisadministratie belangrijk zijn. **Dynamics 365 Business Central** past perfect in een Microsoft-omgeving, terwijl **SAP Business One** het sterkste ERP-systeem is voor productie- en handelsbedrijven. **Odoo** is ideaal voor technisch onderlegde teams die maximale flexibiliteit en lage kosten zoeken.
 
 
 ## Interactieve hulp

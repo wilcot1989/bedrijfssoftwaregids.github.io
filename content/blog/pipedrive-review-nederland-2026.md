@@ -137,6 +137,8 @@ Pipedrive heeft in 2025-2026 flink geinvesteerd in AI:
 
 **Let op**: Maandelijkse betaling is circa 20% duurder. Alle prijzen zijn per gebruiker, dus de kosten stijgen lineair met het aantal teamleden.
 
+Wil je de kosten voor jouw teamgrootte berekenen? Gebruik de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/) voor een gedetailleerde berekening op basis van het aantal gebruikers en gewenste functies.
+
 ### Add-ons
 
 - **LeadBooster** (chatbot, webformulieren, prospector): inbegrepen bij Premium en Ultimate; als add-on ~€32,50/bedrijf/mnd bij lagere plannen
@@ -232,6 +234,8 @@ Pipedrive is minder geschikt voor:
 - Grote enterprises (50+ gebruikers) met complexe behoeften
 - Bedrijven die een volledig gratis CRM nodig hebben
 - E-commerce bedrijven zonder actief verkoopteam
+
+Wil je meer CRM-opties vergelijken? Bekijk het [volledige overzicht van CRM software](/categories/crm/) voor alle beschikbare pakketten.
 
 ---
 

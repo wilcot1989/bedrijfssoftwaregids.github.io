@@ -136,7 +136,7 @@ Bij een klant van mij — een softwarebedrijf in de logistiek — zijn we begonn
 
 Dat is het verschil tussen een e-maillijst die je iets oplevert en een tijdbom die op je bureau tikt.
 
-Wil je weten welke tools het beste bij jouw aanpak passen? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/) om de juiste e-mail marketing tool te vinden voor jouw situatie.
+Wil je weten welke tools het beste bij jouw aanpak passen? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/) om de juiste e-mail marketing tool te vinden voor jouw situatie. Bereken ook de [marketing software kosten](/tools/marketing/kosten-berekenen/) om te zien wat een goed e-mailplatform je per maand kost bij jouw lijstgrootte en verzendvolume.
 
 ---
 

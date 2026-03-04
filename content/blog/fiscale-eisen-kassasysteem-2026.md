@@ -162,7 +162,7 @@ Mijn concrete aanbevelingen:
 
 In mijn ervaring is de ondernemer die dit goed voor elkaar heeft bij een boekenonderzoek binnen twee uur klaar. Degene die er niets van heeft geregeld, zit maanden in bezwaar- en beroepsprocedures.
 
-Een kassasysteem kiezen dat dit alles goed ondersteunt? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) om een systeem te vinden dat voldoet aan alle eisen.
+Een kassasysteem kiezen dat dit alles goed ondersteunt? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) om een systeem te vinden dat voldoet aan alle eisen. Wil je ook inzicht in wat een kassasysteem je maandelijks kost? Gebruik de [kassasysteem kosten berekenen tool](/tools/kassasystemen/kosten-berekenen/) voor een berekening op basis van jouw omvang en branche.
 
 ## Lees ook
 

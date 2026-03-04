@@ -171,6 +171,8 @@ Twinfield is het pakket waar accountants van houden — en dat is niet toevallig
 | Starter, minimaal budget | **Moneybird Gratis** | €0/maand, basis functies |
 | Groeiend MKB (10+ medewerkers) | **Twinfield of Exact** | Schaalbaar, professioneel |
 
+Wil je de jaarlijkse kosten voor jouw specifieke situatie berekenen? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een vergelijking op basis van jouw omzet en administratievereisten.
+
 ## Conclusie: Twinfield vs Moneybird
 
 Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:

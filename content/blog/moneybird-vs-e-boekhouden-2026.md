@@ -145,6 +145,8 @@ Moneybird biedt weliswaar een gratis plan, maar dat is met maximaal 3 facturen p
 | Jaarbedrag | €180 | €119,40 |
 | Verschil per jaar | - | **~€61 goedkoper** |
 
+Wil je de jaarlijkse kosten voor beide pakketten berekenen? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een realistische vergelijking.
+
 ### 3. BTW-aangifte
 
 **Gelijkspel**
@@ -195,6 +197,8 @@ Moneybird biedt alleen support per e-mail. De reactietijd is doorgaans binnen ee
 
 ---
 
+Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) als je wilt weten welk pakket het beste aansluit bij jouw situatie als ZZP'er of klein bedrijf.
+
 ## Voor wie is Moneybird het beste?
 
 Moneybird is de beste keuze als:
@@ -224,6 +228,8 @@ e-Boekhouden is de beste keuze als:
 <a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
+
+Bekijk voor een compleet overzicht het [volledige aanbod van boekhoudsoftware](/categories/boekhouding/) om alle beschikbare pakketten op een rij te zien.
 
 ## Alternatieven om te overwegen
 

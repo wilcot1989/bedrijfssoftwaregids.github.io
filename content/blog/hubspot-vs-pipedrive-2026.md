@@ -230,6 +230,8 @@ Overweeg je om over te stappen? Hier zijn de stappen die ik bij klanten doorloop
 
 Pipedrive biedt een specifieke migratie-tool voor HubSpot-gebruikers -- dat scheelt flink wat handwerk.
 
+Wil je de CRM-kosten voor jouw teamgrootte in kaart brengen? Gebruik de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/) voor een realistische berekening op basis van het aantal gebruikers en gewenste functies.
+
 ## Alternatieven voor HubSpot en Pipedrive
 
 Zijn HubSpot en Pipedrive allebei niet de perfecte match? Overweeg dan:

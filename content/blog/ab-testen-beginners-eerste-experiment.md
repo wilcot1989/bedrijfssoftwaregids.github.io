@@ -150,4 +150,4 @@ Het installatiebedrijf uit Apeldoorn? Die 40 procent meer klikken vertaalde zich
 - [Marketing automation: concrete ROI-voorbeelden voor MKB](/blog/marketing-automation-roi-voorbeelden/)
 - [Beste e-mailmarketing software 2026: eerlijke vergelijking](/blog/beste-email-marketing-software-2026/)
 
-Zoek je een marketingtool met ingebouwde A/B testfunctionaliteit? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/) om snel de juiste tool voor jouw situatie te vinden.
+Zoek je een marketingtool met ingebouwde A/B testfunctionaliteit? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/) om snel de juiste tool voor jouw situatie te vinden. Bekijk ook de [marketing software kosten berekenen tool](/tools/marketing/kosten-berekenen/) om te vergelijken wat A/B testsoftware en e-mailplatformen je per maand kosten.

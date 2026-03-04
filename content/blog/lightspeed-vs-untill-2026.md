@@ -109,6 +109,8 @@ Hardware wordt via de dealer geleverd:
 
 **Totale investering eerste jaar** (compleet, 1 terminal): circa €2.500-€4.000 (software + professionele hardware + installatie).
 
+Wil je de totale kosten voor jouw specifieke zaak berekenen? Gebruik de [kassasysteem kosten berekenen tool](/tools/kassasystemen/kosten-berekenen/) voor een vergelijking op basis van jouw transactievolume en teamgrootte.
+
 ### Prijsoordeel
 
 Lightspeed is transparanter in de pricing en goedkoper bij de start. Je weet precies wat je betaalt en kunt klein beginnen met een iPad die je misschien al hebt. Untill's dealermodel maakt vergelijken lastiger, maar je krijgt er professionele hardware en persoonlijke installatie voor terug.
@@ -380,6 +382,8 @@ Untill is de betere keuze als je:
 - **Food cost management** serieus wilt aanpakken met recepturen en marge-analyses
 
 <a href="https://untill.nl/tarieven/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar untill.nl →</a>
+
+Bekijk voor meer alternatieven het [volledige overzicht van kassasystemen](/categories/kassasystemen/) om te zien welke andere opties er beschikbaar zijn voor de horeca.
 
 ## Mijn conclusie: Lightspeed vs Untill
 

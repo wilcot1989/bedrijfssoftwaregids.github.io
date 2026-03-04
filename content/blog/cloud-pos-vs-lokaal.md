@@ -86,6 +86,10 @@ Een aandachtspunt bij lokale systemen is dataverlies bij hardwaredefecten. Als d
 
 Cloud-systemen lossen dit automatisch op: data wordt extern opgeslagen en is ook bij hardware-uitval direct beschikbaar zodra een vervangend apparaat is geconfigureerd. Bij lokale systemen is een geautomatiseerde dagelijkse backup naar een externe locatie of cloudopslag een onmisbare verplichting.
 
+Wil je inzicht in de totale kosten van cloud versus lokaal? Gebruik de [kassasysteem kosten berekenen tool](/tools/kassasystemen/kosten-berekenen/) voor een vergelijking op basis van jouw situatie.
+
+Bekijk ook het [volledige overzicht van kassasystemen](/categories/kassasystemen/) voor alle beschikbare opties per branche.
+
 ## Lees ook
 
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — cloud en lokale systemen vergeleken

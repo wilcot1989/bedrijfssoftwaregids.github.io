@@ -64,6 +64,8 @@ Het pricing-model van Brevo is de reden dat ik het vaak aanbeveel aan bedrijven 
 | **Professional** | Vanaf €499 | 150.000+ | Onbeperkt | WhatsApp, web push, AI-segmentatie, contact scoring, telefonische support |
 | **Enterprise** | Op aanvraag | 350.000+ | Onbeperkt | Dedicated account manager, custom setup, SLA |
 
+Wil je de kosten voor jouw e-mailvolume berekenen? Gebruik de [marketing software kosten berekenen tool](/tools/marketing/kosten-berekenen/) voor een vergelijking op basis van jouw lijstgrootte en verzendfrequentie.
+
 ### Prijsstaffeling per volume
 
 De prijs stijgt naarmate je meer e-mails verstuurt. Hier een indicatie voor het Standard-plan:
@@ -95,6 +97,8 @@ De editor is een van de sterkere punten van Brevo. Ik heb klanten die binnen tie
 Wat ik minder goed vind: de template-bibliotheek is kleiner dan bij Mailchimp. En de editor hapert soms bij complexere layouts met meerdere kolommen en dynamische blokken. Voor een standaard nieuwsbrief is het prima, maar voor uitgebreide productmailings met veel conditional content loop je tegen grenzen aan.
 
 Sinds 2025 heeft Brevo een AI-assistent (Aura) die onderwerpregels en e-mailteksten kan genereren. Handig als startpunt, maar ik raad altijd aan om de output kritisch te bekijken -- de suggesties zijn generiek.
+
+Weet je nog niet zeker welke marketing software het beste bij jouw situatie past? Doe de [marketing software keuzehulp](/tools/marketing/keuzehulp/) voor een persoonlijke aanbeveling.
 
 ### Marketing automation
 
@@ -253,6 +257,8 @@ De chat-support is redelijk voor standaardvragen, maar bij complexere technische
 | **Transactionele mail** | Ja | Via Mandrill | Nee | Via MailerSend |
 | **NL interface** | Ja | Ja | Ja | Beperkt |
 | **Trustpilot** | 4,3 | 2,8 | 4,5 | 4,3 |
+
+Bekijk voor een volledig overzicht van alle e-mailmarketing tools het [overzicht van marketing software](/categories/marketing/) om Brevo naast alle alternatieven te vergelijken.
 
 **Wanneer Brevo beter is dan Mailchimp**: als je een grote contactlijst hebt en relatief weinig mails stuurt, of als EU data-opslag belangrijk is.
 

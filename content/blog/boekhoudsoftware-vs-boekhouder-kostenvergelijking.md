@@ -58,6 +58,8 @@ Dat is anders voor [MKB-bedrijven met personeel](/sectoren/boekhouding/boekhouds
 
 De tussenoplossing die steeds meer ondernemers kiezen: software voor de dagelijkse administratie, aangevuld met een boekhouder die eens per kwartaal meekijkt, de jaaraangifte verzorgt en fiscaal advies geeft waar nodig. Dit is ook de oplossing die ik het vaakst adviseer aan klanten die net boven de grens zitten van wat ze comfortabel zelfstandig kunnen beheren. Dat kost gemiddeld EUR 800 tot EUR 1.400 per jaar voor de boekhouder, plus de softwarekosten. De totaalprijs is lager dan een boekhouder die de volledige administratie beheert, terwijl je de voordelen van professioneel advies behoudt.
 
+Bekijk het [volledige overzicht van boekhoudsoftware](/categories/boekhouding/) als je wilt zien welke pakketten er op de markt zijn voordat je een keuze maakt.
+
 ## Wanneer software structureel tekortschiet
 
 Boekhoudsoftware registreert wat er is gebeurd. Het geeft geen advies over wat je anders zou kunnen doen. Een goede boekhouder of accountant voegt waarde toe door te signaleren dat je BTW-positie verkeerd is ingericht, dat fiscale aftrekposten worden gemist of dat je winst een bepaalde drempel nadert met directe gevolgen voor je belastingdruk.
@@ -65,6 +67,8 @@ Boekhoudsoftware registreert wat er is gebeurd. Het geeft geen advies over wat j
 Wie in een jaar weinig verandert in zijn bedrijfsvoering, mist dat advies misschien niet. Wie groeit, personeel aanneemt, investeert in machines of vastgoed, of overweegt over te stappen naar een BV, heeft er de meerwaarde van.
 
 Software schiet ook structureel tekort bij bezwaar- en beroepsprocedures bij de Belastingdienst, bij discussies over naheffingen, en bij situaties waarbij fiscale constructies worden beoordeeld. Daarvoor heb je een mens nodig die namens jou communiceert, de zaak kent en aantoonbaar deskundig is.
+
+Wil je een boekhoudpakket vergelijken op concrete kosten voor jouw situatie? Gebruik de [boekhouding kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een realistische berekening.
 
 ## Hoe je de combinatie slim inricht
 

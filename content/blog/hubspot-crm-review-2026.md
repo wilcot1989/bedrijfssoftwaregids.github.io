@@ -82,6 +82,8 @@ Dit is het onderdeel waar de meeste ondernemers zich verkijken. De startprijzen 
 
 Een slimme optie die ik vaak aanbeveel aan kleine bedrijven: het Starter Customer Platform bundelt Marketing, Sales, Service, Content en Data Hub Starter voor **€15 per gebruiker per maand**. Dat is dezelfde prijs als een losse Sales Hub Starter, maar je krijgt alle hubs erbij.
 
+Wil je de kosten voor jouw teamgrootte uitrekenen? Gebruik de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/) voor een vergelijking op basis van het aantal gebruikers en gewenste HubSpot-hubs.
+
 ### Wat betaalt een team van 5 in de praktijk?
 
 | Scenario | Maandkosten | Jaarkosten |
@@ -136,6 +138,8 @@ E-mailtracking werkt al op het gratis plan: je ziet wanneer iemand je e-mail ope
 Het taakbeheer is functioneel maar basic. Je kunt taken aanmaken, toewijzen aan teamleden en deadlines instellen. De task queues op Professional zijn handig: je stelt een lijst samen van belafspraken en werkt die een voor een af. Maar een volwaardig projectmanagementtool is het niet -- daarvoor heb je een koppeling met Monday.com of Asana nodig.
 
 ## Marketing tools: het grote verkoopargument
+
+Weet je nog niet zeker of HubSpot de beste CRM voor jouw situatie is? Doe de [CRM keuzehulp](/tools/crm/keuzehulp/) voor een aanbeveling op maat.
 
 Dit is waar HubSpot zich onderscheidt van pure sales-CRM's als Pipedrive of Freshsales. Marketing Hub zit ingebakken in het platform.
 
@@ -257,6 +261,8 @@ Het Trustpilot-patroon herken ik van mijn eigen klantervaringen. Bedrijven die o
 - **Bedrijven die sterk afhankelijk zijn van Nederlandse tools** -- de native integraties zijn beperkt
 - **Teams groter dan 3 personen op het gratis plan** -- de limiet van 2 gebruikers is te krap
 
+Bekijk voor een volledig overzicht van alle CRM-opties het [overzicht van CRM software](/categories/crm/) om HubSpot naast alle alternatieven te vergelijken.
+
 ## Veelgemaakte fouten bij HubSpot CRM
 
 Na tientallen implementaties zie ik steeds dezelfde fouten terugkomen. Hier zijn de vijf die je het meeste geld en frustratie kosten:
@@ -302,6 +308,8 @@ HubSpot CRM is het beste all-in-one platform voor bedrijven die marketing en sal
 Maar ik kan niet om de olifant in de kamer heen: de prijssprong naar Professional is bruut. Van €15 naar €90 per gebruiker per maand, plus verplichte onboarding, plus een jaarcontract. Dat past niet bij elk MKB-budget. En de gepolariseerde Trustpilot-reviews (1,9/5) weerspiegelen reele frustraties over contractvoorwaarden.
 
 ### Mijn aanbeveling in drie scenario's
+
+Wil je HubSpot naast Pipedrive en Salesforce vergelijken op kosten voor jouw teamgrootte? Gebruik de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/) voor een realistische berekening.
 
 **Budget beperkt, team van 1-3 personen:** Start met HubSpot Free of het Starter Customer Platform (€15/gebruiker/maand). Combineer met Mailchimp voor e-mailmarketing. Dit is de beste prijs-kwaliteitverhouding.
 

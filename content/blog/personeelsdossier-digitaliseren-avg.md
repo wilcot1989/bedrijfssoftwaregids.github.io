@@ -169,4 +169,4 @@ De AP doet steeds vaker onderzoeken op eigen initiatief, niet alleen naar aanlei
 
 ---
 
-Gebruik de [HR-software keuzehulp](/tools/hr-software/keuzehulp/) om te zien welk systeem past bij jouw organisatie.
+Gebruik de [HR-software keuzehulp](/tools/hr-software/keuzehulp/) om te zien welk systeem past bij jouw organisatie. Bereken ook de [HR-software kosten](/tools/hr-software/kosten-berekenen/) voor jouw bedrijfsgrootte om te zien wat een goed HR-systeem je per maand kost.

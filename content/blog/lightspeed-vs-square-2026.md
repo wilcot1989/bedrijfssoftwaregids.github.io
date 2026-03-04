@@ -122,7 +122,9 @@ Square draait het model om: geen abonnement, wel transactiekosten.
 - Square Terminal (alles-in-een met touchscreen): vanaf €149
 - Square Register (compleet kassasysteem, twee schermen): vanaf €699
 
-### Rekenvoorbeeld: wanneer is welk systeem voordeliger?
+#Wil je de totale kosten voor jouw situatie berekenen? Gebruik de [kassasysteem kosten berekenen tool](/tools/kassasystemen/kosten-berekenen/) voor een vergelijking op basis van jouw omzet en bedrijfstype.
+
+## Rekenvoorbeeld: wanneer is welk systeem voordeliger?
 
 Hier wordt het concreet. Ik zet drie omzetscenario's naast elkaar:
 

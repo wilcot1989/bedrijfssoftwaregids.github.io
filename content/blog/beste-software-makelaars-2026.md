@@ -23,7 +23,7 @@ faq:
     a: "Ja, Realworks is beschikbaar voor zowel NVM-leden als niet-NVM makelaars. Sinds enkele jaren heeft Realworks het platform opengesteld voor de hele sector. Wel krijgen NVM-leden vaak een preferentieel tarief en extra functies zoals directe NVM-uitwisseling. Kolibri, Yes-co en Friva zijn eveneens beschikbaar voor alle makelaars, ongeacht branchevereniging."
 ---
 
-Ik heb de afgelopen maanden met meerdere makelaarskantoren gesproken die worstelden met hun software. De een zat vast aan een verouderd systeem zonder fatsoenlijke Funda-koppeling. De ander gebruikte drie losse tools die niet met elkaar praatten -- aparte software voor het CRM, de woningpresentatie en het biedingsproces. Herkenbaar? De Nederlandse makelaarsmarkt heeft gelukkig een aantal sterke softwarepakketten die alles in een platform combineren. In dit overzicht vergelijk ik de 5 beste opties voor 2026.
+Ik heb de afgelopen maanden met meerdere makelaarskantoren gesproken die worstelden met hun software. De een zat vast aan een verouderd systeem zonder fatsoenlijke Funda-koppeling. De ander gebruikte drie losse tools die niet met elkaar praatten -- aparte software voor het CRM, de woningpresentatie en het biedingsproces. Herkenbaar? De Nederlandse makelaarsmarkt heeft gelukkig een aantal sterke softwarepakketten die alles in een platform combineren. In dit overzicht vergelijk ik de 5 beste opties voor 2026. Voor het digitaal beheren van je koopaktes, mandatenovereenkomsten en andere contracten, bekijk dan ook de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/).
 
 Ben je ook geïnteresseerd in hoe je klantretentie kunt meten vanuit je CRM? Lees dan mijn artikel over [klantretentie meten met CRM software](/blog/klantretentie-meten-crm-software/). En als je de veelgemaakte fouten wilt vermijden bij CRM-implementatie, bekijk dan [de meest gemaakte CRM-fouten in het MKB](/blog/crm-fouten-mkb/).
 
@@ -72,7 +72,7 @@ Directe toegang tot kadastergegevens, eigendomsinformatie en BAG-data (Basisregi
 
 ## 1. Realworks -- De standaard in de Nederlandse makelaardij
 
-Realworks is het platform waar de meeste Nederlandse makelaars mee werken. Meer dan 4.300 makelaarskantoren en 15.000 vastgoedprofessionals gebruiken het dagelijks. De NVM is sinds 2015 volledig eigenaar van Realworks, wat de diepe integratie met het NVM-netwerk verklaart. Maar laat dat je niet misleiden: het platform is tegenwoordig ook beschikbaar voor niet-NVM kantoren.
+Realworks is het platform waar de meeste Nederlandse makelaars mee werken. Meer dan 4.300 makelaarskantoren en 15.000 vastgoedprofessionals gebruiken het dagelijks. Als je ook je loonadministratie voor kantoormedewerkers wilt digitaliseren, lees dan over de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/). De NVM is sinds 2015 volledig eigenaar van Realworks, wat de diepe integratie met het NVM-netwerk verklaart. Maar laat dat je niet misleiden: het platform is tegenwoordig ook beschikbaar voor niet-NVM kantoren.
 
 Wat mij opvalt bij Realworks is de compleetheid. Van het eerste klantcontact tot de sleuteloverdracht bij de notaris zit alles in een systeem. De Funda-koppeling is de meest naadloze die ik ken -- woningen publiceren, wijzigen en depubliceren gaat direct vanuit het CRM. De automatische woningmatching koppelt zoekprofielen van kopers aan nieuw aanbod, zodat je leads niet handmatig hoeft te doorzoeken.
 
@@ -120,7 +120,7 @@ Sinds 2026 is Move.nl -- het klantenportaal van Realworks -- uitgegroeid tot het
 
 ## 2. Kolibri -- Gebruiksvriendelijk en snel groeiend
 
-Kolibri is de afgelopen jaren hard gegroeid en positioneert zich als het gebruiksvriendelijke alternatief voor Realworks. In 2023 nam Kolibri concurrent Pyber over, waardoor het klantenbestand en de ontwikkelcapaciteit flink zijn toegenomen. Wat mij aanspreekt aan Kolibri is de focus op snelheid en eenvoud: de interface is modern, handelingen kosten minder klikken dan bij sommige concurrenten, en de AI-integratie voor advertentieteksten is een slimme toevoeging.
+Kolibri is de afgelopen jaren hard gegroeid en positioneert zich als het gebruiksvriendelijke alternatief voor Realworks. Voor het beheren van documenten, marketingmateriaal en brochures naast je makelaarssoftware, lees ook het overzicht van de [beste documenten management software 2026](/blog/beste-documenten-management-2026/). In 2023 nam Kolibri concurrent Pyber over, waardoor het klantenbestand en de ontwikkelcapaciteit flink zijn toegenomen. Wat mij aanspreekt aan Kolibri is de focus op snelheid en eenvoud: de interface is modern, handelingen kosten minder klikken dan bij sommige concurrenten, en de AI-integratie voor advertentieteksten is een slimme toevoeging.
 
 Het CRM van Kolibri koppelt objecten, relaties, taken, afspraken, e-mails en documenten automatisch aan elkaar. Dat klinkt als een open deur, maar in de praktijk merk ik dat dit bij Kolibri beter werkt dan bij veel concurrenten. Je opent een relatiedossier en ziet direct welke woningen diegene heeft bezichtigd, welke documenten zijn uitgewisseld en wat de status is.
 
@@ -213,7 +213,7 @@ Het klantenportaal MijnHuiszaken biedt woningzoekers een persoonlijke omgeving w
 
 ## 4. Friva -- Gebouwd door makelaars, voor makelaars
 
-Friva is het nieuwste platform in dit overzicht en komt voort uit frustratie. De oprichters waren zelf acht jaar werkzaam als makelaar en bouwden Friva omdat bestaande software niet voldeed aan hun dagelijkse werkprocessen. Dat merk je: de workflows voor verkoop, verhuur en aankoop zijn tot in detail uitgedacht en getest vanuit de praktijk.
+Friva is het nieuwste platform in dit overzicht en komt voort uit frustratie. De oprichters waren zelf acht jaar werkzaam als makelaar en bouwden Friva omdat bestaande software niet voldeed aan hun dagelijkse werkprocessen. Wil je ook je kantoor online beter zichtbaar maken? Lees dan over de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/). Dat merk je: de workflows voor verkoop, verhuur en aankoop zijn tot in detail uitgedacht en getest vanuit de praktijk.
 
 Wat mij opvalt bij Friva is de automatisering van inkomende leads. Alle verzoeken die via e-mail binnenkomen, worden automatisch gelezen, gekoppeld aan de juiste woning en bevestigd richting de klant. Bij drukke kantoren die tientallen reacties per dag krijgen op Funda-advertenties scheelt dat een enorme hoeveelheid handwerk.
 
@@ -258,7 +258,7 @@ Friva is een cloud-oplossing die geoptimaliseerd is voor zowel desktop als mobie
 
 ## 5. KeySoftware -- Specialist in niche-segmenten
 
-KeySoftware valt op door de brede dekking van vastgoedsegmenten. Waar de meeste makelaarssoftware primair gericht is op de verkoop van bestaande woningen, biedt KeySoftware aparte pakketten voor nieuwbouw, bedrijfsonroerend goed (BOG), verhuur en een alles-in-een variant. Als je kantoor actief is in meerdere segmenten, is dat een groot voordeel.
+KeySoftware valt op door de brede dekking van vastgoedsegmenten. Waar de meeste makelaarssoftware primair gericht is op de verkoop van bestaande woningen, biedt KeySoftware aparte pakketten voor nieuwbouw, bedrijfsonroerend goed (BOG), verhuur en een alles-in-een variant. Voor recruitment van nieuwe makelaars en assistenten, lees ook het overzicht van de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/). Als je kantoor actief is in meerdere segmenten, is dat een groot voordeel.
 
 Het systeem biedt directe integraties met Funda, Huispedia, Huislijn en Matrixian. Dat laatste is interessant: Matrixian levert marktdata en woningwaarderingen die je direct in je dossiers kunt verwerken. Daarnaast zijn Kadaster-informatie, WWFT-checks, energielabels, creditchecks en uitgebreid dossierbeheer standaard inbegrepen bij elk pakket.
 
@@ -374,7 +374,7 @@ Als je overweegt om van pakket te wisselen, zijn dit de lessen die ik bij andere
 
 5. **Begin met de kernfuncties.** Richt eerst het CRM en de Funda-koppeling in. Voeg pas daarna extra modules toe. Anders raak je overweldigd.
 
-Werk je nu met losse tools voor je boekhouding? In mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) bespreek ik welke pakketten het beste koppelen met makelaarssoftware. Wil je ook weten hoe je CRM-integraties het beste inricht? Lees dan mijn artikel over [CRM-integraties uitgelegd voor het MKB](/blog/crm-integraties-uitgelegd/).
+Werk je nu met losse tools voor je boekhouding? In mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) bespreek ik welke pakketten het beste koppelen met makelaarssoftware. Wil je ook online vergaderingen organiseren met kopers en verkopers? Bekijk dan de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/). Wil je ook weten hoe je CRM-integraties het beste inricht? Lees dan mijn artikel over [CRM-integraties uitgelegd voor het MKB](/blog/crm-integraties-uitgelegd/).
 
 
 ## Conclusie
