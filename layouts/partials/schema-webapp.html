@@ -25,7 +25,7 @@
     "ratingCount" .rating_count
   )) -}}
 {{- end -}}
-{{- $schema | jsonify -}}
+{{- $schema | jsonify | safeHTML -}}
 </script>
 {{ end }}
 {{ end }}
