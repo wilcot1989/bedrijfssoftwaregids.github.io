@@ -14,13 +14,13 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "/images/categories/crm.svg"
 faq:
   - q: "Wat is het beste CRM voor een startende makelaar?"
-    a: "Voor startende makelaars is Pipedrive een uitstekende keuze vanwege de lage instapprijs (vanaf 14,90 euro per maand), gebruiksvriendelijkheid en flexibiliteit. Als je al NVM-lid bent en direct een Funda-koppeling nodig hebt, is Realworks de logische keuze ondanks de hogere kosten. HubSpot biedt een gratis CRM als je eerst klein wilt beginnen."
+    a: "Voor startende makelaars is Pipedrive een uitstekende keuze vanwege de lage instapprijs (vanaf ~$14 per maand), gebruiksvriendelijkheid en flexibiliteit. Als je al NVM-lid bent en direct een Funda-koppeling nodig hebt, is Realworks de logische keuze ondanks de hogere kosten. HubSpot biedt een gratis CRM als je eerst klein wilt beginnen."
   - q: "Is Realworks verplicht als NVM-makelaar?"
     a: "Nee, Realworks is niet verplicht voor NVM-makelaars. Het is wel het meest gebruikte platform onder NVM-leden vanwege de naadloze integratie met Funda en het NVM-netwerk. Je kunt als NVM-makelaar ook een ander CRM gebruiken, maar dan moet je de Funda-koppeling via een andere weg regelen."
   - q: "Kan ik een algemeen CRM gebruiken als makelaar?"
     a: "Ja, dat kan. Algemene CRM-systemen zoals HubSpot, Pipedrive en Salesforce zijn flexibel genoeg om aan te passen aan de makelaardij. Je mist dan wel specifieke functies zoals Funda-koppeling, woningmatching en NVM-integratie. Voor kleine kantoren of makelaars die niet NVM-gebonden zijn, kan een algemeen CRM prima voldoen."
   - q: "Wat kost een CRM voor makelaars gemiddeld?"
-    a: "De kosten lopen sterk uiteen. Pipedrive begint bij circa 15 euro per gebruiker per maand. Realworks kost doorgaans 200-500 euro per maand voor een volledig kantoor, afhankelijk van het pakket en aantal gebruikers. HubSpot heeft een gratis basisversie, maar de professionele versie begint bij 90 euro per gebruiker per maand. Reken gemiddeld op 50-200 euro per makelaar per maand voor een complete oplossing."
+    a: "De kosten lopen sterk uiteen. Pipedrive begint bij circa $14 per gebruiker per maand. Realworks kost doorgaans 200-500 euro per maand voor een volledig kantoor, afhankelijk van het pakket en aantal gebruikers. HubSpot heeft een gratis basisversie, maar de professionele versie begint bij 90 euro per seat per maand. Reken gemiddeld op 50-200 euro per makelaar per maand voor een complete oplossing."
   - q: "Heeft een makelaar echt een CRM nodig?"
     a: "Ja, een CRM is essentieel voor makelaars. Je beheert veel contacten (kopers, verkopers, huurders, verhuurders), woningen en bezichtigingen tegelijk. Zonder CRM raak je snel het overzicht kwijt, mis je opvolgtaken en loop je deals mis. Zelfs een klein makelaarskantoor profiteert van een gestructureerd systeem voor klantbeheer."
   - q: "Kan ik mijn CRM koppelen aan Funda?"
@@ -40,7 +40,7 @@ Zoek je liever een compleet makelaarspakket met ingebouwde Funda-koppeling, woni
 |---|---|---|---|---|---|
 | **Realworks** | Vanaf ~€200/kantoor | Ja (direct) | Ja | Ja | NVM-makelaars |
 | **HubSpot CRM** | Gratis / €15/gebruiker | Nee (maatwerk) | Nee | Nee (maatwerk) | Marketing-gerichte kantoren |
-| **Pipedrive** | €14,90/gebruiker | Nee (maatwerk) | Nee | Nee (maatwerk) | Kleine makelaarskantoren |
+| **Pipedrive** | ~$14/gebruiker | Nee (maatwerk) | Nee | Nee (maatwerk) | Kleine makelaarskantoren |
 | **Salesforce** | €25/gebruiker | Via partner-apps | Via maatwerk | Via apps | Grote kantoren & ketens |
 | **Gripp** | €29/gebruiker | Nee | Nee | Nee | Makelaar-adviseurs & taxateurs |
 
@@ -120,9 +120,9 @@ Je kunt pipelines aanmaken per proces: een voor verkoop (intake > opname > marke
 
 ### Prijzen (2026)
 - **Free CRM**: gratis voor onbeperkt gebruikers
-- **Starter**: vanaf €15/gebruiker/maand
-- **Professional**: vanaf €90/gebruiker/maand
-- **Enterprise**: vanaf €150/gebruiker/maand
+- **Starter**: vanaf €15/seat/maand (2 seats inbegrepen)
+- **Professional**: vanaf €90/seat/maand
+- **Enterprise**: vanaf €150/seat/maand
 
 ### Voordelen
 - Krachtig gratis plan als startpunt
@@ -146,7 +146,7 @@ Je kunt pipelines aanmaken per proces: een voor verkoop (intake > opname > marke
 
 ## 3. Pipedrive
 
-Pipedrive is het CRM dat ik adviseer aan kleine makelaarskantoren die een betaalbaar systeem zoeken dat ze zelf kunnen inrichten. De visuele pipeline is briljant voor het bijhouden van woningen en deals, en de activiteitengestuurde aanpak voorkomt dat je vergeet om een koper op te volgen na een bezichtiging. Voor 15 euro per maand per gebruiker is het een fractie van wat Realworks kost.
+Pipedrive is het CRM dat ik adviseer aan kleine makelaarskantoren die een betaalbaar systeem zoeken dat ze zelf kunnen inrichten. De visuele pipeline is briljant voor het bijhouden van woningen en deals, en de activiteitengestuurde aanpak voorkomt dat je vergeet om een koper op te volgen na een bezichtiging. Voor ~$14 per maand per gebruiker is het een fractie van wat Realworks kost.
 
 Lees ook onze uitgebreide [Pipedrive review](/blog/pipedrive-review-nederland-2026/) en ons artikel over de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) waarin we Pipedrive vergelijken met zes andere CRM-systemen.
 
@@ -170,11 +170,10 @@ Pipedrive is zeer flexibel aan te passen:
 - Stel automatiseringen in: stuur automatisch een e-mail na een bezichtiging, herinner aan opvolging na 3 dagen
 
 ### Prijzen (2026)
-- **Essential**: €14,90/gebruiker/maand
-- **Advanced**: €27,90/gebruiker/maand
-- **Professional**: €49,90/gebruiker/maand
-- **Power**: €64,90/gebruiker/maand
-- **Enterprise**: €99/gebruiker/maand
+- **Lite**: ~$14/gebruiker/maand
+- **Growth**: ~$24/gebruiker/maand
+- **Premium**: ~$49/gebruiker/maand
+- **Ultimate**: ~$69/gebruiker/maand
 
 ### Voordelen
 - Zeer lage instapprijs
@@ -267,7 +266,7 @@ Gripp is de optie die ik aanbeveel aan makelaars die meer doen dan alleen bemidd
 - **Basis**: €29/gebruiker/maand
 - **Professioneel**: €39/gebruiker/maand
 - **Premium**: op aanvraag
-- Minimaal 5 gebruikers
+- Minimaal 3 gebruikers
 - 14 dagen gratis uitproberen
 
 Als je Gripp koppelt aan je boekhouding, bekijk dan ook ons overzicht van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) voor integratiemogelijkheden.
@@ -283,7 +282,7 @@ Als je Gripp koppelt aan je boekhouding, bekijk dan ook ons overzicht van de [be
 ### Nadelen
 - Geen Funda-koppeling of NVM-integratie
 - Geen woningmatching
-- Minimaal 5 gebruikers vereist
+- Minimaal 3 gebruikers vereist
 - Minder specifieke makelaarsfuncties dan Realworks
 - Geen kadaster- of BAG-integratie
 - Pipeline minder visueel dan Pipedrive
@@ -314,13 +313,13 @@ Als je Gripp koppelt aan je boekhouding, bekijk dan ook ons overzicht van de [be
 Als NVM-makelaar is de Funda-koppeling vaak cruciaal. Realworks biedt dit out-of-the-box. Als je een ander CRM kiest, moet je de Funda-koppeling via een omweg regelen, wat extra kosten en complexiteit met zich meebrengt.
 
 ### 2. Kantoorgrootte
-Voor een solo-makelaar of klein kantoor (1-3 personen) is Pipedrive een uitstekende en betaalbare keuze. Voor kantoren met 5-15 makelaars biedt Realworks het meeste gemak. Grote kantoren en ketens (15+) profiteren van de schaalbaarheid van Salesforce.
+Voor een solo-makelaar of klein kantoor (1-3 personen) is Pipedrive een uitstekende en betaalbare keuze. Voor kantoren met 3-15 makelaars biedt Realworks het meeste gemak. Grote kantoren en ketens (15+) profiteren van de schaalbaarheid van Salesforce.
 
 ### 3. Type dienstverlening
 Doe je puur makelaardij? Dan is Realworks of Pipedrive de logische keuze. Combineer je makelaardij met taxaties, advies en projecten? Dan biedt Gripp de beste alles-in-een oplossing. Wil je sterk inzetten op online leadgeneratie? Dan is HubSpot met zijn marketingtools het overwegen waard.
 
 ### 4. Budget
-De prijzen lopen sterk uiteen. Pipedrive is veruit het goedkoopst (vanaf €15/gebruiker), maar biedt geen makelaarspecifieke functies. Realworks kost meer maar bespaart veel handmatig werk dankzij de Funda-koppeling en woningmatching. Maak een kosten-batenanalyse: hoeveel tijd bespaar je per week met automatische woningmatching en een directe Funda-koppeling?
+De prijzen lopen sterk uiteen. Pipedrive is veruit het goedkoopst (vanaf ~$14/gebruiker), maar biedt geen makelaarspecifieke functies. Realworks kost meer maar bespaart veel handmatig werk dankzij de Funda-koppeling en woningmatching. Maak een kosten-batenanalyse: hoeveel tijd bespaar je per week met automatische woningmatching en een directe Funda-koppeling?
 
 ### 5. Technische capaciteit
 Realworks werkt out-of-the-box voor makelaars. HubSpot en Pipedrive vereisen configuratie maar zijn eenvoudig aan te passen. Salesforce vereist vaak een implementatiepartner. Kies een systeem dat past bij de technische kennis in je kantoor.
@@ -341,7 +340,7 @@ Het beste CRM voor makelaars hangt af van je specifieke situatie. Hier zijn onze
 
 - **Beste makelaar-specifiek CRM**: [Realworks](https://www.realworks.nl/) -- het meest complete platform met Funda-koppeling, NVM-integratie en automatische woningmatching. De standaard in de Nederlandse makelaardij.
 - **Beste voor online leadgeneratie**: [HubSpot CRM](https://www.hubspot.com/nl) -- krachtige marketingtools en gratis CRM als basis, ideaal voor makelaars die actief online leads genereren.
-- **Beste budget CRM voor kleine kantoren**: [Pipedrive](https://www.pipedrive.com/nl) -- intuïtief, betaalbaar en eenvoudig aan te passen aan de makelaarsworkflow.
+- **Beste budget CRM voor kleine kantoren**: [Pipedrive](https://www.pipedrive.com/nl) -- intuïtief, betaalbaar (Lite vanaf ~$14/gebruiker) en eenvoudig aan te passen aan de makelaarsworkflow.
 - **Beste voor grote kantoren en ketens**: [Salesforce](https://www.salesforce.com/nl/) -- maximale schaalbaarheid en aanpasbaarheid met vastgoedapps via AppExchange.
 - **Beste alles-in-een voor makelaars-adviseurs**: [Gripp](https://www.gripp.com/nl/) -- CRM, projecten, uren en facturatie in een Nederlands platform.
 

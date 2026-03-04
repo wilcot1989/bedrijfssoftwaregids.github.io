@@ -14,9 +14,9 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 featured_image: "/images/categories/kassasystemen.svg"
 faq:
   - q: "Wat kost Lightspeed per maand?"
-    a: "Lightspeed Restaurant begint bij 59 euro per maand (Essential, 1 kassa). Lightspeed Retail start bij 59 euro per maand (Basic, 1 locatie). Daar komen hardware en eventuele transactiekosten bovenop. De meeste horecazaken betalen in de praktijk tussen 80 en 180 euro per maand, afhankelijk van het pakket en extra modules."
+    a: "Lightspeed Restaurant begint bij 79 euro per maand (Basic, 1 kassa). Lightspeed Retail start bij 59 euro per maand (Basic, 1 locatie). Daar komen hardware en eventuele transactiekosten bovenop. De meeste horecazaken betalen in de praktijk tussen 80 en 180 euro per maand, afhankelijk van het pakket en extra modules."
   - q: "Is Lightspeed geschikt voor een klein cafe?"
-    a: "Ja, maar het is niet de goedkoopste optie. Voor een klein cafe met beperkt budget zijn alternatieven als Orderbird (vanaf 39 euro per maand) of Square (gratis software) vaak voordeliger. Lightspeed loont pas echt als je voorraadbeheer, bezorgintegraties of meerdere locaties nodig hebt."
+    a: "Ja, maar het is niet de goedkoopste optie. Voor een klein cafe met beperkt budget zijn alternatieven als Orderbird (vanaf 35 euro per maand) of Square (gratis software) vaak voordeliger. Lightspeed loont pas echt als je voorraadbeheer, bezorgintegraties of meerdere locaties nodig hebt."
   - q: "Kan ik Lightspeed koppelen aan Thuisbezorgd en Uber Eats?"
     a: "Ja. Lightspeed Restaurant biedt directe integraties met Thuisbezorgd, Uber Eats en Deliveroo, vaak via de tussenschakel Deliverect. Bestellingen komen automatisch binnen op je kassascherm, zodat je ze niet handmatig hoeft over te typen. Menuwijzigingen synchroniseer je vanuit een centraal dashboard."
   - q: "Werkt Lightspeed ook zonder internet?"
@@ -39,7 +39,7 @@ Ik werk nu ruim drie jaar met Lightspeed-klanten. Van een lunchcafe in Utrecht d
 |---|---|
 | **Type** | Cloud-based POS (iPad) |
 | **Producten** | Restaurant, Retail, eCommerce |
-| **Startprijs** | Vanaf €59/mnd |
+| **Startprijs** | Vanaf €79/mnd |
 | **Hardware** | iPad + randapparatuur |
 | **Bezorgkoppelingen** | Thuisbezorgd, Uber Eats, Deliveroo |
 | **Support** | Nederlands, telefoon + chat + e-mail |
@@ -76,7 +76,7 @@ Lightspeed Restaurant is het product waar ik de meeste ervaring mee heb. Ik heb 
 
 ### Wat minder goed werkt
 
-**De prijs stijgt snel.** Het Essential-pakket van €59/maand klinkt redelijk, maar zodra je bezorgintegraties, geavanceerde rapportages of een extra kassa wilt, zit je al snel op €109 tot €189/maand. Daar komen hardware en transactiekosten nog bij.
+**De prijs stijgt snel.** Het Basic-pakket van €79/maand klinkt redelijk, maar zodra je bezorgintegraties, geavanceerde rapportages of een extra kassa wilt, zit je al snel op €139 tot €249/maand. Daar komen hardware en transactiekosten nog bij.
 
 **Internetafhankelijkheid.** Lightspeed is cloud-based. Er is een offline modus, maar die is beperkt: je kunt bestellingen opnemen, maar pinbetalingen zijn onmogelijk. Bij een klant in een oud pand met slechte WiFi was dat een probleem. We moesten eerst een stabiele internetverbinding regelen voordat het systeem betrouwbaar draaide.
 
@@ -168,9 +168,9 @@ Sinds een paar jaar biedt Lightspeed een eigen betaalverwerking aan: Lightspeed 
 
 | Pakket | Prijs/maand | Inclusief |
 |---|---|---|
-| **Essential** | €59 | 1 kassa, menukaart, tafelmanagement, basisrapportages |
-| **Plus** | €109 | + geavanceerde rapportages, meerdere revenue centres |
-| **Pro** | €189 | + API-toegang, multi-locatie, premium support |
+| **Basic** | €79 | 1 kassa, menukaart, tafelmanagement, basisrapportages |
+| **Core** | €139 | + geavanceerde rapportages, meerdere revenue centres |
+| **Pro** | €249 | + API-toegang, multi-locatie, premium support |
 | Extra kassa | Vanaf €39/mnd | Per extra register |
 
 ### Lightspeed Retail prijzen (2026)
@@ -194,7 +194,7 @@ Dit is waar het in de praktijk duurder uitvalt dan je denkt:
 5. **eCommerce-module**: apart geprijsd bij Retail
 6. **Premium onboarding**: de gratis introductie is 1 uur -- uitgebreide begeleiding kost extra
 
-**Rekenvoorbeeld**: een restaurant met 1 kassa, Essential-pakket en Deliverect voor Thuisbezorgd + Uber Eats betaalt minimaal €59 + €49 = **€108/maand aan software**, plus hardware en transactiekosten.
+**Rekenvoorbeeld**: een restaurant met 1 kassa, Basic-pakket en Deliverect voor Thuisbezorgd + Uber Eats betaalt minimaal €79 + €49 = **€128/maand aan software**, plus hardware en transactiekosten.
 
 ## Lightspeed kassa review: wat zeggen gebruikers?
 
@@ -238,7 +238,7 @@ Hoe verhoudt Lightspeed zich tot alternatieven? Een kort overzicht:
 
 | | Lightspeed | Square | Untill | Orderbird |
 |---|---|---|---|---|
-| **Startprijs/mnd** | €59 | Gratis | €79 | €39 |
+| **Startprijs/mnd** | €79 | Gratis | €79 | €35 |
 | **Beste voor** | Groeiende horeca & retail | Starters, klein budget | Grote horecazaken | Kleine cafes |
 | **Voorraadbeheer** | Uitgebreid | Basis | Uitgebreid | Basis |
 | **Bezorgkoppelingen** | Ja (Thuisbezorgd, UberEats, Deliveroo) | Nee | Ja | Beperkt |

@@ -16,9 +16,9 @@ faq:
   - q: "Wat is het verschil tussen Exact Online en Twinfield?"
     a: "Exact Online is een breder platform dat naast boekhouding ook CRM, voorraad en projectmanagement biedt. Twinfield is puurder gericht op financiële administratie en blinkt uit in multi-administratie, consolidatie en accountant-samenwerking. Exact Online is populairder bij het MKB, Twinfield bij accountantskantoren."
   - q: "Wat kost Exact Online per maand?"
-    a: "Exact Online Boekhouden kost €35/maand voor 1 gebruiker. Extra gebruikers kosten €30-€40/maand. Het uitgebreidere Handel+ pakket kost €89/maand voor 3 gebruikers. De Manufacturing-editie start vanaf €129/maand."
+    a: "Exact Online Boekhouden kost €48/maand voor 1 gebruiker. Extra gebruikers kosten €30-€40/maand. Het uitgebreidere Handel+ pakket kost €89/maand voor 3 gebruikers. De Manufacturing-editie start vanaf €129/maand."
   - q: "Wat kost Twinfield per maand?"
-    a: "Twinfield Start kost €33/maand voor 1 administratie. Twinfield Boekhouden kost €57/maand met meer functies. Het uitgebreidere Twinfield Administratie pakket kost €84/maand. Multi-administratie pakketten starten vanaf €112/maand."
+    a: "Twinfield Extra Boekhouden kost €42/maand voor 1 administratie. Twinfield MKB Boekhouden kost €59/maand met meer functies. Het uitgebreidere Twinfield Compleet Boekhouden pakket kost €88/maand. Multi-administratie pakketten starten vanaf €112/maand."
   - q: "Welke software gebruiken de meeste accountants?"
     a: "Zowel Exact Online als Twinfield worden veel door accountants gebruikt. Exact Online heeft het grootste marktaandeel in Nederland. Twinfield is populairder bij grotere accountantskantoren vanwege de multi-administratie en consolidatiemogelijkheden. Vraag je accountant welk systeem zij prefereren."
   - q: "Kan ik overstappen van Twinfield naar Exact Online?"
@@ -37,7 +37,7 @@ Bekijk ook onze [Exact Online Review 2026](/blog/exact-online-review-2026/) voor
 | Kenmerk | Exact Online | Twinfield |
 |---------|-------------|-----------|
 | **Eigenaar** | Exact (Nederlands) | Wolters Kluwer (Nederlands) |
-| **Startprijs** | €35/mnd | €33/mnd |
+| **Startprijs** | €48/mnd | €42/mnd |
 | **Gratis proef** | 30 dagen | 30 dagen |
 | **Beste voor** | MKB dat méér wil dan boekhouding | Bedrijven met financiële focus |
 | **CRM** | ✅ Ingebouwd | ❌ Niet beschikbaar |
@@ -56,7 +56,7 @@ Bekijk ook onze [Exact Online Review 2026](/blog/exact-online-review-2026/) voor
 
 | Plan | Prijs/mnd | Gebruikers | Kernfuncties |
 |------|----------|------------|--------------|
-| **Boekhouden** | €35 | 1 | Boekhouding, facturatie, bankrekonciliatie |
+| **Boekhouden** | €48 | 1 | Boekhouding, facturatie, bankrekonciliatie |
 | **Handel+** | €89 | 3 | + CRM, voorraad, inkoop, verkoop |
 | **Manufacturing** | €129 | 3 | + Productie, stuklijsten |
 | **Extra gebruiker** | €30-€40 | Per stuk | Afhankelijk van plan |
@@ -65,9 +65,9 @@ Bekijk ook onze [Exact Online Review 2026](/blog/exact-online-review-2026/) voor
 
 | Plan | Prijs/mnd | Administraties | Kernfuncties |
 |------|----------|---------------|--------------|
-| **Start** | €33 | 1 | Basis boekhouding, facturatie |
-| **Boekhouden** | €57 | 1 | + Geavanceerde rapportages, projecten |
-| **Administratie** | €84 | 1 | + Vaste activa, kostenplaatsen, budgettering |
+| **Extra Boekhouden** | €42 | 1 | Basis boekhouding, facturatie |
+| **MKB Boekhouden** | €59 | 1 | + Geavanceerde rapportages, projecten |
+| **Compleet Boekhouden** | €88 | 1 | + Vaste activa, kostenplaatsen, budgettering |
 | **Multi** | €112 | 5 | Alle functies + multi-administratie |
 | **Consolidatie** | Op aanvraag | Onbeperkt | + Consolidatie, intercompany |
 
@@ -75,11 +75,11 @@ Bekijk ook onze [Exact Online Review 2026](/blog/exact-online-review-2026/) voor
 
 | Scenario | Exact Online | Twinfield |
 |----------|-------------|-----------|
-| Basis boekhouding | €4.140/jaar | €3.960/jaar |
-| Boekhouding + extra functies | €5.988/jaar | €6.840/jaar |
-| Multi-administratie (3 admin.) | €12.600/jaar | €7.416/jaar |
+| Basis boekhouding (1 user) | €576/jaar (€48/mnd) | €504/jaar (€42/mnd) |
+| Boekhouding + extra functies (3 users) | €2.268/jaar (€189/mnd) | €1.056/jaar (€88/mnd) |
+| Multi-administratie (3 admin.) | €1.728/jaar (3× €48/mnd) | €1.344/jaar (€112/mnd) |
 
-**Conclusie kosten:** Voor een enkele administratie zijn de prijzen vergelijkbaar. Bij meerdere administraties is Twinfield voordeliger doordat het multi-administratie als kernfunctie biedt.
+**Conclusie kosten:** Twinfield is goedkoper bij vergelijkbare functionaliteit, met name bij extra functies en multi-administratie. Bij meerdere administraties is Twinfield aanzienlijk voordeliger doordat het multi-administratie als kernfunctie aanbiedt.
 
 ## Boekhoudkundige functies vergeleken
 

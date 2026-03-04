@@ -16,7 +16,7 @@ faq:
   - q: "Is Pipedrive beter dan Monday CRM?"
     a: "Dat hangt af van je situatie. Pipedrive is beter als je puur op sales focust en een intuïtieve pipeline zoekt. Monday CRM is beter als je sales wilt combineren met projectmanagement en samenwerking tussen afdelingen. Voor kleine salesteams (2-10 personen) raad ik Pipedrive aan, voor bredere teams die ook projecten beheren Monday CRM."
   - q: "Wat is goedkoper, Pipedrive of Monday CRM?"
-    a: "Monday CRM is goedkoper op instapniveau: €12 per gebruiker per maand (Basic) tegenover €14 bij Pipedrive (Essential). Maar Monday CRM vereist minimaal 3 gebruikers, dus je betaalt altijd minimaal €36 per maand. Bij Pipedrive kun je starten met 1 gebruiker voor €14 per maand."
+    a: "Monday CRM is goedkoper op instapniveau: €12 per gebruiker per maand (Basic) tegenover ~$14 bij Pipedrive (Lite). Maar Monday CRM vereist minimaal 3 gebruikers, dus je betaalt altijd minimaal €36 per maand. Bij Pipedrive kun je starten met 1 gebruiker voor ~$14 per maand."
   - q: "Kan ik overstappen van Pipedrive naar Monday CRM?"
     a: "Ja, beide platforms ondersteunen import en export via CSV en Excel. Monday CRM biedt importtemplates die de overstap vergemakkelijken. Reken op 1-3 dagen voor de volledige migratie, afhankelijk van de hoeveelheid data en het aantal gebruikers."
   - q: "Welke CRM heeft betere automatiseringen?"
@@ -38,12 +38,12 @@ Zoek je een breder overzicht? Bekijk dan mijn [complete CRM-vergelijking voor Ne
 | Kenmerk | Pipedrive | Monday CRM |
 |---|---|---|
 | **G2-score** | 4,3/5 (2.900+ reviews) | 4,6/5 (970+ reviews) |
-| **Startprijs** | €14/gebruiker/mnd | €12/gebruiker/mnd |
+| **Startprijs** | ~$14/gebruiker/mnd | €12/gebruiker/mnd |
 | **Gratis plan** | Nee (14 dagen trial) | Nee (14 dagen trial) |
 | **Min. gebruikers** | 1 | 3 |
 | **Beste voor** | Pure salesteams | Sales + projectmanagement |
 | **Gebruiksgemak** | Uitstekend (intuïtief) | Zeer goed (flexibel) |
-| **Automatiseringen** | Vanaf Essential (beperkt) | Vanaf Standard (250/mnd) |
+| **Automatiseringen** | Vanaf Growth (beperkt) | Vanaf Standard (250/mnd) |
 | **AI-functies** | Sales Assistant, dealvoorspelling | AI-formules, automatisering |
 | **Integraties** | 400+ | 200+ |
 | **Mobiele app** | Zeer goed | Goed |
@@ -60,10 +60,10 @@ Dit is waar de meeste MKB-ondernemers zich verkijken. De startprijzen liggen dic
 
 | Niveau | Pipedrive | Monday CRM |
 |---|---|---|
-| **Instap** | €14 (Essential) | €12 (Basic) |
-| **Middel** | €39 (Advanced) | €17 (Standard) |
-| **Geavanceerd** | €49 (Professional) | €28 (Pro) |
-| **Top** | €79 (Enterprise) | Op aanvraag (Enterprise) |
+| **Instap** | ~$14 (Lite) | €12 (Basic) |
+| **Middel** | ~$24 (Growth) | €17 (Standard) |
+| **Geavanceerd** | ~$49 (Premium) | €28 (Pro) |
+| **Top** | ~$69 (Ultimate) | Op aanvraag (Enterprise) |
 
 Op het eerste gezicht is Monday CRM op elk niveau goedkoper. Maar er zit een addertje: Monday CRM vereist minimaal 3 gebruikers bij elk betaald plan. Bij Pipedrive kun je starten met 1 seat.
 
@@ -71,11 +71,11 @@ Op het eerste gezicht is Monday CRM op elk niveau goedkoper. Maar er zit een add
 
 | Scenario | Pipedrive | Monday CRM | Verschil/jaar |
 |---|---|---|---|
-| Basisfuncties | 5 x €14 = €70/mnd | 5 x €12 = €60/mnd | **€120/jaar** (Monday goedkoper) |
-| Met automatiseringen | 5 x €39 = €195/mnd | 5 x €17 = €85/mnd | **€1.320/jaar** (Monday goedkoper) |
-| Alles uit de kast | 5 x €49 = €245/mnd | 5 x €28 = €140/mnd | **€1.260/jaar** (Monday goedkoper) |
+| Basisfuncties | 5 x ~$14 = ~$70/mnd | 5 x €12 = €60/mnd | **~€120/jaar** (Monday goedkoper) |
+| Met automatiseringen | 5 x ~$24 = ~$120/mnd | 5 x €17 = €85/mnd | **~€420/jaar** (Monday goedkoper) |
+| Alles uit de kast | 5 x ~$49 = ~$245/mnd | 5 x €28 = €140/mnd | **~€1.260/jaar** (Monday goedkoper) |
 
-Monday CRM is aanzienlijk goedkoper, vooral bij de middelste plannen. Maar -- en dit is cruciaal -- Pipedrive's Essential-plan bevat al functies die bij Monday CRM pas in het Standard-plan zitten, zoals tweezijdige e-mailsync. De vergelijking is dus niet helemaal een-op-een.
+Monday CRM is aanzienlijk goedkoper, vooral bij de middelste plannen. Maar -- en dit is cruciaal -- Pipedrive's Lite-plan bevat al functies die bij Monday CRM pas in het Standard-plan zitten, zoals tweezijdige e-mailsync. De vergelijking is dus niet helemaal een-op-een.
 
 ### Verborgen kosten waar je op moet letten
 
@@ -160,7 +160,7 @@ Benieuwd hoe Monday.com zich als projectmanagementtool houdt? Lees dan mijn [Mon
 
 ### Automatiseringen
 
-**Pipedrive** biedt sales-gerichte automatiseringen: automatisch e-mails versturen bij een fasewissel, taken aanmaken, notificaties sturen. De workflow-builder is visueel en eenvoudig. Geavanceerde automatiseringen zitten in het Advanced-plan (€39/maand).
+**Pipedrive** biedt sales-gerichte automatiseringen: automatisch e-mails versturen bij een fasewissel, taken aanmaken, notificaties sturen. De workflow-builder is visueel en eenvoudig. Geavanceerde automatiseringen zitten in het Growth-plan (~$24/maand).
 
 **Monday CRM** gaat verder. De automatiseringen werken niet alleen binnen de CRM, maar ook tussen CRM-borden en projectborden. "Als een deal wordt gewonnen, maak dan een projectbord aan, wijs een projectmanager toe en stuur een welkomstmail naar de klant." Dat soort ketens.
 
@@ -262,7 +262,7 @@ Ja, beide koppelen met Nederlandse pakketten als Exact Online en Moneybird -- vi
 
 Na tientallen implementaties van beide platformen bij Nederlandse MKB-bedrijven is mijn aanbeveling helder:
 
-**Kies [Pipedrive](https://www.pipedrive.com/nl) als sales de kern van je bedrijf is.** Salesteams van 1 tot 30 personen die een intuïtief, snel en bewezen CRM willen. Begin met het Essential-plan (€14/gebruiker/maand) en je bent dezelfde dag operationeel. De 4,3/5 op G2 met bijna 3.000 reviews bevestigt wat ik in de praktijk zie: teams adopteren het snel en gebruiken het daadwerkelijk. Dat is de helft van het succes.
+**Kies [Pipedrive](https://www.pipedrive.com/nl) als sales de kern van je bedrijf is.** Salesteams van 1 tot 30 personen die een intuïtief, snel en bewezen CRM willen. Begin met het Lite-plan (~$14/gebruiker/maand) en je bent dezelfde dag operationeel. De 4,3/5 op G2 met bijna 3.000 reviews bevestigt wat ik in de praktijk zie: teams adopteren het snel en gebruiken het daadwerkelijk. Dat is de helft van het succes.
 
 **Kies [Monday CRM](https://monday.com/crm) als je meer nodig hebt dan alleen sales.** Wanneer sales, projectmanagement en samenwerking in een platform moeten samenkomen, is Monday CRM de slimmere keuze. Begin met het Standard-plan (€17/gebruiker/maand) -- dat geeft je automatiseringen en e-mailsync. Het is goedkoper dan Pipedrive + losse projecttool, en je data zit op een plek.
 

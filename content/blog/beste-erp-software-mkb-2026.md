@@ -16,7 +16,7 @@ faq:
   - q: "Wat is ERP software?"
     a: "ERP (Enterprise Resource Planning) software is een geïntegreerd systeem dat alle bedrijfsprocessen verbindt: boekhouding, voorraadbeheer, inkoop, verkoop, HR en projectmanagement. In plaats van losse programma's voor elk proces werkt alles vanuit één centrale database."
   - q: "Wat kost ERP software voor het MKB?"
-    a: "De kosten variëren sterk. Cloudoplossingen zoals Exact Online starten vanaf €35/maand, terwijl uitgebreidere systemen zoals SAP Business One €150-€500/gebruiker/maand kosten. Daarnaast zijn er implementatiekosten die variëren van €5.000 tot €100.000+ afhankelijk van de complexiteit."
+    a: "De kosten variëren sterk. Cloudoplossingen zoals Exact Online starten vanaf €48/maand, terwijl uitgebreidere systemen zoals SAP Business One €150-€500/gebruiker/maand kosten. Daarnaast zijn er implementatiekosten die variëren van €5.000 tot €100.000+ afhankelijk van de complexiteit."
   - q: "Is Exact Online een ERP systeem?"
     a: "Ja, Exact Online is een cloud-ERP systeem dat zeer populair is in Nederland. Het biedt boekhouding, CRM, projectmanagement, voorraad- en productiebeheer. Voor kleinere bedrijven fungeert het vaak als volledig ERP, grotere bedrijven kiezen soms voor Exact Globe of een ander systeem."
   - q: "Hoe lang duurt een ERP implementatie?"
@@ -36,7 +36,7 @@ Zoek je nog iets eenvoudigers? Bekijk dan eerst onze gids over de [beste boekhou
 
 | ERP Systeem | Startprijs | Beste voor | Cloud | Implementatietijd |
 |-------------|-----------|------------|-------|-------------------|
-| **Exact Online** | Vanaf €35/mnd | MKB 1-50 medewerkers | ✅ | 1-3 maanden |
+| **Exact Online** | Vanaf €48/mnd | MKB 1-50 medewerkers | ✅ | 1-3 maanden |
 | **Afas Software** | Vanaf €250/mnd | MKB 20-500 medewerkers | ✅ | 2-4 maanden |
 | **SAP Business One** | Vanaf €150/gebr/mnd | MKB 10-250 medewerkers | ✅/On-premise | 3-9 maanden |
 | **Microsoft Dynamics 365 BC** | Vanaf €60/gebr/mnd | MKB 10-500 medewerkers | ✅ | 3-6 maanden |
@@ -59,7 +59,7 @@ Als een klant me vraagt "waar moet ik beginnen?", is Exact Online in 9 van de 10
 
 | Plan | Prijs/mnd | Gebruikers | Kernfuncties |
 |------|----------|------------|--------------|
-| **Boekhouden** | €35 | 1 | Financiële administratie |
+| **Boekhouden Essentials** | €48 | 1 | Financiële administratie |
 | **Handel+** | €89 | 3 | + CRM, voorraad, inkoop |
 | **Manufacturing** | €129 | 3 | + Productie, stuklijsten |
 | **Professional** | Op aanvraag | Onbeperkt | Alle modules + maatwerk |

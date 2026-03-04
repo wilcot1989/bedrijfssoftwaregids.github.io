@@ -14,7 +14,7 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "/images/categories/boekhouding.svg"
 faq:
   - q: "Wat kost Exact Online per maand?"
-    a: "Exact Online begint bij circa 16 euro per maand voor het boekhoudpakket voor ZZP'ers. Het meest populaire MKB-pakket kost circa 59 euro per maand. Pakketten met CRM, HRM of projectbeheer lopen op tot 100 euro of meer per maand. Extra gebruikers kosten circa 10 euro per gebruiker per maand."
+    a: "Exact Online begint bij circa 48 euro per maand voor het boekhoudpakket voor ZZP'ers. Het meest populaire MKB-pakket kost circa 59 euro per maand. Pakketten met CRM, HRM of projectbeheer lopen op tot 100 euro of meer per maand. Extra gebruikers kosten circa 10 euro per gebruiker per maand."
   - q: "Is Exact Online geschikt voor ZZP'ers?"
     a: "Exact Online biedt een ZZP-pakket, maar het is voor de meeste ZZP'ers aan de dure kant vergeleken met alternatieven als Moneybird of e-Boekhouden. Het ZZP-pakket is interessant als je wilt groeien naar een groter bedrijf, omdat Exact moeiteloos meeschaalt."
   - q: "Kan ik mijn BTW-aangifte doen via Exact Online?"
@@ -43,7 +43,7 @@ Zoek je een breder overzicht van boekhoudpakketten? Lees dan ook ons artikel ove
 | **Gebruikers** | 700.000+ bedrijven wereldwijd |
 | **Type** | Cloud-based boekhoud- en bedrijfssoftware |
 | **Doelgroep** | ZZP'ers, MKB en accountantskantoren |
-| **Prijsrange** | €16 - €100+/maand |
+| **Prijsrange** | €48 - €100+/maand |
 | **Gratis trial** | Ja (30 dagen) |
 | **Nederlandse support** | Ja (telefoon, e-mail, chat) |
 
@@ -55,8 +55,8 @@ De vraag die ik het vaakst krijg over Exact Online: "Wat gaat het me kosten?" He
 
 | Pakket | Prijs/mnd | Gebruikers | Beste voor |
 |---|---|---|---|
-| **Boekhouden ZZP** | ±€16 | 1 | ZZP'ers met eenvoudige administratie |
-| **Boekhouden** | ±€35 | 1 (extra: €10/p.p.) | MKB met basale boekhouding |
+| **Boekhouden ZZP** | €48 | 1 | ZZP'ers met eenvoudige administratie |
+| **Boekhouden** | €48 | 1 (extra: €10/p.p.) | MKB met basale boekhouding |
 | **Boekhouden Compleet** | ±€59 | 1 (extra: €10/p.p.) | MKB met uitgebreide behoeften |
 | **CRM** | ±€35 | 1 (extra: €10/p.p.) | Bedrijven met verkoopfocus |
 | **Facturatie** | ±€16 | 1 | Alleen facturen versturen |
@@ -180,7 +180,7 @@ Een vraag die ik vaak krijg: "Moet ik Exact kiezen of is een alternatief beter?"
 
 | Kenmerk | Exact Online | Moneybird | e-Boekhouden | Twinfield |
 |---|---|---|---|---|
-| **Startprijs/mnd** | ±€16 | Gratis / €16,50 | €11,50 | ±€20 |
+| **Startprijs/mnd** | €48 | Gratis / €15 | €9,95 | ±€20 |
 | **Gratis plan** | Nee (30d trial) | Ja (beperkt) | Nee (15d trial) | Nee |
 | **Extra gebruikers** | €10/p.p./mnd | Gratis (onbeperkt) | Gratis (onbeperkt) | €10/p.p./mnd |
 | **BTW-aangifte** | Ja | Ja | Ja | Ja |
@@ -198,7 +198,7 @@ Moneybird is het alternatief dat ik het vaakst als tegenhanger noem. Het is eenv
 
 ### Exact Online vs. e-Boekhouden
 
-e-Boekhouden.nl is de optie die ik noem als budget echt de doorslag geeft. Voor 11,50 euro per maand inclusief onbeperkt gebruikers krijg je een degelijk basispakket. Het mist de diepgang en integraties van Exact, maar voor een eenvoudige administratie is het eerlijk gezegd genoeg. **Kies e-Boekhouden als** je een no-nonsense pakket zoekt voor een lage prijs. **Kies Exact als** je meer wilt dan alleen boekhouden.
+e-Boekhouden.nl is de optie die ik noem als budget echt de doorslag geeft. Voor 9,95 euro per maand (ZZP-pakket) of 14,50 euro per maand (Onbeperkt boekhouden) inclusief onbeperkt gebruikers krijg je een degelijk basispakket. Het mist de diepgang en integraties van Exact, maar voor een eenvoudige administratie is het eerlijk gezegd genoeg. **Kies e-Boekhouden als** je een no-nonsense pakket zoekt voor een lage prijs. **Kies Exact als** je meer wilt dan alleen boekhouden.
 
 Lees meer over deze alternatieven in ons artikel over de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/).
 

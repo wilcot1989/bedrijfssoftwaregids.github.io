@@ -11,7 +11,7 @@ categories:
   - boekhouding
 faq:
   - q: "Wat is het goedkoopste boekhoudprogramma voor ZZP'ers?"
-    a: "Voor ZZP'ers met een eenvoudige administratie is e-Boekhouden.nl een van de goedkoopste opties, vanaf circa €15,50 per maand. Moneybird biedt een beperkt gratis plan voor starters. Als je echt zo weinig mogelijk wilt uitgeven en maximaal vijf facturen per maand verstuurt, kun je beginnen met de gratis versie van Moneybird. Zodra je groeit, zijn de betaalde plannen (€16,50/maand) snel terugverdiend door de tijdsbesparing."
+    a: "Voor ZZP'ers met een eenvoudige administratie is e-Boekhouden.nl een van de goedkoopste opties, vanaf €9,95 per maand (ZZP-pakket). Moneybird biedt een beperkt gratis plan voor starters. Als je echt zo weinig mogelijk wilt uitgeven en maximaal drie facturen per maand verstuurt, kun je beginnen met de gratis versie van Moneybird. Zodra je groeit, zijn de betaalde plannen (€15/maand, Pakket 20) snel terugverdiend door de tijdsbesparing."
   - q: "Wat kost het om over te stappen naar een ander boekhoudprogramma?"
     a: "De overstap zelf kost je geen geld — bijna alle pakketten bieden gratis imports. De échte kosten zitten in je tijd: gemiddeld een halve tot hele dag om je historische data te migreren en te controleren. Wissel bij voorkeur aan het begin van een nieuw boekjaar, dan is het werk minimaal. Sommige pakketten zoals Moneybird hebben specifieke migratietools die de klus versnellen."
   - q: "Kan ik als ZZP'er mijn boekhouding zelf doen?"
@@ -40,11 +40,11 @@ Boekhoudprogramma's lopen uiteen van gratis tot €100+ per maand. Het goedkoops
 
 Klinkt voor de hand liggend. Toch zit hier het eerste grote verschilpunt.
 
-Als ZZP'er of eenmanszaak doe je je aangifte inkomstenbelasting (IB). Je administratie hoeft niet compleet dubbel te zijn. Je hebt geen formele jaarrekening nodig. Een pakket als Moneybird (€16,50/maand), e-Boekhouden (€15,50/maand) of Jortt doet voor jou alles wat nodig is.
+Als ZZP'er of eenmanszaak doe je je aangifte inkomstenbelasting (IB). Je administratie hoeft niet compleet dubbel te zijn. Je hebt geen formele jaarrekening nodig. Een pakket als Moneybird (€15/maand, Pakket 20), e-Boekhouden (€9,95/maand) of Jortt doet voor jou alles wat nodig is.
 
 Bij een BV ligt dat anders. Je bent wettelijk verplicht een complete boekhouding bij te houden: balans, resultatenrekening, de jaarrekening moet worden gedeponeerd bij de KvK. En als je jezelf via de BV salaris betaalt — wat bij een DGA verplicht is — heb je ook nog salarisadministratie nodig.
 
-Voor een BV-eigenaar die alles zelf wil doen, kom je eigenlijk al snel uit bij Exact Online (€44/maand voor het basisplan) of een vergelijkbaar pakket dat echte dubbele boekhouding ondersteunt. Een ZZP-tool als Moneybird is technisch ongeschikt voor een actieve BV — hoe sympathiek de interface ook is.
+Voor een BV-eigenaar die alles zelf wil doen, kom je eigenlijk al snel uit bij Exact Online Essentials (€48/maand) of een vergelijkbaar pakket dat echte dubbele boekhouding ondersteunt. Een ZZP-tool als Moneybird is technisch ongeschikt voor een actieve BV — hoe sympathiek de interface ook is.
 
 Bij een klant van mij — eigenaar van een kleine BV, geen personeel, vijftien facturen per maand — had zijn accountant hem op Exact Online gezet. Logisch vanuit het accountantsperspectief. Maar hij snapte er niets van en deed de helft fout. Uiteindelijk zijn we overgestapt naar een lichtere oplossing met zijn accountant als reviewer. Dat werkte veel beter.
 
@@ -120,9 +120,9 @@ Nu pas de prijs. Niet als eerste, maar als zesde vraag.
 De markt ziet er ruwweg zo uit in 2026:
 
 - **Gratis / tot €10/maand:** Beperkte functies. Geschikt voor starters met heel weinig transacties. Denk aan Moneybird gratis plan of Jortt basis.
-- **€10-€20/maand:** De zoete plek voor de meeste ZZP'ers. e-Boekhouden (€15,50/maand), Moneybird M (€16,50/maand). Volledig functioneel voor enkelvoudige administraties.
-- **€20-€35/maand:** Meer mogelijkheden, betere koppelingen, soms salarismodule. Moneybird L (€29/maand), InformerOnline.
-- **€35-€60/maand:** Professionele pakketten voor MKB of BV's. Exact Online Start (€44/maand). Hier ga je nooit meer naar Excel terug.
+- **€10-€20/maand:** De zoete plek voor de meeste ZZP'ers. e-Boekhouden (€9,95/maand ZZP of €14,50/maand Onbeperkt), Moneybird Pakket 20 (€15/maand). Volledig functioneel voor enkelvoudige administraties.
+- **€20-€40/maand:** Meer mogelijkheden, betere koppelingen, soms salarismodule. Moneybird Pakket 50 (€28/maand), Moneybird Onbeperkt (€39/maand), InformerOnline.
+- **€40-€60/maand:** Professionele pakketten voor MKB of BV's. Exact Online Essentials (€48/maand). Hier ga je nooit meer naar Excel terug.
 - **€60+/maand:** Uitgebreide MKB-oplossingen met projectadministratie, multi-entiteit, geavanceerde rapportages. AFAS, Unit4, Twinfield.
 
 Wat is verstandig? Als je €5.000 per jaar omzet draait, dan is een pakket van €40/maand onevenredig. Als je €150.000 per jaar omzet draait en je betaalt €15/maand voor boekhoudsoftware, laat je waarschijnlijk functies liggen die je uren besparen.
@@ -154,13 +154,13 @@ De [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) helpt je overigens in 
 Na honderden gesprekken met ondernemers kom ik telkens op hetzelfde uit:
 
 **ZZP, dienstverlening, minder dan 20 facturen/maand, geen personeel:**
-Start met Moneybird M (€16,50/maand) of e-Boekhouden (€15,50/maand). Beide zijn degelijk, makkelijk te leren en hebben goede BTW-koppelingen. Kijk welke interface je fijner vindt — maak beide een week gratis.
+Start met Moneybird Pakket 20 (€15/maand) of e-Boekhouden (€9,95/maand). Beide zijn degelijk, makkelijk te leren en hebben goede BTW-koppelingen. Kijk welke interface je fijner vindt — maak beide een week gratis.
 
 **ZZP of eenmanszaak met webshop of veel transacties:**
 Moneybird heeft betere webshop-koppelingen (Mollie, Shopify, WooCommerce). e-Boekhouden is iets goedkoper maar minder modern. Bij meer dan 50 transacties per maand loont het hogere plan van Moneybird zichzelf snel terug.
 
 **BV, één DGA, geen personeel:**
-Exact Online Start (€44/maand) of een accountant die op Snelstart/Twinfield werkt. Probeer níet te besparen op het pakket zelf — de risico's bij een fout gedane jaarrekening zijn groter dan €28 per maand verschil.
+Exact Online Essentials (€48/maand) of een accountant die op Snelstart/Twinfield werkt. Probeer níet te besparen op het pakket zelf — de risico's bij een fout gedane jaarrekening zijn groter dan €28 per maand verschil.
 
 **MKB met personeel:**
 Exact Online met de salarismodule, of Afas als je ook ERP-functionaliteit wilt. Doe dit niet zonder boekhouder.

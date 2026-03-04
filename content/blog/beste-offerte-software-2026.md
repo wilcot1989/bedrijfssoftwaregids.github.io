@@ -147,7 +147,7 @@ Als ZZP'er of klein MKB'er die al Moneybird gebruikt, is de ingebouwde offertefu
 - **Integratie boekhouding** — Alles in één systeem
 
 ### Prijzen
-Inbegrepen in Moneybird-abonnementen. Moneybird kost vanaf €12,50/maand (inclusief boekhouding en offertes).
+Inbegrepen in Moneybird-abonnementen. Moneybird kost vanaf €15/maand (inclusief boekhouding en offertes).
 
 **✅ Voordelen:** Geen extra kosten, offerte-naar-factuur in één klik, alles in één systeem
 **❌ Nadelen:** Zeer beperkte templates en design-opties, geen digitale handtekening, geen interactieve elementen

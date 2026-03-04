@@ -164,7 +164,7 @@ HubSpot heeft in 2025-2026 flink geinvesteerd in AI onder de noemer "Breeze". Er
 - **Prospecting Agent** -- onderzoekt leads en stelt gepersonaliseerde outreach voor
 - **Social Agent** -- maakt social media posts op basis van je content
 
-Sinds januari 2026 draaien de meeste agents op GPT-5. Klinkt indrukwekkend, en in de praktijk is het dat soms ook. De Content Agent bespaart mijn klanten daadwerkelijk tijd bij het schrijven van e-mails en social posts. Maar de Prospecting Agent levert wisselende kwaliteit -- soms spot-on, soms naast de plank.
+Sinds januari 2026 draaien de meeste agents op geavanceerde AI-modellen. Klinkt indrukwekkend, en in de praktijk is het dat soms ook. De Content Agent bespaart mijn klanten daadwerkelijk tijd bij het schrijven van e-mails en social posts. Maar de Prospecting Agent levert wisselende kwaliteit -- soms spot-on, soms naast de plank.
 
 Mijn realistische inschatting: Breeze AI is een handige bonus, geen reden om voor HubSpot te kiezen. De basis-CRM functies moeten de doorslag geven.
 

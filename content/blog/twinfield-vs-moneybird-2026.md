@@ -20,7 +20,7 @@ faq:
   - q: "Kan ik zelf mijn boekhouding doen met Twinfield?"
     a: "Twinfield is primair ontworpen voor gebruik met een boekhouder of accountant. Je kunt het zelf gebruiken, maar de interface en terminologie zijn gericht op boekhoudkundigen. Moneybird is veel geschikter als je zelf je boekhouding wilt doen zonder boekhoudkennis."
   - q: "Welke is goedkoper: Twinfield of Moneybird?"
-    a: "Moneybird is goedkoper voor kleine bedrijven: €12-€28/maand vs Twinfield €30-€55/maand. Moneybird biedt ook een gratis basisversie. Let wel: als je toch een boekhouder betaalt, is de softwareprijs een klein deel van de totale kosten."
+    a: "Moneybird is goedkoper voor kleine bedrijven: €15-€39/maand vs Twinfield €30-€55/maand. Moneybird biedt ook een gratis basisversie (3 facturen/maand). Let wel: als je toch een boekhouder betaalt, is de softwareprijs een klein deel van de totale kosten."
   - q: "Kan ik overstappen van Moneybird naar Twinfield?"
     a: "Ja, Moneybird biedt exportfuncties voor alle data. Je boekhouder kan de data importeren in Twinfield. Overstappen is het makkelijkst aan het begin van een nieuw boekjaar. Bespreek de overstap met je boekhouder — zij kennen het migratieproces."
   - q: "Welke boekhoudsoftware werkt het best met mijn accountant?"
@@ -37,7 +37,7 @@ Bekijk ook onze [Exact Online vs Twinfield vergelijking](/blog/exact-online-vs-t
 | Aspect | Moneybird | Twinfield |
 |--------|-----------|----------|
 | **Doelgroep** | ZZP + klein MKB | MKB + accountants |
-| **Prijs** | €0-€28/mnd | €30-€55/mnd |
+| **Prijs** | €0-€39/mnd | €30-€55/mnd |
 | **Gebruiksgemak** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | **Functionaliteit** | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | **Boekhoudkennis nodig** | Nee | Ja (of boekhouder) |
@@ -67,9 +67,10 @@ Moneybird is het pakket dat ik aanbeveel aan ondernemers die bij het woord "groo
 
 | Plan | Prijs/mnd | Facturen/mnd | Highlights |
 |------|----------|-------------|------------|
-| **Gratis** | €0 | 3 | Basis facturatie + boekhouding |
-| **Starter** | €12 | 30 | + Bankintegratie, bonnetjes, offertes |
-| **Compleet** | €28 | Onbeperkt | + Tijdregistratie, projecten, multi-admin |
+| **Gratis** | €0 | 3/maand | Basis facturatie + boekhouding |
+| **Pakket 20** | €15 | Onbeperkt | + 20 banktransacties, bankintegratie, bonnetjes, offertes |
+| **Pakket 50** | €28 | Onbeperkt | + 50 banktransacties, tijdregistratie, projecten, multi-admin |
+| **Onbeperkt** | €39 | Onbeperkt | + Onbeperkte banktransacties, alle functies |
 
 ### Sterke punten
 - Intuïtieve interface zonder boekhoudtermen

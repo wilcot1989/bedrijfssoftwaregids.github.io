@@ -16,7 +16,7 @@ faq:
   - q: "Wat is recruitment software (ATS)?"
     a: "Een ATS (Applicant Tracking System) is software waarmee je het complete wervingsproces beheert: vacatures publiceren, sollicitaties ontvangen en bijhouden, kandidaten beoordelen, interviews plannen en aanbiedingen versturen. Het vervangt spreadsheets en e-mail door een gestructureerd, overzichtelijk systeem."
   - q: "Welk ATS is het beste voor MKB in Nederland?"
-    a: "Recruitee is het beste voor MKB: Nederlands bedrijf, intuïtieve interface, sterke integraties met Indeed en LinkedIn, en transparante prijzen vanaf €199/maand. Homerun is het beste budget-alternatief (vanaf €79/maand) met de mooiste carrièrepagina's."
+    a: "Recruitee is het beste voor MKB: Nederlands bedrijf, intuïtieve interface, sterke integraties met Indeed en LinkedIn, en transparante prijzen vanaf ~€270/maand. Homerun is het beste budget-alternatief (vanaf €79/maand) met de mooiste carrièrepagina's."
   - q: "Hoeveel kost recruitment software?"
     a: "Prijzen variëren van €79/maand (Homerun, 1 vacature) tot €500+/maand (enterprise ATS). Voor MKB is het realistisch om €150-€400/maand te betalen voor 5-15 actieve vacatures. De investering bespaart 20-40 uur per maand aan administratie en verkort de time-to-hire met 30-50%."
   - q: "Kan ik recruitment software koppelen aan LinkedIn en Indeed?"
@@ -36,7 +36,7 @@ Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking
 
 | ATS | Prijs vanaf | Vacatures | Kanalen | Nederlands | Beste voor |
 |-----|-----------|----------|---------|-----------|-----------|
-| **Recruitee** | €199/mnd | 5 | 20+ jobboards | ✅ | MKB, groei |
+| **Recruitee** | ~€270/mnd | 5 | 20+ jobboards | ✅ | MKB, groei |
 | **Homerun** | €79/mnd | 1 | Indeed, LinkedIn | ✅ | Startups, design |
 | **Personio** | Op aanvraag | Onbeperkt | 20+ | ✅ | HR + recruitment |
 | **Greenhouse** | Op aanvraag | Onbeperkt | 1.000+ | ❌ | Enterprise, data-driven |
@@ -58,9 +58,9 @@ Van alle ATS-systemen die ik heb ingericht voor klanten, grijp ik het vaakst naa
 ### Prijzen
 | Plan | Prijs/mnd | Vacatures | Gebruikers |
 |------|----------|----------|-----------|
-| Launch | €199 | 5 | Onbeperkt |
-| Scale | €299 | 10 | Onbeperkt |
-| Lead | Op aanvraag | Onbeperkt | Onbeperkt |
+| Start | ~€270 | 5 | Onbeperkt |
+| Advance | ~€343 | 10 | Onbeperkt |
+| Optimize | Vanaf €1.470 | Onbeperkt | Onbeperkt |
 
 **✅ Voordelen:** Nederlands, intuïtief, sterke jobboard-integraties, onbeperkte gebruikers
 **❌ Nadelen:** Geen HR-functies (alleen recruitment), duurder dan Homerun

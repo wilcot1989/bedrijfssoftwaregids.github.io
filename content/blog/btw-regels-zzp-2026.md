@@ -48,7 +48,7 @@ Wanneer is de KOR dan wél slim? Reken het even door:
 
 Wanneer beter niet? Als je veel investeert in apparatuur, software of andere zakelijke kosten waarover je 21% BTW betaalt. En zeker als je zakelijke klanten hebt die de BTW zelf kunnen aftrekken — dan maakt BTW op je factuur voor hen geen verschil.
 
-Aanmelden voor de KOR doe je bij de Belastingdienst, minimaal vier weken voor het begin van het kwartaal waarin je de regeling wil laten ingaan. Let op: de KOR geldt voor minimaal drie jaar. Je kunt er niet zomaar tussentijds mee stoppen.
+Aanmelden voor de KOR doe je bij de Belastingdienst, minimaal vier weken voor het begin van het kwartaal waarin je de regeling wil laten ingaan. Per 2026 kun je de KOR op elk moment verlaten; de eerdere verplichte driejaarsperiode is afgeschaft.
 
 ---
 
@@ -63,7 +63,7 @@ De meeste ZZP'ers doen per kwartaal BTW-aangifte. De deadlines zijn steeds de la
 | Q3 | juli – september | 31 oktober |
 | Q4 | oktober – december | 31 januari |
 
-Te laat aangifte doen levert je een boete op van minimaal €68. Niet wereldschokkend, maar ook nergens voor nodig.
+Te laat aangifte doen levert je een boete op. Niet wereldschokkend, maar ook nergens voor nodig.
 
 De fout die ik het meest tegenkom: rekenen met BTW-inclusieve bedragen. Een klant betaalt je €2.420. Hoeveel BTW draag je af? Geen €420 — want dan reken je over €2.000 exclusief. Maar veel ZZP'ers rekenen 21% over €2.420 en dragen €508 af. Dat is €88 te veel per factuur.
 

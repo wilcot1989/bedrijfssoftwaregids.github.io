@@ -16,13 +16,13 @@ faq:
   - q: "Is Salesforce beter dan HubSpot?"
     a: "Dat hangt af van je behoeften en budget. Salesforce is krachtiger en meer aanpasbaar, maar ook duurder en complexer. HubSpot is gebruiksvriendelijker en biedt een uitstekend gratis plan. Voor het MKB is HubSpot vaak de betere keuze, terwijl grotere bedrijven met complexe processen beter af zijn met Salesforce."
   - q: "Wat kost Salesforce per maand?"
-    a: "Salesforce Essentials start vanaf €25/gebruiker/maand. Professional kost €80/gebruiker/maand en Enterprise €165/gebruiker/maand. Let op: veel essentiële functies vereisen duurdere plannen of betaalde add-ons, waardoor de werkelijke kosten vaak hoger uitvallen."
+    a: "Salesforce Starter Suite start vanaf $25/gebruiker/maand. Pro Suite kost $100/gebruiker/maand en Enterprise $175/gebruiker/maand. Let op: veel essentiële functies vereisen duurdere plannen of betaalde add-ons, waardoor de werkelijke kosten vaak hoger uitvallen."
   - q: "Heeft HubSpot een gratis CRM?"
     a: "Ja, HubSpot biedt een uitgebreid gratis CRM met contactbeheer, deals, taken, en basis e-mailtracking voor onbeperkt gebruikers. Dit is een van de beste gratis CRM-opties op de markt en voldoende voor kleine teams die net beginnen."
   - q: "Kan ik overstappen van Salesforce naar HubSpot?"
     a: "Ja, HubSpot biedt specifieke migratie-tools en -diensten voor Salesforce-gebruikers. De overstap vergt planning (gemiddeld 1-3 maanden) maar is goed te doen. HubSpot heeft ook een native Salesforce-integratie als je beide systemen tijdelijk naast elkaar wilt gebruiken."
   - q: "Welke CRM is beter voor marketing automation?"
-    a: "HubSpot is sterker in marketing automation. Het biedt ingebouwde tools voor e-mailmarketing, landing pages, social media, en lead nurturing. Salesforce biedt dit via Pardot (Marketing Cloud Account Engagement), maar dat is een apart product met aanzienlijke extra kosten."
+    a: "HubSpot is sterker in marketing automation. Het biedt ingebouwde tools voor e-mailmarketing, landing pages, social media, en lead nurturing. Salesforce biedt dit via Pardot (nu Marketing Cloud Account Engagement), maar dat is een apart product met aanzienlijke extra kosten."
   - q: "Welke CRM heeft betere rapportages?"
     a: "Salesforce heeft krachtigere en meer aanpasbare rapportages, maar deze vereisen meer technische kennis om op te zetten. HubSpot biedt gebruiksvriendelijkere rapportages die voor de meeste MKB-bedrijven ruim voldoende zijn."
 ---
@@ -37,11 +37,11 @@ Benieuwd naar meer CRM-opties? Bekijk ook ons overzicht van de [beste CRM softwa
 | Kenmerk | Salesforce | HubSpot |
 |---------|-----------|---------|
 | **Gratis plan** | Nee (30 dagen trial) | Ja (uitgebreid) |
-| **Startprijs betaald** | €25/gebruiker/mnd | €15/gebruiker/mnd |
+| **Startprijs betaald** | $25/gebruiker/mnd | €15/gebruiker/mnd |
 | **Beste voor** | Complexe salesprocessen | Marketing + sales |
 | **Gebruiksgemak** | Steil leercurve | Intuïtief |
 | **Aanpasbaarheid** | Vrijwel onbeperkt | Goed (met beperkingen) |
-| **Marketing automation** | Via apart product (Pardot) | Ingebouwd |
+| **Marketing automation** | Via apart product (Pardot/Marketing Cloud Account Engagement) | Ingebouwd |
 | **Rapportages** | Zeer uitgebreid | Goed (betaalde plannen) |
 | **Integraties** | 3.000+ (AppExchange) | 1.500+ (Marketplace) |
 | **Nederlandse interface** | Ja | Ja |
@@ -56,13 +56,13 @@ De kosten zijn een van de grootste verschillen tussen Salesforce en HubSpot. Sal
 
 | Plan | Prijs/gebr/mnd | Belangrijkste functies |
 |------|---------------|----------------------|
-| **Essentials** | €25 | Basis CRM, contactbeheer, lead management |
-| **Professional** | €80 | + Forecasting, collaborative CRM |
-| **Enterprise** | €165 | + Workflow automation, API access, territories |
-| **Unlimited** | €330 | + AI (Einstein), premier support |
+| **Starter Suite** | $25/gebruiker/mnd | Basis CRM, contactbeheer, lead management |
+| **Pro Suite** | $100/gebruiker/mnd | + Forecasting, collaborative CRM |
+| **Enterprise** | $175/gebruiker/mnd | + Workflow automation, API access, territories |
+| **Unlimited** | $330/gebruiker/mnd | + AI (Einstein), premier support |
 
 **Let op:** Salesforce vereist vaak extra kosten voor:
-- Pardot/Marketing Cloud: vanaf €1.250/maand
+- Pardot (nu Marketing Cloud Account Engagement): vanaf €1.250/maand
 - CPQ (Configure, Price, Quote): €75/gebruiker/maand
 - Sales Engagement: €50/gebruiker/maand
 - Implementatie door partner: €10.000-€100.000+
@@ -83,7 +83,7 @@ De kosten zijn een van de grootste verschillen tussen Salesforce en HubSpot. Sal
 | Kosten per jaar | Salesforce Professional | HubSpot Professional |
 |-----------------|------------------------|---------------------|
 | Licenties | €9.600 | €10.800 |
-| Marketing automation | +€15.000 (Pardot) | Inbegrepen |
+| Marketing automation | +€15.000 (Pardot/Marketing Cloud Account Engagement) | Inbegrepen |
 | Implementatie (eenmalig) | €15.000-€30.000 | €3.000-€5.000 |
 | **Totaal jaar 1** | **€39.600-€54.600** | **€13.800-€15.800** |
 | **Totaal jaar 2+** | **€24.600** | **€10.800** |

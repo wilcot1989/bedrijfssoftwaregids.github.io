@@ -14,7 +14,7 @@ aliases:
   - /posts/beste-voorraadbeheer-software-2026/
 faq:
   - q: "Wat kost voorraadbeheer software gemiddeld voor het MKB?"
-    a: "De kosten lopen sterk uiteen. Een basisoplossing als inFlow begint rond $89/maand (ca. €82). Nederlandse tools als Exact Online Handel starten vanaf circa €49/maand. Voor uitgebreidere systemen met multi-locatie, forecasting en productie-integratie betaal je al snel €150 tot €400 per maand. De meeste aanbieders bieden een gratis proefperiode."
+    a: "De kosten lopen sterk uiteen. Een basisoplossing als inFlow begint vanaf ~$110/maand. Nederlandse tools als Exact Online Handel starten vanaf circa €49/maand. Voor uitgebreidere systemen met multi-locatie, forecasting en productie-integratie betaal je al snel €150 tot €400 per maand. De meeste aanbieders bieden een gratis proefperiode."
   - q: "Kan ik voorraadbeheer software koppelen aan mijn webshop en kassasysteem?"
     a: "Ja, vrijwel alle tools in dit overzicht bieden integraties met Shopify, WooCommerce, Magento en Bol.com. Picqer heeft zelfs een directe Bol.com-koppeling. Voor kassasystemen werkt Exact Online goed samen met Lightspeed, en Cin7 heeft koppelingen met de meeste POS-systemen. Controleer altijd of jouw specifieke webshopplatform en kassa ondersteund worden voordat je een keuze maakt."
   - q: "Wat is het verschil tussen voorraadbeheer en warehouse management (WMS)?"
@@ -106,7 +106,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 </tr>
 <tr>
 <td><strong>inFlow</strong></td>
-<td>$89/mnd</td>
+<td>vanaf ~$110/mnd</td>
 <td>Ja</td>
 <td>Ja</td>
 <td>Beperkt</td>
@@ -282,7 +282,7 @@ Ik heb het getest bij een cosmeticaproducent die ingredienten inkoopt, mengt en 
 - Shop floor control voor productiemedewerkers
 - API voor maatwerkkoppelingen
 
-### Prijzen (2026)
+### Prijzen (2026, jaarlijkse betaling)
 
 - **Starter**: $179/maand (1 locatie, 1.200 orders/jaar)
 - **Standard**: $359/maand (3 locaties, 6.000 orders/jaar)
@@ -332,9 +332,9 @@ Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man w
 
 ### Prijzen (2026)
 
-- **Entrepreneur**: $89/maand (klein team, basisfuncties)
-- **Small Business**: $249/maand (groter team, meer orders)
-- **Mid-Size**: $499/maand (geavanceerde functies, meer gebruikers)
+- **Entrepreneur**: vanaf ~$110/maand (klein team, basisfuncties)
+- **Small Business**: vanaf ~$279/maand (groter team, meer orders)
+- **Mid-Size**: vanaf ~$499-999/maand (geavanceerde functies, meer gebruikers)
 - **Add-ons**: BOM & werkorders ($39-$299/mnd), API-toegang ($29-$69/mnd)
 - 20% korting bij jaarabonnement
 - Gratis proefperiode beschikbaar
@@ -458,7 +458,7 @@ De keuze voor voorraadbeheer software hangt af van drie vragen: wat is je verkoo
 - **MKB met Exact-boekhouding**: [Exact Online Handel](https://www.exact.com/nl) -- voorraad en financien in een systeem.
 - **Seizoensgevoelige e-commerce**: [Inventory Planner](https://www.inventory-planner.com/) -- voorspel je inkoop in plaats van gokken.
 - **Productiebedrijf**: [Katana](https://katanamrp.com/) -- van grondstof tot eindproduct in een overzicht.
-- **Starter met beperkt budget**: [inFlow](https://www.inflowinventory.com/) -- morgen operationeel voor $89/maand.
+- **Starter met beperkt budget**: [inFlow](https://www.inflowinventory.com/) -- morgen operationeel vanaf ~$110/maand.
 - **Multichannel groothandel**: [Cin7](https://www.cin7.com/) -- sync alles, overal, in real-time.
 
 Mijn ervaring na tientallen implementaties: het verschil tussen goed en slecht voorraadbeheer is niet de software, maar de discipline om het systeem consistent te gebruiken. Kies een tool die past bij je huidige schaal, zet bestelpunten en rapportages correct in, en bouw van daaruit verder. De tools in dit overzicht maken dat allemaal mogelijk -- het is aan jou om er een gewoonte van te maken.

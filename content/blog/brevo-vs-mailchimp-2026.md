@@ -40,13 +40,13 @@ Wil je eerst meer weten over Brevo als standalone tool? Lees dan mijn uitgebreid
 | **Opgericht** | 2012 (als Sendinblue) | 2001 (nu Intuit) |
 | **Hoofdkantoor** | Parijs, Frankrijk | Atlanta, VS |
 | **Prijsmodel** | Per verzonden e-mail | Per contact |
-| **Gratis plan** | 300 e-mails/dag, onbeperkt contacten | 500 contacten, 1.000 e-mails/mnd |
-| **Startprijs betaald** | Vanaf €7/mnd (5.000 e-mails) | Vanaf €12/mnd (500 contacten) |
+| **Gratis plan** | 300 e-mails/dag, onbeperkt contacten | 250 contacten, 500 e-mails/mnd |
+| **Startprijs betaald** | Vanaf €7/mnd (5.000 e-mails) | Vanaf $13/mnd (500 contacten, USD) |
 | **Trustpilot** | 4,3/5 | 2,8/5 |
 | **G2** | 4,5/5 | 4,3/5 |
 | **Templates** | 40+ | 100+ |
 | **Integraties** | 150+ | 300+ |
-| **Marketing automation** | Vanaf Standard (€15/mnd) | Vanaf Standard (~€18/mnd) |
+| **Marketing automation** | Vanaf Standard (€15/mnd) | Vanaf Standard (~$20/mnd, USD) |
 | **CRM ingebouwd** | Ja | Nee (apart) |
 | **SMS-marketing** | Ja (apart betaald) | Ja (apart betaald) |
 | **Data opslag** | EU | VS |
@@ -108,12 +108,12 @@ Het platform heeft de afgelopen jaren flink wat functies toegevoegd -- een custo
 ### Nadelen Mailchimp
 
 - Betalen per contact -- ook voor inactieve en afgemelde contacten
-- Gratis plan flink beperkt (500 contacten, 1.000 e-mails)
+- Gratis plan flink beperkt (250 contacten, 500 e-mails/mnd)
 - Trustpilot-score 2,8/5 -- veel klachten over prijsverhogingen
 - Data opgeslagen in de VS (minder AVG-vriendelijk)
 - Automatische contractverlenging kan frustrerend zijn
 - Geen ingebouwd CRM of SMS-marketing
-- Premium-plan start op €320/mnd -- fors voor MKB
+- Premium-plan start op $350/mnd (USD) -- fors voor MKB
 
 ---
 
@@ -143,10 +143,10 @@ Brevo Standard bij hogere volumes:
 
 | Plan | Startprijs/mnd | Contacten | E-mails/mnd | Belangrijkste functies |
 |---|---|---|---|---|
-| **Free** | Gratis | 500 | 1.000 | Basis editor, 1 doelgroep, beperkte templates |
-| **Essentials** | Vanaf €12 | 500 | 5.000 | E-mail templates, A/B-testing, 24/7 support |
-| **Standard** | Vanaf €18 | 500 | 6.000 | Automation, send time opt., predictive segmentatie |
-| **Premium** | Vanaf €320 | 10.000 | 150.000 | Alles onbeperkt, geavanceerde segmentatie |
+| **Free** | Gratis | 250 | 500 | Basis editor, 1 doelgroep, beperkte templates |
+| **Essentials** | Vanaf $13 (USD) | 500 | 5.000 | E-mail templates, A/B-testing, 24/7 support |
+| **Standard** | Vanaf $20 (USD) | 500 | 6.000 | Automation, send time opt., predictive segmentatie |
+| **Premium** | Vanaf $350 (USD) | 10.000 | 150.000 | Alles onbeperkt, geavanceerde segmentatie |
 
 Mailchimp Essentials bij meer contacten:
 
@@ -168,7 +168,7 @@ Hier wordt het verschil tastbaar. Stel je hebt 10.000 contacten en stuurt 1 nieu
 | **10.000 contacten, 10.000 mails/mnd** | Standard: ~€22/mnd | Essentials: ~€87/mnd | **€780/jaar in voordeel Brevo** |
 | **10.000 contacten, 40.000 mails/mnd** | Standard: ~€30/mnd | Standard: ~€100/mnd | **€840/jaar in voordeel Brevo** |
 | **2.500 contacten, 5.000 mails/mnd** | Standard: €15/mnd | Essentials: ~€41/mnd | **€312/jaar in voordeel Brevo** |
-| **500 contacten, 2.000 mails/mnd** | Starter: €7/mnd | Essentials: €12/mnd | **€60/jaar in voordeel Brevo** |
+| **500 contacten, 2.000 mails/mnd** | Starter: €7/mnd | Essentials: ~$13/mnd (USD) | **~€72/jaar in voordeel Brevo** |
 
 Bij vrijwel elk scenario is Brevo goedkoper -- en het verschil groeit naarmate je contactlijst groeit. De uitzondering: als je heel weinig contacten hebt maar zeer frequent mailt, kunnen de kosten dichter bij elkaar liggen.
 
@@ -193,7 +193,7 @@ Bij vrijwel elk scenario is Brevo goedkoper -- en het verschil groeit naarmate j
 
 **Brevo** biedt vanaf het Standard-plan (€15/mnd) een visuele workflow-builder waarmee je welkomstreeksen, verlaten-winkelwagen flows en re-engagement campagnes kunt opzetten. De automation is functioneel en voor de meeste MKB-bedrijven ruim voldoende.
 
-**Mailchimp** biedt automation vanaf het Essentials-plan, maar de serieuze customer journey builder zit in het Standard-plan (~€18/mnd voor 500 contacten). De automation wordt krachtiger met predictive segmentatie en send time optimization, maar je betaalt daar wel meer voor -- zeker bij een groeiend contactenbestand.
+**Mailchimp** biedt automation vanaf het Essentials-plan, maar de serieuze customer journey builder zit in het Standard-plan (~$20/mnd voor 500 contacten, USD). De automation wordt krachtiger met predictive segmentatie en send time optimization, maar je betaalt daar wel meer voor -- zeker bij een groeiend contactenbestand.
 
 **Winnaar: Brevo** -- vergelijkbare automation voor minder geld, vooral bij grotere lijsten.
 
@@ -254,7 +254,7 @@ Brevo biedt wel betere deliverability-tools: een setup wizard die je door de aut
     <tr>
       <td><strong>Gratis plan</strong></td>
       <td>300 mails/dag, onbeperkt contacten</td>
-      <td>500 contacten, 1.000 mails/mnd</td>
+      <td>250 contacten, 500 mails/mnd</td>
       <td>Brevo</td>
     </tr>
     <tr>
@@ -266,7 +266,7 @@ Brevo biedt wel betere deliverability-tools: een setup wizard die je door de aut
     <tr>
       <td><strong>Automation</strong></td>
       <td>Visuele workflows (vanaf €15)</td>
-      <td>Customer journeys (vanaf ~€18)</td>
+      <td>Customer journeys (vanaf ~$20, USD)</td>
       <td>Gelijk</td>
     </tr>
     <tr>
@@ -406,7 +406,7 @@ Na tientallen implementaties zie ik steeds dezelfde fouten terugkomen. Hier de d
 
 ### Fout 1: Alleen naar de startprijs kijken
 
-De meeste vergelijkingssites zetten Brevo's €7/mnd naast Mailchimp's €12/mnd en concluderen dat Brevo goedkoper is. Dat klopt, maar het zegt niets. De werkelijke kosten hangen af van je contactenbestand en verzendvolume. Pak een rekenmachine en reken het door met jouw cijfers.
+De meeste vergelijkingssites zetten Brevo's €7/mnd naast Mailchimp's $13/mnd (USD) en concluderen dat Brevo goedkoper is. Dat klopt, maar het zegt niets. De werkelijke kosten hangen af van je contactenbestand en verzendvolume. Pak een rekenmachine en reken het door met jouw cijfers.
 
 ### Fout 2: Inactieve contacten negeren bij Mailchimp
 
@@ -429,7 +429,7 @@ De combinatie van onbeperkt contacten, het lagere prijspunt, EU-dataopslag en de
 De diepere Shopify/WooCommerce integraties, verlaten-winkelwagen flows en productaanbevelingen maken Mailchimp de betere keuze als e-commerce je kernactiviteit is.
 
 **Voor starters met nul budget: Brevo.**
-Het gratis plan van Brevo (300 mails/dag, onbeperkt contacten) is objectief het sterkste gratis aanbod op de markt. Bij Mailchimp ben je met 500 contacten en 1.000 mails per maand snel door je limiet heen.
+Het gratis plan van Brevo (300 mails/dag, onbeperkt contacten) is objectief het sterkste gratis aanbod op de markt. Bij Mailchimp ben je met 250 contacten en 500 mails per maand snel door je limiet heen.
 
 Wat je ook kiest: begin met het gratis plan, test beide tools een maand, en kijk welke beter aansluit bij je workflow. Beide bieden gratis instappen zonder creditcard.
 
