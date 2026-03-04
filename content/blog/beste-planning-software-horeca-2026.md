@@ -34,7 +34,7 @@ faq:
 Ik heb horeca-ondernemers gesproken die elke week drie uur bezig waren met het Excel-rooster. Diensten ruilen via WhatsApp, bellen naar oproepkrachten, handmatig controleren of ze de CAO-regels niet overtreden. Met de juiste personeelsplanning software horeca kost datzelfde rooster een halfuur. Hier zijn de 6 beste tools die ik voor de horeca aanbeveel.
 
 
-Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste HR software in Nederland](/blog/beste-hr-software-nederland-2026/). Planningssoftware werkt het beste als het gekoppeld is aan je kassasysteem -- lees voor de kassa-context ook het overzicht van de [beste kassasystemen voor de horeca](/blog/beste-kassasysteem-horeca-2026/) en het overzicht van [restaurantsoftware 2026](/blog/beste-restaurantsoftware-2026/).
+Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste HR software in Nederland](/blog/beste-hr-software-nederland-2026/). Planningssoftware werkt het beste als het gekoppeld is aan je kassasysteem -- lees voor de kassa-context ook het overzicht van de [beste kassasystemen voor de horeca](/blog/beste-kassasysteem-horeca-2026/) en het overzicht van [restaurantsoftware 2026](/blog/beste-restaurantsoftware-2026/). Als je ook medewerkers werft voor je horecazaak, lees dan ook mijn overzicht van de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) voor een ATS dat goed werkt bij flexibele teams.
 
 ## Vergelijkingstabel: Beste Personeelsplanning Horeca 2026
 
@@ -49,7 +49,7 @@ Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste H
 
 ## 1. Shiftbase
 
-Shiftbase is de tool die ik als eerste noem als een horecaondernemer me vraagt naar planningsoftware. Het is Nederlands, het is betaalbaar, en de Horeca-CAO zit er gewoon in. Ik heb een restauranteigenaar geholpen die van Excel overstapte naar Shiftbase -- zijn roostertijd ging van drie uur naar een halfuur per week. Het gratis plan maakt het makkelijk om zonder risico te starten. Een goede tool voor [urenregistratie](/blog/beste-urenregistratie-software-2026/) vormt met Shiftbase een solide basis voor je personeelsbeheer.
+Shiftbase is de tool die ik als eerste noem als een horecaondernemer me vraagt naar planningsoftware. Het is Nederlands, het is betaalbaar, en de Horeca-CAO zit er gewoon in. Ik heb een restauranteigenaar geholpen die van Excel overstapte naar Shiftbase -- zijn roostertijd ging van drie uur naar een halfuur per week. Het gratis plan maakt het makkelijk om zonder risico te starten. Een goede tool voor [urenregistratie](/blog/beste-urenregistratie-software-2026/) vormt met Shiftbase een solide basis voor je personeelsbeheer. Voor je kassasysteem in de horecazaak is het ook de moeite waard om de sectorpagina [kassasysteem horeca](/sectoren/kassasystemen/kassasysteem-horeca/) te lezen voordat je een keuze maakt.
 
 ### Belangrijkste functies
 - Drag-and-drop roosterplanner met templates
@@ -163,7 +163,7 @@ Deputy is het platform waar ik naar verwijs als AI-roostering de doorslag moet g
 
 ## 4. Workforce.com
 
-Workforce.com is enterprise-grade en dat merk je. Ik adviseer het alleen aan grotere horecabedrijven en ketens die serieus willen optimaliseren op personeelskosten. De demand-driven scheduling gebruikt omzetprognoses om de ideale bezetting te berekenen -- handig als je elke euro aan loonkosten onder controle wilt houden. Voor een enkele horecazaak is het overkill, maar voor ketens met tientallen locaties is het onmisbaar.
+Workforce.com is enterprise-grade en dat merk je. Ik adviseer het alleen aan grotere horecabedrijven en ketens die serieus willen optimaliseren op personeelskosten. Voor grotere horecazaken met meerdere vestigingen is ook een ERP-systeem interessant — bekijk mijn overzicht van de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/). De demand-driven scheduling gebruikt omzetprognoses om de ideale bezetting te berekenen -- handig als je elke euro aan loonkosten onder controle wilt houden. Voor een enkele horecazaak is het overkill, maar voor ketens met tientallen locaties is het onmisbaar.
 
 ### Belangrijkste functies
 - Demand-driven scheduling op basis van omzetprognoses
@@ -237,7 +237,7 @@ Tamigo heeft zich bewezen bij namen als McDonald's en Burger King, en dat zegt i
 
 ## 6. Dyflexis
 
-Dyflexis is naast Shiftbase de andere Nederlandse specialist die ik vaak adviseer, met name als omzetgestuurde planning prioriteit is. De koppeling met kassasystemen als Lightspeed en Untill is uitstekend: het systeem gebruikt je historische omzetdata om te voorspellen hoeveel personeel je nodig hebt. De Horeca-CAO zit er volledig in, inclusief toeslagen en rusttijden. Een solide keuze voor horecazaken die hun loonkosten serieus willen optimaliseren.
+Dyflexis is naast Shiftbase de andere Nederlandse specialist die ik vaak adviseer, met name als omzetgestuurde planning prioriteit is. Gebruik je Lightspeed als kassasysteem? Lees dan mijn [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/) voor details over de koppelingsmogelijkheden. De koppeling met kassasystemen als Lightspeed en Untill is uitstekend: het systeem gebruikt je historische omzetdata om te voorspellen hoeveel personeel je nodig hebt. De Horeca-CAO zit er volledig in, inclusief toeslagen en rusttijden. Een solide keuze voor horecazaken die hun loonkosten serieus willen optimaliseren.
 
 ### Belangrijkste functies
 - Slimme roosterplanner met automatische CAO-controle
@@ -289,7 +289,7 @@ Heb je nog geen kassasysteem? Lees dan ons artikel over het [beste kassasysteem 
 
 ### 3. Medewerker-app
 
-Een goede medewerker-app is cruciaal in de horeca, waar veel personeel geen vaste werkplek heeft. Medewerkers moeten eenvoudig hun rooster kunnen inzien, beschikbaarheid doorgeven, diensten ruilen en verlof aanvragen. Alle tools in dit artikel bieden een mobiele app.
+Een goede medewerker-app is cruciaal in de horeca, waar veel personeel geen vaste werkplek heeft. Medewerkers moeten eenvoudig hun rooster kunnen inzien, beschikbaarheid doorgeven, diensten ruilen en verlof aanvragen. Alle tools in dit artikel bieden een mobiele app. Wil je medewerkers ook briefen via een intern platform? Bekijk dan de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/) voor een centraal kennisplatform.
 
 ### 4. Urenregistratie
 
@@ -301,7 +301,7 @@ Heb je een enkele locatie met 10 medewerkers, of meerdere vestigingen met honder
 
 ### 6. Salarisintegratie
 
-De koppeling met je salarissoftware scheelt je enorm veel handmatig werk. Controleer of de planning tool integreert met je huidige salarispakket, of je overweegt software als [Exact Online](/blog/exact-online-review-2026/) te gebruiken.
+De koppeling met je salarissoftware scheelt je enorm veel handmatig werk. Controleer of de planning tool integreert met je huidige salarispakket, of je overweegt software als [Exact Online](/blog/exact-online-review-2026/) te gebruiken. Voor een volledig overzicht van loonadministratie-opties lees ik ook graag de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/).
 
 ## Veelgemaakte fouten bij personeelsplanning in de horeca
 
@@ -325,7 +325,7 @@ Handmatige urenregistratie leidt tot afrondingsfouten en discussies over gewerkt
 
 ### 5. Geen koppeling met de boekhouding
 
-Als je planning en urenregistratie losstaan van je boekhouding en salarisadministratie, verspil je wekelijks tijd aan handmatige invoer. Koppel je planningssoftware aan je salarispakket en [boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/) voor een gestroomlijnde workflow.
+Als je planning en urenregistratie losstaan van je boekhouding en salarisadministratie, verspil je wekelijks tijd aan handmatige invoer. Koppel je planningssoftware aan je salarispakket en [boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/) voor een gestroomlijnde workflow. Heb je ook je eerste medewerker aangenomen? Lees dan [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor een overzicht van de wettelijke verplichtingen.
 
 ## Conclusie
 
@@ -338,6 +338,6 @@ De beste personeelsplanning software voor jouw horecabedrijf hangt af van je gro
 - **Beste voor grote ketens**: [Tamigo](https://www.tamigo.nl/) -- bewezen bij grote horecaketens met uitgebreide KPI-monitoring.
 - **Beste voor enterprise**: [Workforce.com](https://workforce.com/nl/) -- het meest uitgebreide workforce management platform.
 
-Mijn advies: begin met het gratis plan van Shiftbase of vraag demo's aan bij Dyflexis en Planday. Test de software met je team -- ook met je medewerkers op de werkvloer -- voordat je een definitieve keuze maakt. Een goed planningssysteem verdient zichzelf snel terug door lagere loonkosten, minder administratief werk en een hoger werktevredenheid bij je personeel. Bedenk dat de gemiddelde horecamanager wekelijks 3-5 uur besteedt aan roostering. Planning software kan dit terugbrengen tot minder dan een uur, zodat jij je kunt richten op wat echt telt: het runnen van een geweldige horecazaak.
+Mijn advies: begin met het gratis plan van Shiftbase of vraag demo's aan bij Dyflexis en Planday. Ben je ook ZZP'er in de horeca of catering? Dan is het overzicht van de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/) ook nuttig voor de administratieve kant van je bedrijf. Test de software met je team -- ook met je medewerkers op de werkvloer -- voordat je een definitieve keuze maakt. Een goed planningssysteem verdient zichzelf snel terug door lagere loonkosten, minder administratief werk en een hoger werktevredenheid bij je personeel. Bedenk dat de gemiddelde horecamanager wekelijks 3-5 uur besteedt aan roostering. Planning software kan dit terugbrengen tot minder dan een uur, zodat jij je kunt richten op wat echt telt: het runnen van een geweldige horecazaak.
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**. En vergeet niet een bijpassend [kassasysteem voor je horeca](/blog/beste-kassasysteem-horeca-2026/) te kiezen -- de kassasysteem-inrichtingschecklist op [kassasysteem inrichten](/blog/kassasysteem-inrichten-checklist/) helpt je bij de eerste stappen.

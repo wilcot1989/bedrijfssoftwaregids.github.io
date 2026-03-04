@@ -180,6 +180,8 @@ Twinfield biedt 150+ integraties, waaronder:
 - Je accountant een voorkeur heeft voor Twinfield
 - Je geavanceerde financiële rapportages nodig hebt
 
+Wil je de kosten voor jouw specifieke situatie berekenen? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een realistische vergelijking op basis van jouw bedrijfsgrootte en administratiebehoefte.
+
 ## Verdict: Exact Online vs Twinfield
 
 Na tientallen implementaties van beide pakketten komt mijn advies hierop neer:

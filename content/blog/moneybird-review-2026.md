@@ -56,6 +56,8 @@ Zoek je een breder overzicht? Bekijk dan mijn vergelijking van de [beste boekhou
 
 De prijsstructuur van Moneybird is anders dan bij de meeste concurrenten. Je betaalt niet op basis van functies, maar op basis van het aantal banktransacties dat je per maand verwerkt. Alle functies zitten in elk betaald pakket. Dat vind ik eerlijk gezegd een slimme aanpak — je betaalt meer naarmate je administratie groeit.
 
+Wil je de jaarlijkse kosten van Moneybird vergelijken met alternatieven? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een overzicht op basis van jouw transactievolume.
+
 | Pakket | Prijs/mnd (excl. btw) | Banktransacties | Beste voor |
 |---|---|---|---|
 | **Gratis** | €0 | Geen (max 3 facturen/mnd) | Heel klein, om te proberen |
@@ -244,6 +246,8 @@ Moneybird biedt gratis accountanttoegang. Toch vergeten veel ondernemers dit in 
 Wil je een diepere vergelijking? Lees dan mijn [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/) of de [Exact Online vs Twinfield review](/blog/exact-online-vs-twinfield-2026/).
 
 ## Voor wie is Moneybird de juiste keuze?
+
+Bekijk voor een volledig overzicht het [aanbod van boekhoudsoftware](/categories/boekhouding/) om Moneybird naast alle andere pakketten te vergelijken.
 
 ### Ideaal voor:
 

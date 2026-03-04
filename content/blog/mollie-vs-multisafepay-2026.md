@@ -539,6 +539,8 @@ Beide providers betalen standaard de volgende werkdag uit. In de praktijk merk i
 - Boekhoudsoftware-koppelingen soms via omweg
 
 
+Wil je de transactiekosten voor jouw specifieke betaalmix berekenen? Gebruik de [webshop kosten berekenen tool](/tools/webshops/kosten-berekenen/) voor een vergelijking op basis van jouw volume en betaalmethoden.
+
 ## Voor wie is Mollie de betere keuze?
 
 Mollie is de betere keuze als:
@@ -567,6 +569,8 @@ MultiSafepay is de betere keuze als:
 
 <a href="https://www.multisafepay.com/nl-nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar multisafepay.com →</a>
 
+
+Bekijk voor meer betaalopties het [volledige overzicht van webshop software](/categories/webshops/) om te zien hoe betaalproviders in het bredere e-commercelandschap passen.
 
 ## Migratie: overstappen van de ene naar de andere
 

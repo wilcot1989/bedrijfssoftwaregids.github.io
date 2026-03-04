@@ -25,9 +25,9 @@ faq:
 
 Vorig jaar hielp ik een groothandel in kantoorartikelen die drie magazijnen beheerde met Excel-sheets. Elke maandafsluiting kostte twee volle dagen handmatig tellen, en toch klopte de voorraad nooit. Na de overstap naar dedicated voorraadbeheer software daalde het aantal voorraadfouten met 80% en bespaarden ze structureel twee dagen per maand. Dat is geen uitzondering -- het is precies wat ik bij tientallen MKB-bedrijven heb gezien.
 
-In dit artikel vergelijk ik de 6 beste voorraadbeheer tools voor het Nederlandse MKB in 2026. Geen theoretisch verhaal, maar concrete ervaringen uit implementatietrajecten die ik heb begeleid.
+In dit artikel vergelijk ik de 6 beste voorraadbeheer tools voor het Nederlandse MKB in 2026. Geen theoretisch verhaal, maar concrete ervaringen uit implementatietrajecten die ik heb begeleid. Wil je ook je orderproces en projecten rondom je voorraad bijhouden? Bekijk dan de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/).
 
-Verkoop je ook via een webshop? Bekijk dan eerst mijn overzicht van de [beste software voor webshops](/blog/beste-software-webshops-2026/) -- daar zit overlap met dit artikel. Of als je een webshopplatform zoekt, lees ook het artikel over de [beste webshop software voor 2026](/blog/beste-webshop-software-2026/). Gebruik de [webshop keuzehulp](/tools/webshops/keuzehulp/) voor een snel persoonlijk advies.
+Verkoop je ook via een webshop? Bekijk dan eerst mijn overzicht van de [beste software voor webshops](/blog/beste-software-webshops-2026/) -- daar zit overlap met dit artikel. Of als je een webshopplatform zoekt, lees ook het artikel over de [beste webshop software voor 2026](/blog/beste-webshop-software-2026/). Gebruik de [webshop keuzehulp](/tools/webshops/keuzehulp/) voor een snel persoonlijk advies. En voor betalingsverwerking in je webshop is [Mollie](/blog/mollie-review-2026/) een populaire keuze bij Nederlandse webshops.
 
 
 ## Waar moet je op letten bij voorraadbeheer software?
@@ -131,7 +131,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 
 ## 1. Picqer -- Beste voor Webshops met een Magazijn
 
-Picqer is de Nederlandse tool die ik het vaakst aanbeveel aan webshopondernemers die hun magazijn professioneel willen aansturen. Het platform is specifiek gebouwd voor e-commerce logistiek, en dat merk je aan alles: van de orderpicking met barcodescanning tot de directe koppelingen met Bol.com, Shopify en WooCommerce.
+Picqer is de Nederlandse tool die ik het vaakst aanbeveel aan webshopondernemers die hun magazijn professioneel willen aansturen. Als je ook medewerkers voor je magazijn aanneemt en wilt digitaliseren, is de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) een waardevolle aanvulling. Het platform is specifiek gebouwd voor e-commerce logistiek, en dat merk je aan alles: van de orderpicking met barcodescanning tot de directe koppelingen met Bol.com, Shopify en WooCommerce.
 
 Ik heb Picqer geimplementeerd bij een webshop die van 80 naar 600 orders per dag groeide. Het systeem schaalte probleemloos mee. De orderpicking werd 40% sneller door de geoptimaliseerde picklists, en het aantal verzendfouten daalde naar minder dan 0,5%.
 
@@ -179,7 +179,7 @@ Exact Online met de Handel-module is de keuze die ik adviseer aan MKB-bedrijven 
 
 Ik heb het vorig jaar geadviseerd aan een importeur van fitnessapparatuur met twee magazijnen. De combinatie van voorraadwaarde in de boekhouding en automatische inkooporders bij leveranciers bespaarde hen structureel 8 uur per week aan administratief werk.
 
-Lees mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voor meer over het totaalplatform.
+Lees mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voor meer over het totaalplatform. Werk je met een fysieke winkel of verkooppunt naast je webshop? De sectorpagina [kassasysteem retail](/sectoren/kassasystemen/kassasysteem-retail/) helpt je bij de keuze voor een kassa die goed koppelt met je voorraadbeheer.
 
 ### Belangrijkste functies
 
@@ -268,7 +268,7 @@ Ik raadde het aan bij een modezaak met sterke seizoensfluctuaties. Voorheen best
 
 ## 4. Katana -- Beste voor Productiebedrijven
 
-Katana is de tool die ik aanbeveel zodra er productie bij komt kijken. Koop je grondstoffen in, assembleer je producten, en verkoop je via meerdere kanalen? Dan heb je een MRP-systeem (Material Requirements Planning) nodig, en Katana is de meest toegankelijke optie die ik ken. Het berekent automatisch hoeveel grondstoffen je nodig hebt op basis van je verkooporders en productieplanning.
+Katana is de tool die ik aanbeveel zodra er productie bij komt kijken. Koop je grondstoffen in, assembleer je producten, en verkoop je via meerdere kanalen? Dan heb je een MRP-systeem (Material Requirements Planning) nodig, en Katana is de meest toegankelijke optie die ik ken. Wil je ook begrijpen hoe cloud POS-systemen en lokale kassa's van elkaar verschillen voor je productiebedrijf? Lees dan mijn uitleg over [cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/). Het berekent automatisch hoeveel grondstoffen je nodig hebt op basis van je verkooporders en productieplanning.
 
 Ik heb het getest bij een cosmeticaproducent die ingredienten inkoopt, mengt en verpakt. Het real-time overzicht van zowel grondstoffen als eindproducten was een gamechanger -- voorheen werkten ze met twee losse spreadsheets die nooit synchroon liepen.
 
@@ -316,7 +316,7 @@ Ik heb het getest bij een cosmeticaproducent die ingredienten inkoopt, mengt en 
 
 ## 5. inFlow -- Beste voor Kleine MKB-bedrijven en Starters
 
-inFlow is de tool die ik noem als een ondernemer zegt: "Ik zoek iets dat werkt, niet te veel kost en waar ik morgen mee kan starten." Het is een ongecompliceerd voorraadbeheersysteem dat doet wat het moet doen: producten bijhouden, bestellingen verwerken, barcodes scannen. Geen overbodige toeters en bellen, maar ook geen frustrerende beperkingen.
+inFlow is de tool die ik noem als een ondernemer zegt: "Ik zoek iets dat werkt, niet te veel kost en waar ik morgen mee kan starten." Het is een ongecompliceerd voorraadbeheersysteem dat doet wat het moet doen: producten bijhouden, bestellingen verwerken, barcodes scannen. Ben je ook op zoek naar een geschikte website of webshop om je producten te verkopen? Bekijk dan het overzicht van de [beste websitebouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/). Geen overbodige toeters en bellen, maar ook geen frustrerende beperkingen.
 
 Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man werkt. Binnen een middag hadden ze hun productcatalogus ingevoerd, barcodes geprint en de eerste inkooporders aangemaakt. Die snelheid van implementatie is de kracht van inFlow.
 
@@ -363,7 +363,7 @@ Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man w
 
 ## 6. Cin7 (voorheen Orderhive) -- Beste voor Multichannel Groothandel
 
-Cin7 is het platform voor bedrijven die via veel kanalen tegelijk verkopen: eigen webshop, Amazon, Bol.com, fysieke winkels, wholesale-klanten. Het synchroniseert voorraad over al die kanalen in real-time, en dat is precies waar de waarde zit. Cin7 is ontstaan uit de fusie van DEAR Systems en Orderhive, en combineert de sterke punten van beide platforms.
+Cin7 is het platform voor bedrijven die via veel kanalen tegelijk verkopen: eigen webshop, Amazon, Bol.com, fysieke winkels, wholesale-klanten. Heb je een Lightspeed kassasysteem en wil je weten hoe dat koppelt aan je voorraadbeheer? Lees dan ook de [Lightspeed vs Untill vergelijking 2026](/blog/lightspeed-vs-untill-2026/). Het synchroniseert voorraad over al die kanalen in real-time, en dat is precies waar de waarde zit. Cin7 is ontstaan uit de fusie van DEAR Systems en Orderhive, en combineert de sterke punten van beide platforms.
 
 Ik heb het beoordeeld voor een speelgoedgroothandel die via zes kanalen verkocht. De uitdaging was steeds: als je op Amazon iets verkoopt, moet de Bol.com-voorraad direct meebewegen. Cin7 loste dat op met real-time synchronisatie over alle kanalen, inclusief automatische pricing-regels per kanaal.
 
@@ -424,7 +424,7 @@ Een paar kanttekeningen:
 
 **Combinaties werken vaak het beste.** Inventory Planner is geen standalone systeem -- het werkt bovenop je Shopify of WooCommerce. Combineer het dus met een tool als Picqer (voor het magazijn) of inFlow (voor de basisvoorraad). Zo krijg je het beste van beide werelden.
 
-**Begin niet te groot.** Ik zie regelmatig bedrijven die meteen Cin7 of Katana Professional aanschaffen terwijl ze met 200 producten en 20 orders per dag werken. Start met een tool die past bij je huidige volume, en schaal op wanneer dat nodig is.
+**Begin niet te groot.** Ik zie regelmatig bedrijven die meteen Cin7 of Katana Professional aanschaffen terwijl ze met 200 producten en 20 orders per dag werken. Start met een tool die past bij je huidige volume, en schaal op wanneer dat nodig is. Voor een complete set administratietools voor je bedrijf, lees ook het overzicht van de [beste ERP software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
 **Integraties zijn cruciaal.** Controleer voor je kiest of de tool integreert met je huidige webshop, boekhouding en kassasysteem. Een tool die niet praat met je bestaande systemen creert meer problemen dan hij oplost. Werk je met een [kassasysteem in de horeca](/blog/beste-kassasysteem-horeca-2026/) of een [Lightspeed kassa](/blog/lightspeed-kassa-review-2026/)? Check dan specifiek de koppeling met die systemen.
 
@@ -437,7 +437,7 @@ Definieer voor elk product een minimumvoorraad. Zodra de voorraad daaronder zakt
 
 ### 2. Analyseer je omloopsnelheid maandelijks
 
-Welke producten verkopen snel, welke liggen te verstoffen? Die data bepaalt je inkoopstrategie. Producten met een lage omloopsnelheid verdienen kortingsacties of uitfasering -- niet nog een nabestelling.
+Welke producten verkopen snel, welke liggen te verstoffen? Die data bepaalt je inkoopstrategie. Producten met een lage omloopsnelheid verdienen kortingsacties of uitfasering -- niet nog een nabestelling. Heb je ook een webshop en wil je klantdata beter benutten? Bekijk dan mijn overzicht van de [beste CRM voor webshops 2026](/blog/beste-crm-webshops-2026/).
 
 ### 3. Synchroniseer alle kanalen real-time
 
@@ -445,9 +445,11 @@ Verkoop je via meerdere kanalen (webshop, marketplace, winkel)? Zorg dat voorraa
 
 ### 4. Plan regelmatige voorraadtellingen
 
-Zelfs de beste software kan niet corrigeren voor diefstal, breuk of administratieve fouten. Plan minimaal elk kwartaal een volledige voorraadtelling. Bij producten met hoge waarde of hoge omloopsnelheid: maandelijks.
+Zelfs de beste software kan niet corrigeren voor diefstal, breuk of administratieve fouten. Wil je ook weten welke fiscale eisen er gelden voor je kassasysteem bij de verkoop van je producten? Lees dan de gids over [fiscale eisen voor kassasystemen in 2026](/blog/fiscale-eisen-kassasysteem-2026/). Plan minimaal elk kwartaal een volledige voorraadtelling. Bij producten met hoge waarde of hoge omloopsnelheid: maandelijks.
 
 ### 5. Gebruik ABC-analyse voor prioritering
+
+Wil je ook je leverancierscontracten en inkoopovereenkomsten digitaal beheren naast je voorraad? Lees dan ook het overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/).
 
 Niet elk product verdient evenveel aandacht. Classificeer je voorraad in drie categorieen: A-producten (20% van je assortiment, 80% van je omzet), B-producten (30%, 15%) en C-producten (50%, 5%). Richt je voorraadbeheer-inspanningen op de A-categorie.
 

@@ -14,6 +14,31 @@ affiliate: true
 keywords: ["e-mailmarketing software", "nieuwsbrief software", "beste e-mailmarketing software"]
 aliases:
   - /posts/beste-email-marketing-software-2026/
+products:
+  - name: "Brevo"
+    description: "E-mailmarketing platform met per-e-mail pricing, AVG-compliant EU-opslag en uitgebreide marketing automation voor elke lijstgrootte."
+    url: "https://www.brevo.com/nl/"
+    price: "9.00"
+  - name: "Mailchimp"
+    description: "Populaire e-mailmarketing tool met intuitive drag-and-drop editor, uitgebreide templates en sterke A/B-testfuncties."
+    url: "https://mailchimp.com/"
+    price: "13.00"
+  - name: "ActiveCampaign"
+    description: "Geavanceerd e-mailmarketing en marketing automation platform met krachtige CRM-integratie en lead scoring."
+    url: "https://www.activecampaign.com/"
+    price: "15.00"
+  - name: "MailerLite"
+    description: "Betaalbare e-mailmarketing software met sterk gratis plan, eenvoudige automatiseringen en AVG-compliant EU-hosting."
+    url: "https://www.mailerlite.com/"
+    price: "10.00"
+  - name: "Klaviyo"
+    description: "E-commerce gericht e-mailmarketing platform met geavanceerde segmentatie op basis van aankoopgedrag en productdata."
+    url: "https://www.klaviyo.com/"
+    price: "20.00"
+  - name: "Laposta"
+    description: "Nederlands e-mailmarketing platform met gratis plan, data opgeslagen in Nederland en Nederlandstalige ondersteuning."
+    url: "https://laposta.nl/"
+    price: "0.00"
 faq:
   - q: "Wat is de beste gratis e-mailmarketing software in 2026?"
     a: "MailerLite biedt het sterkste gratis plan: tot 1.000 contacten en 12.000 e-mails per maand, inclusief drag-and-drop editor en automatiseringen. Brevo biedt onbeperkt contacten maar beperkt je tot 300 e-mails per dag. Mailchimp geeft je maximaal 500 contacten en 1.000 e-mails per maand met hun gratis plan. Voor de meeste starters is MailerLite de beste keuze."

@@ -128,7 +128,7 @@ Kennis is het halve werk. De andere helft is er iets mee doen.
 
 ---
 
-Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) om een systeem te vinden met sterke retentie-tools.
+Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) om een systeem te vinden met sterke retentie-tools. Bereken ook de [CRM kosten](/tools/crm/kosten-berekenen/) voor jouw teamgrootte om te zien wat een CRM je per jaar kost.
 
 **Lees ook:**
 - [Beste CRM-software Nederland 2026](/blog/beste-crm-software-nederland-2026/)

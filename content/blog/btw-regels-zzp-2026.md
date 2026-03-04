@@ -141,7 +141,7 @@ Goede boekhoudsoftware neemt een groot deel van het denkwerk over:
 
 Wat al deze pakketten gemeen hebben: ze berekenen BTW automatisch op basis van de ingestelde tarieven, scheiden exclusief en inclusief correct, en slaan de gegevens op in een formaat dat je direct kunt gebruiken voor de aangifte. Zowel het 21% als het 9% tarief (voor bijvoorbeeld sommige voedingsmiddelen, boeken of bepaalde diensten) wordt netjes apart bijgehouden.
 
-Meer weten welk pakket bij jou past? Lees [welke boekhoudsoftware het beste is voor BTW-aangifte](/blog/btw-aangifte-welke-boekhoudsoftware/) of gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om op basis van je situatie een gericht advies te krijgen.
+Meer weten welk pakket bij jou past? Lees [welke boekhoudsoftware het beste is voor BTW-aangifte](/blog/btw-aangifte-welke-boekhoudsoftware/) of gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om op basis van je situatie een gericht advies te krijgen. Bereken ook de [boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/) voor jouw situatie als je precies wil weten wat een pakket je per jaar kost.
 
 Een vergelijking van kosten tussen software en een boekhouder vind je in [boekhoudsoftware vs. boekhouder: kostenvergelijking](/blog/boekhoudsoftware-vs-boekhouder-kostenvergelijking/).
 

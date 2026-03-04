@@ -85,6 +85,8 @@ Dit is het aanbod waar ik elke starter op wijs. Als je KvK-inschrijving minder d
 
 Ter vergelijking: Moneybird biedt een gratis plan met maximaal 10 facturen per jaar (onbruikbaar voor een actieve ondernemer). Jortt heeft een beperkte gratis versie zonder bankkoppeling. De startersregeling van e-Boekhouden is veruit het meest genereus.
 
+Wil je precies berekenen wat e-Boekhouden jou per jaar kost ten opzichte van alternatieven? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een vergelijking op basis van jouw situatie.
+
 ### Prijsvergelijking met concurrenten
 
 | Software | Vergelijkbaar pakket | Prijs/maand | Prijs/jaar | Verschil t.o.v. e-Boekhouden |

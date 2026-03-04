@@ -191,6 +191,8 @@ Beide platformen integreren met de populairste zakelijke tools. De meest gevraag
 - Je wilt **snel live** gaan zonder maandenlange implementatie
 - Je budget is beperkt en je wilt **voorspelbare kosten**
 
+Wil je de CRM-kosten voor jouw team in kaart brengen? Gebruik de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/) voor een vergelijking op basis van jouw teamgrootte en gewenste functies.
+
 ## Verdict: Salesforce vs HubSpot
 
 Na jarenlang beide platforms te implementeren is mijn advies helder: voor het Nederlandse MKB is **HubSpot** in de meeste gevallen de betere keuze. Niet omdat Salesforce slecht is — integendeel — maar omdat de meeste MKB-bedrijven die ik begeleid de kracht van Salesforce niet nodig hebben en wel verdrinken in de complexiteit. HubSpot is sneller opgezet, makkelijker te leren, en de kosten liggen 40-60% lager.

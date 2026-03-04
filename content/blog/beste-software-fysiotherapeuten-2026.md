@@ -35,7 +35,7 @@ Vorige maand hielp ik een fysiotherapeut die nog met Excel-lijsten en papieren d
 
 In dit artikel vergelijk ik de 5 beste fysiotherapie software pakketten in Nederland. Ik kijk specifiek naar het EPD, de agenda, declaratiemogelijkheden, oefenprogramma's en het patientenportaal. Geen marketingverhalen, maar wat je er in de dagelijkse praktijk aan hebt.
 
-Ben je als zelfstandig fysiotherapeut ook op zoek naar goede administratieve tools? Bekijk dan ook mijn overzicht van de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/) voor tools die je boekhouding en administratie compleet maken.
+Ben je als zelfstandig fysiotherapeut ook op zoek naar goede administratieve tools? Bekijk dan ook mijn overzicht van de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/) voor tools die je boekhouding en administratie compleet maken. Voor je financiële administratie is de [beste boekhoudsoftware voor ZZP'ers 2026](/blog/beste-boekhoudsoftware-zzp-2026/) een goede volgende stap.
 
 
 ## Vergelijkingstabel: Beste Fysiotherapie Software 2026
@@ -132,7 +132,7 @@ Patienten die thuis hun oefeningen doen, herstellen sneller. Zoek naar software 
 
 Via een portaal vullen patienten zelf vragenlijsten in, bekijken ze hun afspraken en oefenprogramma's en communiceren ze met jou. Dat verlaagt de druk op je receptie en verhoogt de betrokkenheid van de patient bij het behandeltraject.
 
-Wil je meer weten over hoe je als zorgpraktijk efficiënter kunt plannen? Lees dan ook mijn artikel over de [beste afsprakensoftware in 2026](/blog/beste-afspraken-software-2026/) en de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/) om je werkuren per patiënt bij te houden.
+Wil je meer weten over hoe je als zorgpraktijk efficiënter kunt plannen? Lees dan ook mijn artikel over de [beste afsprakensoftware in 2026](/blog/beste-afspraken-software-2026/) en de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/) om je werkuren per patiënt bij te houden. Als je ook online vergadert met collega-therapeuten of verwijzers, is de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/) een handige aanvulling.
 
 
 ## 1. Intramed — De Marktleider
@@ -231,7 +231,7 @@ De helpdesk krijgt consistent goede reviews van gebruikers. Dat klinkt als een k
 
 ## 3. Fysiomanager — Beste voor Starters en Groeiende Praktijken
 
-Fysiomanager valt op door het flexibele prijsmodel. Je betaalt een laag basisbedrag plus een tarief per fte — niet per gebruiker of per werkplek. Dat betekent dat je als startende therapeut met een paar behandelingen per week weinig betaalt, en dat de kosten pas stijgen als je praktijk groeit. Voor receptionisten geldt bovendien een lager tarief. Dat model heb ik bij geen andere aanbieder gezien.
+Fysiomanager valt op door het flexibele prijsmodel. Je betaalt een laag basisbedrag plus een tarief per fte — niet per gebruiker of per werkplek. Als je naast je praktijksoftware ook medewerkers wilt aantrekken, is de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) een handige volgende stap. Dat betekent dat je als startende therapeut met een paar behandelingen per week weinig betaalt, en dat de kosten pas stijgen als je praktijk groeit. Voor receptionisten geldt bovendien een lager tarief. Dat model heb ik bij geen andere aanbieder gezien.
 
 Het EPD is volledig geintegreerd met de financiele administratie. Indicatiecodes worden automatisch geteld en omgezet, dossiers worden gecontroleerd op volledigheid en verzekeringsgegevens worden opgehaald via VECOZO. De software werkt met "procedures" — dat is het volledige traject rond een klacht, van diagnostiek tot behandelplan tot eindmeting. Die aanpak dwingt je om gestructureerd te werken.
 
@@ -279,7 +279,7 @@ De klinimetrie is uitgebreid, met meetinstrumenten, testen en vragenlijsten die 
 
 ## 4. Crossuite — Beste voor Multidisciplinaire Praktijken
 
-Crossuite komt oorspronkelijk uit Belgie, waar het als eerste door het RIZIV is goedgekeurd voor alle eHealth-diensten. In Nederland groeit het snel, vooral bij multidisciplinaire praktijken waar fysiotherapeuten samenwerken met ergotherapeuten, logopedisten of psychologen. De software is gebouwd voor dat soort samenwerking.
+Crossuite komt oorspronkelijk uit Belgie, waar het als eerste door het RIZIV is goedgekeurd voor alle eHealth-diensten. Voor je loonadministratie als je medewerkers in dienst hebt, lees dan ook het artikel over de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/). In Nederland groeit het snel, vooral bij multidisciplinaire praktijken waar fysiotherapeuten samenwerken met ergotherapeuten, logopedisten of psychologen. De software is gebouwd voor dat soort samenwerking.
 
 Wat me opvalt bij Crossuite is de gebruiksvriendelijkheid. De interface is modern en logisch opgebouwd. Patienten vullen digitale intakeformulieren in die automatisch in het dossier worden geladen. Declaraties gaan via Famed, Infomedics of direct via VECOZO. De koppeling met boekhoudpakketten als Exact Online, Twinfield en Snelstart werkt soepel.
 
@@ -326,7 +326,7 @@ Het patientenportaal is sterk: patienten boeken zelf afspraken, ontvangen oefenp
 
 ## 5. SpotOnMedics FysioOne — Beste Budget-optie
 
-SpotOnMedics FysioOne is het goedkoopste pakket in dit overzicht. Met circa €62 per gebruiker per jaar — dat is net iets meer dan €5 per maand — krijg je een compleet EPD, agenda en declaratiemodule. Het is onderdeel van HCI, dezelfde organisatie achter FysioRoadmap, maar dan gericht op de prijsbewuste therapeut.
+SpotOnMedics FysioOne is het goedkoopste pakket in dit overzicht. Voor het beheren van je praktijkwebsite en online vindbaarheid, bekijk dan ook de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/). Met circa €62 per gebruiker per jaar — dat is net iets meer dan €5 per maand — krijg je een compleet EPD, agenda en declaratiemodule. Het is onderdeel van HCI, dezelfde organisatie achter FysioRoadmap, maar dan gericht op de prijsbewuste therapeut.
 
 Het is een SaaS-platform: je betaalt een jaarlicentie en alle updates, backups en onderhoud zijn inbegrepen. De cloud-versie kost €62,40 per gebruiker per jaar. De software is specifiek ontwikkeld voor de paramedische sector en biedt patientendossiers, afsprakenbeheer, financiele administratie en rapportage.
 
@@ -382,7 +382,7 @@ Begin met **Fysiomanager** of **SpotOnMedics FysioOne**. Fysiomanager groeit mee
 **Intramed** is de veilige keuze. Het is het meest complete pakket, de meeste collega's kennen het, en je BI-dashboards geven je inzicht in de prestaties per therapeut. **FysioRoadmap** is het alternatief als je team meer waarde hecht aan klinisch redeneren en een strakker behandelproces.
 
 ### Multidisciplinaire praktijk
-**Crossuite** is hier de beste optie. Het is gebouwd voor praktijken waar meerdere disciplines in een systeem moeten werken. De integratie met boekhoudpakketten als [Exact Online](/blog/exact-online-review-2026/) of [Twinfield](/blog/exact-online-vs-twinfield-2026/) maakt de financiele administratie soepel.
+**Crossuite** is hier de beste optie. Het is gebouwd voor praktijken waar meerdere disciplines in een systeem moeten werken. De integratie met boekhoudpakketten als [Exact Online](/blog/exact-online-review-2026/) of [Twinfield](/blog/exact-online-vs-twinfield-2026/) maakt de financiele administratie soepel. Voor het maken van offertes voor verzekeraars of bedrijven is de [beste offerte software 2026](/blog/beste-offerte-software-2026/) ook het bekijken waard.
 
 ### Maximaal klinisch verdiepen
 **FysioRoadmap** als het gaat om klinisch redeneren en het behandelproces. De KNGF-richtlijn als basis, de koppeling met Physitrack voor oefenprogramma's en de PREM-module voor kwaliteitsregistratie maken het de inhoudelijk sterkste keuze.
@@ -402,7 +402,7 @@ Een overstap van software is voor veel fysiotherapeuten een drempel. Terecht, wa
 
 5. **Betrek je team.** De therapeut die het systeem dagelijks gebruikt, moet het prettig vinden. Laat je collega's meetesten tijdens de proefperiode.
 
-Voor tips over het kiezen van de juiste bedrijfssoftware in het algemeen, lees ook mijn [projectmanagement-vergelijking](/blog/beste-projectmanagement-software-2026/) of het artikel over [urenregistratie](/blog/beste-urenregistratie-software-2026/). Wil je ook contracten met patiënten of verwijzers digitaal beheren? Lees dan mijn overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/), en voor het bewaren van formulieren, behandelplannen en informed consents bekijk je de [beste documenten management software 2026](/blog/beste-documenten-management-2026/).
+Voor tips over het kiezen van de juiste bedrijfssoftware in het algemeen, lees ook mijn [projectmanagement-vergelijking](/blog/beste-projectmanagement-software-2026/) of het artikel over [urenregistratie](/blog/beste-urenregistratie-software-2026/). Wil je ook contracten met patiënten of verwijzers digitaal beheren? Lees dan mijn overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/), en voor het bewaren van formulieren, behandelplannen en informed consents bekijk je de [beste documenten management software 2026](/blog/beste-documenten-management-2026/). Als je medewerkers in dienst hebt, is de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/) ook interessant voor je personeelsadministratie. En voor een centrale kennisbank met protocollen en richtlijnen, bekijk dan de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/).
 
 
 ## Veelgestelde vragen over fysiotherapie-software

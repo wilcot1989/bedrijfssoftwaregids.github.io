@@ -1,0 +1,31 @@
+{{ if .Params.products }}
+{{ range .Params.products }}
+<script type="application/ld+json">
+{{- $schema := dict
+  "@context" "https://schema.org"
+  "@type" "WebApplication"
+  "name" .name
+  "description" .description
+  "url" .url
+  "applicationCategory" "BusinessApplication"
+  "operatingSystem" "Web"
+  "offers" (dict
+    "@type" "Offer"
+    "price" .price
+    "priceCurrency" "EUR"
+    "priceValidUntil" "2026-12-31"
+  )
+-}}
+{{- if and .rating_value .rating_count -}}
+  {{- $schema = merge $schema (dict "aggregateRating" (dict
+    "@type" "AggregateRating"
+    "ratingValue" .rating_value
+    "bestRating" "5"
+    "worstRating" "1"
+    "ratingCount" .rating_count
+  )) -}}
+{{- end -}}
+{{- $schema | jsonify -}}
+</script>
+{{ end }}
+{{ end }}

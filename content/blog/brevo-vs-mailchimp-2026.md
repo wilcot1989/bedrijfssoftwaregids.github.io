@@ -191,6 +191,8 @@ Bij vrijwel elk scenario is Brevo goedkoper -- en het verschil groeit naarmate j
 
 **Winnaar: Mailchimp** -- meer templates, betere editor.
 
+Wil je weten welke marketing software het beste past bij jouw bedrijf? Gebruik de [marketing software keuzehulp](/tools/marketing/keuzehulp/) voor een aanbeveling op maat.
+
 ### Marketing automation
 
 **Brevo** biedt vanaf het Standard-plan (€15/mnd) een visuele workflow-builder waarmee je welkomstreeksen, verlaten-winkelwagen flows en re-engagement campagnes kunt opzetten. De automation is functioneel en voor de meeste MKB-bedrijven ruim voldoende.
@@ -362,6 +364,8 @@ Brevo wint op 8 punten, Mailchimp op 6, en 2 staan gelijk. Maar de werkelijke wi
 
 ---
 
+Bereken wat jouw email marketing budget jou per maand kost bij verschillende volumes met de [marketing software kosten berekenen tool](/tools/marketing/kosten-berekenen/).
+
 ## Voor wie is Brevo de betere keuze?
 
 Ik raad Brevo aan als je je herkent in een van deze scenario's:
@@ -401,6 +405,8 @@ Als je in een sector werkt waar elke gemiste e-mail telt -- denk aan transactiem
 <a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mailchimp.com →</a>
 
 ---
+
+Bekijk voor meer alternatieven het [volledige overzicht van marketing software](/categories/marketing/) en vergelijk alle beschikbare tools op een rij.
 
 ## Veelgemaakte fouten bij de keuze
 

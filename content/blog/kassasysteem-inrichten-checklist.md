@@ -211,7 +211,7 @@ Dat hoef jij niet mee te maken.
 
 ---
 
-Nog niet zeker welk kassasysteem je nodig hebt? Bekijk mijn vergelijking van [de beste kassasystemen voor horeca](/blog/beste-kassasysteem-horeca-2026/) of gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) om het juiste systeem voor jouw zaak te vinden.
+Nog niet zeker welk kassasysteem je nodig hebt? Bekijk mijn vergelijking van [de beste kassasystemen voor horeca](/blog/beste-kassasysteem-horeca-2026/) of gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) om het juiste systeem voor jouw zaak te vinden. Wil je ook weten wat een kassasysteem je per maand kost? Gebruik de [kassasysteem kosten berekenen tool](/tools/kassasystemen/kosten-berekenen/) voor een overzicht op basis van jouw omzet en branche.
 
 ---
 

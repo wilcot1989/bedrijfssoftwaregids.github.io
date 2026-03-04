@@ -27,7 +27,7 @@ Ik werk al jaren met accountantskantoren die vastlopen op hun software. Het ene 
 
 Dit artikel is geschreven voor jou als accountant, samensteller of kantoormanager die in 2026 de juiste software voor accountantskantoren wilt kiezen. Ik vergelijk de vijf meest gebruikte pakketten in Nederland op de punten die er voor jouw praktijk toe doen: multi-administratie beheer, samenstellen, SBR-aangifte, cliëntportaal en prijs per administratie.
 
-Zoek je boekhoudsoftware voor je eigen onderneming in plaats van voor een kantoor? Lees dan mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/). Wil je klanten helpen met een overstap naar nieuwe software? Lees dan ook mijn gids over [boekhoudprogramma migratie en data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/).
+Zoek je boekhoudsoftware voor je eigen onderneming in plaats van voor een kantoor? Lees dan mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/). Wil je klanten helpen met een overstap naar nieuwe software? Lees dan ook mijn gids over [boekhoudprogramma migratie en data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/). Als je cliënten twijfelen welk pakket bij hen past, is het artikel [7 vragen bij het kiezen van een boekhoudprogramma](/blog/boekhoudprogramma-kiezen-7-vragen/) een handige gids om hen mee te sturen.
 
 
 ## Waar let je op bij software voor accountantskantoren?
@@ -495,6 +495,8 @@ Na jaren kantoren te adviseren, heb ik een vrij duidelijk beslismodel:
 - Je uitgebreide rapportages en jaarrekeningen nodig hebt
 - Je bereid bent te investeren in het uitgebreidste ecosysteem
 
+Heb je cliënten die ook hun facturatie willen stroomlijnen? Stuur ze dan naar mijn overzicht van de [beste facturatie software voor MKB 2026](/blog/beste-facturatie-software-mkb-2026/).
+
 **Kies Twinfield als:**
 - Multi-administratie beheer je topprioriteit is
 - Je consolidaties doet voor groepsstructuren
@@ -530,11 +532,11 @@ Ongeacht welk pakket je kiest, een softwareoverstap is een project. Hier zijn de
 
 3. **Train je team.** De software is zo goed als de mensen die ermee werken. Investeer in een dagdeel training per medewerker — dat verdien je in de eerste maand terug.
 
-4. **Check de koppelingen.** Gebruik je cliënten andere software (Mollie, Lightspeed, Shopify)? Controleer vooraf of de koppelingen bestaan en werken. Niets zo frustrerend als een mooie demo die in de praktijk vastloopt op een ontbrekende integratie.
+4. **Check de koppelingen.** Gebruik je cliënten andere software (Mollie, Lightspeed, Shopify)? Controleer vooraf of de koppelingen bestaan en werken. Niets zo frustrerend als een mooie demo die in de praktijk vastloopt op een ontbrekende integratie. Heb je cliënten die ook willen begrijpen hoe boekhouden en factureren gecombineerd kunnen worden? Lees dan het artikel [factureren en boekhouden alles-in-een](/blog/factureren-en-boekhouden-alles-in-een/).
 
 5. **Onderhandel.** Vooral bij Exact en Twinfield is er ruimte in de prijs. Vraag meerdere offertes aan en laat ze weten dat je vergelijkt.
 
-Voor meer inzicht in boekhoudsoftware, lees ook mijn reviews van [Moneybird](/blog/moneybird-review-2026/) en [e-Boekhouden](/blog/e-boekhouden-review-2026/), en de vergelijking [Moneybird vs Exact Online](/blog/moneybird-vs-exact-online-2026/). Heb je MKB-cliënten met vragen over hun eigen boekhouding? Stuur ze dan naar de [boekhoudsoftware sectorpagina voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) als startpunt.
+Voor meer inzicht in boekhoudsoftware, lees ook mijn reviews van [Moneybird](/blog/moneybird-review-2026/) en [e-Boekhouden](/blog/e-boekhouden-review-2026/), en de vergelijking [Moneybird vs Exact Online](/blog/moneybird-vs-exact-online-2026/). Heb je MKB-cliënten met vragen over hun eigen boekhouding? Stuur ze dan naar de [boekhoudsoftware sectorpagina voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) als startpunt. En voor ZZP-cliënten is de [boekhoudsoftware sectorpagina voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) een logisch vertrekpunt. Heb je ook cliënten die een ERP-systeem overwegen? Lees dan mijn vergelijking van de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
 
 ## Conclusie

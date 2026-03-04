@@ -99,6 +99,8 @@ Laat ik concreet maken wat Mollie kost bij verschillende scenario's. Dit zijn be
 
 Bij hoge volumes kun je contact opnemen met Mollie voor volume-kortingen. In mijn ervaring begint Mollie te onderhandelen vanaf circa 5.000 transacties per maand.
 
+Wil je de totale kosten voor jouw webshop doorrekenen? Gebruik de [webshop kosten berekenen tool](/tools/webshops/kosten-berekenen/) om betaalkosten naast je overige webshop-uitgaven te berekenen.
+
 
 ## Het Mollie Dashboard
 

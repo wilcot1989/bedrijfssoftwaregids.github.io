@@ -167,4 +167,4 @@ Een goede migratie duurt langer dan je wil. Een slechte migratie duurt langer da
 - [7 vragen die je moet stellen bij het kiezen van een boekhoudprogramma](/blog/boekhoudprogramma-kiezen-7-vragen/)
 - [Beste boekhoudsoftware voor ZZP in 2026: eerlijk vergeleken](/blog/beste-boekhoudsoftware-zzp-2026/)
 
-Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om het juiste pakket te vinden voordat je migreert.
+Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om het juiste pakket te vinden voordat je migreert. Wil je ook de kosten vergelijken? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) om te zien wat een nieuw pakket je per jaar kost in jouw situatie.

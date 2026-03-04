@@ -30,7 +30,7 @@ faq:
     a: "Ja, dit is een van de krachtigste functies van e-commerce CRM's. Gemiddeld wordt 70% van online winkelwagens verlaten. Met geautomatiseerde e-mails kun je 5-15% van deze verlaters terughalen. De meeste CRM's bieden kant-en-klare verlaten-winkelwagen flows."
 ---
 
-Ik zie het keer op keer: webshop-eigenaren die duizenden euro's uitgeven aan advertenties om nieuwe klanten te trekken, terwijl hun bestaande klantdata ongebruikt in Shopify of WooCommerce ligt te verstoffen. Een goed CRM voor webshops haalt meer omzet uit je bestaande klanten dan welke advertentiecampagne ook. Dit zijn de 5 CRM-systemen voor webshops die ik aanbeveel.
+Ik zie het keer op keer: webshop-eigenaren die duizenden euro's uitgeven aan advertenties om nieuwe klanten te trekken, terwijl hun bestaande klantdata ongebruikt in Shopify of WooCommerce ligt te verstoffen. Een goed CRM voor webshops haalt meer omzet uit je bestaande klanten dan welke advertentiecampagne ook. Dit zijn de 5 CRM-systemen voor webshops die ik aanbeveel. Wil je ook weten welke betaaltools en software erbij komen kijken? Bekijk dan ook het artikel over de [beste software voor webshops 2026](/blog/beste-software-webshops-2026/) voor een compleet overzicht van de tools die een webshop nodig heeft.
 
 Zoek je een algemeen CRM voor niet-e-commerce? Bekijk mijn [beste CRM software gids](/blog/beste-crm-software-nederland-2026/) of [HubSpot vs Pipedrive vergelijking](/blog/hubspot-vs-pipedrive-2026/). Wil je je webshop-platform zelf vergelijken? Lees dan ook mijn overzicht van de [beste webshop software 2026](/blog/beste-webshop-software-2026/) of de [Shopify vs Mijnwebwinkel vergelijking](/blog/shopify-vs-mijnwebwinkel-2026/).
 
@@ -107,7 +107,7 @@ Lees meer in mijn [Salesforce vs HubSpot vergelijking](/blog/salesforce-vs-hubsp
 
 ## 3. ActiveCampaign — Beste automations
 
-ActiveCampaign is het platform dat ik pak wanneer een webshop-eigenaar zegt: "Ik wil dat klant X precies op dag 7 na aankoop een persoonlijke mail krijgt op basis van wat hij kocht." Die visuele automation builder is de krachtigste die ik ken -- je bouwt er klanttrajecten mee die met andere tools weken zouden kosten.
+ActiveCampaign is het platform dat ik pak wanneer een webshop-eigenaar zegt: "Ik wil dat klant X precies op dag 7 na aankoop een persoonlijke mail krijgt op basis van wat hij kocht." Die visuele automation builder is de krachtigste die ik ken -- je bouwt er klanttrajecten mee die met andere tools weken zouden kosten. Wil je ook je sociale media kanalen koppelen aan je marketingfunnel? Lees dan het artikel over de [beste social media beheer tools 2026](/blog/beste-social-media-management-2026/) voor een compleet marketingoverzicht.
 
 ### Belangrijkste functies
 - **Visuele automation builder** — De beste in de markt, met if/then, splits, wachttijden
@@ -131,7 +131,7 @@ ActiveCampaign is het platform dat ik pak wanneer een webshop-eigenaar zegt: "Ik
 
 ## 4. Drip — Beste voor DTC-merken
 
-Drip is een interessante niche-speler die ik specifiek aanbeveel aan DTC-merken. De hele tool draait om een ding: meer omzet uit je bestaande klanten halen via persoonlijke communicatie. De revenue-dashboards zijn eerlijk gezegd mooier dan bij Klaviyo, en je ziet per campagne precies wat het oplevert. Minder bekend, maar zeker het bekijken waard.
+Drip is een interessante niche-speler die ik specifiek aanbeveel aan DTC-merken. De hele tool draait om een ding: meer omzet uit je bestaande klanten halen via persoonlijke communicatie. De revenue-dashboards zijn eerlijk gezegd mooier dan bij Klaviyo, en je ziet per campagne precies wat het oplevert. Minder bekend, maar zeker het bekijken waard. Als je ook wilt weten hoe je A/B testen inzet om je campagnes te verbeteren, bekijk dan de [beginnersgids voor A/B testen](/blog/ab-testen-beginners-eerste-experiment/).
 
 ### Belangrijkste functies
 - **E-commerce dashboards** — Revenue-attributie per campagne en flow
@@ -156,7 +156,7 @@ Drip is een interessante niche-speler die ik specifiek aanbeveel aan DTC-merken.
 
 ## 5. Salesforce Commerce Cloud — Enterprise
 
-Salesforce Commerce Cloud noem ik eerlijkheidshalve alleen omdat het de standaard is voor grote e-commerce bedrijven. Als je omzet boven de vijf miljoen zit, meerdere landen bedient en een bestaand Salesforce-ecosysteem hebt, dan is het logisch. Voor alle anderen: kijk eerst naar de andere opties in dit overzicht.
+Salesforce Commerce Cloud noem ik eerlijkheidshalve alleen omdat het de standaard is voor grote e-commerce bedrijven. Als je omzet boven de vijf miljoen zit, meerdere landen bedient en een bestaand Salesforce-ecosysteem hebt, dan is het logisch. Voor alle anderen: kijk eerst naar de andere opties in dit overzicht. Heb je ook een volledig ERP-systeem nodig dat je webshop, voorraden en financiën integreert? Lees dan het overzicht van de [beste ERP software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
 ### Wanneer Salesforce?
 - Omzet > €5 miljoen per jaar
@@ -183,7 +183,7 @@ Salesforce Commerce Cloud noem ik eerlijkheidshalve alleen omdat het de standaar
 
 ## Conclusie
 
-Voor de meeste webshops is **Klaviyo** het beste CRM voor webshops: de diepste e-commerce integraties, krachtige segmentatie en voorspellende analytics maken het de standaard voor e-commerce marketing. Heb je complexe automations nodig? Dan is **ActiveCampaign** het sterkste CRM voor webshops. Zoek je een compleet CRM voor zowel e-commerce als B2B? Dan is **HubSpot** de juiste keuze.
+Voor de meeste webshops is **Klaviyo** het beste CRM voor webshops: de diepste e-commerce integraties, krachtige segmentatie en voorspellende analytics maken het de standaard voor e-commerce marketing. Heb je complexe automations nodig? Dan is **ActiveCampaign** het sterkste CRM voor webshops. Zoek je een compleet CRM voor zowel e-commerce als B2B? Dan is **HubSpot** de juiste keuze. Wil je ook je factuurstroom professionaliseren? Lees dan het artikel over de [beste facturatie software voor MKB 2026](/blog/beste-facturatie-software-mkb-2026/).
 
 Als je naast je CRM ook de e-mailcampagnes wilt optimaliseren, lees dan mijn artikel over de [beste e-mail marketing software 2026](/blog/beste-email-marketing-software-2026/). En voor het bijhouden van je voorraden koppel je je CRM het beste aan [goede voorraadbeheer software](/blog/beste-voorraadbeheer-software-2026/). Gebruik ook de [webshops keuzehulp](/tools/webshops/keuzehulp/) als je nog twijfelt over welk platform het beste bij je past.
 
