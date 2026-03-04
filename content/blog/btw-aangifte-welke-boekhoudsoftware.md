@@ -22,9 +22,7 @@ faq:
     a: "Niet alle pakketten bieden dit. Als je diensten levert aan bedrijven in de EU geldt BTW-verlegging, en daarvoor is een aparte ICP-aangifte verplicht naast de reguliere BTW-aangifte. Exact Online, Twinfield en AFAS ondersteunen dit volledig. Pakketten in het lagere segment zoals Jortt en e-Boekhouden zijn hier beperkter. Controleer dit expliciet voor aankoop als je internationaal werkt."
 tags:
   - boekhouding
-  - btw
-  - aangifte
-  - freelancers
+  - zzp
 ---
 
 De BTW-aangifte is voor de meeste Nederlandse ondernemers elk kwartaal een terugkerende administratieve verplichting. Wie het goed heeft ingericht, is er in twintig minuten klaar. Wie het verkeerd heeft ingericht, besteedt uren aan het nazoeken van bonnetjes, het handmatig optellen van bedragen en het vervolgens corrigeren van fouten die er achteraf toch in zaten.

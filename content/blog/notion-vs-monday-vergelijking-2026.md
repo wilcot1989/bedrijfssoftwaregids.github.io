@@ -4,7 +4,10 @@ date: 2026-03-25
 lastmod: 2026-03-25
 description: "Notion vs Monday.com vergeleken op projectmanagement, prijs, flexibiliteit en samenwerking. Ontdek welke tool het beste past bij jouw team."
 categories: ["productiviteit"]
-tags: ["Notion", "Monday.com", "projectmanagement", "productiviteit", "samenwerking"]
+tags:
+  - projectmanagement
+  - productiviteit
+  - vergelijking
 keywords: ["Notion vs Monday.com", "projectmanagement software", "Notion review", "Monday.com review"]
 aliases:
   - /posts/notion-vs-monday-vergelijking-2026/

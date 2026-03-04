@@ -10,6 +10,20 @@ featured_image: "images/categories/boekhouding.svg"
 tags:
   - boekhouding
   - sector
+
+faq:
+  - q: "Welke boekhoudsoftware gebruiken de meeste MKB-bedrijven in Nederland?"
+    a: "Exact Online is de marktleider voor het Nederlandse MKB. Bijna elke accountant in Nederland kent het systeem en kan er direct in werken. AFAS is populair bij bedrijven die boekhouding, HR en CRM in één pakket willen. Twinfield is de keuze voor MKB met internationale activiteiten of meerdere entiteiten."
+  - q: "Wat kost boekhoudsoftware voor een MKB-bedrijf?"
+    a: "Exact Online Accounting begint bij EUR 44 per maand; extra modules zoals HRM of CRM kosten extra. AFAS wordt op aanvraag geprijsd, typisch EUR 75 tot EUR 150 per gebruiker per maand. Twinfield begint bij EUR 55 per maand en loopt op bij meerdere entiteiten en gebruikers."
+  - q: "Hoe lang duurt de implementatie van boekhoudsoftware voor een MKB-bedrijf?"
+    a: "Plan bij Exact Online minimaal twee tot vier weken voor een verantwoorde implementatie met correcte openingsbalans en rekeningschema. Bij AFAS is een implementatietijd van drie tot zes maanden realistisch. Twinfield vereist boekhoudkundige expertise of een implementatiepartner voor een correcte inrichting."
+  - q: "Heeft mijn accountant toegang tot mijn boekhoudsoftware?"
+    a: "Ja, alle drie de systemen hebben accountantsmodules of gedeelde toegang. Exact Online wordt door vrijwel alle Nederlandse accountants ondersteund en is de eenvoudigste keuze als je al een accountant hebt. AFAS en Twinfield zijn ook bij accountantsorganisaties bekend, maar minder universeel dan Exact Online."
+  - q: "Kan ik salarisadministratie doen in hetzelfde systeem als mijn boekhouding?"
+    a: "Exact Online heeft een salarismodule als aparte add-on. AFAS heeft geïntegreerde salarisadministratie inclusief een medewerkerportaal. Twinfield heeft geen eigen salarismodule en vereist een koppeling met externe salarissoftware zoals Nmbrs of Loket.nl."
+  - q: "Wat is het verschil tussen Exact Online en AFAS voor MKB?"
+    a: "Exact Online is sterker in boekhoudkundige diepgang, heeft meer externe integraties en wordt breder ondersteund door accountants. AFAS is sterker in procesautomatisering, de koppeling tussen afdelingen en het hebben van HR, boekhouding en CRM in één systeem. AFAS is doorgaans duurder en heeft een langere implementatietijd."
 ---
 
 {{< sector-cta-boekhouding >}}

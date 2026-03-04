@@ -20,10 +20,7 @@ faq:
     a: "Voor de meeste B2B-bedrijven is twee keer per maand een goed startpunt. Te vaak mailen leidt tot uitschrijvingen, te weinig zorgt dat contacten je vergeten. Begin met tweewekelijks en monitor je open rate en uitschrijfpercentage. Als je open rate boven de 25 procent blijft en het uitschrijfpercentage onder de 0,5 procent, kun je eventueel opschalen naar wekelijks."
 tags:
   - marketing
-  - email
   - b2b
-  - leadgeneratie
-  - emailmarketing
 ---
 
 Twee jaar geleden belde een klant van mij — eigenaar van een accountantskantoor met acht medewerkers — me op met een triomfantelijke toon. Hij had net vijfduizend zakelijke e-mailadressen gekocht van een Belgische databaseaanbieder. "Vijfhonderd euro, Lars. Vijfduizend leads. Dat is tien cent per adres." Ik heb hem toen niet tegengehouden. Fout van mij.

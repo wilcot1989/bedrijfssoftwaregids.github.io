@@ -10,6 +10,20 @@ featured_image: "images/categories/boekhouding.svg"
 tags:
   - boekhouding
   - sector
+
+faq:
+  - q: "Welke boekhoudsoftware is het beste voor freelancers?"
+    a: "Moneybird is de beste keuze voor de meeste freelancers: het ondersteunt meervaluta, internationale BTW-regels en heeft een ingebouwde urenregistratie. Wie zijn boekhouding liever volledig uitbesteedt, kiest voor Yuki. Heb je een vaste externe boekhouder, dan werkt e-Boekhouden.nl goed en betaalbaar."
+  - q: "Wat kost boekhoudsoftware voor freelancers per maand?"
+    a: "e-Boekhouden.nl is de goedkoopste optie vanaf EUR 8,95 per maand. Moneybird kost EUR 24 per maand voor het Medium-plan inclusief urenregistratie. Yuki begint bij EUR 35 per maand maar heeft dan ook een boekhouder inbegrepen die de administratie verwerkt."
+  - q: "Hoe verwerk ik BTW-verlegd voor buitenlandse klanten als freelancer?"
+    a: "Bij Moneybird stel je per klant in of BTW-verlegd of 0% BTW van toepassing is, afhankelijk van of de klant binnen of buiten de EU zit. Het systeem berekent automatisch of je de ICP-opgave moet doen. e-Boekhouden.nl ondersteunt dit ook, maar heeft een minder intuatieve interface voor meervaluta-facturatie."
+  - q: "Kan ik uren bijhouden in mijn boekhoudsoftware als freelancer?"
+    a: "Moneybird heeft een ingebouwde urenregistratie in het Medium-plan waarmee je direct factureert op basis van gewerkte uren. Voor uitgebreider projectbeheer is een aparte tool als Toggl beter. Yuki en e-Boekhouden.nl hebben geen eigen urenregistratie; daarvoor heb je een externe koppeling nodig."
+  - q: "Moet ik als freelancer een boekhouder inschakelen?"
+    a: "Niet verplicht, maar wel verstandig voor je jaarlijkse aangifte inkomstenbelasting. Met Moneybird of e-Boekhouden.nl doe je zelf de dagelijkse administratie en BTW-aangifte, en schakel je een boekhouder in voor de jaaropgave. Yuki is een all-in-one waarbij de boekhouder standaard inbegrepen is."
+  - q: "Wat is het verschil tussen boekhoudsoftware voor freelancers en ZZP'ers?"
+    a: "Als freelancer werk je projectmatig met wisselende opdrachtgevers, soms internationaal, en heb je behoefte aan urenregistratie en projectfacturatie. Een ZZP'er heeft doorgaans een eenvoudigere facturatiestructuur. Freelancers profiteren meer van tools met meervaluta-ondersteuning en urenregistratie, zoals Moneybird Medium."
 ---
 
 {{< sector-cta-boekhouding >}}

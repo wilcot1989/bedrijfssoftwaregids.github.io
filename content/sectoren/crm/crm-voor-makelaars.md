@@ -10,6 +10,20 @@ featured_image: "images/categories/crm.svg"
 tags:
   - crm
   - sector
+
+faq:
+  - q: "Welke CRM software is het beste voor makelaars in Nederland?"
+    a: "Voor NVM-makelaars die een directe Funda-koppeling nodig hebben, is Realworks de logische keuze. Kleine makelaarskantoren met een krap budget starten het beste met het gratis HubSpot CRM. Actieve verkoopkantoren met meerdere makelaars halen het meeste uit Pipedrive vanwege het overzichtelijke pipeline-systeem per woning."
+  - q: "Wat kost CRM software voor een makelaarskantoor?"
+    a: "HubSpot is gratis voor de basisfunctionaliteit; betaalde plannen beginnen bij EUR 45 per maand voor automatisering. Pipedrive kost EUR 14,90 per gebruiker per maand. Realworks wordt op aanvraag geprijsd en vereist ook een NVM-lidmaatschap. De totale kosten voor Realworks zijn doorgaans hoger dan die van HubSpot of Pipedrive."
+  - q: "Kan ik Funda koppelen aan mijn CRM?"
+    a: "Realworks is het enige systeem in dit overzicht met een directe, native Funda-koppeling. HubSpot en Pipedrive kunnen via Zapier gekoppeld worden aan Funda-data, maar dat vereist technische configuratie en is minder naadloos. Als Funda-integratie een prioriteit is, is Realworks de meest stabiele optie."
+  - q: "Hoe werkt leadbeheer in een CRM voor makelaars?"
+    a: "In HubSpot maak je per potentiële koper of verkoper een contactrecord aan met hun zoekprofiel en alle communicatiehistorie. Pipedrive werkt met een deal per woning of per klant, inclusief de fase van het verkoopproces. In beide systemen kun je automatisch een follow-up mail sturen een week na een bezichtiging."
+  - q: "Hoe zorg ik dat ik contact houd met eerdere kopers voor toekomstige verkopen?"
+    a: "Stel in je CRM een taak in om elke twee jaar contact op te nemen met eerdere kopers. HubSpot en Pipedrive ondersteunen beide terugkerende herinneringen en activiteiten. Realworks heeft contactbeheer voor langlopende klantrelaties ingebouwd als onderdeel van het vastgoeddossier."
+  - q: "Werkt CRM software voor makelaars ook goed op de mobiel?"
+    a: "Pipedrive heeft de beste mobiele app voor makelaars die onderweg zijn: notities invoeren na een bezichtiging, status van woningen bijwerken en bellen vanuit het systeem. HubSpot heeft een goede mobiele app voor contactbeheer. Realworks is primair een desktopapplicatie met beperkte mobiele functionaliteit."
 ---
 
 {{< sector-cta-crm >}}

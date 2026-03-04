@@ -4,7 +4,10 @@ date: 2026-03-07
 lastmod: 2026-03-07
 description: "Uitgebreide Exact Online review 2026: functies, prijzen per pakket, voordelen, nadelen en vergelijking met Moneybird, e-Boekhouden en Twinfield. Is het de investering waard?"
 categories: ["boekhouding"]
-tags: ["exact online", "boekhoudsoftware", "exact online review", "boekhouden", "mkb software", "financiele software"]
+tags:
+  - boekhouding
+  - mkb
+  - review
 keywords: ["exact online review", "exact online ervaringen", "exact online kosten", "exact online prijs", "exact online vergelijking"]
 aliases:
   - /posts/exact-online-review-2026/

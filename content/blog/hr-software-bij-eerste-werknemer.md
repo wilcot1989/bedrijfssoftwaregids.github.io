@@ -10,9 +10,7 @@ categories:
   - Blog
   - hr-software
 tags:
-  - hr
-  - salarisadministratie
-  - werknemer
+  - hr-software
   - mkb
 faq:
   - q: "Vanaf wanneer heb ik HR software nodig als kleine werkgever?"

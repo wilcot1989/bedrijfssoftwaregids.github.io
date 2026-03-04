@@ -4,7 +4,9 @@ date: 2026-04-20
 lastmod: 2026-04-20
 description: "Shopify vs Mijnwebwinkel (Acendy) eerlijk vergeleken op prijs, functies, design, betaalmethoden, SEO en support. Ontdek welk webshopplatform het beste past bij jouw Nederlandse onderneming."
 categories: ["webshops"]
-tags: ["shopify", "mijnwebwinkel", "webshop platform", "e-commerce", "vergelijking"]
+tags:
+  - webshop
+  - vergelijking
 featured_image: "/images/posts/shopify-vs-mijnwebwinkel-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

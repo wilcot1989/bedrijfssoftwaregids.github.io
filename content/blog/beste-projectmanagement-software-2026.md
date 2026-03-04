@@ -4,7 +4,9 @@ date: 2026-02-27T10:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
 description: "Projectmanagement software vergelijken? Ik testte 7 tools op prijs, functies en gebruiksgemak. Ontdek welke bij jouw team past."
 categories: ["projectmanagement"]
-tags: ["projectmanagement software", "project tools", "teamwerk", "taakbeheer", "kanban", "gantt chart"]
+tags:
+  - projectmanagement
+  - mkb
 keywords: ["beste projectmanagement software", "projectmanagement tool vergelijken", "project tool teams", "projectsoftware nederland", "taakbeheer software 2026"]
 aliases:
   - /posts/beste-projectmanagement-software-2026/

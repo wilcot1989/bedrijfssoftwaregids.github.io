@@ -10,10 +10,8 @@ categories:
   - Blog
   - hr-software
 tags:
-  - hr
-  - verzuim
-  - poortwachter
-  - zorg
+  - hr-software
+  - mkb
 faq:
   - q: "Wat zijn de wettelijke verplichtingen bij verzuimregistratie?"
     a: "De Wet Verbetering Poortwachter (WVP) verplicht werkgevers om bij langdurig verzuim een strak tijdschema te volgen: ziekmelding registreren op dag 1, probleemanalyse door de bedrijfsarts in week 6, Plan van Aanpak in week 8, UWV-ziekmelding in week 42 en een jaarevaluatie in week 52. Elke gemiste deadline kan leiden tot een boetebeschikking of, erger, een loonsanctie waarbij de loondoorbetalingsplicht met een jaar wordt verlengd."

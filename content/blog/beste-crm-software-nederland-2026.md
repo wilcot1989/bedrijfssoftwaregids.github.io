@@ -4,7 +4,10 @@ date: 2026-02-24T10:00:00+01:00
 lastmod: 2026-03-02T10:00:00+01:00
 description: "CRM software vergelijken? Ik testte 7 systemen op prijs, functies en gebruiksgemak voor het Nederlandse MKB. Ontdek welke bij jou past."
 categories: ["crm"]
-tags: ["crm software", "crm vergelijking", "mkb software", "klantbeheer", "sales software"]
+tags:
+  - crm
+  - mkb
+  - vergelijking
 keywords: ["beste crm software", "crm vergelijken", "crm voor mkb", "crm nederland", "crm software vergelijken 2026"]
 aliases:
   - /posts/beste-crm-software-nederland-2026/

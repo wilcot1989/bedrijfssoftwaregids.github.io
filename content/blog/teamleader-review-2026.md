@@ -4,7 +4,10 @@ date: 2026-04-10
 lastmod: 2026-04-10
 description: "Eerlijke Teamleader review 2026: prijzen, CRM, facturatie en projectbeheer getest. Ontdek of Teamleader Focus het juiste alles-in-een platform is voor jouw bedrijf."
 categories: ["crm"]
-tags: ["CRM", "Teamleader", "Facturatie", "Benelux", "MKB", "Review"]
+tags:
+  - crm
+  - mkb
+  - review
 keywords: ["teamleader review", "teamleader ervaringen", "teamleader crm review"]
 aliases:
   - /posts/teamleader-review-2026/

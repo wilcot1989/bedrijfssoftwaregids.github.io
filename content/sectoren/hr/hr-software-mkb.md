@@ -10,6 +10,20 @@ featured_image: "images/categories/hr-software.svg"
 tags:
   - hr-software
   - sector
+
+faq:
+  - q: "Welke HR software is het beste voor een MKB-bedrijf?"
+    a: "MKB-bedrijven die alles in één systeem willen — HR, salarisadministratie en medewerkerportaal — kiezen voor AFAS. Bedrijven die snel willen starten met moderne HR zonder de complexiteit van een volledig pakket kiezen voor Personio. Bedrijven met focus op salarisadministratie en een pragmatische aanpak vinden in Loket.nl een betrouwbare Nederlandse oplossing."
+  - q: "Wat kost HR software voor een MKB-bedrijf?"
+    a: "Personio begint bij EUR 3 per medewerker per maand met een minimum van circa EUR 99 per maand. Loket.nl kost EUR 12 per medewerker per maand. AFAS wordt op aanvraag geprijsd, typisch EUR 75 tot EUR 150 per gebruiker per maand. Vergeet bij AFAS ook de implementatiekosten niet; die kunnen oplopen tot meerdere tienduizenden euro's."
+  - q: "Hoe lang duurt de implementatie van HR software voor een MKB-bedrijf?"
+    a: "Personio is doorgaans binnen twee tot vier weken operationeel voor een MKB-bedrijf. Loket.nl is snel in te stellen, maar de eerste salariscyclus vereist zorgvuldige voorbereiding. AFAS heeft een implementatietijd van drie tot zes maanden en vereist een implementatiepartner voor een correcte inrichting."
+  - q: "Heeft MKB-HR software een medewerkerportaal?"
+    a: "Ja, alle drie de systemen hebben een medewerkerportaal. In Personio kunnen medewerkers verlof aanvragen, loonstroken inzien en persoonlijke gegevens bijwerken. Loket.nl heeft een mobiele app voor medewerkers. AFAS heeft het meest uitgebreide portaal inclusief onboarding-taken, beoordelingscyclus en kostendeclaraties."
+  - q: "Kan ik onboarding van nieuwe medewerkers automatiseren?"
+    a: "Personio heeft een uitgebreide onboarding-module met geautomatiseerde taaklijsten, documentenverzending en digitale handtekeningen. AFAS heeft vergelijkbare functionaliteit als onderdeel van het HR-platform. Loket.nl heeft beperktere onboardingfuncties; de focus ligt primair op salarisadministratie."
+  - q: "Wat is het verschil tussen AFAS en Personio voor MKB?"
+    a: "AFAS is een volledig geïntegreerde suite met boekhouding, HR en CRM in één systeem; de implementatiekosten zijn hoog maar de langetermijnwinst in procesautomatisering is groot. Personio focust puur op HR en integreert via koppelingen met externe salarissoftware; het is sneller live en betaalbaarder voor bedrijven zonder eigen HR-afdeling."
 ---
 
 {{< sector-cta-hr >}}

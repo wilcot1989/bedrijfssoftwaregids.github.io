@@ -20,9 +20,8 @@ faq:
     a: "Cloud kassasystemen hebben lagere opstartkosten — je betaalt een maandelijks abonnement en gebruikt een standaard tablet als hardware. Lokale systemen vereisen een hogere eenmalige investering in server of kassa-pc, maar hebben soms lagere terugkerende licentiekosten. Over drie jaar zijn de totaalkosten vergelijkbaar, maar cloud wint op flexibiliteit en schaalbaarheid. Vergelijk altijd de total cost of ownership inclusief hardware, software, support en transactiefees."
 tags:
   - kassasysteem
-  - cloud
-  - pos
   - horeca
+  - vergelijking
 ---
 
 Wie een nieuw kassasysteem zoekt, stuit onvermijdelijk op de keuze: cloud of lokaal? Het onderscheid klinkt technisch maar heeft directe gevolgen voor wat er gebeurt als het internet uitvalt, hoeveel je betaalt, hoe eenvoudig het beheer is en hoe snel je kunt uitbreiden naar een tweede locatie of kassa.

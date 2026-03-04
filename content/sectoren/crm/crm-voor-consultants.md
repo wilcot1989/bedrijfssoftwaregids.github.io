@@ -10,6 +10,20 @@ featured_image: "images/categories/crm.svg"
 tags:
   - crm
   - sector
+
+faq:
+  - q: "Welke CRM software is het beste voor een consultant of adviesbureau?"
+    a: "Voor solo consultants en kleine bureaus is het gratis HubSpot CRM meer dan voldoende voor relatiebeheer en proposaltracking. Bureaus die actief acquireren, kiezen voor Pipedrive vanwege de visuele pipeline. Bureaus die CRM, projectbeheer en facturatie in één systeem willen, kiezen voor Teamleader."
+  - q: "Wat kost CRM software voor een adviesbureau?"
+    a: "HubSpot biedt een uitgebreid gratis plan dat voor solo consultants voldoende is. De betaalde Sales Hub begint bij EUR 45 per gebruiker per maand. Pipedrive kost EUR 14,90 per gebruiker per maand. Teamleader kost vanaf EUR 50 per gebruiker per maand en combineert CRM met projectbeheer en facturatie."
+  - q: "Heeft een consultant een aparte tijdregistratietool nodig naast CRM?"
+    a: "Met Teamleader niet: tijdregistratie per project en klant is ingebouwd. Bij HubSpot en Pipedrive heb je een aparte tool nodig, zoals Toggl of Harvest. Via Zapier of native integraties synchroniseer je geregistreerde uren terug naar je CRM voor facturatie."
+  - q: "Hoe bijhoud ik welke proposals zijn verstuurd en wat de status is?"
+    a: "In Pipedrive maak je per proposal een deal aan met een verwachte waarde en sluitdatum. Je kunt activiteiten koppelen zoals 'opvolgen na gesprek' en de voortgang per fase zien. HubSpot doet hetzelfde via deals. In Teamleader koppel je proposals direct aan klantdossiers met een follow-up taak."
+  - q: "Kan ik HubSpot gratis gebruiken als consultant zonder betaald abonnement?"
+    a: "Ja, het gratis HubSpot CRM is voor solo consultants en kleine bureaus volledig bruikbaar. Je krijgt onbeperkte contacten, deal-beheer, e-mailintegratie en een agendakoppeling. Voor e-mailsequences en geavanceerde rapportages heb je de betaalde Sales Hub vanaf EUR 45 per maand nodig."
+  - q: "Wat is het verschil tussen HubSpot en Pipedrive voor adviesbureaus?"
+    a: "HubSpot is sterker als je ook inbound marketing wilt combineren met je CRM: blogs, landingspaginas en e-mailcampagnes zitten in hetzelfde platform. Pipedrive is puurder gericht op verkooppipeline en is sneller en eenvoudiger in gebruik voor bureaus die vooral op actieve acquisitie inzetten."
 ---
 
 {{< sector-cta-crm >}}

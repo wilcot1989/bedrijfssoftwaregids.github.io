@@ -20,8 +20,6 @@ faq:
     a: "Een ZZP-pakket is ingericht op eenvoud: facturen, kosten, BTW-aangifte en IB-aangifte. Bij een BV komt er meer bij: een complete jaarrekening (balans + resultatenrekening), vennootschapsbelasting, en vaak ook salarisadministratie als je jezelf in loondienst neemt via de BV. Pakketten als Exact Online en AFAS zijn daar beter op ingericht dan pure ZZP-tools als Jortt."
 tags:
   - boekhouding
-  - boekhoudprogramma
-  - kiezen
   - zzp
   - mkb
 ---

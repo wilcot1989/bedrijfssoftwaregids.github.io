@@ -21,8 +21,6 @@ faq:
 tags:
   - crm
   - mkb
-  - fouten
-  - implementatie
 ---
 
 Een CRM-systeem kopen is makkelijk. Een CRM-systeem laten werken is een tweede. De meeste mislukte CRM-trajecten bij Nederlandse MKB-bedrijven mislukken niet door de technologie maar door een handvol fouten die vermijdbaar waren. Dit zijn de vijf die het meest voorkomen en de meeste schade aanrichten.

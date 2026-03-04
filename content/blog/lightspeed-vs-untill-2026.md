@@ -4,7 +4,10 @@ date: 2026-04-16
 lastmod: 2026-04-16
 description: "Lightspeed of Untill voor jouw horecazaak? Ik vergelijk prijs, functies, integraties, support en gebruiksgemak. Met actuele prijzen en review scores."
 categories: ["kassasystemen"]
-tags: ["lightspeed", "untill", "kassasysteem", "horeca", "vergelijking"]
+tags:
+  - kassasysteem
+  - horeca
+  - vergelijking
 featured_image: "/images/posts/lightspeed-vs-untill-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

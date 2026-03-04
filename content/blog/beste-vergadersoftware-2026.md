@@ -4,7 +4,9 @@ date: 2026-03-31
 lastmod: 2026-03-31
 description: "De beste vergadersoftware van 2026 vergeleken. Zoom, Microsoft Teams, Google Meet, Webex en Whereby op prijs, kwaliteit en functies voor bedrijven."
 categories: ["productiviteit"]
-tags: ["vergadersoftware", "Zoom", "Microsoft Teams", "Google Meet", "online vergaderen"]
+tags:
+  - productiviteit
+  - mkb
 keywords: ["beste vergadersoftware", "Zoom vs Teams", "online vergaderen MKB", "vergadersoftware bedrijven"]
 aliases:
   - /posts/beste-vergadersoftware-2026/

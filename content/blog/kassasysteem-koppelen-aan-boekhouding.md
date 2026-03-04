@@ -21,7 +21,6 @@ faq:
 tags:
   - kassasysteem
   - boekhouding
-  - koppeling
   - horeca
 ---
 

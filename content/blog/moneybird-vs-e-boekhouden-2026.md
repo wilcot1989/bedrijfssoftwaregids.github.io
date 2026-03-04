@@ -4,7 +4,10 @@ date: 2026-03-10
 lastmod: 2026-03-10
 description: "Moneybird vs e-Boekhouden: een eerlijke vergelijking op prijs, functies, gebruiksgemak en BTW-aangifte. Ontdek welk boekhoudpakket het beste bij jou past in 2026."
 categories: ["boekhouding"]
-tags: ["moneybird", "e-boekhouden", "boekhoudsoftware", "boekhouden vergelijken", "btw-aangifte", "zzp"]
+tags:
+  - boekhouding
+  - zzp
+  - vergelijking
 keywords: ["moneybird vs e-boekhouden", "boekhoudsoftware vergelijken", "moneybird of e-boekhouden", "e-boekhouden review", "moneybird review"]
 aliases:
   - /posts/moneybird-vs-e-boekhouden-2026/

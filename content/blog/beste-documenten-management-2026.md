@@ -4,7 +4,9 @@ date: 2026-03-27
 lastmod: 2026-03-27
 description: "De beste documentbeheer software (DMS) van 2026 vergeleken. SharePoint, Google Workspace, Dropbox Business, Box en DocuWare op prijs en functies."
 categories: ["productiviteit"]
-tags: ["documentbeheer software", "DMS", "SharePoint", "Google Drive", "documentbeheer"]
+tags:
+  - productiviteit
+  - mkb
 keywords: ["documentbeheer software", "DMS vergelijking", "SharePoint vs Google Drive", "documentbeheer MKB"]
 aliases:
   - /posts/beste-documenten-management-2026/

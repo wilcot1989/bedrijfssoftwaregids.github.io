@@ -4,7 +4,9 @@ date: 2026-04-13
 lastmod: 2026-04-13
 description: "Eerlijke Brevo review 2026: prijzen, functies, deliverability en nadelen getest. Ontdek of Brevo (voorheen Sendinblue) de juiste keuze is voor jouw bedrijf."
 categories: ["marketing"]
-tags: ["Email Marketing", "Brevo", "Sendinblue", "Nieuwsbrief", "MKB", "Review"]
+tags:
+  - marketing
+  - review
 keywords: ["brevo review", "brevo ervaringen", "brevo kosten", "sendinblue review"]
 aliases:
   - /posts/brevo-review-2026/

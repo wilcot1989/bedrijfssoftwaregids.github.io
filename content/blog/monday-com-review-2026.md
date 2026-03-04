@@ -4,7 +4,10 @@ date: 2026-04-06
 lastmod: 2026-04-06
 description: "Monday.com getest op prijs, functies en gebruiksgemak. Lees eerlijke ervaringen, Trustpilot-scores en ontdek of het bij jouw team past."
 categories: ["projectmanagement"]
-tags: ["Projectmanagement", "Monday.com", "Samenwerking", "MKB", "Review"]
+tags:
+  - projectmanagement
+  - mkb
+  - review
 keywords: ["monday.com review", "monday review nederland", "monday.com ervaringen"]
 aliases:
   - /posts/monday-com-review-2026/

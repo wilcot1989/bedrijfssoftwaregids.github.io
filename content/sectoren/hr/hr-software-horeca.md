@@ -10,6 +10,20 @@ featured_image: "images/categories/hr-software.svg"
 tags:
   - hr-software
   - sector
+
+faq:
+  - q: "Welke HR software is het beste voor de horeca?"
+    a: "Voor horecabedrijven met flexibele roosters en oproepkrachten is Shiftbase de beste planningsoplossing. Koppel Shiftbase met Loket.nl voor een volledig geïntegreerde workflow van roostering naar loonstrook. Grotere horecaketens met meerdere vestigingen kiezen voor AFAS, waarbij HR, salarisadministratie en roostering in één systeem zitten."
+  - q: "Wat kost HR software voor een horecabedrijf?"
+    a: "Shiftbase kost vanaf EUR 3 per medewerker per maand met een minimum van EUR 45 per maand. Loket.nl kost EUR 12 per medewerker per maand. De combinatie van Shiftbase plus Loket.nl is voor de meeste horecabedrijven de populairste keuze. AFAS wordt op aanvraag geprijsd, typisch EUR 75 tot EUR 150 per gebruiker per maand."
+  - q: "Ondersteunt de HR software de Horeca-CAO?"
+    a: "Ja, Loket.nl en AFAS ondersteunen de Horeca-CAO volledig inclusief toeslagen voor avond- en weekenddiensten, jeugdlonen en nul-urencontracten. Shiftbase berekent CAO-toeslagen automatisch op basis van de geplande en gewerkte uren, maar verwerkt de uiteindelijke salarisadministratie via Loket.nl of een ander salarissysteem."
+  - q: "Hoe beheer ik oproepkrachten en nul-urencontracten in HR software?"
+    a: "Shiftbase is het sterkst voor beschikbaarheidsregistratie van oproepkrachten: medewerkers geven via de app door wanneer ze beschikbaar zijn en kunnen diensten accepteren of weigeren. Loket.nl verwerkt nul-urencontracten correct voor de salarisadministratie inclusief de juiste vakantiegeldopbouw. AFAS combineert beide."
+  - q: "Hoe snel kan ik nieuwe horecamedewerkers onboarden in HR software?"
+    a: "Shiftbase en Loket.nl kunnen nieuwe medewerkers binnen vijf tot tien minuten toevoegen en direct inplannen of een loonstrook genereren. AFAS heeft een uitgebreidere onboardingmodule maar vereist meer configuratietijd per nieuwe medewerker. In de horeca, waar personeelsverloop hoog is, is snelheid van onboarding een kritisch criterium."
+  - q: "Kan ik meerdere horecavestigingen beheren in één HR systeem?"
+    a: "AFAS is de sterkste keuze voor horecaketens met meerdere vestigingen: alle locaties, medewerkers en roosters zijn beheerbaar vanuit één omgeving. Shiftbase ondersteunt ook meerdere locaties. Loket.nl beheert salarisadministratie per vestiging maar heeft minder uitgebreide planningsfuncties voor multi-site operaties."
 ---
 
 {{< sector-cta-hr >}}

@@ -10,6 +10,20 @@ featured_image: "images/categories/crm.svg"
 tags:
   - crm
   - sector
+
+faq:
+  - q: "Welke CRM software is het beste voor een bouwbedrijf?"
+    a: "Voor kleine bouwbedrijven tot vijf mensen is Pipedrive de meest betaalbare en snel inzetbare optie. MKB-aannemers van vijf tot vijfentwintig medewerkers die alles in één systeem willen, kiezen voor Exact Online met de geïntegreerde CRM-module. Grotere bouwbedrijven met complex projectbeheer investeren het beste in AFAS, ondanks de hogere prijs."
+  - q: "Wat kost CRM software voor een bouwbedrijf?"
+    a: "Pipedrive begint bij EUR 14,90 per gebruiker per maand. Exact Online (met CRM en boekhouding inbegrepen) begint bij EUR 39 per maand. AFAS kost vanaf EUR 300 per maand voor kleine teams en wordt duurder naarmate meer modules worden afgenomen. De implementatiekosten van AFAS zijn significant hoger dan die van Pipedrive."
+  - q: "Kan ik offertes en projecten koppelen in mijn CRM als bouwbedrijf?"
+    a: "In AFAS en Exact Online is de koppeling tussen offerte, project en facturatie native ingebouwd: een gewonnen offerte wordt direct een project en de projectkosten stromen door naar de financiële administratie. In Pipedrive is projectkoppeling niet ingebouwd; daarvoor heb je een apart projectbeheersysteem of integratie nodig."
+  - q: "Hoe lang duurt het om CRM software te implementeren in een bouwbedrijf?"
+    a: "Pipedrive is binnen een week operationeel voor een klein team. Exact Online vereist twee tot vier weken voor een correcte inrichting van de CRM- en boekhoudmodules. AFAS heeft een implementatietijd van drie tot zes maanden; dit omvat ook de inrichting van projectadministratie, HR en salarisadministratie."
+  - q: "Wat is het verschil tussen een ERP en een CRM voor de bouw?"
+    a: "Een CRM beheert klantrelaties, offertes en verkoopprocessen. Een ERP integreert dat met boekhouding, projectmanagement, inkoop en HR in één systeem. Voor bouwbedrijven is een ERP als AFAS of Exact Online doorgaans voordeliger dan een apart CRM naast een boekhoudpakket, omdat dubbele invoer wordt voorkomen."
+  - q: "Werkt CRM software ook goed op de bouwplaats via mobiel?"
+    a: "Pipedrive heeft de sterkste mobiele app voor uitvoerders en accountmanagers die onderweg notities willen maken en activiteiten registreren. Exact Online heeft een mobiele app maar is primair een desktoptool. AFAS heeft een medewerkerapp maar die is meer gericht op HR en ureninvoer dan op CRM-gebruik buiten kantoor."
 ---
 
 {{< sector-cta-crm >}}

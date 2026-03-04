@@ -8,8 +8,22 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "images/categories/kassasystemen.svg"
 
 tags:
-  - kassasystemen
+  - kassasysteem
   - sector
+
+faq:
+  - q: "Welk kassasysteem is het beste voor een foodtruck?"
+    a: "Zettle is de beste keuze voor de meeste foodtrucks: reader van EUR 29, gratis app en werkt op je eigen 4G-verbinding. Square is de betere optie als je ook online pre-orders wilt ontvangen of catering wilt aanbieden. SumUp is de goedkoopste instap voor foodtrucks met de eenvoudigste behoeften, met iets lagere transactiekosten van 1,69%."
+  - q: "Werkt een kassasysteem voor foodtruck ook zonder internet?"
+    a: "Geen van de drie besproken systemen heeft een volwaardige offline modus. Zettle, Square en SumUp zijn afhankelijk van een internetverbinding via 4G/5G van je smartphone of de ingebouwde SIM-kaart van de SumUp 3G. Op festivals en markten met onbetrouwbaar wifi werkt 4G van je eigen telefoon doorgaans het beste."
+  - q: "Wat kost een kassasysteem voor een foodtruck per maand?"
+    a: "Er zijn geen vaste maandelijkse abonnementskosten voor Zettle, Square of SumUp — je betaalt alleen transactiekosten per betaling. Zettle en Square rekenen 1,75% per transactie; SumUp rekent 1,69%. Bij EUR 5.000 omzet per maand ben je EUR 85 tot EUR 87,50 kwijt aan transactiekosten."
+  - q: "Wanneer is een vast abonnement goedkoper dan transactiekosten voor een foodtruck?"
+    a: "Bij hogere maandomzetten worden transactiekosten duurder dan een vast abonnement. Bij EUR 10.000 maandomzet kost 1,75% transactiekosten EUR 175 per maand. Systemen met een abonnement van EUR 59 per maand worden dan voordeliger. Bereken via de transactiekostenberekening op deze site wanneer het omslagpunt voor jouw foodtruck ligt."
+  - q: "Kan ik producten beheren en prijzen aanpassen op een foodtruck?"
+    a: "Ja, alle drie de systemen hebben een productcatalogus met categorieën. In de Zettle-app kun je producten toevoegen, prijzen aanpassen en items als uitverkocht markeren. Square heeft iets uitgebreider productbeheer met foto's en varianten. Dagmenu-aanpassingen voor een foodtruck zijn bij alle drie snel gedaan."
+  - q: "Welk kassasysteem werkt het beste op festivals en markten?"
+    a: "Zettle is de meest aanbevolen optie voor festivals en markten: de battery van de reader gaat een hele dag mee zonder opladen, het systeem werkt op 4G van je telefoon en de setup is minimaal. SumUp 3G heeft een ingebouwde SIM-kaart en werkt zonder smartphone. Square is minder geschikt voor drukke marktsituaties vanwege de beperktere offline werking."
 ---
 
 {{< sector-cta-kassasystemen >}}

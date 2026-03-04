@@ -4,7 +4,9 @@ date: 2026-04-29
 lastmod: 2026-04-29
 description: "Lightspeed vs Square: welk kassasysteem past bij jouw winkel? Vergelijk actuele prijzen, functies, voorraadbeheer, hardware en Nederlandse support. Met rekenvoorbeelden, review scores en een helder advies per bedrijfstype."
 categories: ["kassasystemen"]
-tags: ["lightspeed", "square", "kassasysteem", "pos", "vergelijking"]
+tags:
+  - kassasysteem
+  - vergelijking
 featured_image: "/images/posts/lightspeed-vs-square-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

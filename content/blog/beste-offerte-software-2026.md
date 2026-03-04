@@ -4,7 +4,10 @@ date: 2026-03-17
 lastmod: 2026-03-17
 description: "De 5 beste offerte software tools voor het Nederlandse MKB in 2026. PandaDoc, Offorte, Proposify en meer vergeleken op prijs, templates en functies."
 categories: ["crm"]
-tags: ["offerte software", "offertes", "sales tools", "MKB", "CRM"]
+tags:
+  - crm
+  - mkb
+  - sales
 keywords: ["offertesoftware", "offerteprogramma", "offerte maken", "offerte software", "beste offerte tool Nederland"]
 aliases:
   - /posts/beste-offerte-software-2026/

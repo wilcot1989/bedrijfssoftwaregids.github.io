@@ -10,6 +10,20 @@ featured_image: "images/categories/hr-software.svg"
 tags:
   - hr-software
   - sector
+
+faq:
+  - q: "Welke HR software is het beste voor een ZZP'er met eerste medewerker?"
+    a: "Employes is de beste keuze voor ZZP'ers die voor het eerst personeel in dienst nemen: gratis tot drie medewerkers, stap-voor-stap begeleiding en directe koppeling met populaire boekhoudpakketten. Wie ondersteuning wil bij de salarisadministratie kiest voor Loket.nl. Wie een vaste accountant heeft, kiest voor Nmbrs — de kans is groot dat de accountant dit al gebruikt."
+  - q: "Wat kost HR software voor ZZP'ers met één medewerker?"
+    a: "Employes is gratis tot drie medewerkers en kost daarna EUR 5 per medewerker per maand. Nmbrs kost EUR 3 per medewerker per maand via een accountant. Loket.nl kost EUR 12 per medewerker per maand maar biedt ook optionele ondersteuning door een gecertificeerde salarisadministrateur."
+  - q: "Wat moet ik regelen als ik als ZZP'er mijn eerste medewerker in dienst neem?"
+    a: "Je hebt een arbeidscontract nodig, moet je aanmelden als werkgever bij de Belastingdienst en bent verplicht maandelijks loonheffingen af te dragen. Employes begeleidt je stap voor stap door dit proces. Je bent ook verplicht een verzuimverzekering af te sluiten als je twee jaar loon moet doorbetalen bij ziekte."
+  - q: "Kan ik salarisadministratie doen zonder boekhoudkundige kennis als ZZP'er?"
+    a: "Ja, Employes is specifiek ontworpen voor ondernemers zonder boekhoudkundige achtergrond. De tool berekent loonheffingen automatisch, genereert de loonaangifte en verstuurt loonstroken. Loket.nl biedt optionele ondersteuning door een salarisadministrateur zodat je de verwerking kunt uitbesteden."
+  - q: "Koppelt HR software voor ZZP'ers met mijn boekhoudsoftware?"
+    a: "Employes heeft native koppelingen met Moneybird, Exact Online en andere populaire boekhoudpakketten. Loket.nl koppelt met Exact Online, AFAS boekhouding en anderen. Nmbrs koppelt met Exact Online en diverse andere ERP-systemen. Hierdoor worden salariskosten automatisch geboekt in de financiële administratie."
+  - q: "Wat is het verschil tussen Employes en Loket.nl voor ZZP'ers?"
+    a: "Employes is goedkoper (gratis tot drie medewerkers) en eenvoudiger in gebruik voor niet-boekhoudkundige gebruikers. Loket.nl is duurder maar biedt de optie van professionele ondersteuning door een gecertificeerde salarisadministrateur. Loket.nl is ook sterker bij complexere contractvormen zoals nul-urencontracten."
 ---
 
 {{< sector-cta-hr >}}

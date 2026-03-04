@@ -22,8 +22,6 @@ faq:
     a: "Drie oorzaken komen het vaakst voor. Ten eerste: de automation is te complex voor de organisatie — te veel criteria, te veel flows, te weinig draagvlak bij sales. Ten tweede: de content in de nurture-e-mails sluit niet aan bij de werkelijke vragen van de prospect in die fase van het koopproces. Ten derde: er is niemand verantwoordelijk voor het onderhoud van de automation — systemen verouderen, links breken, en niemand merkt het."
 tags:
   - marketing
-  - automation
-  - roi
   - mkb
 ---
 

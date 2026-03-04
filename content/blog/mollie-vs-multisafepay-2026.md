@@ -4,7 +4,9 @@ date: 2026-04-18
 lastmod: 2026-04-18
 description: "Mollie vs MultiSafepay vergeleken op transactiekosten, betaalmethoden, integraties en support. Ontdek welke betaalprovider het beste past bij jouw webshop of platform in 2026."
 categories: ["webshops"]
-tags: ["mollie", "multisafepay", "betaalprovider", "online betalen", "vergelijking"]
+tags:
+  - webshop
+  - vergelijking
 featured_image: "/images/posts/mollie-vs-multisafepay-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

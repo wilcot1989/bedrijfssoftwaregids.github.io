@@ -20,10 +20,7 @@ faq:
     a: "De drie fouten die ik het vaakst tegenkom: verkeerde BTW-tarieven instellen waardoor je foutieve aangifte doet, geen testbestellingen draaien waardoor fouten pas bij echte klanten aan het licht komen, en het personeel niet trainen waardoor de kassa op de drukste avond vastloopt. Neem de tijd voor een goede inrichting en test alles voordat je opengaat."
 tags:
   - kassasysteem
-  - inrichten
-  - checklist
   - horeca
-  - retail
 ---
 
 Een vriend van mij opende vorig jaar een Italiaans restaurant in Utrecht. Maanden van verbouwen, menukaart schrijven, personeel werven. Op openingsavond stonden er 40 gasten te wachten. En toen ging het mis.

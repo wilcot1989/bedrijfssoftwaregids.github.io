@@ -4,7 +4,10 @@ date: 2026-04-09
 lastmod: 2026-04-09
 description: "Eerlijke e-Boekhouden review 2026: prijzen, functies, BTW-aangifte en ervaringen na 3 maanden testen. Ontdek of het bij jouw bedrijf past."
 categories: ["boekhouding"]
-tags: ["Boekhouding", "e-Boekhouden", "ZZP", "MKB", "Review"]
+tags:
+  - boekhouding
+  - zzp
+  - review
 keywords: ["e-boekhouden review", "e-boekhouden ervaringen", "e-boekhouden kosten"]
 aliases:
   - /posts/e-boekhouden-review-2026/

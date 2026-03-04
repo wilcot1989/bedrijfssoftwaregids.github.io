@@ -8,8 +8,22 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "images/categories/kassasystemen.svg"
 
 tags:
-  - kassasystemen
+  - kassasysteem
   - sector
+
+faq:
+  - q: "Welk kassasysteem is het beste voor een kapsalon?"
+    a: "Square is de beste allrounder voor kapsalons: de gratis app, ingebouwde fooi-verwerking, medewerker-omzetregistratie, cadeaubonnen en de gratis Square Appointments-app voor afsprakenbeheer maken het de meest complete keuze. ZZP-kappers en kleine salons met minimale behoeften kiezen voor Zettle. Salons met een groot productassortiment of meerdere vestigingen kiezen voor Lightspeed Retail."
+  - q: "Kan ik fooi verwerken via een kassasysteem in een kapsalon?"
+    a: "Ja, Square, Zettle en Lightspeed Retail ondersteunen allemaal fooi-verwerking. Bij Square kun je een percentage of een vast fooi-bedrag aanbieden bij het afrekenen via het touchscreen. Bij Zettle wordt fooi toegevoegd via de betaalterminal. Lightspeed Retail heeft ook fooi-functionaliteit, inclusief per medewerker bijhouden wie hoeveel fooi heeft ontvangen."
+  - q: "Wat kost een kassasysteem voor een kapsalon per maand?"
+    a: "Square en Zettle zijn gratis als software; je betaalt 1,75% transactiekosten per betaling plus de hardware (reader EUR 19 tot EUR 29). Lightspeed Retail kost EUR 59 per maand plus hardware. Bij een maandomzet van EUR 5.000 kost Square/Zettle dus EUR 87,50 aan transactiekosten; bij EUR 59 abonnement is Lightspeed goedkoper boven circa EUR 3.400 omzet."
+  - q: "Kan ik afspraken beheren via mijn kassasysteem als kapper?"
+    a: "Square heeft een gratis afsprakenbeheer-app (Square Appointments) die naadloos koppelt aan het kassasysteem: een afgeronde behandeling wordt direct doorgestuurd als af te rekenen bon. Zettle en Lightspeed Retail hebben geen ingebouwd afsprakensysteem; daarvoor heb je een aparte tool als Salonized of Treatwell nodig."
+  - q: "Hoe bijhoud ik de omzet per stylist als salonhouder?"
+    a: "Square houdt automatisch de omzet per medewerker bij op basis van wie de transactie registreerde. Lightspeed Retail heeft uitgebreide medewerker-omzetrapportages per dag, week en behandeling. Zettle heeft geen medewerker-omzetregistratie; dat maakt het minder geschikt voor salons die provisieberekeningen doen."
+  - q: "Kan ik cadeaubonnen verkopen en inlossen via het kassasysteem?"
+    a: "Square en Lightspeed Retail ondersteunen het aanmaken, verkopen en inlossen van cadeaubonnen. In Square sla je cadeaubonnen op in het systeem en controleer je het saldo bij inlossen. Zettle heeft geen cadeaubon-module; dat is een beperking voor kapsalons die cadeaubonnen populair hebben."
 ---
 
 {{< sector-cta-kassasystemen >}}

@@ -10,6 +10,20 @@ featured_image: "images/categories/marketing.svg"
 tags:
   - marketing
   - sector
+
+faq:
+  - q: "Welke e-mailmarketing tool is het beste voor een ZZP'er?"
+    a: "MailerLite is de beste keuze voor de meeste ZZP'ers: gratis tot 1.000 abonnees inclusief automation, landingspaginas en formulieren. Brevo is voordeliger als je een grote lijst hebt maar laag verzendvolume. Mailchimp is de beste optie als je veel tools integreert via native koppelingen met Shopify, Calendly of Stripe."
+  - q: "Wat kost e-mailmarketing voor een ZZP'er per maand?"
+    a: "Alle drie de tools bieden een gratis plan aan. MailerLite is gratis tot 1.000 abonnees en betaald vanaf EUR 9 per maand. Brevo is gratis voor 300 e-mails per dag en betaald vanaf EUR 19 per maand. Mailchimp is gratis tot 500 contacten en betaald vanaf EUR 13 per maand."
+  - q: "Hoeveel abonnees heb ik nodig voor e-mailmarketing als ZZP'er?"
+    a: "Je hoeft niet te wachten op honderd of duizend abonnees om te beginnen. Een lijst van twintig tot vijftig actieve contacten die je maandelijks bereikt met relevante content levert meer op dan een grote inactieve lijst. Begin met een aanmeldformulier op je website en bouw geleidelijk op; alle drie de tools zijn gratis voor kleine lijsten."
+  - q: "Kan ik automatische welkomstmails instellen als ZZP'er?"
+    a: "Ja. MailerLite, Brevo en Mailchimp ondersteunen alle drie automatische welkomstreeksen voor nieuwe inschrijvers. In MailerLite is dit ook beschikbaar in het gratis plan. Je stelt een reeks van twee tot drie e-mails in die nieuwe abonnees ontvangen in de eerste week — ideaal om je diensten en werkwijze te introduceren."
+  - q: "Hoe maak ik een aanmeldpagina voor mijn nieuwsbrief als ZZP'er?"
+    a: "MailerLite heeft een ingebouwde landingspaginabouwer die ook in het gratis plan beschikbaar is. Je maakt in vijftien minuten een aanmeldpagina met je logo, een korte omschrijving en een formulier. Mailchimp heeft ook ingebouwde landingspaginas. Brevo heeft een beperktere landingspaginabouwer in de basistier."
+  - q: "Hoe zorg ik dat mijn e-mails niet in de spammap belanden?"
+    a: "Gebruik een zakelijk e-mailadres (geen Gmail of Hotmail) als afzenderadres. Voeg altijd een uitschrijflink toe aan je e-mails. Stuur alleen naar mensen die zich aangemeld hebben. MailerLite, Brevo en Mailchimp hebben allemaal goede deliverability-reputaties; zolang je lijst kwalitatief is, bereiken de meeste e-mails de inbox."
 ---
 
 {{< sector-cta-marketing >}}

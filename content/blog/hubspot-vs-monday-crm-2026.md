@@ -4,7 +4,9 @@ date: 2026-04-19
 lastmod: 2026-04-19
 description: "HubSpot vs Monday CRM eerlijk vergeleken op prijs, functies, integraties en gebruiksgemak. Ontdek welk CRM bij jouw bedrijf past -- met actuele prijzen en reviewscores."
 categories: ["crm"]
-tags: ["hubspot", "monday crm", "crm vergelijking", "crm software"]
+tags:
+  - crm
+  - vergelijking
 featured_image: "/images/posts/hubspot-vs-monday-crm-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

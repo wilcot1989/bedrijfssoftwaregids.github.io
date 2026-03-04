@@ -22,9 +22,7 @@ faq:
     a: "Brevo en ActiveCampaign worden in Nederland het meest gewaardeerd om hun deliverability-reputatie. Beide hebben Europese datacenters, wat ook voordelen biedt voor AVG-compliance. Mailchimp is populair maar scoort bij hogere verzendvolumes soms minder goed op deliverability, deels door de brede gebruikersbasis op gedeelde IP's. Klaviyo is sterk voor e-commerce. Het platform alleen bepaalt overigens niet alles — de instellingen en lijstkwaliteit wegen even zwaar."
 tags:
   - marketing
-  - email
-  - deliverability
-  - spam
+  - b2b
 ---
 
 Je hebt een mooie nieuwsbrief samengesteld, het verzendmoment zorgvuldig gekozen en de campagne verstuurd. En dan bereikt de e-mail de helft van je lijst niet. Ze belanden in de spamfolder, de promotietab of worden stil geblokkeerd zonder dat de ontvanger het merkt. Een hoog openpercentage helpt je niets als de e-mail de inbox niet haalt.

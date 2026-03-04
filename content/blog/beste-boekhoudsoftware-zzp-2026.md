@@ -4,7 +4,9 @@ date: 2026-02-24T10:00:00+01:00
 lastmod: 2026-03-02T10:00:00+01:00
 description: "Beste boekhoudprogramma voor ZZP in 2026. Eerlijke vergelijking op prijs, gemak en functies — met Trustpilot-scores en echte kosten."
 categories: ["boekhouding"]
-tags: ["boekhoudprogramma", "zzp", "freelancer", "boekhouden", "factuur software", "btw-aangifte"]
+tags:
+  - boekhouding
+  - zzp
 keywords: ["beste boekhoudprogramma zzp", "boekhouden zzp", "boekhoudpakket zzp", "boekhoudprogramma vergelijken", "boekhoudprogramma zzp 2026"]
 aliases:
   - /posts/beste-boekhoudsoftware-zzp-2026/

@@ -10,6 +10,20 @@ featured_image: "images/categories/crm.svg"
 tags:
   - crm
   - sector
+
+faq:
+  - q: "Welke CRM software is het beste voor een recruitmentbureau?"
+    a: "Kleine bureaus die de opdrachtgeverskant willen centraliseren, starten het beste met het gratis HubSpot CRM plus een apart ATS voor kandidaatbeheer. Groeiende bureaus van vijf tot twintig recruiters kiezen voor Recruitee: betaalbaar, modern en met zowel ATS als basisCRM. Grote bureaus met enterprise-opdrachtgevers investeren in Bullhorn als marktleider."
+  - q: "Wat is het verschil tussen een ATS en een CRM voor recruitment?"
+    a: "Een ATS (applicant tracking system) beheert kandidaten, vacatures, CV's en het sollicitatieproces. Een CRM beheert opdrachtgevers, contactpersonen en de opdrachtgeverspipeline. Bullhorn en Recruitee combineren beide. HubSpot is puur CRM en vereist een apart ATS voor de kandidaatkant."
+  - q: "Wat kost CRM en ATS software voor een recruitmentbureau?"
+    a: "HubSpot gratis plus Recruitee begint bij EUR 199 per maand voor kleine teams. Recruitee als all-in-one begint bij EUR 199 per maand voor één tot vijf gebruikers. Bullhorn wordt op aanvraag geprijsd; voor kleinere bureaus rekening houden met EUR 100 tot EUR 150 per gebruiker per maand."
+  - q: "Hoe voldoe ik aan de AVG als recruitmentbureau bij het opslaan van CV-data?"
+    a: "De AVG stelt dat je CV-data van niet-geplaatste kandidaten maximaal vier weken mag bewaren zonder toestemming, of maximaal één jaar met expliciete toestemming. Bullhorn heeft de sterkste AVG-compliance tools inclusief geautomatiseerde bewaar- en verwijderbeleidsinstellingen. Recruitee en HubSpot ondersteunen AVG-instellingen, maar vereisen meer handmatige configuratie."
+  - q: "Kan ik LinkedIn koppelen aan mijn recruitmentsysteem?"
+    a: "Bullhorn heeft een directe LinkedIn Recruiter-integratie waarmee je profielen importeert, berichten synchroniseert en kandidaatdata bijwerkt. Recruitee heeft een beperktere LinkedIn-koppeling. HubSpot heeft via Sales Navigator-integratie toegang tot LinkedIn-data voor de opdrachtgeverskant."
+  - q: "Welke rapportages zijn belangrijk voor een recruitmentbureau?"
+    a: "Time-to-fill (hoe lang duurt het om een vacature in te vullen), plaatsingsratio (percentage vacatures dat succesvol wordt ingevuld) en omzet per recruiter zijn de drie meest gebruikte KPI's. Bullhorn heeft de meest uitgebreide rapportagemodule voor deze metrics. Recruitee biedt basisrapportages; HubSpot rapporteert primair op de salesfunnel van opdrachtgevers."
 ---
 
 {{< sector-cta-crm >}}

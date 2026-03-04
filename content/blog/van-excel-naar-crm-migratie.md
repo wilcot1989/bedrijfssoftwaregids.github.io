@@ -20,10 +20,7 @@ faq:
     a: "Begin met actieve contacten en lopende deals. Dat zijn de gegevens die je dagelijks nodig hebt. Historische data van gesloten deals uit 2020 kun je later toevoegen of zelfs weglaten — die voegen in de meeste gevallen weinig toe aan je dagelijkse werk."
 tags:
   - crm
-  - excel
-  - migratie
   - mkb
-  - data
 ---
 
 Vorig jaar hielp ik een accountantskantoor in Utrecht met de overstap van Excel naar HubSpot. Zeven medewerkers, zo'n 1.400 klantcontacten, een spreadsheet die door de jaren heen was uitgegroeid tot een gedrocht van 23 tabbladen. Kolommen zonder naam. Telefoonnummers in drie verschillende formaten. Bedrijfsnamen afwisselend voluit geschreven, afgekort, of met een typefout.

@@ -10,6 +10,20 @@ featured_image: "images/categories/marketing.svg"
 tags:
   - marketing
   - sector
+
+faq:
+  - q: "Welke marketing automation software is het beste voor een webshop?"
+    a: "Klaviyo is de beste keuze voor webshops met meer dan EUR 200.000 omzet per jaar: het platform is volledig gebouwd rond e-commerce data met native Shopify- en WooCommerce-integraties en directe omzetattributie per flow. Startende webshops beginnen het beste met Mailchimp vanwege het gratis plan en goede Shopify-koppeling. ActiveCampaign is de beste keuze voor webshops met complexere klantrelaties of een B2B-segment."
+  - q: "Wat is een abandoned-cart flow en hoe stel ik die in?"
+    a: "Een abandoned-cart flow is een automatische reeks van twee tot drie e-mails naar bezoekers die producten aan hun winkelwagen toevoegden maar niet afrekenden. De eerste mail gaat een uur na het verlaten, de tweede na 24 uur. Gemiddeld converteert 10 tot 15 procent van de verlaten winkelwagens alsnog na deze reeks. Klaviyo, Mailchimp en ActiveCampaign bieden dit allemaal aan, bij Klaviyo ook met productafbeeldingen en directe prijsweergave."
+  - q: "Wat kost marketing automation voor een webshop?"
+    a: "Mailchimp is gratis tot 500 contacten en betaald vanaf EUR 13 per maand. ActiveCampaign begint bij EUR 15 per maand voor 500 contacten. Klaviyo is gratis tot 250 contacten en betaald vanaf EUR 20 per maand; de prijs stijgt steil bij grotere lijsten. Bij een lijst van 10.000 contacten kost Klaviyo circa EUR 150 per maand."
+  - q: "Kan ik productaanbevelingen sturen op basis van aankoophistorie?"
+    a: "Klaviyo heeft de meest geavanceerde productaanbevelingsfunctionaliteit: e-mails met dynamische productblokken op basis van eerder bekeken of gekochte producten. Mailchimp biedt basisproductaanbevelingen via dynamische inhoudsblokken. ActiveCampaign ondersteunt productaanbevelingen via koppelingen met je webshopplatform."
+  - q: "Hoe meet ik de omzet die e-mailcampagnes genereren voor mijn webshop?"
+    a: "Klaviyo heeft de sterkste omzetattributie: per flow en per campagne zie je exact hoeveel omzet direct toe te schrijven is aan een e-mail, inclusief welke producten werden besteld. Mailchimp toont omzetdata per campagne als je de Shopify-koppeling actief hebt. ActiveCampaign heeft beperktere omzetrapportages."
+  - q: "Wat is het verschil tussen Klaviyo en Mailchimp voor een webshop?"
+    a: "Klaviyo is gebouwd specifiek voor e-commerce en heeft diepere integratie met Shopify en WooCommerce, geavanceerde segmentatie op aankoopgedrag en directe omzetattributie. Mailchimp is een generalistisch e-mailplatform dat ook voor webshops werkt. Klaviyo is sterker maar duurder; Mailchimp is beter voor startende webshops met beperkt budget."
 ---
 
 {{< sector-cta-marketing >}}

@@ -22,9 +22,8 @@ faq:
     a: "Exact Online is verreweg het meest gebruikt door Nederlandse accountants en administratiekantoren. Als jouw boekhouder ook toegang heeft tot jouw Exact Online-omgeving, scheelt dat aanzienlijk in de afstemming. Moneybird en Twinfield zijn goede alternatieven die ook breed worden ondersteund."
 tags:
   - boekhouding
-  - kosten
   - zzp
-  - mkb
+  - vergelijking
 ---
 
 Veel ondernemers stellen de vraag op het verkeerde moment: niet voor ze een boekhouder inschakelen, maar jaren later als ze de jaarrekening zien. Een externe boekhouder kost voor een eenmanszaak al snel EUR 1.800 tot EUR 4.000 per jaar. Boekhoudsoftware kost een fractie daarvan. Toch is software niet altijd de juiste keuze -- een goedkope keuze aan het begin kan later duur uitpakken als je meer complexiteit krijgt dan het systeem aankan.

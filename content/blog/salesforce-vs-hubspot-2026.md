@@ -4,7 +4,10 @@ date: 2026-03-16
 lastmod: 2026-03-16
 description: "Salesforce vs HubSpot: uitgebreide vergelijking voor het Nederlandse MKB. Ontdek welke CRM het beste past bij jouw bedrijf qua functies, prijs en gebruiksgemak."
 categories: ["crm"]
-tags: ["Salesforce", "HubSpot", "CRM", "vergelijking", "sales software"]
+tags:
+  - crm
+  - vergelijking
+  - sales
 keywords: ["Salesforce vs HubSpot", "CRM vergelijking", "Salesforce review", "HubSpot review Nederland"]
 aliases:
   - /posts/salesforce-vs-hubspot-2026/

@@ -4,7 +4,9 @@ date: 2026-02-27T10:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
 description: "Vergelijk de beste HR software voor het MKB in Nederland. Personio, HiBob, Nmbrs, AFAS en meer op prijs, functies en gebruiksgemak."
 categories: ["hr-software"]
-tags: ["hr software", "personeelssoftware", "salarisadministratie", "verlofregistratie", "mkb software"]
+tags:
+  - hr-software
+  - mkb
 keywords: ["beste hr software", "hr systeem mkb", "personeelssoftware nederland", "hr software vergelijken", "salarisadministratie software"]
 aliases:
   - /posts/beste-hr-software-nederland-2026/

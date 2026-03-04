@@ -10,6 +10,20 @@ featured_image: "images/categories/boekhouding.svg"
 tags:
   - boekhouding
   - sector
+
+faq:
+  - q: "Welke boekhoudsoftware is het beste voor een stichting in Nederland?"
+    a: "Voor kleine tot middelgrote stichtingen met een externe accountant is Exact Online de meest praktische keuze: breed ondersteund en voldoende functioneel voor fondsadministratie via projecten. Stichtingen met complexe subsidiestromen kiezen voor Twinfield. Grotere non-profitorganisaties met eigen HR vallen terug op AFAS non-profit."
+  - q: "Wat kost boekhoudsoftware voor een stichting?"
+    a: "Exact Online Accounting kost EUR 44 per maand. Twinfield begint bij EUR 55 per maand. AFAS non-profit wordt op aanvraag geprijsd, typisch EUR 80 tot EUR 160 per gebruiker per maand afhankelijk van modules. Implementatiekosten komen daar nog bovenop."
+  - q: "Hoe registreer ik subsidies en fondsen in mijn boekhoudsoftware?"
+    a: "In Exact Online gebruik je projecten en kostenplaatsen om subsidies en fondsen apart bij te houden en te verantwoorden. Twinfield gebruikt een dimensionele opzet waarbij fonds, project en activiteit combineerbaar zijn in één boeking. AFAS non-profit heeft een specifieke subsidiemanagementmodule inclusief verantwoordingsrapportages."
+  - q: "Wat zijn de boekhoudverplichtingen voor een ANBI-stichting?"
+    a: "Een ANBI-stichting is verplicht om financiële gegevens openbaar te publiceren via de website of het ANBI-register. De jaarrekening moet minimaal de balans, de staat van baten en lasten en de toelichting bevatten. Geen van de drie besproken systemen heeft een specifieke ANBI-exportmodule; de gegevens worden handmatig gepubliceerd vanuit de rapportages."
+  - q: "Moet een stichting BTW afdragen?"
+    a: "Dat hangt af van de activiteiten. Stichtingen zijn vaak deels BTW-plichtig (voor commerciële activiteiten) en deels vrijgesteld (voor non-profitdiensten). Alle drie de systemen ondersteunen gemengde BTW-posities waarbij je per transactie het juiste BTW-tarief of de vrijstelling koppelt."
+  - q: "Kan een vrijwilliger kostenvergoedingen ontvangen en hoe verwerk ik dat?"
+    a: "Vrijwilligers mogen onder de vrijwilligersregeling maximaal EUR 210 per maand en EUR 2.100 per jaar ontvangen zonder loonbelasting. Dit verwerk je als kostenvergoeding in de administratie. In Exact Online en Twinfield boek je dit als declaratie; AFAS non-profit heeft een specifieke module voor vrijwilligersregistratie."
 ---
 
 {{< sector-cta-boekhouding >}}

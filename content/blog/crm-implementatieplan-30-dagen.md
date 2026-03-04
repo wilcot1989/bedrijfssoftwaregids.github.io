@@ -20,8 +20,6 @@ faq:
     a: "Adoptie begint bij een systeem dat direct waarde geeft aan de gebruiker, niet pas na maanden. Laat medewerkers zelf hun data importeren zodat ze meteen vertrouwd raken met het systeem. Plan een introductiesessie van maximaal negentig minuten gericht op de dagelijkse werkdag, niet op features. Anker het gebruik daarna in de wekelijkse verkoopvergadering door vijf minuten het CRM-dashboard samen door te lopen."
 tags:
   - crm
-  - implementatie
-  - stappenplan
   - mkb
 ---
 
