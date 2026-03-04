@@ -42,7 +42,7 @@ function uniquePricingBands(items) {
 
 function renderMatrixRow(t, boolFilters) {
   const link = t.affiliate?.url
-    ? `<a class="bsg-btn-sm" href="${escapeHTML(t.affiliate.url)}" rel="sponsored nofollow">Bekijk</a>`
+    ? `<a class="bsg-btn-sm" href="${escapeHTML(t.affiliate.url)}" target="_blank" rel="noopener nofollow sponsored">Bekijk</a>`
     : "";
   const boolCells = boolFilters.map(f => `<td>${boolCell(t[f])}</td>`).join("");
   return `<tr>

@@ -191,7 +191,7 @@ Pipedrive is zeer flexibel aan te passen:
 - Geen gratis plan
 - Marketingfuncties zijn beperkt
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
 
@@ -340,7 +340,7 @@ Het beste CRM voor makelaars hangt af van je specifieke situatie. Hier zijn onze
 
 - **Beste makelaar-specifiek CRM**: [Realworks](https://www.realworks.nl/) -- het meest complete platform met Funda-koppeling, NVM-integratie en automatische woningmatching. De standaard in de Nederlandse makelaardij.
 - **Beste voor online leadgeneratie**: [HubSpot CRM](https://www.hubspot.com/nl) -- krachtige marketingtools en gratis CRM als basis, ideaal voor makelaars die actief online leads genereren.
-- **Beste budget CRM voor kleine kantoren**: [Pipedrive](https://www.pipedrive.com/nl) -- intuïtief, betaalbaar (Lite vanaf ~$14/gebruiker) en eenvoudig aan te passen aan de makelaarsworkflow.
+- **Beste budget CRM voor kleine kantoren**: [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj) -- intuïtief, betaalbaar (Lite vanaf ~$14/gebruiker) en eenvoudig aan te passen aan de makelaarsworkflow.
 - **Beste voor grote kantoren en ketens**: [Salesforce](https://www.salesforce.com/nl/) -- maximale schaalbaarheid en aanpasbaarheid met vastgoedapps via AppExchange.
 - **Beste alles-in-een voor makelaars-adviseurs**: [Gripp](https://www.gripp.com/nl/) -- CRM, projecten, uren en facturatie in een Nederlands platform.
 

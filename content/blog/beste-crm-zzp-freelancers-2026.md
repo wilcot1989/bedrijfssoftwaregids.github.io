@@ -118,7 +118,7 @@ Pipedrive is voor de ZZP'er die serieus aan acquisitie doet. Ik adviseerde het l
 - Voor ZZP'ers met weinig leads misschien te uitgebreid
 - Kosten tellen op als je meerdere tools nodig hebt
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
 
@@ -283,7 +283,7 @@ Je hebt nog weinig klanten en een minimaal budget. **Start met [HubSpot Free CRM
 
 ### Scenario 2: Je doet actief acquisitie
 
-Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces stroomlijnen. **Kies [Pipedrive](https://www.pipedrive.com/nl)**. De visuele pipeline en automatische herinneringen zorgen dat je geen kans mist. De investering van ~$14/maand verdient zich snel terug als je er een extra opdracht mee binnenhaalt.
+Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces stroomlijnen. **Kies [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj)**. De visuele pipeline en automatische herinneringen zorgen dat je geen kans mist. De investering van ~$14/maand verdient zich snel terug als je er een extra opdracht mee binnenhaalt.
 
 ### Scenario 3: Je combineert sales met projecten
 
@@ -312,7 +312,7 @@ Je freelance-business groeit, je hebt steeds meer leads en wilt AI-ondersteuning
 Voor ZZP'ers geldt: het beste CRM is het CRM dat je daadwerkelijk gebruikt. Een eenvoudige tool die je bijhoudt, is waardevoller dan een geavanceerd systeem dat stof verzamelt. Hier zijn onze aanbevelingen:
 
 - **Beste gratis CRM voor ZZP'ers**: [HubSpot Free CRM](https://www.hubspot.com/nl) -- het meest complete gratis pakket dat meegroeit met je bedrijf.
-- **Beste voor actieve acquisitie**: [Pipedrive](https://www.pipedrive.com/nl) -- de visuele pipeline en slimme herinneringen helpen je om geen deal te missen.
+- **Beste voor actieve acquisitie**: [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj) -- de visuele pipeline en slimme herinneringen helpen je om geen deal te missen.
 - **Beste voor sales + projecten**: [Monday CRM](https://monday.com/lang/nl) -- ideaal als je CRM en projectmanagement wilt combineren.
 - **Beste voor Notion-gebruikers**: [Notion](https://www.notion.so/) -- flexibel en gratis, mits je bereid bent het zelf in te richten.
 - **Beste voor nul budget**: Google Contacts + Sheets -- de meest basale maar werkbare gratis oplossing.

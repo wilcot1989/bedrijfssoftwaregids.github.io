@@ -266,7 +266,7 @@ Kort antwoord: ja. Pipedrive is het CRM dat ik het vaakst aanbeveel, en waar ik 
 - **Kies Premium** (~$49/gebruiker/mnd) als je uitgebreide rapportages en revenue forecasting nodig hebt.
 - **ZZP'ers** kunnen prima starten met het Lite-plan (~$14/mnd) en upgraden wanneer nodig.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 Bekijk ook ons brede overzicht van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) en ons artikel over [CRM voor ZZP'ers](/blog/beste-crm-zzp-freelancers-2026/).
 

@@ -84,12 +84,12 @@ Als je op uurbasis werkt — en dat doen de meeste ZZP'ers — is een urenregist
 Zodra je meer dan een handvol klanten hebt, wordt het onmogelijk om alles in je hoofd te houden. Wanneer heb je die prospect voor het laatst gesproken? Wat was de afspraak? Welke offerte staat nog open? Een CRM houdt dat bij zodat jij het niet hoeft te onthouden.
 
 - **[HubSpot CRM](https://www.hubspot.com/nl)** (gratis) — mijn standaard aanbeveling voor ZZP'ers. Onbeperkt contacten, deals bijhouden, e-mailtracking, en een overzichtelijke pipeline. Het gratis plan is serieus bruikbaar — geen 30-dagen-trial, maar echt gratis voor altijd.
-- **[Pipedrive](https://www.pipedrive.com/nl)** (Lite vanaf ~$14/gebruiker/mnd) — als je een visueel verkoopproces wilt. De drag-en-drop pipeline is ideaal als je meerdere offertes tegelijk hebt lopen.
+- **[Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj)** (Lite vanaf ~$14/gebruiker/mnd) — als je een visueel verkoopproces wilt. De drag-en-drop pipeline is ideaal als je meerdere offertes tegelijk hebt lopen.
 
 **Mijn advies:** begin met HubSpot gratis. Pas als je merkt dat je meer dan 20 deals tegelijk beheert of geavanceerde automatisering wilt, is een upgrade of overstap naar Pipedrive de moeite waard. Meer opties: [Beste CRM voor ZZP'ers](/blog/beste-crm-zzp-freelancers-2026/).
 
 <a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 
 ## 4. Offertes & contracten — professioneel overkomen

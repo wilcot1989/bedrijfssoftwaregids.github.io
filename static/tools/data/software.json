@@ -22,7 +22,7 @@
     "marketing_automation": false,
     "pipeline": true,
     "integrations": ["Google Workspace", "Microsoft 365", "Zapier", "Slack"],
-    "affiliate": { "type": "link", "url": "https://www.pipedrive.com/nl" },
+    "affiliate": { "type": "link", "url": "https://aff.trypipedrive.com/65scdzrtiyaj" },
     "cost": { "model": "per_user_monthly", "base": 0, "per_user": 14 }
   },
   {
@@ -205,7 +205,7 @@
     "time_tracking": true,
     "scrum": true,
     "integrations": ["Slack", "Teams", "Google Drive", "Jira", "Zapier"],
-    "affiliate": { "type": "link", "url": "https://clickup.com/" },
+    "affiliate": { "type": "link", "url": "https://try.web.clickup.com/ivsm6ez2ycrs" },
     "cost": { "model": "per_user_monthly", "base": 0, "per_user": 7 }
   },
   {

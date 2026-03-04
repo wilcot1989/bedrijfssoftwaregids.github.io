@@ -138,7 +138,7 @@ Benieuwd hoe Pipedrive zich verhoudt tot HubSpot? Lees dan mijn uitgebreide [Hub
 
 Als je een verkoopteam van 3 tot 20 mensen hebt en je wilt een CRM dat iedereen daadwerkelijk gaat gebruiken, is Pipedrive mijn eerste keuze. Start met het Growth-plan (~€39) -- dat heeft de automatiseringen die je echt nodig hebt.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
 
@@ -392,7 +392,7 @@ Na tientallen bedrijven te hebben begeleid met hun CRM-keuze, kan ik je dit vert
 
 - **Starter of ZZP'er met beperkt budget?** Begin met [HubSpot CRM gratis](https://www.hubspot.com/nl). Kost je niets en je leert wat je werkelijk nodig hebt. Zodra je tegen de limieten aanloopt, heb je genoeg ervaring om een gerichte keuze te maken. Specifiek op zoek naar een CRM als freelancer? Lees dan mijn artikel over de [beste CRM software voor ZZP'ers](/blog/beste-crm-zzp-freelancers-2026/).
 
-- **Verkoopteam van 3-20 mensen?** Ga voor [Pipedrive](https://www.pipedrive.com/nl). In 12 jaar heb ik geen CRM gezien dat verkopers sneller adopteren. Die visuele pipeline en de mobiele app maken het verschil. Start met Growth (~€39/gebruiker) voor de automatiseringen.
+- **Verkoopteam van 3-20 mensen?** Ga voor [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj). In 12 jaar heb ik geen CRM gezien dat verkopers sneller adopteren. Die visuele pipeline en de mobiele app maken het verschil. Start met Growth (~€39/gebruiker) voor de automatiseringen.
 
 - **MKB met 5-30 medewerkers dat alles onder een dak wil?** Kies [Teamleader](https://www.teamleader.eu/nl). Je vervangt je CRM, projecttool en facturatiepakket in een klap. De hogere prijs verdien je terug door losse tools op te zeggen.
 
