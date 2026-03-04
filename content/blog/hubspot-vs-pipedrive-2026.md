@@ -4,7 +4,10 @@ date: 2026-02-24T10:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
 description: "HubSpot vs Pipedrive: eerlijke vergelijking op prijs, functies en gebruiksgemak. Ontdek welke CRM bij jouw team past — met Trustpilot-scores en kosten."
 categories: ["crm"]
-tags: ["hubspot", "pipedrive", "crm vergelijking", "crm software", "sales software"]
+tags:
+  - crm
+  - vergelijking
+  - sales
 keywords: ["hubspot vs pipedrive", "hubspot of pipedrive", "crm vergelijking", "hubspot review", "pipedrive review"]
 aliases:
   - /posts/hubspot-vs-pipedrive-2026/

@@ -20,9 +20,6 @@ faq:
     a: "Minimaal twee volledige weken, ook als je eerder statistische significantie bereikt. De reden: bezoekersgedrag verschilt per dag van de week. Als je na drie dagen al stopt, mis je mogelijk het weekend-effect of het begin-van-de-week patroon. Laat de test altijd een veelvoud van zeven dagen draaien. De meeste experts raden twee tot vier weken aan."
 tags:
   - marketing
-  - ab-testen
-  - conversie
-  - optimalisatie
   - mkb
 ---
 

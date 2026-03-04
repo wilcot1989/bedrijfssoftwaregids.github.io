@@ -4,7 +4,9 @@ date: 2026-05-01
 lastmod: 2026-05-01
 description: "De 6 beste voorraadbeheer en inventory management tools voor het MKB in 2026. Vergelijk Picqer, Exact Online, Inventory Planner, Katana, inFlow en Cin7 op prijs, functies en integraties."
 categories: ["webshops"]
-tags: ["voorraadbeheer", "inventory management", "magazijn", "voorraad software"]
+tags:
+  - webshop
+  - mkb
 featured_image: "/images/posts/beste-voorraadbeheer-software-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

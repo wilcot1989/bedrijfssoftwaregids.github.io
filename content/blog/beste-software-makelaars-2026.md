@@ -4,7 +4,9 @@ date: 2026-04-24
 lastmod: 2026-04-24
 description: "Vergelijk de 5 beste makelaarssoftware-pakketten van Nederland op CRM, Funda-koppeling, woningpresentatie en transactiebeheer. Met actuele prijzen en ervaringen uit de praktijk."
 categories: ["crm"]
-tags: ["makelaarssoftware", "makelaardij", "woningpresentatie", "makelaar software"]
+tags:
+  - crm
+  - mkb
 featured_image: "/images/posts/beste-software-makelaars-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

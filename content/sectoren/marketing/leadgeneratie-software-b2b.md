@@ -10,6 +10,20 @@ featured_image: "images/categories/marketing.svg"
 tags:
   - marketing
   - sector
+
+faq:
+  - q: "Welke leadgeneratie software is het beste voor B2B-bedrijven?"
+    a: "Dat hangt af van je strategie. Voor inbound B2B-leadgeneratie — websiteverkeer omzetten naar leads — is HubSpot de meest complete oplossing. Voor het identificeren van bedrijven die je website al bezoeken maar nog geen contact opnemen, is Leadinfo de sterkste keuze. Voor actief outbound prospecteren bij nieuwe doelbedrijven biedt LinkedIn Sales Navigator de meeste mogelijkheden."
+  - q: "Wat kost leadgeneratie software voor B2B-bedrijven?"
+    a: "HubSpot is gratis voor de basistools; de betaalde Marketing Hub Starter kost EUR 45 per maand. Leadinfo begint bij EUR 39 per maand afhankelijk van websiteverkeer. LinkedIn Sales Navigator Core kost EUR 79 per gebruiker per maand. De combinatie van Leadinfo en HubSpot gratis is een krachtige en betaalbare startopstelling."
+  - q: "Hoe identificeer ik bedrijven die mijn website bezoeken?"
+    a: "Leadinfo gebruikt IP-adressen om bedrijven die je website bezoeken te herkennen, ook als ze geen contactformulier invullen. Je ziet welk bedrijf welke pagina's bezocht, hoe lang ze bleven en welke contactpersonen bij dat bedrijf te bereiken zijn via LinkedIn. HubSpot heeft een beperktere versie hiervan in betaalde plannen."
+  - q: "Wat is lead scoring en hoe gebruik ik het als B2B-bedrijf?"
+    a: "Lead scoring kent automatisch punten toe aan contacten op basis van hun gedrag: welke pagina's ze bezochten, welke e-mails ze openden en hoelang ze actief zijn. Contacten boven een bepaalde score worden automatisch doorgezet naar sales. HubSpot en Leadinfo ondersteunen beide lead scoring; LinkedIn Sales Navigator heeft dit niet."
+  - q: "Hoe combineer ik Leadinfo met mijn CRM?"
+    a: "Leadinfo heeft directe integraties met HubSpot, Salesforce en Pipedrive. Zodra Leadinfo een interessant bedrijf herkent op je website, kan het automatisch een contactrecord of taak aanmaken in je CRM voor opvolging door het salesteam. Dit elimineert handmatig werk en zorgt dat warme leads direct worden opgepakt."
+  - q: "Is LinkedIn Sales Navigator het waard voor B2B-leadgeneratie?"
+    a: "Ja, als je een actief salesteam hebt dat systematisch nieuwe accounts benadert. De geavanceerde zoekfilters op functietitel, sector, bedrijfsomvang en activiteit laten je precies de beslissers vinden bij je ideale klantprofiel. Voor bedrijven die puur op inbound willen groeien is het minder relevant; HubSpot of Leadinfo zijn dan betere investeringen."
 ---
 
 {{< sector-cta-marketing >}}

@@ -4,7 +4,9 @@ date: 2026-05-03
 lastmod: 2026-05-03
 description: "De 6 beste e-mailmarketing software tools voor Nederland vergeleken op prijs, automatisering, deliverability en gebruiksgemak. Met actuele prijzen, eerlijke voor- en nadelen en concrete aanbevelingen per bedrijfstype."
 categories: ["marketing"]
-tags: ["e-mailmarketing software", "nieuwsbrief software", "marketing automation", "mailing"]
+tags:
+  - marketing
+  - mkb
 featured_image: "/images/posts/beste-email-marketing-software-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

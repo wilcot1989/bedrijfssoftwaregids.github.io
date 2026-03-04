@@ -4,7 +4,9 @@ date: 2026-04-28
 lastmod: 2026-04-28
 description: "De beste ZZP tools van 2026: boekhouding, CRM, urenregistratie, offertes en meer. Compleet overzicht van software die elke zelfstandige nodig heeft."
 categories: ["productiviteit"]
-tags: ["ZZP tools", "zzp software", "freelancer tools", "software zelfstandigen"]
+tags:
+  - productiviteit
+  - zzp
 featured_image: "/images/posts/beste-software-zzp-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

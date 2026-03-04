@@ -20,9 +20,6 @@ faq:
     a: "Vanaf ongeveer tien medewerkers wordt het handmatig bijhouden van verzuim in Excel onbetrouwbaar en tijdrovend. Je mist deadlines van de Wet Poortwachter, overziet patronen niet en de administratie kost onevenredig veel tijd. De meeste HR-systemen voor verzuimbeheer kosten tussen de 3 en 8 euro per medewerker per maand. Bij tien medewerkers is dat 30 tot 80 euro per maand, wat je terugverdient als je één verzuimdag per jaar voorkomt."
 tags:
   - hr-software
-  - ziekteverzuim
-  - wet-poortwachter
-  - verzuim
   - mkb
 ---
 

@@ -20,10 +20,7 @@ faq:
     a: "Ja, mits de aanbieder een verwerkersovereenkomst (DPA) aanbiedt en de servers binnen de EER staan, of de aanbieder gecertificeerd is onder het EU-US Data Privacy Framework. Bekende aanbieders zoals Personio, AFAS en Nmbrs voldoen hieraan. Controleer altijd of de DPA is ondertekend en waar de data fysiek staat. Google Drive of Dropbox zonder DPA is niet voldoende."
 tags:
   - hr-software
-  - personeelsdossier
-  - avg
-  - privacy
-  - digitaliseren
+  - mkb
 ---
 
 Een klant van mij — een installatiebedrijf met 15 medewerkers — had zijn personeelsdossiers verspreid over drie ordners in twee verschillende kasten, plus een plastic zak op het bureau van de eigenaar. Niet ideaal, maar het werkte. Tot een medewerker zijn recht op inzage uitoefende onder de AVG.

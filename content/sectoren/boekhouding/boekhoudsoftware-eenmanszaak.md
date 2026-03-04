@@ -10,6 +10,20 @@ featured_image: "images/categories/boekhouding.svg"
 tags:
   - boekhouding
   - sector
+
+faq:
+  - q: "Welke boekhoudsoftware is het beste voor een eenmanszaak?"
+    a: "Voor de meeste eenmanszaken is Moneybird de beste keuze: overzichtelijk, snel en meegroeibaar. Als je ook producten verkoopt of salarisadministratie nodig hebt, is Snelstart een betere optie. Ga je richting een BV of wil je meerdere modules in één systeem, dan is Exact Online de logische keuze."
+  - q: "Wat kost boekhoudsoftware voor een eenmanszaak per maand?"
+    a: "Snelstart begint al bij EUR 14 per maand voor basisboekhouden. Moneybird kost EUR 24 per maand voor het Medium-plan met meerdere gebruikers. Exact Online kost EUR 44 per maand. Houd ook rekening met extra modules zoals salarisadministratie, die de prijs verhogen."
+  - q: "Heeft een eenmanszaak salarisadministratie nodig in de boekhoudsoftware?"
+    a: "Niet meteen, maar als je straks een medewerker aanneemt wil je niet opnieuw wisselen van systeem. Snelstart heeft een betaalbare salarismodule vanaf EUR 8 extra per maand. Exact Online heeft salarisadministratie ingebouwd. Moneybird heeft geen eigen salarismodule en vereist een externe koppeling."
+  - q: "Kan mijn boekhouder inloggen in mijn boekhoudsoftware?"
+    a: "Ja, alle drie de systemen ondersteunen meerdere gebruikers. Moneybird en Exact Online hebben een specifieke accountantsrol waarbij je boekhouder toegang krijgt zonder te kunnen factureren. Snelstart heeft een aparte accountantsmodule waarbij boekhouder en ondernemer in hetzelfde systeem werken."
+  - q: "Is het moeilijk om te wisselen van boekhoudsoftware als eenmanszaak?"
+    a: "Een migratie kost gemiddeld twee tot drie werkdagen en brengt risico op boekingsfouten met zich mee. Je moet een openingsbalans opvoeren en historische data handmatig invoeren of importeren. Kies daarom liever een systeem dat twee jaar meegroeit, ook al kost het iets meer per maand."
+  - q: "Kan ik BTW-aangifte doen vanuit de boekhoudsoftware?"
+    a: "Ja, zowel Moneybird, Snelstart als Exact Online ondersteunen directe BTW-aangifte bij de Belastingdienst. Moneybird en Exact Online dienen de aangifte rechtstreeks in via de koppeling met het Belastingdienstportaal. Bij Snelstart bereid je de aangifte voor in het systeem en dien je die vervolgens in."
 ---
 
 {{< sector-cta-boekhouding >}}

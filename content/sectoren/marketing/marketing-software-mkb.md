@@ -10,6 +10,20 @@ featured_image: "images/categories/marketing.svg"
 tags:
   - marketing
   - sector
+
+faq:
+  - q: "Welke marketing software is het beste voor een MKB-bedrijf?"
+    a: "HubSpot is de beste keuze voor MKB-bedrijven die marketing en sales willen verbinden in één systeem: het gratis CRM, e-mailmarketing en landingspaginas zijn een sterk startpunt. ActiveCampaign is de beste optie voor bedrijven die serieuze e-mailautomation en lead nurturing willen opzetten. Mailchimp is het meest toegankelijk voor MKB dat simpel wil beginnen met nieuwsbrieven."
+  - q: "Wat kost marketing software voor een MKB-bedrijf?"
+    a: "HubSpot is gratis voor de basisfuncties; de Marketing Hub Starter kost EUR 45 per maand. ActiveCampaign begint bij EUR 15 per maand voor 500 contacten. Mailchimp is gratis voor 500 contacten en betaald vanaf EUR 13 per maand. Bij groei naar meer contacten stijgen de kosten van alle drie de tools snel."
+  - q: "Heeft marketing software ook een CRM ingebouwd?"
+    a: "HubSpot heeft het meest uitgebreide gratis CRM van de drie, inclusief onbeperkt contacten, deal-tracking en salestools. ActiveCampaign heeft een ingebouwd lichtgewicht CRM met deal-pipeline. Mailchimp heeft geen volwaardig CRM; leads die via campagnes binnenkomen moet je handmatig of via een integratie naar een apart CRM doorsturen."
+  - q: "Kan ik leads automatisch opvolgen na contact via de website?"
+    a: "In HubSpot stel je workflows in die automatisch een e-mailreeks starten zodra iemand een formulier invult. ActiveCampaign heeft de meest uitgebreide automation-builder: je kunt flows bouwen op basis van websitegedrag, e-mailkliks en CRM-gegevens. Mailchimp heeft basale automation voor welkomstmails maar mist de complexe conditielogica van de andere twee."
+  - q: "Hoe meet ik welke marketing inspanningen daadwerkelijk omzet opleveren?"
+    a: "HubSpot koppelt marketingactiviteit aan deals in het CRM, zodat je kunt zien welke campagnes tot gesloten deals hebben geleid. ActiveCampaign rapporteert op revenue via zijn CRM-module. Mailchimp toont e-mailstatistieken maar heeft geen directe omzetattributie zonder een aparte CRM-integratie."
+  - q: "Kan ik als MKB-bedrijf beginnen met de gratis versie van HubSpot?"
+    a: "Ja, het gratis HubSpot CRM is royaal genoeg voor een MKB-bedrijf om mee te starten: onbeperkt contacten, e-mailmarketing voor maximaal 2.000 e-mails per maand, formulieren en landingspaginas. De grens zit bij marketing automation en lead scoring, die pas beschikbaar zijn in de betaalde Starter-versie vanaf EUR 45 per maand."
 ---
 
 {{< sector-cta-marketing >}}

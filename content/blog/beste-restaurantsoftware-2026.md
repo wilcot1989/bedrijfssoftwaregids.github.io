@@ -4,7 +4,9 @@ date: 2026-04-25
 lastmod: 2026-04-25
 description: "Welke horeca software past bij jouw zaak? Ik testte 5 systemen op kassa, reserveringen, voorraadbeheer en keukenmanagement. Met actuele prijzen en vergelijkingstabel."
 categories: ["kassasystemen"]
-tags: ["horeca software", "reserveringssysteem", "restaurantsoftware", "horeca management"]
+tags:
+  - kassasysteem
+  - horeca
 featured_image: "/images/posts/beste-restaurantsoftware-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

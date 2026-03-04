@@ -4,7 +4,9 @@ date: 2026-03-20
 lastmod: 2026-03-20
 description: "De beste helpdesk software van 2026 vergeleken. Zendesk, Freshdesk, HubSpot Service Hub, Intercom en Trengo op prijs, functies en gebruiksgemak."
 categories: ["crm"]
-tags: ["klantenservice software", "helpdesk", "Zendesk", "Freshdesk", "ticketing systeem"]
+tags:
+  - marketing
+  - mkb
 keywords: ["helpdesk software", "beste helpdesk software", "helpdesk software vergelijking", "Zendesk vs Freshdesk", "klantenservice software MKB"]
 aliases:
   - /posts/beste-klantenservice-software-2026/

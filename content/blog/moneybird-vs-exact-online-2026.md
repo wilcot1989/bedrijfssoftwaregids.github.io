@@ -4,7 +4,10 @@ date: 2026-04-15
 lastmod: 2026-04-15
 description: "Moneybird vs Exact Online: eerlijke vergelijking op prijs, functies en gebruiksgemak. Ontdek welk boekhoudpakket bij jouw bedrijf past in 2026."
 categories: ["boekhouding"]
-tags: ["Boekhouding", "Moneybird", "Exact Online", "Vergelijking", "ZZP", "MKB"]
+tags:
+  - boekhouding
+  - mkb
+  - vergelijking
 keywords: ["moneybird vs exact online", "moneybird of exact", "moneybird exact vergelijking"]
 aliases:
   - /posts/moneybird-vs-exact-online-2026/

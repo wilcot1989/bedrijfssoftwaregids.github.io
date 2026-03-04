@@ -20,9 +20,7 @@ faq:
     a: "Niet altijd, maar onderschat ze niet. Voor een gemiddeld horecabedrijf kost een volledige installatie — inclusief netwerkinstellingen, printerdriver, artikellijst en BTW-tarieven — een halve tot volledige werkdag. Sommige aanbieders rekenen €200 tot €500 voor deze service. Goedkopere aanbieders laten je volledig zelf werken, wat prima is als je technisch vaardig bent maar problematisch als je midden in een drukke opstart zit."
 tags:
   - kassasysteem
-  - kosten
   - horeca
-  - retail
 ---
 
 De maandprijs die een kassasysteem adverteert is het makkelijkste deel van de kostenvergelijking. Wat ondernemers vaker verrast zijn de kosten die er later bijkomen: hardware, transactiefees, support, updates en afschrijvingen. Die kunnen de werkelijke jaarkosten twee tot drie keer zo hoog maken als de geadverteerde prijs.

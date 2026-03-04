@@ -4,7 +4,9 @@ date: 2026-02-27T10:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
 description: "De 5 beste urenregistratie tools van 2026 vergeleken. Clockify, Toggl Track, Harvest, TimeCamp en Gripp op prijs, functies en gemak."
 categories: ["productiviteit"]
-tags: ["urenregistratie", "timetracking", "Clockify", "Toggl Track", "productiviteit"]
+tags:
+  - productiviteit
+  - mkb
 keywords: ["urenregistratie software", "beste timetracking tool", "uren bijhouden", "urenregistratie gratis"]
 aliases:
   - /posts/beste-urenregistratie-software-2026/

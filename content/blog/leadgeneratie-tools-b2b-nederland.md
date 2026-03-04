@@ -22,9 +22,7 @@ faq:
     a: "Contentmarketing heeft op langere termijn doorgaans de hoogste ROI, omdat de investering een keer wordt gemaakt en de content maandenlang leads blijft genereren. LinkedIn-social selling heeft een hoge tijdsinvestering maar bouwt relaties op die moeilijk te repliceren zijn. Webinars scoren op leadkwaliteit: wie een uur investeert in een online sessie, heeft serieuze interesse. Koude e-mail heeft de laagste instapdrempel maar ook de hoogste uitval. Kies op basis van je beschikbare tijd en budget, niet op basis van wat anderen succesvol vinden."
 tags:
   - marketing
-  - leadgeneratie
   - b2b
-  - nederland
 ---
 
 B2B leadgeneratie in Nederland werkt anders dan in de VS of het VK. De Nederlandse zakelijke markt is kleiner, persoonlijker en minder tolerant voor agressieve outreach. Een koude belronde die in een groot land tienduizenden onbekende prospects bereikt, bereikt in Nederland al snel halve branches. Relaties en reputatie tellen hier zwaarder dan in grotere markten.

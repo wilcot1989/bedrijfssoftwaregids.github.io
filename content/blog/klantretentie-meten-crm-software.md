@@ -20,9 +20,6 @@ faq:
     a: "De belangrijkste churn-signalen zijn: afnemende aankoopfrequentie, dalend gebruik van je product of dienst, minder reactie op e-mails en communicatie, klachten die niet worden opgelost, en het niet verlengen van een contract of abonnement. Een goed CRM maakt deze signalen zichtbaar via dashboards en geautomatiseerde alerts zodat je op tijd kunt ingrijpen."
 tags:
   - crm
-  - klantretentie
-  - churn
-  - klanttevredenheid
   - b2b
 ---
 

@@ -4,7 +4,9 @@ date: 2026-03-29
 lastmod: 2026-03-29
 description: "De beste social media beheer tools van 2026 vergeleken. Hootsuite, Buffer, Sprout Social, Later en SocialBee op prijs, functies en gebruiksgemak."
 categories: ["marketing"]
-tags: ["social media beheer", "Hootsuite", "Buffer", "social media planning", "content scheduling"]
+tags:
+  - marketing
+  - mkb
 keywords: ["beste social media beheer tool", "social media planning software", "Hootsuite vs Buffer", "social media beheer tools MKB"]
 aliases:
   - /posts/beste-social-media-management-2026/

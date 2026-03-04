@@ -10,6 +10,20 @@ featured_image: "images/categories/hr-software.svg"
 tags:
   - hr-software
   - sector
+
+faq:
+  - q: "Welke HR software is het beste voor bouwbedrijven in Nederland?"
+    a: "Voor aannemers met vijftien of meer medewerkers en een eigen projectadministratie is AFAS de sterkste keuze: de koppeling tussen projecturen en salarisadministratie elimineert dubbele invoer. Kleinere aannemers met een vaste accountant kiezen voor Nmbrs. Kleine bouwbedrijven die salarisadministratie willen professionaliseren, vinden in Loket.nl een betaalbaar startpunt."
+  - q: "Wat kost HR software voor een bouwbedrijf?"
+    a: "Loket.nl kost EUR 12 per medewerker per maand. Nmbrs kost EUR 3 per medewerker per maand via een accountant; directe licenties zijn op aanvraag. AFAS wordt op aanvraag geprijsd, typisch EUR 75 tot EUR 150 per gebruiker per maand afhankelijk van de modules."
+  - q: "Ondersteunt de HR software de CAO Bouw & Infra?"
+    a: "Ja, alle drie de systemen ondersteunen de CAO Bouw & Infra. AFAS verwerkt reiskosten, vorstverlet en sectorspecifieke toeslagen volledig automatisch. Nmbrs ondersteunt de CAO via de accountant. Loket.nl heeft volledige CAO Bouw & Infra-ondersteuning inclusief verlofregistratie en toeslagberekeningen."
+  - q: "Hoe registreer ik VCA-certificaten van medewerkers in HR software?"
+    a: "Alleen AFAS biedt standaard een VCA-certificatenregistratie met automatische meldingen wanneer certificaten dreigen te verlopen. Bij Nmbrs en Loket.nl moet je VCA-registratie handmatig bijhouden, bijvoorbeeld in een spreadsheet of via een externe oplossing. In de bouw is dit een wettelijke vereiste die aanzienlijke risico's met zich meebrengt als het niet goed wordt bijgehouden."
+  - q: "Kunnen medewerkers hun uren registreren via een app op de bouwplaats?"
+    a: "Ja, AFAS, Nmbrs en Loket.nl hebben alle drie een mobiele app waarmee medewerkers uren kunnen invoeren. AFAS koppelt de ureninvoer direct aan projecten en kostensoorten voor projectverantwoording. Nmbrs en Loket.nl registreren uren voor salarisverwerking maar hebben geen directe projectkoppeling."
+  - q: "Hoe verwerk ik onderaannemers en ZZP'ers in mijn HR systeem?"
+    a: "AFAS heeft specifieke functionaliteit voor het beheren van onderaannemers: contracten, facturen en urenverantwoording in hetzelfde systeem. Bij Loket.nl en Nmbrs beheer je alleen eigen medewerkers; voor onderaannemers en zzp'ers gebruik je een apart systeem of handmatige registratie."
 ---
 
 {{< sector-cta-hr >}}

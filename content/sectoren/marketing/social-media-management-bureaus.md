@@ -10,6 +10,20 @@ featured_image: "images/categories/marketing.svg"
 tags:
   - marketing
   - sector
+
+faq:
+  - q: "Welke social media management tool is het beste voor een marketingbureau?"
+    a: "Hootsuite is de beste keuze voor bureaus met meer dan vijf klanten en een rapportageverplichting: white-label PDF-rapportages, goedkeuringsflows en multi-account beheer zijn allemaal ingebouwd. Kleine bureaus en freelance social media managers kiezen voor Buffer vanwege de lage prijs per kanaal. Bureaus die data en strategie als kernproduct verkopen, investeren in Sprout Social voor de uitgebreide analysetools."
+  - q: "Wat kost social media management software voor een bureau?"
+    a: "Buffer kost EUR 6 per kanaal per maand (Team-plan EUR 12 per kanaal). Hootsuite Professional kost EUR 49 per maand voor één gebruiker en tien accounts. Sprout Social Standard kost USD 89 per gebruiker per maand. Voor een bureau met tien klantaccounts is Buffer (tien kanalen Team-plan) EUR 120 per maand; Hootsuite Team is EUR 129 per maand."
+  - q: "Hoe laat ik klanten content goedkeuren voor publicatie via mijn social media tool?"
+    a: "Hootsuite heeft een volledig ingebouwde goedkeuringsworkflow waarbij je concept-posts ter review stuurt aan klanten of interne teamleden voordat ze gepubliceerd worden. Sprout Social heeft vergelijkbare goedkeuringsflows. Buffer heeft beperktere goedkeuringsopties; je kunt content delen via een preview-link maar klanten kunnen niet direct goedkeuren in het systeem."
+  - q: "Kan ik white-label rapportages maken voor mijn klanten?"
+    a: "Hootsuite en Sprout Social ondersteunen white-label rapportages die je in huisstijl van je bureau of je klant kunt exporteren als PDF. Buffer heeft geen white-label rapportageoptie. Als maandelijkse professionele rapportages een onderdeel zijn van je dienstverlening, zijn Hootsuite of Sprout Social de betere keuze."
+  - q: "Hoeveel klantaccounts kan ik beheren in één social media tool?"
+    a: "Hootsuite Professional ondersteunt tien accounts voor één gebruiker. Het Team-plan biedt twintig accounts voor drie gebruikers. Buffer is flexibeler: je betaalt per kanaal en voegt accounts toe naargelang je klantenportefeuille groeit. Sprout Social heeft geen harde limiet op het aantal accounts in de hogere plannen."
+  - q: "Wat is het verschil tussen Hootsuite en Sprout Social voor bureaus?"
+    a: "Hootsuite is breder in account-coverage en meer gericht op efficiënte inplanning en goedkeuringsflows voor bureaus met veel klanten. Sprout Social heeft de diepere analysetools, social listening en ingebouwde social CRM. Hootsuite is doorgaans voordeliger voor bureaus die veel accounts beheren; Sprout Social is de betere keuze als data en strategie-advies je kernproduct zijn."
 ---
 
 {{< sector-cta-marketing >}}

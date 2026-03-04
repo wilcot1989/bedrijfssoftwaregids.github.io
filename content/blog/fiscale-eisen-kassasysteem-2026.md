@@ -20,10 +20,7 @@ faq:
     a: "Nee. In Nederland bestaat geen verplichte overheidscertificering voor kassasystemen, anders dan in Duitsland (TSE) of Italië (RT). Elk kassasysteem dat technisch voldoet aan de bewaarplicht en BTW-registratie is in principe geschikt. De verantwoordelijkheid voor correcte inrichting en gebruik ligt bij de ondernemer, niet bij een goedkeurende instantie. Dat maakt het ook lastiger: je kunt niet simpelweg een gecertificeerd systeem aanschaffen en klaar zijn — je moet zelf controleren of de configuratie klopt."
 tags:
   - kassasysteem
-  - fiscaal
-  - belastingdienst
-  - btw
-  - bewaarplicht
+  - mkb
 ---
 
 Vorig jaar deed een klant van mij mee aan een boekenonderzoek van de Belastingdienst. Niets bijzonders, dacht hij. Zijn omzet was netjes aangegeven, de BTW-aangiften waren op tijd ingediend. Maar de inspecteur vroeg om de ruwe transactielogs van zijn kassasysteem over de afgelopen drie jaar.

@@ -10,8 +10,7 @@ categories:
   - Blog
   - hr-software
 tags:
-  - hr
-  - urenregistratie
+  - hr-software
   - projectmanagement
   - mkb
 faq:

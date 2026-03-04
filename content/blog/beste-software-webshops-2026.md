@@ -4,7 +4,9 @@ date: 2026-04-26
 lastmod: 2026-04-26
 description: "Welke software heb je nodig voor een webshop? Compleet overzicht: platform, betaalprovider, verzending, marketing en boekhouding. Met kosten per budget."
 categories: ["webshops"]
-tags: ["webshop starten", "e-commerce stack", "online verkopen", "webshop tools"]
+tags:
+  - webshop
+  - mkb
 featured_image: "/images/posts/beste-software-webshops-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

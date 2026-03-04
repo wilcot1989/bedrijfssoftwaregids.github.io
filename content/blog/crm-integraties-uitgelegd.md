@@ -20,9 +20,7 @@ faq:
     a: "Controleer na de eerste twee weken een steekproef van twintig contacten en verifieer of de gesynchroniseerde data klopt. Let op synchronisatiesnelheid (real-time of met vertraging), de richting van de koppeling (bidirectioneel of eenrichtingsverkeer) en de foutafhandeling (krijg je een melding als de synchronisatie mislukt?). Een integratie die regelmatig fouten maakt, is in sommige gevallen schadelijker dan geen integratie, omdat het vertrouwen in het hele systeem ondermijnt."
 tags:
   - crm
-  - integraties
-  - koppelingen
-  - saas
+  - mkb
 ---
 
 Een CRM-systeem dat niet communiceert met de rest van je softwarestack is een eiland. Data stroomt niet door, medewerkers voeren gegevens dubbel in en rapporten geven een onvolledig beeld van de werkelijkheid. De waarde van een CRM zit niet alleen in het systeem zelf maar in de verbindingen die het legt met de tools die je dagelijks gebruikt.

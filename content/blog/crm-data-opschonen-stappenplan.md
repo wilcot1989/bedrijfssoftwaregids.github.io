@@ -20,9 +20,6 @@ faq:
     a: "Volgens onderzoek van Gartner kost slechte datakwaliteit organisaties gemiddeld 12,9 miljoen dollar per jaar. Voor een Nederlands MKB-bedrijf vertaalt dit zich in verloren deals door verkeerde contactgegevens, verspilde marketingbudgetten op ongeldige e-mailadressen, en uren die medewerkers besteden aan het handmatig corrigeren van fouten in plaats van verkopen."
 tags:
   - crm
-  - data
-  - datakwaliteit
-  - opschonen
   - mkb
 ---
 

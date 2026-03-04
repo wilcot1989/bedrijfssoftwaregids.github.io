@@ -8,8 +8,22 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "images/categories/kassasystemen.svg"
 
 tags:
-  - kassasystemen
+  - kassasysteem
   - sector
+
+faq:
+  - q: "Welk kassasysteem is het beste voor een retailwinkel?"
+    a: "Lightspeed Retail is de beste keuze voor groeiende winkels met een uitgebreid assortiment, meerdere medewerkers of een webshop. Startende winkels met een beperkt assortiment en budget beginnen het beste met Square gratis. Pop-upwinkels, marktkramen en kleine winkels zonder uitgebreid voorraadbeheer kiezen voor Zettle."
+  - q: "Wat kost een kassasysteem voor een retailwinkel per maand?"
+    a: "Square en Zettle zijn gratis als software; je betaalt 1,75% transactiekosten per betaling. Lightspeed Retail kost EUR 59 per maand voor het Basic-plan plus hardwarekosten. Bij een omzet van EUR 15.000 per maand kost 1,75% transactiekosten EUR 263; een Lightspeed-abonnement van EUR 59 is dan EUR 204 goedkoper."
+  - q: "Kan ik mijn webshop koppelen aan mijn kassasysteem?"
+    a: "Lightspeed Retail heeft de sterkste webshop-integratie: native koppeling met Shopify, WooCommerce en Lightspeed eCom synchroniseert voorraad real-time. Square heeft een gratis online winkeloptie inbegrepen. Zettle heeft geen webshop-integratie en is daardoor minder geschikt voor omnichannel retailers."
+  - q: "Hoe werkt voorraadbeheer in een kassasysteem voor retail?"
+    a: "Lightspeed Retail heeft het meest uitgebreide voorraadbeheer: varianten op maat en kleur, automatische nabestellingen bij minimum voorraad en leveranciersbeheer. Square biedt basaal voorraadbeheer voor assortimenten tot circa 500 artikelen. Zettle heeft minimale voorraadfunctionaliteit zonder automatische nabestelling."
+  - q: "Kan ik meerdere winkels beheren in één kassasysteem?"
+    a: "Lightspeed Retail ondersteunt meerdere locaties in één omgeving: gecentraliseerde voorraad, rapportages per vestiging en één productcatalogus voor alle filialen. Square ondersteunt meerdere locaties in het Retail Plus-plan voor EUR 69 per maand per locatie. Zettle is puur gericht op enkelvoudige locaties."
+  - q: "Hoe verwerk ik meerdere BTW-tarieven in mijn kassasysteem?"
+    a: "Alle drie de systemen ondersteunen meerdere BTW-tarieven (21%, 9% en 0%). In Lightspeed Retail stel je per productcategorie het juiste BTW-tarief in en worden omzetrapportages per BTW-tarief gesplitst voor de BTW-aangifte. Square en Zettle ondersteunen dit ook, maar de rapportage-export is minder gedetailleerd."
 ---
 
 {{< sector-cta-kassasystemen >}}

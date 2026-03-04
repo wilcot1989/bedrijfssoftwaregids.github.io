@@ -4,7 +4,10 @@ date: 2026-02-27T08:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
 description: "Ontdek de beste webshop software voor Nederland in 2026. Vergelijk Shopify, WooCommerce, Lightspeed, Magento, BigCommerce, CCV Shop en Acendy op prijs en functies."
 categories: ["webshops"]
-tags: ["webshop software", "webshop vergelijking", "shopify", "woocommerce", "lightspeed", "ecommerce", "online verkopen"]
+tags:
+  - webshop
+  - mkb
+  - vergelijking
 keywords: ["beste webshop software", "shopify vs woocommerce", "webshop beginnen", "webshop software vergelijken", "beste ecommerce platform nederland"]
 aliases:
   - /posts/beste-webshop-software-2026/

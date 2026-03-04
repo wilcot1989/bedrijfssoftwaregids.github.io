@@ -4,7 +4,10 @@ date: 2026-04-11
 lastmod: 2026-04-11
 description: "Eerlijke Mollie review 2026: transactiekosten per betaalmethode, dashboard, integraties en ervaringen. Ontdek of Mollie past bij jouw webshop of platform."
 categories: ["webshops"]
-tags: ["Betalen", "Mollie", "Webshop", "iDEAL", "MKB", "Review"]
+tags:
+  - webshop
+  - mkb
+  - review
 keywords: ["mollie review", "mollie ervaringen", "mollie kosten", "mollie betaalprovider"]
 aliases:
   - /posts/mollie-review-2026/

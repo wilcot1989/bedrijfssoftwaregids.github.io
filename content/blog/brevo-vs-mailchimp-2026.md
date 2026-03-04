@@ -4,7 +4,9 @@ date: 2026-04-30
 lastmod: 2026-04-30
 description: "Brevo vs Mailchimp eerlijk vergeleken op prijs, functies, deliverability en gebruiksgemak. Ontdek welke email marketing tool het beste past bij jouw bedrijf in 2026 — met actuele prijzen en review scores."
 categories: ["marketing"]
-tags: ["brevo", "mailchimp", "email marketing", "nieuwsbrief", "vergelijking"]
+tags:
+  - marketing
+  - vergelijking
 featured_image: "/images/posts/brevo-vs-mailchimp-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

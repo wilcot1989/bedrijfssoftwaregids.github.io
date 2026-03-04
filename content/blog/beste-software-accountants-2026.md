@@ -4,7 +4,9 @@ date: 2026-04-23
 lastmod: 2026-04-23
 description: "De beste accountantssoftware van 2026 vergeleken: Exact Online, Twinfield, Minox, Yuki en Visma eAccounting. Met prijzen, functies, voor- en nadelen voor samenstelpraktijken."
 categories: ["boekhouding"]
-tags: ["accountantssoftware", "boekhouden", "samenstelpraktijk", "accountancy"]
+tags:
+  - boekhouding
+  - mkb
 featured_image: "/images/posts/beste-software-accountants-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

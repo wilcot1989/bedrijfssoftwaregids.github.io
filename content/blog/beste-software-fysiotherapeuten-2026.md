@@ -4,7 +4,9 @@ date: 2026-04-21
 lastmod: 2026-04-21
 description: "Vergelijk de 5 beste fysiotherapie software pakketten van 2026. Van EPD en agenda tot declaraties en oefenprogramma's — inclusief prijzen, voor- en nadelen."
 categories: ["productiviteit"]
-tags: ["fysiotherapie software", "EPD", "praktijkbeheer", "declaratie", "zorgverleners"]
+tags:
+  - productiviteit
+  - mkb
 featured_image: "/images/posts/beste-software-fysiotherapeuten-2026.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."

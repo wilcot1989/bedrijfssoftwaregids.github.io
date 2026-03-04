@@ -4,7 +4,10 @@ date: 2026-04-14
 lastmod: 2026-04-14
 description: "Pipedrive vs Monday CRM: eerlijke vergelijking op prijs, functies en gebruiksgemak. Ontdek welke CRM bij jouw team past — met scores en echte kosten."
 categories: ["crm"]
-tags: ["CRM", "Pipedrive", "Monday.com", "Vergelijking", "MKB"]
+tags:
+  - crm
+  - mkb
+  - vergelijking
 keywords: ["pipedrive vs monday", "pipedrive vs monday crm", "pipedrive of monday"]
 aliases:
   - /posts/pipedrive-vs-monday-crm-2026/

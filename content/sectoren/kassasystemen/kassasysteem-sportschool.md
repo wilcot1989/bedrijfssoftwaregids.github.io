@@ -8,8 +8,22 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "images/categories/kassasystemen.svg"
 
 tags:
-  - kassasystemen
+  - kassasysteem
   - sector
+
+faq:
+  - q: "Welk kassasysteem is het beste voor een sportschool of gym?"
+    a: "Square is de beste allrounder voor sportscholen: gratis software, cadeaubonnen, medewerker-omzetregistratie en een basisafsprakenbeheer via Square Appointments. Kleine yoga-studio's en personal trainers kiezen voor Zettle vanwege de minimale investering. Sportscholen met een grote winkel voor supplementen en sportkleding kiezen voor Lightspeed Retail vanwege het uitgebreide voorraadbeheer."
+  - q: "Kan ik abonnementen beheren via een kassasysteem voor een sportschool?"
+    a: "Nee, een kassasysteem beheert losse verkopen aan de balie, geen terugkerende abonnementen. Voor ledenadministratie en automatische abonnementsincasso heb je specifieke ledensoftware nodig zoals Magicline, PerfectGym of SportMember. Het kassasysteem koppel je hier naast als aparte baliefunctie voor dranken, supplementen en dagpassen."
+  - q: "Wat kost een kassasysteem voor een sportschool per maand?"
+    a: "Square en Zettle zijn gratis als software; je betaalt 1,75% transactiekosten per betaling. Bij een bar-omzet van EUR 8.000 per maand kost dat EUR 140 aan transactiekosten. Lightspeed Retail kost EUR 59 per maand vaste prijs. De Square Stand voor professionele balieopstelling kost EUR 129 eenmalig."
+  - q: "Hoe verkoop ik dagpassen aan bezoekers via het kassasysteem?"
+    a: "In Square registreer je een dagpas als product en verwerk je de betaling direct via de balie-iPad. Je kunt dagpassen ook aanbieden als online product via Square Online. Zettle ondersteunt ook losse dagpas-verkopen. Lightspeed Retail heeft uitgebreidere productcategorisering voor meerdere soorten dagpassen en proefpassen."
+  - q: "Kan ik de omzet van trainers en instructeurs bijhouden in het kassasysteem?"
+    a: "Square registreert welke medewerker elke transactie heeft uitgevoerd en toont omzet per medewerker in de rapportages. Lightspeed Retail heeft de meest uitgebreide medewerker-omzetrapportages per dag en productcategorie. Zettle heeft geen medewerker-omzetregistratie."
+  - q: "Werkt een kassasysteem voor een sportschool ook buiten de balie, zoals bij outdoor-trainingen?"
+    a: "Zettle werkt het beste mobiel: de reader past in je zak en werkt op 4G van je telefoon zonder vaste opstelling. Square is ook mobiel bruikbaar met een reader, maar de Square Stand is ontworpen voor vaste balie-opstelling. Lightspeed Retail is primair een vaste kassaoplossing."
 ---
 
 {{< sector-cta-kassasystemen >}}

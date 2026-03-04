@@ -4,7 +4,9 @@ date: 2026-02-27T10:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
 description: "De beste chatbot software van 2026 vergeleken. AI-chatbots voor klantenservice, leadgeneratie en verkoop. Intercom, Drift, Tidio, Zendesk en ChatBot vergeleken."
 categories: ["marketing"]
-tags: ["chatbot", "AI chatbot", "klantenservice", "livechat", "conversational AI"]
+tags:
+  - marketing
+  - mkb
 keywords: ["beste chatbot software", "AI chatbot bedrijf", "chatbot klantenservice", "chatbot vergelijking 2026"]
 aliases:
   - /posts/beste-chatbot-software-2026/

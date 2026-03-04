@@ -4,7 +4,9 @@ date: 2026-03-02
 lastmod: 2026-03-02
 description: "Beste factuurprogramma voor MKB in 2026. Vergelijk Moneybird, Exact Online, e-Boekhouden en meer op prijs, functies en e-facturatie."
 categories: ["boekhouding"]
-tags: ["factuurprogramma", "facturatieprogramma", "mkb software", "boekhouding", "btw-aangifte", "e-facturatie"]
+tags:
+  - boekhouding
+  - mkb
 keywords: ["beste factuurprogramma mkb", "facturatieprogramma mkb", "factuurprogramma vergelijken", "beste factuurprogramma 2026", "online factureren mkb"]
 aliases:
   - /posts/beste-facturatie-software-mkb-2026/

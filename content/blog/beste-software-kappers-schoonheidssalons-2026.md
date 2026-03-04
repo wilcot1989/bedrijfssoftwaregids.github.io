@@ -4,7 +4,9 @@ date: 2026-03-04
 lastmod: 2026-03-04
 description: "De beste kapsalon software van 2026: vergelijk Salonkee, Treatwell Pro, Phorest, Planfy, SimplyBook.me en Salonized op functies en prijs."
 categories: ["kassasystemen"]
-tags: ["salon software", "kapper software", "boekingssysteem", "schoonheidssalon", "online afspraken", "kassasysteem salon"]
+tags:
+  - productiviteit
+  - mkb
 keywords: ["kapsalon software", "salon software", "boekingssysteem kapsalon", "kapper software 2026", "schoonheidssalon software", "software kapsalon"]
 aliases:
   - /posts/beste-software-kappers-schoonheidssalons-2026/

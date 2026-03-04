@@ -4,7 +4,10 @@ date: 2026-04-05
 lastmod: 2026-04-05
 description: "Eerlijke HubSpot CRM review na jarenlang testen. Ontdek functies, prijzen, voor- en nadelen voor het Nederlandse MKB. Met Trustpilot- en G2-scores."
 categories: ["crm"]
-tags: ["CRM", "HubSpot", "Sales", "Marketing", "MKB", "Review"]
+tags:
+  - crm
+  - mkb
+  - review
 keywords: ["hubspot crm review", "hubspot review nederland", "hubspot ervaringen"]
 aliases:
   - /posts/hubspot-crm-review-2026/

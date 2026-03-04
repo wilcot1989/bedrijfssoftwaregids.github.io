@@ -20,10 +20,7 @@ faq:
     a: "Voor een ZZP'er of eenmanszaak met een eenvoudige administratie kan de migratie in een dag klaar zijn. Voor een BV met meerdere bankrekeningen, openstaande facturen en complexe BTW-situaties moet je rekenen op een tot twee weken. Plan altijd een parallel-periode van minimaal één maand waarin je beide systemen naast elkaar draait om fouten op te sporen."
 tags:
   - boekhouding
-  - migratie
-  - overstappen
-  - data
-  - boekhoudprogramma
+  - mkb
 ---
 
 Een tijdje terug sprak ik een ondernemer — eigenaar van een klein installatiebedrijf met vier medewerkers — die drie maanden aan factuurhistorie kwijt was. Niet door een hack, niet door een servercrash, maar door een migratie die misliep.

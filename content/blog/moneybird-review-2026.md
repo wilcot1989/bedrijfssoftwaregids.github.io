@@ -4,7 +4,10 @@ date: 2026-04-04
 lastmod: 2026-04-04
 description: "Moneybird review 2026: prijzen, functies, voor- en nadelen na 4 weken testen. Ontdek of dit boekhoudpakket bij jouw bedrijf past."
 categories: ["boekhouding"]
-tags: ["moneybird", "boekhoudsoftware", "moneybird review", "boekhouden zzp", "btw-aangifte", "facturatie software", "online boekhouden"]
+tags:
+  - boekhouding
+  - zzp
+  - review
 keywords: ["moneybird review", "moneybird ervaringen", "moneybird kosten", "moneybird review 2026", "moneybird boekhoudsoftware"]
 aliases:
   - /posts/moneybird-review-2026/

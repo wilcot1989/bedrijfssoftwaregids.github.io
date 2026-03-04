@@ -22,9 +22,7 @@ faq:
     a: "Dat verschilt per pakket. Moneybird heeft een ingebouwde tijdregistratiefunctie waarmee je uren per project bijhoudt en direct doorvertaalt naar een factuur. Exact Online biedt dit in hogere abonnementsvormen. Jortt en e-Boekhouden zijn sterker in de basisboekhouding maar minder uitgebreid op projectbeheer. Controleer dit punt expliciet als urenregistratie per klant een vereiste is."
 tags:
   - boekhouding
-  - factureren
   - zzp
-  - freelancers
 ---
 
 Veel kleine ondernemers beginnen met twee losse systemen: een facturatieprogramma voor het versturen van rekeningen en een apart systeem -- of een accountant -- voor de boekhouding. Dat levert dubbele invoer op. Elke factuur die je verstuurt, moet je ook nog eens verwerken in de administratie. Dat kost tijd, vergroot de kans op fouten en maakt de BTW-aangifte ingewikkelder dan nodig.

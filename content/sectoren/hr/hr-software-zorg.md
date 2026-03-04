@@ -10,6 +10,20 @@ featured_image: "images/categories/hr-software.svg"
 tags:
   - hr-software
   - sector
+
+faq:
+  - q: "Welke HR software is het beste voor zorgorganisaties in Nederland?"
+    a: "Voor grotere zorgorganisaties met complexe dienstroostering is Visma Raet de sterkste keuze dankzij de directe koppeling tussen roosterplanning en payroll. Zorgorganisaties die ook HR en financiën willen integreren kiezen voor AFAS non-profit. Kleine zorgpraktijken en zorgboerderijen tot twintig medewerkers vinden in Loket.nl een betaalbaar en compleet genoeg startpunt."
+  - q: "Wat kost HR software voor een zorgorganisatie?"
+    a: "Loket.nl kost EUR 12 per medewerker per maand. AFAS non-profit en Visma Raet worden op aanvraag geprijsd; AFAS rekent typisch EUR 80 tot EUR 160 per gebruiker per maand en Visma Raet is vergelijkbaar geprijsd voor grotere organisaties. Implementatiekosten zijn voor beide systemen significant."
+  - q: "Ondersteunt de HR software de CAO Zorg & Welzijn?"
+    a: "Ja, alle drie de systemen ondersteunen de CAO Zorg & Welzijn. AFAS non-profit en Visma Raet verwerken ORT (onregelmatigheidstoeslag), periodiekstijgingen en alle functiegroepen volledig automatisch. Loket.nl ondersteunt de CAO Zorg & Welzijn inclusief ORT, maar heeft geen geavanceerde roosterintegratie voor automatische ORT-berekening."
+  - q: "Hoe koppel ik het BIG-register aan mijn HR systeem?"
+    a: "AFAS heeft een directe koppeling met het BIG-register waarbij de geldigheid van bevoegdheden automatisch wordt gecontroleerd en een signaal wordt gestuurd bij nadering van de verloopdatum. Visma Raet biedt vergelijkbare BIG-registerfunctionaliteit. Loket.nl heeft geen BIG-registerkoppeling; dit moet handmatig worden bijgehouden."
+  - q: "Hoe verwerk ik hoog ziekteverzuim als zorgorganisatie in HR software?"
+    a: "AFAS en Visma Raet hebben uitgebreide verzuimmanagementmodules inclusief poortwachterondersteuning: automatische meldingen, re-integratietrajecten en rapportages voor de Arbodienst. Loket.nl heeft basale verzuimregistratie maar mist de geavanceerde poortwachterondersteuning die grotere zorgorganisaties nodig hebben."
+  - q: "Hoe plan ik ploegendiensten en nachtdiensten in HR software voor de zorg?"
+    a: "Visma Raet heeft de sterkste roosterplanningsfunctionaliteit voor de zorg: ploegendiensten, nachtdiensten en weekenddiensten worden direct gekoppeld aan de payroll voor correcte ORT-berekening. AFAS heeft ook roosterplanning als onderdeel van de HR-module. Loket.nl heeft geen roosterplanningsfunctionaliteit en vereist een aparte planningsoplossing."
 ---
 
 {{< sector-cta-hr >}}

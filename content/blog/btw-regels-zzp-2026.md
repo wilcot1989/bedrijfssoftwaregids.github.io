@@ -20,10 +20,7 @@ faq:
     a: "Bij diensten aan zakelijke klanten binnen de EU geldt de verleggingsregeling: je factureert zonder BTW en de klant draagt de BTW af in zijn eigen land. Je moet dan wel een Opgaaf Intracommunautaire Prestaties (ICP) indienen bij de Belastingdienst. Controleer altijd het BTW-nummer van je klant via het VIES-systeem van de EU. Bij diensten aan particulieren in de EU gelden andere regels afhankelijk van het type dienst."
 tags:
   - boekhouding
-  - btw
   - zzp
-  - belastingdienst
-  - kor
 ---
 
 Vorig jaar sprak ik een grafisch ontwerper die al drie jaar als ZZP'er werkte. Prima inkomen, trouwe klanten, nette administratie — dacht hij. Totdat bleek dat hij de kleineondernemersregeling nooit had aangevraagd terwijl hij er volledig voor in aanmerking kwam. In die drie jaar had hij meer dan €3.200 aan BTW afgedragen die hij gewoon had mogen houden. Geen boete, geen fout — puur onwetendheid.

@@ -10,6 +10,20 @@ featured_image: "images/categories/boekhouding.svg"
 tags:
   - boekhouding
   - sector
+
+faq:
+  - q: "Wat is de beste boekhoudsoftware voor ZZP'ers in 2026?"
+    a: "Moneybird is de beste allrounder voor ZZP'ers die zelf hun boekhouding bijhouden: overzichtelijke interface, directe bankkoppeling en BTW-aangifte rechtstreeks naar de Belastingdienst. Jortt is de eenvoudigste optie voor minimale administratie. e-Boekhouden.nl is de beste keuze als je een externe boekhouder hebt die het systeem al kent."
+  - q: "Wat kost boekhoudsoftware voor een ZZP'er per maand?"
+    a: "Jortt is de goedkoopste optie vanaf EUR 8 per maand. e-Boekhouden.nl kost EUR 8,95 per maand voor de Starter-versie. Moneybird Small kost EUR 12 per maand en het Medium-plan EUR 24 per maand. Alle drie bieden een gratis proefperiode aan."
+  - q: "Kan ik als ZZP'er zelf mijn BTW-aangifte doen via boekhoudsoftware?"
+    a: "Ja. Moneybird dient de BTW-aangifte rechtstreeks in via een koppeling met de Belastingdienst. Jortt berekent de BTW automatisch op basis van je transacties en zorgt ervoor dat je aangifte altijd klaarstaat. Bij e-Boekhouden.nl bereid je de aangifte voor in het systeem en dien je die in via de Belastingdienstportaal."
+  - q: "Welke boekhoudsoftware koppelt met mijn bank als ZZP'er?"
+    a: "Moneybird heeft directe bankkoppelingen met ING, Rabobank, ABN AMRO, Bunq en vrijwel alle andere Nederlandse banken. Jortt biedt ook directe bankkoppelingen voor de grote banken. e-Boekhouden.nl ondersteunt bankimport via MT940-formaat of directe koppeling, afhankelijk van je bank."
+  - q: "Heb ik als ZZP'er een boekhouder nodig naast mijn boekhoudsoftware?"
+    a: "Niet verplicht voor de dagelijkse administratie en BTW-aangifte. Veel ZZP'ers doen dat zelf via Moneybird of Jortt. Voor de jaarlijkse aangifte inkomstenbelasting is een boekhouder aan te raden, zeker als je ook de zelfstandigenaftrek en MKB-winstvrijstelling correct wilt verwerken."
+  - q: "Heeft boekhoudsoftware voor ZZP ook een mobiele app?"
+    a: "Ja. Moneybird heeft een volledige mobiele app waarmee je bonnetjes kunt scannen en facturen versturen. Jortt heeft ook een app met de kernfuncties. e-Boekhouden.nl heeft een beperktere mobiele ervaring; de interface is primair voor desktop ontworpen."
 ---
 
 {{< sector-cta-boekhouding >}}

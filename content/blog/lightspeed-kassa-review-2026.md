@@ -4,7 +4,10 @@ date: 2026-04-08
 lastmod: 2026-04-08
 description: "Mijn eerlijke Lightspeed review na 3 jaar testen. Lees over prijzen, functies, bezorgkoppelingen en nadelen. Ontdek of het bij jouw zaak past."
 categories: ["kassasystemen"]
-tags: ["Kassasysteem", "Lightspeed", "Horeca", "Retail", "POS", "Review"]
+tags:
+  - kassasysteem
+  - horeca
+  - review
 keywords: ["lightspeed review", "lightspeed kassasysteem review", "lightspeed ervaringen"]
 aliases:
   - /posts/lightspeed-kassa-review-2026/
