@@ -32,7 +32,7 @@ faq:
 Een klant van mij vertelde me laatst dat ze hun beste kandidaat waren kwijtgeraakt omdat zijn sollicitatie drie weken onbeantwoord in een gedeelde mailbox lag. Dat soort verhalen hoor ik vaker dan je zou denken. ATS-software (recruitment software) voorkomt dat je talent mist door chaos in je wervingsproces. Dit zijn de 5 ATS-software oplossingen die ik aanbeveel.
 
 
-Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking](/blog/beste-hr-software-nederland-2026/).
+Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking](/blog/beste-hr-software-nederland-2026/). Of vergeet niet te kijken naar de [beste loonadministratie software](/blog/beste-loonadministratie-software-2026/) om de salarissen van je nieuwe medewerkers goed te verwerken. Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een snel persoonlijk advies.
 
 ## Snelle vergelijking
 
@@ -96,7 +96,7 @@ Homerun adviseer ik aan startups en creatieve bedrijven die weinig budget hebben
 
 ## 3. Personio — HR + Recruitment in één
 
-Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces naadloos wilt laten aansluiten op de werving.
+Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces naadloos wilt laten aansluiten op de werving. Heb je nog maar net je eerste medewerker aangenomen? Lees dan ook [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor de wettelijke verplichtingen die meteen spelen.
 
 ### Belangrijkste functies
 - **ATS** — Pipeline, multiposting, evaluaties
@@ -156,6 +156,8 @@ Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk d
 
 Voor de meeste Nederlandse MKB-bedrijven is **Recruitee** de beste keuze: Nederlands, intuïtief en met de juiste balans tussen functies en prijs. **Homerun** is ideaal als je mooi wilt beginnen met een kleiner budget. Groei je uit je ATS-software? Dan is **Greenhouse** de logische volgende stap.
 
+Wil je ook de bijbehorende HR-kosten doorrekenen? Gebruik de [HR software kostencalculator](/tools/hr-software/kosten-berekenen/) voor een eerlijk beeld. En bekijk de [volledige HR software vergelijking](/categories/hr-software/) voor een overzicht van alle relevante tools.
+
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**.
 
@@ -163,6 +165,7 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/
 
 - **[Beste HR Software 2026](/blog/beste-hr-software-nederland-2026/)** — Na de aanname
 - **[Beste Salarisadministratie Software MKB 2026](/blog/beste-loonadministratie-software-2026/)** — Salarisverwerking
+- **[HR Software bij je Eerste Werknemer](/blog/hr-software-bij-eerste-werknemer/)** — Verplichtingen als nieuwe werkgever
 - **[Salesforce vs HubSpot 2026](/blog/salesforce-vs-hubspot-2026/)** — CRM voor je bedrijf
 - **[Beste Urenregistratie Software 2026](/blog/beste-urenregistratie-software-2026/)** — Uren bijhouden
 

@@ -152,4 +152,4 @@ En als je merkt dat je huidige CRM het lastig maakt om data schoon te houden —
 
 ---
 
-Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) om een systeem te vinden met goede data-management tools.
+Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) om een systeem te vinden met goede data-management tools. Of bekijk het [volledige CRM-overzicht](/categories/crm/) met alle vergelijkingen en reviews op een rij.

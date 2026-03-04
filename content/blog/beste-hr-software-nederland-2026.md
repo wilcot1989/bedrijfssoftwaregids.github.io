@@ -49,6 +49,25 @@ Zodra een bedrijf boven de 15 medewerkers groeit, zie ik steevast hetzelfde: ver
 
 Personio is het platform dat ik het vaakst aanbeveel aan groeiende MKB-bedrijven. De reden: het dekt alles af van werving tot offboarding in een interface die mensen daadwerkelijk snappen. Ik heb het ingezet bij een bedrijf van 45 man waar de HR-manager voorheen halve dagen kwijt was aan Excel. Na twee weken Personio was ze om. Het schaalt mee van 20 tot 500 medewerkers zonder dat je hoeft over te stappen.
 
+**Personio in de praktijk: wat ik echt zie bij klanten.** Een marketingbureau van 38 medewerkers dat ik begeleid had drie problemen: verlofaanvragen per WhatsApp, onboarding via losse e-mails, en performance-gesprekken die half werden bijgehouden in een gedeeld Google Doc. Na Personio: verlof digitaal aangevraagd en goedgekeurd, nieuwe medewerkers krijgen automatisch een checklist met alles wat ze moeten doen voor dag 1, en elk functioneringsgesprek is traceerbaar.
+
+Wat me opviel: medewerkers gebruikten het systeem daadwerkelijk. Dat is zeldzamer dan je denkt bij HR-software. Personio heeft een medewerkersapp die acceptabel is — geen Instagram, maar ook geen uit 2010 gestamde interface.
+
+Eerlijk nadeel: de salarismodule is een add-on. Wil je ook loonadministratie in Personio, dan betaal je extra. Voor veel kleinere bedrijven is dat te duur, en ze combineren Personio dan met Nmbrs of Loket.nl voor de salarisverwerking. Dat werkt prima via de API, maar het is een extra kostenpost om rekening mee te houden.
+
+**Voor wie werkt Personio het beste?**
+- Bedrijven van 20 tot 200 medewerkers die van losse tools naar een geïntegreerd HR-systeem willen
+- HR-managers die zelf willen beheren zonder afhankelijk te zijn van IT
+- Organisaties die snel willen groeien en een systeem willen dat meegroeit
+- Bedrijven met internationale medewerkers (Personio ondersteunt meerdere landen)
+
+**Voor wie werkt Personio minder goed?**
+- Bedrijven onder de 15 medewerkers — dan is het te uitgebreid en te duur
+- Organisaties die alles in één systeem willen inclusief salaris (dan is AFAS beter)
+- Bedrijven met complexe CAO's en uitzonderingssituaties (Nmbrs is dan scherper)
+
+Als je Personio overweegt, lees dan ook mijn artikel over [personeelsdossiers digitaliseren en AVG](/blog/personeelsdossier-digitaliseren-avg/) — Personio doet dit goed, maar er zijn aandachtspunten voor de AVG-compliance.
+
 ### Belangrijkste functies
 - Digitale personeelsdossiers met documentbeheer
 - Verlof- en afwezigheidsregistratie met goedkeuringsworkflows
@@ -89,6 +108,23 @@ Personio is het platform dat ik het vaakst aanbeveel aan groeiende MKB-bedrijven
 
 HiBob is het platform waar ik naar grijp als een scale-up of internationaal bedrijf me vraagt om advies. De interface voelt als een mix van LinkedIn en Instagram -- medewerkers gebruiken het graag, en dat is bij HR-software zeldzaam. Ik heb het geadviseerd bij een tech-bedrijf met teams in Nederland, Duitsland en Spanje. De multi-country support en cultuurtools (kudos, enquetes) maakten het verschil.
 
+**Waarom HiBob anders is dan de rest.** Meeste HR-software is gebouwd voor de HR-afdeling. HiBob is ook gebouwd voor de medewerker. Dat klinkt als marketingpraat, maar ik zie het in de praktijk. Bij een Amsterdams SaaS-bedrijf dat ik ken, liggen de adoption-rates bij HiBob op 90%+ — medewerkers loggen er zelf in voor hun loonstroken, verlofaanvragen en de kudos-feed. Bij systemen als AFAS of Nmbrs is dat 40-60%.
+
+Wat maakt het verschil? De feedfunctie met bedrijfsnieuws, de kudos waarmee collega's elkaar kunnen complimenteren, de transparante organigrammen. Het is HR-software die ook werkt als intern communicatieplatform. Voor een bedrijf van 50-200 medewerkers dat remote of hybride werkt, is dat waardevol.
+
+Eerlijk punt: HiBob heeft geen Nederlandse salarisverwerking. Dat is een echt nadeel. Je koppelt het dan aan Nmbrs of Loket.nl, wat via de API vrij soepel gaat, maar het is een extra stap en extra kosten. Voor een puur Nederlands bedrijf dat gewoon goed salaris wil verwerken, is Personio of AFAS logischer.
+
+**Voor wie is HiBob de beste keuze?**
+- Internationale tech-bedrijven en scale-ups met teams in meerdere landen
+- Bedrijven die hun employer brand willen versterken via de HR-tool
+- Organisaties die engagement en cultuur serieus nemen en willen meten
+- Bedrijven waar de medewerkerservaring net zo belangrijk is als de HR-admin
+
+**Voor wie past HiBob minder goed?**
+- Traditionele MKB-bedrijven die gewoon verlof en salaris willen regelen
+- Bedrijven van <30 medewerkers (de prijs is relatief hoog)
+- Organisaties die complexe Nederlandse CAO-verwerking nodig hebben
+
 ### Belangrijkste functies
 - Core HR met digitale personeelsdossiers
 - Verlof- en afwezigheidsbeheer per land
@@ -127,6 +163,25 @@ HiBob is het platform waar ik naar grijp als een scale-up of internationaal bedr
 ## 3. Nmbrs
 
 Als een klant me vraagt "ik wil gewoon dat mijn salarissen kloppen, elke maand, zonder gedoe" -- dan stuur ik ze naar Nmbrs. Het is de sterkste salarisverwerker die ik ken voor de Nederlandse markt. De loonaangifte gaat automatisch naar de Belastingdienst, loonstroken staan klaar in het medewerkersportaal, en via de API koppel je het naadloos aan je boekhoudsoftware. Nuchter, betrouwbaar, doet wat het moet doen.
+
+**Nmbrs in de praktijk: salarisverwerking die gewoon klopt.** Ik heb Nmbrs ingezet bij een bouwbedrijf van 22 medewerkers. Gemengd personeel: deels vaste krachten, deels oproepkrachten, complexe urenregistratie. Nmbrs verwerkte het allemaal correct, inclusief de wisselende uren, overwerk en vakantiegeld. De directeur die dit zelf deed in Excel was daar maandelijks een halve werkdag mee kwijt. Met Nmbrs: een uur, inclusief controle.
+
+Wat me het meest opvalt aan Nmbrs is de betrouwbaarheid bij wet- en regelgeving. Als er iets verandert in de belasting- of sociale zekerheidsregels, past Nmbrs dit automatisch aan. Ik heb nooit een klant gehad die problemen had met de loonaangifte omdat Nmbrs het mis had.
+
+De interface is functioneel maar niet mooi. Vergeleken met Personio of HiBob voelt het ouder. Dat kan je storen, of het kan je niet interesseren — afhangt of je de HR-tool ook presenteert aan medewerkers. Als het puur voor de salarisverwerking is en de accountant ermee werkt, doet het er niet toe.
+
+Verzuim registreren is ook een sterk punt van Nmbrs. Het systeem ondersteunt de Wet Poortwachter met automatische signaleringen voor verplichte contactmomenten. Als je medewerkers ziek worden en wil voldoen aan je re-integratieverplichting, is dat waardevol. Lees ook meer over [verzuimregistratie en de Wet Poortwachter](/blog/verzuimregistratie-wvp-software/) voor de volledige context.
+
+**Voor wie is Nmbrs de logische keuze?**
+- MKB met 5-200 medewerkers dat correcte salarisverwerking als prioriteit heeft
+- Accountants en salarisadviseurs die meerdere klanten beheren
+- Bedrijven met een complexe loonstructuur (variabele uren, onkostenvergoedingen)
+- Organisaties die alles via de Belastingdienst-koppeling automatisch willen regelen
+
+**Voor wie is Nmbrs minder geschikt?**
+- Bedrijven die een moderne, fraaie HR-tool willen als interne app voor medewerkers
+- Scale-ups met internationaal personeel buiten Nederland
+- Kleine zzp'ers of eenmanszaken (overkill)
 
 ### Belangrijkste functies
 - Volledige Nederlandse salarisverwerking
@@ -170,6 +225,25 @@ Als je Nmbrs combineert met je boekhouding, lees dan ook ons artikel over de [be
 
 AFAS is het zwaarste geschut in dit overzicht, en voor middelgrote tot grote organisaties met recht. De HR-module hangt direct vast aan salaris, financien en logistiek -- alles in een platform, geen gedoe met koppelingen. Ik heb het geadviseerd bij een organisatie van 150 man die voorheen vier losse systemen gebruikte. De implementatie duurde even, maar daarna was het verschil dag en nacht.
 
+**AFAS: de Rolls-Royce van de Nederlandse bedrijfssoftware.** Dat klinkt als een compliment, en dat is het ook — maar net zoals je een Rolls-Royce niet nodig hebt voor de schoolrit, heb je AFAS niet nodig voor een bedrijf van 30 man. De kracht van AFAS zit in de volledige integratie: HR, salaris, financiën, projectbeheer en logistiek zitten in één ecosysteem. Geen API-koppelingen, geen data die niet synchroon loopt, geen import/export-gedoe.
+
+Bij een klant van mij met 180 medewerkers — productie- en kantoorpersoneel gemengd — was AFAS de enige logische keuze. De complexiteit van de CAO, de combinatie van uren- en projectadministratie, de koppeling met de financiële module voor kostprijs-berekening — dat hadden losse systemen nooit aan kunnen.
+
+De implementatie duurde vier maanden. Dat is lang, en die maanden zijn zwaar. Er is een implementatiepartner nodig, er zijn trainingen nodig, er is datamigratiewerk. Maar na die vier maanden had de organisatie een systeem dat alles deed wat het moest doen, zonder workarounds.
+
+Eerlijk: AFAS is niet goedkoop en de interface is niet de mooiste van de markt. InSite (het medewerkersportaal) werkt, maar het voelt niet zo modern als HiBob of Personio. Voor een grote organisatie die betrouwbaarheid en compliance boven moderniteit stelt: geen probleem. Voor een bedrijf dat medewerkers moet overtuigen het systeem te gebruiken: let op.
+
+**Voor wie is AFAS de juiste keuze?**
+- Organisaties van 50-500+ medewerkers met complexe HR- en loonbehoeften
+- Bedrijven die alle bedrijfssoftware in één platform willen (geen losse tools)
+- Sectoren met complexe CAO's en veel uitzonderingssituaties
+- Organisaties die compliance met Nederlandse wetgeving centraal stellen
+
+**Voor wie is AFAS te zwaar?**
+- Bedrijven onder de 30 medewerkers (te duur, te complex)
+- Startups die snel willen groeien en flexibel willen blijven
+- Organisaties die geen 2-6 maanden implementatietijd kunnen missen
+
 ### Belangrijkste functies
 - Complete HR-suite met personeelsbeheer
 - Volledige Nederlandse salarisverwerking
@@ -212,6 +286,25 @@ AFAS is het zwaarste geschut in dit overzicht, en voor middelgrote tot grote org
 
 Loket.nl is het platform dat ik aanbeveel aan ondernemers die zeggen: "Ik wil niet zelf aan de knoppen zitten, maar ik wil wel meekijken." Het werkt namelijk via je accountant of salarisadviseur, die het zware werk doet. Jij en je medewerkers gebruiken het portaal voor verlof, loonstroken en personeelsgegevens. Voor kleine bedrijven die professioneel advies waarderen, is dit de ideale tussenvorm.
 
+**Loket.nl: de slimme keuze als je accountant al salarisadviseur is.** Veel kleine ondernemers verwerken hun salaris via hun accountant. Loket.nl is het platform dat daarvoor gebouwd is. De accountant heeft een uitgebreide backoffice-omgeving, jij als ondernemer hebt een eenvoudige inzageomgeving, en medewerkers hebben een selfservice-portaal voor hun loonstroken en verlof.
+
+Een klant van mij met 8 medewerkers gebruikte Loket.nl en was er zeer tevreden over. "Ik zie wat ik moet zien, mijn accountant regelt de rest, en mijn mensen kunnen zelf hun loonstrook downloaden. Meer heb ik niet nodig." Die eenvoud is de kracht van Loket.nl.
+
+Het nadeel is ook duidelijk: je kunt het niet zelfstandig aanschaffen. Je hebt een gecertificeerde Loket.nl-partner nodig — doorgaans je accountant of een salarisadviseur. De kwaliteit van je ervaring hangt daarmee af van de kwaliteit van die adviseur. Een slechte adviseur maakt zelfs het beste systeem onprettig.
+
+Wil je meer weten over hoe je HR-software inzet als je je eerste werknemer aanneemt? Lees mijn artikel over [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) — ik leg uit welke verplichtingen je hebt en hoe je die slim regelt.
+
+**Voor wie is Loket.nl de beste keuze?**
+- Ondernemers met 2-25 medewerkers die al een goede accountant of salarisadviseur hebben
+- Bedrijven die HR-administratie willen uitbesteden maar inzicht willen houden
+- Ondernemers die niet zelf in een systeem willen werken
+- MKB met basale HR-behoeften (verlof, loonstroken, personeelsdossier)
+
+**Voor wie is Loket.nl minder geschikt?**
+- Bedrijven die alles in eigen beheer willen doen
+- Organisaties die onboarding, performance management of werving nodig hebben
+- Scale-ups die snel groeien en een flexibeler platform willen
+
 ### Belangrijkste functies
 - Volledige Nederlandse salarisverwerking
 - Automatische loonaangifte en jaaropgaven
@@ -252,6 +345,22 @@ Loket.nl is het platform dat ik aanbeveel aan ondernemers die zeggen: "Ik wil ni
 
 BambooHR kom ik tegen bij internationale bedrijven die vanuit het hoofdkantoor een uniform HR-platform willen uitrollen. De interface is gelikt en de onboarding- en performance-modules zijn sterk. Maar ik ben er eerlijk over: voor een puur Nederlands bedrijf mis je de salarisverwerking en Wet Poortwachter-ondersteuning. Het is vooral interessant als je een NL-vestiging hebt binnen een groter internationaal geheel.
 
+**BambooHR: geweldig systeem, maar niet gebouwd voor Nederland.** De interface is mooi, de onboarding-module is uitstekend, en de mobiele app werkt goed. Ik snap waarom internationale hoofdkantoren het kiezen: uniform, gebruiksvriendelijk, wereldwijd inzetbaar.
+
+Maar als je een Nederlandse vestiging bent die BambooHR krijgt opgelegd door het Amerikaanse hoofdkantoor: bereid je voor op workarounds. Nederlandse salarisverwerking? Niet aanwezig — je koppelt met een lokaal salarispakket. Wet Poortwachter? Niet ingebouwd — je regelt dat handmatig. Nederlandse interface? Beperkt beschikbaar.
+
+Ik heb een klant begeleid bij een Nederlandse vestiging van een Duits bedrijf. BambooHR was corporate verplicht. Mijn taak: de Nederlandse salarisverwerking er naast regelen. We kozen voor Nmbrs als salarissysteem, exporteerden de gegevens vanuit BambooHR, en verwerkten die in Nmbrs. Werkte prima, maar het kostte extra stappen.
+
+**Voor wie is BambooHR interessant in Nederland?**
+- Vestigingen van internationale bedrijven die corporate verplicht zijn tot BambooHR
+- Bedrijven met weinig complexe Nederlandse HR-behoeften en al een lokale salarisverwerker
+- Tech-bedrijven met een internationale mindset die een Engelse interface accepteren
+
+**Voor wie is BambooHR NIET geschikt?**
+- Puur Nederlandse bedrijven zonder internationale context
+- Bedrijven die Nederlandse salarisverwerking en Wet Poortwachter-ondersteuning nodig hebben
+- Organisaties die Nederlandse support verwachten bij problemen
+
 ### Belangrijkste functies
 - Digitale personeelsdossiers
 - Verlof- en afwezigheidsbeheer
@@ -287,6 +396,56 @@ BambooHR kom ik tegen bij internationale bedrijven die vanuit het hoofdkantoor e
 
 ---
 
+## Wat kost HR software per medewerker? (En wat vergeten mensen te tellen)
+
+De prijs-per-medewerker die je op de website ziet, is zelden de werkelijke maandlast. Ik leg uit wat je moet meenemen in de berekening.
+
+### De basisprijs: wat je ziet
+
+| Platform | Startprijs per medewerker | Minimumafname | Schatting 20 mdw/mnd |
+|----------|--------------------------|---------------|----------------------|
+| Personio | ~€3/mdw | 10 medewerkers | ~€60 |
+| Nmbrs | ~€3/mdw | n.v.t. | ~€60 |
+| Loket.nl | ~€5/mdw | via adviseur | ~€100 + advieskosten |
+| BambooHR | ~€5/mdw | n.v.t. | ~€100 |
+| HiBob | ~€8-12/mdw | op aanvraag | ~€160-240 |
+| AFAS | ~€8-15/mdw | op aanvraag | ~€160-300 |
+
+### Wat je nog moet optellen
+
+**Implementatiekosten.** Vrijwel elk platform heeft eenmalige implementatiekosten. Personio rekent doorgaans een onboardingsvergoeding. AFAS en Trivec werken met implementatiepartners waarbij je al snel €2.000-10.000 kwijt bent. Nmbrs en Loket.nl zijn goedkoper, maar rekenen vaak via de adviseur.
+
+**Salarismodule.** Veel platformen scheiden HR en salaris. Bij Personio is de salarismodule een add-on. Dat kost extra per medewerker. Als je dit nodig hebt, tel het erbij op.
+
+**Extra modules.** Performance management, werving, tijdregistratie — het zijn aparte modules bij vrijwel elk platform. Vraag altijd wat je pakket inhoudt voordat je tekent.
+
+**Trainingskosten.** Een systeem dat niemand gebruikt, is geldverspilling. Sommige bedrijven zetten er een trainer op — dat kost €500-2.000 eenmalig maar kan een systeem van een mislukking redden.
+
+### Drie scenario's doorgerekend
+
+**Situatie A: Startup met 5 werknemers, net eerste salarisronde**
+- Nmbrs Starter: 5 x €3 = €15/mnd + salarisadviseur
+- Loket.nl via accountant: ~€25/mnd (inclusief accountantskosten afhankelijk van adviseur)
+- Personio: te duur en te uitgebreid voor deze omvang
+
+Mijn advies: Loket.nl via je accountant. Goedkoop, persoonlijk, en je hebt iemand die meekijkt als het mis dreigt te gaan.
+
+**Situatie B: MKB met 50 werknemers, HR en salaris gecombineerd**
+- Personio (HR) + Nmbrs (salaris): 50 x €3 + 50 x €3 = **€300/mnd** exclusief modules
+- AFAS alles-in-één: 50 x ~€10 = **€500/mnd** maar geen dubbele systemen
+- HiBob + Nmbrs: 50 x €10 + 50 x €3 = **€650/mnd** voor beste user experience
+
+Mijn advies bij 50 medewerkers: AFAS als je alles in één wilt en bereid bent te betalen. Personio + Nmbrs als je wilt besparen. HiBob + Nmbrs als medewerkerservaring centraal staat.
+
+**Situatie C: Groeiend bedrijf, 150 medewerkers, internationaal**
+- AFAS: 150 x ~€12 = **€1.800/mnd** — volledig geïntegreerd, NL-specifiek
+- HiBob: 150 x ~€10 = **€1.500/mnd** — internationaal sterk, salaris extern
+- Personio: 150 x ~€5 = **€750/mnd** — goedkoopst, maar minder krachtig
+
+Bij 150+ medewerkers wordt het verhaal van de gebruikerservaring en de integratiediepte cruciaal. Hier is een adviesgesprek de investering waard.
+
+Wil je zelf de kosten berekenen voor jouw situatie? De [HR software kostenberekening](/tools/hr-software/kosten-berekenen/) maakt dat mogelijk in twee minuten.
+
 ## Hoe kies je de juiste HR software voor jouw bedrijf?
 
 ### 1. Bepaal je prioriteiten
@@ -308,6 +467,30 @@ Moderne HR software biedt een self-service portaal waar medewerkers zelf verlof 
 
 ### 6. Budget en totale kosten
 Kijk niet alleen naar de prijs per medewerker per maand, maar ook naar implementatiekosten, trainingskosten en eventuele extra modules. Een goedkoper pakket dat niet aan je behoeften voldoet, kost je uiteindelijk meer door workarounds en handmatig werk.
+
+### 7. Verzuimbeheer en Wet Poortwachter
+
+Dit is een punt waar veel kleine ondernemers te weinig bij stilstaan. Als een medewerker ziek wordt in Nederland, heb je als werkgever stevige verplichtingen: contactmomenten, re-integratieverslag, UWV-aanmeldingen. Als je die deadlines mist, riskeer je loonsancties van het UWV — soms oplopen tot een extra jaar loondoorbetaling.
+
+Nmbrs, AFAS en Loket.nl zijn hier het sterkst: ze signaleren automatisch wanneer welke stap verwacht wordt. Personio heeft verzuimregistratie maar is minder diep geïntegreerd met de Nederlandse Wet Poortwachter specifiek. HiBob en BambooHR missen dit vrijwel geheel voor de Nederlandse markt.
+
+Lees mijn artikel over [verzuimregistratie en de Wet Poortwachter](/blog/verzuimregistratie-wvp-software/) voor een gedetailleerde uitleg van wat verplicht is en hoe software daarbij helpt. En als je actief wilt werken aan het terugdringen van ziekteverzuim — niet alleen registreren maar ook aanpakken — lees dan mijn artikel over [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/).
+
+### 8. Werving: heb je een ATS nodig?
+
+Als je regelmatig nieuwe mensen zoekt, wil je ook weten of de HR-software een Applicant Tracking System (ATS) heeft. Personio, AFAS en BambooHR hebben dit ingebouwd. HiBob heeft een basisversie. Nmbrs en Loket.nl hebben dit niet.
+
+Voor actief wervende bedrijven kan dit een dealbreaker zijn. Maar als je maar een paar keer per jaar iemand zoekt, is een los recruitment-tool handiger. Lees mijn overzicht van de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) als je hier meer over wilt weten.
+
+### 9. Loonadministratie: zelf doen of uitbesteden?
+
+Dit is de vraag die de keuze voor HR-software sterk bepaalt. Als je de loonadministratie zelf doet, wil je een platform met een krachtige salarismodule (Nmbrs, AFAS). Als je het uitbesteedt aan je accountant, wil je een platform dat daar goed mee samenwerkt (Loket.nl). Als je het wil combineren met bredere HR-functies, kijk je naar Personio met salarisadd-on of AFAS all-in-one.
+
+Lees mijn vergelijking van de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/) voor een diepere duik in de salarisverwerking specifiek.
+
+### 10. Gebruik de keuzehulp als je er niet uitkomt
+
+Als je na het lezen van dit artikel nog twijfelt, gebruik dan de [HR software keuzehulp](/tools/hr-software/keuzehulp/) — vijf vragen, en je krijgt een concreet advies op basis van je bedrijfsgrootte, prioriteiten en budget.
 
 ## Vergelijking: HR-functies per platform
 
@@ -340,7 +523,11 @@ Mijn advies: begin met het bepalen van je kernbehoeften. Als salarisadministrati
 ## Lees ook
 
 - [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) — waar begin je als startende werkgever?
+- [Personeelsdossier digitaliseren en AVG](/blog/personeelsdossier-digitaliseren-avg/) — wat mag je bewaren en hoe doe je het correct?
 - [Verzuimregistratie en de Wet Poortwachter](/blog/verzuimregistratie-wvp-software/) — voorkom loonsancties met de juiste software
+- [Ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/) — meer dan registreren: actief aanpakken
+- [Beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/) — diepere duik in salarisverwerking specifiek
+- [Beste recruitment software 2026](/blog/beste-recruitment-software-2026/) — als werving een apart systeem verdient
 - [Beste software voor fysiotherapeuten 2026](/blog/beste-software-fysiotherapeuten-2026/) — HR en planning voor de zorgsector
 - [HR software per branche](/sectoren/hr/) — welk systeem past bij jouw sector?
 

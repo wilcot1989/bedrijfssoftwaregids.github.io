@@ -31,6 +31,8 @@ faq:
 
 Wat is de beste websitebouwer voor het MKB? Ik zie regelmatig bedrijven die duizenden euro's hebben betaald aan een webbureau voor een website die ze vervolgens niet zelf kunnen aanpassen. In 2026 is dat nergens meer voor nodig. Met de juiste websitebouwer heb je als MKB-ondernemer in een dag een professionele site staan. Hier zijn de 5 platforms die ik aanbeveel, van simpel tot volledig maatwerk.
 
+Wil je naast een website ook online verkopen? Bekijk dan het overzicht van de [beste webshop software](/blog/beste-webshop-software-2026/) en de [beste software voor webshops](/blog/beste-software-webshops-2026/). En voor een specifieke vergelijking van Nederlandse webshopplatforms lees ik graag de [Shopify vs MijnWebwinkel analyse](/blog/shopify-vs-mijnwebwinkel-2026/).
+
 
 ## Beste websitebouwer MKB: snelle vergelijking
 
@@ -137,7 +139,7 @@ Webflow is de tool die ik voorstel aan designers en agencies die pixel-perfect m
 
 ## 5. Shopify — Beste voor webshops
 
-Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door naar Shopify. Het is de snelste weg naar een professionele webshop, met ingebouwde betalingen, voorraadbeheer en een enorm app-ecosysteem. Als blog of bedrijfswebsite minder geschikt, maar voor e-commerce is het simpelweg de standaard.
+Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door naar Shopify. Het is de snelste weg naar een professionele webshop, met ingebouwde betalingen, voorraadbeheer en een enorm app-ecosysteem. Als blog of bedrijfswebsite minder geschikt, maar voor e-commerce is het simpelweg de standaard. Voor betalingsverwerking bij je webshop is Mollie een populaire keuze -- lees de [Mollie review 2026](/blog/mollie-review-2026/) voor meer details. En als je ook je [voorraadbeheer](/blog/beste-voorraadbeheer-software-2026/) wilt koppelen aan je webshop, gebruik dan de [webshop kosten calculator](/tools/webshops/kosten-berekenen/) om de totaalkosten te berekenen.
 
 ### Wanneer Shopify
 - Primair online producten verkopen
@@ -188,6 +190,10 @@ Twijfel je nog? Gebruik de gratis tools:
 - **[Beste CRM voor Webshops 2026](/blog/beste-crm-webshops-2026/)** — E-commerce CRM tools
 - **[Beste Boekhoudsoftware 2026](/blog/beste-boekhoudsoftware-zzp-2026/)** — Financieel beheer
 - **[Beste Offertesoftware 2026](/blog/beste-offerte-software-2026/)** — Van website naar offerte
+- **[Beste Webshop Software 2026](/blog/beste-webshop-software-2026/)** — Als je ook wilt verkopen
+- **[Beste Software voor Webshops 2026](/blog/beste-software-webshops-2026/)** — Complete webshop-toolkit
+- **[Shopify vs MijnWebwinkel 2026](/blog/shopify-vs-mijnwebwinkel-2026/)** — NL webshop platforms vergeleken
+- **[Beste Voorraadbeheer Software 2026](/blog/beste-voorraadbeheer-software-2026/)** — Voorraad koppelen aan je webshop
 
 ---
 

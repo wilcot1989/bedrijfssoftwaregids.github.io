@@ -178,6 +178,10 @@ FreshBooks factureert in USD. De prijzen zijn (wisselkoers kan afwijken):
 
 Let op die klantlimiet bij het Lite-plan. Vijf klanten klinkt weinig, maar als freelancer met een handvol vaste opdrachtgevers kan het prima werken.
 
+Concreet scenario: ik ken een Nederlandse UX-designer die voor drie techbedrijven in Berlijn, Amsterdam en London werkt. Ze factureert in euro's en ponden, registreert uren per project en gebruikt het klantportaal zodat haar opdrachtgevers factuurstatus kunnen zien. Ze had geprobeerd om dit met Moneybird te doen, maar de multi-valuta ondersteuning was te beperkt. FreshBooks is haar vaste pakket geworden -- gecombineerd met een Nederlandse accountant voor de BTW-aangifte. Dat is ook mijn advies als je FreshBooks overweegt: gebruik het voor facturatie en tijdregistratie, maar schakel een accountant in voor je Nederlandse fiscale verplichtingen. Mijn artikel over [BTW-regels voor ZZP'ers in 2026](/blog/btw-regels-zzp-2026/) geeft je alvast een goede basis.
+
+**Wanneer kies je NIET voor FreshBooks?** Als al je klanten in Nederland zitten en je in euro's factureert. Dan betaal je voor internationale features die je niet gebruikt en mis je de automatische Belastingdienst-koppeling die Nederlandse pakketten wel hebben.
+
 <a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshbooks.com →</a>
 
 ---
@@ -208,6 +212,10 @@ Zonder boekhouder is InformerOnline een duur pakket voor wat je krijgt. De inter
 - 30 dagen gratis proberen
 
 Die gratis boekhouder-toegang is het verkoopargument. Bij Exact Online betaal je extra voor dezelfde functie.
+
+In de praktijk werkt het zo: mijn eigen accountant werkt met InformerOnline voor meerdere ZZP-klanten. Hij ziet in real-time hun administratie, kan bonnetjes goedkeuren of afkeuren en stuurt de definitieve BTW-aangifte direct via het systeem in. Voor zijn klanten betekent dat: ze scannen hun bonnetjes, versturen facturen en verder hoeven ze nergens naar om te kijken. De accountant pikt het op. Dat is precies het model waarvoor InformerOnline gemaakt is.
+
+Vergelijking met de alternatieven: als je een boekhouder hebt die ook met Moneybird werkt, is het prijsverschil gering (€17 vs. €28/maand). Dan kies je op basis van welke interface je prettiger vindt. Maar als je boekhouder specifiek met InformerOnline werkt -- of als de SBR-rapportages voor je jaarrekening relevant zijn -- dan is InformerOnline de logischere keuze. Wil je weten welk pakket het beste aansluit op de BTW-aangifte? Lees mijn vergelijking [BTW-aangifte: welke boekhoudsoftware?](/blog/btw-aangifte-welke-boekhoudsoftware/) voor een praktisch overzicht.
 
 <a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar informer.nl →</a>
 
@@ -240,7 +248,37 @@ Te beperkt voor serieuze administraties. De gratis versie heeft geen bankkoppeli
 
 Voor €19,95/maand heb je alles wat een startende ZZP'er nodig heeft, inclusief bankkoppeling en BTW-aangifte.
 
+Een scenario dat ik regelmatig zie: iemand begint als ZZP'er naast een baan in loondienst. Een paar facturen per maand, geen complexe administratie. Jortt is daar ideaal voor -- je start gratis, factureert je eerste klanten en leert wat BTW-aangifte betekent zonder overweldigd te raken. Zodra het bijverdienen uitgroeit tot een volwaardig bedrijf, overstappen naar Moneybird of e-Boekhouden. Dat doet iedereen bij mij aan het begin van het nieuwe boekjaar.
+
+Wil je later toch overstappen van Jortt naar een ander pakket? Dat is goed te doen, maar er zijn aandachtspunten. Lees mijn artikel over [boekhoudprogramma migratie: data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/) voor een stap-voor-stap aanpak zonder gegevensverlies.
+
 <a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
+
+---
+
+## Factureren en boekhouden: heb je echt één pakket nodig?
+
+Een vraag die ik regelmatig krijg: "Kan ik niet gewoon apart factureren en apart boekhouden?" Het antwoord: technisch kan het, maar het is zinloos gedoe. Als je facturen in een apart systeem verstuurt en ze daarna handmatig in je boekhoudpakket invoert, maak je dubbel werk. En de kans op fouten verdubbelt ook.
+
+Alle pakketten in dit overzicht combineren factureren en boekhouden in één systeem. Dat is precies wat je wilt: factuur versturen, betaling ontvangen, transactie automatisch gematcht -- en bij de BTW-aangifte is alles al correct verwerkt. Ik schreef hier een apart artikel over: [factureren en boekhouden alles in één](/blog/factureren-en-boekhouden-alles-in-een/). Daarin vergelijk ik hoe elk pakket de factuur-boekhoud-koppeling aanpakt.
+
+Waar wel een scheiding zinnig kan zijn: als je een complexe projectadministratie hebt waarbij uren per klant bijgehouden moeten worden. Dan combineer je een urenregistratietool (apart) met je boekhoudpakket. Maar voor de gemiddelde ZZP'er die diensten factureert? Één pakket, één login, één overzicht.
+
+## Boekhoudprogramma per type ZZP'er
+
+Niet alle ZZP'ers zijn gelijk. Hieronder geef ik mijn aanbevelingen per situatie, gebaseerd op hoe ik verschillende typen freelancers en zelfstandigen heb geholpen.
+
+### ZZP'er als eenmanszaak
+
+De meest voorkomende situatie. Eén persoon, één BTW-nummer, dienstverlening of productverkoop. Mijn aanbeveling hier is Moneybird of e-Boekhouden. Beide werken prima als eenmanszaak, beide koppelen met alle grote Nederlandse banken en beide verwerken je BTW-aangifte automatisch. Het verschil zit in de interface (Moneybird mooier) en de prijs (e-Boekhouden goedkoper). Lees meer in mijn specifieke vergelijking: [boekhoudsoftware voor eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/).
+
+### ZZP'er als freelancer
+
+Freelancers hebben vaak wat andere behoeften: urenregistratie per project, meerdere opdrachtgevers en soms internationale klanten. FreshBooks is de sterkste keuze als je internationaal werkt. Voor puur Nederlandse freelancers is Moneybird of InformerOnline (als je een boekhouder hebt) de betere keuze. Meer context in mijn artikel: [boekhoudsoftware voor freelancers](/sectoren/boekhouding/boekhoudsoftware-freelancers/).
+
+### ZZP'er specifiek
+
+Als je je als "ZZP'er" identificeert -- dus zelfstandig ondernemer zonder personeel, Nederlandse klanten, standaard BTW-tarieven -- dan is de keuze eenvoudig: begin met Jortt (gratis) of e-Boekhouden (goedkoopst met telefoonondersteuning), en overweeg Moneybird als gebruiksgemak prioriteit heeft. Meer detail: [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/).
 
 ---
 
@@ -319,6 +357,9 @@ Twijfel je nog? Gebruik de gratis tools:
 - [Beste email marketing software](/blog/beste-email-marketing-software-2026/) — verstuur professionele nieuwsbrieven naar je klanten
 - [Boekhoudsoftware vs. boekhouder: kostenvergelijking](/blog/boekhoudsoftware-vs-boekhouder-kostenvergelijking/) — wanneer loont software meer dan een boekhouder?
 - [BTW-aangifte: welke boekhoudsoftware?](/blog/btw-aangifte-welke-boekhoudsoftware/) — welk pakket maakt je BTW-aangifte het makkelijkst?
+- [BTW-regels voor ZZP'ers 2026](/blog/btw-regels-zzp-2026/) — wat je als ZZP'er moet weten over BTW
+- [Boekhoudprogramma migratie: data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/) — hoe je zonder verlies overstapt naar een nieuw pakket
+- [Factureren en boekhouden alles in één](/blog/factureren-en-boekhouden-alles-in-een/) — waarom losse tools meer kost dan het oplevert
 - [Twinfield vs Moneybird 2026](/blog/twinfield-vs-moneybird-2026/) — directe vergelijking van twee populaire pakketten
 - [Beste software voor accountants 2026](/blog/beste-software-accountants-2026/) — software vanuit het perspectief van je boekhouder
 - [Boekhoudsoftware per doelgroep](/sectoren/boekhouding/) — welk pakket past bij jouw type onderneming?

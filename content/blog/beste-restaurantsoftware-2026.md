@@ -25,6 +25,8 @@ faq:
 
 Een goed restaurant draait niet alleen op lekker eten. De juiste horeca software maakt het verschil: je kassa moet soepel lopen, reserveringen moeten kloppen, de keuken moet op tijd de juiste gerechten uitdraaien en je voorraad mag nooit onverwacht opraken. Ik heb de afgelopen jaren tientallen restauranthouders geholpen bij het kiezen van de juiste horeca software -- en ik zie steeds dezelfde fout: ze kopen een kassasysteem zonder na te denken over de rest. Reserveringen in een apart Excel-bestand. Voorraad op gevoel. Personeelsplanning op een papiertje aan de muur.
 
+Wil je ook inzicht in de verborgen kosten van een kassasysteem? Lees mijn analyse van de [verborgen kosten van kassasystemen](/blog/kassasysteem-verborgen-kosten-checklist/) en de [fiscale eisen voor je kassasysteem in 2026](/blog/fiscale-eisen-kassasysteem-2026/).
+
 In dit artikel vergelijk ik vijf horeca software pakketten die het hele plaatje afdekken: van kassasysteem en tafelbeheer tot QR-bestellen, keukenprinters, reserveringen, voorraadbeheer en personeelsplanning. Geen systemen die alleen een kassa zijn, maar complete oplossingen waarmee je restaurant professioneel draait.
 
 Zoek je specifiek een kassasysteem en wil je meer opties vergelijken? Lees dan mijn [uitgebreide kassasysteem-vergelijking voor de horeca](/blog/beste-kassasysteem-horeca-2026/).
@@ -143,7 +145,7 @@ Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij d
 
 ### 1. Lightspeed Restaurant -- Beste allrounder
 
-Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingredienten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. De koppeling met Formitable voor reserveringen is naadloos: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews.
+Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingredienten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. De koppeling met Formitable voor reserveringen is naadloos: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews. Ben je ook benieuwd hoe je Lightspeed koppelt aan de boekhouding? Lees mijn artikel over [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
 
 Het KDS (Kitchen Display System) is waar Lightspeed echt uitblinkt: ganggestuurde bestellingen verschijnen op het keukenscherm met timers en kleurcodering. De integratie met Thuisbezorgd en Uber Eats betekent dat bezorgorders automatisch in je keukenflow landen zonder handmatig overtypen.
 
@@ -198,7 +200,7 @@ Untill is het systeem dat ik adviseer bij grote horecazaken waar de operations c
 
 De reserveringskoppeling met Formitable en CoverManager werkt soepel -- reserveringen komen direct in het tafelplan terecht. QR-bestellen loopt via de Jamezz-integratie, waardoor gasten op hun telefoon bestellen en de order automatisch bij de juiste keukenstation belandt. De personeelsplanning met urenregistratie per dienst geeft je direct inzicht in je personeelskosten ten opzichte van je omzet.
 
-Ben je benieuwd hoe Untill zich verhoudt tot Lightspeed? Ik schreef er een [directe vergelijking](/blog/lightspeed-vs-untill-2026/) over.
+Ben je benieuwd hoe Untill zich verhoudt tot Lightspeed? Ik schreef er een [directe vergelijking](/blog/lightspeed-vs-untill-2026/) over. En hoe verhoudt Lightspeed zich tot Square? Lees de [Lightspeed vs Square vergelijking](/blog/lightspeed-vs-square-2026/).
 
 #### Belangrijkste functies
 
@@ -498,7 +500,7 @@ De keuze hangt af van wat je restaurant operationeel nodig heeft. Niet elke zaak
 ### "Ik wil gewoon een betrouwbaar systeem, alles in-house"
 → **[Untill](https://www.untill.com/nl/)** -- draait ook volledig offline, eigen inkoopmodule, personeelskostenanalyse per dienst. De implementatie duurt 1-2 weken, maar daarna heb je een systeem dat álles aankan.
 
-Zoek je puur een kassasysteem zonder al deze operationele functies? Bekijk dan mijn [kassasysteem-vergelijking voor de horeca](/blog/beste-kassasysteem-horeca-2026/) met meer opties waaronder Square.
+Zoek je puur een kassasysteem zonder al deze operationele functies? Bekijk dan mijn [kassasysteem-vergelijking voor de horeca](/blog/beste-kassasysteem-horeca-2026/) met meer opties waaronder Square. En als je ook wilt weten hoe je het kassasysteem voor de horeca sectie specifiek inricht, lees dan de [sectorpagina voor horecakassasystemen](/sectoren/kassasystemen/kassasysteem-horeca/).
 
 
 
@@ -509,4 +511,7 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehul
 - **[Lightspeed Kassa Review 2026](/blog/lightspeed-kassa-review-2026/)** -- Diepgaande review van het populairste horecakassasysteem
 - **[Beste Kassasysteem Horeca 2026](/blog/beste-kassasysteem-horeca-2026/)** -- Uitgebreide vergelijking met 6 kassasystemen
 - **[Lightspeed vs Untill 2026](/blog/lightspeed-vs-untill-2026/)** -- Directe vergelijking van de twee marktleiders
+- **[Lightspeed vs Square 2026](/blog/lightspeed-vs-square-2026/)** -- Budget vs premium kassasysteem
 - **[Beste Planning Software Horeca 2026](/blog/beste-planning-software-horeca-2026/)** -- Personeelsplanning voor je team
+- **[Kassasysteem Verborgen Kosten Checklist](/blog/kassasysteem-verborgen-kosten-checklist/)** -- Wat kost een kassa echt?
+- **[Cloud POS vs Lokaal Kassasysteem](/blog/cloud-pos-vs-lokaal/)** -- Welke architectuur past bij jou?

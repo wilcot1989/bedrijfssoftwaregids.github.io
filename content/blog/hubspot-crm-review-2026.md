@@ -188,7 +188,7 @@ Met meer dan 1.500 integraties in de Marketplace is HubSpot een van de best verb
 - **Exact Online** -- via Zapier of custom koppeling (geen native integratie)
 - **Mailchimp** -- als je Marketing Hub te duur vindt
 
-Kanttekening voor Nederlandse bedrijven: native integraties met typisch Nederlandse software (Moneybird, e-Boekhouden, Twinfield) zijn beperkt. Je komt al snel bij Zapier of Make uit, wat extra kosten en complexiteit toevoegt.
+Kanttekening voor Nederlandse bedrijven: native integraties met typisch Nederlandse software (Moneybird, e-Boekhouden, Twinfield) zijn beperkt. Je komt al snel bij Zapier of Make uit, wat extra kosten en complexiteit toevoegt. Een overzicht van welke koppelingen de meeste waarde toevoegen en in welke volgorde je ze het beste instelt, vind je in het artikel over [CRM-integraties uitgelegd](/blog/crm-integraties-uitgelegd/).
 
 ## Klantenservice en support
 

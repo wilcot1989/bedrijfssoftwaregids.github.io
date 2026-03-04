@@ -31,6 +31,8 @@ faq:
 
 Bij vrijwel elk MKB-bedrijf waar ik binnenkom, stel ik dezelfde vraag: "Waar staat versie X van contract Y?" En vrijwel altijd volgt er een ongemakkelijke stilte, gevolgd door zoeken in drie mailboxen en een gedeelde map. Documentbeheer software voorkomt die chaos. Dit zijn de 5 systemen die ik aanraad.
 
+Ben je ook op zoek naar een breder overzicht van productiviteitssoftware? Bekijk dan de [volledige vergelijking in de productiviteitscategorie](/categories/productiviteit/) of gebruik de [keuzehulp](/tools/productiviteit/keuzehulp/) om in vijf vragen een persoonlijk advies te krijgen.
+
 
 ## Snelle vergelijking
 
@@ -44,7 +46,7 @@ Bij vrijwel elk MKB-bedrijf waar ik binnenkom, stel ik dezelfde vraag: "Waar sta
 
 ## 1. SharePoint — Beste voor Microsoft 365 gebruikers
 
-SharePoint is de keuze die ik maak voor bedrijven die al in Microsoft 365 zitten. De integratie met Teams, Word en Excel is gewoon onverslaanbaar -- elk Teams-kanaal heeft automatisch een SharePoint-site erachter. Maar ik waarschuw klanten ook: SharePoint is krachtig en complex. Zonder iemand die het goed inricht, wordt het al snel een rommeltje.
+SharePoint is de keuze die ik maak voor bedrijven die al in Microsoft 365 zitten. De integratie met Teams, Word en Excel is gewoon onverslaanbaar -- elk Teams-kanaal heeft automatisch een SharePoint-site erachter. Maar ik waarschuw klanten ook: SharePoint is krachtig en complex. Zonder iemand die het goed inricht, wordt het al snel een rommeltje. Als je naast documentbeheer ook een volledig intranet wilt bouwen op SharePoint, lees dan mijn vergelijking van de [beste intranet software voor het MKB](/blog/beste-intranet-software-mkb-2026/).
 
 ### Belangrijkste functies
 - **Documentbibliotheken** — Gestructureerde opslag met metadata en views
@@ -123,7 +125,7 @@ DocuWare is de keuze voor bedrijven waar documenten niet alleen opgeslagen maar 
 ### Wanneer DocuWare
 - Je verwerkt veel facturen (automatische herkenning en boeking)
 - Goedkeuringsprocessen zijn complex (meerdere stappen)
-- Contractbeheer met herinneringen en verloopdata
+- Contractbeheer met herinneringen en verloopdata -- voor een dedicated contractoplossing lees ik ook graag de [beste contractmanagement software vergelijking](/blog/beste-contractmanagement-software-2026/)
 - Archivering met bewaarplicht (7+ jaar)
 
 **✅ Voordelen:** Krachtigste workflow-automatisering, factuurherkenning, archivering
@@ -143,6 +145,8 @@ DocuWare is de keuze voor bedrijven waar documenten niet alleen opgeslagen maar 
 
 Voor het MKB is **Google Workspace** of **SharePoint** (als je al Microsoft 365 hebt) de beste keuze. Beide bieden voldoende functionaliteit voor versiebeheer, samenwerking en zoeken. Werk je veel met externe partijen? Dan is **Dropbox Business** de sterkste keuze.
 
+Ben je een ZZP'er of freelancer die software vergelijkt? In mijn overzicht van [beste software voor ZZP'ers](/blog/beste-software-zzp-2026/) vind je een breder pakket aan tools dat relevant is voor je bedrijfsvoering. Wil je ook weten wat documentbeheer kost, gebruik dan de [kostencalculator voor productiviteitssoftware](/tools/productiviteit/kosten-berekenen/) voor een eerlijk beeld.
+
 
 ## Interactieve hulp
 
@@ -157,6 +161,9 @@ Twijfel je nog? Gebruik de gratis tools:
 - **[Notion vs Monday.com 2026](/blog/notion-vs-monday-vergelijking-2026/)** — Projectmanagement + documenten
 - **[Beste Boekhoudsoftware 2026](/blog/beste-boekhoudsoftware-zzp-2026/)** — Financiële documenten
 - **[Beste Offertesoftware 2026](/blog/beste-offerte-software-2026/)** — Offertes en contracten
+- **[Beste Intranet Software MKB 2026](/blog/beste-intranet-software-mkb-2026/)** — Bedrijfskennis en samenwerking
+- **[Beste Vergadersoftware 2026](/blog/beste-vergadersoftware-2026/)** — Samenwerken op afstand
+- **[Beste Urenregistratie Software 2026](/blog/beste-urenregistratie-software-2026/)** — Tijd koppelen aan projecten
 
 ---
 

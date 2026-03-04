@@ -477,7 +477,7 @@ Na beide systemen bij tientallen ondernemers te hebben gezien, is mijn advies he
 
 **Mijn eindoordeel**: voor de meeste Nederlandse ondernemers die serieus willen ondernemen, is [Lightspeed](https://www.lightspeedhq.nl/) de betere keuze. Het is het kassasysteem dat ik het vaakst aanbeveel, simpelweg omdat het meegroeit met je zaak. Sta je nog aan het begin of wil je eerst uitproberen zonder risico? Dan is [Square](https://squareup.com/nl/nl) een prima startpunt -- en je kunt altijd later overstappen.
 
-Benieuwd hoe Lightspeed zich verhoudt tot andere horecakassa's? Lees dan mijn [Lightspeed vs Untill vergelijking](/blog/lightspeed-vs-untill-2026/) of het complete overzicht van de [beste kassasystemen voor de horeca](/blog/beste-kassasysteem-horeca-2026/).
+Benieuwd hoe Lightspeed zich verhoudt tot andere horecakassa's? Lees dan mijn [Lightspeed vs Untill vergelijking](/blog/lightspeed-vs-untill-2026/) of het complete overzicht van de [beste kassasystemen voor de horeca](/blog/beste-kassasysteem-horeca-2026/). Let ook op bijkomende kosten: de [kassasysteem verborgen kosten checklist](/blog/kassasysteem-verborgen-kosten-checklist/) helpt je het totaalplaatje in beeld te brengen. Specifieke tips voor horecaondernemers vind je op de [kassasysteem horeca sectorpagina](/sectoren/kassasystemen/kassasysteem-horeca/).
 
 *Prijzen en review scores laatst gecontroleerd: april 2026.*
 

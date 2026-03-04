@@ -168,3 +168,4 @@ Een kassasysteem kiezen dat dit alles goed ondersteunt? Gebruik de [kassasysteem
 
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — overzicht van kassasystemen met sterke datavolledigheid en exportopties
 - [Kassasysteem verborgen kosten checklist](/blog/kassasysteem-verborgen-kosten-checklist/) — alle kostenposten die je meeneemt voor je tekent
+- [Alle kassasysteem vergelijkingen en reviews](/categories/kassasystemen/) — volledige overzichtspagina

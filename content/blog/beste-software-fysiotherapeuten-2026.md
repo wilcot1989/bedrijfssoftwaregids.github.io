@@ -35,6 +35,8 @@ Vorige maand hielp ik een fysiotherapeut die nog met Excel-lijsten en papieren d
 
 In dit artikel vergelijk ik de 5 beste fysiotherapie software pakketten in Nederland. Ik kijk specifiek naar het EPD, de agenda, declaratiemogelijkheden, oefenprogramma's en het patientenportaal. Geen marketingverhalen, maar wat je er in de dagelijkse praktijk aan hebt.
 
+Ben je als zelfstandig fysiotherapeut ook op zoek naar goede administratieve tools? Bekijk dan ook mijn overzicht van de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/) voor tools die je boekhouding en administratie compleet maken.
+
 
 ## Vergelijkingstabel: Beste Fysiotherapie Software 2026
 
@@ -130,7 +132,7 @@ Patienten die thuis hun oefeningen doen, herstellen sneller. Zoek naar software 
 
 Via een portaal vullen patienten zelf vragenlijsten in, bekijken ze hun afspraken en oefenprogramma's en communiceren ze met jou. Dat verlaagt de druk op je receptie en verhoogt de betrokkenheid van de patient bij het behandeltraject.
 
-Wil je meer weten over hoe je als zorgpraktijk efficienter kunt plannen? Lees dan ook mijn artikel over de [beste afsprakensoftware in 2026](/blog/beste-afspraken-software-2026/).
+Wil je meer weten over hoe je als zorgpraktijk efficiënter kunt plannen? Lees dan ook mijn artikel over de [beste afsprakensoftware in 2026](/blog/beste-afspraken-software-2026/) en de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/) om je werkuren per patiënt bij te houden.
 
 
 ## 1. Intramed — De Marktleider
@@ -400,7 +402,7 @@ Een overstap van software is voor veel fysiotherapeuten een drempel. Terecht, wa
 
 5. **Betrek je team.** De therapeut die het systeem dagelijks gebruikt, moet het prettig vinden. Laat je collega's meetesten tijdens de proefperiode.
 
-Voor tips over het kiezen van de juiste bedrijfssoftware in het algemeen, lees ook mijn [projectmanagement-vergelijking](/blog/beste-projectmanagement-software-2026/) of het artikel over [urenregistratie](/blog/beste-urenregistratie-software-2026/).
+Voor tips over het kiezen van de juiste bedrijfssoftware in het algemeen, lees ook mijn [projectmanagement-vergelijking](/blog/beste-projectmanagement-software-2026/) of het artikel over [urenregistratie](/blog/beste-urenregistratie-software-2026/). Wil je ook contracten met patiënten of verwijzers digitaal beheren? Lees dan mijn overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/), en voor het bewaren van formulieren, behandelplannen en informed consents bekijk je de [beste documenten management software 2026](/blog/beste-documenten-management-2026/).
 
 
 ## Veelgestelde vragen over fysiotherapie-software
@@ -430,4 +432,4 @@ Mijn advies: vraag bij minimaal twee aanbieders een demo of proefperiode aan. Te
 
 Heb je vragen over welk pakket het beste bij jouw praktijk past? Laat een reactie achter of neem contact op via de [over ons-pagina](/about/). Ik help je graag met een persoonlijk advies.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)**, stel je **[ideale tool stack samen](/tools/productiviteit/tool-stack-planner/)** of bekijk de **[volledige vergelijking](/categories/productiviteit/)**.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)**, bereken je **[softwarekosten](/tools/productiviteit/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/productiviteit/)** voor alle productiviteitstools op een rij.

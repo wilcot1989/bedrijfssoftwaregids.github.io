@@ -133,7 +133,7 @@ Handmatig BTW bijhouden in een spreadsheet werkt een tijdje, maar het is foutgev
 
 Goede boekhoudsoftware neemt een groot deel van het denkwerk over:
 
-**Moneybird** is populair bij ZZP'ers en kleine bedrijven. De interface is helder, het koppelt direct met de Belastingdienst voor BTW-aangifte, en de verwerking van inkoopfacturen gaat snel. Ik zie het bij veel van mijn klanten als eerste pakket.
+**Moneybird** is populair bij ZZP'ers en kleine bedrijven. De interface is helder, het koppelt direct met de Belastingdienst voor BTW-aangifte, en de verwerking van inkoopfacturen gaat snel. Ik zie het bij veel van mijn klanten als eerste pakket. Een overzicht van alle geschikte pakketten per ZZP-situatie vind je op de [boekhoudsoftware voor ZZP sectorpagina](/sectoren/boekhouding/boekhoudsoftware-zzp/).
 
 **e-Boekhouden** is een degelijke Nederlandse oplossing, iets uitgebreider dan Moneybird en wat minder intuïtief, maar goed geschikt als je zelf wil boekhouden zonder accountant.
 

@@ -222,3 +222,6 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehu
 - **[Beste Urenregistratie Software 2026](/blog/beste-urenregistratie-software-2026/)** — De beste timetracking tools
 - **[Beste Offertesoftware 2026](/blog/beste-offerte-software-2026/)** — Professionele offertes maken en opvolgen
 - **[Beste Facturatie Software MKB 2026](/blog/beste-facturatie-software-mkb-2026/)** — Puur factureren zonder volledig boekhoudpakket
+- **[BTW-regels voor ZZP'ers 2026](/blog/btw-regels-zzp-2026/)** — Actuele BTW-regels en vrijstellingen
+- **[Moneybird Review 2026](/blog/moneybird-review-2026/)** — Uitgebreide review van de populairste ZZP-boekhouder
+- **[Kosten berekenen](/tools/productiviteit/kosten-berekenen/)** — Bereken wat ZZP-software je per maand kost

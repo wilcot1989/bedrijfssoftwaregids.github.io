@@ -391,6 +391,6 @@ Na jaren met beide systemen gewerkt te hebben, komt het voor mij neer op dit:
 
 Geen van beide is "beter." Het hangt af van jouw zaak, jouw budget en jouw manier van werken.
 
-**Nog twijfelen?** Lees mijn [overzicht van de beste kassasystemen voor horeca](/blog/beste-kassasysteem-horeca-2026/) waarin ik zes systemen vergelijk, waaronder Lightspeed, Untill en vier alternatieven. Of bekijk de [Lightspeed vs Square vergelijking](/blog/lightspeed-vs-square-2026/) als je ook een budgetvriendelijkere optie overweegt.
+**Nog twijfelen?** Lees mijn [overzicht van de beste kassasystemen voor horeca](/blog/beste-kassasysteem-horeca-2026/) waarin ik zes systemen vergelijk, waaronder Lightspeed, Untill en vier alternatieven. Of bekijk de [Lightspeed vs Square vergelijking](/blog/lightspeed-vs-square-2026/) als je ook een budgetvriendelijkere optie overweegt. Wil je ook inzicht in de totale kosten inclusief verborgen posten? Lees dan de [kassasysteem verborgen kosten checklist](/blog/kassasysteem-verborgen-kosten-checklist/). Specifiek voor horeca vind je praktische adviezen op de [kassasysteem horeca sectorpagina](/sectoren/kassasystemen/kassasysteem-horeca/).
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)**, bereken je **[kassasysteem kosten](/tools/kassasystemen/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.
