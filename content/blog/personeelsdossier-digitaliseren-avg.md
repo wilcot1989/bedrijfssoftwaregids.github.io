@@ -160,6 +160,8 @@ De klant met de drie ordners had dat met één middag werk al grotendeels op ord
 
 De AP doet steeds vaker onderzoeken op eigen initiatief, niet alleen naar aanleiding van klachten. Personeelsdossiers staan hoog op hun prioriteitenlijst voor werkgevers. Dat is geen reden om in paniek te raken, maar wel om het serieus te nemen.
 
+Een volledig overzicht van alle HR-software vergelijkingen staat op de [HR-software overzichtspagina](/categories/hr-software/). Als je ook actief aan de slag wil met ziekteverzuim terugdringen, lees dan [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/) voor een praktisch stappenplan.
+
 ---
 
 ## Lees ook

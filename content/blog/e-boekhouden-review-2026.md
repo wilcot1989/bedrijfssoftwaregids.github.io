@@ -36,7 +36,7 @@ Mijn e-Boekhouden review in het kort: niet het mooiste pakket, wel een van de de
 
 In deze e-Boekhouden review deel ik mijn ervaringen na drie maanden testen. Ik loop de interface, facturatie, BTW-aangifte, bankkoppeling, rapportages en support stuk voor stuk langs — eerlijk, met prijzen en echte Trustpilot-scores.
 
-Zoek je een breder overzicht? Lees dan ook mijn vergelijking van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/).
+Zoek je een breder overzicht? Lees dan ook mijn vergelijking van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/). Nog aan het oriënteren? Beantwoord eerst de [7 vragen om het juiste boekhoudprogramma te kiezen](/blog/boekhoudprogramma-kiezen-7-vragen/) om te zien welk pakket het beste aansluit bij jouw situatie.
 
 
 ## e-Boekhouden in het kort
@@ -129,7 +129,9 @@ Een klant van mij — een freelance fotograaf — verstuurt maandelijks zo'n 15 
 
 ## BTW-aangifte: waar e-Boekhouden echt scoort
 
-De BTW-aangifte is voor veel ZZP'ers de reden om boekhoudsoftware te nemen. En hier doet e-Boekhouden het uitstekend. Alle boekingen worden automatisch verwerkt met het juiste BTW-tarief (21%, 9%, 0%). Aan het einde van het kwartaal klik je op BTW-aangifte, controleert de cijfers en dient direct in bij de Belastingdienst.
+De BTW-aangifte is voor veel ZZP'ers de reden om boekhoudsoftware te nemen. Wil je weten welk pakket de beste BTW-aangifte biedt? Lees dan ons vergelijkingsartikel over [BTW-aangifte: welke boekhoudsoftware](/blog/btw-aangifte-welke-boekhoudsoftware/) voor een overzicht. En voor wie factureren en boekhouden graag in een tool doet, bekijk dan [factureren en boekhouden alles-in-een](/blog/factureren-en-boekhouden-alles-in-een/).
+
+En hier doet e-Boekhouden het uitstekend. Alle boekingen worden automatisch verwerkt met het juiste BTW-tarief (21%, 9%, 0%). Aan het einde van het kwartaal klik je op BTW-aangifte, controleert de cijfers en dient direct in bij de Belastingdienst.
 
 In mijn test verliep dit foutloos. De software herkent zelf welk tarief bij welke boeking hoort, houdt rekening met intracommunautaire leveringen en ondersteunt de kleineondernemersregeling (KOR). De aangifte zelf kostte me letterlijk drie minuten — en dat is precies wat ik wil.
 

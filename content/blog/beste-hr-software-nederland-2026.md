@@ -474,7 +474,7 @@ Wil je zelf de kosten berekenen voor jouw situatie? De [HR software kostenbereke
 ## Hoe kies je de juiste HR software voor jouw bedrijf?
 
 ### 1. Bepaal je prioriteiten
-Is salarisadministratie je belangrijkste behoefte? Dan scoren Nmbrs, AFAS en Loket.nl het beste -- lees ook mijn vergelijking van de [beste urenregistratie software](/blog/beste-urenregistratie-software-2026/) voor meer opties. Zoek je een breed HR-platform met onboarding, performance management en verlofregistratie? Dan zijn Personio en HiBob sterkere keuzes.
+Is salarisadministratie je belangrijkste behoefte? Dan scoren Nmbrs, AFAS en Loket.nl het beste -- lees ook mijn vergelijking van de [beste urenregistratie software](/blog/beste-urenregistratie-software-2026/) voor meer opties. Zoek je een breed HR-platform met onboarding, performance management en verlofregistratie? Dan zijn Personio en HiBob sterkere keuzes. Als je ook de interne communicatie wilt verbeteren, bekijk dan ook de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/) voor een centraal kennisplatform.
 
 ### 2. Bedrijfsgrootte en groeiplannen
 Voor het kleinere MKB (10-50 medewerkers) zijn Personio en Nmbrs ideaal. Groeiende organisaties (50-200 medewerkers) varen goed bij Personio of HiBob. Grotere organisaties (200+) met complexe behoeften komen eerder uit bij AFAS.
@@ -485,7 +485,7 @@ Als compliance met Nederlandse arbeidswetgeving, de Wet Poortwachter en fiscale 
 ### 4. Integraties met je bestaande software
 Controleer of de HR software integreert met je huidige boekhoudsoftware, CRM en andere tools. Nmbrs heeft een sterke API, Personio biedt 200+ integraties en AFAS biedt een volledig geintegreerd ecosysteem.
 
-Gebruik je al een CRM-systeem? Lees dan onze [vergelijking van de beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) om te kijken welke koppelingen mogelijk zijn.
+Gebruik je al een CRM-systeem? Lees dan onze [vergelijking van de beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) om te kijken welke koppelingen mogelijk zijn. Voor bedrijven in de horeca zijn ook de [beste planning software voor horeca 2026](/blog/beste-planning-software-horeca-2026/) en de [beste ERP software voor MKB 2026](/blog/beste-erp-software-mkb-2026/) relevante aanvullingen op je HR-systeem.
 
 ### 5. Self-service voor medewerkers
 Moderne HR software biedt een self-service portaal waar medewerkers zelf verlof kunnen aanvragen, persoonlijke gegevens kunnen wijzigen en loonstroken kunnen inzien. Dit bespaart je HR-afdeling enorm veel tijd. Alle platformen in dit overzicht bieden dit in meer of mindere mate.
@@ -515,7 +515,7 @@ Lees mijn vergelijking van de [beste loonadministratie software 2026](/blog/best
 
 ### 10. Gebruik de keuzehulp als je er niet uitkomt
 
-Als je na het lezen van dit artikel nog twijfelt, gebruik dan de [HR software keuzehulp](/tools/hr-software/keuzehulp/) — vijf vragen, en je krijgt een concreet advies op basis van je bedrijfsgrootte, prioriteiten en budget.
+Als je na het lezen van dit artikel nog twijfelt, gebruik dan de [HR software keuzehulp](/tools/hr-software/keuzehulp/) — vijf vragen, en je krijgt een concreet advies op basis van je bedrijfsgrootte, prioriteiten en budget. Wil je ook vergaderen en samenwerken met je HR-team professionaliseren? Lees dan mijn overzicht van de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/) voor passende tools.
 
 ## Vergelijking: HR-functies per platform
 

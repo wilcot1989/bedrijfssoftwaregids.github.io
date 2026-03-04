@@ -90,3 +90,5 @@ Een goed HR-systeem neemt de administratieve druk weg zodat jij je kunt focussen
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — vergelijk HR-pakketten voor startende werkgevers
 
 Wil je direct HR software vergelijken? Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/). Wil je ook de kosten vergelijken? Gebruik de [HR software kosten berekenen tool](/tools/hr-software/kosten-berekenen/) voor een berekening op basis van jouw aantal medewerkers.
+
+Een overzicht van alle HR-software vergelijkingen en gidsen staat op de [HR-software overzichtspagina](/categories/hr-software/).

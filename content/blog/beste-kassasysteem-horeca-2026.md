@@ -578,7 +578,7 @@ Wil je specifiek advies voor jouw type horecazaak? De [kassasysteem keuzehulp](/
 
 ### Mag ik ook kijken naar de beste restaurantsoftware?
 
-Een kassasysteem is niet de enige software die je als restauranteigenaar nodig hebt. Er zijn ook reserveringssystemen, restaurant management platforms en HR-tools voor je personeel. Lees mijn overzicht van de [beste restaurantsoftware 2026](/blog/beste-restaurantsoftware-2026/) als je een completer beeld wilt.
+Een kassasysteem is niet de enige software die je als restauranteigenaar nodig hebt. Er zijn ook reserveringssystemen, restaurant management platforms en HR-tools voor je personeel. Lees mijn overzicht van de [beste restaurantsoftware 2026](/blog/beste-restaurantsoftware-2026/) als je een completer beeld wilt. Heb je ook een goed voorraadbeheer systeem nodig? Bekijk dan mijn overzicht van de [beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/) voor een koppeling met je kassasysteem.
 
 En als je ook je kassasysteem wil inrichten — producten invoeren, menukaart opzetten, hardware aansluiten — lees dan mijn [kassasysteem inrichten checklist](/blog/kassasysteem-inrichten-checklist/) zodat je niets vergeet bij de start.
 

@@ -36,7 +36,7 @@ Toen ik vijf jaar geleden voor het eerst Mollie koppelde aan een WooCommerce web
 
 Maar "het werkt gewoon" is niet genoeg voor een Mollie review. In dit artikel duik ik dieper: wat kost Mollie precies per betaalmethode, hoe zit het dashboard in elkaar, waar liggen de beperkingen, en wanneer kies je beter een alternatief als MultiSafepay of Adyen?
 
-Heb je een webshop nodig? Bekijk dan ook mijn vergelijking van de [beste webshop software in Nederland](/blog/beste-webshop-software-2026/).
+Heb je een webshop nodig? Bekijk dan ook mijn vergelijking van de [beste webshop software in Nederland](/blog/beste-webshop-software-2026/). Twijfel je specifiek tussen Shopify en Mijnwebwinkel? Lees dan de [Shopify vs Mijnwebwinkel vergelijking](/blog/shopify-vs-mijnwebwinkel-2026/). Voor een directe vergelijking van betaalproviders, bekijk de [Mollie vs MultiSafepay vergelijking](/blog/mollie-vs-multisafepay-2026/).
 
 
 ## Mollie in het kort
@@ -177,7 +177,7 @@ De koppeling met je boekhouding is net zo belangrijk als de koppeling met je web
 
 In de praktijk zorgt deze koppeling ervoor dat je niet handmatig hoeft te puzzelen welke Mollie-uitbetaling bij welke factuur hoort. Bij een klant die maandelijks 800 transacties verwerkt, scheelt dat letterlijk een werkdag boekhouding.
 
-Meer weten? Bekijk mijn overzicht van de [beste facturatie software voor het MKB](/blog/beste-facturatie-software-mkb-2026/).
+Meer weten? Bekijk mijn overzicht van de [beste facturatie software voor het MKB](/blog/beste-facturatie-software-mkb-2026/). Wil je ook voorraadbeheer koppelen aan je webshop en Mollie? Lees dan het artikel over de [beste voorraadbeheer software](/blog/beste-voorraadbeheer-software-2026/). En als je je klantrelaties wilt managen naast je webshop-omzet, bekijk dan de [beste CRM voor webshops](/blog/beste-crm-webshops-2026/).
 
 ### API en custom integraties
 

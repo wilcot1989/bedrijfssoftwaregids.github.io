@@ -169,6 +169,8 @@ Lees voor een volledige vergelijking ook mijn artikel over de [beste boekhoudsof
 
 Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om te zien welk pakket bij jouw situatie past. Wil je ook de kosten berekenen? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een overzicht op basis van jouw omzet en benodigde functies.
 
+Een volledig overzicht van alle boekhoudsoftware vergelijkingen staat op de [boekhouding overzichtspagina](/categories/boekhouding/). En als je twijfelt tussen Moneybird en andere opties, lees dan de [Moneybird review 2026](/blog/moneybird-review-2026/) voor een gedetailleerde analyse.
+
 ---
 
 ## Lees ook

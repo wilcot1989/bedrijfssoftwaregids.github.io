@@ -169,3 +169,5 @@ Een kassasysteem kiezen dat dit alles goed ondersteunt? Gebruik de [kassasysteem
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — overzicht van kassasystemen met sterke datavolledigheid en exportopties
 - [Kassasysteem verborgen kosten checklist](/blog/kassasysteem-verborgen-kosten-checklist/) — alle kostenposten die je meeneemt voor je tekent
 - [Alle kassasysteem vergelijkingen en reviews](/categories/kassasystemen/) — volledige overzichtspagina
+- [Kassasysteem inrichten checklist](/blog/kassasysteem-inrichten-checklist/) — stap voor stap klaar voor opening
+- [Cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/) — voor- en nadelen per type

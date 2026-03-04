@@ -29,7 +29,7 @@ faq:
     a: "Recruitment software (ATS) richt zich op het wervingsproces: van vacature tot aanname. HR software beheert medewerkers ná aanname: salarisadministratie, verlof, beoordelingen, ziekteverzuim. Sommige platforms (Personio, HiBob) combineren beide in één systeem."
 ---
 
-Een klant van mij vertelde me laatst dat ze hun beste kandidaat waren kwijtgeraakt omdat zijn sollicitatie drie weken onbeantwoord in een gedeelde mailbox lag. Dat soort verhalen hoor ik vaker dan je zou denken. ATS-software (recruitment software) voorkomt dat je talent mist door chaos in je wervingsproces. Dit zijn de 5 ATS-software oplossingen die ik aanbeveel.
+Een klant van mij vertelde me laatst dat ze hun beste kandidaat waren kwijtgeraakt omdat zijn sollicitatie drie weken onbeantwoord in een gedeelde mailbox lag. Dat soort verhalen hoor ik vaker dan je zou denken. ATS-software (recruitment software) voorkomt dat je talent mist door chaos in je wervingsproces. Dit zijn de 5 ATS-software oplossingen die ik aanbeveel. Wil je ook de interne communicatie verbeteren bij het onboarden van nieuwe collega's? Lees mijn vergelijking van de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/).
 
 
 Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking](/blog/beste-hr-software-nederland-2026/). Of vergeet niet te kijken naar de [beste loonadministratie software](/blog/beste-loonadministratie-software-2026/) om de salarissen van je nieuwe medewerkers goed te verwerken. Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een snel persoonlijk advies. Wil je na de aanname ook personeelsdossiers goed digitaal bijhouden? Lees dan mijn gids over [personeelsdossiers digitaliseren conform de AVG](/blog/personeelsdossier-digitaliseren-avg/).
@@ -46,7 +46,7 @@ Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking
 
 ## 1. Recruitee — Beste voor MKB
 
-Van alle ATS-systemen die ik heb ingericht voor klanten, grijp ik het vaakst naar Recruitee. Het is Nederlands, het werkt zoals je verwacht, en hiring managers hebben geen handleiding nodig om ermee aan de slag te gaan. Voor groeiende MKB-bedrijven de beste prijs-kwaliteitverhouding die ik ken.
+Van alle ATS-systemen die ik heb ingericht voor klanten, grijp ik het vaakst naar Recruitee. Het is Nederlands, het werkt zoals je verwacht, en hiring managers hebben geen handleiding nodig om ermee aan de slag te gaan. Voor groeiende MKB-bedrijven de beste prijs-kwaliteitverhouding die ik ken. Wil je ook weten welke projectmanagement tools je kunt gebruiken na de werving? Lees de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/) — maar bekijk ook de [kosten calculator voor HR-software](/tools/hr-software/kosten-berekenen/) om je totale HR-investering door te rekenen. Voor grotere organisaties die ook hun voorraadbeheer willen integreren: lees de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
 ### Belangrijkste functies
 - **Vacature-pipeline** — Visueel overzicht van alle kandidaten per fase
@@ -96,7 +96,7 @@ Homerun adviseer ik aan startups en creatieve bedrijven die weinig budget hebben
 
 ## 3. Personio — HR + Recruitment in één
 
-Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces naadloos wilt laten aansluiten op de werving. Heb je nog maar net je eerste medewerker aangenomen? Lees dan ook [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor de wettelijke verplichtingen die meteen spelen. En als je ook verzuim wilt monitoren, bekijk dan mijn overzicht van [verzuimregistratie software conform de WVP](/blog/verzuimregistratie-wvp-software/).
+Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces naadloos wilt laten aansluiten op de werving. Heb je nog maar net je eerste medewerker aangenomen? Lees dan ook [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor de wettelijke verplichtingen die meteen spelen. En als je ook verzuim wilt monitoren, bekijk dan mijn overzicht van [verzuimregistratie software conform de WVP](/blog/verzuimregistratie-wvp-software/). Wil je ook een goede CRM-tool combineren met je recruitment software? Lees mijn [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/).
 
 ### Belangrijkste functies
 - **ATS** — Pipeline, multiposting, evaluaties
@@ -112,7 +112,7 @@ Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Pe
 
 ## 4. Greenhouse — Beste voor data-driven enterprise
 
-Greenhouse is het ATS waar ik naar verwijs zodra een bedrijf data-gedreven wil werven. Het wordt niet voor niets gebruikt door bedrijven als Airbnb en Stripe. De structured hiring-aanpak dwingt je om betere beslissingen te nemen, maar het is wel een serieuze investering en er is geen Nederlandse interface. Voor de aansturing van je ingehuurde medewerkers na werving is ook goede [projectmanagement software](/blog/beste-projectmanagement-software-2026/) waardevol.
+Greenhouse is het ATS waar ik naar verwijs zodra een bedrijf data-gedreven wil werven. Het wordt niet voor niets gebruikt door bedrijven als Airbnb en Stripe. De structured hiring-aanpak dwingt je om betere beslissingen te nemen, maar het is wel een serieuze investering en er is geen Nederlandse interface. Voor de aansturing van je ingehuurde medewerkers na werving is ook goede [projectmanagement software](/blog/beste-projectmanagement-software-2026/) waardevol. Wil je ook zien hoe je social media kunt inzetten voor je employer branding? Lees mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/).
 
 ### Belangrijkste functies
 - **Structured hiring** — Gestandaardiseerde evaluatiecriteria
@@ -128,7 +128,7 @@ Greenhouse is het ATS waar ik naar verwijs zodra een bedrijf data-gedreven wil w
 
 ## 5. Bullhorn — Beste voor uitzendbureaus
 
-Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk de enige serieuze optie. Ik kom het tegen bij elk bureau van enige omvang. De interface is niet de modernste, maar de combinatie van CRM en ATS is precies wat je nodig hebt als je honderden kandidaten tegelijk beheert. Als je ook een goed CRM wilt voor je relaties met opdrachtgevers, bekijk dan ook de [beste CRM software voor Nederland 2026](/blog/beste-crm-software-nederland-2026/).
+Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk de enige serieuze optie. Ik kom het tegen bij elk bureau van enige omvang. De interface is niet de modernste, maar de combinatie van CRM en ATS is precies wat je nodig hebt als je honderden kandidaten tegelijk beheert. Als je ook een goed CRM wilt voor je relaties met opdrachtgevers, bekijk dan ook de [beste CRM software voor Nederland 2026](/blog/beste-crm-software-nederland-2026/). Wil je meer weten over de urenregistratie van bureau-medewerkers? Lees ook de [keuzehulp voor HR-software](/tools/hr-software/keuzehulp/) of bekijk de [volledige HR-software vergelijking](/categories/hr-software/) — maar zorg ook dat je het snel bijhouden van uren goed inregelt via de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
 
 ### Belangrijkste functies
 - **CRM + ATS** — Kandidaten- en opdrachtgeversbeheer
@@ -152,11 +152,13 @@ Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk d
 | Data-driven, 50+ vacatures | **Greenhouse** | Beste analytics, DEI |
 | Uitzendbureau | **Bullhorn** | CRM + ATS, hoog volume |
 
+Werk je ook met een boekhouder voor je personeelskosten? Lees dan mijn vergelijking van [boekhoudsoftware voor ZZP'ers en MKB](/blog/beste-boekhoudsoftware-zzp-2026/) voor de beste koppelingen.
+
 ## Conclusie
 
-Voor de meeste Nederlandse MKB-bedrijven is **Recruitee** de beste keuze: Nederlands, intuïtief en met de juiste balans tussen functies en prijs. **Homerun** is ideaal als je mooi wilt beginnen met een kleiner budget. Groei je uit je ATS-software? Dan is **Greenhouse** de logische volgende stap. Zoek je ook een manier om ziekteverzuim terug te dringen nadat je mensen hebt aangenomen? Lees dan mijn gids over [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/).
+Voor de meeste Nederlandse MKB-bedrijven is **Recruitee** de beste keuze: Nederlands, intuïtief en met de juiste balans tussen functies en prijs. **Homerun** is ideaal als je mooi wilt beginnen met een kleiner budget. Groei je uit je ATS-software? Dan is **Greenhouse** de logische volgende stap. Zoek je ook een manier om ziekteverzuim terug te dringen nadat je mensen hebt aangenomen? Lees dan mijn gids over [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/). Wil je ook vergaderen en samenwerken efficiënter inrichten na het aannemen van personeel? Lees mijn overzicht van de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/).
 
-Wil je ook de bijbehorende HR-kosten doorrekenen? Gebruik de [HR software kostencalculator](/tools/hr-software/kosten-berekenen/) voor een eerlijk beeld. En bekijk de [volledige HR software vergelijking](/categories/hr-software/) voor een overzicht van alle relevante tools. Heb je een groeiend bedrijf en wil je ook ERP-software overwegen voor je HR-processen? Bekijk dan mijn vergelijking van de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
+Wil je ook de bijbehorende HR-kosten doorrekenen? Gebruik de [HR software kostencalculator](/tools/hr-software/kosten-berekenen/) voor een eerlijk beeld. En bekijk de [volledige HR software vergelijking](/categories/hr-software/) voor een overzicht van alle relevante tools. Heb je een groeiend bedrijf en wil je ook ERP-software overwegen voor je HR-processen? Bekijk dan mijn vergelijking van de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/). Werkt je HR-team ook aan horeca-planning? Lees dan de [beste planning software voor horeca 2026](/blog/beste-planning-software-horeca-2026/). En voor de urenregistratie van nieuwe medewerkers: lees mijn overzicht van de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
 
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**.

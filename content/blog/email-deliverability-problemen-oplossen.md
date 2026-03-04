@@ -99,4 +99,4 @@ Gebruik altijd een dubbele opt-in waarbij de ontvanger zijn aanmelding bevestigt
 
 - [Beste email marketing software 2026](/blog/beste-email-marketing-software-2026/) — welk platform heeft de beste deliverability?
 
-Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/).
+Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/). Bereken ook de [marketing software kosten](/tools/marketing/kosten-berekenen/) voor jouw lijstgrootte om te zien wat een goed e-mailplatform je per maand kost.

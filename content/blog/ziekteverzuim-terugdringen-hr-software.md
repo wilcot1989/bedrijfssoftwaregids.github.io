@@ -149,6 +149,8 @@ De verzuimanalyse, de preventieve surveys, de koppeling met werkdrukdata — dat
 
 Start klein. Houd het bij. En kies een systeem dat de Nederlandse wetgeving kent.
 
+Gebruik de [HR-software kosten berekenen tool](/tools/hr-software/kosten-berekenen/) om te zien wat een goed HR-systeem je per maand kost op basis van je personeelsgrootte. En voor een overzicht van alle HR-software vergelijkingen en reviews, bezoek de [HR-software overzichtspagina](/categories/hr-software/). Wil je specifiek de verzuimkosten in kaart brengen, gebruik dan de [HR-software verzuimkosten berekenen tool](/tools/hr-software/verzuimkosten-berekenen/).
+
 ---
 
 **Lees ook:**

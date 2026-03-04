@@ -84,7 +84,7 @@ Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) voor een aa
 
 Een aandachtspunt bij lokale systemen is dataverlies bij hardwaredefecten. Als de lokale server of kassa-pc uitvalt en er is geen actuele backup, ben je transactiegeschiedenis kwijt. Een kassasysteem dat je wettelijk verplicht bent zeven jaar te bewaren, moet ook daadwerkelijk zeven jaar beschikbaar zijn.
 
-Cloud-systemen lossen dit automatisch op: data wordt extern opgeslagen en is ook bij hardware-uitval direct beschikbaar zodra een vervangend apparaat is geconfigureerd. Bij lokale systemen is een geautomatiseerde dagelijkse backup naar een externe locatie of cloudopslag een onmisbare verplichting.
+Cloud-systemen lossen dit automatisch op: data wordt extern opgeslagen en is ook bij hardware-uitval direct beschikbaar zodra een vervangend apparaat is geconfigureerd. Bij lokale systemen is een geautomatiseerde dagelijkse backup naar een externe locatie of cloudopslag een onmisbare verplichting. Naast de bewaarplicht gelden er in Nederland ook andere wettelijke eisen voor kassasystemen; een volledig overzicht vind je in het artikel over de [fiscale eisen kassasysteem 2026](/blog/fiscale-eisen-kassasysteem-2026/).
 
 Wil je inzicht in de totale kosten van cloud versus lokaal? Gebruik de [kassasysteem kosten berekenen tool](/tools/kassasystemen/kosten-berekenen/) voor een vergelijking op basis van jouw situatie.
 

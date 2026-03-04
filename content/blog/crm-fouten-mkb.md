@@ -77,7 +77,7 @@ Stel na de implementatie drie meetpunten in: adoptie (hoeveel procent van de act
 
 Een pipeline die realtime klopt is meer waard dan een mooie rapportage die gebaseerd is op onvolledige data. Pas als de cijfers betrouwbaar zijn, kun je op basis van het CRM sturen. Wie wil weten hoe je een CRM stap voor stap invoert en adoptie bevordert, vindt een concreet stappenplan in [CRM implementeren in 30 dagen](/blog/crm-implementatieplan-30-dagen/).
 
-Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) als je twijfelt of het huidige systeem de juiste keuze is voor jouw bedrijfsgrootte en sector, of zie de [CRM software sectorgids](/sectoren/crm/) voor een vergelijking per branche.
+Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) als je twijfelt of het huidige systeem de juiste keuze is voor jouw bedrijfsgrootte en sector, of zie de [CRM software sectorgids](/sectoren/crm/) voor een vergelijking per branche. Bereken ook de [CRM kosten](/tools/crm/kosten-berekenen/) voor jouw teamgrootte om te zien wat een goed CRM je per jaar kost.
 
 ## Lees ook
 
