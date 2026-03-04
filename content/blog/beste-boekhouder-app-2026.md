@@ -22,7 +22,7 @@ faq:
   - q: "Kan ik BTW-aangifte doen via een boekhoud-app?"
     a: "Ja, de meeste Nederlandse boekhoud-apps bieden de mogelijkheid om je BTW-aangifte te berekenen en in te dienen bij de Belastingdienst. Moneybird, Jortt en Exact Online ondersteunen dit volledig via de mobiele app of webversie."
   - q: "Wat kost een boekhoud-app gemiddeld?"
-    a: "De kosten variëren van gratis (Jortt en Moneybird Free, met beperkingen) tot circa €16-28 per maand voor volledige functionaliteit. De meeste apps bieden dezelfde functies als de desktopversie tegen dezelfde prijs -- de mobiele app is inbegrepen."
+    a: "De kosten variëren van gratis (Jortt en Moneybird Free, met beperkingen) tot circa €15-39 per maand voor volledige functionaliteit. De meeste apps bieden dezelfde functies als de desktopversie tegen dezelfde prijs -- de mobiele app is inbegrepen."
   - q: "Heb ik een aparte app nodig of zit die bij mijn boekhoudsoftware?"
     a: "De meeste boekhoudsoftware biedt een gratis mobiele app als onderdeel van je abonnement. Je hebt dus geen apart abonnement nodig. Moneybird, Exact Online, e-Boekhouden en Jortt bieden allemaal mobiele apps bij hun standaardpakketten."
   - q: "Kan ik facturen versturen vanuit een boekhoud-app?"
@@ -36,11 +36,11 @@ Een van mijn klanten deed zijn hele boekhouding op zondagavond achter de laptop.
 
 | App | Platform | Startprijs/mnd | Bonnetjes scannen | Facturen | BTW-aangifte | App-kwaliteit |
 |---|---|---|---|---|---|---|
-| **Moneybird** | iOS, Android | Gratis / €16,50 | Uitstekend | Ja | Ja | Uitstekend |
-| **Jortt** | iOS, Android | Gratis / €9 | Goed | Ja | Ja | Zeer goed |
-| **Exact Online** | iOS, Android | €16 | Goed | Ja | Ja | Goed |
+| **Moneybird** | iOS, Android | Gratis / €15 | Uitstekend | Ja | Ja | Uitstekend |
+| **Jortt** | iOS, Android | Gratis / €19,95 | Goed | Ja | Ja | Zeer goed |
+| **Exact Online** | iOS, Android | €48 | Goed | Ja | Ja | Goed |
 | **e-Boekhouden** | iOS, Android | €11,50 | Basis | Ja | Ja | Redelijk |
-| **FreshBooks** | iOS, Android | €8,50 | Goed | Ja | Beperkt | Uitstekend |
+| **FreshBooks** | iOS, Android | $19 (USD) | Goed | Ja | Beperkt | Uitstekend |
 
 ---
 
@@ -63,9 +63,10 @@ De Moneybird app voelt als een natuurlijke extensie van de webversie. De interfa
 
 ### Prijzen
 
-- **Free**: Gratis (10 facturen/jaar, basisfuncties, geen bankkoppeling)
-- **Boekhouden**: €16,50/maand (alles inbegrepen)
-- **Dubbel boekhouden**: €28/maand
+- **Free**: Gratis (3 facturen/maand, basisfuncties, geen bankkoppeling)
+- **Pakket 20**: €15/maand (20 banktransacties, alles inbegrepen)
+- **Pakket 50**: €28/maand (50 banktransacties)
+- **Onbeperkt**: €39/maand (onbeperkte banktransacties)
 
 ### Voordelen
 
@@ -108,8 +109,9 @@ De Jortt app is bijzonder gebruiksvriendelijk. Alles is eenvoudig en overzichtel
 ### Prijzen
 
 - **Gratis**: Basisfuncties (handmatig bankieren)
-- **Compleet**: €9/maand (bankkoppeling, meer functies)
-- **Plus**: €19/maand (extra rapportages)
+- **ZZP**: €19,95/maand (bankkoppeling, volledige functionaliteit voor zzp'ers)
+- **MKB**: €24,95/maand (meerdere gebruikers, uitgebreidere functies)
+- **Plus**: €34,95/maand (extra rapportages, geavanceerde functies)
 
 ### Voordelen
 
@@ -149,9 +151,9 @@ De Exact Online app is functioneel en stabiel, maar voelt minder intuïtief dan 
 
 ### Prijzen
 
-- **Boekhouden ZZP**: €16/maand
-- **Boekhouden Basis**: €33/maand
-- **Boekhouden Compleet**: €56/maand
+- **Essentials**: €48/maand
+- **Advanced**: €62/maand
+- **Professional**: €94/maand
 
 ### Voordelen
 
@@ -192,8 +194,8 @@ De e-Boekhouden app is functioneel maar voelt gedateerder dan de concurrentie. D
 
 ### Prijzen
 
-- **ZZP Compleet**: €11,50/maand
-- **MKB Compleet**: €18,50/maand
+- **ZZP**: €9,95/maand (240 boekingen/jaar)
+- **Onbeperkt**: €14,50/maand
 
 ### Voordelen
 
@@ -234,9 +236,9 @@ De FreshBooks app is een van de best ontworpen boekhoud-apps. De interface is mo
 
 ### Prijzen
 
-- **Lite**: €8,50/maand (5 klanten)
-- **Plus**: €15/maand (50 klanten)
-- **Premium**: €27,50/maand (onbeperkt klanten)
+- **Lite**: $19/maand (USD, 5 klanten)
+- **Plus**: $33/maand (USD, 50 klanten)
+- **Premium**: $60/maand (USD, onbeperkt klanten)
 
 ### Voordelen
 

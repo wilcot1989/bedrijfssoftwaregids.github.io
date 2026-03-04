@@ -14,7 +14,7 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "/images/categories/crm.svg"
 faq:
   - q: "Wat kost Pipedrive per maand?"
-    a: "Pipedrive begint bij €14,90 per gebruiker per maand (Essential-plan, jaarlijks betaald). Het populairste plan, Professional, kost €49,90 per gebruiker per maand. Er is geen gratis plan, maar je kunt 14 dagen gratis uitproberen."
+    a: "Pipedrive begint bij ~$14 per gebruiker per maand (Lite-plan, jaarlijks betaald). Het populairste plan, Premium, kost ~$49 per gebruiker per maand. Er is geen gratis plan, maar je kunt 14 dagen gratis uitproberen."
   - q: "Is Pipedrive geschikt voor Nederlandse bedrijven?"
     a: "Ja, Pipedrive is volledig geschikt voor Nederlandse bedrijven. De interface is beschikbaar in het Nederlands, er worden EUR-valuta en Nederlandse datumformaten ondersteund, en het systeem werkt goed samen met Nederlandse tools en workflows."
   - q: "Wat is het verschil tussen Pipedrive en HubSpot?"
@@ -24,7 +24,7 @@ faq:
   - q: "Hoe goed is de mobiele app van Pipedrive?"
     a: "De mobiele app van Pipedrive is uitstekend. Je kunt deals beheren, activiteiten loggen, contacten bekijken, e-mails versturen en zelfs bellen vanuit de app. De app biedt ook offline-toegang tot je data, wat handig is voor vertegenwoordigers onderweg."
   - q: "Is Pipedrive geschikt voor ZZP'ers?"
-    a: "Ja, Pipedrive is een goede keuze voor ZZP'ers die actief verkopen en hun leads en deals gestructureerd willen bijhouden. Het Essential-plan biedt genoeg functies voor een eenpersoonsbedrijf. De kosten van circa €15 per maand zijn beheersbaar voor de meeste ZZP'ers."
+    a: "Ja, Pipedrive is een goede keuze voor ZZP'ers die actief verkopen en hun leads en deals gestructureerd willen bijhouden. Het Lite-plan biedt genoeg functies voor een eenpersoonsbedrijf. De kosten van circa $14 per maand zijn beheersbaar voor de meeste ZZP'ers."
   - q: "Biedt Pipedrive e-mailmarketing?"
     a: "Ja, Pipedrive biedt basis e-mailmarketing via de Campaigns add-on. Je kunt nieuwsbrieven en campagnes versturen naar je contacten. Voor geavanceerde marketing automation is een gespecialiseerde tool als Mailchimp of ActiveCampaign echter krachtiger."
 ---
@@ -37,7 +37,7 @@ Pipedrive is het CRM dat ik het vaakst aanbeveel aan salesteams van 2 tot 20 man
 | Kenmerk | Details |
 |---|---|
 | **Type** | Sales CRM |
-| **Startprijs** | €14,90/gebruiker/mnd |
+| **Startprijs** | ~$14/gebruiker/mnd |
 | **Gratis plan** | Nee (14 dagen trial) |
 | **Nederlandse interface** | Ja |
 | **Mobiele app** | iOS en Android |
@@ -99,12 +99,12 @@ Dit is een onderschat sterk punt van Pipedrive. Het systeem dwingt je om bij elk
 - Dealvoortgangsrapporten
 - Activiteitenrapporten per medewerker
 - Omzet-forecasting
-- Aanpasbare rapportages (Professional-plan en hoger)
+- Aanpasbare rapportages (Premium-plan en hoger)
 - Exportmogelijkheden naar Excel/CSV
 
 ### Automatiseringen
 
-Vanaf het Advanced-plan biedt Pipedrive workflow-automatiseringen:
+Vanaf het Growth-plan biedt Pipedrive workflow-automatiseringen:
 
 - Automatisch activiteiten aanmaken bij nieuwe deals
 - E-mails versturen op basis van triggers
@@ -127,21 +127,20 @@ Pipedrive heeft in 2025-2026 flink geinvesteerd in AI:
 
 | Plan | Prijs/gebruiker/mnd (jaarlijks) | Belangrijkste functies |
 |---|---|---|
-| **Essential** | €14,90 | Pipeline, contactbeheer, basis rapportages, 3.000 deals |
-| **Advanced** | €27,90 | Alles in Essential + e-mailsync, automatiseringen, scheduler |
-| **Professional** | €49,90 | Alles in Advanced + aangepaste rapporten, e-signing, revenue forecasting |
-| **Power** | €64,90 | Alles in Professional + projectmanagement, telefoon support |
-| **Enterprise** | €99 | Alles in Power + onbeperkte aanpassingen, dedicated support |
+| **Lite** | ~$14 | Pipeline, contactbeheer, basis rapportages, 3.000 deals |
+| **Growth** | ~$24 | Alles in Lite + e-mailsync, automatiseringen, scheduler |
+| **Premium** | ~$49 | Alles in Growth + aangepaste rapporten, e-signing, revenue forecasting, LeadBooster en Projects inbegrepen |
+| **Ultimate** | ~$69 | Alles in Premium + onbeperkte aanpassingen, dedicated support |
 
 **Let op**: Maandelijkse betaling is circa 20% duurder. Alle prijzen zijn per gebruiker, dus de kosten stijgen lineair met het aantal teamleden.
 
 ### Add-ons
 
-- **LeadBooster** (chatbot, webformulieren, prospector): €32,50/bedrijf/mnd
-- **Web Visitors**: €41/bedrijf/mnd
-- **Campaigns** (e-mailmarketing): €13,33/bedrijf/mnd
-- **Smart Docs** (documentautomatisering): €32,50/bedrijf/mnd
-- **Projects** (projectmanagement): €6,70/bedrijf/mnd
+- **LeadBooster** (chatbot, webformulieren, prospector): inbegrepen bij Premium en Ultimate; als add-on ~€32,50/bedrijf/mnd bij lagere plannen
+- **Web Visitors**: ~€41/bedrijf/mnd
+- **Campaigns** (e-mailmarketing): ~€13,33/bedrijf/mnd
+- **Smart Docs** (documentautomatisering): ~€32,50/bedrijf/mnd
+- **Projects** (projectmanagement): inbegrepen bij Premium en Ultimate; als add-on ~€6,70/bedrijf/mnd bij lagere plannen
 
 ---
 
@@ -157,7 +156,7 @@ De mobiele app is een van de beste die ik in CRM-land ben tegengekomen. Deals be
 
 ### 3. Effectieve automatiseringen
 
-Vanaf het Advanced-plan worden de automatiseringen serieus nuttig. Ik stel bij klanten standaard een paar workflows in: automatisch een follow-up taak na een demo, een e-mail bij statuswijziging, een notificatie als een deal te lang stilstaat. Geen technische kennis nodig, en het scheelt uren per week.
+Vanaf het Growth-plan worden de automatiseringen serieus nuttig. Ik stel bij klanten standaard een paar workflows in: automatisch een follow-up taak na een demo, een e-mail bij statuswijziging, een notificatie als een deal te lang stilstaat. Geen technische kennis nodig, en het scheelt uren per week.
 
 ### 4. Goede integraties
 
@@ -181,13 +180,13 @@ Pipedrive is volledig beschikbaar in het Nederlands, inclusief de helpdocumentat
 
 Dit is het punt waar ik klanten altijd eerlijk over ben: Pipedrive is een sales-tool, geen marketing-platform. De Campaigns add-on is prima voor een simpele nieuwsbrief, maar als je serieuze campagnes wilt draaien, heb je iets als HubSpot of ActiveCampaign ernaast nodig.
 
-### 2. Rapportages in het Essential-plan zijn beperkt
+### 2. Rapportages in het Lite-plan zijn beperkt
 
-Een veelvoorkomende frustratie die ik tegenkom: je start met het Essential-plan, maar zodra je serieuze rapportages wilt draaien, moet je naar Professional (€49,90/gebruiker/mnd). Dat is een flinke stap die de kosten snel opdrijft.
+Een veelvoorkomende frustratie die ik tegenkom: je start met het Lite-plan, maar zodra je serieuze rapportages wilt draaien, moet je naar Premium (~$49/gebruiker/mnd). Dat is een flinke stap die de kosten snel opdrijft.
 
 ### 3. Kosten lopen op bij groeiende teams
 
-De per-user pricing is fair, maar het tikt door. Ik reken het altijd even voor bij klanten: 10 verkopers op Professional is €499 per maand, en dan komen de add-ons er nog bovenop. Niet onredelijk voor wat je krijgt, maar iets om bewust mee te nemen in je budget.
+De per-user pricing is fair, maar het tikt door. Ik reken het altijd even voor bij klanten: 10 verkopers op Premium is ~$490 per maand, en dan komen de add-ons er nog bovenop. Niet onredelijk voor wat je krijgt, maar iets om bewust mee te nemen in je budget.
 
 ### 4. Geen gratis plan
 
@@ -195,7 +194,7 @@ Dit merk ik vooral bij ZZP'ers die aarzelen: er is geen gratis plan. Je krijgt 1
 
 ### 5. Customer service kan beter
 
-De chat-support is doorgaans prima — snelle reacties op standaardvragen. Maar bij complexere issues heb ik gemerkt dat het langer duurt, en telefonische ondersteuning zit pas in het Power-plan. Voor teams die af en toe een helpdesk-medewerker aan de lijn willen hebben, is dat een minpunt.
+De chat-support is doorgaans prima — snelle reacties op standaardvragen. Maar bij complexere issues heb ik gemerkt dat het langer duurt, en telefonische ondersteuning zit pas in het Ultimate-plan. Voor teams die af en toe een helpdesk-medewerker aan de lijn willen hebben, is dat een minpunt.
 
 ---
 
@@ -206,7 +205,7 @@ Benieuwd hoe Pipedrive zich verhoudt tot andere CRM-systemen? Lees onze [HubSpot
 | Kenmerk | Pipedrive | HubSpot CRM | Salesforce |
 |---|---|---|---|
 | **Focus** | Sales | Marketing + Sales + Service | Enterprise CRM |
-| **Startprijs** | €14,90/gebruiker/mnd | Gratis (beperkt) / €20/mnd | €25/gebruiker/mnd |
+| **Startprijs** | ~$14/gebruiker/mnd | Gratis (beperkt) / €20/mnd | €25/gebruiker/mnd (Starter Suite) |
 | **Gebruiksgemak** | Uitstekend | Goed | Matig (steil leercurve) |
 | **Pipeline** | Visueel, intuïtief | Goed | Uitgebreid, complex |
 | **Marketing** | Basaal (add-on) | Uitstekend | Goed (via add-ons) |
@@ -263,9 +262,9 @@ Kort antwoord: ja. Pipedrive is het CRM dat ik het vaakst aanbeveel, en waar ik 
 
 **Mijn aanbeveling**:
 
-- **Start met het Advanced-plan** (€27,90/gebruiker/mnd) voor de beste balans tussen functies en prijs. De automatiseringen en e-mailsync die hier worden toegevoegd, zijn voor de meeste teams essentieel.
-- **Kies Professional** (€49,90/gebruiker/mnd) als je uitgebreide rapportages en revenue forecasting nodig hebt.
-- **ZZP'ers** kunnen prima starten met het Essential-plan (€14,90/mnd) en upgraden wanneer nodig.
+- **Start met het Growth-plan** (~$24/gebruiker/mnd) voor de beste balans tussen functies en prijs. De automatiseringen en e-mailsync die hier worden toegevoegd, zijn voor de meeste teams essentieel.
+- **Kies Premium** (~$49/gebruiker/mnd) als je uitgebreide rapportages en revenue forecasting nodig hebt.
+- **ZZP'ers** kunnen prima starten met het Lite-plan (~$14/mnd) en upgraden wanneer nodig.
 
 <a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 

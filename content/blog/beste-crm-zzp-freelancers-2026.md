@@ -24,7 +24,7 @@ faq:
   - q: "Wat is het verschil tussen een CRM en een contactenlijst?"
     a: "Een contactenlijst (zoals Google Contacts) slaat alleen basisgegevens op. Een CRM gaat verder door ook interacties, communicatiehistorie, verkoopkansen, taken en notities per contact bij te houden. Een CRM helpt je actief om klantrelaties te beheren en verkoopkansen te benutten."
   - q: "Hoeveel kost een CRM voor ZZP'ers gemiddeld?"
-    a: "Als ZZP'er kun je starten met een gratis CRM zoals HubSpot (gratis) of Notion (gratis plan). Betaalde CRM's voor ZZP'ers kosten doorgaans tussen 10 en 30 euro per maand. Pipedrive begint bij 14,90 euro per maand en Freshsales bij 9 euro per maand."
+    a: "Als ZZP'er kun je starten met een gratis CRM zoals HubSpot (gratis) of Notion (gratis plan). Betaalde CRM's voor ZZP'ers kosten doorgaans tussen 10 en 30 euro per maand. Pipedrive begint bij ~$14 per gebruiker per maand en Freshsales bij $15 per gebruiker per maand."
   - q: "Kan ik een CRM ook op mijn telefoon gebruiken?"
     a: "Ja, alle CRM-systemen in dit artikel bieden een mobiele app of zijn via de mobiele browser toegankelijk. HubSpot, Pipedrive en Freshsales hebben uitstekende mobiele apps waarmee je onderweg klantgegevens kunt inzien, notities kunt toevoegen en deals kunt bijwerken."
 ---
@@ -39,7 +39,7 @@ Zoek je een breder overzicht van CRM-oplossingen, ook voor grotere teams? Bekijk
 | CRM Software | Startprijs/mnd | Gratis plan | Mobiele app | Facturatie-integratie | Beste voor |
 |---|---|---|---|---|---|
 | **HubSpot Free CRM** | Gratis / €15 | Ja (uitgebreid) | Ja | Ja (via integratie) | Beste gratis optie |
-| **Pipedrive** | €14,90/gebruiker | Nee (14 dagen trial) | Ja | Ja (Moneybird, Exact) | Actieve acquisitie |
+| **Pipedrive** | ~$14/gebruiker | Nee (14 dagen trial) | Ja | Ja (Moneybird, Exact) | Actieve acquisitie |
 | **Monday CRM** | €12/gebruiker | Ja (beperkt) | Ja | Beperkt | Projectmatig werken |
 | **Notion (als CRM)** | Gratis / €10 | Ja | Ja | Nee (handmatig) | Alles-in-een werkruimte |
 | **Google Contacts + Sheets** | Gratis | Ja | Ja | Nee | Budget nul euro |
@@ -96,13 +96,13 @@ Pipedrive is voor de ZZP'er die serieus aan acquisitie doet. Ik adviseerde het l
 - AI-gestuurde verkooptips
 - Contactbeheer met communicatiehistorie
 - Mobiele app met offline toegang
-- Workflow-automatiseringen (vanaf Advanced)
+- Workflow-automatiseringen (vanaf Growth)
 - Rapportages over deals en activiteiten
 
 ### Prijzen (2026)
-- **Essential**: €14,90/maand
-- **Advanced**: €27,90/maand
-- **Professional**: €49,90/maand
+- **Lite**: vanaf ~$14/gebruiker/maand
+- **Growth**: vanaf ~$24/gebruiker/maand
+- **Premium**: vanaf ~$49/gebruiker/maand
 
 ### Voordelen
 - Intuïtieve interface, snel productief
@@ -236,7 +236,7 @@ Dit is de optie die ik noem als iemand zegt: "Ik heb echt nul euro budget." Goog
 
 ## 6. Freshsales
 
-Freshsales is mijn dark horse in dit overzicht. Weinig ZZP'ers kennen het, maar het biedt opvallend veel voor de prijs: AI-lead scoring, ingebouwde telefonie en e-mail, en een betaald plan vanaf slechts €9 per maand. Ik heb het getest als alternatief voor Pipedrive en was positief verrast. Het enige nadeel: de Nederlandse community is klein, dus je bent meer op jezelf aangewezen.
+Freshsales is mijn dark horse in dit overzicht. Weinig ZZP'ers kennen het, maar het biedt opvallend veel voor de prijs: AI-lead scoring, ingebouwde telefonie en e-mail, en een betaald plan vanaf slechts $15 per gebruiker per maand. Ik heb het getest als alternatief voor Pipedrive en was positief verrast. Het enige nadeel: de Nederlandse community is klein, dus je bent meer op jezelf aangewezen.
 
 ### Belangrijkste functies
 - Contactbeheer met activiteitentijdlijn
@@ -250,12 +250,12 @@ Freshsales is mijn dark horse in dit overzicht. Weinig ZZP'ers kennen het, maar 
 
 ### Prijzen (2026)
 - **Free**: Gratis (basiscontactbeheer, beperkte functies)
-- **Growth**: €9/maand
-- **Pro**: €39/maand
-- **Enterprise**: €59/maand
+- **Growth**: $15/gebruiker/maand
+- **Pro**: $39/gebruiker/maand
+- **Enterprise**: $69/gebruiker/maand
 
 ### Voordelen
-- Lage instapprijs (€9/mnd voor Growth)
+- Lage instapprijs ($15/mnd per gebruiker voor Growth)
 - Ingebouwde telefonie en e-mail (geen extra tools nodig)
 - AI-lead scoring helpt prioriteren
 - Goed gratis plan om mee te starten
@@ -283,7 +283,7 @@ Je hebt nog weinig klanten en een minimaal budget. **Start met [HubSpot Free CRM
 
 ### Scenario 2: Je doet actief acquisitie
 
-Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces stroomlijnen. **Kies [Pipedrive](https://www.pipedrive.com/nl)**. De visuele pipeline en automatische herinneringen zorgen dat je geen kans mist. De investering van €14,90/maand verdient zich snel terug als je er een extra opdracht mee binnenhaalt.
+Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces stroomlijnen. **Kies [Pipedrive](https://www.pipedrive.com/nl)**. De visuele pipeline en automatische herinneringen zorgen dat je geen kans mist. De investering van ~$14/maand verdient zich snel terug als je er een extra opdracht mee binnenhaalt.
 
 ### Scenario 3: Je combineert sales met projecten
 

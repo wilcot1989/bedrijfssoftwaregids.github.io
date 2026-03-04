@@ -122,12 +122,12 @@ Later raad ik aan zodra een klant zegt "Instagram en TikTok zijn onze belangrijk
 - **Stories en Reels** — Plan en publiceer visuele content
 - **UGC-beheer** — Hergebruik user-generated content
 
-### Prijzen
+### Prijzen (in USD)
 | Plan | Prijs/mnd | Social sets | Posts/profiel |
 |------|----------|-----------|-------------|
-| Starter | €25 | 1 (6 kanalen) | 30/maand |
-| Growth | €45 | 3 | 150/maand |
-| Advanced | €80 | 6 | Onbeperkt |
+| Starter | $25 | 1 (6 kanalen) | 30/maand |
+| Growth | $50 | 3 | 150/maand |
+| Scale | $110 | 6 | Onbeperkt |
 
 **✅ Voordelen:** Beste visuele planner, Instagram-focus, Linkin.bio, betaalbaar
 **❌ Nadelen:** Minder geschikt voor B2B/LinkedIn, beperktere analytics

@@ -14,7 +14,7 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 featured_image: "/images/categories/webshops.svg"
 faq:
   - q: "Wat kost Mollie per transactie?"
-    a: "Mollie rekent per transactie zonder maandelijkse vaste kosten. De kosten variëren per betaalmethode: iDEAL kost €0,29 per transactie, creditcard 1,8% + €0,25, Bancontact €0,39 en PayPal 1,5% + €0,25. Er zijn geen opstartkosten of verborgen tarieven."
+    a: "Mollie rekent per transactie zonder maandelijkse vaste kosten. De kosten variëren per betaalmethode: iDEAL kost €0,32 per transactie, creditcard 1,8% + €0,25, Bancontact €0,39 en PayPal 1,5% + €0,25. Er zijn geen opstartkosten of verborgen tarieven."
   - q: "Is Mollie geschikt voor kleine webshops?"
     a: "Ja, Mollie is juist geschikt voor kleine webshops omdat er geen maandelijkse kosten of minimumvolume-eisen zijn. Je betaalt alleen per transactie. Zodra je meer volume draait, kun je onderhandelen over lagere tarieven."
   - q: "Wat is het verschil tussen Mollie en MultiSafepay?"
@@ -60,7 +60,7 @@ De kosten zijn het eerste waar iedereen naar vraagt, en terecht. Mollie rekent g
 
 | Betaalmethode | Kosten per transactie | Geschikt voor |
 |---|---|---|
-| **iDEAL** | €0,29 | Standaard in elke Nederlandse webshop |
+| **iDEAL** | €0,32 | Standaard in elke Nederlandse webshop |
 | **Bancontact** | €0,39 | Belgische klanten |
 | **Creditcard** (Visa, Mastercard, Amex) | 1,8% + €0,25 | Internationale klanten |
 | **PayPal** | 1,5% + €0,25 | Klanten zonder iDEAL |
@@ -82,17 +82,17 @@ De kosten zijn het eerste waar iedereen naar vraagt, en terecht. Mollie rekent g
 Laat ik concreet maken wat Mollie kost bij verschillende scenario's. Dit zijn berekeningen die ik voor klanten maak:
 
 **Kleine webshop (100 bestellingen/maand, gemiddeld €50)**
-- 85% iDEAL: 85 x €0,29 = €24,65
+- 85% iDEAL: 85 x €0,32 = €27,20
 - 10% creditcard: 10 x (1,8% van €50 + €0,25) = €11,50
 - 5% PayPal: 5 x (1,5% van €50 + €0,25) = €5,00
-- **Totaal: circa €41 per maand** (0,82% van de omzet)
+- **Totaal: circa €44 per maand** (0,88% van de omzet)
 
 **Middelgrote webshop (1.000 bestellingen/maand, gemiddeld €75)**
-- 80% iDEAL: 800 x €0,29 = €232,00
+- 80% iDEAL: 800 x €0,32 = €256,00
 - 12% creditcard: 120 x (1,8% van €75 + €0,25) = €192,00
 - 5% PayPal: 50 x (1,5% van €75 + €0,25) = €68,75
 - 3% Klarna: 30 x (2,99% van €75 + €0,29) = €76,00
-- **Totaal: circa €569 per maand** (0,76% van de omzet)
+- **Totaal: circa €593 per maand** (0,79% van de omzet)
 
 Bij hoge volumes kun je contact opnemen met Mollie voor volume-kortingen. In mijn ervaring begint Mollie te onderhandelen vanaf circa 5.000 transacties per maand.
 
@@ -237,7 +237,7 @@ In mijn ervaring:
 
 ### Wat gebruikers zeggen
 
-Op Trustpilot scoort Mollie rond de 4,0 op 5 sterren. De positieve reviews gaan vrijwel altijd over het gebruiksgemak en de snelle integratie. De negatieve reviews gaan meestal over:
+Op Trustpilot scoort Mollie 4,5 op 5 sterren (11.000+ reviews). De positieve reviews gaan vrijwel altijd over het gebruiksgemak en de snelle integratie. De negatieve reviews gaan meestal over:
 
 - **Accountblokkering**: Mollie blokkeert soms accounts zonder duidelijke vooraankondiging bij vermoeden van fraude of hoog risico. Ik ken ondernemers die hier tegenaan liepen -- frustrerend, maar het is een branchebreed probleem bij PSP's
 - **Support-snelheid**: bij problemen kan het te lang duren
@@ -277,7 +277,7 @@ Op G2 scoort Mollie circa 4,2 op 5 sterren, met name hoge scores op gebruiksgema
 
 | Kenmerk | Mollie | MultiSafepay | Adyen | Stripe |
 |---|---|---|---|---|
-| **iDEAL kosten** | €0,29 | €0,29 | Variabel | €0,29 |
+| **iDEAL kosten** | €0,32 | €0,29 | Variabel | €0,29 |
 | **Creditcard kosten** | 1,8% + €0,25 | 1,5% + €0,25 | Variabel (lager) | 1,5% + €0,25 |
 | **Vaste kosten** | Geen | Geen | Variabel | Geen |
 | **Dashboard** | Uitstekend | Goed | Goed (complex) | Goed |
@@ -285,7 +285,7 @@ Op G2 scoort Mollie circa 4,2 op 5 sterren, met name hoge scores op gebruiksgema
 | **NL webshop plugins** | Zeer breed | Breed | Beperkt | Breed |
 | **Recurring payments** | Ja | Ja | Ja | Ja |
 | **Geschikt voor** | MKB, starters | MKB, volume | Enterprise, internationaal | Tech-savvy, internationaal |
-| **Trustpilot score** | ±4,0/5 | ±3,8/5 | ±3,5/5 | ±3,0/5 |
+| **Trustpilot score** | 4,5/5 (11.000+ reviews) | ±3,8/5 | ±3,5/5 | ±3,0/5 |
 
 ### Mollie vs. MultiSafepay
 

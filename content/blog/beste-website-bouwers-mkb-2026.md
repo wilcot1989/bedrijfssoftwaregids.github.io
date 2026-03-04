@@ -36,7 +36,7 @@ Wat is de beste websitebouwer voor het MKB? Ik zie regelmatig bedrijven die duiz
 |----------|-----------|-------------|-------------|-----|---------|------------|
 | **WordPress** | €5/mnd + hosting | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ (WooCommerce) | Content, SEO, maatwerk |
 | **Wix** | €17/mnd | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | Beginners, snelheid |
-| **Squarespace** | €16/mnd | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | Design, portfolio |
+| **Squarespace** | $16/mnd (USD) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | Design, portfolio |
 | **Webflow** | €14/mnd | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ (basis) | Designers, maatwerk |
 | **Shopify** | €36/mnd | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | E-commerce |
 
@@ -78,9 +78,9 @@ Wix is het platform dat ik aanbeveel aan MKB-klanten zonder technische kennis di
 | Plan | Prijs/mnd | Highlights |
 |------|----------|------------|
 | **Light** | €17 | 2GB opslag, geen e-commerce |
-| **Core** | €23 | 50GB opslag, basis analytics |
-| **Business** | €30 | Webshop, online betalingen |
-| **Business Elite** | €170 | Priority support, geavanceerd |
+| **Core** | ~$29/mnd (USD) | 50GB opslag, basis analytics |
+| **Business** | ~$39/mnd (USD) | Webshop, online betalingen |
+| **Business Elite** | ~$159/mnd (USD) | Priority support, geavanceerd |
 
 **✅ Voordelen:** Makkelijkst te gebruiken, AI-bouwer, alles-in-één, snel online
 **❌ Nadelen:** Minder flexibel dan WordPress, website niet verplaatsbaar, SEO beperkter
@@ -97,13 +97,13 @@ Squarespace adviseer ik aan fotografen, architecten, restaurants -- elk bedrijf 
 - Wil professioneel ogen zonder designer in te huren
 - Basis webshop (minder dan 100 producten)
 
-### Kosten
+### Kosten (USD, jaarlijks)
 | Plan | Prijs/mnd | Highlights |
 |------|----------|------------|
-| **Personal** | €16 | Website, blog, SSL, onbeperkt bandbreedte |
-| **Business** | €25 | + E-commerce, analytics, pop-ups |
-| **Commerce Basic** | €30 | + Geen transactiekosten, voorraadbeheer |
-| **Commerce Advanced** | €46 | + Abandoned cart recovery, subscriptions |
+| **Basic** | $16 | Website, blog, SSL, onbeperkt bandbreedte |
+| **Core** | $23 | + E-commerce, analytics, pop-ups |
+| **Plus** | $39 | + Geen transactiekosten, voorraadbeheer |
+| **Advanced** | $99 | + Abandoned cart recovery, subscriptions |
 
 **✅ Voordelen:** Mooiste templates, professioneel design, goede blogfunctie
 **❌ Nadelen:** Minder plugins dan WordPress, beperktere aanpassingsmogelijkheden

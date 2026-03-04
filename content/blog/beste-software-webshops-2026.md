@@ -18,7 +18,7 @@ faq:
   - q: "Wat kost het totaalpakket aan software voor een webshop per maand?"
     a: "Voor een startende webshop reken ik op circa 50 tot 150 euro per maand. Dat is opgebouwd uit het webshopplatform (20 tot 80 euro), betaalprovider (transactiekosten, geen vast bedrag bij Mollie), verzending (vanaf 0 tot 50 euro), en optioneel e-mail marketing (0 tot 30 euro). Bij WooCommerce op eigen hosting kun je goedkoper uit, maar investeer je meer tijd."
   - q: "Welke betaalprovider is het beste voor een Nederlandse webshop?"
-    a: "Mollie is de populairste keuze voor Nederlandse webshops. Je betaalt geen vaste maandkosten, alleen transactiekosten (0,29 euro per iDEAL-transactie). Mollie ondersteunt iDEAL, creditcard, Klarna, Apple Pay en meer. MultiSafepay is een goed alternatief met vergelijkbare tarieven en iets meer betaalmethoden."
+    a: "Mollie is de populairste keuze voor Nederlandse webshops. Je betaalt geen vaste maandkosten, alleen transactiekosten (0,32 euro per iDEAL-transactie). Mollie ondersteunt iDEAL, creditcard, Klarna, Apple Pay en meer. MultiSafepay is een goed alternatief met iets lagere iDEAL-kosten (€0,29) en meer betaalmethoden."
   - q: "Moet ik een apart voorraadbeheer systeem kopen?"
     a: "Dat hangt af van je situatie. Verkoop je alleen via je eigen webshop met minder dan 500 producten? Dan volstaat het ingebouwde voorraadbeheer van je platform. Verkoop je via meerdere kanalen (webshop plus bol.com plus marktplaats) of heb je meer dan 1.000 SKU's? Dan loont een dedicated tool als Picqer of Exact Online."
   - q: "Kan ik later overstappen naar een ander webshopplatform?"
@@ -199,7 +199,7 @@ Lees ook mijn uitgebreide [Mollie review](/blog/mollie-review-2026/) en de [Moll
 Mollie is de betaalprovider die ik aan 9 van de 10 webshops aanbeveel. De reden: geen vaste maandkosten, transparante transactietarieven, en integraties met vrijwel elk webshopplatform.
 
 **Tarieven (april 2026):**
-- iDEAL: €0,29 per transactie
+- iDEAL: €0,32 per transactie
 - Creditcard: 1,8% + €0,25 per transactie
 - Klarna (achteraf betalen): 2,99% + €0,29
 - Bancontact: €0,39 per transactie
@@ -213,7 +213,7 @@ Mollie is de betaalprovider die ik aan 9 van de 10 webshops aanbeveel. De reden:
 MultiSafepay is het alternatief dat ik noem als webshops hoge volumes draaien (meer dan €50.000/maand). De tarieven zijn vergelijkbaar met Mollie, maar bij grotere volumes kun je onderhandelen over korting. MultiSafepay biedt daarnaast iets meer betaalmethoden out-of-the-box.
 
 **Tarieven (april 2026):**
-- iDEAL: €0,29 per transactie (lager tarief bij hoog volume)
+- iDEAL: €0,29 per transactie (lager tarief bij hoog volume, goedkoper dan Mollie)
 - Creditcard: 1,5-1,9% + €0,25
 - Geen vaste maandkosten op het Connect-plan
 
@@ -224,7 +224,7 @@ MultiSafepay is het alternatief dat ik noem als webshops hoge volumes draaien (m
 | Criterium | Mollie | MultiSafepay |
 |---|---|---|
 | Instapdrempel | Laag (geen vaste kosten) | Laag (geen vaste kosten) |
-| iDEAL-tarief | €0,29 | €0,29 (lager bij volume) |
+| iDEAL-tarief | €0,32 | €0,29 (lager bij volume) |
 | Dashboard | Modern, overzichtelijk | Functioneel, iets complexer |
 | Integraties | 100+ | 80+ |
 | Beste voor | Starters en MKB | Hoog volume en maatwerk |
@@ -343,7 +343,7 @@ Je webshop genereert facturen, btw-aangiftes en financiele overzichten. Een goed
 
 **De drie populairste opties voor webshop-eigenaren:**
 
-1. **Moneybird** (vanaf €16,50/mnd) -- populairst bij zzp'ers en kleine webshops. Directe koppelingen met Shopify, WooCommerce en CCV Shop.
+1. **Moneybird** (vanaf €15/mnd) -- populairst bij zzp'ers en kleine webshops. Directe koppelingen met Shopify, WooCommerce en CCV Shop.
 
 2. **Exact Online** (vanaf €45/mnd) -- de standaard voor MKB. Sterke voorraadbeheer-integratie.
 
@@ -364,7 +364,7 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 | Betalingen | Ingebouwd (iDEAL standaard) | Transactiekosten |
 | Verzending | MyParcel (gratis) | Alleen verzendkosten |
 | E-mail | Brevo gratis plan | €0 |
-| Boekhouding | Moneybird Basis | €16,50/mnd |
+| Boekhouding | Moneybird Basis | €15/mnd |
 | **Totaal** | | **~€30-50/mnd** |
 
 ### Groeiende webshop (100-5.000 producten, ambitie)
@@ -397,7 +397,7 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 | Betalingen | Mollie (gratis plugin) | Transactiekosten |
 | Verzending | MyParcel (gratis plugin) | Alleen verzendkosten |
 | SEO | Yoast SEO | Gratis / €99/jaar |
-| Boekhouding | Moneybird (WooCommerce-plugin) | €16,50/mnd |
+| Boekhouding | Moneybird (WooCommerce-plugin) | €15/mnd |
 | **Totaal** | | **~€25-50/mnd** |
 
 ### Alleen Nederland, alles moet gewoon werken
@@ -451,7 +451,7 @@ Dit is het totaaloverzicht dat ik aan klanten geef als ze vragen: "Wat kost het 
 </tr>
 <tr>
 <td><strong>Boekhouding</strong></td>
-<td>Moneybird (€16,50/mnd)</td>
+<td>Moneybird (€15/mnd)</td>
 <td>Exact Online (€45/mnd)</td>
 <td>Exact Online (€45/mnd)</td>
 </tr>

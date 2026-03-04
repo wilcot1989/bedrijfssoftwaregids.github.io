@@ -20,11 +20,11 @@ faq:
   - q: "Kan ik mijn BTW-aangifte doen via e-Boekhouden?"
     a: "Ja, e-Boekhouden berekent automatisch je BTW op basis van je boekingen en laat je de aangifte direct indienen bij de Belastingdienst. Dit werkt voor de reguliere BTW-aangifte en ondersteunt alle gangbare BTW-tarieven (21%, 9%, 0%) en de kleineondernemersregeling (KOR)."
   - q: "Hoe scoort e-Boekhouden op Trustpilot?"
-    a: "e-Boekhouden scoort een 4.6 uit 5 op Trustpilot, gebaseerd op ruim 1.850 reviews. Dat is de hoogste score van alle Nederlandse boekhoudpakketten. Opvallend is dat e-Boekhouden op 100% van de negatieve reviews reageert, meestal binnen 48 uur."
+    a: "e-Boekhouden scoort een 4.6 uit 5 op Trustpilot, gebaseerd op ruim 1.850 reviews. Dat is een van de hoogste scores van Nederlandse boekhoudpakketten — alleen Jortt scoort iets hoger (4.7), maar op aanzienlijk minder reviews. Opvallend is dat e-Boekhouden op 100% van de negatieve reviews reageert, meestal binnen 48 uur."
   - q: "Kan mijn boekhouder meekijken in e-Boekhouden?"
     a: "Ja, e-Boekhouden biedt een boekhouderskoppeling waarmee je accountant direct toegang krijgt tot je administratie. Veel Nederlandse boekhouders ondersteunen deze koppeling. Je boekhouder kan meekijken, correcties doorvoeren en je jaarrekening opstellen vanuit hetzelfde systeem."
   - q: "Wat is het verschil tussen e-Boekhouden en Moneybird?"
-    a: "e-Boekhouden is goedkoper (€9,95 vs. €14,50 per maand voor een vergelijkbaar pakket) en biedt telefonische support en uitgebreidere rapportages. Moneybird heeft een modernere interface, een betere mobiele app en slimmere automatische categorisering van banktransacties. Voor budgetbewuste ondernemers is e-Boekhouden de betere keuze, voor wie gebruiksgemak prioriteit geeft is Moneybird sterker."
+    a: "e-Boekhouden is goedkoper (€9,95 vs. €15 per maand voor een vergelijkbaar pakket) en biedt telefonische support en uitgebreidere rapportages. Moneybird heeft een modernere interface, een betere mobiele app en slimmere automatische categorisering van banktransacties. Voor budgetbewuste ondernemers is e-Boekhouden de betere keuze, voor wie gebruiksgemak prioriteit geeft is Moneybird sterker."
   - q: "Is e-Boekhouden gratis voor starters?"
     a: "Ja, als je KvK-inschrijving minder dan 15 maanden oud is, kun je e-Boekhouden tot 15 maanden gratis gebruiken. Dit is het meest genereuze startersaanbod in de Nederlandse boekhoudmarkt. Na afloop betaal je het reguliere tarief vanaf €9,95 per maand."
 ---
@@ -87,12 +87,12 @@ Ter vergelijking: Moneybird biedt een gratis plan met maximaal 10 facturen per j
 | Software | Vergelijkbaar pakket | Prijs/maand | Prijs/jaar | Verschil t.o.v. e-Boekhouden |
 |---|---|---|---|---|
 | **e-Boekhouden** | ZZP | €9,95 | €119 | — |
-| **Moneybird** | Mini | €9,95 | €119 | Gelijk |
-| **Moneybird** | Standaard | €14,50 | €174 | +€55/jaar |
+| **Moneybird** | Pakket 20 | €15 | €180 | +€61/jaar |
+| **Moneybird** | Pakket 50 | €28 | €336 | +€217/jaar |
 | **Jortt** | Compleet | €9,00 | €108 | -€11/jaar |
-| **Exact Online** | Boekhouden ZZP | ±€16,00 | ±€192 | +€73/jaar |
+| **Exact Online** | Boekhouden ZZP | €48 | €576 | +€457/jaar |
 
-Het instapmodel van e-Boekhouden zit qua prijs gelijk met Moneybird Mini, maar je krijgt er meer voor: volledige BTW-aangifte, uitgebreidere rapportages en telefonische support. Dat maakt het netto een betere deal.
+Het instapmodel van e-Boekhouden (€9,95) is goedkoper dan Moneybird Pakket 20 (€15), en je krijgt er meer voor: volledige BTW-aangifte, uitgebreidere rapportages en telefonische support. Dat maakt het netto een betere deal.
 
 
 ## De interface: functioneel, niet fancy
@@ -204,7 +204,7 @@ Ik baseer mijn reviews niet alleen op eigen gebruik. Wat zeggen echte gebruikers
 
 **Trustpilot: 4.6/5 (1.857 reviews, gecheckt maart 2026)**
 
-Dat is de hoogste score van alle Nederlandse boekhoudpakketten. Ter vergelijking:
+Dat is een van de hoogste scores van Nederlandse boekhoudpakketten met significant reviewvolume. Ter vergelijking:
 
 | Software | Trustpilot score | Aantal reviews |
 |---|---|---|
@@ -290,8 +290,8 @@ Na jaren ondernemers te adviseren, zie ik steeds dezelfde fouten:
 
 | Kenmerk | e-Boekhouden | Moneybird | Exact Online |
 |---|---|---|---|
-| **Startprijs/mnd** | €9,95 | €9,95 | ±€16 |
-| **Onbeperkt pakket** | €14,50/mnd | €14,50/mnd | ±€35/mnd |
+| **Startprijs/mnd** | €9,95 | €15 (Pakket 20) | €48 |
+| **Onbeperkt pakket** | €14,50/mnd | €28/mnd (Pakket 50) | €48/mnd |
 | **Gratis voor starters** | 15 maanden | Nee (wel gratis plan, zeer beperkt) | Nee |
 | **Interface** | Functioneel, traditioneel | Modern, intuïtief | Uitgebreid, complex |
 | **Mobiele app** | Basis | Uitstekend | Gemiddeld |

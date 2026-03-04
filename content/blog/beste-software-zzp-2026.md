@@ -84,7 +84,7 @@ Als je op uurbasis werkt — en dat doen de meeste ZZP'ers — is een urenregist
 Zodra je meer dan een handvol klanten hebt, wordt het onmogelijk om alles in je hoofd te houden. Wanneer heb je die prospect voor het laatst gesproken? Wat was de afspraak? Welke offerte staat nog open? Een CRM houdt dat bij zodat jij het niet hoeft te onthouden.
 
 - **[HubSpot CRM](https://www.hubspot.com/nl)** (gratis) — mijn standaard aanbeveling voor ZZP'ers. Onbeperkt contacten, deals bijhouden, e-mailtracking, en een overzichtelijke pipeline. Het gratis plan is serieus bruikbaar — geen 30-dagen-trial, maar echt gratis voor altijd.
-- **[Pipedrive](https://www.pipedrive.com/nl)** (€14,90/mnd) — als je een visueel verkoopproces wilt. De drag-and-drop pipeline is ideaal als je meerdere offertes tegelijk hebt lopen.
+- **[Pipedrive](https://www.pipedrive.com/nl)** (Lite vanaf ~$14/gebruiker/mnd) — als je een visueel verkoopproces wilt. De drag-en-drop pipeline is ideaal als je meerdere offertes tegelijk hebt lopen.
 
 **Mijn advies:** begin met HubSpot gratis. Pas als je merkt dat je meer dan 20 deals tegelijk beheert of geavanceerde automatisering wilt, is een upgrade of overstap naar Pipedrive de moeite waard. Meer opties: [Beste CRM voor ZZP'ers](/blog/beste-crm-zzp-freelancers-2026/).
 
@@ -179,7 +179,7 @@ Nog beter: als starter krijg je e-Boekhouden 15 maanden gratis. Dan is je eerste
 |---|---|---|
 | Boekhouding + facturatie | Moneybird M | €28/mnd |
 | Urenregistratie | Toggl Track Starter | €9/mnd |
-| CRM | Pipedrive Essential | €14,90/mnd |
+| CRM | Pipedrive Lite | ~$14/gebruiker/mnd |
 | Projectmanagement | Monday.com | €9/mnd |
 | Website | WordPress + hosting | €10/mnd |
 | Planning | Calendly Standard | €10/mnd |
@@ -203,7 +203,7 @@ Nog beter: als starter krijg je e-Boekhouden 15 maanden gratis. Dan is je eerste
 |---|---|---|---|
 | **Net gestart, budget is krap** | e-Boekhouden (gratis 15 mnd) | HubSpot gratis | Toggl gratis, Notion gratis |
 | **Freelancer, op uurbasis** | Moneybird S (€15) | HubSpot gratis | Toggl Track, Calendly |
-| **ZZP'er met veel klanten** | Moneybird M (€28) | Pipedrive (€15) | Monday.com, PandaDoc |
+| **ZZP'er met veel klanten** | Moneybird M (€28) | Pipedrive Lite (~$14) | Monday.com, PandaDoc |
 | **Creatieve ZZP'er (design, foto)** | Rompslomp (€12,50) | HubSpot gratis | Notion, Wix (portfolio) |
 | **Consultant met groeiambities** | Exact Online (€39) | HubSpot Pro | Monday.com, Calendly Pro |
 

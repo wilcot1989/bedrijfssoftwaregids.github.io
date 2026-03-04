@@ -16,7 +16,7 @@ faq:
   - q: "Is Brevo hetzelfde als Sendinblue?"
     a: "Ja, Brevo is de nieuwe naam van Sendinblue. De naamswijziging vond plaats in mei 2023. Alle functies, accounts en data zijn hetzelfde gebleven. Als je nog een Sendinblue-account hebt, werkt die gewoon door onder de naam Brevo."
   - q: "Wat kost Brevo per maand?"
-    a: "Brevo heeft een gratis plan met 300 e-mails per dag. Het Starter-plan begint bij 7 euro per maand voor 5.000 e-mails. Het Standard-plan kost vanaf 15 euro per maand voor 5.000 e-mails met marketing automation. Het Professional-plan begint bij 499 euro per maand voor 150.000+ e-mails. Brevo rekent per verzonden e-mail, niet per contact."
+    a: "Brevo heeft een gratis plan met 300 e-mails per dag. Het Starter-plan begint bij 7 euro per maand voor 5.000 e-mails. Het Standard-plan kost vanaf 15 euro per maand voor 20.000 e-mails met marketing automation. Het Professional-plan begint bij 499 euro per maand voor 150.000+ e-mails. Brevo rekent per verzonden e-mail, niet per contact."
   - q: "Is Brevo geschikt voor beginners?"
     a: "Ja, Brevo is een van de meest toegankelijke email marketing tools op de markt. De drag-and-drop editor is intuïtief, er zijn kant-en-klare templates beschikbaar, en het gratis plan biedt genoeg ruimte om te leren. De interface is beschikbaar in het Nederlands."
   - q: "Hoe goed is de deliverability van Brevo?"
@@ -58,7 +58,7 @@ Het pricing-model van Brevo is de reden dat ik het vaak aanbeveel aan bedrijven 
 |---|---|---|---|---|
 | **Free** | Gratis | 300/dag (~9.000/mnd) | Onbeperkt | Drag-and-drop editor, templates, basis CRM, segmentatie |
 | **Starter** | Vanaf €7 | 5.000 | Onbeperkt | Geen dagelijks limiet, basis rapportages, AI content generator |
-| **Standard** | Vanaf €15 | 5.000 | Onbeperkt | Marketing automation, A/B-testing, landingspagina's, multi-user |
+| **Standard** | Vanaf €15 | 20.000 | Onbeperkt | Marketing automation, A/B-testing, landingspagina's, multi-user |
 | **Professional** | Vanaf €499 | 150.000+ | Onbeperkt | WhatsApp, web push, AI-segmentatie, contact scoring, telefonische support |
 | **Enterprise** | Op aanvraag | 350.000+ | Onbeperkt | Dedicated account manager, custom setup, SLA |
 
@@ -242,15 +242,15 @@ De chat-support is redelijk voor standaardvragen, maar bij complexere technische
 | Kenmerk | Brevo | Mailchimp | ActiveCampaign | MailerLite |
 |---|---|---|---|---|
 | **Prijsmodel** | Per e-mail | Per contact | Per contact | Per contact |
-| **Startprijs** | €7/mnd | €11/mnd | €29/mnd | €9/mnd |
-| **Gratis plan** | Ja (300/dag) | Ja (500 contacten) | Nee | Ja (1.000 contacten) |
+| **Startprijs** | €7/mnd | $13/mnd (USD) | €29/mnd | €9/mnd |
+| **Gratis plan** | Ja (300/dag) | Ja (250 contacten) | Nee | Ja (1.000 contacten) |
 | **Automation** | Goed | Basis | Uitstekend | Basis |
 | **CRM ingebouwd** | Ja | Nee | Ja | Nee |
 | **SMS-marketing** | Ja | Via add-on | Via add-on | Nee |
 | **Data in EU** | Ja | Nee (VS) | Nee (VS) | Ja (EU) |
 | **Transactionele mail** | Ja | Via Mandrill | Nee | Via MailerSend |
 | **NL interface** | Ja | Ja | Ja | Beperkt |
-| **Trustpilot** | 4,3 | 1,4 | 4,5 | 4,3 |
+| **Trustpilot** | 4,3 | 2,8 | 4,5 | 4,3 |
 
 **Wanneer Brevo beter is dan Mailchimp**: als je een grote contactlijst hebt en relatief weinig mails stuurt, of als EU data-opslag belangrijk is.
 

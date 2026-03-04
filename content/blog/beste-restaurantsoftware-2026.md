@@ -47,7 +47,7 @@ Zoek je specifiek een kassasysteem en wil je meer opties vergelijken? Lees dan m
 <tbody>
 <tr>
 <td><strong>Lightspeed Restaurant</strong></td>
-<td>€59/mnd</td>
+<td>€79/mnd</td>
 <td>Ja</td>
 <td>Via integratie</td>
 <td>Uitgebreid</td>
@@ -80,7 +80,7 @@ Zoek je specifiek een kassasysteem en wil je meer opties vergelijken? Lees dan m
 </tr>
 <tr>
 <td><strong>Orderbird</strong></td>
-<td>€39/mnd</td>
+<td>Vanaf €35/mnd</td>
 <td>Ja</td>
 <td>Nee (extern)</td>
 <td>Basis</td>
@@ -103,7 +103,7 @@ Zoek je specifiek een kassasysteem en wil je meer opties vergelijken? Lees dan m
 </tbody>
 </table>
 
-*Zettle: geen maandkosten, 1,75% transactiekosten per betaling.
+*Zettle: geen maandkosten, 1,95% transactiekosten per betaling.
 
 
 ## Waar let je op bij horeca software?
@@ -162,9 +162,9 @@ Wil je dieper duiken in wat Lightspeed kan? Lees mijn [uitgebreide Lightspeed ka
 
 #### Prijzen (2026)
 
-- **Essential** (€59/mnd): kassa + tafelmanagement -- géén voorraadbeheer of KDS
-- **Plus** (€109/mnd): + voorraadbeheer met recepturen en food cost berekening
-- **Pro** (€189/mnd): + KDS, multi-locatie, geavanceerde rapportages
+- **Basic** (€79/mnd): kassa + tafelmanagement -- géén voorraadbeheer of KDS
+- **Core** (€139/mnd): + voorraadbeheer met recepturen en food cost berekening
+- **Pro** (€249/mnd): + KDS, multi-locatie, geavanceerde rapportages
 - Extra kassa: vanaf €39/maand
 - Hardware: iPad + printer + kassalade vanaf €399
 - Lightspeed Payments: 0,6% + €0,05 per transactie
@@ -181,7 +181,7 @@ Wil je dieper duiken in wat Lightspeed kan? Lees mijn [uitgebreide Lightspeed ka
 
 #### Nadelen (operations)
 
-- Voorraadbeheer en KDS pas vanaf het Plus-pakket (€109/mnd) -- Essential is alleen een kassa
+- Voorraadbeheer en KDS pas vanaf het Core-pakket (€139/mnd) -- Basic is alleen een kassa
 - Recepturen invoeren kost tijd: reken op 2-3 dagen setup voor een volledig menu
 - Reserveringen lopen via externe koppelingen, niet ingebouwd -- je betaalt dus dubbel
 - Geen inkoopmodule: je kunt niet vanuit Lightspeed bij leveranciers bestellen
@@ -306,7 +306,7 @@ De beperkingen worden duidelijk als je verder kijkt dan de kassa: er is geen res
 
 #### Prijzen (2026)
 
-- **Starter** (€39/mnd): kassa + tafelmanagement + HACCP -- géén voorraadbeheer op ingrediëntniveau
+- **PRO** (vanaf €35/mnd): kassa + tafelmanagement + HACCP -- géén voorraadbeheer op ingrediëntniveau
 - **Professional** (€59/mnd): + basisvoorraadbeheer en uitgebreidere rapportages
 - **Enterprise**: op aanvraag voor meerdere locaties
 - Hardware: iPad + printer + kassalade vanaf €349, maandelijks opzegbaar
@@ -334,7 +334,7 @@ De beperkingen worden duidelijk als je verder kijkt dan de kassa: er is geen res
 
 Zettle neem ik op in dit overzicht als eerlijke waarschuwing: het is een kassasysteem, geen horeca software. Het mist tafelmanagement, keukenprinters, KDS, reserveringen en voorraadbeheer. Als je een restaurant met bediening runt, is Zettle te beperkt.
 
-Waar het wel werkt: foodtrucks, pop-up restaurants en seizoensterrassen. Reader van €29, geen maandkosten, 1,75% per transactie. Op Trustpilot scoort het 3.3/5 (5.500+ reviews). Voor een completer overzicht van Zettle als kassasysteem, zie mijn [kassasysteem-vergelijking](/blog/beste-kassasysteem-horeca-2026/).
+Waar het wel werkt: foodtrucks, pop-up restaurants en seizoensterrassen. Reader van €29, geen maandkosten, 1,95% per transactie. Op Trustpilot scoort het 3.3/5 (5.500+ reviews). Voor een completer overzicht van Zettle als kassasysteem, zie mijn [kassasysteem-vergelijking](/blog/beste-kassasysteem-horeca-2026/).
 
 #### Belangrijkste functies
 
@@ -350,7 +350,7 @@ Waar het wel werkt: foodtrucks, pop-up restaurants en seizoensterrassen. Reader 
 #### Prijzen (2026)
 
 - **Software**: gratis (Zettle Go-app) -- maar: géén operationele functies
-- **Transactiekosten**: 1,75% (Go) of 1,25% (Pro-abonnement)
+- **Transactiekosten**: 1,95% (Go) of 1,25% (Pro-abonnement)
 - **Hardware**: reader €29, Store Kit (met dock en printer) vanaf €249
 
 #### Voordelen (operations)
@@ -364,7 +364,7 @@ Waar het wel werkt: foodtrucks, pop-up restaurants en seizoensterrassen. Reader 
 - Geen reserveringsfuncties of koppelingen met Formitable/TheFork
 - Geen voorraadbeheer op ingrediëntniveau -- je kunt geen food cost berekenen
 - Geen QR-bestellen aan tafel
-- Bij €15.000/mnd omzet betaal je €263 aan transactiekosten -- duurder dan elk betaald systeem
+- Bij €15.000/mnd omzet betaal je €293 aan transactiekosten -- duurder dan elk betaald systeem
 - **Kortom: dit is een kassa, geen horeca software** -- ik neem het op als eerlijke referentie
 
 <a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zettle.com →</a>
@@ -388,11 +388,11 @@ Veel restauranthouders kijken alleen naar de maandprijs van de software. Dat is 
 </thead>
 <tbody>
 <tr>
-<td><strong>Lightspeed Essential</strong></td>
-<td>€98 (€59 + €39)</td>
+<td><strong>Lightspeed Basic</strong></td>
+<td>€118 (€79 + €39)</td>
 <td>~€95 (0,6% + €0,05)</td>
 <td>~€25</td>
-<td><strong>~€218</strong></td>
+<td><strong>~€238</strong></td>
 </tr>
 <tr>
 <td><strong>Untill Basis</strong></td>
@@ -418,9 +418,9 @@ Veel restauranthouders kijken alleen naar de maandprijs van de software. Dat is 
 <tr>
 <td><strong>Zettle Go</strong></td>
 <td>€0</td>
-<td>€263 (1,75%)</td>
+<td>€293 (1,95%)</td>
 <td>~€5</td>
-<td><strong>~€268</strong></td>
+<td><strong>~€298</strong></td>
 </tr>
 </tbody>
 </table>
@@ -449,7 +449,7 @@ Horeca software met goed voorraadbeheer bespaart je serieus geld. De gemiddelde 
 
 Dit zijn de voorraadfuncties per horeca software systeem:
 
-- **Lightspeed Restaurant**: Receptuurbeheer met automatisch afboeken bij verkoop. Food cost berekening per gerecht. Voorraadwaarschuwingen en besteladvies. Beschikbaar vanaf het Plus-pakket (€109/mnd).
+- **Lightspeed Restaurant**: Receptuurbeheer met automatisch afboeken bij verkoop. Food cost berekening per gerecht. Voorraadwaarschuwingen en besteladvies. Beschikbaar vanaf het Core-pakket (€139/mnd).
 - **Untill**: Volledig voorraadbeheer met inkoopmodule. Je kunt direct bij leveranciers bestellen vanuit het systeem. Theoretische vs. werkelijke voorraad vergelijking. Beschikbaar in het Professioneel-pakket.
 - **Trivec**: Voorraadbeheer met food cost rapportages. Minder gedetailleerd dan Lightspeed of Untill, maar voldoende voor de meeste restaurants.
 - **Orderbird**: Basisvoorraadbeheer -- je kunt producten bijhouden, maar geen recepturen invoeren of automatisch afboeken per ingrediënt.
@@ -482,7 +482,7 @@ Mijn ervaring: restaurants met meer dan 50 couverts per avond hebben baat bij ee
 De keuze hangt af van wat je restaurant operationeel nodig heeft. Niet elke zaak heeft alles nodig -- kies op basis van je knelpunten.
 
 ### "Ik wil grip op mijn food cost en verspilling tegengaan"
-→ **[Lightspeed Restaurant Plus](https://www.lightspeedhq.nl/)** (€109/mnd) of **[Untill Professioneel](https://www.untill.com/nl/)** (€129/mnd). Beide bieden receptuurbeheer met automatisch afboeken. Lightspeed geeft je food cost per gerecht. Untill gaat een stap verder met een inkoopmodule en theoretische vs. werkelijke voorraad vergelijking. Bij een wisselende kaart met seizoensproducten heeft Untill de edge.
+→ **[Lightspeed Restaurant Core](https://www.lightspeedhq.nl/)** (€139/mnd) of **[Untill Professioneel](https://www.untill.com/nl/)** (€129/mnd). Beide bieden receptuurbeheer met automatisch afboeken. Lightspeed geeft je food cost per gerecht. Untill gaat een stap verder met een inkoopmodule en theoretische vs. werkelijke voorraad vergelijking. Bij een wisselende kaart met seizoensproducten heeft Untill de edge.
 
 ### "Ik heb reserveringen en wil geen dubbel werk"
 → **[Trivec](https://www.trivec.nl/)** als je een ingebouwd systeem wilt zonder extra maandkosten. **[Lightspeed](https://www.lightspeedhq.nl/)** als je liever koppelt met Formitable of TheFork (breder bereik, meer gasten). Untill koppelt met Formitable en CoverManager maar mist TheFork.

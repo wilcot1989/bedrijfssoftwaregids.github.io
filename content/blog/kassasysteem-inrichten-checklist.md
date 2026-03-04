@@ -112,7 +112,7 @@ Test de koppeling met een echte betaling van €0,01. Ga pas live als je zeker w
 Vergeet de kassalade niet. Bij contante betaling moet de lade openen. Test dit. En stel een beginsaldo in — standaard is €150 tot €200 wisselgeld in de lade bij opening.
 
 **Kosten van betaaloplossingen:**
-Mollie rekent 0,25 euro per transactie plus een percentage voor creditcard. Adyen heeft een maandelijkse fee maar lagere transactiekosten bij volume. Voor een kleine zaak met weinig transacties is Mollie goedkoper. Boven de 500 transacties per maand loont het om Adyen te vergelijken. Lees hierover meer in mijn artikel over [verborgen kosten van kassasystemen](/blog/kassasysteem-verborgen-kosten-checklist/).
+Mollie rekent 0,32 euro per transactie voor iDEAL plus een percentage voor creditcard. Adyen heeft een maandelijkse fee maar lagere transactiekosten bij volume. Voor een kleine zaak met weinig transacties is Mollie goedkoper. Boven de 500 transacties per maand loont het om Adyen te vergelijken. Lees hierover meer in mijn artikel over [verborgen kosten van kassasystemen](/blog/kassasysteem-verborgen-kosten-checklist/).
 
 ---
 

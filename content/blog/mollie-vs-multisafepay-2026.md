@@ -14,11 +14,11 @@ aliases:
   - /posts/mollie-vs-multisafepay-2026/
 faq:
   - q: "Wat is goedkoper: Mollie of MultiSafepay?"
-    a: "Dat hangt af van je transactievolume en betaalmix. Bij laag volume is Mollie voordeliger door het ontbreken van een vast component per transactie. Bij hoog volume (1.000+ transacties/maand) kan MultiSafepay goedkoper uitpakken, omdat de split-fee van €0,10 + €0,19 voor iDEAL bij hogere bedragen gunstiger is dan Mollie's vaste €0,29."
+    a: "Dat hangt af van je transactievolume en betaalmix. Voor iDEAL is MultiSafepay (€0,29) nu goedkoper dan Mollie (€0,32). Bij hoog creditcardvolume (1.000+ transacties/maand) kan MultiSafepay verder voordelig uitpakken, omdat de split-fee ook op andere methoden lager uitvalt dan Mollie's tarieven."
   - q: "Kan ik beide betaalproviders tegelijk gebruiken?"
     a: "Technisch gezien wel, maar het heeft weinig zin. Je splitst dan je transactiedata over twee dashboards, wat je boekhouding en rapportage ingewikkelder maakt. Kies er een als primaire provider en wissel alleen als de kosten of functionaliteit aantoonbaar beter zijn."
   - q: "Welke betaalprovider heeft de beste klantenservice?"
-    a: "Mollie biedt support via e-mail, chat en telefoon (voor grotere accounts). MultiSafepay heeft e-mail en chat, maar geen telefonische support. In online reviews scoort Mollie hoger op klanttevredenheid: 4,4 op Trustpilot tegenover 4,1 voor MultiSafepay."
+    a: "Mollie biedt support via e-mail, chat en telefoon (voor grotere accounts). MultiSafepay heeft e-mail en chat, maar geen telefonische support. In online reviews scoort Mollie hoger op klanttevredenheid: 4,5 op Trustpilot (11.000+ reviews) tegenover 4,1 voor MultiSafepay."
 ---
 
 Mollie vs MultiSafepay -- welke betaalprovider past bij jouw webshop? Vorig jaar heb ik voor twee verschillende klanten de overstap van betaalprovider begeleid. De ene ging van MultiSafepay naar Mollie, de andere precies andersom. Beide waren achteraf tevreden. Dat klinkt als een nutteloze anekdote, maar het illustreert precies het probleem: Mollie en MultiSafepay zijn allebei goede Nederlandse betaalproviders, maar de juiste keuze hangt volledig af van jouw situatie.
@@ -57,10 +57,10 @@ MultiSafepay werkt met **split pricing**: een vast verwerkerstarief (€0,10 per
 
 De belangrijkste betaalmethode in Nederland -- circa 70-80% van alle webshop-betalingen gaat via iDEAL.
 
-- **Mollie:** €0,29 per transactie
+- **Mollie:** €0,32 per transactie
 - **MultiSafepay:** €0,10 (vast) + €0,19 (iDEAL) = €0,29 per transactie
 
-Op het eerste gezicht identiek. Maar bij MultiSafepay kun je bij hogere volumes onderhandelen over het vaste component, waardoor de iDEAL-kosten lager kunnen uitvallen.
+MultiSafepay is hier goedkoper: €0,03 per iDEAL-transactie scheelt bij 1.000 transacties per maand al €30. Bovendien kun je bij MultiSafepay bij hogere volumes onderhandelen over het vaste component, waardoor de iDEAL-kosten verder kunnen dalen.
 
 ### Creditcard (Visa, Mastercard)
 
@@ -132,11 +132,11 @@ Tarieven vergelijken is abstract. Laat ik het concreet maken met drie scenario's
 Betaalmix: 80% iDEAL, 12% creditcard, 5% PayPal, 3% Klarna.
 
 **Mollie:**
-- 160 x iDEAL: 160 x €0,29 = €46,40
+- 160 x iDEAL: 160 x €0,32 = €51,20
 - 24 x creditcard: 24 x (1,8% van €50 + €0,25) = €27,60
 - 10 x PayPal: 10 x (1,5% van €50 + €0,25) = €10,00
 - 6 x Klarna: 6 x (2,99% van €50 + €0,29) = €10,68
-- **Totaal: €94,68 per maand** (0,95% van omzet)
+- **Totaal: €99,48 per maand** (0,99% van omzet)
 
 **MultiSafepay:**
 - 160 x iDEAL: 160 x €0,29 = €46,40
@@ -145,29 +145,29 @@ Betaalmix: 80% iDEAL, 12% creditcard, 5% PayPal, 3% Klarna.
 - 6 x Klarna: 6 x (€0,10 + 2,49% van €50 + €0,29) = €9,84
 - **Totaal: €90,64 per maand** (0,91% van omzet)
 
-**Verschil: €4,04 per maand** in het voordeel van MultiSafepay. Verwaarloosbaar.
+**Verschil: €8,84 per maand** in het voordeel van MultiSafepay.
 
 ### Scenario 2: Middelgrote webshop (1.000 bestellingen/maand, gem. €85)
 
 Betaalmix: 75% iDEAL, 15% creditcard, 5% Bancontact, 3% Klarna, 2% PayPal.
 
 **Mollie:**
-- 750 x iDEAL: €217,50
+- 750 x iDEAL: 750 x €0,32 = €240,00
 - 150 x creditcard: 150 x (1,8% van €85 + €0,25) = €267,00
 - 50 x Bancontact: 50 x €0,39 = €19,50
 - 30 x Klarna: 30 x (2,99% van €85 + €0,29) = €85,05
 - 20 x PayPal: 20 x (1,5% van €85 + €0,25) = €30,50
-- **Totaal: €619,55 per maand** (0,73% van omzet)
+- **Totaal: €642,05 per maand** (0,76% van omzet)
 
 **MultiSafepay:**
-- 750 x iDEAL: €217,50
+- 750 x iDEAL: 750 x €0,29 = €217,50
 - 150 x creditcard: 150 x (€0,10 + 1,5% van €85 + €0,15) = €228,75
 - 50 x Bancontact: 50 x €0,29 = €14,50
 - 30 x Klarna: 30 x (€0,10 + 2,49% van €85 + €0,29) = €75,20
 - 20 x PayPal: 20 x (€0,10 + 1,5% van €85 + €0,25) = €32,50
 - **Totaal: €568,45 per maand** (0,67% van omzet)
 
-**Verschil: €51,10 per maand** in het voordeel van MultiSafepay. Bij deze volumes begint het verschil te tellen: ruim €600 per jaar.
+**Verschil: €73,60 per maand** in het voordeel van MultiSafepay. Bij deze volumes telt het verschil flink: ruim €880 per jaar.
 
 ### Scenario 3: Grote webshop (5.000 bestellingen/maand, gem. €120)
 
@@ -355,7 +355,7 @@ De documentatie op docs.multisafepay.com is degelijk maar minder overzichtelijk 
 
 | Platform | Mollie | MultiSafepay |
 |---|---|---|
-| **Trustpilot** | 4,4/5 (11.000+ reviews) | 4,1/5 (100+ reviews) |
+| **Trustpilot** | 4,5/5 (11.000+ reviews) | 4,1/5 (100+ reviews) |
 | **Capterra** | 4,5/5 | 4,5/5 |
 | **G2** | 4,3/5 | Beperkt aantal reviews |
 
@@ -415,7 +415,7 @@ Beide providers betalen standaard de volgende werkdag uit. In de praktijk merk i
 </tr>
 <tr>
 <td><strong>iDEAL</strong></td>
-<td>&euro;0,29</td>
+<td>&euro;0,32</td>
 <td>&euro;0,29 (&euro;0,10 + &euro;0,19)</td>
 </tr>
 <tr>
@@ -485,7 +485,7 @@ Beide providers betalen standaard de volgende werkdag uit. In de praktijk merk i
 </tr>
 <tr>
 <td><strong>Trustpilot</strong></td>
-<td>4,4/5</td>
+<td>4,5/5</td>
 <td>4,1/5</td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@ Mollie is de betere keuze als:
 - **Je team niet technisch is.** Het dashboard is zo intuintief dat je klantenservicemedewerkers er zonder training mee kunnen werken.
 - **Je WooCommerce, Shopify of Magento gebruikt.** De Mollie-plugins voor deze platforms zijn uitstekend.
 - **Je waarde hecht aan telefonische support.** Mollie biedt dit als enige van de twee.
-- **Je primair Nederlandse klanten hebt** en iDEAL je hoofdbetaalmethode is. Bij een iDEAL-zware betaalmix is het kostenverschil minimaal.
+- **Je primair Nederlandse klanten hebt** en gebruiksgemak en developer experience zwaarder wegen dan de iDEAL-kosten. Let op: MultiSafepay (€0,29) is nu goedkoper dan Mollie (€0,32) voor iDEAL.
 - **Je een custom integratie bouwt** en goede API-documentatie belangrijk vindt.
 
 <a href="https://www.mollie.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mollie.com →</a>

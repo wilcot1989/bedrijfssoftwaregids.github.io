@@ -16,7 +16,7 @@ faq:
   - q: "Is Square beschikbaar in Nederland?"
     a: "Ja, Square is sinds 2022 actief in Nederland. Je kunt de software gratis downloaden en hardware bestellen. Let op: de klantenservice is voornamelijk Engelstalig, iDEAL wordt niet ondersteund en sommige functies uit de VS zijn nog niet in Nederland beschikbaar."
   - q: "Welk kassasysteem is goedkoper: Lightspeed of Square?"
-    a: "Bij een maandomzet onder 5.000 euro is Square bijna altijd goedkoper, omdat je geen abonnement betaalt en alleen 1,75 procent transactiekosten afdraagt. Boven de 8.000 euro maandomzet is Lightspeed voordeliger, doordat de lagere transactiekosten via een extern pinapparaat het abonnement compenseren."
+    a: "Bij een maandomzet onder 8.000 euro is Square bijna altijd goedkoper, omdat je geen abonnement betaalt en alleen 1,75 procent transactiekosten afdraagt. Boven de 10.000 euro maandomzet is Lightspeed voordeliger, doordat de lagere transactiekosten via een extern pinapparaat het abonnement compenseren."
   - q: "Kan ik met Lightspeed of Square iDEAL-betalingen accepteren?"
     a: "Lightspeed ondersteunt iDEAL via gekoppelde betaalterminals van CCV of Adyen. Square biedt op dit moment geen iDEAL-integratie in Nederland. Je bent bij Square beperkt tot pin, contactloos en Visa of Mastercard via de Square Reader."
   - q: "Welk kassasysteem is beter voor een restaurant?"
@@ -60,7 +60,7 @@ Square is sinds 2022 actief in Nederland. Het richt zich op starters, kleine ond
 <tr><th>Kenmerk</th><th>Lightspeed</th><th>Square</th></tr>
 </thead>
 <tbody>
-<tr><td><strong>Startprijs software</strong></td><td>Vanaf €59/mnd</td><td>Gratis (basispakket)</td></tr>
+<tr><td><strong>Startprijs software</strong></td><td>Vanaf €79/mnd</td><td>Gratis (basispakket)</td></tr>
 <tr><td><strong>Transactiekosten</strong></td><td>0,5%-1,2% via extern pinapparaat</td><td>1,75% per transactie</td></tr>
 <tr><td><strong>Hardware startkosten</strong></td><td>Vanaf €800 (iPad + randapparatuur)</td><td>Vanaf €19 (Square Reader)</td></tr>
 <tr><td><strong>Retail-oplossing</strong></td><td>Ja (Lightspeed Retail)</td><td>Ja (Square for Retail)</td></tr>
@@ -92,9 +92,9 @@ Lightspeed werkt met maandelijkse abonnementen. De precieze prijs hangt af van o
 - **Plus**: €149/maand -- custom rapportages, API-toegang, voorspellend voorraadbeheer
 
 **Lightspeed Restaurant:**
-- **Essential**: €59/maand -- bestellingen, betalen, basisfuncties
-- **Plus**: €109/maand -- workflows, diepere inzichten
-- **Pro**: €189/maand -- meerdere locaties, benchmarkdata
+- **Basic**: €79/maand -- bestellingen, betalen, basisfuncties
+- **Core**: €139/maand -- workflows, diepere inzichten
+- **Pro**: €249/maand -- meerdere locaties, benchmarkdata
 
 Extra kassa's kosten vanaf €39/maand per stuk. Daar bovenop komt hardware: een iPad (vanaf €400), bonprinter (circa €250), kassalade (circa €100) en een pinapparaat (€200-€350).
 
@@ -126,20 +126,20 @@ Hier wordt het concreet. Ik zet drie omzetscenario's naast elkaar:
 
 **Bij €3.000 maandomzet:**
 - Square: €52,50 transactiekosten (1,75% van €3.000). Totaal: **€52,50/mnd**
-- Lightspeed: €59 abonnement + circa €24 transactiekosten (0,8% via extern pinapparaat). Totaal: **€83/mnd**
-- Square bespaart je: **€30,50 per maand**
+- Lightspeed: €79 abonnement + circa €24 transactiekosten (0,8% via extern pinapparaat). Totaal: **€103/mnd**
+- Square bespaart je: **€50,50 per maand**
 
 **Bij €8.000 maandomzet:**
 - Square: €140 transactiekosten. Totaal: **€140/mnd**
-- Lightspeed: €59 abonnement + circa €64 transactiekosten. Totaal: **€123/mnd**
-- Lightspeed bespaart je: **€17 per maand**
+- Lightspeed: €79 abonnement + circa €64 transactiekosten. Totaal: **€143/mnd**
+- Square bespaart je: **€3 per maand**
 
 **Bij €15.000 maandomzet:**
 - Square: €262,50 transactiekosten. Totaal: **€262,50/mnd**
-- Lightspeed: €59 abonnement + circa €120 transactiekosten. Totaal: **€179/mnd**
-- Lightspeed bespaart je: **€83,50 per maand** (meer dan €1.000 per jaar)
+- Lightspeed: €79 abonnement + circa €120 transactiekosten. Totaal: **€199/mnd**
+- Lightspeed bespaart je: **€63,50 per maand** (meer dan €750 per jaar)
 
-Het omslagpunt ligt rond de **€6.000-€8.000 maandomzet**. Zit je eronder? Square is goedkoper. Zit je erboven? Lightspeed loont. En dat verschil wordt groter naarmate je omzet stijgt.
+Het omslagpunt ligt rond de **€9.000-€10.000 maandomzet**. Zit je eronder? Square is goedkoper. Zit je erboven? Lightspeed loont. En dat verschil wordt groter naarmate je omzet stijgt.
 
 ## Functies voor retail vergeleken
 
@@ -381,7 +381,7 @@ Square werkt goed voor een enkele vestiging. Maar ik heb het meerdere keren zien
 <div class="cons">
 <h4>Nadelen Lightspeed</h4>
 <ul>
-<li>Maandelijks abonnement vanaf €59 (ook zonder omzet)</li>
+<li>Maandelijks abonnement vanaf €79 (ook zonder omzet)</li>
 <li>Hogere hardware-investering (€800-€2.500 per kassapunt)</li>
 <li>Meer configuratietijd nodig bij opzet</li>
 <li>Support bij complexe problemen soms traag</li>
@@ -423,7 +423,7 @@ Square werkt goed voor een enkele vestiging. Maar ik heb het meerdere keren zien
 
 Lightspeed is het betere kassasysteem als je:
 
-- **Een gevestigde winkel of horecazaak runt** met een omzet boven de €6.000 per maand
+- **Een gevestigde winkel of horecazaak runt** met een omzet boven de €9.000 per maand
 - **Uitgebreid voorraadbeheer nodig hebt** met varianten, leveranciers en inkooporders
 - **Een restaurant met tafelservice hebt** waar gangenbeheer en keukenprinters cruciaal zijn
 - **iDEAL wilt accepteren** -- en laten we eerlijk zijn, in Nederland wil je dat
@@ -440,7 +440,7 @@ Square is het betere kassasysteem als je:
 - **Net start met ondernemen** en je budget minimaal wilt houden
 - **Een kleine winkel, koffiezaak of foodtruck runt** met een beperkt assortiment
 - **Een pop-up store, marktstand of seizoenszaak hebt** waar je snel wilt opzetten en afbreken
-- **Je maandomzet onder de €5.000 ligt** waardoor de transactiekosten beheersbaar blijven
+- **Je maandomzet onder de €8.000 ligt** waardoor de transactiekosten beheersbaar blijven
 - **Vandaag nog wilt draaien** zonder dagen aan configuratie
 - **Wilt testen of fysieke verkoop iets voor je is** zonder financieel risico
 - **Voornamelijk pin- en contactloze betalingen accepteert** en iDEAL geen vereiste is
@@ -451,7 +451,7 @@ Square is het betere kassasysteem als je:
 
 Na beide systemen bij tientallen ondernemers te hebben gezien, is mijn advies helder:
 
-**Kies Lightspeed** als je een serieuze retail- of horecazaak runt in Nederland. Ja, je betaalt meer. Maar je krijgt er iDEAL, Nederlandstalige support, diep voorraadbeheer en schaalbaarheid voor terug. Bij een omzet boven de €6.000 per maand is Lightspeed ook financieel de betere deal. En je hoeft niet halverwege van systeem te wisselen als je groeit.
+**Kies Lightspeed** als je een serieuze retail- of horecazaak runt in Nederland. Ja, je betaalt meer. Maar je krijgt er iDEAL, Nederlandstalige support, diep voorraadbeheer en schaalbaarheid voor terug. Bij een omzet boven de €9.000 per maand is Lightspeed ook financieel de betere deal. En je hoeft niet halverwege van systeem te wisselen als je groeit.
 
 **Kies Square** als je net start, een pop-up of foodtruck runt, of gewoon wilt uitproberen of fysieke verkoop bij je past. Gratis software, een Reader van negentien euro, en je bent live. Geen risico, geen contract. Groei je eruit? Dan stap je over.
 

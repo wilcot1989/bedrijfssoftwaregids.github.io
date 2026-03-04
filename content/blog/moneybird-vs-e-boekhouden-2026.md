@@ -14,7 +14,7 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "/images/categories/boekhouding.svg"
 faq:
   - q: "Wat is goedkoper, Moneybird of e-Boekhouden?"
-    a: "e-Boekhouden is goedkoper. Het ZZP Compleet-pakket kost €11,50 per maand, terwijl het vergelijkbare Moneybird-pakket €16,50 per maand kost. Moneybird biedt wel een beperkt gratis plan voor maximaal 10 facturen per jaar."
+    a: "e-Boekhouden is goedkoper. Het ZZP-pakket kost €9,95 per maand, terwijl het vergelijkbare Moneybird Pakket 20 €15 per maand kost. Moneybird biedt wel een beperkt gratis plan voor maximaal 3 facturen per maand."
   - q: "Welk pakket is makkelijker voor beginners?"
     a: "Moneybird is duidelijk makkelijker voor beginners. De interface is moderner, intuïtiever en er wordt zo min mogelijk boekhoudtaal gebruikt. e-Boekhouden is functioneel, maar de interface voelt wat traditioneler aan en vergt meer gewenning."
   - q: "Kan ik mijn BTW-aangifte doen met beide pakketten?"
@@ -36,8 +36,8 @@ Moneybird vs e-Boekhouden is een keuze die ik vrijwel wekelijks met ZZP'ers besp
 
 | Kenmerk | Moneybird | e-Boekhouden |
 |---|---|---|
-| **Startprijs** | Gratis (beperkt) / €16,50/mnd | €11,50/mnd |
-| **Gratis plan** | Ja (max 10 facturen/jaar) | Nee (15 dagen trial) |
+| **Startprijs** | Gratis (beperkt) / €15/mnd | €9,95/mnd |
+| **Gratis plan** | Ja (max 3 facturen/maand) | Nee (15 dagen trial) |
 | **BTW-aangifte** | Automatisch | Automatisch |
 | **Bankkoppeling** | Ja (alle grote banken) | Ja (alle grote banken) |
 | **Bonnetjes scannen** | Ja (uitstekende app) | Ja (basis) |
@@ -57,9 +57,10 @@ Wil je een breder beeld van alle boekhoudsoftware voor ZZP'ers? Lees dan ons ove
 
 ### Moneybird: Prijzen 2026
 
-- **Free**: Gratis -- maximaal 10 facturen per jaar, basisfuncties, geen bankkoppeling
-- **Boekhouden**: €16,50/maand -- onbeperkt facturen, bankkoppeling, BTW-aangifte, bonnetjes scannen
-- **Dubbel boekhouden**: €28/maand -- balans, winst-en-verliesrekening, meerdere administraties
+- **Free**: Gratis -- maximaal 3 facturen per maand, basisfuncties, geen bankkoppeling
+- **Pakket 20**: €15/maand -- 20 banktransacties, onbeperkt facturen, BTW-aangifte, bonnetjes scannen
+- **Pakket 50**: €28/maand -- 50 banktransacties, balans, winst-en-verliesrekening, meerdere administraties
+- **Onbeperkt**: €39/maand -- onbeperkte banktransacties, alle functies
 - Korting bij jaarlijkse betaling (circa 10%)
 
 ### Moneybird: Voordelen
@@ -75,7 +76,7 @@ Wil je een breder beeld van alle boekhoudsoftware voor ZZP'ers? Lees dan ons ove
 ### Moneybird: Nadelen
 
 - Duurder dan e-Boekhouden voor vergelijkbare functies
-- Gratis plan is zeer beperkt (10 facturen/jaar, geen bankkoppeling)
+- Gratis plan is zeer beperkt (3 facturen/maand, geen bankkoppeling)
 - Rapportages minder diepgaand dan sommige concurrenten
 - Minder geschikt voor complexe, dubbele boekhoudingen
 - Klantensupport alleen per e-mail (geen telefonische hulp)
@@ -90,8 +91,9 @@ e-Boekhouden is de nuchtere keuze. Geen fancy design, geen hippe marketingcampag
 
 ### e-Boekhouden: Prijzen 2026
 
-- **ZZP Compleet**: €11,50/maand -- volledige boekhouding, facturatie, BTW-aangifte, bankkoppeling
-- **MKB Compleet**: €18,50/maand -- meerdere gebruikers, uitgebreidere rapportages
+- **ZZP**: €9,95/maand -- 240 boekingen/jaar, volledige boekhouding, facturatie, BTW-aangifte, bankkoppeling
+- **Onbeperkt**: €14,50/maand -- onbeperkte boekingen, meerdere gebruikers
+- **Boekhouden + Facturatie**: €24/maand -- uitgebreidere functionaliteit en rapportages
 - 15 dagen gratis proberen
 - Jaarlijkse betaling met korting mogelijk
 
@@ -130,15 +132,15 @@ e-Boekhouden is zeker niet onbruikbaar, maar de interface voelt traditioneler aa
 
 **Winnaar: e-Boekhouden**
 
-e-Boekhouden wint duidelijk op prijs. Voor €11,50 per maand krijg je een volledig pakket inclusief bankkoppeling, BTW-aangifte en facturatie. Het vergelijkbare Moneybird-pakket kost €16,50 per maand -- dat is €60 meer per jaar.
+e-Boekhouden wint duidelijk op prijs. Voor €9,95 per maand krijg je een volledig pakket inclusief bankkoppeling, BTW-aangifte en facturatie. Het vergelijkbare Moneybird Pakket 20 kost €15 per maand -- dat is ruim €61 meer per jaar.
 
-Moneybird biedt weliswaar een gratis plan, maar dat is met maximaal 10 facturen per jaar en zonder bankkoppeling nauwelijks bruikbaar voor actieve ondernemers. Het dient meer als kennismaking.
+Moneybird biedt weliswaar een gratis plan, maar dat is met maximaal 3 facturen per maand en zonder bankkoppeling nauwelijks bruikbaar voor actieve ondernemers. Het dient meer als kennismaking.
 
 | Plan | Moneybird | e-Boekhouden |
 |---|---|---|
-| Instap (bruikbaar) | €16,50/mnd | €11,50/mnd |
-| Jaarbedrag | €198 | €138 |
-| Verschil per jaar | - | **€60 goedkoper** |
+| Instap (bruikbaar) | €15/mnd (Pakket 20) | €9,95/mnd (ZZP) |
+| Jaarbedrag | €180 | €119,40 |
+| Verschil per jaar | - | **~€61 goedkoper** |
 
 ### 3. BTW-aangifte
 
@@ -178,7 +180,7 @@ e-Boekhouden heeft ook een mobiele app, maar deze is beperkter in functionalitei
 
 e-Boekhouden biedt standaard uitgebreidere rapportages. Je krijgt een volledige jaarrekening, balans, winst-en-verliesrekening, grootboekkaarten en meer -- allemaal inbegrepen in het basispakket.
 
-Moneybird biedt basisrapportages in het standaardpakket, maar voor diepgaandere financiele overzichten heb je het duurdere "Dubbel boekhouden"-pakket nodig (€28/maand). Voor ZZP'ers met eenvoudige administraties zijn de basisrapportages van Moneybird meestal voldoende, maar groeiende bedrijven missen mogelijk functionaliteit.
+Moneybird biedt basisrapportages in het standaardpakket, maar voor diepgaandere financiele overzichten heb je het duurdere Pakket 50 (€28/maand) of Onbeperkt (€39/maand) nodig. Voor ZZP'ers met eenvoudige administraties zijn de basisrapportages van Moneybird meestal voldoende, maar groeiende bedrijven missen mogelijk functionaliteit.
 
 ### 8. Support
 
@@ -236,7 +238,7 @@ Bekijk ons volledige overzicht in het artikel [Beste Boekhoudsoftware voor ZZP'e
 
 Ik krijg deze vraag zo vaak dat ik er bijna een standaardantwoord voor heb:
 
-- **Kies Moneybird** als je het soort ondernemer bent dat een prettige app-ervaring waardeert en niet wilt nadenken over boekhoudtermen. Die zestig euro per jaar extra betaal je voor gemak, en voor veel mensen is dat het dubbel en dwars waard. [Start gratis met Moneybird](https://www.moneybird.nl/).
+- **Kies Moneybird** als je het soort ondernemer bent dat een prettige app-ervaring waardeert en niet wilt nadenken over boekhoudtermen. Die ruim zestig euro per jaar extra betaal je voor gemak, en voor veel mensen is dat het dubbel en dwars waard. [Start gratis met Moneybird](https://www.moneybird.nl/).
 
 - **Kies e-Boekhouden** als je nuchter bent en het beste pakket wilt voor de laagste prijs. Je krijgt meer rapportages, telefonische support, en een stabiel platform. De interface is minder hip, maar als je kunt boekhouden, merk je dat nauwelijks. [Probeer e-Boekhouden.nl](https://www.e-boekhouden.nl/).
 

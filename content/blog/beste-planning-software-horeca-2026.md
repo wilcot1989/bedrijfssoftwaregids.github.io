@@ -14,7 +14,7 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat kost personeelsplanning software voor horeca?"
-    a: "De kosten variëren per aanbieder en aantal medewerkers. Shiftbase begint bij circa 3 euro per medewerker per maand, Dyflexis vanaf circa 2 euro per medewerker per maand en Planday vanaf 2,99 euro per medewerker per maand. Bij grotere teams lopen de kosten op, maar je bespaart al snel uren op handmatige roostering."
+    a: "De kosten variëren per aanbieder en aantal medewerkers. Shiftbase begint bij circa 3 euro per medewerker per maand, Dyflexis vanaf circa 2 euro per medewerker per maand en Planday vanaf 2,49 euro per medewerker per maand. Bij grotere teams lopen de kosten op, maar je bespaart al snel uren op handmatige roostering."
   - q: "Is personeelsplanning software verplicht in de horeca?"
     a: "Personeelsplanning software is niet wettelijk verplicht, maar je bent als werkgever wel verplicht om de uren van je personeel bij te houden en de Horeca-CAO na te leven. Software maakt dit veel eenvoudiger en verkleint de kans op fouten en boetes bij controles van de Arbeidsinspectie."
   - q: "Kan ik personeelsplanning software koppelen aan mijn kassasysteem?"
@@ -39,7 +39,7 @@ Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste H
 | Software | Startprijs/mnd | Gratis plan | CAO horeca | Kassasysteem-koppeling | Beste voor |
 |---|---|---|---|---|---|
 | **Shiftbase** | €3/medewerker | Ja (1 locatie, 75 mdw) | Ja | Ja | Allround horeca planning |
-| **Planday** | €2,99/medewerker | Nee (30 dagen trial) | Beperkt | Ja | Internationale horecaketens |
+| **Planday** | €2,49/medewerker | Nee (30 dagen trial) | Beperkt | Ja | Internationale horecaketens |
 | **Deputy** | €4,50/medewerker | Nee (31 dagen trial) | Beperkt | Ja | Grote teams & scheduling |
 | **Workforce.com** | Op aanvraag | Nee (demo) | Beperkt | Ja | Enterprise workforce management |
 | **Tamigo** | Op aanvraag | Nee (demo) | Ja | Ja | Retail & horeca ketens |
@@ -63,7 +63,6 @@ Shiftbase is de tool die ik als eerste noem als een horecaondernemer me vraagt n
 ### Prijzen (2026)
 - **Gratis**: 1 locatie, max 75 medewerkers (beperkte functies)
 - **Basic**: €3/medewerker/maand
-- **Professional**: €4,50/medewerker/maand
 - **Premium**: €6/medewerker/maand
 - Minimaal 5 medewerkers bij betaalde plannen
 
@@ -100,9 +99,9 @@ Planday is het platform dat ik aanbeveel aan horecaketens met meerdere locaties.
 - Omzetgestuurde planning
 
 ### Prijzen (2026)
-- **Starter**: €2,99/medewerker/maand
-- **Plus**: €4,99/medewerker/maand
-- **Pro**: €6,99/medewerker/maand
+- **Starter**: €2,49/medewerker/maand
+- **Plus**: €4,49/medewerker/maand
+- **Pro**: €6,49/medewerker/maand
 - **Enterprise**: op aanvraag
 
 ### Voordelen

@@ -44,13 +44,13 @@ Zoek je een breder CRM-overzicht? Bekijk dan mijn [complete CRM-vergelijking voo
   <tbody>
     <tr>
       <td><strong>G2-score</strong></td>
-      <td>4,4/5 (12.000+ reviews)</td>
+      <td>4,4/5 (34.900+ reviews)</td>
       <td>4,6/5 (1.000+ reviews)</td>
     </tr>
     <tr>
       <td><strong>Trustpilot</strong></td>
-      <td>1,8/5 (1.050+ reviews)</td>
-      <td>2,7/5 (580+ reviews)</td>
+      <td>1,9/5 (~960 reviews)</td>
+      <td>3,1/5 (~3.350 reviews)</td>
     </tr>
     <tr>
       <td><strong>Gratis plan</strong></td>
@@ -110,7 +110,7 @@ Zoek je een breder CRM-overzicht? Bekijk dan mijn [complete CRM-vergelijking voo
   </tbody>
 </table>
 
-De reviewscores zijn opvallend. Op G2 -- waar voornamelijk zakelijke gebruikers scoren -- haalt Monday CRM een 4,6/5 tegenover HubSpots 4,4/5. Beide prima scores. Op Trustpilot scoren ze allebei laag: HubSpot 1,8/5 en Monday 2,7/5. Die Trustpilot-scores weerspiegelen vooral frustraties over contractvoorwaarden en klantenservice, niet de productkwaliteit zelf. Neem ze met een korrel zout, maar negeer ze niet volledig.
+De reviewscores zijn opvallend. Op G2 -- waar voornamelijk zakelijke gebruikers scoren -- haalt Monday CRM een 4,6/5 tegenover HubSpots 4,4/5. Beide prima scores. Op Trustpilot scoren ze allebei laag: HubSpot 1,9/5 en Monday 3,1/5. Die Trustpilot-scores weerspiegelen vooral frustraties over contractvoorwaarden en klantenservice, niet de productkwaliteit zelf. Neem ze met een korrel zout, maar negeer ze niet volledig.
 
 ---
 
@@ -125,8 +125,8 @@ Ik werk nu acht jaar met HubSpot en het is indrukwekkend hoeveel je vanuit een d
 **Kerngegevens:**
 - Opgericht: 2006 (Cambridge, VS)
 - Beursgenoteerd: NYSE (HUBS)
-- Klanten wereldwijd: 228.000+
-- G2: 4,4/5 -- Trustpilot: 1,8/5
+- Klanten wereldwijd: 248.000+
+- G2: 4,4/5 -- Trustpilot: 1,9/5
 
 ### Monday CRM -- de flexibele nieuwkomer uit projectmanagement
 
@@ -138,7 +138,7 @@ Wat me opviel bij mijn eerste Monday CRM-implementatie: het voelt niet als een k
 - Opgericht: 2012 (Tel Aviv, Israel)
 - Beursgenoteerd: NASDAQ (MNDY)
 - Klanten wereldwijd: 225.000+
-- G2: 4,6/5 -- Trustpilot: 2,7/5
+- G2: 4,6/5 -- Trustpilot: 3,1/5
 
 ---
 
@@ -428,7 +428,7 @@ Na acht jaar CRM-implementaties bij Nederlandse bedrijven is mijn advies genuanc
 
 **Monday CRM is de betere keuze voor de meeste MKB-bedrijven.** De prijs-kwaliteitverhouding is simpelweg beter. Je betaalt 17 euro per gebruiker per maand voor automations die bij HubSpot 90 euro kosten. De interface is intuïtief, de flexibiliteit is enorm, en de combinatie van CRM en projectmanagement is uniek. De G2-score van 4,6/5 bevestigt dat gebruikers tevreden zijn.
 
-**HubSpot is de betere keuze als marketing automation je kernbehoefte is.** Als je serieuze inbound marketing wilt doen -- lead scoring, nurturing flows, landing pages, e-mailcampagnes, attributie-rapportages -- dan is HubSpot ongeëvenaard. Maar weet wat je koopt: de echte waarde zit in de Professional-plannen, en die kosten 90+ euro per gebruiker per maand. De G2-score van 4,4/5 met meer dan 12.000 reviews bewijst dat het platform levert, maar de 1,8/5 op Trustpilot waarschuwt je voor de commerciele aanpak.
+**HubSpot is de betere keuze als marketing automation je kernbehoefte is.** Als je serieuze inbound marketing wilt doen -- lead scoring, nurturing flows, landing pages, e-mailcampagnes, attributie-rapportages -- dan is HubSpot ongeëvenaard. Maar weet wat je koopt: de echte waarde zit in de Professional-plannen, en die kosten 90+ euro per gebruiker per maand. De G2-score van 4,4/5 met meer dan 34.900 reviews bewijst dat het platform levert, maar de 1,9/5 op Trustpilot waarschuwt je voor de commerciele aanpak.
 
 **Mijn tip:** test beide platforms voordat je tekent. Monday CRM biedt een 14-daagse trial, HubSpot heeft een permanent gratis plan. Laat je team twee weken met beide werken en kijk welk platform daadwerkelijk wordt gebruikt. Een CRM kies je niet op basis van een featurelijst -- je kiest het op basis van hoe je team ermee werkt.
 

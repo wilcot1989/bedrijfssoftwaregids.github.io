@@ -75,7 +75,7 @@ Een adviesbureau met 4 medewerkers op het GROW-pakket:
 - 4 gebruikers x €39 = **€156/maand** (jaarlijks)
 - Per kwartaal: circa €187/maand
 
-Ter vergelijking: Pipedrive Professional voor 4 gebruikers kost €199,60/maand, maar dan heb je nog geen facturatie. Teamleader combineert CRM en facturatie in een prijs, en dat is waar de value proposition zit.
+Ter vergelijking: Pipedrive Premium voor 4 gebruikers kost 4 × $49 = $196/mnd, maar dan heb je nog geen facturatie. Teamleader combineert CRM en facturatie in een prijs, en dat is waar de value proposition zit.
 
 ## Functies uitgelicht
 
@@ -204,7 +204,7 @@ De vraag die ik het vaakst hoor: "Moet ik Teamleader nemen of een combinatie van
 
 | Kenmerk | Teamleader Focus | Pipedrive | HubSpot CRM | Exact Online |
 |---|---|---|---|---|
-| **Startprijs** | €30/gebruiker/mnd | €14,90/gebruiker/mnd | Gratis (beperkt) | ±€16/mnd |
+| **Startprijs** | €30/gebruiker/mnd | €14,90/gebruiker/mnd | Gratis (beperkt) | €48/mnd |
 | **CRM** | Goed | Uitstekend | Uitstekend | Basis |
 | **Offertes** | Uitstekend | Basis | Goed | Goed |
 | **Facturatie** | Goed (GROW) | Nee (add-on) | Nee | Uitstekend |
