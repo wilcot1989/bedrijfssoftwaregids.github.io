@@ -45,7 +45,7 @@ De [B2B leadgeneratie software die dit ondersteunt](/sectoren/marketing/leadgene
 
 ## LinkedIn als lead-motor in de Nederlandse markt
 
-LinkedIn heeft in Nederland 5,4 miljoen gebruikers, waarvan een groot deel zakelijk actief. De concentratie van beslissers op functieniveau is hoger dan op elk ander sociaal platform. Dat maakt het het meest directe kanaal voor B2B-bereik.
+LinkedIn heeft in Nederland bijna 12 miljoen accounts (circa 11,9 miljoen in 2026), waarvan een groot deel zakelijk actief. De concentratie van beslissers op functieniveau is hoger dan op elk ander sociaal platform. Dat maakt het het meest directe kanaal voor B2B-bereik.
 
 Twee benaderingen werken het best voor Nederlandse verhoudingen. Social selling: organische content plaatsen die expertise en een duidelijk standpunt toont, gevolgd door gerichte connectieverzoeken aan relevante beslissers met een persoonlijk berichtje. Dit is tijdrovend maar bouwt echte relaties die moeilijker te repliceren zijn door concurrenten.
 

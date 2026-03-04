@@ -39,8 +39,8 @@ Zoek je ook projectmanagement? Bekijk de [beste projectmanagement software 2026]
 | **Clockify** | Gratis | ✅ Onbeperkt | ✅ | Basis | ❌ | Teams op budget |
 | **Toggl Track** | €9/user/mnd | ✅ (5 users) | ✅ | Goed | ❌ | ZZP + MKB |
 | **Harvest** | €10,80/user/mnd | ✅ (1 user) | ✅ | Goed | ✅ | Factureerbare uren |
-| **TimeCamp** | €6,99/user/mnd | ✅ (onbeperkt) | ✅ | Geavanceerd | ✅ | Automatische tracking |
-| **Gripp** | €24/user/mnd | ❌ | ✅ | Uitgebreid | ✅ | Nederlandse bureaus |
+| **TimeCamp** | $5,99/user/mnd | ✅ (onbeperkt) | ✅ | Geavanceerd | ✅ | Automatische tracking |
+| **Gripp** | Staffeltarief (~€25-35/user/mnd) | ❌ | ✅ | Uitgebreid | ✅ | Nederlandse bureaus |
 
 ## 1. Clockify — Beste gratis optie
 
@@ -146,7 +146,7 @@ TimeCamp is mijn antwoord op de vraag "maar mijn team vergeet altijd de timer te
 |------|---------------|------------|
 | **Free** | €0 (onbeperkte users) | Automatische tracking, basis rapportages |
 | **Starter** | €2,99 | + Onbeperkte projecten, vaste tarieven |
-| **Basic** | €6,99 | + Facturatie, goedkeuringen, budgetten |
+| **Basic** | $5,99 (USD, jaarlijks) | + Facturatie, goedkeuringen, budgetten |
 | **Pro** | €9,99 | + GPS, productiviteitsanalyse, geavanceerde rapportages |
 | **Enterprise** | Op aanvraag | + SSO, SLA, dedicated support |
 
@@ -172,11 +172,15 @@ Gripp is het platform dat ik aanbeveel aan Nederlandse bureaus die genoeg hebben
 
 ### Prijzen
 
-| Plan | Prijs/user/mnd | Highlights |
+Gripp werkt met staffeltarieven op basis van teamgrootte. Reken op circa €25-€35 per gebruiker per maand, afhankelijk van je pakket en teamomvang. Vraag een offerte aan via gripp.com.
+
+| Plan | Indicatieprijs | Highlights |
 |------|---------------|------------|
-| **Starter** | €24 | Uren, projecten, facturatie, basis CRM |
-| **Professional** | €34 | + Geavanceerde rapportages, planning, dashboards |
+| **Starter** | ~€25/user/mnd | Uren, projecten, facturatie, basis CRM |
+| **Professional** | ~€35/user/mnd | + Geavanceerde rapportages, planning, dashboards |
 | **Enterprise** | Op aanvraag | + API, SSO, dedicated support |
+
+*Exacte tarieven zijn afhankelijk van teamomvang. De minimumprijs voor kleine teams bedraagt circa €110/maand.*
 
 ### Voor wie?
 Gripp is ideaal voor **Nederlandse bureaus (10-100 medewerkers)** die een compleet platform willen voor uren, projecten en facturatie. Het is duurder, maar vervangt meerdere losse tools.

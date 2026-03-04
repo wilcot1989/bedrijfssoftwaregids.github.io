@@ -44,8 +44,8 @@ Voordat ik de tools afzonderlijk bespreek, hier het overzicht waar de meeste tea
 | **Asana** | Ja (10 pers.) | €10,99/gebruiker | €110/mnd | €275/mnd | Vanaf Starter |
 | **Trello** | Ja (onbeperkt) | €5/gebruiker | €50/mnd | €125/mnd | Alleen via Power-Up |
 | **ClickUp** | Ja (onbeperkt) | €7/gebruiker | €70/mnd | €175/mnd | Ja, alle plannen |
-| **Basecamp** | Nee | €15/gebruiker | €150/mnd | €299/mnd (unlimited) | Nee |
-| **Notion** | Ja (1 pers.) | €8/gebruiker | €80/mnd | €200/mnd | Via templates |
+| **Basecamp** | Ja (1 project, 1GB opslag) | €15/gebruiker | €150/mnd | €299/mnd (unlimited) | Nee |
+| **Notion** | Ja (1 pers.) | $10/gebruiker (±€9, jaarlijks) | $100/mnd (±€90) | $250/mnd (±€225) | Via templates |
 | **MS Planner** | Via M365 | €5,60/gebruiker* | Incl. M365 | Incl. M365 | Alleen Plan 2 (€28,10) |
 
 *Microsoft Planner zit inbegrepen in Microsoft 365 Business Basic.
@@ -56,7 +56,7 @@ Wat opvalt: ClickUp is bij 25 gebruikers bijna de helft goedkoper dan Asana, ter
 
 Monday.com is de tool die ik het vaakst aanbeveel aan teams die flexibiliteit zoeken. Of het nu een marketingafdeling is die campagnes plant of een bouwbedrijf dat projecten coordineert -- ik heb het in beide situaties succesvol zien landen. De kracht zit in de Work OS-aanpak: je bouwt precies het systeem dat bij jouw werkwijze past, met 30+ kolomtypen en 200+ automatiseringen. Geen enkel team dat ik heb begeleid gebruikte Monday.com op dezelfde manier, en dat is juist het punt.
 
-Trustpilot: 2.8/5 (3.380+ reviews). De score valt tegen, maar als ik de reviews lees gaan de meeste klachten over de verkoopdruk bij contractverlengingen en de beperking van het gratis plan. Over de tool zelf zijn de meeste gebruikers positief.
+Trustpilot: 3.1/5 (3.350+ reviews). De score valt tegen, maar als ik de reviews lees gaan de meeste klachten over de verkoopdruk bij contractverlengingen en de beperking van het gratis plan. Over de tool zelf zijn de meeste gebruikers positief.
 
 ### Voor wie is Monday.com geschikt?
 
@@ -100,7 +100,7 @@ Benieuwd hoe Monday.com zich verhoudt tot Asana? Beide tools zijn uitstekend, ma
 
 Asana is de tool die ik adviseer als een team zegt: "We willen structuur, niet nog meer flexibiliteit." Waar Monday.com je alle vrijheid geeft, dwingt Asana je om georganiseerd te werken -- en dat is voor veel teams precies wat nodig is. Ik heb het geadviseerd bij een consultancybureau met 25 man dat complexe projecten met veel afhankelijkheden moest managen. De Timeline-weergave maakte direct inzichtelijk waar de knelpunten zaten.
 
-Trustpilot: 1.5/5 (284 reviews). Die score schrikt af, maar context is belangrijk: het zijn er maar 284, en boze klanten laten vaker een review achter dan tevreden gebruikers. Op G2 scoort Asana een 4.3/5 met 10.000+ reviews, wat een realistischer beeld geeft. De Trustpilot-klachten gaan vooral over prijsverhogingen en het verwijderen van functies uit het gratis plan.
+Trustpilot: 1.5/5 (284 reviews). Die score schrikt af, maar context is belangrijk: het zijn er maar 284, en boze klanten laten vaker een review achter dan tevreden gebruikers. Op G2 scoort Asana een 4.4/5 met 12.800+ reviews, wat een realistischer beeld geeft. De Trustpilot-klachten gaan vooral over prijsverhogingen en het verwijderen van functies uit het gratis plan.
 
 ### Voor wie is Asana geschikt?
 
@@ -176,7 +176,7 @@ Te simpel voor complexe projecten. Geen native Gantt-chart, beperkte rapportages
 
 ClickUp is de tool voor teams die het maximale willen zonder er veel voor te betalen. Het gratis plan is krankzinnig uitgebreid, en zelfs het betaalde plan van €7/gebruiker kost minder dan bijna alle concurrenten. Ik heb het aanbevolen bij een softwareteam dat Trello was ontgroeid maar geen budget had voor Monday.com Pro. Ze waren een week bezig met de configuratie, maar daarna hadden ze projectbeheer, documentatie, tijdregistratie en sprints in een tool.
 
-Trustpilot: 3.3/5 (464 reviews). De hoogste score in dit overzicht, en dat klopt met mijn ervaring. Gebruikers die de leercurve overleven zijn doorgaans enthousiast. De klachten gaan over bugs en performance-problemen bij grote workspaces.
+Trustpilot: 3.4/5 (465 reviews). De hoogste score in dit overzicht, en dat klopt met mijn ervaring. Gebruikers die de leercurve overleven zijn doorgaans enthousiast. De klachten gaan over bugs en performance-problemen bij grote workspaces.
 
 ### Voor wie is ClickUp geschikt?
 
@@ -231,6 +231,7 @@ Remote teams van 10-30 personen die bewust willen communiceren. Bureaus, creatie
 - Vaste prijsstructuur bij Pro Unlimited
 
 ### Prijzen (februari 2026)
+- **Basecamp (gratis)**: 1 project, 1 GB opslag
 - **Basecamp**: €15/gebruiker/maand
 - **Basecamp Pro Unlimited**: €299/maand (onbeperkt gebruikers)
 
@@ -269,8 +270,8 @@ Startups en kenniswerkers die projectbeheer willen combineren met documentatie. 
 
 ### Prijzen (februari 2026)
 - **Free**: Gratis voor individueel gebruik
-- **Plus**: €8/gebruiker/maand
-- **Business**: €15/gebruiker/maand
+- **Plus**: $10/gebruiker/maand (±€9, jaarlijks) — Notion factureert in USD
+- **Business**: $20/gebruiker/maand (±€18)
 - **Enterprise**: op aanvraag
 
 ### Wat ik goed vind
@@ -335,7 +336,7 @@ Dit is een van de meest gestelde vragen die ik krijg, en het antwoord verschilt 
 | Trello | Standard | €50 | €600 | Onbeperkt borden, checklists, Power-Ups |
 | ClickUp | Unlimited | €70 | €840 | Alles + tijdregistratie + docs |
 | Basecamp | Per gebruiker | €150 | €1.800 | Berichten, taken, chat, documenten |
-| Notion | Plus | €80 | €960 | Wiki, databases, projectbeheer |
+| Notion | Plus | $100 (±€90) | $1.200 (±€1.080) | Wiki, databases, projectbeheer |
 | MS Planner | Via M365 | ~€56* | ~€672* | Kanban, Teams-integratie |
 
 *Alleen de Planner-component van M365 Business Basic.

@@ -55,7 +55,7 @@ Voor [webshops](/sectoren/marketing/marketing-automation-webshops/) is verlaten-
 
 Een adviesbureau implementeerde Marketo voor lead scoring en uitgebreide nurturing. Na drie maanden waren er 2.400 contacten in het systeem, een complex lead-scoringmodel met vijftien criteria en een serie van negen e-mails per leadtype verdeeld over drie maanden.
 
-Resultaat: nauwelijks effect. De salesafdeling volgde de door het systeem gekwalificeerde leads niet op, omdat ze het scoringmodel niet vertrouwden en de criteria te abstract vonden. De e-mails hadden een gemiddeld openpercentage van 14% -- ruim onder de branchebenchmark van 22%.
+Resultaat: nauwelijks effect. De salesafdeling volgde de door het systeem gekwalificeerde leads niet op, omdat ze het scoringmodel niet vertrouwden en de criteria te abstract vonden. De e-mails hadden een gemiddeld openpercentage van 14% -- ruim onder de branchebenchmark. De gemiddelde openratio voor B2B e-mail in Nederland ligt rond de 40-45% (benchmark 2025). Let op: door Apple Mail Privacy Protection liggen openpercentages structureel hoger dan enkele jaren geleden, waardoor ruwe openpercentages minder betrouwbaar zijn als enige meetwaarde.
 
 De diagnose: het systeem was te complex voor de organisatie en was ingericht zonder input van sales. De content in de nurture-e-mails sloot niet aan bij de werkelijke vragen van prospects in die fase. Automation versterkt wat er al is -- een slecht salesproces wordt met automation een sneller slecht salesproces.
 

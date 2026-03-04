@@ -2,7 +2,7 @@
 title: "Beste Webshop Software Nederland 2026"
 date: 2026-02-27T08:00:00+01:00
 lastmod: 2026-02-27T10:00:00+01:00
-description: "Ontdek de beste webshop software voor Nederland in 2026. Vergelijk Shopify, WooCommerce, Lightspeed, Magento, BigCommerce, CCV Shop en Mijnwebwinkel op prijs en functies."
+description: "Ontdek de beste webshop software voor Nederland in 2026. Vergelijk Shopify, WooCommerce, Lightspeed, Magento, BigCommerce, CCV Shop en Acendy op prijs en functies."
 categories: ["webshops"]
 tags: ["webshop software", "webshop vergelijking", "shopify", "woocommerce", "lightspeed", "ecommerce", "online verkopen"]
 keywords: ["beste webshop software", "shopify vs woocommerce", "webshop beginnen", "webshop software vergelijken", "beste ecommerce platform nederland"]
@@ -14,13 +14,13 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "/images/categories/webshops.svg"
 faq:
   - q: "Wat is de beste webshop software voor beginners?"
-    a: "Voor beginners zijn Shopify en Mijnwebwinkel de beste keuzes. Shopify biedt een gebruiksvriendelijke interface met drag-and-drop bouwer en uitstekende begeleiding. Mijnwebwinkel is een Nederlands platform dat specifiek gericht is op de Nederlandse markt en ook voor starters zeer toegankelijk is."
+    a: "Voor beginners zijn Shopify en Acendy (voorheen Mijnwebwinkel) de beste keuzes. Shopify biedt een gebruiksvriendelijke interface met drag-and-drop bouwer en uitstekende begeleiding. Acendy is een Nederlands platform dat specifiek gericht is op de Nederlandse markt en ook voor starters zeer toegankelijk is."
   - q: "Wat kost het om een webshop te beginnen?"
     a: "De kosten variëren sterk per platform. Een basiswebshop op Shopify begint bij circa 36 euro per maand. WooCommerce is gratis als plugin, maar je betaalt voor hosting (vanaf circa 5-15 euro per maand), thema's en extensies. CCV Shop begint bij 12,50 euro per maand. Tel daar transactiekosten, een domeinnaam en eventuele extra plugins bij op."
   - q: "Is WooCommerce echt gratis?"
     a: "WooCommerce als WordPress-plugin is gratis, maar je hebt wel betaalde hosting nodig (vanaf circa 5-15 euro per maand), een domeinnaam (circa 10-15 euro per jaar) en vaak betaalde extensies voor functies als iDEAL-betalingen, verzendlabels en geavanceerde productvarianten. De totale kosten liggen voor een basisshop rond 15-50 euro per maand."
   - q: "Welke webshop software ondersteunt iDEAL?"
-    a: "Alle webshop platforms in dit artikel ondersteunen iDEAL via betaalproviders zoals Mollie, MultiSafepay of Adyen. Nederlandse platformen als CCV Shop, Mijnwebwinkel en Lightspeed hebben iDEAL standaard geïntegreerd. Bij Shopify en WooCommerce koppel je eenvoudig Mollie als betaalprovider."
+    a: "Alle webshop platforms in dit artikel ondersteunen iDEAL via betaalproviders zoals Mollie, MultiSafepay of Adyen. Nederlandse platformen als CCV Shop, Acendy en Lightspeed hebben iDEAL standaard geïntegreerd. Bij Shopify en WooCommerce koppel je eenvoudig Mollie als betaalprovider."
   - q: "Kan ik mijn webshop koppelen aan bol.com of Amazon?"
     a: "Ja, de meeste webshop platformen bieden integraties met marketplaces als bol.com en Amazon. Lightspeed eCom en CCV Shop hebben standaard koppelingen met bol.com. Bij Shopify en WooCommerce kun je dit regelen via apps en plugins zoals ChannelEngine of Channable."
   - q: "Wat is het verschil tussen een hosted en self-hosted webshop?"
@@ -41,8 +41,8 @@ De eerste vraag die ik stel als iemand webshop software zoekt: "Hoeveel producte
 | **Lightspeed eCom** | €59/mnd | Nee (14 dagen trial) | Ja (standaard) | Ja | Omnichannel retail |
 | **Magento/Adobe Commerce** | Gratis (Open Source) | Ja (self-hosted) | Via extensie | Ja | Grote webshops & enterprise |
 | **BigCommerce** | $39/mnd | Nee (15 dagen trial) | Via Mollie | Beperkt | Internationale groei |
-| **CCV Shop** | €12,50/mnd | Nee (21 dagen trial) | Ja (standaard) | Ja | Nederlandse starters & MKB |
-| **Mijnwebwinkel** | €17/mnd | Nee (30 dagen trial) | Ja (standaard) | Ja | Eenvoud & Nederlandse markt |
+| **CCV Shop** | €24,95/mnd | Nee (21 dagen trial) | Ja (standaard) | Ja | Nederlandse starters & MKB |
+| **Acendy** (voorheen Mijnwebwinkel) | €40/mnd | Nee (30 dagen trial) | Ja (standaard) | Ja | Eenvoud & Nederlandse markt |
 
 ## 1. Shopify
 
@@ -241,7 +241,7 @@ BigCommerce is het platform dat ik noem als Shopify-gebruikers klagen over trans
 
 ## 6. CCV Shop
 
-CCV Shop is wat ik adviseer aan ondernemers die zeggen: "Ik verkoop alleen in Nederland en België, en ik wil dat alles gewoon werkt." iDEAL, bol.com-koppeling, PostNL-integratie -- het zit er standaard in, zonder plugins of gedoe. De instapprijs van 12,50 euro per maand is de scherpste in dit overzicht. Minder internationaal dan Shopify, maar voor de Nederlandse markt heb je weinig anders nodig.
+CCV Shop is wat ik adviseer aan ondernemers die zeggen: "Ik verkoop alleen in Nederland en België, en ik wil dat alles gewoon werkt." iDEAL, bol.com-koppeling, PostNL-integratie -- het zit er standaard in, zonder plugins of gedoe. Minder internationaal dan Shopify, maar voor de Nederlandse markt heb je weinig anders nodig.
 
 ### Belangrijkste functies
 - Nederlandstalig platform met drag-and-drop editor
@@ -254,7 +254,7 @@ CCV Shop is wat ik adviseer aan ondernemers die zeggen: "Ik verkoop alleen in Ne
 - Koppeling met boekhoudpakketten (Exact, Moneybird, e-Boekhouden)
 
 ### Prijzen (2026)
-- **Smart**: €12,50/maand (100 producten)
+- **Smart**: €24,95/maand (100 producten)
 - **Level**: €32,50/maand (2.500 producten)
 - **Plus**: €62,50/maand (7.500 producten)
 - **Pro**: €97,50/maand (25.000 producten)
@@ -279,9 +279,9 @@ CCV Shop is wat ik adviseer aan ondernemers die zeggen: "Ik verkoop alleen in Ne
 
 ---
 
-## 7. Mijnwebwinkel
+## 7. Acendy (voorheen Mijnwebwinkel)
 
-Mijnwebwinkel is de optie die ik noem als een ondernemer zegt: "Ik wil morgen live." De eenvoud is het sterkste punt -- je kunt letterlijk binnen een dag een professionele webshop hebben draaien. De persoonlijke Nederlandse support is ook opvallend goed. Het is minder uitgebreid dan Shopify of Lightspeed, maar voor een startende webshop met een overzichtelijk assortiment is het meer dan voldoende.
+Acendy -- per januari 2026 de nieuwe naam voor Mijnwebwinkel -- is de optie die ik noem als een ondernemer zegt: "Ik wil morgen live." De eenvoud is het sterkste punt -- je kunt letterlijk binnen een dag een professionele webshop hebben draaien. De persoonlijke Nederlandse support is ook opvallend goed. Het is minder uitgebreid dan Shopify of Lightspeed, maar voor een startende webshop met een overzichtelijk assortiment is het meer dan voldoende.
 
 ### Belangrijkste functies
 - Gebruiksvriendelijke webshop bouwer
@@ -294,10 +294,9 @@ Mijnwebwinkel is de optie die ik noem als een ondernemer zegt: "Ik wil morgen li
 - Koppeling met boekhoudpakketten
 
 ### Prijzen (2026)
-- **Start**: €17/maand (50 producten)
-- **Zakelijk**: €27/maand (500 producten)
-- **Professioneel**: €57/maand (5.000 producten)
-- **Enterprise**: op aanvraag
+- **Startup**: €40/maand
+- **Business**: €80/maand
+- **Enterprise**: €150/maand
 - Geen transactiekosten
 
 ### Voordelen
@@ -309,13 +308,12 @@ Mijnwebwinkel is de optie die ik noem als een ondernemer zegt: "Ik wil morgen li
 - Eerlijke en transparante prijzen
 
 ### Nadelen
-- Productlimieten per abonnement
 - Minder uitgebreid dan Shopify of Lightspeed
 - Kleiner app-ecosysteem
 - Minder geschikt voor zeer grote of complexe webshops
 - Internationale verkoop beperkter ondersteund
 
-<a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mijnwebwinkel.nl →</a>
+<a href="https://www.acendy.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar acendy.com →</a>
 
 ---
 
@@ -325,11 +323,11 @@ Bij het kiezen van een ecommerce-platform zijn er verschillende factoren die je 
 
 ### 1. Technische kennis en tijd
 
-Heb je weinig technische kennis en wil je snel live? Kies dan een hosted platform als Shopify, CCV Shop of Mijnwebwinkel. Ben je technisch onderlegd of heb je een developer? Dan bieden WooCommerce en Magento meer mogelijkheden.
+Heb je weinig technische kennis en wil je snel live? Kies dan een hosted platform als Shopify, CCV Shop of Acendy. Ben je technisch onderlegd of heb je een developer? Dan bieden WooCommerce en Magento meer mogelijkheden.
 
 ### 2. Budget
 
-Bedenk niet alleen de maandelijkse kosten, maar ook transactiekosten, kosten voor apps/plugins, thema's en eventuele development. CCV Shop en Mijnwebwinkel bieden de scherpste instapprijzen voor de Nederlandse markt. WooCommerce is het voordeligst als je alles zelf regelt.
+Bedenk niet alleen de maandelijkse kosten, maar ook transactiekosten, kosten voor apps/plugins, thema's en eventuele development. CCV Shop en Acendy zijn scherp geprijsd voor de Nederlandse markt. WooCommerce is het voordeligst als je alles zelf regelt.
 
 ### 3. Verkoop je ook offline?
 
@@ -337,7 +335,7 @@ Combineer je online en offline verkoop? Dan is Lightspeed eCom met het bijbehore
 
 ### 4. Internationale ambities
 
-Verkoop je voornamelijk in Nederland? CCV Shop en Mijnwebwinkel zijn optimaal. Wil je internationaal groeien? Dan zijn Shopify en BigCommerce betere opties door hun meertalige en multi-valuta mogelijkheden.
+Verkoop je voornamelijk in Nederland? CCV Shop en Acendy zijn optimaal. Wil je internationaal groeien? Dan zijn Shopify en BigCommerce betere opties door hun meertalige en multi-valuta mogelijkheden.
 
 ### 5. Productaantal en complexiteit
 
@@ -371,7 +369,7 @@ De beste webshop software voor jouw bedrijf hangt af van je specifieke situatie,
 - **Beste voor grote webshops**: [Magento](https://business.adobe.com/nl/products/magento/magento-commerce.html) -- ongelimiteerde schaalbaarheid voor complexe ecommerce.
 - **Beste voor internationale groei**: [BigCommerce](https://www.bigcommerce.com/) -- krachtig platform zonder transactiekosten.
 - **Beste Nederlandse allrounder**: [CCV Shop](https://www.ccvshop.nl/) -- alles voor de Nederlandse markt tegen een scherpe prijs.
-- **Beste voor eenvoud**: [Mijnwebwinkel](https://www.mijnwebwinkel.nl/) -- snel live met persoonlijke Nederlandse support.
+- **Beste voor eenvoud**: [Acendy](https://www.acendy.com/) (voorheen Mijnwebwinkel) -- snel live met persoonlijke Nederlandse support.
 
 Mijn advies: start altijd met een gratis proefperiode en test of het platform past bij jouw werkwijze. De juiste webshop software legt de basis voor een succesvol online bedrijf.
 

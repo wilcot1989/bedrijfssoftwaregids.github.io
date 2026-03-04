@@ -239,7 +239,7 @@ Zettle is de ultieme mobiele oplossing voor foodtrucks, pop-ups en kleine cafes.
 
 ### Prijzen (2026)
 - **Software**: Gratis (Zettle Go-app)
-- **Transactiekosten**: 1,75% per transactie
+- **Transactiekosten**: 1,95% per transactie (Nederlands tarief, gecheckt mrt 2026)
 - **Zettle Reader 2**: €29
 - **Store Kit (compleet)**: vanaf €249
 
@@ -323,7 +323,7 @@ Bereken niet alleen de softwarekosten, maar ook hardware, transactiekosten, inst
 |---------|----------|-----------------|---------------------|----------------|
 | Lightspeed | €59 | €0 (eigen pin) | ~€15 | **~€74** |
 | Square | €0 | €140 (1,75%) | ~€5 | **~€145** |
-| Zettle | €0 | €140 (1,75%) | ~€5 | **~€145** |
+| Zettle | €0 | €156 (1,95%) | ~€5 | **~€161** |
 | Orderbird | €39 | €0 (eigen pin) | ~€15 | **~€54** |
 
 Verrassend: het "gratis" systeem is bij deze omzet bijna twee keer zo duur als een betaald abonnement.

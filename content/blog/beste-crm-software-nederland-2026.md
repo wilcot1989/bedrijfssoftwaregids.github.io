@@ -41,11 +41,11 @@ Voordat ik de systemen individueel bespreek, wil ik je eerst laten zien wat je w
 | CRM Software | Prijs/gebruiker/mnd | 5 gebruikers/mnd | Gratis plan | Jaarkosten (5 pers.) |
 |---|---|---|---|---|
 | **HubSpot CRM** | Gratis / €15 | €0 / €75 | Ja | €0 / €900 |
-| **Pipedrive** | €14,90 | €74,50 | Nee | €894 |
+| **Pipedrive** | ~€14 (Lite) | ~€70 | Nee | ~€840 |
 | **Monday CRM** | €12 | €60 | Ja (2 pers.) | €720 |
 | **Salesforce** | €25 | €125 | Nee | €1.500 |
-| **Teamleader** | €37,50 | €187,50 | Nee | €2.250 |
-| **Exact Online CRM** | €35 + €10 extra | €75 | Nee | €900 |
+| **Teamleader** | op aanvraag | op aanvraag | Nee | op aanvraag |
+| **Exact Online CRM** | vanaf €48/maand | €240 | Nee | €2.880 |
 | **Gripp** | €29 | €145 | Nee | €1.740 |
 
 Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel op zodra je geavanceerde functies nodig hebt. Teamleader en Gripp zijn duurder op papier, maar vervangen meerdere losse tools -- reken dat mee.
@@ -56,17 +56,17 @@ Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel
 
 | CRM Software | Startprijs/mnd | Gratis plan | Nederlands | Trustpilot | Beste voor |
 |---|---|---|---|---|---|
-| **HubSpot CRM** | Gratis / €15/gebruiker | Ja | Ja | 1.8/5 (1.049 reviews) | Starters & marketing-gedreven bedrijven |
-| **Pipedrive** | €14,90/gebruiker | Nee (14 dagen trial) | Ja | 4.5/5 (3.200+ reviews) | Verkoopteams & MKB |
-| **Monday CRM** | €12/gebruiker | Ja (beperkt) | Ja | 2.8/5 (3.300+ reviews) | Projectmatige verkoop |
+| **HubSpot CRM** | Gratis / €15/gebruiker | Ja | Ja | 1.9/5 (~960 reviews) | Starters & marketing-gedreven bedrijven |
+| **Pipedrive** | ~€14/gebruiker (Lite) | Nee (14 dagen trial) | Ja | 4.5/5 (3.200+ reviews) | Verkoopteams & MKB |
+| **Monday CRM** | €12/gebruiker | Ja (beperkt) | Ja | 3.1/5 (3.350+ reviews) | Projectmatige verkoop |
 | **Salesforce** | €25/gebruiker | Nee (30 dagen trial) | Ja | 1.5/5 (610 reviews) | Grote bedrijven & enterprises |
-| **Teamleader** | €37,50/gebruiker | Nee (14 dagen trial) | Ja | 4.4/5 (265 reviews) | Belgisch/Nederlands MKB |
-| **Exact Online CRM** | €35/mnd (1 gebruiker) | Nee (30 dagen trial) | Ja | 2.6/5 (641 reviews) | Bedrijven met Exact boekhouding |
+| **Teamleader** | op aanvraag | Nee (14 dagen trial) | Ja | 4.4/5 (265 reviews) | Belgisch/Nederlands MKB |
+| **Exact Online CRM** | vanaf €48/maand | Nee (30 dagen trial) | Ja | 2.6/5 (641 reviews) | Bedrijven met Exact boekhouding |
 | **Gripp** | €29/gebruiker | Nee (14 dagen trial) | Ja | 1.9/5 (20 reviews) | Bureaus & dienstverleners |
 
 ## 1. HubSpot CRM — de beste gratis start
 
-HubSpot is het CRM dat ik het vaakst als startpunt aanbeveel, en de reden is simpel: het gratis plan is verbluffend uitgebreid. Ik heb klanten die er maanden op draaien zonder ook maar een euro te betalen. Onbeperkt contacten, e-mail tracking, een fatsoenlijke pipeline -- gratis. Dat vind je nergens anders. Trustpilot: 1.8/5 (1.049 reviews) -- eerlijk gezegd verbaast me dat niet. De klachten gaan vrijwel allemaal over de prijsstijgingen bij betaalde plannen en het moeilijk opzeggen. Het gratis product is uitstekend; de valkuil zit in het opschalen.
+HubSpot is het CRM dat ik het vaakst als startpunt aanbeveel, en de reden is simpel: het gratis plan is verbluffend uitgebreid. Ik heb klanten die er maanden op draaien zonder ook maar een euro te betalen. Onbeperkt contacten, e-mail tracking, een fatsoenlijke pipeline -- gratis. Dat vind je nergens anders. Trustpilot: 1.9/5 (~960 reviews) -- eerlijk gezegd verbaast me dat niet. De klachten gaan vrijwel allemaal over de prijsstijgingen bij betaalde plannen en het moeilijk opzeggen. Het gratis product is uitstekend; de valkuil zit in het opschalen.
 
 ### Belangrijkste functies
 - Contactbeheer met volledige interactiehistorie
@@ -117,12 +117,12 @@ Benieuwd hoe Pipedrive zich verhoudt tot HubSpot? Lees dan mijn uitgebreide [Hub
 - Mobiele app met offline toegang
 - Workflow-automatiseringen
 
-### Prijzen (februari 2026)
-- **Essential**: €14,90/gebruiker/maand
-- **Advanced**: €27,90/gebruiker/maand
-- **Professional**: €49,90/gebruiker/maand
-- **Power**: €64,90/gebruiker/maand
-- **Enterprise**: €99/gebruiker/maand
+### Prijzen (mrt 2026)
+- **Lite**: ~€14/gebruiker/maand
+- **Growth**: ~€39/gebruiker/maand
+- **Premium**: ~€49/gebruiker/maand
+- **Ultimate**: ~€69/gebruiker/maand
+(plannamen en prijzen gecheckt mrt 2026)
 
 ### Voordelen
 - Zeer intuïtief en snel te leren (mijn klanten zijn binnen een dag productief)
@@ -136,7 +136,7 @@ Benieuwd hoe Pipedrive zich verhoudt tot HubSpot? Lees dan mijn uitgebreide [Hub
 - Marketingfuncties minder uitgebreid dan HubSpot
 - Rapportages in het basispakket zijn beperkt
 
-Als je een verkoopteam van 3 tot 20 mensen hebt en je wilt een CRM dat iedereen daadwerkelijk gaat gebruiken, is Pipedrive mijn eerste keuze. Start met het Advanced-plan (€27,90) -- dat heeft de automatiseringen die je echt nodig hebt.
+Als je een verkoopteam van 3 tot 20 mensen hebt en je wilt een CRM dat iedereen daadwerkelijk gaat gebruiken, is Pipedrive mijn eerste keuze. Start met het Growth-plan (~€39) -- dat heeft de automatiseringen die je echt nodig hebt.
 
 <a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
@@ -144,7 +144,7 @@ Als je een verkoopteam van 3 tot 20 mensen hebt en je wilt een CRM dat iedereen 
 
 ## 3. Monday CRM — voor wie CRM en projectmanagement wil combineren
 
-Monday CRM is de tool die ik aanbeveel als een klant zegt: "Ik wil mijn deals tracken en daarna het project managen, liefst in een systeem." Die combinatie is de grote kracht. Zoek je een dedicated projecttool? Lees dan mijn vergelijking van de [beste projectmanagement software](/blog/beste-projectmanagement-software-2026/). Een adviesbureau dat ik hielp, gebruikte het voor de hele flow: van eerste contact tot projectoplevering. Dat scheelde ze twee losse tools. Trustpilot: 2.8/5 (3.300+ reviews) -- de meningen zijn verdeeld. Fans zijn enthousiast over de flexibiliteit, maar de CRM-functies zijn minder diep dan bij Pipedrive of HubSpot, en dat hoor je terug in de reviews.
+Monday CRM is de tool die ik aanbeveel als een klant zegt: "Ik wil mijn deals tracken en daarna het project managen, liefst in een systeem." Die combinatie is de grote kracht. Zoek je een dedicated projecttool? Lees dan mijn vergelijking van de [beste projectmanagement software](/blog/beste-projectmanagement-software-2026/). Een adviesbureau dat ik hielp, gebruikte het voor de hele flow: van eerste contact tot projectoplevering. Dat scheelde ze twee losse tools. Trustpilot: 3.1/5 (3.350+ reviews) -- de meningen zijn verdeeld. Fans zijn enthousiast over de flexibiliteit, maar de CRM-functies zijn minder diep dan bij Pipedrive of HubSpot, en dat hoor je terug in de reviews.
 
 ### Belangrijkste functies
 - Volledig aanpasbare sales pipelines
@@ -220,7 +220,7 @@ Heb je 50+ medewerkers, een dedicated IT-team en complexe salesprocessen? Dan is
 
 ## 5. Teamleader — de alles-in-een voor Benelux MKB
 
-Teamleader is mijn go-to aanbeveling voor Benelux MKB'ers die een alles-in-een oplossing willen. CRM, projecten, uren en facturatie in een platform -- en het werkt goed samen met je Nederlandse boekhouding. Een installatiebedrijf dat ik begeleidde, verving er drie losse tools mee: hun CRM, projecttool en facturatiepakket. De instapprijs van €37,50 per gebruiker is hoger dan Pipedrive, maar je vervangt er meerdere tools mee. Dat is bij de meeste klanten die ik begeleid uiteindelijk goedkoper. Trustpilot: 4.4/5 (265 reviews) -- een solide score, en de reviews bevestigen wat ik in de praktijk zie: gebruikers waarderen de alles-in-een aanpak en de Nederlandstalige support.
+Teamleader is mijn go-to aanbeveling voor Benelux MKB'ers die een alles-in-een oplossing willen. CRM, projecten, uren en facturatie in een platform -- en het werkt goed samen met je Nederlandse boekhouding. Een installatiebedrijf dat ik begeleidde, verving er drie losse tools mee: hun CRM, projecttool en facturatiepakket. De instapprijs is hoger dan Pipedrive, maar je vervangt er meerdere tools mee. Dat is bij de meeste klanten die ik begeleid uiteindelijk goedkoper. Trustpilot: 4.4/5 (265 reviews) -- een solide score, en de reviews bevestigen wat ik in de praktijk zie: gebruikers waarderen de alles-in-een aanpak en de Nederlandstalige support.
 
 ### Belangrijkste functies
 - CRM met contactbeheer en bedrijfsprofielen
@@ -231,10 +231,10 @@ Teamleader is mijn go-to aanbeveling voor Benelux MKB'ers die een alles-in-een o
 - Telefonie-integratie
 - Cloudtoegang via web en mobiel
 
-### Prijzen (februari 2026)
-- **Go**: €37,50/gebruiker/maand
-- **Move**: €50/gebruiker/maand
-- **Boost**: €67,50/gebruiker/maand
+### Prijzen (mrt 2026)
+- **SMART**: prijzen op aanvraag via teamleader.eu
+- **GROW**: prijzen op aanvraag via teamleader.eu
+- **FLOW**: prijzen op aanvraag via teamleader.eu
 - Korting bij jaarlijkse betaling
 
 ### Voordelen
@@ -249,7 +249,7 @@ Teamleader is mijn go-to aanbeveling voor Benelux MKB'ers die een alles-in-een o
 - CRM-functies minder diep dan gespecialiseerde tools
 - Minder integraties dan internationale platformen als HubSpot
 
-Als je een bedrijf hebt met 5 tot 30 medewerkers en je wilt offertes, projecten en facturatie onder een dak, bespaar je met Teamleader al snel op losse tools. Begin met het Go-plan en upgrade wanneer je de projectmodule nodig hebt.
+Als je een bedrijf hebt met 5 tot 30 medewerkers en je wilt offertes, projecten en facturatie onder een dak, bespaar je met Teamleader al snel op losse tools. Begin met het SMART-plan en upgrade wanneer je de projectmodule nodig hebt.
 
 <a href="https://www.teamleader.eu/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar teamleader.eu →</a>
 
@@ -270,9 +270,8 @@ Als je ook op zoek bent naar boekhoudsoftware, lees dan mijn artikel over de [be
 - Rapportages en dashboards
 - Koppeling met Exact HRM en Exact projecten
 
-### Prijzen (februari 2026)
-- **CRM basis**: vanaf €35/maand (1 gebruiker)
-- **Extra gebruikers**: vanaf €10/gebruiker/maand
+### Prijzen (mrt 2026)
+- **CRM**: vanaf €48/maand
 - Combinatiepakketten met boekhouding beschikbaar
 
 ### Voordelen
@@ -393,7 +392,7 @@ Na tientallen bedrijven te hebben begeleid met hun CRM-keuze, kan ik je dit vert
 
 - **Starter of ZZP'er met beperkt budget?** Begin met [HubSpot CRM gratis](https://www.hubspot.com/nl). Kost je niets en je leert wat je werkelijk nodig hebt. Zodra je tegen de limieten aanloopt, heb je genoeg ervaring om een gerichte keuze te maken. Specifiek op zoek naar een CRM als freelancer? Lees dan mijn artikel over de [beste CRM software voor ZZP'ers](/blog/beste-crm-zzp-freelancers-2026/).
 
-- **Verkoopteam van 3-20 mensen?** Ga voor [Pipedrive](https://www.pipedrive.com/nl). In 12 jaar heb ik geen CRM gezien dat verkopers sneller adopteren. Die visuele pipeline en de mobiele app maken het verschil. Start met Advanced (€27,90/gebruiker) voor de automatiseringen.
+- **Verkoopteam van 3-20 mensen?** Ga voor [Pipedrive](https://www.pipedrive.com/nl). In 12 jaar heb ik geen CRM gezien dat verkopers sneller adopteren. Die visuele pipeline en de mobiele app maken het verschil. Start met Growth (~€39/gebruiker) voor de automatiseringen.
 
 - **MKB met 5-30 medewerkers dat alles onder een dak wil?** Kies [Teamleader](https://www.teamleader.eu/nl). Je vervangt je CRM, projecttool en facturatiepakket in een klap. De hogere prijs verdien je terug door losse tools op te zeggen.
 

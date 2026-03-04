@@ -45,7 +45,7 @@ Monday.com vs Asana is de vergelijking die ik het vaakst maak bij projectmanagem
 | **CRM-module** | Ja (Monday CRM) | Nee |
 | **Tijdregistratie** | Ja (ingebouwd) | Nee (via integratie) |
 | **Formulieren** | Ja | Ja |
-| **Portfoliobeheer** | Ja (vanaf Pro) | Ja (vanaf Starter) |
+| **Portfoliobeheer** | Ja (vanaf Enterprise) | Ja (vanaf Advanced) |
 | **AI-functies** | Monday AI | Asana Intelligence |
 | **Mobiele app** | iOS & Android | iOS & Android |
 | **Integraties** | 200+ | 200+ |
