@@ -149,6 +149,8 @@ En als je merkt dat je huidige CRM het lastig maakt om data schoon te houden —
 
 - [De 7 meest gemaakte CRM-fouten bij MKB-bedrijven](/blog/crm-fouten-mkb/)
 - [CRM-implementatieplan: van aanschaf naar gebruik in 30 dagen](/blog/crm-implementatieplan-30-dagen/)
+- [Van Excel naar CRM: migratie zonder dataverlies](/blog/van-excel-naar-crm-migratie/)
+- [CRM-integraties uitgelegd](/blog/crm-integraties-uitgelegd/)
 
 ---
 

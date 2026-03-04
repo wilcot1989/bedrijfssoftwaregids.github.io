@@ -207,7 +207,7 @@ Dit is een pijnpunt voor Brevo. In onafhankelijke tests van EmailToolTester scoo
 
 Eerlijk gezegd: deze cijfers zijn gemiddelden. Met goede authenticatie (DKIM, DMARC, SPF), een opgewarmd IP en schone contactlijsten kun je bij Brevo prima deliverability halen. Maar out-of-the-box is Mailchimp betrouwbaarder op dit vlak.
 
-Brevo biedt wel betere deliverability-tools: een setup wizard die je door de authenticatie leidt, en IP-warmup ondersteuning. Mailchimp laat je meer op jezelf aangewezen.
+Brevo biedt wel betere deliverability-tools: een setup wizard die je door de authenticatie leidt, en IP-warmup ondersteuning. Mailchimp laat je meer op jezelf aangewezen. Als je last hebt van deliverability-problemen, lees dan ons artikel over [email deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/) voor praktische stappen om je inboxplaatsing te verbeteren.
 
 **Winnaar: Mailchimp** -- hogere deliverability uit de doos.
 
@@ -441,7 +441,7 @@ Het gratis plan van Brevo (300 mails/dag, onbeperkt contacten) is objectief het 
 
 Wat je ook kiest: begin met het gratis plan, test beide tools een maand, en kijk welke beter aansluit bij je workflow. Beide bieden gratis instappen zonder creditcard.
 
-Wil je je email marketing combineren met een CRM? Lees dan mijn [HubSpot CRM review](/blog/hubspot-crm-review-2026/) of de [beste CRM-software voor Nederland](/blog/beste-crm-software-nederland-2026/).
+Wil je je email marketing combineren met een CRM? Lees dan mijn [HubSpot CRM review](/blog/hubspot-crm-review-2026/) of de [beste CRM-software voor Nederland](/blog/beste-crm-software-nederland-2026/). Nog geen grote e-maillijst? Bekijk dan ons artikel over [e-maillijst opbouwen voor B2B](/blog/email-lijst-opbouwen-b2b/) voor strategieën die werken in de Nederlandse markt. Wil je weten wat marketing automation in de praktijk oplevert? Lees dan de [marketing automation ROI voorbeelden](/blog/marketing-automation-roi-voorbeelden/).
 
 ---
 

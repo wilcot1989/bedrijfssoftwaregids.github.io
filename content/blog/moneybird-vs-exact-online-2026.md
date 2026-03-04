@@ -183,11 +183,13 @@ Dit is een factor die veel ondernemers onderschatten. De keuze van je boekhoudpa
 
 Mijn advies: **bel je boekhouder voordat je kiest.** Vraag: "Werk je met Moneybird? Werk je met Exact?" Die twee zinnen kunnen je een hoop gedoe besparen.
 
-Meer weten over boekhoudsoftware en accountant-integratie? Lees ook mijn [Exact Online vs Twinfield vergelijking](/blog/exact-online-vs-twinfield-2026/) als je twijfelt tussen twee professionele pakketten.
+Meer weten over boekhoudsoftware en accountant-integratie? Lees ook mijn [Exact Online vs Twinfield vergelijking](/blog/exact-online-vs-twinfield-2026/) als je twijfelt tussen twee professionele pakketten. Of bekijk de [Twinfield vs Moneybird vergelijking](/blog/twinfield-vs-moneybird-2026/) als je specifiek wil weten wanneer Twinfield de betere keuze is ten opzichte van Moneybird.
 
 ## Veelgemaakte fouten bij overstappen
 
 Ik heb tientallen migraties begeleid, en dezelfde fouten komen steeds terug. Hier de drie die ik het vaakst zie:
+
+Overweeg je een migratie tussen boekhoudpakketten? Lees dan ons artikel over [boekhoudprogramma migratie en data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/) voor een concrete aanpak.
 
 ### 1. Overstappen halverwege het boekjaar
 

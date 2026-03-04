@@ -136,7 +136,7 @@ Veel restauranthouders schatten hun voorraad op gevoel. Dat kost geld. Goed voor
 
 ### Personeelsplanning
 
-Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij de meeste horeca software pakketten zijn ingebouwd of via een koppeling beschikbaar zijn. Sommige systemen bieden zelfs personeelskostenanalyse per dienst, zodat je precies weet of je te veel of te weinig personeel hebt ingepland. Zoek je hier een gespecialiseerde oplossing voor? Bekijk dan mijn vergelijking van de [beste planning software voor horeca](/blog/beste-planning-software-horeca-2026/).
+Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij de meeste horeca software pakketten zijn ingebouwd of via een koppeling beschikbaar zijn. Sommige systemen bieden zelfs personeelskostenanalyse per dienst, zodat je precies weet of je te veel of te weinig personeel hebt ingepland. Zoek je hier een gespecialiseerde oplossing voor? Bekijk dan mijn vergelijking van de [beste planning software voor horeca](/blog/beste-planning-software-horeca-2026/). Voor de salarisverwerking van je horecateam lees je mijn overzicht van de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/).
 
 
 ## Top 5: Beste Horeca Software 2026
@@ -145,7 +145,7 @@ Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij d
 
 ### 1. Lightspeed Restaurant -- Beste allrounder
 
-Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingredienten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. De koppeling met Formitable voor reserveringen is naadloos: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews. Ben je ook benieuwd hoe je Lightspeed koppelt aan de boekhouding? Lees mijn artikel over [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
+Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingredienten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. Wil je ook je horeca-boekhouding koppelen aan je kassasysteem? Lees dan mijn vergelijking van de [beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) voor de populairste koppelingen. De koppeling met Formitable voor reserveringen is naadloos: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews. Ben je ook benieuwd hoe je Lightspeed koppelt aan de boekhouding? Lees mijn artikel over [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
 
 Het KDS (Kitchen Display System) is waar Lightspeed echt uitblinkt: ganggestuurde bestellingen verschijnen op het keukenscherm met timers en kleurcodering. De integratie met Thuisbezorgd en Uber Eats betekent dat bezorgorders automatisch in je keukenflow landen zonder handmatig overtypen.
 
@@ -429,7 +429,7 @@ Veel restauranthouders kijken alleen naar de maandprijs van de software. Dat is 
 </tbody>
 </table>
 
-Het patroon is duidelijk: het "gratis" systeem is bij een omzet van €15.000 per maand het duurst. Orderbird is de goedkoopste optie, maar mist functies die een druk restaurant nodig heeft. Lightspeed en Untill zitten in het middensegment qua kosten, maar bieden de meeste functionaliteit. Reken altijd je eigen situatie door voordat je kiest.
+Het patroon is duidelijk: het "gratis" systeem is bij een omzet van €15.000 per maand het duurst. Orderbird is de goedkoopste optie, maar mist functies die een druk restaurant nodig heeft. Lightspeed en Untill zitten in het middensegment qua kosten, maar bieden de meeste functionaliteit. Reken altijd je eigen situatie door voordat je kiest. Wil je ook weten hoe je een kassasysteem correct inricht voor de horeca? Lees mijn checklist voor [kassasysteem inrichten in de horeca](/blog/kassasysteem-inrichten-checklist/).
 
 
 ## Reserveringssoftware: welke koppelingen zijn er?
@@ -444,7 +444,7 @@ Horeca software zonder reserveringskoppeling betekent dubbel werk: je checkt een
 | **Orderbird** | Nee | Nee | Nee | Nee |
 | **Zettle** | Nee | Nee | Nee | Nee |
 
-Mijn advies: als reserveringen een belangrijk deel van je bedrijfsvoering zijn (en dat is bij de meeste restaurants het geval), kies dan Lightspeed of Trivec. Lightspeed biedt de breedste integratie met Nederlandse reserveringsplatforms. Trivec heeft een ingebouwd systeem dat goed werkt als je geen extern platform wilt gebruiken.
+Mijn advies: als reserveringen een belangrijk deel van je bedrijfsvoering zijn (en dat is bij de meeste restaurants het geval), kies dan Lightspeed of Trivec. Lightspeed biedt de breedste integratie met Nederlandse reserveringsplatforms. Trivec heeft een ingebouwd systeem dat goed werkt als je geen extern platform wilt gebruiken. Zoek je ook HR-software voor je horecateam? Lees mijn vergelijking van de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/).
 
 
 ## Voorraadbeheer: van ingredienten tot food cost
@@ -459,7 +459,7 @@ Dit zijn de voorraadfuncties per horeca software systeem:
 - **Orderbird**: Basisvoorraadbeheer -- je kunt producten bijhouden, maar geen recepturen invoeren of automatisch afboeken per ingrediënt.
 - **Zettle**: Minimaal voorraadbeheer. Je kunt aantallen bijhouden, maar er is geen koppeling met recepturen of ingredienten.
 
-Als voorraadbeheer en food cost controle belangrijk zijn voor je restaurant, kom je uit bij Lightspeed (Plus of hoger) of Untill (Professioneel). De investering in een duurder pakket verdien je terug door lagere food costs.
+Als voorraadbeheer en food cost controle belangrijk zijn voor je restaurant, kom je uit bij Lightspeed (Plus of hoger) of Untill (Professioneel). De investering in een duurder pakket verdien je terug door lagere food costs. Wil je ook je voorraadbeheer verder professionaliseren naast je horeca software? Lees mijn overzicht van de [beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/).
 
 
 ## Keuken- en barmanagement: printer of display?
@@ -478,12 +478,12 @@ Bij elk restaurant dat ik adviseer, komt dezelfde vraag: keukenprinter of Kitche
 - Minder fouten, beter timing-management
 - Nadeel: hogere investering, scherm moet tegen vocht en hitte kunnen
 
-Mijn ervaring: restaurants met meer dan 50 couverts per avond hebben baat bij een KDS. Kleinere zaken komen prima uit met een keukenprinter. Lightspeed, Untill en Trivec ondersteunen alledrie zowel printers als KDS. Orderbird werkt alleen met printers.
+Mijn ervaring: restaurants met meer dan 50 couverts per avond hebben baat bij een KDS. Kleinere zaken komen prima uit met een keukenprinter. Lightspeed, Untill en Trivec ondersteunen alledrie zowel printers als KDS. Orderbird werkt alleen met printers. Overweeg je ook een ERP-systeem voor je restaurantketen? Lees mijn vergelijking van de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
 
 ## Mijn advies: welke horeca software bij welke operations?
 
-De keuze hangt af van wat je restaurant operationeel nodig heeft. Niet elke zaak heeft alles nodig -- kies op basis van je knelpunten.
+De keuze hangt af van wat je restaurant operationeel nodig heeft. Niet elke zaak heeft alles nodig -- kies op basis van je knelpunten. Wil je ook weten welke recruitment software het beste is voor het aannemen van horecapersoneel? Lees mijn vergelijking van de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/).
 
 ### "Ik wil grip op mijn food cost en verspilling tegengaan"
 → **[Lightspeed Restaurant Core](https://www.lightspeedhq.nl/)** (€139/mnd) of **[Untill Professioneel](https://www.untill.com/nl/)** (€129/mnd). Beide bieden receptuurbeheer met automatisch afboeken. Lightspeed geeft je food cost per gerecht. Untill gaat een stap verder met een inkoopmodule en theoretische vs. werkelijke voorraad vergelijking. Bij een wisselende kaart met seizoensproducten heeft Untill de edge.

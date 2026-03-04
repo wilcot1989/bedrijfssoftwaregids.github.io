@@ -30,7 +30,7 @@ Veel ondernemers stellen de vraag op het verkeerde moment: niet voor ze een boek
 
 Ik heb zelf de overstap gezien bij tientallen klanten en de besparing is vaak EUR 2.000 tot EUR 4.000 per jaar. Soms is het meer, afhankelijk van hoeveel de boekhouder rekende voor taken die software nu automatisch doet.
 
-Dit artikel legt de werkelijke kosten naast elkaar op basis van wat Nederlandse ondernemers in de praktijk betalen, niet op basis van brochures.
+Dit artikel legt de werkelijke kosten naast elkaar op basis van wat Nederlandse ondernemers in de praktijk betalen, niet op basis van brochures. Twijfel je welk pakket bij jou past als je eenmaal voor software kiest? Het artikel [boekhoudprogramma kiezen: 7 vragen](/blog/boekhoudprogramma-kiezen-7-vragen/) helpt je de juiste keuze te maken.
 
 ## Wat je betaalt voor een externe boekhouder
 

@@ -336,7 +336,7 @@ Organisch verkeer is de goedkoopste en duurzaamste verkeersbron voor je webshop.
 
 ### Chatbot en klantenservice
 
-Voor webshops met meer dan 100 orders per dag wordt klantenservice een uitdaging. Lees mijn [beste chatbot software vergelijking](/blog/beste-chatbot-software-2026/) en de [helpdesk software gids](/blog/beste-klantenservice-software-2026/).
+Voor webshops met meer dan 100 orders per dag wordt klantenservice een uitdaging. Lees mijn [beste chatbot software vergelijking](/blog/beste-chatbot-software-2026/) en de [helpdesk software gids](/blog/beste-klantenservice-software-2026/). Wil je ook social media inzetten voor je webshop? Lees dan het overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/) voor een geïntegreerde aanpak. En voor facturatie kun je de [beste facturatie software voor MKB 2026](/blog/beste-facturatie-software-mkb-2026/) combineren met je webshopplatform.
 
 
 ## Boekhouding: de administratie op orde

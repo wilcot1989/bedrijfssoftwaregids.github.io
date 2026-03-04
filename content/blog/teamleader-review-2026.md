@@ -153,7 +153,7 @@ Teamleader biedt koppelingen met de belangrijkste Nederlandse tools:
 - **Zapier**: voor honderden extra koppelingen
 - **API**: voor maatwerkkoppelingen
 
-Het integratie-ecosysteem is kleiner dan dat van Pipedrive (400+) of HubSpot (1.000+). Voor de meeste MKB-bedrijven in de Benelux is het voldoende, maar als je exotische tools gebruikt, check dan vooraf of er een koppeling bestaat.
+Het integratie-ecosysteem is kleiner dan dat van Pipedrive (400+) of HubSpot (1.000+). Voor de meeste MKB-bedrijven in de Benelux is het voldoende, maar als je exotische tools gebruikt, check dan vooraf of er een koppeling bestaat. Wil je begrijpen hoe CRM-integraties in de praktijk werken? Lees het artikel over [CRM integraties uitgelegd](/blog/crm-integraties-uitgelegd/) voor een helder overzicht.
 
 ## Teamleader review: wat zegt de markt?
 

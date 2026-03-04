@@ -325,7 +325,7 @@ Handmatige urenregistratie leidt tot afrondingsfouten en discussies over gewerkt
 
 ### 5. Geen koppeling met de boekhouding
 
-Als je planning en urenregistratie losstaan van je boekhouding en salarisadministratie, verspil je wekelijks tijd aan handmatige invoer. Koppel je planningssoftware aan je salarispakket en [boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/) voor een gestroomlijnde workflow. Heb je ook je eerste medewerker aangenomen? Lees dan [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor een overzicht van de wettelijke verplichtingen.
+Als je planning en urenregistratie losstaan van je boekhouding en salarisadministratie, verspil je wekelijks tijd aan handmatige invoer. Koppel je planningssoftware aan je salarispakket en [boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/) voor een gestroomlijnde workflow. Heb je ook je eerste medewerker aangenomen? Lees dan [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor een overzicht van de wettelijke verplichtingen. Als medewerkers verzuimen, lees dan ook mijn artikel over [verzuimregistratie en de Wet Poortwachter](/blog/verzuimregistratie-wvp-software/) en [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/) voor een proactieve aanpak.
 
 ## Conclusie
 

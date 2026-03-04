@@ -130,6 +130,8 @@ Kennis is het halve werk. De andere helft is er iets mee doen.
 
 Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) om een systeem te vinden met sterke retentie-tools. Bereken ook de [CRM kosten](/tools/crm/kosten-berekenen/) voor jouw teamgrootte om te zien wat een CRM je per jaar kost.
 
+Een volledig overzicht van alle CRM-software vergelijkingen en reviews vind je op de [CRM overzichtspagina](/categories/crm/). Als je ook wil weten hoe je een CRM stap voor stap invoert, lees dan het [CRM implementatieplan voor 30 dagen](/blog/crm-implementatieplan-30-dagen/).
+
 **Lees ook:**
 - [Beste CRM-software Nederland 2026](/blog/beste-crm-software-nederland-2026/)
 - [De meest gemaakte CRM-fouten in het MKB](/blog/crm-fouten-mkb/)

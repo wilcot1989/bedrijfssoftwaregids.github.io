@@ -138,6 +138,8 @@ Dat is het verschil tussen een e-maillijst die je iets oplevert en een tijdbom d
 
 Wil je weten welke tools het beste bij jouw aanpak passen? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/) om de juiste e-mail marketing tool te vinden voor jouw situatie. Bereken ook de [marketing software kosten](/tools/marketing/kosten-berekenen/) om te zien wat een goed e-mailplatform je per maand kost bij jouw lijstgrootte en verzendvolume.
 
+Voor een volledige vergelijking van Brevo en andere nieuwsbriefsoftware voor Nederlandse bedrijven, lees mijn [Brevo review 2026](/blog/brevo-review-2026/). En als je wil begrijpen welke automatiseringsacties het meeste opleveren, bekijk dan de [marketing automation ROI-voorbeelden](/blog/marketing-automation-roi-voorbeelden/). Een overzicht van alle marketing software vergelijkingen vind je op de [marketing overzichtspagina](/categories/marketing/).
+
 ---
 
 **Lees ook:**

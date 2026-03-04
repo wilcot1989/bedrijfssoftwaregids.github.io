@@ -160,6 +160,8 @@ Tot slot: opzeg je oude abonnement nooit voordat je weet dat alle data geëxport
 
 Een goede migratie duurt langer dan je wil. Een slechte migratie duurt langer dan je ooit verwachtte.
 
+Een volledig overzicht van alle boekhoudsoftware vergelijkingen staat op de [boekhouding overzichtspagina](/categories/boekhouding/). Als je overweegt te migreren naar Exact Online, lees dan eerst de [Exact Online review 2026](/blog/exact-online-review-2026/) zodat je weet wat je kunt verwachten.
+
 ---
 
 ## Lees ook

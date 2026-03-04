@@ -33,7 +33,7 @@ faq:
 
 Brevo is een van die tools die ik bij veel klanten tegenkom -- vaak nog onder de oude naam Sendinblue. En de vraag is bijna altijd dezelfde: "Is dat gratis plan echt zo goed als het klinkt?" Na tientallen implementaties kan ik zeggen: het gratis plan is degelijk, maar het echte verhaal zit in de nuances. In deze Brevo review deel ik mijn eerlijke ervaringen in 2026, inclusief de punten waar andere reviews omheen draaien.
 
-Zoek je een breder overzicht? Lees dan ook mijn vergelijking van de [beste email marketing software voor Nederland](/blog/beste-email-marketing-software-2026/).
+Zoek je een breder overzicht? Lees dan ook mijn vergelijking van de [beste email marketing software voor Nederland](/blog/beste-email-marketing-software-2026/). Wil je Brevo direct vergelijken met de populairste concurrent? Bekijk dan de [Brevo vs Mailchimp vergelijking](/blog/brevo-vs-mailchimp-2026/).
 
 ## Brevo in het kort
 
@@ -171,6 +171,8 @@ Mijn eigen ervaring: bij klanten die het goed instellen (eigen domein geverifiee
 
 ### Wat je zelf kunt doen voor betere deliverability
 
+Heb je al last van deliverability-problemen? Lees dan ons artikel over [email deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/) voor een stap-voor-stap aanpak. En als je je lijst nog moet opbouwen, bekijk dan het artikel over [e-maillijst opbouwen voor B2B](/blog/email-lijst-opbouwen-b2b/) voor strategieën die werken.
+
 1. **Verifieer je domein** met DKIM en DMARC (dit is gratis en cruciaal)
 2. **Investeer in een dedicated IP** als je meer dan 10.000 mails per maand verstuurt
 3. **Warm je IP op** -- begin met kleine volumes en bouw geleidelijk op
@@ -262,7 +264,7 @@ Bekijk voor een volledig overzicht van alle e-mailmarketing tools het [overzicht
 
 **Wanneer Brevo beter is dan Mailchimp**: als je een grote contactlijst hebt en relatief weinig mails stuurt, of als EU data-opslag belangrijk is.
 
-**Wanneer ActiveCampaign beter is**: als marketing automation je prioriteit is en je bereid bent meer te betalen voor krachtigere workflows en betere deliverability.
+**Wanneer ActiveCampaign beter is**: als marketing automation je prioriteit is en je bereid bent meer te betalen voor krachtigere workflows en betere deliverability. Bekijk ook ons artikel over [marketing automation ROI voorbeelden](/blog/marketing-automation-roi-voorbeelden/) om te bepalen welk platform voor jouw situatie de beste return oplevert.
 
 **Wanneer MailerLite beter is**: als je een klein budget hebt, weinig contacten en vooral mooie nieuwsbrieven wilt versturen.
 

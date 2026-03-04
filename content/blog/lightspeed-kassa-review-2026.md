@@ -248,7 +248,7 @@ Hoe verhoudt Lightspeed zich tot alternatieven? Een kort overzicht:
 | **Offline modus** | Beperkt | Beperkt | Sterk | Beperkt |
 | **NL support** | Ja | Nee (Engels) | Ja | Beperkt (Duits) |
 
-Wil je een uitgebreidere vergelijking? Lees mijn [Lightspeed vs Square vergelijking](/blog/lightspeed-vs-square-2026/) of bekijk het [complete kassasystemen overzicht voor horeca](/blog/beste-kassasysteem-horeca-2026/).
+Wil je een uitgebreidere vergelijking? Lees mijn [Lightspeed vs Square vergelijking](/blog/lightspeed-vs-square-2026/), de [Lightspeed vs Untill vergelijking](/blog/lightspeed-vs-untill-2026/) of bekijk het [complete kassasystemen overzicht voor horeca](/blog/beste-kassasysteem-horeca-2026/). Sta je op het punt om Lightspeed in te richten? Gebruik dan de [kassasysteem inrichten checklist](/blog/kassasysteem-inrichten-checklist/) zodat je niets over het hoofd ziet.
 
 ## Voor wie is Lightspeed wel (en niet) geschikt?
 

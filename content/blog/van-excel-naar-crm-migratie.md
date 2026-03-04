@@ -155,6 +155,8 @@ De overstap kostte drie weken voorbereiding. De opbrengst is structureel.
 
 **Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) om te zien welk systeem past bij jouw bedrijf.**
 
+Bereken ook de [CRM kosten](/tools/crm/kosten-berekenen/) voor jouw teamgrootte om te zien wat een goed CRM je per jaar kost. Wil je na de overstap ook je data-kwaliteit op orde houden, lees dan mijn [CRM-data opschonen stappenplan](/blog/crm-data-opschonen-stappenplan/). En als je twijfelt welk systeem het beste bij jou past, bekijk dan de [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/) voor een uitgebreide analyse.
+
 ---
 
 ## Lees ook

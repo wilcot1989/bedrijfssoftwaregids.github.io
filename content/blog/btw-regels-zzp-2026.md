@@ -165,6 +165,8 @@ De eerste keer dat een Belastingdienst-medewerker vraagt om bewijs dat het BTW-n
 
 BTW hoeft geen bron van stress te zijn. De regels zijn voorspelbaar, de deadlines staan vast en goede software doet het meeste werk. Maar je moet ze wel kennen.
 
+Een volledig overzicht van alle boekhoudsoftware vergelijkingen en ZZP-gidsen vind je op de [boekhouding overzichtspagina](/categories/boekhouding/). Als je ook wil begrijpen hoe je facturen en boekhouding slim combineert, lees dan [factureren en boekhouden alles in één](/blog/factureren-en-boekhouden-alles-in-een/).
+
 ---
 
 ## Lees ook

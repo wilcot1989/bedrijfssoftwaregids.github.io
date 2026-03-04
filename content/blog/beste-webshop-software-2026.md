@@ -78,7 +78,7 @@ De eerste vraag die ik stel als iemand webshop software zoekt: "Hoeveel producte
 
 ## 1. Shopify
 
-Shopify is het platform dat ik het vaakst adviseer aan ondernemers die snel een webshop willen starten zonder technisch gedoe. Het werkt, het schaalt, en het enorme app-ecosysteem lost vrijwel elk probleem op. Ik heb klanten geholpen die van 10 naar 10.000 producten groeiden zonder ooit van platform te hoeven wisselen. Het nadeel: de maandelijkse kosten lopen op als je veel betaalde apps nodig hebt.
+Shopify is het platform dat ik het vaakst adviseer aan ondernemers die snel een webshop willen starten zonder technisch gedoe. Het werkt, het schaalt, en het enorme app-ecosysteem lost vrijwel elk probleem op. Ik heb klanten geholpen die van 10 naar 10.000 producten groeiden zonder ooit van platform te hoeven wisselen. Het nadeel: de maandelijkse kosten lopen op als je veel betaalde apps nodig hebt. Wil je ook weten hoe je een professionele website naast je webshop bouwt? Lees mijn vergelijking van de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
 
 **Shopify in de praktijk: van startersshop tot groeiende webshop.** Een klant van mij begon met vijf handgemaakte sieraden en een basisshop op Shopify. Twee jaar later verkoopt ze 200 producten in drie landen. Ze heeft nooit van platform gewisseld. Dat is het kenmerkende verhaal van Shopify: je begint klein, het schaalt mee.
 
@@ -142,7 +142,7 @@ WooCommerce adviseer ik aan klanten die zeggen: "Ik wil volledige controle over 
 
 **WooCommerce in de praktijk: macht en verantwoordelijkheid gaan samen.** Een klant van mij baat een gespecialiseerde webshop uit voor hobbyistische radiografische auto's — 1.200 producten, complexe varianten, een specifiek klantenbestand dat alles wil weten over specificaties. Op Shopify zou hij tien apps nodig hebben om het te bouwen. Op WooCommerce bouwde zijn developer het precies naar wens.
 
-De vrijheid van WooCommerce is ongeëvenaard. Maar die vrijheid heeft een prijs. Ik heb klanten gehad waarbij de website gekraakt werd omdat ze twee maanden geen updates hadden gedaan. Een ander had performance-problemen omdat de hosting te simpel was. Dit zijn geen problemen die je bij Shopify of CCV Shop hebt — die regelen dat voor je.
+De vrijheid van WooCommerce is ongeëvenaard. Maar die vrijheid heeft een prijs. Ik heb klanten gehad waarbij de website gekraakt werd omdat ze twee maanden geen updates hadden gedaan. Een ander had performance-problemen omdat de hosting te simpel was. Dit zijn geen problemen die je bij Shopify of CCV Shop hebt — die regelen dat voor je. Als je ook facturen wilt automatiseren voor je webshop, lees dan mijn vergelijking van de [beste facturatie software voor MKB 2026](/blog/beste-facturatie-software-mkb-2026/).
 
 Voor wie technisch slim is of een betrouwbare developer heeft: WooCommerce is fantastisch. Voor wie liever niet nadenkt over hosting, beveiliging en updates: kies hosted.
 
@@ -197,7 +197,7 @@ De Mollie-plugin voor WooCommerce is overigens uitstekend — iDEAL, creditcard,
 
 ## 3. Lightspeed eCom
 
-Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." De naadloze koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
+Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." De naadloze koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Wil je een diepgaande beoordeling van Lightspeed als kassasysteem? Lees mijn [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/). Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
 
 **Lightspeed eCom in de praktijk: ideaal voor de retailer die online gaat.** Een kledingboetiek die ik begeleid besloot online te gaan verkopen. Ze hadden al Lightspeed als kassasysteem in de winkel. De keuze voor Lightspeed eCom was logisch: dezelfde voorraad, één systeem, geen dubbel werk.
 
@@ -422,7 +422,7 @@ De productlimieten per abonnement zijn het meest genoemde nadeel. Op het goedkoo
 
 ## 7. Acendy (voorheen Mijnwebwinkel)
 
-Acendy -- per januari 2026 de nieuwe naam voor Mijnwebwinkel -- is de optie die ik noem als een ondernemer zegt: "Ik wil morgen live." De eenvoud is het sterkste punt -- je kunt letterlijk binnen een dag een professionele webshop hebben draaien. De persoonlijke Nederlandse support is ook opvallend goed. Het is minder uitgebreid dan Shopify of Lightspeed, maar voor een startende webshop met een overzichtelijk assortiment is het meer dan voldoende.
+Acendy -- per januari 2026 de nieuwe naam voor Mijnwebwinkel -- is de optie die ik noem als een ondernemer zegt: "Ik wil morgen live." De eenvoud is het sterkste punt -- je kunt letterlijk binnen een dag een professionele webshop hebben draaien. Als je ook social media inzet voor je webshop, lees dan mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/). De persoonlijke Nederlandse support is ook opvallend goed. Het is minder uitgebreid dan Shopify of Lightspeed, maar voor een startende webshop met een overzichtelijk assortiment is het meer dan voldoende.
 
 **Acendy (Mijnwebwinkel) in de praktijk: eenvoud is geen zwakte.** Een buurvrouw van een klant van mij — dat klinkt indirect, maar het is een echte situatie — opende een webshop voor handgemaakte kaarsen. Budget: €50/mnd max. Technische kennis: nul. Ze koos Acendy, belde de support en had binnen 48 uur haar eerste product online. Drie maanden later had ze 80 verkopen gedaan.
 
@@ -583,7 +583,7 @@ Voor een klein assortiment (tot enkele honderden producten) voldoet vrijwel elk 
 
 Controleer of het platform goed samenwerkt met je overige tools. Gebruik je [Exact Online voor je boekhouding](/blog/beste-boekhoudsoftware-zzp-2026/)? Controleer dan de beschikbare koppelingen. Verkoop je via bol.com? Check de marketplace-integraties.
 
-Een ondergeschoven integratie die ik vaak vergeet te noemen: voorraadbeheer. Als je meer dan 500 producten hebt of meerdere verkoopkanalen combineert (webshop + winkel + bol.com), dan wil je een apart voorraadbeheer systeem dat alles synchroniseert. Lees mijn overzicht van de [beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/) voor een vergelijking.
+Een ondergeschoven integratie die ik vaak vergeet te noemen: voorraadbeheer. Als je meer dan 500 producten hebt of meerdere verkoopkanalen combineert (webshop + winkel + bol.com), dan wil je een apart voorraadbeheer systeem dat alles synchroniseert. Lees mijn overzicht van de [beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/) voor een vergelijking. Wil je ook e-mailmarketing inzetten om webshop-klanten terug te halen? Lees mijn vergelijking van de [beste e-mailmarketing software 2026](/blog/beste-email-marketing-software-2026/).
 
 En als je webshop serieuzer wordt en je klantrelaties wilt beheren, kijk dan ook naar een CRM-systeem. Lees mijn [beste CRM voor webshops 2026](/blog/beste-crm-webshops-2026/) voor wat het beste past bij e-commerce.
 
@@ -603,7 +603,7 @@ Jij wilt: schalen, meerdere kanalen, automatisering, betrouwbaarheid.
 
 Mijn advies: Shopify Shopify-plan (€105/mnd) of Lightspeed eCom als je ook offline verkoopt. Op dit niveau wil je geen platformwisseling meer — kies een platform dat minimaal vijf jaar meekan. Investeer ook in Mollie of MultiSafepay als betaalprovider en koppel je boekhouding.
 
-Op dit niveau zijn losse software-keuzes ook relevant. Een goed CRM, voorraadbeheer software en analytics zijn nu de moeite waard.
+Op dit niveau zijn losse software-keuzes ook relevant. Een goed CRM, voorraadbeheer software en analytics zijn nu de moeite waard. Wil je je klanten ook beter bedienen via klantenservice software? Lees mijn vergelijking van de [beste klantenservice software 2026](/blog/beste-klantenservice-software-2026/).
 
 **Enterprise (3+ jaar, €100.000+/mnd omzet)**
 
@@ -615,7 +615,7 @@ Mijn advies: Shopify Plus, BigCommerce Enterprise of Magento/Adobe Commerce, afh
 
 De betaalprovider is net zo belangrijk als de webshop software zelf, maar wordt zelden goed overwogen bij de keuze. Mijn vaste aanbeveling: Mollie voor Nederlandse webshops.
 
-Waarom? Mollie heeft de beste iDEAL-tarieven, uitstekende Nederlandse support en sluit aan op vrijwel elk platform via native integraties. Ze zijn ook transparant in de pricing — geen verborgen kosten.
+Waarom? Mollie heeft de beste iDEAL-tarieven, uitstekende Nederlandse support en sluit aan op vrijwel elk platform via native integraties. Ze zijn ook transparant in de pricing — geen verborgen kosten. Wil je ook je webshop-boekhouding automatiseren? Lees mijn [Exact Online review 2026](/blog/exact-online-review-2026/) voor de populairste boekhoudkoppeling voor webshops.
 
 Overweeg je een alternatief? Lees mijn vergelijking van [Mollie vs MultiSafepay 2026](/blog/mollie-vs-multisafepay-2026/) voor een eerlijk beeld van de voor- en nadelen van beide.
 
