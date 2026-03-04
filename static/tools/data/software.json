@@ -170,7 +170,7 @@
     "payroll": false,
     "bank_sync": true,
     "affiliate": { "type": "link", "url": "https://www.rompslomp.nl/" },
-    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 12.50 }] }
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 0 }, { "up_to": 3, "price": 13.50 }, { "up_to": 10, "price": 26.50 }] }
   },
   {
     "id": "asana",
@@ -334,14 +334,14 @@
     "id": "nmbrs",
     "name": "Nmbrs",
     "categories": ["hr-software"],
-    "pricing_band": "<€20",
+    "pricing_band": "€50-€100",
     "nl_support": true,
     "payroll": true,
     "leave": true,
     "performance": false,
     "onboarding": false,
     "affiliate": { "type": "link", "url": "https://www.nmbrs.com/nl/" },
-    "cost": { "model": "per_employee_monthly", "base": 0, "per_employee": 5 }
+    "cost": { "model": "per_employee_monthly", "base": 69, "per_employee": 0 }
   },
   {
     "id": "afas",
@@ -588,22 +588,22 @@
     "id": "ccvshop",
     "name": "CCV Shop",
     "categories": ["webshops"],
-    "pricing_band": "€30-€100",
+    "pricing_band": "<€30",
     "payments": true,
     "pos_sync": false,
     "integrations": ["Mollie", "Bol.com", "Google Shopping", "Sendcloud", "Exact"],
     "affiliate": { "type": "link", "url": "https://www.ccvshop.nl/" },
-    "cost": { "model": "webshop_tx_cost", "base": 34, "tx_fee_pct": 0 }
+    "cost": { "model": "webshop_tx_cost", "base": 24.95, "tx_fee_pct": 0 }
   },
   {
-    "id": "mijnwebwinkel",
-    "name": "Mijnwebwinkel",
+    "id": "acendy",
+    "name": "Acendy",
     "categories": ["webshops"],
-    "pricing_band": "<€30",
+    "pricing_band": "€30-€100",
     "payments": true,
     "pos_sync": false,
     "integrations": ["Mollie", "Bol.com", "Sendcloud"],
-    "affiliate": { "type": "link", "url": "https://www.mijnwebwinkel.nl/" },
-    "cost": { "model": "webshop_tx_cost", "base": 20, "tx_fee_pct": 0 }
+    "affiliate": { "type": "link", "url": "https://www.acendy.com/" },
+    "cost": { "model": "webshop_tx_cost", "base": 40, "tx_fee_pct": 0 }
   }
 ]
