@@ -31,6 +31,8 @@ faq:
 
 Fouten in de salarisadministratie zijn de snelste manier om het vertrouwen van je medewerkers te verliezen -- en een boete van de Belastingdienst te riskeren. Toch zie ik nog steeds bedrijven die salarissen handmatig berekenen in Excel. Dat hoeft niet. Goede salarissoftware voorkomt fouten, automatiseert loonaangifte en bespaart uren. Ik vergelijk hier de 5 beste loonadministratie software pakketten voor de Nederlandse markt, van betaalbaar voor kleine teams tot enterprise-klaar.
 
+Loonadministratie staat zelden op zichzelf. In de meeste bedrijven hangt het samen met HR-software voor verlof en verzuim. Lees ook het overzicht van de [beste HR software in Nederland](/blog/beste-hr-software-nederland-2026/) voor een compleet beeld. Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) als je snel wilt weten welk pakket bij jou past.
+
 
 ## Beste salarissoftware 2026: snelle vergelijking
 
@@ -44,7 +46,7 @@ Fouten in de salarisadministratie zijn de snelste manier om het vertrouwen van j
 
 ## 1. Nmbrs — Beste voor MKB
 
-Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat komt door de combinatie van gebruiksgemak en betrouwbaarheid. Ik heb HR-managers gezien die na een korte onboarding zelfstandig de maandelijkse loonrun draaiden. De API is een van de sterkste op de markt, waardoor je het moeiteloos koppelt aan je boekhouding of HR-tools.
+Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat komt door de combinatie van gebruiksgemak en betrouwbaarheid. Ik heb HR-managers gezien die na een korte onboarding zelfstandig de maandelijkse loonrun draaiden. De API is een van de sterkste op de markt, waardoor je het moeiteloos koppelt aan je boekhouding of HR-tools. Als je je eerste medewerker aanneemt en vraagt hoe je dit regelt, lees dan eerst mijn artikel over [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/).
 
 ### Belangrijkste functies
 - **Salarisverwerking** — Automatische berekening loonheffingen, pensioenpremies, toeslagen
@@ -67,7 +69,7 @@ Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat
 
 ## 2. Visma Raet — Beste voor groot MKB
 
-Visma Raet is het platform waar ik naar verwijs als een bedrijf complexe CAO's, uitgebreid verzuimmanagement en een complete HR-suite nodig heeft naast de salarisverwerking. Met 10.000+ klanten in Nederland is het een bewezen speler. De interface is niet de modernste, maar de betrouwbaarheid en diepgang compenseren dat ruimschoots.
+Visma Raet is het platform waar ik naar verwijs als een bedrijf complexe CAO's, uitgebreid verzuimmanagement en een complete HR-suite nodig heeft naast de salarisverwerking. Met 10.000+ klanten in Nederland is het een bewezen speler. De interface is niet de modernste, maar de betrouwbaarheid en diepgang compenseren dat ruimschoots. Werk je ook met verzuimregistratie? Dan sluit Visma Raet goed aan op de richtlijnen in de [WVP voor verzuimregistratie](/blog/verzuimregistratie-wvp-software/).
 
 ### Belangrijkste functies
 - **Salarisverwerking** — Volledig geautomatiseerd, alle CAO's
@@ -160,6 +162,8 @@ Op aanvraag (typisch €15-€30/medewerker/maand, afhankelijk van landen en mod
 
 Als salarisadministratie software voor het MKB is **Nmbrs** de beste balans tussen functionaliteit, gebruiksgemak en prijs. Klein budget? Start met **Loket.nl** — de goedkoopste professionele salarisadministratie software. Grotere bedrijven met complexe HR-behoeften zijn het beste af met **Visma Raet** of **AFAS**.
 
+Wil je ook het verzuim terugdringen en de productiviteit verhogen? Lees dan mijn artikel over [ziekteverzuim terugdringen met HR software](/blog/ziekteverzuim-terugdringen-hr-software/) en hoe je een [personeelsdossier digitaal bijhoudt conform AVG](/blog/personeelsdossier-digitaliseren-avg/). Gebruik de [kosten calculator voor HR software](/tools/hr-software/kosten-berekenen/) om te berekenen wat salarissoftware je per medewerker kost.
+
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**.
 
@@ -169,6 +173,8 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/
 - **[Beste Urenregistratie Software 2026](/blog/beste-urenregistratie-software-2026/)** — Uren koppelen aan loon
 - **[Beste Boekhoudsoftware 2026](/blog/beste-boekhoudsoftware-zzp-2026/)** — Financiële administratie
 - **[Exact Online vs Twinfield 2026](/blog/exact-online-vs-twinfield-2026/)** — Boekhouding met payroll
+- **[Beste HR Software Nederland 2026](/blog/beste-hr-software-nederland-2026/)** — Compleet HR-platform
+- **[HR Software bij je Eerste Werknemer](/blog/hr-software-bij-eerste-werknemer/)** — Eerste stap als werkgever
 
 ---
 

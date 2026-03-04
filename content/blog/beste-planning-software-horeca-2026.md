@@ -34,7 +34,7 @@ faq:
 Ik heb horeca-ondernemers gesproken die elke week drie uur bezig waren met het Excel-rooster. Diensten ruilen via WhatsApp, bellen naar oproepkrachten, handmatig controleren of ze de CAO-regels niet overtreden. Met de juiste personeelsplanning software horeca kost datzelfde rooster een halfuur. Hier zijn de 6 beste tools die ik voor de horeca aanbeveel.
 
 
-Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste HR software in Nederland](/blog/beste-hr-software-nederland-2026/).
+Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste HR software in Nederland](/blog/beste-hr-software-nederland-2026/). Planningssoftware werkt het beste als het gekoppeld is aan je kassasysteem -- lees voor de kassa-context ook het overzicht van de [beste kassasystemen voor de horeca](/blog/beste-kassasysteem-horeca-2026/) en het overzicht van [restaurantsoftware 2026](/blog/beste-restaurantsoftware-2026/).
 
 ## Vergelijkingstabel: Beste Personeelsplanning Horeca 2026
 
@@ -49,7 +49,7 @@ Zoek je breder naar HR-oplossingen? Bekijk dan ook ons overzicht van de [beste H
 
 ## 1. Shiftbase
 
-Shiftbase is de tool die ik als eerste noem als een horecaondernemer me vraagt naar planningsoftware. Het is Nederlands, het is betaalbaar, en de Horeca-CAO zit er gewoon in. Ik heb een restauranteigenaar geholpen die van Excel overstapte naar Shiftbase -- zijn roostertijd ging van drie uur naar een halfuur per week. Het gratis plan maakt het makkelijk om zonder risico te starten.
+Shiftbase is de tool die ik als eerste noem als een horecaondernemer me vraagt naar planningsoftware. Het is Nederlands, het is betaalbaar, en de Horeca-CAO zit er gewoon in. Ik heb een restauranteigenaar geholpen die van Excel overstapte naar Shiftbase -- zijn roostertijd ging van drie uur naar een halfuur per week. Het gratis plan maakt het makkelijk om zonder risico te starten. Een goede tool voor [urenregistratie](/blog/beste-urenregistratie-software-2026/) vormt met Shiftbase een solide basis voor je personeelsbeheer.
 
 ### Belangrijkste functies
 - Drag-and-drop roosterplanner met templates
@@ -340,4 +340,4 @@ De beste personeelsplanning software voor jouw horecabedrijf hangt af van je gro
 
 Mijn advies: begin met het gratis plan van Shiftbase of vraag demo's aan bij Dyflexis en Planday. Test de software met je team -- ook met je medewerkers op de werkvloer -- voordat je een definitieve keuze maakt. Een goed planningssysteem verdient zichzelf snel terug door lagere loonkosten, minder administratief werk en een hoger werktevredenheid bij je personeel. Bedenk dat de gemiddelde horecamanager wekelijks 3-5 uur besteedt aan roostering. Planning software kan dit terugbrengen tot minder dan een uur, zodat jij je kunt richten op wat echt telt: het runnen van een geweldige horecazaak.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**. En vergeet niet een bijpassend [kassasysteem voor je horeca](/blog/beste-kassasysteem-horeca-2026/) te kiezen -- de kassasysteem-inrichtingschecklist op [kassasysteem inrichten](/blog/kassasysteem-inrichten-checklist/) helpt je bij de eerste stappen.

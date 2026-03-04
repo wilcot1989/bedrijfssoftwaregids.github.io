@@ -264,6 +264,8 @@ De betaalde plannen zijn net zo eerlijk geprijsd. Het Growing Business-plan begi
 
 Twee kanttekeningen. De interface is niet volledig in het Nederlands -- de kern is Engels, al zijn sommige onderdelen vertaald. En de support is Engelstalig. Voor bedrijven die per se in het Nederlands willen werken, is Laposta een beter alternatief. Maar als Engels geen probleem is, krijg je bij MailerLite meer functionaliteit voor minder geld dan waar ook.
 
+In de praktijk: ik heb een coachingspraktijk begeleid die van Mailchimp overstapte naar MailerLite. Reden was simpel: Mailchimp had hun gratis plan teruggebracht naar 250 contacten, waardoor ze ineens moesten betalen. MailerLite gaf ze 1.000 contacten gratis, inclusief de automations die ze nodig hadden voor hun welkomstreeks. Het enige dat ze moesten wennen was de Engelse interface -- na een week had niemand er meer over. Als je ook twijfelt over de overstap van Mailchimp, is de [kosten calculator](/tools/marketing/kosten-berekenen/) een handige manier om snel door te rekenen wat je bespaart.
+
 ### Prijzen (april 2026)
 
 - **Free:** tot 1.000 contacten, 12.000 e-mails/maand
@@ -340,6 +342,8 @@ Laposta is het platform dat ik adviseer aan Nederlandse bedrijven die zeggen: "I
 De AVG-compliance is bij Laposta geen afterthought maar het fundament. Je data staat in Nederland, niet in de VS of ergens in de EU. Je krijgt automatisch een verwerkersovereenkomst, double opt-in is standaard en de software is van de grond af gebouwd met privacy in gedachten. Voor organisaties in de zorg, het onderwijs of de overheid -- waar AVG-compliance niet onderhandelbaar is -- is Laposta de veiligste keuze.
 
 Qua functionaliteit is Laposta bewust eenvoudig gehouden. Je hebt een drag-and-drop editor, basis-automatiseringen (welkomstmails, verjaardagscampagnes), A/B-testing en nette rapportages. Geen lead scoring, geen predictive analytics, geen ingebouwde CRM. Maar als je primair nieuwsbrieven wilt versturen naar je klantenlijst, doet Laposta precies wat het moet doen -- zonder de complexiteit waar je nooit om hebt gevraagd.
+
+Ik heb een huisartsenpraktijk begeleid bij het kiezen van een e-mailmarketing tool. Hun eis: data in Nederland, Nederlandse support, en simpel genoeg dat de doktersassistente het zelf kon instellen. Laposta was de enige optie die aan alle drie de eisen voldeed. Ze gebruiken het nu voor kwartaalberichten aan patiënten en een jaarlijkse griepvaccin-herinnering. Niets ingewikkelders -- maar het werkt perfect, zonder dat ze elke keer bellen met vragen. Voor organisaties die AVG-compliance echt serieus nemen is Laposta simpelweg de enige keuze in dit overzicht die je geen hoofdbrekens geeft.
 
 Het prijsmodel is anders dan bij de internationale spelers. Laposta werkt met jaarabonnementen op basis van je aantal contacten. Tot 2.000 contacten is het gratis. Daarboven betaal je per jaar, met onbeperkt mailings inbegrepen. Dat maakt het voorspelbaar: je weet precies wat je kwijt bent.
 
@@ -497,6 +501,53 @@ Het prijsmodel is anders dan bij de internationale spelers. Laposta werkt met ja
 
 Na tientallen implementaties heb ik een vrij helder beeld van welke tool bij welk type bedrijf past. Hier mijn concrete aanbevelingen.
 
+## Hoe kies je de juiste e-mailmarketing software?
+
+Dit is de vraag die ik het vaakst krijg. En het eerlijke antwoord is: het hangt ervan af. Klinkt flauw, maar het is de waarheid. Wat ik bedoel: de "beste" tool bestaat niet — er is alleen de beste tool voor jouw specifieke situatie. Hieronder loop ik door de keuze die ik met klanten doormaak.
+
+### Stap 1: Breng je mailinglijst en verzendfrequentie in kaart
+
+Dit bepaalt in veel gevallen al welk prijsmodel bij je past. Stel jezelf twee vragen:
+- Hoeveel contacten heb ik (of verwacht ik over een jaar)?
+- Hoe vaak mail ik ze gemiddeld per maand?
+
+Als je antwoord is "10.000 contacten, 2x per maand", dan maak je 20.000 verzendingen. Brevo kost je dan een fractie van wat Mailchimp kost, want bij Brevo betaal je per mail, niet per contact. Omgekeerd: 500 contacten die je dagelijks mailt? Dan is een per-contact model goedkoper.
+
+Ik heb een klant in de B2B-dienstverlening die 8.000 contacten heeft maar maximaal één nieuwsbrief per maand stuurt. Die zat op Mailchimp voor €100+/maand. Na de overstap naar Brevo betaalt ze €18/maand. Dat is €984 per jaar bespaard. Puur door het juiste prijsmodel te kiezen.
+
+### Stap 2: Bepaal wat je wilt doen naast nieuwsbrieven
+
+E-mailmarketing software is niet alleen voor nieuwsbrieven. Stel jezelf de vraag: wil ik ooit...
+
+- Automatische welkomstmails sturen als iemand zich aanmeldt?
+- Verlaten winkelwagen reminders sturen?
+- Leads opvolgen met een reeks gepersonaliseerde mails?
+- Gedrag bijhouden (wie klikt waar?) en daar op reageren?
+
+Als het antwoord op meerdere vragen "ja" is, heb je marketing automation nodig. Dan valt MailerLite af als optie (te beperkt) en kijk je richting Brevo, ActiveCampaign of Klaviyo. Wil je alleen nieuwsbrieven sturen? Dan is MailerLite of Laposta prima. Voor meer inspiratie: bekijk mijn [marketing automation ROI-voorbeelden](/blog/marketing-automation-roi-voorbeelden/) om te zien wat je met de juiste flows kunt bereiken.
+
+### Stap 3: Kijk naar je AVG-situatie
+
+Stuur je mails aan consumenten? Dan is AVG-compliance geen bijzaak. Brevo en MailerLite slaan data op in de EU. Laposta in Nederland. Mailchimp, ActiveCampaign en Klaviyo slaan data op in de VS maar bieden verwerkersovereenkomsten.
+
+Voor de meeste MKB-bedrijven is een verwerkersovereenkomst voldoende. Maar als je in de zorg, het onderwijs of de overheid werkt -- of als je klanten extra gevoelig zijn voor privacy -- kies dan een Europese aanbieder. Ik heb klanten die bewust voor Laposta kiezen puur om het gesprek met hun jurist kort te houden.
+
+### Stap 4: Test voor je betaalt
+
+Alle tools in dit overzicht bieden een gratis plan of een proefperiode. Gebruik die. Want het mooiste dashboard ter wereld werkt niet als jij na vijf minuten de weg kwijt bent. Ik raad klanten altijd aan om een echte campagne te bouwen tijdens de trial -- niet alleen een rondje klikken, maar daadwerkelijk een template maken, een segment aanmaken en een automation instellen. Dan zie je snel genoeg waar je tegenaan loopt.
+
+Wil je weten welke tool bij jouw situatie past? De [keuzehulp](/tools/marketing/keuzehulp/) stelt je 5 vragen en geeft een persoonlijk advies. Of gebruik de [kosten calculator](/tools/marketing/kosten-berekenen/) om te berekenen wat je per maand kwijt bent.
+
+### Stap 5: Denk aan je e-maillijst
+
+De beste tool helpt je niet als je e-maillijst op orde is. Hoe bouw je een kwalitatieve lijst? Hoe zorg je dat inschrijvers ook echt betrokken blijven? Dat is een heel eigen onderwerp. Ik schreef er uitgebreid over in mijn artikel over [e-maillijst opbouwen in B2B](/blog/email-lijst-opbouwen-b2b/) -- met concrete tactieken die ik zelf bij klanten heb ingezet.
+
+---
+
+## Voor wie is welke tool het beste?
+
+Na tientallen implementaties heb ik een vrij helder beeld van welke tool bij welk type bedrijf past. Hier mijn concrete aanbevelingen.
+
 ### Starter of ZZP'er met een klein budget
 
 **Kies MailerLite.** Het gratis plan is het sterkste op de markt en geeft je alles wat je nodig hebt om te beginnen. Pas wanneer je boven de 1.000 contacten uitkomt, betaal je -- en dan nog slechts $10 per maand. Spreek je geen Engels? Dan is Laposta het betere alternatief met gratis gebruik tot 2.000 contacten.
@@ -522,6 +573,20 @@ Na tientallen implementaties heb ik een vrij helder beeld van welke tool bij wel
 **Kies Mailchimp.** Het is niet de goedkoopste en niet de krachtigste op elk vlak, maar Mailchimp biedt de beste combinatie van gebruiksgemak, templates, integraties en functies. Wil je een tool die alles redelijk goed doet zonder ergens echt tekort te schieten? Dan is Mailchimp een veilige keuze.
 
 
+## Wat kost e-mailmarketing je echt als je het goed doet?
+
+Hier is iets waar weinig softwareoverzichten eerlijk over zijn: de tool zelf is maar een deel van de kosten. Wat kost e-mailmarketing je écht als je het serieus aanpakt?
+
+**Tijd.** Een goede nieuwsbrief kost je 2-4 uur per maand. Een welkomstreeks opzetten: 1 dag. Een volledige lead nurturing flow: een week. Dat is tijd die je ergens vandaan moet halen. Als je een solo ondernemer bent, is dat cruciaal om in te calculeren. Als je een team hebt, is het een investering in een kanaal dat gemiddeld €42 oplevert per geïnvesteerde euro -- [dat is geen hype maar data van de DMA](https://blog.hubspot.com/marketing/email-marketing-stats).
+
+**Deliverability-werk.** De beste tool helpt je niet als je mails in de spam belanden. SPF, DKIM, DMARC instellen -- dat doet niet het platform voor je. En als je mailinglijst vol zit met bounces en inactieve adressen, daalt je verzenderreputatie. Ik raad alle klanten aan dit actief bij te houden. Mijn artikel over [email deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/) legt stap voor stap uit hoe je dit aanpakt.
+
+**A/B-testen.** De meeste bedrijven sturen een mail en denken "klaar". Maar een onderwerpregel die 5% meer opens oplevert, betekent op 10.000 contacten 500 extra mensen die je boodschap zien. Dat test je door systematisch A/B te testen. Als je hier nog niet mee begonnen bent, lees dan mijn [beginnersgids voor A/B-testen](/blog/ab-testen-beginners-eerste-experiment/) -- het is eenvoudiger dan het klinkt.
+
+**Integraties met de rest van je marketingstack.** E-mailmarketing werkt het best als het verbonden is met je CRM, je website en je analytics. Welke tool past hier het best in? Dat hangt af van je bestaande stack. Brevo heeft een ingebouwd CRM. ActiveCampaign heeft diepe integraties met de meeste CRM's. Klaviyo integreert naadloos met Shopify. Kies niet de beste e-mailtool in isolatie -- kies de tool die het best aansluit bij je hele systeem.
+
+---
+
 ## Conclusie
 
 E-mailmarketing software levert consequent de hoogste ROI op van alle digitale marketingkanalen. Maar de tool die je kiest, maakt het verschil tussen een campagne die converteert en een die in de spam belandt.
@@ -530,13 +595,17 @@ Mijn advies na jaren klanten adviseren: begin niet met de duurste tool. Begin me
 
 Wat je ook kiest: investeer tijd in het opzetten van je automatiseringen. Een welkomstreeks, een verlaten-winkelwagen flow en een re-engagement campagne zijn de drie automations die bij vrijwel elk bedrijf het verschil maken. Die drie alleen al rechtvaardigen de investering in een betaalde tool.
 
-Wil je eerst je CRM op orde brengen voordat je aan e-mailmarketing begint? Lees dan mijn vergelijking van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) of bekijk de [Brevo review](/blog/brevo-review-2026/) voor een diepere duik in het platform dat e-mailmarketing en CRM combineert.
+Wil je eerst je CRM op orde brengen voordat je aan e-mailmarketing begint? Lees dan mijn vergelijking van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) of bekijk de [Brevo vs Mailchimp vergelijking](/blog/brevo-vs-mailchimp-2026/) als je twijfelt tussen die twee.
 
 ## Lees ook
 
 - [Email deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/) — als je mails in spam belanden
 - [Marketing automation ROI: voorbeelden](/blog/marketing-automation-roi-voorbeelden/) — concrete ROI-berekeningen voor het MKB
-- [Marketing software per sector](/sectoren/marketing/) — welke tools passen bij jouw branche?
+- [E-maillijst opbouwen in B2B](/blog/email-lijst-opbouwen-b2b/) — tactieken die echt werken voor zakelijke lijsten
+- [A/B-testen voor beginners: je eerste experiment](/blog/ab-testen-beginners-eerste-experiment/) — stap voor stap je eerste A/B-test opzetten
+- [Brevo review 2026](/blog/brevo-review-2026/) — diepgaande analyse van het beste prijs-kwaliteit platform
+- [Brevo vs Mailchimp 2026](/blog/brevo-vs-mailchimp-2026/) — directe vergelijking van de twee populairste keuzes
+- [Marketing software per sector](/categories/marketing/) — welke tools passen bij jouw branche?
 
 ## Interactieve hulp
 

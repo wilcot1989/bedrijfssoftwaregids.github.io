@@ -31,6 +31,8 @@ faq:
 
 Ik stel bij elk adviestraject dezelfde testvraag: "Waar vinden nieuwe medewerkers jullie procedures en handleidingen?" Als het antwoord "ergens op de gedeelde schijf" of "vraag maar aan Jan" is, weet ik genoeg. Goede intranet software voorkomt dat bedrijfskennis afhankelijk is van individuele collega's. Dit zijn de 5 intranet software oplossingen die ik voor het MKB aanbeveel.
 
+Wil je breder kijken naar samenwerkingstools? Bekijk de [volledige productiviteitsvergelijking](/categories/productiviteit/) of gebruik de [keuzehulp](/tools/productiviteit/keuzehulp/) om direct een persoonlijk advies te krijgen.
+
 
 ## Snelle vergelijking
 
@@ -44,7 +46,7 @@ Ik stel bij elk adviestraject dezelfde testvraag: "Waar vinden nieuwe medewerker
 
 ## 1. Notion — Beste voor kleine teams
 
-Notion is de tool die ik het vaakst aanbeveel aan kleine teams die snel een werkende kennisbank willen. Je hebt in een middag een wiki staan, zonder IT-afdeling en zonder configuratiegedoe. Ik gebruik het zelf ook en dat zegt genoeg.
+Notion is de tool die ik het vaakst aanbeveel aan kleine teams die snel een werkende kennisbank willen. Je hebt in een middag een wiki staan, zonder IT-afdeling en zonder configuratiegedoe. Ik gebruik het zelf ook en dat zegt genoeg. Wil je Notion ook gebruiken voor projectmanagement? Dan is de [Notion vs Monday.com vergelijking](/blog/notion-vs-monday-vergelijking-2026/) een interessant vertrekpunt.
 
 ### Belangrijkste functies
 - **Wiki** — Gestructureerde kennisbank met boomstructuur
@@ -68,7 +70,7 @@ Notion is de tool die ik het vaakst aanbeveel aan kleine teams die snel een werk
 
 ## 2. SharePoint — Beste voor Microsoft 365
 
-SharePoint is krachtig, maar ik waarschuw altijd: het is geen kant-en-klaar intranet. Je moet het opzetten, en dat kost tijd. Maar als je bedrijf al op Microsoft 365 draait, is het onverslaanbaar qua integratie. Met Viva Connections erbij heb je een volwaardig modern intranet in Teams.
+SharePoint is krachtig, maar ik waarschuw altijd: het is geen kant-en-klaar intranet. Je moet het opzetten, en dat kost tijd. Maar als je bedrijf al op Microsoft 365 draait, is het onverslaanbaar qua integratie. Met Viva Connections erbij heb je een volwaardig modern intranet in Teams. SharePoint's documentbibliotheken sluiten ook naadloos aan op een goed [documentbeheersysteem](/blog/beste-documenten-management-2026/).
 
 ### Belangrijkste functies
 - **Sites en pagina's** — Afdelings- en projectsites
@@ -155,6 +157,8 @@ Workvivo is geen klassiek intranet maar een intern social media-platform, nu ond
 
 Voor de meeste MKB-bedrijven is **Notion** de snelste start: in een middag heb je een werkende kennisbank. Gebruik je Microsoft 365? Dan is **SharePoint** (met Viva Connections) de krachtigste optie. Technische teams met Jira kiezen **Confluence**. En voor bedrijven die medewerkersbetrokkenheid willen versterken, is **Workvivo** de specialist.
 
+Ben je als ZZP'er of klein team op zoek naar een compleet softwarepakket? Bekijk dan het overzicht van [beste software voor ZZP'ers](/blog/beste-software-zzp-2026/) voor een bredere selectie van tools. En als je ook de [kosten van productiviteitssoftware](/tools/productiviteit/kosten-berekenen/) wilt doorrekenen, gebruik dan de gratis calculator.
+
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)**, stel je **[ideale tool stack samen](/tools/productiviteit/tool-stack-planner/)** of bekijk de **[volledige vergelijking](/categories/productiviteit/)**.
 
@@ -164,6 +168,8 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehu
 - **[Notion vs Monday.com 2026](/blog/notion-vs-monday-vergelijking-2026/)** — Projectmanagement
 - **[Beste HR Software 2026](/blog/beste-hr-software-nederland-2026/)** — HR-systemen
 - **[Beste Helpdesk Software 2026](/blog/beste-klantenservice-software-2026/)** — Interne + externe communicatie
+- **[Beste Vergadersoftware 2026](/blog/beste-vergadersoftware-2026/)** — Online samenwerken
+- **[Beste Contractmanagement Software 2026](/blog/beste-contractmanagement-software-2026/)** — Contracten digitaal beheren
 
 ---
 

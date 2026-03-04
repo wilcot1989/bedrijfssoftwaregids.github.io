@@ -101,6 +101,8 @@ HubSpot is het CRM dat ik het vaakst als startpunt aanbeveel, en de reden is sim
 
 Als je net begint en nog niet weet hoeveel je aan CRM wilt besteden, zou ik zeggen: begin met HubSpot Free en ontdek wat je werkelijk nodig hebt. Kost je niets, en je kunt altijd overstappen.
 
+**Wanneer kies je NIET voor HubSpot?** Als je team minder dan 5 contacten per dag aanmaakt en je primaire doel is simpel klantbeheer, niet marketingautomatisering. In dat geval betaal je bij opschaling veel te snel te veel. Een trainingsbureau dat ik adviseerde, begon met HubSpot Free. Na een jaar hadden ze marketing automation nodig -- en dat kostte ineens €450/maand voor 5 gebruikers. Ze stapten over naar Pipedrive + Brevo voor dezelfde functionaliteit tegen een kwart van de prijs. HubSpot is een platform, geen CRM-tool. Dat onderscheid is cruciaal.
+
 <a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ---
@@ -141,6 +143,10 @@ Benieuwd hoe Pipedrive zich verhoudt tot HubSpot? Lees dan mijn uitgebreide [Hub
 
 Als je een verkoopteam van 3 tot 20 mensen hebt en je wilt een CRM dat iedereen daadwerkelijk gaat gebruiken, is Pipedrive mijn eerste keuze. Start met het Growth-plan (~€39) -- dat heeft de automatiseringen die je echt nodig hebt.
 
+Een concreet voorbeeld: ik begeleidde een technisch handelsbedrijf met 8 verkopers. Ze hadden Salesforce Starter geprobeerd -- twee maanden lang. Niemand voerde actief deals in omdat de interface te log was. Na de overstap naar Pipedrive werden deals dezelfde dag bijgewerkt, ook onderweg via de app. De verkoopdirecteur zei: "Eindelijk heb ik een realistisch beeld van de pipeline." Dat is wat een goed CRM doet: het wordt daadwerkelijk gebruikt.
+
+Wil je meer weten over hoe je CRM-data schoon en actueel houdt? Lees dan mijn artikel over [CRM data opschonen: een stappenplan](/blog/crm-data-opschonen-stappenplan/) -- want een slordig CRM is erger dan helemaal geen CRM.
+
 <a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
@@ -178,6 +184,8 @@ Monday CRM is de tool die ik aanbeveel als een klant zegt: "Ik wil mijn deals tr
 - Kan complex worden bij uitgebreide configuraties
 
 Heb je een dienstverlenend bedrijf waarbij deals naadloos in projecten moeten overgaan? Dan is Monday CRM een slimme keuze. Begin met het Standard-plan (€17/gebruiker) voor de automatiseringen.
+
+**Wanneer kies je NIET voor Monday CRM?** Als je team primair verkoop doet zonder projectfase. Dan mis je de diepgang van Pipedrive's pipeline-functionaliteit en betaal je voor features die je niet gebruikt. Monday is een werkplatform dat ook als CRM werkt -- geen puur CRM dat ook projecten aankan. Dat verschil merk je in de praktijk.
 
 <a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 
@@ -291,6 +299,8 @@ Als je ook op zoek bent naar boekhoudsoftware, lees dan mijn artikel over de [be
 
 Draai je al op Exact voor je boekhouding? Dan is de CRM-module de logische aanvulling. Je bespaart tijd op dubbele invoer en alles klopt direct in je administratie. In alle andere gevallen: kies een van de gespecialiseerde CRM's hierboven.
 
+In de praktijk: ik adviseer Exact Online CRM uitsluitend als "het zit er toch bij"-keuze. Een groothandel die ik hielp draaide al op Exact voor de boekhouding en vroeg mij of ze Pipedrive erbij moesten nemen. Na de analyse was mijn advies: begin met de ingebouwde CRM-module. Het voegt geen extra tool toe aan hun stack, de offertes lopen direct door naar facturen en de accountant werkt al met Exact. Zes maanden later vroegen ze me of ze moesten upgraden naar Pipedrive. Mijn antwoord: pas als je echt tegen de beperkingen aanloopt. Dat waren ze nog niet.
+
 <a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
@@ -380,10 +390,25 @@ Twijfel je nog? Gebruik de gratis tools:
 - **[CRM ROI berekenen](/tools/crm/roi-berekenen/)** — Bereken wat een CRM je oplevert
 - **[Vergelijkingsmatrix](/categories/crm/)** — Filter en vergelijk alle opties
 
+## CRM per sector: welk systeem past bij jouw branche?
+
+Elke branche heeft andere eisen aan een CRM. Een makelaarskantoor heeft andere workflows dan een consultancybureau of een recruitmentbureau. Ik heb voor de meest gevraagde sectoren specifieke analyses geschreven:
+
+- **Makelaars:** Property-specifieke pipelines, bezichtigingen bijhouden, kopers en verkopers in een overzicht. Lees mijn artikel [CRM voor makelaars 2026](/blog/crm-voor-makelaars-2026/) voor de specifieke aanbevelingen.
+- **Bouwbedrijven:** Projectgebonden CRM waarbij offertes direct doorlopen naar projectplanning. Zie [CRM voor bouwbedrijven](/sectoren/crm/crm-voor-bouwbedrijven/).
+- **Recruitment- en detacheringsbureaus:** CRM gecombineerd met kandidaatbeheer en vacature-tracking. Zie [CRM voor recruitment bureaus](/sectoren/crm/crm-voor-recruitment-bureaus/).
+- **Consultants en adviesbureaus:** Relatiegericht CRM met tijdregistratie en projectprofitability. Zie [CRM voor consultants](/sectoren/crm/crm-voor-consultants/).
+
+Een andere vraag die ik veel krijg: hoe meet je eigenlijk of je CRM zijn werk doet? De meeste bedrijven kijken alleen naar dealwaarde in de pipeline -- maar klantretentie is minstens zo belangrijk. Lees mijn artikel over [klantretentie meten met CRM software](/blog/klantretentie-meten-crm-software/) voor een concrete aanpak.
+
+---
+
 ## Lees ook
 
 - [Beste webshop software](/blog/beste-webshop-software-2026/) — koppel je CRM aan je e-commerce platform
 - [Beste urenregistratie software](/blog/beste-urenregistratie-software-2026/) — registreer uren per klant en project
+- [CRM data opschonen: stappenplan](/blog/crm-data-opschonen-stappenplan/) — hoe je een slordig CRM weer bruikbaar maakt
+- [Klantretentie meten met CRM software](/blog/klantretentie-meten-crm-software/) — de KPI's die er écht toe doen
 - [5 CRM-fouten die MKB-bedrijven maken](/blog/crm-fouten-mkb/) — voorkom de meest gemaakte fouten
 - [CRM implementatieplan in 30 dagen](/blog/crm-implementatieplan-30-dagen/) — stap-voor-stap plan voor je implementatie
 - [Teamleader review 2026](/blog/teamleader-review-2026/) — diepgaande review van het populaire Nederlandse CRM

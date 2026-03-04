@@ -27,7 +27,7 @@ Vorig jaar hielp ik een groothandel in kantoorartikelen die drie magazijnen behe
 
 In dit artikel vergelijk ik de 6 beste voorraadbeheer tools voor het Nederlandse MKB in 2026. Geen theoretisch verhaal, maar concrete ervaringen uit implementatietrajecten die ik heb begeleid.
 
-Verkoop je ook via een webshop? Bekijk dan eerst mijn overzicht van de [beste software voor webshops](/blog/beste-software-webshops-2026/) -- daar zit overlap met dit artikel.
+Verkoop je ook via een webshop? Bekijk dan eerst mijn overzicht van de [beste software voor webshops](/blog/beste-software-webshops-2026/) -- daar zit overlap met dit artikel. Of als je een webshopplatform zoekt, lees ook het artikel over de [beste webshop software voor 2026](/blog/beste-webshop-software-2026/). Gebruik de [webshop keuzehulp](/tools/webshops/keuzehulp/) voor een snel persoonlijk advies.
 
 
 ## Waar moet je op letten bij voorraadbeheer software?
@@ -441,7 +441,7 @@ Welke producten verkopen snel, welke liggen te verstoffen? Die data bepaalt je i
 
 ### 3. Synchroniseer alle kanalen real-time
 
-Verkoop je via meerdere kanalen (webshop, marketplace, winkel)? Zorg dat voorraadwijzigingen in real-time doorgevoerd worden. Een klant die online bestelt wat in de winkel net verkocht is, levert frustratie en kosten op. Bekijk ook mijn overzicht van de [beste software voor webshops](/blog/beste-software-webshops-2026/) voor multichannel-oplossingen.
+Verkoop je via meerdere kanalen (webshop, marketplace, winkel)? Zorg dat voorraadwijzigingen in real-time doorgevoerd worden. Een klant die online bestelt wat in de winkel net verkocht is, levert frustratie en kosten op. Bekijk ook mijn overzicht van de [beste software voor webshops](/blog/beste-software-webshops-2026/) voor multichannel-oplossingen. Ben je benieuwd welk webshopplatform het beste bij jou past? De [Shopify vs MijnWebwinkel vergelijking](/blog/shopify-vs-mijnwebwinkel-2026/) helpt je bij die keuze.
 
 ### 4. Plan regelmatige voorraadtellingen
 
@@ -465,4 +465,4 @@ De keuze voor voorraadbeheer software hangt af van drie vragen: wat is je verkoo
 
 Mijn ervaring na tientallen implementaties: het verschil tussen goed en slecht voorraadbeheer is niet de software, maar de discipline om het systeem consistent te gebruiken. Kies een tool die past bij je huidige schaal, zet bestelpunten en rapportages correct in, en bouw van daaruit verder. De tools in dit overzicht maken dat allemaal mogelijk -- het is aan jou om er een gewoonte van te maken.
 
-Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)**, bereken je **[webshop kosten](/tools/webshops/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/webshops/)**.
+Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)**, bereken je **[webshop kosten](/tools/webshops/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/webshops/)**. Combineer voorraadbeheer altijd met een goed webshopplatform -- de [Shopify vs MijnWebwinkel vergelijking](/blog/shopify-vs-mijnwebwinkel-2026/) geeft je de feiten op een rij.

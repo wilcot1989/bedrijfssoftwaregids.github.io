@@ -25,6 +25,8 @@ faq:
 
 Ik heb de afgelopen maanden met meerdere makelaarskantoren gesproken die worstelden met hun software. De een zat vast aan een verouderd systeem zonder fatsoenlijke Funda-koppeling. De ander gebruikte drie losse tools die niet met elkaar praatten -- aparte software voor het CRM, de woningpresentatie en het biedingsproces. Herkenbaar? De Nederlandse makelaarsmarkt heeft gelukkig een aantal sterke softwarepakketten die alles in een platform combineren. In dit overzicht vergelijk ik de 5 beste opties voor 2026.
 
+Ben je ook geïnteresseerd in hoe je klantretentie kunt meten vanuit je CRM? Lees dan mijn artikel over [klantretentie meten met CRM software](/blog/klantretentie-meten-crm-software/). En als je de veelgemaakte fouten wilt vermijden bij CRM-implementatie, bekijk dan [de meest gemaakte CRM-fouten in het MKB](/blog/crm-fouten-mkb/).
+
 Sinds februari 2026 is het biedlogboek verplicht voor alle NVM-makelaars. Dat maakt transparant digitaal bieden geen luxe meer, maar een basisvereiste. Ik heb gekeken welke pakketten dit het beste oplossen, naast de kernfuncties die elke makelaar nodig heeft: CRM, woningpresentatie, Funda-koppeling en transactiebeheer.
 
 Zoek je specifiek een CRM-systeem dat je zelf kunt inrichten voor de makelaardij? Lees dan ook mijn vergelijking van de [beste CRM-systemen voor makelaars](/blog/crm-voor-makelaars-2026/) waarin ik Realworks naast generieke CRM's als HubSpot en Pipedrive zet.
@@ -360,7 +362,7 @@ Mijn advies: test de biedingsfunctie van je gekozen pakket voordat je overstap. 
 
 ## Tips voor de overstap naar nieuwe makelaarssoftware
 
-Als je overweegt om van pakket te wisselen, zijn dit de lessen die ik bij andere kantoren heb gezien:
+Als je overweegt om van pakket te wisselen, zijn dit de lessen die ik bij andere kantoren heb gezien. Heb je nog nooit een CRM-migratie gedaan? Lees dan mijn stappenplan voor [van Excel naar CRM migreren](/blog/van-excel-naar-crm-migratie/) en het [CRM implementatieplan in 30 dagen](/blog/crm-implementatieplan-30-dagen/) om het gestructureerd aan te pakken.
 
 1. **Plan de migratie in een rustige periode.** De zomermaanden of de periode rond kerst zijn vaak het best. Niet halverwege een druk verkoopseizoen.
 
@@ -372,7 +374,7 @@ Als je overweegt om van pakket te wisselen, zijn dit de lessen die ik bij andere
 
 5. **Begin met de kernfuncties.** Richt eerst het CRM en de Funda-koppeling in. Voeg pas daarna extra modules toe. Anders raak je overweldigd.
 
-Werk je nu met losse tools voor je boekhouding? In mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) bespreek ik welke pakketten het beste koppelen met makelaarssoftware.
+Werk je nu met losse tools voor je boekhouding? In mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) bespreek ik welke pakketten het beste koppelen met makelaarssoftware. Wil je ook weten hoe je CRM-integraties het beste inricht? Lees dan mijn artikel over [CRM-integraties uitgelegd voor het MKB](/blog/crm-integraties-uitgelegd/).
 
 
 ## Conclusie
@@ -391,6 +393,6 @@ De Nederlandse makelaarsmarkt heeft volwassen softwarepakketten die het hele pro
 
 Mijn concrete advies: vraag bij minimaal twee van deze partijen een demo aan en test het systeem met je eigen werkprocessen. Geen enkele vergelijking vervangt de ervaring van zelf klikken. Let daarbij extra op de biedingsfunctie -- die is in 2026 je dagelijkse gereedschap.
 
-Zoek je een breder overzicht van CRM-systemen, inclusief generieke oplossingen als HubSpot en Pipedrive? Lees dan mijn [CRM voor makelaars vergelijking](/blog/crm-voor-makelaars-2026/) of het complete overzicht van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/).
+Zoek je een breder overzicht van CRM-systemen, inclusief generieke oplossingen als HubSpot en Pipedrive? Lees dan mijn [CRM voor makelaars vergelijking](/blog/crm-voor-makelaars-2026/) of het complete overzicht van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/). Wil je ook weten hoe HubSpot en Pipedrive zich tot elkaar verhouden? Bekijk dan de [HubSpot vs Pipedrive vergelijking 2026](/blog/hubspot-vs-pipedrive-2026/). Meer informatie over makelaarsspecifieke CRM-tools vind je op de [sectorpagina CRM voor makelaars](/sectoren/crm/crm-voor-makelaars/) en in mijn uitgebreide [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/).
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)** voor meer informatie.
