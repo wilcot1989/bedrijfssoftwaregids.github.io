@@ -13,7 +13,7 @@ faq:
   - q: "Wat is het voordeel van factureren en boekhouden in één pakket?"
     a: "Het grootste voordeel is dat je dubbele invoer elimineert. Een factuur die je verstuurt, staat direct in de boekhouding. Als de klant betaalt en de banktransactie binnenkomt, koppelt het systeem de betaling automatisch aan de openstaande factuur. Dat bespaart tijd, vermindert fouten en maakt de BTW-aangifte aanzienlijk eenvoudiger."
   - q: "Wat kost een gecombineerd facturatie- en boekhoudpakket?"
-    a: "De meest gebruikte gecombineerde pakketten voor ZZP'ers en freelancers kosten EUR 8 tot EUR 35 per maand inclusief BTW. Moneybird zit rond EUR 12 per maand, Exact Online voor ZZP rond EUR 15 tot EUR 20 per maand. Dat is vergelijkbaar met of goedkoper dan twee losse systemen samen, en je hebt het voordeel van volledige integratie."
+    a: "De meest gebruikte gecombineerde pakketten voor ZZP'ers en freelancers kosten EUR 8 tot EUR 35 per maand inclusief BTW. Moneybird begint vanaf EUR 15 per maand (excl. BTW, prijs gecheckt mrt 2026), Exact Online voor ZZP begint vanaf EUR 48 per maand. Dat is vergelijkbaar met of goedkoper dan twee losse systemen samen, en je hebt het voordeel van volledige integratie."
   - q: "Wanneer heb ik een apart facturatieprogramma nodig naast mijn boekhoudsoftware?"
     a: "Alleen als je honderden facturen per maand verstuurt, werkt met complexe herhalingsreeksen, meerdere goedkeuringsstappen nodig hebt voor facturatieprocessen, of een klantportal wilt waar klanten hun eigen factuurhistorie inzien. Voor de meeste ZZP'ers en freelancers bieden gecombineerde pakketten ruim voldoende facturatiefunctionaliteit."
   - q: "Hoe snel kan ik overstappen naar een gecombineerd pakket?"

@@ -67,7 +67,7 @@ Voor [zorginstellingen](/sectoren/hr/hr-software-zorg/) met structureel hogere v
 
 Loondoorbetaling bij ziekte bedraagt wettelijk minimaal 70% van het loon gedurende twee jaar. In de meeste CAO's en arbeidscontracten is dat 100% in het eerste jaar en 70% in het tweede. Bij een medewerker met een bruto maandsalaris van EUR 3.000 is dat EUR 36.000 aan loondoorbetaling in jaar één, exclusief vervangingskosten, productiviteitsverlies en arbokosten.
 
-Bereken de werkelijke verzuimkosten voor jouw situatie met de [verzuimkosten berekenen tool](/tools/hr-software/verzuimkosten-berekenen/). Die berekening is ook nuttig bij de afweging of een verzuimverzekering zinvol is: de premie van een verzuimverzekering ligt typisch rond EUR 2 tot EUR 5 per medewerker per dag.
+Bereken de werkelijke verzuimkosten voor jouw situatie met de [verzuimkosten berekenen tool](/tools/hr-software/verzuimkosten-berekenen/). Die berekening is ook nuttig bij de afweging of een verzuimverzekering zinvol is: een verzuimverzekering kost gemiddeld €129 tot €196 per medewerker per jaar, wat neerkomt op circa €0,50 tot €0,75 per werkdag. De exacte premie hangt af van je sector, verzuimpercentage en de gekozen dekking.
 
 ## Preventie als de goedkoopste investering
 

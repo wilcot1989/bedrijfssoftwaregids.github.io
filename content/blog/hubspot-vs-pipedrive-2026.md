@@ -20,7 +20,7 @@ faq:
   - q: "Welke CRM is beter voor een klein team (2-5 personen)?"
     a: "Voor kleine teams is Pipedrive doorgaans de betere keuze vanwege de lagere kosten en eenvoudige interface. HubSpot Free CRM is een goed alternatief als budget de belangrijkste factor is, maar zodra je betaalde functies nodig hebt, is Pipedrive vaak voordeliger."
   - q: "Biedt HubSpot meer integraties dan Pipedrive?"
-    a: "Ja, HubSpot heeft een grotere marketplace met meer dan 1.500 integraties versus circa 400 bij Pipedrive. Echter, Pipedrive biedt de meest gangbare integraties en voor de meeste MKB-bedrijven is het aanbod ruim voldoende."
+    a: "Ja, HubSpot heeft een grotere marketplace met meer dan 1.700 integraties versus circa 400 bij Pipedrive. Echter, Pipedrive biedt de meest gangbare integraties en voor de meeste MKB-bedrijven is het aanbod ruim voldoende."
   - q: "Welke CRM is beter voor e-mailmarketing?"
     a: "HubSpot is duidelijk sterker op het gebied van e-mailmarketing. Het biedt ingebouwde e-mailcampagnes, marketing automation, landing pages en lead nurturing. Pipedrive heeft basale e-mailfuncties en een Campaigns-add-on, maar komt niet in de buurt van HubSpot's marketingmogelijkheden."
   - q: "Kan ik beide CRM's in het Nederlands gebruiken?"
@@ -38,21 +38,21 @@ Zoek je een breder overzicht van CRM-oplossingen? Bekijk dan ook mijn artikel ov
 
 | Kenmerk | HubSpot | Pipedrive |
 |---|---|---|
-| **Trustpilot** | 1.8/5 (1.049 reviews) | 4.5/5 (3.224 reviews) |
+| **Trustpilot** | 1.9/5 (~960 reviews) | 4.5/5 (3.224 reviews) |
 | **Gratis plan** | Ja (uitgebreid) | Nee (14 dagen trial) |
-| **Startprijs betaald** | €15/gebruiker/mnd | €14,90/gebruiker/mnd |
+| **Startprijs betaald** | €15/gebruiker/mnd | ~€14/gebruiker/mnd (Lite) |
 | **Beste voor** | Marketing + sales gecombineerd | Pure sales teams |
 | **Gebruiksgemak** | Goed (veel functies) | Uitstekend (intuïtief) |
 | **E-mailmarketing** | Ingebouwd & uitgebreid | Basis + add-on |
-| **Automatiseringen** | Vanaf Professional (€90) | Vanaf Advanced (€27,90) |
+| **Automatiseringen** | Vanaf Professional (€90) | Vanaf Growth (~€39) |
 | **Rapportages** | Uitgebreid (betaald) | Goed (alle plannen) |
-| **Integraties** | 1.500+ | 400+ |
+| **Integraties** | 1.700+ | 400+ |
 | **Nederlandse interface** | Ja | Ja |
 | **Mobiele app** | Goed | Zeer goed |
 | **Klantenservice** | E-mail, chat, telefoon | 24/7 live chat |
 | **Ideale bedrijfsgrootte** | 1-1.000+ medewerkers | 1-200 medewerkers |
 
-Die Trustpilot-scores vertellen een verhaal. Pipedrive scoort 4.5/5 met ruim 3.200 reviews -- gebruikers zijn consistent positief over het gebruiksgemak en de focus op sales. HubSpot scoort beduidend lager met 1.8/5 op basis van 1.049 reviews. De klachten gaan vooral over agressieve contractvoorwaarden en onverwachte prijsverhogingen. Eerlijk gezegd: de lage HubSpot-score weerspiegelt niet per se de productkwaliteit, maar zegt veel over hoe gebruikers de commerciele aanpak ervaren.
+Die Trustpilot-scores vertellen een verhaal. Pipedrive scoort 4.5/5 met ruim 3.200 reviews -- gebruikers zijn consistent positief over het gebruiksgemak en de focus op sales. HubSpot scoort beduidend lager met 1.9/5 op basis van ~960 reviews. De klachten gaan vooral over agressieve contractvoorwaarden en onverwachte prijsverhogingen. Eerlijk gezegd: de lage HubSpot-score weerspiegelt niet per se de productkwaliteit, maar zegt veel over hoe gebruikers de commerciele aanpak ervaren.
 
 {{< figure src="/images/blog/hubspot-vs-pipedrive/feature-vergelijking-hubspot-pipedrive.svg" alt="Feature vergelijking HubSpot vs Pipedrive: visuele matrix met scores op gratis plan, e-mail tracking, pipeline management, rapportages, integraties, mobiele app en Trustpilot" caption="Visuele vergelijking van de belangrijkste CRM-functies tussen HubSpot en Pipedrive." >}}
 
@@ -65,29 +65,28 @@ Dit is waar de meeste ondernemers zich verkijken. De startprijzen lijken vergeli
 | Plan | HubSpot Sales Hub | Pipedrive |
 |---|---|---|
 | **Gratis/Trial** | Gratis (beperkt) | 14 dagen trial |
-| **Basis** | €15 (Starter) | €14,90 (Essential) |
-| **Middel** | €90 (Professional) | €27,90 (Advanced) |
-| **Geavanceerd** | €150 (Enterprise) | €49,90 (Professional) |
-| **Top** | — | €64,90 (Power) |
-| **Enterprise** | — | €99 (Enterprise) |
+| **Basis** | €15 (Starter) | ~€14 (Lite) |
+| **Middel** | €90 (Professional) | ~€39 (Growth) |
+| **Geavanceerd** | €150 (Enterprise) | ~€49 (Premium) |
+| **Enterprise** | — | ~€69 (Ultimate) |
 
 ### Wat betaalt een team van 5 in de praktijk?
 
 | Scenario | HubSpot | Pipedrive | Verschil/jaar |
 |---|---|---|---|
-| Basis sales functies | 5 x €15 = €75/mnd | 5 x €14,90 = €74,50/mnd | ~€0 |
-| Met automatiseringen | 5 x €90 = €450/mnd | 5 x €27,90 = €139,50/mnd | **€3.726/jaar** |
-| Full enterprise | 5 x €150 = €750/mnd | 5 x €99 = €495/mnd | **€3.060/jaar** |
+| Basis sales functies | 5 x €15 = €75/mnd | 5 x ~€14 = ~€70/mnd | ~€0 |
+| Met automatiseringen | 5 x €90 = €450/mnd | 5 x ~€39 = ~€195/mnd | **~€3.060/jaar** |
+| Full enterprise | 5 x €150 = €750/mnd | 5 x ~€69 = ~€345/mnd | **~€4.860/jaar** |
 
-Die middelste rij is cruciaal. De meeste groeiende bedrijven willen automatiseringen -- e-mails automatisch versturen, deals verplaatsen op basis van triggers, taken toewijzen. Bij HubSpot betaal je daar €90/gebruiker/maand voor. Bij Pipedrive €27,90. Dat is €3.726 per jaar verschil voor een team van 5. Genoeg om een extra salesmedewerker een halve dag per week in te huren.
+Die middelste rij is cruciaal. De meeste groeiende bedrijven willen automatiseringen -- e-mails automatisch versturen, deals verplaatsen op basis van triggers, taken toewijzen. Bij HubSpot betaal je daar €90/gebruiker/maand voor. Bij Pipedrive ~€39 (Growth-plan). Dat is ruim €3.000 per jaar verschil voor een team van 5. Genoeg om een extra salesmedewerker een halve dag per week in te huren.
 
 **Let op bij HubSpot:** de prijzen hierboven gelden alleen voor de Sales Hub. Wil je ook de Marketing Hub of Service Hub? Dan betaal je per Hub extra. Ik heb klanten gezien die bij €15/maand begonnen en binnen een jaar op €400+/maand zaten doordat ze Hubs bleven toevoegen.
 
-{{< figure src="/images/blog/hubspot-vs-pipedrive/prijsvergelijking-hubspot-pipedrive.svg" alt="Prijsvergelijking HubSpot vs Pipedrive 2026: grouped bar chart met alle plannen van gratis tot enterprise naast elkaar" caption="Alle HubSpot- en Pipedrive-plannen naast elkaar. Het grootste prijsverschil zit bij de middelste plannen: HubSpot Professional kost 3,2x meer dan Pipedrive Advanced." >}}
+{{< figure src="/images/blog/hubspot-vs-pipedrive/prijsvergelijking-hubspot-pipedrive.svg" alt="Prijsvergelijking HubSpot vs Pipedrive 2026: grouped bar chart met alle plannen van gratis tot enterprise naast elkaar" caption="Alle HubSpot- en Pipedrive-plannen naast elkaar. Het grootste prijsverschil zit bij de middelste plannen: HubSpot Professional kost meer dan 2x zoveel als Pipedrive Growth." >}}
 
 ## HubSpot: het alles-in-een platform
 
-Trustpilot: 1.8/5 (1.049 reviews) -- de lage score komt vooral door klachten over contractvoorwaarden, niet de software zelf.
+Trustpilot: 1.9/5 (~960 reviews) -- de lage score komt vooral door klachten over contractvoorwaarden, niet de software zelf.
 
 Wat me opviel de eerste keer dat ik HubSpot implementeerde bij een marketingbureau in Utrecht: het is indrukwekkend hoeveel je vanuit een platform kunt doen. Contactbeheer, e-mailcampagnes, landing pages, social media scheduling, sales pipelines, customer service tickets -- alles zit erin. Voor een bedrijf waar marketing en sales nauw samenwerken is dat goud waard.
 
@@ -127,7 +126,7 @@ Pipedrive past perfect bij teams van 2 tot 50 mensen die zich primair bezighoude
 
 Die visuele pipeline is niet zomaar een gadget. Het systeem is gebouwd om je te dwingen de volgende actie te nemen bij elke deal. Geen deal blijft hangen zonder follow-up -- het systeem duwt je. Ik heb salesmanagers gezien die na de overstap naar Pipedrive 15-20% meer deals sloten, puur omdat ze niets meer lieten liggen.
 
-De automatiseringen zijn al beschikbaar vanaf het Advanced-plan (€27,90/gebruiker/maand). De visuele workflow-builder is zo eenvoudig dat ik salesmanagers zonder technische achtergrond binnen een halfuur hun eerste automatisering heb zien opzetten. E-mails automatisch versturen bij een fase-wissel, taken aanmaken, notificaties sturen -- het werkt gewoon.
+De automatiseringen zijn al beschikbaar vanaf het Growth-plan (~€39/gebruiker/maand). De visuele workflow-builder is zo eenvoudig dat ik salesmanagers zonder technische achtergrond binnen een halfuur hun eerste automatisering heb zien opzetten. E-mails automatisch versturen bij een fase-wissel, taken aanmaken, notificaties sturen -- het werkt gewoon.
 
 De mobiele app is een van de beste die ik ken in CRM-land. Snel, overzichtelijk, met offline functionaliteit. Voor verkopers die veel onderweg zijn, is dit een serieus pluspunt.
 
@@ -137,7 +136,7 @@ Marketing automation? Vergeet het. Pipedrive heeft een Campaigns-add-on voor bas
 
 De rapportages zijn solide maar niet diep. Voor management dat cross-departementale dashboards wil combineren -- marketing, sales, service -- is Pipedrive te beperkt. Custom rapportages zijn er pas vanaf het Professional-plan.
 
-En het integratieaanbod (400+) is kleiner dan bij HubSpot (1.500+). In de praktijk heb ik zelden meegemaakt dat een klant een koppeling miste, maar als je een nichetool gebruikt, check dan vooraf of de integratie bestaat.
+En het integratieaanbod (400+) is kleiner dan bij HubSpot (1.700+). In de praktijk heb ik zelden meegemaakt dat een klant een koppeling miste, maar als je een nichetool gebruikt, check dan vooraf of de integratie bestaat.
 
 <a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
@@ -165,7 +164,7 @@ En het integratieaanbod (400+) is kleiner dan bij HubSpot (1.500+). In de prakti
 
 **HubSpot** biedt workflows en sequences die behoorlijk krachtig zijn. Automatisch e-mails sturen, taken aanmaken, deals verplaatsen op basis van triggers. Maar de geavanceerde automatiseringen zitten pas in het Professional-plan -- €90 per gebruiker per maand.
 
-**Pipedrive** maakt automatiseringen al toegankelijk vanaf het Advanced-plan (€27,90). De workflow-builder is visueel en eenvoudig. Niet zo diep als HubSpot, maar voor de meeste teams meer dan voldoende.
+**Pipedrive** maakt automatiseringen al toegankelijk vanaf het Growth-plan (~€39). De workflow-builder is visueel en eenvoudig. Niet zo diep als HubSpot, maar voor de meeste teams meer dan voldoende.
 
 **Winnaar: Pipedrive** -- niet krachtiger, maar betaalbaarder en toegankelijker.
 
@@ -181,13 +180,13 @@ En het integratieaanbod (400+) is kleiner dan bij HubSpot (1.500+). In de prakti
 
 Voor een startup met beperkt budget is het antwoord genuanceerd. HubSpot's gratis plan is een prima startpunt: je betaalt niets en krijgt een werkbaar CRM. Maar zodra je groeit en betaalde functies nodig hebt, word je geconfronteerd met een flinke prijssprong.
 
-Pipedrive heeft geen gratis plan, maar het Essential-plan kost €14,90/maand per gebruiker. Bij een team van 3 is dat €44,70/maand -- minder dan een avondje uit eten. En je krijgt meteen een volwaardig sales-CRM zonder beperkingen die je later frustreren.
+Pipedrive heeft geen gratis plan, maar het Lite-plan kost ~€14/maand per gebruiker. Bij een team van 3 is dat ~€42/maand -- minder dan een avondje uit eten. En je krijgt meteen een volwaardig sales-CRM zonder beperkingen die je later frustreren.
 
 Mijn advies aan startups: begin met HubSpot Free als je echt geen budget hebt. Maar als je €15/maand per persoon kunt missen, start dan met Pipedrive. Je bespaart jezelf de migratie later.
 
 ### Welke CRM heeft betere integraties met Nederlandse tools?
 
-Beide CRM's koppelen met de gangbare Nederlandse boekhoudpakketten -- Exact Online, Moneybird, Twinfield. Op zoek naar het juiste boekhoudpakket? Lees mijn [vergelijking van de beste boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/). HubSpot heeft objectief meer integraties (1.500+ vs 400+), maar in de praktijk maakt dat voor de meeste MKB-bedrijven weinig uit.
+Beide CRM's koppelen met de gangbare Nederlandse boekhoudpakketten -- Exact Online, Moneybird, Twinfield. Op zoek naar het juiste boekhoudpakket? Lees mijn [vergelijking van de beste boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/). HubSpot heeft objectief meer integraties (1.700+ vs 400+), maar in de praktijk maakt dat voor de meeste MKB-bedrijven weinig uit.
 
 Waar het verschil zit: HubSpot heeft native integraties met meer marketingtools (Google Ads, Facebook Ads, LinkedIn). Pipedrive focust op sales-integraties (bel-tools, e-mail tracking, proposal software). Welke set je nodig hebt, hangt af van je werkproces.
 
@@ -209,7 +208,7 @@ Na tientallen CRM-implementaties zie ik dezelfde fouten steeds terugkomen:
 
 3. **Adoptie door het team onderschatten** -- Het maakt niet uit hoe goed een CRM is als niemand het gebruikt. Ik heb een IT-bedrijf begeleid dat overstapte van Pipedrive naar HubSpot voor de marketing-functies. Na 4 maanden waren 3 van de 8 verkopers gestopt met CRM bijhouden. Ze vonden het te complex. Het team stapte uiteindelijk terug.
 
-4. **Niet doorrekenen wat je betaalt bij groei** -- Bij HubSpot spring je van €15 naar €90 per gebruiker als je automatiseringen wilt. Bij Pipedrive van €14,90 naar €27,90. Dat verschil van €62,10 per gebruiker per maand loopt bij 10 medewerkers op tot €7.452 per jaar. Maak die berekening voordat je tekent.
+4. **Niet doorrekenen wat je betaalt bij groei** -- Bij HubSpot spring je van €15 naar €90 per gebruiker als je automatiseringen wilt. Bij Pipedrive van ~€14 naar ~€39 (Growth). Dat verschil van ~€51 per gebruiker per maand loopt bij 10 medewerkers op tot ~€6.120 per jaar. Maak die berekening voordat je tekent.
 
 5. **De verkeerde Hub kopen bij HubSpot** -- HubSpot verkoopt Sales Hub, Marketing Hub en Service Hub apart. Ik heb klanten meegemaakt die dachten dat alles in het Starter-plan zat, maar ontdekten dat marketing automation in een aparte Hub zit die extra kost. Vraag specifiek na welke Hub je nodig hebt.
 
@@ -250,12 +249,12 @@ Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereke
 
 Na 12+ jaar in B2B software en tientallen CRM-implementaties is mijn aanbeveling genuanceerd maar duidelijk:
 
-**Als je een sales-gedreven MKB-bedrijf hebt** met 2 tot 50 medewerkers en je wilt morgen productief zijn: kies [Pipedrive](https://www.pipedrive.com/nl). De 4.5/5 op Trustpilot met 3.200+ reviews liegt niet. Teams adopteren het snel, de kosten zijn voorspelbaar, en je betaalt niet voor functies die je niet gebruikt. Begin met het Essential-plan (€14,90/maand) en schaal op wanneer nodig.
+**Als je een sales-gedreven MKB-bedrijf hebt** met 2 tot 50 medewerkers en je wilt morgen productief zijn: kies [Pipedrive](https://www.pipedrive.com/nl). De 4.5/5 op Trustpilot met 3.200+ reviews liegt niet. Teams adopteren het snel, de kosten zijn voorspelbaar, en je betaalt niet voor functies die je niet gebruikt. Begin met het Lite-plan (~€14/maand) en schaal op wanneer nodig.
 
 **Als marketing en sales bij jouw bedrijf hand in hand gaan** en je hebt het budget voor een premium oplossing: kies [HubSpot](https://www.hubspot.com/nl). De kracht zit in de combinatie van marketing automation, lead nurturing en sales pipelines in een platform. Start met het gratis plan om te verkennen, maar weet dat de echte waarde in de betaalde plannen zit.
 
-**Als je twijfelt?** Start met Pipedrive. Het kost je €14,90/maand om te proberen, je bent binnen een dag operationeel, en als je later alsnog marketing automation nodig hebt, kun je altijd overstappen. De andere kant op -- van HubSpot naar Pipedrive -- zie ik vaker dan andersom, en dat zegt genoeg.
+**Als je twijfelt?** Start met Pipedrive. Het kost je ~€14/maand om te proberen, je bent binnen een dag operationeel, en als je later alsnog marketing automation nodig hebt, kun je altijd overstappen. De andere kant op -- van HubSpot naar Pipedrive -- zie ik vaker dan andersom, en dat zegt genoeg.
 
 **Wat je vooral niet moet doen:** een jaarcontract tekenen zonder het systeem eerst 2 weken met je eigen team te testen. Beide platforms bieden een proefperiode. Gebruik die. Een CRM kies je niet op basis van een demo -- je kiest het op basis van hoe jouw team ermee werkt.
 
-*Prijzen en Trustpilot-scores laatst gecheckt: februari 2026.*
+*Prijzen en Trustpilot-scores laatst gecheckt: maart 2026.*

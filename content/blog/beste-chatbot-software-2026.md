@@ -36,11 +36,11 @@ Zoek je CRM-software om leads op te volgen? Lees de [beste CRM software vergelij
 
 | Platform | Prijs vanaf | AI-chatbot | Nederlands | Live chat | Beste voor |
 |----------|-----------|-----------|-----------|----------|-----------|
-| **Intercom** | €74/mnd | ✅ Fin AI | ✅ | ✅ | Scale-ups, SaaS |
+| **Intercom** | $29/seat/mnd | ✅ Fin AI | ✅ | ✅ | Scale-ups, SaaS |
 | **Tidio** | Gratis | ✅ Lyro AI | ✅ | ✅ | MKB, e-commerce |
 | **Zendesk** | €55/agent/mnd | ✅ | ✅ | ✅ | Enterprise support |
 | **Drift** | €2.500/mnd | ✅ | ✅ | ✅ | B2B leadgeneratie |
-| **ChatBot** | €52/mnd | ✅ | ✅ | Via LiveChat | Visuele bouwer |
+| **ChatBot** | Op aanvraag (AI-gesprekken) | ✅ | ✅ | Via LiveChat | Visuele bouwer |
 
 ## 1. Intercom — Beste AI-chatbot
 
@@ -55,11 +55,13 @@ Intercom's Fin AI Agent is de chatbot waar ik het meest van onder de indruk ben.
 - **Analytics** — Resolutierate, klanttevredenheid, onderwerpen
 
 ### Prijzen
+Intercom factureert in USD (jaarlijks):
+
 | Plan | Prijs | Highlights |
 |------|-------|-----------|
-| Essential | €74/mnd | Fin AI (€0,99/resolutie), live chat, inbox |
-| Advanced | €127/mnd | + workflows, SLA, meerdere teams |
-| Expert | €169/mnd | + SSO, HIPAA, custom rollen |
+| Essential | $29/seat/mnd (±€27) | Fin AI (€0,99/resolutie), live chat, inbox |
+| Advanced | $85/seat/mnd (±€78) | + workflows, SLA, meerdere teams |
+| Expert | $132/seat/mnd (±€121) | + SSO, HIPAA, custom rollen |
 
 <a href="https://www.intercom.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar intercom.com →</a>
 
@@ -84,7 +86,7 @@ Tidio is de chatbot software die ik aanbeveel aan MKB'ers die zeggen: "Ik wil mo
 | Free | €0 | 50 gesprekken/mnd, live chat |
 | Starter | €29 | 100 gesprekken, basis analytics |
 | Growth | €59 | Onbeperkt, Lyro AI, analytics |
-| Tidio+ | €398 | Dedicated support, custom limits |
+| Plus | $749/mnd | Dedicated support, custom limits |
 
 <a href="https://www.tidio.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar tidio.com →</a>
 
@@ -118,7 +120,7 @@ Drift is de tool die ik alleen noem bij B2B-bedrijven met deals van duizenden eu
 - **Salesforce/HubSpot integratie** — Leads direct in je CRM
 - **Playbooks** — Geautomatiseerde verkoopscripts per segment
 
-<a href="https://www.salesloft.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salesloft.com →</a>
+<a href="https://www.salesloft.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salesloft.com →</a> (Drift is in 2024 overgenomen door Salesloft)
 
 **✅ Voordelen:** Beste voor B2B sales, directe CRM-integratie, account-based marketing
 **❌ Nadelen:** Zeer duur (€2.500+/mnd), alleen zinvol voor B2B met hoge dealwaarde
@@ -135,11 +137,7 @@ ChatBot is mijn aanbeveling voor bedrijven die zelf de controle willen over hun 
 - **Testing** — Test je chatbot voordat je live gaat
 
 ### Prijzen
-| Plan | Prijs/mnd | Highlights |
-|------|----------|-----------|
-| Starter | €52 | 1.000 chats, 1 chatbot |
-| Team | €142 | 5.000 chats, 5 chatbots |
-| Business | €424 | 25.000 chats, onbeperkt |
+ChatBot.com (nu onderdeel van Text) werkt met een prijsmodel op basis van het aantal AI-gesprekken. Neem contact op via chatbot.com voor actuele tarieven.
 
 **→ <a href="https://www.chatbot.com/?a=_vxQh-ODg&utm_campaign=pp_chatbot-default&utm_source=PP" rel="noopener nofollow sponsored">Bekijk ChatBot</a>**
 

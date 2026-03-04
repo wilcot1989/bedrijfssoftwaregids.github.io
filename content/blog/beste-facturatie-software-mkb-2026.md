@@ -22,7 +22,7 @@ faq:
   - q: "Wat is het verschil tussen een factuurprogramma en boekhoudsoftware?"
     a: "Een factuurprogramma richt zich primair op het maken en versturen van facturen. Boekhoudsoftware is uitgebreider en omvat ook bankboekingen, grootboekrekeningen, jaarrekeningen en balansen. Veel pakketten in dit overzicht combineren beide functies."
   - q: "Hoeveel kost een factuurprogramma voor het MKB?"
-    a: "De prijzen variëren van ongeveer 5 tot 60 euro per maand, afhankelijk van het pakket en het aantal functies. Jortt biedt een beperkt gratis plan. Voor een volledig MKB-pakket met bankkoppeling en BTW-aangifte betaal je gemiddeld 15-35 euro per maand."
+    a: "De prijzen variëren van gratis (Rompslomp Starter en Jortt Gratis) tot circa 60 euro per maand, afhankelijk van het pakket en het aantal functies. Voor een volledig MKB-pakket met bankkoppeling en BTW-aangifte betaal je gemiddeld 15-50 euro per maand."
   - q: "Kan ik mijn bankrekening koppelen aan facturatie software?"
     a: "Ja, alle pakketten in dit overzicht bieden een bankkoppeling. Hiermee worden banktransacties automatisch ingelezen en gekoppeld aan openstaande facturen. Dit scheelt veel handmatig werk en houdt je administratie altijd up-to-date."
   - q: "Welke facturatie software is het beste voor ZZP'ers?"
@@ -36,12 +36,12 @@ Het klinkt simpel -- een factuur versturen -- maar ik spreek regelmatig ondernem
 
 | Software | Startprijs/mnd | Gratis plan | BTW-aangifte | Bankkoppeling | UBL-facturen | Beste voor |
 |---|---|---|---|---|---|---|
-| **Moneybird** | €12,50/mnd | Ja (beperkt) | Ja | Ja | Ja | MKB allrounder |
-| **Exact Online** | €33/mnd | Nee (trial) | Ja | Ja | Ja | Groeiend MKB |
-| **e-Boekhouden** | €16,95/mnd | Nee (trial) | Ja | Ja | Ja | MKB met boekhouder |
-| **Rompslomp** | €9,50/mnd | Nee (trial) | Ja | Ja | Ja | Eenvoud zoekend MKB |
+| **Moneybird** | €15/mnd | Ja (max 3 fact/mnd) | Ja | Ja | Ja | MKB allrounder |
+| **Exact Online** | €48/mnd | Nee (trial) | Ja | Ja | Ja | Groeiend MKB |
+| **e-Boekhouden** | €9,95/mnd | Nee (trial) | Ja | Ja | Ja | MKB met boekhouder |
+| **Rompslomp** | Gratis (5 fact/mnd) | Ja | Ja | Ja | Ja | Eenvoud zoekend MKB |
 | **Informer** | €14/mnd | Nee (trial) | Ja | Ja | Ja | Administratiekantoren |
-| **Jortt** | Gratis / €7/mnd | Ja | Ja (betaald) | Ja (betaald) | Ja | Starters & micro-MKB |
+| **Jortt** | Gratis / €19,95/mnd | Ja | Ja (betaald) | Ja (betaald) | Ja | Starters & micro-MKB |
 
 ## 1. Moneybird
 
@@ -60,10 +60,10 @@ Moneybird is het pakket dat ik het vaakst aanbeveel, en dat komt door een ding: 
 - API en 75+ integraties
 
 ### Prijzen (2026)
-- **Gratis**: Beperkt aantal facturen per jaar
-- **Eigenlijk Alles**: €12,50/maand
-- **Samen Alles**: €28,50/maand (meerdere gebruikers)
-- **Alles en Meer**: €38,50/maand (uitgebreid)
+- **Gratis**: Maximaal 3 facturen per maand (prijs gecheckt mrt 2026)
+- **20 transacties**: €15/maand
+- **50 transacties**: €28/maand
+- **Onbeperkt**: €39/maand
 
 ### Voordelen
 - Zeer gebruiksvriendelijke, moderne interface
@@ -104,8 +104,7 @@ Exact Online is niet het makkelijkste pakket op deze lijst, maar wel het meest c
 - 350+ koppelingen via Exact App Center
 
 ### Prijzen (2026)
-- **Boekhouden**: €33/maand (1 gebruiker)
-- **Facturatie + Boekhouden**: €45/maand
+- **Essentials**: vanaf €48/maand
 - **Extra gebruikers**: vanaf €10/gebruiker/maand
 - **Aanvullende modules**: variërend per module
 
@@ -149,8 +148,8 @@ e-Boekhouden is de stille betrouwbare in dit rijtje. Ik kom het vooral tegen bij
 - Rapportages: balans, winst-verlies, BTW-overzicht
 
 ### Prijzen (2026)
-- **ZZP Compleet**: €16,95/maand
-- **MKB Compleet**: €24,95/maand (meerdere gebruikers)
+- **ZZP**: €9,95/maand
+- **Onbeperkt**: €14,50/maand (meerdere gebruikers)
 - **Accountancy**: tarieven op aanvraag
 - Gratis proefperiode van 15 dagen
 
@@ -191,14 +190,15 @@ Rompslomp doet precies wat de naam belooft: de rompslomp eruit halen. Ik heb het
 - Integraties via Zapier
 
 ### Prijzen (2026)
-- **Starter**: €9,50/maand
-- **Professional**: €14,50/maand
-- **Business**: €24,50/maand (meerdere gebruikers)
+- **Starter**: Gratis (max 5 facturen/maand)
+- **Basic**: €13,50/maand
+- **Professional**: €26,50/maand (meerdere gebruikers)
+- **Master**: €39,50/maand
 - 30 dagen gratis proefperiode
 
 ### Voordelen
 - Zeer eenvoudig en snel te gebruiken
-- Scherpste instapprijs in dit overzicht
+- Gratis Starter-plan (tot 5 facturen per maand)
 - Nederlandse software met persoonlijke support
 - Snelle facturatie workflow
 - Overzichtelijke interface zonder overbodige functies
@@ -208,7 +208,7 @@ Rompslomp doet precies wat de naam belooft: de rompslomp eruit halen. Ik heb het
 - Minder uitgebreide boekhoudfuncties dan Exact of e-Boekhouden
 - Beperktere rapportagemogelijkheden
 - Minder integraties dan concurrenten
-- Geen gratis plan
+- Gratis plan beperkt tot 5 facturen per maand
 - Minder geschikt voor complexe BTW-situaties (bijv. ICL/ICV)
 
 <a href="https://www.rompslomp.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar rompslomp.nl →</a>
@@ -274,9 +274,9 @@ Jortt adviseer ik aan starters die nog niet weten of ze 5 of 50 facturen per maa
 
 ### Prijzen (2026)
 - **Gratis**: Basisfacturatie, beperkte functies
-- **Compleet**: €7/maand (bankkoppeling en BTW-aangifte)
-- **Samen**: €14/maand (meerdere gebruikers)
-- **Groei**: €25/maand (uitgebreide functies)
+- **ZZP**: €19,95/maand (bankkoppeling en BTW-aangifte)
+- **MKB**: €24,95/maand (meerdere gebruikers)
+- **Plus**: €34,95/maand (uitgebreide functies)
 
 ### Voordelen
 - Gratis plan beschikbaar

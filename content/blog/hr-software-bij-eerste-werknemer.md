@@ -73,13 +73,13 @@ Twee verplichtingen die ondernemers bij de eerste werknemer regelmatig vergeten:
 
 Als werkgever ben je in de meeste gevallen verplicht de medewerker aan te melden bij het pensioenfonds dat van toepassing is op jouw branche. Deelname is verplicht als de CAO dat voorschrijft. De premie is deels voor de werkgever, deels voor de werknemer en wordt geheven bovenop het bruto salaris.
 
-De werkgeverslasten bestaan naast de pensioenpremie ook uit de WW-premie, de ZW-premie, de WAO/WIA-premie en de inkomensafhankelijke bijdrage Zvw (zorgverzekering). Die lasten liggen gemiddeld 25 tot 35% bovenop het bruto salaris. Een medewerker met een bruto salaris van EUR 3.000 kost je als werkgever maandelijks EUR 3.750 tot EUR 4.050 in totaal.
+De werkgeverslasten bestaan naast de pensioenpremie ook uit de WW-premie, de ZW-premie, de WAO/WIA-premie en de inkomensafhankelijke bijdrage Zvw (zorgverzekering). Die lasten liggen gemiddeld 25 tot 45% bovenop het bruto salaris (gemiddeld circa 37% in 2026). Een medewerker met een bruto salaris van EUR 3.000 kost je als werkgever maandelijks EUR 3.750 tot EUR 4.350 in totaal.
 
 Reken die werkgeverslasten mee in je budgettering voor je de vacature plaatst -- veel ondernemers nemen iemand aan op basis van het netto salaris en worden verrast door de totale loonkosten. In mijn praktijk is dit een van de meest voorkomende blinde vlekken bij eerste werkgevers: de werkgeverslasten zijn pas echt zichtbaar als de eerste salarisstrook door de administratie loopt.
 
 ## De eerste negentig dagen als werkgever
 
-Voor de eerste werkdag van de medewerker: vraag de loonheffingsnummers aan bij de Belastingdienst (aanvraag duurt twee tot vier weken), laat het arbeidscontract ondertekenen en richt de salarisadministratie in inclusief de persoonlijke gegevens van de medewerker.
+Voor de eerste werkdag van de medewerker: vraag de loonheffingsnummers aan bij de Belastingdienst (aanvraag duurt vier tot zes weken), laat het arbeidscontract ondertekenen en richt de salarisadministratie in inclusief de persoonlijke gegevens van de medewerker.
 
 In de eerste maand: doe de eerste loonaangifte op tijd. De deadline is de laatste werkdag van de maand volgend op de verloonperiode bij maandlonen. Te laat indienen leidt tot een automatische boete die oploopt bij herhaaldelijk verzuim. Als de medewerker ook uren per project registreert, is het vroeg bepalen welk systeem daarvoor past zinvol; dat vergelijk je in [Urenregistratie: HR software of projectmanagement tool](/blog/urenregistratie-hr-of-projectmanagement/).
 

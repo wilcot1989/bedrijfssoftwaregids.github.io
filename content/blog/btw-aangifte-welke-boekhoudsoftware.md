@@ -71,13 +71,13 @@ Fout twee: bonnen laat invoeren waardoor ze in de verkeerde aangifte-periode val
 
 Fout drie: BTW niet afdragen over privégebruik van zakelijke goederen. Wie een zakelijke laptop ook privé gebruikt, moet periodiek een BTW-correctie boeken voor het privégedeelte. Dit wordt zelden spontaan gedaan en is een veelgemaakte fout bij ZZP'ers.
 
-Fout vier: de aangifte te laat indienen. De Belastingdienst rekent automatisch een boete van 7% over de te betalen BTW bij niet-tijdige indiening, met een maximum van EUR 5.514 per aangifte. De meeste softwarepakketten sturen een herinnering, maar de verantwoordelijkheid ligt bij jou. In mijn ervaring gaat het hier zelden om opzet -- het zijn ondernemers die de herinnering wegklikten omdat ze dachten dat het nog wel even kon wachten.
+Fout vier: de aangifte te laat indienen. De Belastingdienst maakt onderscheid tussen twee soorten boetes: een aangifteverzuimboete (te laat aangifte doen) van een vast bedrag van €82, bij herhaling oplopend tot €165, en een betaalverzuimboete (te laat betalen) van 3% van het te laat betaalde bedrag, minimaal €50 en maximaal €6.709. De meeste softwarepakketten sturen een herinnering, maar de verantwoordelijkheid ligt bij jou. In mijn ervaring gaat het hier zelden om opzet -- het zijn ondernemers die de herinnering wegklikten omdat ze dachten dat het nog wel even kon wachten.
 
 ## Wat je doet als je een fout ontdekt na indiening
 
 Een ingediende BTW-aangifte is niet definitief als er een fout in zit. Je kunt een suppletie-aangifte indienen via het Belastingdienst-portaal om een eerder ingediende aangifte te corrigeren. Dat kan tot vijf jaar na het belastingjaar.
 
-Als de correctie in jouw voordeel is -- je hebt te veel afgedragen -- krijg je het verschil terug plus belastingrente. Als de correctie in het nadeel van de Belastingdienst is, betaal je het verschil plus belastingrente. Wie een fout vrijwillig corrigeert via een suppletie, wordt doorgaans niet beboet. Wie wacht tot de Belastingdienst zelf de fout constateert, riskeert een boete bovenop de naheffing.
+Als de correctie in jouw voordeel is -- je hebt te veel afgedragen -- krijg je het verschil terug plus belastingrente. Als de correctie in het nadeel van de Belastingdienst is, betaal je het verschil plus belastingrente. Wie een fout vrijwillig corrigeert via een suppletie, wordt doorgaans niet beboet. Wie wacht tot de Belastingdienst zelf de fout constateert, riskeert een boete bovenop de naheffing. Let op: per 1 januari 2025 geldt een meldingsplicht -- je bent verplicht een suppletie-aangifte in te dienen binnen 8 weken nadat je de fout hebt ontdekt. Het is dus geen optie maar een verplichting.
 
 Zorg dat je boekhoudpakket suppleties ondersteunt of minstens een duidelijk overzicht genereert van het verschil tussen de eerder ingediende aangifte en de gecorrigeerde versie. Dat versnelt de correctie aanzienlijk. Ondernemers die ook factureren en boekhouden willen samenvoegen in één systeem voor minder handmatige stappen, lezen verder in [Factureren en boekhouden in één pakket](/blog/factureren-en-boekhouden-alles-in-een/).
 
