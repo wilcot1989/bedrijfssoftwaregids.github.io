@@ -54,7 +54,7 @@ function renderAlternatives(selectedTool, allItems, calcType) {
       '<span style="font-weight:500;">' + escapeHTML(a.t.name) + '</span>' +
       '<span style="display:flex;align-items:center;gap:0.75rem;">' +
       '<span style="color:#64748b;font-size:0.9rem;">~\u20AC' + Math.round(a.est).toLocaleString("nl-NL") + '/mnd</span>' +
-      '<a class="bsg-btn" style="font-size:0.85rem;padding:0.35rem 0.75rem;" href="' + escapeHTML(a.t.affiliate?.url || "#") + '" rel="sponsored nofollow">Bekijk</a>' +
+      '<a class="bsg-btn" style="font-size:0.85rem;padding:0.35rem 0.75rem;" href="' + escapeHTML(a.t.affiliate?.url || "#") + '" target="_blank" rel="noopener nofollow sponsored">Bekijk</a>' +
       '</span></div>';
   }).join("");
   return '<div style="border-top:2px solid #e2e8f0;margin-top:1.25rem;padding-top:1rem;">' +
@@ -180,7 +180,7 @@ async function initCalculator() {
         <div class="bsg-amount">&euro;${Math.round(total).toLocaleString("nl-NL")}</div>
         <p class="bsg-amount-sub">over ${months} maanden (&euro;${monthly.toLocaleString("nl-NL")}/maand)</p>
         <div class="bsg-cta">
-          <a class="bsg-btn" href="${escapeHTML(t.affiliate?.url || "#")}" rel="sponsored nofollow">Bekijk ${escapeHTML(t.name)}</a>
+          <a class="bsg-btn" href="${escapeHTML(t.affiliate?.url || "#")}" target="_blank" rel="noopener nofollow sponsored">Bekijk ${escapeHTML(t.name)}</a>
         </div>
       </div>
     ` + renderAlternatives(t, items, cat.calculator.type);

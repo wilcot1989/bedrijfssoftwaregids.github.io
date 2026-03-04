@@ -152,7 +152,7 @@ async function initWizard() {
         '<ul style="margin:0.5rem 0 0.75rem 1.25rem;line-height:1.8;color:#1e40af;">' +
         reasons.map(function(r) { return '<li>' + escapeHTML(r) + '</li>'; }).join('') +
         '</ul>' +
-        '<div class="bsg-cta"><a class="bsg-btn" href="' + escapeHTML(top.t.affiliate?.url || "#") + '" rel="sponsored nofollow">Bekijk ' + escapeHTML(top.t.name) + '</a></div></div>';
+        '<div class="bsg-cta"><a class="bsg-btn" href="' + escapeHTML(top.t.affiliate?.url || "#") + '" target="_blank" rel="noopener nofollow sponsored">Bekijk ' + escapeHTML(top.t.name) + '</a></div></div>';
     }
 
     const html = ranked.map(({ t, score }, i) => `
@@ -162,7 +162,7 @@ async function initWizard() {
           <span class="bsg-badge">Matchscore: ${Math.round(score)}</span>
         </div>
         <div class="bsg-cta">
-          <a class="bsg-btn" href="${escapeHTML(t.affiliate?.url || "#")}" rel="sponsored nofollow">Bekijk / demo aanvragen</a>
+          <a class="bsg-btn" href="${escapeHTML(t.affiliate?.url || "#")}" target="_blank" rel="noopener nofollow sponsored">Bekijk / demo aanvragen</a>
         </div>
       </div>
     `).join("");

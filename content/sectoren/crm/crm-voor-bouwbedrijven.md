@@ -77,7 +77,7 @@ Heb je een actief acquisiteam dat offertes uitbrengt en klanten bezoekt? Dan is 
 
 **Prijs:** Vanaf €14,90/user/maand.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive →</a>
 
 ---
 

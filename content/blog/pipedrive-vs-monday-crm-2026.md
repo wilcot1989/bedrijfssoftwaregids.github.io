@@ -262,7 +262,7 @@ Ja, beide koppelen met Nederlandse pakketten als Exact Online en Moneybird -- vi
 
 Na tientallen implementaties van beide platformen bij Nederlandse MKB-bedrijven is mijn aanbeveling helder:
 
-**Kies [Pipedrive](https://www.pipedrive.com/nl) als sales de kern van je bedrijf is.** Salesteams van 1 tot 30 personen die een intuïtief, snel en bewezen CRM willen. Begin met het Lite-plan (~$14/gebruiker/maand) en je bent dezelfde dag operationeel. De 4,3/5 op G2 met bijna 3.000 reviews bevestigt wat ik in de praktijk zie: teams adopteren het snel en gebruiken het daadwerkelijk. Dat is de helft van het succes.
+**Kies [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj) als sales de kern van je bedrijf is.** Salesteams van 1 tot 30 personen die een intuïtief, snel en bewezen CRM willen. Begin met het Lite-plan (~$14/gebruiker/maand) en je bent dezelfde dag operationeel. De 4,3/5 op G2 met bijna 3.000 reviews bevestigt wat ik in de praktijk zie: teams adopteren het snel en gebruiken het daadwerkelijk. Dat is de helft van het succes.
 
 **Kies [Monday CRM](https://monday.com/crm) als je meer nodig hebt dan alleen sales.** Wanneer sales, projectmanagement en samenwerking in een platform moeten samenkomen, is Monday CRM de slimmere keuze. Begin met het Standard-plan (€17/gebruiker/maand) -- dat geeft je automatiseringen en e-mailsync. Het is goedkoper dan Pipedrive + losse projecttool, en je data zit op een plek.
 
@@ -272,7 +272,7 @@ Na tientallen implementaties van beide platformen bij Nederlandse MKB-bedrijven 
 
 Lees ook mijn [HubSpot vs Pipedrive vergelijking](/blog/hubspot-vs-pipedrive-2026/) als je HubSpot ook overweegt, of de [HubSpot vs Monday CRM vergelijking](/blog/hubspot-vs-monday-crm-2026/). Bekijk het [complete CRM-overzicht voor Nederland](/blog/beste-crm-software-nederland-2026/) voor alle opties.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 <a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 

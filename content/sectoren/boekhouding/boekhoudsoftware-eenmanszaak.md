@@ -65,7 +65,7 @@ Snelstart is een Nederlands systeem dat al decennia meegaat en dat speciaal is g
 
 **Prijs:** Boekhouden: EUR 14 per maand. Salarisverwerking: vanaf EUR 8 extra per maand.
 
-<a href="https://www.snelstart.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Snelstart</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Snelstart</a>
 
 ---
 

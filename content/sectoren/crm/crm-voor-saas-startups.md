@@ -59,7 +59,7 @@ Als je een outbound of inside sales team hebt (SDRs, AEs), is Pipedrive de sterk
 
 **Prijs:** Vanaf €14,90/user/maand.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive →</a>
 
 ---
 

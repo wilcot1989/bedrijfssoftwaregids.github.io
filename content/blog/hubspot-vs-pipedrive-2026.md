@@ -138,7 +138,7 @@ De rapportages zijn solide maar niet diep. Voor management dat cross-departement
 
 En het integratieaanbod (400+) is kleiner dan bij HubSpot (1.700+). In de praktijk heb ik zelden meegemaakt dat een klant een koppeling miste, maar als je een nichetool gebruikt, check dan vooraf of de integratie bestaat.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 ---
 
@@ -249,7 +249,7 @@ Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereke
 
 Na 12+ jaar in B2B software en tientallen CRM-implementaties is mijn aanbeveling genuanceerd maar duidelijk:
 
-**Als je een sales-gedreven MKB-bedrijf hebt** met 2 tot 50 medewerkers en je wilt morgen productief zijn: kies [Pipedrive](https://www.pipedrive.com/nl). De 4.5/5 op Trustpilot met 3.200+ reviews liegt niet. Teams adopteren het snel, de kosten zijn voorspelbaar, en je betaalt niet voor functies die je niet gebruikt. Begin met het Lite-plan (~€14/maand) en schaal op wanneer nodig.
+**Als je een sales-gedreven MKB-bedrijf hebt** met 2 tot 50 medewerkers en je wilt morgen productief zijn: kies [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj). De 4.5/5 op Trustpilot met 3.200+ reviews liegt niet. Teams adopteren het snel, de kosten zijn voorspelbaar, en je betaalt niet voor functies die je niet gebruikt. Begin met het Lite-plan (~€14/maand) en schaal op wanneer nodig.
 
 **Als marketing en sales bij jouw bedrijf hand in hand gaan** en je hebt het budget voor een premium oplossing: kies [HubSpot](https://www.hubspot.com/nl). De kracht zit in de combinatie van marketing automation, lead nurturing en sales pipelines in een platform. Start met het gratis plan om te verkennen, maar weet dat de echte waarde in de betaalde plannen zit.
 

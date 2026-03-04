@@ -207,7 +207,7 @@ Technische teams en softwareontwikkelaars die sprints draaien. Startups die alle
 ### Eerlijk nadeel
 De leercurve is steil. Echt steil. Ik heb teams begeleid die na twee weken nog steeds niet alle functies hadden ontdekt. De interface kan aanvoelen alsof iemand alle functies van 5 verschillende tools in een blender heeft gegooid. En bij grote workspaces merk je soms vertraging. ClickUp pusht frequente updates, wat betekent dat de interface soms verandert terwijl je ermee werkt.
 
-<a href="https://clickup.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar clickup.com →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar clickup.com →</a>
 
 ---
 
@@ -414,7 +414,7 @@ Na tientallen implementaties komt het hier op neer:
 **Maar de beste tool hangt af van jouw situatie:**
 
 - **Je wilt maximale structuur en overzicht?** Dan is [Asana](https://asana.com/nl) de betere keuze. De taakafhankelijkheden en portfolioweergave zijn ongeëvenaard.
-- **Je budget is beperkt maar je wilt veel functies?** [ClickUp](https://clickup.com/) geeft je de meeste features voor de laagste prijs. Reken wel op een week configuratietijd.
+- **Je budget is beperkt maar je wilt veel functies?** [ClickUp](https://try.web.clickup.com/ivsm6ez2ycrs) geeft je de meeste features voor de laagste prijs. Reken wel op een week configuratietijd.
 - **Je team is klein en wil gewoon aan de slag?** [Trello](https://trello.com/nl) is in 10 minuten operationeel. Simpel, effectief, goedkoop.
 - **Je team werkt remote en vergadert te veel?** [Basecamp](https://basecamp.com/) dwingt asynchrone communicatie af. Rustgevend.
 - **Je wilt alles op een plek: projecten, wiki en documenten?** [Notion](https://www.notion.so/) is de enige tool die dat echt combineert.

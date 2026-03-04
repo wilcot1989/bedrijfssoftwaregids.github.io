@@ -132,7 +132,7 @@ Later raad ik aan zodra een klant zegt "Instagram en TikTok zijn onze belangrijk
 **✅ Voordelen:** Beste visuele planner, Instagram-focus, Linkin.bio, betaalbaar
 **❌ Nadelen:** Minder geschikt voor B2B/LinkedIn, beperktere analytics
 
-<a href="https://later.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar later.com →</a>
+<a href="https://try.later.com/b5jeros8jw8a" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar later.com →</a>
 
 ## 5. SocialBee — Beste voor content-recycling
 
