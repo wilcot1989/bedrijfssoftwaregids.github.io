@@ -76,8 +76,6 @@ Een kassasysteem horeca kiezen is een beslissing waar je jarenlang mee zit. Ik h
 
 ## 1. Lightspeed Restaurant
 
-![Lightspeed Restaurant kassasysteem op iPad met pinapparaat — menukaart en bestelscherm in de Nederlandse interface](/images/blog/beste-kassasysteem-horeca/lightspeed-ipad-terminal.webp)
-
 Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklanten, en dat is niet voor niets. Het draait op iPads, is snel opgezet, en de bediening snapt het binnen een uur. Voor restaurants die ook bezorgplatforms gebruiken, is de integratie met Thuisbezorgd en Uber Eats een grote plus. Ik heb het zien werken bij alles van een lunchcafe tot een keten met zes vestigingen. Op Trustpilot scoort Lightspeed een 4.2/5 met ruim 2.400 reviews — de meeste gebruikers zijn positief over het gebruiksgemak, de kritiek gaat vooral over de prijs bij opschaling.
 
 **Voor wie is Lightspeed Restaurant de ideale keuze?** Een klant van mij runt een Italiaans restaurant met 60 couverts. Tien tafels, vier medewerkers in de bediening, een drukke vrijdagavond. Vóór Lightspeed verloren ze bestellingen omdat de ober het op papier noteerde en dan vergat door te geven aan de keuken. Nu tikken ze de bestelling in op de iPad, de printer in de keuken ratelt direct. Fouten: nagenoeg nul. Omzet per tafel gestegen omdat de bediening sneller doorkan. Dát is wat Lightspeed doet.
@@ -135,8 +133,6 @@ Twijfel je specifiek tussen Lightspeed en een goedkoper alternatief? Lees mijn [
 ---
 
 ## 2. Untill
-
-![Untill kassasysteem — POS terminal en dashboard interface](/images/blog/beste-kassasysteem-horeca/untill-prime-pos.jpg)
 
 Untill is het werkpaard van de Nederlandse horeca. Ik raad het aan bij grotere zaken waar het systeem de hele avond foutloos moet draaien, ook als het internet even hapert. De offline modus is een van de beste die ik ken. Bij een drukke brasserie die ik heb begeleid, was Untill het enige systeem dat aan alle eisen voldeed: robuust, uitgebreid en echt gebouwd voor de Nederlandse markt.
 
@@ -311,8 +307,6 @@ Ik raad Square NIET aan voor:
 ---
 
 ## 5. Zettle by PayPal
-
-![Zettle by PayPal compleet kassapakket — POS-scherm, kassalade, bonprinter en pinapparaat](/images/blog/beste-kassasysteem-horeca/zettle-pos-storekit.png)
 
 Zettle is de ultieme mobiele oplossing voor foodtrucks, pop-ups en kleine cafes. Ik heb het geadviseerd aan een foodtruck-eigenaar die elke week op een andere locatie stond: reader in de zak, telefoon erbij, klaar. De software is gratis, je betaalt alleen per transactie. Het mist horecaspecifieke functies als tafelmanagement, maar voor wie dat niet nodig heeft, is het de eenvoudigste start. Op Trustpilot scoort Zettle een 3.3/5 (5.500+ reviews) — de meningen zijn verdeeld. Fans waarderen de eenvoud, kritiek gaat over de klantenservice bij problemen.
 

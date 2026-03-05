@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#f8fafc"/><stop offset="100%" stop-color="#ffffff"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#2563eb"/><stop offset="100%" stop-color="#3b82f6"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" rx="12"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#2563eb"/>
+  <text x="600" y="55" text-anchor="middle" font-size="26" font-weight="700" fill="#0f2439">Prijsvergelijking CRM software 2026</text>
+  <text x="600" y="82" text-anchor="middle" font-size="15" fill="#64748b">Startprijs per gebruiker per maand</text>
+
+  <!-- HubSpot CRM Gratis -->
+  <text x="220" y="145" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">HubSpot CRM</text>
+  <rect x="240" y="127" width="8" height="28" rx="4" fill="#10b981"/>
+  <text x="260" y="147" font-size="15" font-weight="600" fill="#10b981">Gratis</text>
+
+  <!-- Monday CRM €12 -->
+  <text x="220" y="205" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Monday CRM</text>
+  <rect x="240" y="187" width="180" height="28" rx="4" fill="url(#bar)"/>
+  <text x="430" y="207" font-size="15" font-weight="600" fill="#2563eb"> €12,00</text>
+
+  <!-- Pipedrive ~€14 -->
+  <text x="220" y="265" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Pipedrive</text>
+  <rect x="240" y="247" width="210" height="28" rx="4" fill="url(#bar)"/>
+  <text x="460" y="267" font-size="15" font-weight="600" fill="#2563eb"> ~€14,00</text>
+
+  <!-- Salesforce €25 -->
+  <text x="220" y="325" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Salesforce</text>
+  <rect x="240" y="307" width="375" height="28" rx="4" fill="url(#bar)"/>
+  <text x="625" y="327" font-size="15" font-weight="600" fill="#2563eb"> €25,00</text>
+
+  <!-- Gripp €29 -->
+  <text x="220" y="385" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Gripp</text>
+  <rect x="240" y="367" width="435" height="28" rx="4" fill="url(#bar)"/>
+  <text x="685" y="387" font-size="15" font-weight="600" fill="#2563eb"> €29,00</text>
+
+  <!-- Exact Online €48 -->
+  <text x="220" y="445" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Exact Online</text>
+  <rect x="240" y="427" width="660" height="28" rx="4" fill="#ef4444" opacity="0.85"/>
+  <text x="910" y="447" font-size="15" font-weight="600" fill="#dc2626"> €48,00</text>
+
+  <!-- Teamleader op aanvraag -->
+  <text x="220" y="505" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Teamleader</text>
+  <rect x="240" y="487" width="120" height="28" rx="4" fill="#94a3b8" opacity="0.4"/>
+  <text x="370" y="507" font-size="15" font-weight="500" fill="#64748b">op aanvraag</text>
+
+  <text x="600" y="590" text-anchor="middle" font-size="13" fill="#94a3b8">Prijzen gecheckt februari 2026 | bedrijfssoftwaregids.nl</text>
+</svg>
