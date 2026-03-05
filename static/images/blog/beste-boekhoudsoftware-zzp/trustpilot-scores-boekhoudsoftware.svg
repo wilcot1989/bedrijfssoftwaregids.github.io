@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg2)" rx="12"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#0f2439"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" font-size="26" font-weight="700" fill="#0f2439">Trustpilot scores boekhoudprogramma 2026</text>
+  <text x="600" y="82" text-anchor="middle" font-size="15" fill="#64748b">Gebruikersbeoordelingen van alle 6 pakketten</text>
+
+  <!-- Star function: 5 stars per row, filled based on rating -->
+  <!-- Row 1: Jortt 4.7/5 (185 reviews) -->
+  <text x="220" y="145" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Jortt</text>
+  <text x="240" y="145" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;&#9733;</text>
+  <text x="368" y="145" font-size="28" fill="#e2e8f0">&#9733;</text>
+  <text x="420" y="145" font-size="20" font-weight="700" fill="#0f2439">4.7</text>
+  <text x="455" y="145" font-size="14" fill="#64748b">/5</text>
+  <text x="490" y="145" font-size="14" fill="#94a3b8">(185 reviews)</text>
+  <rect x="240" y="155" width="660" height="6" rx="3" fill="#e2e8f0"/>
+  <rect x="240" y="155" width="620" height="6" rx="3" fill="#10b981"/>
+
+  <!-- Row 2: e-Boekhouden.nl 4.6/5 (1.857 reviews) -->
+  <text x="220" y="215" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">e-Boekhouden.nl</text>
+  <text x="240" y="215" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;&#9733;</text>
+  <text x="368" y="215" font-size="28" fill="#e2e8f0">&#9733;</text>
+  <text x="420" y="215" font-size="20" font-weight="700" fill="#0f2439">4.6</text>
+  <text x="455" y="215" font-size="14" fill="#64748b">/5</text>
+  <text x="490" y="215" font-size="14" fill="#94a3b8">(1.857 reviews)</text>
+  <rect x="240" y="225" width="660" height="6" rx="3" fill="#e2e8f0"/>
+  <rect x="240" y="225" width="607" height="6" rx="3" fill="#10b981"/>
+
+  <!-- Row 3: InformerOnline 4.3/5 (113 reviews) -->
+  <text x="220" y="285" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">InformerOnline</text>
+  <text x="240" y="285" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;&#9733;</text>
+  <text x="368" y="285" font-size="28" fill="#e2e8f0">&#9733;</text>
+  <text x="420" y="285" font-size="20" font-weight="700" fill="#0f2439">4.3</text>
+  <text x="455" y="285" font-size="14" fill="#64748b">/5</text>
+  <text x="490" y="285" font-size="14" fill="#94a3b8">(113 reviews)</text>
+  <rect x="240" y="295" width="660" height="6" rx="3" fill="#e2e8f0"/>
+  <rect x="240" y="295" width="567" height="6" rx="3" fill="#f59e0b"/>
+
+  <!-- Row 4: FreshBooks 3.9/5 (984 reviews) -->
+  <text x="220" y="355" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">FreshBooks</text>
+  <text x="240" y="355" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;</text>
+  <text x="336" y="355" font-size="28" fill="#e2e8f0">&#9733;&#9733;</text>
+  <text x="420" y="355" font-size="20" font-weight="700" fill="#0f2439">3.9</text>
+  <text x="455" y="355" font-size="14" fill="#64748b">/5</text>
+  <text x="490" y="355" font-size="14" fill="#94a3b8">(984 reviews)</text>
+  <rect x="240" y="365" width="660" height="6" rx="3" fill="#e2e8f0"/>
+  <rect x="240" y="365" width="515" height="6" rx="3" fill="#f59e0b"/>
+
+  <!-- Row 5: Moneybird 3.5/5 (180 reviews) -->
+  <text x="220" y="425" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Moneybird</text>
+  <text x="240" y="425" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;</text>
+  <text x="336" y="425" font-size="28" fill="#e2e8f0">&#9733;&#9733;</text>
+  <text x="420" y="425" font-size="20" font-weight="700" fill="#0f2439">3.5</text>
+  <text x="455" y="425" font-size="14" fill="#64748b">/5</text>
+  <text x="490" y="425" font-size="14" fill="#94a3b8">(180 reviews)</text>
+  <rect x="240" y="435" width="660" height="6" rx="3" fill="#e2e8f0"/>
+  <rect x="240" y="435" width="462" height="6" rx="3" fill="#f59e0b"/>
+
+  <!-- Row 6: Exact Online 2.6/5 (641 reviews) -->
+  <text x="220" y="495" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Exact Online</text>
+  <text x="240" y="495" font-size="28" fill="#f59e0b">&#9733;&#9733;</text>
+  <text x="304" y="495" font-size="28" fill="#e2e8f0">&#9733;&#9733;&#9733;</text>
+  <text x="420" y="495" font-size="20" font-weight="700" fill="#0f2439">2.6</text>
+  <text x="455" y="495" font-size="14" fill="#64748b">/5</text>
+  <text x="490" y="495" font-size="14" fill="#94a3b8">(641 reviews)</text>
+  <rect x="240" y="505" width="660" height="6" rx="3" fill="#e2e8f0"/>
+  <rect x="240" y="505" width="343" height="6" rx="3" fill="#ef4444"/>
+
+  <!-- Footer -->
+  <text x="600" y="590" text-anchor="middle" font-size="13" fill="#94a3b8">Trustpilot scores gecheckt februari 2026 | bedrijfssoftwaregids.nl</text>
+</svg>

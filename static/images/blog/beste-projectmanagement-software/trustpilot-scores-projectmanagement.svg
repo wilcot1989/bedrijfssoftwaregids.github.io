@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#f8fafc"/><stop offset="100%" stop-color="#ffffff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg2)" rx="12"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#0f2439"/>
+  <text x="600" y="55" text-anchor="middle" font-size="26" font-weight="700" fill="#0f2439">Gebruikersscores projectmanagement software 2026</text>
+  <text x="600" y="82" text-anchor="middle" font-size="15" fill="#64748b">Trustpilot scores (MS Planner: G2 score)</text>
+
+  <!-- MS Planner 4.2/G2 -->
+  <text x="200" y="145" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">MS Planner</text>
+  <text x="220" y="145" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;&#9733;</text><text x="348" y="145" font-size="28" fill="#e2e8f0">&#9733;</text>
+  <text x="400" y="145" font-size="20" font-weight="700" fill="#0f2439">4.2</text><text x="435" y="145" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="145" font-size="14" fill="#94a3b8">(G2, 1.500+ reviews)</text>
+  <rect x="220" y="155" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="155" width="554" height="6" rx="3" fill="#10b981"/>
+
+  <!-- ClickUp 3.4 -->
+  <text x="200" y="210" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">ClickUp</text>
+  <text x="220" y="210" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;</text><text x="316" y="210" font-size="28" fill="#e2e8f0">&#9733;&#9733;</text>
+  <text x="400" y="210" font-size="20" font-weight="700" fill="#0f2439">3.4</text><text x="435" y="210" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="210" font-size="14" fill="#94a3b8">(465 reviews)</text>
+  <rect x="220" y="220" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="220" width="449" height="6" rx="3" fill="#f59e0b"/>
+
+  <!-- Basecamp 3.2 -->
+  <text x="200" y="275" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Basecamp</text>
+  <text x="220" y="275" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;</text><text x="316" y="275" font-size="28" fill="#e2e8f0">&#9733;&#9733;</text>
+  <text x="400" y="275" font-size="20" font-weight="700" fill="#0f2439">3.2</text><text x="435" y="275" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="275" font-size="14" fill="#94a3b8">(22 reviews)</text>
+  <rect x="220" y="285" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="285" width="422" height="6" rx="3" fill="#f59e0b"/>
+
+  <!-- Monday.com 3.1 -->
+  <text x="200" y="340" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Monday.com</text>
+  <text x="220" y="340" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;</text><text x="316" y="340" font-size="28" fill="#e2e8f0">&#9733;&#9733;</text>
+  <text x="400" y="340" font-size="20" font-weight="700" fill="#0f2439">3.1</text><text x="435" y="340" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="340" font-size="14" fill="#94a3b8">(3.350+ reviews)</text>
+  <rect x="220" y="350" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="350" width="409" height="6" rx="3" fill="#f59e0b"/>
+
+  <!-- Trello 2.7 -->
+  <text x="200" y="405" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Trello</text>
+  <text x="220" y="405" font-size="28" fill="#f59e0b">&#9733;&#9733;</text><text x="284" y="405" font-size="28" fill="#e2e8f0">&#9733;&#9733;&#9733;</text>
+  <text x="400" y="405" font-size="20" font-weight="700" fill="#0f2439">2.7</text><text x="435" y="405" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="405" font-size="14" fill="#94a3b8">(209 reviews)</text>
+  <rect x="220" y="415" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="415" width="356" height="6" rx="3" fill="#ef4444"/>
+
+  <!-- Notion 2.5 -->
+  <text x="200" y="470" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Notion</text>
+  <text x="220" y="470" font-size="28" fill="#f59e0b">&#9733;&#9733;</text><text x="284" y="470" font-size="28" fill="#e2e8f0">&#9733;&#9733;&#9733;</text>
+  <text x="400" y="470" font-size="20" font-weight="700" fill="#0f2439">2.5</text><text x="435" y="470" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="470" font-size="14" fill="#94a3b8">(381 reviews)</text>
+  <rect x="220" y="480" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="480" width="330" height="6" rx="3" fill="#ef4444"/>
+
+  <!-- Asana 1.5 -->
+  <text x="200" y="535" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Asana</text>
+  <text x="220" y="535" font-size="28" fill="#f59e0b">&#9733;</text><text x="252" y="535" font-size="28" fill="#e2e8f0">&#9733;&#9733;&#9733;&#9733;</text>
+  <text x="400" y="535" font-size="20" font-weight="700" fill="#0f2439">1.5</text><text x="435" y="535" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="535" font-size="14" fill="#94a3b8">(284 reviews)</text>
+  <rect x="220" y="545" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="545" width="198" height="6" rx="3" fill="#ef4444"/>
+
+  <text x="600" y="590" text-anchor="middle" font-size="13" fill="#94a3b8">Scores gecheckt februari 2026 | bedrijfssoftwaregids.nl</text>
+</svg>

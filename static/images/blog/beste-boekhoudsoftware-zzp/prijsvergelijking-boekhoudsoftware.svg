@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)" rx="12"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#2563eb"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" font-size="26" font-weight="700" fill="#0f2439">Prijsvergelijking boekhoudprogramma ZZP 2026</text>
+  <text x="600" y="82" text-anchor="middle" font-size="15" fill="#64748b">Goedkoopste betaalde plan per maand (incl. BTW-aangifte en bankkoppeling)</text>
+
+  <!-- Chart area -->
+  <!-- Y-axis labels + bars -->
+  <!-- 1. Jortt Gratis -->
+  <text x="220" y="140" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Jortt (Gratis)</text>
+  <rect x="240" y="122" width="8" height="28" rx="4" fill="#10b981"/>
+  <text x="260" y="142" font-size="15" font-weight="600" fill="#10b981">Gratis</text>
+
+  <!-- 2. e-Boekhouden.nl -->
+  <text x="220" y="195" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">e-Boekhouden.nl</text>
+  <rect x="240" y="177" width="148" height="28" rx="4" fill="url(#bar)"/>
+  <text x="398" y="197" font-size="15" font-weight="600" fill="#2563eb"> €9,95</text>
+
+  <!-- 3. Moneybird -->
+  <text x="220" y="250" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Moneybird</text>
+  <rect x="240" y="232" width="222" height="28" rx="4" fill="url(#bar)"/>
+  <text x="472" y="252" font-size="15" font-weight="600" fill="#2563eb"> €15,00</text>
+
+  <!-- 4. InformerOnline -->
+  <text x="220" y="305" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">InformerOnline</text>
+  <rect x="240" y="287" width="252" height="28" rx="4" fill="url(#bar)"/>
+  <text x="502" y="307" font-size="15" font-weight="600" fill="#2563eb"> €17,00</text>
+
+  <!-- 5. FreshBooks -->
+  <text x="220" y="360" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">FreshBooks</text>
+  <rect x="240" y="342" width="259" height="28" rx="4" fill="url(#bar)"/>
+  <text x="509" y="362" font-size="15" font-weight="600" fill="#2563eb"> ~€17,50</text>
+
+  <!-- 6. Jortt ZZP (betaald) -->
+  <text x="220" y="415" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Jortt ZZP</text>
+  <rect x="240" y="397" width="296" height="28" rx="4" fill="url(#bar)"/>
+  <text x="546" y="417" font-size="15" font-weight="600" fill="#2563eb"> €19,95</text>
+
+  <!-- 7. Moneybird 50 -->
+  <text x="220" y="470" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Moneybird (50)</text>
+  <rect x="240" y="452" width="415" height="28" rx="4" fill="url(#bar)"/>
+  <text x="665" y="472" font-size="15" font-weight="600" fill="#2563eb"> €28,00</text>
+
+  <!-- 8. Exact Online -->
+  <text x="220" y="525" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Exact Online</text>
+  <rect x="240" y="507" width="712" height="28" rx="4" fill="#ef4444" opacity="0.85"/>
+  <text x="962" y="527" font-size="15" font-weight="600" fill="#dc2626"> €48,00</text>
+
+  <!-- Footer -->
+  <text x="600" y="590" text-anchor="middle" font-size="13" fill="#94a3b8">Prijzen gecheckt februari 2026 | bedrijfssoftwaregids.nl</text>
+</svg>

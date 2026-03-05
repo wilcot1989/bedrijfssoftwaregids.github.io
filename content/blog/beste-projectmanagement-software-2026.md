@@ -139,8 +139,6 @@ Benieuwd hoe Monday.com zich verhoudt tot Asana? Beide tools zijn uitstekend, ma
 
 ## 2. Asana — de beste keuze voor gestructureerd projectbeheer
 
-![Asana projectweergave met tijdlijn, taken en teamoverzicht — screenshot van de Asana interface](/images/blog/beste-projectmanagement-software/asana-project-view.png)
-
 Asana is de tool die ik adviseer als een team zegt: "We willen structuur, niet nog meer flexibiliteit." Waar Monday.com je alle vrijheid geeft, dwingt Asana je om georganiseerd te werken -- en dat is voor veel teams precies wat nodig is. Ik heb het geadviseerd bij een consultancybureau met 25 man dat complexe projecten met veel afhankelijkheden moest managen. De Timeline-weergave maakte direct inzichtelijk waar de knelpunten zaten.
 
 Trustpilot: 1.5/5 (284 reviews). Die score schrikt af, maar context is belangrijk: het zijn er maar 284, en boze klanten laten vaker een review achter dan tevreden gebruikers. Op G2 scoort Asana een 4.4/5 met 12.800+ reviews, wat een realistischer beeld geeft. De Trustpilot-klachten gaan vooral over prijsverhogingen en het verwijderen van functies uit het gratis plan.
