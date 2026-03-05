@@ -68,7 +68,7 @@ PandaDoc is de tool die ik aanbeveel als klanten het maximale uit hun offertes w
 **✅ Voordelen:** Meest complete functionaliteit, uitstekende UX, sterke integraties, goede analytics
 **❌ Nadelen:** Kan duur worden bij veel gebruikers, sommige templates zijn Engelstalig
 
-<a href="https://www.pandadoc.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pandadoc.com →</a>
+<a href="https://pandadoc.partnerlinks.io/rci4tsq4td8g" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pandadoc.com →</a>
 
 ## 2. Offorte — Beste Nederlandse offerte-tool
 

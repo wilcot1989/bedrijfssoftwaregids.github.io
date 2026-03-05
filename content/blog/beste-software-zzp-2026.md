@@ -104,7 +104,7 @@ Niets zo onprofessioneel als een offerte in een Word-document dat je als bijlage
 
 **Mijn advies:** als je al Moneybird of Rompslomp gebruikt, heb je geen apart offertepakket nodig — het zit er in. Meer opties: [Beste Offertesoftware 2026](/blog/beste-offerte-software-2026/).
 
-<a href="https://www.pandadoc.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pandadoc.com →</a>
+<a href="https://pandadoc.partnerlinks.io/rci4tsq4td8g" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pandadoc.com →</a>
 
 
 ## 5. Projectmanagement — houd overzicht

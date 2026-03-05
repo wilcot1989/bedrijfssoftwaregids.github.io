@@ -108,7 +108,7 @@ PandaDoc is mijn budgettip en tegelijk het meest veelzijdige platform in dit ove
 **✅ Voordelen:** Goedkoopst, beste offerte-naar-contract flow, onbeperkt e-sign
 **❌ Nadelen:** Minder geavanceerd contractbeheer, geen AI-extractie
 
-<a href="https://www.pandadoc.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pandadoc.com →</a>
+<a href="https://pandadoc.partnerlinks.io/rci4tsq4td8g" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pandadoc.com →</a>
 
 ## 4. DocuSign CLM — Beste voor enterprise
 
