@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#f8fafc"/><stop offset="100%" stop-color="#ffffff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg2)" rx="12"/>
+  <rect x="0" y="0" width="1200" height="4" fill="#0f2439"/>
+  <text x="600" y="55" text-anchor="middle" font-size="26" font-weight="700" fill="#0f2439">Trustpilot scores facturatie software 2026</text>
+  <text x="600" y="82" text-anchor="middle" font-size="15" fill="#64748b">Gebruikersbeoordelingen van alle 6 systemen</text>
+
+  <!-- Jortt 4.7 -->
+  <text x="200" y="140" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Jortt</text>
+  <text x="220" y="140" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;&#9733;</text><text x="348" y="140" font-size="28" fill="#e2e8f0">&#9733;</text>
+  <text x="400" y="140" font-size="20" font-weight="700" fill="#0f2439">4.7</text><text x="435" y="140" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="140" font-size="14" fill="#94a3b8">(185 reviews)</text>
+  <rect x="220" y="150" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="150" width="620" height="6" rx="3" fill="#10b981"/>
+
+  <!-- e-Boekhouden 4.6 -->
+  <text x="200" y="210" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">e-Boekhouden</text>
+  <text x="220" y="210" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;&#9733;</text><text x="348" y="210" font-size="28" fill="#e2e8f0">&#9733;</text>
+  <text x="400" y="210" font-size="20" font-weight="700" fill="#0f2439">4.6</text><text x="435" y="210" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="210" font-size="14" fill="#94a3b8">(1.878 reviews)</text>
+  <rect x="220" y="220" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="220" width="607" height="6" rx="3" fill="#10b981"/>
+
+  <!-- Informer 4.3 -->
+  <text x="200" y="280" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Informer</text>
+  <text x="220" y="280" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;&#9733;</text><text x="348" y="280" font-size="28" fill="#e2e8f0">&#9733;</text>
+  <text x="400" y="280" font-size="20" font-weight="700" fill="#0f2439">4.3</text><text x="435" y="280" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="280" font-size="14" fill="#94a3b8">(113 reviews)</text>
+  <rect x="220" y="290" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="290" width="567" height="6" rx="3" fill="#10b981"/>
+
+  <!-- Moneybird 3.5 -->
+  <text x="200" y="350" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Moneybird</text>
+  <text x="220" y="350" font-size="28" fill="#f59e0b">&#9733;&#9733;&#9733;</text><text x="316" y="350" font-size="28" fill="#e2e8f0">&#9733;&#9733;</text>
+  <text x="400" y="350" font-size="20" font-weight="700" fill="#0f2439">3.5</text><text x="435" y="350" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="350" font-size="14" fill="#94a3b8">(181 reviews)</text>
+  <rect x="220" y="360" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="360" width="462" height="6" rx="3" fill="#f59e0b"/>
+
+  <!-- Exact Online 2.7 -->
+  <text x="200" y="420" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Exact Online</text>
+  <text x="220" y="420" font-size="28" fill="#f59e0b">&#9733;&#9733;</text><text x="284" y="420" font-size="28" fill="#e2e8f0">&#9733;&#9733;&#9733;</text>
+  <text x="400" y="420" font-size="20" font-weight="700" fill="#0f2439">2.7</text><text x="435" y="420" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="420" font-size="14" fill="#94a3b8">(644 reviews)</text>
+  <rect x="220" y="430" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="430" width="356" height="6" rx="3" fill="#ef4444"/>
+
+  <!-- Rompslomp 2.0 -->
+  <text x="200" y="490" text-anchor="end" font-size="17" font-weight="600" fill="#1e293b">Rompslomp</text>
+  <text x="220" y="490" font-size="28" fill="#f59e0b">&#9733;&#9733;</text><text x="284" y="490" font-size="28" fill="#e2e8f0">&#9733;&#9733;&#9733;</text>
+  <text x="400" y="490" font-size="20" font-weight="700" fill="#0f2439">2.0</text><text x="435" y="490" font-size="14" fill="#64748b">/5</text>
+  <text x="470" y="490" font-size="14" fill="#94a3b8">(46 reviews)</text>
+  <rect x="220" y="500" width="660" height="6" rx="3" fill="#e2e8f0"/><rect x="220" y="500" width="264" height="6" rx="3" fill="#ef4444"/>
+
+  <text x="600" y="570" text-anchor="middle" font-size="13" fill="#94a3b8">Trustpilot scores gecheckt maart 2026 | bedrijfssoftwaregids.nl</text>
+</svg>
