@@ -1,7 +1,7 @@
 ---
 title: "Beste Helpdesk Software 2026: Top 5"
 date: 2026-03-20
-lastmod: 2026-03-20
+lastmod: 2026-03-06T10:00:00+01:00
 description: "De beste helpdesk software van 2026 vergeleken. Zendesk, Freshdesk, HubSpot Service Hub, Intercom en Trengo op prijs, functies en gebruiksgemak."
 categories: ["crm"]
 tags:
@@ -36,17 +36,19 @@ Gebruik je al een CRM? Bekijk dan hoe helpdesk software integreert met de [beste
 
 ## Snelle vergelijking
 
-| Tool | Prijs vanaf | Gratis plan | Kanalen | Beste voor |
-|------|-----------|------------|---------|------------|
-| **Zendesk** | €55/agent/mnd | ❌ | Alle | Grote teams, enterprise |
-| **Freshdesk** | Gratis | ✅ (2 agents) | Alle | MKB, starters |
-| **HubSpot Service Hub** | €45/gebruiker/mnd | ✅ (beperkt) | E-mail, chat, telefoon | HubSpot-gebruikers |
-| **Intercom** | €74/seat/mnd | ❌ | Chat, e-mail | SaaS, proactieve support |
-| **Trengo** | €19/agent/mnd | ❌ | Alle + WhatsApp | NL bedrijven, WhatsApp |
+| Tool | Prijs vanaf | Gratis plan | Kanalen | Trustpilot | Beste voor |
+|------|-----------|------------|---------|-----------|------------|
+| **Zendesk** | €55/agent/mnd | ❌ | Alle | 1.7/5 | Grote teams, enterprise |
+| **Freshdesk** | Gratis | ✅ (2 agents) | Alle | 1.6/5 | MKB, starters |
+| **HubSpot Service Hub** | €45/gebruiker/mnd | ✅ (beperkt) | E-mail, chat, telefoon | 1.8/5 | HubSpot-gebruikers |
+| **Intercom** | €74/seat/mnd | ❌ | Chat, e-mail | 3.4/5 | SaaS, proactieve support |
+| **Trengo** | €19/agent/mnd | ❌ | Alle + WhatsApp | 4.2/5 | NL bedrijven, WhatsApp |
 
 ## 1. Zendesk — Beste voor grote teams
 
 Zendesk is het platform waar ik naar verwijs als een bedrijf zegt: "We zijn uit onze helpdesk gegroeid." Voor teams met 10+ agents die complexe workflows, SLA's en omnichannel support nodig hebben, is het simpelweg de krachtigste optie. Het is niet goedkoop en niet simpel, maar als je het eenmaal goed hebt ingericht, is het een machine. Wil je begrijpen hoe CRM-integraties werken voordat je kiest? Lees mijn artikel over [CRM-integraties uitgelegd](/blog/crm-integraties-uitgelegd/).
+
+**Trustpilot: 1.7/5 (693 reviews)** — Een van de laagste scores in deze vergelijking. Terugkerende klachten gaan over onverwachte prijsverhogingen bij contractverlenging en een klantenservice die moeilijk bereikbaar is -- ironisch voor een klantenserviceplatform. De functionaliteit scoort hoog; het bedrijfsbeleid een stuk minder.
 
 ### Belangrijkste functies
 - **Omnichannel ticketing** — E-mail, chat, telefoon, social media, WhatsApp in één inbox
@@ -77,6 +79,8 @@ Zendesk is de beste keuze voor teams met **10+ agents** die complexe workflows n
 
 Freshdesk is het eerste wat ik aanbeveel aan MKB'ers die van een gedeelde mailbox willen overstappen naar echte ticketing. Het gratis plan voor 2 agents is geen uitgeklede demo maar echt bruikbaar, en ik heb teams gezien die binnen een uur hun eerste ticket afhandelden. Het is Zendesk-light, maar dan voor een fractie van de prijs.
 
+**Trustpilot: 1.6/5 (111 reviews)** — De laagste score in dit overzicht, al zijn het relatief weinig reviews. De klachten richten zich vooral op trage of onbereikbare support van Freshworks zelf bij technische problemen. De tool werkt voor dagelijkse taken goed; problemen ontstaan pas als je serieus hulp nodig hebt.
+
 ### Belangrijkste functies
 - **Ticketing** — E-mail, telefoon, chat, social media, WhatsApp
 - **Automatisering** — Ticket routing, SLA-regels, canned responses
@@ -105,6 +109,8 @@ Freshdesk is perfect voor **kleine teams (1-15 agents)** die snel aan de slag wi
 ## 3. HubSpot Service Hub — Beste voor HubSpot-gebruikers
 
 HubSpot Service Hub is een no-brainer als je al in het HubSpot-ecosysteem zit. Ik heb het geadviseerd bij een B2B-bedrijf dat al HubSpot CRM en Marketing Hub gebruikte. Het 360-graden klantbeeld -- van eerste websitebezoek tot supportticket -- was precies wat ze zochten. Als standalone product is het prijzig, maar binnen HubSpot is de meerwaarde enorm.
+
+**Trustpilot: 1.8/5 (1.054 reviews)** — Vervelende score voor een product dat veel gebruikers inhoudelijk waarderen. De voornaamste klacht is de verplichte jaarcontracten: opzeggen is moeilijk en prijzen stijgen bij verlenging. Als je HubSpot overweegt, lees dan het contract goed door voordat je tekent.
 
 ### Belangrijkste functies
 - **Gespreksinbox** — Gedeelde inbox voor e-mail en live chat
@@ -137,6 +143,8 @@ Lees meer over HubSpot in onze [HubSpot vs Pipedrive vergelijking](/blog/hubspot
 
 Intercom is de tool die ik aanbeveel aan SaaS-bedrijven die niet willen wachten tot klanten contact opnemen. Het draait om proactieve communicatie: in-app berichten, product tours, chatbots die vragen opvangen voordat ze een ticket worden. De Fin AI-chatbot is de beste die ik in de praktijk heb gezien -- hij lost daadwerkelijk vragen op, niet alleen maar doorverwijzen. Voor B2B-bedrijven is proactieve klantenservice ook nauw verbonden met leadgeneratie -- lees mijn artikel over [leadgeneratie tools voor B2B](/blog/leadgeneratie-tools-b2b-nederland/).
 
+**Trustpilot: 3.4/5 (6 reviews)** — Met slechts 6 reviews is dit geen betrouwbaar beeld. Ik zou hier geen conclusies aan verbinden: te weinig data om iets zinnigs over te zeggen. G2 en Capterra geven een realistischer beeld (beide rond 4.4/5 op duizenden reviews).
+
 ### Belangrijkste functies
 - **Messenger** — Moderne chat-widget voor website en in-app
 - **Fin AI Chatbot** — AI-agent die vragen beantwoordt op basis van je kennisbank
@@ -166,6 +174,8 @@ Intercom is de beste keuze voor **SaaS-bedrijven** die in-app support willen bie
 ## 5. Trengo — Beste voor Nederlandse bedrijven
 
 Trengo is de tool die ik aanbeveel aan Nederlandse bedrijven waar WhatsApp het belangrijkste klantkanaal is -- en dat zijn er meer dan je denkt. De native WhatsApp Business API werkt zonder tussenpartij, en je hebt WhatsApp, e-mail, Instagram en Facebook in een inbox. Nederlands bedrijf, Nederlandse support, en een prijs die eerlijk is voor wat je krijgt. Wil je ook zien hoe klantretentie zich verhoudt tot de klantenservicesoftware die je kiest? Lees mijn artikel over [klantretentie meten met CRM-software](/blog/klantretentie-meten-crm-software/).
+
+**Trustpilot: 4.2/5 (207 reviews)** — De beste score in dit overzicht, en verdiend. Gebruikers noemen de Nederlandse klantenservice als groot pluspunt: snel, behulpzaam, en je hoeft geen Engelstalig support-ticket in te sturen. Voor een NL-gerichte tool is dat precies wat je wil zien.
 
 ### Belangrijkste functies
 - **WhatsApp Business API** — Native integratie, geen derde partij nodig

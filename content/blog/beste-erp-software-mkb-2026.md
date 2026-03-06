@@ -1,7 +1,7 @@
 ---
 title: "Beste ERP-Systeem MKB 2026: Top 5"
 date: 2026-03-15
-lastmod: 2026-03-15
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Vergelijking van de 5 beste ERP-systemen voor het Nederlandse MKB in 2026. Exact Online, Afas, SAP Business One, Dynamics 365 en Odoo vergeleken op prijs en functies."
 categories: ["boekhouding"]
 tags:
@@ -35,17 +35,19 @@ Zoek je nog iets eenvoudigers? Bekijk dan eerst mijn gids over de [beste boekhou
 
 ## Snelle vergelijking: Top 5 ERP-Systemen
 
-| ERP Systeem | Startprijs | Beste voor | Cloud | Implementatietijd |
-|-------------|-----------|------------|-------|-------------------|
-| **Exact Online** | Vanaf €48/mnd | MKB 1-50 medewerkers | ✅ | 1-3 maanden |
-| **Afas Software** | Vanaf €250/mnd | MKB 20-500 medewerkers | ✅ | 2-4 maanden |
-| **SAP Business One** | Vanaf €150/gebr/mnd | MKB 10-250 medewerkers | ✅/On-premise | 3-9 maanden |
-| **Microsoft Dynamics 365 BC** | Vanaf €60/gebr/mnd | MKB 10-500 medewerkers | ✅ | 3-6 maanden |
-| **Odoo** | Gratis (Community) | MKB 1-200 medewerkers | ✅/On-premise | 1-6 maanden |
+| ERP Systeem | Startprijs | Beste voor | Cloud | Implementatietijd | Trustpilot |
+|-------------|-----------|------------|-------|-------------------|------------|
+| **Exact Online** | Vanaf €48/mnd | MKB 1-50 medewerkers | ✅ | 1-3 maanden | 2.6/5 (641) |
+| **Afas Software** | Vanaf €250/mnd | MKB 20-500 medewerkers | ✅ | 2-4 maanden | 3.3/5 (152) |
+| **SAP Business One** | Vanaf €150/gebr/mnd | MKB 10-250 medewerkers | ✅/On-premise | 3-9 maanden | Geen profiel |
+| **Microsoft Dynamics 365 BC** | Vanaf €60/gebr/mnd | MKB 10-500 medewerkers | ✅ | 3-6 maanden | Geen profiel |
+| **Odoo** | Gratis (Community) | MKB 1-200 medewerkers | ✅/On-premise | 1-6 maanden | 3.3/5 (1.031) |
 
 ## 1. Exact Online — Populairste ERP voor Nederlands MKB
 
 Als een klant me vraagt "waar moet ik beginnen?", is Exact Online in 9 van de 10 gevallen mijn antwoord. Niet omdat het de meest geavanceerde software is, maar omdat vrijwel elke accountant in Nederland ermee werkt. Voor recruitment van nieuw personeel voor je groeiende MKB, is ook de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) een nuttige aanvulling. Die afstemming met je boekhouder bespaart je op de lange termijn enorm veel gedoe. Met 675.000+ gebruikers is het ecosysteem ook het grootst: voor bijna elke koppeling bestaat een oplossing.
+
+**Trustpilot: 2.6/5 (641 reviews)** — Een lage score die ik eerlijk gezegd begrijp. De klachten gaan vrijwel altijd over stijgende prijzen en een klantenservice die traag reageert. Dat weerhoudt me er niet van het aan te bevelen — de software zelf werkt goed — maar weet waar je aan begint als je support nodig hebt.
 
 ### Functies
 
@@ -87,6 +89,8 @@ Lees onze uitgebreide [Exact Online Review 2026](/blog/exact-online-review-2026/
 
 Bij bedrijven met 30+ medewerkers waar HR en salaris de grootste pijnpunten zijn, adviseer ik vaak Afas. De salarismodule is ronduit de sterkste die ik in Nederland ken -- en dat alles zit in hetzelfde systeem als je boekhouding en CRM. Die integratie scheelt enorm als je niet meer wilt overtypen tussen losse tools. Het is niet goedkoop, maar je krijgt er veel voor terug. Zoek je ook specifieke HR-software? Lees dan ook mijn overzicht van de [beste HR software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/).
 
+**Trustpilot: 3.3/5 (152 reviews)** — Gemengd beeld. Kleinere bedrijven klagen vaker over de prijs en complexiteit; grotere organisaties (50+ medewerkers) zijn doorgaans positiever, met name over de HR- en salarismodule. De beperkte steekproef (152 reviews) maakt het lastig om harde conclusies te trekken.
+
 ### Functies
 
 - **Financieel** — Boekhouding, facturatie, budgettering en financiële rapportages
@@ -127,6 +131,8 @@ Afas hanteert een abonnementsmodel op basis van het aantal medewerkers en gekoze
 
 SAP Business One raad ik niet snel aan voor een bedrijf met 8 medewerkers, maar voor productie- en handelsbedrijven met serieuze voorraadstromen is het ijzersterk. Ik heb het ingezet bij een groothandel met drie magazijnen die real-time inzicht nodig had in voorraad en inkoop. De implementatie was intensief, maar het resultaat overtrof de verwachtingen. Dit is enterprise-kwaliteit in een MKB-jasje. Heb je specifiek behoefte aan voorraadbeheer? Lees dan ook mijn overzicht van de [beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/).
 
+**Trustpilot: Geen Trustpilot-profiel** — SAP als geheel is te groot en te enterprise om via Trustpilot beoordeeld te worden. Referenties vraag je het beste op via je SAP-partner of via G2 en Gartner Peer Insights, waar SAP Business One wel uitgebreid beoordeeld wordt.
+
 ### Functies
 
 - **Financieel Management** — Hoofdboek, crediteuren, debiteuren, budgettering, consolidatie
@@ -164,6 +170,8 @@ SAP Business One raad ik niet snel aan voor een bedrijf met 8 medewerkers, maar 
 
 Als je bedrijf al draait op Microsoft 365, Teams en Outlook, dan is Dynamics 365 Business Central een logische keuze. Ik heb het geadviseerd bij een adviesbureau van 40 man waar alles al via Microsoft liep. Als je ook een intranet wilt integreren met je ERP, lees dan het overzicht van de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/). De overstap was relatief soepel omdat het aansluit op wat ze al kenden. De Power BI-dashboards waren voor de directie de doorslaggevende factor.
 
+**Trustpilot: Geen Trustpilot-profiel** — Microsoft is te groot voor een zinvol Trustpilot-profiel per product. Voor ervaringen van andere MKB-gebruikers raad ik G2 en Microsoft's eigen AppSource-beoordelingen aan. Je Microsoft-partner kan je ook in contact brengen met referentieklanten.
+
 ### Functies
 
 - **Financieel Beheer** — Boekhouding, cashflowprognoses, consolidatie, intercompany
@@ -200,6 +208,8 @@ Als je bedrijf al draait op Microsoft 365, Teams en Outlook, dan is Dynamics 365
 ## 5. Odoo — Open-source ERP met Maximale Flexibiliteit
 
 Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een technisch team hebt dat niet bang is voor configuratie, krijg je hier het meeste ERP voor het minste geld. Voor het beheren van projecten en taken naast je ERP-processen, bekijk dan de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/). De Community-editie is gratis, en zelfs de betaalde cloud-versie kost een fractie van SAP of Dynamics. Ik heb het aangeraden bij een startup die maximale flexibiliteit wilde zonder vastgeketend te zitten aan dure licenties.
+
+**Trustpilot: 3.3/5 (1.031 reviews)** — De score ziet er op het eerste gezicht redelijk uit, maar de verdeling is opvallend: 46% vijf sterren tegenover 42% één ster. Dat polariserende patroon zie je vaker bij complexe software — wie het goed implementeert is enthousiast, wie erin vastloopt is ontevreden. De klachten gaan met name over support-reactietijden en onverwachte kosten bij upgrades.
 
 ### Functies
 

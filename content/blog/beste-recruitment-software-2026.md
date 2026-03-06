@@ -1,7 +1,7 @@
 ---
 title: "Beste ATS-Software Nederland 2026: Top 5"
 date: 2026-03-30
-lastmod: 2026-03-30
+lastmod: 2026-03-06T10:00:00+01:00
 description: "De beste recruitment software en ATS systemen van 2026 vergeleken. Recruitee, Homerun, Personio, Greenhouse en Bullhorn op prijs, functies en gebruiksgemak."
 categories: ["hr-software"]
 tags:
@@ -36,15 +36,17 @@ Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking
 
 ## Snelle vergelijking
 
-| ATS | Prijs vanaf | Vacatures | Kanalen | Nederlands | Beste voor |
-|-----|-----------|----------|---------|-----------|-----------|
-| **Recruitee** | ~€270/mnd | 5 | 20+ jobboards | ✅ | MKB, groei |
-| **Homerun** | €79/mnd | 1 | Indeed, LinkedIn | ✅ | Startups, design |
-| **Personio** | Op aanvraag | Onbeperkt | 20+ | ✅ | HR + recruitment |
-| **Greenhouse** | Op aanvraag | Onbeperkt | 1.000+ | ❌ | Enterprise, data-driven |
-| **Bullhorn** | Op aanvraag | Onbeperkt | LinkedIn, Indeed | ❌ | Uitzendbureaus |
+| ATS | Prijs vanaf | Vacatures | Kanalen | Nederlands | Trustpilot | Beste voor |
+|-----|-----------|----------|---------|-----------|-----------|-----------|
+| **Recruitee** | ~€270/mnd | 5 | 20+ jobboards | ✅ | 2.4/5 (77) | MKB, groei |
+| **Homerun** | €79/mnd | 1 | Indeed, LinkedIn | ✅ | — | Startups, design |
+| **Personio** | Op aanvraag | Onbeperkt | 20+ | ✅ | 4.0/5 (263) | HR + recruitment |
+| **Greenhouse** | Op aanvraag | Onbeperkt | 1.000+ | ❌ | — | Enterprise, data-driven |
+| **Bullhorn** | Op aanvraag | Onbeperkt | LinkedIn, Indeed | ❌ | — | Uitzendbureaus |
 
 ## 1. Recruitee — Beste voor MKB
+
+**Trustpilot: 2.4/5 (77 reviews)** — Een opvallend lage score die ik eerlijk wil benoemen. De meeste klachten dateren van na de overname door Tellent: gebruikers melden dat de support trager is geworden en dat sommige beloftes uit de salesfase niet worden nagekomen. Mijn eigen ervaring met klanten is positiever — maar het is een signaal om de SLA-afspraken goed vast te leggen bij je contract.
 
 Van alle ATS-systemen die ik heb ingericht voor klanten, grijp ik het vaakst naar Recruitee. Het is Nederlands, het werkt zoals je verwacht, en hiring managers hebben geen handleiding nodig om ermee aan de slag te gaan. Voor groeiende MKB-bedrijven de beste prijs-kwaliteitverhouding die ik ken. Wil je ook weten welke projectmanagement tools je kunt gebruiken na de werving? Lees de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/) — maar bekijk ook de [kosten calculator voor HR-software](/tools/hr-software/kosten-berekenen/) om je totale HR-investering door te rekenen. Voor grotere organisaties die ook hun voorraadbeheer willen integreren: lees de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
@@ -71,6 +73,8 @@ Van alle ATS-systemen die ik heb ingericht voor klanten, grijp ik het vaakst naa
 
 ## 2. Homerun — Beste budget optie
 
+**Geen Trustpilot-profiel beschikbaar** voor Homerun.
+
 Homerun adviseer ik aan startups en creatieve bedrijven die weinig budget hebben maar wél professioneel willen overkomen. De carrièrepagina's die je ermee bouwt zien er beter uit dan wat de meeste grote bedrijven hebben. Functioneel beperkter dan Recruitee, maar voor de prijs krijg je ontzettend veel.
 
 ### Belangrijkste functies
@@ -96,6 +100,8 @@ Homerun adviseer ik aan startups en creatieve bedrijven die weinig budget hebben
 
 ## 3. Personio — HR + Recruitment in één
 
+**Trustpilot: 4.0/5 (263 reviews)** — Solide score met een behoorlijk volume aan beoordelingen. Gebruikers waarderen de all-in-one aanpak: minder systemen, minder handmatige overdracht van data. Kritiekpunten gaan vooral over de implementatietijd en de prijs bij groei.
+
 Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces naadloos wilt laten aansluiten op de werving. Heb je nog maar net je eerste medewerker aangenomen? Lees dan ook [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor de wettelijke verplichtingen die meteen spelen. En als je ook verzuim wilt monitoren, bekijk dan mijn overzicht van [verzuimregistratie software conform de WVP](/blog/verzuimregistratie-wvp-software/). Wil je ook een goede CRM-tool combineren met je recruitment software? Lees mijn [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/).
 
 ### Belangrijkste functies
@@ -112,6 +118,8 @@ Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Pe
 
 ## 4. Greenhouse — Beste voor data-driven enterprise
 
+**Geen Trustpilot-profiel beschikbaar** voor Greenhouse.
+
 Greenhouse is het ATS waar ik naar verwijs zodra een bedrijf data-gedreven wil werven. Het wordt niet voor niets gebruikt door bedrijven als Airbnb en Stripe. De structured hiring-aanpak dwingt je om betere beslissingen te nemen, maar het is wel een serieuze investering en er is geen Nederlandse interface. Voor de aansturing van je ingehuurde medewerkers na werving is ook goede [projectmanagement software](/blog/beste-projectmanagement-software-2026/) waardevol. Wil je ook zien hoe je social media kunt inzetten voor je employer branding? Lees mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/).
 
 ### Belangrijkste functies
@@ -127,6 +135,8 @@ Greenhouse is het ATS waar ik naar verwijs zodra een bedrijf data-gedreven wil w
 <a href="https://www.greenhouse.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar greenhouse.com →</a>
 
 ## 5. Bullhorn — Beste voor uitzendbureaus
+
+**Geen Trustpilot-profiel beschikbaar** voor Bullhorn.
 
 Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk de enige serieuze optie. Ik kom het tegen bij elk bureau van enige omvang. De interface is niet de modernste, maar de combinatie van CRM en ATS is precies wat je nodig hebt als je honderden kandidaten tegelijk beheert. Als je ook een goed CRM wilt voor je relaties met opdrachtgevers, bekijk dan ook de [beste CRM software voor Nederland 2026](/blog/beste-crm-software-nederland-2026/). Wil je meer weten over de urenregistratie van bureau-medewerkers? Lees ook de [keuzehulp voor HR-software](/tools/hr-software/keuzehulp/) of bekijk de [volledige HR-software vergelijking](/categories/hr-software/) — maar zorg ook dat je het snel bijhouden van uren goed inregelt via de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
 

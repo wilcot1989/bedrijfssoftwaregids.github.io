@@ -1,7 +1,7 @@
 ---
 title: "Beste Websitebouwer MKB 2026: Top 5"
 date: 2026-03-26
-lastmod: 2026-03-26
+lastmod: 2026-03-06T10:00:00+01:00
 description: "De beste websitebouwers voor het MKB in 2026. WordPress, Wix, Squarespace, Webflow en Shopify vergeleken op prijs, flexibiliteit en gebruiksgemak."
 categories: ["productiviteit"]
 tags:
@@ -36,17 +36,19 @@ Wil je naast een website ook online verkopen? Bekijk dan het overzicht van de [b
 
 ## Beste websitebouwer MKB: snelle vergelijking
 
-| Platform | Prijs vanaf | Gebruiksgemak | Flexibiliteit | SEO | Webshop | Beste voor |
-|----------|-----------|-------------|-------------|-----|---------|------------|
-| **WordPress** | €5/mnd + hosting | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ (WooCommerce) | Content, SEO, maatwerk |
-| **Wix** | €17/mnd | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | Beginners, snelheid |
-| **Squarespace** | $16/mnd (USD) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | Design, portfolio |
-| **Webflow** | €14/mnd | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ (basis) | Designers, maatwerk |
-| **Shopify** | €36/mnd | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | E-commerce |
+| Platform | Prijs vanaf | Gebruiksgemak | Flexibiliteit | SEO | Webshop | Trustpilot | Beste voor |
+|----------|-----------|-------------|-------------|-----|---------|-----------|------------|
+| **WordPress** | €5/mnd + hosting | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ (WooCommerce) | n.v.t. (open source) | Content, SEO, maatwerk |
+| **Wix** | €17/mnd | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | 3.6/5 (26.607) | Beginners, snelheid |
+| **Squarespace** | $16/mnd (USD) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | 3.1/5 (2.434) | Design, portfolio |
+| **Webflow** | €14/mnd | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ (basis) | geen profiel | Designers, maatwerk |
+| **Shopify** | €36/mnd | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 1.3/5 (4.351) ⚠️ | E-commerce |
 
 ## 1. WordPress — Meest flexibel
 
 WordPress is wat ik zelf zou kiezen en het vaakst adviseer aan bedrijven waar content en SEO centraal staan. Het draait op 43% van alle websites ter wereld, en dat is geen toeval. De flexibiliteit is ongeëvenaard, maar je moet bereid zijn om te leren of een developer in te schakelen. Niet het makkelijkst, wel het krachtigst. Wil je ook je blog aanvullen met e-mailmarketing? Lees dan het artikel over de [beste e-mail marketing software 2026](/blog/beste-email-marketing-software-2026/) voor de beste combinatie van content en e-mail.
+
+**Trustpilot:** WordPress.org heeft geen Trustpilot-profiel — het is open-source software, geen commercieel bedrijf. Beoordelingen vind je verspreid over forums, G2 (4.4/5) en Trustpilot-pagina's van hostingpartners. Dat zegt niets negatiefs over de software zelf.
 
 ### Wanneer WordPress
 - Je hebt veel content (blog, artikelen, kennisbank)
@@ -70,6 +72,8 @@ WordPress is wat ik zelf zou kiezen en het vaakst adviseer aan bedrijven waar co
 ## 2. Wix — Beste voor beginners
 
 Wix is het platform dat ik aanbeveel aan MKB-klanten zonder technische kennis die snel online willen. De drag-en-drop editor is intuïtief, de AI-websitebouwer maakt binnen minuten een complete site op basis van je bedrijfsbeschrijving, en hosting en SSL zijn gewoon inbegrepen. Minder flexibel dan WordPress, maar je bent ook tien keer sneller live. Wil je ook social media direct vanuit je website aansturen? Lees dan het overzicht van de [beste social media beheer tools 2026](/blog/beste-social-media-management-2026/).
+
+**Trustpilot: 3.6/5 (26.607 reviews)** — Groot volume, gemengd beeld. Gebruikers zijn enthousiast over de templates en de AI-bouwer, maar klagen regelmatig over de klantenservice en agressieve upselling zodra je wilt opschalen. Voor een eenvoudige bedrijfswebsite is Wix prima; verwacht geen vijfsterren-support als er iets misgaat.
 
 ### Wanneer Wix
 - Geen technische kennis
@@ -95,6 +99,8 @@ Wix is het platform dat ik aanbeveel aan MKB-klanten zonder technische kennis di
 
 Squarespace adviseer ik aan fotografen, architecten, restaurants -- elk bedrijf waar het visuele de doorslag geeft. De templates zijn de mooiste die ik ken, en je site ziet er zonder designer al professioneel uit. Functioneel beperkter dan WordPress, maar als design je prioriteit is, kom je hier het snelst tot een indrukwekkend resultaat. Wil je ook je documenten en contracten digitaal beheren? Bekijk dan het overzicht van de [beste documenten management software 2026](/blog/beste-documenten-management-2026/).
 
+**Trustpilot: 3.1/5 (2.434 reviews)** — Gemengd. Designers en visueel ingestelde gebruikers zijn doorgaans positief over de looks en de kwaliteit van de templates. Beginners zonder ontwerpervaring vinden het platform complexer dan verwacht — de editor vraagt een andere denkwijze dan een gewone drag-and-drop builder. De klantenservice scoort wisselend.
+
 ### Wanneer Squarespace
 - Design en esthetiek zijn prioriteit
 - Portfolio of visueel bedrijf (fotograaf, architect, restaurant)
@@ -118,6 +124,8 @@ Squarespace adviseer ik aan fotografen, architecten, restaurants -- elk bedrijf 
 
 Webflow is de tool die ik voorstel aan designers en agencies die pixel-perfect maatwerk willen zonder te coderen. Je hebt volledige controle over HTML, CSS en animaties via een visuele editor. De leercurve is steiler dan bij Wix of Squarespace, maar het resultaat is technisch schoner en sneller dan wat de meeste websitebouwers produceren. Gebruik je Webflow voor een bureau of meerdere klanten? Dan is goede projectplanning essentieel — lees het overzicht van de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/).
 
+**Trustpilot:** Webflow heeft geen actief Trustpilot-profiel. Gebruikersreviews zijn vooral te vinden op G2 (4.4/5, 600+ reviews) en Capterra. De community is over het algemeen positief over de flexibiliteit en kwaliteit, maar kritisch op de prijsstelling voor e-commerce en het steile leerpad voor niet-designers.
+
 ### Wanneer Webflow
 - Je bent designer of hebt een developer
 - Maatwerk design zonder code
@@ -140,6 +148,8 @@ Webflow is de tool die ik voorstel aan designers en agencies die pixel-perfect m
 ## 5. Shopify — Beste voor webshops
 
 Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door naar Shopify. Het is de snelste weg naar een professionele webshop, met ingebouwde betalingen, voorraadbeheer en een enorm app-ecosysteem. Als blog of bedrijfswebsite minder geschikt, maar voor e-commerce is het simpelweg de standaard. Voor betalingsverwerking bij je webshop is Mollie een populaire keuze -- lees de [Mollie review 2026](/blog/mollie-review-2026/) voor meer details. En als je ook je [voorraadbeheer](/blog/beste-voorraadbeheer-software-2026/) wilt koppelen aan je webshop, gebruik dan de [webshop kosten calculator](/tools/webshops/kosten-berekenen/) om de totaalkosten te berekenen.
+
+**Trustpilot: 1.3/5 (4.351 reviews)** — Dit is een opvallend lage score, maar vraagt context. De klachten gaan vrijwel uitsluitend over plotselinge accountblokkades zonder duidelijke uitleg en trage of onbereikbare support — zaken die voor webshop-eigenaren inderdaad bedrijfskritisch zijn. Shopify als website-bouwer wordt in die reviews nauwelijks beoordeeld. Als je Shopify puur als websitebouwer overweegt zonder webshop-functionaliteit, is de Trustpilot-score niet representatief. De G2-score (4.4/5, 4.500+ reviews) geeft een realistischer beeld van de dagelijkse gebruikerservaring.
 
 ### Wanneer Shopify
 - Primair online producten verkopen
