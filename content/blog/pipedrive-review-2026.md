@@ -90,6 +90,8 @@ Bij Professional en hoger zijn de meeste add-ons al inbegrepen. Op de lagere pla
 
 Mijn advies: begin met Advanced en kijk na drie maanden of je add-ons nodig hebt. De meeste teams die ik begeleid, komen daar prima zonder.
 
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+
 ---
 
 ## Functies: wat biedt Pipedrive?

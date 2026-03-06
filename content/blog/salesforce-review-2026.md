@@ -87,6 +87,8 @@ Dit is de berekening die ik altijd maak met klanten voor ze beslissen:
 
 Die implementatiekosten zijn geen uitzondering -- ze zijn de regel. Bij geen van mijn vier Salesforce-trajecten is het gelukt om het platform zonder externe consultancyondersteuning goed in te richten. Dat is geen tekortkoming van de klant. Het platform is zo flexibel dat je zonder begeleiding verdwaalt.
 
+<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Salesforce →</a>
+
 ### Verborgen kosten om op te letten
 
 - **Salesforce Einstein AI:** €50 extra per gebruiker per maand (op Professional en Enterprise)

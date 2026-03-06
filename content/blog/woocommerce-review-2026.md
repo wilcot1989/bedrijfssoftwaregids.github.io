@@ -74,7 +74,7 @@ De WooCommerce-plugin zelf kost niets. Je downloadt hem via WordPress.org of dir
 Hier begin je geld uit te geven. WordPress en WooCommerce draaien niet in de lucht — je hebt een server nodig. Voor een kleine webshop volstaat een basisplan, maar zodra je meer dan 50 producten en enige bezoekers hebt, heb je managed WordPress-hosting nodig die ook e-commerce aankan.
 
 Realistische opties:
-- [Hostinger](https://www.hostinger.nl/) Business-plan: ~€10/mnd (instapniveau, beperkte schaalbaarheid)
+- [Hostinger](https://jf79.net/c/?si=16780&li=1722914&wi=418626&ws=&dl=) Business-plan: ~€10/mnd (instapniveau, beperkte schaalbaarheid)
 - SiteGround WooCommerce: ~€25/mnd (goed voor startende shops)
 - WP Engine: ~€45/mnd (uitstekende performance, meer voor groeiende shops)
 - Kinsta: ~€35/mnd (premium managed WordPress, snelste optie)
@@ -128,6 +128,8 @@ Daarboven kom je nog de onzichtbare kostenpost: **tijd**. Updates bijhouden, con
 | **Transactiekosten (iDEAL)** | Mollie: €0,29 | Mollie + 2%/txn | Mollie + 1%/txn |
 
 Op papier is WooCommerce goedkoper. In de praktijk betaal je het verschil in tijd en technische kennis. Voor een ondernemer die zijn eigen server leuk vindt om te beheren, is dat geen probleem. Voor een restauranthouder die gewoon zijn merchandise wil verkopen, is het dat wel.
+
+<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Download WooCommerce gratis →</a>
 
 ## Functies
 

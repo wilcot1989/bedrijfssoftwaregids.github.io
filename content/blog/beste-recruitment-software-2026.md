@@ -69,7 +69,7 @@ Van alle ATS-systemen die ik heb ingericht voor klanten, grijp ik het vaakst naa
 **✅ Voordelen:** Nederlands, intuïtief, sterke jobboard-integraties, onbeperkte gebruikers
 **❌ Nadelen:** Geen HR-functies (alleen recruitment), duurder dan Homerun
 
-<a href="https://recruitee.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar recruitee.com →</a>
+<a href="https://join.tellent.com/sqsak06pysse" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar recruitee.com →</a>
 
 ## 2. Homerun — Beste budget optie
 

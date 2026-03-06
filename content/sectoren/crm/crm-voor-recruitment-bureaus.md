@@ -76,7 +76,7 @@ Recruitee combineert ATS en CRM in een moderne, betaalbare interface. Ik advisee
 
 **Prijs:** Vanaf €199/maand (voor 1-5 users).
 
-<a href="https://recruitee.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Recruitee →</a>
+<a href="https://join.tellent.com/sqsak06pysse" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Recruitee →</a>
 
 ---
 

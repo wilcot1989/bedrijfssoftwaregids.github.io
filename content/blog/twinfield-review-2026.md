@@ -98,6 +98,8 @@ Ter vergelijking: Exact Online kost voor hetzelfde scenario met vijf gebruikers 
 
 **Mijn conclusie over de prijs:** Twinfield is niet goedkoop voor directe afname, en de beperkte transparantie maakt budgetteren lastig. Als je de kosten serieus wilt vergelijken, vraag dan altijd een offerte op via een gecertificeerde reseller én neem gelijktijdig een offerte op bij Exact Online. Zo heb je een eerlijke vergelijkingsbasis.
 
+<a href="https://www.wolterskluwer.com/nl-nl/solutions/twinfield" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Twinfield →</a>
+
 ## Functies: wat biedt Twinfield?
 
 ### Multi-administratie
@@ -234,5 +236,7 @@ Maar dan de keerzijde. De interface voelt gedateerd aan. De prijzen zijn niet tr
 - Heb je meerdere entiteiten en zoek je consolidatiefunctionaliteit? Dan is Twinfield de moeite waard om te bekijken, maar vergelijk het eerst met Exact Online, dat dit ook ondersteunt.
 
 Twinfield krijgt van mij een **6/10**. Niet slecht voor het specifieke segment waarvoor het is gebouwd, maar zeker geen aanrader buiten dat segment.
+
+<a href="https://www.wolterskluwer.com/nl-nl/solutions/twinfield" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Twinfield →</a>
 
 Wil je meer opties vergelijken? Bekijk de vergelijkingsmatrix via de **[boekhoudsoftware categoriepagina](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je kosten met de **[boekhoudsoftware kostenberekening](/tools/boekhouding/kosten-berekenen/)**.
