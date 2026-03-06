@@ -1,7 +1,7 @@
 ---
 title: "Beste CRM voor Webshops 2026: Top 5"
 date: 2026-03-21
-lastmod: 2026-03-21
+lastmod: 2026-03-06T10:00:00+01:00
 description: "De beste CRM-systemen voor webshops en e-commerce in 2026. Klaviyo, HubSpot, Salesforce Commerce, ActiveCampaign en Drip vergeleken op functies en prijs."
 categories: ["crm"]
 tags:
@@ -36,15 +36,17 @@ Zoek je een algemeen CRM voor niet-e-commerce? Bekijk mijn [beste CRM software g
 
 ## Snelle vergelijking
 
-| CRM | Prijs vanaf | Gratis plan | Shopify | WooCommerce | Beste voor |
-|-----|-----------|------------|---------|-------------|------------|
-| **Klaviyo** | $20/mnd | ✅ (250 contacten) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Shopify-webshops |
-| **HubSpot** | €45/mnd | ✅ (beperkt) | ⭐⭐⭐ | ⭐⭐⭐ | Omnichannel e-commerce |
-| **ActiveCampaign** | $29/mnd | ✅ (14-daags) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Geavanceerde automations |
-| **Drip** | $39/mnd | ✅ (14-daags) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | DTC-merken |
-| **Salesforce Commerce** | Op aanvraag | ❌ | ⭐⭐⭐ | ⭐⭐ | Enterprise e-commerce |
+| CRM | Prijs vanaf | Gratis plan | Shopify | WooCommerce | Trustpilot | Beste voor |
+|-----|-----------|------------|---------|-------------|------------|------------|
+| **Klaviyo** | $20/mnd | ✅ (250 contacten) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 1,9/5 (341 reviews) | Shopify-webshops |
+| **HubSpot** | €45/mnd | ✅ (beperkt) | ⭐⭐⭐ | ⭐⭐⭐ | 1,8/5 (1.054 reviews) | Omnichannel e-commerce |
+| **ActiveCampaign** | $29/mnd | ✅ (14-daags) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 2,8/5 (1.358 reviews) | Geavanceerde automations |
+| **Drip** | $39/mnd | ✅ (14-daags) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Geen profiel | DTC-merken |
+| **Salesforce Commerce** | Op aanvraag | ❌ | ⭐⭐⭐ | ⭐⭐ | 1,5/5 (612 reviews) | Enterprise e-commerce |
 
 ## 1. Klaviyo — Beste voor Shopify-webshops
+
+**Trustpilot: 1,9/5 (341 reviews)** — opvallend lage score voor zo'n populair platform. De klachten richten zich op het prijsmodel dat snel duurder wordt naarmate je contactlijst groeit, en op de klantenservice. De positieve reviews komen van gebruikers die de Shopify-integratie en de automatiseringsmogelijkheden waarderen. Ik zie dit patroon vaker bij krachtige e-commerce tools: als het werkt, is het fantastisch; als je problemen hebt, is support lastig te bereiken.
 
 Klaviyo is het platform dat ik aanbeveel aan vrijwel elke Shopify-webshop die ik tegenkom. De reden: de Shopify-integratie is veruit de diepste op de markt. Besteldata, browse-gedrag, klantwaarde -- alles stroomt real-time door. Bij een klant van mij genereerden de automatische verlaten-winkelwagen e-mails binnen de eerste maand al €3.000 extra omzet. Dat maakt de maandprijs een no-brainer.
 
@@ -86,6 +88,8 @@ Klaviyo biedt vooraf geconfigureerde automations die direct omzet genereren:
 
 ## 2. HubSpot — Beste voor omnichannel e-commerce
 
+**Trustpilot: 1,8/5 (1.054 reviews)** — de score is teleurstellend voor een platform van dit kaliber. De kritiek is consistent: jaarcontracten waar je moeilijk uit komt, agressieve verkooptactieken en een prijsstijging zodra je de gratis limieten overschrijdt. De positieve kant: als je het platform eenmaal goed hebt ingesteld, levert het veel op. Ik adviseer je om het contract goed door te lezen vóór je tekent.
+
 HubSpot adviseer ik voor webshops die meer doen dan alleen online verkopen. Denk aan B2B-verkoop ernaast, een complex klanttraject of meerdere kanalen. Het CRM-fundament is het sterkste in de markt en de rapportages zijn uitstekend. De e-commerce integraties zijn alleen minder diep dan Klaviyo -- dat merk je vooral bij productaanbevelingen en segmentatie op koopgedrag. Lees mijn [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/) voor een volledig beeld van het platform.
 
 ### Belangrijkste functies
@@ -106,6 +110,8 @@ HubSpot integreert met Shopify, WooCommerce, Magento en BigCommerce via de HubSp
 Lees meer in mijn [Salesforce vs HubSpot vergelijking](/blog/salesforce-vs-hubspot-2026/). Wil je ook weten hoe je betalingen via je webshop het beste regelt? Lees dan de [Mollie review 2026](/blog/mollie-review-2026/) voor een compleet beeld van de populairste betaaloplossing voor Nederlandse webshops.
 
 ## 3. ActiveCampaign — Beste automations
+
+**Trustpilot: 2,8/5 (1.358 reviews)** — gemengd beeld. 46% geeft 5 sterren, 23% geeft 1 ster — een polariserend platform dus. De positieve reviews komen van gebruikers die de automation builder echt benutten. De negatieve gaan over prijsverhogingen bij contractverlenging en support die traag reageert bij technische problemen.
 
 ActiveCampaign is het platform dat ik pak wanneer een webshop-eigenaar zegt: "Ik wil dat klant X precies op dag 7 na aankoop een persoonlijke mail krijgt op basis van wat hij kocht." Die visuele automation builder is de krachtigste die ik ken -- je bouwt er klanttrajecten mee die met andere tools weken zouden kosten. Wil je ook je sociale media kanalen koppelen aan je marketingfunnel? Lees dan het artikel over de [beste social media beheer tools 2026](/blog/beste-social-media-management-2026/) voor een compleet marketingoverzicht.
 
@@ -131,6 +137,8 @@ ActiveCampaign is het platform dat ik pak wanneer een webshop-eigenaar zegt: "Ik
 
 ## 4. Drip — Beste voor DTC-merken
 
+**Trustpilot: Geen profiel** — Drip heeft geen actief Trustpilot-profiel. Voor reviews verwijs ik naar G2 (4,4/5 op basis van 700+ reviews) en Capterra, waar gebruikers consistent positief zijn over de e-commerce focus en de revenue-dashboards.
+
 Drip is een interessante niche-speler die ik specifiek aanbeveel aan DTC-merken. De hele tool draait om een ding: meer omzet uit je bestaande klanten halen via persoonlijke communicatie. De revenue-dashboards zijn eerlijk gezegd mooier dan bij Klaviyo, en je ziet per campagne precies wat het oplevert. Minder bekend, maar zeker het bekijken waard. Als je ook wilt weten hoe je A/B testen inzet om je campagnes te verbeteren, bekijk dan de [beginnersgids voor A/B testen](/blog/ab-testen-beginners-eerste-experiment/).
 
 ### Belangrijkste functies
@@ -155,6 +163,8 @@ Drip is een interessante niche-speler die ik specifiek aanbeveel aan DTC-merken.
 <a href="https://www.drip.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar drip.com →</a>
 
 ## 5. Salesforce Commerce Cloud — Enterprise
+
+**Trustpilot: 1,5/5 (612 reviews)** — de laagste score in dit overzicht, en dat is geen verrassing. 84% van de reviews geeft 1 ster. De klachten zijn stelselmatig: hoge kosten, lange contracten, trage implementatie en support die je doorverwijst naar dure consultants. Salesforce werkt voor enterprise-organisaties die het geld en de mankracht hebben om het systeem te laten werken. Voor iedereen onder de €5 miljoen omzet raad ik het sterk af.
 
 Salesforce Commerce Cloud noem ik eerlijkheidshalve alleen omdat het de standaard is voor grote e-commerce bedrijven. Als je omzet boven de vijf miljoen zit, meerdere landen bedient en een bestaand Salesforce-ecosysteem hebt, dan is het logisch. Voor alle anderen: kijk eerst naar de andere opties in dit overzicht. Heb je ook een volledig ERP-systeem nodig dat je webshop, voorraden en financiën integreert? Lees dan het overzicht van de [beste ERP software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
@@ -198,4 +208,4 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, ber
 
 ---
 
-*Laatst bijgewerkt: mei 2026.*
+*Laatst bijgewerkt: 6 maart 2026.*

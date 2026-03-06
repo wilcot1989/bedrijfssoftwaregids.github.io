@@ -1,7 +1,7 @@
 ---
 title: "Beste Software Accountantskantoren 2026"
 date: 2026-04-23
-lastmod: 2026-04-23
+lastmod: 2026-03-06T10:00:00+01:00
 description: "De beste accountantssoftware van 2026 vergeleken: Exact Online, Twinfield, Minox, Yuki en Visma eAccounting. Met prijzen, functies, voor- en nadelen voor samenstelpraktijken."
 categories: ["boekhouding"]
 tags:
@@ -70,6 +70,7 @@ Dit is de olifant in de kamer. De prijsstructuur voor accountantskantoren is bij
 | Kenmerk | Exact Online | Twinfield | Minox | Yuki | Visma eAccounting |
 |---------|-------------|-----------|-------|------|-------------------|
 | **Eigenaar** | Exact (NL) | Wolters Kluwer (NL) | Minox (NL) | Visma (NO/NL) | Visma (NO/NL) |
+| **Trustpilot** | 2,6/5 (641 reviews) | 1,8/5 (17 reviews) | 4,4/5 (161 reviews) | 3,8/5 (100 reviews) | 3,4/5 (11 reviews) |
 | **Startprijs kantoor** | Op offerte | Op offerte | ±€34,50/mnd | €405/mnd (portal) | €41/mnd |
 | **Per administratie** | ±€14-20/mnd | Op offerte | ±€9,75/mnd | €9,75/mnd | ±€10/mnd |
 | **Samenstellen** | ✅ Uitgebreid | ✅ Uitgebreid | ✅ Module | Via koppeling | ❌ Beperkt |
@@ -89,7 +90,7 @@ Dit is de olifant in de kamer. De prijsstructuur voor accountantskantoren is bij
 
 Exact Online is het pakket dat de meeste accountants in Nederland kennen. En dat is tegelijk de kracht en de zwakte: het is zo wijdverbreid dat kantoren er soms in terechtkomen zonder bewust te kiezen. Maar als je kijkt naar de functionaliteit voor de samenstelpraktijk, begrijp ik waarom. Het ecosysteem is enorm: meer dan 450 koppelingen, een complete jaarrekeningmodule, en vrijwel elke ondernemer in Nederland kan er direct mee werken.
 
-**Trustpilot: 2,7/5 (700+ reviews)** — die score vraagt om context. De meeste negatieve reviews komen van MKB-gebruikers die klagen over prijs en support. Accountants die het professionele kantoorportal gebruiken, zijn doorgaans positiever.
+**Trustpilot: 2,6/5 (641 reviews)** — die score vraagt om context. De meeste negatieve reviews komen van MKB-gebruikers die klagen over prijs en support. Accountants die het professionele kantoorportal gebruiken, zijn doorgaans positiever.
 
 ### Wat maakt het bijzonder voor accountants?
 
@@ -137,7 +138,7 @@ Lees ook mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/)
 
 Twinfield is het pakket waar ik accountantskantoren het vaakst naar verwijs als multi-administratie beheer de prioriteit is. Waar Exact Online eigenlijk een MKB-pakket is dat een accountancy-laag erbovenop heeft gebouwd, is Twinfield van oorsprong ontworpen met het accountantskantoor in gedachten. Die DNA-vezel merk je overal: het schakelen tussen administraties gaat razendsnel, de consolidatiemogelijkheden zijn de beste in deze lijst, en het accountantsportaal voelt als een echte cockpit.
 
-**Capterra: 4,1/5** — Twinfield scoort solide op reviewplatforms. Gebruikers prijzen de stabiliteit en de multi-administratie functionaliteit. Kritiek gaat vooral over de leercurve en de prijs.
+**Trustpilot: 1,8/5 (17 reviews)** — weinig reviews, maar de klachten zijn consistent: hoge prijs en trage support. Gebruikers die positief zijn, noemen de stabiliteit en de multi-administratie functionaliteit. Kritiek gaat vooral over de leercurve en de kosten.
 
 ### Wat maakt het bijzonder voor accountants?
 
@@ -186,7 +187,7 @@ Minox is het pakket dat ik de afgelopen jaren het meest heb zien groeien. Met me
 
 In 2026 lanceert Minox ook Minox Focus — een compleet vernieuwde interface die intuïtiever en moderner is. Ik heb de bèta gezien en het is een flinke stap vooruit.
 
-**Support score: 9,4/10** — Minox scoort opvallend hoog op klanttevredenheid. Dat merk je in de praktijk: de support is bereikbaar en kent het product.
+**Trustpilot: 4,4/5 (161 reviews)** — de hoogste score in dit overzicht. Gebruikers zijn consistent positief over de klantenservice en de scan & herken-functionaliteit. Kritiek gaat soms over de beperktere samenstelmogelijkheden. Support score: 9,4/10 eigen meting.
 
 ### Wat maakt het bijzonder voor accountants?
 
@@ -240,7 +241,7 @@ Yuki is het pakket voor het accountantskantoor dat volledig digitaal wil werken.
 
 Yuki is onderdeel van Visma, wat betekent dat er flink wordt geïnvesteerd in doorontwikkeling. De integratie met andere Visma-producten (zoals Visma Raet voor salarisadministratie) is een bonus voor kantoren die breed willen aanbieden.
 
-**Trustpilot: 87 reviews** — de scores zijn gemengd. Positief over automatisering en tijdbesparing, kritisch over prijsverhogingen en af en toe bugs na updates.
+**Trustpilot: 3,8/5 (100 reviews)** — redelijk positief. Gebruikers zijn enthousiast over de automatisering en de tijdbesparing. Kritiek gaat over prijsverhogingen en incidentele bugs na updates.
 
 ### Wat maakt het bijzonder voor accountants?
 
@@ -295,7 +296,7 @@ Visma eAccounting is de instapoplossing voor kleinere accountants- en administra
 
 Visma eAccounting is een apart product van Yuki, ondanks dat beide onder de Visma-paraplu vallen. Waar Yuki zich richt op automatisering en grotere kantoren, is eAccounting de toegankelijke variant.
 
-**Trustpilot: 3,8/5** — redelijke score. Gebruikers zijn positief over het gebruiksgemak en de prijs. Kritiek gaat over beperkte geavanceerde functies en het opzegbeleid.
+**Trustpilot: 3,4/5 (11 reviews)** — weinig reviews, dus de score is beperkt representatief. Gebruikers zijn positief over het gebruiksgemak en de instapprijs. Kritiek gaat over de beperkte geavanceerde functies en het opzegbeleid.
 
 ### Wat maakt het bijzonder voor accountants?
 

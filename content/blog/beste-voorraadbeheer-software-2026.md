@@ -1,7 +1,7 @@
 ---
 title: "Beste Voorraadbeheer Software MKB 2026"
 date: 2026-05-01
-lastmod: 2026-05-01
+lastmod: 2026-03-06T10:00:00+01:00
 description: "De 6 beste voorraadbeheer en inventory management tools voor het MKB in 2026. Vergelijk Picqer, Exact Online, Inventory Planner, Katana, inFlow en Cin7 op prijs, functies en integraties."
 categories: ["webshops"]
 tags:
@@ -66,6 +66,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 <th>Barcode</th>
 <th>Forecasting</th>
 <th>Batch tracking</th>
+<th>Trustpilot</th>
 <th>Beste voor</th>
 </tr>
 </thead>
@@ -77,6 +78,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 <td>Ja</td>
 <td>Beperkt</td>
 <td>Ja</td>
+<td>Geen profiel</td>
 <td>Webshops met magazijn</td>
 </tr>
 <tr>
@@ -86,6 +88,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 <td>Via app</td>
 <td>Beperkt</td>
 <td>Ja</td>
+<td>2.6/5 (641)</td>
 <td>MKB met boekhouding-integratie</td>
 </tr>
 <tr>
@@ -95,6 +98,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 <td>Nee (add-on)</td>
 <td>Ja (kernfunctie)</td>
 <td>Nee</td>
+<td>4.6/5 (143)</td>
 <td>Demand forecasting e-commerce</td>
 </tr>
 <tr>
@@ -104,6 +108,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 <td>Ja</td>
 <td>Add-on ($199/mnd)</td>
 <td>Ja</td>
+<td>2.4/5 (9)</td>
 <td>Productiebedrijven</td>
 </tr>
 <tr>
@@ -113,6 +118,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 <td>Ja</td>
 <td>Beperkt</td>
 <td>Ja</td>
+<td>Geen profiel*</td>
 <td>Kleine MKB en starters</td>
 </tr>
 <tr>
@@ -122,10 +128,13 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 <td>Ja</td>
 <td>Ja</td>
 <td>Ja</td>
+<td>4.3/5 (418)</td>
 <td>Multichannel groothandel</td>
 </tr>
 </tbody>
 </table>
+
+<small>* inFlow heeft wel een Trustpilot-pagina maar slechts 1 review (maart 2026) — te weinig voor een betrouwbaar beeld.</small>
 
 ---
 
@@ -134,6 +143,8 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 Picqer is de Nederlandse tool die ik het vaakst aanbeveel aan webshopondernemers die hun magazijn professioneel willen aansturen. Als je ook medewerkers voor je magazijn aanneemt en wilt digitaliseren, is de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) een waardevolle aanvulling. Het platform is specifiek gebouwd voor e-commerce logistiek, en dat merk je aan alles: van de orderpicking met barcodescanning tot de directe koppelingen met Bol.com, Shopify en WooCommerce.
 
 Ik heb Picqer geimplementeerd bij een webshop die van 80 naar 600 orders per dag groeide. Het systeem schaalte probleemloos mee. De orderpicking werd 40% sneller door de geoptimaliseerde picklists, en het aantal verzendfouten daalde naar minder dan 0,5%.
+
+**Trustpilot: Geen Trustpilot-profiel** (maart 2026). Picqer staat niet op Trustpilot. Dat is opvallend voor een tool die breed wordt gebruikt in de Nederlandse e-commerce markt. Mijn indruk uit de praktijk is positief, maar onafhankelijke gebruikersreviews zijn via dit kanaal niet beschikbaar.
 
 ### Belangrijkste functies
 
@@ -178,6 +189,8 @@ Ik heb Picqer geimplementeerd bij een webshop die van 80 naar 600 orders per dag
 Exact Online met de Handel-module is de keuze die ik adviseer aan MKB-bedrijven die hun voorraad direct aan de boekhouding willen koppelen. Dat klinkt misschien als een detail, maar in de praktijk scheelt het enorm: inkoopfacturen, verkooporders en voorraadwaarde stromen automatisch je administratie in. En omdat vrijwel elke Nederlandse boekhouder met Exact werkt, is de samenwerking met je accountant direct soepel.
 
 Ik heb het vorig jaar geadviseerd aan een importeur van fitnessapparatuur met twee magazijnen. De combinatie van voorraadwaarde in de boekhouding en automatische inkooporders bij leveranciers bespaarde hen structureel 8 uur per week aan administratief werk.
+
+**Trustpilot: 2.6/5 (641 reviews)** (maart 2026). De score is laag, en de klachten zijn consistent: prijsverhogingen zonder duidelijke communicatie, en een support die bij complexe problemen te langzaam reageert. De positieve reviews gaan vrijwel altijd over de boekhoudkoppeling en de brede ecosysteemintegratie. Hou er rekening mee dat Exact Online meer is dan alleen voorraad — de tevredenheid hangt sterk af van welke modules je gebruikt.
 
 Lees mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voor meer over het totaalplatform. Werk je met een fysieke winkel of verkooppunt naast je webshop? De sectorpagina [kassasysteem retail](/sectoren/kassasystemen/kassasysteem-retail/) helpt je bij de keuze voor een kassa die goed koppelt met je voorraadbeheer.
 
@@ -227,6 +240,8 @@ Inventory Planner is een andere categorie dan de overige tools in dit overzicht.
 
 Ik raadde het aan bij een modezaak met sterke seizoensfluctuaties. Voorheen bestelde de eigenaar op gevoel en zat ze elke zomer met pallets winterjassen in het magazijn. Na zes maanden met Inventory Planner daalde de overvoorraad met 30% terwijl de beschikbaarheid van bestsellers steeg.
 
+**Trustpilot: 4.6/5 (143 reviews)** (maart 2026). Een van de sterkste scores in dit overzicht. Gebruikers zijn consistent positief over de kwaliteit van de forecasting en de integratie met Shopify. De klachten die er zijn gaan doorgaans over de prijsstelling bij grotere omzetten. Gezien het gespecialiseerde karakter van de tool is 143 reviews een redelijk betrouwbare basis.
+
 ### Belangrijkste functies
 
 - Demand forecasting op basis van historische verkoopdata
@@ -271,6 +286,8 @@ Ik raadde het aan bij een modezaak met sterke seizoensfluctuaties. Voorheen best
 Katana is de tool die ik aanbeveel zodra er productie bij komt kijken. Koop je grondstoffen in, assembleer je producten, en verkoop je via meerdere kanalen? Dan heb je een MRP-systeem (Material Requirements Planning) nodig, en Katana is de meest toegankelijke optie die ik ken. Wil je ook begrijpen hoe cloud POS-systemen en lokale kassa's van elkaar verschillen voor je productiebedrijf? Lees dan mijn uitleg over [cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/). Het berekent automatisch hoeveel grondstoffen je nodig hebt op basis van je verkooporders en productieplanning.
 
 Ik heb het getest bij een cosmeticaproducent die ingredienten inkoopt, mengt en verpakt. Het real-time overzicht van zowel grondstoffen als eindproducten was een gamechanger -- voorheen werkten ze met twee losse spreadsheets die nooit synchroon liepen.
+
+**Trustpilot: 2.4/5 (9 reviews)** (maart 2026). Laat ik eerlijk zijn: 9 reviews is te weinig voor een betrouwbaar beeld. Toch is het opvallend dat de meerderheid van de reviews 1 ster geeft, met klachten over forse prijsverhogingen en een gewijzigd businessmodel. Dit sluit aan bij wat ik ook in de nadelen heb vermeld. Neem deze score mee als signaal, maar baseer je keuze niet uitsluitend hierop.
 
 ### Belangrijkste functies
 
@@ -320,6 +337,8 @@ inFlow is de tool die ik noem als een ondernemer zegt: "Ik zoek iets dat werkt, 
 
 Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man werkt. Binnen een middag hadden ze hun productcatalogus ingevoerd, barcodes geprint en de eerste inkooporders aangemaakt. Die snelheid van implementatie is de kracht van inFlow.
 
+**Trustpilot: Geen betrouwbaar profiel** (maart 2026). inFlow heeft een Trustpilot-pagina, maar slechts 1 review — dat zegt niets. Op andere platformen (Capterra, G2) scoort inFlow beter, maar via Trustpilot kan ik geen onderbouwde uitspraak doen.
+
 ### Belangrijkste functies
 
 - Intuitive voorraadbeheer met productvarianten
@@ -366,6 +385,8 @@ Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man w
 Cin7 is het platform voor bedrijven die via veel kanalen tegelijk verkopen: eigen webshop, Amazon, Bol.com, fysieke winkels, wholesale-klanten. Heb je een Lightspeed kassasysteem en wil je weten hoe dat koppelt aan je voorraadbeheer? Lees dan ook de [Lightspeed vs Untill vergelijking 2026](/blog/lightspeed-vs-untill-2026/). Het synchroniseert voorraad over al die kanalen in real-time, en dat is precies waar de waarde zit. Cin7 is ontstaan uit de fusie van DEAR Systems en Orderhive, en combineert de sterke punten van beide platforms.
 
 Ik heb het beoordeeld voor een speelgoedgroothandel die via zes kanalen verkocht. De uitdaging was steeds: als je op Amazon iets verkoopt, moet de Bol.com-voorraad direct meebewegen. Cin7 loste dat op met real-time synchronisatie over alle kanalen, inclusief automatische pricing-regels per kanaal.
+
+**Trustpilot: 4.3/5 (418 reviews)** (maart 2026). Een solide score met een behoorlijk volume aan reviews. De positieve reviews benadrukken de breedte van de integraties en de multichannel-synchronisatie. De 24% 1-ster reviews zijn een aandachtspunt — klachten gaan vooral over de klantenservice bij complexe problemen en de steile leercurve. Dat past bij wat ik zelf ook in de nadelen noem.
 
 ### Belangrijkste functies
 

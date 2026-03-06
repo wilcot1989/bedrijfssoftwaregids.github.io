@@ -1,7 +1,7 @@
 ---
 title: "Beste Salarisadministratie Software MKB 2026"
 date: 2026-03-24
-lastmod: 2026-03-24
+lastmod: 2026-03-06T10:00:00+01:00
 description: "De beste salarissoftware voor Nederlandse bedrijven in 2026. Nmbrs, Visma, Loket.nl, AFAS en ADP vergeleken op prijs, functies en gebruiksgemak."
 categories: ["hr-software"]
 tags:
@@ -36,17 +36,19 @@ Loonadministratie staat zelden op zichzelf. In de meeste bedrijven hangt het sam
 
 ## Beste salarissoftware 2026: snelle vergelijking
 
-| Tool | Prijs/medewerker/mnd | HR-module | Medewerkersportaal | Beste voor |
-|------|---------------------|----------|-------------------|------------|
-| **Nmbrs** | €5-€10 | ✅ | ✅ | MKB (10-250 medewerkers) |
-| **Visma Raet** | €8-€15 | ✅ | ✅ | Groot MKB + enterprise |
-| **Loket.nl** | €3-€7 | ✅ Basis | ✅ | Klein MKB (1-50) |
-| **AFAS** | Op aanvraag | ✅ Uitgebreid | ✅ | Middelgroot + groot |
-| **ADP** | Op aanvraag | ✅ | ✅ | Enterprise + internationaal |
+| Tool | Prijs/medewerker/mnd | HR-module | Medewerkersportaal | Trustpilot | Beste voor |
+|------|---------------------|----------|-------------------|-----------|------------|
+| **Nmbrs** | €5-€10 | ✅ | ✅ | 4.3/5 (110) | MKB (10-250 medewerkers) |
+| **Visma Raet** | €8-€15 | ✅ | ✅ | — | Groot MKB + enterprise |
+| **Loket.nl** | €3-€7 | ✅ Basis | ✅ | — | Klein MKB (1-50) |
+| **AFAS** | Op aanvraag | ✅ Uitgebreid | ✅ | 3.3/5 (152) | Middelgroot + groot |
+| **ADP** | Op aanvraag | ✅ | ✅ | — | Enterprise + internationaal |
 
 ## 1. Nmbrs — Beste voor MKB
 
 Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat komt door de combinatie van gebruiksgemak en betrouwbaarheid. Ik heb HR-managers gezien die na een korte onboarding zelfstandig de maandelijkse loonrun draaiden. De API is een van de sterkste op de markt, waardoor je het moeiteloos koppelt aan je boekhouding of HR-tools. Als je je eerste medewerker aanneemt en vraagt hoe je dit regelt, lees dan eerst mijn artikel over [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/). Wil je ook je contracten met medewerkers digitaal beheren? Lees dan mijn overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/).
+
+**Trustpilot: 4.3/5 (110 reviews)** — Gebruikers waarderen met name de overzichtelijke interface en de snelheid waarmee je de maandelijkse loonrun afrondt. Kritiek gaat vooral over de telefonische support, die soms traag reageert.
 
 ### Belangrijkste functies
 - **Salarisverwerking** — Automatische berekening loonheffingen, pensioenpremies, toeslagen
@@ -71,6 +73,8 @@ Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat
 
 Visma Raet is het platform waar ik naar verwijs als een bedrijf complexe CAO's, uitgebreid verzuimmanagement en een complete HR-suite nodig heeft naast de salarisverwerking. Met 10.000+ klanten in Nederland is het een bewezen speler. De interface is niet de modernste, maar de betrouwbaarheid en diepgang compenseren dat ruimschoots. Als je ook op zoek bent naar goed vergadersoftware voor HR-teams, bekijk dan de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/). Werk je ook met verzuimregistratie? Dan sluit Visma Raet goed aan op de richtlijnen in de [WVP voor verzuimregistratie](/blog/verzuimregistratie-wvp-software/).
 
+**Trustpilot:** Geen Trustpilot-profiel gevonden voor Visma Raet Nederland.
+
 ### Belangrijkste functies
 - **Salarisverwerking** — Volledig geautomatiseerd, alle CAO's
 - **HR Suite** — Onboarding, personeelsdossiers, competentiemanagement
@@ -90,6 +94,8 @@ Vanaf €8-€15/medewerker/maand (afhankelijk van modules en bedrijfsgrootte)
 ## 3. Loket.nl — Beste voor klein MKB
 
 Loket.nl raad ik aan als de portemonnee krap is maar je wel professionele salarisverwerking wilt. Vanaf drie euro per medewerker per maand heb je loonaangifte, loonstroken en jaaropgaven geregeld. Als ZZP'er of kleine ondernemer, lees dan ook het artikel over de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/). Ik heb het aanbevolen aan een startend bedrijf met 8 man dat geen honderden euro's per maand wilde uitgeven. Het doet wat het moet doen, zonder franjes.
+
+**Trustpilot:** Geen Trustpilot-profiel gevonden voor Loket.nl.
 
 ### Belangrijkste functies
 - **Salarisverwerking** — Eenvoudige interface, stap-voor-stap
@@ -113,6 +119,8 @@ Loket.nl raad ik aan als de portemonnee krap is maar je wel professionele salari
 
 AFAS adviseer ik aan bedrijven die salaris, HR, boekhouding en CRM in een platform willen en bereid zijn daar serieus in te investeren. Wil je ook weten hoe je nieuwe medewerkers werft via software? Lees dan het overzicht van de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/). Het is het meest complete Nederlandse platform dat ik ken. De integratie tussen modules is naadloos -- je salarisgegevens stromen direct door naar je boekhouding zonder enige handmatige actie. Overkill voor een klein bedrijf, maar goud voor middelgrote organisaties.
 
+**Trustpilot: 3.3/5 (152 reviews)** — Een gemengd beeld. Grotere bedrijven zijn doorgaans positiever: zij waarderen de diepe integratie en de complete suite. Kleinere bedrijven klagen vaker over de hoge kosten en de complexiteit van de implementatie.
+
 ### Belangrijkste functies
 - **Volledige ERP-integratie** — Salaris gekoppeld aan boekhouding, projecten, facturatie
 - **HR + Payroll** — Onboarding, verlof, verzuim, salarisverwerking in één
@@ -127,11 +135,13 @@ Op aanvraag (typisch €20-€40/medewerker/maand voor het complete pakket)
 
 <a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar afas.nl →</a>
 
-Lees meer over AFAS in ons [ERP-systeem overzicht](/blog/beste-erp-software-mkb-2026/).
+Lees meer over AFAS in mijn [ERP-systeem overzicht](/blog/beste-erp-software-mkb-2026/).
 
 ## 5. ADP — Beste voor internationaal
 
 ADP is de keuze die ik maak als een bedrijf zegt: "We hebben medewerkers in vijf landen en willen een partij die overal de compliance regelt." Als je ook projecten wilt plannen en uren bijhouden per medewerker, lees dan over de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/). Voor puur Nederlandse bedrijven is het vaak te duur en te zwaar, maar zodra je internationaal opereert, is de compliance-zekerheid van ADP moeilijk te evenaren. Ze verwerken salarissen in 140+ landen -- dat kun je niet zelf bijhouden.
+
+**Trustpilot:** Geen Trustpilot-profiel gevonden voor ADP Nederland.
 
 ### Belangrijkste functies
 - **Globale payroll** — Salarisverwerking in 140+ landen
