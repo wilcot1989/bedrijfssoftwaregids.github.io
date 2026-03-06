@@ -178,6 +178,8 @@ De financiële kant is ook sterk. Declaraties gaan via VECOZO, en je boekhouding
 - Marktaandeel daalt licht (2 procent in twee jaar) — concurrenten halen in
 - Overstap vanuit Intramed naar een ander systeem is complex
 
+**Review scores:** Geen Trustpilot- of G2-profiel. Intramed is een niche-platform voor de Nederlandse zorg; gebruikerservaringen zijn te vinden op brancheforums en via KNGF-netwerken.
+
 <a href="https://www.intramed.nl/beroepsgroepen/fysiotherapie/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar intramed.nl →</a>
 
 ---
@@ -224,6 +226,8 @@ De helpdesk krijgt consistent goede reviews van gebruikers. Dat klinkt als een k
 - Minder BI-functionaliteit dan Intramed Insight
 - Eenmalige opstartkosten kunnen oplopen
 
+
+**Review scores:** Geen Trustpilot- of G2-profiel. HCI is een gespecialiseerde Nederlandse zorgaanbieder; ervaringen zijn beschikbaar via beroepsverenigingen.
 <a href="https://www.hci-software.com/fysioroadmap/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hci-software.com →</a>
 
 ---
@@ -403,6 +407,12 @@ Een overstap van software is voor veel fysiotherapeuten een drempel. Terecht, wa
 5. **Betrek je team.** De therapeut die het systeem dagelijks gebruikt, moet het prettig vinden. Laat je collega's meetesten tijdens de proefperiode.
 
 Voor tips over het kiezen van de juiste bedrijfssoftware in het algemeen, lees ook mijn [projectmanagement-vergelijking](/blog/beste-projectmanagement-software-2026/) of het artikel over [urenregistratie](/blog/beste-urenregistratie-software-2026/). Wil je ook contracten met patiënten of verwijzers digitaal beheren? Lees dan mijn overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/), en voor het bewaren van formulieren, behandelplannen en informed consents bekijk je de [beste documenten management software 2026](/blog/beste-documenten-management-2026/). Als je medewerkers in dienst hebt, is de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/) ook interessant voor je personeelsadministratie. En voor een centrale kennisbank met protocollen en richtlijnen, bekijk dan de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/).
+
+## Lees ook
+
+- [Beste Afsprakensoftware 2026: Top 6](/blog/beste-afspraken-software-2026/)
+- [Personeelsdossier digitaliseren: AVG-proof stappenplan](/blog/personeelsdossier-digitaliseren-avg/)
+- [Beste Personeelsplanning Software Horeca 2026](/blog/beste-planning-software-horeca-2026/)
 
 
 ## Veelgestelde vragen over fysiotherapie-software

@@ -38,14 +38,14 @@ Ben je ZZP'er of zelfstandig ondernemer? Dan is het ook slim om te kijken naar d
 
 ## Vergelijkingstabel: Beste Afsprakensoftware 2026
 
-| Software | Startprijs/mnd | Gratis plan | Agenda-sync | Herinneringen | Betaling | Beste voor |
-|---|---|---|---|---|---|---|
-| **Calendly** | Gratis / €10 | Ja (1 type) | Google, Outlook | E-mail | Stripe, PayPal | Consultants en ZZP'ers |
-| **SimplyBook.me** | Gratis / €8,25 | Ja (beperkt) | Google, Outlook | E-mail, SMS | Mollie, Stripe | Dienstverlenende bedrijven |
-| **Tidycal** | Gratis / €29 eenmalig | Ja (beperkt) | Google, Outlook | E-mail | Stripe | Budget-bewuste gebruikers |
-| **Setmore** | Gratis / €5 | Ja (tot 4 users) | Google, Outlook, Apple | E-mail | Stripe, Square | Kleine teams |
-| **Acuity Scheduling** | €16 | Nee (7 dagen trial) | Google, Outlook, iCloud | E-mail, SMS | Stripe, PayPal, Square | Geavanceerde behoeften |
-| **Salonkee** | Op aanvraag | Nee | Google | E-mail, SMS | iDEAL, Stripe | Salons en beauty |
+| Software | Startprijs/mnd | Gratis plan | Agenda-sync | Herinneringen | Betaling | Review scores | Beste voor |
+|---|---|---|---|---|---|---|---|
+| **Calendly** | Gratis / €10 | Ja (1 type) | Google, Outlook | E-mail | Stripe, PayPal | G2 4,7/5 (2.100+ reviews) · Trustpilot: geen profiel | Consultants en ZZP'ers |
+| **SimplyBook.me** | Gratis / €8,25 | Ja (beperkt) | Google, Outlook | E-mail, SMS | Mollie, Stripe | Trustpilot 4,6/5 (2.800+ reviews) | Dienstverlenende bedrijven |
+| **Tidycal** | Gratis / €29 eenmalig | Ja (beperkt) | Google, Outlook | E-mail | Stripe | — | Budget-bewuste gebruikers |
+| **Setmore** | Gratis / €5 | Ja (tot 4 users) | Google, Outlook, Apple | E-mail | Stripe, Square | — | Kleine teams |
+| **Acuity Scheduling** | €16 | Nee (7 dagen trial) | Google, Outlook, iCloud | E-mail, SMS | Stripe, PayPal, Square | — | Geavanceerde behoeften |
+| **Salonkee** | Op aanvraag | Nee | Google | E-mail, SMS | iDEAL, Stripe | Trustpilot 4,1/5 (150+ reviews) | Salons en beauty |
 
 ---
 
@@ -87,6 +87,8 @@ Als ik een consultant of ZZP'er help met afsprakensoftware, raad ik bijna altijd
 - Geen native iDEAL-ondersteuning (wel via Stripe)
 - Interface volledig in het Engels
 - Minder geschikt voor bedrijven met meerdere locaties
+
+**Review scores:** G2 4,7/5 (2.100+ reviews) · Trustpilot: geen profiel
 
 <a href="https://calendly.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar calendly.com →</a>
 
@@ -130,6 +132,8 @@ SimplyBook.me is de tool die ik aanbeveel zodra een bedrijf iDEAL-betaling nodig
 - SMS-herinneringen alleen in duurdere plannen
 - Gratis plan erg beperkt (15 boekingen/maand)
 - Sommige functies werken als betaalde plugins
+
+**Review scores:** Trustpilot 4,6/5 (2.800+ reviews)
 
 <a href="https://simplybook.me/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar simplybook.me →</a>
 
@@ -299,6 +303,8 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 - Prijs op aanvraag (minder transparant)
 - Hogere kosten dan generieke afsprakensoftware of een standaard afsprakenplanner
 - Contract mogelijk vereist
+
+**Review scores:** Trustpilot 4,1/5 (150+ reviews)
 
 <a href="https://salonkee.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar salonkee.com →</a>
 

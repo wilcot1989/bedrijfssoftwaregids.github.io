@@ -66,6 +66,8 @@ Notion is de tool die ik het vaakst aanbeveel aan kleine teams die snel een werk
 **✅ Voordelen:** Flexibelst, mooiste interface, sterk als wiki/kennisbank, betaalbaar
 **❌ Nadelen:** Geen traditioneel intranet (geen nieuwsfeed, medewerkersprofielen), zoekfunctie soms traag
 
+**Review scores:** G2 4,7/5 (5.700+ reviews) · Trustpilot 2,5/5 (50+ reviews)
+
 <a href="https://www.notion.so/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar notion.so →</a>
 
 ## 2. SharePoint — Beste voor Microsoft 365
@@ -82,6 +84,8 @@ SharePoint is krachtig, maar ik waarschuw altijd: het is geen kant-en-klaar intr
 
 **✅ Voordelen:** Inbegrepen bij M365, krachtigst, Teams-integratie, enterprise-ready
 **❌ Nadelen:** Complex opzetten, vereist beheerder, interface niet intuïtief
+
+**Review scores:** G2 4,0/5 (9.500+ reviews) · Trustpilot: geen apart profiel
 
 <a href="https://www.microsoft.com/nl-nl/microsoft-365/sharepoint/collaboration" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar microsoft.com/sharepoint →</a>
 
@@ -107,6 +111,8 @@ Confluence adviseer ik specifiek aan technische teams die al met Jira werken. De
 **✅ Voordelen:** Beste wiki-structuur, uitstekende Jira-koppeling, sterke templates
 **❌ Nadelen:** Minder geschikt als sociaal intranet, interface kan overweldigend zijn
 
+**Review scores:** G2 4,1/5 (3.800+ reviews) · Trustpilot: geen profiel
+
 <a href="https://www.atlassian.com/nl/software/confluence" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar atlassian.com/confluence →</a>
 
 ## 4. Happeo — Beste voor Google Workspace
@@ -124,6 +130,8 @@ Happeo is de logische keuze als je bedrijf op Google Workspace draait. Ik heb he
 **✅ Voordelen:** Beste Google Workspace integratie, sociaal intranet, mooie interface
 **❌ Nadelen:** Prijs niet transparant, alleen zinvol met Google Workspace
 
+**Review scores:** G2 4,5/5 (200+ reviews) · Trustpilot: geen profiel
+
 <a href="https://www.happeo.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar happeo.com →</a>
 
 ## 5. Workvivo — Beste voor medewerkerscommunicatie
@@ -140,6 +148,8 @@ Workvivo is geen klassiek intranet maar een intern social media-platform, nu ond
 
 **✅ Voordelen:** Beste voor cultuur en engagement, mooie sociale ervaring
 **❌ Nadelen:** Minder sterk als kennisbank, duur, overkill voor kleine bedrijven
+
+**Review scores:** G2 4,8/5 (2.100+ reviews) · Trustpilot: geen profiel
 
 <a href="https://www.workvivo.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar workvivo.com →</a>
 

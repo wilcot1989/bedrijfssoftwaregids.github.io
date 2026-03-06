@@ -60,6 +60,8 @@ SharePoint is de keuze die ik maak voor bedrijven die al in Microsoft 365 zitten
 **✅ Voordelen:** Diepste Microsoft 365-integratie, krachtige workflows, enterprise-ready
 **❌ Nadelen:** Complex, vereist beheerder, interface kan verwarrend zijn
 
+**Review scores:** G2 4,0/5 (9.500+ reviews) · Trustpilot: geen apart profiel
+
 ## 2. Google Workspace — Beste voor MKB
 
 Google Workspace is de documentbeheer software die ik het vaakst aanbeveel aan kleine teams. De reden is nuchter: iedereen kent Google Drive al, niemand heeft training nodig. Bij een MKB-klant van mij was de hele migratie in een middag klaar. Voor geavanceerd metadata-beheer of complexe workflows moet je elders zijn, maar voor 90% van de MKB-bedrijven is dit meer dan voldoende. Als je ook je website bouwt met Google Workspace in het achterhoofd, bekijk dan de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
@@ -83,6 +85,8 @@ Google Workspace is de documentbeheer software die ik het vaakst aanbeveel aan k
 **✅ Voordelen:** Eenvoudig, iedereen kent het, uitstekende samenwerking, betaalbaar
 **❌ Nadelen:** Minder geavanceerde metadata, beperktere workflows, minder enterprise-functies
 
+**Review scores:** G2 4,6/5 (42.800+ reviews) · Trustpilot 1,7/5 (Google-profiel, niet representatief voor Workspace)
+
 ## 3. Dropbox Business — Beste voor extern delen
 
 Dropbox Business is de tool die ik noem als een bedrijf zegt: "We delen constant bestanden met klanten en freelancers en dat moet makkelijker." Die externe samenwerking is waar Dropbox het verschil maakt. Smart Sync is ook briljant: bestanden lijken lokaal te staan maar nemen geen ruimte in tot je ze opent. Bij een architectenbureau dat ik hielp, bespaarde dat alleen al 200GB per laptop. Als je externe medewerkers ook wilt aannemen en onboarden, lees dan over de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/).
@@ -104,6 +108,8 @@ Dropbox Business is de tool die ik noem als een bedrijf zegt: "We delen constant
 **✅ Voordelen:** Beste file sync, eenvoudig extern delen, Smart Sync, goede beveiliging
 **❌ Nadelen:** Beperktere document-editing dan Google/Microsoft, minder workflows
 
+**Review scores:** G2 4,4/5 (23.100+ reviews) · Trustpilot 1,3/5 (4.500+ reviews, overwegend over klantenservice)
+
 ## 4. Box — Beste voor enterprise en compliance
 
 Box is de documentbeheer software die ik alleen aanbeveel als compliance en beveiliging je topprioriteit zijn. Denk aan de zorgsector, financiële dienstverlening of overheid. De dreigingsdetectie met AI (Box Shield) en het onbeperkte opslagmodel zijn indrukwekkend. Maar voor een gemiddeld MKB-bedrijf is het overkill -- zowel in functies als in prijs. Voor HR-documenten en personeelsdossiers, lees dan ook over de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/).
@@ -118,6 +124,8 @@ Box is de documentbeheer software die ik alleen aanbeveel als compliance en beve
 **✅ Voordelen:** Beste beveiliging, onbeperkte opslag, uitgebreide compliance
 **❌ Nadelen:** Duur, overkill voor MKB, interface kan trager zijn
 
+**Review scores:** G2 4,2/5 (5.500+ reviews) · Trustpilot 1,4/5 (200+ reviews)
+
 ## 5. DocuWare — Beste voor workflow-automatisering
 
 DocuWare is de keuze voor bedrijven waar documenten niet alleen opgeslagen maar ook verwerkt moeten worden. Ik heb het geadviseerd aan een bedrijf dat honderden inkoopfacturen per maand ontving -- de automatische herkenning en goedkeuringsflow bespaarden twee werkdagen per week. Maar de implementatie is complex en de kosten zijn hoog, dus het moet wel die schaal hebben. Als je ook je facturatieproces wilt digitaliseren naast documentbeheer, lees dan ook het overzicht van de [beste facturatie software voor MKB 2026](/blog/beste-facturatie-software-mkb-2026/).
@@ -130,6 +138,8 @@ DocuWare is de keuze voor bedrijven waar documenten niet alleen opgeslagen maar 
 
 **✅ Voordelen:** Krachtigste workflow-automatisering, factuurherkenning, archivering
 **❌ Nadelen:** Duurste optie, complexe implementatie, overkill voor kleine bedrijven
+
+**Review scores:** G2 4,3/5 (300+ reviews) · Trustpilot: geen profiel
 
 ## Welke documentbeheer software past bij jou?
 

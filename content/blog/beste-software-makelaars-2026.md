@@ -114,6 +114,8 @@ Sinds 2026 is Move.nl -- het klantenportaal van Realworks -- uitgegroeid tot het
 - Implementatietraject kan weken duren bij grotere kantoren
 - Hogere kosten dan lichtere alternatieven
 
+**Review scores:** Geen Trustpilot- of G2-profiel. Realworks is marktleider met 4.300+ kantoren; referenties via NVM-netwerk.
+
 <a href="https://www.realworks.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar realworks.nl →</a>
 
 ---
@@ -392,6 +394,12 @@ De Nederlandse makelaarsmarkt heeft volwassen softwarepakketten die het hele pro
 - **KeySoftware** is de specialist voor kantoren die actief zijn in meerdere segmenten: wonen, nieuwbouw, BOG en verhuur in een platform.
 
 Mijn concrete advies: vraag bij minimaal twee van deze partijen een demo aan en test het systeem met je eigen werkprocessen. Geen enkele vergelijking vervangt de ervaring van zelf klikken. Let daarbij extra op de biedingsfunctie -- die is in 2026 je dagelijkse gereedschap.
+
+## Lees ook
+
+- [Beste CRM-Systeem Nederland 2026: Top 7](/blog/beste-crm-software-nederland-2026/)
+- [Beste CRM voor Makelaars 2026: Top 5](/blog/crm-voor-makelaars-2026/)
+- [HubSpot vs Pipedrive 2026: Welke CRM Past Bij Jouw Bedrijf?](/blog/hubspot-vs-pipedrive-2026/)
 
 Zoek je een breder overzicht van CRM-systemen, inclusief generieke oplossingen als HubSpot en Pipedrive? Lees dan mijn [CRM voor makelaars vergelijking](/blog/crm-voor-makelaars-2026/) of het complete overzicht van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/). Wil je ook weten hoe HubSpot en Pipedrive zich tot elkaar verhouden? Bekijk dan de [HubSpot vs Pipedrive vergelijking 2026](/blog/hubspot-vs-pipedrive-2026/). Meer informatie over makelaarsspecifieke CRM-tools vind je op de [sectorpagina CRM voor makelaars](/sectoren/crm/crm-voor-makelaars/) en in mijn uitgebreide [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/).
 

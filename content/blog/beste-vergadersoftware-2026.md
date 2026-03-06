@@ -66,6 +66,8 @@ Mijn eerste vraag aan klanten is altijd: "Gebruik je Microsoft 365?" Zo ja, dan 
 **✅ Voordelen:** Inbegrepen in M365, beste samenwerkingsplatform, Copilot AI
 **❌ Nadelen:** Kan overweldigend zijn, externe deelnemers hebben soms moeite
 
+**Review scores:** G2 4,3/5 (15.600+ reviews) · Trustpilot 1,2/5 (Microsoft-profiel, niet representatief voor Teams)
+
 <a href="https://www.microsoft.com/nl-nl/microsoft-teams/group-chat-software" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar microsoft.com/teams →</a>
 
 ## 2. Zoom — Beste voor externe meetings
@@ -90,6 +92,8 @@ Zoom is wat ik adviseer als een bedrijf veel vergadert met externe partijen -- k
 **✅ Voordelen:** Beste videokwaliteit, geen account nodig voor gasten, betrouwbaarst
 **❌ Nadelen:** Niet zo sterk als samenwerkingsplatform, extra kosten voor functies. Als je nieuwe medewerkers wilt onboarden via Zoom, is de koppeling met [goede recruitmentsoftware](/blog/beste-recruitment-software-2026/) waardevol.
 
+**Review scores:** G2 4,6/5 (55.000+ reviews) · Trustpilot 1,6/5 (3.400+ reviews, overwegend over klantenservice)
+
 <a href="https://zoom.us/nl-nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar zoom.us →</a>
 
 ## 3. Google Meet — Beste voor Google Workspace
@@ -106,6 +110,8 @@ Gebruik je Google Workspace? Dan is Meet de logische keuze en hoef je niet verde
 **✅ Voordelen:** Eenvoudigst, geen aparte app nodig (browser), goede AI-functies
 **❌ Nadelen:** Minder geavanceerde meeting-functies, geen breakout rooms in gratis plan. Wil je ook je e-mailmarketingfunnel verbeteren? Lees dan het artikel over de [beste e-mail marketing software 2026](/blog/beste-email-marketing-software-2026/).
 
+**Review scores:** G2 4,6/5 (2.600+ reviews) · Trustpilot: onderdeel van Google, geen apart profiel
+
 <a href="https://meet.google.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar meet.google.com →</a>
 
 ## 4. Webex — Beste voor hybride kantoor
@@ -121,6 +127,8 @@ Webex is het platform dat ik tegenkom bij grotere bedrijven met vergaderzalen vo
 
 **✅ Voordelen:** Beste vergaderzaal-hardware, enterprise security, noise cancelling
 **❌ Nadelen:** Duurder, complexere interface, minder geschikt voor MKB
+
+**Review scores:** G2 4,3/5 (19.400+ reviews) · Trustpilot: geen profiel
 
 <a href="https://www.webex.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar webex.com →</a>
 
@@ -144,6 +152,8 @@ Whereby is mijn tip voor coaches, consultants en iedereen die regelmatig 1-op-1 
 
 **✅ Voordelen:** Eenvoudigst, permanente link, eigen branding, geen app nodig
 **❌ Nadelen:** Minder functies, geen AI-functies, niet geschikt voor grote organisaties. Voor coaches en consultants die ook hun facturen en klanten willen beheren, lees dan het artikel over de [beste facturatie software voor MKB 2026](/blog/beste-facturatie-software-mkb-2026/).
+
+**Review scores:** G2 4,6/5 (1.100+ reviews) · Trustpilot: geen profiel
 
 <a href="https://whereby.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar whereby.com →</a>
 
