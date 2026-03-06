@@ -58,7 +58,7 @@ Moneybird is de app die ik zelf het vaakst aanbeveel voor mobiel boekhouden. De 
 - **Facturen aanmaken en versturen**: Maak professionele facturen met je eigen logo en verstuur ze direct per e-mail aan je klant.
 - **Betalingsoverzicht**: Bekijk openstaande facturen en welke klanten nog moeten betalen.
 - **Financieel overzicht**: Dashboard met omzet, uitgaven en winst op een rij.
-- **Banktransacties categoriseren**: Bekijk geimporteerde banktransacties en categoriseer ze onderweg.
+- **Banktransacties categoriseren**: Bekijk geïmporteerde banktransacties en categoriseer ze onderweg.
 - **Offertes**: Maak offertes aan en verstuur ze naar prospects.
 
 ### Mobiele app-kwaliteit

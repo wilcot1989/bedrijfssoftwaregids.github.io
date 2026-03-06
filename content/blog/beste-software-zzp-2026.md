@@ -1,7 +1,7 @@
 ---
 title: "Beste ZZP Tools 2026: Software voor Zelfstandigen"
 date: 2026-04-28
-lastmod: 2026-03-06
+lastmod: 2026-04-28
 description: "De beste ZZP tools van 2026: boekhouding, CRM, urenregistratie, offertes en meer. Compleet overzicht van software die elke zelfstandige nodig heeft."
 categories: ["productiviteit"]
 tags:
@@ -123,7 +123,7 @@ Zelfs als solo-ondernemer heb je overzicht nodig over je lopende projecten, dead
 
 ## 6. Website & online zichtbaarheid
 
-Je website is je visitekaartje. Als een potentiele klant je googelt en niets vindt, verlies je werk. Je hoeft geen duizend euro uit te geven aan een webdesigner — met de juiste tool bouw je zelf een professionele site.
+Je website is je visitekaartje. Als een potentiële klant je googelt en niets vindt, verlies je werk. Je hoeft geen duizend euro uit te geven aan een webdesigner — met de juiste tool bouw je zelf een professionele site.
 
 - **[WordPress](https://wordpress.org/)** (gratis software, hosting vanaf €5/mnd) — de standaard. Maximale controle en SEO-mogelijkheden. Iets meer technisch, maar er zijn duizenden templates.
 - **[Wix](https://www.wix.com/)** (vanaf €8,50/mnd) — de makkelijkste optie. Drag-and-drop, geen code nodig, binnen een middag een professionele site.

@@ -4,7 +4,7 @@ date: 2026-03-03
 lastmod: 2026-03-03
 description: "Welke B2B leadgeneratie tools werken in Nederland? Vergelijk opties voor MKB en bureaus. Bereken de lead-ROI voor jouw salesproces."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/marketing.svg"
 categories:
   - marketing

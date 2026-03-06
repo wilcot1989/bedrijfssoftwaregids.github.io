@@ -150,14 +150,14 @@ Mollie ondersteunt ook diverse cadeaukaartenproviders. Niet de meest spannende f
 
 Dit is waar Mollie het verschil maakt voor de meeste gebruikers. De lijst met ondersteunde platforms is lang:
 
-- **WooCommerce** -- officiële plugin, gratis, binnen minuten geinstalleerd
+- **WooCommerce** -- officiële plugin, gratis, binnen minuten geïnstalleerd
 - **Shopify** -- via Mollie Payments app
 - **Magento 2** -- officiële extensie
 - **PrestaShop** -- officiële module
 - **OpenCart** -- officiële extensie
-- **CCV Shop** -- standaard geintegreerd
-- **[Lightspeed](/blog/lightspeed-kassa-review-2026/) eCom** -- standaard geintegreerd
-- **Mijnwebwinkel** -- standaard geintegreerd
+- **CCV Shop** -- standaard geïntegreerd
+- **[Lightspeed](/blog/lightspeed-kassa-review-2026/) eCom** -- standaard geïntegreerd
+- **Mijnwebwinkel** -- standaard geïntegreerd
 - **BigCommerce** -- via plugin
 - **Wix** -- via integratie
 
@@ -223,7 +223,7 @@ Als je een SaaS-product, abonnementendienst of membership-site runt, zijn recurr
 2. **Vervolgbetalingen**: Mollie incasseert automatisch op de afgesproken frequentie via SEPA Direct Debit of creditcard
 3. **Beheer**: je kunt abonnementen pauzeren, bedragen aanpassen of opzeggen via de API of het dashboard
 
-Het werkt, maar er is een kanttekening: de eerste betaling moet altijd door de klant worden geinitieerd. Je kunt niet zomaar SEPA-incasso's starten zonder dat de klant een initieel mandaat heeft afgegeven. Dat is een wettelijke vereiste, maar bij sommige concurrenten (zoals GoCardless) verloopt dit proces soepeler.
+Het werkt, maar er is een kanttekening: de eerste betaling moet altijd door de klant worden geïnitieerd. Je kunt niet zomaar SEPA-incasso's starten zonder dat de klant een initieel mandaat heeft afgegeven. Dat is een wettelijke vereiste, maar bij sommige concurrenten (zoals GoCardless) verloopt dit proces soepeler.
 
 Bij een subscription-box klant draait dit systeem nu ruim twee jaar stabiel. Zo'n 97% van de maandelijkse incasso's slaagt in een keer. De resterende 3% faalt meestal door onvoldoende saldo -- Mollie probeert het dan automatisch opnieuw.
 
@@ -327,7 +327,7 @@ Webhooks zorgen ervoor dat je webshop automatisch op de hoogte wordt gesteld als
 
 ### 5. Betaalmethodes voor buurlanden vergeten
 
-Als je ook naar Belgie of Duitsland verzendt maar alleen iDEAL aanbiedt, verlies je klanten bij de checkout. Voeg Bancontact (Belgie) en Giropay of creditcard (Duitsland) toe.
+Als je ook naar België of Duitsland verzendt maar alleen iDEAL aanbiedt, verlies je klanten bij de checkout. Voeg Bancontact (België) en Giropay of creditcard (Duitsland) toe.
 
 
 ## Voor wie is Mollie geschikt?
@@ -335,7 +335,7 @@ Als je ook naar Belgie of Duitsland verzendt maar alleen iDEAL aanbiedt, verlies
 ### Ideaal voor:
 - **Startende webshops** -- geen vaste kosten, betaal alleen als je verkoopt
 - **MKB-webshops** -- alle betaalmethodes, sterke integraties, overzichtelijk dashboard
-- **WooCommerce en Shopify gebruikers** -- de plugins zijn goed onderhouden en snel geinstalleerd
+- **WooCommerce en Shopify gebruikers** -- de plugins zijn goed onderhouden en snel geïnstalleerd
 - **SaaS-platforms** met abonnementen -- de Subscriptions API is solide
 - **Freelancers** die betaallinks willen versturen -- Mollie Payment Links is snel en eenvoudig
 - **Multichannel retailers** -- online en (via integraties) in de winkel

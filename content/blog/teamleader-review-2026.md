@@ -27,7 +27,7 @@ faq:
   - q: "Hoe beoordeelt de markt Teamleader?"
     a: "Teamleader scoort een 4,4 op 5 bij Trustpilot (265 reviews) en een 4,3 op 5 bij G2 (52 reviews). Gebruikers waarderen de alles-in-een aanpak en het gebruiksgemak. Kritiekpunten zijn de recente prijsverhogingen en beperkte flexibiliteit bij maatwerk."
   - q: "Is Teamleader een Belgisch of Nederlands bedrijf?"
-    a: "Teamleader is opgericht in 2012 in Gent, Belgie. In 2022 is het overgenomen door het Noorse Visma. Het bedrijf is sterk verankerd in de Benelux-markt, met meer dan 20.000 klanten in Belgie en Nederland. De interface, support en facturatie zijn volledig in het Nederlands beschikbaar."
+    a: "Teamleader is opgericht in 2012 in Gent, België. In 2022 is het overgenomen door het Noorse Visma. Het bedrijf is sterk verankerd in de Benelux-markt, met meer dan 20.000 klanten in België en Nederland. De interface, support en facturatie zijn volledig in het Nederlands beschikbaar."
   - q: "Kan ik mijn data exporteren als ik wil overstappen?"
     a: "Dat is een aandachtspunt. Meerdere gebruikers melden dat het lastig is om data in een bruikbaar formaat te exporteren als je Teamleader verlaat. Zorg dat je voor de overstap een volledige export maakt van contacten, facturen en projectgegevens. Vraag eventueel support om een complete dataexport."
 ---
@@ -42,7 +42,7 @@ Zoek je een breder overzicht? Lees dan ook mijn artikel over de [beste CRM softw
 
 | Kenmerk | Details |
 |---|---|
-| **Opgericht** | 2012 (Gent, Belgie) |
+| **Opgericht** | 2012 (Gent, België) |
 | **Eigenaar** | Visma (sinds 2022) |
 | **Gebruikers** | 20.000+ bedrijven |
 | **Type** | Alles-in-een: CRM + facturatie + projectbeheer |
@@ -237,7 +237,7 @@ Lees ook mijn [HubSpot vs Pipedrive vergelijking](/blog/hubspot-vs-pipedrive-202
 
 Appels en peren, eigenlijk. Exact is een boekhoudplatform dat ook CRM biedt; Teamleader is een CRM-platform dat ook factureert. De boekhoudkant van Exact is veel dieper (BTW-aangifte, grootboek, consolidatie), terwijl het CRM en projectbeheer van Teamleader sterker zijn.
 
-**Kies Teamleader als** je een sterk CRM met geintegreerde facturatie wilt en je boekhouding via Exact of Twinfield doet.
+**Kies Teamleader als** je een sterk CRM met geïntegreerde facturatie wilt en je boekhouding via Exact of Twinfield doet.
 **Kies Exact Online als** je boekhouding centraal staat en CRM secundair is.
 
 ## Veelgemaakte fouten bij Teamleader

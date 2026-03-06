@@ -159,7 +159,7 @@ De volledige integratielijst vind je op de Lightspeed-website. Er zijn honderden
 
 ## Lightspeed Payments: de eigen betaaloplossing
 
-Sinds een paar jaar biedt Lightspeed een eigen betaalverwerking aan: Lightspeed Payments. Het voordeel is dat alles geintegreerd is -- geen apart pinapparaat van een derde partij nodig.
+Sinds een paar jaar biedt Lightspeed een eigen betaalverwerking aan: Lightspeed Payments. Het voordeel is dat alles geïntegreerd is -- geen apart pinapparaat van een derde partij nodig.
 
 **De transactiekosten** liggen rond 1,29% + €0,09 per transactie voor Europese kaarten. Dat is vergelijkbaar met andere payment providers, maar niet per se goedkoper dan een los pinapparaat via CCV of Adyen.
 

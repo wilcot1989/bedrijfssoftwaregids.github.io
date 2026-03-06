@@ -142,7 +142,7 @@ Vergeleken met Moneybird is er geen noemenswaardig verschil in de kwaliteit van 
 
 ## Bankkoppeling: solide, niet spectaculair
 
-e-Boekhouden biedt automatische bankkoppelingen met alle grote Nederlandse banken: ING, ABN AMRO, Rabobank, SNS, ASN, Triodos en meer. Transacties worden automatisch geimporteerd en verschijnen in je overzicht om te categoriseren.
+e-Boekhouden biedt automatische bankkoppelingen met alle grote Nederlandse banken: ING, ABN AMRO, Rabobank, SNS, ASN, Triodos en meer. Transacties worden automatisch geïmporteerd en verschijnen in je overzicht om te categoriseren.
 
 Hier merk je een verschil met Moneybird. Bij Moneybird leert de software na een paar weken welke transacties bij welke categorie horen en stelt automatisch de juiste boeking voor. Die slimme suggesties werken bij e-Boekhouden ook, maar minder verfijnd. Je zult vaker handmatig moeten categoriseren, vooral in het begin.
 

@@ -4,7 +4,7 @@ date: 2026-03-03
 lastmod: 2026-03-03
 description: "Kassasysteem kiezen zonder verborgen kosten? Gebruik deze checklist voor hardware, transactiefees en support. Bereken de werkelijke totaalkosten."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/kassasystemen.svg"
 categories:
   - kassasystemen

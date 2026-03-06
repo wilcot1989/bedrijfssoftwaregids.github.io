@@ -4,7 +4,7 @@ date: 2026-03-18
 lastmod: 2026-03-18
 description: "Welke fiscale eisen stelt de Belastingdienst aan kassasystemen in 2026? Bewaarplicht, BTW-registratie en boeterisico's. Voorkom problemen bij controle."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/kassasystemen.svg"
 categories:
   - kassasystemen

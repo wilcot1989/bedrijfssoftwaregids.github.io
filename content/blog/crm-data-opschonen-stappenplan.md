@@ -4,7 +4,7 @@ date: 2026-04-07
 lastmod: 2026-04-07
 description: "CRM-data vervuild? Stappenplan voor het opschonen van duplicaten, verouderde contacten en onvolledige records. Verhoog je conversie met schone data."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/crm.svg"
 categories:
   - crm

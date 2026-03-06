@@ -26,7 +26,7 @@ faq:
 
 Lightspeed vs Untill -- twee namen die altijd terugkomen als horecaondernemers mij vragen welk kassasysteem ze moeten kiezen. Ik snap de verwarring. Lightspeed is het hippe cloudsysteem op iPads dat je overal ziet staan. Untill is de stille kracht achter duizenden Nederlandse horecazaken, van strandtenten tot hotels.
 
-Na jaren met beide systemen te hebben gewerkt -- bij klanten geinstalleerd, support gebeld, rapporten doorgespit -- zie ik dat de keuze neerkomt op een fundamenteel verschil in filosofie. Lightspeed wil alles modern en visueel houden. Untill wil alles robuust en koppelbaar maken.
+Na jaren met beide systemen te hebben gewerkt -- bij klanten geïnstalleerd, support gebeld, rapporten doorgespit -- zie ik dat de keuze neerkomt op een fundamenteel verschil in filosofie. Lightspeed wil alles modern en visueel houden. Untill wil alles robuust en koppelbaar maken.
 
 In dit artikel zet ik ze punt voor punt naast elkaar. Zodat jij straks weet welk systeem bij jouw zaak past, zonder dat een verkoper je iets aanpraat.
 
@@ -159,7 +159,7 @@ Als ik een gloednieuwe ondernemer met een iPad zie staan, wijs ik naar Lightspee
 
 ### Voorraadbeheer
 
-**Lightspeed** heeft een degelijk voorraadbeheer met recepturen. Je kunt ingredienten koppelen aan gerechten, zodat de voorraad automatisch wordt bijgewerkt bij elke verkoop. Waarschuwingen bij lage voorraad zijn instelbaar.
+**Lightspeed** heeft een degelijk voorraadbeheer met recepturen. Je kunt ingrediënten koppelen aan gerechten, zodat de voorraad automatisch wordt bijgewerkt bij elke verkoop. Waarschuwingen bij lage voorraad zijn instelbaar.
 
 **Untill** gaat een stap verder met een volledig F&B-managementmodule. Recepturen, inkoop, marge-analyse per gerecht -- het is uitgebreider dan wat Lightspeed biedt. Dit is een van de redenen waarom grotere restaurants en hotels voor Untill kiezen.
 

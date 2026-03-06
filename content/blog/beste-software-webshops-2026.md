@@ -40,7 +40,7 @@ Voordat ik de specifieke tools bespreek, wil ik vijf criteria benoemen die ik bi
 
 ### 1. Wat verkoop je en aan wie?
 
-Fysieke producten vereisen verzendintegraties en voorraadbeheer. Digitale producten (cursussen, downloads) hebben dat niet nodig maar stellen andere eisen aan je platform. B2B-verkoop vraagt om btw-verlegd functies en staffelprijzen. En verkoop je alleen in Nederland, of ook in Belgie en Duitsland?
+Fysieke producten vereisen verzendintegraties en voorraadbeheer. Digitale producten (cursussen, downloads) hebben dat niet nodig maar stellen andere eisen aan je platform. B2B-verkoop vraagt om btw-verlegd functies en staffelprijzen. En verkoop je alleen in Nederland, of ook in België en Duitsland?
 
 ### 2. Hoeveel producten en hoeveel orders?
 

@@ -1,7 +1,7 @@
 ---
 title: "Beste ATS-Software Nederland 2026: Top 5"
 date: 2026-03-30
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-30
 description: "De beste recruitment software en ATS systemen van 2026 vergeleken. Recruitee, Homerun, Personio, Greenhouse en Bullhorn op prijs, functies en gebruiksgemak."
 categories: ["hr-software"]
 tags:
@@ -32,7 +32,7 @@ faq:
 Een klant van mij vertelde me laatst dat ze hun beste kandidaat waren kwijtgeraakt omdat zijn sollicitatie drie weken onbeantwoord in een gedeelde mailbox lag. Dat soort verhalen hoor ik vaker dan je zou denken. ATS-software (recruitment software) voorkomt dat je talent mist door chaos in je wervingsproces. Dit zijn de 5 ATS-software oplossingen die ik aanbeveel. Wil je ook de interne communicatie verbeteren bij het onboarden van nieuwe collega's? Lees mijn vergelijking van de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/).
 
 
-Zoek je ook HR software voor ná de aanname? Lees onze [HR software vergelijking](/blog/beste-hr-software-nederland-2026/). Of vergeet niet te kijken naar de [beste loonadministratie software](/blog/beste-loonadministratie-software-2026/) om de salarissen van je nieuwe medewerkers goed te verwerken. Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een snel persoonlijk advies. Wil je na de aanname ook personeelsdossiers goed digitaal bijhouden? Lees dan mijn gids over [personeelsdossiers digitaliseren conform de AVG](/blog/personeelsdossier-digitaliseren-avg/).
+Zoek je ook HR software voor ná de aanname? Lees de [HR software vergelijking](/blog/beste-hr-software-nederland-2026/). Of vergeet niet te kijken naar de [beste loonadministratie software](/blog/beste-loonadministratie-software-2026/) om de salarissen van je nieuwe medewerkers goed te verwerken. Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een snel persoonlijk advies. Wil je na de aanname ook personeelsdossiers goed digitaal bijhouden? Lees dan mijn gids over [personeelsdossiers digitaliseren conform de AVG](/blog/personeelsdossier-digitaliseren-avg/).
 
 ## Snelle vergelijking
 
@@ -183,4 +183,3 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/
 
 ---
 
-*Laatst bijgewerkt: maart 2026.*

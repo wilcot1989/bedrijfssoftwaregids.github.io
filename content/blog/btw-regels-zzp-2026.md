@@ -4,7 +4,7 @@ date: 2026-04-02
 lastmod: 2026-04-02
 description: "Welke BTW-regels gelden voor ZZP'ers in 2026? KOR-grens, BTW-aangifte, intracommunautaire diensten en aftrek. Praktische tips en veelgemaakte fouten."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/boekhouding.svg"
 categories:
   - boekhouding

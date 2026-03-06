@@ -183,4 +183,3 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
-*Laatst bijgewerkt: maart 2026.*

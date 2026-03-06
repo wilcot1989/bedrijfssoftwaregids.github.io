@@ -1,7 +1,7 @@
 ---
 title: "Beste Websitebouwer MKB 2026: Top 5"
 date: 2026-03-26
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-26
 description: "De beste websitebouwers voor het MKB in 2026. WordPress, Wix, Squarespace, Webflow en Shopify vergeleken op prijs, flexibiliteit en gebruiksgemak."
 categories: ["productiviteit"]
 tags:
@@ -207,4 +207,3 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
-*Laatst bijgewerkt: maart 2026.*

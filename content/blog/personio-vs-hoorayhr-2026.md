@@ -143,9 +143,9 @@ Op Trustpilot komt de klacht over prijsverhogingen bij contractverlenging regelm
 
 Trustpilot: geen profiel beschikbaar -- HoorayHR is een kleiner, jonger platform. Feedback is voornamelijk te vinden via G2, Capterra en directe gebruikerservaringen.
 
-HoorayHR is een Nederlands HR-platform dat in 2018 is opgericht in Amsterdam, specifiek voor het MKB in Nederland en Belgie. Het platform richt zich op de kern van HR: verlofregistratie, verzuimbeheer, personeelsdossiers, onboarding en digitaal ondertekenen. Geen recruitment, geen performance management, geen salarisverwerking -- en dat is een bewuste keuze.
+HoorayHR is een Nederlands HR-platform dat in 2018 is opgericht in Amsterdam, specifiek voor het MKB in Nederland en België. Het platform richt zich op de kern van HR: verlofregistratie, verzuimbeheer, personeelsdossiers, onboarding en digitaal ondertekenen. Geen recruitment, geen performance management, geen salarisverwerking -- en dat is een bewuste keuze.
 
-De eerste keer dat ik HoorayHR installeerde voor een accountantskantoor met 25 medewerkers (lees ook: [beste software voor accountants](/blog/beste-software-accountants-2026/)), was ik verrast door de snelheid. Binnen een halve dag stond alles: medewerkers geimporteerd, verlofrechten ingesteld, verzuimregistratie geconfigureerd. Geen consultant nodig, geen implementatietraject van weken. De office manager deed het zelf met de helpdesk op de achtergrond.
+De eerste keer dat ik HoorayHR installeerde voor een accountantskantoor met 25 medewerkers (lees ook: [beste software voor accountants](/blog/beste-software-accountants-2026/)), was ik verrast door de snelheid. Binnen een halve dag stond alles: medewerkers geïmporteerd, verlofrechten ingesteld, verzuimregistratie geconfigureerd. Geen consultant nodig, geen implementatietraject van weken. De office manager deed het zelf met de helpdesk op de achtergrond.
 
 ### Voor wie is HoorayHR geschikt?
 

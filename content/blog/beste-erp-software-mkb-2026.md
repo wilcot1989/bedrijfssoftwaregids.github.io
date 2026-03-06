@@ -1,8 +1,8 @@
 ---
 title: "Beste ERP-Systeem MKB 2026: Top 5"
 date: 2026-03-15
-lastmod: 2026-03-06T10:00:00+01:00
-description: "Vergelijking van de 5 beste ERP-systemen voor het Nederlandse MKB in 2026. Exact Online, Afas, SAP Business One, Dynamics 365 en Odoo vergeleken op prijs en functies."
+lastmod: 2026-03-15
+description: "De 5 beste ERP-systemen voor het Nederlandse MKB in 2026. Exact Online, Afas, SAP, Dynamics 365 en Odoo vergeleken op prijs, functies en gebruiksgemak."
 categories: ["boekhouding"]
 tags:
   - boekhouding
@@ -214,7 +214,7 @@ Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een t
 ### Functies
 
 - **Modulaire opbouw** — Kies uit 40+ officiële modules en duizenden community-modules
-- **Boekhouding** — Facturatie, bankrekonciliatie, btw-aangifte
+- **Boekhouding** — Facturatie, bankreconciliatie, btw-aangifte
 - **Verkoop & CRM** — Pipeline management, offertes, e-commerce
 - **Voorraad & Productie** — WMS, MRP, kwaliteitscontrole, onderhoud
 - **HR** — Personeelsbeheer, werving, onkosten, aanwezigheid
@@ -288,4 +288,3 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
-*Laatst bijgewerkt: maart 2026.*

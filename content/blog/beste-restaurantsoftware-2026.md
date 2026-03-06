@@ -2,7 +2,7 @@
 title: "Beste Horeca Software 2026: Top 5"
 date: 2026-04-25
 lastmod: 2026-04-25
-description: "Welke horeca software past bij jouw zaak? Ik testte 5 systemen op kassa, reserveringen, voorraadbeheer en keukenmanagement. Met actuele prijzen en vergelijkingstabel."
+description: "Welke horeca software past bij jouw zaak? 5 systemen getest op kassa, reserveringen en voorraadbeheer. Met actuele prijzen en vergelijking."
 categories: ["kassasystemen"]
 tags:
   - kassasysteem
@@ -132,7 +132,7 @@ Een apart reserveringsboek is niet meer van deze tijd. Goede horeca software kop
 
 ### Voorraadbeheer
 
-Veel restauranthouders schatten hun voorraad op gevoel. Dat kost geld. Goed voorraadbeheer koppelt je recepturen aan je kassa: verkoop je een pasta carbonara, dan worden de ingredienten automatisch afgeboekt. Je krijgt meldingen als producten opraken en je kunt je food costs nauwkeurig berekenen. Bij restaurants met wisselende kaarten en seizoensproducten is dit geen luxe maar noodzaak.
+Veel restauranthouders schatten hun voorraad op gevoel. Dat kost geld. Goed voorraadbeheer koppelt je recepturen aan je kassa: verkoop je een pasta carbonara, dan worden de ingrediënten automatisch afgeboekt. Je krijgt meldingen als producten opraken en je kunt je food costs nauwkeurig berekenen. Bij restaurants met wisselende kaarten en seizoensproducten is dit geen luxe maar noodzaak.
 
 ### Personeelsplanning
 
@@ -145,7 +145,7 @@ Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij d
 
 ### 1. Lightspeed Restaurant -- Beste allrounder
 
-Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingredienten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. Wil je ook je horeca-boekhouding koppelen aan je kassasysteem? Lees dan mijn vergelijking van de [beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) voor de populairste koppelingen. De koppeling met Formitable voor reserveringen is naadloos: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews. Ben je ook benieuwd hoe je Lightspeed koppelt aan de boekhouding? Lees mijn artikel over [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
+Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingrediënten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. Wil je ook je horeca-boekhouding koppelen aan je kassasysteem? Lees dan mijn vergelijking van de [beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) voor de populairste koppelingen. De koppeling met Formitable voor reserveringen is naadloos: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews. Ben je ook benieuwd hoe je Lightspeed koppelt aan de boekhouding? Lees mijn artikel over [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
 
 Het KDS (Kitchen Display System) is waar Lightspeed echt uitblinkt: ganggestuurde bestellingen verschijnen op het keukenscherm met timers en kleurcodering. De integratie met Thuisbezorgd en Uber Eats betekent dat bezorgorders automatisch in je keukenflow landen zonder handmatig overtypen.
 
@@ -305,7 +305,7 @@ De beperkingen worden duidelijk als je verder kijkt dan de kassa: er is geen res
 - Basisvoorraadbeheer
 - Personeelsbeheer met inlogcodes en rechten
 - HACCP-registratie ingebouwd
-- Geintegreerde betaalterminal (Orderbird PAY)
+- Geïntegreerde betaalterminal (Orderbird PAY)
 - Dagelijkse omzetrapportages
 
 #### Prijzen (2026)
@@ -343,10 +343,10 @@ Waar het wel werkt: foodtrucks, pop-up restaurants en seizoensterrassen. Reader 
 #### Belangrijkste functies
 
 - Gratis kassasoftware (Zettle Go-app)
-- Productbeheer met categorieen en favorieten
+- Productbeheer met categorieën en favorieten
 - Basisvoorraadbeheer en voorraadwaarschuwingen
 - Omzetrapportages en dagelijkse samenvattingen
-- Geintegreerde betaalverwerking via PayPal
+- Geïntegreerde betaalverwerking via PayPal
 - Accepteer pin, contactloos, Apple Pay, Google Pay en QR-betalingen
 - Meerdere gebruikers met verschillende rechten
 - Koppeling met externe boekhoudpakketten (Moneybird, e-Boekhouden)
@@ -447,7 +447,7 @@ Horeca software zonder reserveringskoppeling betekent dubbel werk: je checkt een
 Mijn advies: als reserveringen een belangrijk deel van je bedrijfsvoering zijn (en dat is bij de meeste restaurants het geval), kies dan Lightspeed of Trivec. Lightspeed biedt de breedste integratie met Nederlandse reserveringsplatforms. Trivec heeft een ingebouwd systeem dat goed werkt als je geen extern platform wilt gebruiken. Zoek je ook HR-software voor je horecateam? Lees mijn vergelijking van de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/).
 
 
-## Voorraadbeheer: van ingredienten tot food cost
+## Voorraadbeheer: van ingrediënten tot food cost
 
 Horeca software met goed voorraadbeheer bespaart je serieus geld. De gemiddelde food cost in de Nederlandse horeca ligt rond de 28-32% van de omzet. Met nauwkeurig voorraadbeheer kun je dat terugbrengen naar 25-28% -- en bij een omzet van €15.000 per maand scheelt dat al snel €450-1.050 per maand.
 
@@ -457,7 +457,7 @@ Dit zijn de voorraadfuncties per horeca software systeem:
 - **Untill**: Volledig voorraadbeheer met inkoopmodule. Je kunt direct bij leveranciers bestellen vanuit het systeem. Theoretische vs. werkelijke voorraad vergelijking. Beschikbaar in het Professioneel-pakket.
 - **Trivec**: Voorraadbeheer met food cost rapportages. Minder gedetailleerd dan Lightspeed of Untill, maar voldoende voor de meeste restaurants.
 - **Orderbird**: Basisvoorraadbeheer -- je kunt producten bijhouden, maar geen recepturen invoeren of automatisch afboeken per ingrediënt.
-- **Zettle**: Minimaal voorraadbeheer. Je kunt aantallen bijhouden, maar er is geen koppeling met recepturen of ingredienten.
+- **Zettle**: Minimaal voorraadbeheer. Je kunt aantallen bijhouden, maar er is geen koppeling met recepturen of ingrediënten.
 
 Als voorraadbeheer en food cost controle belangrijk zijn voor je restaurant, kom je uit bij Lightspeed (Plus of hoger) of Untill (Professioneel). De investering in een duurder pakket verdien je terug door lagere food costs. Wil je ook je voorraadbeheer verder professionaliseren naast je horeca software? Lees mijn overzicht van de [beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/).
 

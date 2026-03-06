@@ -22,7 +22,7 @@ faq:
   - q: "Hoe voorkom ik no-shows met salon software?"
     a: "De meeste salon software biedt automatische herinneringen via SMS en e-mail, online aanbetaling of annuleringsbeleid en wachtlijstfuncties. Salonkee en Phorest bieden daarnaast de mogelijkheid om een creditcard te vereisen bij het boeken als extra bescherming."
   - q: "Kan ik salon software koppelen aan mijn kassa?"
-    a: "Ja, de meeste salon software biedt een geintegreerd kassasysteem of koppeling met externe kassasystemen. Salonkee, Phorest en Salonized hebben een ingebouwd kassasysteem. Treatwell Pro koppelt met veel gangbare kassasystemen."
+    a: "Ja, de meeste salon software biedt een geïntegreerd kassasysteem of koppeling met externe kassasystemen. Salonkee, Phorest en Salonized hebben een ingebouwd kassasysteem. Treatwell Pro koppelt met veel gangbare kassasystemen."
   - q: "Welke kapsalon software is het beste voor een kleine kapsalon?"
     a: "Voor een kleine kapsalon met 1-3 medewerkers zijn Planfy en Salonized goede keuzes vanwege de lage instapprijs en het gebruiksgemak. SimplyBook.me biedt een gratis plan dat voor de kleinste salons al voldoende kan zijn."
   - q: "Kan ik producten verkopen via salon software?"

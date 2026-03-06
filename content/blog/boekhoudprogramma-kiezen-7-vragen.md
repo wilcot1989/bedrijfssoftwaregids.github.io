@@ -4,7 +4,7 @@ date: 2026-03-13
 lastmod: 2026-03-13
 description: "Welk boekhoudprogramma past bij jouw bedrijf? Stel deze 7 vragen voordat je kiest. Met concrete tips voor ZZP, BV en MKB. Vergelijk direct."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/boekhouding.svg"
 categories:
   - boekhouding

@@ -65,7 +65,7 @@ faq:
   - q: "Wat is het verschil tussen Moneybird en Exact Online?"
     a: "Moneybird is specifiek ontwikkeld voor kleine ondernemers en ZZP'ers en staat bekend om zijn eenvoud. Exact Online is een uitgebreider platform dat ook geschikt is voor grotere bedrijven met complexere behoeften. Voor de gemiddelde ZZP'er is Moneybird eenvoudiger en voordeliger."
   - q: "Kan ik mijn bankrekening koppelen aan mijn boekhoudprogramma?"
-    a: "Ja, vrijwel alle moderne boekhoudprogramma's bieden automatische bankkoppelingen. Transacties worden automatisch geimporteerd en je hoeft ze alleen nog te categoriseren. Moneybird, Exact Online en e-Boekhouden ondersteunen alle grote Nederlandse banken."
+    a: "Ja, vrijwel alle moderne boekhoudprogramma's bieden automatische bankkoppelingen. Transacties worden automatisch geïmporteerd en je hoeft ze alleen nog te categoriseren. Moneybird, Exact Online en e-Boekhouden ondersteunen alle grote Nederlandse banken."
   - q: "Heb ik als ZZP'er een boekhouder nodig naast boekhoudsoftware?"
     a: "Dat hangt af van de complexiteit van je administratie. Voor eenvoudige administraties (dienstverlening, weinig kosten) kun je prima zelf boekhouden met goede software. Bij complexere situaties, zoals buitenlandse klanten, investeringen of vastgoed, is een boekhouder aan te raden. Veel boekhouders werken samen met software als Moneybird of Exact Online."
   - q: "Kan ik overstappen van boekhoudsoftware zonder data te verliezen?"
@@ -152,7 +152,7 @@ ZZP'ers die verwachten door te groeien naar een BV met personeel. Of ondernemers
 
 De integraties. Met meer dan 300 apps en koppelingen is Exact het ecosysteem-pakket. Bank, CRM, projectmanagement, [urenregistratie](/blog/beste-urenregistratie-software-2026/) — alles koppelt. De rapportages zijn de meest uitgebreide in dit overzicht: cashflow-prognoses, winstgevendheid per project, noem maar op.
 
-Ben je als ZZP'er ook op zoek naar een CRM-systeem? Exact Online biedt een geintegreerde CRM-module. Lees meer in mijn artikel over de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/).
+Ben je als ZZP'er ook op zoek naar een CRM-systeem? Exact Online biedt een geïntegreerde CRM-module. Lees meer in mijn artikel over de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/).
 
 ### Eerlijke nadelen
 

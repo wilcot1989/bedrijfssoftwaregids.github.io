@@ -55,7 +55,7 @@ Zoek je een breder overzicht? Bekijk dan mijn vergelijking van de [beste CRM sof
 | **Trustpilot** | 1,9/5 (959 reviews) |
 | **Capterra** | 4,5/5 (4.400+ reviews) |
 
-Die Trustpilot-score springt eruit. Met 44% eensterbeoordelingen versus 34% vijfsterren is het een gepolariseerd beeld. De klachten gaan vrijwel allemaal over contractvoorwaarden, moeilijk opzeggen en plotselinge prijsverhogingen. Op G2 en Capterra -- waar geverifieerde gebruikers het product zelf beoordelen -- scoort HubSpot beduidend beter. Dat verschil zegt wat mij betreft meer over de commerciele aanpak dan over de software zelf.
+Die Trustpilot-score springt eruit. Met 44% eensterbeoordelingen versus 34% vijfsterren is het een gepolariseerd beeld. De klachten gaan vrijwel allemaal over contractvoorwaarden, moeilijk opzeggen en plotselinge prijsverhogingen. Op G2 en Capterra -- waar geverifieerde gebruikers het product zelf beoordelen -- scoort HubSpot beduidend beter. Dat verschil zegt wat mij betreft meer over de commerciële aanpak dan over de software zelf.
 
 ## Alle plannen en prijzen (gecontroleerd maart 2026)
 
@@ -164,7 +164,7 @@ De sprong van Starter naar Professional Marketing Hub is groot: van €15 per ge
 
 ## Breeze AI: de nieuwe toevoeging
 
-HubSpot heeft in 2025-2026 flink geinvesteerd in AI onder de noemer "Breeze". Er zijn vier kern-agents:
+HubSpot heeft in 2025-2026 flink geïnvesteerd in AI onder de noemer "Breeze". Er zijn vier kern-agents:
 
 - **Customer Agent** -- beantwoordt supportvragen automatisch, ondersteunt inmiddels 9 kanalen (inclusief WhatsApp en SMS)
 - **Content Agent** -- genereert marketingcontent op basis van je merkrichtlijnen en CRM-data
@@ -305,7 +305,7 @@ Ja, je kunt contacten, bedrijven, deals en activiteiten exporteren als CSV. Pipe
 
 HubSpot CRM is het beste all-in-one platform voor bedrijven die marketing en sales willen combineren. Daar ben ik na al die implementaties nog steeds van overtuigd. De interface is uitstekend, het gratis plan is een goede instap, en het Starter Customer Platform biedt veel waar voor €15 per gebruiker per maand.
 
-Maar ik kan niet om de olifant in de kamer heen: de prijssprong naar Professional is bruut. Van €15 naar €90 per gebruiker per maand, plus verplichte onboarding, plus een jaarcontract. Dat past niet bij elk MKB-budget. En de gepolariseerde Trustpilot-reviews (1,9/5) weerspiegelen reele frustraties over contractvoorwaarden.
+Maar ik kan niet om de olifant in de kamer heen: de prijssprong naar Professional is bruut. Van €15 naar €90 per gebruiker per maand, plus verplichte onboarding, plus een jaarcontract. Dat past niet bij elk MKB-budget. En de gepolariseerde Trustpilot-reviews (1,9/5) weerspiegelen reële frustraties over contractvoorwaarden.
 
 ### Mijn aanbeveling in drie scenario's
 

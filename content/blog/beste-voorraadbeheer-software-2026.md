@@ -1,8 +1,8 @@
 ---
 title: "Beste Voorraadbeheer Software MKB 2026"
 date: 2026-05-01
-lastmod: 2026-03-06T10:00:00+01:00
-description: "De 6 beste voorraadbeheer en inventory management tools voor het MKB in 2026. Vergelijk Picqer, Exact Online, Inventory Planner, Katana, inFlow en Cin7 op prijs, functies en integraties."
+lastmod: 2026-05-01
+description: "De 6 beste voorraadbeheer tools voor het MKB in 2026. Picqer, Exact Online, Katana, inFlow en Cin7 vergeleken op prijs, functies en integraties."
 categories: ["webshops"]
 tags:
   - webshop
@@ -142,7 +142,7 @@ Werk je met producten die een houdbaarheidsdatum hebben, of met artikelen waarvo
 
 Picqer is de Nederlandse tool die ik het vaakst aanbeveel aan webshopondernemers die hun magazijn professioneel willen aansturen. Als je ook medewerkers voor je magazijn aanneemt en wilt digitaliseren, is de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) een waardevolle aanvulling. Het platform is specifiek gebouwd voor e-commerce logistiek, en dat merk je aan alles: van de orderpicking met barcodescanning tot de directe koppelingen met Bol.com, Shopify en WooCommerce.
 
-Ik heb Picqer geimplementeerd bij een webshop die van 80 naar 600 orders per dag groeide. Het systeem schaalte probleemloos mee. De orderpicking werd 40% sneller door de geoptimaliseerde picklists, en het aantal verzendfouten daalde naar minder dan 0,5%.
+Ik heb Picqer geïmplementeerd bij een webshop die van 80 naar 600 orders per dag groeide. Het systeem schaalte probleemloos mee. De orderpicking werd 40% sneller door de geoptimaliseerde picklists, en het aantal verzendfouten daalde naar minder dan 0,5%.
 
 **Trustpilot: Geen Trustpilot-profiel** (maart 2026). Picqer staat niet op Trustpilot. Dat is opvallend voor een tool die breed wordt gebruikt in de Nederlandse e-commerce markt. Mijn indruk uit de praktijk is positief, maar onafhankelijke gebruikersreviews zijn via dit kanaal niet beschikbaar.
 
@@ -285,7 +285,7 @@ Ik raadde het aan bij een modezaak met sterke seizoensfluctuaties. Voorheen best
 
 Katana is de tool die ik aanbeveel zodra er productie bij komt kijken. Koop je grondstoffen in, assembleer je producten, en verkoop je via meerdere kanalen? Dan heb je een MRP-systeem (Material Requirements Planning) nodig, en Katana is de meest toegankelijke optie die ik ken. Wil je ook begrijpen hoe cloud POS-systemen en lokale kassa's van elkaar verschillen voor je productiebedrijf? Lees dan mijn uitleg over [cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/). Het berekent automatisch hoeveel grondstoffen je nodig hebt op basis van je verkooporders en productieplanning.
 
-Ik heb het getest bij een cosmeticaproducent die ingredienten inkoopt, mengt en verpakt. Het real-time overzicht van zowel grondstoffen als eindproducten was een gamechanger -- voorheen werkten ze met twee losse spreadsheets die nooit synchroon liepen.
+Ik heb het getest bij een cosmeticaproducent die ingrediënten inkoopt, mengt en verpakt. Het real-time overzicht van zowel grondstoffen als eindproducten was een gamechanger -- voorheen werkten ze met twee losse spreadsheets die nooit synchroon liepen.
 
 **Trustpilot: 2.4/5 (9 reviews)** (maart 2026). Laat ik eerlijk zijn: 9 reviews is te weinig voor een betrouwbaar beeld. Toch is het opvallend dat de meerderheid van de reviews 1 ster geeft, met klachten over forse prijsverhogingen en een gewijzigd businessmodel. Dit sluit aan bij wat ik ook in de nadelen heb vermeld. Neem deze score mee als signaal, maar baseer je keuze niet uitsluitend hierop.
 
@@ -472,7 +472,7 @@ Zelfs de beste software kan niet corrigeren voor diefstal, breuk of administrati
 
 Wil je ook je leverancierscontracten en inkoopovereenkomsten digitaal beheren naast je voorraad? Lees dan ook het overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/).
 
-Niet elk product verdient evenveel aandacht. Classificeer je voorraad in drie categorieen: A-producten (20% van je assortiment, 80% van je omzet), B-producten (30%, 15%) en C-producten (50%, 5%). Richt je voorraadbeheer-inspanningen op de A-categorie.
+Niet elk product verdient evenveel aandacht. Classificeer je voorraad in drie categorieën: A-producten (20% van je assortiment, 80% van je omzet), B-producten (30%, 15%) en C-producten (50%, 5%). Richt je voorraadbeheer-inspanningen op de A-categorie.
 
 
 ## Conclusie
@@ -480,7 +480,7 @@ Niet elk product verdient evenveel aandacht. Classificeer je voorraad in drie ca
 De keuze voor voorraadbeheer software hangt af van drie vragen: wat is je verkoopmodel, hoe complex is je supply chain, en welke systemen gebruik je al?
 
 - **Webshop met magazijn in Nederland**: [Picqer](https://picqer.com/nl) -- de standaard voor Nederlandse e-commerce logistiek.
-- **MKB met Exact-boekhouding**: [Exact Online Handel](https://www.exact.com/nl) -- voorraad en financien in een systeem.
+- **MKB met Exact-boekhouding**: [Exact Online Handel](https://www.exact.com/nl) -- voorraad en financiën in een systeem.
 - **Seizoensgevoelige e-commerce**: [Inventory Planner](https://www.inventory-planner.com/) -- voorspel je inkoop in plaats van gokken.
 - **Productiebedrijf**: [Katana](https://katanamrp.com/) -- van grondstof tot eindproduct in een overzicht.
 - **Starter met beperkt budget**: [inFlow](https://www.inflowinventory.com/) -- morgen operationeel vanaf ~$110/maand.

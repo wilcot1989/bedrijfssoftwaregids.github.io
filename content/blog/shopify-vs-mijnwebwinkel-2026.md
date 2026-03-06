@@ -2,7 +2,7 @@
 title: "Shopify vs Mijnwebwinkel 2026: Welke Webshop?"
 date: 2026-04-20
 lastmod: 2026-04-20
-description: "Shopify vs Mijnwebwinkel (Acendy) eerlijk vergeleken op prijs, functies, design, betaalmethoden, SEO en support. Ontdek welk webshopplatform het beste past bij jouw Nederlandse onderneming."
+description: "Shopify vs Mijnwebwinkel (Acendy) eerlijk vergeleken op prijs, functies, design en betaalmethoden. Ontdek welk webshopplatform bij jou past."
 categories: ["webshops"]
 tags:
   - webshop
@@ -92,7 +92,7 @@ Die transitie is belangrijk context voor deze vergelijking. Het "oude" Mijnwebwi
 - Volledig Nederlands platform (interface, support, documentatie)
 - Telefonische support en WhatsApp (persoonlijk contact)
 - Geen extra transactiekosten bovenop je PSP
-- iDEAL standaard geintegreerd
+- iDEAL standaard geïntegreerd
 - Eenvoudige productcatalogus en orderbeheer
 - B2B-functionaliteit (vanaf Business-pakket)
 - 20 jaar ervaring in de Nederlandse markt

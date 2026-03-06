@@ -52,7 +52,7 @@ products:
     rating_value: "2.5"
     rating_count: "381"
   - name: "Microsoft Planner"
-    description: "Eenvoudig taakbeheer geintegreerd in Microsoft 365 met kanban-borden voor teams die al Microsoft gebruiken."
+    description: "Eenvoudig taakbeheer geïntegreerd in Microsoft 365 met kanban-borden voor teams die al Microsoft gebruiken."
     url: "https://www.microsoft.com/nl-nl/microsoft-365/business/task-management-software"
     price: "5.60"
 faq:

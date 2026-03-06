@@ -55,7 +55,7 @@ Zoek je een breder overzicht van CRM-oplossingen? Bekijk dan ook mijn artikel ov
 | **Klantenservice** | E-mail, chat, telefoon | 24/7 live chat |
 | **Ideale bedrijfsgrootte** | 1-1.000+ medewerkers | 1-200 medewerkers |
 
-Die Trustpilot-scores vertellen een verhaal. Pipedrive scoort 4.5/5 met ruim 3.200 reviews -- gebruikers zijn consistent positief over het gebruiksgemak en de focus op sales. HubSpot scoort beduidend lager met 1.9/5 op basis van ~960 reviews. De klachten gaan vooral over agressieve contractvoorwaarden en onverwachte prijsverhogingen. Eerlijk gezegd: de lage HubSpot-score weerspiegelt niet per se de productkwaliteit, maar zegt veel over hoe gebruikers de commerciele aanpak ervaren.
+Die Trustpilot-scores vertellen een verhaal. Pipedrive scoort 4.5/5 met ruim 3.200 reviews -- gebruikers zijn consistent positief over het gebruiksgemak en de focus op sales. HubSpot scoort beduidend lager met 1.9/5 op basis van ~960 reviews. De klachten gaan vooral over agressieve contractvoorwaarden en onverwachte prijsverhogingen. Eerlijk gezegd: de lage HubSpot-score weerspiegelt niet per se de productkwaliteit, maar zegt veel over hoe gebruikers de commerciële aanpak ervaren.
 
 {{< figure src="/images/blog/hubspot-vs-pipedrive/feature-vergelijking-hubspot-pipedrive.svg" alt="Feature vergelijking HubSpot vs Pipedrive: visuele matrix met scores op gratis plan, e-mail tracking, pipeline management, rapportages, integraties, mobiele app en Trustpilot" caption="Visuele vergelijking van de belangrijkste CRM-functies tussen HubSpot en Pipedrive." >}}
 

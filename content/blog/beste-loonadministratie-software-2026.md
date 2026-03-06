@@ -1,7 +1,7 @@
 ---
 title: "Beste Salarisadministratie Software MKB 2026"
 date: 2026-03-24
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-24
 description: "De beste salarissoftware voor Nederlandse bedrijven in 2026. Nmbrs, Visma, Loket.nl, AFAS en ADP vergeleken op prijs, functies en gebruiksgemak."
 categories: ["hr-software"]
 tags:
@@ -190,4 +190,3 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/
 
 ---
 
-*Laatst bijgewerkt: maart 2026.*

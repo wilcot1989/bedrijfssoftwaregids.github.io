@@ -4,7 +4,7 @@ date: 2026-04-22
 lastmod: 2026-04-22
 description: "A/B testen starten zonder ervaring? Stap-voor-stap je eerste experiment opzetten. Van hypothese tot resultaat. Met tools en voorbeelden voor MKB."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/marketing.svg"
 categories:
   - marketing
@@ -14,7 +14,7 @@ faq:
   - q: "Wat is het verschil tussen A/B testen en multivariate testen?"
     a: "Bij A/B testen vergelijk je twee versies van één element, bijvoorbeeld een blauwe knop versus een groene knop. Bij multivariate testen test je meerdere elementen tegelijk in alle mogelijke combinaties. Voor beginners is A/B testen de juiste keuze omdat het eenvoudiger is en minder verkeer vereist. Multivariate testen zijn pas zinvol als je meer dan 50.000 bezoekers per maand hebt."
   - q: "Welke elementen moet je als eerste A/B testen?"
-    a: "Begin met de elementen die de grootste impact hebben op je conversie: de headline op je landingspagina, je call-to-action knop en je formulier. In mijn ervaring levert het testen van de headline de grootste verschilen op, soms 20 tot 30 procent meer conversie. Test daarna je CTA-tekst en kleur, en vervolgens de lengte en velden van je aanmeldformulier."
+    a: "Begin met de elementen die de grootste impact hebben op je conversie: de headline op je landingspagina, je call-to-action knop en je formulier. In mijn ervaring levert het testen van de headline de grootste verschillen op, soms 20 tot 30 procent meer conversie. Test daarna je CTA-tekst en kleur, en vervolgens de lengte en velden van je aanmeldformulier."
   - q: "Hoe lang moet een A/B test draaien?"
     a: "Minimaal twee volledige weken, ook als je eerder statistische significantie bereikt. De reden: bezoekersgedrag verschilt per dag van de week. Als je na drie dagen al stopt, mis je mogelijk het weekend-effect of het begin-van-de-week patroon. Laat de test altijd een veelvoud van zeven dagen draaien. De meeste experts raden twee tot vier weken aan."
 tags:

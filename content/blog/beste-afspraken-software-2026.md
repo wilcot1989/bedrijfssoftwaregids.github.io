@@ -322,7 +322,7 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 ### 1. Communiceer de verandering
 Laat bestaande klanten weten dat ze voortaan online kunnen boeken. Stuur een e-mail, zet het op je website en vermeld het in je e-mailhandtekening. Als je ook de urenadministratie wilt automatiseren, combineer dan je afsprakensoftware met [goede urenregistratie software](/blog/beste-urenregistratie-software-2026/). Werk je met een kassasysteem in je winkel of salon? Lees dan ook hoe je een [kassasysteem voor een kapsalon](/sectoren/kassasystemen/kassasysteem-kapsalon/) kiest, of bekijk het overzicht van de [beste kassasystemen voor horeca](/blog/beste-kassasysteem-horeca-2026/) als je ook in de horeca actief bent.
 
-### 2. Stel bufferttijden in
+### 2. Stel buffertijden in
 Plan automatisch 10-15 minuten pauze tussen afspraken. Dit geeft je ruimte om na te werken, voor te bereiden of even pauze te nemen.
 
 ### 3. Beperk hoe ver vooruit klanten kunnen boeken

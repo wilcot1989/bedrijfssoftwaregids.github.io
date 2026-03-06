@@ -1,7 +1,7 @@
 ---
 title: "Moneybird vs e-Boekhouden 2026: Welke is Beter voor Jou?"
 date: 2026-03-10
-lastmod: 2026-03-06
+lastmod: 2026-03-10
 description: "Moneybird vs e-Boekhouden: een eerlijke vergelijking op prijs, functies, gebruiksgemak en BTW-aangifte. Ontdek welk boekhoudpakket het beste bij jou past in 2026."
 categories: ["boekhouding"]
 tags:
@@ -166,7 +166,7 @@ Moneybird en e-Boekhouden ondersteunen beide de standaard BTW-tarieven (21%, 9%,
 
 **Winnaar: Moneybird (nipt)**
 
-Beide pakketten bieden automatische bankkoppelingen met alle grote Nederlandse banken (ING, ABN AMRO, Rabobank, SNS, ASN, Triodos). Transacties worden automatisch geimporteerd en je kunt ze handmatig of automatisch categoriseren.
+Beide pakketten bieden automatische bankkoppelingen met alle grote Nederlandse banken (ING, ABN AMRO, Rabobank, SNS, ASN, Triodos). Transacties worden automatisch geïmporteerd en je kunt ze handmatig of automatisch categoriseren.
 
 Moneybird scoort iets hoger dankzij slimmere automatische categorisering. Na een paar weken leert Moneybird welke transacties bij welke categorie horen en stelt het automatisch de juiste boeking voor. e-Boekhouden biedt ook automatische regels, maar deze werken iets minder verfijnd.
 

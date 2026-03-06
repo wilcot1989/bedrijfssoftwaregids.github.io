@@ -4,7 +4,7 @@ date: 2026-03-08
 lastmod: 2026-03-08
 description: "Stap van Excel over naar een CRM zonder dataverlies. Praktisch migratieplan met voorbereiding, opschoning en importtips. Doe de gratis CRM keuzehulp."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/crm.svg"
 categories:
   - crm

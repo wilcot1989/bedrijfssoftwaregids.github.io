@@ -432,4 +432,3 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
-*Laatst bijgewerkt: februari 2026.*

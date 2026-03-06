@@ -4,7 +4,7 @@ date: 2026-03-28
 lastmod: 2026-03-28
 description: "Hoe bouw je een B2B e-maillijst op zonder spam? Ethische strategieën met lead magnets, LinkedIn en content marketing. Groei je lijst duurzaam."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/marketing.svg"
 categories:
   - marketing
@@ -58,7 +58,7 @@ Een directeur inkoop bij een productiebedrijf heeft geen interesse in een e-book
 
 Wat niet werkt: een whitepaper van 8.000 woorden, een "gratis consult van 30 minuten" als enige lead magnet, of een nieuwsbrief zonder duidelijke waardepropositie.
 
-Technisch gezet je dit op met een formulier op een gerichte landingspagina. Houd de invulvelden minimaal: voornaam, achternaam, zakelijk e-mailadres, bedrijfsnaam. Meer velden = minder downloads. Elke extra verplicht veld kost je gemiddeld 10 tot 15 procent conversie.
+Technisch stel je dit zo in met een formulier op een gerichte landingspagina. Houd de invulvelden minimaal: voornaam, achternaam, zakelijk e-mailadres, bedrijfsnaam. Meer velden = minder downloads. Elke extra verplicht veld kost je gemiddeld 10 tot 15 procent conversie.
 
 ## Strategie 2: LinkedIn als listbuilder
 

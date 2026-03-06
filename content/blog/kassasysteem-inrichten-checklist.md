@@ -4,7 +4,7 @@ date: 2026-04-12
 lastmod: 2026-04-12
 description: "Kassasysteem inrichten voor je opening? Complete checklist met artikelen, BTW-tarieven, betaalmethoden en training. Voorkom stress op dag één."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/kassasystemen.svg"
 categories:
   - kassasystemen

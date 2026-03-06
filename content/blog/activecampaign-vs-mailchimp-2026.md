@@ -119,7 +119,7 @@ Mailchimp Standard bij meer contacten:
 
 Op pure prijs wint Mailchimp bij vrijwel elke lijstgrootte. Maar -- en dit is cruciaal -- je vergelijkt niet dezelfde functies. ActiveCampaign Plus bevat een volwaardig CRM, geavanceerde automation, lead scoring en site tracking. Bij Mailchimp moet je naar het Standard- of Premium-plan voor vergelijkbare automatiseringskracht, en een CRM zit er helemaal niet in.
 
-Een klant van mij met 8.000 contacten betaalde $110/mnd bij Mailchimp Standard plus $45/mnd voor een apart CRM. Bij ActiveCampaign Plus ($174/mnd) had hij alles in een platform en bespaarde hij netto $0 -- maar won hij een compleet geintegreerd systeem. Dat is de afweging die je moet maken.
+Een klant van mij met 8.000 contacten betaalde $110/mnd bij Mailchimp Standard plus $45/mnd voor een apart CRM. Bij ActiveCampaign Plus ($174/mnd) had hij alles in een platform en bespaarde hij netto $0 -- maar won hij een compleet geïntegreerd systeem. Dat is de afweging die je moet maken.
 
 **Verborgen kosten om op te letten:**
 

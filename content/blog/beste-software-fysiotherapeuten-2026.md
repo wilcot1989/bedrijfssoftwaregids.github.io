@@ -233,7 +233,7 @@ De helpdesk krijgt consistent goede reviews van gebruikers. Dat klinkt als een k
 
 Fysiomanager valt op door het flexibele prijsmodel. Je betaalt een laag basisbedrag plus een tarief per fte — niet per gebruiker of per werkplek. Als je naast je praktijksoftware ook medewerkers wilt aantrekken, is de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) een handige volgende stap. Dat betekent dat je als startende therapeut met een paar behandelingen per week weinig betaalt, en dat de kosten pas stijgen als je praktijk groeit. Voor receptionisten geldt bovendien een lager tarief. Dat model heb ik bij geen andere aanbieder gezien.
 
-Het EPD is volledig geintegreerd met de financiële administratie. Indicatiecodes worden automatisch geteld en omgezet, dossiers worden gecontroleerd op volledigheid en verzekeringsgegevens worden opgehaald via VECOZO. De software werkt met "procedures" — dat is het volledige traject rond een klacht, van diagnostiek tot behandelplan tot eindmeting. Die aanpak dwingt je om gestructureerd te werken.
+Het EPD is volledig geïntegreerd met de financiële administratie. Indicatiecodes worden automatisch geteld en omgezet, dossiers worden gecontroleerd op volledigheid en verzekeringsgegevens worden opgehaald via VECOZO. De software werkt met "procedures" — dat is het volledige traject rond een klacht, van diagnostiek tot behandelplan tot eindmeting. Die aanpak dwingt je om gestructureerd te werken.
 
 De klinimetrie is uitgebreid, met meetinstrumenten, testen en vragenlijsten die direct in het dossier zitten. Het patientenportaal MijnZorgtoegang kost €5,30 per fte per maand extra, maar geeft patienten de mogelijkheid om vragenlijsten in te vullen en afspraken in te zien.
 
@@ -279,7 +279,7 @@ De klinimetrie is uitgebreid, met meetinstrumenten, testen en vragenlijsten die 
 
 ## 4. Crossuite — Beste voor Multidisciplinaire Praktijken
 
-Crossuite komt oorspronkelijk uit Belgie, waar het als eerste door het RIZIV is goedgekeurd voor alle eHealth-diensten. Voor je loonadministratie als je medewerkers in dienst hebt, lees dan ook het artikel over de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/). In Nederland groeit het snel, vooral bij multidisciplinaire praktijken waar fysiotherapeuten samenwerken met ergotherapeuten, logopedisten of psychologen. De software is gebouwd voor dat soort samenwerking.
+Crossuite komt oorspronkelijk uit België, waar het als eerste door het RIZIV is goedgekeurd voor alle eHealth-diensten. Voor je loonadministratie als je medewerkers in dienst hebt, lees dan ook het artikel over de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/). In Nederland groeit het snel, vooral bij multidisciplinaire praktijken waar fysiotherapeuten samenwerken met ergotherapeuten, logopedisten of psychologen. De software is gebouwd voor dat soort samenwerking.
 
 Wat me opvalt bij Crossuite is de gebruiksvriendelijkheid. De interface is modern en logisch opgebouwd. Patienten vullen digitale intakeformulieren in die automatisch in het dossier worden geladen. Declaraties gaan via Famed, Infomedics of direct via VECOZO. De koppeling met boekhoudpakketten als Exact Online, Twinfield en Snelstart werkt soepel.
 
@@ -314,7 +314,7 @@ Het patientenportaal is sterk: patienten boeken zelf afspraken, ontvangen oefenp
 
 ### Nadelen
 - Relatief nieuw in Nederland — kleiner gebruikersbestand
-- Oorsprong in Belgie kan leiden tot kleine vertaalverschillen
+- Oorsprong in België kan leiden tot kleine vertaalverschillen
 - Minder diepe KNGF-integratie dan Intramed of FysioRoadmap
 - Prijzen vereisen simulatie op de website (niet direct zichtbaar)
 - Minder community-ondersteuning in Nederland

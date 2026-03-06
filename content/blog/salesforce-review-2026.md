@@ -35,7 +35,7 @@ faq:
 
 Salesforce is het CRM-platform waar elke MKB-ondernemer ooit van heeft gehoord, en waar ik in mijn werk als consultant de meest uiteenlopende reacties over krijg. Van "dit is het beste systeem dat we ooit hebben gebruikt" tot "we hadden nooit moeten beginnen". Beide reacties kloppen -- het ligt er maar net aan of Salesforce bij jouw situatie past.
 
-Ik heb Salesforce geimplementeerd bij vier Nederlandse bedrijven, van een technische groothandel in Eindhoven met 30 verkopers tot een snelgroeiende SaaS-startup in Amsterdam die van HubSpot overswitchte. Mijn conclusie? Salesforce is een uitzonderlijk krachtig platform. Maar voor het overgrote deel van het Nederlandse MKB is het te duur, te complex en te tijdrovend om de investering terug te verdienen.
+Ik heb Salesforce geïmplementeerd bij vier Nederlandse bedrijven, van een technische groothandel in Eindhoven met 30 verkopers tot een snelgroeiende SaaS-startup in Amsterdam die van HubSpot overswitchte. Mijn conclusie? Salesforce is een uitzonderlijk krachtig platform. Maar voor het overgrote deel van het Nederlandse MKB is het te duur, te complex en te tijdrovend om de investering terug te verdienen.
 
 In deze Salesforce review deel ik precies wat je kunt verwachten: de echte kosten (inclusief de verborgen), de functies, de nadelen die Salesforce zelf niet benoemt, en wanneer het platform wel degelijk de juiste keuze is.
 

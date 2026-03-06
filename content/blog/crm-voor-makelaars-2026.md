@@ -26,7 +26,7 @@ faq:
   - q: "Heeft een makelaar echt een CRM nodig?"
     a: "Ja, een CRM is essentieel voor makelaars. Je beheert veel contacten (kopers, verkopers, huurders, verhuurders), woningen en bezichtigingen tegelijk. Zonder CRM raak je snel het overzicht kwijt, mis je opvolgtaken en loop je deals mis. Zelfs een klein makelaarskantoor profiteert van een gestructureerd systeem voor klantbeheer."
   - q: "Kan ik mijn CRM koppelen aan Funda?"
-    a: "Realworks heeft een directe, volledig geintegreerde koppeling met Funda. Voor andere CRM-systemen is een Funda-koppeling lastiger; je hebt hiervoor een aparte vastgoedmodule of middleware nodig. Sommige makelaars gebruiken een combinatie van Realworks voor de Funda-koppeling en een apart CRM voor relatiebeheer."
+    a: "Realworks heeft een directe, volledig geïntegreerde koppeling met Funda. Voor andere CRM-systemen is een Funda-koppeling lastiger; je hebt hiervoor een aparte vastgoedmodule of middleware nodig. Sommige makelaars gebruiken een combinatie van Realworks voor de Funda-koppeling en een apart CRM voor relatiebeheer."
   - q: "Welk CRM is het beste voor een kantoor met meerdere makelaars?"
     a: "Voor grotere makelaarskantoren (5+ makelaars) zijn Realworks en Salesforce het meest geschikt. Realworks biedt kantoorbreed beheer met gedeelde woningportefeuille en contacten. Salesforce biedt de meeste schaalbaarheid en aanpasbaarheid. Gripp is een goede keuze als je ook projectbeheer en facturatie in een systeem wilt."
 ---
@@ -95,7 +95,7 @@ Realworks is de de facto standaard in de Nederlandse makelaardij, en als ik met 
 
 ## 2. HubSpot CRM
 
-HubSpot is niet gebouwd voor makelaars, maar ik heb het succesvol ingericht voor kantoren die sterk inzetten op online leadgeneratie. Denk aan landingspagina's voor gratis waardebepalingen, geautomatiseerde opvolgmails, en een compleet overzicht van elke interactie met een potentiele klant. Het gratis plan is een prima startpunt, maar de echte kracht zit in de betaalde marketing-features.
+HubSpot is niet gebouwd voor makelaars, maar ik heb het succesvol ingericht voor kantoren die sterk inzetten op online leadgeneratie. Denk aan landingspagina's voor gratis waardebepalingen, geautomatiseerde opvolgmails, en een compleet overzicht van elke interactie met een potentiële klant. Het gratis plan is een prima startpunt, maar de echte kracht zit in de betaalde marketing-features.
 
 Voor een uitgebreide vergelijking van HubSpot met andere CRM-systemen, lees onze [HubSpot vs Pipedrive vergelijking](/blog/hubspot-vs-pipedrive-2026/).
 

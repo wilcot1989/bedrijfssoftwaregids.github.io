@@ -4,7 +4,7 @@ date: 2026-03-03
 lastmod: 2026-03-03
 description: "Kassasysteem automatisch koppelen aan je boekhouding? Vergelijk de beste combinaties voor horeca en kapsalon. Bereken hoeveel tijd je bespaart."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/kassasystemen.svg"
 categories:
   - kassasystemen

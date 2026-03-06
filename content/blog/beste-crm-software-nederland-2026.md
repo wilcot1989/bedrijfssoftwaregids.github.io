@@ -41,7 +41,7 @@ products:
     rating_value: "1.5"
     rating_count: "610"
   - name: "Exact Online CRM"
-    description: "CRM-module geintegreerd met Exact Online boekhoudsoftware voor Nederlandse bedrijven."
+    description: "CRM-module geïntegreerd met Exact Online boekhoudsoftware voor Nederlandse bedrijven."
     url: "https://www.exact.com/nl"
     price: "48.00"
     rating_value: "2.6"
@@ -211,7 +211,7 @@ Monday CRM is de tool die ik aanbeveel als een klant zegt: "Ik wil mijn deals tr
 
 ### Belangrijkste functies
 - Volledig aanpasbare sales pipelines
-- Geintegreerd projectmanagement
+- Geïntegreerd projectmanagement
 - E-mailsynchronisatie en tracking
 - Automatiseringen zonder code
 - Dashboards en rapportages
@@ -419,7 +419,7 @@ Dat hangt sterk af van het CRM-systeem en je bedrijfsgrootte. Pipedrive en HubSp
 
 ### Wat is het verschil tussen een CRM en een ERP systeem?
 
-Een CRM richt zich op klantbeheer en klantrelaties: contacten, deals, communicatie en marketing. Een ERP is breder en omvat ook financien, voorraadbeheer, HR en productie. Voor de meeste MKB-bedrijven is een goed CRM gekoppeld aan je boekhoudsoftware voldoende. Een ERP is pas nodig als je productiebedrijf hebt met complexe supply chains. Tools als Teamleader zitten ergens in het midden -- ze combineren CRM met projecten en facturatie zonder de complexiteit van een volledig ERP.
+Een CRM richt zich op klantbeheer en klantrelaties: contacten, deals, communicatie en marketing. Een ERP is breder en omvat ook financiën, voorraadbeheer, HR en productie. Voor de meeste MKB-bedrijven is een goed CRM gekoppeld aan je boekhoudsoftware voldoende. Een ERP is pas nodig als je productiebedrijf hebt met complexe supply chains. Tools als Teamleader zitten ergens in het midden -- ze combineren CRM met projecten en facturatie zonder de complexiteit van een volledig ERP.
 
 ### Kan ik mijn CRM koppelen aan mijn Nederlandse boekhoudsoftware?
 

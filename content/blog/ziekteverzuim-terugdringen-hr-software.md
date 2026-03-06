@@ -4,7 +4,7 @@ date: 2026-04-17
 lastmod: 2026-04-17
 description: "Hoe helpt HR-software bij het terugdringen van ziekteverzuim? Signalering, Wet Poortwachter compliance en verzuimpatronen herkennen. Bespaar duizenden euro's."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/hr-software.svg"
 categories:
   - hr-software
@@ -12,7 +12,7 @@ faq:
   - q: "Wat kost ziekteverzuim een werkgever gemiddeld per dag?"
     a: "De vuistregel is dat een zieke medewerker een werkgever gemiddeld 250 tot 400 euro per dag kost. Dit omvat niet alleen het doorbetaalde salaris maar ook productieverlies, vervangingskosten en administratieve lasten. Bij een gemiddeld verzuimpercentage van 4,5 procent en 20 medewerkers loop je al snel op naar 40.000 tot 60.000 euro per jaar aan verzuimkosten."
   - q: "Welke verplichtingen heeft een werkgever bij ziekteverzuim volgens de Wet Poortwachter?"
-    a: "De Wet Poortwachter schrijft voor dat je binnen een week de ziekmelding registreert, binnen zes weken een probleemanalyse laat opstellen door de bedrijfsarts, binnen acht weken een plan van aanpak maakt samen met de werknemer, elke zes weken de voortgang evalueert, en na een jaar een eerstejaarsevaluatie uitvoert. Bij twee jaar ziekte volgt de WIA-aanvraag. Als je deze stappen niet goed documenteert, riskeert je een loonsanctie van maximaal een jaar extra loondoorbetaling."
+    a: "De Wet Poortwachter schrijft voor dat je binnen een week de ziekmelding registreert, binnen zes weken een probleemanalyse laat opstellen door de bedrijfsarts, binnen acht weken een plan van aanpak maakt samen met de werknemer, elke zes weken de voortgang evalueert, en na een jaar een eerstejaarsevaluatie uitvoert. Bij twee jaar ziekte volgt de WIA-aanvraag. Als je deze stappen niet goed documenteert, riskeer je een loonsanctie van maximaal een jaar extra loondoorbetaling."
   - q: "Kan HR-software ziekteverzuim voorspellen?"
     a: "Voorspellen is een groot woord, maar HR-software kan wel patronen signaleren die wijzen op verhoogd verzuimrisico. Denk aan frequent kortdurend verzuim, verzuim op specifieke dagen, stijgend verzuim binnen een team of afdeling, of medewerkers die structureel overwerken. Deze signalen geven je de kans om preventief in gesprek te gaan voordat kort verzuim overgaat in langdurig verzuim."
   - q: "Vanaf hoeveel medewerkers is HR-software voor verzuimbeheer zinvol?"
@@ -64,7 +64,7 @@ Dit zijn de verplichte stappen:
 | **Jaar 1** | Eerstejaarsevaluatie uitvoeren |
 | **Jaar 2** | WIA-aanvraag voorbereiden, eindevaluatie |
 
-Miss je één van deze stappen, of kun je niet aantonen dat je ze hebt uitgevoerd, dan riskeert je een **loonsanctie van maximaal 52 weken extra loondoorbetaling**. Bij een salaris van 3.500 euro bruto per maand is dat 42.000 euro. Bovenop de kosten die je al had.
+Miss je één van deze stappen, of kun je niet aantonen dat je ze hebt uitgevoerd, dan riskeer je een **loonsanctie van maximaal 52 weken extra loondoorbetaling**. Bij een salaris van 3.500 euro bruto per maand is dat 42.000 euro. Bovenop de kosten die je al had.
 
 Het verraderlijke is dat je de sanctie pas ontvangt als het al te laat is. Als de medewerker na twee jaar een WIA-aanvraag indient, beoordeelt het UWV het volledige re-integratiedossier. Pas dan blijkt of je alles goed hebt bijgehouden. En dan kun je niks meer terugdraaien.
 

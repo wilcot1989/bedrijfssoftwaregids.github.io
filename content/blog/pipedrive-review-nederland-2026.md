@@ -117,7 +117,7 @@ Vanaf het Growth-plan biedt Pipedrive workflow-automatiseringen:
 
 ### AI-functies (2026)
 
-Pipedrive heeft in 2025-2026 flink geinvesteerd in AI:
+Pipedrive heeft in 2025-2026 flink geïnvesteerd in AI:
 
 - **AI Sales Assistant**: suggesties voor de volgende stap bij elke deal
 - **Smart Contact Data**: automatische verrijking van contactgegevens
@@ -153,7 +153,7 @@ Wil je de kosten voor jouw teamgrootte berekenen? Gebruik de [CRM kosten bereken
 
 ### 1. Uitzonderlijk gebruiksgemak
 
-Van alle CRM-systemen die ik heb geimplementeerd, levert Pipedrive de minste weerstand op bij teams. De visuele pipeline is direct duidelijk, deals en contacten toevoegen gaat snel, en ik hoef zelden meer dan een uur training te geven. Dat klinkt als een detail, maar het is het verschil tussen een CRM dat wordt gebruikt en een dat na drie maanden stof vangt.
+Van alle CRM-systemen die ik heb geïmplementeerd, levert Pipedrive de minste weerstand op bij teams. De visuele pipeline is direct duidelijk, deals en contacten toevoegen gaat snel, en ik hoef zelden meer dan een uur training te geven. Dat klinkt als een detail, maar het is het verschil tussen een CRM dat wordt gebruikt en een dat na drie maanden stof vangt.
 
 ### 2. Sterke mobiele app
 

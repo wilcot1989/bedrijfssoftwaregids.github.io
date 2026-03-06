@@ -32,7 +32,7 @@ products:
     rating_value: "2.1"
     rating_count: "35"
   - name: "Square"
-    description: "Gratis kassasoftware met geintegreerde betaalverwerking voor startende horecaondernemers."
+    description: "Gratis kassasoftware met geïntegreerde betaalverwerking voor startende horecaondernemers."
     url: "https://squareup.com/nl/nl"
     price: "0.00"
     rating_value: "4.2"
@@ -288,7 +288,7 @@ Ik raad Square NIET aan voor:
 - Teammanagement en personeelsbeheer
 - Online bestelpagina inbegrepen
 - Rapportages en omzetoverzichten
-- Geintegreerde betaalverwerking
+- Geïntegreerde betaalverwerking
 
 ### Hardware vereisten
 - iPad of Android-tablet
@@ -307,7 +307,7 @@ Ik raad Square NIET aan voor:
 - Zeer snel op te zetten (binnen uren)
 - Moderne, intuïtieve interface
 - Betaalbare hardware
-- Geintegreerde betaalverwerking -- geen apart pinapparaat nodig
+- Geïntegreerde betaalverwerking -- geen apart pinapparaat nodig
 
 ### Nadelen
 - Transactiekosten kunnen bij hoge omzet oplopen
@@ -343,7 +343,7 @@ Ik raad Zettle NIET aan voor:
 - Productbeheer met categorieën
 - Basis voorraadbeheer
 - Omzetrapportages en exportfuncties
-- Geintegreerde betaalverwerking via PayPal
+- Geïntegreerde betaalverwerking via PayPal
 - Accepteer pin, contactloos en QR-betalingen
 - Meerdere gebruikers en rechten
 - Koppeling met externe boekhoudpakketten
@@ -404,7 +404,7 @@ Ik raad Orderbird NIET aan voor:
 - Basisvoorraadbeheer
 - Personeelsbeheer met rechten
 - Rapportages en omzetanalyses
-- Geintegreerde betaalterminal (Orderbird PAY)
+- Geïntegreerde betaalterminal (Orderbird PAY)
 - HACCP-registratie
 
 ### Hardware vereisten

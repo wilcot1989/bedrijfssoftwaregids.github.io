@@ -4,7 +4,7 @@ date: 2026-03-03
 lastmod: 2026-03-03
 description: "E-mails landen in de spamfolder? Leer deliverability problemen oplossen voor ZZP en MKB. Doe de keuzehulp voor het beste e-mailmarketingplatform."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/marketing.svg"
 categories:
   - marketing

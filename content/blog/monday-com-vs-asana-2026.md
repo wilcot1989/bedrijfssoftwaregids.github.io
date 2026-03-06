@@ -263,7 +263,7 @@ Zoek je meer opties? Lees dan ons overzicht van de [beste projectmanagement soft
 
 ## Conclusie: Monday.com vs Asana
 
-Na beide tools bij diverse teams te hebben geimplementeerd weet ik: er is geen absolute winnaar. Het hangt af van hoe jouw team werkt en wat jullie nodig hebben.
+Na beide tools bij diverse teams te hebben geïmplementeerd weet ik: er is geen absolute winnaar. Het hangt af van hoe jouw team werkt en wat jullie nodig hebben.
 
 ### Kies Monday.com als je:
 - Maximale flexibiliteit en visuele vrijheid zoekt

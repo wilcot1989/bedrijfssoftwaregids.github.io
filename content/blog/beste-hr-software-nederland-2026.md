@@ -34,7 +34,7 @@ products:
     rating_value: "4.3"
     rating_count: "110"
   - name: "AFAS Software"
-    description: "Volledig geintegreerde ERP- en HR-suite voor middelgrote en grote Nederlandse organisaties met salarisadministratie."
+    description: "Volledig geïntegreerde ERP- en HR-suite voor middelgrote en grote Nederlandse organisaties met salarisadministratie."
     url: "https://www.afas.nl/"
     price: "8.00"
     rating_value: "3.3"
@@ -276,7 +276,7 @@ Als je Nmbrs combineert met je boekhouding, lees dan ook ons artikel over de [be
 
 ## 4. AFAS Software
 
-AFAS is het zwaarste geschut in dit overzicht, en voor middelgrote tot grote organisaties met recht. De HR-module hangt direct vast aan salaris, financien en logistiek -- alles in een platform, geen gedoe met koppelingen. Ik heb het geadviseerd bij een organisatie van 150 man die voorheen vier losse systemen gebruikte. De implementatie duurde even, maar daarna was het verschil dag en nacht.
+AFAS is het zwaarste geschut in dit overzicht, en voor middelgrote tot grote organisaties met recht. De HR-module hangt direct vast aan salaris, financiën en logistiek -- alles in een platform, geen gedoe met koppelingen. Ik heb het geadviseerd bij een organisatie van 150 man die voorheen vier losse systemen gebruikte. De implementatie duurde even, maar daarna was het verschil dag en nacht.
 
 **Trustpilot: 3.3/5 (151 reviews)** — Zeer gepolariseerd: 54% geeft 1 ster, maar 34% geeft 5 sterren — je houdt ervan of je haat het.
 
@@ -320,7 +320,7 @@ Eerlijk: AFAS is niet goedkoop en de interface is niet de mooiste van de markt. 
 
 ### Voordelen
 - Zeer uitgebreid en compleet Nederlands platform
-- Naadloze integratie tussen HR, salaris en financien
+- Naadloze integratie tussen HR, salaris en financiën
 - Altijd compliant met Nederlandse wetgeving
 - Uitstekende salarisverwerking voor complexe situaties
 - Groot netwerk van implementatiepartners
@@ -514,10 +514,10 @@ Is salarisadministratie je belangrijkste behoefte? Dan scoren Nmbrs, AFAS en Lok
 Voor het kleinere MKB (10-50 medewerkers) zijn Personio en Nmbrs ideaal. Groeiende organisaties (50-200 medewerkers) varen goed bij Personio of HiBob. Grotere organisaties (200+) met complexe behoeften komen eerder uit bij AFAS.
 
 ### 3. Nederlandse wetgeving en compliance
-Als compliance met Nederlandse arbeidswetgeving, de Wet Poortwachter en fiscale regelgeving cruciaal is, kies dan een Nederlands platform. Nmbrs, AFAS en Loket.nl zijn hier het sterkst in. Personio biedt dit ook goed, maar is minder diep geintegreerd met Nederlandse specifieke vereisten.
+Als compliance met Nederlandse arbeidswetgeving, de Wet Poortwachter en fiscale regelgeving cruciaal is, kies dan een Nederlands platform. Nmbrs, AFAS en Loket.nl zijn hier het sterkst in. Personio biedt dit ook goed, maar is minder diep geïntegreerd met Nederlandse specifieke vereisten.
 
 ### 4. Integraties met je bestaande software
-Controleer of de HR software integreert met je huidige boekhoudsoftware, CRM en andere tools. Nmbrs heeft een sterke API, Personio biedt 200+ integraties en AFAS biedt een volledig geintegreerd ecosysteem.
+Controleer of de HR software integreert met je huidige boekhoudsoftware, CRM en andere tools. Nmbrs heeft een sterke API, Personio biedt 200+ integraties en AFAS biedt een volledig geïntegreerd ecosysteem.
 
 Gebruik je al een CRM-systeem? Lees dan onze [vergelijking van de beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) om te kijken welke koppelingen mogelijk zijn. Voor bedrijven in de horeca zijn ook de [beste planning software voor horeca 2026](/blog/beste-planning-software-horeca-2026/) en de [beste ERP software voor MKB 2026](/blog/beste-erp-software-mkb-2026/) relevante aanvullingen op je HR-systeem.
 
@@ -573,7 +573,7 @@ De beste HR software voor jouw organisatie hangt af van je specifieke behoeften,
 - **Beste allround HR-platform voor MKB**: [Personio](https://www.personio.nl/) -- gebruiksvriendelijk, compleet en schaalbaar van 20 tot 500 medewerkers.
 - **Beste voor internationale teams**: [HiBob](https://www.hibob.com/) -- modern platform met sterke cultuurtools en multi-country support.
 - **Beste voor salarisadministratie**: [Nmbrs](https://www.nmbrs.com/nl/) -- de sterkste Nederlandse salarisverwerking met een uitstekende API.
-- **Beste voor middelgrote/grote organisaties**: [AFAS Software](https://www.afas.nl/) -- het meest complete geintegreerde Nederlandse platform.
+- **Beste voor middelgrote/grote organisaties**: [AFAS Software](https://www.afas.nl/) -- het meest complete geïntegreerde Nederlandse platform.
 - **Beste via je accountant**: [Loket.nl](https://www.loket.nl/) -- professionele salarisverwerking met persoonlijke begeleiding.
 - **Beste voor internationale bedrijven**: [BambooHR](https://www.bamboohr.com/) -- gebruiksvriendelijk internationaal platform, maar zonder NL-salaris.
 

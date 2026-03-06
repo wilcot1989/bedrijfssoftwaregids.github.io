@@ -1,7 +1,7 @@
 ---
 title: "Beste CRM voor Webshops 2026: Top 5"
 date: 2026-03-21
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-21
 description: "De beste CRM-systemen voor webshops en e-commerce in 2026. Klaviyo, HubSpot, Salesforce Commerce, ActiveCampaign en Drip vergeleken op functies en prijs."
 categories: ["crm"]
 tags:
@@ -208,4 +208,3 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, ber
 
 ---
 
-*Laatst bijgewerkt: 6 maart 2026.*

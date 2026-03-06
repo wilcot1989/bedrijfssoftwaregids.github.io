@@ -1,7 +1,7 @@
 ---
 title: "Notion vs Monday.com 2026: Welke Projecttool Past bij Jou?"
 date: 2026-03-25
-lastmod: 2026-03-06
+lastmod: 2026-03-25
 description: "Notion vs Monday.com vergeleken op projectmanagement, prijs, flexibiliteit en samenwerking. Ontdek welke tool het beste past bij jouw team."
 categories: ["productiviteit"]
 tags:
@@ -324,4 +324,3 @@ Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/
 
 ---
 
-*Laatst bijgewerkt: maart 2026.*

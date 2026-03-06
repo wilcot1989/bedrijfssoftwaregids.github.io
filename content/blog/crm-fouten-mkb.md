@@ -4,7 +4,7 @@ date: 2026-03-03
 lastmod: 2026-03-03
 description: "Welke CRM-fouten maken Nederlandse MKB-bedrijven het vaakst? Voorkom dataverlies, lage adoptie en verkeerd gebruik. Doe de CRM keuzehulp."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/crm.svg"
 categories:
   - crm

@@ -301,7 +301,6 @@ Krachtig, flexibel en kostenefficient voor de juiste gebruiker. Maar de technisc
 
 ---
 
-*Laatst bijgewerkt: maart 2026. Kosten en scores geverifieerd via woocommerce.com, wordpress.org/plugins/woocommerce, G2.com en Capterra.com. Dit artikel bevat geen affiliate link naar WooCommerce zelf (open-source, geen affiliate programma). Hostinglinks kunnen affiliate links zijn.*
 
 ### Meer over webshop software
 

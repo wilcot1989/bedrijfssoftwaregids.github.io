@@ -33,7 +33,7 @@ faq:
     a: "Mijnwebwinkel is volledig Nederlandstalig, heeft ingebouwde iDEAL zonder extra kosten en is goedkoper voor kleine Nederlandse webshops. Shopify is beter bij internationale verkoop, heeft een veel groter app-ecosysteem en schaalt beter bij hogere omzetten. Ben je puur op Nederland gericht en verwacht je onder de €5.000 omzet per maand? Dan is Mijnwebwinkel waarschijnlijk de betere keuze. Wil je internationaal of snel groeien? Dan wint Shopify."
 ---
 
-Shopify is het antwoord dat ik geef als een klant mij vraagt welke webshop software "gewoon werkt". En ik heb dat antwoord de afgelopen jaren meerdere keren gegeven. Een kledingmerk dat in drie maanden van nul naar €30.000 omzet groeide, een import-bedrijf dat naast Nederland ook Duitsland en Belgie aanschreef, een ZZP'er die haar handgemaakte sieraden online wilde verkopen: stuk voor stuk heb ik ze op Shopify gezet.
+Shopify is het antwoord dat ik geef als een klant mij vraagt welke webshop software "gewoon werkt". En ik heb dat antwoord de afgelopen jaren meerdere keren gegeven. Een kledingmerk dat in drie maanden van nul naar €30.000 omzet groeide, een import-bedrijf dat naast Nederland ook Duitsland en België aanschreef, een ZZP'er die haar handgemaakte sieraden online wilde verkopen: stuk voor stuk heb ik ze op Shopify gezet.
 
 Maar "gewoon werkt" betekent niet dat Shopify perfect is. En zeker niet dat het goedkoop is. In deze Shopify review vertel ik precies wat je kunt verwachten: de sterke kanten, de addertjes onder het gras, en wanneer je beter voor een alternatief kunt kiezen.
 
@@ -119,7 +119,7 @@ Het keerzijde: veel van die apps zijn betaald, en de kosten kunnen snel oplopen.
 
 ### Shopify Payments
 
-Zoals hierboven besproken, is Shopify Payments de native betaaloplossing. Voor Nederlandse webshops ondersteunt het iDEAL, creditcards, Bancontact (voor Belgie), Apple Pay en Google Pay. De checkout is snel en geoptimaliseerd -- Shopify claimt dat hun geoptimaliseerde checkout 15% hogere conversie oplevert vergeleken met een gemiddelde checkout.
+Zoals hierboven besproken, is Shopify Payments de native betaaloplossing. Voor Nederlandse webshops ondersteunt het iDEAL, creditcards, Bancontact (voor België), Apple Pay en Google Pay. De checkout is snel en geoptimaliseerd -- Shopify claimt dat hun geoptimaliseerde checkout 15% hogere conversie oplevert vergeleken met een gemiddelde checkout.
 
 In mijn eigen ervaringen klopt dit wel: de Shopify checkout is clean, snel en vertrouwd voor kopers. Zeker op mobiel is het een van de beste checkouts die ik heb gezien.
 

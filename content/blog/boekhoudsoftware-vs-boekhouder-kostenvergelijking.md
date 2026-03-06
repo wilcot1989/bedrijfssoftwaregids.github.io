@@ -4,7 +4,7 @@ date: 2026-03-03
 lastmod: 2026-03-03
 description: "Boekhoudsoftware of een boekhouder inhuren? Vergelijk de werkelijke kosten en bespaar tot EUR 2.000 per jaar. Inclusief keuzehulp per bedrijfsgrootte."
 author: "Lars de Vries"
-author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
+author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/boekhouding.svg"
 categories:
   - boekhouding
