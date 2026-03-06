@@ -311,7 +311,7 @@ Wil je later toch overstappen van Jortt naar een ander pakket? Dat is goed te do
 
 ---
 
-## SnelStart — vertrouwd Nederlands boekhoudpakket met gratis instap
+## 7. SnelStart — vertrouwd Nederlands boekhoudpakket met gratis instap
 
 SnelStart is misschien niet het hipste pakket op deze lijst, maar het heeft iets dat de meeste concurrenten ontberen: 250.000+ Nederlandse gebruikers en decennia aan lokale kennis. Het pakket — inmiddels onderdeel van Visma — is populair bij ZZP'ers en klein MKB die gewoon een degelijk, Nederlandstalig boekhoudprogramma willen zonder fratsen. Het gratis plan maakt het laagdrempelig om te starten; wie meer volume heeft, stapt door naar een betaald pakket vanaf €16 per maand.
 
