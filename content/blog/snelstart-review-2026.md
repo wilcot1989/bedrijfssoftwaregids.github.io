@@ -292,7 +292,3 @@ Mijn advies: begin met de gratis versie, kijk of het bij jouw werkwijze past en 
 <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten en start gratis →</a>
 
 ---
-
-## Veelgestelde vragen over SnelStart
-
-{{< faq >}}
