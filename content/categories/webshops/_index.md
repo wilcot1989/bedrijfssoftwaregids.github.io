@@ -13,6 +13,17 @@ Webshopsoftware kiezen gaat om balans tussen groei, beheer en kosten. Hier vind 
 - **Integraties**: koppeling met boekhouding, voorraad en marketingtools.
 - **Nederlandse markt**: btw-berekening, PostNL/DHL-koppeling, Nederlandse support.
 
+## Uitgebreide gidsen en vergelijkingen
+
+### Hoofdgidsen
+- [Beste webshop software 2026](/blog/beste-webshop-software-2026/) — 7 e-commerce platforms vergeleken op prijs, iDEAL, Trustpilot en schaalbaarheid.
+- [Beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/) — Voorraad automatiseren voor groeiende webshops.
+- [Beste website bouwers MKB 2026](/blog/beste-website-bouwers-mkb-2026/) — Van WordPress tot Webflow: website platforms vergeleken.
+
+### Vergelijkingen
+- [Shopify vs Mijnwebwinkel](/blog/shopify-vs-mijnwebwinkel-2026/) — Internationaal platform versus Nederlandse oplossing.
+- [Mollie vs MultiSafepay](/blog/mollie-vs-multisafepay-2026/) — Betaalproviders voor Nederlandse webshops vergeleken.
+
 ## Gerelateerde categorieën
 
 - [Kassasystemen](/categories/kassasystemen/) — voor fysieke verkooppunten naast je webshop.

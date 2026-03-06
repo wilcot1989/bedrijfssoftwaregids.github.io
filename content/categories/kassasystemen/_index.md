@@ -22,6 +22,22 @@ Vergelijk niet alleen abonnementen, maar ook:
 3. extra modules (voorraad, personeel, bezorgkoppelingen);
 4. contractduur en opzegvoorwaarden.
 
+## Uitgebreide gidsen en vergelijkingen
+
+### Hoofdgids
+- [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — Vergelijking van 6 kassasystemen met prijzen, hardware en transactiekosten.
+
+### Vergelijkingen
+- [Lightspeed vs Square](/blog/lightspeed-vs-square-2026/) — Professioneel kassasysteem versus budget-optie.
+- [Lightspeed vs Untill](/blog/lightspeed-vs-untill-2026/) — Twee horecakassasystemen vergeleken op functies en prijs.
+
+### Kassasysteem per sector
+- [Kassasysteem voor horeca](/sectoren/kassasystemen/kassasysteem-horeca/) — Restaurants, cafés en hotels.
+- [Kassasysteem voor kapsalons](/sectoren/kassasystemen/kassasysteem-kapsalon/) — Met afsprakenbeheer en klantkaarten.
+- [Kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/) — Voorraadbeheer en barcodescanning.
+- [Kassasysteem voor foodtrucks](/sectoren/kassasystemen/kassasysteem-foodtruck/) — Mobiel, compact en offline-proof.
+- [Kassasysteem voor sportscholen](/sectoren/kassasystemen/kassasysteem-sportschool/) — Ledenbeheer en toegangscontrole.
+
 ## Gerelateerde categorieën
 
 - [CRM software](/categories/crm/) — voor opvolging van offertes en klantbeheer.

@@ -12,6 +12,15 @@ Projectmanagement software werkt pas als het aansluit op hoe je team echt samenw
 - **Groeiende teams (5-20)**: focus op automatiseringen, rechten en rapportages.
 - **Complexe projecten**: focus op afhankelijkheden, tijdlijnen en resourceplanning.
 
+## Uitgebreide gidsen en vergelijkingen
+
+### Hoofdgids
+- [Beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/) — Vergelijking van 7 tools met Trustpilot-scores en functies per teamgrootte.
+
+### Vergelijkingen
+- [Monday.com vs Asana](/blog/monday-com-vs-asana-2026/) — Flexibiliteit versus structuur: welke past bij jouw team?
+- [Notion vs Monday vergelijking](/blog/notion-vs-monday-vergelijking-2026/) — Kennismanagement versus projectbeheer.
+
 ## Gerelateerde categorieën
 
 - [Productiviteit](/categories/productiviteit/) — voor urenregistratie en documentbeheer.

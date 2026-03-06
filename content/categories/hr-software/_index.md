@@ -13,6 +13,21 @@ HR-software moet administratie versimpelen en fouten voorkomen. In deze categori
 - **Integratie**: koppeling met je boekhoudsoftware (Exact, Moneybird, Twinfield).
 - **Schaalbaarheid**: van 5 naar 50 medewerkers zonder overstap.
 
+## Uitgebreide gidsen en vergelijkingen
+
+### Hoofdgidsen
+- [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — Vergelijking van 6 HR-systemen met Trustpilot-scores en salarisopties.
+- [Beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/) — Salarisverwerking en loonaangifte automatiseren.
+- [Beste recruitment software 2026](/blog/beste-recruitment-software-2026/) — ATS-systemen voor werving en selectie.
+- [Beste planning software horeca 2026](/blog/beste-planning-software-horeca-2026/) — Roosterplanning en urenregistratie voor horeca.
+
+### HR per sector
+- [HR software voor ZZP](/sectoren/hr/hr-software-zzp/) — Minimale personeelsadministratie voor zelfstandigen.
+- [HR software voor MKB](/sectoren/hr/hr-software-mkb/) — Complete HR-suite voor groeiende bedrijven.
+- [HR software voor horeca](/sectoren/hr/hr-software-horeca/) — Flexibele planning en nul-urencontracten.
+- [HR software voor de bouw](/sectoren/hr/hr-software-bouw/) — Verzuimbeheer en CAO-integratie.
+- [HR software voor de zorg](/sectoren/hr/hr-software-zorg/) — Roostering en kwalificatiebeheer.
+
 ## Gerelateerde categorieën
 
 - [Boekhoudsoftware](/categories/boekhouding/) — voor koppeling met je salarisadministratie.
