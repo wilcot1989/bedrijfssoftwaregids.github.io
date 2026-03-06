@@ -28,6 +28,8 @@ faq:
     a: "Ja, overstappen is mogelijk. Beide systemen bieden import- en exportfuncties. De overstap vergt enige voorbereiding (openstaande posten, beginbalans, relaties overzetten) en duurt typisch 1-4 weken. Veel accountants en implementatiepartners bieden migratiediensten aan."
   - q: "Welke software is beter voor meerdere administraties?"
     a: "Twinfield is beter voor meerdere administraties. Het is specifiek ontworpen voor het beheren van meerdere administraties met eenvoudig schakelen, consolidatie en vergelijkingsrapportages. Exact Online kan ook meerdere administraties aan, maar dit vereist aparte abonnementen per administratie."
+  - q: "Heeft Exact Online of Twinfield een betere klantenservice?"
+    a: "Exact Online biedt telefonische support, chat en een uitgebreide kennisbank. Twinfield leunt meer op haar netwerk van accountantspartners voor support. In de praktijk lopen klantenserviceklachten bij beide pakketten via de implementatiepartner of accountant — directe support van de softwareleverancier zelf wordt minder vaak ingezet."
 ---
 
 Exact Online vs Twinfield is de vergelijking die ik het vaakst maak voor klanten. Op Trustpilot scoort Exact Online een 2.7/5 (644 reviews) versus Twinfield een 1.8/5 (slechts 17 reviews — te weinig om conclusies aan te verbinden). Het korte antwoord: Exact als je meer wilt dan alleen boekhouden, Twinfield als je accountant de lead neemt en je meerdere administraties beheert. Maar er zit meer nuance in dan dat. In deze Exact Online vs Twinfield vergelijking zet ik beide pakketten punt voor punt naast elkaar.
@@ -181,6 +183,36 @@ Twinfield biedt 150+ integraties, waaronder:
 
 **Exact Online wint** op het aantal integraties. Vooral de webshop- en e-commercekoppelingen zijn uitgebreider.
 
+## Sterke en zwakke punten op een rij
+
+Na tientallen implementaties van beide pakketten weet ik wat gebruikers echt waarderen — en waar ze tegenaan lopen. Hier de eerlijke balans:
+
+### Exact Online: voor- en nadelen
+
+**Sterke punten:**
+- Alles-in-een platform: boekhouding, CRM, voorraad en productie in één systeem. Voor een handelsbedrijf is dat een enorme tijdsbesparing — je hoeft niet te schakelen tussen losse tools en de data is altijd synchroon.
+- 450+ integraties via de App Store. Ik heb Exact zien koppelen met Shopify, Bol.com en salarisadministratie in één middag. Dat gaat bij Twinfield stukken moeilijker.
+- Sterk merk in Nederland. Bijna elke accountant kent Exact Online. Dat maakt het makkelijker om implementatiepartners en support te vinden.
+- De mobiele app is solide voor onderweg declaraties goedkeuren, facturen checken en betalingen inzien.
+
+**Zwakke punten:**
+- De Trustpilot-score van 2.7/5 (644 reviews) zegt wat. De meestgehoorde klacht: prijsverhogingen zonder duidelijke aankondiging. Een klant van mij kreeg vorig jaar een tariefverhoging van 18% — geen brief, alleen een factuur. Dat voelt alsof je in een taxi zit waarvan de meter gaat verzetten.
+- De interface is functioneel maar gedateerd. Wie gewend is aan moderne SaaS-tools merkt het meteen. Nieuwe medewerkers hebben doorgaans een paar dagen nodig voor ze echt productief zijn.
+- Multi-administratie is duur. Elke extra administratie is een volledig extra abonnement. Dat tikt aan bij holdingstructuren.
+
+### Twinfield: voor- en nadelen
+
+**Sterke punten:**
+- Multi-administratie als kernfunctie. Schakelen tussen administraties gaat in twee klikken. Bij Exact klik je jezelf een ongeluk als je drie BV's beheert.
+- Zes dimensies voor financiële analyses. Controllers en CFO's die gedetailleerde analyses willen — per project, per kostenplaats, per regio — hebben bij Twinfield merkbaar meer speelruimte dan bij Exact (drie dimensies).
+- Consolidatie. Als je meerdere entiteiten in één rapport wilt samenvoegen, werkt Twinfield dat nativ af. Bij Exact is dat handmatig knip-en-plakwerk in Excel.
+- Sterke band met het accountantskantoor. Veel grotere accountantskantoren werken standaard in Twinfield. Als jij hetzelfde pakket gebruikt, scheelt dat communicatie en vermindert het de kans op fouten bij de jaarafsluiting.
+
+**Zwakke punten:**
+- Geen CRM, geen voorraadbeheer, geen productiemodule. Als je naast boekhouden ook je klantrelaties of voorraad wilt bijhouden, heb je altijd losse tools nodig. Die integraties zijn er (Loket.nl, AFAS), maar je bouwt een lappendeken.
+- Slechts 150+ integraties. Webshops en e-commerceplatformen zijn ondervertegenwoordigd. Een klant met een WooCommerce-webshop moest bij Twinfield maandelijks handmatig exporteren — iets dat bij Exact volledig automatisch liep.
+- De lage Trustpilot-score van 1.8/5 is gebaseerd op maar 17 reviews, dus ik houd hier een slag om de arm. Maar de reviews die er staan, gaan voornamelijk over een steile leercurve en het gebrek aan direct contact met support.
+
 ## Voor wie is welke software?
 
 ### Kies Exact Online als:
@@ -197,6 +229,25 @@ Twinfield biedt 150+ integraties, waaronder:
 - Je geavanceerde financiële rapportages nodig hebt
 
 Wil je de kosten voor jouw specifieke situatie berekenen? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een realistische vergelijking op basis van jouw bedrijfsgrootte en administratiebehoefte.
+
+## Concrete use cases: welk pakket past bij jouw situatie?
+
+Die keuzelijsten hierboven zijn handig, maar ik merk dat klanten pas echt begrijpen wat ze nodig hebben als ik het aan concrete situaties koppel. Vier scenario's uit mijn praktijk:
+
+**Een IT-dienstverlener met 8 medewerkers**
+Een klant van mij — IT-dienstverlener, 8 man, mix van projectwerk en vaste contracten — twijfelde tussen Exact en Twinfield. Mijn advies: Exact Online Handel+. Reden: ze wilden hun projecturen, facturen en CRM in één omgeving. Met Exact loopt dat naadloos. Bij Twinfield hadden ze een apart CRM en projecttool nodig, wat twee extra abonnementen en twee extra koppelingen betekende. De hogere maandprijs van Exact was voor hen een investering, geen last.
+
+**Een accountant met 40 klantadministraties**
+Hier is het antwoord kort: Twinfield, zonder twijfel. Het Multi-pakket of Consolidatie-pakket is hier de standaard. Schakelen tussen administraties gaat in twee klikken, batchverwerking scheelt uren per week en het accountantsportaal is gebouwd voor precies deze workflow. Ik heb nog nooit een groter accountantskantoor Exact Online aangeraden voor dit gebruik.
+
+**Een webshop met 3 medewerkers**
+Exact Online. Punt. De koppelingen met WooCommerce, Shopify en Bol.com zijn klaar-voor-gebruik. Bestellingen, voorraad en facturen synchroniseren automatisch. Een klant in de sportartikelen — drie man sterk, 200 bestellingen per dag — draait al twee jaar op Exact Online zonder één handmatige import. Bij Twinfield zou dat CSV-exports en handmatig invoerwerk zijn geworden.
+
+**Een ZZP'er die groeit naar een kleine BV**
+Als je net je eerste medewerker aanneemt en naast factureren ook salarisadministratie en btw-aangifte wilt regelen: Exact Online Boekhouden (€48/maand) of Twinfield Extra Boekhouden (€42/maand). Verschil is klein. Kies Exact als je later wilt doorgroeien naar CRM of voorraadbeheer. Kies Twinfield als je accountant er al mee werkt — dan houd je de samenwerking eenvoudig.
+
+**Wat als je een team van 10 hebt?**
+Bij 10 medewerkers wordt de totaalrekening serieuzers. Bij Exact Online Handel+ (€89 basis voor 3 gebruikers + 7 extra à €35) kom je op €89 + 7 × €35 = €334/maand (€4.008/jaar). Bij Twinfield MKB Boekhouden met 10 gebruikers liggen de prijzen in een vergelijkbare bandbreedte, maar vraag altijd een maatofferte — bij 10 gebruikers geven beide leveranciers doorgaans korting. De sleutel is niet de basisprijs maar de vraag: welke modules heb je echt nodig? Wil je voorraadbeheer? Dan is Exact goedkoper dan Twinfield + een los voorraadbeheer-systeem. Wil je puur boekhouden met geavanceerde rapportages? Dan is Twinfield de logischere keuze.
 
 ## Veelgemaakte fouten bij de keuze tussen Exact en Twinfield
 

@@ -92,6 +92,16 @@ De kosten zijn een van de grootste verschillen tussen Salesforce en HubSpot. Sal
 | **Totaal jaar 1** | **€39.600-€54.600** | **€13.800-€15.800** |
 | **Totaal jaar 2+** | **€24.600** | **€10.800** |
 
+### Wat kost het echt na 3 jaar?
+
+De tabel hierboven laat al zien dat het eerste jaar bij Salesforce fors duurder is. Maar ik wil ook laten zien wat er daarna gebeurt — want de contractdynamiek is bij beide platforms anders dan je verwacht.
+
+**Bij Salesforce** zijn de licentiekosten redelijk voorspelbaar, maar de omgeving groeit mee met je wensen. Elke extra automatisering die je wilt, elk aanvullend dashboardtype, elke nieuwe afdeling die mee wil: dat leidt bijna altijd tot een upgrade of een add-on. Ik heb klanten begeleid die begonnen op Professional ($100/gebruiker/maand), en na twee jaar op Enterprise zaten ($175) plus een Pardot-licentie plus een Sales Engagement-licentie. Hun kosten waren in drie jaar tijd verdubbeld.
+
+**Bij HubSpot** is de valkuil een andere. De gratis instap is verleidelijk, en de Starter-laag lijkt betaalbaar. Maar zodra je serieuze automatiseringen of rapportages wilt, zit je op Professional (€90/gebruiker/maand). En als je ooit Marketing Hub of Service Hub toevoegt — en dat wil je vroeg of laat — betaal je per Hub. Ik heb een klant die in jaar 1 op €150/maand zat, en in jaar 3 op €680/maand voor hetzelfde team van 8 mensen, puur door Hub-uitbreiding.
+
+**Conclusie voor je budget:** Maak altijd een 3-jaars kostenmodel op basis van realistische groei. Niet op basis van de startprijs.
+
 ## Functies vergeleken
 
 ### Sales functies
@@ -129,6 +139,16 @@ Dit is waar HubSpot duidelijk wint voor het MKB.
 | Content management | Nee | Ja (website builder) |
 | SEO tools | Nee | Ja |
 | Advertentiebeheer | Via integratie | Ingebouwd (Google, Facebook, LinkedIn) |
+
+### Rapportages en AI
+
+Dit is een gebied waar de kloof de laatste jaren groter is geworden, niet kleiner.
+
+**Salesforce** heeft met Einstein AI een serieus rapportage- en voorspellingsplatform gebouwd. Dealwaarschijnlijkheid per kwartaal, churn-voorspellingen, automatische activiteitsscore per salesmedewerker — de depth is indrukwekkend. De keerzijde: het duurt weken voordat iemand zonder Salesforce-certificering zelf een goed dashboard heeft opgezet. Ik heb bedrijven gezien die drie maanden na de go-live nog standaard-dashboards gebruikten omdat de custom rapportages nooit goed waren geconfigureerd.
+
+**HubSpot** heeft flink geïnvesteerd in rapportages, en de custom dashboards in de Professional- en Enterprise-plannen zijn voor de meeste MKB-bedrijven meer dan voldoende. De AI-functies zijn bescheiden vergeleken met Salesforce — denk aan slimme suggesties in e-mails en basale dealscoring — maar ze werken zonder dat je een data-analist nodig hebt.
+
+**Mijn praktijkadvies:** Als je een salesmanager hebt die elke maandag een diepgaand pipeline-overzicht wil met regiofilters, activiteitenscores en kwartaalprognoses, kies dan Salesforce en investeer in een gecertificeerde admin. Als je rapportage-behoefte neerkomt op "hoeveel deals hebben we in elke fase en hoe verhoudt dat zich tot vorige maand", is HubSpot ruim voldoende.
 
 ### Service & Support
 
@@ -199,6 +219,34 @@ Beide platformen integreren met de populairste zakelijke tools. De meest gevraag
 - Je budget is beperkt en je wilt **voorspelbare kosten**
 
 Wil je de CRM-kosten voor jouw team in kaart brengen? Gebruik de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/) voor een vergelijking op basis van jouw teamgrootte en gewenste functies.
+
+## Concrete scenario's: welk CRM past bij jouw bedrijf?
+
+Na al die theorie wil ik het concreet maken. Dit zijn de situaties die ik het vaakst tegenkom.
+
+### Scenario 1: IT-dienstverlener, 15 medewerkers, 3 salesmedewerkers
+
+Een typische situatie in het Nederlandse MKB. Korte salescyclus, terugkerende klanten, combinatie van sales en accountmanagement. Geen behoefte aan territory management of complexe goedkeuringsworkflows.
+
+**Mijn advies: HubSpot Professional.** De combinatie van e-mailtracking, sequences en een eenvoudige pipeline is hier ideaal. De marketingfuncties helpen om bestaande klanten te informeren over nieuwe diensten. Kosten: €270/maand voor 3 gebruikers.
+
+### Scenario 2: Technisch groothandel, 40 medewerkers, 20 buitendienstverkopers
+
+Lange salescyclus, hoge orderwaardes, meerdere regio's, kortingssysteem met goedkeuringen. Verkopers werken veel onderweg en willen snel notities kunnen vastleggen na een klantbezoek.
+
+**Mijn advies: Salesforce Enterprise.** Territory management, goedkeuringsworkflows en geavanceerde forecasting zijn hier geen luxe maar noodzaak. Ja, de implementatie kost €15.000-€25.000 en je hebt een admin nodig. Maar de ROI bij dit type salesproces is duidelijk aantoonbaar. Kosten: ~€3.500/maand licenties, plus implementatie.
+
+### Scenario 3: SaaS-startup, 8 medewerkers, groeiend
+
+Weinig budget, veel behoefte aan marketing automation, leads komen voornamelijk via content en advertenties. Sales en marketing zijn nog dezelfde persoon.
+
+**Mijn advies: HubSpot Free, met een oog op Professional zodra het budget er is.** Het gratis plan geeft je alle basistools om de pipeline bij te houden. Zodra je team groeit en je serieuze e-mailcampagnes wilt draaien, is de upgrade naar Professional logisch. Salesforce is hier simpelweg overkill — en te duur voor een team van deze omvang.
+
+### Scenario 4: Consultancybedrijf, 25 medewerkers, al Salesforce-gebruiker
+
+Ze gebruiken Salesforce al drie jaar, maar de adoptie loopt terug. Medewerkers vullen het minimaal in, de salesmanager klaagt over de kwaliteit van de data, en de maandelijkse licentiekosten zijn hoog voor wat ze er daadwerkelijk uithalen.
+
+**Mijn advies: eerst analyseren, dan beslissen.** Soms is het een adoption-probleem dat zich laat oplossen met training en simplificatie van het Salesforce-systeem. Maar als de kern van het probleem is dat het systeem te complex is voor de werkwijze van dit team, dan is een migratie naar HubSpot Professional de moeite waard. Hun kosten zullen dalen, en ik wed dat de data-kwaliteit stijgt als het team het systeem daadwerkelijk prettig vindt om te gebruiken.
 
 ## Overstappen van Salesforce naar HubSpot (of andersom)
 

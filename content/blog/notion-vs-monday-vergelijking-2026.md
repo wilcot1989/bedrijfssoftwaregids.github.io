@@ -134,6 +134,48 @@ De echte kostenpost bij Notion is tijd, niet geld. Ik heb bij een marketingburea
 
 **Let op bij Monday.com:** de automatiseringen zijn gelimiteerd per plan. Standard geeft je 250 automatiseringen per maand, Pro geeft je 25.000. Bij een team van 10 dat actief automatiseert, tik je die 250 sneller aan dan je denkt. Ik heb een klant gehad die na twee weken al tegen de limiet aanliep.
 
+### Wat betaal je echt? Drie concrete scenario's
+
+Laat me het concreet doorrekenen voor drie typische gebruikers, want de theoretische plancijfers vertellen niet het hele verhaal.
+
+**Scenario 1: Freelancer / solo-ondernemer**
+
+Voor jezelf alleen is Notion eigenlijk onklopbaar. Het gratis plan heeft onbeperkte pagina's, je kunt een volwaardige takenlijst, contentkalender en projecttracker bouwen zonder een cent te betalen. Monday.com's gratis plan zit op maximaal 2 gebruikers en 3 borden — prima voor een eerste indruk, maar te beperkt voor dagelijks gebruik.
+
+Zodra je iets meer wilt (uploads, samenwerking met een losse freelancer) kost Notion Plus $10/maand. Monday.com Basic begint bij $9/seat maar vereist minimaal 3 seats: dat is $27/maand minimum, ook als je in je eentje werkt. Bij Monday.com betaal je dus voor 2 extra stoelen die je niet gebruikt.
+
+**Mijn conclusie voor freelancers: Notion wint op prijs, altijd.**
+
+---
+
+**Scenario 2: Team van 5**
+
+Dit is het meest gevraagde scenario. Een kleine startup, een marketingteam, een designbureau.
+
+| | Notion Plus | Monday Standard | Monday Pro |
+|---|---|---|---|
+| Maandelijks | 5 x $10 = $50 | 5 x $12 = $60 | 5 x $19 = $95 |
+| Jaarlijks | $600 | $720 | $1.140 |
+
+Het verschil bij basis-gebruik is $120 per jaar — niet wereldschokkend. Maar zodra je serieus met automatiseringen wilt werken (en dat wil je), zit je bij Monday.com op het Pro-plan. Dan betaal je $540 per jaar meer dan Notion Plus. Of $1.140 per jaar versus $600 — bijna dubbel.
+
+Tenzij je ook die Gantt-charts en workload-management echt nodig hebt. Als dat zo is, rechtvaardigt Monday.com Pro de meerprijs — Notion biedt dit simpelweg niet uit de doos.
+
+---
+
+**Scenario 3: Team van 15**
+
+Bij grotere teams wordt het prijsverschil gevoeliger, maar komt er een andere factor bij: de waarde van tijd.
+
+| | Notion Plus | Monday Standard | Monday Pro |
+|---|---|---|---|
+| Maandelijks | 15 x $10 = $150 | 15 x $12 = $180 | 15 x $19 = $285 |
+| Jaarlijks | $1.800 | $2.160 | $3.420 |
+
+Met 15 man kost Notion $1.800/jaar. Monday Pro kost $3.420/jaar. Dat is $1.620 verschil. Klinkt als veel — maar reken ook wat een slechte tool kost. Als 15 medewerkers gemiddeld 30 minuten per week zoeken naar informatie in een slecht opgezette Notion-workspace, is dat 7,5 uur per week verspild. Bij een gemiddeld uurtarief van €50 is dat €375 per week, €19.500 per jaar. Dan is dat prijsverschil van $1.620 irrelevant.
+
+**Mijn conclusie voor teams van 15+: kies niet op prijs, kies op adoptie.** Wat het team daadwerkelijk gebruikt, bespaart meer dan het goedkoopste abonnement.
+
 ## Vergelijking per use case
 
 ### Projectmanagement
@@ -181,6 +223,38 @@ De echte kostenpost bij Notion is tijd, niet geld. Ik heb bij een marketingburea
 | Marketing team, campagnes | **Monday.com** | Workflow automations, deadline management |
 | Content team, redactioneel | **Notion** | Content kalender + kennisbank |
 | IT team, sprint planning | **Monday.com** | Sprint-borden + automatisering |
+
+### Concrete use cases: wie kiest wat en waarom?
+
+De tabel hierboven geeft een snel overzicht, maar ik wil een paar scenario's uitwerken die ik in de praktijk ben tegengekomen. Want de keuze hangt altijd af van meer dan één factor.
+
+**Marketingteam dat campagnes draait**
+
+Een marketingteam bij een SaaS-bedrijf in Rotterdam waar ik mee werkte, had aanvankelijk alles in Notion gebouwd: een contentkalender, een SEO-tracker, een campagneoverzicht. Het werkte prima — totdat ze gingen opschalen. Met drie mensen was het beheersbaar. Met acht mensen wist niemand meer wie welke deadline had, welke campagne "live" was versus "in review", en of de social posts al gepland waren.
+
+Ze stapten over naar Monday.com. Binnen een week had de marketingmanager een workflow gebouwd waarbij een contentidee automatisch door statussen bewoog — van "idee" naar "schrijven" naar "review" naar "gepland" — en elke statuswijziging een notificatie stuurde naar de verantwoordelijke persoon. Geen losse Slack-berichtjes meer, geen gemiste deadlines. Dat is waar Monday.com écht in uitblinkt: workflows die vanzelf doorlopen.
+
+**Mijn conclusie: voor marketingteams van 5+ met actieve campagnes is Monday.com de betere keuze.**
+
+---
+
+**Solo-ondernemer die alles wil combineren**
+
+Ik adviseer Notion aan freelancers en zzp'ers die één centrale plek zoeken voor álle informatie: klantnotities, offertes, to-do's, factuuroverzichten, inspiratie, blogideeën. De database-functionaliteit van Notion is daar ideaal voor. Je kunt een klantendatabase koppelen aan een projectdatabase, die weer gekoppeld is aan een takenlijst. Eén systeem, alles zichtbaar.
+
+Een grafisch ontwerper die ik begeleidde, gebruikte Notion als haar complete backoffice: klantendossiers, projectfases, factuurtracking, moodboards. Allemaal in één workspace, volledig gratis. Voor Monday.com had ze minimaal $27/maand moeten betalen voor de minimum-seats, en dan had ze de wiki-functionaliteit nog steeds moeten missen.
+
+**Mijn conclusie: voor solo-ondernemers die alles centraliseren is Notion de logische keuze.**
+
+---
+
+**IT-team met sprint-planning**
+
+Software-teams hebben specifieke behoeften: sprint-borden, bug-tracking, afhankelijkheden tussen taken, automatische statuswijzigingen bij pull requests. Monday.com heeft hier een solide native oplossing voor. Je kunt een sprint-bord opzetten met burndown-charts, workload per developer bijhouden, en automatiseren dat een taak naar "in review" gaat zodra een subitem is afgevinkt.
+
+Notion kan dit ook — maar je moet het van scratch bouwen. Voor een team dat liever codeert dan tools configureert, is Monday.com de snellere weg. Voor een team met een dedicated "Notion-bouwer" die er plezier in heeft, kan Notion net zo goed werken en scheelt het maandelijks op de licentiekosten.
+
+**Mijn conclusie: voor IT-teams die snel willen starten, is Monday.com de praktischere keuze. Teams met iemand die graag bouwt, kunnen net zo ver komen met Notion.**
 
 ## Veelgemaakte fouten bij de keuze
 

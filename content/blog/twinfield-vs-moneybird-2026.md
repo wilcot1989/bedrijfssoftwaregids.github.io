@@ -89,10 +89,17 @@ Moneybird is het pakket dat ik aanbeveel aan ondernemers die bij het woord "groo
 - Nederlandse support
 
 ### Zwakke punten
-- Beperkte rapportagemogelijkheden
-- Geen kostplaatsen of projectboekhouding (geavanceerd)
-- Minder geschikt voor complexe BV-administraties
-- Geen consolidatie bij meerdere BV's
+- Beperkte rapportagemogelijkheden: een winst-en-verliesrekening kun je exporteren, maar een cashflow-overzicht of budgetvergelijking maakt Moneybird niet
+- Geen kostplaatsen of projectboekhouding op accountantsniveau — tijdregistratie per project bestaat wel, maar het is niet hetzelfde als kostplaatsenboekhouding
+- Minder geschikt voor complexe BV-administraties met meerdere grootboekrekeningen of afwijkende rekeningschema's
+- Geen consolidatie: drie BV's onder een holding? Dan heb je drie losse administraties en geen geconsolideerd overzicht
+- Telefonische support ontbreekt; e-mail en chat werken redelijk, maar bij urgente problemen is dat frustrerend
+
+### Integraties & koppelingen
+
+Moneybird koppelt met de meeste gangbare tools die een kleine ondernemer nodig heeft: Mollie, Stripe, iDEAL, WooCommerce, Shopify, Exact, en via Zapier met honderden andere apps. Voor ZZP'ers en kleine MKB'ers is dat meer dan voldoende.
+
+Wat ik merk in de praktijk: de bankintegratie werkt bij de meeste grote Nederlandse banken (ING, ABN AMRO, Rabobank, Bunq) soepel. Automatisch importeren en matchen van transacties spaart een gemiddelde ondernemer al snel een uur per maand. De bonnetjesscanner via de mobiele app is een extra tijdbesparing die je pas echt waardeert als je hem een week gebruikt hebt.
 
 ## Twinfield in detail
 
@@ -127,10 +134,17 @@ Twinfield is het pakket waar accountants van houden — en dat is niet toevallig
 - Consolidatie voor bedrijvengroepen
 
 ### Zwakke punten
-- Steile leercurve voor niet-boekhouders
-- Oudere, minder moderne interface
-- Duurder dan Moneybird
-- Overkill voor eenvoudige administraties
+- Steile leercurve voor niet-boekhouders: begrippen als "grootboekrekening", "journaalpost" en "debet/credit" zijn standaardterminologie in Twinfield. Als je daar niet mee vertrouwd bent, voel je je al snel verloren
+- Oudere interface: functioneel, maar het is duidelijk dat dit pakket niet door UX-designers is gebouwd. Vergeleken met Moneybird of Exact Online voelt het soms alsof je in 2015 zit
+- Duurder dan Moneybird voor kleine bedrijven — met name als je er geen boekhouder naast hebt die de kosten rechtvaardigt
+- Overkill voor eenvoudige administraties: als je 20 facturen per maand verstuurt en één BTW-aangifte per kwartaal doet, heb je al die kracht gewoon niet nodig
+- Geen gratis plan of proefperiode die lang genoeg is om goed te beoordelen of het bij jou past
+
+### Integraties & koppelingen
+
+Twinfield integreert met serieuze bedrijfssoftware: Salesforce, HubSpot, AFAS, Nmbrs (salarisadministratie) en diverse ERP-systemen. Via de open API koppel je met vrijwel elk CRM of HRM. Dat is de wereld van het MKB dat wat groter is geworden.
+
+Voor boekhouders is de integratie met kantoorpakketten een groot voordeel. Veel accountantskantoren werken met Twinfield als standaard — dat betekent dat zij direct toegang hebben tot jouw administratie zonder dat jij iets hoeft te exporteren of mailen. Voor een bedrijf dat intensief samenwerkt met een extern boekhoudkantoor is dat een verschil van dag en nacht.
 
 ## Wat betaal je echt per jaar? Concrete scenario's
 
@@ -202,6 +216,29 @@ Bij meerdere administraties wordt Twinfield ineens de goedkopere optie. Moneybir
 | Alle grote NL banken | ✅ | ✅ |
 | **Winnaar** | Gelijkspel | Gelijkspel |
 
+### Gebruiksgemak voor de dagelijkse praktijk
+
+| Taak | Moneybird | Twinfield |
+|------|-----------|-----------|
+| Factuur aanmaken | < 2 minuten | 3-5 minuten |
+| Bonnetje verwerken | App, automatisch | Manueel of via scan |
+| BTW-aangifte doen | 2 klikken | Via boekhouder of zelf in menu's |
+| Bankafschrift verwerken | Automatisch + matching | Automatisch + boekhoudregels |
+| Jaarrekening opmaken | Niet zelf, via boekhouder | Via boekhouder |
+| Nieuwe gebruiker toevoegen | Eenvoudig | Rechtenstructuur instellen |
+
+Het tabblad "BTW-aangifte" in Moneybird is wat ik aan klanten laat zien als ze twijfelen. Je klikt erop, het systeem berekent alles, je stuurt het in bij de Belastingdienst. Twee klikken. Bij Twinfield zit diezelfde functionaliteit er ook in, maar de weg ernaar toe is langer. Logisch — Twinfield is gebouwd voor mensen die van die weg houden.
+
+## Support & ervaringen van gebruikers
+
+De Trustpilot-scores zijn al aangestipt, maar wat zeggen die reviews precies?
+
+Bij **Moneybird** (3.5/5, 181 reviews) zijn de terugkerende complimenten: intuïtieve interface, fijne mobiele app, snelle bankimport. De kritiek concentreert zich op twee punten: de support reageert soms traag bij complexe vragen, en de rapportagemogelijkheden zijn beperkt voor wie meer wil dan een basisoverzicht. Een aantal gebruikers meldt ook dat de prijzen de afgelopen jaren zijn gestegen — het gratis plan heeft tegenwoordig serieuze limieten.
+
+Bij **Twinfield** (1.8/5, 17 reviews) is het reviewaantal te laag voor betrouwbare conclusies. Twinfield wordt vrijwel nooit door eindgebruikers zelf beoordeeld — het zijn accountants en boekhouders die het dagelijks gebruiken, en die schrijven zelden Trustpilot-reviews. Wat ik in de praktijk hoor van accountants: ze zijn positief over de functionaliteit, minder positief over de prijs en de verouderde interface. Eindgebruikers die het zelf proberen, lopen snel vast op de leercurve.
+
+**Mijn indruk:** als je zelf boekhouden, is de kans groot dat je na twee weken Twinfield de handdoek gooit. Niet omdat het een slecht pakket is, maar omdat het gebouwd is voor mensen met boekhoudachtergrond — en dat ben jij waarschijnlijk niet.
+
 ## Welke past bij jouw situatie?
 
 | Jouw situatie | Beste keuze | Waarom |
@@ -255,6 +292,20 @@ Overweeg je een overstap? Dit is het stappenplan dat ik bij klanten doorloop:
 
 Van Moneybird naar Twinfield is de meest voorkomende overstap die ik zie — meestal omdat een bedrijf groeit en een boekhouder inschakelt. Andersom (Twinfield naar Moneybird) komt minder vaak voor, maar het gebeurt bij ondernemers die ontdekken dat ze te veel betalen voor functies die ze niet gebruiken. Beide richtingen zijn goed te doen als je het planmatig aanpakt.
 
+## Wanneer groei je uit Moneybird?
+
+Dit is een vraag die ik vaak krijg van ondernemers die met Moneybird zijn begonnen en merken dat het knelt. De signalen dat je Moneybird ontgroeid bent:
+
+- Je boekhouder vraagt regelmatig om exports in formaten die Moneybird niet standaard levert
+- Je werkt met meerdere BV's en wilt één geconsolideerd beeld
+- Je wilt kostplaatsen bijhouden per afdeling of project op boekhoudkundig niveau
+- Je accountant doet maandelijkse rapportages en verliest tijd aan het omzetten van Moneybird-data
+- Je omzet is gegroeid en de boekhouder wil rechtstreeks in het systeem werken
+
+Op dat punt is de overstap naar Twinfield (of Exact Online) geen luxe meer, maar een noodzaak. En dan valt de hogere prijs van Twinfield ineens mee — want je boekhouder werkt efficiënter, en die efficiëntie betaalt zichzelf terug in lagere accountantskosten.
+
+Omgekeerd geldt ook: ik heb ondernemers gezien die bij Twinfield zaten omdat hun eerste boekhouder dat had aangeraden, maar na verloop van tijd zelfstandiger werden en liever zelf de boekhouding deden. Die overstap naar Moneybird bespaart niet alleen geld — het geeft ook meer grip op je eigen cijfers.
+
 ## Conclusie: Twinfield vs Moneybird
 
 Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:
@@ -262,6 +313,8 @@ Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:
 **Moneybird** is de beste keuze als je zelf je boekhouding wilt doen. Ben je ZZP'er, heb je een eenvoudige BV, of wil je gewoon dat het makkelijk is? Dan is Moneybird wat je zoekt. Goedkoper, makkelijker, en voor 80% van de kleine ondernemers meer dan voldoende.
 
 **Twinfield** is de beste keuze als je accountant de lead neemt in je financiele administratie. Kostplaatsen, consolidatie, geavanceerde rapportages — dat is Twinfield's domein. En als je boekhouder er al mee werkt, scheelt dat enorm in de samenwerking.
+
+**Mijn persoonlijke vuistregel na jaren adviseren:** als een ondernemer mij belt en zegt "ik wil zelf mijn boekhouding doen", stuur ik hem naar Moneybird. Zegt hij "mijn boekhouder regelt alles", dan is Twinfield de logische keuze. Die twee zinnen dekken al 90% van alle gevallen.
 
 **Twijfel je?** Begin met Moneybird (gratis plan) en stap over naar Twinfield wanneer je administratie dat vraagt. Die volgorde werkt beter dan andersom. Overweeg je te migreren van het ene pakket naar het andere? Lees dan mijn artikel over [boekhoudprogramma migratie en data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/) voor een praktische aanpak.
 

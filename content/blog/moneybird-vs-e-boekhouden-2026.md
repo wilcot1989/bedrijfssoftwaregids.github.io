@@ -85,9 +85,9 @@ Wil je een breder beeld van alle boekhoudsoftware voor ZZP'ers? Lees dan ons ove
 
 - Duurder dan e-Boekhouden voor vergelijkbare functies
 - Gratis plan is zeer beperkt (3 facturen/maand, geen bankkoppeling)
-- Rapportages minder diepgaand dan sommige concurrenten
+- Rapportages minder diepgaand dan sommige concurrenten — voor een volledige balans of winst-en-verliesrekening heb je al snel het duurdere Pakket 50 nodig
 - Minder geschikt voor complexe, dubbele boekhoudingen
-- Klantensupport alleen per e-mail (geen telefonische hulp)
+- Klantensupport alleen per e-mail (geen telefonische hulp) — ik heb klanten gehad die bij een urgent BTW-probleem vlak voor de deadline een dag op een reactie moesten wachten
 
 ---
 
@@ -119,9 +119,9 @@ e-Boekhouden is de nuchtere keuze. Geen fancy design, geen hippe marketingcampag
 
 ### e-Boekhouden: Nadelen
 
-- Interface voelt minder modern en minder intuïtief
+- Interface voelt minder modern en minder intuïtief — reken op een paar uur gewenning voordat je er vlot mee werkt
 - Mobiele app minder uitgebreid dan Moneybird
-- Automatische categorisering van transacties minder slim
+- Automatische categorisering van transacties minder slim — je stelt handmatig regels in en die werken prima, maar het spaart minder tijd dan de slimme suggesties van Moneybird
 - Minder integraties met externe tools
 - Geen gratis plan (wel 15 dagen trial)
 - Leercurve iets steiler voor absolute beginners
@@ -205,6 +205,14 @@ Moneybird biedt alleen support per e-mail. De reactietijd is doorgaans binnen ee
 ---
 
 Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) als je wilt weten welk pakket het beste aansluit bij jouw situatie als ZZP'er of klein bedrijf.
+
+## Twee concrete scenario's
+
+**Scenario 1 — de startende fotograaf.** Een klant van mij begon net als ZZP'er, stuurde gemiddeld acht facturen per maand en had nul boekhoudervaring. Ze wilde niet nadenken over journaalposten of grootboekrekeningen. Voor haar was Moneybird de logische keuze: ze was binnen twintig minuten ingelogd en had haar eerste factuur verstuurd. De ruim zestig euro extra per jaar voelde voor haar als het betalen voor rust in haar hoofd. Geen spijt.
+
+**Scenario 2 — de ervaren bouwvakker-zzp'er.** Een tweede klant, vijftien jaar ZZP'er in de bouw, kende zijn boekhouding op zijn duimpje. Hij wilde gewoon een goedkoop en betrouwbaar pakket dat zijn BTW-aangifte afhandelde en zijn facturen bijhield. Geen toeters, geen bellen. e-Boekhouden voor €9,95 per maand paste als een handschoen. Hij heeft sindsdien nooit geklaagd — behalve over de interface, maar dat vond hij "prima, het werkt toch."
+
+---
 
 ## Voor wie is Moneybird het beste?
 
