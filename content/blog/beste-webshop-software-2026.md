@@ -18,7 +18,7 @@ featured_image: "/images/categories/webshops.svg"
 products:
   - name: "Shopify"
     description: "Toonaangevend hosted e-commerce platform voor snelgroeiende webshops met groot app-ecosysteem en uitstekende onboarding."
-    url: "https://www.shopify.com/nl"
+    url: "https://shopify.pxf.io/WOqGgA"
     price: "36.00"
     rating_value: "1.3"
     rating_count: "4350"
@@ -160,7 +160,7 @@ Twijfel je tussen Shopify en een Nederlands platform? Lees mijn [Shopify vs Mijn
 - Beperkte aanpasbaarheid zonder Liquid-kennis
 - Nederlandse klantenservice niet altijd beschikbaar
 
-<a href="https://www.shopify.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
+<a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
 
 ---
 
@@ -679,7 +679,7 @@ Wil je een webshop beginnen? Volg dit beknopte stappenplan:
 
 De beste webshop software voor jouw bedrijf hangt af van je specifieke situatie, technische kennis en ambities. Hier zijn onze aanbevelingen in het kort:
 
-- **Beste allrounder**: [Shopify](https://www.shopify.com/nl) -- gebruiksvriendelijk, schaalbaar en een enorm app-ecosysteem.
+- **Beste allrounder**: [Shopify](https://shopify.pxf.io/WOqGgA) -- gebruiksvriendelijk, schaalbaar en een enorm app-ecosysteem.
 - **Beste voor volledige controle**: [WooCommerce](https://woocommerce.com/) -- gratis, flexibel en oneindig aanpasbaar.
 - **Beste omnichannel**: [Lightspeed eCom](https://www.lightspeedhq.nl/) -- de ideale keuze als je online en offline combineert.
 - **Beste voor grote webshops**: [Magento](https://business.adobe.com/nl/products/magento/magento-commerce.html) -- ongelimiteerde schaalbaarheid voor complexe ecommerce.

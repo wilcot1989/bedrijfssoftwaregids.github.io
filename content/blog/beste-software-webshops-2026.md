@@ -137,7 +137,7 @@ Shopify werkt gewoon. Je kunt binnen een middag live zijn zonder een regel code.
 
 **Stack-integratie:** Mollie en MultiSafepay plug-and-play. Sendcloud en MyParcel direct gekoppeld. Klaviyo als standaard e-mail tool. Boekhoudkoppelingen met Moneybird en Exact via apps. Bol.com-sync via ChanableApp. De totale stack (Shopify + Mollie + Sendcloud + Klaviyo + Moneybird) kost circa €130-200/maand.
 
-<a href="https://www.shopify.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
+<a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
 
 ---
 

@@ -167,7 +167,7 @@ Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door 
 **✅ Voordelen:** Beste e-commerce platform, uitgebreid app-ecosysteem, iDEAL ingebouwd
 **❌ Nadelen:** Duurder dan alternatieven, transactiekosten (tenzij Shopify Payments), als blog/website minder geschikt
 
-<a href="https://www.shopify.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
+<a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
 
 Zoek je een CRM voor je webshop? Bekijk onze [CRM voor webshops gids](/blog/beste-crm-webshops-2026/).
 
