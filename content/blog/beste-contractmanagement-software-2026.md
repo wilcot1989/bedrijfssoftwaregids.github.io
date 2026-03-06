@@ -219,7 +219,7 @@ Alle lopende contracten moeten in het nieuwe systeem. Contractbook biedt AI-extr
 
 Voor de meeste MKB-bedrijven is **PandaDoc** de beste start: betaalbaar (€15/user/mnd), onbeperkt e-signatures en een vloeiende offerte-naar-contract workflow. Heb je meer contractmanagement software nodig met herinneringen, dashboards en analytics? Dan is **Contractbook** de investering waard. Als je ook je urenregistratie en tijdschrijven per contract wilt bijhouden, bekijk dan de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
 
-Wil je de kosten doorrekenen? Gebruik de [productiviteitssoftware kostencalculator](/tools/productiviteit/kosten-berekenen/) om een eerlijk beeld te krijgen. En voor vergadering en samenwerking rondom contractbesprekingen lees ik graag de [beste vergadersoftware](/blog/beste-vergadersoftware-2026/) en voor ZZP'ers ook het pakket aan [beste software voor ZZP'ers](/blog/beste-software-zzp-2026/).
+Wil je de kosten doorrekenen? Gebruik de [productiviteitssoftware kostencalculator](/tools/productiviteit/keuzehulp/) om een eerlijk beeld te krijgen. En voor vergadering en samenwerking rondom contractbesprekingen lees ik graag de [beste vergadersoftware](/blog/beste-vergadersoftware-2026/) en voor ZZP'ers ook het pakket aan [beste software voor ZZP'ers](/blog/beste-software-zzp-2026/).
 
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)**, stel je **[ideale tool stack samen](/tools/productiviteit/tool-stack-planner/)** of bekijk de **[volledige vergelijking](/categories/productiviteit/)**.

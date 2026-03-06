@@ -314,7 +314,7 @@ De meeste tools bieden een gratis proefperiode, maar let op:
 - **Extra gebruikers:** Bij teams die groeien, tellen de extra seats snel op.
 - **Trainingskosten:** Gripp en Zendesk vereisen begeleiding bij implementatie.
 
-Wil je uitrekenen wat urenregistratie software jou per maand kost, inclusief de ROI van wat je terugverdient door minder gemiste uren? Gebruik de [urenregistratie kosten calculator](/tools/productiviteit/kosten-berekenen/).
+Wil je uitrekenen wat urenregistratie software jou per maand kost, inclusief de ROI van wat je terugverdient door minder gemiste uren? Gebruik de [urenregistratie kosten calculator](/tools/productiviteit/keuzehulp/).
 
 ---
 
@@ -441,7 +441,7 @@ Zoek je ook een tool om projecten te beheren naast je uren? Lees de [beste proje
 
 Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/productiviteit/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
-- **[Kosten calculator](/tools/productiviteit/kosten-berekenen/)** — Bereken wat je per maand kwijt bent voor je team
+- **[Kosten calculator](/tools/productiviteit/keuzehulp/)** — Bereken wat je per maand kwijt bent voor je team
 - **[Tool Stack Planner](/tools/productiviteit/tool-stack-planner/)** — Stel je ideale softwarecombinatie samen
 - **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
 

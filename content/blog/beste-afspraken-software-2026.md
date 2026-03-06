@@ -355,4 +355,4 @@ De juiste afsprakensoftware bespaart je tijd, vermindert no-shows en biedt je kl
 
 Bekijk ook ons artikel over de [beste planning software voor horeca](/blog/beste-planning-software-horeca-2026/) voor branche-specifieke planningsoplossingen.
 
-Op zoek naar meer opties? Gebruik de **[productiviteit keuzehulp](/tools/productiviteit/keuzehulp/)**, bereken je **[softwarekosten](/tools/productiviteit/kosten-berekenen/)** of bekijk de **[volledige productiviteitsvergelijking](/categories/productiviteit/)** voor alle tools op een rij.
+Op zoek naar meer opties? Gebruik de **[productiviteit keuzehulp](/tools/productiviteit/keuzehulp/)**, bereken je **[softwarekosten](/tools/productiviteit/keuzehulp/)** of bekijk de **[volledige productiviteitsvergelijking](/categories/productiviteit/)** voor alle tools op een rij.

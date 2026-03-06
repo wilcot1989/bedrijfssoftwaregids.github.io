@@ -225,4 +225,4 @@ Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehu
 - **[Beste Facturatie Software MKB 2026](/blog/beste-facturatie-software-mkb-2026/)** — Puur factureren zonder volledig boekhoudpakket
 - **[BTW-regels voor ZZP'ers 2026](/blog/btw-regels-zzp-2026/)** — Actuele BTW-regels en vrijstellingen
 - **[Moneybird Review 2026](/blog/moneybird-review-2026/)** — Uitgebreide review van de populairste ZZP-boekhouder
-- **[Kosten berekenen](/tools/productiviteit/kosten-berekenen/)** — Bereken wat ZZP-software je per maand kost
+- **[Kosten berekenen](/tools/productiviteit/keuzehulp/)** — Bereken wat ZZP-software je per maand kost
