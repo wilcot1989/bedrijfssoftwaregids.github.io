@@ -1,7 +1,7 @@
 ---
 title: "Salesforce Review 2026: Eerlijk Oordeel voor het MKB"
 date: 2026-03-06
-lastmod: 2026-03-14
+lastmod: 2026-03-06
 description: "Salesforce review 2026: eerlijk oordeel over functies, kosten en geschiktheid voor het MKB. Inclusief Trustpilot-scores en alternatieven."
 categories: ["crm"]
 tags:

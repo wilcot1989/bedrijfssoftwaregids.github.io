@@ -1,7 +1,7 @@
 ---
 title: "Twinfield Review 2026: Geschikt voor Jouw Bedrijf?"
 date: 2026-03-06
-lastmod: 2026-03-14
+lastmod: 2026-03-06
 description: "Twinfield review 2026: eerlijk oordeel over functies, prijzen, voor- en nadelen. Sterk voor accountants, maar geschikt voor jouw bedrijf?"
 categories: ["boekhouding"]
 tags:
