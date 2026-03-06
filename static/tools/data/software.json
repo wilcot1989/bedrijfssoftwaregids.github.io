@@ -439,7 +439,7 @@
     "marketing_automation": true,
     "pipeline": true,
     "integrations": ["Shopify", "WooCommerce", "Zapier", "Google Analytics"],
-    "affiliate": { "type": "link", "url": "https://www.activecampaign.com/nl/" },
+    "affiliate": { "type": "link", "url": "https://try.activecampaign.com/bxnnvkmbvwyf" },
     "cost": { "model": "per_user_monthly", "base": 0, "per_user": 15 }
   },
   {

@@ -29,7 +29,7 @@ products:
     rating_count: "1348"
   - name: "ActiveCampaign"
     description: "Geavanceerd e-mailmarketing en marketing automation platform met krachtige CRM-integratie en lead scoring."
-    url: "https://www.activecampaign.com/"
+    url: "https://try.activecampaign.com/bxnnvkmbvwyf"
     price: "15.00"
     rating_value: "2.8"
     rating_count: "1357"
@@ -314,7 +314,7 @@ De keerzijde: de leercurve is steiler dan bij Mailchimp of MailerLite. Je moet e
 
 Gebruik je al een CRM? Lees dan mijn [HubSpot CRM review](/blog/hubspot-crm-review-2026/) om te zien hoe ActiveCampaign's ingebouwde CRM zich verhoudt tot een dedicated CRM-platform.
 
-<a href="https://www.activecampaign.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar activecampaign.com →</a>
+<a href="https://try.activecampaign.com/bxnnvkmbvwyf" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar activecampaign.com →</a>
 
 ---
 

@@ -79,7 +79,7 @@ ActiveCampaign is het systeem dat ik adviseer aan MKB-bedrijven die serieuze e-m
 
 **Prijs:** Starter: EUR 15 per maand (500 contacten). Plus: EUR 49 per maand.
 
-<a href="https://www.activecampaign.com/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk ActiveCampaign</a>
+<a href="https://try.activecampaign.com/bxnnvkmbvwyf" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk ActiveCampaign</a>
 
 ---
 

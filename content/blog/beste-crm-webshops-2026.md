@@ -133,7 +133,7 @@ ActiveCampaign is het platform dat ik pak wanneer een webshop-eigenaar zegt: "Ik
 **✅ Voordelen:** Beste automation builder, goede WooCommerce-integratie, CRM + marketing in één
 **❌ Nadelen:** E-commerce functies minder diep dan Klaviyo, geen SMS, complexer om op te zetten
 
-<a href="https://www.activecampaign.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar activecampaign.com →</a>
+<a href="https://try.activecampaign.com/bxnnvkmbvwyf" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar activecampaign.com →</a>
 
 ## 4. Drip — Beste voor DTC-merken
 
