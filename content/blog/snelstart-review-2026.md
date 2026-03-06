@@ -98,6 +98,36 @@ SnelStart Go voegt **salarisadministratie** toe aan het Compleet-pakket. Dat is 
 
 SnelStart positioneert zich duidelijk in het middensegment. Goedkoper dan Exact Online, vergelijkbaar met Moneybird, duurder dan e-Boekhouden.
 
+### Wat kost het je echt? Twee concrete scenario's
+
+Prijzen per maand zeggen niet alles. Hieronder reken ik twee veelvoorkomende situaties door, inclusief BTW en op jaarbasis.
+
+**Scenario 1: ZZP'er met ca. 15 facturen per maand**
+
+Je werkt als freelance consultant of designer. Je stuurt gemiddeld 15 facturen per maand, hebt een zakelijke bankrekening en wil BTW-aangifte zelf afhandelen.
+
+| Software | Maandprijs (excl. BTW) | Jaarkosten (excl. BTW) |
+|---|---|---|
+| SnelStart Web Compleet | €16 | **€192** |
+| Moneybird Basis | €15 | **€180** |
+| e-Boekhouden | €9,95 | **€119,40** |
+
+Voor dit profiel is e-Boekhouden goedkoper, maar biedt minder comfort — de interface is ouder en de bankkoppeling werkt minder soepel. Het verschil met Moneybird is verwaarloosbaar (€12 per jaar). De keuze hangt dan af van of je de accountantskoppeling van SnelStart nodig hebt.
+
+**Scenario 2: Klein MKB met 3 medewerkers in dienst**
+
+Je hebt een klein servicebedrijf, factureert maandelijks richting 60 transacties en verzorgt de salarisadministratie zelf.
+
+| Software | Maandprijs (excl. BTW) | Salarismodule inbegrepen | Jaarkosten (excl. BTW) |
+|---|---|---|---|
+| SnelStart Go | €22 | Ja | **€264** |
+| Moneybird + aparte salarismodule | €15 + €15 (Nmbrs basis) | Apart abonnement | **€360** |
+| Exact Online + salarismodule | €48 + module | Apart | **€600+** |
+
+Hier wint SnelStart Go duidelijk. Salarisadministratie is ingebouwd en je betaalt geen los abonnement voor een aparte tool. Het scheelt in dit scenario minimaal €96 per jaar ten opzichte van Moneybird, en meer dan het dubbele ten opzichte van Exact Online.
+
+Mijn conclusie: voor solo ZZP'ers is SnelStart prijstechnisch niet de goedkoopste, maar voor kleine MKB'ers met personeel is de Go-bundel opmerkelijk scherp geprijsd.
+
 <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
 
 ---
@@ -220,6 +250,30 @@ Wat me opvalt: ondernemers die SnelStart al jaren gebruiken, zijn over het algem
 | Exact Online | €48/mnd | MKB, groei | Meest compleet, hoogste prijs |
 
 Moneybird en SnelStart worden het vaakst vergeleken — ze zitten in hetzelfde segment en richten zich op vergelijkbare doelgroepen. Mijn conclusie: Moneybird wint op gebruiksgemak en integraties, SnelStart op prijs en de combinatie met salarisadministratie. Wil je meer detail? Lees mijn vergelijking van [Moneybird vs. e-Boekhouden](/blog/moneybird-vs-e-boekhouden-2026/).
+
+---
+
+## Overstappen naar SnelStart: hoe werkt de migratie?
+
+Een vraag die ik regelmatig krijg: "Ik doe mijn boekhouding nu nog in Excel — hoe moeilijk is het om over te stappen?" En ook: "Ik gebruik nu een ander pakket, kan ik mijn data meenemen?"
+
+**Vanuit Excel**
+
+Dit is de meest voorkomende situatie. Je hebt een spreadsheet met openstaande facturen, een overzicht van inkomsten en uitgaven, en misschien een aparte tab voor BTW. De overstap naar SnelStart is hier in principe eenvoudig.
+
+Wat je doet: je begint SnelStart op een nieuw boekjaar (of kwartaal) en voert de openstaande posten handmatig in als beginbalans. Historische data uit Excel hoef je niet over te zetten — het volstaat om oud materiaal te bewaren als archief. Gemiddeld is een ondernemer hier een middagje mee bezig, afhankelijk van hoeveel openstaande facturen er zijn.
+
+**Vanuit een ander boekhoudpakket**
+
+Overstap vanuit Moneybird, e-Boekhouden of Jortt? SnelStart ondersteunt import via CSV en standaard grootboekexports. Je kunt debiteuren- en crediteurenadministratie importeren, maar verwacht geen kant-en-klare knop die alles één-op-één overzet. Enig handwerk blijft nodig.
+
+Mijn praktische advies: schakel je accountant in voor de beginbalans. Die brengt de openstaande posten correct in, zodat je niet met dubbele btw-boekingen eindigt. In de meeste gevallen kost dat een uur accountantswerk — dat weegt op tegen de tijd die je zelf kwijt bent als je het fout doet.
+
+**Beste moment om over te stappen**
+
+Begin altijd aan het begin van een kwartaal of boekjaar. Midden in een kwartaal overstappen maakt de BTW-aangifte onnodig ingewikkeld. 1 januari of 1 april zijn de meest logische momenten.
+
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met SnelStart →</a>
 
 ---
 
