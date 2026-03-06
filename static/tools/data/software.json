@@ -173,6 +173,18 @@
     "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 0 }, { "up_to": 3, "price": 13.50 }, { "up_to": 10, "price": 26.50 }] }
   },
   {
+    "id": "snelstart",
+    "name": "SnelStart",
+    "categories": ["boekhouding"],
+    "pricing_band": "<€20",
+    "nl_support": true,
+    "vat": true,
+    "payroll": true,
+    "bank_sync": true,
+    "affiliate": { "type": "link", "url": "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" },
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 0 }, { "up_to": 3, "price": 16 }, { "up_to": 10, "price": 22 }] }
+  },
+  {
     "id": "asana",
     "name": "Asana",
     "categories": ["projectmanagement"],
