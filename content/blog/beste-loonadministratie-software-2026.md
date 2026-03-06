@@ -34,6 +34,21 @@ Fouten in de salarisadministratie zijn de snelste manier om het vertrouwen van j
 Loonadministratie staat zelden op zichzelf. In de meeste bedrijven hangt het samen met HR-software voor verlof en verzuim. Lees ook het overzicht van de [beste HR software in Nederland](/blog/beste-hr-software-nederland-2026/) voor een compleet beeld. Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) als je snel wilt weten welk pakket bij jou past.
 
 
+## Nederlandse wet- en regelgeving: wat moet je software kunnen?
+
+Loonadministratie in Nederland is niet simpel. Er zijn drie wetten die je software concreet moet ondersteunen — en die regelmatig veranderen:
+
+**Wet Werk en Zekerheid (WWZ)**
+De WWZ regelt onder andere de transitievergoeding bij ontslag en de ketenregeling (maximaal 3 tijdelijke contracten in 3 jaar). Je salarissoftware hoeft dit niet automatisch te berekenen, maar moet wel de contractdata bijhouden zodat je zelf tijdig kunt handelen. Nmbrs en AFAS hebben hier waarschuwingsfuncties voor ingebouwd.
+
+**Wet DBA (Deregulering Beoordeling Arbeidsrelaties)**
+Als je met zzp'ers werkt, is de Wet DBA relevant. Goede software helpt je bij het bijhouden van wie er als werknemer vs. freelancer wordt ingehuurd. Belangrijk voor de loonaangifte: zzp'ers staan niet op de loonlijst, maar je moet wel de inhuurkosten administreren. AFAS en Visma Raet bieden hier aparte modules voor.
+
+**Werkkostenregeling (WKR)**
+De WKR bepaalt hoeveel je belastingvrij aan medewerkers kunt vergoeden — denk aan laptops, thuiswerkvergoeding, personeelsfeestjes. In 2026 is de vrije ruimte 1,7% van de fiscale loonsom tot €400.000, en 1,18% daarboven. Goede salarissoftware berekent automatisch of je binnen de vrije ruimte blijft en signaleert wanneer je de drempel nadert. Nmbrs, Visma Raet en AFAS doen dit allemaal. Bij Loket.nl is het minder uitgebreid.
+
+Naast deze drie: zorg dat je software automatisch de loonheffingstabellen bijwerkt (die veranderen jaarlijks), de UPA-aangifte voor pensioenfondsen ondersteunt, en jaaropgaven genereert. Dat zijn de absolute minimumvereisten.
+
 ## Beste salarissoftware 2026: snelle vergelijking
 
 | Tool | Prijs/medewerker/mnd | HR-module | Medewerkersportaal | Trustpilot | Beste voor |
@@ -63,6 +78,8 @@ Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat
 - **Basic:** €5/medewerker/maand — Salarisverwerking + loonstroken
 - **Professional:** €8/medewerker/maand — + HR-module, verlof, ziekmeldingen
 - **Enterprise:** €10/medewerker/maand — + Geavanceerde rapportages, workflow
+
+**Koppelingen met boekhoudsoftware:** De Nmbrs API is een van de sterkste op de markt. Koppelingen zijn beschikbaar met Exact Online (journaalposten worden automatisch aangemaakt na de loonrun), Twinfield (automatische verwerking in grootboek), en Moneybird (via Zapier of directe koppeling). Voor bedrijven die Exact Online gebruiken is de Nmbrs-koppeling verreweg de meest gebruikte combinatie in het Nederlandse MKB — en die werkt ook daadwerkelijk vlekkeloos.
 
 **✅ Voordelen:** Modern en gebruiksvriendelijk, sterke API, goed medewerkersportaal, schaalbaar
 **❌ Nadelen:** Minder geschikt voor heel kleine bedrijven (<5), support kan beter
@@ -110,6 +127,8 @@ Loket.nl raad ik aan als de portemonnee krap is maar je wel professionele salari
 - **Met HR-module:** Vanaf €5/medewerker/maand
 - **Met medewerkersportaal:** Vanaf €7/medewerker/maand
 
+**Koppelingen met boekhoudsoftware:** Loket.nl heeft een directe koppeling met Exact Online en met Moneybird — de twee meest gebruikte boekhoudpakketten bij kleine Nederlandse bedrijven. De Twinfield-koppeling ontbreekt, wat voor sommige accountantskantoren een dealbreaker is. Via Zapier zijn er aanvullende mogelijkheden, maar die kosten extra.
+
 **✅ Voordelen:** Goedkoopst, eenvoudig, snel operationeel, goede Nederlandse support
 **❌ Nadelen:** Minder functies dan Nmbrs/Visma, interface basaal, beperkte integraties
 
@@ -156,6 +175,28 @@ Op aanvraag (typisch €15-€30/medewerker/maand, afhankelijk van landen en mod
 **❌ Nadelen:** Duur voor alleen Nederland, interface niet de modernste, grote contracten
 
 <a href="https://www.adp.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar adp.com →</a>
+
+## Waar let je op bij de overstap naar nieuwe salarissoftware?
+
+Overstappen naar nieuwe salarissoftware is ingrijpender dan de meeste andere software-wissels. Fouten in de loonrun hebben directe gevolgen voor je medewerkers. Ik adviseer altijd om deze punten te checken voordat je de knoop doorhakt:
+
+**1. Wanneer stap je over?**
+Begin altijd per 1 januari of per het begin van een nieuw kwartaal. Halverwege een belastingjaar overstappen is technisch mogelijk, maar vereist dat je de historische loondata correct importeert — dat is werk en een bron van fouten. De meeste leveranciers bieden gratis migratiehulp aan voor nieuwe klanten.
+
+**2. Heeft je accountant of salarisadministrateur toegang nodig?**
+Vrijwel alle paketten bieden een accountantslogin. Maar controleer of de tool ook een export levert die jouw accountant gebruikt: journaalposten voor Exact Online, een UBL-bestand, of een specifiek format voor Twinfield. Vraag dit na bij je accountant voordat je een keuze maakt.
+
+**3. Welke CAO's worden ondersteund?**
+Nmbrs en Visma Raet ondersteunen de meeste Nederlandse CAO's ingebouwd. Loket.nl is goed voor bedrijven zonder CAO of met de meest gangbare. AFAS en ADP ondersteunen vrijwel alles, maar dat vraagt ook meer configuratie. Als je een minder gangbare CAO hebt (bouw, zorg, metaal), vraag dan expliciet of die up-to-date wordt bijgehouden.
+
+**4. Hoeveel medewerkers heb je, en hoe snel groei je?**
+Bij Loket.nl betaal je €3/medewerker bij 10 man, maar ook bij 100 man is dat nog steeds €3/medewerker — de prijs schaalt lineair. Bij Nmbrs zit er meer verschil in de plannen. Kijk niet alleen naar de huidige prijs, maar ook naar wat je betaalt als je verdubbelt.
+
+**5. Is er een proefperiode?**
+Nmbrs en Loket.nl bieden allebei een gratis proefperiode. Gebruik die om een volledige loonrun te draaien — niet alleen om de interface te klikken. Pas als je de salarisberekening hebt gedraaid en de loonstroken hebt gecontroleerd, weet je of het systeem klopt voor jouw specifieke situatie (toeslagen, pensioenfonds, onregelmatigheidstoeslag).
+
+**6. Wat kost de implementatie echt?**
+De softwareprijs is één ding. Tel ook mee: eenmalige setup kosten (vaak €200–€500), kosten voor migratie van bestaande data, en de tijd die je zelf kwijt bent. Bij Nmbrs duurt een onboarding voor een bedrijf van 20 man gemiddeld een halve dag. Bij AFAS of Visma Raet ben je al snel een week kwijt aan implementatie.
 
 ## Salarisadministratie software: zelf doen vs uitbesteden
 

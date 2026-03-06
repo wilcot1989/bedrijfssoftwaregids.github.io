@@ -62,6 +62,8 @@ SharePoint is de keuze die ik maak voor bedrijven die al in Microsoft 365 zitten
 
 **Review scores:** G2 4,0/5 (9.500+ reviews) · Trustpilot: geen apart profiel
 
+**Praktisch gebruik:** De kracht van SharePoint zit in de combinatie van documentbibliotheken met metadata. In plaats van documenten in mappen te gooien, ken je ze eigenschappen toe: documenttype, klant, status, afdeling. Daarna filter je op die eigenschappen en vind je altijd wat je zoekt — ook als je de mappenstructuur niet kent. Power Automate koppelt rechtstreeks aan SharePoint: als een document de status "Ter goedkeuring" krijgt, gaat er automatisch een e-mail naar de juiste manager. Voor bedrijven die ook met boekhoud- of ERP-software werken (Exact, AFAS, SAP), zijn er kant-en-klare connectoren. Prijs: inbegrepen bij Microsoft 365 Business Basic (€5,60/user/mnd) of Business Standard (€11,70/user/mnd).
+
 ## 2. Google Workspace — Beste voor MKB
 
 Google Workspace is de documentbeheer software die ik het vaakst aanbeveel aan kleine teams. De reden is nuchter: iedereen kent Google Drive al, niemand heeft training nodig. Bij een MKB-klant van mij was de hele migratie in een middag klaar. Voor geavanceerd metadata-beheer of complexe workflows moet je elders zijn, maar voor 90% van de MKB-bedrijven is dit meer dan voldoende. Als je ook je website bouwt met Google Workspace in het achterhoofd, bekijk dan de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
@@ -86,6 +88,8 @@ Google Workspace is de documentbeheer software die ik het vaakst aanbeveel aan k
 **❌ Nadelen:** Minder geavanceerde metadata, beperktere workflows, minder enterprise-functies
 
 **Review scores:** G2 4,6/5 (42.800+ reviews) · Trustpilot 1,7/5 (Google-profiel, niet representatief voor Workspace)
+
+**Praktisch gebruik:** Google Workspace integreert naadloos met de tools die MKB-bedrijven al gebruiken: Slack (meldingen bij wijzigingen in Drive), HubSpot en Salesforce (documenten koppelen aan CRM-records), en Zapier voor lichtgewicht automatisering. Shared Drives zijn het geheim van goed documentbeheer in Google: bestanden zijn eigendom van het team, niet van een individuele medewerker. Dat voorkomt het klassieke probleem waarbij documenten verdwijnen als iemand vertrekt. Voor bedrijven die ook gebruik maken van boekhoudsoftware als Moneybird of SnelStart: er is geen directe native koppeling, maar via Google Forms kun je documenten en gegevens wel gestructureerd binnenhalen.
 
 ## 3. Dropbox Business — Beste voor extern delen
 
@@ -140,6 +144,39 @@ DocuWare is de keuze voor bedrijven waar documenten niet alleen opgeslagen maar 
 **❌ Nadelen:** Duurste optie, complexe implementatie, overkill voor kleine bedrijven
 
 **Review scores:** G2 4,3/5 (300+ reviews) · Trustpilot: geen profiel
+
+## AVG/GDPR en documentbeheer: wat Nederlandse bedrijven moeten weten
+
+Dit is een onderwerp dat ik bij bijna elke klant moet aankaarten, omdat het zelden spontaan ter sprake komt. Documentbeheer en de AVG gaan hand in hand — en de boetes bij overtredingen zijn niet misselijk (tot 4% van de wereldwijde jaaromzet).
+
+**Wat de AVG vereist voor documenten:**
+- **Toegangscontrole:** Persoonsgegevens (personeelsdossiers, klantcontracten, sollicitaties) mogen alleen toegankelijk zijn voor wie ze echt nodig heeft. Alle DMS-systemen in deze lijst bieden rol-gebaseerde rechten — maar je moet ze ook daadwerkelijk instellen.
+- **Bewaartermijnen:** De AVG verplicht je om persoonsgegevens niet langer te bewaren dan noodzakelijk. In de praktijk betekent dit: personeelsdossiers 2 jaar na uitdiensttreding, sollicitatiebrieven maximaal 4 weken (of 1 jaar met toestemming), klantgegevens zolang de zakelijke relatie loopt.
+- **Recht op verwijdering:** Als een klant of medewerker vraagt om verwijdering van hun gegevens, moet je ze kunnen vinden en verwijderen. Een goed DMS maakt dat mogelijk via zoekfuncties en audit logs.
+- **Verwerkersovereenkomst:** Als je documenten opslaat bij een clouddienst, ben jij de verwerkingsverantwoordelijke en is de aanbieder de verwerker. Alle vijf aanbieders in deze lijst bieden verwerkersovereenkomsten (DPA's) aan — controleer of je die hebt getekend.
+
+**Datalocatie: Europa of VS?** Google Workspace en Microsoft 365 bieden EU-dataresidentie aan (data blijft in Europese datacenters). Dit is relevant voor gevoelige sectoren. Dropbox en Box slaan standaard ook Europese klantdata op in EU-regio's. DocuWare biedt zowel cloud (EU) als on-premise opties.
+
+**Mijn advies:** Maak bij de implementatie van je DMS meteen een documentenmatrix: welke documentcategorie, wie heeft toegang, hoe lang bewaren, hoe vernietigen. Dat kost een dagdeel maar bespaart je later een hoop gedoe.
+
+## Van bestandsserver naar DMS: praktische migratie-tips
+
+De meeste MKB-bedrijven die ik help, starten vanuit hetzelfde punt: een Windows-fileserver of NAS vol mappen met namen als "DEFINITIEF_v3_echt_nu_final.docx". De migratie naar een DMS is niet ingewikkeld, maar er zijn valkuilen.
+
+**Stap 1: Opruimen vóór migratie.** Zet niet alles over — dat is de grootste fout. Eerst opschonen: duplicaten verwijderen, verouderde versies weg, bestanden die niemand meer nodig heeft archiveren of vernietigen. Ik schat dat 40-60% van de bestanden op een gemiddelde fileserver overbodig is.
+
+**Stap 2: Bepaal je mappenstructuur van tevoren.** Of je nu naar SharePoint of Google Drive gaat, bedenk eerst de structuur. Een aanpak die werkt: per afdeling een hoofdmap, daarbinnen categorieën (actief, archief, sjablonen). Houd het maximaal 3 niveaus diep — dieper wordt het onoverzichtelijk.
+
+**Stap 3: Migreer per afdeling, niet alles tegelijk.** Begin met één afdeling als pilot. Laat hen twee weken werken in het nieuwe systeem terwijl de fileserver nog beschikbaar is als vangnet. Daarna pas de rest. Dit voorkomt paniek en ontdekt kinderziektes vroeg.
+
+**Stap 4: Migratiehulpmiddelen per platform:**
+- *SharePoint:* SharePoint Migration Tool (gratis, van Microsoft) of Mover.io voor grote migraties.
+- *Google Workspace:* Google Workspace Migration Tool, of gewoon via Drive for Desktop de bestanden slepen.
+- *Dropbox:* Dropbox desktop-app synchroniseert automatisch alles wat je in de lokale Dropbox-map zet.
+
+**Stap 5: Train medewerkers op zoeken, niet op de mappenstructuur.** De mentaliteitsshift is: niet "weet ik in welke map het staat?" maar "kan ik het vinden?" Alle DMS-systemen in deze lijst bieden krachtige zoekfuncties. Train medewerkers om die te gebruiken in plaats van door mappen te bladeren.
+
+**Tijdsschatting:** Voor een team van 20 personen met een typische fileserver van 500GB reken ik op 2-4 weken voor de volledige migratie inclusief opschonen, structuurbepaling en training. Voor grotere organisaties schaalt dat lineair op.
 
 ## Welke documentbeheer software past bij jou?
 

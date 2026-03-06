@@ -157,6 +157,46 @@ Whereby is mijn tip voor coaches, consultants en iedereen die regelmatig 1-op-1 
 
 <a href="https://whereby.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar whereby.com →</a>
 
+## Vergadersoftware voor hybride teams: wat werkt écht?
+
+Hybride werken is inmiddels de norm voor de meeste MKB-bedrijven die ik spreek. Drie dagen op kantoor, twee vanuit huis — of andersom. Dat klinkt eenvoudig, maar vergadersoftware kan dit breukvlak blootleggen. Iemand die thuis zit en gefluister hoort van collega's die samen in een vergaderzaal zitten: dat is de realiteit zonder de juiste setup.
+
+De tools die het beste werken in een hybride omgeving zijn niet per se de meest bekende. Hier is wat ik in de praktijk zie:
+
+**Microsoft Teams + room hardware** is de sterkste combinatie als je al Microsoft 365 gebruikt. Een Teams Room-apparaat in de vergaderzaal zorgt dat iedereen — thuis én op kantoor — hetzelfde beeld en geluid ervaart. Kosten van een basisset-up: €800-€2.500 eenmalig per vergaderruimte.
+
+**Webex** is de absolute winnaar voor hybride zalen met Cisco Room Kits. De noise cancellation filtert achtergrondgeluiden er automatisch uit, zelfs als collega's in een open kantoor zitten. Voor bedrijven met meerdere locaties en vergaderzalen is dit de meest professionele oplossing.
+
+**Zoom** scoort het beste in pure meeting-kwaliteit voor de thuiswerker. De bandbreedteoptimalisatie is beter dan Teams bij slechtere verbindingen — relevant als medewerkers in gebieden met wisselend internet werken.
+
+**Praktisch advies:** zorg dat elke vergaderruimte een dedicated webcam en microfoon heeft, ongeacht welke software je gebruikt. Een €150 investering in een Logitech Rally Bar Mini doet meer voor hybride vergaderen dan welke softwarefunctie ook.
+
+## Concrete scenario's: welke tool kies je?
+
+Na honderden gesprekken met ondernemers, heb ik gemerkt dat de keuze bijna altijd neerkomt op een paar concrete situaties. Herken je jezelf hierin:
+
+**Als je dagelijks intern overlegt met je team** — kies Teams of Google Meet, afhankelijk van je bestaande abonnement. Externe deelnemers? Dat valt mee: ze kunnen ook zonder account meedoen aan een Microsoft Teams-vergadering via de browser.
+
+**Als je als consultant of dienstverlener wekelijks met nieuwe klanten belt** — kies Zoom. Klanten hoeven niets te installeren, de link werkt altijd, en de videokwaliteit overtuigt. Ik heb Zoom Pro aangeraden aan een accountantskantoor met veel klantcontact: binnen een maand minder "de link werkt niet"-mails.
+
+**Als je webinars of productdemo's geeft aan groepen van 20+ mensen** — kies Zoom Webinars of Teams Live Events. Google Meet houdt het eenvoudig maar mist de Q&A- en registratiefunctionaliteit die je voor events nodig hebt.
+
+**Als je een freelancer of ZZP'er bent met incidentele klantgesprekken** — kies Whereby Free of Google Meet. Geen kosten, geen gedoe. Whereby geeft je een permanente link die je in je e-mailhandtekening kunt zetten.
+
+**Als je in een sector werkt met strikte vertrouwelijkheidseisen** (zorg, juridisch, finance) — kies Webex met end-to-end encryptie, of Teams met Microsoft 365 Government-configuratie. Zoom biedt ook E2EE, maar dan verlies je een aantal functies zoals cloud recording.
+
+## Beveiliging en privacy: wat Nederlandse bedrijven moeten weten
+
+De AVG stelt eisen aan hoe je omgaat met gegevens die tijdens vergaderingen verwerkt worden — denk aan opnames, transcripties en chatberichten. Dit speelt meer dan de meeste ondernemers beseffen.
+
+**Opnames en transcripties** bevatten persoonsgegevens. Sla ze niet op zonder beleid. Microsoft Teams bewaart opnames in OneDrive/SharePoint — standaard 60 dagen, instelbaar. Zoom slaat cloudopnames op in de VS, tenzij je een EU-datacenteroptie activeert (beschikbaar in Business-plan). Voor Europese bedrijven is dat een punt om te checken.
+
+**Datalocatie:** Teams en Google Meet draaien op Europese servers als je een EU-tenant hebt. Zoom heeft EU-datacenters maar de keuze is niet standaard ingeschakeld. Webex biedt de meeste controle over datalocatie — tot on-premise opties toe.
+
+**Toestemming voor opnames:** in Nederland moet je deelnemers informeren als een vergadering wordt opgenomen. Alle tools ondersteunen een melding bij het starten van een opname. Maak dit een vaste gewoonte, zeker bij externe deelnemers.
+
+**Single Sign-On (SSO):** beschikbaar bij Zoom Business, Teams en Webex. Hiermee beheer je toegang centraal via je bestaande identity provider (Azure AD, Google). Dit voorkomt dat ex-medewerkers nog toegang hebben tot vergaderingen.
+
 ## Welke vergadersoftware past bij jou?
 
 | Jouw situatie | Beste keuze | Waarom |
@@ -166,6 +206,8 @@ Whereby is mijn tip voor coaches, consultants en iedereen die regelmatig 1-op-1 
 | Google Workspace gebruiker | **Google Meet** | Naadloze integratie |
 | Klantgesprekken, coaching | **Whereby** | Permanente link, eigen branding |
 | Enterprise, vergaderzalen | **Webex** | Beste hardware-integratie |
+| Hybride team, zaalintegratie | **Teams of Webex** | Beste hardware-ecosysteem |
+| Vertrouwelijke gesprekken | **Webex of Teams** | E2EE, EU-datalocatie |
 
 ## Conclusie
 

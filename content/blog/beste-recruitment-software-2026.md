@@ -152,6 +152,48 @@ Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk d
 
 <a href="https://www.bullhorn.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar bullhorn.com →</a>
 
+## De recruitmentfunnel: waar past een ATS precies in?
+
+Ik merk dat veel ondernemers denken dat een ATS puur een "sollicitaties bijhouden"-tool is. Dat klopt maar gedeeltelijk. Een goed ATS dekt de hele funnel, van de eerste zichtbaarheid van je vacature tot de handtekening onder het contract.
+
+**Fase 1 — Bereik:** Je plaatst een vacature op je eigen carrièrepagina en verspreidt die automatisch naar jobboards. Hier maakt multiposting het verschil: één klik, twintig kanalen. Recruitee en Greenhouse zijn hier het sterkst.
+
+**Fase 2 — Instroom:** Sollicitaties komen binnen via verschillende kanalen en landen in één overzicht. Geen verstrooide e-mails meer, geen dubbele aanmeldingen via LinkedIn én e-mail. Het ATS herkent duplicaten en koppelt alle contactmomenten aan één kandidaatprofiel.
+
+**Fase 3 — Beoordeling:** Hiring managers geven scores, voegen notities toe en plannen interviews — allemaal in het systeem. Structured hiring (zoals Greenhouse dit toepast) betekent dat elk teamlid dezelfde criteria beoordeelt, wat willekeur vermindert.
+
+**Fase 4 — Communicatie:** Automatische statusmails aan kandidaten. Dit klinkt klein, maar het maakt een wereld van verschil voor je employer brand. De kandidaat die jij afwijst, kan over twee jaar een klant of aanbeveling zijn.
+
+**Fase 5 — Aanname en overdracht:** Het ATS genereert een aanbodbrief, registreert de acceptatie en draagt de kandidaat over naar je HR-systeem of onboarding-workflow. Bij Personio gaat dit naadloos; bij een losse ATS-tool (Recruitee) heb je een koppeling nodig met je HR-software.
+
+## Integraties met jobboards: wat werkt in Nederland?
+
+Nederlandse bedrijven hebben specifieke kanalen waar kandidaten actief zijn. De grote internationale ATS-systemen ondersteunen LinkedIn en Indeed standaard, maar de lokale kanalen vereisen aandacht.
+
+**Indeed NL** is het grootste platform qua volume. Alle vijf tools in dit overzicht ondersteunen Indeed-integratie. Let op: Indeed heeft twee publicatiemethoden — organisch (gratis, via XML-feed) en betaald (sponsored jobs). Een ATS beheert de feed; de budget-instelling doe je direct in Indeed.
+
+**LinkedIn** biedt een directe ATS-koppeling via het LinkedIn Recruiter-platform. Recruitee, Greenhouse en Bullhorn ondersteunen LinkedIn Easy Apply: kandidaten solliciteren met hun LinkedIn-profiel, en het ATS verwerkt die data automatisch. Homerun ondersteunt publicatie maar geen volledige LinkedIn Easy Apply-integratie.
+
+**Nationale Vacaturebank** en **Monsterboard** zijn relevant voor technische en specialistische functies. Recruitee en Greenhouse bieden multiposting naar beide. Homerun ondersteunt deze kanalen niet standaard — je moet vacatures handmatig plaatsen of een aparte tool gebruiken.
+
+**Werk.nl (UWV)** is gratis en verplicht voor sommige functietypes. Vacatures kun je via XML-feed automatisch aanleveren vanuit de meeste ATS-systemen. Recruitee heeft hier een directe koppeling voor.
+
+**Praktisch advies:** voor een MKB-bedrijf dat 10-15 vacatures per jaar plaatst, is multiposting naar Indeed, LinkedIn en Nationale Vacaturebank de 80/20-oplossing. Meer kanalen voegen zelden evenredig meer kandidaten toe — ze voegen wel meer beheer toe.
+
+## AVG-compliance voor kandidaatdata: wat je moet regelen
+
+Sollicitantendata valt onder de AVG. Dat betekent concrete verplichtingen die je ATS moet ondersteunen — en die de meeste tools inmiddels wel bieden, maar die je actief moet inrichten.
+
+**Bewaartermijn:** je mag sollicitantendata niet onbeperkt bewaren. De standaard is vier weken na afronding van de sollicitatieprocedure, tenzij de kandidaat toestemming geeft voor opname in een talentpool. Recruitee en Homerun bieden automatische verwijdermanagment: je stelt een termijn in, de software stuurt een herinnering of verwijdert automatisch.
+
+**Toestemmingsbeheer:** als je een afgewezen kandidaat wilt bewaren voor toekomstige vacatures, heb je expliciete toestemming nodig. De meeste ATS-tools hebben hiervoor een ingebouwde opt-in in het sollicitatieformulier. Controleer of dit actief staat — het staat vaak standaard uit.
+
+**Recht op inzage en verwijdering:** kandidaten hebben recht op inzage in hun gegevens en kunnen verwijdering aanvragen. Zorg dat je weet hoe je dit in je ATS uitvoert. Recruitee heeft hiervoor een zelfbedieningsportaal; bij Homerun doe je dit handmatig.
+
+**Datadeling met derden:** als je een extern recruitmentbureau of headhunter inschakelt en kandidaatdata deelt, heb je een verwerkersovereenkomst nodig. Dat geldt ook voor je ATS-leverancier zelf — alle serieuze spelers (Recruitee, Personio, Greenhouse) bieden standaard een DPA (Data Processing Agreement) aan.
+
+**Mijn aanbeveling:** vraag bij elke ATS-demo expliciet naar AVG-functionaliteit. Niet alle verkopers brengen dit zelf ter sprake, maar het is je wettelijke verantwoordelijkheid — niet die van de software.
+
 ## Welke ATS-software past bij jou?
 
 | Jouw situatie | Beste keuze | Waarom |
