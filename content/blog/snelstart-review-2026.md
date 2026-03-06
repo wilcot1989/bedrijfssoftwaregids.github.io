@@ -1,6 +1,6 @@
 ---
 title: "SnelStart Review 2026: Ideaal Boekhoudpakket voor Starters?"
-date: 2026-03-14
+date: 2026-03-06
 lastmod: 2026-03-14
 description: "SnelStart review 2026: eerlijke ervaringen, kosten, functies en voor wie het pakket geschikt is. Lees voor je beslist."
 categories: ["boekhouding"]

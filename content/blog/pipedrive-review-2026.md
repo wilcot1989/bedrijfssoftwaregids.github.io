@@ -1,6 +1,6 @@
 ---
 title: "Pipedrive Review 2026: Het Beste CRM voor Verkoopteams?"
-date: 2026-03-14
+date: 2026-03-06
 lastmod: 2026-03-14
 description: "Pipedrive review 2026: eerlijke test na tientallen implementaties. Functies, prijzen, voor- en nadelen voor Nederlandse verkoopteams. Met Trustpilot-score."
 categories: ["crm"]
