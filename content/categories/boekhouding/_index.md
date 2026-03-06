@@ -22,6 +22,20 @@ Vergelijk altijd:
 3. kosten voor extra gebruikers of modules;
 4. kosten van overstap en datamigratie.
 
+## Boekhoudsoftware trends 2026
+
+De markt voor boekhoudpakketten verandert sneller dan veel ondernemers beseffen. Dit zijn de vier ontwikkelingen die ik momenteel het meest zie bij mijn klanten.
+
+**AI-categorisatie van transacties** is niet meer experimenteel — het is standaard. Moneybird en Exact Online categoriseren binnenkomende bankafschriften automatisch op basis van eerder gedrag en leverancierspatronen. In de praktijk betekent dit dat je bij een goed geconfigureerde koppeling nog maar 10-20% van de boekingen handmatig hoeft te controleren. Dat scheelt een ZZP'er gemiddeld anderhalf uur per maand.
+
+**Real-time bankkoppelingen** worden sneller en betrouwbaarder. Waar je twee jaar geleden nog dagelijkse imports had, zie je nu near-realtime synchronisatie bij de meeste grote banken. ING, Rabobank en ABN AMRO ondersteunen dit via de PSD2-koppelingen die de pakketten inmiddels goed hebben geïmplementeerd.
+
+**BTW-aangifte direct vanuit het pakket** — zonder aparte login op de Belastingdienstportal — is inmiddels voor de meeste pakketten de standaard werkwijze. Rompslomp, Jortt en Moneybird doen dit al jaren; ook kleinere spelers sluiten nu aan.
+
+**UBL e-facturatie** wordt in 2026 voor zakelijke transacties steeds gebruikelijker, met name richting overheid en grotere opdrachtgevers. Controleer bij je pakketselectie of UBL-export als standaardfunctie is inbegrepen of achter een duurder abonnement zit.
+
+Wil je weten welk pakket bij jouw situatie past? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/) — vijf vragen, direct een concreet advies.
+
 ## Uitgebreide gidsen en vergelijkingen
 
 ### Hoofdgidsen
@@ -29,12 +43,22 @@ Vergelijk altijd:
 - [Beste facturatiesoftware MKB 2026](/blog/beste-facturatie-software-mkb-2026/) — 6 factuurprogramma's met BTW-aangifte en bankkoppeling.
 - [Beste software voor accountants 2026](/blog/beste-software-accountants-2026/) — Multi-administratie platforms voor kantoren.
 - [Beste boekhouder-app 2026](/blog/beste-boekhouder-app-2026/) — Mobiel boekhouden voor onderweg.
+- [Boekhoudprogramma kiezen: 7 vragen](/blog/boekhoudprogramma-kiezen-7-vragen/) — De vragen die je jezelf moet stellen vóór je een pakket kiest.
 
 ### Vergelijkingen
 - [Moneybird vs Exact Online](/blog/moneybird-vs-exact-online-2026/) — De twee grootste Nederlandse boekhoudpakketten vergeleken.
 - [Moneybird vs e-Boekhouden](/blog/moneybird-vs-e-boekhouden-2026/) — Populair versus betaalbaar.
 - [Exact Online vs Twinfield](/blog/exact-online-vs-twinfield-2026/) — Enterprise boekhouding head-to-head.
 - [Twinfield vs Moneybird](/blog/twinfield-vs-moneybird-2026/) — Accountantspakket versus MKB-favoriet.
+
+### Reviews
+- [Moneybird review 2026](/blog/moneybird-review-2026/) — Uitgebreide test van het populairste Nederlandse boekhoudpakket.
+- [Exact Online review 2026](/blog/exact-online-review-2026/) — Wat krijg je voor €50+ per maand?
+- [e-Boekhouden review 2026](/blog/e-boekhouden-review-2026/) — De betaalbare keuze voor ZZP en kleine MKB.
+
+### Praktische gidsen
+- [Boekhoudprogramma migratie](/blog/boekhoudprogramma-migratie-data-overzetten/) — Data overzetten zonder verlies van historische boekingen.
+- [BTW-regels ZZP 2026](/blog/btw-regels-zzp-2026/) — Kleineondernemersregeling, btw-vrijstelling en aangifte termijnen.
 
 ### Boekhouding per doelgroep
 - [Boekhoudsoftware voor ZZP](/sectoren/boekhouding/boekhoudsoftware-zzp/) — Eenvoudig en betaalbaar voor zelfstandigen.

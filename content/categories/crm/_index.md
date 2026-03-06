@@ -22,6 +22,43 @@ Kijk verder dan "prijs per gebruiker":
 - koppelingen met boekhouding, e-mail en telefonie;
 - schaalprijs als je team groeit.
 
+## Wat is een CRM en waarom heb je het nodig?
+
+Een CRM — Customer Relationship Management systeem — is een centrale database voor alle contacten, deals en communicatie met klanten en prospects. Maar dat klinkt abstracter dan het is.
+
+Concreet voorbeeld: een klant van mij met 8 medewerkers werkte jarenlang met een gedeeld Excel-bestand en losse e-mailthreads. Elke keer als een collega ziek was, wist niemand wat er met een lopende offerte was besproken. Na de overstap naar Pipedrive had het team binnen een week overzicht: wie heeft wanneer contact gehad, wat is de volgende stap, en wat is de kans dat de deal sluit. De opvolging verbeterde direct en ze sloten 23% meer deals in het eerste kwartaal.
+
+**Wanneer heb je nog geen CRM nodig?** Als je minder dan 20 actieve klanten hebt en één persoon alle klantcommunicatie beheert, kun je prima zonder. Een CRM voegt pas waarde toe op het moment dat informatie over meerdere mensen verspreid raakt, of als je pipeline te groot wordt om bij te houden in je hoofd.
+
+## CRM-prijzen in Nederland: wat kost het echt?
+
+De licentieprijs is slechts een deel van de totaalrekening. Dit zijn de gangbare tarieven in 2026:
+
+- **Gratis**: HubSpot Free (tot 2 gebruikers, beperkt), Zoho CRM Free
+- **€15–25/gebruiker/maand**: Pipedrive Essentials, Monday CRM Basic — de sweet spot voor teams van 3–15 mensen
+- **€50–100/gebruiker/maand**: Teamleader Focus, Exact Online CRM — inclusief projectmodules of boekhoudkoppeling
+- **€100+/gebruiker/maand**: Salesforce Sales Cloud, HubSpot Pro — geschikt als je geavanceerde marketing automation nodig hebt
+
+Maar reken ook deze verborgen kosten mee:
+
+- **Implementatie**: 8–20 uur interne tijd, of €1.500–5.000 bij een partner
+- **Training**: plan minimaal een halve dag per medewerker in
+- **Datamigratie**: vuile data opschonen kost altijd meer tijd dan verwacht
+
+De ROI-rekening is simpel: een gemiddelde salespersoon verliest 2–3 uur per week aan zoeken, nabellen en administratie. Bij een uurtarief van €60 is dat €360–540 per maand per persoon — meer dan de meeste CRM-abonnementen kosten.
+
+## De 5 grootste CRM-fouten bij het MKB
+
+Ik zie deze fouten keer op keer terugkomen bij MKB-bedrijven die een CRM implementeren:
+
+1. **Te complex systeem kiezen** — Salesforce is niet geschikt voor een team van 6 mensen die simpelweg hun pipeline wil bijhouden.
+2. **Geen adoptieplan** — Techniek is 20% van het werk. De andere 80% is mensen meenemen in de nieuwe werkwijze.
+3. **Data niet opschonen voor de migratie** — Rommel erin, rommel eruit. Begin met een schone database.
+4. **Geen integraties instellen** — Een CRM dat niet praat met je e-mail, agenda en boekhouding is half zo nuttig.
+5. **Geen eigenaar aanwijzen** — Zonder iemand die verantwoordelijk is voor de datakwaliteit, vervalt elk systeem binnen zes maanden.
+
+Lees meer in mijn artikel over [de meest gemaakte CRM-fouten bij MKB](/blog/crm-fouten-mkb-2026/).
+
 ## Uitgebreide gidsen en vergelijkingen
 
 ### Hoofdgids
