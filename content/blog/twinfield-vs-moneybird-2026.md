@@ -338,4 +338,4 @@ Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**
 
 ---
 
-*Laatst bijgewerkt: mei 2026.*
+*Laatst bijgewerkt: maart 2026.*
