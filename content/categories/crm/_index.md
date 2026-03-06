@@ -22,6 +22,26 @@ Kijk verder dan "prijs per gebruiker":
 - koppelingen met boekhouding, e-mail en telefonie;
 - schaalprijs als je team groeit.
 
+## Uitgebreide gidsen en vergelijkingen
+
+### Hoofdgids
+- [Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/) — Uitgebreide vergelijking van 7 CRM-systemen met prijzen, Trustpilot-scores en praktijkadvies.
+- [Beste CRM voor ZZP en freelancers](/blog/beste-crm-zzp-freelancers-2026/) — Gratis en betaalbare opties voor eenmanszaken.
+- [Beste CRM voor webshops](/blog/beste-crm-webshops-2026/) — E-commerce CRM-systemen met webshopintegraties.
+
+### Vergelijkingen
+- [HubSpot vs Pipedrive](/blog/hubspot-vs-pipedrive-2026/) — De twee populairste CRM's head-to-head.
+- [HubSpot vs Monday CRM](/blog/hubspot-vs-monday-crm-2026/) — Marketing-CRM versus projectmatig CRM.
+- [Pipedrive vs Monday CRM](/blog/pipedrive-vs-monday-crm-2026/) — Sales pipeline versus flexibel werkbeheer.
+- [Salesforce vs HubSpot](/blog/salesforce-vs-hubspot-2026/) — Enterprise versus MKB: welk past bij jou?
+
+### CRM per sector
+- [CRM voor makelaars](/sectoren/crm/crm-voor-makelaars/) — Met Realworks, HubSpot en Pipedrive.
+- [CRM voor SaaS-startups](/sectoren/crm/crm-voor-saas-startups/) — Schaalbare CRM's voor snelle groei.
+- [CRM voor bouwbedrijven](/sectoren/crm/crm-voor-bouwbedrijven/) — Projectmatig CRM met offertebeheer.
+- [CRM voor recruitment bureaus](/sectoren/crm/crm-voor-recruitment-bureaus/) — Kandidaat- en klantbeheer in één systeem.
+- [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) — Relatiebeheer en urenregistratie gecombineerd.
+
 ## Gerelateerde categorieën
 
 - [Boekhoudsoftware](/categories/boekhouding/) — voor facturatie en omzetinzicht.
