@@ -1,7 +1,7 @@
 ---
 title: "Salesforce vs HubSpot 2026: Welke CRM Kies Je?"
 date: 2026-03-16
-lastmod: 2026-03-16
+lastmod: 2026-03-06
 description: "Salesforce vs HubSpot: uitgebreide vergelijking voor het Nederlandse MKB. Ontdek welke CRM het beste past bij jouw bedrijf qua functies, prijs en gebruiksgemak."
 categories: ["crm"]
 tags:
@@ -30,7 +30,7 @@ faq:
     a: "Salesforce heeft krachtigere en meer aanpasbare rapportages, maar deze vereisen meer technische kennis om op te zetten. HubSpot biedt gebruiksvriendelijkere rapportages die voor de meeste MKB-bedrijven ruim voldoende zijn."
 ---
 
-Salesforce vs HubSpot is de vergelijking die ik het vaakst maak. Ik heb bedrijven begeleid die van HubSpot naar Salesforce migreerden omdat ze de kracht nodig hadden, en bedrijven die van Salesforce terug naar HubSpot gingen omdat ze verdronken in complexiteit. Beide zijn uitstekende CRM-platforms, maar voor totaal verschillende situaties. In deze Salesforce vs HubSpot vergelijking help ik je bepalen welke bij jouw bedrijf past.
+Salesforce vs HubSpot is de vergelijking die ik het vaakst maak. Op Trustpilot scoren beide laag: Salesforce 1.5/5 (612 reviews), HubSpot 1.8/5 (1.054 reviews). Die scores weerspiegelen vooral frustratie over contractvoorwaarden en prijsverhogingen — niet per se de productkwaliteit. Ik heb bedrijven begeleid die van HubSpot naar Salesforce migreerden omdat ze de kracht nodig hadden, en bedrijven die van Salesforce terug naar HubSpot gingen omdat ze verdronken in complexiteit. Beide zijn uitstekende CRM-platforms, maar voor totaal verschillende situaties. In deze Salesforce vs HubSpot vergelijking help ik je bepalen welke bij jouw bedrijf past.
 
 
 Benieuwd naar meer CRM-opties? Bekijk ook ons overzicht van de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/) of onze [HubSpot vs Pipedrive vergelijking](/blog/hubspot-vs-pipedrive-2026/). Wil je meer weten over HubSpot als standalone product? Lees mijn uitgebreide [HubSpot CRM review](/blog/hubspot-crm-review-2026/).
@@ -39,6 +39,7 @@ Benieuwd naar meer CRM-opties? Bekijk ook ons overzicht van de [beste CRM softwa
 
 | Kenmerk | Salesforce | HubSpot |
 |---------|-----------|---------|
+| **Trustpilot** | 1.5/5 (612 reviews) | 1.8/5 (1.054 reviews) |
 | **Gratis plan** | Nee (30 dagen trial) | Ja (uitgebreid) |
 | **Startprijs betaald** | $25/gebruiker/mnd | €15/gebruiker/mnd |
 | **Beste voor** | Complexe salesprocessen | Marketing + sales |
@@ -95,6 +96,8 @@ De kosten zijn een van de grootste verschillen tussen Salesforce en HubSpot. Sal
 
 ### Sales functies
 
+**Trustpilot scores:** Salesforce 1.5/5 (612 reviews), HubSpot 1.8/5 (1.054 reviews). Beide lage scores komen primair door klachten over contractvoorwaarden, niet over de sales-functies zelf.
+
 Beide platformen zijn sterk in sales, maar de aanpak verschilt fundamenteel. Salesforce is de F1-auto: ongelofelijk snel als je een team van monteurs hebt, maar je moet weten wat je doet. HubSpot is de Tesla: stap in en rijd.
 
 **Salesforce** blinkt uit in:
@@ -103,11 +106,15 @@ Beide platformen zijn sterk in sales, maar de aanpak verschilt fundamenteel. Sal
 - Geavanceerde forecasting met AI (Einstein)
 - CPQ voor complexe product- en prijsconfiguraties
 
+Een concreet voorbeeld: ik heb vorig jaar een technisch groothandel in Rotterdam begeleid met 35 buitendienstmedewerkers, elk verantwoordelijk voor een eigen regio. Ze hadden territory management nodig, automatische lead-routing op postcode, en goedkeuringsworkflows voor kortingen boven de 15%. In HubSpot was dat niet haalbaar zonder dure workarounds. In Salesforce Enterprise hadden we het binnen drie weken staan — inclusief een dashboard waar de salesmanager per regio de pipeline kon monitoren.
+
 **HubSpot** blinkt uit in:
 - Snelheid van opzetten en dagelijks gebruik
 - Geïntegreerde e-mail tracking en sequences
 - Meeting scheduler met automatische CRM-registratie
 - Deal pipelines die eenvoudig aan te passen zijn
+
+Aan de andere kant: een marketingbureau in Amsterdam met 12 medewerkers wilde vorig jaar van Salesforce naar HubSpot. Ze gebruikten misschien 10% van Salesforce en betaalden zich blauw. Binnen een week draaide het hele team op HubSpot Professional. De marketingmanager kon eindelijk zelf campagnes opzetten zonder een Salesforce-consultant in te schakelen. Hun kosten daalden met 60%, en eerlijk gezegd steeg de adoptie door het team met minstens het dubbele.
 
 ### Marketing functies
 
@@ -192,6 +199,40 @@ Beide platformen integreren met de populairste zakelijke tools. De meest gevraag
 - Je budget is beperkt en je wilt **voorspelbare kosten**
 
 Wil je de CRM-kosten voor jouw team in kaart brengen? Gebruik de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/) voor een vergelijking op basis van jouw teamgrootte en gewenste functies.
+
+## Overstappen van Salesforce naar HubSpot (of andersom)
+
+Ik begeleid regelmatig migraties tussen deze twee platformen. Eerlijk gezegd: het is nooit lekker simpel, maar het is absoluut te doen als je het gestructureerd aanpakt.
+
+### Van Salesforce naar HubSpot
+
+Dit zie ik het vaakst. Bedrijven die ooit Salesforce kozen "omdat het de standaard is", maar nu vastzitten aan hoge kosten voor functies die ze niet gebruiken. De stappen die ik doorloop:
+
+1. **Audit je huidige Salesforce-gebruik** — welke objecten, velden en automatiseringen gebruik je daadwerkelijk? Bij de meeste MKB-bedrijven die ik begeleid blijkt 60-70% van de Salesforce-configuratie ongebruikt.
+2. **Exporteer je data** — contacten, bedrijven, deals, notities en activiteiten. Salesforce exporteert naar CSV, wat HubSpot direct kan importeren.
+3. **Configureer HubSpot eerst** — zet je pipeline, custom properties en automatiseringen op voordat je data importeert. Dat scheelt achteraf opschonen.
+4. **Draai beide systemen 2-4 weken parallel** — HubSpot heeft een native Salesforce-integratie die tweerichtingssynchronisatie ondersteunt. Gebruik die overgangsperiode om je team te laten wennen.
+5. **Schakel Salesforce pas uit** als iedereen comfortabel werkt in HubSpot en je alle historische data hebt gevalideerd.
+
+Reken op 4-8 weken voor de volledige migratie bij een team van 10-20 gebruikers. Eenmalige kosten: €2.000-€5.000 als je het zelf doet, €5.000-€15.000 met een implementatiepartner.
+
+### Van HubSpot naar Salesforce
+
+Dit komt minder vaak voor, maar het gebeurt. Meestal bij bedrijven die snel gegroeid zijn en tegen de grenzen van HubSpot aanlopen — denk aan complexe goedkeuringsworkflows, geavanceerd territory management, of de behoefte aan Apex-code voor maatwerk.
+
+Belangrijkste valkuil: onderschat de implementatietijd niet. Waar je HubSpot in een week live had, moet je voor Salesforce 2-6 maanden rekenen. En je hebt een gecertificeerde Salesforce-partner nodig, tenzij je een ervaren admin in huis hebt.
+
+## Veelgemaakte fouten bij de keuze
+
+Na jarenlang bedrijven te begeleiden bij deze beslissing, zie ik steeds dezelfde fouten terugkomen:
+
+1. **"Salesforce is de standaard, dus dat moet goed zijn"** — Ik heb een accountantskantoor begeleid dat Salesforce Enterprise kocht op advies van een bevriende IT-manager. Zes maanden later gebruikten ze het als een duur Excel-bestand. De €25.000 aan implementatiekosten was weggegooid geld. Voor hun 8-koppig team was HubSpot Professional meer dan voldoende geweest.
+
+2. **Niet doorrekenen wat je betaalt bij groei** — Salesforce ziet er betaalbaar uit bij $25/gebruiker/maand, maar zodra je forecasting, automation of API-toegang nodig hebt, zit je op $100-$175 per gebruiker. Plus Pardot, plus implementatie. Maak altijd een 3-jaars kostenplaatje met de functies die je realistisch nodig hebt.
+
+3. **Adoptie door het team onderschatten** — Het maakt niet uit hoe krachtig een CRM is als je salesteam het niet gebruikt. Ik heb het vaker gezien dan me lief is: een prachtig geconfigureerd Salesforce-systeem waar na drie maanden nog maar de helft van het team in werkt. De rest houdt het bij Excel of Outlook. Bij HubSpot zie ik dit probleem minder, simpelweg omdat de leercurve lager ligt.
+
+4. **De verkeerde reden om over te stappen** — Verveeld zijn met je huidige CRM is geen reden om te migreren. Ik vraag altijd: "Welk concreet probleem lost het nieuwe systeem op dat je huidige niet kan?" Als je die vraag niet in twee zinnen kunt beantwoorden, blijf waar je zit.
 
 ## Verdict: Salesforce vs HubSpot
 

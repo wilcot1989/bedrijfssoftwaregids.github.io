@@ -27,7 +27,26 @@
     {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</div>{{ end }}
     <h1>{{ .Title }}</h1>
 {{ end }}
+{{ if .Params.products }}
+    {{ if .Params.categories }}<meta name="bsg-category" content="{{ index .Params.categories 0 | urlize }}">{{ end }}
+    <div class="article-layout">
+    <div>
     {{ .Content }}
+    </div>
+    <aside class="sticky-sidebar">
+      <h4>Top 3</h4>
+      {{ range first 3 .Params.products }}
+      <div class="sidebar-product">
+        <div class="sidebar-name">{{ .name }}</div>
+        <div class="sidebar-price">{{ if eq .price "0.00" }}Gratis{{ else }}Vanaf &euro;{{ .price }}/mnd{{ end }}</div>
+        <a href="{{ .url }}" class="sidebar-cta cta-affiliate" target="_blank" rel="noopener noreferrer">Bekijk {{ .name }} &rarr;</a>
+      </div>
+      {{ end }}
+    </aside>
+    </div>
+{{ else }}
+    {{ .Content }}
+{{ end }}
     {{ if .Params.tags }}
     <div class="tags" style="margin-top:2rem;">
       {{ range .Params.tags }}<a class="tag" href="/tags/{{ . | urlize }}/">{{ . }}</a>{{ end }}

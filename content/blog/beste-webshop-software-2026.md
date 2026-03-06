@@ -76,6 +76,20 @@ De eerste vraag die ik stel als iemand webshop software zoekt: "Hoeveel producte
 
 ![Trustpilot scores webshop software 2026 — gebruikersbeoordelingen van alle 7 systemen](/images/blog/beste-webshop-software/trustpilot-scores-webshop.svg)
 
+Geen tijd om alles te lezen? Hier de snelle vergelijking:
+
+| Product | Vanaf | Trustpilot | Beste voor |
+|---|---|---|---|
+| **Shopify** | €36/mnd | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops & internationaal |
+| **WooCommerce** | Gratis + hosting | 1.9/5 (132 reviews) | Volledige controle & maatwerk |
+| **Lightspeed eCom** | €59/mnd | 4.2/5 (2.404 reviews) | Omnichannel retail (winkel + online) |
+| **Magento** | Gratis (self-hosted) | Geen profiel | Enterprise & complexe catalogussen |
+| **BigCommerce** | $39/mnd | 1.3/5 (448 reviews) | Internationale groei zonder transactiekosten |
+| **CCV Shop** | €24,95/mnd | 3.0/5 (15 reviews) | Nederlandse starters & MKB |
+| **Acendy** | €40/mnd | Geen profiel | Eenvoud & snel live in Nederland |
+
+*\*Typische review-bias: ontevreden gebruikers schrijven sneller een review dan tevreden klanten.*
+
 ## Vergelijkingstabel: Beste Webshop Software 2026
 
 | Webshop Platform | Startprijs/mnd | Gratis plan | iDEAL | Nederlands | Trustpilot | Beste voor |

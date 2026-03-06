@@ -68,6 +68,16 @@ faq:
 
 Zodra een bedrijf boven de 15 medewerkers groeit, zie ik steevast hetzelfde: verlofaanvragen via WhatsApp, personeelsdossiers in Excel, en een officemanager die halve dagen kwijt is aan administratie. HR-software lost dat op, maar de keuze is overweldigend. Ik heb de 6 beste opties voor het Nederlandse MKB naast elkaar gezet, specifiek getoetst op Nederlandse wet- en regelgeving.
 
+Geen tijd om alles te lezen? Hier de snelle vergelijking:
+
+| Product | Vanaf | Trustpilot | Beste voor |
+|---|---|---|---|
+| **Personio** | ~€3/mdw/mnd | 4.0/5 | Groeiend MKB (20–500 mdw) |
+| **HiBob** | ~€8/mdw/mnd | 4.4/5 | Internationale teams & scale-ups |
+| **Nmbrs** | €3/mdw/mnd | 4.3/5 | MKB met focus op salarisadministratie |
+| **AFAS** | ~€8/mdw/mnd | 3.3/5 | Middelgrote & grote organisaties |
+| **Loket.nl** | €5/mdw/mnd | — | MKB via accountant/salarisadviseur |
+| **BambooHR** | ~€5/mdw/mnd | 3.1/5 | Internationale bedrijven met NL-vestiging |
 
 ![Trustpilot scores HR software 2026 — gebruikersbeoordelingen van alle 6 systemen](/images/blog/beste-hr-software-nederland/trustpilot-scores-hr.svg)
 
