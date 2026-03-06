@@ -92,6 +92,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 | **Moneybird** | €15/mnd | Ja (max 3 fact/mnd) | Ja | Ja | Ja | 3.5/5 (181 reviews) | MKB allrounder |
 | **Exact Online** | €48/mnd | Nee (trial) | Ja | Ja | Ja | 2.7/5 (644 reviews) | Groeiend MKB |
 | **e-Boekhouden** | €9,95/mnd | Nee (trial) | Ja | Ja | Ja | 4.6/5 (1.878+ reviews) | MKB met boekhouder |
+| **SnelStart** | €16/mnd | Ja (gratis basisplan) | Ja | Ja | Ja | 3.9/5 | ZZP/klein MKB NL |
 | **Rompslomp** | Gratis (5 fact/mnd) | Ja | Ja | Ja | Ja | 2.0/5 (46 reviews) | Eenvoud zoekend MKB |
 | **Informer** | €14/mnd | Nee (trial) | Ja | Ja | Ja | 4.3/5 (113 reviews) | Administratiekantoren |
 | **Jortt** | Gratis / €19,95/mnd | Ja | Ja (betaald) | Ja (betaald) | Ja | 4.7/5 (185 reviews) | Starters & micro-MKB |
@@ -490,10 +491,15 @@ Als je nu 2 medewerkers hebt en over 3 jaar 15, dan is het duurder om dan te mig
 
 1. **Starter, < 5 facturen/maand → Jortt Gratis of Rompslomp Starter**
 2. **ZZP met boekhouder → e-Boekhouden ZZP (€9,95/maand)**
-3. **MKB allround → Moneybird Onbeperkt (€39/maand)**
-4. **Groeiend MKB, complexe boekhouding → Exact Online**
-5. **Administratiekantoor → Informer Multi**
-6. **Eenvoud boven alles → Rompslomp Basic (€13,50/maand)**
+3. **ZZP/klein MKB, Nederlandstalig pakket met gratis instap → SnelStart (gratis / €16/maand)**
+4. **MKB allround → Moneybird Onbeperkt (€39/maand)**
+5. **Groeiend MKB, complexe boekhouding → Exact Online**
+6. **Administratiekantoor → Informer Multi**
+7. **Eenvoud boven alles → Rompslomp Basic (€13,50/maand)**
+
+SnelStart is voor ZZP'ers en klein MKB een interessante tussenoptie: een gratis basisplan om te starten, betaalde pakketten vanaf €16 per maand, en een volledig Nederlandse interface inclusief BTW-aangifte en bankkoppeling. Met meer dan 250.000 gebruikers is het een bewezen keuze voor ondernemers die geen taalbarrière willen bij hun administratie.
+
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
 
 Gebruik de [factuurprogramma keuzehulp](/tools/boekhouding/keuzehulp/) voor een persoonlijk advies op basis van jouw situatie.
 
