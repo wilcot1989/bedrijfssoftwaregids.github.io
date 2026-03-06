@@ -111,7 +111,7 @@ De interface kan overweldigend zijn voor kleine teams. Zoveel tabbladen, zoveel 
 
 En die Trustpilot-reviews? De terugkerende klacht is het jaarlijkse contract dat automatisch verlengt. Meerdere gebruikers melden dat opzeggen moeizaam gaat. Dat is iets om vooraf goed uit te zoeken.
 
-<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ---
 

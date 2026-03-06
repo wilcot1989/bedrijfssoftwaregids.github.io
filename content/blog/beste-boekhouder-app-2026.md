@@ -19,7 +19,7 @@ faq:
     a: "Voor eenvoudige administraties is het mogelijk om vrijwel alles op je telefoon te doen. Bonnetjes scannen, facturen versturen en je financieel overzicht bekijken werkt goed mobiel. Complexere zaken zoals jaarrekeningen of uitgebreide rapportages doe je beter op een laptop of desktop."
   - q: "Welke boekhoud-app is het beste voor bonnetjes scannen?"
     a: "Moneybird heeft de beste bonnetjes-scanfunctie. De app herkent automatisch het bedrag, de datum en de leverancier en stelt een boeking voor. Je hoeft alleen nog te bevestigen. Jortt en Exact Online bieden ook goede scanfuncties, maar Moneybird is het meest nauwkeurig."
-  - q: "Zijn boekhoud-apps veilig voor mijn financiele gegevens?"
+  - q: "Zijn boekhoud-apps veilig voor mijn financiële gegevens?"
     a: "Ja, alle boekhoud-apps in dit artikel gebruiken versleutelde verbindingen (SSL/TLS) en slaan gegevens op in beveiligde cloudomgevingen. Je gegevens worden dagelijks geback-upt. Gebruik wel altijd een sterk wachtwoord en zet tweefactorauthenticatie aan waar mogelijk."
   - q: "Kan ik BTW-aangifte doen via een boekhoud-app?"
     a: "Ja, de meeste Nederlandse boekhoud-apps bieden de mogelijkheid om je BTW-aangifte te berekenen en in te dienen bij de Belastingdienst. Moneybird, Jortt en Exact Online ondersteunen dit volledig via de mobiele app of webversie."
@@ -89,7 +89,7 @@ De Moneybird app voelt als een natuurlijke extensie van de webversie. De interfa
 
 Lees meer in mijn uitgebreide [Moneybird review 2026](/blog/moneybird-review-2026/) of in mijn [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/). Ben je benieuwd of boekhouden en factureren ook gecombineerd kunnen? Lees dan over [factureren en boekhouden alles-in-een](/blog/factureren-en-boekhouden-alles-in-een/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -132,7 +132,7 @@ De Jortt app is bijzonder gebruiksvriendelijk. Alles is eenvoudig en overzichtel
 - Bankkoppeling alleen in betaald plan
 - Minder professionele factuursjablonen
 
-<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
+<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 
@@ -176,7 +176,7 @@ De Exact Online app is functioneel en stabiel, maar voelt minder intuïtief dan 
 
 Lees onze uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voor een volledig beeld.
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -217,7 +217,7 @@ De e-Boekhouden app is functioneel maar voelt gedateerder dan de concurrentie. D
 
 Vergelijk e-Boekhouden direct met Moneybird in ons artikel [Moneybird vs e-Boekhouden 2026](/blog/moneybird-vs-e-boekhouden-2026/).
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -260,7 +260,7 @@ De FreshBooks app is een van de best ontworpen boekhoud-apps. De interface is mo
 - Beperkte bankkoppeling met Nederlandse banken
 - Minder geschikt als enige boekhoudtool voor Nederlandse ondernemers
 
-<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshbooks.com →</a>
+<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar freshbooks.com →</a>
 
 ---
 
@@ -276,7 +276,7 @@ Gebruik de notificatie-functies van je boekhoud-app voor betalingsherinneringen,
 Doe de dagelijkse taken (bonnetjes scannen, facturen versturen, betalingen checken) mobiel, maar gebruik de desktopversie voor complexere zaken als rapportages, jaarrekeningen en BTW-aangifte. Wil je weten welke software het beste aansluit op je BTW-aangifte? Lees dan mijn gids over [welke boekhoudsoftware het beste werkt voor BTW-aangifte](/blog/btw-aangifte-welke-boekhoudsoftware/).
 
 ### 4. Beveilig je app
-Zet een pincode, vingerafdruk of Face ID in op je boekhoud-app. Je financiele gegevens zijn gevoelig en moeten beschermd zijn als je telefoon zoekraakt.
+Zet een pincode, vingerafdruk of Face ID in op je boekhoud-app. Je financiële gegevens zijn gevoelig en moeten beschermd zijn als je telefoon zoekraakt.
 
 ### 5. Houd je app up-to-date
 Update je boekhoud-app regelmatig voor de nieuwste functies en beveiligingspatches. De meeste apps worden maandelijks bijgewerkt.

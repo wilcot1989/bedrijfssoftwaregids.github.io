@@ -149,7 +149,7 @@ Als je Personio overweegt, lees dan ook mijn artikel over [personeelsdossiers di
 - Kan overweldigend zijn voor zeer kleine bedrijven (<10 medewerkers)
 - Jaarcontract vereist
 
-<a href="https://www.personio.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar personio.nl →</a>
+<a href="https://www.personio.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar personio.nl →</a>
 
 ---
 
@@ -207,7 +207,7 @@ Eerlijk punt: HiBob heeft geen Nederlandse salarisverwerking. Dat is een echt na
 - Minder geschikt voor kleine bedrijven (<50 medewerkers)
 - Sommige functies zijn minder diep dan bij gespecialiseerde tools
 
-<a href="https://www.hibob.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hibob.com →</a>
+<a href="https://www.hibob.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hibob.com →</a>
 
 ---
 
@@ -270,7 +270,7 @@ Verzuim registreren is ook een sterk punt van Nmbrs. Het systeem ondersteunt de 
 
 Als je Nmbrs combineert met je boekhouding, lees dan ook ons artikel over de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) voor handige integratiemogelijkheden.
 
-<a href="https://www.nmbrs.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar nmbrs.com →</a>
+<a href="https://www.nmbrs.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar nmbrs.com →</a>
 
 ---
 
@@ -333,7 +333,7 @@ Eerlijk: AFAS is niet goedkoop en de interface is niet de mooiste van de markt. 
 - Overkill voor kleine bedrijven (<30 medewerkers)
 - Meerjarig contract kan beperkend zijn
 
-<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar afas.nl →</a>
+<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar afas.nl →</a>
 
 ---
 
@@ -394,7 +394,7 @@ Wil je meer weten over hoe je HR-software inzet als je je eerste werknemer aanne
 - Afhankelijk van de kwaliteit van je salarisadviseur
 - Minder geschikt voor bedrijven die alles in eigen beheer willen
 
-<a href="https://www.loket.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar loket.nl →</a>
+<a href="https://www.loket.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar loket.nl →</a>
 
 ---
 
@@ -451,7 +451,7 @@ Ik heb een klant begeleid bij een Nederlandse vestiging van een Duits bedrijf. B
 - Minder integraties met specifiek Nederlandse tools
 - Verzuimbeheer niet ingericht op Nederlandse Wet Poortwachter
 
-<a href="https://www.bamboohr.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar bamboohr.com →</a>
+<a href="https://www.bamboohr.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar bamboohr.com →</a>
 
 ---
 

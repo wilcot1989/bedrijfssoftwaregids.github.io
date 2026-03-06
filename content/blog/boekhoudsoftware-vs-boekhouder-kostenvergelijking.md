@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Boekhoudsoftware of een boekhouder inhuren? Vergelijk de werkelijke kosten en bespaar tot EUR 2.000 per jaar. Inclusief keuzehulp per bedrijfsgrootte."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/boekhouding.svg"
+featured_image: "/images/categories/boekhouding.svg"
 categories:
-  - Blog
   - boekhouding
 faq:
   - q: "Hoeveel goedkoper is boekhoudsoftware dan een externe boekhouder?"

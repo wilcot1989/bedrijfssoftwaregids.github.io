@@ -5,9 +5,8 @@ lastmod: 2026-04-17
 description: "Hoe helpt HR-software bij het terugdringen van ziekteverzuim? Signalering, Wet Poortwachter compliance en verzuimpatronen herkennen. Bespaar duizenden euro's."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/hr-software.svg"
+featured_image: "/images/categories/hr-software.svg"
 categories:
-  - Blog
   - hr-software
 faq:
   - q: "Wat kost ziekteverzuim een werkgever gemiddeld per dag?"

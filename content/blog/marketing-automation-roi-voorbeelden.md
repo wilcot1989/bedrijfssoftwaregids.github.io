@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Marketing automation loont -- maar wanneer precies? Bekijk 4 ROI-voorbeelden voor MKB en webshops. Bereken de lead-ROI voor jouw situatie."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/marketing.svg"
+featured_image: "/images/categories/marketing.svg"
 categories:
-  - Blog
   - marketing
 faq:
   - q: "Wat is een realistische ROI van marketing automation voor MKB?"

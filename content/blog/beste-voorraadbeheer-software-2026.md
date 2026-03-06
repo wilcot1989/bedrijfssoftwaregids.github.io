@@ -180,7 +180,7 @@ Ik heb Picqer geimplementeerd bij een webshop die van 80 naar 600 orders per dag
 - Puur magazijn/voorraad -- geen boekhouding of CRM-functies
 - Rapportages zijn functioneel maar niet visueel sterk
 
-<a href="https://picqer.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar picqer.com →</a>
+<a href="https://picqer.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar picqer.com →</a>
 
 ---
 
@@ -217,7 +217,7 @@ Lees mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voo
 
 ### Voordelen
 
-- Naadloze integratie tussen voorraad en financiele administratie
+- Naadloze integratie tussen voorraad en financiële administratie
 - Voorraadwaarde direct zichtbaar in je balans en rapportages
 - Vrijwel elke Nederlandse boekhouder werkt ermee
 - Breed scala aan integraties via de Exact App Store
@@ -230,7 +230,7 @@ Lees mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voo
 - Handel Premium is fors geprijsd voor wat je krijgt
 - Prijsverhogingen bij Exact zijn een terugkerend pijnpunt in de markt
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -277,7 +277,7 @@ Ik raadde het aan bij een modezaak met sterke seizoensfluctuaties. Voorheen best
 - Leercurve bij het interpreteren van forecasting-data
 - Minder geschikt voor bedrijven zonder verkoophistorie
 
-<a href="https://www.inventory-planner.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar inventory-planner.com →</a>
+<a href="https://www.inventory-planner.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar inventory-planner.com →</a>
 
 ---
 
@@ -327,7 +327,7 @@ Ik heb het getest bij een cosmeticaproducent die ingredienten inkoopt, mengt en 
 - Starter-plan is beperkt tot 1 locatie en 1.200 orders per jaar
 - Geen native Nederlandse integraties (Bol.com, Exact Online)
 
-<a href="https://katanamrp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar katanamrp.com →</a>
+<a href="https://katanamrp.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar katanamrp.com →</a>
 
 ---
 
@@ -376,7 +376,7 @@ Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man w
 - Rapportages zijn basaal -- geen forecasting
 - Support alleen in het Engels
 
-<a href="https://www.inflowinventory.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar inflowinventory.com →</a>
+<a href="https://www.inflowinventory.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar inflowinventory.com →</a>
 
 ---
 
@@ -424,7 +424,7 @@ Ik heb het beoordeeld voor een speelgoedgroothandel die via zes kanalen verkocht
 - Klantenservice krijgt wisselende reviews
 - Geen specifieke Nederlandse lokalisatie of support
 
-<a href="https://www.cin7.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar cin7.com →</a>
+<a href="https://www.cin7.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar cin7.com →</a>
 
 ---
 

@@ -5,9 +5,8 @@ lastmod: 2026-03-08
 description: "Stap van Excel over naar een CRM zonder dataverlies. Praktisch migratieplan met voorbereiding, opschoning en importtips. Doe de gratis CRM keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/crm.svg"
+featured_image: "/images/categories/crm.svg"
 categories:
-  - Blog
   - crm
 faq:
   - q: "Hoeveel data verlies ik bij een migratie van Excel naar CRM?"
@@ -88,6 +87,8 @@ Gebruik je Excel als projectmanagement-tool én contactenregistratie tegelijk? D
 Werk je in een specifieke sector — makelaardij, recruitment, bouw — dan zijn er sectorspecifieke CRM's die je workflow beter spiegelen dan een generalist. Zie ook de [sectorpagina's op bedrijfssoftwaregids.nl](/sectoren/crm/) voor een overzicht per branche.
 
 Twijfel je welk systeem bij jouw werkwijze past? De [CRM keuzehulp](/tools/crm/keuzehulp/) stelt je tien vragen en geeft een concreet advies. Kost je vijf minuten.
+
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive gratis →</a>
 
 Lees ook mijn overzicht van de [beste CRM software voor Nederland in 2026](/blog/beste-crm-software-nederland-2026/) voor een uitgebreide vergelijking.
 

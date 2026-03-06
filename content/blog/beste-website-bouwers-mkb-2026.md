@@ -67,7 +67,7 @@ WordPress is wat ik zelf zou kiezen en het vaakst adviseer aan bedrijven waar co
 **✅ Voordelen:** Meest flexibel, beste SEO, enorm plugin-ecosysteem, eigendom van data
 **❌ Nadelen:** Leercurve, zelf hosting regelen, updates en beveiliging eigen verantwoording. Wil je ook je recruitment en HR digitaliseren zodra je bedrijf groeit? Lees dan het overzicht van de [beste HR software in Nederland 2026](/blog/beste-hr-software-nederland-2026/).
 
-<a href="https://wordpress.org/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar wordpress.org →</a>
+<a href="https://wordpress.org/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar wordpress.org →</a>
 
 ## 2. Wix — Beste voor beginners
 
@@ -93,7 +93,7 @@ Wix is het platform dat ik aanbeveel aan MKB-klanten zonder technische kennis di
 **✅ Voordelen:** Makkelijkst te gebruiken, AI-bouwer, alles-in-één, snel online
 **❌ Nadelen:** Minder flexibel dan WordPress, website niet verplaatsbaar, SEO beperkter
 
-<a href="https://www.wix.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar wix.com →</a>
+<a href="https://www.wix.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar wix.com →</a>
 
 ## 3. Squarespace — Mooiste designs
 
@@ -118,7 +118,7 @@ Squarespace adviseer ik aan fotografen, architecten, restaurants -- elk bedrijf 
 **✅ Voordelen:** Mooiste templates, professioneel design, goede blogfunctie
 **❌ Nadelen:** Minder plugins dan WordPress, beperktere aanpassingsmogelijkheden
 
-<a href="https://www.squarespace.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar squarespace.com →</a>
+<a href="https://www.squarespace.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar squarespace.com →</a>
 
 ## 4. Webflow — Designer's keuze
 
@@ -143,7 +143,7 @@ Webflow is de tool die ik voorstel aan designers en agencies die pixel-perfect m
 **✅ Voordelen:** Meeste design-vrijheid, schone code, uitstekende SEO, CMS flexibiliteit
 **❌ Nadelen:** Steile leercurve, minder plugins, duurder voor e-commerce
 
-<a href="https://webflow.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar webflow.com →</a>
+<a href="https://webflow.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar webflow.com →</a>
 
 ## 5. Shopify — Beste voor webshops
 
@@ -207,4 +207,4 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
-*Laatst bijgewerkt: mei 2026.*
+*Laatst bijgewerkt: maart 2026.*

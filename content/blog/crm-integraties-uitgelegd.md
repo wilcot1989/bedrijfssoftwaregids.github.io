@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Welke CRM-integraties zijn onmisbaar voor jouw bedrijf? Vergelijk koppelingen voor e-mail, boekhouding en marketing. Bereken de ROI van jouw CRM."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/crm.svg"
+featured_image: "/images/categories/crm.svg"
 categories:
-  - Blog
   - crm
 faq:
   - q: "Welke CRM-integraties zijn het belangrijkst voor een MKB-bedrijf?"

@@ -85,7 +85,7 @@ Benieuwd hoe HubSpot zich verhoudt tot Pipedrive? Lees dan onze uitgebreide [Hub
 - Kan overweldigend zijn door de veelheid aan functies
 - Geavanceerde automatisering pas vanaf Professional (€90/mnd)
 
-<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ---
 
@@ -167,7 +167,7 @@ Voor een bredere vergelijking van projectmanagement-tools, bekijk ons artikel ov
 - Geen ingebouwde facturatie-koppeling met Nederlandse tools
 - CRM-specifieke functies als e-mail tracking minder diepgaand
 
-<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar monday.com →</a>
 
 ---
 
@@ -206,7 +206,7 @@ Notion als CRM is een optie die ik met een kanttekening aanbeveel. Als je toch a
 - Rapportages zijn beperkt vergeleken met echte CRM's
 - Niet geschikt als je serieuze sales-processen hebt
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
+<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar notion.so →</a>
 
 ---
 
@@ -281,7 +281,7 @@ Freshsales is mijn dark horse in dit overzicht. Weinig ZZP'ers kennen het, maar 
 - Interface volledig in het Engels
 - Gratis plan beperkter dan HubSpot Free
 
-<a href="https://www.freshworks.com/nl/crm/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshworks.com →</a>
+<a href="https://www.freshworks.com/nl/crm/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar freshworks.com →</a>
 
 ---
 

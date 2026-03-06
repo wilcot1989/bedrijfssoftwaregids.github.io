@@ -5,9 +5,8 @@ lastmod: 2026-04-02
 description: "Welke BTW-regels gelden voor ZZP'ers in 2026? KOR-grens, BTW-aangifte, intracommunautaire diensten en aftrek. Praktische tips en veelgemaakte fouten."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/boekhouding.svg"
+featured_image: "/images/categories/boekhouding.svg"
 categories:
-  - Blog
   - boekhouding
 faq:
   - q: "Wat is de KOR-grens voor ZZP'ers in 2026?"

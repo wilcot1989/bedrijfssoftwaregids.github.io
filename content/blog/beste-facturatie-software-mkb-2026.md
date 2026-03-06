@@ -150,7 +150,7 @@ Eerlijk nadeel: als je boekhouding complex is -- meerdere BTW-percentages, buite
 
 Ben je ZZP'er? Lees dan ook het artikel over de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) voor een vergelijking die specifiek op jouw situatie is gericht.
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -203,7 +203,7 @@ Wat ik waardeer in Exact: de rapportages. Als je wilt weten hoe je cashflow erui
 
 Gebruik je Exact ook als CRM? Lees dan het artikel over de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) voor een vergelijking met gespecialiseerde CRM-tools. Ben je al bezig met offertes? Lees dan ook mijn overzicht van de [beste offerte software 2026](/blog/beste-offerte-software-2026/) om het traject van offerte naar factuur te optimaliseren.
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -257,7 +257,7 @@ Lees ook mijn [e-Boekhouden review 2026](/blog/e-boekhouden-review-2026/) voor e
 - Mobiele app minder uitgebreid dan concurrenten
 - Automatiseringsmogelijkheden zijn beperkter
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -309,7 +309,7 @@ Eerlijk over de beperkingen: als je 50+ facturen per maand verstuurt, is het Sta
 - Gratis plan beperkt tot 5 facturen per maand
 - Minder geschikt voor complexe BTW-situaties (bijv. ICL/ICV)
 
-<a href="https://www.rompslomp.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar rompslomp.nl →</a>
+<a href="https://www.rompslomp.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar rompslomp.nl →</a>
 
 ---
 
@@ -360,7 +360,7 @@ De eerlijke kanttekening: Informer heeft een kleinere community en minder online
 - Minder integraties met externe tools
 - Kan overkill zijn als je alleen facturen wilt versturen
 
-<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar informer.nl →</a>
+<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar informer.nl →</a>
 
 ---
 
@@ -410,7 +410,7 @@ Het eerlijke nadeel: Jortt is echt niet geschikt voor complexere situaties. ICL-
 - Weinig integratiemogelijkheden
 - Geen volledige grootboekadministratie
 
-<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
+<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 

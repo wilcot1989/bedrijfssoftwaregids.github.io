@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "E-mails landen in de spamfolder? Leer deliverability problemen oplossen voor ZZP en MKB. Doe de keuzehulp voor het beste e-mailmarketingplatform."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/marketing.svg"
+featured_image: "/images/categories/marketing.svg"
 categories:
-  - Blog
   - marketing
 faq:
   - q: "Hoe verbeter je e-mail deliverability snel?"

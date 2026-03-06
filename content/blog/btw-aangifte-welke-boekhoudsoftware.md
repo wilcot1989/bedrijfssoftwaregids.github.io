@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Welke boekhoudsoftware ondersteunt BTW-aangifte in Nederland het best? Vergelijk functies voor eenmanszaken en freelancers. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/boekhouding.svg"
+featured_image: "/images/categories/boekhouding.svg"
 categories:
-  - Blog
   - boekhouding
 faq:
   - q: "Kan boekhoudsoftware mijn BTW-aangifte automatisch invullen?"

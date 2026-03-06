@@ -290,9 +290,9 @@ Na jarenlang beide platforms te implementeren is mijn advies helder: voor het Ne
 
 Twijfel je nog? Begin met het **gratis CRM van HubSpot**. Dat kost je niets en geeft binnen een week een realistisch beeld van of het bij je past. Wil je ook begrijpen hoe CRM-koppelingen werken met de rest van je software-stack? Lees dan het artikel over [CRM integraties uitgelegd](/blog/crm-integraties-uitgelegd/). En zodra je CRM draait, bekijk dan hoe je [klantretentie kunt meten met CRM software](/blog/klantretentie-meten-crm-software/) voor het maximaliseren van je customer lifetime value.
 
-<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salesforce.com →</a>
+<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar salesforce.com →</a>
 
-<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)**.

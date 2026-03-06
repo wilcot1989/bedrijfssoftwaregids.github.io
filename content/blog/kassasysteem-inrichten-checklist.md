@@ -5,9 +5,8 @@ lastmod: 2026-04-12
 description: "Kassasysteem inrichten voor je opening? Complete checklist met artikelen, BTW-tarieven, betaalmethoden en training. Voorkom stress op dag één."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/kassasystemen.svg"
+featured_image: "/images/categories/kassasystemen.svg"
 categories:
-  - Blog
   - kassasystemen
 faq:
   - q: "Hoelang duurt het om een kassasysteem volledig in te richten?"

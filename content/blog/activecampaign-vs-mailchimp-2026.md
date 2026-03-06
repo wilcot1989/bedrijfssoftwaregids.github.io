@@ -161,7 +161,7 @@ ActiveCampaign past het beste bij bedrijven die een langere sales cycle hebben e
 - Leercurve bij geavanceerde automations: reken op 1-2 weken voor het team
 - Prijzen stijgen flink bij grotere contactlijsten
 
-<a href="https://www.activecampaign.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar activecampaign.com →</a>
+<a href="https://www.activecampaign.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar activecampaign.com →</a>
 
 ---
 
@@ -199,7 +199,7 @@ Mailchimp is ideaal voor bedrijven die primair nieuwsbrieven en campagne-emails 
 - Functies verdwijnen steeds vaker achter duurdere plannen
 - Data opgeslagen in de VS
 
-<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mailchimp.com →</a>
+<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar mailchimp.com →</a>
 
 ---
 

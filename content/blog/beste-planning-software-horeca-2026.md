@@ -82,7 +82,7 @@ Shiftbase is de tool die ik als eerste noem als een horecaondernemer me vraagt n
 - Rapportages in het basispakket zijn beperkt
 - Minder geschikt voor zeer grote internationale ketens
 
-<a href="https://www.shiftbase.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shiftbase.com →</a>
+<a href="https://www.shiftbase.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar shiftbase.com →</a>
 
 ---
 
@@ -119,7 +119,7 @@ Planday is het platform dat ik aanbeveel aan horecaketens met meerdere locaties.
 - Prijzen hoger dan sommige Nederlandse alternatieven
 - Geen gratis plan beschikbaar
 
-<a href="https://www.planday.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar planday.com →</a>
+<a href="https://www.planday.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar planday.com →</a>
 
 ---
 
@@ -157,7 +157,7 @@ Deputy is het platform waar ik naar verwijs als AI-roostering de doorslag moet g
 - Minder integraties met Nederlandse salarissoftware
 - Support in het Engels en op Amerikaanse tijden
 
-<a href="https://www.deputy.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar deputy.com →</a>
+<a href="https://www.deputy.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar deputy.com →</a>
 
 ---
 
@@ -194,7 +194,7 @@ Workforce.com is enterprise-grade en dat merk je. Ik adviseer het alleen aan gro
 - Interface in het Engels
 - Minder specifiek gericht op de Nederlandse markt
 
-<a href="https://workforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar workforce.com →</a>
+<a href="https://workforce.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar workforce.com →</a>
 
 ---
 
@@ -231,7 +231,7 @@ Tamigo heeft zich bewezen bij namen als McDonald's en Burger King, en dat zegt i
 - Minder geschikt voor einzele horecazaken
 - Interface kan gedateerd aanvoelen
 
-<a href="https://www.tamigo.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar tamigo.nl →</a>
+<a href="https://www.tamigo.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar tamigo.nl →</a>
 
 ---
 
@@ -269,7 +269,7 @@ Dyflexis is naast Shiftbase de andere Nederlandse specialist die ik vaak advisee
 - Minder geschikt voor internationale ketens
 - Implementatie kan enkele weken duren
 
-<a href="https://www.dyflexis.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar dyflexis.nl →</a>
+<a href="https://www.dyflexis.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar dyflexis.nl →</a>
 
 ---
 

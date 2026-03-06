@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Kassasysteem kiezen zonder verborgen kosten? Gebruik deze checklist voor hardware, transactiefees en support. Bereken de werkelijke totaalkosten."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/kassasystemen.svg"
+featured_image: "/images/categories/kassasystemen.svg"
 categories:
-  - Blog
   - kassasystemen
 faq:
   - q: "Wat zijn de meest voorkomende verborgen kosten van een kassasysteem?"

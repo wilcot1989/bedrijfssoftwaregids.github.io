@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Combineer je facturatieprogramma en boekhouding in één tool? Vergelijk de voordelen voor ZZP en freelancers. Bereken wat jou het meeste oplevert."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/boekhouding.svg"
+featured_image: "/images/categories/boekhouding.svg"
 categories:
-  - Blog
   - boekhouding
 faq:
   - q: "Wat is het voordeel van factureren en boekhouden in één pakket?"

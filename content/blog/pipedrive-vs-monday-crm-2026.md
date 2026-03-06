@@ -278,7 +278,7 @@ Lees ook mijn [HubSpot vs Pipedrive vergelijking](/blog/hubspot-vs-pipedrive-202
 
 <a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
-<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar monday.com →</a>
 
 *Prijzen en G2-scores laatst gecheckt: april 2026.*
 

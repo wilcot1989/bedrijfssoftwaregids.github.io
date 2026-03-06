@@ -5,9 +5,8 @@ lastmod: 2026-04-27
 description: "Overstappen naar een ander boekhoudprogramma? Stap-voor-stap migratieplan voor het overzetten van je administratie zonder dataverlies of BTW-problemen."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/boekhouding.svg"
+featured_image: "/images/categories/boekhouding.svg"
 categories:
-  - Blog
   - boekhouding
 faq:
   - q: "Wanneer is het beste moment om van boekhoudprogramma te wisselen?"

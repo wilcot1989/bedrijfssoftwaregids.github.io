@@ -377,12 +377,12 @@ Het onbeperkt-contacten model van Brevo is goud waard als je 10.000+ contacten h
 E-mail, CRM, SMS, chat en transactionele e-mails vanuit een tool. Dat scheelt licentiekosten en gedoe met koppelingen. Ik heb klanten die van drie losse tools naar Brevo zijn overgestapt en €200/maand besparen.
 
 **3. AVG-compliance is prioriteit**
-Als je in een sector werkt waar dataverwerking gevoelig ligt -- denk aan zorg, financiele dienstverlening of overheid -- is een Europees platform met EU-dataopslag een stuk eenvoudiger dan de verwerkersovereenkomst-constructie bij een Amerikaans platform.
+Als je in een sector werkt waar dataverwerking gevoelig ligt -- denk aan zorg, financiële dienstverlening of overheid -- is een Europees platform met EU-dataopslag een stuk eenvoudiger dan de verwerkersovereenkomst-constructie bij een Amerikaans platform.
 
 **4. Je budget is beperkt**
 Het gratis plan van Brevo (300 mails/dag, onbeperkt contacten) is het meest genereuze op de markt. Voor een startend bedrijf dat net begint met nieuwsbrieven is dat een perfecte start zonder financieel risico.
 
-<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar brevo.com →</a>
+<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar brevo.com →</a>
 
 ---
 
@@ -402,7 +402,7 @@ Bij minder dan 2.500 contacten die je wekelijks mailt, is het prijsverschil met 
 **4. Deliverability is je prioriteit**
 Als je in een sector werkt waar elke gemiste e-mail telt -- denk aan transactiemeldingen, afspraaherinneringen of tijdkritieke aanbiedingen -- is Mailchimp's hogere deliverability-score een serieus argument.
 
-<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mailchimp.com →</a>
+<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar mailchimp.com →</a>
 
 ---
 

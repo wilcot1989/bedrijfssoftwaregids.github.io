@@ -5,9 +5,8 @@ lastmod: 2026-03-23
 description: "Personeelsdossiers digitaliseren en AVG-proof bewaren. Stappenplan met bewaartermijnen, toegangsrechten en softwarekeuze. Voorkom boetes."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/hr-software.svg"
+featured_image: "/images/categories/hr-software.svg"
 categories:
-  - Blog
   - hr-software
 faq:
   - q: "Hoe hoog is de maximale boete voor een AVG-overtreding?"

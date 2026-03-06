@@ -141,7 +141,7 @@ Intramed is het meest gebruikte softwarepakket onder fysiotherapeuten in Nederla
 
 Wat mij opvalt bij Intramed is de diepgang van het EPD. Alle KNGF-richtlijnen zijn ingebouwd, inclusief meetinstrumenten als de VAS, NRS, DRI, PSK en MRC. Je hoeft ze niet apart op te zoeken — ze zitten in je dossierflow. De Fysio AI-functie is recent toegevoegd en helpt bij het structureren van intakegesprekken, wat de registratietijd verkort.
 
-De financiele kant is ook sterk. Declaraties gaan via VECOZO, en je boekhouding draait volledig in Intramed. Geen aparte koppeling met Exact Online of Twinfield nodig, tenzij je dat wilt. Het Intramed Insight-dashboard geeft je realtime inzicht in omzet, no-shows, behandelduur en productiviteit per therapeut.
+De financiële kant is ook sterk. Declaraties gaan via VECOZO, en je boekhouding draait volledig in Intramed. Geen aparte koppeling met Exact Online of Twinfield nodig, tenzij je dat wilt. Het Intramed Insight-dashboard geeft je realtime inzicht in omzet, no-shows, behandelduur en productiviteit per therapeut.
 
 ### Belangrijkste functies
 - Compleet EPD met KNGF-richtlijnen en meetinstrumenten
@@ -178,7 +178,7 @@ De financiele kant is ook sterk. Declaraties gaan via VECOZO, en je boekhouding 
 - Marktaandeel daalt licht (2 procent in twee jaar) — concurrenten halen in
 - Overstap vanuit Intramed naar een ander systeem is complex
 
-<a href="https://www.intramed.nl/beroepsgroepen/fysiotherapie/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar intramed.nl →</a>
+<a href="https://www.intramed.nl/beroepsgroepen/fysiotherapie/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar intramed.nl →</a>
 
 ---
 
@@ -224,7 +224,7 @@ De helpdesk krijgt consistent goede reviews van gebruikers. Dat klinkt als een k
 - Minder BI-functionaliteit dan Intramed Insight
 - Eenmalige opstartkosten kunnen oplopen
 
-<a href="https://www.hci-software.com/fysioroadmap/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hci-software.com →</a>
+<a href="https://www.hci-software.com/fysioroadmap/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hci-software.com →</a>
 
 ---
 
@@ -233,7 +233,7 @@ De helpdesk krijgt consistent goede reviews van gebruikers. Dat klinkt als een k
 
 Fysiomanager valt op door het flexibele prijsmodel. Je betaalt een laag basisbedrag plus een tarief per fte — niet per gebruiker of per werkplek. Als je naast je praktijksoftware ook medewerkers wilt aantrekken, is de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/) een handige volgende stap. Dat betekent dat je als startende therapeut met een paar behandelingen per week weinig betaalt, en dat de kosten pas stijgen als je praktijk groeit. Voor receptionisten geldt bovendien een lager tarief. Dat model heb ik bij geen andere aanbieder gezien.
 
-Het EPD is volledig geintegreerd met de financiele administratie. Indicatiecodes worden automatisch geteld en omgezet, dossiers worden gecontroleerd op volledigheid en verzekeringsgegevens worden opgehaald via VECOZO. De software werkt met "procedures" — dat is het volledige traject rond een klacht, van diagnostiek tot behandelplan tot eindmeting. Die aanpak dwingt je om gestructureerd te werken.
+Het EPD is volledig geintegreerd met de financiële administratie. Indicatiecodes worden automatisch geteld en omgezet, dossiers worden gecontroleerd op volledigheid en verzekeringsgegevens worden opgehaald via VECOZO. De software werkt met "procedures" — dat is het volledige traject rond een klacht, van diagnostiek tot behandelplan tot eindmeting. Die aanpak dwingt je om gestructureerd te werken.
 
 De klinimetrie is uitgebreid, met meetinstrumenten, testen en vragenlijsten die direct in het dossier zitten. Het patientenportaal MijnZorgtoegang kost €5,30 per fte per maand extra, maar geeft patienten de mogelijkheid om vragenlijsten in te vullen en afspraken in te zien.
 
@@ -272,7 +272,7 @@ De klinimetrie is uitgebreid, met meetinstrumenten, testen en vragenlijsten die 
 - MijnZorgtoegang patientenportaal is een betaalde add-on
 - Minder bekende naam dan Intramed
 
-<a href="https://fysiomanager.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar fysiomanager.nl →</a>
+<a href="https://fysiomanager.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar fysiomanager.nl →</a>
 
 ---
 
@@ -319,7 +319,7 @@ Het patientenportaal is sterk: patienten boeken zelf afspraken, ontvangen oefenp
 - Prijzen vereisen simulatie op de website (niet direct zichtbaar)
 - Minder community-ondersteuning in Nederland
 
-<a href="https://www.crossuite.com/nl_nl/software-fysiotherapie/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar crossuite.com →</a>
+<a href="https://www.crossuite.com/nl_nl/software-fysiotherapie/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar crossuite.com →</a>
 
 ---
 
@@ -328,7 +328,7 @@ Het patientenportaal is sterk: patienten boeken zelf afspraken, ontvangen oefenp
 
 SpotOnMedics FysioOne is het goedkoopste pakket in dit overzicht. Voor het beheren van je praktijkwebsite en online vindbaarheid, bekijk dan ook de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/). Met circa €62 per gebruiker per jaar — dat is net iets meer dan €5 per maand — krijg je een compleet EPD, agenda en declaratiemodule. Het is onderdeel van HCI, dezelfde organisatie achter FysioRoadmap, maar dan gericht op de prijsbewuste therapeut.
 
-Het is een SaaS-platform: je betaalt een jaarlicentie en alle updates, backups en onderhoud zijn inbegrepen. De cloud-versie kost €62,40 per gebruiker per jaar. De software is specifiek ontwikkeld voor de paramedische sector en biedt patientendossiers, afsprakenbeheer, financiele administratie en rapportage.
+Het is een SaaS-platform: je betaalt een jaarlicentie en alle updates, backups en onderhoud zijn inbegrepen. De cloud-versie kost €62,40 per gebruiker per jaar. De software is specifiek ontwikkeld voor de paramedische sector en biedt patientendossiers, afsprakenbeheer, financiële administratie en rapportage.
 
 Wat je inlevert ten opzichte van de duurdere pakketten: de interface is minder gepolijst, er zijn minder geavanceerde BI-functies en de oefenmodule is basaler. Voor een solopraktijk of een startende fysiotherapeut die nog geen honderden euro's per maand wil uitgeven, is het een prima instapmodel.
 
@@ -366,7 +366,7 @@ Wat je inlevert ten opzichte van de duurdere pakketten: de interface is minder g
 - Minder integraties met externe systemen
 - Minder persoonlijke ondersteuning bij de overstap
 
-<a href="https://spotonmedics.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar spotonmedics.nl →</a>
+<a href="https://spotonmedics.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar spotonmedics.nl →</a>
 
 ---
 
@@ -382,7 +382,7 @@ Begin met **Fysiomanager** of **SpotOnMedics FysioOne**. Fysiomanager groeit mee
 **Intramed** is de veilige keuze. Het is het meest complete pakket, de meeste collega's kennen het, en je BI-dashboards geven je inzicht in de prestaties per therapeut. **FysioRoadmap** is het alternatief als je team meer waarde hecht aan klinisch redeneren en een strakker behandelproces.
 
 ### Multidisciplinaire praktijk
-**Crossuite** is hier de beste optie. Het is gebouwd voor praktijken waar meerdere disciplines in een systeem moeten werken. De integratie met boekhoudpakketten als [Exact Online](/blog/exact-online-review-2026/) of [Twinfield](/blog/exact-online-vs-twinfield-2026/) maakt de financiele administratie soepel. Voor het maken van offertes voor verzekeraars of bedrijven is de [beste offerte software 2026](/blog/beste-offerte-software-2026/) ook het bekijken waard.
+**Crossuite** is hier de beste optie. Het is gebouwd voor praktijken waar meerdere disciplines in een systeem moeten werken. De integratie met boekhoudpakketten als [Exact Online](/blog/exact-online-review-2026/) of [Twinfield](/blog/exact-online-vs-twinfield-2026/) maakt de financiële administratie soepel. Voor het maken van offertes voor verzekeraars of bedrijven is de [beste offerte software 2026](/blog/beste-offerte-software-2026/) ook het bekijken waard.
 
 ### Maximaal klinisch verdiepen
 **FysioRoadmap** als het gaat om klinisch redeneren en het behandelproces. De KNGF-richtlijn als basis, de koppeling met Physitrack voor oefenprogramma's en de PREM-module voor kwaliteitsregistratie maken het de inhoudelijk sterkste keuze.

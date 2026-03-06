@@ -162,7 +162,7 @@ Dit is waar e-Boekhouden boven Moneybird uitstijgt. Standaard inbegrepen in elk 
 - **Debiteuren- en crediteurenoverzicht** — wie moet jou nog betalen, en wie moet jij betalen
 - **Jaarrekening** — bruikbaar voor je boekhouder of de KvK
 
-Bij Moneybird heb je voor diepgaande rapportages het duurdere "Dubbel boekhouden"-pakket nodig (€28/maand). Bij e-Boekhouden zit alles in het basispakket. Voor ondernemers die regelmatig hun financiele gezondheid willen checken zonder extra te betalen, is dat een serieus voordeel.
+Bij Moneybird heb je voor diepgaande rapportages het duurdere "Dubbel boekhouden"-pakket nodig (€28/maand). Bij e-Boekhouden zit alles in het basispakket. Voor ondernemers die regelmatig hun financiële gezondheid willen checken zonder extra te betalen, is dat een serieus voordeel.
 
 Wat ik mis: visuele dashboards. De rapportages zijn degelijk maar presenteren data vooral in tabellen. Een grafiek die mijn omzettrend laat zien of een cashflow-prognose — dat zou het compleet maken. Exact Online doet dit beter, maar kost dan ook drie keer zoveel.
 
@@ -324,6 +324,6 @@ Na drie maanden testen is mijn conclusie helder: e-Boekhouden is het beste boekh
 
 **Mijn score: 7.5/10** — een betrouwbare, betaalbare keuze die ik met een gerust hart aanbeveel aan elke budgetbewuste ondernemer. De interface en mobiele app zijn de enige zwakke plekken, en voor de meeste ZZP'ers wegen die niet op tegen de prijs en de support.
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 Wil je e-Boekhouden vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.

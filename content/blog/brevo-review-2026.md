@@ -351,7 +351,7 @@ Maar ga er niet blindelings in. De deliverability vraagt aandacht (verifieer je 
 - **Begin niet met het gratis plan voor zakelijk gebruik** -- die €7-15 per maand levert je betere deliverability, professionelere mails en meer mogelijkheden op
 - **Investeer in een dedicated IP** zodra je boven de 10.000 mails per maand zit
 
-<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar brevo.com →</a>
+<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar brevo.com →</a>
 
 Bekijk ook mijn vergelijking van de [beste email marketing software voor Nederland](/blog/beste-email-marketing-software-2026/) voor een breder overzicht van alle opties.
 

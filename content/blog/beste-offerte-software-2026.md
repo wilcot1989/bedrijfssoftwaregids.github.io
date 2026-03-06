@@ -99,7 +99,7 @@ Offorte is de tool die ik adviseer aan Nederlandse MKB'ers die hun offerteproces
 **✅ Voordelen:** Volledig Nederlands, goede integraties met Nederlandse software, uitstekende support
 **❌ Nadelen:** Minder templates dan PandaDoc, geen gratis versie, kleiner internationaal ecosysteem
 
-<a href="https://www.offorte.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar offorte.nl →</a>
+<a href="https://www.offorte.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar offorte.nl →</a>
 
 ## 3. Proposify — Mooiste offerte-designs
 
@@ -124,7 +124,7 @@ Proposify is de keuze voor bedrijven waar design en visuele impact een deel van 
 **✅ Voordelen:** Mooiste offerte-designs, goede analytics, sterke CRM-integraties
 **❌ Nadelen:** Geen gratis plan, beperkte Nederlandse templates, iets steilere leercurve voor de editor
 
-<a href="https://www.proposify.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar proposify.com →</a>
+<a href="https://www.proposify.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar proposify.com →</a>
 
 ## 4. HubSpot Quotes — Beste gratis optie (voor HubSpot-gebruikers)
 
@@ -145,7 +145,7 @@ Inbegrepen in alle HubSpot-plannen (inclusief gratis CRM). Geavanceerde functies
 **✅ Voordelen:** Gratis als je al HubSpot gebruikt, naadloze CRM-integratie, eenvoudig in gebruik
 **❌ Nadelen:** Beperkte template-aanpassing, geen interactieve prijstabellen, alleen bruikbaar binnen HubSpot
 
-<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ## 5. Moneybird Offertes — Voor ZZP'ers die al Moneybird gebruiken
 
@@ -166,7 +166,7 @@ Inbegrepen in Moneybird-abonnementen. Moneybird kost vanaf €15/maand (inclusie
 **✅ Voordelen:** Geen extra kosten, offerte-naar-factuur in één klik, alles in één systeem
 **❌ Nadelen:** Zeer beperkte templates en design-opties, geen digitale handtekening, geen interactieve elementen
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ## Welk offerteprogramma past bij jou?
 
@@ -209,4 +209,4 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
-*Laatst bijgewerkt: april 2026.*
+*Laatst bijgewerkt: maart 2026.*

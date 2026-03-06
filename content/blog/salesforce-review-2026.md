@@ -87,7 +87,7 @@ Dit is de berekening die ik altijd maak met klanten voor ze beslissen:
 
 Die implementatiekosten zijn geen uitzondering -- ze zijn de regel. Bij geen van mijn vier Salesforce-trajecten is het gelukt om het platform zonder externe consultancyondersteuning goed in te richten. Dat is geen tekortkoming van de klant. Het platform is zo flexibel dat je zonder begeleiding verdwaalt.
 
-<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Salesforce →</a>
+<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Salesforce →</a>
 
 ### Verborgen kosten om op te letten
 
@@ -255,7 +255,7 @@ De 1,5/5 op Trustpilot is een waarschuwingssignaal dat ik serieus neem. Niet omd
 
 **Organisatie met 30+ gebruikers, complex salesproces, IT-capaciteit:** Salesforce is dan serieus het overwegen waard. Neem altijd een gecertificeerde implementatiepartner mee en reken op minimaal 3 tot 6 maanden voor een volwaardige implementatie.
 
-<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Salesforce op salesforce.com →</a>
+<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Salesforce op salesforce.com →</a>
 
 Wil je Salesforce vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)**, gebruik de **[keuzehulp](/tools/crm/keuzehulp/)** of bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)**.
 

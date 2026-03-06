@@ -141,7 +141,7 @@ Twijfel je specifiek tussen Lightspeed en een goedkoper alternatief? Lees mijn [
 - iPad-hardware is extra investering
 - Sommige geavanceerde functies alleen in duurdere plannen
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 ---
 
@@ -198,7 +198,7 @@ Ik raad Untill NIET aan voor:
 - Meer geschikt voor grotere zaken dan kleine startups
 - Langere implementatietijd
 
-<a href="https://www.untill.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar untill.com →</a>
+<a href="https://www.untill.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar untill.com →</a>
 
 ---
 
@@ -256,7 +256,7 @@ Ik raad Trivec NIET aan voor:
 - Minder geschikt voor zeer kleine horecazaken
 - Minder integraties met Nederlandse bezorgplatforms dan Lightspeed
 
-<a href="https://www.trivec.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar trivec.nl →</a>
+<a href="https://www.trivec.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar trivec.nl →</a>
 
 ---
 
@@ -315,7 +315,7 @@ Ik raad Square NIET aan voor:
 - Support voornamelijk in het Engels
 - Minder integraties met Nederlandse boekhoudpakketten
 
-<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar squareup.com →</a>
+<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar squareup.com →</a>
 
 ---
 
@@ -372,7 +372,7 @@ Ik raad Zettle NIET aan voor:
 - Niet geschikt voor grotere restaurants
 - Transactiekosten zijn hoger dan bij een vast pinapparaat
 
-<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zettle.com →</a>
+<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar zettle.com →</a>
 
 ---
 
@@ -431,7 +431,7 @@ Ik raad Orderbird NIET aan voor:
 - Minder integraties dan Lightspeed
 - Nederlandse community kleiner dan bij lokale aanbieders
 
-<a href="https://www.orderbird.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar orderbird.com →</a>
+<a href="https://www.orderbird.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar orderbird.com →</a>
 
 ---
 

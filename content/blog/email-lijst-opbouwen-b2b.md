@@ -5,9 +5,8 @@ lastmod: 2026-03-28
 description: "Hoe bouw je een B2B e-maillijst op zonder spam? Ethische strategieën met lead magnets, LinkedIn en content marketing. Groei je lijst duurzaam."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/marketing.svg"
+featured_image: "/images/categories/marketing.svg"
 categories:
-  - Blog
   - marketing
 faq:
   - q: "Hoeveel e-mailadressen heb je nodig voor effectieve B2B marketing?"

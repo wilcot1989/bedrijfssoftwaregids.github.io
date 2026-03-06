@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "CRM implementeren zonder gedoe in 30 dagen? Dit stappenplan werkt voor MKB-bedrijven van 2 tot 20 medewerkers. Doe eerst de CRM keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/crm.svg"
+featured_image: "/images/categories/crm.svg"
 categories:
-  - Blog
   - crm
 faq:
   - q: "Hoe lang duurt een CRM-implementatie voor een MKB-bedrijf?"

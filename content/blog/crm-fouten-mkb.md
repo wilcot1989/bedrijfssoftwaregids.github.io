@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Welke CRM-fouten maken Nederlandse MKB-bedrijven het vaakst? Voorkom dataverlies, lage adoptie en verkeerd gebruik. Doe de CRM keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/crm.svg"
+featured_image: "/images/categories/crm.svg"
 categories:
-  - Blog
   - crm
 faq:
   - q: "Wat zijn de meest gemaakte fouten bij CRM-gebruik in het MKB?"

@@ -116,7 +116,7 @@ De exacte prijzen per administratie zijn niet publiek beschikbaar — je krijgt 
 
 Lees ook mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/) en de [vergelijking Exact Online vs Twinfield](/blog/exact-online-vs-twinfield-2026/). Ben je ook benieuwd hoe Moneybird zich verhoudt aan Exact Online? Lees dan de [Moneybird review 2026](/blog/moneybird-review-2026/).
 
-<a href="https://www.exact.com/nl/producten/accountancy" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl/producten/accountancy" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
 
 **Pluspunten:**
 - Grootste ecosysteem met 450+ koppelingen
@@ -163,7 +163,7 @@ Voor accountantskantoren geldt een vast tarief per administratie, op basis van o
 
 Benieuwd hoe Twinfield zich verhoudt tot Exact? Lees mijn [Exact Online vs Twinfield vergelijking](/blog/exact-online-vs-twinfield-2026/). En als je ook Twinfield en Moneybird wilt vergelijken voor kleinere cliënten, bekijk dan de [Twinfield vs Moneybird vergelijking 2026](/blog/twinfield-vs-moneybird-2026/).
 
-<a href="https://www.wolterskluwer.com/nl-nl/solutions/twinfield-accounting/accountants" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar wolterskluwer.com →</a>
+<a href="https://www.wolterskluwer.com/nl-nl/solutions/twinfield-accounting/accountants" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar wolterskluwer.com →</a>
 
 **Pluspunten:**
 - Beste multi-administratie beheer in de markt
@@ -217,7 +217,7 @@ Voor cliënten van accountants gelden aparte tarieven:
 
 De prijzen zijn transparanter dan bij Exact of Twinfield. Je weet vooraf wat je betaalt.
 
-<a href="https://minox.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar minox.nl →</a>
+<a href="https://minox.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar minox.nl →</a>
 
 **Pluspunten:**
 - Beste scan & herken in de markt
@@ -272,7 +272,7 @@ De MKB-pakketten voor je cliënten:
 - **Large**: €82,00/maand
 - **Unlimited**: €180,00/maand
 
-<a href="https://www.yukisoftware.com/nl-nl/accountantskantoren/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar yukisoftware.com →</a>
+<a href="https://www.yukisoftware.com/nl-nl/accountantskantoren/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar yukisoftware.com →</a>
 
 **Pluspunten:**
 - Sterkste automatisering van documentverwerking

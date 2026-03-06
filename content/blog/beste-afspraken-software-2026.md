@@ -3,7 +3,7 @@ title: "Beste Afsprakensoftware 2026: Top 6"
 date: 2026-03-14
 lastmod: 2026-03-14
 description: "De 6 beste online afspraken software voor Nederlandse bedrijven in 2026. Vergelijk functies, prijzen en integraties voor het automatiseren van je afsprakenbeheer."
-categories: ["kassasystemen"]
+categories: ["productiviteit"]
 tags:
   - productiviteit
   - mkb
@@ -13,7 +13,7 @@ aliases:
 affiliate: true
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
-featured_image: "/images/categories/kassasystemen.svg"
+featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Wat kost online afspraken software gemiddeld?"
     a: "De kosten variëren van gratis (Calendly en Tidycal basisversies) tot circa €30-80 per maand voor uitgebreidere pakketten met meerdere medewerkers. De meeste tools bieden een betaald plan tussen €8 en €20 per maand voor individueel gebruik."
@@ -88,7 +88,7 @@ Als ik een consultant of ZZP'er help met afsprakensoftware, raad ik bijna altijd
 - Interface volledig in het Engels
 - Minder geschikt voor bedrijven met meerdere locaties
 
-<a href="https://calendly.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar calendly.com →</a>
+<a href="https://calendly.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar calendly.com →</a>
 
 ---
 
@@ -131,7 +131,7 @@ SimplyBook.me is de tool die ik aanbeveel zodra een bedrijf iDEAL-betaling nodig
 - Gratis plan erg beperkt (15 boekingen/maand)
 - Sommige functies werken als betaalde plugins
 
-<a href="https://simplybook.me/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar simplybook.me →</a>
+<a href="https://simplybook.me/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar simplybook.me →</a>
 
 ---
 
@@ -173,7 +173,7 @@ Tidycal is mijn favoriete budgettip: je betaalt eenmalig $29 en je hebt levensla
 - Kleinere community en minder integraties
 - Interface in het Engels
 
-<a href="https://tidycal.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar tidycal.com →</a>
+<a href="https://tidycal.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar tidycal.com →</a>
 
 ---
 
@@ -215,7 +215,7 @@ Setmore viel me op vanwege het gratis plan: tot 4 gebruikers, geen kosten. Dat i
 - Rapportages beperkt in het gratis plan
 - Minder integraties dan Calendly
 
-<a href="https://www.setmore.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar setmore.com →</a>
+<a href="https://www.setmore.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar setmore.com →</a>
 
 ---
 
@@ -258,7 +258,7 @@ Acuity Scheduling is de tool die ik pak wanneer Calendly of SimplyBook.me niet g
 - Onderdeel van Squarespace -- sterkste integratie met dat platform
 - Geen native iDEAL-ondersteuning
 
-<a href="https://acuityscheduling.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar acuityscheduling.com →</a>
+<a href="https://acuityscheduling.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar acuityscheduling.com →</a>
 
 ---
 
@@ -300,7 +300,7 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 - Hogere kosten dan generieke afsprakensoftware of een standaard afsprakenplanner
 - Contract mogelijk vereist
 
-<a href="https://salonkee.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salonkee.com →</a>
+<a href="https://salonkee.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar salonkee.com →</a>
 
 ---
 

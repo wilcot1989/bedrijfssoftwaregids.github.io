@@ -5,9 +5,8 @@ lastmod: 2026-04-22
 description: "A/B testen starten zonder ervaring? Stap-voor-stap je eerste experiment opzetten. Van hypothese tot resultaat. Met tools en voorbeelden voor MKB."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/marketing.svg"
+featured_image: "/images/categories/marketing.svg"
 categories:
-  - Blog
   - marketing
 faq:
   - q: "Hoeveel bezoekers heb je nodig voor een betrouwbare A/B test?"

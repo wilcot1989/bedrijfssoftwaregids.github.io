@@ -435,7 +435,7 @@ Lightspeed is het betere kassasysteem als je:
 - **Groeiplannen hebt** voor een tweede vestiging, webshop of groter assortiment
 - **Integraties met Nederlandse boekhoudpakketten** wilt zonder omwegen via Zapier
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 ## Voor wie is Square de beste keuze?
 
@@ -449,7 +449,7 @@ Square is het betere kassasysteem als je:
 - **Wilt testen of fysieke verkoop iets voor je is** zonder financieel risico
 - **Voornamelijk pin- en contactloze betalingen accepteert** en iDEAL geen vereiste is
 
-<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar squareup.com →</a>
+<a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar squareup.com →</a>
 
 ## Conclusie: Lightspeed vs Square -- welke past bij jouw winkel?
 

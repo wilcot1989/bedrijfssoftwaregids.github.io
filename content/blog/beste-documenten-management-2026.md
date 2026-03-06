@@ -106,7 +106,7 @@ Dropbox Business is de tool die ik noem als een bedrijf zegt: "We delen constant
 
 ## 4. Box — Beste voor enterprise en compliance
 
-Box is de documentbeheer software die ik alleen aanbeveel als compliance en beveiliging je topprioriteit zijn. Denk aan de zorgsector, financiele dienstverlening of overheid. De dreigingsdetectie met AI (Box Shield) en het onbeperkte opslagmodel zijn indrukwekkend. Maar voor een gemiddeld MKB-bedrijf is het overkill -- zowel in functies als in prijs. Voor HR-documenten en personeelsdossiers, lees dan ook over de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/).
+Box is de documentbeheer software die ik alleen aanbeveel als compliance en beveiliging je topprioriteit zijn. Denk aan de zorgsector, financiële dienstverlening of overheid. De dreigingsdetectie met AI (Box Shield) en het onbeperkte opslagmodel zijn indrukwekkend. Maar voor een gemiddeld MKB-bedrijf is het overkill -- zowel in functies als in prijs. Voor HR-documenten en personeelsdossiers, lees dan ook over de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/).
 
 ### Belangrijkste functies
 - **Content Security** — Geavanceerde classificatie, DLP, watermarking
@@ -167,4 +167,4 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
-*Laatst bijgewerkt: mei 2026.*
+*Laatst bijgewerkt: maart 2026.*

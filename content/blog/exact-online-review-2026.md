@@ -268,6 +268,6 @@ Gebruik je Exact Online al, of overweeg je om te starten? Dit zijn de tips die i
 
 Wil je nog meer opties verkennen? Bekijk dan onze vergelijking van de [beste facturatiesoftware voor het MKB](/blog/beste-facturatie-software-mkb-2026/) of ontdek hoe je je CRM kunt combineren met je boekhouding in ons artikel over de [beste CRM software](/blog/beste-crm-software-nederland-2026/).
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
 
 Wil je Exact Online vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.

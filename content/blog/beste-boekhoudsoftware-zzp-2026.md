@@ -134,7 +134,7 @@ Het gratis plan is zo beperkt (maximaal 3 facturen per maand) dat het eigenlijk 
 
 Voor de meeste ZZP'ers is het plan van €28/maand het sweet spot. Je krijgt onbeperkte boekingen en bankkoppeling — alles wat je nodig hebt. Benieuwd hoe Moneybird zich verhoudt tot e-Boekhouden? Lees mijn uitgebreide [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -167,7 +167,7 @@ De prijs. €48/maand voor het instappakket is fors als je tien facturen per maa
 
 Het verschil met Moneybird is substantieel: €48 vs. €28 per maand, dat is €240 per jaar meer. Die investering moet je terugverdienen met functies die je ook daadwerkelijk gebruikt. Lees ook mijn volledige [Exact Online review](/blog/exact-online-review-2026/) voor een diepere analyse.
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -199,7 +199,7 @@ De interface is functioneel maar niet inspirerend. De mobiele app is basaal verg
 
 Die starter-actie is goud waard. 15 maanden gratis een compleet boekhoudpakket — nergens anders vind je dat.
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -235,7 +235,7 @@ Concreet scenario: ik ken een Nederlandse UX-designer die voor drie techbedrijve
 
 **Wanneer kies je NIET voor FreshBooks?** Als al je klanten in Nederland zitten en je in euro's factureert. Dan betaal je voor internationale features die je niet gebruikt en mis je de automatische Belastingdienst-koppeling die Nederlandse pakketten wel hebben.
 
-<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshbooks.com →</a>
+<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar freshbooks.com →</a>
 
 ---
 
@@ -270,7 +270,7 @@ In de praktijk werkt het zo: mijn eigen accountant werkt met InformerOnline voor
 
 Vergelijking met de alternatieven: als je een boekhouder hebt die ook met Moneybird werkt, is het prijsverschil gering (€17 vs. €28/maand). Dan kies je op basis van welke interface je prettiger vindt. Maar als je boekhouder specifiek met InformerOnline werkt -- of als de SBR-rapportages voor je jaarrekening relevant zijn -- dan is InformerOnline de logischere keuze. Wil je weten welk pakket het beste aansluit op de BTW-aangifte? Lees mijn vergelijking [BTW-aangifte: welke boekhoudsoftware?](/blog/btw-aangifte-welke-boekhoudsoftware/) voor een praktisch overzicht.
 
-<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar informer.nl →</a>
+<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar informer.nl →</a>
 
 ---
 
@@ -305,7 +305,7 @@ Een scenario dat ik regelmatig zie: iemand begint als ZZP'er naast een baan in l
 
 Wil je later toch overstappen van Jortt naar een ander pakket? Dat is goed te doen, maar er zijn aandachtspunten. Lees mijn artikel over [boekhoudprogramma migratie: data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/) voor een stap-voor-stap aanpak zonder gegevensverlies.
 
-<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
+<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 

@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Welke B2B leadgeneratie tools werken in Nederland? Vergelijk opties voor MKB en bureaus. Bereken de lead-ROI voor jouw salesproces."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/marketing.svg"
+featured_image: "/images/categories/marketing.svg"
 categories:
-  - Blog
   - marketing
 faq:
   - q: "Wat zijn de beste leadgeneratie tools voor B2B in Nederland?"

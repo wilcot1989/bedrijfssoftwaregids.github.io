@@ -100,7 +100,7 @@ Waar Exact echt uitblinkt:
 
 - **Alles in een systeem.** Boekhouding, CRM, voorraad, projecten, urenregistratie, HRM -- je hoeft niet te puzzelen met vijf losse tools die je met duct-tape aan elkaar knoopt.
 - **450+ integraties** via de Exact App Store. Van Shopify en WooCommerce tot Mollie en Bol.com.
-- **Uitgebreide rapportages** die standaard beschikbaar zijn. Cashflow-prognoses, budgetvergelijkingen, consolidatie -- de financiele diepgang is een klasse apart.
+- **Uitgebreide rapportages** die standaard beschikbaar zijn. Cashflow-prognoses, budgetvergelijkingen, consolidatie -- de financiële diepgang is een klasse apart.
 - **Telefonische support.** Als je vastzit, bel je gewoon. Dat klinkt als een detail, maar bij een boekhoudvraag om 16:00 op de laatste dag van het kwartaal is het goud waard.
 - **Accountant-integratie.** Vrijwel elke boekhouder in Nederland kent Exact Online. De koppeling met je accountant is naadloos.
 
@@ -139,7 +139,7 @@ Alle prijzen exclusief btw. Eerste 60 dagen gratis proefperiode (6 maanden bij o
 |---|---|---|---|
 | **Boekhouden Essentials** | ±€48 | 1 | Kleine ondernemers |
 | **Boekhouden Standaard** | ±€59 | 1 (extra: €10+/p.p.) | MKB met uitgebreidere behoeften |
-| **Boekhouden Compleet** | ±€89 | 1 (extra: €10+/p.p.) | MKB met volledige financiele controle |
+| **Boekhouden Compleet** | ±€89 | 1 (extra: €10+/p.p.) | MKB met volledige financiële controle |
 
 Alle prijzen exclusief btw. 30 dagen gratis proefperiode. Exact biedt ook Handel-, Project- en Productie-pakketten die nog duurder zijn.
 
@@ -164,7 +164,7 @@ Let op: Moneybird rekent niet per gebruiker. Je betaalt een vast bedrag en kunt 
 - Je team groeit maar je **geen extra kosten per gebruiker** wilt
 - Je al gebruik maakt van losse tools (Zapier, Shopify) en die via integraties wilt koppelen
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ## Kies Exact Online als...
 
@@ -173,10 +173,10 @@ Let op: Moneybird rekent niet per gebruiker. Je betaalt een vast bedrag en kunt 
 - Je **boekhouder of accountant Exact al gebruikt** en je naadloze samenwerking wilt
 - Je bedrijf **snel groeit** en je een platform nodig hebt dat meeschaalt
 - Je **internationale handel** doet en ICP-opgave of Intrastat nodig hebt
-- Je behoefte hebt aan **uitgebreide financiele rapportages** en cashflow-prognoses
+- Je behoefte hebt aan **uitgebreide financiële rapportages** en cashflow-prognoses
 - Je **telefonische support** belangrijk vindt
 
-<a href="https://www.exact.com/nl/producten/boekhouden/probeer/essentials" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl/producten/boekhouden/probeer/essentials" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
 
 ## Samenwerking met je boekhouder: welke is beter?
 

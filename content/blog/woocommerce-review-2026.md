@@ -129,7 +129,7 @@ Daarboven kom je nog de onzichtbare kostenpost: **tijd**. Updates bijhouden, con
 
 Op papier is WooCommerce goedkoper. In de praktijk betaal je het verschil in tijd en technische kennis. Voor een ondernemer die zijn eigen server leuk vindt om te beheren, is dat geen probleem. Voor een restauranthouder die gewoon zijn merchandise wil verkopen, is het dat wel.
 
-<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Download WooCommerce gratis →</a>
+<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Download WooCommerce gratis →</a>
 
 ## Functies
 

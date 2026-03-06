@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Eerste werknemer in dienst? Ontdek welke HR software je écht nodig hebt als kleine werkgever. Inclusief keuzehulp voor ZZP en klein MKB."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/hr-software.svg"
+featured_image: "/images/categories/hr-software.svg"
 categories:
-  - Blog
   - hr-software
 tags:
   - hr-software

@@ -5,9 +5,8 @@ lastmod: 2026-03-03
 description: "Cloud kassasysteem of lokale POS-software? Vergelijk betrouwbaarheid, kosten en flexibiliteit voor horeca en retail. Doe de gratis kassasysteem keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/kassasystemen.svg"
+featured_image: "/images/categories/kassasystemen.svg"
 categories:
-  - Blog
   - kassasystemen
 faq:
   - q: "Wat is het verschil tussen een cloud kassasysteem en een lokaal kassasysteem?"

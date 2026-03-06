@@ -5,9 +5,8 @@ lastmod: 2026-04-07
 description: "CRM-data vervuild? Stappenplan voor het opschonen van duplicaten, verouderde contacten en onvolledige records. Verhoog je conversie met schone data."
 author: "Lars de Vries"
 author_bio: "Onafhankelijke software vergelijker voor Nederlandse ondernemers."
-featured_image: "images/categories/crm.svg"
+featured_image: "/images/categories/crm.svg"
 categories:
-  - Blog
   - crm
 faq:
   - q: "Hoe vaak moet je CRM-data opschonen?"
