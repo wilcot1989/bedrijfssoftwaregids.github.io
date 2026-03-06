@@ -1,7 +1,7 @@
 ---
 title: "Beste Chatbot Software 2026: Top 5"
 date: 2026-02-27T10:00:00+01:00
-lastmod: 2026-02-27T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "De beste chatbot software van 2026 vergeleken. AI-chatbots voor klantenservice, leadgeneratie en verkoop. Intercom, Drift, Tidio, Zendesk en ChatBot vergeleken."
 categories: ["marketing"]
 tags:
@@ -23,14 +23,20 @@ products:
     description: "Betaalbare AI-chatbot voor MKB en e-commerce met gratis plan, Lyro AI en eenvoudige installatie in 5 minuten."
     url: "https://www.tidio.com/"
     price: "0.00"
+    rating_value: "3.7"
+    rating_count: "224"
   - name: "Zendesk"
     description: "Enterprise klantenservice suite met AI-chatbot, ticketsysteem en omnichannel support voor grotere organisaties."
     url: "https://www.zendesk.nl/"
     price: "55.00"
+    rating_value: "1.7"
+    rating_count: "692"
   - name: "Drift"
     description: "B2B conversational marketing platform met AI-chatbot voor leadgeneratie en account-based marketing."
     url: "https://www.drift.com/"
     price: "2500.00"
+    rating_value: "1.2"
+    rating_count: "165"
 faq:
   - q: "Wat is chatbot software?"
     a: "Chatbot software automatiseert klantgesprekken via je website, app of sociale media. Moderne AI-chatbots begrijpen natuurlijke taal, beantwoorden veelgestelde vragen, kwalificeren leads en dragen complexe vragen over aan medewerkers. Ze werken 24/7 en verlagen je klantenservicekosten met 30-60%."
@@ -52,17 +58,23 @@ Zoek je CRM-software om leads op te volgen? Lees de [beste CRM software vergelij
 
 ## Snelle vergelijking
 
-| Platform | Prijs vanaf | AI-chatbot | Nederlands | Live chat | Beste voor |
-|----------|-----------|-----------|-----------|----------|-----------|
-| **Intercom** | $29/seat/mnd | ✅ Fin AI | ✅ | ✅ | Scale-ups, SaaS |
-| **Tidio** | Gratis | ✅ Lyro AI | ✅ | ✅ | MKB, e-commerce |
-| **Zendesk** | €55/agent/mnd | ✅ | ✅ | ✅ | Enterprise support |
-| **Drift** | €2.500/mnd | ✅ | ✅ | ✅ | B2B leadgeneratie |
-| **ChatBot** | Op aanvraag (AI-gesprekken) | ✅ | ✅ | Via LiveChat | Visuele bouwer |
+![Trustpilot scores chatbot software 2026 — gebruikersbeoordelingen van alle 5 systemen](/images/blog/beste-chatbot-software/trustpilot-scores-chatbot.svg)
+
+| Platform | Prijs vanaf | AI-chatbot | Nederlands | Live chat | Trustpilot | Beste voor |
+|----------|-----------|-----------|-----------|----------|-----------|-----------|
+| **Intercom** | $29/seat/mnd | ✅ Fin AI | ✅ | ✅ | 3.4/5 (6 reviews)* | Scale-ups, SaaS |
+| **Tidio** | Gratis | ✅ Lyro AI | ✅ | ✅ | 3.7/5 (224 reviews) | MKB, e-commerce |
+| **Zendesk** | €55/agent/mnd | ✅ | ✅ | ✅ | 1.7/5 (692 reviews) | Enterprise support |
+| **Drift** | €2.500/mnd | ✅ | ✅ | ✅ | 1.2/5 (165 reviews) | B2B leadgeneratie |
+| **ChatBot** | Op aanvraag (AI-gesprekken) | ✅ | ✅ | Via LiveChat | 2.3/5 (12 reviews)* | Visuele bouwer |
+
+*\*Intercom (6) en ChatBot (12) hebben te weinig reviews voor een representatieve score.*
 
 ## 1. Intercom — Beste AI-chatbot
 
 Intercom's Fin AI Agent is de chatbot waar ik het meest van onder de indruk ben. Bij een SaaS-klant van mij beantwoordt Fin inmiddels 75% van de supportvragen zelfstandig -- en de antwoorden zijn verrassend goed. Het is de duurste optie in dit overzicht, maar als je het volume hebt, verdient het zich dubbel terug.
+
+**Trustpilot: 3.4/5 (6 reviews)** — Slechts 6 reviews — te weinig voor een betrouwbaar beeld. Fans prijzen de AI, critici klagen over de kosten.
 
 Wat Fin anders maakt dan andere AI-chatbots: hij hallucineert bijna nooit. Andere AI-tools verzinnen soms antwoorden als ze het niet weten. Fin zegt dan gewoon "Ik weet het niet" en draagt over aan een medewerker. Dat klinkt onbeduidend, maar bij klantenservice is dat het verschil tussen een fijne klantervaring en een klacht.
 
@@ -101,6 +113,8 @@ Eerlijk gezegd: de kosten kunnen snel oplopen. Een klant van mij met 3 support-m
 
 Tidio is de chatbot software die ik aanbeveel aan MKB'ers die zeggen: "Ik wil morgen een chatbot live hebben." Installatie kostte bij mijn laatste klant precies acht minuten. Het gratis plan is ruim genoeg om te testen, en de Lyro AI begrijpt Nederlands prima. Niet zo geavanceerd als Intercom, maar voor de meeste webshops meer dan voldoende.
 
+**Trustpilot: 3.7/5 (224 reviews)** — Inconsistente klantenservice — accounts worden soms zonder duidelijke reden opgeschort.
+
 Ik heb Tidio ingevoerd bij een online winkel met 12.000 bezoekers per maand in de tuinartikelen. Na drie maanden hadden ze 40% minder support-e-mails -- en dat terwijl ze maar het Growth-plan gebruikten voor €59 per maand. De terugverdientijd was minder dan twee weken. Dat zijn de soort resultaten die ik verwacht van goede chatbot software.
 
 Wat me opviel bij Tidio: de trigger-logica is verrassend krachtig voor de prijs. Je kunt instellen dat de chatbot verschijnt als een bezoeker langer dan 30 seconden op de betaalpagina zit -- ideaal om winkelwagen-verlating te verminderen. In combinatie met een [leadgeneratie strategie](/blog/leadgeneratie-tools-b2b-nederland/) pakt dat goed uit.
@@ -135,6 +149,8 @@ Het gratis plan is echt bruikbaar voor kleine webshops. Bij 50 gesprekken per ma
 ## 3. Zendesk — Beste voor enterprise klantenservice
 
 Zendesk adviseer ik voor chatbots alleen als je al op hun platform draait of een complete helpdesk nodig hebt. De AI Agent is degelijk en getraind op miljarden interacties, maar voor alleen een chatbot is Zendesk als een vrachtwagen huren om boodschappen te doen. Heb je die complete suite wel nodig? Dan is het een sterke keuze.
+
+**Trustpilot: 1.7/5 (692 reviews)** — Ironisch: een klantenserviceplatform met slechte eigen klantenservice op Trustpilot.
 
 Waar Zendesk echt schittert: de combinatie van ticketbeheer, kennisbank en chatbot in één platform. Een klant van mij in de financiële dienstverlening -- 8 support-medewerkers, 400 tickets per week -- heeft zijn hele klantenservice-workflow gebouwd rondom Zendesk. De chatbot handelt de eerste selectie af, complexe vragen gaan naar de juiste agent via slimme routering, en managers zien realtime hoeveel tickets open staan. Dat soort rapportages haal je niet uit Tidio of Intercom.
 
@@ -171,6 +187,8 @@ Voor een team van 5 agenten zit je al snel op €275-€575 per maand, exclusief
 
 Drift is de tool die ik alleen noem bij B2B-bedrijven met deals van duizenden euro's. De chatbot herkent welk bedrijf je website bezoekt en plant direct een meeting met je salesteam in. Briljant als je dealwaarde hoog genoeg is. Bij een startprijs van €2.500 per maand moet het dat ook zijn -- voor MKB'ers raad ik het af.
 
+**Trustpilot: 1.2/5 (165 reviews)** — Klachten over ongewenste abonnementen en moeilijk opzeggen domineren de reviews.
+
 Stel je voor: een enterprise sales-manager van je target account bezoekt je pricing-pagina. Met Drift ziet de chatbot dat het gaat om bedrijf X (via IP-lookup), past het bericht aan ("Hallo, kijk je rond voor enterprise-oplossingen?") en boekt die meeting rechtstreeks in de agenda van de account manager die die prospect al op zijn lijst heeft staan. Dat is wat Drift doet dat anderen niet kunnen.
 
 In de praktijk werkt dit het best als je dealwaarden boven de €20.000 liggen. Reken maar: als Drift je één extra deal per maand oplevert, betaalt het zichzelf meerdere keren terug. Maar als je deals van €2.000-€5.000 sluit, worden de wiskunde al een stuk minder aantrekkelijk. Ik ken sales-directeuren die Drift inzetten naast een uitgebreid [CRM-systeem](/blog/beste-crm-software-nederland-2026/) -- de combinatie is krachtig, de kosten zijn hoog.
@@ -196,6 +214,8 @@ Een aandachtspunt: Drift is in 2024 overgenomen door Salesloft. De integratie is
 ## 5. ChatBot — Beste visuele bouwer
 
 ChatBot is mijn aanbeveling voor bedrijven die zelf de controle willen over hun chatbotflows. De visuele bouwer is de beste die ik heb gezien: je sleept blokken, stelt condities in en test direct -- zonder ook maar een regel code. Ideaal als je een specifiek klanttraject wilt opbouwen in plaats van alles aan AI over te laten.
+
+**Trustpilot: 2.3/5 (12 reviews)** — Slechts 12 reviews — gemelde dubbele afschrijvingen en matige support.
 
 Ik gebruik ChatBot regelmatig als ik voor een klant een gestructureerd klantenpad wil bouwen. Stel: een hypotheekverstrekker wil bezoekers kwalificeren voordat ze contact opnemen. Met AI laat je de chatbot zelf antwoorden bedenken -- risico op foute informatie. Met ChatBot's visuele bouwer teken je precies uit wat de bot zegt bij elke stap: "Heb je een koopwoning of huurwoning? Klik op het antwoord." Geen verassingen.
 

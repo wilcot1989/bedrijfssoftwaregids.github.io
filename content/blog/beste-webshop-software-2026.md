@@ -1,7 +1,7 @@
 ---
 title: "Beste Webshop Software Nederland 2026"
 date: 2026-02-27T08:00:00+01:00
-lastmod: 2026-02-27T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Ontdek de beste webshop software voor Nederland in 2026. Vergelijk Shopify, WooCommerce, Lightspeed, Magento, BigCommerce, CCV Shop en Acendy op prijs en functies."
 categories: ["webshops"]
 tags:
@@ -20,14 +20,20 @@ products:
     description: "Toonaangevend hosted e-commerce platform voor snelgroeiende webshops met groot app-ecosysteem en uitstekende onboarding."
     url: "https://www.shopify.com/nl"
     price: "36.00"
+    rating_value: "1.3"
+    rating_count: "4350"
   - name: "WooCommerce"
     description: "Gratis open-source e-commerce plugin voor WordPress met volledige controle en flexibiliteit voor technische gebruikers."
     url: "https://woocommerce.com/"
     price: "0.00"
+    rating_value: "1.9"
+    rating_count: "132"
   - name: "Lightspeed eCom"
     description: "Omnichannel e-commerce platform voor retailers die online en in de winkel willen verkopen met native iDEAL-integratie."
     url: "https://www.lightspeedhq.nl/"
     price: "59.00"
+    rating_value: "4.2"
+    rating_count: "2404"
   - name: "Magento"
     description: "Open-source e-commerce platform voor grote webshops en enterprise met maximale flexibiliteit en schaalbaarheid."
     url: "https://business.adobe.com/products/magento/magento-commerce.html"
@@ -36,10 +42,14 @@ products:
     description: "Hosted e-commerce platform voor internationaal groeiende webshops met sterke multi-channel verkoopfuncties."
     url: "https://www.bigcommerce.com/"
     price: "36.00"
+    rating_value: "1.3"
+    rating_count: "448"
   - name: "CCV Shop"
     description: "Nederlands e-commerce platform voor starters en MKB met standaard iDEAL, bol.com-koppeling en Nederlandstalige support."
     url: "https://www.ccvshop.nl/"
     price: "24.95"
+    rating_value: "3.0"
+    rating_count: "15"
   - name: "Acendy"
     description: "Nederlands webshop platform (voorheen Mijnwebwinkel) gericht op eenvoud en de Nederlandse markt met 30 dagen gratis proberen."
     url: "https://www.acendy.nl/"
@@ -64,21 +74,25 @@ faq:
 De eerste vraag die ik stel als iemand webshop software zoekt: "Hoeveel producten, en wil je zelf sleutelen of niet?" Het antwoord bepaalt namelijk direct welke webshop software je nodig hebt. Shopify voor gemak, WooCommerce voor controle, CCV Shop voor Nederland-specifieke features. In deze vergelijking zet ik de 7 beste opties naast elkaar, zodat je geen maanden hoeft te twijfelen.
 
 
+![Trustpilot scores webshop software 2026 — gebruikersbeoordelingen van alle 7 systemen](/images/blog/beste-webshop-software/trustpilot-scores-webshop.svg)
+
 ## Vergelijkingstabel: Beste Webshop Software 2026
 
-| Webshop Platform | Startprijs/mnd | Gratis plan | iDEAL | Nederlands | Beste voor |
-|---|---|---|---|---|---|
-| **Shopify** | €36/mnd | Nee (3 dagen gratis) | Via Mollie/Shopify Payments | Ja | Snelgroeiende webshops |
-| **WooCommerce** | Gratis (+ hosting) | Ja (plugin) | Via Mollie plugin | Ja | Volledige controle & flexibiliteit |
-| **Lightspeed eCom** | €59/mnd | Nee (14 dagen trial) | Ja (standaard) | Ja | Omnichannel retail |
-| **Magento/Adobe Commerce** | Gratis (Open Source) | Ja (self-hosted) | Via extensie | Ja | Grote webshops & enterprise |
-| **BigCommerce** | $39/mnd | Nee (15 dagen trial) | Via Mollie | Beperkt | Internationale groei |
-| **CCV Shop** | €24,95/mnd | Nee (21 dagen trial) | Ja (standaard) | Ja | Nederlandse starters & MKB |
-| **Acendy** (voorheen Mijnwebwinkel) | €40/mnd | Nee (30 dagen trial) | Ja (standaard) | Ja | Eenvoud & Nederlandse markt |
+| Webshop Platform | Startprijs/mnd | Gratis plan | iDEAL | Nederlands | Trustpilot | Beste voor |
+|---|---|---|---|---|---|---|
+| **Shopify** | €36/mnd | Nee (3 dagen gratis) | Via Mollie/Shopify Payments | Ja | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops |
+| **WooCommerce** | Gratis (+ hosting) | Ja (plugin) | Via Mollie plugin | Ja | 1.9/5 (132 reviews) | Volledige controle & flexibiliteit |
+| **Lightspeed eCom** | €59/mnd | Nee (14 dagen trial) | Ja (standaard) | Ja | 4.2/5 (2.404 reviews) | Omnichannel retail |
+| **Magento/Adobe Commerce** | Gratis (Open Source) | Ja (self-hosted) | Via extensie | Ja | — | Grote webshops & enterprise |
+| **BigCommerce** | $39/mnd | Nee (15 dagen trial) | Via Mollie | Beperkt | 1.3/5 (448 reviews) | Internationale groei |
+| **CCV Shop** | €24,95/mnd | Nee (21 dagen trial) | Ja (standaard) | Ja | 3.0/5 (15 reviews) | Nederlandse starters & MKB |
+| **Acendy** (voorheen Mijnwebwinkel) | €40/mnd | Nee (30 dagen trial) | Ja (standaard) | Ja | — | Eenvoud & Nederlandse markt |
+
+*\*Shopify's lage Trustpilot-score is typische review-bias: ontevreden gebruikers schrijven sneller een review dan tevreden klanten.*
 
 ## 1. Shopify
 
-Shopify is het platform dat ik het vaakst adviseer aan ondernemers die snel een webshop willen starten zonder technisch gedoe. Het werkt, het schaalt, en het enorme app-ecosysteem lost vrijwel elk probleem op. Ik heb klanten geholpen die van 10 naar 10.000 producten groeiden zonder ooit van platform te hoeven wisselen. Het nadeel: de maandelijkse kosten lopen op als je veel betaalde apps nodig hebt. Wil je ook weten hoe je een professionele website naast je webshop bouwt? Lees mijn vergelijking van de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
+Shopify is het platform dat ik het vaakst adviseer aan ondernemers die snel een webshop willen starten zonder technisch gedoe. **Trustpilot: 1.3/5 (4.350 reviews).** Klassieke Trustpilot-bias — miljoenen tevreden gebruikers schrijven geen review, gefrustreerde klanten wel. Klachten gaan vooral over klantenservice. Het werkt, het schaalt, en het enorme app-ecosysteem lost vrijwel elk probleem op. Ik heb klanten geholpen die van 10 naar 10.000 producten groeiden zonder ooit van platform te hoeven wisselen. Het nadeel: de maandelijkse kosten lopen op als je veel betaalde apps nodig hebt. Wil je ook weten hoe je een professionele website naast je webshop bouwt? Lees mijn vergelijking van de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
 
 **Shopify in de praktijk: van startersshop tot groeiende webshop.** Een klant van mij begon met vijf handgemaakte sieraden en een basisshop op Shopify. Twee jaar later verkoopt ze 200 producten in drie landen. Ze heeft nooit van platform gewisseld. Dat is het kenmerkende verhaal van Shopify: je begint klein, het schaalt mee.
 
@@ -138,7 +152,7 @@ Twijfel je tussen Shopify en een Nederlands platform? Lees mijn [Shopify vs Mijn
 
 ## 2. WooCommerce
 
-WooCommerce adviseer ik aan klanten die zeggen: "Ik wil volledige controle over mijn webshop." Het is gratis, open-source en je kunt er werkelijk alles mee. Maar eerlijk is eerlijk: je moet bereid zijn om te sleutelen. Updates, beveiliging en hosting zijn jouw verantwoordelijkheid. Heb je al een WordPress-site of een developer in huis? Dan is WooCommerce een krachtige en voordelige keuze.
+WooCommerce adviseer ik aan klanten die zeggen: "Ik wil volledige controle over mijn webshop." **Trustpilot: 1.9/5 (132 reviews).** Technische klachten domineren: crashes, betalingsproblemen en matige support. Het is gratis, open-source en je kunt er werkelijk alles mee. Maar eerlijk is eerlijk: je moet bereid zijn om te sleutelen. Updates, beveiliging en hosting zijn jouw verantwoordelijkheid. Heb je al een WordPress-site of een developer in huis? Dan is WooCommerce een krachtige en voordelige keuze.
 
 **WooCommerce in de praktijk: macht en verantwoordelijkheid gaan samen.** Een klant van mij baat een gespecialiseerde webshop uit voor hobbyistische radiografische auto's — 1.200 producten, complexe varianten, een specifiek klantenbestand dat alles wil weten over specificaties. Op Shopify zou hij tien apps nodig hebben om het te bouwen. Op WooCommerce bouwde zijn developer het precies naar wens.
 
@@ -197,7 +211,7 @@ De Mollie-plugin voor WooCommerce is overigens uitstekend — iDEAL, creditcard,
 
 ## 3. Lightspeed eCom
 
-Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." De naadloze koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Wil je een diepgaande beoordeling van Lightspeed als kassasysteem? Lees mijn [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/). Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
+Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." **Trustpilot: 4.2/5 (2.404 reviews).** Persoonlijke support wordt veel geprezen, vooral bij onboarding — veruit de beste score in deze categorie. De naadloze koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Wil je een diepgaande beoordeling van Lightspeed als kassasysteem? Lees mijn [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/). Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
 
 **Lightspeed eCom in de praktijk: ideaal voor de retailer die online gaat.** Een kledingboetiek die ik begeleid besloot online te gaan verkopen. Ze hadden al Lightspeed als kassasysteem in de winkel. De keuze voor Lightspeed eCom was logisch: dezelfde voorraad, één systeem, geen dubbel werk.
 
@@ -253,7 +267,7 @@ Ben je ook op zoek naar een kassasysteem voor je fysieke locatie? Lees dan ons a
 
 ## 4. Magento / Adobe Commerce
 
-Magento is het platform dat ik alleen adviseer als een webshop echt groot en complex is. Denk aan duizenden producten, B2B en B2C gecombineerd, meerdere landen. De open-source versie is gratis, maar de implementatiekosten zijn aanzienlijk -- reken op een gespecialiseerde developer. Voor de meeste MKB-webshops is het overkill, maar als je die schaal bereikt is er weinig dat Magento niet aankan.
+Magento is het platform dat ik alleen adviseer als een webshop echt groot en complex is. **Trustpilot: Geen reviews beschikbaar.** Denk aan duizenden producten, B2B en B2C gecombineerd, meerdere landen. De open-source versie is gratis, maar de implementatiekosten zijn aanzienlijk -- reken op een gespecialiseerde developer. Voor de meeste MKB-webshops is het overkill, maar als je die schaal bereikt is er weinig dat Magento niet aankan.
 
 **Magento in de praktijk: enterprise-power voor wie het echt nodig heeft.** Ik heb Magento alleen aanbevolen aan klanten die al een serieuze webshop hadden en vastliepen op de limieten van hun huidige platform. Denk aan een groothandel met 15.000 SKU's, B2B-klantprijzen per account, en integraties met hun ERP-systeem.
 
@@ -308,7 +322,7 @@ Voor wie al op Magento zit en overweegt te upgraden naar Adobe Commerce (de beta
 
 ## 5. BigCommerce
 
-BigCommerce is het platform dat ik noem als Shopify-gebruikers klagen over transactiekosten en dure apps. BigCommerce biedt meer functies standaard ingebouwd -- geen extra apps nodig voor B2B, geen transactiekosten. Het nadeel? In Nederland is het minder populair, de community is kleiner, en iDEAL moet je via Mollie regelen. Voor internationale groei is het wel een serieus alternatief.
+BigCommerce is het platform dat ik noem als Shopify-gebruikers klagen over transactiekosten en dure apps. **Trustpilot: 1.3/5 (448 reviews).** Klachten over agressieve prijsverhogingen bij groeiende omzet. BigCommerce biedt meer functies standaard ingebouwd -- geen extra apps nodig voor B2B, geen transactiekosten. Het nadeel? In Nederland is het minder populair, de community is kleiner, en iDEAL moet je via Mollie regelen. Voor internationale groei is het wel een serieus alternatief.
 
 **BigCommerce: het best bewaarde geheim voor groeiende webshops.** Weinig Nederlandse ondernemers kennen BigCommerce. Dat is eigenlijk jammer, want op papier is het voor een groeiende internationale webshop beter dan Shopify: meer functies standaard, geen transactiekosten, en vergelijkbare schaalbaarheid.
 
@@ -365,7 +379,7 @@ De keerzijde: de community is kleiner. Als je een probleem hebt met een obscure 
 
 ## 6. CCV Shop
 
-CCV Shop is wat ik adviseer aan ondernemers die zeggen: "Ik verkoop alleen in Nederland en België, en ik wil dat alles gewoon werkt." iDEAL, bol.com-koppeling, PostNL-integratie -- het zit er standaard in, zonder plugins of gedoe. Minder internationaal dan Shopify, maar voor de Nederlandse markt heb je weinig anders nodig.
+CCV Shop is wat ik adviseer aan ondernemers die zeggen: "Ik verkoop alleen in Nederland en België, en ik wil dat alles gewoon werkt." **Trustpilot: 3.0/5 (15 reviews).** Weinig reviews maar goede support — platform wordt als verouderd ervaren. iDEAL, bol.com-koppeling, PostNL-integratie -- het zit er standaard in, zonder plugins of gedoe. Minder internationaal dan Shopify, maar voor de Nederlandse markt heb je weinig anders nodig.
 
 **CCV Shop in de praktijk: de Nederlandse thuisbasis voor webshoppers.** Ik heb CCV Shop aanbevolen aan een tuincentrum dat online wilde gaan. Ze verkopen planten, potten en tuingereedschap. Klanten zijn voornamelijk uit de regio, ze werken met PostNL. CCV Shop: alles zit er standaard in, ze hadden geen developer nodig, en ze waren binnen twee weken live.
 
@@ -422,7 +436,7 @@ De productlimieten per abonnement zijn het meest genoemde nadeel. Op het goedkoo
 
 ## 7. Acendy (voorheen Mijnwebwinkel)
 
-Acendy -- per januari 2026 de nieuwe naam voor Mijnwebwinkel -- is de optie die ik noem als een ondernemer zegt: "Ik wil morgen live." De eenvoud is het sterkste punt -- je kunt letterlijk binnen een dag een professionele webshop hebben draaien. Als je ook social media inzet voor je webshop, lees dan mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/). De persoonlijke Nederlandse support is ook opvallend goed. Het is minder uitgebreid dan Shopify of Lightspeed, maar voor een startende webshop met een overzichtelijk assortiment is het meer dan voldoende.
+Acendy -- per januari 2026 de nieuwe naam voor Mijnwebwinkel -- is de optie die ik noem als een ondernemer zegt: "Ik wil morgen live." **Trustpilot: Geen reviews beschikbaar.** De eenvoud is het sterkste punt -- je kunt letterlijk binnen een dag een professionele webshop hebben draaien. Als je ook social media inzet voor je webshop, lees dan mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/). De persoonlijke Nederlandse support is ook opvallend goed. Het is minder uitgebreid dan Shopify of Lightspeed, maar voor een startende webshop met een overzichtelijk assortiment is het meer dan voldoende.
 
 **Acendy (Mijnwebwinkel) in de praktijk: eenvoud is geen zwakte.** Een buurvrouw van een klant van mij — dat klinkt indirect, maar het is een echte situatie — opende een webshop voor handgemaakte kaarsen. Budget: €50/mnd max. Technische kennis: nul. Ze koos Acendy, belde de support en had binnen 48 uur haar eerste product online. Drie maanden later had ze 80 verkopen gedaan.
 
