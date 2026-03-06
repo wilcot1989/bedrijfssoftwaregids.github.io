@@ -1,7 +1,7 @@
 ---
 title: "Beste Kassasysteem Horeca 2026: Top 6 Getest"
 date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-02-27T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Welk kassasysteem past bij jouw horecazaak? Ik vergeleek 6 systemen op prijs, functies en gebruiksgemak. Vanaf €0/mnd. Ontdek mijn top pick."
 categories: ["kassasystemen"]
 tags:
@@ -62,6 +62,19 @@ faq:
 
 Een kassasysteem horeca kiezen is een beslissing waar je jarenlang mee zit. Ik heb cafehouders geholpen die vastzaten aan een verouderd systeem met hoge contractkosten, en restauranteigenaren die na een slimme keuze uren per week bespaarden op voorraadbeheer en afrekengemak. In deze vergelijking deel ik de 6 beste kassasystemen voor horeca die ik aanbeveel -- en waar je op moet letten.
 
+
+{{< figure src="/images/blog/beste-kassasysteem-horeca/trustpilot-scores-kassasysteem.svg" alt="Trustpilot scores kassasystemen horeca 2026: Square en Lightspeed scoren 4.2/5, Zettle 3.3/5, Orderbird 2.1/5" caption="Trustpilot-scores van de 5 kassasystemen met reviews. Untill heeft geen Trustpilot-profiel." >}}
+
+Geen tijd om alles te lezen? Hier de snelle vergelijking:
+
+| Product | Vanaf | Trustpilot | Beste voor |
+|---|---|---|---|
+| **Lightspeed Restaurant** | €59/mnd | 4.2/5 (2.400 reviews) | Restaurants & bezorging |
+| **Untill** | €79/mnd | Geen profiel | Grote horecazaken & brasserieën |
+| **Trivec** | Op aanvraag | Geen profiel | Hotelrestaurants & fine dining |
+| **Square** | Gratis | 4.2/5 (7.100 reviews) | Starters & foodkraampjes |
+| **Zettle by PayPal** | Gratis | 3.3/5 (5.500 reviews) | Foodtrucks & pop-ups |
+| **Orderbird** | €39/mnd | 2.1/5 (35 reviews) | Cafés & kleine restaurants |
 
 ## Vergelijkingstabel: Beste Kassasystemen Horeca 2026
 
