@@ -292,6 +292,7 @@ De beste boekhoud-app hangt af van je prioriteiten en je huidige boekhoudsoftwar
 - **Beste voor groeiende bedrijven**: [Exact Online](https://www.exact.com/nl) -- krachtig platform met een solide mobiele aanvulling.
 - **Beste budget-optie**: [e-Boekhouden](https://www.e-boekhouden.nl/) -- basale maar functionele app tegen de laagste prijs.
 - **Beste voor internationale freelancers**: [FreshBooks](https://www.freshbooks.com/nl) -- uitstekende app met sterke urenregistratie en multi-valuta facturatie.
+- **Vermeldenswaard**: [SnelStart](https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2) biedt ook een mobiele app (Mijn SnelStart) voor bonnetjes scannen en facturen. De app is functioneel maar minder gepolijst dan Moneybird of Jortt. Voor bestaande SnelStart-gebruikers een prima aanvulling.
 
 **Mijn advies**: kies je boekhoudsoftware primair op basis van de webversie en je zakelijke behoeften. De mobiele app is een belangrijke aanvulling, maar niet je enige werkplek. Moneybird biedt de beste balans tussen een uitstekende desktop- en mobiele ervaring voor de meeste Nederlandse ondernemers. Als je ook specifiek software voor accountantskantoren zoekt, lees dan mijn overzicht van de [beste software voor accountants 2026](/blog/beste-software-accountants-2026/). Groeit je bedrijf en denk je aan een volledig ERP-systeem? Lees dan mijn vergelijking van de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
