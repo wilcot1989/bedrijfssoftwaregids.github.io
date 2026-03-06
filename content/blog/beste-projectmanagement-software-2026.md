@@ -35,7 +35,7 @@ products:
     rating_count: "209"
   - name: "ClickUp"
     description: "Feature-rijke projectmanagement app met gratis plan, Gantt-charts en uitgebreide aanpassingsmogelijkheden."
-    url: "https://clickup.com/"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
     price: "7.00"
     rating_value: "3.4"
     rating_count: "465"

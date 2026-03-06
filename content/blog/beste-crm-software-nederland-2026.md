@@ -24,7 +24,7 @@ products:
     rating_count: "960"
   - name: "Pipedrive"
     description: "Visueel CRM met sales pipeline management, speciaal ontworpen voor verkoopteams en MKB."
-    url: "https://www.pipedrive.com/"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
     price: "14.00"
     rating_value: "4.5"
     rating_count: "3200"
