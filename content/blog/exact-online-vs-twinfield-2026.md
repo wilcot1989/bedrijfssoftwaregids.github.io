@@ -238,6 +238,10 @@ Na tientallen implementaties van beide pakketten komt mijn advies hierop neer:
 
 Twijfel je? Beide bieden een gratis proefperiode van 30 dagen. Test ze naast elkaar en bespreek de uitkomst met je accountant. Overweeg je te migreren van het ene pakket naar het andere? Lees dan ons artikel over [boekhoudprogramma migratie en data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/) voor een stap-voor-stap aanpak.
 
+**Voor starters die de complexiteit van Exact en Twinfield niet nodig hebben:** SnelStart is een betaalbaar Nederlandstalig alternatief met een gratis basisplan beschikbaar. Ideaal voor ZZP'ers en klein MKB die gewoon hun administratie op orde willen houden zonder de uitgebreide — en prijzige — functionaliteit van de grote pakketten. Betaalde pakketten starten vanaf €16 per maand.
+
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
+
 <a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 <a href="https://www.twinfield.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar twinfield.nl →</a>

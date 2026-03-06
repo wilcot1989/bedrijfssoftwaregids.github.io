@@ -27,12 +27,10 @@
     {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</div>{{ end }}
     <h1>{{ .Title }}</h1>
 {{ end }}
+{{ if .Params.categories }}<meta name="bsg-category" content="{{ index .Params.categories 0 | urlize }}">{{ end }}
 {{ if .Params.products }}
-    {{ if .Params.categories }}<meta name="bsg-category" content="{{ index .Params.categories 0 | urlize }}">{{ end }}
     <div class="article-layout">
-    <div>
-    {{ .Content }}
-    </div>
+    <div>{{ .Content }}</div>
     <aside class="sticky-sidebar">
       <h4>Top 3</h4>
       {{ range first 3 .Params.products }}
