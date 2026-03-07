@@ -89,6 +89,19 @@
     "cost": { "model": "per_user_monthly", "base": 0, "per_user": 33 }
   },
   {
+    "id": "close",
+    "name": "Close CRM",
+    "categories": ["crm"],
+    "pricing_band": "€20-€50",
+    "nl_support": false,
+    "marketing_automation": false,
+    "pipeline": true,
+    "automation": true,
+    "integrations": ["Google Workspace", "Zapier", "Slack"],
+    "affiliate": { "type": "link", "url": "https://refer.close.com/p2kcrnz6lksy" },
+    "cost": { "model": "per_user_monthly", "base": 0, "per_user": 35 }
+  },
+  {
     "id": "moneybird",
     "name": "Moneybird",
     "categories": ["boekhouding"],

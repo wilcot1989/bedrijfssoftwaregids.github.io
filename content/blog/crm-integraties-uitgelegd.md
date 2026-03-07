@@ -46,7 +46,7 @@ Bereken wat deze integraties concreet opleveren voor jouw situatie met de [CRM R
 
 Voor [recruitment-bureaus](/sectoren/crm/crm-voor-recruitment-bureaus/) is dit bijzonder krachtig: kandidaten die nog niet klaar zijn voor een specifieke rol worden automatisch warm gehouden via een contentstroom totdat er een relevante vacature is. Dit voorkomt dat kandidaten oud worden in het systeem zonder dat er iets mee wordt gedaan.
 
-**Telefonieintegratie** (CTI) zorgt dat inkomende gesprekken automatisch het juiste contactprofiel openen. Je ziet direct wie er belt, hebt alle relevante informatie voor je en kunt het gesprek na afloop in één klik loggen inclusief samenvatting. Voor bedrijven met een hoog belvolume is dit een substantiële tijdsbesparing.
+**Telefonieintegratie** (CTI) zorgt dat inkomende gesprekken automatisch het juiste contactprofiel openen. Je ziet direct wie er belt, hebt alle relevante informatie voor je en kunt het gesprek na afloop in één klik loggen inclusief samenvatting. Voor bedrijven met een hoog belvolume is dit een substantiële tijdsbesparing. Een CRM als [Close CRM](https://refer.close.com/p2kcrnz6lksy) gaat een stap verder: daar zit telefonie native in het systeem, inclusief een Power Dialer die automatisch je contactenlijst afbelt. Dat maakt een aparte CTI-koppeling overbodig voor outbound salesteams.
 
 **Projectmanagementkoppeling** verbindt gewonnen deals direct met de projectuitvoering. Een nieuwe gewonnen deal in Pipedrive kan automatisch een projecttemplate aanmaken in Asana of Monday. Dit is waardevol voor bureaus en consultancybedrijven waar elke gewonnen opdracht direct een projectstructuur nodig heeft.
 

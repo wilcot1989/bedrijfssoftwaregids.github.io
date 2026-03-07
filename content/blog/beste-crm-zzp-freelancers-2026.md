@@ -331,6 +331,7 @@ Vermijd ook de bekende valkuilen: lees mijn artikel over [CRM-fouten die MKB-bed
 - **Beste voor Notion-gebruikers**: [Notion](https://www.notion.so/) -- flexibel en gratis, mits je bereid bent het zelf in te richten.
 - **Beste voor nul budget**: Google Contacts + Sheets -- de meest basale maar werkbare gratis oplossing.
 - **Beste budget-CRM met AI**: [Freshsales](https://www.freshworks.com/nl/crm/) -- krachtige functies voor een scherpe prijs.
+- **Beste voor telefonische acquisitie**: [Close CRM](https://refer.close.com/p2kcrnz6lksy) -- als je veel belt en mailt is de ingebouwde Power Dialer en e-mail sequences een grote tijdsbesparing. Lees de [Close CRM review](/blog/close-crm-review-2026/).
 
 Mijn advies: start vandaag met het gratis plan van HubSpot of Freshsales. Het kost je niets om te beginnen en je ontdekt snel of een CRM je manier van werken verbetert. En dat doet het vrijwel altijd.
 

@@ -247,6 +247,8 @@ Pipedrive is minder geschikt voor:
 | **Trustpilot** | 4,5/5 | 1,9/5 | 4,2/5 | 1,7/5 |
 | **Beste voor** | Salesteams MKB | Marketing-gedreven MKB | Sales + projecten | Grote ondernemingen |
 
+Heb je een team dat vooral telefonisch acquireert? Bekijk dan ook [Close CRM](/blog/close-crm-review-2026/) -- met ingebouwde Power Dialer, e-mail sequences en SMS is het gebouwd voor inside sales teams die hoog volume draaien.
+
 Zie voor uitgebreidere vergelijkingen: [HubSpot vs Pipedrive](/blog/hubspot-vs-pipedrive-2026/) en [Pipedrive vs Monday CRM](/blog/pipedrive-vs-monday-crm-2026/).
 
 ---

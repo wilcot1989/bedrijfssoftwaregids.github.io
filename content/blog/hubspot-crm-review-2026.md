@@ -326,6 +326,7 @@ Wil je HubSpot naast Pipedrive en Salesforce vergelijken op kosten voor jouw tea
 | Freshsales | Budget-bewuste teams | €9/gebruiker/mnd |
 | Zoho CRM | Alles-in-een op budget | €14/gebruiker/mnd |
 | Monday CRM | Projectmatige verkoop | €12/gebruiker/mnd |
+| [Close CRM](/blog/close-crm-review-2026/) | Outbound sales met hoog belvolume | €35/gebruiker/mnd |
 
 Bekijk ook mijn complete vergelijking van de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/) voor een uitgebreider overzicht. Wil je ook leren hoe je klantretentie kunt meten via je CRM? Lees dan het artikel over [klantretentie meten met CRM software](/blog/klantretentie-meten-crm-software/). En vermijd de meestgemaakte implementatiefouten via het artikel [CRM fouten bij MKB](/blog/crm-fouten-mkb/).
 

@@ -2,7 +2,7 @@
 title: "CRM software voor SaaS startups 2026: Van Trial tot MRR"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "CRM software voor SaaS startups: vergelijk HubSpot, Pipedrive en Salesforce op trial-conversie, churn-preventie en PLG-integratie. Doe de gratis keuzehulp."
+description: "CRM software voor SaaS startups: vergelijk HubSpot, Pipedrive, Close en Salesforce op trial-conversie, churn-preventie en PLG-integratie. Doe de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "images/categories/crm.svg"
@@ -13,7 +13,7 @@ tags:
 
 faq:
   - q: "Welke CRM software is het beste voor een SaaS startup?"
-    a: "In de pre-seed en seed-fase is het gratis HubSpot CRM de beste keuze: royaal gratis plan, marketing- en salestools in één systeem en meegroeibaar naar betaalde plannen. Startups met een actief SDR-team kiezen voor Pipedrive vanwege de visuele pipeline. Zodra je een salesteam van vijf of meer hebt en enterprise-klanten wilt, is Salesforce de volgende stap."
+    a: "In de pre-seed en seed-fase is het gratis HubSpot CRM de beste keuze: royaal gratis plan, marketing- en salestools in één systeem en meegroeibaar naar betaalde plannen. Startups met een outbound SDR-team dat veel belt en mailt kiezen voor Close of Pipedrive. Close is de sterkste keuze als je hoog volume outbound draait — ingebouwde Power Dialer, e-mail sequences en call recording in één interface. Pipedrive is beter als je primair een visuele pipeline wilt. Zodra je een salesteam van vijf of meer hebt en enterprise-klanten wilt, is Salesforce de volgende stap."
   - q: "Wanneer moet een SaaS-startup overstappen van HubSpot naar Salesforce?"
     a: "Pas als je een salesteam van vijf of meer hebt, enterprise-klanten met complexe dealstructuren wil aanpakken, of custom datamodellen nodig hebt voor subscription management. Salesforce Starter begint bij EUR 25 per gebruiker per maand, maar de werkelijke kosten inclusief admin en implementatie liggen hoger. Migreer niet te vroeg."
   - q: "Hoe verwerk ik trial-gebruikers in een CRM als SaaS-bedrijf?"
@@ -77,7 +77,26 @@ Als je een outbound of inside sales team hebt (SDRs, AEs), is Pipedrive de sterk
 
 ---
 
-### 3. Salesforce Starter — Beste voor Series A en verder
+### 3. Close CRM — Beste voor outbound-gedreven SaaS
+
+Close is gebouwd voor inside sales teams die de hele dag bellen, mailen en opvolgen. Als je SDR's hebt die 50+ calls per dag draaien, is Close de sterkste optie in dit overzicht. De ingebouwde Power Dialer, e-mail sequences en SMS zitten allemaal in dezelfde interface — geen losse tools, geen tabblad-hoppen.
+
+**Wat werkt goed voor SaaS:**
+- Power Dialer en Predictive Dialer voor hoog-volume outbound
+- Native e-mail sequences met automatische opvolging
+- Call recording en AI-notities per gesprek
+- Snelle interface: 50% sneller dan veel concurrenten volgens eigen benchmarks
+- Goede API voor koppeling met je product
+
+**Groeipijn:** Geen marketing automation. Voor PLG-bedrijven die inbound willen doen heb je er een aparte tool naast nodig.
+
+**Prijs:** Essentials vanaf €35/user/maand. Growth vanaf €99/user/maand.
+
+<a href="https://refer.close.com/p2kcrnz6lksy" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Close CRM →</a>
+
+---
+
+### 4. Salesforce Starter — Beste voor Series A en verder
 
 Salesforce Starter (vroeger Essentials) is het instappunt van het meest krachtige CRM-platform ter wereld. Voor een startup klinkt Salesforce zwaar — en dat is het ook — maar zodra je een sales team van 5+ hebt en enterprise klanten wilt winnen, is het de logische volgende stap.
 
@@ -100,14 +119,14 @@ Salesforce Starter (vroeger Essentials) is het instappunt van het meest krachtig
 | Fase | MRR | Aanbeveling | Reden |
 |------|-----|------------|-------|
 | Pre-seed | €0–€10k | **HubSpot (gratis)** | Geen budget, alles-in-één |
-| Seed | €10k–€50k | **HubSpot Starter** of **Pipedrive** | Afhankelijk van PLG vs. sales-led |
+| Seed | €10k–€50k | **HubSpot Starter**, **Pipedrive** of **Close** | PLG → HubSpot, outbound → Close of Pipedrive |
 | Series A | €50k–€500k | **HubSpot Pro** of **Salesforce** | Serieuze pipeline-forecasting |
 | Series B+ | €500k+ | **Salesforce** | Schaal, custom, enterprise |
 
 ## Mijn advies
 
 - **PLG-model (product-led growth):** HubSpot — de marketing + product integratie is sterker.
-- **Sales-led model (outbound, SDR-team):** Pipedrive voor de pipeline-efficiëntie.
+- **Sales-led model (outbound, SDR-team):** Close als je veel belt en mailt, Pipedrive als je een visuele pipeline wilt.
 - **Enterprise SaaS, grote deals:** Salesforce zodra je de implementatiecapaciteit hebt.
 
 Nog onzeker? Gebruik de [CRM keuzehulp voor SaaS-startups](/tools/crm/keuzehulp/) om op basis van jouw groeifase en model een aanbeveling te krijgen. Bereken ook de [maandelijkse CRM kosten per teamlid](/tools/crm/kosten-berekenen/) en de [verwachte ROI van jouw CRM](/tools/crm/roi-berekenen/) voordat je een keuze maakt.
@@ -134,3 +153,4 @@ Naast CRM en HR hoort ook een solide financiële administratie bij een serieuze 
 - **[HubSpot vs Pipedrive 2026](/blog/hubspot-vs-pipedrive-2026/)** — Directe vergelijking
 - **[HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/)** — Diepgaande beoordeling
 - **[CRM voor consultants](/sectoren/crm/crm-voor-consultants/)** — Adviesgerichte sector
+- **[Close CRM review 2026](/blog/close-crm-review-2026/)** — Review van het sales-CRM voor SDR-teams
