@@ -6,6 +6,7 @@ description: "CRM software voor makelaars: vergelijk HubSpot, Pipedrive en Realw
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "images/categories/crm.svg"
+canonical: "https://bedrijfssoftwaregids.nl/blog/crm-voor-makelaars-2026/"
 
 tags:
   - crm

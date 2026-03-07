@@ -2,7 +2,6 @@
 title: "Privacybeleid"
 description: "Privacybeleid van Bedrijfssoftwaregids"
 layout: "single"
-noindex: true
 ---
 
 ## Privacybeleid

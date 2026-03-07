@@ -2,7 +2,7 @@
 title: "Shopify Review 2026: De Beste Webshop voor Nederland?"
 date: 2026-03-06
 lastmod: 2026-03-06
-description: "Shopify review 2026: eerlijke ervaringen met prijzen, functies, transactiekosten en nadelen. Is Shopify de beste webshop software voor Nederlandse ondernemers?"
+description: "Shopify review 2026: eerlijke ervaringen met prijzen, functies en transactiekosten. Is Shopify de beste webshop software voor Nederland?"
 categories: ["webshops"]
 tags:
   - webshop

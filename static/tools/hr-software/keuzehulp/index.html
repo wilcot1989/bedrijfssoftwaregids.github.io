@@ -42,6 +42,31 @@
     .hamburger{display:none;background:none;border:none;color:#fff;font-size:1.5rem;cursor:pointer;padding:.25rem;line-height:1}
     @media(max-width:900px){.hamburger{display:block}.header-utility{display:none}.main-nav{display:none;padding:.75rem 0}.main-nav.open{display:block}.main-nav a{display:block;margin:0;padding:.6rem 0;border-bottom:1px solid rgba(255,255,255,.08);border-left:none}.main-nav a:last-child{border-bottom:none}.mobile-utility{display:block;padding:.6rem 0;border-top:1px solid rgba(255,255,255,.08);margin-top:.25rem}.mobile-utility a{color:rgba(255,255,255,.7);font-size:.88rem;text-decoration:none}}
   </style>
+<!-- Google Analytics loads only after explicit consent -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied'
+  });
+  function loadAnalytics(){
+    if(window.__analyticsLoaded) return;
+    window.__analyticsLoaded = true;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-WJQPSWJT3E';
+    document.head.appendChild(s);
+    gtag('js', new Date());
+    gtag('config', 'G-WJQPSWJT3E');
+    gtag('consent','update',{'analytics_storage':'granted'});
+  }
+  if(localStorage.getItem('cookie-consent')==='true'){
+    loadAnalytics();
+  }
+</script>
 </head>
 <body>
   <header class="site-header">

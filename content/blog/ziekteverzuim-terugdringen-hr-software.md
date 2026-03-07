@@ -2,7 +2,7 @@
 title: "Ziekteverzuim terugdringen: wat kan HR-software doen?"
 date: 2026-04-17
 lastmod: 2026-04-17
-description: "Hoe helpt HR-software bij het terugdringen van ziekteverzuim? Signalering, Wet Poortwachter compliance en verzuimpatronen herkennen. Bespaar duizenden euro's."
+description: "Hoe helpt HR-software bij het terugdringen van ziekteverzuim? Signalering, Wet Poortwachter compliance en verzuimpatronen herkennen."
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/hr-software.svg"

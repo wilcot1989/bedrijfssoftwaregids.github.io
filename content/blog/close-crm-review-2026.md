@@ -2,7 +2,7 @@
 title: "Close CRM Review 2026: Het Beste Sales-CRM voor Inside Sales?"
 date: 2026-04-08
 lastmod: 2026-04-08
-description: "Close CRM review 2026: eerlijke test van het sales-CRM met ingebouwde telefonie, e-mail en SMS. Functies, prijzen, Trustpilot-score en vergelijking met Pipedrive."
+description: "Close CRM review 2026: eerlijke test van het sales-CRM met ingebouwde telefonie en e-mail. Functies, prijzen en vergelijking met Pipedrive."
 categories: ["crm"]
 tags:
   - crm

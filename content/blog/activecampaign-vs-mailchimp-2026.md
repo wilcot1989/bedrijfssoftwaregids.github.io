@@ -2,7 +2,7 @@
 title: "ActiveCampaign vs Mailchimp 2026: Welke Email Marketing Tool Kies Je?"
 date: 2026-06-21
 lastmod: 2026-06-21
-description: "ActiveCampaign vs Mailchimp eerlijk vergeleken op prijs, automatisering, deliverability en gebruiksgemak. Ontdek welke email marketing tool bij jouw bedrijf past in 2026."
+description: "ActiveCampaign vs Mailchimp vergeleken op prijs, automatisering en deliverability. Welke email marketing tool past bij jouw bedrijf?"
 categories:
   - marketing
 tags:
