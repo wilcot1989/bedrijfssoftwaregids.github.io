@@ -585,7 +585,7 @@
     "payments": true,
     "pos_sync": false,
     "integrations": ["Mollie", "Stripe", "Sendcloud", "Exact"],
-    "affiliate": { "type": "link", "url": "https://woocommerce.com/" },
+    "affiliate": { "type": "link", "url": "https://automattic.pxf.io/c/7037268/1946431/22744" },
     "cost": { "model": "webshop_tx_cost", "base": 0, "tx_fee_pct": 1.8 }
   },
   {
