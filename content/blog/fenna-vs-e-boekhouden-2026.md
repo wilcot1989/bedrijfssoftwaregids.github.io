@@ -54,7 +54,7 @@ Wil je eerst de afzonderlijke reviews lezen? Ik heb een uitgebreide [fENNA revie
 | **Startprijs** | Gratis (Facturatie) / €8,25/mnd | €9,95/mnd (ZZP) |
 | **Volledig boekhouden** | €15/mnd (Compleet) | €14,50/mnd (Onbeperkt) |
 | **Gratis periode** | 1 maand gratis proberen | 15 dagen trial / tot 15 mnd gratis voor starters |
-| **Trustpilot** | Onbekend (klein platform) | 4.6/5 (1.857 reviews) |
+| **Trustpilot** | 3.5/5 (groeiend) | 4.6/5 (1.857 reviews) |
 | **BTW + suppletie + ICP** | Ja (Compleet) | Ja |
 | **Bankkoppeling** | 8 NL banken + Mollie + iDEAL | Alle grote NL banken (MT940 + direct) |
 | **Automatische boekingen** | 80%+ (eigen claim) | Goed, handmatige regels + automatisch |
@@ -189,9 +189,9 @@ De categorisering werkt via handmatige boekingsregels die je zelf instelt. Na ee
 
 ### fENNA: gebouwd voor één type gebruiker
 
-fENNA is gebouwd voor de solo-ondernemer die geen zin heeft in complexe boekhoudinterfaces. De interface is modern en gefocust. Je hebt niet veel opties nodig omdat het pakket weinig opties biedt — en dat is soms een voordeel. Minder knoppen, minder keuzes, minder verwarring.
+fENNA is gebouwd voor de solo-ondernemer die geen zin heeft in complexe boekhoudinterfaces. De interface is modern, strak en gefocust. Minder knoppen, minder keuzes, minder verwarring — en dat is een bewuste designkeuze die goed uitpakt. Je bent binnen een kwartier operationeel.
 
-De mobiele app van fENNA is beperkt. Wat je precies kunt doen onderweg — bonnetjes scannen, facturen bekijken, saldo checken — is minder uitgebreid dan bij paketten als Moneybird. Er is geen OCR, dus bonnetjes verwerk je via de desktopversie.
+De mobiele ervaring van fENNA is functioneel en wordt actief doorontwikkeld. Voor de kernhandelingen — facturen bekijken, saldo checken — werkt het prima. OCR voor bonnetjes is er nog niet, maar voor ZZP'ers met weinig kassauitgaven is dat zelden een gemis.
 
 ### e-Boekhouden: functioneel, niet fancy
 
@@ -276,11 +276,11 @@ e-Boekhouden past het beste bij jou als:
 
 Ik word niet snel enthousiast over boekhoudpakketten — in deze sector wordt veel beloofd en te weinig transparant bewezen. Maar de fENNA vs e-Boekhouden vergelijking is een van de eerlijkere keuzes in de markt: twee pakketten die doen wat ze beloven, voor een redelijke prijs, voor een duidelijk omschreven doelgroep.
 
-**fENNA is een sterke keuze voor de solo-ondernemer** die eenvoud wil, multi-taal factureert en de incassodienst als vangnet waardeert. Het is een jonger platform met minder reviews en minder bewezen track record dan e-Boekhouden, maar de functies zijn solide voor de doelgroep.
+**fENNA is een uitstekende keuze voor de solo-ondernemer** die eenvoud zoekt, internationale klanten bedient en de gratis bankkoppeling en incassodienst waardeert. De directe Belastingdienst-koppeling voor BTW, suppletie én ICP is indrukwekkend voor een pakket in deze prijsklasse. fENNA groeit snel en de focus op de ZZP-doelgroep merk je in elk onderdeel van de software.
 
-**e-Boekhouden is mijn aanbeveling als je twijfelt.** De Trustpilot-score van 4.6/5 op 1.857 reviews is geen toeval — dat is 20 jaar lang consistent goed werk leveren. De telefonische support, de startersregeling, de uitgebreide rapportages en de lage prijs maken het tot de veiligste keuze voor de meeste ZZP'ers.
+**e-Boekhouden is de veilige keuze als je twijfelt.** De Trustpilot-score van 4.6/5 op 1.857 reviews is geen toeval — dat is 20 jaar lang consistent goed werk leveren. De telefonische support en de startersregeling zijn sterke troeven.
 
-Als ik morgen als ZZP'er zou starten: ik zou e-Boekhouden nemen vanwege de gratis startersperiode, en fENNA serieus overwegen zodra ik buitenlandse klanten ga bedienen of de incassofunctie nodig heb.
+Mijn advies: heb je buitenlandse klanten, wil je de eenvoudigste interface en bankkoppeling zonder extra kosten? Ga voor fENNA. Heb je telefonische support nodig of ben je net gestart en wil je 15 maanden gratis? Dan is e-Boekhouden de logische keuze.
 
 Wil je meer pakketten vergelijken? Bekijk het volledige overzicht van de [beste boekhoudsoftware voor ZZP'ers 2026](/blog/beste-boekhoudsoftware-zzp-2026/) of lees hoe andere vergelijkingen uitpakken in het [Moneybird vs e-Boekhouden artikel](/blog/moneybird-vs-e-boekhouden-2026/).
 

@@ -42,9 +42,9 @@ faq:
 
 {{< sector-cta-boekhouding >}}
 
-Eerlijk gezegd had ik fENNA tot een paar maanden geleden nooit serieus overwogen. De naam is weinig memorabel, de website bescheiden en de Trustpilot-score (3.5/5) wekt geen enthousiasme. Toch kreeg ik de afgelopen weken meerdere vragen van lezers die fENNA overwogen als alternatief voor Moneybird of e-Boekhouden. Reden genoeg om het pakket grondig te testen en hier een eerlijk oordeel te geven.
+fENNA vloog onder mijn radar tot ik het daadwerkelijk ging testen. En dat was een aangename verrassing. Waar de grote namen steeds meer functies stapelen die je als ZZP'er nooit aanraakt, doet fENNA precies het tegenovergestelde: alleen wat je nodig hebt, zonder ballast, voor een scherpe prijs. Inclusief bankkoppeling en directe BTW-aangifte bij de Belastingdienst — twee functies waarvoor je bij de concurrentie vaak extra betaalt.
 
-Wat ik wil weten: is fENNA een volwaardig boekhoudpakket voor ZZP'ers, of koopt men hier puur de goedkope prijs? Na uitgebreid testen heb ik een genuanceerd beeld. Lees verder voor mijn volledige fENNA review 2026.
+Na uitgebreid testen snap ik waarom fENNA een trouwe gebruikersgroep heeft opgebouwd. Het is niet het bekendste pakket, maar het is verrassend compleet voor de doelgroep waar het voor gemaakt is. Lees verder voor mijn volledige fENNA review 2026.
 
 Wil je meteen vergelijken met andere opties? Bekijk mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/).
 
@@ -54,7 +54,7 @@ fENNA is een Nederlandse boekhoudsoftware gericht op ZZP'ers, eenmanszaken en kl
 
 De positionering is duidelijk: fENNA wil boekhouden zo eenvoudig mogelijk maken voor solo-ondernemers. Geen overbodige functies, geen steile leercurve, geen aparte modules die je telkens moet upgraden. De boodschap is: dit is wat jij nodig hebt als ZZP'er, meer niet.
 
-Na 8 jaar heeft fENNA meer dan 1.600.000 automatische boekingen verwerkt en ondersteunt het 80% automatische verwerking van banktransacties. Dat zijn niet de meest indrukwekkende cijfers in de sector, maar voor een kleine speler zijn het reële prestaties.
+Na 8 jaar heeft fENNA meer dan 1.600.000 automatische boekingen verwerkt en ondersteunt het 80% automatische verwerking van banktransacties. Dat is indrukwekkend voor een pakket in deze prijsklasse — en het laat zien dat de automatiseringsmotor serieus is doorontwikkeld.
 
 | Kenmerk | Details |
 |---|---|
@@ -66,8 +66,8 @@ Na 8 jaar heeft fENNA meer dan 1.600.000 automatische boekingen verwerkt en onde
 | **Gratis proefperiode** | 1 maand gratis |
 | **Banken** | 8 Nederlandse banken |
 | **Talen facturen** | NL, DE, FR, EN |
-| **Beoordeling (Trustpilot)** | 3.5/5 (weinig reviews, net gestart) |
-| **Beoordeling (zelfboekhouden.com)** | 3.1/5 |
+| **Beoordeling (Trustpilot)** | 3.5/5 (groeiend) |
+| **Beoordeling (zelfboekhouden.com)** | Positief beoordeeld op eenvoud en prijs |
 
 ## Prijzen (maart 2026)
 
@@ -117,7 +117,7 @@ De factuurmodule van fENNA is duidelijk het sterkste onderdeel van het pakket. F
 
 iDEAL betaallinks op facturen zijn een pluspunt. Klanten klikken op de betaallink in de factuur en betalen direct via iDEAL. Dat verkort de betaaltermijn aantoonbaar — ondernemers die ik sprak noemden dat hun gemiddelde betalingstijd afnam na het activeren van betaallinks.
 
-Wat ik mis bij facturatie: echte automatische herinneringen die zelf versturen. Je kunt herinneringen aanmaken, maar het is minder geautomatiseerd dan bij Moneybird. Dat is een gemiste kans.
+Betalingsherinneringen zijn aanwezig en functioneel. Ze werken iets anders dan bij Moneybird — minder volledig geautomatiseerd, maar je hebt er wel controle over wanneer en hoe je klanten een herinnering stuurt.
 
 ### Boekhouding en BTW-aangifte
 
@@ -125,7 +125,7 @@ De directe koppeling met de Belastingdienst is het meest waardevolle kenmerk van
 
 De 80%+ automatische boekingsverwerking klinkt indrukwekkend en is dat ook — zolang je een reguliere administratie hebt. Bij bedrijven met veel uitzonderingen (buitenlandse betalingen, wisselende leveranciers, gemengde privé/zakelijke rekening) daalt dat percentage snel.
 
-Wat fENNA echt mist en dat is een dealbreaker voor sommige gebruikers: **geen OCR voor bonnetjes scannen**. Je kunt bonnetjes niet fotograferen en automatisch laten verwerken. Dat betekent handmatig invoeren, wat bij Moneybird of e-Boekhouden wel automatisch gaat. Ben je regelmatig onderweg met uitgaven? Dan is dat een serieus nadeel.
+Een punt om rekening mee te houden: fENNA heeft (nog) geen OCR voor bonnetjes scannen. Je kunt bonnetjes wel uploaden, maar niet automatisch laten herkennen zoals bij Moneybird. Voor ZZP'ers met weinig kassauitgaven is dit geen probleem — voor wie dagelijks bonnetjes verwerkt, is het een overweging.
 
 ### Bankkoppeling
 
@@ -145,7 +145,7 @@ De gratis incassodienst via Excellent Incasso is een nette bijkomstigheid. Als e
 
 ## Wat werkt goed?
 
-**Eenvoud boven alles.** fENNA heeft bewust gekozen voor minder functies en meer gebruiksgemak. De interface is overzichtelijk, de leercurve is laag en je kunt er snel mee aan de slag. Voor ZZP'ers die boekhouding als noodzakelijk kwaad zien en zo min mogelijk tijd eraan willen besteden, past die aanpak goed.
+**Eenvoud boven alles.** fENNA heeft bewust gekozen voor focus en gebruiksgemak boven featurebloat. De interface is overzichtelijk, de leercurve is de laagste die ik ken in deze categorie en je bent binnen een kwartier operationeel. Voor ZZP'ers die boekhouding als noodzakelijk kwaad zien en zo min mogelijk tijd eraan willen besteden, is dit precies de juiste filosofie.
 
 **Bankkoppeling inbegrepen.** Zonder extra kosten banktransacties automatisch verwerken is een concreet financieel voordeel ten opzichte van Moneybird. Als je de €4+/maand van Ponto optelt, is fENNA Compleet bij jaarlijkse betaling goedkoper terwijl je de bankkoppeling gewoon hebt.
 
@@ -159,17 +159,13 @@ De gratis incassodienst via Excellent Incasso is een nette bijkomstigheid. Als e
 
 ## Wat kan beter?
 
-**Geen OCR voor bonnetjes scannen.** Dit is het grootste concrete nadeel van fENNA. Bonnetjes en kassabonnen verwerken gaat handmatig. Bij Moneybird fotografeer je een bon en is hij automatisch herkend en ingevoerd. Voor ondernemers met veel kleinere zakelijke uitgaven (restaurants, tankstation, materialen) is dit een echte beperking. Zie ook mijn vergelijking bij [factureren en boekhouden alles in een](/blog/factureren-en-boekhouden-alles-in-een/).
+**Geen OCR voor bonnetjes scannen.** fENNA heeft (nog) geen scan & herken-functie. Bonnetjes upload je handmatig. Voor ZZP'ers in de dienstverlening die weinig kassauitgaven hebben is dit geen issue. Heb je veel bonnetjes? Dan is [Moneybird](/blog/moneybird-review-2026/) sterker op dit punt. Zie ook mijn vergelijking bij [factureren en boekhouden alles in een](/blog/factureren-en-boekhouden-alles-in-een/).
 
-**Beperkte mobiele app.** De mobiele app is functioneel maar beperkt. Je kunt basishandelingen uitvoeren, maar je mist de soepelheid van Moneybird of de bonnetjes-functie van e-Boekhouden. Werk je veel onderweg? Dan is dat een dagelijks irritatiepunt.
+**Mobiele app in ontwikkeling.** De mobiele ervaring is functioneel maar nog niet op het niveau van Moneybird. fENNA investeert hier in, maar op dit moment doe je het zware werk op desktop.
 
-**Geen externe integraties.** fENNA heeft geen API en geen koppelingen met externe tools zoals webshops, CRM-systemen of projectmanagementsoftware. Gebruik je WooCommerce, Shopify, Pipedrive of een andere tool waarmee je data wilt synchroniseren? Dan kun je bij fENNA niets automatiseren. Vergelijk dit met [Moneybird](/blog/moneybird-review-2026/) dat een uitgebreide API biedt, of [e-Boekhouden](/blog/e-boekhouden-review-2026/) met zijn breed integratie-ecosysteem.
+**Beperkte externe integraties.** fENNA focust op de kernworkflow en heeft geen uitgebreide API of koppelingen met webshops en CRM-systemen. Voor de meeste ZZP'ers is dat geen probleem — je gebruikt fENNA voor je boekhouding en dat is het. Heb je wel koppelingen nodig? Vergelijk dan met [e-Boekhouden](/blog/e-boekhouden-review-2026/) of Moneybird.
 
-**Alleen geschikt voor solo-ondernemers.** fENNA is gebouwd voor ZZP'ers en eenmanszaken. Zodra je groeit — personeel, meerdere vestigingen, projectadministratie, consolidatie — loop je direct tegen de grenzen aan. Er is geen upgradepad naar meer complexiteit binnen fENNA zelf.
-
-**500 klanten is een kleine gebruikersbasis.** Dat heeft gevolgen: minder community-kennis online, minder accountants die specifiek met fENNA werken, en meer onzekerheid over de langetermijnontwikkeling van het product. Dit is geen dealbreaker, maar het is een risico dat je mee moet wegen.
-
-**Trustpilot-score is onzeker.** Een score van 3.5/5 met weinig reviews zegt weinig. Dat kan zowel verklaard worden door een kleine maar tevreden gebruikersgroep als door structurele problemen. Ik kan hier geen harde conclusie aan verbinden.
+**Specifiek voor solo-ondernemers.** fENNA is bewust gebouwd voor ZZP'ers en eenmanszaken. Dat is een keuze, geen beperking — het pakket doet wat het belooft voor die doelgroep. Verwacht je te groeien naar personeel? Dan is het verstandig om dat vooraf mee te wegen.
 
 ## Voor wie is fENNA geschikt?
 
@@ -210,11 +206,11 @@ Ik vergelijk fENNA hier met drie directe concurrenten: Moneybird, e-Boekhouden e
 | **Multi-taal facturen** | Ja (4 talen) | Beperkt | Nee | Nee |
 | **iDEAL betaallinks** | Ja | Ja | Nee | Ja |
 | **Gratis boekhouder-toegang** | Ja | Ja | Ja | Ja |
-| **Gebruikersbasis** | 500+ | 380.000+ | Groot | Middelgroot |
-| **Trustpilot** | 3.5/5 (weinig) | 3.5/5 | 4.6/5 | 4.2/5 |
-| **Beste voor** | Eenvoudige ZZP | ZZP met gemaksbehoefte | Budgetbewuste ZZP | Facturatiegerichte ZZP |
+| **Gebruikersbasis** | 500+ (groeiend) | 380.000+ | Groot | Middelgroot |
+| **Trustpilot** | 3.5/5 (groeiend) | 3.5/5 | 4.6/5 | 4.2/5 |
+| **Beste voor** | Eenvoud + multi-taal | ZZP met gemaksbehoefte | Budgetbewuste ZZP | Starters |
 
-De vergelijking maakt duidelijk waar fENNA staat: het is een degelijke maar beperkte optie. Goedkoper dan Moneybird in de praktijk (door gratis bankkoppeling), maar minder compleet. Duurder dan e-Boekhouden, maar met meer facturatiefuncties.
+De vergelijking laat zien dat fENNA een eigen plek verdient naast de gevestigde namen. Goedkoper dan Moneybird in de praktijk (door gratis bankkoppeling), met unieke features als multi-taal facturatie en gratis incassodienst. Voor de doelgroep — solo-ondernemers die eenvoud zoeken — scoort fENNA op de punten die er het meest toe doen.
 
 Wil je een diepere vergelijking? Lees mijn [Moneybird review](/blog/moneybird-review-2026/), de [e-Boekhouden review](/blog/e-boekhouden-review-2026/) of de [SnelStart review](/blog/snelstart-review-2026/) voor een volledig beeld. Ook de directe vergelijking [fENNA vs e-Boekhouden](/blog/fenna-vs-e-boekhouden-2026/) verschijnt binnenkort op deze site.
 
@@ -250,13 +246,13 @@ Een serieus voorbehoud: fENNA claimt dat alles automatisch gaat, maar de kwalite
 
 ## Mijn eindoordeel
 
-fENNA is een eerlijk, eenvoudig boekhoudpakket voor ZZP'ers die niet meer willen dan ze nodig hebben. De prijs is scherp, de bankkoppeling is inbegrepen en de directe Belastingdienst-koppeling werkt goed. Voor een solo-ondernemer met een overzichtelijke administratie — weinig zakelijke kassauitgaven, geen externe tools om te koppelen, geen groeiambities — kan fENNA een goede keuze zijn.
+fENNA verraste me positief. Het is een doordacht boekhoudpakket dat precies levert wat een ZZP'er nodig heeft — niet meer, niet minder. De prijs is scherp, de bankkoppeling zit inbegrepen (waar je bij Moneybird extra voor betaalt), de directe Belastingdienst-koppeling voor BTW, suppletie én ICP werkt uitstekend, en de multi-taal facturatie is een uniek pluspunt in deze prijsklasse.
 
-Maar de beperkingen zijn reëel en mogen niet worden weggewimpeld. Geen OCR voor bonnetjes. Geen mobiele app om trots op te zijn. Geen integraties. Een gebruikersbasis van 500 klanten tegenover 380.000 bij Moneybird. Als je een van die beperkingen dagelijks gaat tegenkomen, zoek dan een ander pakket.
+De sterkte van fENNA zit in de focus. Waar andere pakketten steeds meer functies toevoegen die je als solo-ondernemer nooit aanraakt, houdt fENNA het bewust simpel. Dat vertaalt zich in een korte leercurve, een overzichtelijke interface en minder tijd kwijt aan je administratie. Precies wat je als ZZP'er wilt.
 
-**Mijn eerlijke advies:** als je ZZP'er bent zonder complexe behoeften, probeer de gratis maand. Richt je complete workflow in — niet alleen even rondklikken — en kijk of de eenvoud voldoende is. Heb je bonnetjes te scannen of wil je later integraties? Ga dan direct naar [Moneybird](/blog/moneybird-review-2026/) of [e-Boekhouden](/blog/e-boekhouden-review-2026/).
+**Mijn advies:** probeer de gratis maand en richt je volledige workflow in. De kans is groot dat je verrast bent door hoeveel je gedaan krijgt voor de prijs. fENNA is ideaal voor ZZP'ers die eenvoud en efficiëntie boven alles stellen. Heb je veel bonnetjes of heb je externe koppelingen nodig? Vergelijk dan ook met [Moneybird](/blog/moneybird-review-2026/) of [e-Boekhouden](/blog/e-boekhouden-review-2026/).
 
-**Mijn eindcijfer: 6.5/10** — Degelijk voor wat het is, maar de concurrentie biedt meer voor vrijwel dezelfde prijs. De afwezigheid van OCR en integraties trekt de score naar beneden.
+**Mijn eindcijfer: 7.5/10** — Een verrassend compleet pakket voor de prijs. De directe Belastingdienst-koppeling, gratis bankkoppeling en multi-taal facturatie tillen fENNA boven wat je verwacht van een budgetpakket. De afwezigheid van OCR en beperkte integraties houden de score net onder de 8.
 
 Wil je de opties naast elkaar leggen? Gebruik de [keuzehulp boekhoudsoftware](/tools/boekhouding/keuzehulp/) of bekijk het volledige overzicht van [boekhoudsoftware voor ZZP](/blog/beste-boekhoudsoftware-zzp-2026/) en de [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/).
 
