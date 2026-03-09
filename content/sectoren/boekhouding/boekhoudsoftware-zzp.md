@@ -15,7 +15,7 @@ faq:
   - q: "Wat is de beste boekhoudsoftware voor ZZP'ers in 2026?"
     a: "Moneybird is de beste allrounder voor ZZP'ers die zelf hun boekhouding bijhouden: overzichtelijke interface, directe bankkoppeling en BTW-aangifte rechtstreeks naar de Belastingdienst. Jortt is de eenvoudigste optie voor minimale administratie. e-Boekhouden.nl is de beste keuze als je een externe boekhouder hebt die het systeem al kent."
   - q: "Wat kost boekhoudsoftware voor een ZZP'er per maand?"
-    a: "Jortt is de goedkoopste optie vanaf EUR 8 per maand. e-Boekhouden.nl kost EUR 8,95 per maand voor de Starter-versie. Moneybird Starter kost EUR 15 per maand en het Growth-plan EUR 28 per maand. Alle drie bieden een gratis proefperiode aan."
+    a: "Jortt biedt een gratis basisversie; het betaalde Compleet-plan kost EUR 19,95 per maand. e-Boekhouden.nl kost EUR 9,95 per maand voor het ZZP-pakket. Moneybird Starter kost EUR 15 per maand en het Growth-plan EUR 28 per maand. Alle drie bieden een gratis proefperiode aan."
   - q: "Kan ik als ZZP'er zelf mijn BTW-aangifte doen via boekhoudsoftware?"
     a: "Ja. Moneybird dient de BTW-aangifte rechtstreeks in via een koppeling met de Belastingdienst. Jortt berekent de BTW automatisch op basis van je transacties en zorgt ervoor dat je aangifte altijd klaarstaat. Bij e-Boekhouden.nl bereid je de aangifte voor in het systeem en dien je die in via de Belastingdienstportaal."
   - q: "Welke boekhoudsoftware koppelt met mijn bank als ZZP'er?"
@@ -79,7 +79,7 @@ Jortt is ontworpen voor ZZP'ers die zo min mogelijk tijd aan hun boekhouding wil
 
 **Wat ontbreekt:** Beperkte rapportagemogelijkheden; geen offertemodule in het goedkoopste plan.
 
-**Prijs:** Basis: EUR 8 per maand. Compleet: EUR 14 per maand.
+**Prijs:** Gratis basisversie (zonder bankkoppeling). Compleet: EUR 19,95 per maand (inclusief bankkoppeling en BTW-aangifte).
 
 <a href="https://www.jortt.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Jortt</a>
 
@@ -99,7 +99,7 @@ e-Boekhouden.nl is al meer dan twintig jaar een vaste naam in de Nederlandse mar
 
 **Wat ontbreekt:** De interface voelt gedateerder aan dan Moneybird of Jortt; minder intuatief voor niet-boekhoudkundige gebruikers.
 
-**Prijs:** Starter: EUR 8,95 per maand. Zakelijk: EUR 12,95 per maand.
+**Prijs:** ZZP-pakket: EUR 9,95 per maand. Onbeperkt boekhouden: EUR 14,50 per maand.
 
 <a href="https://www.e-boekhouden.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk e-Boekhouden.nl</a>
 
@@ -110,8 +110,8 @@ e-Boekhouden.nl is al meer dan twintig jaar een vaste naam in de Nederlandse mar
 | Software | Prijs per maand | Bankkoppeling | BTW-aangifte | Offertes | Mobiele app |
 |----------|----------------|--------------|-------------|---------|------------|
 | Moneybird | EUR 15 | Ja | Direct | Ja | Ja |
-| Jortt | EUR 8 | Ja | Automatisch | Beperkt | Ja |
-| e-Boekhouden.nl | EUR 8,95 | Ja | Ja | Ja | Beperkt |
+| Jortt | EUR 19,95 | Ja | Automatisch | Beperkt | Ja |
+| e-Boekhouden.nl | EUR 9,95 | Ja | Ja | Ja | Beperkt |
 
 ## Mijn advies
 
@@ -140,6 +140,8 @@ Als je overweegt voor het eerst iemand in dienst te nemen, is het goed om je te 
 ## Lees ook
 
 - **[Beste boekhoudsoftware ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/)** -- Uitgebreide vergelijking voor zelfstandigen
+- **[fENNA review 2026](/blog/fenna-review-2026/)** -- Eerlijk oordeel over het budgetvriendelijke boekhoudpakket
+- **[fENNA vs e-Boekhouden 2026](/blog/fenna-vs-e-boekhouden-2026/)** -- Directe vergelijking van twee betaalbare opties
 - **[Boekhoudsoftware voor freelancers](/sectoren/boekhouding/boekhoudsoftware-freelancers/)** -- Specifiek voor projectgebaseerd werk
 - **[Boekhoudsoftware voor eenmanszaak](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/)** -- Als je groeiplannen hebt
 - **[Alle boekhoudsoftware vergelijken](/categories/boekhouding/)** -- Compleet overzicht

@@ -150,6 +150,18 @@
     "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 5, "price": 15 }, { "up_to": 50, "price": 30 }, { "up_to": 500, "price": 55 }] }
   },
   {
+    "id": "fenna",
+    "name": "fENNA",
+    "categories": ["boekhouding"],
+    "pricing_band": "<€20",
+    "nl_support": true,
+    "vat": true,
+    "payroll": false,
+    "bank_sync": false,
+    "affiliate": { "type": "link", "url": "https://www.fenna.nl/" },
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 0 }, { "up_to": 3, "price": 8.25 }, { "up_to": 10, "price": 15.00 }] }
+  },
+  {
     "id": "informeronline",
     "name": "InformerOnline",
     "categories": ["boekhouding"],

@@ -79,7 +79,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 | Product | Vanaf | Trustpilot | Beste voor |
 |---|---|---|---|
 | **Jortt** | Gratis | 4.7/5 | Starters & eenvoudige admin |
-| **SnelStart** | Gratis | 3.9/5 | ZZP/MKB met gratis plan & Nederlandse focus |
+| **SnelStart** | Gratis | 4.6/5 | ZZP/MKB met gratis plan & Nederlandse focus |
 | **e-Boekhouden.nl** | €9,95/mnd | 4.6/5 | Prijs-kwaliteit & telefonische support |
 | **Moneybird** | €15/mnd | 3.5/5 | Gebruiksgemak & freelancers |
 | **InformerOnline** | €15/mnd | 4.3/5 | Samenwerking met boekhouder |
@@ -97,7 +97,7 @@ Voordat ik elk pakket apart bespreek, eerst het overzicht waar het om draait —
 | **Moneybird** | €15/mnd (20 transacties) | €28/mnd (50 transacties) | Ja (max 3 facturen/mnd) | Ja | Ja | 3.5/5 (180) |
 | **Exact Online** | €49/mnd (Essentials) | €99/mnd (Plus) | Nee (30 dagen trial) | Ja | Ja | 2.6/5 (641) |
 | **e-Boekhouden.nl** | €9,95/mnd (240 boekingen) | €14,50/mnd (onbeperkt) | Nee (15 mnd gratis voor starters) | Ja | Ja | 4.6/5 (1.857) |
-| **SnelStart** | €16/mnd | €22/mnd (Web Compleet Plus) | Ja (gratis basisplan) | Ja | Ja | 3.9/5 |
+| **SnelStart** | €16/mnd | €22/mnd (Web Compleet Plus) | Ja (gratis basisplan) | Ja | Ja | 4.6/5 |
 | **FreshBooks** | $19/mnd (±€17,50, 5 klanten) | $33/mnd (±€30, 50 klanten) | Nee (30 dagen trial) | Beperkt | Beperkt | 3.9/5 (984) |
 | **InformerOnline** | €15/mnd (Starter) | €23/mnd (Professional) | Nee (30 dagen trial) | Ja | Ja | 4.3/5 (113) |
 | **Jortt** | Gratis (basis) | €19,95/mnd (ZZP) | Ja | Ja | Ja (betaald) | 4.7/5 (185) |
@@ -296,9 +296,8 @@ Te beperkt voor serieuze administraties. De gratis versie heeft geen bankkoppeli
 ### Prijzen (februari 2026)
 
 - **Gratis**: Basisfuncties (handmatig bankieren)
-- **ZZP**: €19,95/maand (inclusief bankkoppeling)
-- **MKB**: €24,95/maand
-- **Plus**: €34,95/maand (extra rapportages en functies)
+- **Compleet**: €19,95/maand (inclusief bankkoppeling en BTW-aangifte)
+- **Groei**: €24,95/maand (extra rapportages en meerdere gebruikers)
 
 Voor €19,95/maand heb je alles wat een startende ZZP'er nodig heeft, inclusief bankkoppeling en BTW-aangifte.
 
@@ -435,6 +434,8 @@ Twijfel je nog? Gebruik de gratis tools:
 - [Twinfield vs Moneybird 2026](/blog/twinfield-vs-moneybird-2026/) — directe vergelijking van twee populaire pakketten
 - [Twinfield review 2026](/blog/twinfield-review-2026/) — uitgebreide beoordeling van Twinfield voor accountants en MKB
 - [Beste software voor accountants 2026](/blog/beste-software-accountants-2026/) — software vanuit het perspectief van je boekhouder
+- [fENNA review 2026](/blog/fenna-review-2026/) — eerlijk oordeel over het budgetvriendelijke boekhoudpakket
+- [fENNA vs e-Boekhouden 2026](/blog/fenna-vs-e-boekhouden-2026/) — directe vergelijking van twee betaalbare opties
 - [Boekhoudsoftware per doelgroep](/sectoren/boekhouding/) — welk pakket past bij jouw type onderneming?
 
 ## Mijn advies: het beste boekhoudprogramma per situatie
