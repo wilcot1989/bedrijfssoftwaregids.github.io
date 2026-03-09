@@ -157,7 +157,7 @@
     "nl_support": true,
     "vat": true,
     "payroll": false,
-    "bank_sync": false,
+    "bank_sync": true,
     "affiliate": { "type": "link", "url": "https://www.fenna.nl/" },
     "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 0 }, { "up_to": 3, "price": 8.25 }, { "up_to": 10, "price": 15.00 }] }
   },
