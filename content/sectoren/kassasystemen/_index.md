@@ -28,6 +28,7 @@ faq:
 tags:
   - kassasystemen
   - sector
+affiliate: true
 ---
 
 {{< sector-cta-kassasystemen >}}

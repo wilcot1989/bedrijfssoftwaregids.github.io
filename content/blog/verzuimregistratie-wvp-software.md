@@ -20,6 +20,7 @@ faq:
     a: "De directe kosten van een loopsanctie bij een modaal salaris lopen al snel op tot EUR 30.000 tot EUR 40.000 extra loondoorbetaling over een verlengd jaar. Daarboven komen juridische kosten bij een UWV-bezwaarprocedure en de administratieve herstelkosten. Indirect kost gebrekkige registratie ook tijd: reconstructie van dossiers achteraf, overleg met de arbodienst en intern overleg over wie wat had moeten doen zijn tijdvreters die volledig voorkomen kunnen worden met de juiste software."
   - q: "Is een verzuimverzekering een alternatief voor goede verzuimregistratie?"
     a: "Nee, een verzuimverzekering dekt de financiële schade van loondoorbetaling, maar ontslaat je niet van de wettelijke verplichting tot correcte WVP-naleving. Sterker nog: veel verzuimverzekeraars stellen als voorwaarde dat je aantoonbaar aan de WVP-verplichtingen hebt voldaan. Wie geen goed dossier kan overleggen riskeert ook nog afwijzing van de verzekeringsclaim bovenop de al opgelegde loonsanctie."
+affiliate: false
 ---
 
 Verzuim is een van de duurste kostenposten voor Nederlandse werkgevers. Een medewerker die twee weken ziek is, kost een MKB-bedrijf al snel EUR 3.000 tot EUR 5.000 in loondoorbetaling, vervanging en productiviteitsverlies. Wie bovenop de ziekte ook nog de verplichtingen van de Wet Verbetering Poortwachter mist, riskeert een loonsanctie van het UWV: de loondoorbetalingsplicht wordt dan met een heel jaar verlengd. Dat is bij een modaal salaris al snel EUR 30.000 tot EUR 40.000 extra.

@@ -135,7 +135,7 @@ Voor bedrijven met minder dan 20 medewerkers is Personio overkill. De implementa
 
 Op Trustpilot komt de klacht over prijsverhogingen bij contractverlenging regelmatig terug. Meerdere reviewers melden dat de prijs na het eerste jaar flink omhoog ging. Mijn advies: leg de prijs voor meerdere jaren vast in je contract als dat mogelijk is.
 
-<a href="https://www.personio.com/nl/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Ga naar personio.com →</a>
+<a href="https://www.personio.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar personio.com →</a>
 
 ---
 
@@ -169,7 +169,7 @@ De rapportages zijn beperkt. Basale overzichten van verlof en verzuim zijn er, m
 
 Het integratie-aanbod (20+) is aanzienlijk kleiner dan bij Personio (200+). De belangrijkste Nederlandse koppelingen zijn er, maar als je een internationaal softwarelandschap hebt, loop je sneller tegen beperkingen aan.
 
-<a href="https://www.hoorayhr.com/nl/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Ga naar hoorayhr.com →</a>
+<a href="https://www.hoorayhr.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hoorayhr.com →</a>
 
 ---
 
@@ -261,9 +261,9 @@ HoorayHR is gebouwd voor het Nederlandse HR-landschap: CAO-integratie, Wet Verbe
 
 Na meerdere implementaties van beide platforms is mijn aanbeveling situatie-afhankelijk maar helder:
 
-**Als je een groeiend bedrijf hebt met 30+ medewerkers en recruitment/performance nodig hebt:** kies <a href="https://www.personio.com/nl/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Personio</a>. Het is de enige optie van deze twee die recruitment, performance management en geavanceerde workflows combineert in een platform. De investering is hoger, maar de tijdsbesparing op handmatige processen verdient zich terug als je actief groeit en regelmatig nieuwe medewerkers aanneemt. De 4.0/5 op Trustpilot met 263 reviews bevestigt dat het platform levert wat het belooft.
+**Als je een groeiend bedrijf hebt met 30+ medewerkers en recruitment/performance nodig hebt:** kies <a href="https://www.personio.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Personio</a>. Het is de enige optie van deze twee die recruitment, performance management en geavanceerde workflows combineert in een platform. De investering is hoger, maar de tijdsbesparing op handmatige processen verdient zich terug als je actief groeit en regelmatig nieuwe medewerkers aanneemt. De 4.0/5 op Trustpilot met 263 reviews bevestigt dat het platform levert wat het belooft.
 
-**Als je een Nederlands MKB-bedrijf hebt met 5-100 medewerkers en je wilt basis HR digitaliseren:** kies <a href="https://www.hoorayhr.com/nl/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">HoorayHR</a>. Verlof, verzuim, personeelsdossiers en onboarding -- meer heb je waarschijnlijk niet nodig. Je bent binnen een dag operationeel, de prijs is transparant en je support is in het Nederlands. Geen overkill, geen verrassingen.
+**Als je een Nederlands MKB-bedrijf hebt met 5-100 medewerkers en je wilt basis HR digitaliseren:** kies <a href="https://www.hoorayhr.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">HoorayHR</a>. Verlof, verzuim, personeelsdossiers en onboarding -- meer heb je waarschijnlijk niet nodig. Je bent binnen een dag operationeel, de prijs is transparant en je support is in het Nederlands. Geen overkill, geen verrassingen.
 
 **Als je twijfelt?** Begin met HoorayHR. Het kost je €3 per medewerker per maand om te testen, je bent binnen een dag operationeel, en als je later recruitment of performance management nodig hebt, kun je altijd migreren naar Personio. Andersom -- van een zwaar platform naar een lichter platform -- zie ik vaker dan je denkt, en dat is altijd zonde van de geïnvesteerde implementatietijd.
 

@@ -59,6 +59,8 @@ Zoek je een breder overzicht van alle webshop-opties? Bekijk dan mijn [vergelijk
 
 *Gegevens gecheckt: maart 2026. Bron: woocommerce.com, wordpress.org/plugins/woocommerce*
 
+<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Download WooCommerce gratis →</a>
+
 ## Wat kost WooCommerce echt? (2026)
 
 Dit is de vraag die ik het vaakst krijg, en de eerlijke beantwoording hiervan is de reden dat ik deze review schrijf. Laat ik de kosten gewoon op een rij zetten.

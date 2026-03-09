@@ -24,6 +24,7 @@ faq:
     a: "Bullhorn heeft een directe LinkedIn Recruiter-integratie waarmee je profielen importeert, berichten synchroniseert en kandidaatdata bijwerkt. Recruitee heeft een beperktere LinkedIn-koppeling. HubSpot heeft via Sales Navigator-integratie toegang tot LinkedIn-data voor de opdrachtgeverskant."
   - q: "Welke rapportages zijn belangrijk voor een recruitmentbureau?"
     a: "Time-to-fill (hoe lang duurt het om een vacature in te vullen), plaatsingsratio (percentage vacatures dat succesvol wordt ingevuld) en omzet per recruiter zijn de drie meest gebruikte KPI's. Bullhorn heeft de meest uitgebreide rapportagemodule voor deze metrics. Recruitee biedt basisrapportages; HubSpot rapporteert primair op de salesfunnel van opdrachtgevers."
+affiliate: true
 ---
 
 {{< sector-cta-crm >}}
@@ -113,7 +114,7 @@ Sommige recruitmentbureaus werken meer account-based: je hebt vaste opdrachtgeve
 - **Groot bureau, enterprise-opdrachtgevers:** Bullhorn — marktleider met reden.
 - **AVG-aandacht:** Alle drie voldoen aan GDPR. Bullhorn heeft de sterkste compliance-tools.
 
-Nog twijfels? Gebruik de [CRM keuzehulp voor recruitmentbureaus](/tools/crm/keuzehulp/) voor een advies op maat. Bereken vooraf de [CRM kosten voor jouw bureaugrootte](/tools/crm/kosten-berekenen/) en de [ROI van een geïntegreerd CRM+ATS systeem](/tools/crm/roi-berekenen/).
+Nog twijfels? Gebruik de [CRM keuzehulp voor recruitmentbureaus](/tools/crm/keuzehulp/) voor een advies op maat. Bereken vooraf de [CRM kosten voor jouw bureaugrootte](/tools/crm/kosten-berekenen/) en de [ROI van een geïntegreerd CRM+ATS systeem](/tools/crm/roi-berekenen/). Bekijk ook het [complete CRM-overzicht](/categories/crm/) voor een vergelijking van alle beschikbare systemen in Nederland.
 
 ## Hoe wij vergelijken
 

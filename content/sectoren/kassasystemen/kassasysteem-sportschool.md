@@ -24,6 +24,7 @@ faq:
     a: "Square registreert welke medewerker elke transactie heeft uitgevoerd en toont omzet per medewerker in de rapportages. Lightspeed Retail heeft de meest uitgebreide medewerker-omzetrapportages per dag en productcategorie. Zettle heeft geen medewerker-omzetregistratie."
   - q: "Werkt een kassasysteem voor een sportschool ook buiten de balie, zoals bij outdoor-trainingen?"
     a: "Zettle werkt het beste mobiel: de reader past in je zak en werkt op 4G van je telefoon zonder vaste opstelling. Square is ook mobiel bruikbaar met een reader, maar de Square Stand is ontworpen voor vaste balie-opstelling. Lightspeed Retail is primair een vaste kassaoplossing."
+affiliate: true
 ---
 
 {{< sector-cta-kassasystemen >}}

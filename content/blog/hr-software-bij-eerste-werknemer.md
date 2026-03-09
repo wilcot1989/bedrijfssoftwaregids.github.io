@@ -20,6 +20,7 @@ faq:
     a: "Een personeelsdossier bevat minimaal het ondertekende arbeidscontract, een kopie van het identiteitsbewijs, de loonheffingsverklaring van de medewerker, salarisstroken en de loonbelastingkaart. Bij ziekte komen daar de verzuimregistratie en WVP-documenten bij. De bewaarplicht voor de salarisadministratie is minimaal vijf jaar; het arbeidscontract bewaar je tot minimaal twee jaar na einde dienstverband."
   - q: "Kan ik beginnen met een Excel-bestand voor de salarisadministratie?"
     a: "Formeel mag dat, maar het is sterk af te raden. Een Excel-bestand berekent de loonheffing niet automatisch, dient geen loonaangifte in en bewaakt geen WVP-deadlines. De kans op fouten is groot en bij een belastingcontrole of UWV-beoordeling moet je alsnog alles kunnen reconstrueren. De tijdsinvestering in een foutloze Excel-administratie is groter dan het gebruik van een eenvoudig HR-pakket."
+affiliate: false
 ---
 
 De eerste werknemer in dienst nemen is een mijlpaal voor elke ondernemer. Het is ook het moment waarop je ineens te maken krijgt met verplichtingen waar je als ZZP'er niets van hoefde te weten: loonaangifte, loonheffing, verzuimregistratie, arbeidscontract, salarisstroken, verlofregistratie en pensioen.

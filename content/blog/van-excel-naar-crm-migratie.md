@@ -20,6 +20,7 @@ faq:
 tags:
   - crm
   - mkb
+affiliate: false
 ---
 
 Vorig jaar hielp ik een accountantskantoor in Utrecht met de overstap van Excel naar HubSpot. Zeven medewerkers, zo'n 1.400 klantcontacten, een spreadsheet die door de jaren heen was uitgegroeid tot een gedrocht van 23 tabbladen. Kolommen zonder naam. Telefoonnummers in drie verschillende formaten. Bedrijfsnamen afwisselend voluit geschreven, afgekort, of met een typefout.

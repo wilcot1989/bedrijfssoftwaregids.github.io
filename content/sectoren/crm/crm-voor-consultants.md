@@ -24,6 +24,7 @@ faq:
     a: "Ja, het gratis HubSpot CRM is voor solo consultants en kleine bureaus volledig bruikbaar. Je krijgt onbeperkte contacten, deal-beheer, e-mailintegratie en een agendakoppeling. Voor e-mailsequences en geavanceerde rapportages heb je de betaalde Sales Hub vanaf EUR 45 per maand nodig."
   - q: "Wat is het verschil tussen HubSpot en Pipedrive voor adviesbureaus?"
     a: "HubSpot is sterker als je ook inbound marketing wilt combineren met je CRM: blogs, landingspaginas en e-mailcampagnes zitten in hetzelfde platform. Pipedrive is puurder gericht op verkooppipeline en is sneller en eenvoudiger in gebruik voor bureaus die vooral op actieve acquisitie inzetten."
+affiliate: true
 ---
 
 {{< sector-cta-crm >}}
@@ -130,7 +131,7 @@ Teamleader is een Nederlandse speler die CRM, projectmanagement en facturatie co
 - **Bureau met veel telefonische acquisitie:** Close — ingebouwde dialer en e-mail sequences, geen losse tools nodig.
 - **Bureau dat alles in één wil (CRM + projecten + facturatie):** Teamleader.
 
-Nog niet zeker? Gebruik de [CRM keuzehulp voor adviesbureaus](/tools/crm/keuzehulp/) — beantwoord vijf vragen en krijg een aanbeveling afgestemd op jouw werkwijze. Bereken ook de [CRM kosten per consultant](/tools/crm/kosten-berekenen/) en de [ROI van professioneel relatiebeheer](/tools/crm/roi-berekenen/).
+Nog niet zeker? Gebruik de [CRM keuzehulp voor adviesbureaus](/tools/crm/keuzehulp/) — beantwoord vijf vragen en krijg een aanbeveling afgestemd op jouw werkwijze. Bereken ook de [CRM kosten per consultant](/tools/crm/kosten-berekenen/) en de [ROI van professioneel relatiebeheer](/tools/crm/roi-berekenen/). Of bekijk het [complete CRM-overzicht](/categories/crm/) voor een vergelijking van alle beschikbare systemen in Nederland.
 
 ## Hoe wij vergelijken
 

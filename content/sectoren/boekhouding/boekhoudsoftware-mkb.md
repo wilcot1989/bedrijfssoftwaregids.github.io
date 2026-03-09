@@ -24,6 +24,7 @@ faq:
     a: "Exact Online heeft een salarismodule als aparte add-on. AFAS heeft geïntegreerde salarisadministratie inclusief een medewerkerportaal. Twinfield heeft geen eigen salarismodule en vereist een koppeling met externe salarissoftware zoals Nmbrs of Loket.nl."
   - q: "Wat is het verschil tussen Exact Online en AFAS voor MKB?"
     a: "Exact Online is sterker in boekhoudkundige diepgang, heeft meer externe integraties en wordt breder ondersteund door accountants. AFAS is sterker in procesautomatisering, de koppeling tussen afdelingen en het hebben van HR, boekhouding en CRM in één systeem. AFAS is doorgaans duurder en heeft een langere implementatietijd."
+affiliate: true
 ---
 
 {{< sector-cta-boekhouding >}}

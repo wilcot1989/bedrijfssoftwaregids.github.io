@@ -20,6 +20,7 @@ faq:
 tags:
   - kassasysteem
   - horeca
+affiliate: false
 ---
 
 De maandprijs die een kassasysteem adverteert is het makkelijkste deel van de kostenvergelijking. Wat ondernemers vaker verrast zijn de kosten die er later bijkomen: hardware, transactiefees, support, updates en afschrijvingen. Die kunnen de werkelijke jaarkosten twee tot drie keer zo hoog maken als de geadverteerde prijs.
@@ -85,5 +86,6 @@ Vraag ook om een overzicht van alle kosten in jaar één en jaar drie apart. Jaa
 ## Lees ook
 
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — vergelijk kassasystemen op prijs en verborgen kosten
+- [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/) — uitgebreide beoordeling van functies, kosten en contractvoorwaarden
 
 Wil je direct kassasystemen vergelijken? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).

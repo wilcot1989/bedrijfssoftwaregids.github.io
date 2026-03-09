@@ -25,6 +25,7 @@ faq:
     a: "Stel in je CRM een taak in om elke twee jaar contact op te nemen met eerdere kopers. HubSpot en Pipedrive ondersteunen beide terugkerende herinneringen en activiteiten. Realworks heeft contactbeheer voor langlopende klantrelaties ingebouwd als onderdeel van het vastgoeddossier."
   - q: "Werkt CRM software voor makelaars ook goed op de mobiel?"
     a: "Pipedrive heeft de beste mobiele app voor makelaars die onderweg zijn: notities invoeren na een bezichtiging, status van woningen bijwerken en bellen vanuit het systeem. HubSpot heeft een goede mobiele app voor contactbeheer. Realworks is primair een desktopapplicatie met beperkte mobiele functionaliteit."
+affiliate: true
 ---
 
 {{< sector-cta-crm >}}
@@ -111,7 +112,7 @@ Realworks is niet zomaar een CRM — het is specifiek gebouwd voor de Nederlands
 - **Actief verkoopkantoor, meerdere makelaars:** Pipedrive voor het pipeline-overzicht.
 - **NVM-lid met behoefte aan alles-in-één:** Realworks.
 
-Weet je nog niet welk systeem het beste past? Gebruik de [CRM keuzehulp voor makelaars](/tools/crm/keuzehulp/) om in vijf vragen een concreet advies te krijgen. Of bereken vooraf de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de verwachte [ROI van je CRM-investering](/tools/crm/roi-berekenen/).
+Weet je nog niet welk systeem het beste past? Gebruik de [CRM keuzehulp voor makelaars](/tools/crm/keuzehulp/) om in vijf vragen een concreet advies te krijgen. Of bereken vooraf de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de verwachte [ROI van je CRM-investering](/tools/crm/roi-berekenen/). Bekijk ook het [complete CRM-overzicht](/categories/crm/) voor een vergelijking van alle beschikbare systemen in Nederland.
 
 ## Hoe wij vergelijken
 

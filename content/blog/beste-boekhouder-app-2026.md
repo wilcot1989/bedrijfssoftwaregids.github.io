@@ -1,7 +1,7 @@
 ---
 title: "Beste Boekhoud-App 2026: Top 5"
-date: 2026-03-12
-lastmod: 2026-03-12
+date: 2026-03-14
+lastmod: 2026-03-14
 description: "De 5 beste boekhoud-apps voor mobiel boekhouden in 2026. Bonnetjes scannen, facturen versturen en BTW-aangifte doen vanaf je telefoon. Met prijzen."
 categories: ["boekhouding"]
 tags:

@@ -24,6 +24,7 @@ faq:
     a: "Dat hangt af van de activiteiten. Stichtingen zijn vaak deels BTW-plichtig (voor commerciële activiteiten) en deels vrijgesteld (voor non-profitdiensten). Alle drie de systemen ondersteunen gemengde BTW-posities waarbij je per transactie het juiste BTW-tarief of de vrijstelling koppelt."
   - q: "Kan een vrijwilliger kostenvergoedingen ontvangen en hoe verwerk ik dat?"
     a: "Vrijwilligers mogen onder de vrijwilligersregeling maximaal EUR 210 per maand en EUR 2.100 per jaar ontvangen zonder loonbelasting. Dit verwerk je als kostenvergoeding in de administratie. In Exact Online en Twinfield boek je dit als declaratie; AFAS non-profit heeft een specifieke module voor vrijwilligersregistratie."
+affiliate: true
 ---
 
 {{< sector-cta-boekhouding >}}

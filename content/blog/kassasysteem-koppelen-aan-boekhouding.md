@@ -21,6 +21,7 @@ tags:
   - kassasysteem
   - boekhouding
   - horeca
+affiliate: false
 ---
 
 Elke dag afsluiten, de omzet optellen, de BTW berekenen en dat handmatig overtypen in de boekhouding -- het is een tijdrovend ritueel dat foutgevoelig is en niets bijdraagt aan je bedrijf. Een directe koppeling tussen kassasysteem en boekhouding vervangt dit door een automatisch proces dat dagelijks of wekelijks zonder handmatige ingreep verloopt.

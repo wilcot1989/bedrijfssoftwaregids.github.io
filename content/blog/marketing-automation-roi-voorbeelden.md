@@ -22,6 +22,7 @@ faq:
 tags:
   - marketing
   - mkb
+affiliate: false
 ---
 
 Marketing automation wordt verkocht als de heilige graal voor leadgeneratie en klantbehoud. De werkelijkheid is genuanceerder: voor sommige bedrijven levert het een aantoonbare omzetstijging op, voor anderen is het een duur systeem dat niemand goed gebruikt en dat na een jaar wordt opgezegd.

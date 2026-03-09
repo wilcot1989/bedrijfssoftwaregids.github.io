@@ -282,7 +282,7 @@ Shopify past bij jou als:
 - **Je technisch vaardig bent** -- of bereid bent om te leren
 - **Je dropshipping wilt doen** -- het app-ecosysteem maakt dit eenvoudig
 
-Shopify is mijn standaardadvies voor ondernemers met groeiambitie. Het platform schaalt mee zonder dat je ooit hoeft te migreren. Dat bespaart op de lange termijn duizenden euro's en weken werk.
+Shopify is mijn standaardadvies voor ondernemers met groeiambitie. Het platform schaalt mee zonder dat je ooit hoeft te migreren. Dat bespaart op de lange termijn duizenden euro's en weken werk. Wil je een uitgebreide hands-on analyse van het platform? Lees dan ook onze [Shopify review 2026](/blog/shopify-review-2026/).
 
 Wil je jouw webshopklanten beter begrijpen? Lees dan ook mijn artikel over de [beste CRM-systemen voor webshops](/blog/beste-crm-webshops-2026/).
 
@@ -301,6 +301,8 @@ Acendy past bij jou als:
 - **Je B2B wilt verkopen** -- staffelprijzen en klantgroepen (vanaf Business)
 
 Mijn waarschuwing: wees je bewust van het verplichte jaarcontract en de hogere instapprijs sinds de transitie naar Acendy. De oude Mijnwebwinkel-prijzen van €17 per maand zijn verleden tijd. Reken met minimaal €40/maand en test het platform grondig tijdens de proefperiode.
+
+<a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Mijnwebwinkel →</a>
 
 
 ## Migratie: overstappen van Mijnwebwinkel naar Shopify
@@ -355,6 +357,10 @@ Voor de meeste Nederlandse ondernemers die ik adviseer, valt de keuze op Shopify
 | Nederlandse support | 7/10 | 9/10 |
 | Schaalbaarheid | 10/10 | 5/10 |
 | **Totaal** | **8.4/10** | **6.6/10** |
+
+<a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopify.com →</a>
+
+<a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Mijnwebwinkel →</a>
 
 
 ## Gerelateerde artikelen

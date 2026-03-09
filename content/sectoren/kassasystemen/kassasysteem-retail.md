@@ -24,6 +24,7 @@ faq:
     a: "Lightspeed Retail ondersteunt meerdere locaties in één omgeving: gecentraliseerde voorraad, rapportages per vestiging en één productcatalogus voor alle filialen. Square ondersteunt meerdere locaties in het Retail Plus-plan voor EUR 69 per maand per locatie. Zettle is puur gericht op enkelvoudige locaties."
   - q: "Hoe verwerk ik meerdere BTW-tarieven in mijn kassasysteem?"
     a: "Alle drie de systemen ondersteunen meerdere BTW-tarieven (21%, 9% en 0%). In Lightspeed Retail stel je per productcategorie het juiste BTW-tarief in en worden omzetrapportages per BTW-tarief gesplitst voor de BTW-aangifte. Square en Zettle ondersteunen dit ook, maar de rapportage-export is minder gedetailleerd."
+affiliate: true
 ---
 
 {{< sector-cta-kassasystemen >}}

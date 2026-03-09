@@ -24,6 +24,7 @@ faq:
     a: "Een migratie kost gemiddeld twee tot drie werkdagen en brengt risico op boekingsfouten met zich mee. Je moet een openingsbalans opvoeren en historische data handmatig invoeren of importeren. Kies daarom liever een systeem dat twee jaar meegroeit, ook al kost het iets meer per maand."
   - q: "Kan ik BTW-aangifte doen vanuit de boekhoudsoftware?"
     a: "Ja, zowel Moneybird, Snelstart als Exact Online ondersteunen directe BTW-aangifte bij de Belastingdienst. Moneybird en Exact Online dienen de aangifte rechtstreeks in via de koppeling met het Belastingdienstportaal. Bij Snelstart bereid je de aangifte voor in het systeem en dien je die vervolgens in."
+affiliate: true
 ---
 
 {{< sector-cta-boekhouding >}}

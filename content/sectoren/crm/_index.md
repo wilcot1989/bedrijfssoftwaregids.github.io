@@ -28,6 +28,7 @@ faq:
 tags:
   - crm
   - sector
+affiliate: true
 ---
 
 {{< sector-cta-crm >}}

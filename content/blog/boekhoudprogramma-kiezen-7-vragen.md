@@ -21,6 +21,7 @@ tags:
   - boekhouding
   - zzp
   - mkb
+affiliate: true
 ---
 
 Vorige maand sprak ik een ondernemer die al drie jaar op hetzelfde boekhoudprogramma zat. Hij betaalde €44 per maand. Ik vroeg hem hoeveel facturen hij per maand verstuurde. "Tien? Twaalf misschien." En of hij personeel had. "Nee, gewoon ik alleen." Dan betaalt hij bijna €500 per jaar te veel.

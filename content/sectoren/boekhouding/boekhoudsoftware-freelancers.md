@@ -24,6 +24,7 @@ faq:
     a: "Niet verplicht, maar wel verstandig voor je jaarlijkse aangifte inkomstenbelasting. Met Moneybird of e-Boekhouden.nl doe je zelf de dagelijkse administratie en BTW-aangifte, en schakel je een boekhouder in voor de jaaropgave. Yuki is een all-in-one waarbij de boekhouder standaard inbegrepen is."
   - q: "Wat is het verschil tussen boekhoudsoftware voor freelancers en ZZP'ers?"
     a: "Als freelancer werk je projectmatig met wisselende opdrachtgevers, soms internationaal, en heb je behoefte aan urenregistratie en projectfacturatie. Een ZZP'er heeft doorgaans een eenvoudigere facturatiestructuur. Freelancers profiteren meer van tools met meervaluta-ondersteuning en urenregistratie, zoals Moneybird Growth."
+affiliate: true
 ---
 
 {{< sector-cta-boekhouding >}}

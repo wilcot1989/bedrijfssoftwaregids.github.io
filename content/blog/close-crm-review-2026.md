@@ -58,6 +58,8 @@ Zoek je een breed overzicht? Bekijk dan eerst mijn vergelijking van de [beste CR
 | **E-mail sequences** | Ja, native |
 | **SMS** | Ja, native |
 
+<a href="https://refer.close.com/p2kcrnz6lksy" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Close CRM →</a>
+
 ## Wat maakt Close anders?
 
 De meeste CRM's zijn gebouwd als database met een pipeline erbij. Close is andersom gebouwd: het is een communicatietool met een CRM eromheen. Bellen, mailen en SMS'en doe je zonder het systeem te verlaten. Dat klinkt als een klein verschil, maar in de praktijk scheelt het tientallen tabbladen en klikken per dag.
@@ -208,5 +210,6 @@ Twijfel je nog? Gebruik de gratis tools:
 - [Pipedrive review 2026](/blog/pipedrive-review-2026/) — de directe concurrent
 - [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/) — het populairste gratis CRM
 - [Salesforce review 2026](/blog/salesforce-review-2026/) — het enterprise-alternatief
+- [Teamleader review 2026](/blog/teamleader-review-2026/) — CRM + projectbeheer voor het MKB
 - [Beste CRM voor ZZP'ers 2026](/blog/beste-crm-zzp-freelancers-2026/) — als je solo werkt
 - [CRM voor SaaS-startups](/sectoren/crm/crm-voor-saas-startups/) — Close in context van SaaS

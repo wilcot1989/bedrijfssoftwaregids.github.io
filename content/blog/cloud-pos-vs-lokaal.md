@@ -21,6 +21,7 @@ tags:
   - kassasysteem
   - horeca
   - vergelijking
+affiliate: false
 ---
 
 Wie een nieuw kassasysteem zoekt, stuit onvermijdelijk op de keuze: cloud of lokaal? Het onderscheid klinkt technisch maar heeft directe gevolgen voor wat er gebeurt als het internet uitvalt, hoeveel je betaalt, hoe eenvoudig het beheer is en hoe snel je kunt uitbreiden naar een tweede locatie of kassa.

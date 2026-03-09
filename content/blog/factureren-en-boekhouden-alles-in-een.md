@@ -22,6 +22,7 @@ faq:
 tags:
   - boekhouding
   - zzp
+affiliate: false
 ---
 
 Veel kleine ondernemers beginnen met twee losse systemen: een facturatieprogramma voor het versturen van rekeningen en een apart systeem -- of een accountant -- voor de boekhouding. Dat levert dubbele invoer op. Elke factuur die je verstuurt, moet je ook nog eens verwerken in de administratie. Dat kost tijd, vergroot de kans op fouten en maakt de BTW-aangifte ingewikkelder dan nodig.

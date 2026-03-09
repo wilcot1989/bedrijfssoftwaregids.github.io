@@ -24,6 +24,7 @@ faq:
     a: "AFAS en Visma Raet hebben uitgebreide verzuimmanagementmodules inclusief poortwachterondersteuning: automatische meldingen, re-integratietrajecten en rapportages voor de Arbodienst. Loket.nl heeft basale verzuimregistratie maar mist de geavanceerde poortwachterondersteuning die grotere zorgorganisaties nodig hebben."
   - q: "Hoe plan ik ploegendiensten en nachtdiensten in HR software voor de zorg?"
     a: "Visma Raet heeft de sterkste roosterplanningsfunctionaliteit voor de zorg: ploegendiensten, nachtdiensten en weekenddiensten worden direct gekoppeld aan de payroll voor correcte ORT-berekening. AFAS heeft ook roosterplanning als onderdeel van de HR-module. Loket.nl heeft geen roosterplanningsfunctionaliteit en vereist een aparte planningsoplossing."
+affiliate: true
 ---
 
 {{< sector-cta-hr >}}

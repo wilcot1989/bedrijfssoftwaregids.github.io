@@ -24,6 +24,7 @@ faq:
     a: "Personio heeft een uitgebreide onboarding-module met geautomatiseerde taaklijsten, documentenverzending en digitale handtekeningen. AFAS heeft vergelijkbare functionaliteit als onderdeel van het HR-platform. Loket.nl heeft beperktere onboardingfuncties; de focus ligt primair op salarisadministratie."
   - q: "Wat is het verschil tussen AFAS en Personio voor MKB?"
     a: "AFAS is een volledig geïntegreerde suite met boekhouding, HR en CRM in één systeem; de implementatiekosten zijn hoog maar de langetermijnwinst in procesautomatisering is groot. Personio focust puur op HR en integreert via koppelingen met externe salarissoftware; het is sneller live en betaalbaarder voor bedrijven zonder eigen HR-afdeling."
+affiliate: true
 ---
 
 {{< sector-cta-hr >}}

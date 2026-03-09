@@ -28,6 +28,7 @@ faq:
 tags:
   - boekhouding
   - sector
+affiliate: true
 ---
 
 {{< sector-cta-boekhouding >}}

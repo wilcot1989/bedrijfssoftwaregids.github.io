@@ -24,6 +24,7 @@ faq:
     a: "Ja, alle drie de systemen hebben een productcatalogus met categorieën. In de Zettle-app kun je producten toevoegen, prijzen aanpassen en items als uitverkocht markeren. Square heeft iets uitgebreider productbeheer met foto's en varianten. Dagmenu-aanpassingen voor een foodtruck zijn bij alle drie snel gedaan."
   - q: "Welk kassasysteem werkt het beste op festivals en markten?"
     a: "Zettle is de meest aanbevolen optie voor festivals en markten: de battery van de reader gaat een hele dag mee zonder opladen, het systeem werkt op 4G van je telefoon en de setup is minimaal. SumUp 3G heeft een ingebouwde SIM-kaart en werkt zonder smartphone. Square is minder geschikt voor drukke marktsituaties vanwege de beperktere offline werking."
+affiliate: true
 ---
 
 {{< sector-cta-kassasystemen >}}

@@ -24,6 +24,7 @@ faq:
     a: "Shiftbase en Loket.nl kunnen nieuwe medewerkers binnen vijf tot tien minuten toevoegen en direct inplannen of een loonstrook genereren. AFAS heeft een uitgebreidere onboardingmodule maar vereist meer configuratietijd per nieuwe medewerker. In de horeca, waar personeelsverloop hoog is, is snelheid van onboarding een kritisch criterium."
   - q: "Kan ik meerdere horecavestigingen beheren in één HR systeem?"
     a: "AFAS is de sterkste keuze voor horecaketens met meerdere vestigingen: alle locaties, medewerkers en roosters zijn beheerbaar vanuit één omgeving. Shiftbase ondersteunt ook meerdere locaties. Loket.nl beheert salarisadministratie per vestiging maar heeft minder uitgebreide planningsfuncties voor multi-site operaties."
+affiliate: true
 ---
 
 {{< sector-cta-hr >}}

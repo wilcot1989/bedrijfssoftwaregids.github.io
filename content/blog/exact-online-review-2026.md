@@ -255,7 +255,7 @@ Gebruik je Exact Online al, of overweeg je om te starten? Dit zijn de tips die i
 6. **Configureer je dashboard** -- zet de KPI's die voor jou belangrijk zijn in het overzicht
 7. **Overweeg een combinatiepakket** -- bundels zijn vaak voordeliger dan losse modules
 
-## Exact Online review: is het de prijs waard?
+## Eindoordeel
 
 **Ja, maar niet voor iedereen.** Exact Online is een uitstekend platform dat zijn leidende positie in Nederland verdient. De combinatie van uitgebreide boekhouding, CRM, HRM, projectbeheer en een enorm integratie-ecosysteem maakt het de meest complete bedrijfssoftware op de Nederlandse markt.
 

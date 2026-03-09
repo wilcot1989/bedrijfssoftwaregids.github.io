@@ -24,6 +24,7 @@ faq:
     a: "Ja, AFAS, Nmbrs en Loket.nl hebben alle drie een mobiele app waarmee medewerkers uren kunnen invoeren. AFAS koppelt de ureninvoer direct aan projecten en kostensoorten voor projectverantwoording. Nmbrs en Loket.nl registreren uren voor salarisverwerking maar hebben geen directe projectkoppeling."
   - q: "Hoe verwerk ik onderaannemers en ZZP'ers in mijn HR systeem?"
     a: "AFAS heeft specifieke functionaliteit voor het beheren van onderaannemers: contracten, facturen en urenverantwoording in hetzelfde systeem. Bij Loket.nl en Nmbrs beheer je alleen eigen medewerkers; voor onderaannemers en zzp'ers gebruik je een apart systeem of handmatige registratie."
+affiliate: true
 ---
 
 {{< sector-cta-hr >}}

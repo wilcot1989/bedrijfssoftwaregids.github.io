@@ -23,6 +23,7 @@ tags:
   - boekhouding
   - zzp
   - vergelijking
+affiliate: false
 ---
 
 Veel ondernemers stellen de vraag op het verkeerde moment: niet voor ze een boekhouder inschakelen, maar jaren later als ze de jaarrekening zien. Een externe boekhouder kost voor een eenmanszaak al snel EUR 1.800 tot EUR 4.000 per jaar. Boekhoudsoftware kost een fractie daarvan. Toch is software niet altijd de juiste keuze -- een goedkope keuze aan het begin kan later duur uitpakken als je meer complexiteit krijgt dan het systeem aankan.

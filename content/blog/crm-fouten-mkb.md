@@ -20,6 +20,7 @@ faq:
 tags:
   - crm
   - mkb
+affiliate: false
 ---
 
 Een CRM-systeem kopen is makkelijk. Een CRM-systeem laten werken is een tweede. De meeste mislukte CRM-trajecten bij Nederlandse MKB-bedrijven mislukken niet door de technologie maar door een handvol fouten die vermijdbaar waren. Dit zijn de vijf die het meest voorkomen en de meeste schade aanrichten.
@@ -81,5 +82,6 @@ Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) als je twijfelt of het huidige
 ## Lees ook
 
 - [Beste CRM software 2026 vergelijken](/blog/beste-crm-software-nederland-2026/) — welk systeem past bij jouw bedrijf?
+- [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/) — uitgebreide beoordeling van het meest gebruikte CRM voor het MKB
 
 Wil je direct CRM software vergelijken? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/).

@@ -24,6 +24,7 @@ faq:
     a: "Niet verplicht voor de dagelijkse administratie en BTW-aangifte. Veel ZZP'ers doen dat zelf via Moneybird of Jortt. Voor de jaarlijkse aangifte inkomstenbelasting is een boekhouder aan te raden, zeker als je ook de zelfstandigenaftrek en MKB-winstvrijstelling correct wilt verwerken."
   - q: "Heeft boekhoudsoftware voor ZZP ook een mobiele app?"
     a: "Ja. Moneybird heeft een volledige mobiele app waarmee je bonnetjes kunt scannen en facturen versturen. Jortt heeft ook een app met de kernfuncties. e-Boekhouden.nl heeft een beperktere mobiele ervaring; de interface is primair voor desktop ontworpen."
+affiliate: true
 ---
 
 {{< sector-cta-boekhouding >}}

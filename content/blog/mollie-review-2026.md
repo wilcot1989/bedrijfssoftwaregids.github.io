@@ -360,7 +360,7 @@ Als je ook naar België of Duitsland verzendt maar alleen iDEAL aanbiedt, verlie
 7. **Bewaar je API-keys veilig** -- niet in je code repository, maar in environment variables
 
 
-## Mollie review: is het de juiste betaalprovider?
+## Eindoordeel
 
 **Voor de meeste Nederlandse webshops: ja.** Mollie combineert een gebruiksvriendelijk dashboard, brede integraties, een sterke API en transparante prijzen zonder vaste kosten. Het is niet de goedkoopste optie bij hoog volume, en de klantenservice kan beter -- maar voor het overgrote deel van het Nederlandse MKB is het de betaalprovider die ik het vaakst aanbeveel.
 

@@ -24,6 +24,7 @@ faq:
     a: "Employes heeft native koppelingen met Moneybird, Exact Online en andere populaire boekhoudpakketten. Loket.nl koppelt met Exact Online, AFAS boekhouding en anderen. Nmbrs koppelt met Exact Online en diverse andere ERP-systemen. Hierdoor worden salariskosten automatisch geboekt in de financiële administratie."
   - q: "Wat is het verschil tussen Employes en Loket.nl voor ZZP'ers?"
     a: "Employes is goedkoper (gratis tot drie medewerkers) en eenvoudiger in gebruik voor niet-boekhoudkundige gebruikers. Loket.nl is duurder maar biedt de optie van professionele ondersteuning door een gecertificeerde salarisadministrateur. Loket.nl is ook sterker bij complexere contractvormen zoals nul-urencontracten."
+affiliate: true
 ---
 
 {{< sector-cta-hr >}}

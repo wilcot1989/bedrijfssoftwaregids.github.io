@@ -24,6 +24,7 @@ faq:
     a: "Square houdt automatisch de omzet per medewerker bij op basis van wie de transactie registreerde. Lightspeed Retail heeft uitgebreide medewerker-omzetrapportages per dag, week en behandeling. Zettle heeft geen medewerker-omzetregistratie; dat maakt het minder geschikt voor salons die provisieberekeningen doen."
   - q: "Kan ik cadeaubonnen verkopen en inlossen via het kassasysteem?"
     a: "Square en Lightspeed Retail ondersteunen het aanmaken, verkopen en inlossen van cadeaubonnen. In Square sla je cadeaubonnen op in het systeem en controleer je het saldo bij inlossen. Zettle heeft geen cadeaubon-module; dat is een beperking voor kapsalons die cadeaubonnen populair hebben."
+affiliate: true
 ---
 
 {{< sector-cta-kassasystemen >}}

@@ -21,6 +21,7 @@ faq:
     a: "Voor een consultancybureau is een projecttool doorgaans de kern van de urenregistratie, omdat uren per klant en per project worden doorbelast en gefactureerd. Tools als Harvest, Toggl Track of Teamleader zijn in Nederland populair voor deze use case. Daarnaast is een koppeling met de HR-software nodig voor salarisverwerking en verlofregistratie. De uren worden dan eenmalig ingevoerd in de projecttool en automatisch doorgestuurd naar de salarisadministratie — dat voorkomt dubbele invoer en discrepanties."
   - q: "Hoe verhoog ik de adoptie van urenregistratie bij medewerkers?"
     a: "De grootste barrière is gemak: als registreren meer dan twee minuten kost per dag, doen medewerkers het niet consistent. Kies een tool met een mobiele app en een eenvoudig dag-invoerscherm, zorg dat projectcodes herkenbaar zijn en koppel de registratie aan een bestaand dagelijks moment zoals het afsluiten van een taak. Wekelijkse herinneringen helpen, maar lossen het probleem niet op als het systeem zelf te omslachtig is."
+affiliate: false
 ---
 
 Urenregistratie is voor veel Nederlandse ondernemers een dagelijkse ergernis. Medewerkers vullen te laat in, vergeten projectcodes, registreren minder uren dan ze gewerkt hebben of vullen alles op vrijdagmiddag tegelijk in terwijl ze allang niet meer weten wat ze maandag deden. Het resultaat is een salarisstrook die gecorrigeerd moet worden, een projectkostenberekening die nergens op slaat en een factuurvoorstel dat de accountmanager moet uitleggen aan de klant.

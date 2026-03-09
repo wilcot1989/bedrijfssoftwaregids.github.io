@@ -22,6 +22,7 @@ faq:
 tags:
   - marketing
   - b2b
+affiliate: false
 ---
 
 B2B leadgeneratie in Nederland werkt anders dan in de VS of het VK. De Nederlandse zakelijke markt is kleiner, persoonlijker en minder tolerant voor agressieve outreach. Een koude belronde die in een groot land tienduizenden onbekende prospects bereikt, bereikt in Nederland al snel halve branches. Relaties en reputatie tellen hier zwaarder dan in grotere markten.

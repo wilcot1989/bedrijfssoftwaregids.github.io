@@ -20,6 +20,7 @@ faq:
 tags:
   - crm
   - mkb
+affiliate: false
 ---
 
 Een CRM-systeem dat niet communiceert met de rest van je softwarestack is een eiland. Data stroomt niet door, medewerkers voeren gegevens dubbel in en rapporten geven een onvolledig beeld van de werkelijkheid. De waarde van een CRM zit niet alleen in het systeem zelf maar in de verbindingen die het legt met de tools die je dagelijks gebruikt.

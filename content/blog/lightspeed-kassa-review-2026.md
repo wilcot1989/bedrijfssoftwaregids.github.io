@@ -51,6 +51,8 @@ Ik werk nu ruim drie jaar met Lightspeed-klanten. Van een lunchcafe in Utrecht d
 | **Capterra score** | 4.1/5 |
 | **Hoofdkantoor** | Montreal (NL-kantoor in Amsterdam) |
 
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Lightspeed →</a>
+
 ## Wat is Lightspeed precies?
 
 Lightspeed is een Canadees bedrijf (beursgenoteerd aan NYSE en TSX) dat kassa- en betaalsoftware maakt voor horeca en retail. Wereldwijd gebruiken meer dan 144.000 locaties het platform. In Nederland heeft Lightspeed een kantoor in Amsterdam met lokale support.

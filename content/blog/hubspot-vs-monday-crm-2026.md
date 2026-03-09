@@ -248,6 +248,10 @@ Het nadeel: je moet het zelf opzetten. Er is geen standaard sales-pipeline die k
 
 ## Functie-voor-functie: wie wint waar?
 
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer HubSpot gratis →</a>
+
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Monday CRM gratis →</a>
+
 ### Contactbeheer en pipeline management
 
 **HubSpot** geeft je een compleet contactprofiel: alle e-mails, websitebezoeken, formulierinzendingen, calls -- in een tijdlijn. De pipeline is visueel en aanpasbaar, met drag-and-drop deals tussen fases. De kracht zit in de automatische verrijking van contactdata en de lifecycle stages die marketing en sales verbinden.

@@ -20,6 +20,7 @@ faq:
 tags:
   - kassasysteem
   - horeca
+affiliate: true
 ---
 
 Een vriend van mij opende vorig jaar een Italiaans restaurant in Utrecht. Maanden van verbouwen, menukaart schrijven, personeel werven. Op openingsavond stonden er 40 gasten te wachten. En toen ging het mis.
@@ -219,3 +220,4 @@ Een overzicht van alle kassasysteem vergelijkingen en reviews vind je op de [kas
 **Lees ook:**
 - [Beste kassasysteem horeca 2026: eerlijke vergelijking](/blog/beste-kassasysteem-horeca-2026/)
 - [Fiscale eisen kassasysteem 2026: wat moet jouw kassa kunnen?](/blog/fiscale-eisen-kassasysteem-2026/)
+- [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/) — uitgebreide beoordeling van een van de meest gebruikte kassasystemen in de horeca

@@ -24,6 +24,9 @@ Webshopsoftware kiezen gaat om balans tussen groei, beheer en kosten. Hier vind 
 - [Shopify vs Mijnwebwinkel](/blog/shopify-vs-mijnwebwinkel-2026/) — Internationaal platform versus Nederlandse oplossing.
 - [Mollie vs MultiSafepay](/blog/mollie-vs-multisafepay-2026/) — Betaalproviders voor Nederlandse webshops vergeleken.
 
+### Reviews
+- [Shopify review 2026](/blog/shopify-review-2026/) — Uitgebreide test van het grootste e-commerce platform: functies, kosten en geschiktheid voor Nederland.
+
 ## Gerelateerde categorieën
 
 - [Kassasystemen](/categories/kassasystemen/) — voor fysieke verkooppunten naast je webshop.

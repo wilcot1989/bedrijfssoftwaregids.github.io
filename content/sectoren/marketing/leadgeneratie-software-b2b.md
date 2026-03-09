@@ -24,6 +24,7 @@ faq:
     a: "Leadinfo heeft directe integraties met HubSpot, Salesforce en Pipedrive. Zodra Leadinfo een interessant bedrijf herkent op je website, kan het automatisch een contactrecord of taak aanmaken in je CRM voor opvolging door het salesteam. Dit elimineert handmatig werk en zorgt dat warme leads direct worden opgepakt."
   - q: "Is LinkedIn Sales Navigator het waard voor B2B-leadgeneratie?"
     a: "Ja, als je een actief salesteam hebt dat systematisch nieuwe accounts benadert. De geavanceerde zoekfilters op functietitel, sector, bedrijfsomvang en activiteit laten je precies de beslissers vinden bij je ideale klantprofiel. Voor bedrijven die puur op inbound willen groeien is het minder relevant; HubSpot of Leadinfo zijn dan betere investeringen."
+affiliate: true
 ---
 
 {{< sector-cta-marketing >}}

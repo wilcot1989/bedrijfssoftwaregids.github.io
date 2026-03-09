@@ -35,7 +35,7 @@ faq:
 HubSpot of Pipedrive -- ik krijg deze vraag minstens twee keer per maand. Na 12+ jaar in B2B software en tientallen CRM-implementaties bij Nederlandse MKB-bedrijven kan ik je dit vertellen: er is geen "beste" CRM. Maar er is wel een CRM dat beter bij jouw situatie past. In deze vergelijking zet ik HubSpot en Pipedrive eerlijk naast elkaar -- met echte prijzen, Trustpilot-scores en de lessen die ik heb geleerd bij klanten die de verkeerde keuze maakten.
 
 
-Zoek je een breder overzicht van CRM-oplossingen? Bekijk dan ook mijn artikel over de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/). Wil je dieper ingaan op een van beide platforms? Lees mijn uitgebreide [HubSpot CRM review](/blog/hubspot-crm-review-2026/) of de [Pipedrive review Nederland](/blog/pipedrive-review-nederland-2026/) voor een hands-on oordeel.
+Zoek je een breder overzicht van CRM-oplossingen? Bekijk dan ook mijn artikel over de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/). Wil je dieper ingaan op een van beide platforms? Lees mijn uitgebreide [HubSpot CRM review](/blog/hubspot-crm-review-2026/) of de [Pipedrive review 2026](/blog/pipedrive-review-2026/) voor een hands-on oordeel.
 
 ## HubSpot vs Pipedrive: de snelle vergelijking
 
@@ -254,7 +254,7 @@ Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereke
 
 Na 12+ jaar in B2B software en tientallen CRM-implementaties is mijn aanbeveling genuanceerd maar duidelijk:
 
-**Als je een sales-gedreven MKB-bedrijf hebt** met 2 tot 50 medewerkers en je wilt morgen productief zijn: kies [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj). De 4.5/5 op Trustpilot met 3.200+ reviews liegt niet. Teams adopteren het snel, de kosten zijn voorspelbaar, en je betaalt niet voor functies die je niet gebruikt. Begin met het Lite-plan (~€14/maand) en schaal op wanneer nodig.
+**Als je een sales-gedreven MKB-bedrijf hebt** met 2 tot 50 medewerkers en je wilt morgen productief zijn: kies [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj). De 4.5/5 op Trustpilot met 3.200+ reviews liegt niet. Lees ook onze [Pipedrive review 2026](/blog/pipedrive-review-2026/) voor een uitgebreide hands-on analyse. Teams adopteren het snel, de kosten zijn voorspelbaar, en je betaalt niet voor functies die je niet gebruikt. Begin met het Lite-plan (~€14/maand) en schaal op wanneer nodig.
 
 **Als marketing en sales bij jouw bedrijf hand in hand gaan** en je hebt het budget voor een premium oplossing: kies [HubSpot](https://www.hubspot.com/nl). De kracht zit in de combinatie van marketing automation, lead nurturing en sales pipelines in een platform. Start met het gratis plan om te verkennen, maar weet dat de echte waarde in de betaalde plannen zit.
 

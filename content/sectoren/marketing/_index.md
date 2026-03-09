@@ -32,6 +32,7 @@ faq:
 tags:
   - marketing
   - sector
+affiliate: true
 ---
 
 {{< sector-cta-marketing >}}
@@ -46,7 +47,7 @@ Het onderscheid tussen marketing software en CRM software is voor veel onderneme
 
 Wat goede marketing software onderscheidt van middelmatige, zijn niet de features op de productpagina maar de resultaten die je ermee behaalt in de praktijk. Dat betekent: duidelijke rapportages die tonen welke campagnes daadwerkelijk omzet genereren, integraties met de tools die je al gebruikt zodat leads zonder handmatige stappen doorstromen, en een gebruikersinterface die je team zonder uitgebreide training kan bedienen. Automatiseringsregels die je in een kwartier zelf kunt instellen zijn meer waard dan geavanceerde functies waarvoor je een developer nodig hebt.
 
-Op deze pagina vergelijken we marketing software per sector en doelgroep. Gebruik ook de [marketing software keuzehulp](/tools/marketing/keuzehulp/) voor een persoonlijk advies en de [ROI berekenen tool](/tools/marketing/roi-berekenen/) om te bepalen welke investering voor jouw situatie rendabel is.
+Op deze pagina vergelijken we marketing software per sector en doelgroep. Gebruik ook de [marketing software keuzehulp](/tools/marketing/keuzehulp/) voor een persoonlijk advies en de [ROI berekenen tool](/tools/marketing/lead-roi-berekenen/) om te bepalen welke investering voor jouw situatie rendabel is.
 
 ## Hoe wij vergelijken
 
@@ -72,7 +73,7 @@ Marketing software wordt relevant zodra je meer wilt bereiken dan organisch bere
 
 Vier situaties waarbij marketing software direct meerwaarde heeft: je stuurt nieuwsbrieven handmatig vanuit een gewone mailbox en hebt geen inzicht in wie opent, klikt of afmeldt; je genereert leads via je website maar hebt geen automatisch systeem om ze snel op te volgen en ze verlopen zonder follow-up; je mist inzicht in welke marketingkanalen de meeste klanten opleveren en baseert je budget op aannames in plaats van data; je klanten ontvangen geen geautomatiseerde opvolging na een aankoop of offerteaanvraag en je laat herhaalomzet liggen.
 
-Marketing software pakt deze problemen aan door je e-maillijst te segmenteren op gedrag, automatisch follow-ups te sturen op basis van triggers en alle campagneresultaten centraal te rapporteren op kanaal, kosten en omzet. Gebruik de [marketing ROI berekenen tool](/tools/marketing/roi-berekenen/) om te berekenen welke investering voor jouw situatie rendabel is.
+Marketing software pakt deze problemen aan door je e-maillijst te segmenteren op gedrag, automatisch follow-ups te sturen op basis van triggers en alle campagneresultaten centraal te rapporteren op kanaal, kosten en omzet. Gebruik de [marketing ROI berekenen tool](/tools/marketing/lead-roi-berekenen/) om te berekenen welke investering voor jouw situatie rendabel is.
 
 ## Veelgestelde vragen
 
@@ -96,6 +97,6 @@ De meeste marketing platforms bieden native integraties met populaire CRM's zoal
 - [Social media management voor bureaus](/sectoren/marketing/social-media-management-bureaus/) -- Multi-klant planning, rapportages en goedkeuringsworkflows
 - [Leadgeneratie software voor B2B](/sectoren/marketing/leadgeneratie-software-b2b/) -- Websitebezoekers identificeren, lead scoring en CRM-koppelingen
 
-Of gebruik direct de [marketing software keuzehulp](/tools/marketing/keuzehulp/), [bereken je kosten](/tools/marketing/kosten-berekenen/), [bereken je ROI](/tools/marketing/roi-berekenen/) of [bekijk alle marketing software](/categories/marketing/).
+Of gebruik direct de [marketing software keuzehulp](/tools/marketing/keuzehulp/), [bereken je kosten](/tools/marketing/kosten-berekenen/), [bereken je ROI](/tools/marketing/lead-roi-berekenen/) of [bekijk alle marketing software](/categories/marketing/).
 
 {{< sector-cta-marketing >}}

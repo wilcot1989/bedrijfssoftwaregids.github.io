@@ -32,6 +32,7 @@ faq:
 tags:
   - hr-software
   - sector
+affiliate: true
 ---
 
 {{< sector-cta-hr >}}

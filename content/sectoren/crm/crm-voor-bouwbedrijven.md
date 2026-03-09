@@ -24,6 +24,7 @@ faq:
     a: "Een CRM beheert klantrelaties, offertes en verkoopprocessen. Een ERP integreert dat met boekhouding, projectmanagement, inkoop en HR in één systeem. Voor bouwbedrijven is een ERP als AFAS of Exact Online doorgaans voordeliger dan een apart CRM naast een boekhoudpakket, omdat dubbele invoer wordt voorkomen."
   - q: "Werkt CRM software ook goed op de bouwplaats via mobiel?"
     a: "Pipedrive heeft de sterkste mobiele app voor uitvoerders en accountmanagers die onderweg notities willen maken en activiteiten registreren. Exact Online heeft een mobiele app maar is primair een desktoptool. AFAS heeft een medewerkerapp maar die is meer gericht op HR en ureninvoer dan op CRM-gebruik buiten kantoor."
+affiliate: true
 ---
 
 {{< sector-cta-crm >}}
@@ -109,7 +110,7 @@ Heb je een actief acquisiteam dat offertes uitbrengt en klanten bezoekt? Dan is 
 - **MKB bouwbedrijf (5-25 pers.), wil één systeem:** Exact Online — prijs-kwaliteit winnaar.
 - **Groter bouwbedrijf, complex projectbeheer:** AFAS — de investering verdient zichzelf terug.
 
-Twijfel je nog? Gebruik de [CRM keuzehulp voor bouwbedrijven](/tools/crm/keuzehulp/) — in vijf vragen krijg je een concreet advies afgestemd op jouw bedrijfsgrootte en werkwijze. Bereken ook de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de [ROI van jouw CRM-investering](/tools/crm/roi-berekenen/) om de businesscase te maken.
+Twijfel je nog? Gebruik de [CRM keuzehulp voor bouwbedrijven](/tools/crm/keuzehulp/) — in vijf vragen krijg je een concreet advies afgestemd op jouw bedrijfsgrootte en werkwijze. Bereken ook de [CRM kosten per gebruiker](/tools/crm/kosten-berekenen/) en de [ROI van jouw CRM-investering](/tools/crm/roi-berekenen/) om de businesscase te maken. Of bekijk het [complete CRM-overzicht](/categories/crm/) voor een vergelijking van alle beschikbare systemen in Nederland.
 
 ## Hoe wij vergelijken
 

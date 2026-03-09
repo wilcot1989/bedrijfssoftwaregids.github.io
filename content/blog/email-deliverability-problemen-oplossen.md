@@ -22,6 +22,7 @@ faq:
 tags:
   - marketing
   - b2b
+affiliate: false
 ---
 
 Je hebt een mooie nieuwsbrief samengesteld, het verzendmoment zorgvuldig gekozen en de campagne verstuurd. En dan bereikt de e-mail de helft van je lijst niet. Ze belanden in de spamfolder, de promotietab of worden stil geblokkeerd zonder dat de ontvanger het merkt. Een hoog openpercentage helpt je niets als de e-mail de inbox niet haalt.

@@ -24,6 +24,7 @@ faq:
     a: "MailerLite heeft een ingebouwde landingspaginabouwer die ook in het gratis plan beschikbaar is. Je maakt in vijftien minuten een aanmeldpagina met je logo, een korte omschrijving en een formulier. Mailchimp heeft ook ingebouwde landingspaginas. Brevo heeft een beperktere landingspaginabouwer in de basistier."
   - q: "Hoe zorg ik dat mijn e-mails niet in de spammap belanden?"
     a: "Gebruik een zakelijk e-mailadres (geen Gmail of Hotmail) als afzenderadres. Voeg altijd een uitschrijflink toe aan je e-mails. Stuur alleen naar mensen die zich aangemeld hebben. MailerLite, Brevo en Mailchimp hebben allemaal goede deliverability-reputaties; zolang je lijst kwalitatief is, bereiken de meeste e-mails de inbox."
+affiliate: true
 ---
 
 {{< sector-cta-marketing >}}

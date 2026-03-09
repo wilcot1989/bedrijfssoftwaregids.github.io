@@ -24,6 +24,7 @@ faq:
     a: "Klaviyo heeft de sterkste omzetattributie: per flow en per campagne zie je exact hoeveel omzet direct toe te schrijven is aan een e-mail, inclusief welke producten werden besteld. Mailchimp toont omzetdata per campagne als je de Shopify-koppeling actief hebt. ActiveCampaign heeft beperktere omzetrapportages."
   - q: "Wat is het verschil tussen Klaviyo en Mailchimp voor een webshop?"
     a: "Klaviyo is gebouwd specifiek voor e-commerce en heeft diepere integratie met Shopify en WooCommerce, geavanceerde segmentatie op aankoopgedrag en directe omzetattributie. Mailchimp is een generalistisch e-mailplatform dat ook voor webshops werkt. Klaviyo is sterker maar duurder; Mailchimp is beter voor startende webshops met beperkt budget."
+affiliate: true
 ---
 
 {{< sector-cta-marketing >}}

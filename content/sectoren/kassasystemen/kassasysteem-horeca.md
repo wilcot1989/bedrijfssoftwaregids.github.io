@@ -24,6 +24,7 @@ faq:
     a: "Lightspeed Restaurant heeft native koppelingen met Thuisbezorgd, Uber Eats en Deliveroo ingebouwd; bestellingen komen direct in de keukenprinter terecht. Untill ondersteunt bezorgkoppelingen maar dan via externe integraties. Orderbird heeft beperkte bezorgplatform-integraties; dat maakt het minder geschikt voor zaken met actieve bezorgomzet."
   - q: "Hoeveel kassa's of iPads heb ik nodig voor mijn horecazaak?"
     a: "Een café of klein restaurant met twee medewerkers achter de bar volstaat met één iPad en een printer. Een brasserie met bediening aan tafel heeft doorgaans handheld terminals voor de bediening plus een vaste kassa. Untill levert handheld-terminals als geïntegreerd onderdeel; bij Lightspeed bestel je extra iPad-licenties voor EUR 39 per maand extra."
+affiliate: true
 ---
 
 {{< sector-cta-kassasystemen >}}
