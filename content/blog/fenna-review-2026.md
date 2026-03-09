@@ -19,7 +19,7 @@ featured_image: "/images/categories/boekhouding.svg"
 products:
   - name: "fENNA"
     description: "Eenvoudige boekhoudsoftware voor ZZP'ers met automatische BTW-aangifte en bankkoppeling."
-    url: "https://www.fenna.nl/"
+    url: "https://jf79.net/c/?si=16307&li=1700715&wi=418626&ws=&dl="
     price: "15.00"
     rating_value: "3.1"
     rating_count: "12"
@@ -87,7 +87,7 @@ Wat opvalt: **het Compleet-pakket bij jaarlijkse betaling kost precies evenveel 
 
 Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) om fENNA te vergelijken op basis van je eigen situatie.
 
-<a href="https://www.fenna.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer fENNA 1 maand gratis →</a>
+<a href="https://jf79.net/c/?si=16307&li=1700715&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer fENNA 1 maand gratis →</a>
 
 ### Wat zit in het Compleet-pakket?
 
@@ -218,7 +218,7 @@ De vergelijking maakt duidelijk waar fENNA staat: het is een degelijke maar bepe
 
 Wil je een diepere vergelijking? Lees mijn [Moneybird review](/blog/moneybird-review-2026/), de [e-Boekhouden review](/blog/e-boekhouden-review-2026/) of de [SnelStart review](/blog/snelstart-review-2026/) voor een volledig beeld. Ook de directe vergelijking [fENNA vs e-Boekhouden](/blog/fenna-vs-e-boekhouden-2026/) verschijnt binnenkort op deze site.
 
-<a href="https://www.fenna.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk fENNA pakketten →</a>
+<a href="https://jf79.net/c/?si=16307&li=1700715&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk fENNA pakketten →</a>
 
 ## Veelgemaakte fouten bij fENNA
 

@@ -252,7 +252,7 @@ fENNA past het beste bij jou als:
 - Je begint met **alleen factureren** en later wilt opschalen naar volledig boekhouden — het gratis Facturatie-plan geeft die ruimte
 - Je **1 maand** wilt proberen voordat je ergens aan vastligt
 
-<a href="https://www.fenna.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer fENNA 1 maand gratis →</a>
+<a href="https://jf79.net/c/?si=16307&li=1700715&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer fENNA 1 maand gratis →</a>
 
 ---
 
