@@ -68,7 +68,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 | **Toggl Track** | €9/user/mnd | 2.4/5 | ZZP & klein MKB |
 | **Harvest** | €10,80/user/mnd | 2.6/5 | Factureerbare uren |
 | **TimeCamp** | $5,99/user/mnd | 3.7/5 | Automatische tracking |
-| **Gripp** | ~€25/user/mnd | 1.9/5 | Nederlandse bureaus |
+| **Gripp** | ~€33/user/mnd | 1.9/5 | Nederlandse bureaus |
 
 Zoek je ook projectmanagement? Bekijk de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/) voor tools met ingebouwde timetracking. Wil je ook lonen verwerken naast je uren? Lees dan mijn vergelijking van de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/).
 

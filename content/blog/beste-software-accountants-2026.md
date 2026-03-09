@@ -155,9 +155,9 @@ De prijs. Twinfield is niet goedkoop, en net als Exact werkt het met offertes op
 ### Prijzen (maart 2026)
 
 Voor individuele ondernemers:
-- **Twinfield Extra Boekhouden**: €44/maand
-- **Twinfield MKB Boekhouden**: €61/maand
-- **Twinfield Compleet Boekhouden**: €91/maand
+- **Twinfield Extra Boekhouden**: €42/maand
+- **Twinfield MKB Boekhouden**: €59/maand
+- **Twinfield Compleet Boekhouden**: €88/maand
 
 Voor accountantskantoren geldt een vast tarief per administratie, op basis van offerte. Wolters Kluwer hanteert staffelkortingen bij grotere aantallen administraties. De samenstel- en jaarrekeningmodules zijn apart geprijsd.
 

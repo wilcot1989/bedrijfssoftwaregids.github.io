@@ -68,7 +68,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 
 | Product | Vanaf | Trustpilot | Beste voor |
 |---------|-------|------------|------------|
-| **Brevo** | €9/mnd | 4.2/5 | MKB met grote lijsten |
+| **Brevo** | €7/mnd | 4.2/5 | MKB met grote lijsten |
 | **Mailchimp** | $13/mnd | 2.8/5 | Starters & e-commerce |
 | **ActiveCampaign** | $15/mnd | 2.8/5 | Marketing automation |
 | **MailerLite** | $10/mnd | 4.3/5 | Kleine bedrijven |

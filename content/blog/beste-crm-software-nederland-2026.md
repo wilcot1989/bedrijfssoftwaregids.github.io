@@ -92,7 +92,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 | **Monday CRM** | €12/mnd | 2.7/5 | Projectmatige verkoop |
 | **Salesforce** | €25/mnd | 1.5/5 | Grote bedrijven |
 | **Exact Online CRM** | €49/mnd | 2.6/5 | Exact-gebruikers |
-| **Gripp** | €29/mnd | 1.9/5 | Bureaus & dienstverleners |
+| **Gripp** | €33/mnd | 1.9/5 | Bureaus & dienstverleners |
 | **Teamleader** | Op aanvraag | 4.4/5 | Belgisch/Nederlands MKB |
 | **Close CRM** | €35/mnd | 3.0/5 | Inside sales teams |
 
@@ -110,7 +110,7 @@ Voordat ik de systemen individueel bespreek, wil ik je eerst laten zien wat je w
 | **Salesforce** | €25 | €125 | Nee | €1.500 |
 | **Teamleader** | op aanvraag | op aanvraag | Nee | op aanvraag |
 | **Exact Online CRM** | vanaf €49/maand | €245 | Nee | €2.940 |
-| **Gripp** | €29 | €145 | Nee | €1.740 |
+| **Gripp** | €33 | €165 | Nee | €1.980 |
 | **Close CRM** | €35 (Essentials) | €175 | Nee | €2.100 |
 
 Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel op zodra je geavanceerde functies nodig hebt. Teamleader en Gripp zijn duurder op papier, maar vervangen meerdere losse tools -- reken dat mee.
@@ -127,7 +127,7 @@ Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel
 | **Salesforce** | €25/gebruiker | Nee (30 dagen trial) | Ja | 1.5/5 (610 reviews) | Grote bedrijven & enterprises |
 | **Teamleader** | op aanvraag | Nee (14 dagen trial) | Ja | 4.4/5 (265 reviews) | Belgisch/Nederlands MKB |
 | **Exact Online CRM** | vanaf €49/maand | Nee (30 dagen trial) | Ja | 2.6/5 (641 reviews) | Bedrijven met Exact boekhouding |
-| **Gripp** | €29/gebruiker | Nee (14 dagen trial) | Ja | 1.9/5 (20 reviews) | Bureaus & dienstverleners |
+| **Gripp** | €33/gebruiker | Nee (14 dagen trial) | Ja | 1.9/5 (20 reviews) | Bureaus & dienstverleners |
 | **Close CRM** | €35/gebruiker (Essentials) | Nee (14 dagen trial) | Nee | 3.0/5 (11 reviews) | Inside sales & SDR-teams |
 
 ## 1. HubSpot CRM — de beste gratis start

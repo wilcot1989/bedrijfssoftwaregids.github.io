@@ -82,7 +82,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 | **SnelStart** | Gratis | 3.9/5 | ZZP/MKB met gratis plan & Nederlandse focus |
 | **e-Boekhouden.nl** | €9,95/mnd | 4.6/5 | Prijs-kwaliteit & telefonische support |
 | **Moneybird** | €15/mnd | 3.5/5 | Gebruiksgemak & freelancers |
-| **InformerOnline** | €17/mnd | 4.3/5 | Samenwerking met boekhouder |
+| **InformerOnline** | €15/mnd | 4.3/5 | Samenwerking met boekhouder |
 | **FreshBooks** | €17,50/mnd | 3.9/5 | Internationale freelancers |
 | **Exact Online** | €49/mnd | 2.6/5 | Groeiende bedrijven & integraties |
 
@@ -97,9 +97,9 @@ Voordat ik elk pakket apart bespreek, eerst het overzicht waar het om draait —
 | **Moneybird** | €15/mnd (20 transacties) | €28/mnd (50 transacties) | Ja (max 3 facturen/mnd) | Ja | Ja | 3.5/5 (180) |
 | **Exact Online** | €49/mnd (Essentials) | €99/mnd (Plus) | Nee (30 dagen trial) | Ja | Ja | 2.6/5 (641) |
 | **e-Boekhouden.nl** | €9,95/mnd (240 boekingen) | €14,50/mnd (onbeperkt) | Nee (15 mnd gratis voor starters) | Ja | Ja | 4.6/5 (1.857) |
-| **SnelStart** | €16/mnd | €28/mnd (SnelStart M) | Ja (gratis basisplan) | Ja | Ja | 3.9/5 |
+| **SnelStart** | €16/mnd | €22/mnd (Web Compleet Plus) | Ja (gratis basisplan) | Ja | Ja | 3.9/5 |
 | **FreshBooks** | $19/mnd (±€17,50, 5 klanten) | $33/mnd (±€30, 50 klanten) | Nee (30 dagen trial) | Beperkt | Beperkt | 3.9/5 (984) |
-| **InformerOnline** | €17/mnd (Starter) | €27/mnd (Professional) | Nee (30 dagen trial) | Ja | Ja | 4.3/5 (113) |
+| **InformerOnline** | €15/mnd (Starter) | €23/mnd (Professional) | Nee (30 dagen trial) | Ja | Ja | 4.3/5 (113) |
 | **Jortt** | Gratis (basis) | €19,95/mnd (ZZP) | Ja | Ja | Ja (betaald) | 4.7/5 (185) |
 
 Wat meteen opvalt: het duurste pakket (Exact Online) heeft de laagste Trustpilot-score. En e-Boekhouden.nl — niet het meest sexy merk — scoort het hoogst met een 4.6 op bijna 1.900 reviews. Dat zegt iets.
@@ -389,7 +389,7 @@ Laat me het even concreet doorrekenen voor de meest gekozen pakketten:
 | Jortt ZZP | €19,95 | €239 | BTW, bank, facturen |
 | e-Boekhouden ZZP | €9,95 | €119 | BTW, bank, facturen |
 | Moneybird 50 transacties | €28 | €336 | BTW, bank, tot 50 transacties |
-| InformerOnline Starter | €17 | €204 | BTW, bank, boekhouder-toegang |
+| InformerOnline Starter | €15 | €180 | BTW, bank, boekhouder-toegang |
 | SnelStart Basis | €16 | €192 | BTW, bank, facturen, loonadministratie |
 | Exact Online Essentials | €49 | €588 | BTW, bank, 300+ integraties |
 
@@ -408,7 +408,7 @@ Technisch kan het, maar ik raad het af. De meeste pakketten bieden import/export
 | **Starter / bijverdiener** | Jortt | Simpelst, gratis starten | €0–19,95 |
 | **ZZP'er, eenvoudige administratie** | Moneybird | Prettigste interface, compleet | €28 |
 | **Budget-bewuste ZZP'er** | e-Boekhouden.nl | Meest voor minste geld, top support | €9,95 |
-| **ZZP'er met boekhouder** | InformerOnline | Beste boekhouder-samenwerking | €17 |
+| **ZZP'er met boekhouder** | InformerOnline | Beste boekhouder-samenwerking | €15 |
 | **ZZP/MKB, Nederlandse focus** | SnelStart | Gratis instap, vertrouwd NL pakket | €0–16 |
 | **ZZP'er die wil groeien naar BV** | Exact Online | Meest complete, schaalt mee | €49 |
 | **Internationale freelancer** | FreshBooks | Multi-valuta, Engelse interface | $19/mnd (±€17,50) |

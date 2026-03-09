@@ -43,7 +43,7 @@ Zoek je meer dan alleen een mobiele app? Lees dan mijn complete overzicht van de
 | **Moneybird** | iOS, Android | Gratis / €15 | Uitstekend | Ja | Ja | Uitstekend |
 | **Jortt** | iOS, Android | Gratis / €19,95 | Goed | Ja | Ja | Zeer goed |
 | **Exact Online** | iOS, Android | €49 | Goed | Ja | Ja | Goed |
-| **e-Boekhouden** | iOS, Android | €11,50 | Basis | Ja | Ja | Redelijk |
+| **e-Boekhouden** | iOS, Android | €9,95 | Basis | Ja | Ja | Redelijk |
 | **FreshBooks** | iOS, Android | $19 (USD) | Goed | Ja | Beperkt | Uitstekend |
 
 ---

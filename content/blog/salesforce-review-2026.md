@@ -231,7 +231,7 @@ Voor de meeste MKB-bedrijven die overwegen Salesforce te kopen, zijn er betere o
 | **[HubSpot CRM](/blog/salesforce-vs-hubspot-2026/)** | Marketing-gedreven MKB, groeistrategie | Gratis / €15/user/mnd | Laag-middel | 1,9/5 |
 | **Pipedrive** | Salesteams, eenvoud, pipeline-focus | ~$14/user/mnd | Laag | 4,3/5 |
 | **Monday CRM** | Projectmatige verkoop, visuele teams | €12/user/mnd | Laag-middel | 4,3/5 |
-| **Teamleader** | Benelux MKB, CRM + facturatie + projecten | €30/user/mnd | Middel | 4,4/5 |
+| **Teamleader** | Benelux MKB, CRM + facturatie + projecten | €37,50/user/mnd | Middel | 4,4/5 |
 
 Voor een uitgebreid vergelijking, lees ook mijn artikel over [Salesforce vs HubSpot](/blog/salesforce-vs-hubspot-2026/).
 

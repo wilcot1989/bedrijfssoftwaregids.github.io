@@ -18,9 +18,9 @@ faq:
   - q: "Wat is intranet software?"
     a: "Intranet software is een intern platform waar medewerkers bedrijfsinformatie vinden, communiceren en samenwerken. Het vervangt losse documenten, e-mailketens en WhatsApp-groepen door een centraal systeem met nieuws, kennisbank, documenten, medewerkersprofielen en interne communicatie."
   - q: "Welk intranet is het beste voor MKB?"
-    a: "Notion is het beste voor kleine teams (5-50 medewerkers): eenvoudig, betaalbaar (€8/user/mnd) en flexibel als kennisbank en wiki. SharePoint is het beste voor bedrijven die al Microsoft 365 gebruiken. Happeo is het beste voor Google Workspace gebruikers."
+    a: "Notion is het beste voor kleine teams (5-50 medewerkers): eenvoudig, betaalbaar (€10/user/mnd) en flexibel als kennisbank en wiki. SharePoint is het beste voor bedrijven die al Microsoft 365 gebruiken. Happeo is het beste voor Google Workspace gebruikers."
   - q: "Hoeveel kost intranet software?"
-    a: "Gratis opties: Notion (beperkt), SharePoint (bij M365). Betaald: €4-€15/gebruiker/maand. Notion Team: €8/user/mnd, Confluence: €5,75/user/mnd, Happeo: op aanvraag. SharePoint is inbegrepen bij Microsoft 365 Business Basic (€5,60/user/mnd). Enterprise-intranetten kosten €8-€20/user/mnd."
+    a: "Gratis opties: Notion (beperkt), SharePoint (bij M365). Betaald: €4-€15/gebruiker/maand. Notion Team: €10/user/mnd, Confluence: €5,75/user/mnd, Happeo: op aanvraag. SharePoint is inbegrepen bij Microsoft 365 Business Basic (€5,60/user/mnd). Enterprise-intranetten kosten €8-€20/user/mnd."
   - q: "Heb ik een intranet nodig?"
     a: "Vanaf 10 medewerkers wordt een intranet waardevol: belangrijke info raakt zoek in e-mail, nieuwe medewerkers vinden niets terug, en er is geen centraal punt voor procedures en handleidingen. Vanaf 25 medewerkers is het bijna noodzakelijk. Onder 10 medewerkers kan een gedeeld Notion-workspace volstaan."
   - q: "Wat is het verschil tussen een intranet en een kennisbank?"
@@ -38,7 +38,7 @@ Wil je breder kijken naar samenwerkingstools? Bekijk de [volledige productivitei
 
 | Platform | Prijs vanaf | Type | Gebruiksgemak | Beste voor |
 |----------|-----------|------|-------------|-----------|
-| **Notion** | €8/user/mnd | Wiki/kennisbank | ⭐⭐⭐⭐⭐ | Kleine teams, flexibiliteit |
+| **Notion** | €10/user/mnd | Wiki/kennisbank | ⭐⭐⭐⭐⭐ | Kleine teams, flexibiliteit |
 | **SharePoint** | Inbegrepen M365 | Volledig intranet | ⭐⭐⭐ | Microsoft 365 bedrijven |
 | **Confluence** | €5,75/user/mnd | Wiki/kennisbank | ⭐⭐⭐⭐ | Technische teams, Atlassian |
 | **Happeo** | Op aanvraag | Sociaal intranet | ⭐⭐⭐⭐ | Google Workspace bedrijven |

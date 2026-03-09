@@ -53,7 +53,7 @@ Goede CLM-software automatiseert stap 1 t/m 6. De winst zit niet alleen in tijdb
 |------|-----------|---------------------|----------|-------------|-----------|
 | **Contractbook** | €39/user/mnd | ✅ | ✅ | ✅ | MKB, gebruiksgemak |
 | **Juro** | Op aanvraag | ✅ | ✅ | ✅ | Scale-ups, juridisch |
-| **PandaDoc** | €15/user/mnd | ✅ | ✅ | ✅ | Offertes + contracten |
+| **PandaDoc** | €19/user/mnd | ✅ | ✅ | ✅ | Offertes + contracten |
 | **DocuSign CLM** | Op aanvraag | ✅✅ | ✅ | ✅ | Enterprise |
 | **Precisely** | €29/user/mnd | ✅ | ✅ | ✅ | EU/NL compliance |
 
@@ -217,7 +217,7 @@ Alle lopende contracten moeten in het nieuwe systeem. Contractbook biedt AI-extr
 
 ## Conclusie
 
-Voor de meeste MKB-bedrijven is **PandaDoc** de beste start: betaalbaar (€15/user/mnd), onbeperkt e-signatures en een vloeiende offerte-naar-contract workflow. Heb je meer contractmanagement software nodig met herinneringen, dashboards en analytics? Dan is **Contractbook** de investering waard. Als je ook je urenregistratie en tijdschrijven per contract wilt bijhouden, bekijk dan de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
+Voor de meeste MKB-bedrijven is **PandaDoc** de beste start: betaalbaar (€19/user/mnd), onbeperkt e-signatures en een vloeiende offerte-naar-contract workflow. Heb je meer contractmanagement software nodig met herinneringen, dashboards en analytics? Dan is **Contractbook** de investering waard. Als je ook je urenregistratie en tijdschrijven per contract wilt bijhouden, bekijk dan de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
 
 Wil je de kosten doorrekenen? Gebruik de [productiviteitssoftware kostencalculator](/tools/productiviteit/keuzehulp/) om een eerlijk beeld te krijgen. En voor vergadering en samenwerking rondom contractbesprekingen lees ik graag de [beste vergadersoftware](/blog/beste-vergadersoftware-2026/) en voor ZZP'ers ook het pakket aan [beste software voor ZZP'ers](/blog/beste-software-zzp-2026/).
 

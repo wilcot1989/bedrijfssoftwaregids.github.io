@@ -96,7 +96,7 @@ Wil je precies berekenen wat e-Boekhouden jou per jaar kost ten opzichte van alt
 | **e-Boekhouden** | ZZP | €9,95 | €119 | — |
 | **Moneybird** | Starter | €15 | €180 | +€61/jaar |
 | **Moneybird** | Growth | €28 | €336 | +€217/jaar |
-| **Jortt** | Compleet | €9,00 | €108 | -€11/jaar |
+| **Jortt** | Compleet | €19,95 | €239 | +€120/jaar |
 | **Exact Online** | Essentials | €49 | €588 | +€469/jaar |
 
 Het instapmodel van e-Boekhouden (€9,95) is goedkoper dan Moneybird Starter (€15), en je krijgt er meer voor: volledige BTW-aangifte, uitgebreidere rapportages en telefonische support. Dat maakt het netto een betere deal.

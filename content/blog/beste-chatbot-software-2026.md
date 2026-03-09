@@ -397,7 +397,7 @@ Als je e-mail ook automatiseert naast je chatbot, bekijk dan mijn vergelijking v
 
 Ik zie ondernemers steeds dezelfde fouten maken. De drie duurste:
 
-**Te snel premium kiezen.** Je start met Intercom Advanced omdat je "toekomstbestendig" wilt zijn. Drie maanden later gebruik je 10% van de functies en betaal je €200/maand voor iets wat Tidio voor €39 had gedaan. Begin altijd met het goedkoopste plan dat je basisbehoeften dekt. Upgraden kan altijd nog.
+**Te snel premium kiezen.** Je start met Intercom Advanced omdat je "toekomstbestendig" wilt zijn. Drie maanden later gebruik je 10% van de functies en betaal je €200/maand voor iets wat Tidio voor €29 had gedaan. Begin altijd met het goedkoopste plan dat je basisbehoeften dekt. Upgraden kan altijd nog.
 
 **Geen fallback-scenario.** Wat gebeurt er als je chatbot offline is? Als de API van Intercom een storing heeft? Bij een klant ging de chatbot drie uur offline op Black Friday — hun drukste dag. Geen fallback contactformulier, geen telefoonnummer. Zorg dat bezoekers altijd een alternatief hebben.
 

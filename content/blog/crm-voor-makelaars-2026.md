@@ -44,7 +44,7 @@ Zoek je liever een compleet makelaarspakket met ingebouwde Funda-koppeling, woni
 | **HubSpot CRM** | Gratis / €15/gebruiker | Nee (maatwerk) | Nee | Nee (maatwerk) | Marketing-gerichte kantoren |
 | **Pipedrive** | ~$14/gebruiker | Nee (maatwerk) | Nee | Nee (maatwerk) | Kleine makelaarskantoren |
 | **Salesforce** | €25/gebruiker | Via partner-apps | Via maatwerk | Via apps | Grote kantoren & ketens |
-| **Gripp** | €29/gebruiker | Nee | Nee | Nee | Makelaar-adviseurs & taxateurs |
+| **Gripp** | €33/gebruiker | Nee | Nee | Nee | Makelaar-adviseurs & taxateurs |
 
 ## 1. Realworks
 

@@ -44,8 +44,8 @@ Dit zijn de toolcategorieën die elke ZZP'er vroeg of laat nodig heeft:
 | **Urenregistratie** | Uren bijhouden per klant/project | Toggl Track | Gratis - €9/mnd |
 | **CRM / klantbeheer** | Contacten, deals, opvolging | HubSpot CRM | Gratis |
 | **Offertes & contracten** | Professionele offertes maken | Moneybird of Rompslomp | €7,50-15/mnd |
-| **Projectmanagement** | Taken, deadlines, overzicht | Notion | Gratis - €8/mnd |
-| **Website & portfolio** | Online zichtbaarheid | WordPress of Wix | €0-15/mnd |
+| **Projectmanagement** | Taken, deadlines, overzicht | Notion | Gratis - €10/mnd |
+| **Website & portfolio** | Online zichtbaarheid | WordPress of Wix | €0-17/mnd |
 | **Planning & agenda** | Afspraken, beschikbaarheid | Calendly | Gratis - €10/mnd |
 
 **Totaal**: een compleet ZZP-pakket kost je €25-60 per maand als je slim combineert. Dat is minder dan een uurtje werk bij de meeste tarieven.
@@ -60,7 +60,7 @@ Ik heb hier een [compleet artikel](/blog/beste-boekhoudsoftware-zzp-2026/) over 
 - **[Moneybird](https://www.moneybird.nl/)** (€15/mnd) — het populairst onder ZZP'ers vanwege de prettige interface. Urenregistratie en offertes zitten ingebouwd. Mijn standaard aanbeveling.
 - **[e-Boekhouden.nl](https://www.e-boekhouden.nl/)** (€9,95/mnd) — beste prijs-kwaliteit met een Trustpilot van 4.7/5. **15 maanden gratis voor starters.**
 - **SnelStart** (gratis basisplan / €16/mnd) — Nederlandstalig boekhoudpakket van Visma met 250.000+ gebruikers. Gratis starten, volledige BTW-aangifte en bankkoppeling. Goede keuze als je een vertrouwd lokaal pakket wilt zonder veel franje. <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
-- **[Rompslomp](https://rompslomp.nl/)** (€12,50/mnd) — 100% gebouwd voor ZZP'ers, geen overbodige functies.
+- **[Rompslomp](https://rompslomp.nl/)** (€13,50/mnd) — 100% gebouwd voor ZZP'ers, geen overbodige functies.
 
 **Mijn advies:** als je net start, begin bij e-Boekhouden (gratis tot 15 maanden). Wil je de prettigste ervaring? Kies Moneybird. Lees de volledige vergelijking: [Beste Boekhoudprogramma ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/). Twijfel je nog welk boekhoudprogramma het beste bij jou past? Lees dan mijn artikel [boekhoudprogramma kiezen: 7 vragen](/blog/boekhoudprogramma-kiezen-7-vragen/).
 
@@ -126,7 +126,7 @@ Zelfs als solo-ondernemer heb je overzicht nodig over je lopende projecten, dead
 Je website is je visitekaartje. Als een potentiële klant je googelt en niets vindt, verlies je werk. Je hoeft geen duizend euro uit te geven aan een webdesigner — met de juiste tool bouw je zelf een professionele site.
 
 - **[WordPress](https://wordpress.org/)** (gratis software, hosting vanaf €5/mnd) — de standaard. Maximale controle en SEO-mogelijkheden. Iets meer technisch, maar er zijn duizenden templates.
-- **[Wix](https://www.wix.com/)** (vanaf €8,50/mnd) — de makkelijkste optie. Drag-and-drop, geen code nodig, binnen een middag een professionele site.
+- **[Wix](https://www.wix.com/)** (vanaf €17/mnd) — de makkelijkste optie. Drag-and-drop, geen code nodig, binnen een middag een professionele site.
 - **[LinkedIn](https://www.linkedin.com/)** (gratis) — onderschat dit niet. Veel ZZP'ers halen het gros van hun werk via LinkedIn. Een goed profiel is effectiever dan een matige website.
 
 **Mijn advies:** investeer eerst in een sterk LinkedIn-profiel (gratis). Bouw daarna een simpele website met Wix of WordPress. Meer opties: [Beste Websitebouwer MKB 2026](/blog/beste-website-bouwers-mkb-2026/). Wil je ook social media professioneel inzetten als ZZP'er? Lees mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/).
@@ -172,7 +172,7 @@ Nog beter: als starter krijg je e-Boekhouden 15 maanden gratis. Dan is je eerste
 | CRM | HubSpot gratis | €0 |
 | Offertes | Moneybird (ingebouwd) | €0 |
 | Projectmanagement | Notion gratis | €0 |
-| Website | Wix Personal | €8,50/mnd |
+| Website | Wix Light | €17/mnd |
 | Planning | Calendly gratis | €0 |
 | **Totaal** | | **€23,50/mnd** |
 
@@ -207,7 +207,7 @@ Nog beter: als starter krijg je e-Boekhouden 15 maanden gratis. Dan is je eerste
 | **Net gestart, budget is krap** | e-Boekhouden (gratis 15 mnd) | HubSpot gratis | Toggl gratis, Notion gratis |
 | **Freelancer, op uurbasis** | Moneybird Starter (€15) | HubSpot gratis | Toggl Track, Calendly |
 | **ZZP'er met veel klanten** | Moneybird Growth (€28) | Pipedrive Lite (~$14) | Monday.com, PandaDoc |
-| **Creatieve ZZP'er (design, foto)** | Rompslomp (€12,50) | HubSpot gratis | Notion, Wix (portfolio) |
+| **Creatieve ZZP'er (design, foto)** | Rompslomp (€13,50) | HubSpot gratis | Notion, Wix (portfolio) |
 | **Consultant met groeiambities** | Exact Online (€49) | HubSpot Pro | Monday.com, Calendly Pro |
 
 Het belangrijkste: begin met het minimum en bouw uit. Je hebt op dag 1 echt alleen boekhoudsoftware nodig. De rest komt vanzelf als je groeit. En overstappen kan altijd — je zit nergens aan vast. Ben je klaar om te vergaderen met klanten via videobellen? Lees mijn overzicht van de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/).

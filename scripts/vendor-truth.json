@@ -2,7 +2,8 @@
   "_meta": {
     "description": "Vendor-truth database — single source of truth voor prijzen, pakketnamen en Trustpilot scores",
     "last_full_check": "2026-03-09",
-    "generated_by": "check-vendor-prices.py"
+    "generated_by": "check-vendor-prices.py",
+    "product_count": 133
   },
   "products": [
     {
@@ -1635,6 +1636,1924 @@
         "score": 1.3,
         "count": 1411,
         "checked": "2026-03-09"
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "microsoft-teams",
+      "name": "Microsoft Teams",
+      "category": "vergadersoftware",
+      "pricing_url": "https://www.microsoft.com/nl-nl/microsoft-teams/compare-microsoft-teams-options",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Essentials",
+          "price_monthly": 4.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Business Basic",
+          "price_monthly": 5.6,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "google-meet",
+      "name": "Google Meet",
+      "category": "vergadersoftware",
+      "pricing_url": "https://workspace.google.com/intl/nl/pricing/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Inbegrepen in Workspace",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Starter",
+          "price_monthly": 6.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "webex",
+      "name": "Webex",
+      "category": "vergadersoftware",
+      "pricing_url": "https://www.webex.com/pricing/index.html",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Betaald",
+          "price_monthly": 12.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "whereby",
+      "name": "Whereby",
+      "category": "vergadersoftware",
+      "pricing_url": "https://whereby.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 8.5,
+          "billing": "monthly"
+        },
+        {
+          "name": "Business",
+          "price_monthly": 12.5,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "category": "marketing",
+      "pricing_url": "https://buffer.com/pricing",
+      "trustpilot_slug": "buffer.com",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Essentials",
+          "price_monthly": 6.0,
+          "billing": "monthly",
+          "note": "per kanaal"
+        },
+        {
+          "name": "Team",
+          "price_monthly": 12.0,
+          "billing": "monthly",
+          "note": "per kanaal"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "hootsuite",
+      "name": "Hootsuite",
+      "category": "marketing",
+      "pricing_url": "https://www.hootsuite.com/plans",
+      "trustpilot_slug": "hootsuite.com",
+      "plans": [
+        {
+          "name": "Professional",
+          "price_monthly": 99.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Team",
+          "price_monthly": 249.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "sprout-social",
+      "name": "Sprout Social",
+      "category": "marketing",
+      "pricing_url": "https://sproutsocial.com/pricing/",
+      "trustpilot_slug": "sproutsocial.com",
+      "plans": [
+        {
+          "name": "Standard",
+          "price_monthly": 199.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Professional",
+          "price_monthly": 299.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Advanced",
+          "price_monthly": 399.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "later",
+      "name": "Later",
+      "category": "marketing",
+      "pricing_url": "https://later.com/pricing/",
+      "trustpilot_slug": "later.com",
+      "plans": [
+        {
+          "name": "Starter",
+          "price_monthly": 25.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Growth",
+          "price_monthly": 50.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Scale",
+          "price_monthly": 110.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "socialbee",
+      "name": "SocialBee",
+      "category": "marketing",
+      "pricing_url": "https://socialbee.com/pricing/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Bootstrap",
+          "price_monthly": 29.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Accelerate",
+          "price_monthly": 49.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 99.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "intercom",
+      "name": "Intercom",
+      "category": "klantenservice",
+      "pricing_url": "https://www.intercom.com/pricing",
+      "trustpilot_slug": "www.intercom.com",
+      "plans": [
+        {
+          "name": "Essential",
+          "price_monthly": 29.0,
+          "billing": "monthly",
+          "note": "per seat"
+        },
+        {
+          "name": "Advanced",
+          "price_monthly": 85.0,
+          "billing": "monthly",
+          "note": "per seat"
+        },
+        {
+          "name": "Expert",
+          "price_monthly": 132.0,
+          "billing": "monthly",
+          "note": "per seat"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "drift",
+      "name": "Drift",
+      "category": "marketing",
+      "pricing_url": "https://www.drift.com/pricing/",
+      "trustpilot_slug": "www.drift.com",
+      "plans": [
+        {
+          "name": "Vanaf",
+          "price_monthly": 2500.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "chatbot",
+      "name": "ChatBot",
+      "category": "marketing",
+      "pricing_url": "https://www.chatbot.com/pricing/",
+      "trustpilot_slug": "www.chatbot.com",
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "freshdesk",
+      "name": "Freshdesk",
+      "category": "klantenservice",
+      "pricing_url": "https://www.freshworks.com/freshdesk/pricing/",
+      "trustpilot_slug": "freshdesk.com",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "2 agents"
+        },
+        {
+          "name": "Growth",
+          "price_monthly": 15.0,
+          "billing": "monthly",
+          "note": "per agent"
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 49.0,
+          "billing": "monthly",
+          "note": "per agent"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "trengo",
+      "name": "Trengo",
+      "category": "klantenservice",
+      "pricing_url": "https://trengo.com/nl/pricing",
+      "trustpilot_slug": "www.trengo.com",
+      "plans": [
+        {
+          "name": "Vanaf",
+          "price_monthly": 19.0,
+          "billing": "monthly",
+          "note": "per agent"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "sharepoint",
+      "name": "SharePoint",
+      "category": "productiviteit",
+      "pricing_url": "https://www.microsoft.com/nl-nl/microsoft-365/sharepoint/compare-sharepoint-plans",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "M365 Business Basic",
+          "price_monthly": 5.6,
+          "billing": "monthly",
+          "note": "per gebruiker, inbegrepen bij M365"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "google-workspace",
+      "name": "Google Workspace",
+      "category": "productiviteit",
+      "pricing_url": "https://workspace.google.com/intl/nl/pricing/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Starter",
+          "price_monthly": 6.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Standard",
+          "price_monthly": 12.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Plus",
+          "price_monthly": 18.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "dropbox-business",
+      "name": "Dropbox Business",
+      "category": "productiviteit",
+      "pricing_url": "https://www.dropbox.com/plans",
+      "trustpilot_slug": "www.dropbox.com",
+      "plans": [
+        {
+          "name": "Essentials",
+          "price_monthly": 12.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Business",
+          "price_monthly": 15.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Plus",
+          "price_monthly": 24.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "box",
+      "name": "Box",
+      "category": "productiviteit",
+      "pricing_url": "https://www.box.com/pricing",
+      "trustpilot_slug": "www.box.com",
+      "plans": [
+        {
+          "name": "Vanaf",
+          "price_monthly": 13.5,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "docuware",
+      "name": "DocuWare",
+      "category": "productiviteit",
+      "pricing_url": "https://start.docuware.com/nl/prijzen",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "confluence",
+      "name": "Confluence",
+      "category": "productiviteit",
+      "pricing_url": "https://www.atlassian.com/software/confluence/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "tot 10 gebruikers"
+        },
+        {
+          "name": "Standard",
+          "price_monthly": 5.75,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Premium",
+          "price_monthly": 11.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "happeo",
+      "name": "Happeo",
+      "category": "productiviteit",
+      "pricing_url": "https://www.happeo.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "workvivo",
+      "name": "Workvivo",
+      "category": "productiviteit",
+      "pricing_url": "https://www.workvivo.com/pricing/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "contractbook",
+      "name": "Contractbook",
+      "category": "offerte",
+      "pricing_url": "https://contractbook.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Essential",
+          "price_monthly": 39.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Growth",
+          "price_monthly": 79.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "juro",
+      "name": "Juro",
+      "category": "offerte",
+      "pricing_url": "https://juro.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "docusign",
+      "name": "DocuSign CLM",
+      "category": "offerte",
+      "pricing_url": "https://www.docusign.com/products/clm/pricing",
+      "trustpilot_slug": "www.docusign.com",
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "precisely",
+      "name": "Precisely",
+      "category": "offerte",
+      "pricing_url": "https://precisely.app/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Essential",
+          "price_monthly": 29.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Professional",
+          "price_monthly": 59.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "offorte",
+      "name": "Offorte",
+      "category": "offerte",
+      "pricing_url": "https://www.offorte.nl/prijzen",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Starter",
+          "price_monthly": 25.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Professional",
+          "price_monthly": 35.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Business",
+          "price_monthly": 49.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "proposify",
+      "name": "Proposify",
+      "category": "offerte",
+      "pricing_url": "https://www.proposify.com/pricing",
+      "trustpilot_slug": "www.proposify.com",
+      "plans": [
+        {
+          "name": "Team",
+          "price_monthly": 29.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Business",
+          "price_monthly": 65.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "sap-business-one",
+      "name": "SAP Business One",
+      "category": "erp",
+      "pricing_url": "https://www.sap.com/netherlands/products/erp/business-one/pricing.html",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Cloud",
+          "price_monthly": 150.0,
+          "billing": "monthly",
+          "note": "per gebruiker, €150-€250"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "dynamics-365",
+      "name": "Microsoft Dynamics 365 BC",
+      "category": "erp",
+      "pricing_url": "https://dynamics.microsoft.com/nl-nl/business-central/overview/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Essentials",
+          "price_monthly": 60.8,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Premium",
+          "price_monthly": 86.9,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "odoo",
+      "name": "Odoo",
+      "category": "erp",
+      "pricing_url": "https://www.odoo.com/nl_NL/pricing",
+      "trustpilot_slug": "www.odoo.com",
+      "plans": [
+        {
+          "name": "Standard",
+          "price_monthly": 24.9,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Custom",
+          "price_monthly": 37.4,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "minox",
+      "name": "Minox",
+      "category": "boekhouding",
+      "pricing_url": "https://www.minox.nl/prijzen",
+      "trustpilot_slug": "www.minox.nl",
+      "plans": [
+        {
+          "name": "Kantoor",
+          "price_monthly": 34.5,
+          "billing": "monthly"
+        },
+        {
+          "name": "Per admin",
+          "price_monthly": 9.75,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "yuki",
+      "name": "Yuki",
+      "category": "boekhouding",
+      "pricing_url": "https://www.yuki.nl/nl/prijzen",
+      "trustpilot_slug": "www.yuki.nl",
+      "plans": [
+        {
+          "name": "Portal",
+          "price_monthly": 405.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Per admin",
+          "price_monthly": 9.75,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "visma-eaccounting",
+      "name": "Visma eAccounting",
+      "category": "boekhouding",
+      "pricing_url": "https://www.visma.nl/boekhoudprogramma/",
+      "trustpilot_slug": "www.visma.nl",
+      "plans": [
+        {
+          "name": "Vanaf",
+          "price_monthly": 41.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "visma-raet",
+      "name": "Visma Raet",
+      "category": "hr-software",
+      "pricing_url": "https://www.visma.nl/hr-software/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Vanaf",
+          "price_monthly": 8.0,
+          "billing": "monthly",
+          "note": "per medewerker, €8-€15"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "adp",
+      "name": "ADP",
+      "category": "hr-software",
+      "pricing_url": "https://www.adp.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "shiftbase",
+      "name": "Shiftbase",
+      "category": "hr-software",
+      "pricing_url": "https://www.shiftbase.com/nl/prijzen",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "1 locatie"
+        },
+        {
+          "name": "Basic",
+          "price_monthly": 3.0,
+          "billing": "monthly",
+          "note": "per medewerker"
+        },
+        {
+          "name": "Premium",
+          "price_monthly": 6.0,
+          "billing": "monthly",
+          "note": "per medewerker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "planday",
+      "name": "Planday",
+      "category": "hr-software",
+      "pricing_url": "https://www.planday.com/nl/prijzen/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Starter",
+          "price_monthly": 2.49,
+          "billing": "monthly",
+          "note": "per medewerker"
+        },
+        {
+          "name": "Plus",
+          "price_monthly": 4.49,
+          "billing": "monthly",
+          "note": "per medewerker"
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 6.49,
+          "billing": "monthly",
+          "note": "per medewerker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "deputy",
+      "name": "Deputy",
+      "category": "hr-software",
+      "pricing_url": "https://www.deputy.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Scheduling",
+          "price_monthly": 4.5,
+          "billing": "monthly",
+          "note": "per medewerker"
+        },
+        {
+          "name": "Premium",
+          "price_monthly": 6.0,
+          "billing": "monthly",
+          "note": "per medewerker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "workforce",
+      "name": "Workforce.com",
+      "category": "hr-software",
+      "pricing_url": "https://workforce.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "tamigo",
+      "name": "Tamigo",
+      "category": "hr-software",
+      "pricing_url": "https://tamigo.com/nl/prijzen/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "dyflexis",
+      "name": "Dyflexis",
+      "category": "hr-software",
+      "pricing_url": "https://www.dyflexis.com/nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "recruitee",
+      "name": "Recruitee",
+      "category": "hr-software",
+      "pricing_url": "https://recruitee.com/nl/prijzen",
+      "trustpilot_slug": "www.recruitee.com",
+      "plans": [
+        {
+          "name": "Start",
+          "price_monthly": 270.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Advance",
+          "price_monthly": 343.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "homerun",
+      "name": "Homerun",
+      "category": "hr-software",
+      "pricing_url": "https://www.homerun.co/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Starter",
+          "price_monthly": 79.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Growth",
+          "price_monthly": 149.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Business",
+          "price_monthly": 239.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Scale",
+          "price_monthly": 399.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "greenhouse",
+      "name": "Greenhouse",
+      "category": "hr-software",
+      "pricing_url": "https://www.greenhouse.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "bullhorn",
+      "name": "Bullhorn",
+      "category": "hr-software",
+      "pricing_url": "https://www.bullhorn.com/pricing/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "harvest",
+      "name": "Harvest",
+      "category": "productiviteit",
+      "pricing_url": "https://www.getharvest.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "1 gebruiker"
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 10.8,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "timecamp",
+      "name": "TimeCamp",
+      "category": "productiviteit",
+      "pricing_url": "https://www.timecamp.com/pricing/",
+      "trustpilot_slug": "www.timecamp.com",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Betaald",
+          "price_monthly": 5.99,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "picqer",
+      "name": "Picqer",
+      "category": "webshops",
+      "pricing_url": "https://picqer.com/nl/prijzen",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Standaard",
+          "price_monthly": 379.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Fulfilment",
+          "price_monthly": 825.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "inventory-planner",
+      "name": "Inventory Planner",
+      "category": "webshops",
+      "pricing_url": "https://inventory-planner.com/pricing/",
+      "trustpilot_slug": "www.inventory-planner.com",
+      "plans": [
+        {
+          "name": "Standaard",
+          "price_monthly": 249.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "katana",
+      "name": "Katana",
+      "category": "webshops",
+      "pricing_url": "https://katanamrp.com/pricing/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Standaard",
+          "price_monthly": 179.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "inflow",
+      "name": "inFlow",
+      "category": "webshops",
+      "pricing_url": "https://www.inflowinventory.com/pricing/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Vanaf",
+          "price_monthly": 110.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "cin7",
+      "name": "Cin7",
+      "category": "webshops",
+      "pricing_url": "https://www.cin7.com/pricing/",
+      "trustpilot_slug": "www.cin7.com",
+      "plans": [
+        {
+          "name": "Standaard",
+          "price_monthly": 349.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "calendly",
+      "name": "Calendly",
+      "category": "productiviteit",
+      "pricing_url": "https://calendly.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Standard",
+          "price_monthly": 10.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        },
+        {
+          "name": "Teams",
+          "price_monthly": 16.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "simplybook",
+      "name": "SimplyBook.me",
+      "category": "productiviteit",
+      "pricing_url": "https://simplybook.me/nl/pricing",
+      "trustpilot_slug": "simplybook.me",
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Basic",
+          "price_monthly": 8.25,
+          "billing": "monthly"
+        },
+        {
+          "name": "Standard",
+          "price_monthly": 24.9,
+          "billing": "monthly"
+        },
+        {
+          "name": "Premium",
+          "price_monthly": 49.9,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "tidycal",
+      "name": "Tidycal",
+      "category": "productiviteit",
+      "pricing_url": "https://tidycal.com/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 29.0,
+          "billing": "one-time",
+          "note": "eenmalig"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "setmore",
+      "name": "Setmore",
+      "category": "productiviteit",
+      "pricing_url": "https://www.setmore.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "4 gebruikers"
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 5.0,
+          "billing": "monthly",
+          "note": "per gebruiker"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "acuity",
+      "name": "Acuity Scheduling",
+      "category": "productiviteit",
+      "pricing_url": "https://acuityscheduling.com/pricing.php",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Emerging",
+          "price_monthly": 16.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Growing",
+          "price_monthly": 27.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Powerhouse",
+          "price_monthly": 49.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "salonkee",
+      "name": "Salonkee",
+      "category": "kassasystemen",
+      "pricing_url": "https://salonkee.com/pricing",
+      "trustpilot_slug": "salonkee.com",
+      "plans": [
+        {
+          "name": "Essential",
+          "price_monthly": 39.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Professional",
+          "price_monthly": 59.0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Premium",
+          "price_monthly": 89.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "treatwell-pro",
+      "name": "Treatwell Pro",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.treatwell.nl/partners/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag + commissie"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "phorest",
+      "name": "Phorest",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.phorest.com/pricing/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Standaard",
+          "price_monthly": 50.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "planfy",
+      "name": "Planfy",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.planfy.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Betaald",
+          "price_monthly": 19.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "salonized",
+      "name": "Salonized",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.salonized.com/nl/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Standaard",
+          "price_monthly": 29.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "intramed",
+      "name": "Intramed",
+      "category": "hr-software",
+      "pricing_url": "https://www.intramed.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "fysioroadmap",
+      "name": "FysioRoadmap",
+      "category": "hr-software",
+      "pricing_url": "https://www.fysioroadmap.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "fysiomanager",
+      "name": "Fysiomanager",
+      "category": "hr-software",
+      "pricing_url": "https://www.fysiomanager.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "crossuite",
+      "name": "Crossuite",
+      "category": "hr-software",
+      "pricing_url": "https://www.crossuite.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "spotonmedics",
+      "name": "SpotOnMedics FysioOne",
+      "category": "hr-software",
+      "pricing_url": "https://www.spotonmedics.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Standaard",
+          "price_monthly": 5.17,
+          "billing": "monthly",
+          "note": "~€62/user/jaar"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "realworks",
+      "name": "Realworks",
+      "category": "crm",
+      "pricing_url": "https://www.realworks.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag (~€200-500/mnd)"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "kolibri",
+      "name": "Kolibri",
+      "category": "crm",
+      "pricing_url": "https://www.kolibri.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Vanaf",
+          "price_monthly": 109.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "yes-co",
+      "name": "Yes-co",
+      "category": "crm",
+      "pricing_url": "https://www.yes-co.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Vanaf",
+          "price_monthly": 75.0,
+          "billing": "monthly"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "friva",
+      "name": "Friva",
+      "category": "crm",
+      "pricing_url": "https://www.friva.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "keysoftware",
+      "name": "KeySoftware",
+      "category": "crm",
+      "pricing_url": "https://www.keysoftware.nl/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "wordpress",
+      "name": "WordPress",
+      "category": "website-bouwers",
+      "pricing_url": "https://wordpress.org/",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "CMS gratis",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "hosting apart"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "webflow",
+      "name": "Webflow",
+      "category": "website-bouwers",
+      "pricing_url": "https://webflow.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Op aanvraag",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "microsoft-planner",
+      "name": "Microsoft Planner",
+      "category": "projectmanagement",
+      "pricing_url": "https://www.microsoft.com/nl-nl/microsoft-365/business/task-management-software",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Inbegrepen bij M365",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Inbegrepen bij M365"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "magento",
+      "name": "Magento / Adobe Commerce",
+      "category": "webshops",
+      "pricing_url": "https://business.adobe.com/nl/products/magento/magento-commerce.html",
+      "trustpilot_slug": null,
+      "plans": [
+        {
+          "name": "Open Source",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "gratis"
+        },
+        {
+          "name": "Commerce",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
+      ],
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
       },
       "verified": "2026-03-09"
     }

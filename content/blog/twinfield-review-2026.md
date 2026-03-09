@@ -48,7 +48,7 @@ Zoek je een breder overzicht van boekhoudpakketten? Lees dan ook mijn artikel ov
 | **Hoofdkantoor** | Deventer, Nederland |
 | **Type** | Cloud-based boekhoud- en accountancysoftware |
 | **Doelgroep** | Accountantskantoren en middelgroot MKB |
-| **Prijsrange** | ca. €55 - €85/maand (via partners) |
+| **Prijsrange** | ca. €59 - €88/maand (via partners) |
 | **Gratis trial** | Beperkt (via reseller) |
 | **Nederlandse support** | Ja (telefonisch, e-mail) |
 
@@ -62,8 +62,8 @@ Dit is meteen een van de grootste frustraties rond Twinfield: de prijzen staan n
 
 | Pakket | Indicatieve prijs/mnd | Beste voor |
 |---|---|---|
-| **Twinfield Boekhouden** | ca. €55 | Enkelvoudige administratie, MKB |
-| **Twinfield Compleet** | ca. €85 | Multi-administratie, uitgebreide rapportages |
+| **Twinfield Boekhouden** | ca. €59 | Enkelvoudige administratie, MKB |
+| **Twinfield Compleet** | ca. €88 | Multi-administratie, uitgebreide rapportages |
 | **Via accountantskantoor** | Inbegrepen in dienstverlening | Klanten van Twinfield-accountants |
 
 Let op: de meeste gebruikers van Twinfield betalen helemaal niet direct voor de software. Hun accountantskantoor heeft een kantoorlicentie en rekent de kosten door in de reguliere dienstverlening. Als je bedrijf direct Twinfield wil afnemen, ga je in gesprek met een gecertificeerde reseller.
@@ -72,7 +72,7 @@ Let op: de meeste gebruikers van Twinfield betalen helemaal niet direct voor de 
 
 | Software | Startprijs/mnd | Transparante prijzen | Gratis plan | Gebruikers |
 |---|---|---|---|---|
-| **Twinfield** | ca. €55 | Nee (via reseller) | Nee | €10/p.p./mnd |
+| **Twinfield** | ca. €59 | Nee (via reseller) | Nee | €10/p.p./mnd |
 | **Exact Online** | ca. €49 | Ja | Nee (30d trial) | Zie pakketten |
 | **Moneybird** | Gratis / €15 | Ja | Ja (beperkt) | Gratis onbeperkt |
 | **e-Boekhouden** | €9,95 | Ja | Nee (15d trial) | Gratis onbeperkt |
@@ -87,10 +87,10 @@ Ik reken het door voor een klein MKB-bedrijf met vijf medewerkers: een onderneme
 
 | Kostenpost | Maandbedrag |
 |---|---|
-| Twinfield Compleet basislicentie | ca. €85 |
+| Twinfield Compleet basislicentie | ca. €88 |
 | Extra gebruikers (bijv. €10 p.p./mnd x 3) | ca. €30 |
-| **Totaal per maand** | **ca. €115** |
-| **Totaal per jaar** | **ca. €1.380** |
+| **Totaal per maand** | **ca. €118** |
+| **Totaal per jaar** | **ca. €1.416** |
 
 In de praktijk gaat dit bij de meeste MKB-bedrijven via een accountantskantoor, wat betekent dat je de softwarekosten niet apart ziet — ze zitten verwerkt in het uurtarief of een vaste maandelijkse abonnementsvergoeding van je accountant.
 

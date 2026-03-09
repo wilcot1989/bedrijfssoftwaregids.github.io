@@ -362,7 +362,7 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 
 | Component | Tool | Kosten |
 |---|---|---|
-| Platform | CCV Shop Smart of Mijnwebwinkel Start | €12,50-17/mnd |
+| Platform | CCV Shop Smart of Mijnwebwinkel Start | €24,95/mnd |
 | Betalingen | Ingebouwd (iDEAL standaard) | Transactiekosten |
 | Verzending | MyParcel (gratis) | Alleen verzendkosten |
 | E-mail | Brevo gratis plan | €0 |
@@ -376,9 +376,9 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 | Platform | Shopify Grow (€59/mnd) | €59/mnd |
 | Betalingen | Mollie | Transactiekosten |
 | Verzending | Sendcloud Lite | €29/mnd |
-| E-mail | Klaviyo | €30/mnd |
+| E-mail | Klaviyo | €20/mnd |
 | Boekhouding | Exact Online | €49/mnd |
-| **Totaal** | | **~€167/mnd** |
+| **Totaal** | | **~€157/mnd** |
 
 ### Online + fysieke winkel (omnichannel)
 
@@ -387,7 +387,7 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 | Platform + POS | Lightspeed eCom + POS | €89-189/mnd |
 | Betalingen | Lightspeed Payments / Mollie | Transactiekosten |
 | Verzending | Sendcloud Growth | €89/mnd |
-| E-mail | Klaviyo | €30/mnd |
+| E-mail | Klaviyo | €20/mnd |
 | Boekhouding | Exact Online | €49/mnd |
 | **Totaal** | | **~€250-400/mnd** |
 
