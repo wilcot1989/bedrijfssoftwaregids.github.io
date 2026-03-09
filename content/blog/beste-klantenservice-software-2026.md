@@ -40,7 +40,7 @@ Gebruik je al een CRM? Bekijk dan hoe helpdesk software integreert met de [beste
 |------|-----------|------------|---------|-----------|------------|
 | **Zendesk** | €55/agent/mnd | ❌ | Alle | 1.7/5 | Grote teams, enterprise |
 | **Freshdesk** | Gratis | ✅ (2 agents) | Alle | 1.6/5 | MKB, starters |
-| **HubSpot Service Hub** | €45/gebruiker/mnd | ✅ (beperkt) | E-mail, chat, telefoon | 1.8/5 | HubSpot-gebruikers |
+| **HubSpot Service Hub** | vanaf €9/seat/mnd (Starter) | ✅ (beperkt) | E-mail, chat, telefoon | 1.8/5 | HubSpot-gebruikers |
 | **Intercom** | €74/seat/mnd | ❌ | Chat, e-mail | 3.4/5 | SaaS, proactieve support |
 | **Trengo** | €19/agent/mnd | ❌ | Alle + WhatsApp | 4.2/5 | NL bedrijven, WhatsApp |
 

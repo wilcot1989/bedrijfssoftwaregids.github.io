@@ -74,7 +74,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 |---|---|---|---|
 | **Personio** | ~€3/mdw/mnd | 4.0/5 | Groeiend MKB (20–500 mdw) |
 | **HiBob** | ~€8/mdw/mnd | 4.4/5 | Internationale teams & scale-ups |
-| **Nmbrs** | €3/mdw/mnd | 4.3/5 | MKB met focus op salarisadministratie |
+| **Nmbrs** | vanaf ~€5/mdw/mnd | 4.3/5 | MKB met focus op salarisadministratie |
 | **AFAS** | ~€8/mdw/mnd | 3.3/5 | Middelgrote & grote organisaties |
 | **Loket.nl** | €5/mdw/mnd | — | MKB via accountant/salarisadviseur |
 | **BambooHR** | ~€5/mdw/mnd | 3.1/5 | Internationale bedrijven met NL-vestiging |
@@ -87,7 +87,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 |---|---|---|---|---|---|
 | **Personio** | Vanaf ~€3/medewerker | Via partner/add-on | Ja | 4.0/5 (263 reviews) | Groeiend MKB (20-500 medewerkers) |
 | **HiBob** | Op aanvraag (~€8/mdw) | Via integratie | Ja | 4.4/5 (153 reviews) | Internationale teams & scale-ups |
-| **Nmbrs** | Vanaf €3/medewerker | Ja (volledig) | Ja | 4.3/5 (110 reviews) | MKB met focus op salaris |
+| **Nmbrs** | Vanaf ~€5/medewerker | Ja (volledig) | Ja | 4.3/5 (110 reviews) | MKB met focus op salaris |
 | **AFAS** | Op aanvraag | Ja (volledig) | Ja | 3.3/5 (151 reviews) | Middelgrote & grote organisaties |
 | **Loket.nl** | Vanaf €5/medewerker | Ja (via adviseur) | Ja | — | MKB via salarisadviseurs |
 | **BambooHR** | Vanaf ~€5/medewerker | Nee (alleen VS) | Beperkt | 3.1/5 (125 reviews) | Internationale bedrijven met NL-vestiging |

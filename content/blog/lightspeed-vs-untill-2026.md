@@ -97,8 +97,8 @@ Geen contract: je betaalt per maand en kunt opzeggen wanneer je wilt. Er is een 
 
 Untill werkt met offertes via dealers, dus vaste prijzen staan niet op de website. Wat ik in de praktijk zie:
 
-- **Untill Air**: vanaf €19/maand (kleinste pakket, telefoon/tablet)
-- **Untill Air volledig**: circa €39/maand
+- **Untill Air Basis**: vanaf €22/maand (kleinste pakket, telefoon/tablet)
+- **Untill Air Standaard**: circa €34/maand
 - **Untill compleet**: offerte via dealer, doorgaans €80-€180/maand afhankelijk van terminals en modules
 
 Hardware wordt via de dealer geleverd:
@@ -115,7 +115,7 @@ Wil je de totale kosten voor jouw specifieke zaak berekenen? Gebruik de [kassasy
 
 Lightspeed is transparanter in de pricing en goedkoper bij de start. Je weet precies wat je betaalt en kunt klein beginnen met een iPad die je misschien al hebt. Untill's dealermodel maakt vergelijken lastiger, maar je krijgt er professionele hardware en persoonlijke installatie voor terug.
 
-Voor een **klein cafe of lunchroom** is Lightspeed Basic (€79/mnd) of Untill Air (€19-€39/mnd) de logische keuze. Voor een **groot restaurant met meerdere terminals** lopen de kosten bij beide systemen richting €200-€300/maand, maar bij Untill betaal je meer voor hardware.
+Voor een **klein cafe of lunchroom** is Lightspeed Basic (€79/mnd) of Untill Air (€22-€34/mnd) de logische keuze. Voor een **groot restaurant met meerdere terminals** lopen de kosten bij beide systemen richting €200-€300/maand, maar bij Untill betaal je meer voor hardware.
 
 ## Gebruiksgemak
 

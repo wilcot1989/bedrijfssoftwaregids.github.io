@@ -3,7 +3,7 @@
     "description": "Vendor-truth database — single source of truth voor prijzen, pakketnamen en Trustpilot scores",
     "last_full_check": "2026-03-09",
     "generated_by": "check-vendor-prices.py",
-    "product_count": 133
+    "product_count": 135
   },
   "products": [
     {
@@ -499,6 +499,21 @@
         "count": 1054,
         "checked": "2026-03-09"
       },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "hubspot_service_hub",
+      "name": "HubSpot Service Hub",
+      "category": "klantenservice",
+      "pricing_url": "https://www.hubspot.com/pricing/service",
+      "trustpilot_slug": "www.hubspot.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Starter", "price_monthly": 9, "billing": "annual", "note": "Per seat, USD" },
+        { "name": "Professional", "price_monthly": 90, "billing": "annual", "note": "Per seat, USD" },
+        { "name": "Enterprise", "price_monthly": 150, "billing": "annual", "note": "Per seat, min. 10 seats, USD" }
+      ],
+      "trustpilot": { "score": 1.8, "count": 1054, "checked": "2026-03-09" },
       "verified": "2026-03-09"
     },
     {
@@ -1142,16 +1157,9 @@
       "pricing_url": "https://www.orderbird.com/nl/prijzen",
       "trustpilot_slug": "www.orderbird.com",
       "plans": [
-        {
-          "name": "Starter",
-          "price_monthly": 39,
-          "billing": "monthly"
-        },
-        {
-          "name": "Professional",
-          "price_monthly": 59,
-          "billing": "monthly"
-        }
+        { "name": "MINI Rolling", "price_monthly": 39, "billing": "monthly", "note": "Standalone terminal, maandelijks opzegbaar" },
+        { "name": "MINI 12 mnd", "price_monthly": 29, "billing": "annual", "note": "Standalone terminal, 12 maanden contract" },
+        { "name": "PRO", "price_monthly": 35, "billing": "monthly", "note": "iPad POS, per terminal, excl. servicelicentie" }
       ],
       "trustpilot": {
         "score": 2.4,
@@ -1161,23 +1169,29 @@
       "verified": "2026-03-09"
     },
     {
-      "id": "untill",
-      "name": "Untill",
+      "id": "untill_air",
+      "name": "Untill Air",
       "category": "kassasystemen",
-      "pricing_url": "https://www.untill.com/nl/prijzen/",
-      "trustpilot_slug": null,
+      "pricing_url": "https://untillair.nl/",
+      "trustpilot_slug": "untillair.nl",
       "plans": [
-        {
-          "name": "Basic",
-          "price_monthly": 79,
-          "billing": "monthly"
-        }
+        { "name": "Basis", "price_monthly": 22, "billing": "monthly", "note": "€21,85 excl. BTW, ~€19 bij jaarbetaling" },
+        { "name": "Standaard", "price_monthly": 34, "billing": "monthly", "note": "€33,85 excl. BTW" },
+        { "name": "Horeca", "price_monthly": 45, "billing": "monthly", "note": "€44,85 excl. BTW" }
       ],
-      "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": "2026-03-09"
-      },
+      "trustpilot": { "score": null, "count": null, "checked": null },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "untill_enterprise",
+      "name": "Untill Enterprise",
+      "category": "kassasystemen",
+      "pricing_url": "https://untill.nl/tarieven/",
+      "trustpilot_slug": "untill.com",
+      "plans": [
+        { "name": "Enterprise", "price_monthly": 0, "billing": "monthly", "note": "Offerte op maat" }
+      ],
+      "trustpilot": { "score": null, "count": null, "checked": null },
       "verified": "2026-03-09"
     },
     {
@@ -1229,12 +1243,10 @@
       "pricing_url": "https://www.nmbrs.nl/prijzen/",
       "trustpilot_slug": "www.nmbrs.com",
       "plans": [
-        {
-          "name": "Nmbrs",
-          "price_monthly": 69,
-          "billing": "monthly",
-          "note": "basisprijs"
-        }
+        { "name": "Essential 10 mw", "price_monthly": 71, "billing": "monthly", "note": "~€7,10/mw/mnd bij 10 medewerkers" },
+        { "name": "Essential 50 mw", "price_monthly": 247, "billing": "monthly", "note": "~€4,94/mw/mnd bij 50 medewerkers" },
+        { "name": "Essential 100 mw", "price_monthly": 435, "billing": "monthly", "note": "~€4,35/mw/mnd bij 100 medewerkers" },
+        { "name": "Advanced 10 mw", "price_monthly": 102, "billing": "monthly", "note": "~€10,20/mw/mnd bij 10 medewerkers" }
       ],
       "trustpilot": {
         "score": 4.3,
@@ -1292,18 +1304,9 @@
       "pricing_url": "https://www.bamboohr.com/pricing",
       "trustpilot_slug": "www.bamboohr.com",
       "plans": [
-        {
-          "name": "Core",
-          "price_monthly": 5,
-          "billing": "monthly",
-          "note": "per medewerker, USD"
-        },
-        {
-          "name": "Pro",
-          "price_monthly": 9,
-          "billing": "monthly",
-          "note": "per medewerker, USD"
-        }
+        { "name": "Core", "price_monthly": 9, "billing": "monthly", "note": "~$6-10 PEPM USD, per employee. Geen transparante EUR-prijzen." },
+        { "name": "Pro", "price_monthly": 12, "billing": "monthly", "note": "~$8-12 PEPM USD, per employee" },
+        { "name": "Elite", "price_monthly": 0, "billing": "monthly", "note": "Op aanvraag" }
       ],
       "trustpilot": {
         "score": 3.1,

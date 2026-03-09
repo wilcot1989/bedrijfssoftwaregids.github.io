@@ -53,7 +53,7 @@ Naast deze drie: zorg dat je software automatisch de loonheffingstabellen bijwer
 
 | Tool | Prijs/medewerker/mnd | HR-module | Medewerkersportaal | Trustpilot | Beste voor |
 |------|---------------------|----------|-------------------|-----------|------------|
-| **Nmbrs** | €5-€10 | ✅ | ✅ | 4.3/5 (110) | MKB (10-250 medewerkers) |
+| **Nmbrs** | ~€5-€10/mdw/mnd (staffelkorting bij meer medewerkers) | ✅ | ✅ | 4.3/5 (110) | MKB (10-250 medewerkers) |
 | **Visma Raet** | €8-€15 | ✅ | ✅ | — | Groot MKB + enterprise |
 | **Loket.nl** | €3-€7 | ✅ Basis | ✅ | — | Klein MKB (1-50) |
 | **AFAS** | Op aanvraag | ✅ Uitgebreid | ✅ | 3.3/5 (152) | Middelgroot + groot |

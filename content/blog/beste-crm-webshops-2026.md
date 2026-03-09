@@ -39,7 +39,7 @@ Zoek je een algemeen CRM voor niet-e-commerce? Bekijk mijn [beste CRM software g
 | CRM | Prijs vanaf | Gratis plan | Shopify | WooCommerce | Trustpilot | Beste voor |
 |-----|-----------|------------|---------|-------------|------------|------------|
 | **Klaviyo** | $20/mnd | ✅ (250 contacten) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 1,9/5 (341 reviews) | Shopify-webshops |
-| **HubSpot** | €45/mnd | ✅ (beperkt) | ⭐⭐⭐ | ⭐⭐⭐ | 1,8/5 (1.054 reviews) | Omnichannel e-commerce |
+| **HubSpot** | vanaf €9/seat/mnd (Service Hub Starter) | ✅ (beperkt) | ⭐⭐⭐ | ⭐⭐⭐ | 1,8/5 (1.054 reviews) | Omnichannel e-commerce |
 | **ActiveCampaign** | $29/mnd | ✅ (14-daags) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 2,8/5 (1.358 reviews) | Geavanceerde automations |
 | **Drip** | $39/mnd | ✅ (14-daags) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Geen profiel | DTC-merken |
 | **Salesforce Commerce** | Op aanvraag | ❌ | ⭐⭐⭐ | ⭐⭐ | 1,5/5 (612 reviews) | Enterprise e-commerce |
