@@ -67,7 +67,7 @@ Wil je een breder beeld van alle boekhoudsoftware voor ZZP'ers? Lees dan ons ove
 
 - **Free**: Gratis -- maximaal 3 facturen per maand, basisfuncties, geen bankkoppeling
 - **Pakket 20**: €15/maand -- 20 banktransacties, onbeperkt facturen, BTW-aangifte, bonnetjes scannen
-- **Pakket 50**: €28/maand -- 50 banktransacties, balans, winst-en-verliesrekening, meerdere administraties
+- **Pakket 50**: €28/maand -- 50 banktransacties (alle overige functies gelijk aan Pakket 20)
 - **Onbeperkt**: €39/maand -- onbeperkte banktransacties, alle functies
 - Korting bij jaarlijkse betaling (circa 10%)
 
@@ -85,7 +85,7 @@ Wil je een breder beeld van alle boekhoudsoftware voor ZZP'ers? Lees dan ons ove
 
 - Duurder dan e-Boekhouden voor vergelijkbare functies
 - Gratis plan is zeer beperkt (3 facturen/maand, geen bankkoppeling)
-- Rapportages minder diepgaand dan sommige concurrenten — voor een volledige balans of winst-en-verliesrekening heb je al snel het duurdere Pakket 50 nodig
+- Rapportages minder diepgaand dan sommige concurrenten — de basisrapportages zijn minder uitgebreid dan bij e-Boekhouden, ook in het goedkoopste betaalde pakket
 - Minder geschikt voor complexe, dubbele boekhoudingen
 - Klantensupport alleen per e-mail (geen telefonische hulp) — ik heb klanten gehad die bij een urgent BTW-probleem vlak voor de deadline een dag op een reactie moesten wachten
 
@@ -192,7 +192,7 @@ e-Boekhouden heeft ook een mobiele app, maar deze is beperkter in functionalitei
 
 e-Boekhouden biedt standaard uitgebreidere rapportages. Je krijgt een volledige jaarrekening, balans, winst-en-verliesrekening, grootboekkaarten en meer -- allemaal inbegrepen in het basispakket.
 
-Moneybird biedt basisrapportages in het standaardpakket, maar voor diepgaandere financiële overzichten heb je het duurdere Pakket 50 (€28/maand) of Onbeperkt (€39/maand) nodig. Voor ZZP'ers met eenvoudige administraties zijn de basisrapportages van Moneybird meestal voldoende, maar groeiende bedrijven missen mogelijk functionaliteit.
+Moneybird biedt dezelfde rapportages in alle betaalde pakketten — het verschil tussen pakketten zit alleen in het transactievolume, niet in functies. De rapportages zijn echter minder uitgebreid dan die van e-Boekhouden: zo ontbreken cashflow-prognose en budgetvergelijking. Voor ZZP'ers met eenvoudige administraties zijn de rapportages van Moneybird meestal voldoende, maar groeiende bedrijven missen mogelijk functionaliteit.
 
 ### 8. Support
 

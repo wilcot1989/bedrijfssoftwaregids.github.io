@@ -58,9 +58,9 @@ De vraag die ik het vaakst krijg over Exact Online: "Wat gaat het me kosten?" He
 
 | Pakket | Prijs/mnd | Gebruikers | Beste voor |
 |---|---|---|---|
-| **Boekhouden ZZP** | €48 | 1 | ZZP'ers met eenvoudige administratie |
-| **Boekhouden** | €48 | 1 (extra: €10/p.p.) | MKB met basale boekhouding |
-| **Boekhouden Compleet** | ±€59 | 1 (extra: €10/p.p.) | MKB met uitgebreide behoeften |
+| **Boekhouden Essentials** | ±€48 | 1 (extra: €10/p.p.) | ZZP'ers en MKB met basale boekhouding |
+| **Boekhouden Standaard** | ±€59 | 1 (extra: €10/p.p.) | MKB met uitgebreide behoeften |
+| **Boekhouden Compleet** | ±€89 | 1 (extra: €10/p.p.) | MKB met volledige financiële controle |
 | **CRM** | ±€35 | 1 (extra: €10/p.p.) | Bedrijven met verkoopfocus |
 | **Facturatie** | ±€16 | 1 | Alleen facturen versturen |
 | **Projecten** | ±€35 | 1 (extra: €10/p.p.) | Projectgestuurde bedrijven |
@@ -68,15 +68,17 @@ De vraag die ik het vaakst krijg over Exact Online: "Wat gaat het me kosten?" He
 
 Let op: de bovenstaande prijzen zijn richtprijzen. Exact hanteert regelmatig acties en kortingen. Combinatiepakketten zijn beschikbaar tegen gereduceerd tarief.
 
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Exact Online →</a>
+
 ### Prijsberekening voorbeeld
 
 Voor een MKB-bedrijf met 5 medewerkers die allemaal toegang nodig hebben tot de boekhouding:
 
-- Pakket Boekhouden Compleet: €59/maand
+- Pakket Boekhouden Standaard: ±€59/maand
 - 4 extra gebruikers: 4 x €10 = €40/maand
 - **Totaal: circa €99/maand**
 
-Ter vergelijking: Moneybird Compleet kost circa €35/maand voor onbeperkt gebruikers.
+Ter vergelijking: Moneybird L (Onbeperkt) kost €39/maand voor onbeperkt gebruikers.
 
 ## Functies: wat biedt Exact Online?
 

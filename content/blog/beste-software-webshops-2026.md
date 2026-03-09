@@ -373,12 +373,12 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 
 | Component | Tool | Kosten |
 |---|---|---|
-| Platform | Shopify (€105/mnd) | €105/mnd |
+| Platform | Shopify Grow (€79/mnd) | €79/mnd |
 | Betalingen | Mollie | Transactiekosten |
 | Verzending | Sendcloud Lite | €29/mnd |
 | E-mail | Klaviyo | €30/mnd |
 | Boekhouding | Exact Online | €45/mnd |
-| **Totaal** | | **~€210/mnd** |
+| **Totaal** | | **~€183/mnd** |
 
 ### Online + fysieke winkel (omnichannel)
 
@@ -430,7 +430,7 @@ Dit is het totaaloverzicht dat ik aan klanten geef als ze vragen: "Wat kost het 
 <tr>
 <td><strong>Platform</strong></td>
 <td>CCV Shop Smart (€12,50/mnd)</td>
-<td>Shopify (€105/mnd)</td>
+<td>Shopify Grow (€79/mnd)</td>
 <td>Lightspeed Professional (€189/mnd)</td>
 </tr>
 <tr>

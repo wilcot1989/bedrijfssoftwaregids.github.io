@@ -95,7 +95,7 @@ Voordat ik elk pakket apart bespreek, eerst het overzicht waar het om draait —
 | Software | Goedkoopste plan | Middenplan | Gratis optie | BTW-aangifte | Bankkoppeling | Trustpilot |
 |---|---|---|---|---|---|---|
 | **Moneybird** | €15/mnd (20 transacties) | €28/mnd (50 transacties) | Ja (max 3 facturen/mnd) | Ja | Ja | 3.5/5 (180) |
-| **Exact Online** | €48/mnd (Essentials) | €79/mnd (Geavanceerd) | Nee (30 dagen trial) | Ja | Ja | 2.6/5 (641) |
+| **Exact Online** | €48/mnd (Boekhouden Essentials) | ±€59/mnd (Boekhouden Standaard) | Nee (30 dagen trial) | Ja | Ja | 2.6/5 (641) |
 | **e-Boekhouden.nl** | €9,95/mnd (240 boekingen) | €14,50/mnd (onbeperkt) | Nee (15 mnd gratis voor starters) | Ja | Ja | 4.6/5 (1.857) |
 | **SnelStart** | €16/mnd | €28/mnd (SnelStart M) | Ja (gratis basisplan) | Ja | Ja | 3.9/5 |
 | **FreshBooks** | $19/mnd (±€17,50, 5 klanten) | $33/mnd (±€30, 50 klanten) | Nee (30 dagen trial) | Beperkt | Beperkt | 3.9/5 (984) |
@@ -160,8 +160,8 @@ De prijs. €48/maand voor het instappakket is fors als je tien facturen per maa
 
 ### Prijzen (februari 2026)
 
-- **Essentials**: €48/maand (basis ZZP)
-- **Geavanceerd**: €79/maand
+- **Boekhouden Essentials**: €48/maand (basis ZZP)
+- **Boekhouden Standaard**: ±€59/maand
 - **Premium**: ~€279/maand
 - 30 dagen gratis proberen
 

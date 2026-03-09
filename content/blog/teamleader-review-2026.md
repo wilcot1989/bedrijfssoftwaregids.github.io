@@ -64,6 +64,8 @@ De prijsstructuur van Teamleader Focus is overzichtelijker dan bij veel concurre
 | **GROW** | €39 | Alles in SMART + offertes, facturatie, betalingsopvolging | Bedrijven die ook factureren via Teamleader |
 | **FLOW** | €99 | Alles in GROW + multi-team, multi-bedrijf, geavanceerde workflows | Grotere organisaties met meerdere afdelingen |
 
+<a href="https://www.teamleader.eu/nl-nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Teamleader 14 dagen gratis →</a>
+
 ### Wat je moet weten over de prijzen
 
 - **Jaarlijks betalen** levert tot 17% korting op ten opzichte van per kwartaal

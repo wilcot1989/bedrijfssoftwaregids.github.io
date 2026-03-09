@@ -88,6 +88,8 @@ Laat ik het concreet maken. Dit zijn de maandkosten bij jaarlijkse betaling:
 
 Bij maandelijkse betaling liggen de prijzen 20-25% hoger. Mijn advies: begin altijd met de gratis proefperiode van 14 dagen op het Pro-plan. Dan weet je precies welke functies je nodig hebt voordat je betaalt.
 
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer monday.com gratis →</a>
+
 ### Monday CRM prijzen
 
 Monday.com biedt ook een apart CRM-product:

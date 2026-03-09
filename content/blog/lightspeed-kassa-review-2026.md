@@ -25,7 +25,7 @@ faq:
   - q: "Werkt Lightspeed ook zonder internet?"
     a: "Gedeeltelijk. Lightspeed heeft een offline modus waarmee je bestellingen kunt opnemen als het internet wegvalt. Pinbetalingen zijn op dat moment niet mogelijk. Zodra de verbinding terug is, synchroniseert alles automatisch. Voor zaken met een onbetrouwbare internetverbinding is Untill een beter alternatief."
   - q: "Hoe scoort Lightspeed bij gebruikers?"
-    a: "Op Trustpilot heeft Lightspeed Nederland ruim 1.150 reviews. Op G2 scoort Lightspeed Retail een 4.0 uit 5, en op Capterra staat het op 4.1 uit 5. Gebruikers zijn overwegend positief over het gebruiksgemak en de integraties. Kritiek gaat vooral over de prijs en beperkte flexibiliteit bij maatwerkwensen."
+    a: "Op Trustpilot scoort Lightspeed een 4,0 uit 5 op basis van ruim 2.300 reviews. Op G2 scoort Lightspeed Retail een 4.0 uit 5, en op Capterra staat het op 4.1 uit 5. Gebruikers zijn overwegend positief over het gebruiksgemak en de integraties. Kritiek gaat vooral over de prijs en beperkte flexibiliteit bij maatwerkwensen."
   - q: "Wat is het verschil tussen Lightspeed Restaurant en Lightspeed Retail?"
     a: "Lightspeed Restaurant is specifiek gebouwd voor horeca met functies als tafelmanagement, keukenprinters, menukaartbeheer en bezorgintegraties. Lightspeed Retail is gericht op winkels met uitgebreid voorraadbeheer, barcodescanning, leveranciersbeheer en een webshopkoppeling. Je kiest het product dat bij jouw type zaak past."
   - q: "Kan ik mijn Lightspeed kassa koppelen aan mijn boekhoudsoftware?"
@@ -46,7 +46,7 @@ Ik werk nu ruim drie jaar met Lightspeed-klanten. Van een lunchcafe in Utrecht d
 | **Hardware** | iPad + randapparatuur |
 | **Bezorgkoppelingen** | Thuisbezorgd, Uber Eats, Deliveroo |
 | **Support** | Nederlands, telefoon + chat + e-mail |
-| **Trustpilot NL** | 1.150+ reviews |
+| **Trustpilot NL** | 4,0/5 (2.300+ reviews) |
 | **G2 score** | 4.0/5 (Retail) |
 | **Capterra score** | 4.1/5 |
 | **Hoofdkantoor** | Montreal (NL-kantoor in Amsterdam) |
@@ -186,6 +186,8 @@ Sinds een paar jaar biedt Lightspeed een eigen betaalverwerking aan: Lightspeed 
 
 *Prijzen bij jaarlijkse betaling. Maandelijks opzegbaar is circa 10-20% duurder.*
 
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Lightspeed →</a>
+
 ### Verborgen kosten waar je op moet letten
 
 Dit is waar het in de praktijk duurder uitvalt dan je denkt:
@@ -203,7 +205,7 @@ Dit is waar het in de praktijk duurder uitvalt dan je denkt:
 
 | Platform | Score | Aantal reviews | Opvallend |
 |---|---|---|---|
-| **Trustpilot NL** | -- | 1.150+ | Positief over support, kritiek op prijsstijgingen |
+| **Trustpilot NL** | 4,0/5 | 2.300+ | Positief over support, kritiek op prijsstijgingen |
 | **G2** | 4.0/5 | 700+ | Sterk op gebruiksgemak, zwakker op flexibiliteit |
 | **Capterra** | 4.1/5 | 900+ | Waardering voor voorraadbeheer en integraties |
 

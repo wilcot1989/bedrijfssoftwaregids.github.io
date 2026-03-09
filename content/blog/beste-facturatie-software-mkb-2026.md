@@ -181,7 +181,7 @@ Wat ik waardeer in Exact: de rapportages. Als je wilt weten hoe je cashflow erui
 - 350+ koppelingen via Exact App Center
 
 ### Prijzen (2026)
-- **Essentials**: vanaf €48/maand
+- **Boekhouden Essentials**: ±€48/maand
 - **Extra gebruikers**: vanaf €10/gebruiker/maand
 - **Aanvullende modules**: variërend per module
 

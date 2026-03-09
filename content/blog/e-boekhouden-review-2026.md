@@ -64,6 +64,8 @@ De vraag die ik het vaakst krijg. Hier de actuele prijzen (gecheckt maart 2026):
 | **Onbeperkt boekhouden** | €14,50 | Onbeperkt | Ja | Ja | Ja |
 | **Boekhouden + Facturatie** | €24,00 | Onbeperkt | Uitgebreid | Ja | Ja |
 
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer e-Boekhouden gratis →</a>
+
 ### Wat zit er inbegrepen?
 
 Elk pakket bevat standaard:
@@ -95,7 +97,7 @@ Wil je precies berekenen wat e-Boekhouden jou per jaar kost ten opzichte van alt
 | **Moneybird** | Pakket 20 | €15 | €180 | +€61/jaar |
 | **Moneybird** | Pakket 50 | €28 | €336 | +€217/jaar |
 | **Jortt** | Compleet | €9,00 | €108 | -€11/jaar |
-| **Exact Online** | Boekhouden ZZP | €48 | €576 | +€457/jaar |
+| **Exact Online** | Boekhouden Essentials | €48 | €576 | +€457/jaar |
 
 Het instapmodel van e-Boekhouden (€9,95) is goedkoper dan Moneybird Pakket 20 (€15), en je krijgt er meer voor: volledige BTW-aangifte, uitgebreidere rapportages en telefonische support. Dat maakt het netto een betere deal.
 
@@ -162,7 +164,7 @@ Dit is waar e-Boekhouden boven Moneybird uitstijgt. Standaard inbegrepen in elk 
 - **Debiteuren- en crediteurenoverzicht** — wie moet jou nog betalen, en wie moet jij betalen
 - **Jaarrekening** — bruikbaar voor je boekhouder of de KvK
 
-Bij Moneybird heb je voor diepgaande rapportages het duurdere "Dubbel boekhouden"-pakket nodig (€28/maand). Bij e-Boekhouden zit alles in het basispakket. Voor ondernemers die regelmatig hun financiële gezondheid willen checken zonder extra te betalen, is dat een serieus voordeel.
+Bij Moneybird zitten alle rapportages al in elk betaald pakket, maar de betaalde pakketten starten pas bij €15/maand (Pakket 20). Bij e-Boekhouden zit alles in het basispakket. Voor ondernemers die regelmatig hun financiële gezondheid willen checken zonder extra te betalen, is dat een serieus voordeel.
 
 Wat ik mis: visuele dashboards. De rapportages zijn degelijk maar presenteren data vooral in tabellen. Een grafiek die mijn omzettrend laat zien of een cashflow-prognose — dat zou het compleet maken. Exact Online doet dit beter, maar kost dan ook drie keer zoveel.
 

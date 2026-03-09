@@ -80,6 +80,8 @@ De kosten zijn het eerste waar iedereen naar vraagt, en terecht. Mollie rekent g
 | **Przelewy24** | 1,5% + €0,25 | Poolse klanten |
 | **Gift cards** | €0,25 | Cadeaubonnen |
 
+<a href="https://www.mollie.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Maak gratis een Mollie-account →</a>
+
 ### Rekenvoorbeelden
 
 Laat ik concreet maken wat Mollie kost bij verschillende scenario's. Dit zijn berekeningen die ik voor klanten maak:

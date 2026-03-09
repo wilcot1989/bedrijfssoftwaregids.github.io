@@ -18,11 +18,11 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 featured_image: "/images/categories/webshops.svg"
 faq:
   - q: "Wat kost Shopify per maand in Nederland?"
-    a: "Shopify biedt drie hoofdpakketten: Basic kost €36 per maand, Shopify €105 per maand en Advanced €384 per maand (bij jaarlijkse betaling). Let op: als je geen Shopify Payments gebruikt maar een externe betaalprovider zoals Mollie, betaal je ook nog eens 2%, 1% of 0,6% transactiekosten bovenop elk pakket. Dat kan behoorlijk oplopen bij hogere omzetten."
+    a: "Shopify biedt drie hoofdpakketten: Basic kost €36 per maand, Grow €79 per maand en Advanced €289 per maand (bij jaarlijkse betaling). Let op: als je geen Shopify Payments gebruikt maar een externe betaalprovider zoals Mollie, betaal je ook nog eens 2%, 1% of 0,6% transactiekosten bovenop elk pakket. Dat kan behoorlijk oplopen bij hogere omzetten."
   - q: "Werkt Shopify goed in Nederland?"
     a: "Ja, Shopify werkt in Nederland, maar er zijn wel aandachtspunten. Shopify Payments (geen transactiekosten) is beschikbaar in Nederland. Nederlandstalige templates zijn beperkt aanwezig maar niet altijd volwaardig. Integraties met Nederlandse betaalmethoden zoals iDEAL werken via Shopify Payments of externe apps. Factuurvereisten en BTW-regels voor NL zijn handmatig in te stellen of via apps te regelen."
   - q: "Wat zijn de transactiekosten van Shopify?"
-    a: "Bij gebruik van Shopify Payments (de eigen betaaloplossing) betaal je geen extra transactiekosten -- alleen de creditcard-verwerkingskosten (circa 1,5-2,9% afhankelijk van je plan). Gebruik je een externe betaalprovider zoals Mollie of Stripe, dan betaal je bovenop die vergoeding ook nog 2% (Basic), 1% (Shopify) of 0,6% (Advanced) aan Shopify. Bij een omzet van €10.000 per maand kan dat al snel €200 extra per maand zijn."
+    a: "Bij gebruik van Shopify Payments (de eigen betaaloplossing) betaal je geen extra transactiekosten -- alleen de creditcard-verwerkingskosten (circa 1,5-2,9% afhankelijk van je plan). Gebruik je een externe betaalprovider zoals Mollie of Stripe, dan betaal je bovenop die vergoeding ook nog 2% (Basic), 1% (Grow) of 0,6% (Advanced) aan Shopify. Bij een omzet van €10.000 per maand kan dat al snel €200 extra per maand zijn."
   - q: "Is Shopify beter dan WooCommerce?"
     a: "Dat hangt sterk af van je situatie. Shopify is gebruiksvriendelijker, hosted (geen server nodig) en heeft betere ingebouwde e-commerce functies. WooCommerce is gratis om te beginnen, geeft meer controle en is flexibeler voor maatwerk -- maar vereist technische kennis en eigen hosting. Shopify is beter voor ondernemers die snel willen starten zonder technische kennis. WooCommerce is beter voor wie maximale vrijheid wil en budget voor maatwerk heeft."
   - q: "Heeft Shopify een gratis proefperiode?"
@@ -60,16 +60,17 @@ Zoek je een breder overzicht van webshop software? Lees dan ook mijn vergelijkin
 
 Dit is het gedeelte waar ik altijd extra aandacht aan besteed bij klanten, want de Shopify-prijzen zijn op papier overzichtelijk maar in de praktijk een stuk complexer. Er zijn twee kostenposten waar je rekening mee moet houden: het maandelijkse abonnement en de transactiekosten.
 
-### De vier Shopify-pakketten
+### De vijf Shopify-pakketten
 
-| Plan | Prijs/mnd (jaarlijks) | Transactiekosten externe betaalprovider | Aantal medewerkers |
+| Plan | Prijs/mnd (maandelijks) | Transactiekosten externe betaalprovider | Aantal medewerkers |
 |---|---|---|---|
+| **Starter** | €5 | 5% per transactie | 1 |
 | **Basic** | €36 | 2% per transactie | 2 |
-| **Shopify** | €105 | 1% per transactie | 5 |
-| **Advanced** | €384 | 0,6% per transactie | 15 |
-| **Plus** | Vanaf €2.300 | 0,2% per transactie | Onbeperkt |
+| **Grow** | €79 | 1% per transactie | 5 |
+| **Advanced** | €289 | 0,6% per transactie | 15 |
+| **Plus** | Vanaf $2.300 | 0,2% per transactie | Onbeperkt |
 
-Bij maandelijkse betaling (zonder jaarcontract) liggen de prijzen 10-25% hoger. Jaarlijks betalen loont dus als je zeker bent van je keuze.
+Bij jaarlijkse betaling liggen de prijzen circa 25% lager (Basic ~€27, Grow €59, Advanced €229). Jaarlijks betalen loont dus als je zeker bent van je keuze. Let op: het Starter-plan is alleen geschikt voor social selling (Instagram, TikTok) -- voor een echte webshop begin je bij Basic.
 
 ### Shopify Payments: de sleutel tot de werkelijke kosten
 
@@ -78,7 +79,7 @@ Hier draait het om. Shopify heeft een eigen betaaloplossing: Shopify Payments. A
 | Plan | Creditcard-fee (NL) |
 |---|---|
 | **Basic** | 2% + €0,25 per transactie |
-| **Shopify** | 1,7% + €0,25 per transactie |
+| **Grow** | 1,7% + €0,25 per transactie |
 | **Advanced** | 1,5% + €0,25 per transactie |
 
 Shopify Payments ondersteunt in Nederland iDEAL, creditcards (Visa, Mastercard, Amex) en Apple Pay. Voor de meeste webshops is dit voldoende. Wil je weten hoe Shopify Payments zich verhoudt tot Mollie of MultiSafepay? Lees mijn [Mollie vs MultiSafepay vergelijking](/blog/mollie-vs-multisafepay-2026/).
@@ -95,7 +96,7 @@ Wil je een externe betaalprovider gebruiken -- Mollie, Stripe, MultiSafepay -- d
 
 Totaal: €294 per maand -- waar je dacht €36 te betalen.
 
-Bij het Shopify-plan (1% transactiekosten) is dat al €100 minder. Bij Advanced (0,6%) nog minder. De vraag is of de hogere abonnementskosten van het duurdere plan opwegen tegen de lagere transactiekosten. Bij een omzet van €10.000+ per maand loont het doorgaans om op te schalen naar het Shopify-plan.
+Bij het Grow-plan (1% transactiekosten) is dat al €100 minder. Bij Advanced (0,6%) nog minder. De vraag is of de hogere abonnementskosten van het duurdere plan opwegen tegen de lagere transactiekosten. Bij een omzet van €10.000+ per maand loont het doorgaans om op te schalen naar het Grow-plan.
 
 Gebruik de [webshop software kosten berekenen tool](/tools/webshops/kosten-berekenen/) om dit voor jouw omzet door te rekenen.
 
@@ -249,7 +250,7 @@ Maar ik moet eerlijk zijn over de kosten. Shopify is niet goedkoop -- zeker niet
 
 - **Net beginner, budget onder €50/mnd**: Begin met Mijnwebwinkel -- betaalbaarder voor de NL-markt, later altijd nog over te stappen
 - **Ambities om te groeien, internationaal of multi-channel**: Kies Shopify, bij voorkeur met Shopify Payments om transactiekosten te vermijden
-- **Omzet boven €5.000/mnd**: Basic is te beperkt -- Shopify-plan (€105/mnd) loont qua transactiekosten
+- **Omzet boven €5.000/mnd**: Basic is te beperkt -- Grow-plan (€79/mnd) loont qua transactiekosten
 - **Developer of technische kennis aanwezig**: Overweeg WooCommerce voor meer controle en lagere vaste kosten
 
 Wil je de kosten voor jouw specifieke situatie vergelijken? Gebruik de [webshop keuzehulp](/tools/webshops/keuzehulp/) of de [webshop kosten berekenen tool](/tools/webshops/kosten-berekenen/).

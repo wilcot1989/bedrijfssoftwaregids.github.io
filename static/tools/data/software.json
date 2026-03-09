@@ -562,7 +562,7 @@
     "payments": true,
     "pos_sync": true,
     "integrations": ["Mollie", "Stripe", "Klarna", "Google Shopping"],
-    "affiliate": { "type": "link", "url": "https://www.shopify.com/nl" },
+    "affiliate": { "type": "link", "url": "https://shopify.pxf.io/WOqGgA" },
     "cost": { "model": "webshop_tx_cost", "base": 36, "tx_fee_pct": 2.0 }
   },
   {

@@ -72,7 +72,7 @@ Wat ik zelf het sterkst vind aan Moneybird:
 
 - **De mobiele app** is de beste in deze markt. Bonnetje fotograferen, de app herkent bedrag, datum en leverancier, en stelt automatisch een boeking voor. Dat scheelt echt tijd.
 - **Automatische categorisering** van banktransacties wordt na een paar weken bijzonder slim. Het leert van je eerdere boekingen en stelt de juiste categorie voor.
-- **Het gratis plan** is beperkt (maximaal 10 banktransacties per maand, 3 facturen), maar het laat je wel rustig uitproberen of Moneybird bij je past.
+- **Het gratis plan** is beperkt (maximaal 3 facturen per maand, geen bankkoppeling), maar het laat je wel rustig uitproberen of Moneybird bij je past.
 - **BTW-sparen**: je kunt automatisch BTW opzij zetten op een apart potje, zodat je bij de aangifte niet verrast wordt. Werkt met de Moneybird Betaalrekening.
 
 ### Waar Moneybird tekortschiet
@@ -126,7 +126,7 @@ Dit is waar het verschil pijn doet -- of juist meevalt, afhankelijk van je persp
 
 | Pakket | Prijs/mnd | Banktransacties | Facturen |
 |---|---|---|---|
-| **Gratis** | €0 | 10/mnd | 3/mnd |
+| **Gratis** | €0 | Geen | 3/mnd |
 | **Pakket 20** | €15 | 20/mnd | Onbeperkt |
 | **Pakket 50** | €28 | 50/mnd | Onbeperkt |
 | **Onbeperkt** | €39 | Onbeperkt | Onbeperkt |

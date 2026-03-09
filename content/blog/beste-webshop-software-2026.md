@@ -140,11 +140,11 @@ Twijfel je tussen Shopify en een Nederlands platform? Lees mijn [Shopify vs Mijn
 - Shopify POS voor fysieke winkels
 
 ### Prijzen (2026)
-- **Basic**: €36/maand
-- **Shopify**: €105/maand
-- **Advanced**: €384/maand
-- **Shopify Plus**: vanaf €2.300/maand (enterprise)
-- Transactiekosten: 0,5-2% (bij gebruik van externe betaalprovider)
+- **Basic**: €36/maand (maandelijks), ~€27 jaarlijks
+- **Grow**: €79/maand (maandelijks), €59 jaarlijks
+- **Advanced**: €289/maand (maandelijks), €229 jaarlijks
+- **Shopify Plus**: vanaf $2.300/maand (enterprise)
+- Transactiekosten: 0,6-2% (bij gebruik van externe betaalprovider)
 
 ### Voordelen
 - Zeer gebruiksvriendelijk, geen technische kennis nodig
@@ -575,7 +575,7 @@ Winnaar: CCV Shop of WooCommerce bij kleine omzet.
 Winnaar: CCV Shop voor puur Nederlandse markt, Shopify voor internationale ambities.
 
 **Enterprise (€100.000+/mnd, 5.000+ producten)**
-- Shopify Advanced: €384 + apps €100 + Mollie €1.000: **€1.484/mnd**
+- Shopify Advanced: €289 + apps €100 + Mollie €1.000: **€1.389/mnd**
 - BigCommerce Pro: $399 + apps €50 + Mollie €1.000: **€1.380/mnd**
 - Magento: €100 hosting + developer €1.000/mnd onderhoud + Mollie €1.000: **€2.100/mnd**
 
@@ -629,7 +629,7 @@ Tenzij je van het begin af aan internationaal wilt gaan — dan is Shopify Basic
 
 Jij wilt: schalen, meerdere kanalen, automatisering, betrouwbaarheid.
 
-Mijn advies: Shopify Shopify-plan (€105/mnd) of Lightspeed eCom als je ook offline verkoopt. Op dit niveau wil je geen platformwisseling meer — kies een platform dat minimaal vijf jaar meekan. Investeer ook in Mollie of MultiSafepay als betaalprovider en koppel je boekhouding.
+Mijn advies: Shopify Grow-plan (€79/mnd) of Lightspeed eCom als je ook offline verkoopt. Op dit niveau wil je geen platformwisseling meer — kies een platform dat minimaal vijf jaar meekan. Investeer ook in Mollie of MultiSafepay als betaalprovider en koppel je boekhouding.
 
 Op dit niveau zijn losse software-keuzes ook relevant. Een goed CRM, voorraadbeheer software en analytics zijn nu de moeite waard. Wil je je klanten ook beter bedienen via klantenservice software? Lees mijn vergelijking van de [beste klantenservice software 2026](/blog/beste-klantenservice-software-2026/).
 

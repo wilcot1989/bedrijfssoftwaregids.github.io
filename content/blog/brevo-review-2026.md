@@ -64,6 +64,8 @@ Het pricing-model van Brevo is de reden dat ik het vaak aanbeveel aan bedrijven 
 | **Professional** | Vanaf €499 | 150.000+ | Onbeperkt | WhatsApp, web push, AI-segmentatie, contact scoring, telefonische support |
 | **Enterprise** | Op aanvraag | 350.000+ | Onbeperkt | Dedicated account manager, custom setup, SLA |
 
+<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Brevo gratis →</a>
+
 Wil je de kosten voor jouw e-mailvolume berekenen? Gebruik de [marketing software kosten berekenen tool](/tools/marketing/kosten-berekenen/) voor een vergelijking op basis van jouw lijstgrootte en verzendfrequentie.
 
 ### Prijsstaffeling per volume

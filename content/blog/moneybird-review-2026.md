@@ -27,7 +27,7 @@ faq:
   - q: "Kan mijn boekhouder meekijken in Moneybird?"
     a: "Ja, je kunt je boekhouder of accountant gratis uitnodigen in je Moneybird-account. Zij krijgen hun eigen inlog met de juiste rechten. Steeds meer accountantskantoren ondersteunen Moneybird, maar check dit vooraf — sommige kantoren werken uitsluitend met Exact Online of Twinfield."
   - q: "Wat is het verschil tussen Moneybird en e-Boekhouden?"
-    a: "Moneybird is moderner, gebruiksvriendelijker en heeft een betere mobiele app. e-Boekhouden is goedkoper en scoort hoger op Trustpilot (4.6 vs 4.1). Voor beginners die gemak belangrijk vinden is Moneybird beter. Voor budgetbewuste ondernemers is e-Boekhouden een serieus alternatief."
+    a: "Moneybird is moderner, gebruiksvriendelijker en heeft een betere mobiele app. e-Boekhouden is goedkoper en scoort hoger op Trustpilot (4.6 vs 3.5 voor Moneybird). Voor beginners die gemak belangrijk vinden is Moneybird beter. Voor budgetbewuste ondernemers is e-Boekhouden een serieus alternatief."
   - q: "Hoe betrouwbaar is Moneybird?"
     a: "Moneybird wordt gebruikt door meer dan 380.000 ondernemers in Nederland en heeft een uptime van meer dan 99,9%. Het bedrijf bestaat sinds 2008 en is financieel gezond. Er is een openbare statuspagina waar je de systeemstatus kunt volgen."
 ---
@@ -50,7 +50,8 @@ Zoek je een breder overzicht? Bekijk dan mijn vergelijking van de [beste boekhou
 | **Gratis proefperiode** | 60 dagen (6 maanden met Moneybird Betaalrekening) |
 | **Mobiele apps** | iOS en Android |
 | **Nederlandse support** | Ja (e-mail en kennisbank) |
-| **Beoordeling** | 4.1/5 (904 reviews op moneybird.nl) |
+| **Beoordeling (moneybird.nl)** | 4.1/5 (904 reviews op moneybird.nl — eigen platform) |
+| **Beoordeling (Trustpilot)** | 3.5/5 (181 reviews op Trustpilot) |
 
 ## Pakketten en prijzen (maart 2026)
 
@@ -66,6 +67,8 @@ Wil je de jaarlijkse kosten van Moneybird vergelijken met alternatieven? Gebruik
 | **L** | €39 | Onbeperkt | MKB met veel transacties |
 
 *Prijzen gecheckt op 1 maart 2026 via moneybird.nl/prijzen/. Alle bedragen excl. 21% btw.*
+
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Moneybird gratis →</a>
 
 ### Wat zit in elk betaald pakket?
 
@@ -182,7 +185,7 @@ De onboarding voor nieuwe gebruikers is ook goed. Stapsgewijze instructies, kort
 
 ## Wat zeggen gebruikers? Reviews en ervaringen
 
-Moneybird scoort een **4.1 uit 5** op basis van 904 beoordelingen op hun eigen platform. Dat is degelijk, maar niet uitzonderlijk. Ter vergelijking: e-Boekhouden scoort 4.6/5 op Trustpilot met ruim 1.800 reviews.
+Moneybird scoort een **4.1 uit 5** op basis van 904 beoordelingen op hun **eigen platform (moneybird.nl)** — let op: dit is geen onafhankelijke bron. Op **Trustpilot** scoort Moneybird een **3.5/5** (181 reviews, gecheckt mrt 2026). Dat is degelijk, maar niet uitzonderlijk. Ter vergelijking: e-Boekhouden scoort 4.6/5 op Trustpilot met ruim 1.800 reviews.
 
 ### Wat gebruikers positief noemen
 

@@ -97,6 +97,8 @@ Close claimt 50% sneller te zijn dan concurrerende CRM's. In mijn test was de in
 | Growth | €495 | €5.940 |
 | Scale | €695 | €8.340 |
 
+<a href="https://refer.close.com/p2kcrnz6lksy" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Close CRM gratis →</a>
+
 Ter vergelijking: Pipedrive kost voor 5 gebruikers op het Growth-plan (~€39/user) zo'n €2.340 per jaar. Close Essentials is vergelijkbaar geprijsd, maar je hebt bij Close geen aparte dialer nodig. Tel je de kosten van een apart belplatform mee bij Pipedrive (€15-40/user/maand), dan is Close vaak goedkoper voor teams die veel bellen.
 
 ## Trustpilot en gebruikerservaringen

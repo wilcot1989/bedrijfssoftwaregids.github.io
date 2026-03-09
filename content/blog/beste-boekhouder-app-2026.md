@@ -155,9 +155,10 @@ De Exact Online app is functioneel en stabiel, maar voelt minder intuïtief dan 
 
 ### Prijzen
 
-- **Essentials**: €48/maand
-- **Advanced**: €62/maand
-- **Professional**: €94/maand
+<!-- HANDMATIGE CHECK VEREIST: prijzen controleren op exact.com/nl -->
+- **Boekhouden Essentials**: ±€48/maand
+- **Boekhouden Standaard**: ±€59/maand
+- **Boekhouden Compleet**: ±€89/maand
 
 ### Voordelen
 
