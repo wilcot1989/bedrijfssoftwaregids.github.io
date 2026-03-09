@@ -133,7 +133,7 @@ Hieronder vat ik de 6 platforms samen op basis van hoe goed ze passen in een com
 
 ### 1. Shopify -- Beste allrounder voor groei
 
-Shopify werkt gewoon. Je kunt binnen een middag live zijn zonder een regel code. De App Store lost elk probleem op -- van verlaten-winkelwagen mails tot bol.com-koppelingen. Maar die apps tellen op: ik heb klanten gezien die €200/maand aan apps kwijt waren bovenop hun abonnement. Sinds 2024 ondersteunt Shopify Payments iDEAL, maar ik raad Mollie vaak alsnog aan vanwege bredere betaalmethoden. Prijs: vanaf €21/maand (Basic).
+Shopify werkt gewoon. Je kunt binnen een middag live zijn zonder een regel code. De App Store lost elk probleem op -- van verlaten-winkelwagen mails tot bol.com-koppelingen. Maar die apps tellen op: ik heb klanten gezien die €200/maand aan apps kwijt waren bovenop hun abonnement. Sinds 2024 ondersteunt Shopify Payments iDEAL, maar ik raad Mollie vaak alsnog aan vanwege bredere betaalmethoden. Prijs: vanaf €21/maand bij jaarlijkse facturering (Basic).
 
 **Stack-integratie:** Mollie en MultiSafepay plug-and-play. Sendcloud en MyParcel direct gekoppeld. Klaviyo als standaard e-mail tool. Boekhoudkoppelingen met Moneybird en Exact via apps. Bol.com-sync via ChanableApp. De totale stack (Shopify + Mollie + Sendcloud + Klaviyo + Moneybird) kost circa €130-200/maand.
 

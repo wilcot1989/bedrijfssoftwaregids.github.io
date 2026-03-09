@@ -558,12 +558,12 @@
     "id": "shopify",
     "name": "Shopify",
     "categories": ["webshops"],
-    "pricing_band": "€30-€100",
+    "pricing_band": "<€30",
     "payments": true,
     "pos_sync": true,
     "integrations": ["Mollie", "Stripe", "Klarna", "Google Shopping"],
     "affiliate": { "type": "link", "url": "https://shopify.pxf.io/WOqGgA" },
-    "cost": { "model": "webshop_tx_cost", "base": 36, "tx_fee_pct": 2.0 }
+    "cost": { "model": "webshop_tx_cost", "base": 21, "tx_fee_pct": 2.0 }
   },
   {
     "id": "woocommerce",

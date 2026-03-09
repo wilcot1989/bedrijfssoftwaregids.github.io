@@ -24,10 +24,11 @@
 
 | Artikel | Pakketstructuur |
 |---------|----------------|
-| `shopify-review-2026.md` | Starter €5 / Basic €21 / Grow €59 / Advanced €289 / Plus €2.100 ✅ GECORRIGEERD |
-| `shopify-vs-mijnwebwinkel-2026.md` | Starter €5 / Basic €21 / Grow €59 / Advanced €289 / Plus €2.100 ✅ GECORRIGEERD |
+| `shopify-review-2026.md` | Starter €5 / Basic €21 / Grow €59 / Advanced €289 / Plus €2.100 (alle bij jaarlijkse facturering) ✅ |
+| `shopify-vs-mijnwebwinkel-2026.md` | Idem ✅ |
 
-**Status:** OPGELOST — Alle artikelen bijgewerkt naar actuele prijzen (geverifieerd shopify.com/nl/pricing maart 2026).
+**Status:** GECORRIGEERD (Ronde 4) — €21/€59/€289 zijn jaarlijkse factureringsprijzen. Alle artikelen expliciet gelabeld. Foutieve "€21=maandelijks, €16=jaarlijks" verwijderd.
+**OPEN:** Exacte maandelijkse betaalprijzen (geschat ~€28/€79/€385) nog handmatig te verifiëren via live toggle op shopify.com/nl/pricing.
 
 ---
 

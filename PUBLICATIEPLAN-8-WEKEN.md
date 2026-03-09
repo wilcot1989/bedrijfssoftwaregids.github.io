@@ -27,7 +27,7 @@
 - [ ] `software.json` vullen met tracking URLs (Pipedrive, Close CRM, SnelStart, Shopify, ActiveCampaign, ClickUp)
 - [ ] CTA boven pricing-tabel toevoegen in alle 14 reviews
 - [ ] Handmatige check: Exact Online prijzen verifiëren op exact.com/nl/prijzen
-- [ ] Handmatige check: Shopify prijzen verifiëren op shopify.com/nl/pricing
+- [ ] Handmatige check: Shopify **maandelijkse betaalprijzen** verifiëren via live toggle op shopify.com/nl/pricing (jaarlijkse prijzen zijn nu correct gelabeld)
 
 ---
 
@@ -111,7 +111,7 @@
 
 | Datum | Artikel | Type | Status |
 |-------|---------|------|--------|
-| 20 apr | `shopify-vs-mijnwebwinkel-2026` | Vergelijking | ✅ Shopify prijzen geverifieerd + gefixt |
+| 20 apr | `shopify-vs-mijnwebwinkel-2026` | Vergelijking | ⚠️ Jaarlijkse facturering gelabeld. Maandprijzen handmatig verifiëren |
 | 21 apr | `beste-software-fysiotherapeuten-2026` | Sector-pillar | ✅ |
 | 22 apr | `ab-testen-beginners-eerste-experiment` | Gids | ✅ |
 | 23 apr | `beste-software-accountants-2026` | Sector-pillar | ✅ |

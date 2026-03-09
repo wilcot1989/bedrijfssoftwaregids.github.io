@@ -1,7 +1,7 @@
 ---
 title: "Moneybird vs Exact Online 2026: Welke Kies Je?"
-date: 2026-04-15
-lastmod: 2026-04-15
+date: 2026-03-11
+lastmod: 2026-03-11
 description: "Moneybird vs Exact Online: eerlijke vergelijking op prijs, functies en gebruiksgemak. Ontdek welk boekhoudpakket bij jouw bedrijf past in 2026."
 categories: ["boekhouding"]
 tags:

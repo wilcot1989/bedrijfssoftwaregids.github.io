@@ -42,7 +42,7 @@ Wil je naast een website ook online verkopen? Bekijk dan het overzicht van de [b
 | **Wix** | €17/mnd | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | 3.6/5 (26.607) | Beginners, snelheid |
 | **Squarespace** | $16/mnd (USD) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ✅ | 3.1/5 (2.434) | Design, portfolio |
 | **Webflow** | €14/mnd | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ✅ (basis) | geen profiel | Designers, maatwerk |
-| **Shopify** | €21/mnd | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 1.3/5 (4.351) ⚠️ | E-commerce |
+| **Shopify** | €21/mnd (jaarlijks) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 1.3/5 (4.351) ⚠️ | E-commerce |
 
 ## 1. WordPress — Meest flexibel
 
@@ -160,9 +160,11 @@ Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door 
 ### Kosten
 | Plan | Prijs/mnd | Highlights |
 |------|----------|------------|
-| **Basic** | €21 | Onbeperkte producten, 2 accounts |
-| **Grow** | €59 | + 5 accounts, rapportages, lagere transactiekosten |
-| **Advanced** | €289 | + 15 accounts, geavanceerde rapportages |
+| **Basic** | €21 (jaarlijks) | Onbeperkte producten, 2 accounts |
+| **Grow** | €59 (jaarlijks) | + 5 accounts, rapportages, lagere transactiekosten |
+| **Advanced** | €289 (jaarlijks) | + 15 accounts, geavanceerde rapportages |
+
+*Prijzen bij jaarlijkse facturering. Bij maandelijkse betaling circa 25% hoger.*
 
 **✅ Voordelen:** Beste e-commerce platform, uitgebreid app-ecosysteem, iDEAL ingebouwd
 **❌ Nadelen:** Duurder dan alternatieven, transactiekosten (tenzij Shopify Payments), als blog/website minder geschikt

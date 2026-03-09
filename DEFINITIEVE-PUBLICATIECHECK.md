@@ -81,26 +81,33 @@
 
 ---
 
-### Shopify: CONSISTENT
+### Shopify: GECORRIGEERD (Ronde 4 — vendor-truth)
 
 **Geverifieerde pakketten en prijzen (shopify.com/nl/pricing):**
 - Starter: €5/mnd
-- Basic: €21/mnd
-- Grow: €59/mnd
-- Advanced: €289/mnd
-- Plus: Vanaf €2.100/mnd
+- Basic: €21/mnd **(bij jaarlijkse facturering)**
+- Grow: €59/mnd **(bij jaarlijkse facturering)**
+- Advanced: €289/mnd **(bij jaarlijkse facturering)**
+- Plus: Vanaf €2.100/mnd (3-jaarstermijn)
 
-| Bestand | Status | Wijzigingen |
-|---------|--------|-------------|
-| `shopify-review-2026.md` | CORRECT | Basic €36→€21, Grow €79→€59, Plus $2.300→€2.100 |
-| `shopify-vs-mijnwebwinkel-2026.md` | CORRECT | Idem + jaarlijkse prijzen herberekend |
-| `beste-webshop-software-2026.md` | CORRECT | €36→€21, €79→€59, $2.300→€2.100 |
-| `beste-software-webshops-2026.md` | CORRECT | €36→€21, Grow €79→€59 |
-| `woocommerce-review-2026.md` | CORRECT | €36→€21, €79→€59 |
-| `beste-website-bouwers-mkb-2026.md` | CORRECT | €36→€21, Shopify→Grow €59, Advanced €384→€289 |
-| `software.json` | WAS AL CORRECT | Shopify tracking URL actief |
+**⚠️ KRITISCHE CORRECTIE:** €21/€59/€289 zijn de prijzen bij jaarlijkse facturering (shopify.com toont "jaarlijks in rekening gebracht" + "bespaar 25%"). Bij maandelijkse betaling liggen de prijzen circa 25% hoger. De exacte maandprijzen worden niet getoond op de statische prijzenpagina (JavaScript-toggle) — **handmatige check nodig voor exacte maandprijzen**.
 
-**Verwijderde foutieve prijzen:** €36, €79, $2.300, €92, €32, €105, €384 komen niet meer voor.
+Eerdere artikelen presenteerden €21 foutief als "maandprijs" met €16 als "jaarprijs". Dit was omgekeerd.
+
+| Bestand | Status | Wijzigingen Ronde 4 |
+|---------|--------|---------------------|
+| `shopify-review-2026.md` | GECORRIGEERD | Tabelheader → "bij jaarlijkse facturering", verwijderd foutieve €16/€44/€229 als jaarlijks |
+| `shopify-vs-mijnwebwinkel-2026.md` | GECORRIGEERD | Omgekeerde maandelijks/jaarlijks labels gecorrigeerd in FAQ, tabellen en eindoordeel |
+| `beste-webshop-software-2026.md` | GECORRIGEERD | Omgekeerde €21=maandelijks/€16=jaarlijks → correct gelabeld als jaarlijkse facturering |
+| `beste-software-webshops-2026.md` | GECORRIGEERD | "vanaf €21/maand" → + "bij jaarlijkse facturering" |
+| `woocommerce-review-2026.md` | GECORRIGEERD | €21/€59 in vergelijkingstabellen → + "(jaarlijks)" |
+| `beste-website-bouwers-mkb-2026.md` | GECORRIGEERD | Prijstabel + voetnoot jaarlijkse facturering |
+| `categories/webshops/_index.md` | GECORRIGEERD | "€21-€289" → + "(jaarlijks)" |
+| `software.json` | GECORRIGEERD | base: 36→21, pricing_band: "€30-€100"→"<€30" |
+
+**Handmatige check nog nodig:**
+- [ ] Exacte Shopify maandprijzen (bij maandelijkse betaling) verifiëren via live toggle op shopify.com/nl/pricing
+- [ ] Geschatte maandprijzen: ~€28 (Basic), ~€79 (Grow), ~€385 (Advanced) — nog niet bevestigd
 
 ---
 

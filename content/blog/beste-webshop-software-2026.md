@@ -58,7 +58,7 @@ faq:
   - q: "Wat is de beste webshop software voor beginners?"
     a: "Voor beginners zijn Shopify en Acendy (voorheen Mijnwebwinkel) de beste keuzes. Shopify biedt een gebruiksvriendelijke interface met drag-and-drop bouwer en uitstekende begeleiding. Acendy is een Nederlands platform dat specifiek gericht is op de Nederlandse markt en ook voor starters zeer toegankelijk is."
   - q: "Wat kost het om een webshop te beginnen?"
-    a: "De kosten variëren sterk per platform. Een basiswebshop op Shopify begint bij circa 21 euro per maand. WooCommerce is gratis als plugin, maar je betaalt voor hosting (vanaf circa 5-15 euro per maand), thema's en extensies. CCV Shop begint bij 12,50 euro per maand. Tel daar transactiekosten, een domeinnaam en eventuele extra plugins bij op."
+    a: "De kosten variëren sterk per platform. Een basiswebshop op Shopify begint bij circa 21 euro per maand (bij jaarlijkse facturering). WooCommerce is gratis als plugin, maar je betaalt voor hosting (vanaf circa 5-15 euro per maand), thema's en extensies. CCV Shop begint bij 12,50 euro per maand. Tel daar transactiekosten, een domeinnaam en eventuele extra plugins bij op."
   - q: "Is WooCommerce echt gratis?"
     a: "WooCommerce als WordPress-plugin is gratis, maar je hebt wel betaalde hosting nodig (vanaf circa 5-15 euro per maand), een domeinnaam (circa 10-15 euro per jaar) en vaak betaalde extensies voor functies als iDEAL-betalingen, verzendlabels en geavanceerde productvarianten. De totale kosten liggen voor een basisshop rond 15-50 euro per maand."
   - q: "Welke webshop software ondersteunt iDEAL?"
@@ -80,7 +80,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 
 | Product | Vanaf | Trustpilot | Beste voor |
 |---|---|---|---|
-| **Shopify** | €21/mnd | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops & internationaal |
+| **Shopify** | €21/mnd (jaarlijks) | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops & internationaal |
 | **WooCommerce** | Gratis + hosting | 1.9/5 (132 reviews) | Volledige controle & maatwerk |
 | **Lightspeed eCom** | €59/mnd | 4.2/5 (2.404 reviews) | Omnichannel retail (winkel + online) |
 | **Magento** | Gratis (self-hosted) | Geen profiel | Enterprise & complexe catalogussen |
@@ -94,7 +94,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 
 | Webshop Platform | Startprijs/mnd | Gratis plan | iDEAL | Nederlands | Trustpilot | Beste voor |
 |---|---|---|---|---|---|---|
-| **Shopify** | €21/mnd | Nee (3 dagen gratis) | Via Mollie/Shopify Payments | Ja | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops |
+| **Shopify** | €21/mnd (jaarlijks) | Nee (3 dagen gratis) | Via Mollie/Shopify Payments | Ja | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops |
 | **WooCommerce** | Gratis (+ hosting) | Ja (plugin) | Via Mollie plugin | Ja | 1.9/5 (132 reviews) | Volledige controle & flexibiliteit |
 | **Lightspeed eCom** | €59/mnd | Nee (14 dagen trial) | Ja (standaard) | Ja | 4.2/5 (2.404 reviews) | Omnichannel retail |
 | **Magento/Adobe Commerce** | Gratis (Open Source) | Ja (self-hosted) | Via extensie | Ja | — | Grote webshops & enterprise |
@@ -139,11 +139,12 @@ Twijfel je tussen Shopify en een Nederlands platform? Lees mijn [Shopify vs Mijn
 - Geavanceerde analytics en rapportages
 - Shopify POS voor fysieke winkels
 
-### Prijzen (2026)
-- **Basic**: €21/maand (maandelijks), ~€16 jaarlijks
-- **Grow**: €59/maand (maandelijks), €44 jaarlijks
-- **Advanced**: €289/maand (maandelijks), €229 jaarlijks
+### Prijzen (2026, bij jaarlijkse facturering)
+- **Basic**: €21/maand
+- **Grow**: €59/maand
+- **Advanced**: €289/maand
 - **Shopify Plus**: vanaf €2.100/maand (enterprise)
+- Bij maandelijkse betaling liggen de prijzen circa 25% hoger
 - Transactiekosten: 0,6-2% (bij gebruik van externe betaalprovider)
 
 ### Voordelen
@@ -513,7 +514,7 @@ Dit is de vraag die ik het vaakst krijg — en waarbij ik het meest zie dat mens
 
 | Platform | Advertentieprijs | Hosting | Betaalkosten | Plugins/Apps | **Realistisch totaal** |
 |----------|-----------------|---------|--------------|--------------|------------------------|
-| Shopify Basic | €21/mnd | Inbegrepen | 0% (Shopify Pay) / 0,5-2% extern | €20-50/mnd apps | **€41-100/mnd** |
+| Shopify Basic | €21/mnd (jaarlijks) | Inbegrepen | 0% (Shopify Pay) / 0,5-2% extern | €20-50/mnd apps | **€41-100/mnd** |
 | WooCommerce | Gratis | €5-25/mnd | 0% (Mollie) | €10-30/mnd | **€15-55/mnd** |
 | Lightspeed eCom | €59/mnd | Inbegrepen | 0% | €0-20/mnd | **€59-80/mnd** |
 | CCV Shop | €24,95/mnd | Inbegrepen | 0% | Beperkt | **€24,95-40/mnd** |
@@ -554,7 +555,7 @@ Dit is het meest genoemde irritatiepunt van Shopify-gebruikers. De basisversie i
 - Abandoned cart recovery: €10-30/mnd
 - Upsell/cross-sell tools: €15-30/mnd
 
-Plotseling is je €21-plan opgelopen naar €100/mnd. Niet per se onredelijk, maar reken het mee.
+Plotseling is je €21-plan (bij jaarlijkse facturering) opgelopen naar €100/mnd. Niet per se onredelijk, maar reken het mee.
 
 Bij CCV Shop en Acendy zijn meer functies standaard inbegrepen, wat dit probleem minder maakt. Bij WooCommerce kun je veel gratis WordPress-plugins vinden, maar betaalde extensies lopen ook op.
 
@@ -568,7 +569,7 @@ Bij CCV Shop en Acendy zijn meer functies standaard inbegrepen, wat dit probleem
 Winnaar: CCV Shop of WooCommerce bij kleine omzet.
 
 **Groeiende webshop (€10.000-€30.000/mnd, 500-2.000 producten)**
-- Shopify Basic + apps: €21 + €40 apps + Mollie €200: **€261/mnd**
+- Shopify Basic + apps: €21 (jaarlijks) + €40 apps + Mollie €200: **€261/mnd**
 - CCV Shop Level: €32,50 + Mollie €200: **€232,50/mnd**
 - WooCommerce managed: €25 hosting + €30 plugins + Mollie €200: **€255/mnd**
 
@@ -623,7 +624,7 @@ Jij wilt: snel live, weinig investering, bewijzen dat het concept werkt.
 
 Mijn advies: Acendy of CCV Shop. Goedkoop, eenvoudig, Nederlandse support. Als het concept aanslaat, switch je later naar een krachtiger platform. Vergooi je startkapitaal niet aan een dure Shopify-setup die je misschien over zes maanden niet meer nodig hebt.
 
-Tenzij je van het begin af aan internationaal wilt gaan — dan is Shopify Basic €21/mnd de moeite waard vanwege de schaalbare architectuur.
+Tenzij je van het begin af aan internationaal wilt gaan — dan is Shopify Basic €21/mnd (jaarlijkse facturering) de moeite waard vanwege de schaalbare architectuur.
 
 **Groeiende webshop (1-3 jaar, €10.000-€50.000/mnd omzet)**
 

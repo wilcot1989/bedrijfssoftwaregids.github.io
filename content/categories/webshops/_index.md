@@ -36,7 +36,7 @@ Webshopsoftware kiezen gaat om balans tussen groei, beheer en kosten. Hier vind 
 
 | Software | Prijsklasse | Betaalmethoden | POS-koppeling |
 |---|---|---|---|
-| **Shopify** | €21-€289 | Ja | Ja |
+| **Shopify** | €21-€289 (jaarlijks) | Ja | Ja |
 | **WooCommerce** | <€30 | Ja | Nee |
 | **Lightspeed eCom** | €30-€100 | Ja | Ja |
 | **Magento** | €100+ | Ja | Nee |

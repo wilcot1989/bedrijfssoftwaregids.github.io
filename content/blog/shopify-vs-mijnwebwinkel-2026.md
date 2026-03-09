@@ -1,7 +1,7 @@
 ---
 title: "Shopify vs Mijnwebwinkel 2026: Welke Webshop?"
-date: 2026-04-20
-lastmod: 2026-04-20
+date: 2026-03-12
+lastmod: 2026-03-12
 description: "Shopify vs Mijnwebwinkel (Acendy) eerlijk vergeleken op prijs, functies, design en betaalmethoden. Ontdek welk webshopplatform bij jou past."
 categories: ["webshops"]
 tags:
@@ -18,7 +18,7 @@ faq:
   - q: "Is Mijnwebwinkel hetzelfde als Acendy?"
     a: "Ja, sinds januari 2026 is Mijnwebwinkel volledig overgegaan naar Acendy. Acendy is ontstaan uit een fusie van Mijnwebwinkel (Nederland) en Mystore (Noorwegen), beide onderdeel van Visma. Bestaande Mijnwebwinkel-klanten zijn automatisch gemigreerd naar het Acendy-platform."
   - q: "Welk platform is goedkoper: Shopify of Mijnwebwinkel?"
-    a: "Shopify Basic kost €21 per maand (maandelijks) of ~€16 per maand (jaarlijks), terwijl Acendy (voorheen Mijnwebwinkel) start bij €40 per maand. Shopify is dus goedkoper bij de instap, maar rekent extra transactiekosten (2%) als je een externe betaalprovider gebruikt. Acendy rekent geen transactiekosten bovenop je PSP-kosten. Bij een omzet tot circa €3.000 per maand komt Shopify voordeliger uit."
+    a: "Shopify Basic kost €21 per maand bij jaarlijkse facturering (bij maandelijkse betaling circa 25% hoger), terwijl Acendy (voorheen Mijnwebwinkel) start bij €40 per maand. Shopify is dus goedkoper bij de instap, maar rekent extra transactiekosten (2%) als je een externe betaalprovider gebruikt. Acendy rekent geen transactiekosten bovenop je PSP-kosten. Bij een omzet tot circa €3.000 per maand komt Shopify voordeliger uit."
   - q: "Kan ik met beide platforms iDEAL-betalingen accepteren?"
     a: "Ja. Bij Shopify regel je iDEAL via Shopify Payments (€0,29 per transactie) of via Mollie. Acendy ondersteunt iDEAL standaard via Mollie en andere Nederlandse betaalproviders. Beide platformen werken dus prima voor de Nederlandse markt."
   - q: "Welk platform is beter voor SEO?"
@@ -43,7 +43,7 @@ Zoek je een breder overzicht? Bekijk dan ook mijn artikel over de [beste webshop
 | Kenmerk | Shopify | Mijnwebwinkel / Acendy |
 |---|---|---|
 | **Opgericht** | 2006 (Canada) | 2004 (Nederland), nu Acendy |
-| **Startprijs** | €21/mnd (Basic, maandelijks) of ~€16/mnd (jaarlijks) | €40/mnd (Startup) |
+| **Startprijs** | €21/mnd (Basic, jaarlijkse facturering) | €40/mnd (Startup) |
 | **Transactiekosten platform** | 2% bij externe PSP | Geen |
 | **Gratis proefperiode** | 3 dagen gratis, daarna €1/mnd eerste maand | 14 dagen gratis |
 | **Aantal thema's** | 200+ (13 gratis) | Beperkt aanbod |
@@ -114,13 +114,15 @@ Dit is waar het interessant wordt. De prijsstructuur van beide platformen versch
 
 ### Shopify abonnementen (2026)
 
-| Plan | Maandprijs | Jaarprijs (per mnd) | Extra transactiekosten | Medewerkers |
-|---|---|---|---|---|
-| **Starter** | €5 | n.v.t. | 5% | 1 |
-| **Basic** | €21 (maandelijks) | ~€16 (jaarlijks) | 2% bij externe PSP | 2 |
-| **Grow** | €59 | €44 | 1% bij externe PSP | 5 |
-| **Advanced** | €289 | €229 | 0,6% bij externe PSP | 15 |
-| **Plus** | Vanaf €2.100 | Op aanvraag | 0,2% | Onbeperkt |
+| Plan | Prijs/mnd (jaarlijkse facturering) | Extra transactiekosten | Medewerkers |
+|---|---|---|---|
+| **Starter** | €5 | 5% | 1 |
+| **Basic** | €21 | 2% bij externe PSP | 2 |
+| **Grow** | €59 | 1% bij externe PSP | 5 |
+| **Advanced** | €289 | 0,6% bij externe PSP | 15 |
+| **Plus** | Vanaf €2.100 | 0,2% | Onbeperkt |
+
+*Alle prijzen gelden bij jaarlijkse facturering. Bij maandelijkse betaling liggen de prijzen circa 25% hoger (bron: shopify.com/nl/pricing).*
 
 Let op: het Starter-plan is alleen geschikt voor social selling (via Instagram, TikTok). Je krijgt geen volwaardige webshop. Voor een echte online winkel begin je bij Basic.
 
@@ -142,7 +144,7 @@ Even concreet maken. Stel je draait €5.000 omzet per maand via je webshop:
 
 | Kostenpost | Shopify Basic | Acendy Startup |
 |---|---|---|
-| Abonnement | €16 (jaarlijks) of €21 (maandelijks) | €40 |
+| Abonnement | €21 (jaarlijkse facturering) | €40 |
 | Transactiekosten platform | €0 (met Shopify Payments) | €0 |
 | iDEAL kosten (ca. 150 transacties) | €43,50 (€0,29/tx) | €43,50 (Mollie €0,29/tx) |
 | **Totaal per maand** | **€70,50** | **€83,50** |
@@ -241,7 +243,7 @@ Als je ambities hebt om buiten de Benelux te verkopen, is Shopify de enige serie
 
 | Functie | Shopify | Acendy (Mijnwebwinkel) |
 |---|---|---|
-| **Startprijs** | ~€16/mnd (jaarlijks) | €40/mnd |
+| **Startprijs** | €21/mnd (jaarlijkse facturering) | €40/mnd |
 | **Jaarkorting** | Ja (ca. 25%) | Verplicht jaarcontract |
 | **Transactiekosten** | 0% met Shopify Payments, 2% met externe PSP | 0% |
 | **Producten** | Onbeperkt | Onbeperkt |
@@ -335,7 +337,7 @@ Bekijk ook mijn overzicht van de [beste webshop software in Nederland](/blog/bes
 
 Na beide platformen hands-on getest te hebben, is mijn advies helder:
 
-**Kies Shopify als** je een webshop wilt die meegroeit, je internationale ambities hebt, of je veel integraties nodig hebt. Het is het meest complete e-commerce platform dat beschikbaar is, met een ecosysteem dat geen enkel Nederlands platform kan evenaren. De instapkosten zijn lager dan Acendy (~€16/mnd bij jaarlijkse betaling vs. €40) en je zit niet vast aan een jaarcontract.
+**Kies Shopify als** je een webshop wilt die meegroeit, je internationale ambities hebt, of je veel integraties nodig hebt. Het is het meest complete e-commerce platform dat beschikbaar is, met een ecosysteem dat geen enkel Nederlands platform kan evenaren. De instapkosten zijn lager dan Acendy (€21/mnd bij jaarlijkse facturering vs. €40) en je zit niet vast aan een jaarcontract.
 
 **Kies Acendy (Mijnwebwinkel) als** je een eenvoudige Nederlandse webshop wilt met persoonlijke telefonische support, geen zin hebt in een app-ecosysteem en puur in Nederland verkoopt. Het is een solide platform voor kleine webshops, maar de prijsverhoging en het verplichte jaarcontract maken het minder aantrekkelijk dan vroeger.
 

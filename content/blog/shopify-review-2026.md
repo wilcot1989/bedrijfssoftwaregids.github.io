@@ -62,7 +62,7 @@ Dit is het gedeelte waar ik altijd extra aandacht aan besteed bij klanten, want 
 
 ### De vijf Shopify-pakketten
 
-| Plan | Prijs/mnd (maandelijks) | Transactiekosten externe betaalprovider | Aantal medewerkers |
+| Plan | Prijs/mnd (bij jaarlijkse facturering) | Transactiekosten externe betaalprovider | Aantal medewerkers |
 |---|---|---|---|
 | **Starter** | €5 | 5% per transactie | 1 |
 | **Basic** | €21 | 2% per transactie | 2 |
@@ -70,7 +70,7 @@ Dit is het gedeelte waar ik altijd extra aandacht aan besteed bij klanten, want 
 | **Advanced** | €289 | 0,6% per transactie | 15 |
 | **Plus** | Vanaf €2.100 | 0,2% per transactie | Onbeperkt |
 
-Bij jaarlijkse betaling liggen de prijzen circa 25% lager (Basic ~€16, Grow €44, Advanced €229). Jaarlijks betalen loont dus als je zeker bent van je keuze. Let op: het Starter-plan is alleen geschikt voor social selling (Instagram, TikTok) -- voor een echte webshop begin je bij Basic.
+Deze prijzen gelden bij jaarlijkse facturering. Bij maandelijkse betaling liggen de prijzen circa 25% hoger. Jaarlijks betalen loont dus als je zeker bent van je keuze. Let op: het Starter-plan is alleen geschikt voor social selling (Instagram, TikTok) -- voor een echte webshop begin je bij Basic.
 
 ### Shopify Payments: de sleutel tot de werkelijke kosten
 
@@ -90,7 +90,7 @@ Wil je een externe betaalprovider gebruiken -- Mollie, Stripe, MultiSafepay -- d
 
 **Voorbeeld: Basic plan, externe betaalprovider, €10.000 maandomzet**
 
-- Abonnement: €21
+- Abonnement: €21 (jaarlijks)
 - Mollie-kosten (stel €0,29 per transactie, 200 orders): €58
 - Shopify transactiekosten (2% van €10.000): €200
 
@@ -244,7 +244,7 @@ Voor een diepgaandere vergelijking lees ik [Shopify vs Mijnwebwinkel](/blog/shop
 
 Shopify is een van de krachtigste webshop-platformen op de markt, en dat is verdiend. De combinatie van gebruiksgemak, betrouwbaarheid, schaalbaar en een enorm app-ecosysteem maakt het een uitstekende keuze voor de meeste webshops.
 
-Maar ik moet eerlijk zijn over de kosten. Shopify is niet goedkoop -- zeker niet als je rekening houdt met transactiekosten bij externe betaalproviders en de app-kosten die je onderweg maakt. De echt aantrekkelijke prijs van €21 per maand is alleen realistisch als je Shopify Payments gebruikt en weinig apps nodig hebt. De realiteit voor de meeste serieuze webshops is €150-400 per maand in totale platformkosten.
+Maar ik moet eerlijk zijn over de kosten. Shopify is niet goedkoop -- zeker niet als je rekening houdt met transactiekosten bij externe betaalproviders en de app-kosten die je onderweg maakt. De echt aantrekkelijke prijs van €21 per maand (bij jaarlijkse facturering) is alleen realistisch als je Shopify Payments gebruikt en weinig apps nodig hebt. De realiteit voor de meeste serieuze webshops is €150-400 per maand in totale platformkosten.
 
 **Mijn aanbeveling per situatie:**
 

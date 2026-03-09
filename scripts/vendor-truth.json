@@ -1,0 +1,769 @@
+{
+  "_meta": {
+    "description": "Vendor-truth database — single source of truth voor prijzen, pakketnamen en Trustpilot scores",
+    "last_full_check": "2026-03-09",
+    "generated_by": "check-vendor-prices.py"
+  },
+  "products": [
+    {
+      "id": "moneybird",
+      "name": "Moneybird",
+      "category": "boekhouding",
+      "pricing_url": "https://www.moneybird.nl/prijzen/",
+      "trustpilot_slug": "moneybird.nl",
+      "plans": [
+        { "name": "Gratis", "price_monthly": 0, "billing": "monthly", "note": "Max 3 facturen/mnd, geen bankkoppeling" },
+        { "name": "Starter", "price_monthly": 15, "billing": "monthly" },
+        { "name": "Growth", "price_monthly": 28, "billing": "monthly" },
+        { "name": "Professional", "price_monthly": 39, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 3.5, "count": 181, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "exact_online",
+      "name": "Exact Online",
+      "category": "boekhouding",
+      "pricing_url": "https://www.exact.com/nl/producten/boekhouden",
+      "trustpilot_slug": "www.exact.com",
+      "plans": [
+        { "name": "Essentials", "price_monthly": 49, "billing": "monthly" },
+        { "name": "Plus", "price_monthly": 99, "billing": "monthly" },
+        { "name": "Professional", "price_monthly": 159, "billing": "monthly" },
+        { "name": "Premium", "price_monthly": 299, "billing": "monthly", "note": "v.a. prijs" }
+      ],
+      "trustpilot": { "score": 2.6, "count": 641, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "e_boekhouden",
+      "name": "e-Boekhouden.nl",
+      "category": "boekhouding",
+      "pricing_url": "https://www.e-boekhouden.nl/tarieven",
+      "trustpilot_slug": "www.e-boekhouden.nl",
+      "plans": [
+        { "name": "ZZP Basis", "price_monthly": 9.95, "billing": "monthly" },
+        { "name": "ZZP Compleet", "price_monthly": 14.50, "billing": "monthly" },
+        { "name": "MKB", "price_monthly": 24, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 4.6, "count": 1857, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "snelstart",
+      "name": "SnelStart",
+      "category": "boekhouding",
+      "pricing_url": "https://www.snelstart.nl/pakketten",
+      "trustpilot_slug": "www.snelstart.nl",
+      "plans": [
+        { "name": "Gratis", "price_monthly": 0, "billing": "monthly", "note": "Max 50 boekingen" },
+        { "name": "Web Compleet", "price_monthly": 16, "billing": "monthly" },
+        { "name": "Web Compleet Plus", "price_monthly": 22, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": null, "count": null, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "twinfield",
+      "name": "Twinfield",
+      "category": "boekhouding",
+      "pricing_url": "https://www.wolterskluwer.com/nl-nl/solutions/twinfield",
+      "trustpilot_slug": "www.twinfield.nl",
+      "plans": [
+        { "name": "Extra Boekhouden", "price_monthly": 42, "billing": "monthly" },
+        { "name": "MKB Boekhouden", "price_monthly": 59, "billing": "monthly" },
+        { "name": "Compleet Boekhouden", "price_monthly": 88, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 1.8, "count": 17, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "freshbooks",
+      "name": "FreshBooks",
+      "category": "boekhouding",
+      "pricing_url": "https://www.freshbooks.com/pricing",
+      "trustpilot_slug": "www.freshbooks.com",
+      "plans": [
+        { "name": "Lite", "price_monthly": 17.50, "billing": "monthly", "note": "EUR prijs kan afwijken" },
+        { "name": "Plus", "price_monthly": 30, "billing": "monthly" },
+        { "name": "Premium", "price_monthly": 55, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 3.9, "count": 984, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "informeronline",
+      "name": "InformerOnline",
+      "category": "boekhouding",
+      "pricing_url": "https://www.informer.nl/prijzen/",
+      "trustpilot_slug": "www.informer.nl",
+      "plans": [
+        { "name": "Starter", "price_monthly": 15, "billing": "monthly" },
+        { "name": "Professional", "price_monthly": 23, "billing": "monthly" },
+        { "name": "Premium", "price_monthly": 34, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 4.3, "count": 113, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "jortt",
+      "name": "Jortt",
+      "category": "boekhouding",
+      "pricing_url": "https://www.jortt.nl/prijzen/",
+      "trustpilot_slug": "www.jortt.nl",
+      "plans": [
+        { "name": "Gratis", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Compleet", "price_monthly": 19.95, "billing": "monthly" },
+        { "name": "Groei", "price_monthly": 24.95, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 4.7, "count": 185, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "rompslomp",
+      "name": "Rompslomp",
+      "category": "boekhouding",
+      "pricing_url": "https://www.rompslomp.nl/prijzen/",
+      "trustpilot_slug": "www.rompslomp.nl",
+      "plans": [
+        { "name": "Gratis", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Basis", "price_monthly": 13.50, "billing": "monthly" },
+        { "name": "Uitgebreid", "price_monthly": 26.50, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 2.0, "count": 46, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "category": "webshops",
+      "pricing_url": "https://www.shopify.com/nl/pricing",
+      "trustpilot_slug": "www.shopify.com",
+      "plans": [
+        { "name": "Starter", "price_monthly": 5, "billing": "monthly" },
+        { "name": "Basic", "price_monthly": 21, "billing": "annual", "note": "Jaarlijkse facturering. Maandelijks ~25% hoger" },
+        { "name": "Grow", "price_monthly": 59, "billing": "annual", "note": "Jaarlijkse facturering" },
+        { "name": "Advanced", "price_monthly": 289, "billing": "annual", "note": "Jaarlijkse facturering" },
+        { "name": "Plus", "price_monthly": 2100, "billing": "annual", "note": "3-jaarstermijn" }
+      ],
+      "trustpilot": { "score": 1.3, "count": 4350, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "woocommerce",
+      "name": "WooCommerce",
+      "category": "webshops",
+      "pricing_url": null,
+      "trustpilot_slug": "woocommerce.com",
+      "plans": [
+        { "name": "Open Source", "price_monthly": 0, "billing": "n/a", "note": "Gratis plugin, hosting apart" }
+      ],
+      "trustpilot": { "score": 1.9, "count": 132, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "lightspeed_ecom",
+      "name": "Lightspeed eCom",
+      "category": "webshops",
+      "pricing_url": "https://www.lightspeedhq.nl/prijzen/e-com/",
+      "trustpilot_slug": "www.lightspeedhq.nl",
+      "plans": [
+        { "name": "Basic", "price_monthly": 59, "billing": "monthly" },
+        { "name": "Standard", "price_monthly": 119, "billing": "monthly" },
+        { "name": "Advanced", "price_monthly": 189, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 4.2, "count": 2404, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "ccvshop",
+      "name": "CCV Shop",
+      "category": "webshops",
+      "pricing_url": "https://www.ccvshop.nl/prijzen",
+      "trustpilot_slug": "www.ccvshop.nl",
+      "plans": [
+        { "name": "Smart", "price_monthly": 24.95, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 3.0, "count": 15, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "acendy",
+      "name": "Acendy",
+      "category": "webshops",
+      "pricing_url": "https://www.acendy.com/pricing",
+      "trustpilot_slug": null,
+      "plans": [
+        { "name": "Startup", "price_monthly": 40, "billing": "monthly" },
+        { "name": "Business", "price_monthly": 80, "billing": "monthly" },
+        { "name": "Enterprise", "price_monthly": 150, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": null, "count": null, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "bigcommerce",
+      "name": "BigCommerce",
+      "category": "webshops",
+      "pricing_url": "https://www.bigcommerce.com/pricing/",
+      "trustpilot_slug": "www.bigcommerce.com",
+      "plans": [
+        { "name": "Standard", "price_monthly": 39, "billing": "monthly", "note": "USD" },
+        { "name": "Plus", "price_monthly": 79, "billing": "monthly", "note": "USD" },
+        { "name": "Pro", "price_monthly": 299, "billing": "monthly", "note": "USD" }
+      ],
+      "trustpilot": { "score": 1.3, "count": 448, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "hubspot",
+      "name": "HubSpot CRM",
+      "category": "crm",
+      "pricing_url": "https://www.hubspot.com/pricing/crm",
+      "trustpilot_slug": "www.hubspot.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Starter", "price_monthly": 15, "billing": "monthly", "note": "per gebruiker" },
+        { "name": "Professional", "price_monthly": 90, "billing": "monthly", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 1.9, "count": 960, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "pipedrive",
+      "name": "Pipedrive",
+      "category": "crm",
+      "pricing_url": "https://www.pipedrive.com/nl/pricing",
+      "trustpilot_slug": "www.pipedrive.com",
+      "plans": [
+        { "name": "Essential", "price_monthly": 14, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Advanced", "price_monthly": 29, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Professional", "price_monthly": 49, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Power", "price_monthly": 64, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Enterprise", "price_monthly": 99, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 4.5, "count": 3200, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "monday_crm",
+      "name": "Monday CRM",
+      "category": "crm",
+      "pricing_url": "https://monday.com/pricing",
+      "trustpilot_slug": "monday.com",
+      "plans": [
+        { "name": "Basic CRM", "price_monthly": 12, "billing": "annual", "note": "per gebruiker, min 3" },
+        { "name": "Standard CRM", "price_monthly": 17, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Pro CRM", "price_monthly": 28, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 3.1, "count": 3350, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "category": "crm",
+      "pricing_url": "https://www.salesforce.com/nl/editions-pricing/sales-cloud/",
+      "trustpilot_slug": "www.salesforce.com",
+      "plans": [
+        { "name": "Starter Suite", "price_monthly": 25, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Pro Suite", "price_monthly": 100, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Enterprise", "price_monthly": 165, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 1.5, "count": 612, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "teamleader",
+      "name": "Teamleader",
+      "category": "crm",
+      "pricing_url": "https://www.teamleader.eu/nl/prijzen",
+      "trustpilot_slug": "www.teamleader.eu",
+      "plans": [
+        { "name": "Go", "price_monthly": 37.50, "billing": "monthly", "note": "eerste gebruiker" },
+        { "name": "Move", "price_monthly": 52.50, "billing": "monthly", "note": "eerste gebruiker" },
+        { "name": "Boost", "price_monthly": 75, "billing": "monthly", "note": "eerste gebruiker" }
+      ],
+      "trustpilot": { "score": 4.4, "count": 265, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "close",
+      "name": "Close CRM",
+      "category": "crm",
+      "pricing_url": "https://www.close.com/pricing",
+      "trustpilot_slug": "www.close.com",
+      "plans": [
+        { "name": "Startup", "price_monthly": 35, "billing": "annual", "note": "per gebruiker, USD" },
+        { "name": "Professional", "price_monthly": 59, "billing": "annual", "note": "per gebruiker, USD" },
+        { "name": "Enterprise", "price_monthly": 109, "billing": "annual", "note": "per gebruiker, USD" }
+      ],
+      "trustpilot": { "score": 3.0, "count": 11, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "gripp",
+      "name": "Gripp",
+      "category": "crm",
+      "pricing_url": "https://www.gripp.com/nl/prijzen/",
+      "trustpilot_slug": "www.gripp.com",
+      "plans": [
+        { "name": "Professional", "price_monthly": 33, "billing": "monthly", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 1.9, "count": 20, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "asana",
+      "name": "Asana",
+      "category": "projectmanagement",
+      "pricing_url": "https://asana.com/nl/pricing",
+      "trustpilot_slug": "asana.com",
+      "plans": [
+        { "name": "Personal", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Starter", "price_monthly": 10.99, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Advanced", "price_monthly": 24.99, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 1.5, "count": 284, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "trello",
+      "name": "Trello",
+      "category": "projectmanagement",
+      "pricing_url": "https://trello.com/pricing",
+      "trustpilot_slug": "trello.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Standard", "price_monthly": 5, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Premium", "price_monthly": 10, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 2.7, "count": 209, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "clickup",
+      "name": "ClickUp",
+      "category": "projectmanagement",
+      "pricing_url": "https://clickup.com/pricing",
+      "trustpilot_slug": "clickup.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Unlimited", "price_monthly": 7, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Business", "price_monthly": 12, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 3.4, "count": 465, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "monday",
+      "name": "Monday.com",
+      "category": "projectmanagement",
+      "pricing_url": "https://monday.com/pricing",
+      "trustpilot_slug": "monday.com",
+      "plans": [
+        { "name": "Basic", "price_monthly": 9, "billing": "annual", "note": "per gebruiker, min 3" },
+        { "name": "Standard", "price_monthly": 12, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Pro", "price_monthly": 19, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 3.1, "count": 3350, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "basecamp",
+      "name": "Basecamp",
+      "category": "projectmanagement",
+      "pricing_url": "https://basecamp.com/pricing",
+      "trustpilot_slug": "basecamp.com",
+      "plans": [
+        { "name": "Basecamp", "price_monthly": 15, "billing": "monthly", "note": "per gebruiker" },
+        { "name": "Pro Unlimited", "price_monthly": 299, "billing": "monthly", "note": "onbeperkte gebruikers" }
+      ],
+      "trustpilot": { "score": 3.2, "count": 22, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "brevo",
+      "name": "Brevo",
+      "category": "marketing",
+      "pricing_url": "https://www.brevo.com/pricing/",
+      "trustpilot_slug": "www.brevo.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Starter", "price_monthly": 7, "billing": "monthly" },
+        { "name": "Business", "price_monthly": 15, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 4.2, "count": 6894, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "mailchimp",
+      "name": "Mailchimp",
+      "category": "marketing",
+      "pricing_url": "https://mailchimp.com/pricing/",
+      "trustpilot_slug": "www.mailchimp.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Essentials", "price_monthly": 13, "billing": "monthly" },
+        { "name": "Standard", "price_monthly": 20, "billing": "monthly" },
+        { "name": "Premium", "price_monthly": 350, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 2.8, "count": 1348, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "activecampaign",
+      "name": "ActiveCampaign",
+      "category": "marketing",
+      "pricing_url": "https://www.activecampaign.com/pricing",
+      "trustpilot_slug": "www.activecampaign.com",
+      "plans": [
+        { "name": "Starter", "price_monthly": 15, "billing": "annual" },
+        { "name": "Plus", "price_monthly": 49, "billing": "annual" },
+        { "name": "Pro", "price_monthly": 79, "billing": "annual" },
+        { "name": "Enterprise", "price_monthly": 145, "billing": "annual" }
+      ],
+      "trustpilot": { "score": 2.8, "count": 1357, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "mailerlite",
+      "name": "MailerLite",
+      "category": "marketing",
+      "pricing_url": "https://www.mailerlite.com/pricing",
+      "trustpilot_slug": "www.mailerlite.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Growing Business", "price_monthly": 10, "billing": "annual" },
+        { "name": "Advanced", "price_monthly": 20, "billing": "annual" }
+      ],
+      "trustpilot": { "score": 4.3, "count": 2786, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "category": "marketing",
+      "pricing_url": "https://www.klaviyo.com/pricing",
+      "trustpilot_slug": "www.klaviyo.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly", "note": "tot 250 contacts" },
+        { "name": "Email", "price_monthly": 20, "billing": "monthly", "note": "USD, 251-500 contacts" }
+      ],
+      "trustpilot": { "score": 1.9, "count": 341, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "laposta",
+      "name": "Laposta",
+      "category": "marketing",
+      "pricing_url": "https://laposta.nl/prijzen",
+      "trustpilot_slug": "www.laposta.nl",
+      "plans": [
+        { "name": "Gratis", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Pro", "price_monthly": 42, "billing": "monthly", "note": "tot 5000 contacts" }
+      ],
+      "trustpilot": { "score": 4.7, "count": 45, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "lightspeed_restaurant",
+      "name": "Lightspeed Restaurant",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.lightspeedhq.nl/prijzen/restaurant/",
+      "trustpilot_slug": "www.lightspeedhq.nl",
+      "plans": [
+        { "name": "Essential", "price_monthly": 59, "billing": "monthly" },
+        { "name": "Plus", "price_monthly": 109, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 4.2, "count": 2400, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "lightspeed_retail",
+      "name": "Lightspeed Retail",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.lightspeedhq.nl/prijzen/retail/",
+      "trustpilot_slug": "www.lightspeedhq.nl",
+      "plans": [
+        { "name": "Basic", "price_monthly": 59, "billing": "monthly" },
+        { "name": "Standard", "price_monthly": 119, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 4.2, "count": 2400, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "category": "kassasystemen",
+      "pricing_url": "https://squareup.com/nl/nl/pricing",
+      "trustpilot_slug": "squareup.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly", "note": "1.75% transactiekosten" },
+        { "name": "Plus", "price_monthly": 29, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 4.2, "count": 7100, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "zettle",
+      "name": "Zettle by PayPal",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.zettle.com/nl/prijzen",
+      "trustpilot_slug": "www.zettle.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly", "note": "1.75% transactiekosten" }
+      ],
+      "trustpilot": { "score": 3.3, "count": 5500, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "orderbird",
+      "name": "Orderbird",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.orderbird.com/nl/prijzen",
+      "trustpilot_slug": "www.orderbird.com",
+      "plans": [
+        { "name": "Starter", "price_monthly": 39, "billing": "monthly" },
+        { "name": "Professional", "price_monthly": 59, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 2.1, "count": 35, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "untill",
+      "name": "Untill",
+      "category": "kassasystemen",
+      "pricing_url": "https://www.untill.com/nl/prijzen/",
+      "trustpilot_slug": null,
+      "plans": [
+        { "name": "Basic", "price_monthly": 79, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": null, "count": null, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "personio",
+      "name": "Personio",
+      "category": "hr-software",
+      "pricing_url": "https://www.personio.nl/prijzen/",
+      "trustpilot_slug": "www.personio.com",
+      "plans": [
+        { "name": "Core", "price_monthly": 3, "billing": "annual", "note": "per medewerker" }
+      ],
+      "trustpilot": { "score": 4.0, "count": 263, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "hibob",
+      "name": "HiBob",
+      "category": "hr-software",
+      "pricing_url": null,
+      "trustpilot_slug": "www.hibob.com",
+      "plans": [
+        { "name": "Bob", "price_monthly": 8, "billing": "annual", "note": "per medewerker, geschat" }
+      ],
+      "trustpilot": { "score": 4.4, "count": 153, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "nmbrs",
+      "name": "Nmbrs",
+      "category": "hr-software",
+      "pricing_url": "https://www.nmbrs.nl/prijzen/",
+      "trustpilot_slug": "www.nmbrs.nl",
+      "plans": [
+        { "name": "Nmbrs", "price_monthly": 69, "billing": "monthly", "note": "basisprijs" }
+      ],
+      "trustpilot": { "score": 4.3, "count": 110, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "afas",
+      "name": "AFAS Software",
+      "category": "hr-software",
+      "pricing_url": null,
+      "trustpilot_slug": "www.afas.nl",
+      "plans": [
+        { "name": "AFAS", "price_monthly": 10, "billing": "annual", "note": "per medewerker, op aanvraag" }
+      ],
+      "trustpilot": { "score": 3.3, "count": 152, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "loket",
+      "name": "Loket.nl",
+      "category": "hr-software",
+      "pricing_url": "https://www.loket.nl/prijzen/",
+      "trustpilot_slug": "www.loket.nl",
+      "plans": [
+        { "name": "Basis", "price_monthly": 5, "billing": "monthly", "note": "per medewerker" }
+      ],
+      "trustpilot": { "score": null, "count": null, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "bamboohr",
+      "name": "BambooHR",
+      "category": "hr-software",
+      "pricing_url": "https://www.bamboohr.com/pricing",
+      "trustpilot_slug": "www.bamboohr.com",
+      "plans": [
+        { "name": "Core", "price_monthly": 5, "billing": "monthly", "note": "per medewerker, USD" },
+        { "name": "Pro", "price_monthly": 9, "billing": "monthly", "note": "per medewerker, USD" }
+      ],
+      "trustpilot": { "score": 3.1, "count": 125, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "clockify",
+      "name": "Clockify",
+      "category": "productiviteit",
+      "pricing_url": "https://clockify.me/pricing",
+      "trustpilot_slug": "clockify.me",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Basic", "price_monthly": 3.99, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Standard", "price_monthly": 5.49, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Pro", "price_monthly": 7.99, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 3.8, "count": 58, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "toggl",
+      "name": "Toggl Track",
+      "category": "productiviteit",
+      "pricing_url": "https://toggl.com/track/pricing/",
+      "trustpilot_slug": "toggl.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Starter", "price_monthly": 9, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Premium", "price_monthly": 18, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 2.4, "count": 63, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "notion",
+      "name": "Notion",
+      "category": "productiviteit",
+      "pricing_url": "https://www.notion.so/pricing",
+      "trustpilot_slug": "www.notion.so",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Plus", "price_monthly": 10, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Business", "price_monthly": 18, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 2.5, "count": 381, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "tidio",
+      "name": "Tidio",
+      "category": "klantenservice",
+      "pricing_url": "https://www.tidio.com/pricing/",
+      "trustpilot_slug": "www.tidio.com",
+      "plans": [
+        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Starter", "price_monthly": 29, "billing": "monthly" },
+        { "name": "Growth", "price_monthly": 59, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 3.7, "count": 224, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "zendesk",
+      "name": "Zendesk",
+      "category": "klantenservice",
+      "pricing_url": "https://www.zendesk.nl/pricing/",
+      "trustpilot_slug": "www.zendesk.com",
+      "plans": [
+        { "name": "Suite Team", "price_monthly": 55, "billing": "annual", "note": "per agent" },
+        { "name": "Suite Growth", "price_monthly": 89, "billing": "annual", "note": "per agent" },
+        { "name": "Suite Professional", "price_monthly": 115, "billing": "annual", "note": "per agent" }
+      ],
+      "trustpilot": { "score": 1.7, "count": 693, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "wix",
+      "name": "Wix",
+      "category": "website-bouwers",
+      "pricing_url": "https://www.wix.com/upgrade/website",
+      "trustpilot_slug": "www.wix.com",
+      "plans": [
+        { "name": "Light", "price_monthly": 17, "billing": "monthly" },
+        { "name": "Core", "price_monthly": 28, "billing": "monthly" },
+        { "name": "Business", "price_monthly": 36, "billing": "monthly" }
+      ],
+      "trustpilot": { "score": 3.6, "count": 26607, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "squarespace",
+      "name": "Squarespace",
+      "category": "website-bouwers",
+      "pricing_url": "https://www.squarespace.com/pricing",
+      "trustpilot_slug": "www.squarespace.com",
+      "plans": [
+        { "name": "Personal", "price_monthly": 16, "billing": "annual", "note": "USD" },
+        { "name": "Business", "price_monthly": 33, "billing": "annual", "note": "USD" },
+        { "name": "Commerce Basic", "price_monthly": 36, "billing": "annual", "note": "USD" }
+      ],
+      "trustpilot": { "score": 3.1, "count": 2434, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "mollie",
+      "name": "Mollie",
+      "category": "betalingen",
+      "pricing_url": "https://www.mollie.com/pricing",
+      "trustpilot_slug": "www.mollie.com",
+      "plans": [
+        { "name": "Pay-as-you-go", "price_monthly": 0, "billing": "monthly", "note": "iDEAL €0.29/tx" }
+      ],
+      "trustpilot": { "score": null, "count": null, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "multisafepay",
+      "name": "MultiSafepay",
+      "category": "betalingen",
+      "pricing_url": "https://www.multisafepay.com/pricing",
+      "trustpilot_slug": "www.multisafepay.com",
+      "plans": [
+        { "name": "Pay-as-you-go", "price_monthly": 0, "billing": "monthly", "note": "iDEAL €0.29/tx" }
+      ],
+      "trustpilot": { "score": null, "count": null, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "pandadoc",
+      "name": "PandaDoc",
+      "category": "offerte-software",
+      "pricing_url": "https://www.pandadoc.com/pricing/",
+      "trustpilot_slug": "www.pandadoc.com",
+      "plans": [
+        { "name": "Essentials", "price_monthly": 19, "billing": "annual", "note": "per gebruiker" },
+        { "name": "Business", "price_monthly": 49, "billing": "annual", "note": "per gebruiker" }
+      ],
+      "trustpilot": { "score": 3.0, "count": 644, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    },
+    {
+      "id": "zoom",
+      "name": "Zoom",
+      "category": "vergadersoftware",
+      "pricing_url": "https://zoom.us/pricing",
+      "trustpilot_slug": "zoom.us",
+      "plans": [
+        { "name": "Basic", "price_monthly": 0, "billing": "monthly" },
+        { "name": "Pro", "price_monthly": 12.50, "billing": "annual" },
+        { "name": "Business", "price_monthly": 18.33, "billing": "annual" }
+      ],
+      "trustpilot": { "score": 1.6, "count": 3400, "checked": "2026-03-09" },
+      "verified": "2026-03-09"
+    }
+  ]
+}

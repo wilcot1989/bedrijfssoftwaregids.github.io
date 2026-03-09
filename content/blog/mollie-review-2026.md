@@ -1,7 +1,7 @@
 ---
 title: "Mollie Review 2026: Betaalprovider Getest"
-date: 2026-04-11
-lastmod: 2026-04-11
+date: 2026-03-10
+lastmod: 2026-03-10
 description: "Eerlijke Mollie review 2026: transactiekosten per betaalmethode, dashboard, integraties en ervaringen. Ontdek of Mollie past bij jouw webshop of platform."
 categories: ["webshops"]
 tags:
@@ -76,7 +76,7 @@ De kosten zijn het eerste waar iedereen naar vraagt, en terecht. Mollie rekent g
 | **Belfius Direct Net** | €0,39 | Belgische klanten |
 | **KBC/CBC** | €0,39 | Belgische klanten |
 | **EPS** | €0,39 | Oostenrijkse klanten |
-| **Giropay** | €0,39 | Duitse klanten |
+| **SOFORT/Klarna** | €0,39 | Duitse klanten |
 | **Przelewy24** | 1,5% + €0,25 | Poolse klanten |
 | **Gift cards** | €0,25 | Cadeaubonnen |
 
@@ -139,7 +139,7 @@ Klarna is beschikbaar als buy-now-pay-later optie. In mijn ervaring verhoogt het
 
 ### Betaalmethodes voor buurlanden
 
-Verkoop je ook aan Belgische, Duitse of Oostenrijkse klanten? Dan zijn Bancontact, Giropay, EPS en Przelewy24 een must. Bij een klant die naar Belgische consumenten verkoopt, steeg het conversiepercentage met 22% nadat we Bancontact als optie toevoegden. Logisch -- Belgische consumenten willen betalen met hun eigen vertrouwde methode.
+Verkoop je ook aan Belgische, Duitse of Oostenrijkse klanten? Dan zijn Bancontact, SOFORT/Klarna, EPS en Przelewy24 een must. Bij een klant die naar Belgische consumenten verkoopt, steeg het conversiepercentage met 22% nadat we Bancontact als optie toevoegden. Logisch -- Belgische consumenten willen betalen met hun eigen vertrouwde methode.
 
 ### Vouchers en cadeaukaarten
 
@@ -329,7 +329,7 @@ Webhooks zorgen ervoor dat je webshop automatisch op de hoogte wordt gesteld als
 
 ### 5. Betaalmethodes voor buurlanden vergeten
 
-Als je ook naar België of Duitsland verzendt maar alleen iDEAL aanbiedt, verlies je klanten bij de checkout. Voeg Bancontact (België) en Giropay of creditcard (Duitsland) toe.
+Als je ook naar België of Duitsland verzendt maar alleen iDEAL aanbiedt, verlies je klanten bij de checkout. Voeg Bancontact (België) en SOFORT/Klarna of creditcard (Duitsland) toe.
 
 
 ## Voor wie is Mollie geschikt?
