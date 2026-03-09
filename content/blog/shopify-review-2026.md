@@ -231,7 +231,7 @@ Wat gebruikers van Shopify-winkels zelf meest positief noemen: gebruiksgemak, sn
 | Platform | Prijs vanaf | Beste voor | Nadeel vs Shopify |
 |---|---|---|---|
 | **WooCommerce** | Gratis (+ hosting ~€5-15/mnd) | Maatwerk, volledige controle | Technische kennis vereist, eigen hosting |
-| **Lightspeed** | €59/mnd | Fysieke retail + webshop | Duurder, minder app-ecosystem |
+| **Lightspeed** | €68/mnd | Fysieke retail + webshop | Duurder, minder app-ecosystem |
 | **Mijnwebwinkel** | €25/mnd | Kleine NL-webshops, iDEAL ingebouwd | Beperkt schaalbaar, minder apps |
 | **Shopware** | Gratis Community Edition | Enterprise maatwerk, Duitstalig | Steil leercurve, developer nodig |
 | **WiX** | €23/mnd | Starters met kleine catalogi | Beperkte e-commerce functies bij hoge omzet |

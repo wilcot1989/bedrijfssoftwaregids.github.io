@@ -95,7 +95,7 @@ Hieronder vat ik de 6 platforms samen die ik het vaakst aanbeveel. Per platform 
 </tr>
 <tr>
 <td><strong>Lightspeed eCom</strong></td>
-<td>&euro;59/mnd (Basic)</td>
+<td>&euro;68/mnd (Essential)</td>
 <td>Standaard</td>
 <td>250</td>
 <td>Ja</td>
@@ -153,7 +153,7 @@ Gebouwd voor de Nederlandse markt: iDEAL, PostNL, bol.com en btw-regels zitten e
 
 ### 3. Lightspeed eCom -- Beste voor online + fysieke winkel
 
-De keuze zodra je online én offline verkoopt. Je voorraad synchroniseert real-time -- verkoop je iets in de winkel, dan past de webshop zich direct aan. Duurder als instap, maar je bespaart een berg gedoe met losse koppelingen. Capterra: 4,0/5 (100+ reviews). Prijs: vanaf €59/maand (Basic). Meer details in de [Lightspeed kassa review](/blog/lightspeed-kassa-review-2026/).
+De keuze zodra je online én offline verkoopt. Je voorraad synchroniseert real-time -- verkoop je iets in de winkel, dan past de webshop zich direct aan. Duurder als instap, maar je bespaart een berg gedoe met losse koppelingen. Capterra: 4,0/5 (100+ reviews). Prijs: vanaf €68/maand (Essential). Meer details in de [Lightspeed kassa review](/blog/lightspeed-kassa-review-2026/).
 
 **Stack-integratie:** iDEAL en Bancontact standaard ingebouwd. Directe bol.com en Amazon-koppeling. Eigen POS-systeem (centrale voorraad). Sterke Exact Online-integratie. De totale omnichannel-stack (eCom + POS + Mollie + Sendcloud + Exact) kost circa €250-400/maand -- maar je vervangt twee losse systemen.
 

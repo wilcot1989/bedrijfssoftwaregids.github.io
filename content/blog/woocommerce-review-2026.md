@@ -267,7 +267,7 @@ Het verschil met platforms als Shopify (Trustpilot 1,3/5 door facturatieklachten
 
 | | WooCommerce | Shopify | Lightspeed eCom | Acendy |
 |---|---|---|---|---|
-| **Basisprijs/mnd** | €10-50 (hosting) | €21 (jaarlijks) | €59 | €40 |
+| **Basisprijs/mnd** | €10-50 (hosting) | €21 (jaarlijks) | €68 | €40 |
 | **Transactiekosten** | Geen | Tot 2% | Geen | Geen |
 | **Technisch beheer** | Zelf | Shopify | Lightspeed | Acendy |
 | **iDEAL standaard** | Via Mollie (gratis ext.) | Via Mollie | Ja, ingebouwd | Ja, ingebouwd |

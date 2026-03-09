@@ -82,7 +82,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 |---|---|---|---|
 | **Shopify** | €21/mnd (jaarlijks) | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops & internationaal |
 | **WooCommerce** | Gratis + hosting | 1.9/5 (132 reviews) | Volledige controle & maatwerk |
-| **Lightspeed eCom** | €59/mnd | 3.7/5 (1.149 reviews) | Omnichannel retail (winkel + online) |
+| **Lightspeed eCom** | €68/mnd | 3.7/5 (1.149 reviews) | Omnichannel retail (winkel + online) |
 | **Magento** | Gratis (self-hosted) | Geen profiel | Enterprise & complexe catalogussen |
 | **BigCommerce** | $39/mnd | 1.3/5 (448 reviews) | Internationale groei zonder transactiekosten |
 | **CCV Shop** | €24,95/mnd | 3.0/5 (15 reviews) | Nederlandse starters & MKB |
@@ -96,7 +96,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 |---|---|---|---|---|---|---|
 | **Shopify** | €21/mnd (jaarlijks) | Nee (3 dagen gratis) | Via Mollie/Shopify Payments | Ja | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops |
 | **WooCommerce** | Gratis (+ hosting) | Ja (plugin) | Via Mollie plugin | Ja | 1.9/5 (132 reviews) | Volledige controle & flexibiliteit |
-| **Lightspeed eCom** | €59/mnd | Nee (14 dagen trial) | Ja (standaard) | Ja | 3.7/5 (1.149 reviews) | Omnichannel retail |
+| **Lightspeed eCom** | €68/mnd | Nee (14 dagen trial) | Ja (standaard) | Ja | 3.7/5 (1.149 reviews) | Omnichannel retail |
 | **Magento/Adobe Commerce** | Gratis (Open Source) | Ja (self-hosted) | Via extensie | Ja | — | Grote webshops & enterprise |
 | **BigCommerce** | $39/mnd | Nee (15 dagen trial) | Via Mollie | Beperkt | 1.3/5 (448 reviews) | Internationale groei |
 | **CCV Shop** | €24,95/mnd | Nee (21 dagen trial) | Ja (standaard) | Ja | 3.0/5 (15 reviews) | Nederlandse starters & MKB |
@@ -258,7 +258,7 @@ Ben je ook op zoek naar een kassasysteem voor je fysieke locatie? Lees dan ons a
 - Meertalige en multi-valuta ondersteuning
 
 ### Prijzen (2026)
-- **Basic**: €59/maand
+- **Essential**: €68/maand
 - **Core**: €89/maand
 - **Plus**: €189/maand
 - POS-licentie apart beschikbaar
@@ -516,7 +516,7 @@ Dit is de vraag die ik het vaakst krijg — en waarbij ik het meest zie dat mens
 |----------|-----------------|---------|--------------|--------------|------------------------|
 | Shopify Basic | €21/mnd (jaarlijks) | Inbegrepen | 0% (Shopify Pay) / 0,5-2% extern | €20-50/mnd apps | **€41-100/mnd** |
 | WooCommerce | Gratis | €5-25/mnd | 0% (Mollie) | €10-30/mnd | **€15-55/mnd** |
-| Lightspeed eCom | €59/mnd | Inbegrepen | 0% | €0-20/mnd | **€59-80/mnd** |
+| Lightspeed eCom | €68/mnd | Inbegrepen | 0% | €0-20/mnd | **€68-90/mnd** |
 | CCV Shop | €24,95/mnd | Inbegrepen | 0% | Beperkt | **€24,95-40/mnd** |
 | Acendy | €40/mnd | Inbegrepen | 0% | Beperkt | **€40-55/mnd** |
 | BigCommerce | $39/mnd (~€36) | Inbegrepen | 0% | €10-30/mnd | **€46-70/mnd** |
