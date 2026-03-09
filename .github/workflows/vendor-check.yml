@@ -1,0 +1,52 @@
+name: Vendor Price & Trustpilot Check
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Dagelijks om 06:00 UTC (voor de deploy om 08:00)
+  workflow_dispatch:  # Handmatig triggeren
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  vendor-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run vendor check
+        id: check
+        run: |
+          python scripts/check-vendor-prices.py --update 2>&1 | tee vendor-check-output.txt
+          echo "exit_code=$?" >> $GITHUB_OUTPUT
+
+      - name: Commit updated vendor-truth.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet scripts/vendor-truth.json; then
+            echo "No changes to vendor-truth.json"
+          else
+            git add scripts/vendor-truth.json
+            git commit -m "chore: update Trustpilot scores in vendor-truth.json [skip ci]"
+            git push
+          fi
+
+      - name: Create issue if warnings found
+        if: steps.check.outputs.exit_code == '1'
+        run: |
+          if [ -f scripts/vendor-check-result.md ]; then
+            gh issue create \
+              --title "⚠️ Vendor Price Check: afwijkingen gevonden ($(date +%Y-%m-%d))" \
+              --body-file scripts/vendor-check-result.md \
+              --label "vendor-check"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
