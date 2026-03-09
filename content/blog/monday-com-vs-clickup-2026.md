@@ -41,7 +41,7 @@ Zoek je een breder overzicht? Bekijk dan mijn artikel over de [beste projectmana
 
 | Kenmerk | Monday.com | ClickUp |
 |---|---|---|
-| **Trustpilot** | 3.1/5 (3.350+ reviews) | 3.4/5 (465 reviews) |
+| **Trustpilot** | 2.7/5 (3.388 reviews) | 3.4/5 (465 reviews) |
 | **Gratis plan** | 2 gebruikers | Onbeperkt (Free Forever) |
 | **Startprijs betaald** | €9/gebruiker/mnd (min. 3 seats) | €7/gebruiker/mnd |
 | **Beste voor** | Visuele, niet-technische teams | Feature-hongerige teams |
@@ -57,7 +57,7 @@ Zoek je een breder overzicht? Bekijk dan mijn artikel over de [beste projectmana
 | **CRM-module** | Ja (Monday CRM) | Nee (via templates) |
 | **Ideale teamgrootte** | 3-100 medewerkers | 1-500 medewerkers |
 
-Die Trustpilot-scores liggen dicht bij elkaar, maar het verhaal erachter verschilt. Monday.com heeft 3.350+ reviews met een 3.1/5 -- de klachten gaan vooral over verborgen kosten, het minimum van 3 seats bij betaalde plannen en prijsverhogingen. ClickUp scoort 3.4/5 met 465 reviews -- gebruikers zijn enthousiast over de functies per euro, maar klagen over een steile leercurve en af en toe traagheid. Beide scores vertellen hetzelfde verhaal: krachtige tools met duidelijke afwegingen.
+Die Trustpilot-scores liggen dicht bij elkaar, maar het verhaal erachter verschilt. Monday.com heeft 3.388 reviews met een 2.7/5 -- de klachten gaan vooral over verborgen kosten, het minimum van 3 seats bij betaalde plannen en prijsverhogingen. ClickUp scoort 3.4/5 met 465 reviews -- gebruikers zijn enthousiast over de functies per euro, maar klagen over een steile leercurve en af en toe traagheid. Beide scores vertellen hetzelfde verhaal: krachtige tools met duidelijke afwegingen.
 
 ## Kostenvergelijking
 
@@ -91,7 +91,7 @@ Wil je weten wat projectmanagement software jou maandelijks kost? Gebruik de [pr
 
 ## Monday.com: het profiel
 
-**Trustpilot: 3.1/5 (3.350+ reviews)** -- gepolariseerd, met enthousiaste fans en frustraties over prijsbeleid.
+**Trustpilot: 2.7/5 (3.388 reviews)** -- gepolariseerd, met enthousiaste fans en frustraties over prijsbeleid.
 
 Monday.com is de tool die ik het vaakst aanbeveel bij niet-technische teams. Een marketingafdeling in Amsterdam, een makelaarsgroep in Rotterdam, een evenementenbureau in Utrecht -- overal waar mensen visueel denken en snel productief willen zijn, past Monday.com. De kleurrijke borden, de drag-and-drop, het voelt intuïtief vanaf de eerste klik. Bij mijn laatste implementatie bij een team van 12 was iedereen binnen een uur aan het werk. Geen handleiding nodig.
 

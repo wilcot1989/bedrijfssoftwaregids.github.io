@@ -294,7 +294,7 @@ De keerzijde: Trivec publiceert geen vaste prijzen. Je krijgt altijd een maatwer
 
 Orderbird is de keuze voor kleine restaurants waar de operations simpel zijn: een menukaart, een handvol tafels, een keukenprinter. Bij een eetcafe in Den Haag met 30 zitplaatsen was alles binnen een halve dag ingericht. De HACCP-registratie is een handige bonus -- je temperatuurcontroles en schoonmaakregistratie zitten direct in het systeem.
 
-De beperkingen worden duidelijk als je verder kijkt dan de kassa: er is geen reserveringskoppeling, geen serieus voorraadbeheer met recepturen, en geen KDS-ondersteuning. Voor een restaurant dat ook reserveringen, food cost tracking en keukenmanagement wil, is Orderbird te beperkt. Op Trustpilot scoort het slechts 2.1/5 (35 reviews) -- de klachten gaan over support (primair Duitstalig) en prijsverhogingen.
+De beperkingen worden duidelijk als je verder kijkt dan de kassa: er is geen reserveringskoppeling, geen serieus voorraadbeheer met recepturen, en geen KDS-ondersteuning. Voor een restaurant dat ook reserveringen, food cost tracking en keukenmanagement wil, is Orderbird te beperkt. Op Trustpilot scoort het 2.4/5 (30 reviews) -- de klachten gaan over support (primair Duitstalig) en prijsverhogingen.
 
 #### Belangrijkste functies
 

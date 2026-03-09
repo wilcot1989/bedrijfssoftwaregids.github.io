@@ -32,8 +32,8 @@ products:
     description: "Omnichannel e-commerce platform voor retailers die online en in de winkel willen verkopen met native iDEAL-integratie."
     url: "https://www.lightspeedhq.nl/"
     price: "59.00"
-    rating_value: "4.2"
-    rating_count: "2404"
+    rating_value: "3.7"
+    rating_count: "1149"
   - name: "Magento"
     description: "Open-source e-commerce platform voor grote webshops en enterprise met maximale flexibiliteit en schaalbaarheid."
     url: "https://business.adobe.com/products/magento/magento-commerce.html"
@@ -82,7 +82,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 |---|---|---|---|
 | **Shopify** | €21/mnd (jaarlijks) | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops & internationaal |
 | **WooCommerce** | Gratis + hosting | 1.9/5 (132 reviews) | Volledige controle & maatwerk |
-| **Lightspeed eCom** | €59/mnd | 4.2/5 (2.404 reviews) | Omnichannel retail (winkel + online) |
+| **Lightspeed eCom** | €59/mnd | 3.7/5 (1.149 reviews) | Omnichannel retail (winkel + online) |
 | **Magento** | Gratis (self-hosted) | Geen profiel | Enterprise & complexe catalogussen |
 | **BigCommerce** | $39/mnd | 1.3/5 (448 reviews) | Internationale groei zonder transactiekosten |
 | **CCV Shop** | €24,95/mnd | 3.0/5 (15 reviews) | Nederlandse starters & MKB |
@@ -96,7 +96,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 |---|---|---|---|---|---|---|
 | **Shopify** | €21/mnd (jaarlijks) | Nee (3 dagen gratis) | Via Mollie/Shopify Payments | Ja | 1.3/5 (4.350 reviews)* | Snelgroeiende webshops |
 | **WooCommerce** | Gratis (+ hosting) | Ja (plugin) | Via Mollie plugin | Ja | 1.9/5 (132 reviews) | Volledige controle & flexibiliteit |
-| **Lightspeed eCom** | €59/mnd | Nee (14 dagen trial) | Ja (standaard) | Ja | 4.2/5 (2.404 reviews) | Omnichannel retail |
+| **Lightspeed eCom** | €59/mnd | Nee (14 dagen trial) | Ja (standaard) | Ja | 3.7/5 (1.149 reviews) | Omnichannel retail |
 | **Magento/Adobe Commerce** | Gratis (Open Source) | Ja (self-hosted) | Via extensie | Ja | — | Grote webshops & enterprise |
 | **BigCommerce** | $39/mnd | Nee (15 dagen trial) | Via Mollie | Beperkt | 1.3/5 (448 reviews) | Internationale groei |
 | **CCV Shop** | €24,95/mnd | Nee (21 dagen trial) | Ja (standaard) | Ja | 3.0/5 (15 reviews) | Nederlandse starters & MKB |
@@ -226,7 +226,7 @@ De Mollie-plugin voor WooCommerce is overigens uitstekend — iDEAL, creditcard,
 
 ## 3. Lightspeed eCom
 
-Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." **Trustpilot: 4.2/5 (2.404 reviews).** Persoonlijke support wordt veel geprezen, vooral bij onboarding — veruit de beste score in deze categorie. De naadloze koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Wil je een diepgaande beoordeling van Lightspeed als kassasysteem? Lees mijn [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/). Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
+Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." **Trustpilot: 3.7/5 (1.149 reviews).** Persoonlijke support wordt veel geprezen, vooral bij onboarding — veruit de beste score in deze categorie. De naadloze koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Wil je een diepgaande beoordeling van Lightspeed als kassasysteem? Lees mijn [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/). Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
 
 **Lightspeed eCom in de praktijk: ideaal voor de retailer die online gaat.** Een kledingboetiek die ik begeleid besloot online te gaan verkopen. Ze hadden al Lightspeed als kassasysteem in de winkel. De keuze voor Lightspeed eCom was logisch: dezelfde voorraad, één systeem, geen dubbel werk.
 

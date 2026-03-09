@@ -47,7 +47,7 @@ Zoek je een breder overzicht? Bekijk dan mijn [vergelijking van de beste project
 | **Minimum seats** | 3 (betaalde plannen) |
 | **Nederlands** | Ja, volledige interface |
 | **G2-score** | 4,7/5 (14.900+ reviews) |
-| **Trustpilot-score** | 3,1/5 (~3.350 reviews) |
+| **Trustpilot-score** | 2,7/5 (~3.388 reviews) |
 | **Automatiseringen** | Ja (vanaf Standard) |
 | **Mobiele app** | iOS & Android |
 | **Integraties** | 200+ |
@@ -202,11 +202,11 @@ De beoordelingen van Monday.com laten een opvallend verschil zien:
 | Platform | Score | Aantal reviews |
 |---|---|---|
 | **G2** | 4,7/5 | 14.900+ |
-| **Trustpilot** | 3,1/5 | ~3.350 |
+| **Trustpilot** | 2,7/5 | ~3.388 |
 | **Capterra** | 4,6/5 | 5.000+ |
 | **GetApp** | 4,6/5 | 4.800+ |
 
-Dat verschil tussen G2 (4,7) en Trustpilot (3,1) is groot. Op G2 reviewen voornamelijk actieve zakelijke gebruikers die het product dagelijks inzetten. Op Trustpilot zie je vaker klachten over facturatie, annulering en klantenservice.
+Dat verschil tussen G2 (4,7) en Trustpilot (2,7) is groot. Op G2 reviewen voornamelijk actieve zakelijke gebruikers die het product dagelijks inzetten. Op Trustpilot zie je vaker klachten over facturatie, annulering en klantenservice.
 
 **Meest genoemde pluspunten (G2/Capterra):**
 - Visuele interface en gebruiksvriendelijkheid
@@ -256,7 +256,7 @@ Na tientallen implementaties heb ik een vrij duidelijk beeld:
 - Minimum 3 seats bij betaalde plannen — duur voor kleine teams
 - 250 automatiseringsacties op Standard is krap voor actieve teams
 - Prestaties dalen bij grote borden (300+ items)
-- Trustpilot-score van 3,1 wijst op problemen met facturatie en annulering
+- Trustpilot-score van 2,7 wijst op problemen met facturatie en annulering
 - Geavanceerde functies (tijdregistratie, afhankelijkheden) alleen op Pro
 - Dashboards beperkt — geen vervanging voor een BI-tool
 - Mobiele app is functioneel maar niet snel

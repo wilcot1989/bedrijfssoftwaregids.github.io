@@ -32,8 +32,8 @@ products:
     description: "Flexibel werkplatform dat CRM combineert met projectmanagement voor diverse teams."
     url: "https://monday.com/lang/nl"
     price: "12.00"
-    rating_value: "3.1"
-    rating_count: "3350"
+    rating_value: "2.7"
+    rating_count: "3388"
   - name: "Salesforce"
     description: "Het meest uitgebreide CRM-platform ter wereld met AI-functies voor grote organisaties."
     url: "https://www.salesforce.com/nl/"
@@ -89,7 +89,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 |---|---|---|---|
 | **HubSpot CRM** | Gratis | 1.9/5 | Starters & marketing |
 | **Pipedrive** | €14/mnd | 4.5/5 | Verkoopteams & MKB |
-| **Monday CRM** | €12/mnd | 3.1/5 | Projectmatige verkoop |
+| **Monday CRM** | €12/mnd | 2.7/5 | Projectmatige verkoop |
 | **Salesforce** | €25/mnd | 1.5/5 | Grote bedrijven |
 | **Exact Online CRM** | €49/mnd | 2.6/5 | Exact-gebruikers |
 | **Gripp** | €29/mnd | 1.9/5 | Bureaus & dienstverleners |
@@ -123,7 +123,7 @@ Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel
 |---|---|---|---|---|---|
 | **HubSpot CRM** | Gratis / €15/gebruiker | Ja | Ja | 1.9/5 (~960 reviews) | Starters & marketing-gedreven bedrijven |
 | **Pipedrive** | ~€14/gebruiker (Lite) | Nee (14 dagen trial) | Ja | 4.5/5 (3.200+ reviews) | Verkoopteams & MKB |
-| **Monday CRM** | €12/gebruiker | Ja (beperkt) | Ja | 3.1/5 (3.350+ reviews) | Projectmatige verkoop |
+| **Monday CRM** | €12/gebruiker | Ja (beperkt) | Ja | 2.7/5 (3.388 reviews) | Projectmatige verkoop |
 | **Salesforce** | €25/gebruiker | Nee (30 dagen trial) | Ja | 1.5/5 (610 reviews) | Grote bedrijven & enterprises |
 | **Teamleader** | op aanvraag | Nee (14 dagen trial) | Ja | 4.4/5 (265 reviews) | Belgisch/Nederlands MKB |
 | **Exact Online CRM** | vanaf €49/maand | Nee (30 dagen trial) | Ja | 2.6/5 (641 reviews) | Bedrijven met Exact boekhouding |
@@ -216,7 +216,7 @@ Wil je meer weten over hoe je CRM-data schoon en actueel houdt? Lees dan mijn ar
 
 ## 3. Monday CRM — voor wie CRM en projectmanagement wil combineren
 
-Monday CRM is de tool die ik aanbeveel als een klant zegt: "Ik wil mijn deals tracken en daarna het project managen, liefst in een systeem." Die combinatie is de grote kracht. Zoek je een dedicated projecttool? Lees dan mijn vergelijking van de [beste projectmanagement software](/blog/beste-projectmanagement-software-2026/). Een adviesbureau dat ik hielp, gebruikte het voor de hele flow: van eerste contact tot projectoplevering. Dat scheelde ze twee losse tools. Trustpilot: 3.1/5 (3.350+ reviews) -- de meningen zijn verdeeld. Fans zijn enthousiast over de flexibiliteit, maar de CRM-functies zijn minder diep dan bij Pipedrive of HubSpot, en dat hoor je terug in de reviews.
+Monday CRM is de tool die ik aanbeveel als een klant zegt: "Ik wil mijn deals tracken en daarna het project managen, liefst in een systeem." Die combinatie is de grote kracht. Zoek je een dedicated projecttool? Lees dan mijn vergelijking van de [beste projectmanagement software](/blog/beste-projectmanagement-software-2026/). Een adviesbureau dat ik hielp, gebruikte het voor de hele flow: van eerste contact tot projectoplevering. Dat scheelde ze twee losse tools. Trustpilot: 2.7/5 (3.388 reviews) -- de meningen zijn verdeeld. Fans zijn enthousiast over de flexibiliteit, maar de CRM-functies zijn minder diep dan bij Pipedrive of HubSpot, en dat hoor je terug in de reviews.
 
 ### Belangrijkste functies
 - Volledig aanpasbare sales pipelines

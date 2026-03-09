@@ -92,7 +92,7 @@ Zoom is wat ik adviseer als een bedrijf veel vergadert met externe partijen -- k
 **✅ Voordelen:** Beste videokwaliteit, geen account nodig voor gasten, betrouwbaarst
 **❌ Nadelen:** Niet zo sterk als samenwerkingsplatform, extra kosten voor functies. Als je nieuwe medewerkers wilt onboarden via Zoom, is de koppeling met [goede recruitmentsoftware](/blog/beste-recruitment-software-2026/) waardevol.
 
-**Review scores:** G2 4,6/5 (55.000+ reviews) · Trustpilot 1,6/5 (3.400+ reviews, overwegend over klantenservice)
+**Review scores:** G2 4,6/5 (55.000+ reviews) · Trustpilot 1,3/5 (1.411 reviews, overwegend over klantenservice)
 
 <a href="https://zoom.us/nl-nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar zoom.us →</a>
 

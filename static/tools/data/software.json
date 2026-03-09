@@ -585,7 +585,7 @@
     "pos_sync": true,
     "integrations": ["Mollie", "Stripe", "Bol.com", "Google Shopping", "Sendcloud"],
     "affiliate": { "type": "link", "url": "https://www.lightspeedhq.nl/" },
-    "cost": { "model": "webshop_tx_cost", "base": 49, "tx_fee_pct": 0 }
+    "cost": { "model": "webshop_tx_cost", "base": 68, "tx_fee_pct": 0 }
   },
   {
     "id": "magento",

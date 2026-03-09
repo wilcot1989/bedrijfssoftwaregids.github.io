@@ -19,8 +19,8 @@ products:
     description: "Flexibel Work OS voor teams van elke grootte met kanban, Gantt, dashboards en 200+ automatiseringen."
     url: "https://monday.com/"
     price: "9.00"
-    rating_value: "3.1"
-    rating_count: "3350"
+    rating_value: "2.7"
+    rating_count: "3388"
   - name: "Asana"
     description: "Projectmanagement tool met sterke taakafhankelijkheden en portfoliomanagement voor gestructureerde teams."
     url: "https://asana.com/"
@@ -43,8 +43,8 @@ products:
     description: "All-in-one project en teamsamenwerking tool met vaste prijsstelling, geschikt voor bureaus en remote teams."
     url: "https://basecamp.com/"
     price: "15.00"
-    rating_value: "3.2"
-    rating_count: "22"
+    rating_value: "3.8"
+    rating_count: "21"
   - name: "Notion"
     description: "Flexibele werkruimte die documenten, databases en projectmanagement combineert in een alles-in-een platform."
     url: "https://www.notion.so/"
@@ -78,11 +78,11 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 
 | Product | Vanaf | Trustpilot | Beste voor |
 |---|---|---|---|
-| **Monday.com** | €9/gebruiker/mnd | 3.1/5 | Allround teams, marketing, bureaus |
+| **Monday.com** | €9/gebruiker/mnd | 2.7/5 | Allround teams, marketing, bureaus |
 | **Asana** | €10,99/gebruiker/mnd | 1.5/5 | Gestructureerd projectbeheer (10-50 mdw) |
 | **Trello** | €5/gebruiker/mnd | 2.7/5 | Kleine teams die simpel willen starten |
 | **ClickUp** | €7/gebruiker/mnd | 3.4/5 | Technische teams, maximale functies |
-| **Basecamp** | €15/gebruiker/mnd | 3.2/5 | Remote teams, asynchrone communicatie |
+| **Basecamp** | €15/gebruiker/mnd | 3.8/5 | Remote teams, asynchrone communicatie |
 | **Notion** | ~€9/gebruiker/mnd | 2.5/5 | Wiki + projecten in één platform |
 | **MS Planner** | €5,60/gebruiker/mnd | — | Teams die al Microsoft 365 gebruiken |
 
@@ -110,7 +110,7 @@ Wat opvalt: ClickUp is bij 25 gebruikers bijna de helft goedkoper dan Asana, ter
 
 Monday.com is de tool die ik het vaakst aanbeveel aan teams die flexibiliteit zoeken. Of het nu een marketingafdeling is die campagnes plant of een bouwbedrijf dat projecten coordineert -- ik heb het in beide situaties succesvol zien landen. Wil je ook je loonadministratie koppelen aan je projectmanagement? Lees dan ook het artikel over de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/). De kracht zit in de Work OS-aanpak: je bouwt precies het systeem dat bij jouw werkwijze past, met 30+ kolomtypen en 200+ automatiseringen. Geen enkel team dat ik heb begeleid gebruikte Monday.com op dezelfde manier, en dat is juist het punt.
 
-Trustpilot: 3.1/5 (3.350+ reviews). De score valt tegen, maar als ik de reviews lees gaan de meeste klachten over de verkoopdruk bij contractverlengingen en de beperking van het gratis plan. Over de tool zelf zijn de meeste gebruikers positief.
+Trustpilot: 2.7/5 (3.388 reviews). De score valt tegen, maar als ik de reviews lees gaan de meeste klachten over de verkoopdruk bij contractverlengingen en de beperking van het gratis plan. Over de tool zelf zijn de meeste gebruikers positief.
 
 ### Voor wie is Monday.com geschikt?
 
@@ -267,7 +267,7 @@ De leercurve is steil. Echt steil. Ik heb teams begeleid die na twee weken nog s
 
 Basecamp is de anti-tool in dit overzicht, en daarmee bedoel ik iets positiefs. Terwijl de rest steeds meer functies toevoegt, houdt Basecamp het bewust simpel: berichten, taken, documenten, groepschat, klaar. Als je ook ERP en bedrijfsbeheer wilt combineren met projectmanagement, lees dan het artikel over de [beste ERP software voor MKB 2026](/blog/beste-erp-software-mkb-2026/). Ik heb het aanbevolen aan een remote bureau van 15 man dat gek werd van de notificatiestress in Slack en de overvolle Asana-borden. Basecamp dwong ze om asynchrone updates te schrijven in plaats van eindeloos te chatten. Binnen een week was het team rustiger en productiever.
 
-Trustpilot: 3.2/5 (22 reviews). Met slechts 22 reviews is dit niet representatief. Basecamp heeft een trouwe community die je eerder op hun eigen blog en podcast vindt dan op Trustpilot.
+Trustpilot: 3.8/5 (21 reviews). Met slechts 21 reviews is dit niet representatief. Basecamp heeft een trouwe community die je eerder op hun eigen blog en podcast vindt dan op Trustpilot.
 
 ### Voor wie is Basecamp geschikt?
 

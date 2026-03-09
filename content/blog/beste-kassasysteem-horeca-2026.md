@@ -19,8 +19,8 @@ products:
     description: "Cloud-kassasysteem op iPad voor restaurants en horecaketens met bezorgplatform-integraties."
     url: "https://www.lightspeedhq.nl/"
     price: "59.00"
-    rating_value: "4.2"
-    rating_count: "2400"
+    rating_value: "3.7"
+    rating_count: "1149"
   - name: "Untill"
     description: "Robuust kassasysteem voor grote horecazaken met betrouwbare offline modus en uitgebreide functies."
     url: "https://www.untill.com/nl/"
@@ -29,8 +29,8 @@ products:
     description: "iPad-kassasysteem voor cafes en kleine restaurants met HACCP-registratie en tafelmanagement."
     url: "https://www.orderbird.com/nl"
     price: "39.00"
-    rating_value: "2.1"
-    rating_count: "35"
+    rating_value: "2.4"
+    rating_count: "30"
   - name: "Square"
     description: "Gratis kassasoftware met geïntegreerde betaalverwerking voor startende horecaondernemers."
     url: "https://squareup.com/nl/nl"
@@ -63,18 +63,18 @@ faq:
 Een kassasysteem horeca kiezen is een beslissing waar je jarenlang mee zit. Ik heb cafehouders geholpen die vastzaten aan een verouderd systeem met hoge contractkosten, en restauranteigenaren die na een slimme keuze uren per week bespaarden op voorraadbeheer en afrekengemak. In deze vergelijking deel ik de 6 beste kassasystemen voor horeca die ik aanbeveel -- en waar je op moet letten.
 
 
-{{< figure src="/images/blog/beste-kassasysteem-horeca/trustpilot-scores-kassasysteem.svg" alt="Trustpilot scores kassasystemen horeca 2026: Square en Lightspeed scoren 4.2/5, Zettle 3.3/5, Orderbird 2.1/5" caption="Trustpilot-scores van de 5 kassasystemen met reviews. Untill heeft geen Trustpilot-profiel." >}}
+{{< figure src="/images/blog/beste-kassasysteem-horeca/trustpilot-scores-kassasysteem.svg" alt="Trustpilot scores kassasystemen horeca 2026: Square scoort 4.2/5, Lightspeed 3.7/5, Zettle 3.3/5, Orderbird 2.4/5" caption="Trustpilot-scores van de 5 kassasystemen met reviews. Untill heeft geen Trustpilot-profiel." >}}
 
 Geen tijd om alles te lezen? Hier de snelle vergelijking:
 
 | Product | Vanaf | Trustpilot | Beste voor |
 |---|---|---|---|
-| **Lightspeed Restaurant** | €59/mnd | 4.2/5 (2.400 reviews) | Restaurants & bezorging |
+| **Lightspeed Restaurant** | €59/mnd | 3.7/5 (1.149 reviews) | Restaurants & bezorging |
 | **Untill** | €79/mnd | Geen profiel | Grote horecazaken & brasserieën |
 | **Trivec** | Op aanvraag | Geen profiel | Hotelrestaurants & fine dining |
 | **Square** | Gratis | 4.2/5 (7.100 reviews) | Starters & foodkraampjes |
 | **Zettle by PayPal** | Gratis | 3.3/5 (5.500 reviews) | Foodtrucks & pop-ups |
-| **Orderbird** | €39/mnd | 2.1/5 (35 reviews) | Cafés & kleine restaurants |
+| **Orderbird** | €39/mnd | 2.4/5 (30 reviews) | Cafés & kleine restaurants |
 
 ## Vergelijkingstabel: Beste Kassasystemen Horeca 2026
 
@@ -89,7 +89,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 
 ## 1. Lightspeed Restaurant
 
-Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklanten, en dat is niet voor niets. Het draait op iPads, is snel opgezet, en de bediening snapt het binnen een uur. Voor restaurants die ook bezorgplatforms gebruiken, is de integratie met Thuisbezorgd en Uber Eats een grote plus. Ik heb het zien werken bij alles van een lunchcafe tot een keten met zes vestigingen. Op Trustpilot scoort Lightspeed een 4.2/5 met ruim 2.400 reviews — de meeste gebruikers zijn positief over het gebruiksgemak, de kritiek gaat vooral over de prijs bij opschaling.
+Lightspeed Restaurant is het systeem dat ik het vaakst aanbeveel aan horecaklanten, en dat is niet voor niets. Het draait op iPads, is snel opgezet, en de bediening snapt het binnen een uur. Voor restaurants die ook bezorgplatforms gebruiken, is de integratie met Thuisbezorgd en Uber Eats een grote plus. Ik heb het zien werken bij alles van een lunchcafe tot een keten met zes vestigingen. Op Trustpilot scoort Lightspeed een 3.7/5 met 1.149 reviews — de meeste gebruikers zijn positief over het gebruiksgemak, de kritiek gaat vooral over de prijs bij opschaling.
 
 **Voor wie is Lightspeed Restaurant de ideale keuze?** Een klant van mij runt een Italiaans restaurant met 60 couverts. Tien tafels, vier medewerkers in de bediening, een drukke vrijdagavond. Vóór Lightspeed verloren ze bestellingen omdat de ober het op papier noteerde en dan vergat door te geven aan de keuken. Nu tikken ze de bestelling in op de iPad, de printer in de keuken ratelt direct. Fouten: nagenoeg nul. Omzet per tafel gestegen omdat de bediening sneller doorkan. Dát is wat Lightspeed doet.
 
@@ -378,7 +378,7 @@ Ik raad Zettle NIET aan voor:
 
 ## 6. Orderbird
 
-Orderbird is de specialist voor cafes en bars. Het draait op iPads, de interface is lekker simpel en de tafelmanagement-functies zijn precies genoeg voor een kleinere zaak. Ik heb het aanbevolen aan een cafe-eigenaar die geen zin had in de complexiteit van Lightspeed of Untill. Binnen een dag was alles ingericht. De HACCP-registratie is een handige bijkomstigheid die je niet bij alle concurrenten vindt. Eerlijk punt: op Trustpilot scoort Orderbird slechts een 2.1/5 (35 reviews) — de klachten gaan vooral over support en prijsverhogingen. Het kleine aantal reviews relativeert dat wel, maar houd het in gedachten.
+Orderbird is de specialist voor cafes en bars. Het draait op iPads, de interface is lekker simpel en de tafelmanagement-functies zijn precies genoeg voor een kleinere zaak. Ik heb het aanbevolen aan een cafe-eigenaar die geen zin had in de complexiteit van Lightspeed of Untill. Binnen een dag was alles ingericht. De HACCP-registratie is een handige bijkomstigheid die je niet bij alle concurrenten vindt. Eerlijk punt: op Trustpilot scoort Orderbird slechts een 2.4/5 (30 reviews) — de klachten gaan vooral over support en prijsverhogingen. Het kleine aantal reviews relativeert dat wel, maar houd het in gedachten.
 
 **Orderbird in de praktijk: ideaal voor de ongecomplicieerde horecazaak.** Ik heb Orderbird geadviseerd aan een café-eigenaar met 20 tafels, een drukke vrijdagmiddag en twee medewerkers in de bediening. Ze hadden Lightspeed geprobeerd maar vonden het te veel. "Ik wil bestellingen opnemen, afrekenen, en aan het einde van de avond weten hoeveel ik heb omgezet," zei ze. Dat is precies wat Orderbird doet. Geen overbodige functies, geen eindeloze menustructuren.
 

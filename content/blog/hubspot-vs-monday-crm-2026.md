@@ -52,7 +52,7 @@ Zoek je een breder CRM-overzicht? Bekijk dan mijn [complete CRM-vergelijking voo
     <tr>
       <td><strong>Trustpilot</strong></td>
       <td>1,9/5 (~960 reviews)</td>
-      <td>3,1/5 (~3.350 reviews)</td>
+      <td>2,7/5 (~3.388 reviews)</td>
     </tr>
     <tr>
       <td><strong>Gratis plan</strong></td>
@@ -112,7 +112,7 @@ Zoek je een breder CRM-overzicht? Bekijk dan mijn [complete CRM-vergelijking voo
   </tbody>
 </table>
 
-De reviewscores zijn opvallend. Op G2 -- waar voornamelijk zakelijke gebruikers scoren -- haalt Monday CRM een 4,6/5 tegenover HubSpots 4,4/5. Beide prima scores. Op Trustpilot scoren ze allebei laag: HubSpot 1,9/5 en Monday 3,1/5. Die Trustpilot-scores weerspiegelen vooral frustraties over contractvoorwaarden en klantenservice, niet de productkwaliteit zelf. Neem ze met een korrel zout, maar negeer ze niet volledig.
+De reviewscores zijn opvallend. Op G2 -- waar voornamelijk zakelijke gebruikers scoren -- haalt Monday CRM een 4,6/5 tegenover HubSpots 4,4/5. Beide prima scores. Op Trustpilot scoren ze allebei laag: HubSpot 1,9/5 en Monday 2,7/5. Die Trustpilot-scores weerspiegelen vooral frustraties over contractvoorwaarden en klantenservice, niet de productkwaliteit zelf. Neem ze met een korrel zout, maar negeer ze niet volledig.
 
 ---
 
@@ -140,7 +140,7 @@ Wat me opviel bij mijn eerste Monday CRM-implementatie: het voelt niet als een k
 - Opgericht: 2012 (Tel Aviv, Israel)
 - Beursgenoteerd: NASDAQ (MNDY)
 - Klanten wereldwijd: 225.000+
-- G2: 4,6/5 -- Trustpilot: 3,1/5
+- G2: 4,6/5 -- Trustpilot: 2,7/5
 
 ---
 
