@@ -220,7 +220,7 @@ De Mollie-plugin voor WooCommerce is overigens uitstekend — iDEAL, creditcard,
 - Performance afhankelijk van je hosting
 - Kan complex worden met veel plugins
 
-<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar woocommerce.com →</a>
+<a href="https://automattic.pxf.io/c/7037268/1946431/22744" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar woocommerce.com →</a>
 
 ---
 
@@ -681,7 +681,7 @@ Wil je een webshop beginnen? Volg dit beknopte stappenplan:
 De beste webshop software voor jouw bedrijf hangt af van je specifieke situatie, technische kennis en ambities. Hier zijn onze aanbevelingen in het kort:
 
 - **Beste allrounder**: [Shopify](https://shopify.pxf.io/WOqGgA) -- gebruiksvriendelijk, schaalbaar en een enorm app-ecosysteem.
-- **Beste voor volledige controle**: [WooCommerce](https://woocommerce.com/) -- gratis, flexibel en oneindig aanpasbaar.
+- **Beste voor volledige controle**: <a href="https://automattic.pxf.io/c/7037268/1946431/22744" target="_blank" rel="noopener nofollow sponsored">WooCommerce</a> -- gratis, flexibel en oneindig aanpasbaar.
 - **Beste omnichannel**: [Lightspeed eCom](https://www.lightspeedhq.nl/) -- de ideale keuze als je online en offline combineert.
 - **Beste voor grote webshops**: [Magento](https://business.adobe.com/nl/products/magento/magento-commerce.html) -- ongelimiteerde schaalbaarheid voor complexe ecommerce.
 - **Beste voor internationale groei**: [BigCommerce](https://www.bigcommerce.com/) -- krachtig platform zonder transactiekosten.

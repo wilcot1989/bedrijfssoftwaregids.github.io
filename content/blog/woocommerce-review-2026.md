@@ -59,7 +59,7 @@ Zoek je een breder overzicht van alle webshop-opties? Bekijk dan mijn [vergelijk
 
 *Gegevens gecheckt: maart 2026. Bron: woocommerce.com, wordpress.org/plugins/woocommerce*
 
-<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Download WooCommerce gratis →</a>
+<a href="https://automattic.pxf.io/c/7037268/1946431/22744" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Download WooCommerce gratis →</a>
 
 ## Wat kost WooCommerce echt? (2026)
 
@@ -131,7 +131,7 @@ Daarboven kom je nog de onzichtbare kostenpost: **tijd**. Updates bijhouden, con
 
 Op papier is WooCommerce goedkoper. In de praktijk betaal je het verschil in tijd en technische kennis. Voor een ondernemer die zijn eigen server leuk vindt om te beheren, is dat geen probleem. Voor een restauranthouder die gewoon zijn merchandise wil verkopen, is het dat wel.
 
-<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Download WooCommerce gratis →</a>
+<a href="https://automattic.pxf.io/c/7037268/1946431/22744" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Download WooCommerce gratis →</a>
 
 ## Functies
 
@@ -299,7 +299,7 @@ Het eerlijkste advies dat ik kan geven: kies WooCommerce alleen als je WordPress
 
 Krachtig, flexibel en kostenefficient voor de juiste gebruiker. Maar de technische drempel en het ontbreken van klantenservice houden het van een 9 af. Voor wie het past, is het uitstekend. Voor wie het niet past, is het een tijdrovend avontuur.
 
-<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar WooCommerce →</a>
+<a href="https://automattic.pxf.io/c/7037268/1946431/22744" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar WooCommerce →</a>
 
 ---
 

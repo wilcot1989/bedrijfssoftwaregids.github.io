@@ -131,7 +131,7 @@ Je website is je visitekaartje. Als een potentiële klant je googelt en niets vi
 
 **Mijn advies:** investeer eerst in een sterk LinkedIn-profiel (gratis). Bouw daarna een simpele website met Wix of WordPress. Meer opties: [Beste Websitebouwer MKB 2026](/blog/beste-website-bouwers-mkb-2026/). Wil je ook social media professioneel inzetten als ZZP'er? Lees mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/).
 
-<a href="https://wordpress.org/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar wordpress.org →</a>
+<a href="https://automattic.pxf.io/c/7037268/1919834/22744" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar WordPress.com →</a>
 <a href="https://www.wix.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar wix.com →</a>
 
 

@@ -67,7 +67,7 @@ WordPress is wat ik zelf zou kiezen en het vaakst adviseer aan bedrijven waar co
 **✅ Voordelen:** Meest flexibel, beste SEO, enorm plugin-ecosysteem, eigendom van data
 **❌ Nadelen:** Leercurve, zelf hosting regelen, updates en beveiliging eigen verantwoording. Wil je ook je recruitment en HR digitaliseren zodra je bedrijf groeit? Lees dan het overzicht van de [beste HR software in Nederland 2026](/blog/beste-hr-software-nederland-2026/).
 
-<a href="https://wordpress.org/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar wordpress.org →</a>
+<a href="https://automattic.pxf.io/c/7037268/1919834/22744" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar WordPress.com →</a>
 
 ## 2. Wix — Beste voor beginners
 

@@ -167,7 +167,7 @@ WooCommerce is voor wie alles zelf in de hand wil hebben. Gratis WordPress-plugi
 
 **Stack-integratie:** Mollie via plugin (5 min setup). Sendcloud en MyParcel hebben gratis WooCommerce-plugins. Yoast SEO standaard. Moneybird-koppeling via WooCommerce-plugin. Het voordeel: geen transactiekosten van het platform. Het nadeel: elke integratie is een plugin -- hoe meer plugins, hoe trager en instabieler. Totale stack: €15-75/maand.
 
-<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar woocommerce.com →</a>
+<a href="https://automattic.pxf.io/c/7037268/1946431/22744" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar woocommerce.com →</a>
 
 ---
 
