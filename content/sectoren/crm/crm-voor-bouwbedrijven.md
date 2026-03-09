@@ -100,7 +100,7 @@ Heb je een actief acquisiteam dat offertes uitbrengt en klanten bezoekt? Dan is 
 | Tool | Type | Offertebeheer | Projectkoppeling | Boekhoud-integratie | Prijs/maand |
 |------|------|--------------|-----------------|---------------------|------------|
 | **AFAS** | ERP + CRM | ✅✅✅ | ✅✅✅ | Ingebouwd | €300+ |
-| **Exact Online** | ERP + CRM | ✅✅ | ✅✅ | Ingebouwd | €39+ |
+| **Exact Online** | ERP + CRM | ✅✅ | ✅✅ | Ingebouwd | €49+ |
 | **Pipedrive** | CRM | ✅ (via deals) | ❌ (apart) | Via integratie | €14,90/user |
 
 ## Mijn advies

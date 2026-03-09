@@ -62,9 +62,9 @@ Wil je de jaarlijkse kosten van Moneybird vergelijken met alternatieven? Gebruik
 | Pakket | Prijs/mnd (excl. btw) | Banktransacties | Beste voor |
 |---|---|---|---|
 | **Gratis** | €0 | Geen (max 3 facturen/mnd) | Heel klein, om te proberen |
-| **S** | €15 | 20 per maand | Freelancers en starters |
-| **M** | €28 | 50 per maand | Groeiende ZZP'ers |
-| **L** | €39 | Onbeperkt | MKB met veel transacties |
+| **Starter** | €15 | 20 per maand | Freelancers en starters |
+| **Growth** | €28 | 50 per maand | Groeiende ZZP'ers |
+| **Professional** | €39 | Onbeperkt banktransacties | MKB met veel transacties |
 
 *Prijzen gecheckt op 1 maart 2026 via moneybird.nl/prijzen/. Alle bedragen excl. 21% btw.*
 
@@ -149,7 +149,7 @@ Wat ik mis:
 - Geen cashflow-prognose
 - Geen budgetvergelijking
 - Beperkte aangepaste rapportages
-- Geen consolidatie voor meerdere administraties (daarvoor heb je het M- of L-pakket nodig)
+- Geen consolidatie voor meerdere administraties (daarvoor heb je het Growth- of Professional-pakket nodig)
 
 Als rapportages belangrijk voor je zijn — bijvoorbeeld als BV-eigenaar die maandelijks stuurinformatie nodig heeft — dan schiet Moneybird tekort. Bekijk dan liever [Exact Online](/blog/exact-online-review-2026/) of [Twinfield](/blog/exact-online-vs-twinfield-2026/).
 
@@ -213,11 +213,11 @@ Na honderden gesprekken met ondernemers over hun boekhoudsoftware zie ik steeds 
 
 ### 1. Het gratis plan te lang gebruiken
 
-Ik spreek regelmatig ZZP'ers die al maanden op het gratis plan zitten en hun BTW-aangifte handmatig doen via de Belastingdienst. De €15/maand voor het S-pakket verdien je terug door de uren die je bespaart op de BTW-aangifte alleen al. Niet doen.
+Ik spreek regelmatig ZZP'ers die al maanden op het gratis plan zitten en hun BTW-aangifte handmatig doen via de Belastingdienst. De €15/maand voor het Starter-pakket verdien je terug door de uren die je bespaart op de BTW-aangifte alleen al. Niet doen.
 
 ### 2. Het verkeerde pakket kiezen
 
-Een webdesigner die 25 facturen per maand stuurt en het S-pakket neemt (20 transacties), zit na drie weken al aan de limiet. Tel je inkoopfacturen en bonnetjes mee, dan zijn 20 transacties sneller op dan je denkt. Mijn vuistregel: tel je verwachte facturen + bonnetjes per maand, en kies het pakket dat daar 30% boven zit.
+Een webdesigner die 25 facturen per maand stuurt en het Starter-pakket neemt (20 banktransacties), zit na drie weken al aan de limiet. Tel je inkoopfacturen en bonnetjes mee, dan zijn 20 transacties sneller op dan je denkt. Mijn vuistregel: tel je verwachte facturen + bonnetjes per maand, en kies het pakket dat daar 30% boven zit.
 
 ### 3. De bankkoppeling niet instellen
 
@@ -264,7 +264,7 @@ Bekijk voor een volledig overzicht het [aanbod van boekhoudsoftware](/categories
 
 - **BV's met complexe administratie** — kostplaatsen, projectadministratie, consolidatie
 - **Bedrijven die nauw met een accountant werken** — Twinfield of Exact Online is dan logischer
-- **Ondernemers met veel kleine transacties** — de transactielimiet op het S-pakket is krap
+- **Ondernemers met veel kleine transacties** — de transactielimiet op het Starter-pakket is krap
 - **Bedrijven die telefonische support willen** — die is er simpelweg niet
 - **Webshophouders met honderd+ orders per dag** — de transactiekosten via Ponto lopen dan op
 

@@ -17,7 +17,7 @@ author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Help
 featured_image: "/images/categories/boekhouding.svg"
 faq:
   - q: "Wat kost Exact Online per maand?"
-    a: "Exact Online begint bij circa 48 euro per maand voor het boekhoudpakket voor ZZP'ers. Het meest populaire MKB-pakket kost circa 59 euro per maand. Pakketten met CRM, HRM of projectbeheer lopen op tot 100 euro of meer per maand. Extra gebruikers kosten circa 10 euro per gebruiker per maand."
+    a: "Exact Online Boekhouden begint bij €49 per maand (Essentials, 1 gebruiker, 1 administratie, 25 facturen). Het Plus-pakket kost €99 per maand (2 gebruikers, 5 bankkoppelingen, 100 facturen). Het Professional-pakket kost €159 per maand (2 gebruikers, onbeperkte functies). Het Premium-pakket start vanaf €299 per maand (multi-company)."
   - q: "Is Exact Online geschikt voor ZZP'ers?"
     a: "Exact Online biedt een ZZP-pakket, maar het is voor de meeste ZZP'ers aan de dure kant vergeleken met alternatieven als Moneybird of e-Boekhouden. Het ZZP-pakket is interessant als je wilt groeien naar een groter bedrijf, omdat Exact moeiteloos meeschaalt."
   - q: "Kan ik mijn BTW-aangifte doen via Exact Online?"
@@ -46,7 +46,7 @@ Zoek je een breder overzicht van boekhoudpakketten? Lees dan ook ons artikel ove
 | **Gebruikers** | 700.000+ bedrijven wereldwijd |
 | **Type** | Cloud-based boekhoud- en bedrijfssoftware |
 | **Doelgroep** | ZZP'ers, MKB en accountantskantoren |
-| **Prijsrange** | €48 - €100+/maand |
+| **Prijsrange** | €49 - €299+/maand |
 | **Gratis trial** | Ja (30 dagen) |
 | **Nederlandse support** | Ja (telefoon, e-mail, chat) |
 
@@ -58,15 +58,12 @@ De vraag die ik het vaakst krijg over Exact Online: "Wat gaat het me kosten?" He
 
 | Pakket | Prijs/mnd | Gebruikers | Beste voor |
 |---|---|---|---|
-| **Boekhouden Essentials** | ±€48 | 1 (extra: €10/p.p.) | ZZP'ers en MKB met basale boekhouding |
-| **Boekhouden Standaard** | ±€59 | 1 (extra: €10/p.p.) | MKB met uitgebreide behoeften |
-| **Boekhouden Compleet** | ±€89 | 1 (extra: €10/p.p.) | MKB met volledige financiële controle |
-| **CRM** | ±€35 | 1 (extra: €10/p.p.) | Bedrijven met verkoopfocus |
-| **Facturatie** | ±€16 | 1 | Alleen facturen versturen |
-| **Projecten** | ±€35 | 1 (extra: €10/p.p.) | Projectgestuurde bedrijven |
-| **HRM** | ±€35 | 1 (extra: €10/p.p.) | Personeelsbeheer |
+| **Essentials** | €49 | 1, 1 adm., 25 facturen | ZZP'ers en MKB met basale boekhouding |
+| **Plus** | €99 | 2, 2 adm., 5 bankkoppelingen | MKB met uitgebreide behoeften |
+| **Professional** | €159 | 2, 2 adm., onbeperkt | MKB met volledige financiële controle |
+| **Premium** | Vanaf €299 | 2+, multi-company | Holdingstructuren en multi-entiteit |
 
-Let op: de bovenstaande prijzen zijn richtprijzen. Exact hanteert regelmatig acties en kortingen. Combinatiepakketten zijn beschikbaar tegen gereduceerd tarief.
+Let op: de bovenstaande prijzen zijn verificaties van maart 2026 op exact.com/nl/producten/boekhouden. Exact hanteert regelmatig acties en kortingen. Combinatiepakketten zijn beschikbaar tegen gereduceerd tarief.
 
 <a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Exact Online →</a>
 
@@ -74,11 +71,11 @@ Let op: de bovenstaande prijzen zijn richtprijzen. Exact hanteert regelmatig act
 
 Voor een MKB-bedrijf met 5 medewerkers die allemaal toegang nodig hebben tot de boekhouding:
 
-- Pakket Boekhouden Standaard: ±€59/maand
-- 4 extra gebruikers: 4 x €10 = €40/maand
-- **Totaal: circa €99/maand**
+- Pakket Plus: €99/maand (2 gebruikers inbegrepen)
+- 3 extra gebruikers: bespreek via Exact of partner
+- **Totaal: €99/maand + eventuele extra gebruikerslicenties**
 
-Ter vergelijking: Moneybird L (Onbeperkt) kost €39/maand voor onbeperkt gebruikers.
+Ter vergelijking: Moneybird Professional kost €39/maand voor onbeperkt gebruikers.
 
 ## Functies: wat biedt Exact Online?
 
@@ -185,7 +182,7 @@ Een vraag die ik vaak krijg: "Moet ik Exact kiezen of is een alternatief beter?"
 
 | Kenmerk | Exact Online | Moneybird | e-Boekhouden | Twinfield |
 |---|---|---|---|---|
-| **Startprijs/mnd** | €48 | Gratis / €15 | €9,95 | ±€20 |
+| **Startprijs/mnd** | €49 | Gratis / €15 | €9,95 | ±€20 |
 | **Gratis plan** | Nee (30d trial) | Ja (beperkt) | Nee (15d trial) | Nee |
 | **Extra gebruikers** | €10/p.p./mnd | Gratis (onbeperkt) | Gratis (onbeperkt) | €10/p.p./mnd |
 | **BTW-aangifte** | Ja | Ja | Ja | Ja |

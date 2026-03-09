@@ -8,7 +8,7 @@
 ## Statuslegenda
 
 - ✅ = Klaar voor publicatie
-- ⚠️ = Eerst fixen (zie HANDMATIGE-CHECKS.md)
+- ⚠️ = Was: eerst fixen — NU OPGELOST (zie DEFINITIEVE-PUBLICATIECHECK.md)
 - 🔧 = Automatisch gefixt in deze audit
 
 ---
@@ -38,7 +38,7 @@
 | 16 mrt | `salesforce-vs-hubspot-2026` | Vergelijking | ✅ |
 | 17 mrt | `beste-offerte-software-2026` | Pillar | ✅ |
 | 18 mrt | `fiscale-eisen-kassasysteem-2026` | Gids | ✅ |
-| 19 mrt | `exact-online-vs-twinfield-2026` | Vergelijking | ⚠️ Check Exact Online pakketnamen |
+| 19 mrt | `exact-online-vs-twinfield-2026` | Vergelijking | ✅ Exact Online pakketten geverifieerd + gefixt |
 | 20 mrt | `beste-klantenservice-software-2026` | Pillar | ✅ |
 | 21 mrt | `beste-crm-webshops-2026` | Pillar | ✅ |
 | 22 mrt | `twinfield-vs-moneybird-2026` | Vergelijking | ✅ |
@@ -73,7 +73,7 @@
 | 1 apr | `beste-intranet-software-mkb-2026` | Pillar | ✅ |
 | 2 apr | `btw-regels-zzp-2026` | Gids | ✅ |
 | 3 apr | `beste-contractmanagement-software-2026` | Pillar | ✅ |
-| 4 apr | `moneybird-review-2026` | Review | ⚠️ Gratis plan + Trustpilot fixen |
+| 4 apr | `moneybird-review-2026` | Review | ✅ Gratis plan + Trustpilot + pakketnamen gefixt |
 | 5 apr | `hubspot-crm-review-2026` | Review | ✅ |
 
 ---
@@ -86,7 +86,7 @@
 | 7 apr | `crm-data-opschonen-stappenplan` | Gids | ✅ |
 | 8 apr | `close-crm-review-2026` | Review | ✅ Affiliate actief |
 | 8 apr | `lightspeed-kassa-review-2026` | Review | 🔧 Trustpilot gefixt |
-| 9 apr | `e-boekhouden-review-2026` | Review | ⚠️ "Dubbel boekhouden-pakket" fixen |
+| 9 apr | `e-boekhouden-review-2026` | Review | ✅ Dubbel boekhouden-pakket + Moneybird namen gefixt |
 | 10 apr | `teamleader-review-2026` | Review | ✅ |
 | 11 apr | `mollie-review-2026` | Review | ✅ |
 | 12 apr | `kassasysteem-inrichten-checklist` | Gids | ✅ |
@@ -99,7 +99,7 @@
 |-------|---------|------|--------|
 | 13 apr | `brevo-review-2026` | Review | ✅ |
 | 14 apr | `pipedrive-vs-monday-crm-2026` | Vergelijking | ✅ Pipedrive affiliate actief |
-| 15 apr | `moneybird-vs-exact-online-2026` | Vergelijking | ⚠️ Exact Online pakketten fixen |
+| 15 apr | `moneybird-vs-exact-online-2026` | Vergelijking | ✅ Exact Online pakketten geverifieerd + gefixt |
 | 16 apr | `lightspeed-vs-untill-2026` | Vergelijking | ✅ |
 | 17 apr | `ziekteverzuim-terugdringen-hr-software` | Gids | ✅ |
 | 18 apr | `mollie-vs-multisafepay-2026` | Vergelijking | ✅ |
@@ -111,7 +111,7 @@
 
 | Datum | Artikel | Type | Status |
 |-------|---------|------|--------|
-| 20 apr | `shopify-vs-mijnwebwinkel-2026` | Vergelijking | ⚠️ Shopify pakketprijzen fixen |
+| 20 apr | `shopify-vs-mijnwebwinkel-2026` | Vergelijking | ✅ Shopify prijzen geverifieerd + gefixt |
 | 21 apr | `beste-software-fysiotherapeuten-2026` | Sector-pillar | ✅ |
 | 22 apr | `ab-testen-beginners-eerste-experiment` | Gids | ✅ |
 | 23 apr | `beste-software-accountants-2026` | Sector-pillar | ✅ |
@@ -159,11 +159,11 @@ Zie CONTENT-ROADMAP sectie in AI-AUDIT-RAPPORT.md
 
 | Status | Aantal artikelen |
 |--------|-----------------|
-| ✅ Klaar voor publicatie | 48 |
-| 🔧 Automatisch gefixt | 3 |
-| ⚠️ Eerst fixen | 7 |
+| ✅ Klaar voor publicatie | 58 |
+| 🔧 Automatisch gefixt (gevalideerd) | 0 |
+| ⚠️ Nog te fixen | 0 |
 | **Totaal gepland** | **58** |
 
 ---
 
-*Laatste update: 9 maart 2026*
+*Laatste update: 9 maart 2026 (alle handmatige checks opgelost na prijsverificatie)*

@@ -42,7 +42,7 @@ Zoek je meer dan alleen een mobiele app? Lees dan mijn complete overzicht van de
 |---|---|---|---|---|---|---|
 | **Moneybird** | iOS, Android | Gratis / €15 | Uitstekend | Ja | Ja | Uitstekend |
 | **Jortt** | iOS, Android | Gratis / €19,95 | Goed | Ja | Ja | Zeer goed |
-| **Exact Online** | iOS, Android | €48 | Goed | Ja | Ja | Goed |
+| **Exact Online** | iOS, Android | €49 | Goed | Ja | Ja | Goed |
 | **e-Boekhouden** | iOS, Android | €11,50 | Basis | Ja | Ja | Redelijk |
 | **FreshBooks** | iOS, Android | $19 (USD) | Goed | Ja | Beperkt | Uitstekend |
 
@@ -68,9 +68,9 @@ De Moneybird app voelt als een natuurlijke extensie van de webversie. De interfa
 ### Prijzen
 
 - **Free**: Gratis (3 facturen/maand, basisfuncties, geen bankkoppeling)
-- **Pakket 20**: €15/maand (20 banktransacties, alles inbegrepen)
-- **Pakket 50**: €28/maand (50 banktransacties)
-- **Onbeperkt**: €39/maand (onbeperkte banktransacties)
+- **Starter**: €15/maand (20 banktransacties, alles inbegrepen)
+- **Growth**: €28/maand (50 banktransacties)
+- **Professional**: €39/maand (onbeperkte banktransacties)
 
 ### Voordelen
 
@@ -155,10 +155,11 @@ De Exact Online app is functioneel en stabiel, maar voelt minder intuïtief dan 
 
 ### Prijzen
 
-<!-- HANDMATIGE CHECK VEREIST: prijzen controleren op exact.com/nl -->
-- **Boekhouden Essentials**: ±€48/maand
-- **Boekhouden Standaard**: ±€59/maand
-- **Boekhouden Compleet**: ±€89/maand
+<!-- Prijzen geverifieerd maart 2026 op exact.com/nl/producten/boekhouden -->
+- **Essentials**: €49/maand (1 gebruiker, 1 administratie, 25 facturen)
+- **Plus**: €99/maand (2 gebruikers, 5 bankkoppelingen, 100 facturen)
+- **Professional**: €159/maand (2 gebruikers, onbeperkt)
+- **Premium**: Vanaf €299/maand (multi-company)
 
 ### Voordelen
 

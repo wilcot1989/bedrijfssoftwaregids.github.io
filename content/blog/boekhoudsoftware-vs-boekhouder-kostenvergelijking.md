@@ -43,7 +43,7 @@ Wat je voor dat geld terugkrijgt: iemand die de aansprakelijkheid deelt, fouten 
 
 Boekhoudsoftware varieert van gratis tot circa EUR 100 per maand. De meest gebruikte pakketten voor ZZP en klein MKB zitten tussen EUR 8 en EUR 35 per maand, inclusief BTW-aangifte, factureren, automatische bankkoppeling en basale rapportages.
 
-Moneybird kost voor ZZP vanaf EUR 15 per maand (excl. BTW, prijs gecheckt mrt 2026). Exact Online voor ZZP begint vanaf EUR 48 per maand. AFAS en grotere pakketten beginnen boven de EUR 50 per maand, maar zijn gericht op bedrijven met meerdere medewerkers en meer administratieve complexiteit.
+Moneybird kost voor ZZP vanaf EUR 15 per maand (excl. BTW, prijs gecheckt mrt 2026). Exact Online Essentials begint vanaf EUR 49 per maand. AFAS en grotere pakketten beginnen boven de EUR 50 per maand, maar zijn gericht op bedrijven met meerdere medewerkers en meer administratieve complexiteit.
 
 De echte kosten zitten niet in het abonnement maar in de tijd die je kwijt bent. Wat ik in de praktijk zie: ondernemers die voor het eerst zelf boeken, schrikken van de tijdsinvestering in de eerste maanden -- maar zijn na een half jaar vaak sneller klaar dan ze dachten. Een ondernemer die nooit eerder geboekt heeft, besteedt in het begin twee tot drie uur per maand aan de administratie. Na zes maanden, als de bankkoppeling loopt en de categorieën zijn ingericht, is dat teruggebracht naar dertig tot zestig minuten per maand. Reken voor jezelf hoeveel jouw uur waard is en of het verschil opweegt. Wie factureren en boekhouden in één pakket wil combineren om dubbele invoer te vermijden, vindt een volledige vergelijking in [Factureren en boekhouden in één pakket](/blog/factureren-en-boekhouden-alles-in-een/).
 

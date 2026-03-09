@@ -15,7 +15,7 @@ faq:
   - q: "Welke boekhoudsoftware is het beste voor een eenmanszaak?"
     a: "Voor de meeste eenmanszaken is Moneybird de beste keuze: overzichtelijk, snel en meegroeibaar. Als je ook producten verkoopt of salarisadministratie nodig hebt, is Snelstart een betere optie. Ga je richting een BV of wil je meerdere modules in één systeem, dan is Exact Online de logische keuze."
   - q: "Wat kost boekhoudsoftware voor een eenmanszaak per maand?"
-    a: "Snelstart begint al bij EUR 14 per maand voor basisboekhouden. Moneybird kost EUR 24 per maand voor het Medium-plan met meerdere gebruikers. Exact Online kost EUR 44 per maand. Houd ook rekening met extra modules zoals salarisadministratie, die de prijs verhogen."
+    a: "Snelstart begint al bij EUR 14 per maand voor basisboekhouden. Moneybird kost EUR 28 per maand voor het Growth-plan met meerdere gebruikers. Exact Online kost EUR 49 per maand. Houd ook rekening met extra modules zoals salarisadministratie, die de prijs verhogen."
   - q: "Heeft een eenmanszaak salarisadministratie nodig in de boekhoudsoftware?"
     a: "Niet meteen, maar als je straks een medewerker aanneemt wil je niet opnieuw wisselen van systeem. Snelstart heeft een betaalbare salarismodule vanaf EUR 8 extra per maand. Exact Online heeft salarisadministratie ingebouwd. Moneybird heeft geen eigen salarismodule en vereist een externe koppeling."
   - q: "Kan mijn boekhouder inloggen in mijn boekhoudsoftware?"
@@ -45,7 +45,7 @@ Een eenmanszaak heeft andere behoeften dan een ZZP'er die puur facturen stuurt:
 
 ### 1. Moneybird -- Beste instap met groeipotentieel
 
-Moneybird begint als een toegankelijke tool voor kleine administraties, maar groeit mee. Het Medium-abonnement (EUR 24 per maand) ondersteunt meerdere gebruikers, projecten en geavanceerde rapportages. Voor eenmanszaken die nog geen personeel hebben maar daar op afzien, is Moneybird een slimme keuze: je betaalt weinig nu en hoeft later niet te migreren.
+Moneybird begint als een toegankelijke tool voor kleine administraties, maar groeit mee. Het Growth-abonnement (EUR 28 per maand) ondersteunt meerdere gebruikers, projecten en geavanceerde rapportages. Voor eenmanszaken die nog geen personeel hebben maar daar op afzien, is Moneybird een slimme keuze: je betaalt weinig nu en hoeft later niet te migreren.
 
 **Wat werkt goed voor eenmanszaak:**
 - Volledige inkoop- en verkoopfacturatie
@@ -57,7 +57,7 @@ Moneybird begint als een toegankelijke tool voor kleine administraties, maar gro
 
 **Wat ontbreekt:** Geen ingebouwde salarisadministratie; hiervoor heb je een externe module of integratie nodig.
 
-**Prijs:** Medium: EUR 24 per maand. Large (meerdere administraties): EUR 49 per maand.
+**Prijs:** Growth: EUR 28 per maand. Professional (onbeperkt): EUR 39 per maand.
 
 <a href="https://www.moneybird.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Moneybird</a>
 
@@ -96,7 +96,7 @@ Exact Online is de standaard voor het Nederlandse MKB en dat heeft een reden. Al
 
 **Wat ontbreekt:** Hogere prijs dan Moneybird of Snelstart; overkill als je een enkelvoudige administratie hebt.
 
-**Prijs:** Exact Online Accounting: EUR 44 per maand. Manufacturing, HRM en andere modules zijn extra.
+**Prijs:** Exact Online Essentials: EUR 49 per maand. Manufacturing, HRM en andere modules zijn extra.
 
 <a href="https://www.exact.com/nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Exact Online</a>
 
@@ -106,13 +106,13 @@ Exact Online is de standaard voor het Nederlandse MKB en dat heeft een reden. Al
 
 | Software | Prijs per maand | Salarisadministratie | Voorraad | Meerdere gebruikers | Groeipotentieel |
 |----------|----------------|---------------------|---------|--------------------|----|
-| Moneybird | EUR 24 | Nee (extern) | Nee | Ja | Goed |
+| Moneybird | EUR 28 | Nee (extern) | Nee | Ja | Goed |
 | Snelstart | EUR 14 | Ja (module) | Ja | Ja | Goed |
-| Exact Online | EUR 44 | Ja | Ja | Ja | Uitstekend |
+| Exact Online | EUR 49 | Ja | Ja | Ja | Uitstekend |
 
 ## Mijn advies
 
-- **Eenmanszaak, puur dienstverlening, geen personeel:** Moneybird Medium -- overzichtelijk, snel en meegroeibaar.
+- **Eenmanszaak, puur dienstverlening, geen personeel:** Moneybird Growth -- overzichtelijk, snel en meegroeibaar.
 - **Eenmanszaak met productverkoop of eerste medewerker in zicht:** Snelstart -- salarismodule en voorraadbeheer voor een eerlijke prijs.
 - **Eenmanszaak die richting BV of serieuze groei gaat:** Exact Online -- investeer nu om later niet te hoeven migreren.
 

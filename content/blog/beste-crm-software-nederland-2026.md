@@ -91,7 +91,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 | **Pipedrive** | €14/mnd | 4.5/5 | Verkoopteams & MKB |
 | **Monday CRM** | €12/mnd | 3.1/5 | Projectmatige verkoop |
 | **Salesforce** | €25/mnd | 1.5/5 | Grote bedrijven |
-| **Exact Online CRM** | €48/mnd | 2.6/5 | Exact-gebruikers |
+| **Exact Online CRM** | €49/mnd | 2.6/5 | Exact-gebruikers |
 | **Gripp** | €29/mnd | 1.9/5 | Bureaus & dienstverleners |
 | **Teamleader** | Op aanvraag | 4.4/5 | Belgisch/Nederlands MKB |
 | **Close CRM** | €35/mnd | 3.0/5 | Inside sales teams |
@@ -109,7 +109,7 @@ Voordat ik de systemen individueel bespreek, wil ik je eerst laten zien wat je w
 | **Monday CRM** | €12 | €60 | Ja (2 pers.) | €720 |
 | **Salesforce** | €25 | €125 | Nee | €1.500 |
 | **Teamleader** | op aanvraag | op aanvraag | Nee | op aanvraag |
-| **Exact Online CRM** | vanaf €48/maand | €240 | Nee | €2.880 |
+| **Exact Online CRM** | vanaf €49/maand | €245 | Nee | €2.940 |
 | **Gripp** | €29 | €145 | Nee | €1.740 |
 | **Close CRM** | €35 (Essentials) | €175 | Nee | €2.100 |
 
@@ -126,7 +126,7 @@ Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel
 | **Monday CRM** | €12/gebruiker | Ja (beperkt) | Ja | 3.1/5 (3.350+ reviews) | Projectmatige verkoop |
 | **Salesforce** | €25/gebruiker | Nee (30 dagen trial) | Ja | 1.5/5 (610 reviews) | Grote bedrijven & enterprises |
 | **Teamleader** | op aanvraag | Nee (14 dagen trial) | Ja | 4.4/5 (265 reviews) | Belgisch/Nederlands MKB |
-| **Exact Online CRM** | vanaf €48/maand | Nee (30 dagen trial) | Ja | 2.6/5 (641 reviews) | Bedrijven met Exact boekhouding |
+| **Exact Online CRM** | vanaf €49/maand | Nee (30 dagen trial) | Ja | 2.6/5 (641 reviews) | Bedrijven met Exact boekhouding |
 | **Gripp** | €29/gebruiker | Nee (14 dagen trial) | Ja | 1.9/5 (20 reviews) | Bureaus & dienstverleners |
 | **Close CRM** | €35/gebruiker (Essentials) | Nee (14 dagen trial) | Nee | 3.0/5 (11 reviews) | Inside sales & SDR-teams |
 
@@ -345,7 +345,7 @@ Als je ook op zoek bent naar boekhoudsoftware, lees dan mijn artikel over de [be
 - Koppeling met Exact HRM en Exact projecten
 
 ### Prijzen (mrt 2026)
-- **CRM**: vanaf €48/maand
+- **CRM**: vanaf €49/maand
 - Combinatiepakketten met boekhouding beschikbaar
 
 ### Voordelen

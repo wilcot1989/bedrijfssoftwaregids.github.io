@@ -25,7 +25,7 @@ faq:
   - q: "Welke betaalmethoden ondersteunt WooCommerce in Nederland?"
     a: "Via de gratis Mollie-extensie activeer je iDEAL, creditcard, Bancontact, Klarna en SEPA-overschrijving. Mollie rekent geen maandelijkse kosten, alleen transactiekosten (iDEAL: €0,29 per transactie). Stripe is een goed alternatief voor internationale verkopen."
   - q: "Hoe verhoudt WooCommerce zich tot Shopify?"
-    a: "WooCommerce is gratis, volledig aanpasbaar en heeft geen transactiekosten bovenop de betaalgateway. Shopify kost €36-€289/mnd (Basic t/m Advanced) maar is plug-and-play en neemt technisch beheer uit je handen. WooCommerce past bij technisch vaardige ondernemers die volledige controle willen. Shopify past bij wie snel wil starten zonder IT-hoofdpijn."
+    a: "WooCommerce is gratis, volledig aanpasbaar en heeft geen transactiekosten bovenop de betaalgateway. Shopify kost €21-€289/mnd (Basic t/m Advanced) maar is plug-and-play en neemt technisch beheer uit je handen. WooCommerce past bij technisch vaardige ondernemers die volledige controle willen. Shopify past bij wie snel wil starten zonder IT-hoofdpijn."
   - q: "Zijn er transactiekosten bij WooCommerce?"
     a: "WooCommerce zelf rekent geen transactiekosten. Je betaalt alleen de kosten van je betaalgateway, zoals Mollie (iDEAL: €0,29/transactie) of Stripe (1,5% + €0,25). Dat is een groot voordeel ten opzichte van Shopify, dat bovenop de gateway-kosten ook eigen transactiekosten rekent op de Basic en Grow-plannen."
   - q: "Wat heb ik nodig om WooCommerce te gebruiken?"
@@ -119,7 +119,7 @@ Daarboven kom je nog de onzichtbare kostenpost: **tijd**. Updates bijhouden, con
 
 | | WooCommerce | Shopify Basic | Shopify Grow |
 |---|---|---|---|
-| **Basiskosten/mnd** | €10-50 (hosting) | €36 | €79 |
+| **Basiskosten/mnd** | €10-50 (hosting) | €21 | €59 |
 | **Transactiekosten** | Geen | 2% (eigen gateway) | 1% (eigen gateway) |
 | **Thema** | €0-80 eenmalig | €0-380 eenmalig | €0-380 eenmalig |
 | **Plugins** | €100-300/jaar | €0-500+/jaar | €0-500+/jaar |
@@ -267,7 +267,7 @@ Het verschil met platforms als Shopify (Trustpilot 1,3/5 door facturatieklachten
 
 | | WooCommerce | Shopify | Lightspeed eCom | Acendy |
 |---|---|---|---|---|
-| **Basisprijs/mnd** | €10-50 (hosting) | €36 | €59 | €40 |
+| **Basisprijs/mnd** | €10-50 (hosting) | €21 | €59 | €40 |
 | **Transactiekosten** | Geen | Tot 2% | Geen | Geen |
 | **Technisch beheer** | Zelf | Shopify | Lightspeed | Acendy |
 | **iDEAL standaard** | Via Mollie (gratis ext.) | Via Mollie | Ja, ingebouwd | Ja, ingebouwd |
@@ -297,7 +297,7 @@ Het eerlijkste advies dat ik kan geven: kies WooCommerce alleen als je WordPress
 
 Krachtig, flexibel en kostenefficient voor de juiste gebruiker. Maar de technische drempel en het ontbreken van klantenservice houden het van een 9 af. Voor wie het past, is het uitstekend. Voor wie het niet past, is het een tijdrovend avontuur.
 
-<a href="https://woocommerce.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Ga naar WooCommerce →</a>
+<a href="https://woocommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar WooCommerce →</a>
 
 ---
 

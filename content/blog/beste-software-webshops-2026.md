@@ -79,7 +79,7 @@ Hieronder vat ik de 6 platforms samen die ik het vaakst aanbeveel. Per platform 
 <tbody>
 <tr>
 <td><strong>Shopify</strong></td>
-<td>&euro;36/mnd (Basic)</td>
+<td>&euro;21/mnd (Basic)</td>
 <td>Via Mollie / Shopify Payments</td>
 <td>Onbeperkt</td>
 <td>Via app</td>
@@ -133,7 +133,7 @@ Hieronder vat ik de 6 platforms samen op basis van hoe goed ze passen in een com
 
 ### 1. Shopify -- Beste allrounder voor groei
 
-Shopify werkt gewoon. Je kunt binnen een middag live zijn zonder een regel code. De App Store lost elk probleem op -- van verlaten-winkelwagen mails tot bol.com-koppelingen. Maar die apps tellen op: ik heb klanten gezien die €200/maand aan apps kwijt waren bovenop hun abonnement. Sinds 2024 ondersteunt Shopify Payments iDEAL, maar ik raad Mollie vaak alsnog aan vanwege bredere betaalmethoden. Prijs: vanaf €36/maand (Basic).
+Shopify werkt gewoon. Je kunt binnen een middag live zijn zonder een regel code. De App Store lost elk probleem op -- van verlaten-winkelwagen mails tot bol.com-koppelingen. Maar die apps tellen op: ik heb klanten gezien die €200/maand aan apps kwijt waren bovenop hun abonnement. Sinds 2024 ondersteunt Shopify Payments iDEAL, maar ik raad Mollie vaak alsnog aan vanwege bredere betaalmethoden. Prijs: vanaf €21/maand (Basic).
 
 **Stack-integratie:** Mollie en MultiSafepay plug-and-play. Sendcloud en MyParcel direct gekoppeld. Klaviyo als standaard e-mail tool. Boekhoudkoppelingen met Moneybird en Exact via apps. Bol.com-sync via ChanableApp. De totale stack (Shopify + Mollie + Sendcloud + Klaviyo + Moneybird) kost circa €130-200/maand.
 
@@ -285,7 +285,7 @@ Picqer is de Nederlandse warehouse management tool die ik het vaakst aanbeveel a
 
 Veel Nederlandse webshops gebruiken al [Exact Online](/blog/exact-online-review-2026/) voor hun boekhouding. De voorraadmodule koppelt je inkoop, verkoop en voorraad in een systeem. Handig als je Exact al hebt -- dan hoef je geen apart systeem aan te schaffen.
 
-**Prijzen:** vanaf €45/maand (Exact Online boekhouden + voorraad)
+**Prijzen:** vanaf €49/maand (Exact Online boekhouden + voorraad)
 
 **Beste voor:** webshops die al met Exact Online werken voor hun administratie.
 
@@ -347,7 +347,7 @@ Je webshop genereert facturen, btw-aangiftes en financiële overzichten. Een goe
 
 1. **Moneybird** (vanaf €15/mnd) -- populairst bij zzp'ers en kleine webshops. Directe koppelingen met Shopify, WooCommerce en CCV Shop.
 
-2. **Exact Online** (vanaf €45/mnd) -- de standaard voor MKB. Sterke voorraadbeheer-integratie.
+2. **Exact Online** (vanaf €49/mnd) -- de standaard voor MKB. Sterke voorraadbeheer-integratie.
 
 3. **e-Boekhouden** (vanaf €19,95/mnd) -- budgetvriendelijk alternatief met webshopkoppelingen.
 
@@ -373,12 +373,12 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 
 | Component | Tool | Kosten |
 |---|---|---|
-| Platform | Shopify Grow (€79/mnd) | €79/mnd |
+| Platform | Shopify Grow (€59/mnd) | €59/mnd |
 | Betalingen | Mollie | Transactiekosten |
 | Verzending | Sendcloud Lite | €29/mnd |
 | E-mail | Klaviyo | €30/mnd |
-| Boekhouding | Exact Online | €45/mnd |
-| **Totaal** | | **~€183/mnd** |
+| Boekhouding | Exact Online | €49/mnd |
+| **Totaal** | | **~€167/mnd** |
 
 ### Online + fysieke winkel (omnichannel)
 
@@ -388,7 +388,7 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 | Betalingen | Lightspeed Payments / Mollie | Transactiekosten |
 | Verzending | Sendcloud Growth | €89/mnd |
 | E-mail | Klaviyo | €30/mnd |
-| Boekhouding | Exact Online | €45/mnd |
+| Boekhouding | Exact Online | €49/mnd |
 | **Totaal** | | **~€250-400/mnd** |
 
 ### Techneut of developer (maximale controle)
@@ -409,7 +409,7 @@ Na het bespreken van alle tools, hier mijn concrete stack-aanbevelingen. Niet al
 | Platform | CCV Shop Level | €32,50/mnd |
 | Betalingen | Ingebouwd | Transactiekosten |
 | Verzending | Ingebouwd (PostNL/DHL) | Alleen verzendkosten |
-| Boekhouding | Exact Online (directe koppeling) | €45/mnd |
+| Boekhouding | Exact Online (directe koppeling) | €49/mnd |
 | **Totaal** | | **~€80/mnd** |
 
 
@@ -430,7 +430,7 @@ Dit is het totaaloverzicht dat ik aan klanten geef als ze vragen: "Wat kost het 
 <tr>
 <td><strong>Platform</strong></td>
 <td>CCV Shop Smart (€12,50/mnd)</td>
-<td>Shopify Grow (€79/mnd)</td>
+<td>Shopify Grow (€59/mnd)</td>
 <td>Lightspeed Professional (€189/mnd)</td>
 </tr>
 <tr>
@@ -454,8 +454,8 @@ Dit is het totaaloverzicht dat ik aan klanten geef als ze vragen: "Wat kost het 
 <tr>
 <td><strong>Boekhouding</strong></td>
 <td>Moneybird (€15/mnd)</td>
-<td>Exact Online (€45/mnd)</td>
-<td>Exact Online (€45/mnd)</td>
+<td>Exact Online (€49/mnd)</td>
+<td>Exact Online (€49/mnd)</td>
 </tr>
 <tr>
 <td><strong>Voorraadbeheer</strong></td>

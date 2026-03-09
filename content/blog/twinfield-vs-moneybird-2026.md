@@ -77,9 +77,9 @@ Moneybird is het pakket dat ik aanbeveel aan ondernemers die bij het woord "groo
 | Plan | Prijs/mnd | Facturen/mnd | Highlights |
 |------|----------|-------------|------------|
 | **Gratis** | €0 | 3/maand | Basis facturatie + boekhouding |
-| **Pakket 20** | €15 | Onbeperkt | + 20 banktransacties, bankintegratie, bonnetjes, offertes |
-| **Pakket 50** | €28 | Onbeperkt | + 50 banktransacties, tijdregistratie, projecten, multi-admin |
-| **Onbeperkt** | €39 | Onbeperkt | + Onbeperkte banktransacties, alle functies |
+| **Starter** | €15 | Onbeperkt | + 20 banktransacties, bankintegratie, bonnetjes, offertes |
+| **Growth** | €28 | Onbeperkt | + 50 banktransacties, tijdregistratie, projecten, multi-admin |
+| **Professional** | €39 | Onbeperkt | + Onbeperkte banktransacties, alle functies |
 
 ### Sterke punten
 - Intuïtieve interface zonder boekhoudtermen
@@ -154,7 +154,7 @@ De maandprijzen hierboven vertellen maar de helft van het verhaal. Ik reken het 
 
 | Kostenpost | Moneybird | Twinfield |
 |-----------|-----------|-----------|
-| Software | €15/mnd (Pakket 20) | €30/mnd (Solo) |
+| Software | €15/mnd (Starter) | €30/mnd (Solo) |
 | Boekhouder | Niet nodig | ~€125/mnd (kwartaalaangifte) |
 | **Totaal per jaar** | **€180** | **€1.860** |
 
@@ -164,7 +164,7 @@ Dat lees je goed: met Moneybird betaal je tien keer minder als je het zelf doet.
 
 | Kostenpost | Moneybird | Twinfield |
 |-----------|-----------|-----------|
-| Software | €39/mnd (Onbeperkt) | €40/mnd (Twin) |
+| Software | €39/mnd (Professional) | €40/mnd (Twin) |
 | Boekhouder (jaarrekening) | ~€200/mnd | ~€175/mnd |
 | **Totaal per jaar** | **€2.868** | **€2.580** |
 
@@ -256,7 +256,7 @@ Wil je de jaarlijkse kosten voor jouw specifieke situatie berekenen? Gebruik de 
 ## Concrete use cases: wat ik in de praktijk zie
 
 ### Use case 1: Freelance marketeer (ZZP)
-Lisa is zelfstandig marketeer, stuurt 15 facturen per maand en heeft geen boekhouder. Ze scant bonnetjes met haar telefoon, doet zelf BTW-aangifte en wil er zo min mogelijk tijd aan kwijt zijn. **Moneybird Pakket 20 (€15/mnd)** is hier de perfecte match. Ze opent de app, scant een bonnetje, en Moneybird herkent automatisch het bedrag en de leverancier. BTW-aangifte? Twee klikken. Klaar. Ik heb haar vorig jaar geholpen met de overstap van Excel en eerlijk gezegd was ze binnen een uur sneller dan met haar oude spreadsheet.
+Lisa is zelfstandig marketeer, stuurt 15 facturen per maand en heeft geen boekhouder. Ze scant bonnetjes met haar telefoon, doet zelf BTW-aangifte en wil er zo min mogelijk tijd aan kwijt zijn. **Moneybird Starter (€15/mnd)** is hier de perfecte match. Ze opent de app, scant een bonnetje, en Moneybird herkent automatisch het bedrag en de leverancier. BTW-aangifte? Twee klikken. Klaar. Ik heb haar vorig jaar geholpen met de overstap van Excel en eerlijk gezegd was ze binnen een uur sneller dan met haar oude spreadsheet.
 
 ### Use case 2: Installatiebureau met 8 medewerkers (BV)
 Marco runt een installatiebureau. Zijn boekhouder doet de maandelijkse verwerking, kwartaalaangiftes en de jaarrekening. Marco wil alleen facturen sturen en bonnetjes inscannen — de rest laat hij over aan zijn accountant. **Twinfield Twin (€40/mnd)** past hier als gegoten. De boekhouder werkt rechtstreeks in dezelfde omgeving, hoeft geen exports te importeren, en Marco kan gewoon facturen aanmaken zonder zich zorgen te maken over de rest. Die naadloze samenwerking scheelt letterlijk uren per maand aan heen-en-weer mailen van bestanden.

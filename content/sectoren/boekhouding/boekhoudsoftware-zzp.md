@@ -15,7 +15,7 @@ faq:
   - q: "Wat is de beste boekhoudsoftware voor ZZP'ers in 2026?"
     a: "Moneybird is de beste allrounder voor ZZP'ers die zelf hun boekhouding bijhouden: overzichtelijke interface, directe bankkoppeling en BTW-aangifte rechtstreeks naar de Belastingdienst. Jortt is de eenvoudigste optie voor minimale administratie. e-Boekhouden.nl is de beste keuze als je een externe boekhouder hebt die het systeem al kent."
   - q: "Wat kost boekhoudsoftware voor een ZZP'er per maand?"
-    a: "Jortt is de goedkoopste optie vanaf EUR 8 per maand. e-Boekhouden.nl kost EUR 8,95 per maand voor de Starter-versie. Moneybird Small kost EUR 12 per maand en het Medium-plan EUR 24 per maand. Alle drie bieden een gratis proefperiode aan."
+    a: "Jortt is de goedkoopste optie vanaf EUR 8 per maand. e-Boekhouden.nl kost EUR 8,95 per maand voor de Starter-versie. Moneybird Starter kost EUR 15 per maand en het Growth-plan EUR 28 per maand. Alle drie bieden een gratis proefperiode aan."
   - q: "Kan ik als ZZP'er zelf mijn BTW-aangifte doen via boekhoudsoftware?"
     a: "Ja. Moneybird dient de BTW-aangifte rechtstreeks in via een koppeling met de Belastingdienst. Jortt berekent de BTW automatisch op basis van je transacties en zorgt ervoor dat je aangifte altijd klaarstaat. Bij e-Boekhouden.nl bereid je de aangifte voor in het systeem en dien je die in via de Belastingdienstportaal."
   - q: "Welke boekhoudsoftware koppelt met mijn bank als ZZP'er?"
@@ -59,7 +59,7 @@ Moneybird is mijn standaard aanbeveling voor ZZP'ers die hun boekhouding snel en
 
 **Wat ontbreekt:** Geen ingebouwde urenregistratie; voor projectgebaseerde freelancers is een aparte tool soms nodig.
 
-**Prijs:** Gratis proefperiode. Small: EUR 12 per maand. Medium: EUR 24 per maand (inclusief meerdere gebruikers en geavanceerde rapportages).
+**Prijs:** Gratis proefperiode. Starter: EUR 15 per maand. Growth: EUR 28 per maand (inclusief meerdere gebruikers en geavanceerde rapportages).
 
 <a href="https://www.moneybird.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Moneybird</a>
 
@@ -108,7 +108,7 @@ e-Boekhouden.nl is al meer dan twintig jaar een vaste naam in de Nederlandse mar
 
 | Software | Prijs per maand | Bankkoppeling | BTW-aangifte | Offertes | Mobiele app |
 |----------|----------------|--------------|-------------|---------|------------|
-| Moneybird | EUR 12 | Ja | Direct | Ja | Ja |
+| Moneybird | EUR 15 | Ja | Direct | Ja | Ja |
 | Jortt | EUR 8 | Ja | Automatisch | Beperkt | Ja |
 | e-Boekhouden.nl | EUR 8,95 | Ja | Ja | Ja | Beperkt |
 

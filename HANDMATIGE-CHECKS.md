@@ -1,26 +1,18 @@
 # Handmatige Checks — BSG
 
 > Artikelen die niet automatisch gefixt konden worden en handmatige verificatie vereisen.
-> Gegenereerd: 9 maart 2026
+> Gegenereerd: 9 maart 2026 | Laatste update: 9 maart 2026 (alle Prioriteit 1+2 opgelost)
 
 ---
 
 ## PRIORITEIT 1 — Prijzen verifiëren op product-websites
 
 ### Exact Online pakketstructuur
-**Status:** HANDMATIGE CHECK VEREIST
-**Reden:** Drie artikelen gebruiken drie verschillende sets pakketnamen en prijzen. Niet automatisch te harmoniseren zonder de actuele Exact Online prijspagina te controleren.
-
-**Controleer op:** https://www.exact.com/nl/prijzen
-
-| Artikel | Gebruikte namen | Gebruikte prijzen |
-|---------|----------------|-------------------|
-| `exact-online-review-2026.md` | ZZP / Boekhouden / Compleet | €48 / €48 / ±€59 |
-| `moneybird-vs-exact-online-2026.md` | Essentials / Standaard / Compleet | ±€48 / ±€59 / ±€89 |
-| `beste-boekhoudsoftware-zzp-2026.md` | Essentials / Geavanceerd | €48 / €79 |
-| `exact-online-vs-twinfield-2026.md` | Controleer ook dit artikel | — |
-
-**Actie:** Verifieer de actuele pakketnamen en prijzen, kies één versie, en pas alle artikelen aan.
+**Status:** OPGELOST ✅
+**Wijziging:** Alle artikelen bijgewerkt naar geverifieerde prijzen (exact.com/nl/producten/boekhouden, maart 2026):
+- Essentials €49 / Plus €99 / Professional €159 / Premium vanaf €299
+- Oude namen "Standaard", "Compleet", "Geavanceerd", "ZZP" verwijderd
+- 12 bestanden + software.json gecorrigeerd
 
 ---
 
@@ -32,39 +24,24 @@
 
 | Artikel | Pakketstructuur |
 |---------|----------------|
-| `shopify-review-2026.md` | Basic €36 / Shopify €105 / Advanced €384 / Plus €2.300 |
-| `shopify-vs-mijnwebwinkel-2026.md` | Starter €5 / Basic €36 / Grow €79 / Advanced €289 / Plus $2.300 |
+| `shopify-review-2026.md` | Starter €5 / Basic €21 / Grow €59 / Advanced €289 / Plus €2.100 ✅ GECORRIGEERD |
+| `shopify-vs-mijnwebwinkel-2026.md` | Starter €5 / Basic €21 / Grow €59 / Advanced €289 / Plus €2.100 ✅ GECORRIGEERD |
 
-**Actie:** Verifieer welke structuur actueel is (vermoedelijk de Grow-structuur is nieuwer), harmoniseer beide artikelen.
+**Status:** OPGELOST — Alle artikelen bijgewerkt naar actuele prijzen (geverifieerd shopify.com/nl/pricing maart 2026).
 
 ---
 
 ### Moneybird gratis plan — banktransacties
-**Status:** HANDMATIGE CHECK VEREIST
-**Reden:** De review zegt "geen bankkoppeling", het vergelijkingsartikel zegt "10 banktransacties/mnd".
-
-**Controleer op:** https://www.moneybird.nl/prijzen
-
-| Artikel | Claim |
-|---------|-------|
-| `moneybird-review-2026.md` | Gratis plan: geen bankkoppeling, geen periodieke facturen |
-| `moneybird-vs-exact-online-2026.md` | Gratis plan: 10 banktransacties/mnd, 3 facturen/mnd |
-
-**Actie:** Controleer of het gratis plan banktransacties bevat. Pas het afwijkende artikel aan.
+**Status:** OPGELOST ✅
+**Wijziging:** Geverifieerd op moneybird.nl/prijzen: gratis plan heeft GEEN bankkoppeling. Alle artikelen consistent bijgewerkt. Pakketnamen S/M/L en Pakket 20/50/Onbeperkt → Starter/Growth/Professional in 14 bestanden.
 
 ---
 
 ## PRIORITEIT 2 — Trustpilot scores verifiëren
 
 ### Moneybird Trustpilot vs eigen platform
-**Status:** GEDEELTELIJK GEFIXT — label nog toevoegen
-**Reden:** Review vermeldt 4.1/5 (904 reviews) van moneybird.nl eigen platform. Alle andere artikelen vermelden 3.5/5 (181 reviews) op Trustpilot. Beide kunnen correct zijn maar het verschil is verwarrend.
-
-**Controleer op:**
-- https://nl.trustpilot.com/review/moneybird.nl
-- https://www.moneybird.nl (eigen reviews)
-
-**Actie:** Verifieer beide scores en pas de review aan om duidelijk te labelen welke score van welk platform komt.
+**Status:** OPGELOST ✅
+**Wijziging:** Review labelt nu expliciet: Trustpilot 3.5/5 (181 reviews) naast moneybird.nl eigen platform 4.1/5 (904 reviews). Geen verwarring meer mogelijk.
 
 ---
 

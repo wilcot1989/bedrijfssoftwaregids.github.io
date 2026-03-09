@@ -15,7 +15,7 @@ faq:
   - q: "Welke boekhoudsoftware gebruiken de meeste MKB-bedrijven in Nederland?"
     a: "Exact Online is de marktleider voor het Nederlandse MKB. Bijna elke accountant in Nederland kent het systeem en kan er direct in werken. AFAS is populair bij bedrijven die boekhouding, HR en CRM in één pakket willen. Twinfield is de keuze voor MKB met internationale activiteiten of meerdere entiteiten."
   - q: "Wat kost boekhoudsoftware voor een MKB-bedrijf?"
-    a: "Exact Online Accounting begint bij EUR 44 per maand; extra modules zoals HRM of CRM kosten extra. AFAS wordt op aanvraag geprijsd, typisch EUR 75 tot EUR 150 per gebruiker per maand. Twinfield begint bij EUR 55 per maand en loopt op bij meerdere entiteiten en gebruikers."
+    a: "Exact Online Accounting begint bij EUR 49 per maand; extra modules zoals HRM of CRM kosten extra. AFAS wordt op aanvraag geprijsd, typisch EUR 75 tot EUR 150 per gebruiker per maand. Twinfield begint bij EUR 55 per maand en loopt op bij meerdere entiteiten en gebruikers."
   - q: "Hoe lang duurt de implementatie van boekhoudsoftware voor een MKB-bedrijf?"
     a: "Plan bij Exact Online minimaal twee tot vier weken voor een verantwoorde implementatie met correcte openingsbalans en rekeningschema. Bij AFAS is een implementatietijd van drie tot zes maanden realistisch. Twinfield vereist boekhoudkundige expertise of een implementatiepartner voor een correcte inrichting."
   - q: "Heeft mijn accountant toegang tot mijn boekhoudsoftware?"
@@ -58,7 +58,7 @@ Exact Online is de meest gebruikte boekhoudsoftware in het Nederlandse MKB en da
 
 **Wat ontbreekt:** Hogere instapprijs dan kleinere systemen; implementatie kost tijd bij complexe organisaties.
 
-**Prijs:** Exact Online Accounting: EUR 44 per maand. Exact Online Manufacturing, HRM, CRM en andere modules zijn afzonderlijk geprijsd.
+**Prijs:** Exact Online Accounting: EUR 49 per maand. Exact Online Manufacturing, HRM, CRM en andere modules zijn afzonderlijk geprijsd.
 
 <a href="https://www.exact.com/nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Exact Online</a>
 
@@ -108,7 +108,7 @@ Twinfield (onderdeel van Wolters Kluwer) is het systeem dat ik adviseer aan bedr
 
 | Software | Prijs per maand | Salarisadministratie | Multi-entiteit | Integraties | HRM-module |
 |----------|----------------|---------------------|--------------|------------|-----------|
-| Exact Online | EUR 44+ | Ja | Beperkt | Uitgebreid | Via module |
+| Exact Online | EUR 49+ | Ja | Beperkt | Uitgebreid | Via module |
 | AFAS | Op aanvraag | Ja | Ja | Beperkt | Ingebouwd |
 | Twinfield | EUR 55+ | Nee (extern) | Ja | Goed | Nee |
 

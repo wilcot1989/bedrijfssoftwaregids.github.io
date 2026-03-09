@@ -72,7 +72,7 @@ faq:
     a: "Ja, de meeste boekhoudpakketten bieden import- en exportfuncties. Je kunt je administratie doorgaans overzetten als je begint aan een nieuw boekjaar. Sommige pakketten, zoals Moneybird, bieden zelfs specifieke migratietools. Raadpleeg je boekhouder bij een overstap midden in het jaar."
 ---
 
-Ik spreek wekelijks ZZP'ers die te veel betalen voor hun boekhoudprogramma. Een grafisch ontwerper met tien facturen per maand die op Exact Online zit van €48/maand, terwijl e-Boekhouden.nl hetzelfde doet voor €9,95. Of iemand die al twee jaar gratis Moneybird gebruikt en zich afvraagt waarom de BTW-aangifte zo'n gedoe is — terwijl die functie in het betaalde plan gewoon automatisch gaat. Boekhouden als zzp'er hoeft niet ingewikkeld te zijn. In deze vergelijking laat ik je zien welke 7 pakketten echt geschikt zijn voor ZZP'ers, wat ze kosten en welke bij jouw specifieke situatie past.
+Ik spreek wekelijks ZZP'ers die te veel betalen voor hun boekhoudprogramma. Een grafisch ontwerper met tien facturen per maand die op Exact Online zit van €49/maand, terwijl e-Boekhouden.nl hetzelfde doet voor €9,95. Of iemand die al twee jaar gratis Moneybird gebruikt en zich afvraagt waarom de BTW-aangifte zo'n gedoe is — terwijl die functie in het betaalde plan gewoon automatisch gaat. Boekhouden als zzp'er hoeft niet ingewikkeld te zijn. In deze vergelijking laat ik je zien welke 7 pakketten echt geschikt zijn voor ZZP'ers, wat ze kosten en welke bij jouw specifieke situatie past.
 
 Geen tijd om alles te lezen? Hier de snelle vergelijking:
 
@@ -84,7 +84,7 @@ Geen tijd om alles te lezen? Hier de snelle vergelijking:
 | **Moneybird** | €15/mnd | 3.5/5 | Gebruiksgemak & freelancers |
 | **InformerOnline** | €17/mnd | 4.3/5 | Samenwerking met boekhouder |
 | **FreshBooks** | €17,50/mnd | 3.9/5 | Internationale freelancers |
-| **Exact Online** | €48/mnd | 2.6/5 | Groeiende bedrijven & integraties |
+| **Exact Online** | €49/mnd | 2.6/5 | Groeiende bedrijven & integraties |
 
 ## Kostenvergelijking: wat betaal je echt per maand?
 
@@ -95,7 +95,7 @@ Voordat ik elk pakket apart bespreek, eerst het overzicht waar het om draait —
 | Software | Goedkoopste plan | Middenplan | Gratis optie | BTW-aangifte | Bankkoppeling | Trustpilot |
 |---|---|---|---|---|---|---|
 | **Moneybird** | €15/mnd (20 transacties) | €28/mnd (50 transacties) | Ja (max 3 facturen/mnd) | Ja | Ja | 3.5/5 (180) |
-| **Exact Online** | €48/mnd (Boekhouden Essentials) | ±€59/mnd (Boekhouden Standaard) | Nee (30 dagen trial) | Ja | Ja | 2.6/5 (641) |
+| **Exact Online** | €49/mnd (Essentials) | €99/mnd (Plus) | Nee (30 dagen trial) | Ja | Ja | 2.6/5 (641) |
 | **e-Boekhouden.nl** | €9,95/mnd (240 boekingen) | €14,50/mnd (onbeperkt) | Nee (15 mnd gratis voor starters) | Ja | Ja | 4.6/5 (1.857) |
 | **SnelStart** | €16/mnd | €28/mnd (SnelStart M) | Ja (gratis basisplan) | Ja | Ja | 3.9/5 |
 | **FreshBooks** | $19/mnd (±€17,50, 5 klanten) | $33/mnd (±€30, 50 klanten) | Nee (30 dagen trial) | Beperkt | Beperkt | 3.9/5 (984) |
@@ -127,9 +127,9 @@ Het gratis plan is zo beperkt (maximaal 3 facturen per maand) dat het eigenlijk 
 ### Prijzen (februari 2026)
 
 - **Free**: Gratis (maximaal 3 facturen/maand, basisfuncties) (prijs gecheckt mrt 2026)
-- **20 transacties**: €15/maand
-- **50 transacties**: €28/maand
-- **Onbeperkt**: €39/maand
+- **Starter**: €15/maand (20 banktransacties)
+- **Growth**: €28/maand (50 banktransacties)
+- **Professional**: €39/maand (onbeperkte banktransacties)
 - Eerste 60 dagen gratis bij elk betaald plan
 
 Voor de meeste ZZP'ers is het plan van €28/maand het sweet spot. Je krijgt onbeperkte boekingen en bankkoppeling — alles wat je nodig hebt. Benieuwd hoe Moneybird zich verhoudt tot e-Boekhouden? Lees mijn uitgebreide [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/).
@@ -156,16 +156,17 @@ Ben je als ZZP'er ook op zoek naar een CRM-systeem? Exact Online biedt een geïn
 
 ### Eerlijke nadelen
 
-De prijs. €48/maand voor het instappakket is fors als je tien facturen per maand verstuurt. De leercurve is steiler dan bij Moneybird of Jortt — reken op een middag om alles in te richten. En de mobiele app? Die loopt een paar jaar achter op de concurrentie.
+De prijs. €49/maand voor het instappakket is fors als je tien facturen per maand verstuurt. De leercurve is steiler dan bij Moneybird of Jortt — reken op een middag om alles in te richten. En de mobiele app? Die loopt een paar jaar achter op de concurrentie.
 
-### Prijzen (februari 2026)
+### Prijzen (maart 2026)
 
-- **Boekhouden Essentials**: €48/maand (basis ZZP)
-- **Boekhouden Standaard**: ±€59/maand
-- **Premium**: ~€279/maand
+- **Essentials**: €49/maand (1 gebruiker, 1 administratie, 25 facturen)
+- **Plus**: €99/maand (2 gebruikers, 5 bankkoppelingen, 100 facturen)
+- **Professional**: €159/maand (2 gebruikers, onbeperkt)
+- **Premium**: Vanaf €299/maand (multi-company)
 - 30 dagen gratis proberen
 
-Het verschil met Moneybird is substantieel: €48 vs. €28 per maand, dat is €240 per jaar meer. Die investering moet je terugverdienen met functies die je ook daadwerkelijk gebruikt. Lees ook mijn volledige [Exact Online review](/blog/exact-online-review-2026/) voor een diepere analyse.
+Het verschil met Moneybird is substantieel: €49 vs. €28 per maand, dat is €252 per jaar meer. Die investering moet je terugverdienen met functies die je ook daadwerkelijk gebruikt. Lees ook mijn volledige [Exact Online review](/blog/exact-online-review-2026/) voor een diepere analyse.
 
 <a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
 
@@ -355,7 +356,7 @@ Als je je als "ZZP'er" identificeert -- dus zelfstandig ondernemer zonder person
 
 Na jaren ZZP'ers adviseren zie ik steeds dezelfde fouten terugkomen:
 
-1. **Te veel betalen voor functies die je niet gebruikt** — Een ZZP'er met 15 facturen per maand op Exact Online van €48/maand? Dat is €576/jaar voor software die je voor €120/jaar bij e-Boekhouden hebt. Reken altijd door of je die extra functies echt nodig hebt. Zoek je specifiek facturatiesoftware? Bekijk dan mijn artikel over de [beste facturatie software voor MKB](/blog/beste-facturatie-software-mkb-2026/).
+1. **Te veel betalen voor functies die je niet gebruikt** — Een ZZP'er met 15 facturen per maand op Exact Online van €49/maand? Dat is €588/jaar voor software die je voor €120/jaar bij e-Boekhouden hebt. Reken altijd door of je die extra functies echt nodig hebt. Zoek je specifiek facturatiesoftware? Bekijk dan mijn artikel over de [beste facturatie software voor MKB](/blog/beste-facturatie-software-mkb-2026/).
 
 2. **Kiezen op basis van wat je boekhouder gebruikt** — Ja, samenwerking is handig. Maar als je boekhouder alleen met Exact werkt en jij hebt een simpele administratie, betaal je €300/jaar te veel. Vraag je boekhouder of die ook met Moneybird of e-Boekhouden kan werken — de meeste kunnen dat prima.
 
@@ -390,9 +391,9 @@ Laat me het even concreet doorrekenen voor de meest gekozen pakketten:
 | Moneybird 50 transacties | €28 | €336 | BTW, bank, tot 50 transacties |
 | InformerOnline Starter | €17 | €204 | BTW, bank, boekhouder-toegang |
 | SnelStart Basis | €16 | €192 | BTW, bank, facturen, loonadministratie |
-| Exact Online Essentials | €48 | €576 | BTW, bank, 300+ integraties |
+| Exact Online Essentials | €49 | €588 | BTW, bank, 300+ integraties |
 
-Het verschil tussen het goedkoopste betaalde pakket en het duurste: €457 per jaar. Dat is relevant als ZZP'er.
+Het verschil tussen het goedkoopste betaalde pakket en het duurste: €469 per jaar. Dat is relevant als ZZP'er.
 
 ### Kan ik halverwege het jaar overstappen van boekhoudpakket?
 
@@ -409,7 +410,7 @@ Technisch kan het, maar ik raad het af. De meeste pakketten bieden import/export
 | **Budget-bewuste ZZP'er** | e-Boekhouden.nl | Meest voor minste geld, top support | €9,95 |
 | **ZZP'er met boekhouder** | InformerOnline | Beste boekhouder-samenwerking | €17 |
 | **ZZP/MKB, Nederlandse focus** | SnelStart | Gratis instap, vertrouwd NL pakket | €0–16 |
-| **ZZP'er die wil groeien naar BV** | Exact Online | Meest complete, schaalt mee | €48 |
+| **ZZP'er die wil groeien naar BV** | Exact Online | Meest complete, schaalt mee | €49 |
 | **Internationale freelancer** | FreshBooks | Multi-valuta, Engelse interface | $19/mnd (±€17,50) |
 
 

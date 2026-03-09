@@ -79,7 +79,7 @@ Dit is het meest gekozen abonnement voor ZZP'ers. Je krijgt:
 - Accountantskoppeling
 - App voor iOS en Android
 
-Voor €16 per maand is dit een scherpe prijs, zeker vergeleken met Exact Online dat voor vergelijkbare functionaliteit richting €48 per maand gaat.
+Voor €16 per maand is dit een scherpe prijs, zeker vergeleken met Exact Online dat voor het instappakket (Essentials) €49 per maand vraagt.
 
 ### SnelStart Go — ca. €22/maand
 
@@ -94,7 +94,7 @@ SnelStart Go voegt **salarisadministratie** toe aan het Compleet-pakket. Dat is 
 | SnelStart Go | ~€22/mnd | Ja |
 | Moneybird (basis) | €15/mnd | Nee (apart) |
 | e-Boekhouden | €9,95/mnd | Nee |
-| Exact Online (basis) | €48/mnd | Aparte module |
+| Exact Online (basis) | €49/mnd | Aparte module |
 
 SnelStart positioneert zich duidelijk in het middensegment. Goedkoper dan Exact Online, vergelijkbaar met Moneybird, duurder dan e-Boekhouden.
 
@@ -122,7 +122,7 @@ Je hebt een klein servicebedrijf, factureert maandelijks richting 60 transacties
 |---|---|---|---|
 | SnelStart Go | €22 | Ja | **€264** |
 | Moneybird + aparte salarismodule | €15 + €15 (Nmbrs basis) | Apart abonnement | **€360** |
-| Exact Online + salarismodule | €48 + module | Apart | **€600+** |
+| Exact Online + salarismodule | €49 + module | Apart | **€600+** |
 
 Hier wint SnelStart Go duidelijk. Salarisadministratie is ingebouwd en je betaalt geen los abonnement voor een aparte tool. Het scheelt in dit scenario minimaal €96 per jaar ten opzichte van Moneybird, en meer dan het dubbele ten opzichte van Exact Online.
 
@@ -247,7 +247,7 @@ Wat me opvalt: ondernemers die SnelStart al jaren gebruiken, zijn over het algem
 | Moneybird | €15/mnd | ZZP, small business | Beste interface, meeste integraties |
 | e-Boekhouden | €9,95/mnd | ZZP budget | Goedkoopst, iets minder functies |
 | Jortt | €10/mnd | Freelancers | Zeer simpel, factuur-first aanpak |
-| Exact Online | €48/mnd | MKB, groei | Meest compleet, hoogste prijs |
+| Exact Online | €49/mnd | MKB, groei | Meest compleet, hoogste prijs |
 
 Moneybird en SnelStart worden het vaakst vergeleken — ze zitten in hetzelfde segment en richten zich op vergelijkbare doelgroepen. Mijn conclusie: Moneybird wint op gebruiksgemak en integraties, SnelStart op prijs en de combinatie met salarisadministratie. Wil je meer detail? Lees mijn vergelijking van [Moneybird vs. e-Boekhouden](/blog/moneybird-vs-e-boekhouden-2026/). Of bekijk alle [boekhoudsoftware opties](/categories/boekhouding/) in het volledige overzicht.
 

@@ -74,7 +74,7 @@
     "pipeline": true,
     "integrations": ["Exact", "Microsoft 365"],
     "affiliate": { "type": "link", "url": "https://www.exact.com/nl" },
-    "cost": { "model": "per_user_monthly", "base": 48, "per_user": 16 }
+    "cost": { "model": "per_user_monthly", "base": 49, "per_user": 16 }
   },
   {
     "id": "gripp",
@@ -123,7 +123,7 @@
     "payroll": true,
     "bank_sync": true,
     "affiliate": { "type": "link", "url": "https://www.exact.com/nl" },
-    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 48 }, { "up_to": 3, "price": 55 }, { "up_to": 10, "price": 79 }] }
+    "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 49 }, { "up_to": 3, "price": 99 }, { "up_to": 10, "price": 159 }] }
   },
   {
     "id": "eboekhouden",

@@ -73,7 +73,7 @@ Let op: de meeste gebruikers van Twinfield betalen helemaal niet direct voor de 
 | Software | Startprijs/mnd | Transparante prijzen | Gratis plan | Gebruikers |
 |---|---|---|---|---|
 | **Twinfield** | ca. €55 | Nee (via reseller) | Nee | €10/p.p./mnd |
-| **Exact Online** | ca. €48 | Ja | Nee (30d trial) | €10/p.p./mnd |
+| **Exact Online** | ca. €49 | Ja | Nee (30d trial) | Zie pakketten |
 | **Moneybird** | Gratis / €15 | Ja | Ja (beperkt) | Gratis onbeperkt |
 | **e-Boekhouden** | €9,95 | Ja | Nee (15d trial) | Gratis onbeperkt |
 
@@ -188,7 +188,7 @@ Toch is een score van 1,8 een signaal dat ik niet naast me neerleg. Zeker als je
 
 | Software | Startprijs | Sterkste punt | Beste voor |
 |---|---|---|---|
-| **Exact Online** | ca. €48/mnd | Breed pakket (CRM, HRM, projecten) | Groeiend MKB, alle-in-een |
+| **Exact Online** | ca. €49/mnd | Breed pakket (CRM, HRM, projecten) | Groeiend MKB, alle-in-een |
 | **Moneybird** | Gratis / €15/mnd | Gebruiksgemak, prijs-kwaliteit | ZZP'ers en klein MKB |
 | **e-Boekhouden** | €9,95/mnd | Laagste prijs, onbeperkt gebruikers | Budget-bewust MKB |
 | **Visma eAccounting** | ca. €20/mnd | Eenvoud + Scandinavisch systeem | Kleine ondernemingen |

@@ -17,7 +17,7 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 featured_image: "/images/categories/boekhouding.svg"
 faq:
   - q: "Is Moneybird goedkoper dan Exact Online?"
-    a: "Ja, Moneybird is fors goedkoper. Het betaalde instappakket kost €15 per maand, terwijl Exact Online Boekhouden begint bij €48 per maand. Voor ZZP'ers en kleine bedrijven met een eenvoudige administratie is Moneybird de voordeligste optie. Moneybird biedt daarnaast een gratis pakket met beperkte functies."
+    a: "Ja, Moneybird is fors goedkoper. Het betaalde instappakket kost €15 per maand, terwijl Exact Online Boekhouden begint bij €49 per maand (Essentials). Voor ZZP'ers en kleine bedrijven met een eenvoudige administratie is Moneybird de voordeligste optie. Moneybird biedt daarnaast een gratis pakket met beperkte functies."
   - q: "Welk pakket is beter voor ZZP'ers?"
     a: "Voor de meeste ZZP'ers is Moneybird de betere keuze. Het is goedkoper, gebruiksvriendelijker en biedt alles wat je nodig hebt: facturatie, bankkoppeling, BTW-aangifte en bonnetjes scannen. Exact Online is voor ZZP'ers meestal overkill, tenzij je snel wilt groeien en later voorraad- of projectbeheer nodig hebt."
   - q: "Kan mijn boekhouder met beide pakketten werken?"
@@ -45,7 +45,7 @@ Zoek je een breder overzicht? Lees dan mijn artikel over de [beste boekhoudsoftw
 | Kenmerk | Moneybird | Exact Online |
 |---|---|---|
 | **Trustpilot** | 3.5/5 (181 reviews) | 2.7/5 (644 reviews) |
-| **Startprijs** | Gratis (beperkt) / €15/mnd | €48/mnd |
+| **Startprijs** | Gratis (beperkt) / €15/mnd | €49/mnd |
 | **Doelgroep** | ZZP'ers en klein MKB | MKB en accountants |
 | **Gebruiksgemak** | ★★★★★ | ★★★☆☆ |
 | **Functionaliteit** | ★★★☆☆ | ★★★★★ |
@@ -110,7 +110,7 @@ Ik heb genoeg klanten geholpen die met Exact Online worstelden. De keerzijde van
 
 - **De interface is gedateerd.** Pagina's laden traag, de navigatie is niet intuïtief, en je klikt regelmatig drie niveaus diep voordat je vindt wat je zoekt. Gebruikers die van Moneybird komen, schrikken.
 - **De leercurve is steil.** Reken op minimaal een week voordat je de basis beheerst. Bij Moneybird ben je in een uur aan de slag.
-- **De prijs loopt snel op.** Het basispakket kost al €48 per maand. Voeg extra gebruikers toe (circa €10-€40 per persoon per maand) en je zit al snel boven de €100. Met 5 medewerkers betaal je makkelijk €150-€200 per maand.
+- **De prijs loopt snel op.** Het basispakket kost al €49 per maand. Het Plus-pakket met 2 gebruikers kost €99 per maand, Professional €159 per maand. Met meerdere gebruikers of modules betaal je makkelijk €150-€300 per maand.
 - **Overkill voor eenvoudige administraties.** Als je alleen facturen stuurt en bonnetjes boekt, betaal je bij Exact voor functies die je nooit aanraakt.
 - **Prijsverhogingen.** Exact staat erom bekend de prijzen regelmatig te verhogen. Meerdere gebruikers hebben geklaagd over gedwongen upgrades naar duurdere pakketten.
 
@@ -127,9 +127,9 @@ Dit is waar het verschil pijn doet -- of juist meevalt, afhankelijk van je persp
 | Pakket | Prijs/mnd | Banktransacties | Facturen |
 |---|---|---|---|
 | **Gratis** | €0 | Geen | 3/mnd |
-| **Pakket 20** | €15 | 20/mnd | Onbeperkt |
-| **Pakket 50** | €28 | 50/mnd | Onbeperkt |
-| **Onbeperkt** | €39 | Onbeperkt | Onbeperkt |
+| **Starter** | €15 | 20/mnd | Onbeperkt |
+| **Growth** | €28 | 50/mnd | Onbeperkt |
+| **Professional** | €39 | Onbeperkt | Onbeperkt |
 
 Alle prijzen exclusief btw. Eerste 60 dagen gratis proefperiode (6 maanden bij opening Moneybird Betaalrekening). Alle functies zijn beschikbaar in elk betaald pakket -- het verschil zit alleen in het aantal banktransacties.
 
@@ -137,20 +137,21 @@ Alle prijzen exclusief btw. Eerste 60 dagen gratis proefperiode (6 maanden bij o
 
 | Pakket | Prijs/mnd | Gebruikers | Beste voor |
 |---|---|---|---|
-| **Boekhouden Essentials** | ±€48 | 1 | Kleine ondernemers |
-| **Boekhouden Standaard** | ±€59 | 1 (extra: €10+/p.p.) | MKB met uitgebreidere behoeften |
-| **Boekhouden Compleet** | ±€89 | 1 (extra: €10+/p.p.) | MKB met volledige financiële controle |
+| **Essentials** | €49 | 1, 1 adm., 25 facturen | Kleine ondernemers |
+| **Plus** | €99 | 2, 5 bankkoppelingen, 100 facturen | MKB met uitgebreidere behoeften |
+| **Professional** | €159 | 2, onbeperkt | MKB met volledige financiële controle |
+| **Premium** | Vanaf €299 | 2+, multi-company | Holdingstructuren |
 
-Alle prijzen exclusief btw. 30 dagen gratis proefperiode. Exact biedt ook Handel-, Project- en Productie-pakketten die nog duurder zijn.
+Alle prijzen exclusief btw. 30 dagen gratis proefperiode. Prijzen geverifieerd maart 2026 op exact.com/nl/producten/boekhouden.
 
 ### Wat betaal je per jaar?
 
 | Scenario | Moneybird | Exact Online |
 |---|---|---|
-| **ZZP'er, basis** | €15 x 12 = **€180/jr** | €48 x 12 = **€576/jr** |
-| **ZZP'er, onbeperkt** | €39 x 12 = **€468/jr** | €48 x 12 = **€576/jr** |
-| **MKB, 3 gebruikers** | €39 x 12 = **€468/jr** | ±€79 x 12 = **€948/jr** |
-| **MKB, 5 gebruikers** | €39 x 12 = **€468/jr** | ±€99+ x 12 = **€1.188+/jr** |
+| **ZZP'er, basis** | €15 x 12 = **€180/jr** | €49 x 12 = **€588/jr** |
+| **ZZP'er, onbeperkt** | €39 x 12 = **€468/jr** | €49 x 12 = **€588/jr** |
+| **MKB, 2 gebruikers** | €39 x 12 = **€468/jr** | €99 x 12 = **€1.188/jr** |
+| **MKB, uitgebreid** | €39 x 12 = **€468/jr** | €159 x 12 = **€1.908/jr** |
 
 Let op: Moneybird rekent niet per gebruiker. Je betaalt een vast bedrag en kunt onbeperkt collega's uitnodigen. Bij Exact Online betaal je per extra gebruiker, waardoor de kosten bij een groeiend team snel oplopen.
 

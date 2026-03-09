@@ -1,6 +1,6 @@
 # AI Audit Rapport — BSG
 
-> Volledige audit en uitvoering op 9 maart 2026
+> Volledige audit en uitvoering op 9 maart 2026 | Ronde 2: prijsverificatie + validatie
 > Repository: wilcot1989/bedrijfssoftwaregids.github.io
 
 ---
@@ -9,15 +9,16 @@
 
 ### Uitgevoerde wijzigingen
 
-| Categorie | Wijzigingen | Bestanden |
-|-----------|------------|-----------|
-| Prijsconsistentie Moneybird | 5 fixes | 4 bestanden |
-| Prijsconsistentie Exact Online | 5 fixes | 5 bestanden |
-| Prijsconsistentie Shopify | 15 fixes | 4 bestanden |
-| Lightspeed Trustpilot | 3 fixes | 1 bestand |
-| CTA boven pricing-tabel | 10 toevoegingen | 10 bestanden |
-| software.json tracking URL | 1 fix (Shopify) | 1 bestand |
-| **Totaal** | **39 fixes** | **~20 bestanden** |
+| Categorie | Ronde 1 | Ronde 2 (verificatie) | Bestanden |
+|-----------|---------|----------------------|-----------|
+| Moneybird pakketnamen + prijzen | 5 fixes | +14 fixes | 14 bestanden |
+| Exact Online prijzen + namen | 5 fixes | +12 fixes | 12 bestanden |
+| Shopify prijzen | 15 fixes | +6 fixes | 6 bestanden |
+| Lightspeed Trustpilot | 3 fixes | — | 1 bestand |
+| CTA boven pricing-tabel | 10 toevoegingen | — | 10 bestanden |
+| software.json | 1 fix (Shopify URL) | +2 fixes (Exact Online) | 1 bestand |
+| Sectorpagina's | — | +3 fixes | 3 bestanden |
+| **Totaal** | **39 fixes** | **+37 = 76 totaal** | **~25 bestanden** |
 
 ### Aangemaakte rapporten
 
@@ -27,6 +28,7 @@
 | `PUBLICATIEPLAN-8-WEKEN.md` | Week-voor-week publicatieschema met status per artikel |
 | `MONETISATIE-EN-AFFILIATE-FIXES.md` | Alle monetisatie-wijzigingen + prioriteitenlijst |
 | `HANDMATIGE-CHECKS.md` | Issues die niet automatisch gefixt konden worden |
+| `DEFINITIEVE-PUBLICATIECHECK.md` | Tweede controlelaag — validatie alle fixes + publicatiegereedheid |
 
 ---
 
@@ -80,7 +82,8 @@
 
 ### B2. Exact Online — 5 fixes in 5 bestanden
 
-**Gekozen canonieke versie:** Boekhouden Essentials (±€48) / Boekhouden Standaard (±€59) / Boekhouden Compleet (±€89)
+**Ronde 1 (harmonisatie):** Essentials (±€48) / Standaard (±€59) / Compleet (±€89)
+**Ronde 2 (geverifieerd op exact.com):** Essentials €49 / Plus €99 / Professional €159 / Premium vanaf €299
 
 | Bestand | Was | Nu |
 |---------|-----|-----|
@@ -92,13 +95,14 @@
 
 **Let op:** `moneybird-vs-exact-online-2026.md` was al correct en is niet gewijzigd.
 
-**HANDMATIGE CHECK:** De pakketnamen en prijzen moeten geverifieerd worden op exact.com/nl/prijzen. De ±-notatie geeft aan dat exacte prijzen kunnen afwijken.
+**STATUS RONDE 2:** OPGELOST — Alle prijzen geverifieerd op exact.com/nl/producten/boekhouden (maart 2026). Oude namen "Standaard" en "Compleet" bestaan niet; correcte namen zijn "Plus" en "Professional".
 
 ---
 
 ### B3. Shopify — 15 fixes in 4 bestanden
 
-**Gekozen canonieke versie:** Starter €5 / Basic €36 / Grow €79 / Advanced €289 / Plus $2.300
+**Ronde 1 (harmonisatie):** Starter €5 / Basic €36 / Grow €79 / Advanced €289 / Plus $2.300
+**Ronde 2 (geverifieerd op shopify.com/nl):** Starter €5 / Basic €21 / Grow €59 / Advanced €289 / Plus €2.100
 
 | Bestand | Aantal fixes |
 |---------|-------------|
@@ -143,11 +147,11 @@ Zie `MONETISATIE-EN-AFFILIATE-FIXES.md` voor het volledige overzicht.
 
 Zie `PUBLICATIEPLAN-8-WEKEN.md` voor het volledige schema.
 
-| Status | Aantal |
-|--------|--------|
-| ✅ Klaar voor publicatie | 48 |
-| 🔧 Automatisch gefixt (nu klaar) | 3 |
-| ⚠️ Handmatige check vereist | 7 |
+| Status | Ronde 1 | Ronde 2 |
+|--------|---------|---------|
+| ✅ Klaar voor publicatie | 48 | 58 |
+| 🔧 Automatisch gefixt (nu klaar) | 3 | 0 (alle gevalideerd) |
+| ⚠️ Handmatige check vereist | 7 | 0 (alle opgelost) |
 
 ### Artikelen die handmatige check vereisen (vóór publicatie)
 
@@ -203,4 +207,5 @@ Zie `PUBLICATIEPLAN-8-WEKEN.md` voor het volledige schema.
 ---
 
 *Rapport gegenereerd: 9 maart 2026*
+*Ronde 2 (prijsverificatie + validatie): 9 maart 2026*
 *Volgende review aanbevolen: 1 april 2026 (na eerste batch reviews live)*

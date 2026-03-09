@@ -168,7 +168,7 @@ Nog beter: als starter krijg je e-Boekhouden 15 maanden gratis. Dan is je eerste
 
 | Tool | Pakket | Kosten |
 |---|---|---|
-| Boekhouding + facturatie + uren | Moneybird S | €15/mnd |
+| Boekhouding + facturatie + uren | Moneybird Starter | €15/mnd |
 | CRM | HubSpot gratis | €0 |
 | Offertes | Moneybird (ingebouwd) | €0 |
 | Projectmanagement | Notion gratis | €0 |
@@ -180,7 +180,7 @@ Nog beter: als starter krijg je e-Boekhouden 15 maanden gratis. Dan is je eerste
 
 | Tool | Pakket | Kosten |
 |---|---|---|
-| Boekhouding + facturatie | Moneybird M | €28/mnd |
+| Boekhouding + facturatie | Moneybird Growth | €28/mnd |
 | Urenregistratie | Toggl Track Starter | €9/mnd |
 | CRM | Pipedrive Lite | ~$14/gebruiker/mnd |
 | Projectmanagement | Monday.com | €9/mnd |
@@ -205,10 +205,10 @@ Nog beter: als starter krijg je e-Boekhouden 15 maanden gratis. Dan is je eerste
 | Jouw situatie | Boekhouding | CRM | Extra tools |
 |---|---|---|---|
 | **Net gestart, budget is krap** | e-Boekhouden (gratis 15 mnd) | HubSpot gratis | Toggl gratis, Notion gratis |
-| **Freelancer, op uurbasis** | Moneybird S (€15) | HubSpot gratis | Toggl Track, Calendly |
-| **ZZP'er met veel klanten** | Moneybird M (€28) | Pipedrive Lite (~$14) | Monday.com, PandaDoc |
+| **Freelancer, op uurbasis** | Moneybird Starter (€15) | HubSpot gratis | Toggl Track, Calendly |
+| **ZZP'er met veel klanten** | Moneybird Growth (€28) | Pipedrive Lite (~$14) | Monday.com, PandaDoc |
 | **Creatieve ZZP'er (design, foto)** | Rompslomp (€12,50) | HubSpot gratis | Notion, Wix (portfolio) |
-| **Consultant met groeiambities** | Exact Online (€39) | HubSpot Pro | Monday.com, Calendly Pro |
+| **Consultant met groeiambities** | Exact Online (€49) | HubSpot Pro | Monday.com, Calendly Pro |
 
 Het belangrijkste: begin met het minimum en bouw uit. Je hebt op dag 1 echt alleen boekhoudsoftware nodig. De rest komt vanzelf als je groeit. En overstappen kan altijd — je zit nergens aan vast. Ben je klaar om te vergaderen met klanten via videobellen? Lees mijn overzicht van de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/).
 

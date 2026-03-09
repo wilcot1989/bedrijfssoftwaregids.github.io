@@ -19,7 +19,7 @@ faq:
   - q: "Wat is het verschil tussen Exact Online en Twinfield?"
     a: "Exact Online is een breder platform dat naast boekhouding ook CRM, voorraad en projectmanagement biedt. Twinfield is puurder gericht op financiële administratie en blinkt uit in multi-administratie, consolidatie en accountant-samenwerking. Exact Online is populairder bij het MKB, Twinfield bij accountantskantoren."
   - q: "Wat kost Exact Online per maand?"
-    a: "Exact Online Boekhouden kost €48/maand voor 1 gebruiker. Extra gebruikers kosten €30-€40/maand. Het uitgebreidere Handel+ pakket kost €89/maand voor 3 gebruikers. De Manufacturing-editie start vanaf €129/maand."
+    a: "Exact Online Boekhouden Essentials kost €49/maand (1 gebruiker, 1 administratie, 25 facturen). Het Plus-pakket kost €99/maand (2 gebruikers, 5 bankkoppelingen). Het Professional-pakket kost €159/maand (2 gebruikers, onbeperkt). Het Premium-pakket start vanaf €299/maand (multi-company)."
   - q: "Wat kost Twinfield per maand?"
     a: "Twinfield Extra Boekhouden kost €42/maand voor 1 administratie. Twinfield MKB Boekhouden kost €59/maand met meer functies. Het uitgebreidere Twinfield Compleet Boekhouden pakket kost €88/maand. Multi-administratie pakketten starten vanaf €112/maand."
   - q: "Welke software gebruiken de meeste accountants?"
@@ -43,7 +43,7 @@ Bekijk ook onze [Exact Online Review 2026](/blog/exact-online-review-2026/) voor
 |---------|-------------|-----------|
 | **Trustpilot** | 2.7/5 (644 reviews) | 1.8/5 (17 reviews) |
 | **Eigenaar** | Exact (Nederlands) | Wolters Kluwer (Nederlands) |
-| **Startprijs** | €48/mnd | €42/mnd |
+| **Startprijs** | €49/mnd | €42/mnd |
 | **Gratis proef** | 30 dagen | 30 dagen |
 | **Beste voor** | MKB dat méér wil dan boekhouding | Bedrijven met financiële focus |
 | **CRM** | ✅ Ingebouwd | ❌ Niet beschikbaar |
@@ -62,10 +62,10 @@ Bekijk ook onze [Exact Online Review 2026](/blog/exact-online-review-2026/) voor
 
 | Plan | Prijs/mnd | Gebruikers | Kernfuncties |
 |------|----------|------------|--------------|
-| **Boekhouden** | €48 | 1 | Boekhouding, facturatie, bankrekonciliatie |
-| **Handel+** | €89 | 3 | + CRM, voorraad, inkoop, verkoop |
-| **Manufacturing** | €129 | 3 | + Productie, stuklijsten |
-| **Extra gebruiker** | €30-€40 | Per stuk | Afhankelijk van plan |
+| **Essentials** | €49 | 1, 1 adm., 25 facturen | Boekhouding, facturatie, bankrekonciliatie |
+| **Plus** | €99 | 2, 5 bankkoppelingen | + Meer gebruikers, factuurvolume |
+| **Professional** | €159 | 2, onbeperkt | + Onbeperkte functies |
+| **Premium** | Vanaf €299 | 2+, multi-company | + Multi-company |
 
 ### Twinfield prijzen (2026)
 
@@ -81,22 +81,22 @@ Bekijk ook onze [Exact Online Review 2026](/blog/exact-online-review-2026/) voor
 
 | Scenario | Exact Online | Twinfield |
 |----------|-------------|-----------|
-| Basis boekhouding (1 user) | €576/jaar (€48/mnd) | €504/jaar (€42/mnd) |
-| Boekhouding + extra functies (3 users) | €2.268/jaar (€189/mnd) | €1.056/jaar (€88/mnd) |
-| Multi-administratie (3 admin.) | €1.728/jaar (3× €48/mnd) | €1.344/jaar (€112/mnd) |
+| Basis boekhouding (1 user) | €588/jaar (€49/mnd) | €504/jaar (€42/mnd) |
+| Boekhouding + extra functies (2 users) | €1.188/jaar (€99/mnd) | €1.056/jaar (€88/mnd) |
+| Multi-administratie (3 admin.) | €1.764/jaar (3× €49/mnd) | €1.344/jaar (€112/mnd) |
 
 ### Wat betaal je echt? Drie praktijkscenario's
 
 Die tabellen zijn handig, maar ik merk dat klanten pas schrikken als ze hun eigen situatie doorrekenen. Drie scenario's uit mijn praktijk:
 
 **Scenario 1: ZZP'er met een BV**
-Eén administratie, één gebruiker, basis boekhouding. Exact Online Boekhouden: €48/maand (€576/jaar). Twinfield Extra Boekhouden: €42/maand (€504/jaar). Verschil: €72 per jaar. Eerlijk gezegd maakt dat niet uit — kies op functionaliteit, niet op deze paar tientjes.
+Eén administratie, één gebruiker, basis boekhouding. Exact Online Essentials: €49/maand (€588/jaar). Twinfield Extra Boekhouden: €42/maand (€504/jaar). Verschil: €84 per jaar. Eerlijk gezegd maakt dat niet uit — kies op functionaliteit, niet op deze paar tientjes.
 
-**Scenario 2: Groeibedrijf met 5 gebruikers**
-Dit is waar het interessant wordt. Bij Exact Online betaal je €48 voor de eerste gebruiker plus 4 extra à €35 = €188/maand (€2.256/jaar). Bij Twinfield MKB Boekhouden met extra gebruikers zit je op vergelijkbare bedragen, maar krijg je geavanceerdere rapportages standaard mee. De les: vraag altijd een offerte aan voor 5+ gebruikers, want beide partijen geven korting bij grotere teams.
+**Scenario 2: Groeibedrijf met meerdere gebruikers**
+Dit is waar het interessant wordt. Exact Online Plus (€99/maand) dekt 2 gebruikers; Professional (€159/maand) dekt ook 2 gebruikers maar met onbeperkte functies. Bij Twinfield MKB Boekhouden met extra gebruikers zit je op vergelijkbare bedragen, maar krijg je geavanceerdere rapportages standaard mee. De les: vraag altijd een offerte aan voor 5+ gebruikers, want beide partijen geven korting bij grotere teams.
 
 **Scenario 3: Holdingstructuur met 3 administraties**
-Hier wordt Twinfield de duidelijke winnaar. Exact Online rekent per administratie een apart abonnement: 3 × €48 = €144/maand (€1.728/jaar). Twinfield Multi dekt 5 administraties voor €112/maand (€1.344/jaar). Dat is €384 per jaar verschil. Bij 10 administraties — niet ongewoon bij accountantskantoren — loopt dat verschil op tot duizenden euro's per jaar. Ik heb een accountantskantoor in Breda begeleid dat van Exact naar Twinfield switchte puur om deze reden. Ze bespaarden €4.200 per jaar.
+Hier wordt Twinfield de duidelijke winnaar. Exact Online rekent per administratie een apart abonnement: 3 × €49 = €147/maand (€1.764/jaar). Twinfield Multi dekt 5 administraties voor €112/maand (€1.344/jaar). Dat is €420 per jaar verschil. Bij 10 administraties — niet ongewoon bij accountantskantoren — loopt dat verschil op tot duizenden euro's per jaar. Ik heb een accountantskantoor in Breda begeleid dat van Exact naar Twinfield switchte puur om deze reden. Ze bespaarden aanzienlijk op jaarbasis.
 
 **Conclusie kosten:** Twinfield is goedkoper bij vergelijkbare functionaliteit, met name bij extra functies en multi-administratie. Bij meerdere administraties is Twinfield aanzienlijk voordeliger doordat het multi-administratie als kernfunctie aanbiedt.
 
@@ -244,10 +244,10 @@ Hier is het antwoord kort: Twinfield, zonder twijfel. Het Multi-pakket of Consol
 Exact Online. Punt. De koppelingen met WooCommerce, Shopify en Bol.com zijn klaar-voor-gebruik. Bestellingen, voorraad en facturen synchroniseren automatisch. Een klant in de sportartikelen — drie man sterk, 200 bestellingen per dag — draait al twee jaar op Exact Online zonder één handmatige import. Bij Twinfield zou dat CSV-exports en handmatig invoerwerk zijn geworden.
 
 **Een ZZP'er die groeit naar een kleine BV**
-Als je net je eerste medewerker aanneemt en naast factureren ook salarisadministratie en btw-aangifte wilt regelen: Exact Online Boekhouden (€48/maand) of Twinfield Extra Boekhouden (€42/maand). Verschil is klein. Kies Exact als je later wilt doorgroeien naar CRM of voorraadbeheer. Kies Twinfield als je accountant er al mee werkt — dan houd je de samenwerking eenvoudig.
+Als je net je eerste medewerker aanneemt en naast factureren ook salarisadministratie en btw-aangifte wilt regelen: Exact Online Essentials (€49/maand) of Twinfield Extra Boekhouden (€42/maand). Verschil is klein. Kies Exact als je later wilt doorgroeien naar CRM of voorraadbeheer. Kies Twinfield als je accountant er al mee werkt — dan houd je de samenwerking eenvoudig.
 
 **Wat als je een team van 10 hebt?**
-Bij 10 medewerkers wordt de totaalrekening serieuzers. Bij Exact Online Handel+ (€89 basis voor 3 gebruikers + 7 extra à €35) kom je op €89 + 7 × €35 = €334/maand (€4.008/jaar). Bij Twinfield MKB Boekhouden met 10 gebruikers liggen de prijzen in een vergelijkbare bandbreedte, maar vraag altijd een maatofferte — bij 10 gebruikers geven beide leveranciers doorgaans korting. De sleutel is niet de basisprijs maar de vraag: welke modules heb je echt nodig? Wil je voorraadbeheer? Dan is Exact goedkoper dan Twinfield + een los voorraadbeheer-systeem. Wil je puur boekhouden met geavanceerde rapportages? Dan is Twinfield de logischere keuze.
+Bij 10 medewerkers wordt de totaalrekening serieuzer. Exact Online Professional (€159/maand, 2 gebruikers) of Premium (vanaf €299/maand voor multi-company) zijn de logische keuzes. Bij Twinfield MKB Boekhouden met 10 gebruikers liggen de prijzen in een vergelijkbare bandbreedte, maar vraag altijd een maatofferte — bij 10 gebruikers geven beide leveranciers doorgaans korting. De sleutel is niet de basisprijs maar de vraag: welke modules heb je echt nodig? Wil je voorraadbeheer? Dan is Exact goedkoper dan Twinfield + een los voorraadbeheer-systeem. Wil je puur boekhouden met geavanceerde rapportages? Dan is Twinfield de logischere keuze.
 
 ## Veelgemaakte fouten bij de keuze tussen Exact en Twinfield
 
@@ -255,11 +255,11 @@ Na jaren klanten begeleiden bij deze keuze zie ik steeds dezelfde misstappen:
 
 1. **Kiezen omdat je accountant het zegt, zonder zelf te testen.** Ja, de voorkeur van je accountant telt mee. Maar ik heb bedrijven gezien die op advies van hun boekhouder Twinfield kozen, terwijl ze eigenlijk voorraadbeheer en CRM nodig hadden. Dan zit je na een half jaar alsnog met twee losse systemen. Vraag je accountant *waarom* zij een voorkeur hebben, en weeg dat af tegen jouw eigen workflow.
 
-2. **Multi-administratie onderschatten bij Exact Online.** Ondernemers met twee BV's denken vaak: "Ach, dat regelen we wel." Bij Exact betaal je per administratie een volledig abonnement. Een klant van mij met een holding en drie werk-BV's betaalde €192/maand aan Exact-licenties. Bij Twinfield was dat €112/maand geweest. Reken dit vooraf door.
+2. **Multi-administratie onderschatten bij Exact Online.** Ondernemers met twee BV's denken vaak: "Ach, dat regelen we wel." Bij Exact betaal je per administratie een volledig abonnement. Een klant van mij met een holding en drie werk-BV's betaalde meer dan €196/maand aan Exact-licenties (4 × €49). Bij Twinfield was dat €112/maand geweest. Reken dit vooraf door.
 
 3. **Twinfield kiezen terwijl je eigenlijk een bedrijfsplatform nodig hebt.** Twinfield is fantastisch voor financiële administratie. Maar als je ook voorraad wilt bijhouden, offertes wilt maken en klantrelaties wilt managen, dan plak je al snel drie losse tools aan elkaar. Exact Online bundelt dat. Die integratie bespaart tijd en voorkomt fouten.
 
-4. **Niet doorrekenen wat add-ons kosten.** Beide pakketten hebben aanvullende modules. Exact Online's projectmanagement zit in het Handel+ plan (€89/maand). Twinfield's Scan & Herken kost extra. Maak een lijst van wat je echt nodig hebt en vraag een totaalofferte — niet alleen de basisprijs.
+4. **Niet doorrekenen wat add-ons kosten.** Beide pakketten hebben aanvullende modules. Exact Online's uitgebreidere functies zitten in Plus (€99/maand) of Professional (€159/maand). Twinfield's Scan & Herken kost extra. Maak een lijst van wat je echt nodig hebt en vraag een totaalofferte — niet alleen de basisprijs.
 
 ---
 

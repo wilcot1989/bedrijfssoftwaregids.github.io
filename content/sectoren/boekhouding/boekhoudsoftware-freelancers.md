@@ -19,11 +19,11 @@ faq:
   - q: "Hoe verwerk ik BTW-verlegd voor buitenlandse klanten als freelancer?"
     a: "Bij Moneybird stel je per klant in of BTW-verlegd of 0% BTW van toepassing is, afhankelijk van of de klant binnen of buiten de EU zit. Het systeem berekent automatisch of je de ICP-opgave moet doen. e-Boekhouden.nl ondersteunt dit ook, maar heeft een minder intuatieve interface voor meervaluta-facturatie."
   - q: "Kan ik uren bijhouden in mijn boekhoudsoftware als freelancer?"
-    a: "Moneybird heeft een ingebouwde urenregistratie in het Medium-plan waarmee je direct factureert op basis van gewerkte uren. Voor uitgebreider projectbeheer is een aparte tool als Toggl beter. Yuki en e-Boekhouden.nl hebben geen eigen urenregistratie; daarvoor heb je een externe koppeling nodig."
+    a: "Moneybird heeft een ingebouwde urenregistratie in het Growth-plan waarmee je direct factureert op basis van gewerkte uren. Voor uitgebreider projectbeheer is een aparte tool als Toggl beter. Yuki en e-Boekhouden.nl hebben geen eigen urenregistratie; daarvoor heb je een externe koppeling nodig."
   - q: "Moet ik als freelancer een boekhouder inschakelen?"
     a: "Niet verplicht, maar wel verstandig voor je jaarlijkse aangifte inkomstenbelasting. Met Moneybird of e-Boekhouden.nl doe je zelf de dagelijkse administratie en BTW-aangifte, en schakel je een boekhouder in voor de jaaropgave. Yuki is een all-in-one waarbij de boekhouder standaard inbegrepen is."
   - q: "Wat is het verschil tussen boekhoudsoftware voor freelancers en ZZP'ers?"
-    a: "Als freelancer werk je projectmatig met wisselende opdrachtgevers, soms internationaal, en heb je behoefte aan urenregistratie en projectfacturatie. Een ZZP'er heeft doorgaans een eenvoudigere facturatiestructuur. Freelancers profiteren meer van tools met meervaluta-ondersteuning en urenregistratie, zoals Moneybird Medium."
+    a: "Als freelancer werk je projectmatig met wisselende opdrachtgevers, soms internationaal, en heb je behoefte aan urenregistratie en projectfacturatie. Een ZZP'er heeft doorgaans een eenvoudigere facturatiestructuur. Freelancers profiteren meer van tools met meervaluta-ondersteuning en urenregistratie, zoals Moneybird Growth."
 ---
 
 {{< sector-cta-boekhouding >}}
@@ -52,13 +52,13 @@ Moneybird ondersteunt meervaluta-facturatie, internationale BTW-regels en automa
 - Meervaluta-facturatie (euro, dollar, pond en meer)
 - BTW-verlegd en 0% BTW voor internationale klanten correct verwerken
 - Offertes sturen en laten accorderen, daarna direct omzetten naar factuur
-- Urenregistratie per project via de ingebouwde tijdregistratie (Medium-plan)
+- Urenregistratie per project via de ingebouwde tijdregistratie (Growth-plan)
 - Terugkerende facturen voor retainer-klanten
 - Snelle bankkoppeling en automatische transactieverwerking
 
 **Wat ontbreekt:** De urenregistratie is eenvoudig; voor uitgebreid projectbeheer is een aparte tool als Toggl of Harvest beter.
 
-**Prijs:** Small: EUR 12 per maand. Medium (met urenregistratie): EUR 24 per maand.
+**Prijs:** Starter: EUR 15 per maand. Growth (met urenregistratie): EUR 28 per maand.
 
 <a href="https://www.moneybird.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Moneybird</a>
 
@@ -108,13 +108,13 @@ Veel freelancers hebben een externe boekhouder die ze eenmaal per kwartaal helpt
 
 | Software | Prijs per maand | Meervaluta | Urenregistratie | Boekhouder inbegrepen | Internationale BTW |
 |----------|----------------|-----------|----------------|----------------------|-------------------|
-| Moneybird | EUR 24 | Ja | Ja (Medium) | Nee | Ja |
+| Moneybird | EUR 28 | Ja | Ja (Growth) | Nee | Ja |
 | Yuki | EUR 35 | Ja | Nee | Ja | Ja |
 | e-Boekhouden.nl | EUR 8,95 | Beperkt | Nee | Nee | Ja |
 
 ## Mijn advies
 
-- **Freelancer met internationale klanten en eigen administratie:** Moneybird Medium -- de combinatie van meervaluta, urenregistratie en moderne interface is lastig te evenaren.
+- **Freelancer met internationale klanten en eigen administratie:** Moneybird Growth -- de combinatie van meervaluta, urenregistratie en moderne interface is lastig te evenaren.
 - **Freelancer die geen tijd heeft voor administratie:** Yuki -- je betaalt meer, maar je koopt ook tijd terug.
 - **Freelancer met vaste externe boekhouder en simpele administratie:** e-Boekhouden.nl -- solide en goedkoop.
 

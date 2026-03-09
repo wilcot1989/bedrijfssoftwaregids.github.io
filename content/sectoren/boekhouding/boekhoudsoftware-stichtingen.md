@@ -15,7 +15,7 @@ faq:
   - q: "Welke boekhoudsoftware is het beste voor een stichting in Nederland?"
     a: "Voor kleine tot middelgrote stichtingen met een externe accountant is Exact Online de meest praktische keuze: breed ondersteund en voldoende functioneel voor fondsadministratie via projecten. Stichtingen met complexe subsidiestromen kiezen voor Twinfield. Grotere non-profitorganisaties met eigen HR vallen terug op AFAS non-profit."
   - q: "Wat kost boekhoudsoftware voor een stichting?"
-    a: "Exact Online Accounting kost EUR 44 per maand. Twinfield begint bij EUR 55 per maand. AFAS non-profit wordt op aanvraag geprijsd, typisch EUR 80 tot EUR 160 per gebruiker per maand afhankelijk van modules. Implementatiekosten komen daar nog bovenop."
+    a: "Exact Online Accounting kost EUR 49 per maand. Twinfield begint bij EUR 55 per maand. AFAS non-profit wordt op aanvraag geprijsd, typisch EUR 80 tot EUR 160 per gebruiker per maand afhankelijk van modules. Implementatiekosten komen daar nog bovenop."
   - q: "Hoe registreer ik subsidies en fondsen in mijn boekhoudsoftware?"
     a: "In Exact Online gebruik je projecten en kostenplaatsen om subsidies en fondsen apart bij te houden en te verantwoorden. Twinfield gebruikt een dimensionele opzet waarbij fonds, project en activiteit combineerbaar zijn in één boeking. AFAS non-profit heeft een specifieke subsidiemanagementmodule inclusief verantwoordingsrapportages."
   - q: "Wat zijn de boekhoudverplichtingen voor een ANBI-stichting?"
@@ -58,7 +58,7 @@ Exact Online is het meest gebruikte boekhoudpakket voor Nederlandse stichtingen 
 
 **Wat ontbreekt:** Geen specifieke ANBI-module out-of-the-box; fondsadministratie vereist maatwerk in de configuratie.
 
-**Prijs:** Exact Online Accounting: EUR 44 per maand. Meerdere gebruikers en extra modules kosten extra.
+**Prijs:** Exact Online Accounting: EUR 49 per maand. Meerdere gebruikers en extra modules kosten extra.
 
 <a href="https://www.exact.com/nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Exact Online</a>
 
@@ -108,7 +108,7 @@ AFAS is in de zorg- en welzijnssector een veelgebruikt systeem en richt zich spe
 
 | Software | Prijs per maand | Fondsadministratie | ANBI-ondersteuning | Salarisadministratie | Accountantsintegratie |
 |----------|----------------|-------------------|--------------------|---------------------|----------------------|
-| Exact Online | EUR 44+ | Via projecten | Beperkt | Via module | Uitstekend |
+| Exact Online | EUR 49+ | Via projecten | Beperkt | Via module | Uitstekend |
 | Twinfield | EUR 55+ | Via dimensies | Beperkt | Nee (extern) | Uitstekend |
 | AFAS | Op aanvraag | Ja (non-profit) | Ja | Ingebouwd | Goed |
 

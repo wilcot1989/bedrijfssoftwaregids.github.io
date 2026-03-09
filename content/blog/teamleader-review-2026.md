@@ -209,7 +209,7 @@ De vraag die ik het vaakst hoor: "Moet ik Teamleader nemen of een combinatie van
 
 | Kenmerk | Teamleader Focus | Pipedrive | HubSpot CRM | Exact Online |
 |---|---|---|---|---|
-| **Startprijs** | €30/gebruiker/mnd | €14,90/gebruiker/mnd | Gratis (beperkt) | €48/mnd |
+| **Startprijs** | €30/gebruiker/mnd | €14,90/gebruiker/mnd | Gratis (beperkt) | €49/mnd |
 | **CRM** | Goed | Uitstekend | Uitstekend | Basis |
 | **Offertes** | Uitstekend | Basis | Goed | Goed |
 | **Facturatie** | Goed (GROW) | Nee (add-on) | Nee | Uitstekend |

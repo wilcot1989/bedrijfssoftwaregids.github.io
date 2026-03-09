@@ -85,7 +85,7 @@ Geen verborgen kosten, geen extra modules die je apart moet bijkopen. Dat is een
 
 Dit is het aanbod waar ik elke starter op wijs. Als je KvK-inschrijving minder dan 15 maanden oud is, gebruik je e-Boekhouden volledig gratis. Geen creditcard nodig, geen automatische verlenging naar een betaald plan. Na 15 maanden beslis je zelf of je doorgaat.
 
-Ter vergelijking: Moneybird biedt een gratis plan met maximaal 10 facturen per jaar (onbruikbaar voor een actieve ondernemer). Jortt heeft een beperkte gratis versie zonder bankkoppeling. De startersregeling van e-Boekhouden is veruit het meest genereus.
+Ter vergelijking: Moneybird biedt een gratis plan met maximaal 3 facturen per maand (onbruikbaar voor een actieve ondernemer). Jortt heeft een beperkte gratis versie zonder bankkoppeling. De startersregeling van e-Boekhouden is veruit het meest genereus.
 
 Wil je precies berekenen wat e-Boekhouden jou per jaar kost ten opzichte van alternatieven? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een vergelijking op basis van jouw situatie.
 
@@ -94,12 +94,12 @@ Wil je precies berekenen wat e-Boekhouden jou per jaar kost ten opzichte van alt
 | Software | Vergelijkbaar pakket | Prijs/maand | Prijs/jaar | Verschil t.o.v. e-Boekhouden |
 |---|---|---|---|---|
 | **e-Boekhouden** | ZZP | €9,95 | €119 | — |
-| **Moneybird** | Pakket 20 | €15 | €180 | +€61/jaar |
-| **Moneybird** | Pakket 50 | €28 | €336 | +€217/jaar |
+| **Moneybird** | Starter | €15 | €180 | +€61/jaar |
+| **Moneybird** | Growth | €28 | €336 | +€217/jaar |
 | **Jortt** | Compleet | €9,00 | €108 | -€11/jaar |
-| **Exact Online** | Boekhouden Essentials | €48 | €576 | +€457/jaar |
+| **Exact Online** | Essentials | €49 | €588 | +€469/jaar |
 
-Het instapmodel van e-Boekhouden (€9,95) is goedkoper dan Moneybird Pakket 20 (€15), en je krijgt er meer voor: volledige BTW-aangifte, uitgebreidere rapportages en telefonische support. Dat maakt het netto een betere deal.
+Het instapmodel van e-Boekhouden (€9,95) is goedkoper dan Moneybird Starter (€15), en je krijgt er meer voor: volledige BTW-aangifte, uitgebreidere rapportages en telefonische support. Dat maakt het netto een betere deal.
 
 
 ## De interface: functioneel, niet fancy
@@ -164,7 +164,7 @@ Dit is waar e-Boekhouden boven Moneybird uitstijgt. Standaard inbegrepen in elk 
 - **Debiteuren- en crediteurenoverzicht** — wie moet jou nog betalen, en wie moet jij betalen
 - **Jaarrekening** — bruikbaar voor je boekhouder of de KvK
 
-Bij Moneybird zitten alle rapportages al in elk betaald pakket, maar de betaalde pakketten starten pas bij €15/maand (Pakket 20). Bij e-Boekhouden zit alles in het basispakket. Voor ondernemers die regelmatig hun financiële gezondheid willen checken zonder extra te betalen, is dat een serieus voordeel.
+Bij Moneybird zitten alle rapportages al in elk betaald pakket, maar de betaalde pakketten starten pas bij €15/maand (Starter). Bij e-Boekhouden zit alles in het basispakket. Voor ondernemers die regelmatig hun financiële gezondheid willen checken zonder extra te betalen, is dat een serieus voordeel.
 
 Wat ik mis: visuele dashboards. De rapportages zijn degelijk maar presenteren data vooral in tabellen. Een grafiek die mijn omzettrend laat zien of een cashflow-prognose — dat zou het compleet maken. Exact Online doet dit beter, maar kost dan ook drie keer zoveel.
 
@@ -299,8 +299,8 @@ Na jaren ondernemers te adviseren, zie ik steeds dezelfde fouten:
 
 | Kenmerk | e-Boekhouden | Moneybird | Exact Online |
 |---|---|---|---|
-| **Startprijs/mnd** | €9,95 | €15 (Pakket 20) | €48 |
-| **Onbeperkt pakket** | €14,50/mnd | €28/mnd (Pakket 50) | €48/mnd |
+| **Startprijs/mnd** | €9,95 | €15 (Starter) | €49 |
+| **Onbeperkt pakket** | €14,50/mnd | €28/mnd (Growth) | €49/mnd (Essentials) |
 | **Gratis voor starters** | 15 maanden | Nee (wel gratis plan, zeer beperkt) | Nee |
 | **Interface** | Functioneel, traditioneel | Modern, intuïtief | Uitgebreid, complex |
 | **Mobiele app** | Basis | Uitstekend | Gemiddeld |
