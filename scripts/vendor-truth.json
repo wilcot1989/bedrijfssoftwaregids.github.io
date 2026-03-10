@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Vendor-truth database — single source of truth voor prijzen, pakketnamen en Trustpilot scores",
-    "last_full_check": "2026-03-09",
+    "last_full_check": "2026-03-10",
     "generated_by": "check-vendor-prices.py",
     "product_count": 136
   },
@@ -38,7 +38,7 @@
       "trustpilot": {
         "score": 3.4,
         "count": 184,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -72,9 +72,9 @@
         }
       ],
       "trustpilot": {
-        "score": 2.7,
-        "count": 644,
-        "checked": "2026-03-09"
+        "score": 2.6,
+        "count": 645,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -103,8 +103,8 @@
       ],
       "trustpilot": {
         "score": 4.6,
-        "count": 1889,
-        "checked": "2026-03-09"
+        "count": 1894,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -135,7 +135,7 @@
       "trustpilot": {
         "score": 4.6,
         "count": 2175,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -165,7 +165,7 @@
       "trustpilot": {
         "score": 1.8,
         "count": 17,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -195,8 +195,8 @@
       ],
       "trustpilot": {
         "score": 3.9,
-        "count": 989,
-        "checked": "2026-03-09"
+        "count": 990,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -221,15 +221,15 @@
         },
         {
           "name": "Compleet",
-          "price_monthly": 15.00,
+          "price_monthly": 15.0,
           "billing": "annual",
           "note": "jaarlijks, €17,50 maandelijks"
         }
       ],
       "trustpilot": {
-        "score": 3.5,
-        "count": 0,
-        "checked": "2026-03-09"
+        "score": 4.1,
+        "count": 36,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -257,9 +257,9 @@
         }
       ],
       "trustpilot": {
-        "score": 4.3,
-        "count": 113,
-        "checked": "2026-03-09"
+        "score": 4.4,
+        "count": 114,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -288,8 +288,8 @@
       ],
       "trustpilot": {
         "score": 4.7,
-        "count": 186,
-        "checked": "2026-03-09"
+        "count": 187,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -319,7 +319,7 @@
       "trustpilot": {
         "score": 2.0,
         "count": 46,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -362,8 +362,8 @@
       ],
       "trustpilot": {
         "score": 1.3,
-        "count": 4356,
-        "checked": "2026-03-09"
+        "count": 4360,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -384,7 +384,7 @@
       "trustpilot": {
         "score": 1.9,
         "count": 132,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -415,7 +415,7 @@
       "trustpilot": {
         "score": 3.7,
         "count": 1149,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -435,7 +435,7 @@
       "trustpilot": {
         "score": 3.0,
         "count": 15,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -498,7 +498,7 @@
       "trustpilot": {
         "score": 1.3,
         "count": 448,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -529,8 +529,8 @@
       ],
       "trustpilot": {
         "score": 1.8,
-        "count": 1054,
-        "checked": "2026-03-09"
+        "count": 1055,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -541,12 +541,35 @@
       "pricing_url": "https://www.hubspot.com/pricing/service",
       "trustpilot_slug": "www.hubspot.com",
       "plans": [
-        { "name": "Free", "price_monthly": 0, "billing": "monthly" },
-        { "name": "Starter", "price_monthly": 9, "billing": "annual", "note": "Per seat, USD" },
-        { "name": "Professional", "price_monthly": 90, "billing": "annual", "note": "Per seat, USD" },
-        { "name": "Enterprise", "price_monthly": 150, "billing": "annual", "note": "Per seat, min. 10 seats, USD" }
+        {
+          "name": "Free",
+          "price_monthly": 0,
+          "billing": "monthly"
+        },
+        {
+          "name": "Starter",
+          "price_monthly": 9,
+          "billing": "annual",
+          "note": "Per seat, USD"
+        },
+        {
+          "name": "Professional",
+          "price_monthly": 90,
+          "billing": "annual",
+          "note": "Per seat, USD"
+        },
+        {
+          "name": "Enterprise",
+          "price_monthly": 150,
+          "billing": "annual",
+          "note": "Per seat, min. 10 seats, USD"
+        }
       ],
-      "trustpilot": { "score": 1.8, "count": 1054, "checked": "2026-03-09" },
+      "trustpilot": {
+        "score": 1.8,
+        "count": 1055,
+        "checked": "2026-03-10"
+      },
       "verified": "2026-03-09"
     },
     {
@@ -589,8 +612,8 @@
       ],
       "trustpilot": {
         "score": 4.5,
-        "count": 3231,
-        "checked": "2026-03-09"
+        "count": 3233,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -623,7 +646,7 @@
       "trustpilot": {
         "score": 2.7,
         "count": 3388,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -656,7 +679,7 @@
       "trustpilot": {
         "score": 1.5,
         "count": 612,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -689,7 +712,7 @@
       "trustpilot": {
         "score": 4.4,
         "count": 266,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -721,8 +744,8 @@
       ],
       "trustpilot": {
         "score": 3.0,
-        "count": 11,
-        "checked": "2026-03-09"
+        "count": 13,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -743,7 +766,7 @@
       "trustpilot": {
         "score": 1.9,
         "count": 20,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -775,7 +798,7 @@
       "trustpilot": {
         "score": 1.5,
         "count": 285,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -807,7 +830,7 @@
       "trustpilot": {
         "score": 2.7,
         "count": 210,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -839,7 +862,7 @@
       "trustpilot": {
         "score": 3.3,
         "count": 471,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -872,7 +895,7 @@
       "trustpilot": {
         "score": 2.7,
         "count": 3388,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -899,7 +922,7 @@
       "trustpilot": {
         "score": 3.8,
         "count": 21,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -928,8 +951,8 @@
       ],
       "trustpilot": {
         "score": 4.2,
-        "count": 6902,
-        "checked": "2026-03-09"
+        "count": 6909,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -963,8 +986,8 @@
       ],
       "trustpilot": {
         "score": 2.8,
-        "count": 1351,
-        "checked": "2026-03-09"
+        "count": 1354,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -999,7 +1022,7 @@
       "trustpilot": {
         "score": 2.8,
         "count": 1358,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1028,8 +1051,8 @@
       ],
       "trustpilot": {
         "score": 4.3,
-        "count": 2801,
-        "checked": "2026-03-09"
+        "count": 2810,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1056,7 +1079,7 @@
       "trustpilot": {
         "score": 1.9,
         "count": 344,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1082,7 +1105,7 @@
       "trustpilot": {
         "score": 4.7,
         "count": 45,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1107,7 +1130,7 @@
       "trustpilot": {
         "score": 3.7,
         "count": 1149,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1132,7 +1155,7 @@
       "trustpilot": {
         "score": 3.7,
         "count": 1149,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1157,8 +1180,8 @@
       ],
       "trustpilot": {
         "score": 4.1,
-        "count": 7193,
-        "checked": "2026-03-09"
+        "count": 7195,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1178,8 +1201,8 @@
       ],
       "trustpilot": {
         "score": 3.3,
-        "count": 5546,
-        "checked": "2026-03-09"
+        "count": 5549,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1190,14 +1213,29 @@
       "pricing_url": "https://www.orderbird.com/nl/prijzen",
       "trustpilot_slug": "www.orderbird.com",
       "plans": [
-        { "name": "MINI Rolling", "price_monthly": 39, "billing": "monthly", "note": "Standalone terminal, maandelijks opzegbaar" },
-        { "name": "MINI 12 mnd", "price_monthly": 29, "billing": "annual", "note": "Standalone terminal, 12 maanden contract" },
-        { "name": "PRO", "price_monthly": 35, "billing": "monthly", "note": "iPad POS, per terminal, excl. servicelicentie" }
+        {
+          "name": "MINI Rolling",
+          "price_monthly": 39,
+          "billing": "monthly",
+          "note": "Standalone terminal, maandelijks opzegbaar"
+        },
+        {
+          "name": "MINI 12 mnd",
+          "price_monthly": 29,
+          "billing": "annual",
+          "note": "Standalone terminal, 12 maanden contract"
+        },
+        {
+          "name": "PRO",
+          "price_monthly": 35,
+          "billing": "monthly",
+          "note": "iPad POS, per terminal, excl. servicelicentie"
+        }
       ],
       "trustpilot": {
         "score": 2.4,
         "count": 30,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1208,11 +1246,30 @@
       "pricing_url": "https://untillair.nl/",
       "trustpilot_slug": "untillair.nl",
       "plans": [
-        { "name": "Basis", "price_monthly": 22, "billing": "monthly", "note": "€21,85 excl. BTW, ~€19 bij jaarbetaling" },
-        { "name": "Standaard", "price_monthly": 34, "billing": "monthly", "note": "€33,85 excl. BTW" },
-        { "name": "Horeca", "price_monthly": 45, "billing": "monthly", "note": "€44,85 excl. BTW" }
+        {
+          "name": "Basis",
+          "price_monthly": 22,
+          "billing": "monthly",
+          "note": "€21,85 excl. BTW, ~€19 bij jaarbetaling"
+        },
+        {
+          "name": "Standaard",
+          "price_monthly": 34,
+          "billing": "monthly",
+          "note": "€33,85 excl. BTW"
+        },
+        {
+          "name": "Horeca",
+          "price_monthly": 45,
+          "billing": "monthly",
+          "note": "€44,85 excl. BTW"
+        }
       ],
-      "trustpilot": { "score": null, "count": null, "checked": null },
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
       "verified": "2026-03-09"
     },
     {
@@ -1222,9 +1279,18 @@
       "pricing_url": "https://untill.nl/tarieven/",
       "trustpilot_slug": "untill.com",
       "plans": [
-        { "name": "Enterprise", "price_monthly": 0, "billing": "monthly", "note": "Offerte op maat" }
+        {
+          "name": "Enterprise",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Offerte op maat"
+        }
       ],
-      "trustpilot": { "score": null, "count": null, "checked": null },
+      "trustpilot": {
+        "score": null,
+        "count": null,
+        "checked": null
+      },
       "verified": "2026-03-09"
     },
     {
@@ -1244,7 +1310,7 @@
       "trustpilot": {
         "score": 4.0,
         "count": 265,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1265,7 +1331,7 @@
       "trustpilot": {
         "score": 4.4,
         "count": 153,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1276,15 +1342,35 @@
       "pricing_url": "https://www.nmbrs.nl/prijzen/",
       "trustpilot_slug": "www.nmbrs.com",
       "plans": [
-        { "name": "Essential 10 mw", "price_monthly": 71, "billing": "monthly", "note": "~€7,10/mw/mnd bij 10 medewerkers" },
-        { "name": "Essential 50 mw", "price_monthly": 247, "billing": "monthly", "note": "~€4,94/mw/mnd bij 50 medewerkers" },
-        { "name": "Essential 100 mw", "price_monthly": 435, "billing": "monthly", "note": "~€4,35/mw/mnd bij 100 medewerkers" },
-        { "name": "Advanced 10 mw", "price_monthly": 102, "billing": "monthly", "note": "~€10,20/mw/mnd bij 10 medewerkers" }
+        {
+          "name": "Essential 10 mw",
+          "price_monthly": 71,
+          "billing": "monthly",
+          "note": "~€7,10/mw/mnd bij 10 medewerkers"
+        },
+        {
+          "name": "Essential 50 mw",
+          "price_monthly": 247,
+          "billing": "monthly",
+          "note": "~€4,94/mw/mnd bij 50 medewerkers"
+        },
+        {
+          "name": "Essential 100 mw",
+          "price_monthly": 435,
+          "billing": "monthly",
+          "note": "~€4,35/mw/mnd bij 100 medewerkers"
+        },
+        {
+          "name": "Advanced 10 mw",
+          "price_monthly": 102,
+          "billing": "monthly",
+          "note": "~€10,20/mw/mnd bij 10 medewerkers"
+        }
       ],
       "trustpilot": {
         "score": 4.3,
-        "count": 110,
-        "checked": "2026-03-09"
+        "count": 111,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1304,8 +1390,8 @@
       ],
       "trustpilot": {
         "score": 3.3,
-        "count": 154,
-        "checked": "2026-03-09"
+        "count": 155,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1324,9 +1410,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": "2026-03-09"
+        "score": 0.0,
+        "count": 0,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1337,14 +1423,29 @@
       "pricing_url": "https://www.bamboohr.com/pricing",
       "trustpilot_slug": "www.bamboohr.com",
       "plans": [
-        { "name": "Core", "price_monthly": 9, "billing": "monthly", "note": "~$6-10 PEPM USD, per employee. Geen transparante EUR-prijzen." },
-        { "name": "Pro", "price_monthly": 12, "billing": "monthly", "note": "~$8-12 PEPM USD, per employee" },
-        { "name": "Elite", "price_monthly": 0, "billing": "monthly", "note": "Op aanvraag" }
+        {
+          "name": "Core",
+          "price_monthly": 9,
+          "billing": "monthly",
+          "note": "~$6-10 PEPM USD, per employee. Geen transparante EUR-prijzen."
+        },
+        {
+          "name": "Pro",
+          "price_monthly": 12,
+          "billing": "monthly",
+          "note": "~$8-12 PEPM USD, per employee"
+        },
+        {
+          "name": "Elite",
+          "price_monthly": 0,
+          "billing": "monthly",
+          "note": "Op aanvraag"
+        }
       ],
       "trustpilot": {
         "score": 3.1,
         "count": 125,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1382,7 +1483,7 @@
       "trustpilot": {
         "score": 3.8,
         "count": 58,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1414,7 +1515,7 @@
       "trustpilot": {
         "score": 2.4,
         "count": 63,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1445,8 +1546,8 @@
       ],
       "trustpilot": {
         "score": 2.5,
-        "count": 385,
-        "checked": "2026-03-09"
+        "count": 387,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1476,7 +1577,7 @@
       "trustpilot": {
         "score": 3.7,
         "count": 224,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1508,8 +1609,8 @@
       ],
       "trustpilot": {
         "score": 1.6,
-        "count": 694,
-        "checked": "2026-03-09"
+        "count": 695,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1538,8 +1639,8 @@
       ],
       "trustpilot": {
         "score": 3.6,
-        "count": 26626,
-        "checked": "2026-03-09"
+        "count": 26631,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1571,8 +1672,8 @@
       ],
       "trustpilot": {
         "score": 3.1,
-        "count": 2457,
-        "checked": "2026-03-09"
+        "count": 2469,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1592,8 +1693,8 @@
       ],
       "trustpilot": {
         "score": 4.4,
-        "count": 11182,
-        "checked": "2026-03-09"
+        "count": 11189,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1614,7 +1715,7 @@
       "trustpilot": {
         "score": 4.0,
         "count": 511,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1641,7 +1742,7 @@
       "trustpilot": {
         "score": 3.0,
         "count": 644,
-        "checked": "2026-03-09"
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1670,8 +1771,8 @@
       ],
       "trustpilot": {
         "score": 1.3,
-        "count": 1411,
-        "checked": "2026-03-09"
+        "count": 1413,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1814,9 +1915,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 2.6,
+        "count": 98,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1839,9 +1940,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 1.4,
+        "count": 547,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1872,9 +1973,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 1.9,
+        "count": 79,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1902,9 +2003,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 1.4,
+        "count": 335,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1965,9 +2066,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 3.4,
+        "count": 6,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -1985,9 +2086,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 1.2,
+        "count": 165,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2006,9 +2107,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 2.3,
+        "count": 12,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2039,9 +2140,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 2.1,
+        "count": 379,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2060,9 +2161,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 4.2,
+        "count": 207,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2147,9 +2248,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 1.3,
+        "count": 1489,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2168,9 +2269,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 1.2,
+        "count": 282,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2333,9 +2434,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 1.4,
+        "count": 1145,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2420,9 +2521,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 2.1,
+        "count": 9,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2495,9 +2596,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 3.2,
+        "count": 1036,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2520,9 +2621,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 4.4,
+        "count": 161,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2545,9 +2646,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 3.8,
+        "count": 101,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2788,9 +2889,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 2.4,
+        "count": 77,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2918,9 +3019,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 3.7,
+        "count": 18,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -2963,9 +3064,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 4.6,
+        "count": 143,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -3023,9 +3124,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 4.3,
+        "count": 418,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -3090,9 +3191,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 4.4,
+        "count": 759,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
@@ -3203,9 +3304,9 @@
         }
       ],
       "trustpilot": {
-        "score": null,
-        "count": null,
-        "checked": null
+        "score": 4.8,
+        "count": 842,
+        "checked": "2026-03-10"
       },
       "verified": "2026-03-09"
     },
