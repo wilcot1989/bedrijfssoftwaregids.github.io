@@ -440,7 +440,7 @@
     "automation": true,
     "crm_needed": false,
     "integrations": ["Shopify", "WooCommerce", "Zapier", "Google Analytics"],
-    "affiliate": { "type": "link", "url": "https://www.brevo.com/nl/" },
+    "affiliate": { "type": "link", "url": "https://get.brevo.com/0rdgkq6hwdei" },
     "cost": { "model": "per_user_monthly", "base": 7, "per_user": 0 }
   },
   {

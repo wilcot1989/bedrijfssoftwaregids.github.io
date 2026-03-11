@@ -382,7 +382,7 @@ Als je in een sector werkt waar dataverwerking gevoelig ligt -- denk aan zorg, f
 **4. Je budget is beperkt**
 Het gratis plan van Brevo (300 mails/dag, onbeperkt contacten) is het meest genereuze op de markt. Voor een startend bedrijf dat net begint met nieuwsbrieven is dat een perfecte start zonder financieel risico.
 
-<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar brevo.com →</a>
+<a href="https://get.brevo.com/0rdgkq6hwdei" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar brevo.com →</a>
 
 ---
 

@@ -80,7 +80,7 @@ Brevo (voorheen Sendinblue) hanteert een ander prijsmodel dan de meeste concurre
 
 **Prijs:** Gratis (300 e-mails/dag). Starter: EUR 19 per maand (20.000 e-mails/maand).
 
-<a href="https://www.brevo.com/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Brevo</a>
+<a href="https://get.brevo.com/0rdgkq6hwdei" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Brevo</a>
 
 ---
 

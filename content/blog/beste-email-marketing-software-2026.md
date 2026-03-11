@@ -17,7 +17,7 @@ aliases:
 products:
   - name: "Brevo"
     description: "E-mailmarketing platform met per-e-mail pricing, AVG-compliant EU-opslag en uitgebreide marketing automation voor elke lijstgrootte."
-    url: "https://www.brevo.com/nl/"
+    url: "https://get.brevo.com/0rdgkq6hwdei"
     price: "9.00"
     rating_value: "4.2"
     rating_count: "6894"
@@ -231,7 +231,7 @@ Wat mij ook aanspreekt: je data staat in de EU. Dat maakt het AVG-gesprek met je
 
 Meer weten? Lees mijn uitgebreide [Brevo review](/blog/brevo-review-2026/) of bekijk de [Brevo vs Mailchimp vergelijking](/blog/brevo-vs-mailchimp-2026/) voor een directe confrontatie.
 
-<a href="https://www.brevo.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar brevo.com →</a>
+<a href="https://get.brevo.com/0rdgkq6hwdei" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar brevo.com →</a>
 
 ---
 
