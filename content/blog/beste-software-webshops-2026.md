@@ -7,7 +7,7 @@ categories: ["webshops"]
 tags:
   - webshop
   - mkb
-featured_image: "/images/posts/beste-software-webshops-2026.svg"
+featured_image: "/images/categories/webshops.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 affiliate: true

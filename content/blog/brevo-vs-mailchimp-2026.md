@@ -7,7 +7,7 @@ categories: ["marketing"]
 tags:
   - marketing
   - vergelijking
-featured_image: "/images/posts/brevo-vs-mailchimp-2026.svg"
+featured_image: "/images/categories/marketing.svg"
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 affiliate: true
