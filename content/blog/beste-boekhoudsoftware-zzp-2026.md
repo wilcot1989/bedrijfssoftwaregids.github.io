@@ -47,7 +47,7 @@ products:
     rating_count: "113"
   - name: "Jortt"
     description: "Eenvoudige boekhoud- en facturatiesoftware zonder jargon voor startende ZZP'ers."
-    url: "https://www.jortt.nl/"
+    url: "https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl="
     price: "0.00"
     rating_value: "4.7"
     rating_count: "185"
@@ -305,7 +305,7 @@ Een scenario dat ik regelmatig zie: iemand begint als ZZP'er naast een baan in l
 
 Wil je later toch overstappen van Jortt naar een ander pakket? Dat is goed te doen, maar er zijn aandachtspunten. Lees mijn artikel over [boekhoudprogramma migratie: data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/) voor een stap-voor-stap aanpak zonder gegevensverlies.
 
-<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar jortt.nl →</a>
+<a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 
@@ -446,7 +446,7 @@ Na meer dan 12 jaar ZZP'ers en MKB'ers te adviseren over software, komt het voor
 
 **Als je elk dubbeltje moet omdraaien** en gewoon een compleet pakket zoekt: [e-Boekhouden.nl](https://www.e-boekhouden.nl/) levert dezelfde basisfuncties voor €9,95/maand — met de beste Trustpilot-score (4.6) en echte telefonische support. Start je net als ondernemer? Dan is het tot 15 maanden gratis.
 
-**Als je net begint en boekhouding je afschrikt**: start met [Jortt](https://www.jortt.nl/). Gratis, geen jargon, stap voor stap. Zodra je groeit, stap je in januari over naar Moneybird of e-Boekhouden.
+**Als je net begint en boekhouding je afschrikt**: start met [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=). Gratis, geen jargon, stap voor stap. Zodra je groeit, stap je in januari over naar Moneybird of e-Boekhouden.
 
 **Als je een boekhouder hebt**: kies [InformerOnline](https://www.informer.nl/). De gratis boekhouder-toegang en SBR-rapportages besparen je accountant uren — en dat merk je op de rekening.
 

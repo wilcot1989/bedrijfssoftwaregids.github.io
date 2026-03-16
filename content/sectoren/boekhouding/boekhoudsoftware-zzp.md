@@ -81,7 +81,7 @@ Jortt is ontworpen voor ZZP'ers die zo min mogelijk tijd aan hun boekhouding wil
 
 **Prijs:** Gratis basisversie (zonder bankkoppeling). Compleet: EUR 19,95 per maand (inclusief bankkoppeling en BTW-aangifte).
 
-<a href="https://www.jortt.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Jortt</a>
+<a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Jortt</a>
 
 ---
 

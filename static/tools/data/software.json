@@ -182,7 +182,7 @@
     "vat": true,
     "payroll": false,
     "bank_sync": true,
-    "affiliate": { "type": "link", "url": "https://www.jortt.nl/" },
+    "affiliate": { "type": "link", "url": "https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" },
     "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 0 }, { "up_to": 3, "price": 19.95 }, { "up_to": 10, "price": 24.95 }] }
   },
   {

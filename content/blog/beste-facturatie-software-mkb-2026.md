@@ -47,7 +47,7 @@ products:
     rating_count: "113"
   - name: "Jortt"
     description: "Slim factuurprogramma voor starters en micro-MKB met gratis plan en automatische bankkoppeling in het betaalde abonnement."
-    url: "https://www.jortt.nl/"
+    url: "https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl="
     price: "0.00"
     rating_value: "4.7"
     rating_count: "185"
@@ -411,7 +411,7 @@ Het eerlijke nadeel: Jortt is echt niet geschikt voor complexere situaties. ICL-
 - Weinig integratiemogelijkheden
 - Geen volledige grootboekadministratie
 
-<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar jortt.nl →</a>
+<a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 
@@ -562,7 +562,7 @@ Het juiste factuurprogramma bespaart je uren per week en voorkomt kostbare foute
 - **Beste samenwerking met boekhouder**: [e-Boekhouden](https://www.e-boekhouden.nl/) -- betrouwbaar platform met gratis accountantstoegang.
 - **Beste voor eenvoud**: [Rompslomp](https://www.rompslomp.nl/) -- minimale rompslomp, maximaal resultaat.
 - **Beste voor administratiekantoren**: [Informer](https://www.informer.nl/) -- professioneel platform met uitgebreide boekhoudfuncties.
-- **Beste voor starters**: [Jortt](https://www.jortt.nl/) -- gratis beginnen en opschalen wanneer je klaar bent.
+- **Beste voor starters**: [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) -- gratis beginnen en opschalen wanneer je klaar bent.
 
 Mijn advies: kies een pakket dat past bij je huidige situatie, maar dat ook ruimte biedt om te groeien. Online factureren hoeft niet ingewikkeld te zijn -- start met een gratis proefperiode en neem je boekhouder mee in de evaluatie. Let ook op e-facturatie (Peppol) ondersteuning, want dat wordt de komende jaren verplicht voor steeds meer sectoren.
 

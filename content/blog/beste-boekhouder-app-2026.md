@@ -132,7 +132,7 @@ De Jortt app is bijzonder gebruiksvriendelijk. Alles is eenvoudig en overzichtel
 - Bankkoppeling alleen in betaald plan
 - Minder professionele factuursjablonen
 
-<a href="https://www.jortt.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar jortt.nl →</a>
+<a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar jortt.nl →</a>
 
 ---
 
@@ -290,7 +290,7 @@ Update je boekhoud-app regelmatig voor de nieuwste functies en beveiligingspatch
 De beste boekhoud-app hangt af van je prioriteiten en je huidige boekhoudsoftware:
 
 - **Beste overall**: [Moneybird](https://www.moneybird.nl/) -- de sterkste combinatie van bonnetjes scannen, facturatie en gebruiksgemak op mobiel.
-- **Meest gebruiksvriendelijk**: [Jortt](https://www.jortt.nl/) -- ideaal voor starters die het zo simpel mogelijk willen houden.
+- **Meest gebruiksvriendelijk**: [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) -- ideaal voor starters die het zo simpel mogelijk willen houden.
 - **Beste voor groeiende bedrijven**: [Exact Online](https://www.exact.com/nl) -- krachtig platform met een solide mobiele aanvulling.
 - **Beste budget-optie**: [e-Boekhouden](https://www.e-boekhouden.nl/) -- basale maar functionele app tegen de laagste prijs.
 - **Beste voor internationale freelancers**: [FreshBooks](https://www.freshbooks.com/nl) -- uitstekende app met sterke urenregistratie en multi-valuta facturatie.
