@@ -38,7 +38,7 @@ Boekhoudprogramma's lopen uiteen van gratis tot €100+ per maand. Het goedkoops
 
 Klinkt voor de hand liggend. Toch zit hier het eerste grote verschilpunt.
 
-Als ZZP'er of eenmanszaak doe je je aangifte inkomstenbelasting (IB). Je administratie hoeft niet compleet dubbel te zijn. Je hebt geen formele jaarrekening nodig. Een pakket als Moneybird (€15/maand, Starter), e-Boekhouden (€9,95/maand) of Jortt doet voor jou alles wat nodig is.
+Als ZZP'er of eenmanszaak doe je je aangifte inkomstenbelasting (IB). Je administratie hoeft niet compleet dubbel te zijn. Je hebt geen formele jaarrekening nodig. Een pakket als Moneybird (€15/maand, Starter), e-Boekhouden (€9,95/maand) of [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) doet voor jou alles wat nodig is.
 
 Bij een BV ligt dat anders. Je bent wettelijk verplicht een complete boekhouding bij te houden: balans, resultatenrekening, de jaarrekening moet worden gedeponeerd bij de KvK. En als je jezelf via de BV salaris betaalt — wat bij een DGA verplicht is — heb je ook nog salarisadministratie nodig.
 

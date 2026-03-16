@@ -30,7 +30,7 @@ De markt voor boekhoudpakketten verandert sneller dan veel ondernemers beseffen.
 
 **Real-time bankkoppelingen** worden sneller en betrouwbaarder. Waar je twee jaar geleden nog dagelijkse imports had, zie je nu near-realtime synchronisatie bij de meeste grote banken. ING, Rabobank en ABN AMRO ondersteunen dit via de PSD2-koppelingen die de pakketten inmiddels goed hebben geïmplementeerd.
 
-**BTW-aangifte direct vanuit het pakket** — zonder aparte login op de Belastingdienstportal — is inmiddels voor de meeste pakketten de standaard werkwijze. Rompslomp, Jortt en Moneybird doen dit al jaren; ook kleinere spelers sluiten nu aan.
+**BTW-aangifte direct vanuit het pakket** — zonder aparte login op de Belastingdienstportal — is inmiddels voor de meeste pakketten de standaard werkwijze. Rompslomp, [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) en Moneybird doen dit al jaren; ook kleinere spelers sluiten nu aan.
 
 **UBL e-facturatie** wordt in 2026 voor zakelijke transacties steeds gebruikelijker, met name richting overheid en grotere opdrachtgevers. Controleer bij je pakketselectie of UBL-export als standaardfunctie is inbegrepen of achter een duurder abonnement zit.
 

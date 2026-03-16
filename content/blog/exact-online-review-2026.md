@@ -218,7 +218,7 @@ Twinfield is de meest directe concurrent en ik kom het vooral tegen bij accounta
 - **Webshophouders** die een betrouwbare koppeling willen met hun winkelplatform
 
 ### Minder geschikt voor:
-- **ZZP'ers met een eenvoudige administratie** -- Moneybird of Jortt is eenvoudiger en goedkoper
+- **ZZP'ers met een eenvoudige administratie** -- Moneybird of [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) is eenvoudiger en goedkoper
 - **Zeer prijsbewuste ondernemers** -- e-Boekhouden biedt meer voor minder geld bij basale behoeften
 - **Bedrijven die alleen factureren** -- een dedicated [facturatie-tool](/blog/beste-facturatie-software-mkb-2026/) is dan voldoende
 - **Techbedrijven die maximale flexibiliteit willen** -- een combinatie van gespecialiseerde tools kan beter werken

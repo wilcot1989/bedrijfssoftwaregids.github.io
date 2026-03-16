@@ -53,7 +53,7 @@ Controleer bij aanschaf expliciet of de software ICP-aangifte ondersteunt als je
 
 ## Welke software het best werkt voor jouw situatie
 
-Voor [eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/) met eenvoudige administratie voldoen tools als Moneybird, e-Boekhouden en Jortt uitstekend. Ze hebben alle BTW-rubrieken ingebouwd, koppelen met de Belastingdienst en zijn gebruiksvriendelijk genoeg om zonder boekhoudkundige achtergrond te gebruiken. De instaptijd is laag en de BTW-aangifte is na een korte inrichting reproduceerbaar in minder dan een kwartier.
+Voor [eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/) met eenvoudige administratie voldoen tools als Moneybird, e-Boekhouden en [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) uitstekend. Ze hebben alle BTW-rubrieken ingebouwd, koppelen met de Belastingdienst en zijn gebruiksvriendelijk genoeg om zonder boekhoudkundige achtergrond te gebruiken. De instaptijd is laag en de BTW-aangifte is na een korte inrichting reproduceerbaar in minder dan een kwartier.
 
 Exact Online is sterker voor complexere situaties: meerdere BTW-tarieven door elkaar, buitenlandse transacties, werknemers of situaties waarbij je ook salarisadministratie voert. De leercurve is hoger, maar de diepgang en de rapportagemogelijkheden zijn ook groter. Wie twijfelt of software de juiste keuze is ten opzichte van een externe boekhouder, vindt een kosten-batenanalyse in [Boekhoudsoftware vs boekhouder](/blog/boekhoudsoftware-vs-boekhouder-kostenvergelijking/).
 

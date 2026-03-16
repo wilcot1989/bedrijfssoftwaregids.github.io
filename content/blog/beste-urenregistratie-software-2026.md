@@ -326,7 +326,7 @@ De fout die ik het vaakst zie: een ZZP'er die Gripp aanschaft (te duur, te compl
 
 Als ZZP'er heb je primair twee behoeften: weten hoeveel uur je aan welke klant kwijt bent, en dat snel kunnen omzetten naar een factuur.
 
-Mijn aanbeveling: **Toggl Track Free** (gratis) + **Moneybird of Jortt** voor facturatie. Of, als je alles wilt combineren: **Harvest Pro** voor €10,80 per maand.
+Mijn aanbeveling: **Toggl Track Free** (gratis) + **Moneybird of [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=)** voor facturatie. Of, als je alles wilt combineren: **Harvest Pro** voor €10,80 per maand.
 
 Toggl Track Free is ideaal voor sologebruikers: de timer werkt vlekkeloos, de rapportages per klant zijn goed genoeg, en de mobiele app is één van de beste in dit segment. Meer over welke andere tools je als ZZP'er nodig hebt, lees je in het artikel over [beste software voor ZZP'ers](/blog/beste-software-zzp-2026/).
 

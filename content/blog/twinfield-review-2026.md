@@ -179,7 +179,7 @@ Toch is een score van 1,8 een signaal dat ik niet naast me neerleg. Zeker als je
 
 ### Minder geschikt voor:
 
-- **ZZP'ers en freelancers** -- te complex en te duur. Kijk naar Moneybird, e-Boekhouden of Jortt
+- **ZZP'ers en freelancers** -- te complex en te duur. Kijk naar Moneybird, e-Boekhouden of [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=)
 - **Klein MKB dat zelf de administratie wil bijhouden** -- de leercurve en gedateerde interface maken het minder aantrekkelijk
 - **Ondernemers die meerdere modules zoeken** -- wie naast boekhouding ook CRM, HRM of projectbeheer wil, is bij Exact Online beter af
 - **Bedrijven die snel en zelfstandig willen starten** -- geen transparante prijzen, geen directe aanmelding online

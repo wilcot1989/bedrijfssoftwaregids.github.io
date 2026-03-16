@@ -53,7 +53,7 @@ Prijzen en functionaliteit veranderen regelmatig. Wij controleren en actualisere
 
 ## Software per sector
 
-**ZZP'ers** hebben behoefte aan software die snel factureert, BTW-aangifte faciliteert en een koppeling heeft met de zakelijke bankrekening. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we Moneybird, Jortt en e-Boekhouden op gebruiksgemak, BTW-aangifte en prijs.
+**ZZP'ers** hebben behoefte aan software die snel factureert, BTW-aangifte faciliteert en een koppeling heeft met de zakelijke bankrekening. Op de pagina [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) vergelijken we Moneybird, [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) en e-Boekhouden op gebruiksgemak, BTW-aangifte en prijs.
 
 **Eenmanszaken** met groeiambitie hebben software nodig die meeschaalt: van eenvoudige facturatie naar offertes, urenregistratie en meerdere BTW-tarieven. De pagina [boekhoudsoftware voor eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/) vergelijkt systemen die deze groei kunnen bijhouden.
 

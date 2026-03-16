@@ -270,7 +270,7 @@ Ben je op zoek naar een pakket dat factureren en boekhouden combineert in een ee
 
 - **SnelStart** -- een vertrouwd Nederlands boekhoudpakket (Visma) met een gratis basisplan. Met 250.000+ gebruikers en volledige BTW-aangifte is het een solide keuze voor ZZP'ers die niet willen kiezen tussen Moneybird en e-Boekhouden. Betaalde pakketten vanaf €16 per maand. <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
 - **Exact Online** -- het meest complete pakket, ideaal als je wilt groeien. Lees onze [Exact Online review](/blog/exact-online-review-2026/).
-- **Jortt** -- extreem eenvoudig en gratis te starten, ideaal voor starters.
+- **[Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=)** -- extreem eenvoudig en gratis te starten, ideaal voor starters.
 - **InformerOnline** -- de beste keuze als je intensief met een boekhouder samenwerkt.
 
 Bekijk ons volledige overzicht in het artikel [Beste Boekhoudsoftware voor ZZP'ers 2026](/blog/beste-boekhoudsoftware-zzp-2026/) voor alle opties.

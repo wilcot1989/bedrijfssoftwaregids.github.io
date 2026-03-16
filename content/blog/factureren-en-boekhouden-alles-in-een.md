@@ -37,7 +37,7 @@ In een goed gecombineerd pakket zit de factuur al in het systeem zodra je hem ve
 
 Dat klinkt logisch, maar het is een groot verschil met hoe veel ondernemers nu werken. Een factuur in Word of een los systeem mailen, vervolgens de betaling ontvangen in de bank, handmatig bijhouden welke facturen open staan, en dan aan het einde van het kwartaal alles bij elkaar optellen voor de BTW-aangifte -- het is omslachtig, foutgevoelig en onnodig.
 
-Pakketten als Moneybird, Exact Online voor ZZP, e-Boekhouden en Jortt bieden deze koppeling standaard. Je maakt een factuur, stuurt hem, en de boekhouding loopt automatisch mee. De bankkoppeling zorgt dat betalingen zonder handmatige invoer worden verwerkt.
+Pakketten als Moneybird, Exact Online voor ZZP, e-Boekhouden en [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) bieden deze koppeling standaard. Je maakt een factuur, stuurt hem, en de boekhouding loopt automatisch mee. De bankkoppeling zorgt dat betalingen zonder handmatige invoer worden verwerkt.
 
 ## Wat je inlevert met een gecombineerde aanpak
 

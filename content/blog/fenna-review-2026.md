@@ -193,7 +193,7 @@ Voor freelancers met complexere behoeften is [boekhoudsoftware voor freelancers]
 
 ## fENNA vs de concurrentie
 
-Ik vergelijk fENNA hier met drie directe concurrenten: Moneybird, e-Boekhouden en Jortt. Dat zijn de pakketten die ZZP'ers het meest overwegen in dezelfde prijsklasse.
+Ik vergelijk fENNA hier met drie directe concurrenten: Moneybird, e-Boekhouden en [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=). Dat zijn de pakketten die ZZP'ers het meest overwegen in dezelfde prijsklasse.
 
 | Kenmerk | fENNA | Moneybird | e-Boekhouden | Jortt |
 |---|---|---|---|---|

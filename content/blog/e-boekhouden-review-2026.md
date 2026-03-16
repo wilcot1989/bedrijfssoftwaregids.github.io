@@ -85,7 +85,7 @@ Geen verborgen kosten, geen extra modules die je apart moet bijkopen. Dat is een
 
 Dit is het aanbod waar ik elke starter op wijs. Als je KvK-inschrijving minder dan 15 maanden oud is, gebruik je e-Boekhouden volledig gratis. Geen creditcard nodig, geen automatische verlenging naar een betaald plan. Na 15 maanden beslis je zelf of je doorgaat.
 
-Ter vergelijking: Moneybird biedt een gratis plan met maximaal 3 facturen per maand (onbruikbaar voor een actieve ondernemer). Jortt heeft een beperkte gratis versie zonder bankkoppeling. De startersregeling van e-Boekhouden is veruit het meest genereus.
+Ter vergelijking: Moneybird biedt een gratis plan met maximaal 3 facturen per maand (onbruikbaar voor een actieve ondernemer). [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) heeft een beperkte gratis versie zonder bankkoppeling. De startersregeling van e-Boekhouden is veruit het meest genereus.
 
 Wil je precies berekenen wat e-Boekhouden jou per jaar kost ten opzichte van alternatieven? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een vergelijking op basis van jouw situatie.
 

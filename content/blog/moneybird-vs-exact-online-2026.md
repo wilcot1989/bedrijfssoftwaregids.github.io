@@ -229,7 +229,7 @@ Moneybird en Exact Online zijn niet je enige opties. Afhankelijk van je situatie
 
 - **e-Boekhouden** -- de budgetkeuze. Vergelijkbare functies als Moneybird voor een lagere prijs. Lees mijn [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/).
 - **Twinfield** -- het accountantspakket. Sterker dan Exact in multi-administratie en consolidatie. Lees mijn [Exact Online vs Twinfield vergelijking](/blog/exact-online-vs-twinfield-2026/).
-- **Jortt** -- extreem eenvoudig, gratis te starten. Geschikt voor starters die nog weinig factureren.
+- **[Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=)** -- extreem eenvoudig, gratis te starten. Geschikt voor starters die nog weinig factureren.
 - **InformerOnline** -- goede keuze als je intensief met een boekhouder samenwerkt.
 
 Bekijk het volledige overzicht in mijn artikel [Beste Boekhoudsoftware voor ZZP'ers 2026](/blog/beste-boekhoudsoftware-zzp-2026/).
