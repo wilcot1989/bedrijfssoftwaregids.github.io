@@ -1,8 +1,8 @@
 ---
-title: "CRM voor Accountants 2026: De 5 Beste Opties voor Accountantskantoren"
+title: "CRM voor Accountants 2026: Top 5 Vergeleken"
 date: 2026-05-30
 lastmod: 2026-05-30
-description: "Welk CRM past bij een accountantskantoor? Ik vergelijk de 5 beste opties op klantdossiers, deadlinebewaking, urenregistratie en facturatie. Met vergelijkingstabel en eerlijk advies per kantoorgrootte."
+description: "CRM voor accountants 2026: de 5 beste opties op klantdossiers, deadlinebewaking en urenregistratie vergeleken. Met vergelijkingstabel per kantoorgrootte."
 categories: ["crm"]
 tags:
   - crm

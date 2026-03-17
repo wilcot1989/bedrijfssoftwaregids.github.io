@@ -2,7 +2,7 @@
 title: "Notion Review 2026: Alles-in-één Workspace Getest"
 date: 2026-05-11
 lastmod: 2026-05-11
-description: "Notion getest op functies, prijs en gebruiksgemak. Lees mijn eerlijke ervaringen met databases, wiki, projectbeheer en Notion AI — en voor wie het echt werkt."
+description: "Notion review 2026: databases, wiki, projectbeheer en Notion AI getest. Eerlijke ervaringen — en voor wie het echt de moeite waard is."
 categories: ["productiviteit"]
 tags:
   - productiviteit

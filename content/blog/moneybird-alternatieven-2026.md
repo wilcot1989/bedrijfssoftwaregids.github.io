@@ -1,8 +1,8 @@
 ---
-title: "Moneybird Alternatieven 2026: 6 Betere Opties voor Jouw Situatie"
+title: "Moneybird Alternatieven 2026: 6 Beste Opties"
 date: 2026-04-19
 lastmod: 2026-04-19
-description: "Op zoek naar een Moneybird alternatief? Ik vergelijk de 6 beste alternatieven eerlijk op prijs, functies en gebruiksgemak. Met vergelijkingstabel en beslisboom."
+description: "Moneybird alternatieven 2026: de 6 beste opties eerlijk vergeleken op prijs, functies en gebruiksgemak. Met vergelijkingstabel en beslisboom."
 categories: ["boekhouding"]
 tags:
   - boekhouding

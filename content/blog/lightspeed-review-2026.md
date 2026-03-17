@@ -1,5 +1,5 @@
 ---
-title: "Lightspeed Review 2026: Restaurant én Retail Getest (Eerlijk Oordeel)"
+title: "Lightspeed Review 2026: Kassasysteem Getest"
 date: 2026-05-26T10:00:00+01:00
 lastmod: 2026-05-26T10:00:00+01:00
 description: "Lightspeed review 2026: eerlijk oordeel na 3 jaar testen bij horecazaken en retailers. Functies, prijzen, bezorgkoppelingen, nadelen en alternatieven."

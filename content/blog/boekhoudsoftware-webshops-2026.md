@@ -2,7 +2,7 @@
 title: "Boekhoudsoftware voor Webshops 2026: Top 5 Vergeleken"
 date: 2026-05-29T10:00:00+01:00
 lastmod: 2026-05-29T10:00:00+01:00
-description: "Welke boekhoudsoftware past bij jouw webshop? Eerlijke vergelijking van Exact Online, Moneybird, e-Boekhouden, SnelStart en Jortt — met koppelingen, BTW-splits en webshopplatform-advies."
+description: "Boekhoudsoftware webshops 2026: Exact Online, Moneybird, SnelStart en Jortt vergeleken op koppelingen, BTW-splits en webshopplatform-advies."
 categories: ["boekhouding"]
 tags:
   - boekhouding

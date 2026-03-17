@@ -1,8 +1,8 @@
 ---
-title: "CRM voor Advocatenkantoren 2026: De 5 Beste Opties voor Juridische Praktijken"
+title: "CRM voor Advocatenkantoren 2026: Top 5"
 date: 2026-05-16
 lastmod: 2026-05-16
-description: "Welk CRM past bij een advocatenkantoor? Ik vergelijk de 5 beste opties op zaakbeheer, urenregistratie, conflictcheck en AVG-compliance. Met vergelijkingstabel en eerlijk advies."
+description: "CRM voor advocatenkantoren 2026: de 5 beste opties op zaakbeheer, urenregistratie en AVG-compliance vergeleken. Met vergelijkingstabel en eerlijk advies."
 categories: ["crm"]
 tags:
   - crm

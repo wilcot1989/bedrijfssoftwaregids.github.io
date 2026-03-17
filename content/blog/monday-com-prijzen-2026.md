@@ -2,7 +2,7 @@
 title: "Monday.com Prijzen 2026: Wat Kost Elk Plan Écht?"
 date: 2026-05-27
 lastmod: 2026-05-27
-description: "Monday.com prijzen 2026 doorgelicht: alle plannen, verborgen kosten, minimum seats, automations-limieten en concrete berekeningen per teamgrootte. Eerlijke vergelijking met ClickUp, Asana en Notion."
+description: "Monday.com prijzen 2026: alle plannen, verborgen kosten en minimum seats doorgelicht. Eerlijke vergelijking met ClickUp, Asana en Notion per teamgrootte."
 categories: ["productiviteit"]
 tags:
   - productiviteit

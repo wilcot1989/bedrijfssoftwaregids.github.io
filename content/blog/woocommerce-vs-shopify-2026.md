@@ -2,7 +2,7 @@
 title: "WooCommerce vs Shopify 2026: Welke Webshop Past Bij Jou?"
 date: 2026-04-18
 lastmod: 2026-04-18
-description: "WooCommerce vs Shopify eerlijk vergeleken op prijs, gebruiksgemak, SEO, betaalmethoden en schaalbaarheid. Met werkelijke kosten en een duidelijk advies per type ondernemer."
+description: "WooCommerce vs Shopify 2026: eerlijk vergeleken op prijs, SEO en schaalbaarheid. Met werkelijke kosten en duidelijk advies per type ondernemer."
 categories: ["webshops"]
 tags:
   - webshops

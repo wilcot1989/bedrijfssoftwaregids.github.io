@@ -1,8 +1,8 @@
 ---
-title: "Overstappen van Exact Online naar Moneybird (2026): Stap-voor-Stap Migratiegids"
+title: "Overstappen Exact naar Moneybird: Gids 2026"
 date: 2026-05-18
 lastmod: 2026-05-18
-description: "Compleet stappenplan voor migratie van Exact Online naar Moneybird in 2026. Klantdata exporteren, beginbalans instellen, bankkoppeling, BTW-aangifte en hoeveel je bespaart. Inclusief valkuilen."
+description: "Overstappen van Exact Online naar Moneybird: compleet stappenplan voor migratie in 2026. Inclusief besparingscijfers en valkuilen die je moet vermijden."
 categories: ["boekhouding"]
 tags:
   - boekhouding

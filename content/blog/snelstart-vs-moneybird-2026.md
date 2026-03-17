@@ -1,5 +1,5 @@
 ---
-title: "SnelStart vs Moneybird (2026): Welk Boekhoudpakket Past Bij Jou?"
+title: "SnelStart vs Moneybird 2026: Welke Past bij Jou?"
 date: 2026-04-04
 lastmod: 2026-04-04
 description: "SnelStart vs Moneybird vergeleken op prijs, gebruiksgemak, bankkoppeling, facturatie en support. Eerlijk advies voor ZZP'ers en klein MKB in 2026."

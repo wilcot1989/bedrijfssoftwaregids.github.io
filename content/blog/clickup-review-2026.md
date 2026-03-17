@@ -2,7 +2,7 @@
 title: "ClickUp Review 2026: Alles-in-één Projecttool Getest"
 date: 2026-05-06
 lastmod: 2026-05-06
-description: "ClickUp getest op prijs, functies en gebruiksgemak. Eerlijke ervaringen met het gratis plan, AI-functies, automatiseringen en de vergelijking met Monday.com en Asana."
+description: "ClickUp review 2026: gratis plan, AI-functies en automatiseringen getest. Eerlijke vergelijking met Monday.com en Asana. Is ClickUp het waard?"
 categories: ["productiviteit"]
 tags:
   - productiviteit

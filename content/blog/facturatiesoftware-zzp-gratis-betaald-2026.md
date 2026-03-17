@@ -1,8 +1,8 @@
 ---
-title: "Facturatieprogramma ZZP 2026: Gratis vs. Betaald — 8 Opties Eerlijk Vergeleken"
+title: "Facturatiesoftware ZZP 2026: Gratis vs Betaald"
 date: 2026-05-13T10:00:00+01:00
 lastmod: 2026-05-13T10:00:00+01:00
-description: "Facturatieprogramma voor ZZP vergelijken in 2026? Ik test 8 opties van gratis tot betaald: Moneybird, fENNA, Jortt, e-Boekhouden, SnelStart, Factuursturen.nl, WeFact en InformerOnline. Per pakket prijs, BTW-aangifte, bankkoppeling en gratis plan limieten."
+description: "Facturatiesoftware ZZP 2026: 8 opties van gratis tot betaald getest op prijs, BTW-aangifte en bankkoppeling. Vind het beste facturatieprogramma voor jou."
 categories: ["boekhouding"]
 tags:
   - boekhouding

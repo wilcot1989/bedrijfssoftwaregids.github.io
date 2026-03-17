@@ -2,7 +2,7 @@
 title: "HubSpot Prijzen 2026: Alle Kosten Eerlijk Uitgelegd"
 date: 2026-05-08
 lastmod: 2026-05-08
-description: "Wat kost HubSpot écht in 2026? Alle plannen, verborgen kosten en onboarding fees uitgelegd. Met concrete berekeningen voor ZZP, klein MKB en groeiend bedrijf."
+description: "HubSpot prijzen 2026: alle plannen, verborgen kosten en onboarding fees uitgelegd. Concrete berekeningen voor ZZP, MKB en groeiend bedrijf."
 categories: ["crm"]
 tags:
   - crm

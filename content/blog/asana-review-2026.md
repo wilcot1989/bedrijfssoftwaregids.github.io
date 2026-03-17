@@ -1,8 +1,8 @@
 ---
-title: "Asana Review 2026: De Beste Projecttool Voor Gestructureerde Teams?"
+title: "Asana Review 2026: Eerlijk Oordeel na Gebruik"
 date: 2026-05-14
 lastmod: 2026-05-14
-description: "Asana getest op prijs, functies en gebruiksgemak. Lees eerlijke ervaringen met taakbeheer, timeline, portfoliobeheer en automatiseringen — en voor wie het de moeite waard is."
+description: "Asana review 2026: taakbeheer, timeline en automatiseringen getest. Eerlijke ervaringen met prijs en functies — en voor wie het de moeite waard is."
 categories: ["productiviteit"]
 tags:
   - productiviteit

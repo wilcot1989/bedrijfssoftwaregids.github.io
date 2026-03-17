@@ -2,7 +2,7 @@
 title: "Boekhoudsoftware voor Bouwbedrijven 2026: Top 5 Pakketten"
 date: 2026-05-15
 lastmod: 2026-05-15
-description: "De beste boekhoudsoftware voor bouwbedrijven, ZZP'ers in de bouw en kleine aannemers: vergelijk SnelStart, Exact Online, Moneybird, e-Boekhouden en Twinfield op prijs en bouw-specifieke functies."
+description: "Boekhoudsoftware bouwbedrijven 2026: vergelijk SnelStart, Exact Online, Moneybird en Twinfield op prijs en bouw-specifieke functies. Vind de beste keuze."
 categories: ["boekhouding"]
 tags:
   - boekhouding

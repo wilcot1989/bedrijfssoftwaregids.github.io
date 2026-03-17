@@ -2,7 +2,7 @@
 title: "Pipedrive Prijzen 2026: Wat Kost Elk Plan Écht?"
 date: 2026-04-11
 lastmod: 2026-04-11
-description: "Pipedrive prijzen 2026 doorgelicht: alle 5 plannen, verborgen kosten, add-ons en een eerlijke berekening per teamgrootte. Inclusief vergelijking met HubSpot, Salesforce en Close CRM."
+description: "Pipedrive prijzen 2026: alle 5 plannen, verborgen kosten en add-ons doorgelicht. Eerlijke berekening per teamgrootte — ook vs HubSpot en Close."
 categories: ["crm"]
 tags:
   - crm

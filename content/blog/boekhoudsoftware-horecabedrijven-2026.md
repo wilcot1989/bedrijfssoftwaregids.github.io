@@ -1,8 +1,8 @@
 ---
-title: "Boekhoudsoftware voor Horecabedrijven 2026: De 5 Beste Pakketten Vergeleken"
+title: "Boekhoudsoftware Horeca 2026: Top 5 Vergeleken"
 date: 2026-05-19
 lastmod: 2026-05-19
-description: "Welke boekhoudsoftware past bij jouw horecabedrijf? Vergelijk SnelStart, Exact Online, Moneybird en meer op kassasysteem-koppeling, BTW-split en seizoenswerk."
+description: "Boekhoudsoftware horeca 2026: vergelijk SnelStart, Exact Online en Moneybird op kassasysteem-koppeling, BTW-split en seizoenswerk. Vind de beste keuze."
 categories: ["boekhouding"]
 tags: ["boekhouding", "horeca", "sector"]
 keywords: ["boekhoudsoftware horeca", "boekhouding horecabedrijf", "kassasysteem koppelen boekhouding", "btw horeca 9 21 procent", "snelstart horeca", "exact online horeca"]

@@ -1,8 +1,8 @@
 ---
-title: "Moneybird Prijzen 2026: Alle Pakketten, Verborgen Kosten en het Eerlijke Advies"
+title: "Moneybird Prijzen 2026: Wat Kost Het Echt?"
 date: 2026-04-10
 lastmod: 2026-04-10
-description: "Wat kost Moneybird werkelijk in 2026? Alle pakketten (Free, Starter, Growth, Professional) uitgelegd, verborgen kosten blootgelegd en een eerlijke vergelijking met e-Boekhouden, SnelStart, Jortt en Exact Online."
+description: "Moneybird prijzen 2026: alle pakketten uitgelegd, verborgen kosten blootgelegd. Vergelijking met SnelStart, Jortt en Exact Online. Weet wat je betaalt."
 categories: ["boekhouding"]
 tags:
   - boekhouding

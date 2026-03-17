@@ -2,7 +2,7 @@
 title: "Shopify Prijzen Nederland 2026: Wat Kost Het Echt?"
 date: 2026-05-09
 lastmod: 2026-05-09
-description: "Shopify prijzen Nederland 2026: alle abonnementen, transactiekosten, app-kosten en thema's doorgerekend. Concrete berekeningen per omzetgrootte zodat je weet wat je écht betaalt."
+description: "Shopify prijzen Nederland 2026: abonnementen, transactiekosten en app-kosten doorgerekend. Weet wat je écht betaalt per omzetgrootte."
 categories: ["webshops"]
 tags:
   - webshops

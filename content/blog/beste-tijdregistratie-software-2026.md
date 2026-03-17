@@ -1,8 +1,8 @@
 ---
-title: "Beste Tijdregistratie Software 2026: HR-gericht In- en Uitklokken"
+title: "Beste Tijdregistratie Software 2026: Top 6"
 date: 2026-05-24T10:00:00+01:00
 lastmod: 2026-05-24T10:00:00+01:00
-description: "De 6 beste tijdregistratie software van 2026 vergeleken: Clockify, TimeMoto, ShiftBase, Personio, AFAS InSite en Planday. WAB-compliant, koppeling salarisadministratie, per sector advies."
+description: "Beste tijdregistratie software 2026: Clockify, TimeMoto, ShiftBase en Planday vergeleken. WAB-compliant, koppeling salarisadministratie, advies per sector."
 categories: ["productiviteit"]
 tags:
   - productiviteit

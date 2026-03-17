@@ -1,8 +1,8 @@
 ---
-title: "Mailchimp Review 2026: Nog Steeds de Beste Keuze voor Email Marketing?"
+title: "Mailchimp Review 2026: Nog de Beste Keuze?"
 date: 2026-05-10
 lastmod: 2026-05-10
-description: "Eerlijke Mailchimp review 2026: prijzen, functies, nadelen en alternatieven. Is Mailchimp nog de moeite waard nu het gratis plan is ingekrompen en de prijzen fors zijn gestegen?"
+description: "Mailchimp review 2026: eerlijk oordeel over prijzen, functies en nadelen. Is Mailchimp nog de moeite waard na de forse prijsstijgingen?"
 categories: ["marketing"]
 tags:
   - marketing

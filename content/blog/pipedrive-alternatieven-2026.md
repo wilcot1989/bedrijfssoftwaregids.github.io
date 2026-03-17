@@ -1,5 +1,5 @@
 ---
-title: "Pipedrive Alternatieven 2026: 6 Betere Opties Voor Jouw Situatie"
+title: "Pipedrive Alternatieven 2026: 6 CRM-Opties"
 date: 2026-05-20
 lastmod: 2026-05-20
 description: "Pipedrive te duur, te beperkt of toch niet de juiste fit? Ik vergelijk 6 serieuze alternatieven op prijs, functies en voor wie ze écht werken."

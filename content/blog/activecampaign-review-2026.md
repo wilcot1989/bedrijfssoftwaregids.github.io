@@ -1,8 +1,8 @@
 ---
-title: "ActiveCampaign Review 2026: De Beste Marketing Automation Tool?"
+title: "ActiveCampaign Review 2026: Eerlijk Oordeel"
 date: 2026-05-05
 lastmod: 2026-05-05
-description: "Eerlijke ActiveCampaign review 2026: pricing, automation, CRM en geschiktheid voor de Nederlandse markt. Is ActiveCampaign de investering waard voor jouw bedrijf?"
+description: "ActiveCampaign review 2026: pricing, automation en CRM getest. Is het de investering waard voor jouw Nederlandse bedrijf? Eerlijk oordeel."
 categories: ["marketing"]
 tags:
   - marketing

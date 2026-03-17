@@ -2,7 +2,7 @@
 title: "Beste Helpdesk Software MKB 2026: Top 6 Vergeleken"
 date: 2026-05-23
 lastmod: 2026-05-23
-description: "De 6 beste helpdesk softwareoplossingen voor het Nederlandse MKB in 2026. Zendesk, Freshdesk, Trengo, Tidio, LiveChat en HubSpot Service Hub vergeleken op prijs, functies en gebruiksgemak."
+description: "Beste helpdesk software MKB 2026: top 6 vergeleken op prijs en functies. Zendesk, Freshdesk, Trengo, Tidio en meer. Vind de beste keuze voor jou."
 categories: ["klantenservice"]
 tags:
   - klantenservice

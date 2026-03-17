@@ -1,8 +1,8 @@
 ---
-title: "Nmbrs Review 2026: Eerlijke Beoordeling van Visma's Salarissoftware"
+title: "Nmbrs Review 2026: Salarisadministratie voor MKB"
 date: 2026-05-07
 lastmod: 2026-05-07
-description: "Nmbrs review 2026: wat kost Visma's cloudsalarisadministratie, hoe werkt het in de praktijk, en voor welke bedrijven is het een goede keuze? Eerlijk oordeel van een MKB-consultant."
+description: "Nmbrs review 2026: kosten, praktijkervaringen en voor welke bedrijven het een goede keuze is. Eerlijk oordeel over Visma's salarisadministratie."
 categories: ["hr"]
 tags:
   - hr

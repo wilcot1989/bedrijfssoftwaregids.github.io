@@ -2,7 +2,7 @@
 title: "HubSpot Alternatieven 2026: 6 Goedkopere CRM's voor het MKB"
 date: 2026-05-21T10:00:00+01:00
 lastmod: 2026-05-21T10:00:00+01:00
-description: "HubSpot te duur? Ik vergelijk 6 betaalbare alternatieven voor het Nederlandse MKB: Pipedrive, Close CRM, Teamleader, Monday CRM, Brevo en ActiveCampaign — met vergelijkingstabel en besparingscalculatie."
+description: "HubSpot alternatieven 2026: 6 goedkopere CRM's voor het MKB vergeleken. Pipedrive, Close, Teamleader en Brevo. Met vergelijkingstabel en besparingscijfers."
 categories: ["crm"]
 tags:
   - crm

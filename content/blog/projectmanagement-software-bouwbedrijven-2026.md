@@ -1,8 +1,8 @@
 ---
-title: "Projectmanagement Software voor Bouwbedrijven 2026: Top 5 Vergeleken"
+title: "PM Software Bouwbedrijven 2026: Top 5"
 date: 2026-05-25T10:00:00+01:00
 lastmod: 2026-05-25T10:00:00+01:00
-description: "Welke projectmanagement software past bij jouw bouwbedrijf? Ik vergelijk Monday.com, ClickUp, Procore, Gripp en MS Project op planning, documentbeheer en gebruik op de bouwplaats."
+description: "PM software bouwbedrijven 2026: Monday.com, ClickUp, Procore en Gripp vergeleken op planning en gebruik op de bouwplaats. Vind de beste keuze."
 categories: ["productiviteit"]
 tags:
   - productiviteit

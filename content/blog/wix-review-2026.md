@@ -2,7 +2,7 @@
 title: "Wix Review 2026: Eerlijk Oordeel voor het Nederlandse MKB"
 date: 2026-05-22
 lastmod: 2026-05-22
-description: "Wix review 2026 voor Nederlandse ondernemers: eerlijke ervaringen met de drag-and-drop editor, Wix ADI, e-commerce functies, SEO en prijzen. Is Wix de juiste website bouwer voor jouw bedrijf?"
+description: "Wix review 2026: drag-and-drop editor, e-commerce en SEO getest. Eerlijke ervaringen voor Nederlandse ondernemers. Is Wix de juiste websitebouwer?"
 categories: ["webshops"]
 tags:
   - webshops

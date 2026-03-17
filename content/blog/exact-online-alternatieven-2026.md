@@ -1,8 +1,8 @@
 ---
-title: "De 6 Beste Exact Online Alternatieven in 2026 (met Kostenvergelijking)"
+title: "Exact Online Alternatieven 2026: 6 Beste Opties"
 date: 2026-04-20
 lastmod: 2026-04-20
-description: "Exact Online te duur of te complex? Ik vergelijk de 6 beste alternatieven op prijs, functies en gebruiksgemak — met concrete besparingscijfers per situatie."
+description: "Exact Online alternatieven 2026: 6 goedkopere opties vergeleken op prijs en functies. Met concrete besparingscijfers. Vind jouw ideale boekhoudpakket."
 categories: ["boekhouding"]
 tags:
   - boekhouding

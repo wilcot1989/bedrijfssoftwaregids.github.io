@@ -2,7 +2,7 @@
 title: "Teamleader vs HubSpot 2026: Welke Past Bij Jouw MKB?"
 date: 2026-05-12T10:00:00+01:00
 lastmod: 2026-05-12T10:00:00+01:00
-description: "Teamleader Focus vs HubSpot: eerlijke vergelijking op prijs, CRM, projectbeheer, facturatie en marketing automation. Voor Nederlandse MKB-bedrijven die de juiste keuze willen maken."
+description: "Teamleader vs HubSpot 2026: eerlijke vergelijking op prijs, CRM en projectbeheer. Welke past bij jouw Nederlandse MKB? Maak de juiste keuze."
 categories: ["crm"]
 tags:
   - crm
