@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60" role="img" aria-label="Aanbevolen door Bedrijfssoftwaregids.nl">
+  <title>Aanbevolen door Bedrijfssoftwaregids.nl</title>
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3a7a3a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2D5F2D;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="120%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#1a3d1a" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="200" height="60" rx="8" ry="8" fill="url(#bg-gradient)" filter="url(#shadow)"/>
+
+  <!-- Subtle inner border -->
+  <rect x="1" y="1" width="198" height="58" rx="7" ry="7" fill="none" stroke="#4a9a4a" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Checkmark icon area -->
+  <circle cx="22" cy="30" r="11" fill="#ffffff" opacity="0.15"/>
+  <text x="22" y="35" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">✓</text>
+
+  <!-- Divider line -->
+  <line x1="40" y1="14" x2="40" y2="46" stroke="#ffffff" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Top text: "Aanbevolen door" -->
+  <text x="121" y="23" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="400" fill="#d4edda" text-anchor="middle" letter-spacing="0.5">AANBEVOLEN DOOR</text>
+
+  <!-- Bottom text: "Bedrijfssoftwaregids.nl" -->
+  <text x="121" y="42" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="-0.2">Bedrijfssoftwaregids.nl</text>
+</svg>
