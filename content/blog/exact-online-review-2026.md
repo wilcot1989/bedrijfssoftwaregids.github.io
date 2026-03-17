@@ -137,7 +137,7 @@ Waar Exact Online echt uitblinkt is het integratie-ecosysteem. Ik heb nog geen t
 - **CRM**: HubSpot, Salesforce, Pipedrive
 - **Salarissoftware**: Nmbrs, Loket.nl, AFAS
 - **Kassasystemen**: Lightspeed, Untill
-- **Overig**: Office 365, Google Workspace, en honderden meer via de Exact App Center
+- **Overig**: Office 365, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), en honderden meer via de Exact App Center
 
 ## Gebruikservaring: Exact Online review in de praktijk
 

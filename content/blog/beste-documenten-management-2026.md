@@ -66,7 +66,7 @@ SharePoint is de keuze die ik maak voor bedrijven die al in Microsoft 365 zitten
 
 ## 2. Google Workspace — Beste voor MKB
 
-Google Workspace is de documentbeheer software die ik het vaakst aanbeveel aan kleine teams. De reden is nuchter: iedereen kent Google Drive al, niemand heeft training nodig. Bij een MKB-klant van mij was de hele migratie in een middag klaar. Voor geavanceerd metadata-beheer of complexe workflows moet je elders zijn, maar voor 90% van de MKB-bedrijven is dit meer dan voldoende. Als je ook je website bouwt met Google Workspace in het achterhoofd, bekijk dan de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
+[Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) is de documentbeheer software die ik het vaakst aanbeveel aan kleine teams. De reden is nuchter: iedereen kent Google Drive al, niemand heeft training nodig. Bij een MKB-klant van mij was de hele migratie in een middag klaar. Voor geavanceerd metadata-beheer of complexe workflows moet je elders zijn, maar voor 90% van de MKB-bedrijven is dit meer dan voldoende. Als je ook je website bouwt met Google Workspace in het achterhoofd, bekijk dan de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
 
 ### Belangrijkste functies
 - **Google Drive** — Bestanden opslaan en delen, map-structuur

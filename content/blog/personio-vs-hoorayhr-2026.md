@@ -227,7 +227,7 @@ Het integratie-aanbod (20+) is aanzienlijk kleiner dan bij Personio (200+). De b
 
 **Personio** biedt 200+ integraties via de marketplace, plus een open API. Koppelingen met Slack, Microsoft Teams, Nmbrs, DATEV, Zapier, en tientallen andere tools. Voor bedrijven met een complex softwarelandschap is dat essentieel.
 
-**HoorayHR** biedt 20+ integraties, gefocust op de Nederlandse markt: Exact Online, Moneybird, Nmbrs, Google Workspace. Minder breed, maar de koppelingen die er zijn, werken goed. Via Zapier kun je aanvullende verbindingen leggen.
+**HoorayHR** biedt 20+ integraties, gefocust op de Nederlandse markt: Exact Online, Moneybird, Nmbrs, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808). Minder breed, maar de koppelingen die er zijn, werken goed. Via Zapier kun je aanvullende verbindingen leggen.
 
 **Winnaar: Personio** -- significant meer integratiemogelijkheden.
 

@@ -20,7 +20,7 @@ faq:
   - q: "Wat kost software voor een ZZP'er per maand?"
     a: "Een compleet ZZP-softwarepakket kost typisch 30-80 euro per maand. Boekhouding 10-15 euro, urenregistratie 0-10 euro (veel gratis opties), CRM 0-15 euro (HubSpot gratis), en eventueel offertesoftware 10-25 euro. Door slim te combineren houd je het onder de 50 euro."
   - q: "Kan ik als ZZP'er gratis software gebruiken?"
-    a: "Ja, er zijn goede gratis opties. HubSpot CRM is gratis voor altijd. Toggl Track biedt gratis urenregistratie tot 5 projecten. Moneybird heeft een gratis plan (beperkt tot 3 facturen). Google Workspace biedt gratis basis-tools. Maar voor serieuze boekhouding en BTW-aangifte kom je niet onder een betaald plan uit."
+    a: "Ja, er zijn goede gratis opties. HubSpot CRM is gratis voor altijd. Toggl Track biedt gratis urenregistratie tot 5 projecten. Moneybird heeft een gratis plan (beperkt tot 3 facturen). [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) biedt gratis basis-tools. Maar voor serieuze boekhouding en BTW-aangifte kom je niet onder een betaald plan uit."
   - q: "Welke boekhoudsoftware is het beste voor ZZP'ers?"
     a: "Moneybird is het populairst vanwege de gebruiksvriendelijkheid. e-Boekhouden biedt de beste prijs-kwaliteit (vanaf 9,95 euro). InformerOnline is het best als je met een boekhouder werkt. Lees mijn uitgebreide vergelijking van de beste boekhoudsoftware voor ZZP'ers voor alle details."
   - q: "Moet ik als ZZP'er een CRM gebruiken?"

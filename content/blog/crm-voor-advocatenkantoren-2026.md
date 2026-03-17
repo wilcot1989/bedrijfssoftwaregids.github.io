@@ -158,7 +158,7 @@ Teamleader is een Belgisch-Nederlandse tool die CRM, projectbeheer, tijdregistra
 - Facturen aanmaken op basis van geregistreerde uren
 - Volledige Nederlandse interface en Nederlandse klantenservice
 - AVG-compliant, servers in Europa, verwerkersovereenkomst standaard aanwezig
-- Integraties met Office 365 en Google Workspace
+- Integraties met Office 365 en [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808)
 
 **Nadelen:**
 

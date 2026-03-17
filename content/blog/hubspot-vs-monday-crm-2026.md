@@ -296,7 +296,7 @@ Dit is waar Monday CRM zich echt onderscheidt. Bij veel bedrijven stopt het CRM-
 
 ### Integraties
 
-**HubSpot** wint hier op volume: meer dan 1.500 integraties in de App Marketplace, waaronder directe koppelingen met vrijwel elke marketingtool, boekhoudsoftware en communicatietool die je kunt bedenken. Exact Online, Moneybird, Slack, Zoom, Google Workspace -- het is er allemaal.
+**HubSpot** wint hier op volume: meer dan 1.500 integraties in de App Marketplace, waaronder directe koppelingen met vrijwel elke marketingtool, boekhoudsoftware en communicatietool die je kunt bedenken. Exact Online, Moneybird, Slack, Zoom, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) -- het is er allemaal.
 
 **Monday CRM** biedt meer dan 200 integraties, aangevuld met Zapier-koppelingen voor nichetools. De gangbare Nederlandse tools zijn beschikbaar (Exact, Moneybird, Twinfield), maar het aanbod is beperkter dan HubSpot. In de praktijk heb ik bij Monday-implementaties zelden een ontbrekende koppeling ervaren, maar als je met specifieke nichetools werkt, check dit vooraf.
 

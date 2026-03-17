@@ -222,7 +222,7 @@ Dit is de optie die ik noem als iemand zegt: "Ik heb echt nul euro budget." Goog
 4. **Gmail**: gebruik labels en filters voor klantcommunicatie
 
 ### Prijzen (2026)
-- **Google Workspace Free**: Gratis (Gmail, Contacts, Sheets, Calendar)
+- **[Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) Free**: Gratis (Gmail, Contacts, Sheets, Calendar)
 - **Google Workspace Business**: vanaf €6/maand (meer opslag en functies)
 
 ### Voordelen

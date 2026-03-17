@@ -182,7 +182,7 @@ Als je een volledig uniek design wilt, huur je een Shopify-developer in. Afhanke
 
 **SSL:** Inbegrepen bij elk Shopify-abonnement. Geen extra kosten.
 
-**E-mailhosting:** Shopify biedt geen e-mailhosting. Je hebt voor een professioneel e-mailadres een aparte dienst nodig, zoals Google Workspace (€6–12/mnd per gebruiker) of Zoho Mail (gratis basispakket).
+**E-mailhosting:** Shopify biedt geen e-mailhosting. Je hebt voor een professioneel e-mailadres een aparte dienst nodig, zoals [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) (€6–12/mnd per gebruiker) of Zoho Mail (gratis basispakket).
 
 ## Concrete kostenberekening per omzetgrootte
 

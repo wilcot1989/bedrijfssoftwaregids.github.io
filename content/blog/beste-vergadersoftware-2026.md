@@ -98,7 +98,7 @@ Zoom is wat ik adviseer als een bedrijf veel vergadert met externe partijen -- k
 
 ## 3. Google Meet — Beste voor Google Workspace
 
-Gebruik je Google Workspace? Dan is Meet de logische keuze en hoef je niet verder te zoeken. Eén klik vanuit Gmail of Calendar en je zit in een meeting. Het is de eenvoudigste tool in dit overzicht, en voor de meeste MKB-bedrijven meer dan voldoende. Voor ZZP'ers en freelancers die een compleet softwarepakket willen samenstellen, lees dan ook het overzicht van de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/) — Google Meet is daar vaak onderdeel van.
+Gebruik je [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808)? Dan is Meet de logische keuze en hoef je niet verder te zoeken. Eén klik vanuit Gmail of Calendar en je zit in een meeting. Het is de eenvoudigste tool in dit overzicht, en voor de meeste MKB-bedrijven meer dan voldoende. Voor ZZP'ers en freelancers die een compleet softwarepakket willen samenstellen, lees dan ook het overzicht van de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/) — Google Meet is daar vaak onderdeel van.
 
 ### Belangrijkste functies
 - **One-click meetings** — Direct vanuit Gmail of Calendar

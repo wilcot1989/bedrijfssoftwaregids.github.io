@@ -130,7 +130,7 @@ Ik stel dit bij elk nieuw klantproject als eerste in. Het scheelt gemiddeld twee
 Met meer dan 400 integraties koppel je Pipedrive aan vrijwel elke tool in je stack. De meestgebruikte koppelingen bij mijn klanten:
 
 - **Exact Online en Moneybird** -- gewonnen deals worden automatisch facturen
-- **Google Workspace en Microsoft 365** -- agenda, e-mail en documenten gesynchroniseerd
+- **[Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) en Microsoft 365** -- agenda, e-mail en documenten gesynchroniseerd
 - **Slack** -- dealnotificaties direct in je teamkanaal
 - **Mailchimp en ActiveCampaign** -- contacten gesegmenteerd doorgeven voor e-mailcampagnes
 - **Zapier en Make** -- voor duizenden extra koppelingen zonder code

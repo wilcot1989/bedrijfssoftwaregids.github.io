@@ -123,7 +123,7 @@ Confluence adviseer ik specifiek aan technische teams die al met Jira werken. De
 
 ## 4. Happeo — Beste voor Google Workspace
 
-Happeo is de logische keuze als je bedrijf op Google Workspace draait. Ik heb het geadviseerd bij een marketingbureau van 60 man dat alles in Google had, en Happeo sloot daar naadloos op aan. Het combineert nieuwsfeed, kennisbank en interne communicatie in een mooie interface.
+Happeo is de logische keuze als je bedrijf op [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) draait. Ik heb het geadviseerd bij een marketingbureau van 60 man dat alles in Google had, en Happeo sloot daar naadloos op aan. Het combineert nieuwsfeed, kennisbank en interne communicatie in een mooie interface.
 
 ### Belangrijkste functies
 - **Kanalen** — Interne communicatie per team/onderwerp

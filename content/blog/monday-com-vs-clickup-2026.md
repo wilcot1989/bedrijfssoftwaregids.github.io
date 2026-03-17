@@ -183,7 +183,7 @@ En er is geen Nederlandse interface. De tool is volledig Engelstalig. Voor de me
 
 ### Integraties
 
-**Monday.com** biedt 200+ native integraties met de gangbare tools: Slack, Teams, Google Workspace, HubSpot, Salesforce, Jira, GitHub. Via Zapier zijn de mogelijkheden vrijwel onbeperkt.
+**Monday.com** biedt 200+ native integraties met de gangbare tools: Slack, Teams, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), HubSpot, Salesforce, Jira, GitHub. Via Zapier zijn de mogelijkheden vrijwel onbeperkt.
 
 **ClickUp** claimt 1.000+ integraties, waaronder native koppelingen met Slack, GitHub, GitLab, Figma, Google Drive, Dropbox en meer. Beide tools koppelen ook met klantgerichte software zoals [chatbot tools](/blog/beste-chatbot-software-2026/). De ClickUp API is goed gedocumenteerd en er is een actief ecosysteem van third-party integraties.
 

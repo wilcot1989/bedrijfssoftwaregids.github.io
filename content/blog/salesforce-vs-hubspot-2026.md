@@ -195,7 +195,7 @@ Beide platformen integreren met de populairste zakelijke tools. De meest gevraag
 |-----------|-----------|---------|
 | Exact Online | ✅ (via partner) | ✅ (via partner) |
 | Microsoft 365 | ✅ | ✅ |
-| Google Workspace | ✅ | ✅ |
+| [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) | ✅ | ✅ |
 | Slack/Teams | ✅ | ✅ |
 | LinkedIn Sales Navigator | ✅ | ✅ |
 | WooCommerce/Shopify | ✅ | ✅ |

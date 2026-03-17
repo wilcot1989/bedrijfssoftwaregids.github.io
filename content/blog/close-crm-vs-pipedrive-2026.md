@@ -197,7 +197,7 @@ Beide zijn sterk, maar op verschillende dimensies. Voor managers die sales-activ
 
 ### 7. Integraties
 
-Pipedrive wint op volume: 400+ integraties via de Marketplace versus 100+ bij Close. Pipedrive koppelt native aan Exact Online, Moneybird, Slack, Google Workspace, Microsoft Teams, Zoom, en honderden andere tools.
+Pipedrive wint op volume: 400+ integraties via de Marketplace versus 100+ bij Close. Pipedrive koppelt native aan Exact Online, Moneybird, Slack, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), Microsoft Teams, Zoom, en honderden andere tools.
 
 Close biedt minder native koppelingen, maar een goede API en Zapier-integratie voor het bouwen van je eigen workflows. Voor Nederlandse boekhoudpakketten heb je bij Close vrijwel altijd Zapier of Make nodig — geen directe koppelingen.
 

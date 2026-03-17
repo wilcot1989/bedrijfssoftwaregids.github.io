@@ -178,7 +178,7 @@ Kort samengevat: als je team meer dan de helft van de dag aan de telefoon zit, k
 Close biedt 100+ integraties, waaronder:
 - **Zapier** — koppel Close aan vrijwel elke tool
 - **Slack** — notificaties bij nieuwe deals of gewonnen verkoop
-- **Google Workspace** — e-mail en agenda-sync
+- **[Google Workspace](https://www.dpbolvw.net/click-101698621-13855808)** — e-mail en agenda-sync
 - **Zoom** — vergaderingen direct vanuit Close plannen
 - **Segment** — product-data koppelen aan CRM-records
 - **HubSpot Marketing** — als je wel marketing automation wilt naast Close voor sales

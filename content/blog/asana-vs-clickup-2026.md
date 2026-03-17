@@ -245,7 +245,7 @@ Beide tools integreren met de meest gebruikte zakelijke software.
 
 **Asana-integraties (300+):**
 
-Asana's integraties zijn goed gedocumenteerd en stabiel. De native koppelingen met Slack, Microsoft Teams, Google Workspace, Zoom, Salesforce en Jira zijn robuust. Asana heeft ook een sterke API voor maatwerkintegraties en is volledig beschikbaar via Zapier en Make.
+Asana's integraties zijn goed gedocumenteerd en stabiel. De native koppelingen met Slack, Microsoft Teams, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), Zoom, Salesforce en Jira zijn robuust. Asana heeft ook een sterke API voor maatwerkintegraties en is volledig beschikbaar via Zapier en Make.
 
 **ClickUp-integraties (1.000+):**
 

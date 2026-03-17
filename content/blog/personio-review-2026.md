@@ -177,7 +177,7 @@ Voor MKB-bedrijven die regelmatig mensen werven, is het een groot voordeel dat e
 
 ### 3. Uitstekende API en integraties
 
-Personio heeft een goed gedocumenteerde API en een breed scala aan native integraties (Slack, Google Workspace, Microsoft 365, Datev, Nmbrs, etc.). Voor technische teams of bedrijven met een datawarehouse is dit waardevol.
+Personio heeft een goed gedocumenteerde API en een breed scala aan native integraties (Slack, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), Microsoft 365, Datev, Nmbrs, etc.). Voor technische teams of bedrijven met een datawarehouse is dit waardevol.
 
 ### 4. Schaalbaar platform
 

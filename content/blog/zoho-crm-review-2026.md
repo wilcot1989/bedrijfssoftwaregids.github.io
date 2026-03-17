@@ -135,7 +135,7 @@ Wat ik vaak hoor van klanten: de rapportages zijn krachtig maar vereisen een lee
 
 ### Integraties en Zoho-ecosystem
 
-Zoho CRM integreert via de Marketplace met meer dan 800 externe applicaties: Google Workspace, Microsoft 365, Slack, Mailchimp, Zapier, LinkedIn en veel meer. Voor specifieke branches zijn er speciale integraties beschikbaar.
+Zoho CRM integreert via de Marketplace met meer dan 800 externe applicaties: [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), Microsoft 365, Slack, Mailchimp, Zapier, LinkedIn en veel meer. Voor specifieke branches zijn er speciale integraties beschikbaar.
 
 Maar de echte integratiewaarde zit in het Zoho-eigen ecosysteem. Zoho heeft meer dan 45 applicaties ontwikkeld die allemaal naadloos met Zoho CRM communiceren:
 

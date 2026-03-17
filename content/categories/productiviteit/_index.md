@@ -41,7 +41,7 @@ Productiviteit draait om frictie weghalen: minder handmatig werk, minder context
 | **TimeCamp** | <€10 |
 | **Notion** | €10-€20 |
 | **Microsoft 365** | €10-€20 |
-| **Google Workspace** | €10-€20 |
+| **[Google Workspace](https://www.dpbolvw.net/click-101698621-13855808)** | €10-€20 |
 
 ### Gratis tools
 

@@ -361,7 +361,7 @@ De AI-functies zijn beschikbaar op Starter en hoger. Ze zijn nuttig maar niet sp
 - Een bureau of dienstverlenend bedrijf bent met meerdere parallelle klantprojecten
 - Een PMO of IT-afdeling runt die portfoliobeheer nodig heeft (Advanced)
 - Met gestructureerde projecten werkt waar afhankelijkheden en milestones belangrijk zijn
-- Al werkt met Google Workspace of Microsoft 365 en diepgaande integratie wilt
+- Al werkt met [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) of Microsoft 365 en diepgaande integratie wilt
 - Een klein team bent dat gratis wil starten en later wil opschalen (Personal → Starter)
 
 **Asana is minder geschikt als je:**
