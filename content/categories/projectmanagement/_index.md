@@ -1,6 +1,6 @@
 ---
-title: "Beste Projectmanagement Software 2026 (Vergelijken)"
-description: "Vergelijk projectmanagement tools op gebruiksgemak, planning, samenwerking en kosten. Eerlijk advies per teamgrootte."
+title: "Beste Projectmanagement Software 2026 — Monday, Asana, ClickUp Vergeleken"
+description: "Welk projectmanagement programma past bij jouw team? Vergelijk Monday.com, Asana, ClickUp, Trello en meer op prijs en functies. Met gratis keuzehulp voor teams van 1-50."
 tools_category: "projectmanagement"
 ---
 
