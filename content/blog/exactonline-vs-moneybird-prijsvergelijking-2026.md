@@ -321,19 +321,9 @@ Jortt is volledig gefocust op zzp'ers en kleine ondernemers. Met €9,95/mnd (ja
 
 **Beperkingen Jortt:** Geen loonadministratie, geen meerdere gebruikers, minder geschikt als je groeit naar meerdere medewerkers.
 
-{{< affiliate-cta
-  tool="SnelStart"
-  url="https://www.snelstart.nl/?ref=bsg"
-  text="Probeer SnelStart gratis"
-  description="Boekhouding én loonadministratie in één — voor een eerlijke prijs"
->}}
+<a href="https://www.snelstart.nl/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart gratis →</a>
 
-{{< affiliate-cta
-  tool="Jortt"
-  url="https://www.jortt.nl/?ref=bsg"
-  text="Start gratis met Jortt"
-  description="Goedkoopste volwaardige boekhoudtool voor zzp'ers — €9,95 per maand"
->}}
+<a href="https://www.jortt.nl/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Jortt →</a>
 
 ## Conclusie: Moneybird wint op prijs in de meeste scenario's
 

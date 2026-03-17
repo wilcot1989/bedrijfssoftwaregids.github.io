@@ -277,12 +277,7 @@ Kinderopvangsoftware regelt de operationele en administratieve kant. Voor de fin
 
 Voor kleine kinderopvangorganisaties en gastouders is SnelStart Go een aantrekkelijke boekhoudoplossing naast Konnect of Bitcare: betaalbaar, eenvoudig en compleet voor de Nederlandse markt.
 
-{{< affiliate-cta
-  tool="SnelStart Go"
-  url="https://www.snelstart.nl/?ref=bsg"
-  text="Probeer SnelStart Go gratis"
-  description="Eenvoudige boekhouding voor kleine kinderopvangorganisaties en gastouders"
->}}
+<a href="https://www.snelstart.nl/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart Go gratis →</a>
 
 ## Mijn aanbeveling per situatie
 

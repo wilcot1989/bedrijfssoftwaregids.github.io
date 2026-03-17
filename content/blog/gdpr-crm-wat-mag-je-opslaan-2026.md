@@ -283,12 +283,7 @@ Transparante subverwerkers: Pipedrive publiceert een actuele lijst van subverwer
 
 GDPR-module (Professional+): Helpt bij het vastleggen van toestemming, bijhouden van grondslagen per contact en het afhandelen van verwijderverzoeken via een gestructureerd proces.
 
-{{< affiliate-cta
-  tool="Pipedrive"
-  url="https://www.pipedrive.com/?ref=bsg"
-  text="Probeer Pipedrive 14 dagen gratis"
-  description="Pipedrive is AVG-compliant uit de doos — inclusief verwerkingsovereenkomst en EU-dataopslag"
->}}
+<a href="https://www.pipedrive.com/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ## Conclusie: AVG en CRM hoeven geen spanning op te leveren
 

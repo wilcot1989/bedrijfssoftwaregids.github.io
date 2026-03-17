@@ -321,12 +321,7 @@ Als je Wix verlaat vanwege de e-commerce-beperkingen, is Shopify de logische keu
 
 **App Store:** 8.000+ apps voor elke e-commerce behoefte. Van loyaliteitsprogramma's tot reviewmanagement tot geavanceerde SEO-tools.
 
-{{< affiliate-cta
-  tool="Shopify"
-  url="https://www.shopify.com/?ref=bsg"
-  text="Start een gratis Shopify proefperiode"
-  description="Probeer Shopify 3 dagen gratis — geen creditcard nodig"
->}}
+<a href="https://www.shopify.com/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start een gratis Shopify proefperiode →</a>
 
 ## SEO na de migratie: zo bescherm je je rankings
 
@@ -466,9 +461,4 @@ De meest gestelde vraag bij de overstap van Wix naar Shopify: hoe krijg ik mijn 
 
 **301-redirects voor SEO:** Gebruik de Shopify URL-redirect tool om je oude Wix-product-URLs te redirecten naar de nieuwe Shopify-URLs. Dit voorkomt dat je ranking-posities verliest.
 
-{{< affiliate-cta
-  tool="Shopify"
-  url="https://www.shopify.com/?ref=bsg"
-  text="Start een gratis Shopify proefperiode"
-  description="Probeer Shopify 3 dagen gratis — geen creditcard nodig"
->}}
+<a href="https://www.shopify.com/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start een gratis Shopify proefperiode →</a>

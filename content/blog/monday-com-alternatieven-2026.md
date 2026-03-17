@@ -118,12 +118,7 @@ ClickUp positioneert zichzelf als de tool die alle andere tools vervangt. Dat is
 
 Lees mijn uitgebreide [ClickUp review](/blog/clickup-review-2026/).
 
-{{< affiliate-cta
-  tool="ClickUp"
-  url="https://clickup.com/?ref=bsg"
-  text="Probeer ClickUp gratis — geen creditcard nodig"
-  description="ClickUp Free: meer functies dan Monday.com Basic, zonder minimum seats"
->}}
+<a href="https://clickup.com/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ClickUp gratis — geen creditcard nodig →</a>
 
 ### 2. Asana — schoner, meer structuur voor processen
 
