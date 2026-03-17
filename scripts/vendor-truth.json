@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Vendor-truth database — single source of truth voor prijzen, pakketnamen en Trustpilot scores",
-    "last_full_check": "2026-03-16",
+    "last_full_check": "2026-03-17",
     "generated_by": "check-vendor-prices.py",
     "product_count": 136
   },
@@ -38,7 +38,7 @@
       "trustpilot": {
         "score": 3.5,
         "count": 185,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -74,7 +74,7 @@
       "trustpilot": {
         "score": 2.6,
         "count": 646,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -103,8 +103,8 @@
       ],
       "trustpilot": {
         "score": 4.6,
-        "count": 1914,
-        "checked": "2026-03-16"
+        "count": 1917,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -135,7 +135,7 @@
       "trustpilot": {
         "score": 4.6,
         "count": 2177,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -165,7 +165,7 @@
       "trustpilot": {
         "score": 1.8,
         "count": 17,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -196,7 +196,7 @@
       "trustpilot": {
         "score": 3.9,
         "count": 991,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -229,7 +229,7 @@
       "trustpilot": {
         "score": 4.1,
         "count": 36,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -259,7 +259,7 @@
       "trustpilot": {
         "score": 4.4,
         "count": 114,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -289,7 +289,7 @@
       "trustpilot": {
         "score": 4.7,
         "count": 192,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -319,7 +319,7 @@
       "trustpilot": {
         "score": 2.0,
         "count": 46,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -362,8 +362,8 @@
       ],
       "trustpilot": {
         "score": 1.3,
-        "count": 4385,
-        "checked": "2026-03-16"
+        "count": 4387,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -384,7 +384,7 @@
       "trustpilot": {
         "score": 1.9,
         "count": 132,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -413,9 +413,9 @@
         }
       ],
       "trustpilot": {
-        "score": 3.4,
+        "score": 3.5,
         "count": 1152,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -435,7 +435,7 @@
       "trustpilot": {
         "score": 3.0,
         "count": 15,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -498,7 +498,7 @@
       "trustpilot": {
         "score": 1.3,
         "count": 448,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -529,8 +529,8 @@
       ],
       "trustpilot": {
         "score": 1.8,
-        "count": 1057,
-        "checked": "2026-03-16"
+        "count": 1058,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -567,8 +567,8 @@
       ],
       "trustpilot": {
         "score": 1.8,
-        "count": 1057,
-        "checked": "2026-03-16"
+        "count": 1058,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -613,7 +613,7 @@
       "trustpilot": {
         "score": 4.5,
         "count": 3235,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -646,7 +646,7 @@
       "trustpilot": {
         "score": 2.7,
         "count": 3388,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -679,7 +679,7 @@
       "trustpilot": {
         "score": 1.5,
         "count": 613,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -711,8 +711,8 @@
       ],
       "trustpilot": {
         "score": 4.5,
-        "count": 266,
-        "checked": "2026-03-16"
+        "count": 265,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -745,7 +745,7 @@
       "trustpilot": {
         "score": 3.0,
         "count": 13,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -766,7 +766,7 @@
       "trustpilot": {
         "score": 1.9,
         "count": 20,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -797,8 +797,8 @@
       ],
       "trustpilot": {
         "score": 1.5,
-        "count": 286,
-        "checked": "2026-03-16"
+        "count": 287,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -830,7 +830,7 @@
       "trustpilot": {
         "score": 2.7,
         "count": 210,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -862,7 +862,7 @@
       "trustpilot": {
         "score": 3.3,
         "count": 476,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -895,7 +895,7 @@
       "trustpilot": {
         "score": 2.7,
         "count": 3388,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -922,7 +922,7 @@
       "trustpilot": {
         "score": 3.8,
         "count": 21,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -951,8 +951,8 @@
       ],
       "trustpilot": {
         "score": 4.2,
-        "count": 6929,
-        "checked": "2026-03-16"
+        "count": 6933,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -986,8 +986,8 @@
       ],
       "trustpilot": {
         "score": 2.8,
-        "count": 1362,
-        "checked": "2026-03-16"
+        "count": 1363,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1022,7 +1022,7 @@
       "trustpilot": {
         "score": 2.7,
         "count": 1363,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1051,8 +1051,8 @@
       ],
       "trustpilot": {
         "score": 4.3,
-        "count": 2825,
-        "checked": "2026-03-16"
+        "count": 2835,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1079,7 +1079,7 @@
       "trustpilot": {
         "score": 1.9,
         "count": 347,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1105,7 +1105,7 @@
       "trustpilot": {
         "score": 4.6,
         "count": 51,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1128,9 +1128,9 @@
         }
       ],
       "trustpilot": {
-        "score": 3.4,
+        "score": 3.5,
         "count": 1152,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1153,9 +1153,9 @@
         }
       ],
       "trustpilot": {
-        "score": 3.4,
+        "score": 3.5,
         "count": 1152,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1180,8 +1180,8 @@
       ],
       "trustpilot": {
         "score": 4.1,
-        "count": 7207,
-        "checked": "2026-03-16"
+        "count": 7209,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1202,7 +1202,7 @@
       "trustpilot": {
         "score": 3.3,
         "count": 5555,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1233,9 +1233,9 @@
         }
       ],
       "trustpilot": {
-        "score": 3.1,
-        "count": 32,
-        "checked": "2026-03-16"
+        "score": 4.0,
+        "count": 40,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1309,8 +1309,8 @@
       ],
       "trustpilot": {
         "score": 4.0,
-        "count": 269,
-        "checked": "2026-03-16"
+        "count": 270,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1331,7 +1331,7 @@
       "trustpilot": {
         "score": 4.4,
         "count": 153,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1369,8 +1369,8 @@
       ],
       "trustpilot": {
         "score": 4.3,
-        "count": 112,
-        "checked": "2026-03-16"
+        "count": 113,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1390,8 +1390,8 @@
       ],
       "trustpilot": {
         "score": 3.5,
-        "count": 162,
-        "checked": "2026-03-16"
+        "count": 165,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1445,7 +1445,7 @@
       "trustpilot": {
         "score": 3.1,
         "count": 125,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1483,7 +1483,7 @@
       "trustpilot": {
         "score": 3.7,
         "count": 59,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1515,7 +1515,7 @@
       "trustpilot": {
         "score": 2.4,
         "count": 63,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1547,7 +1547,7 @@
       "trustpilot": {
         "score": 2.5,
         "count": 387,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1577,7 +1577,7 @@
       "trustpilot": {
         "score": 3.8,
         "count": 225,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1609,8 +1609,8 @@
       ],
       "trustpilot": {
         "score": 1.7,
-        "count": 700,
-        "checked": "2026-03-16"
+        "count": 701,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1638,9 +1638,9 @@
         }
       ],
       "trustpilot": {
-        "score": 3.6,
-        "count": 26678,
-        "checked": "2026-03-16"
+        "score": 3.5,
+        "count": 26687,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1672,8 +1672,8 @@
       ],
       "trustpilot": {
         "score": 3.1,
-        "count": 2493,
-        "checked": "2026-03-16"
+        "count": 2497,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1693,8 +1693,8 @@
       ],
       "trustpilot": {
         "score": 4.4,
-        "count": 11230,
-        "checked": "2026-03-16"
+        "count": 11241,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1715,7 +1715,7 @@
       "trustpilot": {
         "score": 4.0,
         "count": 511,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1741,8 +1741,8 @@
       ],
       "trustpilot": {
         "score": 3.0,
-        "count": 645,
-        "checked": "2026-03-16"
+        "count": 646,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1771,8 +1771,8 @@
       ],
       "trustpilot": {
         "score": 1.3,
-        "count": 1421,
-        "checked": "2026-03-16"
+        "count": 1422,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1917,7 +1917,7 @@
       "trustpilot": {
         "score": 2.8,
         "count": 100,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1942,7 +1942,7 @@
       "trustpilot": {
         "score": 1.4,
         "count": 549,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -1975,7 +1975,7 @@
       "trustpilot": {
         "score": 1.9,
         "count": 79,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2005,7 +2005,7 @@
       "trustpilot": {
         "score": 1.4,
         "count": 335,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2068,7 +2068,7 @@
       "trustpilot": {
         "score": 3.4,
         "count": 6,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2088,7 +2088,7 @@
       "trustpilot": {
         "score": 1.2,
         "count": 166,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2109,7 +2109,7 @@
       "trustpilot": {
         "score": 2.3,
         "count": 12,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2142,7 +2142,7 @@
       "trustpilot": {
         "score": 2.1,
         "count": 380,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2163,7 +2163,7 @@
       "trustpilot": {
         "score": 4.2,
         "count": 208,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2249,8 +2249,8 @@
       ],
       "trustpilot": {
         "score": 1.3,
-        "count": 1491,
-        "checked": "2026-03-16"
+        "count": 1492,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2270,8 +2270,8 @@
       ],
       "trustpilot": {
         "score": 1.3,
-        "count": 283,
-        "checked": "2026-03-16"
+        "count": 284,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2436,7 +2436,7 @@
       "trustpilot": {
         "score": 1.4,
         "count": 1147,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2523,7 +2523,7 @@
       "trustpilot": {
         "score": 2.1,
         "count": 9,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2597,8 +2597,8 @@
       ],
       "trustpilot": {
         "score": 3.2,
-        "count": 1044,
-        "checked": "2026-03-16"
+        "count": 1047,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2623,7 +2623,7 @@
       "trustpilot": {
         "score": 4.4,
         "count": 161,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2648,7 +2648,7 @@
       "trustpilot": {
         "score": 3.8,
         "count": 104,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -2889,9 +2889,9 @@
         }
       ],
       "trustpilot": {
-        "score": 2.4,
-        "count": 77,
-        "checked": "2026-03-16"
+        "score": 2.3,
+        "count": 78,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -3021,7 +3021,7 @@
       "trustpilot": {
         "score": 3.7,
         "count": 18,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -3065,8 +3065,8 @@
       ],
       "trustpilot": {
         "score": 4.6,
-        "count": 143,
-        "checked": "2026-03-16"
+        "count": 144,
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -3126,7 +3126,7 @@
       "trustpilot": {
         "score": 4.3,
         "count": 419,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -3193,7 +3193,7 @@
       "trustpilot": {
         "score": 4.4,
         "count": 760,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
@@ -3306,7 +3306,7 @@
       "trustpilot": {
         "score": 4.7,
         "count": 846,
-        "checked": "2026-03-16"
+        "checked": "2026-03-17"
       },
       "verified": "2026-03-09"
     },
