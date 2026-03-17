@@ -150,7 +150,7 @@ Je kunt pipelines aanmaken per proces: een voor verkoop (intake > opname > marke
 
 Pipedrive is het CRM dat ik adviseer aan kleine makelaarskantoren die een betaalbaar systeem zoeken dat ze zelf kunnen inrichten. De visuele pipeline is briljant voor het bijhouden van woningen en deals, en de activiteitengestuurde aanpak voorkomt dat je vergeet om een koper op te volgen na een bezichtiging. Voor ~$14 per maand per gebruiker is het een fractie van wat Realworks kost.
 
-Lees ook onze uitgebreide [Pipedrive review](/blog/pipedrive-review-nederland-2026/) en ons artikel over de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) waarin we Pipedrive vergelijken met zes andere CRM-systemen.
+Lees ook onze uitgebreide [Pipedrive review](/blog/pipedrive-review-2026/) en ons artikel over de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) waarin we Pipedrive vergelijken met zes andere CRM-systemen.
 
 ### Belangrijkste functies
 - Visuele sales pipeline met drag-and-drop

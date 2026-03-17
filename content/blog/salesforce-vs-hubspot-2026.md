@@ -301,7 +301,7 @@ Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereke
 
 - **[Beste CRM Software Nederland 2026](/blog/beste-crm-software-nederland-2026/)** — Compleet overzicht van alle CRM-opties
 - **[HubSpot vs Pipedrive 2026](/blog/hubspot-vs-pipedrive-2026/)** — Vergelijking met een ander populair CRM
-- **[Pipedrive Review 2026](/blog/pipedrive-review-nederland-2026/)** — Uitgebreide review van het sales-CRM
+- **[Pipedrive Review 2026](/blog/pipedrive-review-2026/)** — Uitgebreide review van het sales-CRM
 - **[Beste Offertesoftware 2026](/blog/beste-offerte-software-2026/)** — Combineer je CRM met professionele offertes
 
 ---

@@ -32,7 +32,7 @@ faq:
 
 Ik heb klanten geholpen die na het invoeren van offertesoftware hun conversiepercentage met 30% zagen stijgen. De reden is simpel: een interactief offerteprogramma waarmee de klant direct kan ondertekenen, wint het van een Word-document als e-mailbijlage. In deze vergelijking deel ik de 5 beste tools om professionele offertes te maken voor het Nederlandse MKB.
 
-Zoek je ook een goed CRM om je verkoopproces te managen? Bekijk dan mijn overzicht van de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/). Heb je een CRM nodig voor je buitendienstteam? Lees dan ook de [Pipedrive review voor Nederland 2026](/blog/pipedrive-review-nederland-2026/) en de [Teamleader review 2026](/blog/teamleader-review-2026/).
+Zoek je ook een goed CRM om je verkoopproces te managen? Bekijk dan mijn overzicht van de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/). Heb je een CRM nodig voor je buitendienstteam? Lees dan ook de [Pipedrive review voor Nederland 2026](/blog/pipedrive-review-2026/) en de [Teamleader review 2026](/blog/teamleader-review-2026/).
 
 ## Snelle vergelijking
 

@@ -224,7 +224,7 @@ Als je puur naar CRM-kracht kijkt, wint Pipedrive. De visuele pipeline is beter,
 **Kies Teamleader als** je CRM, facturatie en projectbeheer in een platform wilt en geen zin hebt in een lappendeken van tools.
 **Kies Pipedrive als** je een salesteam hebt dat het beste CRM-pijplijn nodig heeft en facturatie via Exact of Moneybird regelt.
 
-Lees ook mijn [Pipedrive review](/blog/pipedrive-review-nederland-2026/) voor een uitgebreidere vergelijking.
+Lees ook mijn [Pipedrive review](/blog/pipedrive-review-2026/) voor een uitgebreidere vergelijking.
 
 ### Teamleader vs. HubSpot
 

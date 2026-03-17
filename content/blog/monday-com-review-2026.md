@@ -101,7 +101,7 @@ Monday.com biedt ook een apart CRM-product:
 | **Pro CRM** | €28 |
 | **Enterprise CRM** | Op aanvraag |
 
-Het CRM deelt dezelfde interface als het projectmanagement, maar heeft eigen kolommen voor deals, contacten en pipelines. Ik raad het aan als je al Monday.com gebruikt voor projecten en een basis-CRM nodig hebt. Voor serieuze sales-operaties zijn [HubSpot](/blog/hubspot-crm-review-2026/) of [Pipedrive](/blog/pipedrive-review-nederland-2026/) betere opties.
+Het CRM deelt dezelfde interface als het projectmanagement, maar heeft eigen kolommen voor deals, contacten en pipelines. Ik raad het aan als je al Monday.com gebruikt voor projecten en een basis-CRM nodig hebt. Voor serieuze sales-operaties zijn [HubSpot](/blog/hubspot-crm-review-2026/) of [Pipedrive](/blog/pipedrive-review-2026/) betere opties.
 
 ## Interface en gebruiksvriendelijkheid
 

@@ -132,7 +132,7 @@ Mijn advies: neem de proefperiode en test de support zelf. Stuur een ticket in e
 - **Sales-managers** die inzicht willen in call-activiteit en e-mailrespons per vertegenwoordiger
 
 ### Niet ideaal voor:
-- **Solo-ondernemers of ZZP'ers** — Close is gebouwd voor teams, niet voor individuen. Kies [HubSpot Free CRM](/blog/hubspot-crm-review-2026/) of [Pipedrive](/blog/pipedrive-review-nederland-2026/)
+- **Solo-ondernemers of ZZP'ers** — Close is gebouwd voor teams, niet voor individuen. Kies [HubSpot Free CRM](/blog/hubspot-crm-review-2026/) of [Pipedrive](/blog/pipedrive-review-2026/)
 - **Marketing-gedreven bedrijven** — Close heeft geen marketing automation, geen landingspagina's, geen formulieren. Kies HubSpot
 - **Bedrijven die een Nederlandstalige interface willen** — Close is alleen in het Engels beschikbaar
 - **Field sales teams die veel onderweg zijn** — de mobiele ervaring is functioneel maar niet de kracht van Close. Pipedrive's app is sterker
@@ -189,7 +189,7 @@ Voor Nederlandse tools als Exact Online of Moneybird heb je Zapier of Make nodig
 
 Close CRM is een sterk product voor een specifiek publiek. Als je een inside sales team hebt dat dagelijks tientallen calls doet en e-mail sequences verstuurt, is Close het overwegen waard. De ingebouwde communicatietools zijn beter dan wat Pipedrive of HubSpot standaard bieden, en je bespaart op losse tools voor bellen en e-mailautomatisering.
 
-Maar het is geen alleskunner. De Nederlandse community is klein, de interface is alleen in het Engels, en voor marketing moet je elders zijn. Voor het gemiddelde Nederlandse MKB-bedrijf dat een breed CRM wil, blijft [Pipedrive](/blog/pipedrive-review-nederland-2026/) of [HubSpot](/blog/hubspot-crm-review-2026/) de veiligere keuze.
+Maar het is geen alleskunner. De Nederlandse community is klein, de interface is alleen in het Engels, en voor marketing moet je elders zijn. Voor het gemiddelde Nederlandse MKB-bedrijf dat een breed CRM wil, blijft [Pipedrive](/blog/pipedrive-review-2026/) of [HubSpot](/blog/hubspot-crm-review-2026/) de veiligere keuze.
 
 **Mijn aanbeveling:** start met het Essentials-plan (€35/user/maand) als je een sales team van 3+ personen hebt dat voornamelijk via telefoon en e-mail verkoopt. Test de Power Dialer en e-mail sequences tijdens de gratis proefperiode. Als die twee functies je workflow verbeteren, zit je goed bij Close.
 

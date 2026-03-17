@@ -407,7 +407,7 @@ Ik zie ondernemers steeds dezelfde fouten maken. De drie duurste:
 
 Voor de meeste MKB'ers is **Tidio** de beste chatbot software keuze: betaalbaar, eenvoudig en snel te installeren. Installeer het vandaag, train het met je top-20 vragen, en je draait morgen al. Wil je de beste AI-chatbot software? Dan is **Intercom Fin** ongeëvenaard — zeker als je al een kennisbank hebt. De AI-kwaliteit is een klasse apart, maar je betaalt er ook voor.
 
-Voor teams die ook interne communicatie willen stroomlijnen, is [intranet software voor MKB](/blog/beste-intranet-software-mkb-2026/) een interessante aanvulling op je chatbot-opstelling. En als je Pipedrive als CRM gebruikt naast je chatbot, lees dan mijn [Pipedrive review voor Nederland](/blog/pipedrive-review-nederland-2026/) voor de beste integratietips.
+Voor teams die ook interne communicatie willen stroomlijnen, is [intranet software voor MKB](/blog/beste-intranet-software-mkb-2026/) een interessante aanvulling op je chatbot-opstelling. En als je Pipedrive als CRM gebruikt naast je chatbot, lees dan mijn [Pipedrive review voor Nederland](/blog/pipedrive-review-2026/) voor de beste integratietips.
 
 Voor B2B bedrijven met hoge dealwaarden is **Drift** de investering waard. Een extra deal per maand verdient de kosten dubbel en dwars terug. En voor wie volledige controle wil over chatbot-flows zonder afhankelijk te zijn van AI: **ChatBot** biedt de beste visuele bouwer die ik ken.
 

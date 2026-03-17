@@ -118,7 +118,7 @@ Pipedrive is het CRM waarbij ik de minste weerstand ervaar bij salesteams. Bij e
 
 Salesteams van 2 tot 30 personen die zich primair bezighouden met verkoop. Een ICT-dienstverlener met 8 accountmanagers, een makelaarskantoor met 12 makelaars, een handelsonderneming met een buitendienst van 20. Overal waar de sales pipeline het kloppend hart is en je geen projectmanagement in je CRM nodig hebt.
 
-Meer weten? Lees mijn [uitgebreide Pipedrive review](/blog/pipedrive-review-nederland-2026/). Voor een diepgaande analyse van Monday CRM, bekijk mijn [Monday.com review](/blog/monday-com-review-2026/).
+Meer weten? Lees mijn [uitgebreide Pipedrive review](/blog/pipedrive-review-2026/). Voor een diepgaande analyse van Monday CRM, bekijk mijn [Monday.com review](/blog/monday-com-review-2026/).
 
 ---
 

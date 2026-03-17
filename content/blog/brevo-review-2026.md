@@ -120,7 +120,7 @@ Het nadeel: de meer geavanceerde triggers (zoals predictive sending en AI-segmen
 
 Brevo biedt een ingebouwde CRM -- en dat is redelijk uniek in deze prijsklasse. Je kunt contacten beheren, deals tracken via een pipeline, taken toewijzen en notities bijhouden. Het is geen volwaardige CRM zoals Pipedrive of HubSpot, maar voor bedrijven die nu alles in een spreadsheet bijhouden, is het een grote stap vooruit.
 
-Ik gebruik het zelf niet als primaire CRM-aanbeveling (daarvoor verwijs ik naar [Pipedrive](/blog/pipedrive-review-nederland-2026/) of [HubSpot](/blog/hubspot-crm-review-2026/)), maar als lichte CRM-toevoeging naast je email marketing is het prima.
+Ik gebruik het zelf niet als primaire CRM-aanbeveling (daarvoor verwijs ik naar [Pipedrive](/blog/pipedrive-review-2026/) of [HubSpot](/blog/hubspot-crm-review-2026/)), maar als lichte CRM-toevoeging naast je email marketing is het prima.
 
 ### SMS-marketing
 
