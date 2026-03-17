@@ -2,7 +2,7 @@
 title: "Beste Software voor Coaches en Trainers 2026: Top 5"
 date: 2026-06-13
 lastmod: 2026-06-13
-description: "De beste software voor coaches en trainers van 2026: vergelijk HubSpot CRM, Pipedrive, Calendly, Moneybird en Zoom op cliëntbeheer, afspraken en facturatie."
+description: "Beste software voor coaches en trainers 2026: vergelijk HubSpot, Pipedrive, Calendly en Moneybird op cliëntbeheer, afspraken en facturatie."
 categories: ["crm"]
 tags:
   - crm

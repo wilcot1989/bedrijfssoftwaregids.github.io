@@ -1,8 +1,8 @@
 ---
-title: "Nmbrs vs AFAS Payroll 2026: Welke Salarissoftware Past bij Jou?"
+title: "Nmbrs vs AFAS Payroll 2026: Vergeleken"
 date: 2026-06-26
 lastmod: 2026-06-26
-description: "Nmbrs vs AFAS Payroll: een uitgebreide vergelijking op prijs, salarisverwerking, CAO-tabellen, employee self-service, integraties en implementatie. Welke kies jij?"
+description: "Nmbrs vs AFAS Payroll vergeleken op prijs, salarisverwerking, CAO-tabellen, employee self-service en integraties. Welke salarissoftware kies jij?"
 categories: ["hr"]
 tags:
   - hr

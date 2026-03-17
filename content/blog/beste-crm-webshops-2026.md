@@ -2,7 +2,7 @@
 title: "Beste CRM voor Webshops 2026: Top 5 voor Webshophouders"
 date: 2026-06-29
 lastmod: 2026-06-29
-description: "Welk CRM is het beste voor je webshop? Vergelijking van HubSpot, Pipedrive, ActiveCampaign, Klaviyo en Shopify ingebouwd op orderhistorie, abandoned cart, loyaliteitsprogramma en Shopify/WooCommerce koppeling."
+description: "Welk CRM is het beste voor je webshop? Vergelijking van HubSpot, Pipedrive, ActiveCampaign en Klaviyo op orderhistorie, abandoned cart en integraties."
 categories: ["crm"]
 tags:
   - crm

@@ -1,8 +1,8 @@
 ---
-title: "Monday.com Alternatieven 2026: 6 Betere Opties bij Groei of Prijs"
+title: "Monday.com Alternatieven 2026: 6 Opties"
 date: 2026-06-28
 lastmod: 2026-06-28
-description: "Zoek je een Monday.com alternatief? Ontdek 6 serieuze opties: ClickUp, Asana, Notion, Trello, Basecamp en Teamleader. Met eerlijke vergelijking en uitleg waarom mensen van Monday af willen."
+description: "Zoek je een Monday.com alternatief? 6 serieuze opties vergeleken: ClickUp, Asana, Notion, Trello, Basecamp en Teamleader. Eerlijk oordeel."
 categories: ["productiviteit"]
 tags:
   - productiviteit

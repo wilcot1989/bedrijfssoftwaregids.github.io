@@ -1,5 +1,5 @@
 ---
-title: "Boekhoudsoftware voor Verenigingen en Stichtingen 2026: Top 5"
+title: "Boekhoudsoftware Verenigingen 2026: Top 5"
 date: 2026-06-14
 lastmod: 2026-06-14
 description: "De beste boekhoudsoftware voor verenigingen en stichtingen van 2026: contributiebeheer, ANBI-administratie en subsidie-verantwoording vergeleken."

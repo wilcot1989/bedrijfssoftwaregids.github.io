@@ -2,7 +2,7 @@
 title: "Freshdesk Review 2026: Eerlijk Oordeel Na Uitgebreide Test"
 date: 2026-06-02
 lastmod: 2026-06-02
-description: "Freshdesk review 2026: ticketing, omnichannel, AI en prijzen getest. Is dit het beste helpdesk platform voor jouw bedrijf? Eerlijk oordeel met voor- en nadelen."
+description: "Freshdesk review 2026: ticketing, omnichannel en AI getest. Eerlijk oordeel met voor- en nadelen over het beste helpdesk platform voor MKB."
 categories: ["klantenservice"]
 tags:
   - klantenservice

@@ -1,8 +1,8 @@
 ---
-title: "Freshdesk Prijzen 2026: Alle Plannen, Verborgen Kosten en Eerlijke Vergelijking"
+title: "Freshdesk Prijzen 2026: Alle Plannen"
 date: 2026-06-09
 lastmod: 2026-06-09
-description: "Freshdesk prijzen 2026 volledig uitgelegd: Free tot Enterprise, verborgen kosten in de marketplace, en eerlijke vergelijking met Zendesk, Trengo en HubSpot Service Hub."
+description: "Freshdesk prijzen 2026: alle plannen van Free tot Enterprise, verborgen kosten en vergelijking met Zendesk, Trengo en HubSpot Service Hub."
 categories: ["klantenservice"]
 tags:
   - klantenservice

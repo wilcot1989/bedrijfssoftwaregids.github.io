@@ -1,8 +1,8 @@
 ---
-title: "Exact Online vs Moneybird Prijsvergelijking 2026: Kosten over 1, 3 en 5 Jaar"
+title: "Exact vs Moneybird: Kostenvergelijking 2026"
 date: 2026-06-30
 lastmod: 2026-06-30
-description: "Exact Online vs Moneybird: pure prijsvergelijking. Wat kost elke tool over 1, 3 en 5 jaar? Doorgerekend per scenario met inflatie, groei en extra modules. Inclusief SnelStart en Jortt als alternatieven."
+description: "Exact Online vs Moneybird prijsvergelijking: wat kost elke tool over 1, 3 en 5 jaar? Doorgerekend per scenario inclusief SnelStart en Jortt."
 categories: ["boekhouding"]
 tags:
   - boekhouding

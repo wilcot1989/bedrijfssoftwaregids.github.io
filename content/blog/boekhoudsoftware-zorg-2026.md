@@ -1,8 +1,8 @@
 ---
-title: "Beste Boekhoudsoftware voor de Zorg 2026: Top 5 voor Zorgprofessionals"
+title: "Boekhoudsoftware voor de Zorg 2026: Top 5"
 date: 2026-06-06
 lastmod: 2026-06-06
-description: "Boekhoudsoftware voor de zorg 2026: vergelijk SnelStart, Exact Online, Moneybird en meer op zorg-specifieke functies zoals declaraties, BTW-vrijstelling en PGB-administratie."
+description: "Boekhoudsoftware voor de zorg 2026: vergelijk SnelStart, Exact Online en Moneybird op declaraties, BTW-vrijstelling en PGB-administratie."
 categories: ["boekhouding"]
 tags:
   - boekhouding

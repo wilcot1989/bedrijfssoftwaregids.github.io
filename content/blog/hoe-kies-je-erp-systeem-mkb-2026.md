@@ -1,8 +1,8 @@
 ---
-title: "8 Vragen die je moet Stellen Voordat je een ERP Kiest (MKB 2026)"
+title: "ERP Kiezen MKB 2026: 8 Vragen"
 date: 2026-06-17
 lastmod: 2026-06-17
-description: "Hoe kies je het juiste ERP-systeem als MKB? Beantwoord deze 8 essentiële vragen over budget, modules, cloud vs on-premise en implementatie voordat je beslist."
+description: "Hoe kies je het juiste ERP-systeem als MKB? 8 essentiële vragen over budget, modules, cloud vs on-premise en implementatie."
 categories: ["productiviteit"]
 tags:
   - productiviteit

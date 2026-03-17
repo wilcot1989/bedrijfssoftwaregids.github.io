@@ -1,8 +1,8 @@
 ---
-title: "Zoho CRM Review 2026: Goedkoopste Volwaardige CRM voor het MKB?"
+title: "Zoho CRM Review 2026: Eerlijk Oordeel"
 date: 2026-06-01
 lastmod: 2026-06-01
-description: "Eerlijke Zoho CRM review 2026: functies, prijzen, Zia AI, Zoho One ecosystem en vergelijking met Pipedrive, HubSpot en Salesforce. Is Zoho CRM de beste keuze voor het Nederlandse MKB?"
+description: "Eerlijke Zoho CRM review 2026: functies, prijzen, Zia AI en vergelijking met Pipedrive, HubSpot en Salesforce. De beste CRM voor het Nederlandse MKB?"
 categories: ["crm"]
 tags:
   - crm

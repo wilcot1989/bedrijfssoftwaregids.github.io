@@ -1,8 +1,8 @@
 ---
-title: "Brevo vs ActiveCampaign 2026: Welke Email Marketing Tool Past Bij Jou?"
+title: "Brevo vs ActiveCampaign 2026: Vergeleken"
 date: 2026-06-07
 lastmod: 2026-06-07
-description: "Brevo vs ActiveCampaign eerlijk vergeleken op prijs, automatisering, CRM en deliverability. Ontdek welke email marketing tool het beste past bij jouw bedrijf."
+description: "Brevo vs ActiveCampaign vergeleken op prijs, automatisering, CRM en deliverability. Welke email marketing tool past bij jouw bedrijf?"
 categories: ["marketing"]
 tags:
   - marketing

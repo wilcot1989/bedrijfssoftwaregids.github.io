@@ -1,5 +1,5 @@
 ---
-title: "Asana vs ClickUp 2026: Welke Projectmanagement Tool Past bij Jouw Team?"
+title: "Asana vs ClickUp 2026: Welke Past bij Jou?"
 date: 2026-06-08
 lastmod: 2026-06-08
 description: "Asana vs ClickUp vergeleken op prijs, taakbeheer, automatisering en leercurve. Welke projectmanagement tool kies je in 2026?"

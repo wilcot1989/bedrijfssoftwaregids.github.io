@@ -2,7 +2,7 @@
 title: "Offertesoftware voor ZZP'ers 2026: Gratis vs Betaald (Top 6)"
 date: 2026-06-19
 lastmod: 2026-06-19
-description: "Beste offertesoftware voor ZZP'ers in 2026. Vergelijk Moneybird, Pipedrive, Offorte, PandaDoc, Teamleader en Google Docs op functies, prijs en gebruiksgemak."
+description: "Beste offertesoftware voor ZZP'ers 2026. Vergelijk Moneybird, Offorte, PandaDoc en Teamleader op functies, prijs en gebruiksgemak."
 categories: ["boekhouding"]
 tags:
   - boekhouding

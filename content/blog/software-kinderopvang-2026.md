@@ -2,7 +2,7 @@
 title: "Beste Software voor Kinderopvang 2026: Top 5 Vergeleken"
 date: 2026-06-27
 lastmod: 2026-06-27
-description: "Welke software is het beste voor de kinderopvang? Vergelijking van Bitcare, KidsVision, Konnect, AFAS en Flexkids op urenregistratie, oudercommunicatie, facturatie kinderopvangtoeslag en GGD-rapportage."
+description: "Beste software voor kinderopvang 2026: vergelijk Bitcare, KidsVision, Konnect en Flexkids op urenregistratie, oudercommunicatie en GGD-rapportage."
 categories: ["hr"]
 tags:
   - hr

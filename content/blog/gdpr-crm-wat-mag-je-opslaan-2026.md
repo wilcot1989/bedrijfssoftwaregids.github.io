@@ -2,7 +2,7 @@
 title: "GDPR en CRM: Wat Mag Je Opslaan van je Klanten? (AVG 2026)"
 date: 2026-06-24
 lastmod: 2026-06-24
-description: "Wat mag je opslaan in je CRM onder de AVG/GDPR? Verwerkingsovereenkomsten, bewaartermijnen, opt-in regels en het recht op vergetelheid uitgelegd voor Nederlandse bedrijven."
+description: "Wat mag je opslaan in je CRM onder de AVG/GDPR? Verwerkingsovereenkomsten, bewaartermijnen en opt-in regels voor Nederlandse bedrijven."
 categories: ["crm"]
 tags:
   - crm

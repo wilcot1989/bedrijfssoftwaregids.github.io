@@ -1,8 +1,8 @@
 ---
-title: "Xero Review 2026: Het Nieuw-Zeelandse Boekhoudplatform Getest"
+title: "Xero Review 2026: Boekhoudplatform Getest"
 date: 2026-06-04
 lastmod: 2026-06-04
-description: "Xero review 2026: eerlijk oordeel na uitgebreid testen. Prijzen, multi-valuta, NL bankintegratie, voor- en nadelen. Is Xero de juiste keuze voor jouw bedrijf?"
+description: "Xero review 2026: eerlijk oordeel na uitgebreid testen. Prijzen, multi-valuta, NL bankintegratie en voor- en nadelen vergeleken."
 categories: ["boekhouding"]
 tags:
   - boekhouding

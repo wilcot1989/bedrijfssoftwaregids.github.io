@@ -1,8 +1,8 @@
 ---
-title: "CRM Koppelen aan Boekhouding 2026: Handleiding + Beste Combinaties"
+title: "CRM Koppelen aan Boekhouding: Gids 2026"
 date: 2026-06-18
 lastmod: 2026-06-18
-description: "Hoe koppel je je CRM aan je boekhouding? Stap-voor-stap handleiding voor Pipedrive+Moneybird, HubSpot+Exact, Teamleader en Close+Moneybird. Dubbele invoer elimineren."
+description: "Hoe koppel je CRM aan je boekhouding? Handleiding voor Pipedrive+Moneybird, HubSpot+Exact en Teamleader. Dubbele invoer elimineren."
 categories: ["crm"]
 tags:
   - crm

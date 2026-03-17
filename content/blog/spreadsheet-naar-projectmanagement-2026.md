@@ -1,8 +1,8 @@
 ---
-title: "Van Spreadsheet naar Projectmanagement Software: Stappenplan 2026"
+title: "Van Spreadsheet naar PM Software: Plan 2026"
 date: 2026-06-23
 lastmod: 2026-06-23
-description: "Wanneer werkt Excel niet meer voor projectmanagement? Ontdek het complete stappenplan om te migreren naar professionele projectmanagementsoftware, welke tool past bij jouw situatie."
+description: "Wanneer werkt Excel niet meer voor projectmanagement? Stappenplan om te migreren naar projectmanagementsoftware en welke tool bij jou past."
 categories: ["productiviteit"]
 tags:
   - projectmanagement

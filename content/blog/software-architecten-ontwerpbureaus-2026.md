@@ -1,5 +1,5 @@
 ---
-title: "Software voor Architecten en Ontwerpbureaus 2026: Top 5 Tools"
+title: "Software Architecten 2026: Top 5 Tools"
 date: 2026-06-16
 lastmod: 2026-06-16
 description: "Welke software past bij jouw architectenbureau? Vergelijk Teamleader, ClickUp, Monday.com, Gripp en Exact op projectbeheer, urenregistratie en facturatie."

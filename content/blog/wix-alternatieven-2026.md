@@ -1,8 +1,8 @@
 ---
-title: "Wix Alternatieven 2026: 6 Betere Opties voor je Website of Webshop"
+title: "Wix Alternatieven 2026: 6 Betere Opties"
 date: 2026-06-25
 lastmod: 2026-06-25
-description: "Overweeg je om weg te stappen van Wix? Ontdek 6 serieuze alternatieven: Shopify, WordPress+Elementor, Squarespace, Webflow, Jimdo en Google Sites. Met vergelijkingstabel en eerlijk advies over lock-in."
+description: "Weg van Wix? 6 serieuze alternatieven vergeleken: Shopify, WordPress, Squarespace, Webflow, Jimdo en Google Sites. Met vergelijkingstabel."
 categories: ["webshops"]
 tags:
   - webshops

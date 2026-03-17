@@ -2,7 +2,7 @@
 title: "Clockify Review 2026: Beste Gratis Tijdregistratie?"
 date: 2026-06-05
 lastmod: 2026-06-05
-description: "Clockify review 2026: eerlijke test van de meest gebruikte gratis tijdregistratietool. Functies, prijzen, voor- en nadelen. Onbeperkt gebruikers gratis — maar wat heb je echt aan het gratis plan?"
+description: "Clockify review 2026: eerlijke test van de populairste gratis tijdregistratietool. Functies, prijzen en nadelen. Wat heb je echt aan het gratis plan?"
 categories: ["productiviteit"]
 tags:
   - productiviteit
