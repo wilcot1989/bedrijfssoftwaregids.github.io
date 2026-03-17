@@ -531,9 +531,6 @@ Wil je ook je CRM-keuze optimaliseren naast je helpdesk? Lees mijn uitgebreide g
 
 ---
 
-## Veelgestelde vragen
-
-{{< faq >}}
 
 ---
 

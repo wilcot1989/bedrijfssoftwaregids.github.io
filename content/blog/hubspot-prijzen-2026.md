@@ -405,9 +405,6 @@ Nog niet zeker welk CRM bij jouw situatie past? Gebruik de [CRM keuzehulp](/tool
 
 ---
 
-## FAQ: HubSpot prijzen 2026
-
-{{< faq >}}
 
 ---
 

@@ -375,9 +375,6 @@ De software betaalt zichzelf terug als je per jaar maar één van die situaties 
 
 ---
 
-## Veelgestelde vragen over projectmanagement software voor bouwbedrijven
-
-{{< faq >}}
 
 ---
 

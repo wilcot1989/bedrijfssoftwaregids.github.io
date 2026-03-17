@@ -393,9 +393,6 @@ Bekijk ook mijn uitgebreide [beste boekhoudsoftware voor ZZP 2026](/blog/beste-b
 
 ---
 
-## Veelgestelde vragen over SnelStart alternatieven
-
-{{< faq >}}
 
 ---
 

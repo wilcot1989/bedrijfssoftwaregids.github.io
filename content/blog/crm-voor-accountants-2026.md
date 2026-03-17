@@ -329,6 +329,3 @@ Gebruik de [CRM-keuzehulp](/tools/crm/keuzehulp/) om op basis van je kantoorgroo
 
 ---
 
-## Veelgestelde vragen
-
-{{< faq >}}

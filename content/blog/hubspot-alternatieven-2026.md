@@ -460,9 +460,6 @@ De €10.000-€16.000 die je per jaar bespaart, kun je beter investeren in cont
 
 ---
 
-## Veelgestelde vragen
-
-{{< faq >}}
 
 ---
 
