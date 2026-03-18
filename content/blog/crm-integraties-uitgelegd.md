@@ -1,5 +1,5 @@
 ---
-title: "CRM-integraties uitgelegd: welke koppelingen heb je echt nodig?"
+title: "CRM Integraties Uitgelegd: Welke Heb Je Nodig?"
 date: 2026-03-03
 lastmod: 2026-03-03
 description: "Welke CRM-integraties zijn onmisbaar voor jouw bedrijf? Vergelijk koppelingen voor e-mail, boekhouding en marketing. Bereken de ROI van jouw CRM."

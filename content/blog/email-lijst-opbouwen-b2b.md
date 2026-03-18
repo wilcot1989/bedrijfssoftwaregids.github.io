@@ -1,5 +1,5 @@
 ---
-title: "Email lijst opbouwen voor B2B: ethische strategieën die werken"
+title: "Email Lijst Opbouwen B2B: Ethische Strategieën"
 date: 2026-03-28
 lastmod: 2026-03-28
 description: "Hoe bouw je een B2B e-maillijst op zonder spam? Ethische strategieën met lead magnets, LinkedIn en content marketing. Groei je lijst duurzaam."

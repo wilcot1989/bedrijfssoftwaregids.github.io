@@ -1,5 +1,5 @@
 ---
-title: "Personio vs HoorayHR 2026: Welke HR Software Past Bij Jouw MKB?"
+title: "Personio vs HoorayHR 2026: Welke HR Software?"
 date: 2026-06-22
 lastmod: 2026-06-22
 description: "Personio vs HoorayHR eerlijk vergeleken op prijs, functies, Nederlandse markt en gebruiksgemak. Ontdek welke HR software bij jouw MKB past in 2026."

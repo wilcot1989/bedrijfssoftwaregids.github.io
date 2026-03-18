@@ -1,5 +1,5 @@
 ---
-title: "Kassasysteem inrichten: checklist voor een vlekkeloze opening"
+title: "Kassasysteem Inrichten: Checklist Opening"
 date: 2026-04-12
 lastmod: 2026-04-12
 description: "Kassasysteem inrichten voor je opening? Complete checklist met artikelen, BTW-tarieven, betaalmethoden en training. Voorkom stress op dag één."

@@ -1,6 +1,6 @@
 ---
-title: "Pipedrive vs Zoho CRM 2026: welke CRM past bij jouw salesteam?"
-description: "Pipedrive of Zoho CRM kiezen? Uitgebreide vergelijking op prijs, functies, gebruiksgemak en geschiktheid voor de Nederlandse markt. Met eerlijk advies voor sales- en MKB-teams."
+title: "Pipedrive vs Zoho CRM 2026: Eerlijk Oordeel"
+description: "Pipedrive of Zoho CRM kiezen? Vergelijking op prijs, functies en gebruiksgemak voor de Nederlandse markt. Met eerlijk advies voor MKB."
 date: 2026-03-18
 lastmod: 2026-03-18
 author: "Lars de Vries"

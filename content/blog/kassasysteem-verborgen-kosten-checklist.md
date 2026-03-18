@@ -1,5 +1,5 @@
 ---
-title: "Kassasysteem verborgen kosten: checklist voor slimme ondernemers"
+title: "Kassasysteem Verborgen Kosten: Checklist"
 date: 2026-03-03
 lastmod: 2026-03-03
 description: "Kassasysteem kiezen zonder verborgen kosten? Gebruik deze checklist voor hardware, transactiefees en support. Bereken de werkelijke totaalkosten."

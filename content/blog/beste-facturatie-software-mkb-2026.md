@@ -1,8 +1,8 @@
 ---
-title: "Beste Factuurprogramma MKB 2026: Top 7 Vergeleken (Incl. Gratis Opties)"
+title: "Beste Factuurprogramma MKB 2026: Top 7"
 date: 2026-03-02
 lastmod: 2026-03-06T10:00:00+01:00
-description: "Moneybird, Exact Online, e-Boekhouden, Jortt — vergeleken op prijs, BTW-aangifte en Trustpilot-scores. Inclusief gratis opties en kostenvergelijking over 3 jaar."
+description: "Beste factuurprogramma voor MKB in 2026? Vergelijk Moneybird, Exact, e-Boekhouden op prijs en BTW-aangifte. Inclusief gratis opties."
 categories: ["boekhouding"]
 tags:
   - boekhouding

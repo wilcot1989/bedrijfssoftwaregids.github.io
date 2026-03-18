@@ -1,5 +1,5 @@
 ---
-title: "BTW-aangifte doen met boekhoudsoftware: wat werkt en wat niet"
+title: "BTW-Aangifte met Boekhoudsoftware: Wat Werkt?"
 date: 2026-03-03
 lastmod: 2026-03-03
 description: "Welke boekhoudsoftware ondersteunt BTW-aangifte in Nederland het best? Vergelijk functies voor eenmanszaken en freelancers. Doe de gratis keuzehulp."

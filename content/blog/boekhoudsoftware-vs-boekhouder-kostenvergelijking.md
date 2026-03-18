@@ -1,5 +1,5 @@
 ---
-title: "Boekhoudsoftware vs boekhouder: wat kost je minder en levert meer op?"
+title: "Boekhoudsoftware vs Boekhouder: Kosten 2026"
 date: 2026-03-03
 lastmod: 2026-03-03
 description: "Boekhoudsoftware of een boekhouder inhuren? Vergelijk de werkelijke kosten en bespaar tot EUR 2.000 per jaar. Inclusief keuzehulp per bedrijfsgrootte."

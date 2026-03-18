@@ -1,5 +1,5 @@
 ---
-title: "E-mail deliverability problemen oplossen: oorzaken en oplossingen"
+title: "Email Deliverability Problemen Oplossen"
 date: 2026-03-03
 lastmod: 2026-03-03
 description: "E-mails landen in de spamfolder? Leer deliverability problemen oplossen voor ZZP en MKB. Doe de keuzehulp voor het beste e-mailmarketingplatform."

@@ -1,5 +1,5 @@
 ---
-title: "WooCommerce Review 2026: Gratis Webshop, Maar Wat Kost Het Echt?"
+title: "WooCommerce Review 2026: Wat Kost Het Echt?"
 date: 2026-03-06
 lastmod: 2026-03-06
 description: "WooCommerce review 2026: eerlijke analyse van kosten, functies en nadelen. Gratis plugin, maar wat betaal je werkelijk? Lees mijn ervaringen."

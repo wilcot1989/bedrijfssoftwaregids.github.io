@@ -1,5 +1,5 @@
 ---
-title: "HubSpot vs Close CRM 2026: Welke CRM Past Bij Jouw Salesteam?"
+title: "HubSpot vs Close CRM 2026: Welke Wint?"
 date: 2026-03-18
 lastmod: 2026-03-18
 description: "HubSpot vs Close CRM eerlijk vergeleken op prijs, belfuncties, automatiseringen en gebruiksgemak. Ontdek welke CRM het beste past bij jouw verkoopproces."

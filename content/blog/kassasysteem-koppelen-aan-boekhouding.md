@@ -1,8 +1,8 @@
 ---
-title: "Kassasysteem Koppelen aan Boekhouding (2026): Beste Combinaties + 3 Fouten"
+title: "Kassasysteem Koppelen aan Boekhouding 2026"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "Lightspeed + Exact Online, Moneybird via Zapier, kassasysteem voor kapsalon — ontdek welke koppeling bij jouw situatie past. Inclusief 3 veelgemaakte fouten die je wilt vermijden."
+description: "Kassasysteem koppelen aan je boekhouding? Vergelijk Lightspeed, Moneybird en meer. Inclusief 3 veelgemaakte fouten die je wilt vermijden."
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/kassasystemen.svg"

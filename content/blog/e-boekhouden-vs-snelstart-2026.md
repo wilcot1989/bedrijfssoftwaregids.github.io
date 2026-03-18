@@ -1,6 +1,6 @@
 ---
 title: "e-Boekhouden vs SnelStart 2026: Kosten & Functies"
-description: "e-Boekhouden of SnelStart kiezen? Uitgebreide vergelijking op prijs, functies, gebruiksgemak en geschiktheid voor ZZP en MKB in Nederland. Met eerlijk advies."
+description: "e-Boekhouden of SnelStart kiezen? Vergelijking op prijs, functies en gebruiksgemak voor ZZP en MKB in Nederland. Met eerlijk advies."
 date: 2026-03-18
 lastmod: 2026-03-18
 author: "Lars de Vries"

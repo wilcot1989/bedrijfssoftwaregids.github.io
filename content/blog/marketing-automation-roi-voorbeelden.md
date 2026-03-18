@@ -1,5 +1,5 @@
 ---
-title: "Marketing automation ROI: 4 voorbeelden uit de Nederlandse praktijk"
+title: "Marketing Automation ROI: 4 NL Voorbeelden"
 date: 2026-03-03
 lastmod: 2026-03-03
 description: "Marketing automation loont -- maar wanneer precies? Bekijk 4 ROI-voorbeelden voor MKB en webshops. Bereken de lead-ROI voor jouw situatie."

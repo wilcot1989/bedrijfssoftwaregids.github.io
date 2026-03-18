@@ -1,5 +1,5 @@
 ---
-title: "Factureren en boekhouden in één pakket: voor- en nadelen uitgelegd"
+title: "Factureren en Boekhouden in Één Pakket 2026"
 date: 2026-03-03
 lastmod: 2026-03-03
 description: "Combineer je facturatieprogramma en boekhouding in één tool? Vergelijk de voordelen voor ZZP en freelancers. Bereken wat jou het meeste oplevert."

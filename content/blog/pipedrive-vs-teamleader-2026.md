@@ -1,6 +1,6 @@
 ---
-title: "Pipedrive vs Teamleader 2026: sales-specialist of alles-in-één?"
-description: "Pipedrive of Teamleader kiezen voor je Nederlandse bedrijf? Uitgebreide vergelijking op prijs, sales, projectbeheer en meer. Met eerlijk advies voor MKB in Nederland."
+title: "Pipedrive vs Teamleader 2026: Eerlijk Oordeel"
+description: "Pipedrive of Teamleader kiezen? Vergelijking op prijs, sales en projectbeheer. Met eerlijk advies voor MKB in Nederland."
 date: 2026-03-18
 lastmod: 2026-03-18
 author: "Lars de Vries"

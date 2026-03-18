@@ -1,5 +1,5 @@
 ---
-title: "ActiveCampaign vs Mailchimp 2026: Welke Email Marketing Tool Kies Je?"
+title: "ActiveCampaign vs Mailchimp 2026: Eerlijk Oordeel"
 date: 2026-06-21
 lastmod: 2026-06-21
 description: "ActiveCampaign vs Mailchimp vergeleken op prijs, automatisering en deliverability. Welke email marketing tool past bij jouw bedrijf?"

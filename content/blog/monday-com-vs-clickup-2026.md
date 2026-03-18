@@ -1,5 +1,5 @@
 ---
-title: "Monday.com vs ClickUp 2026: Welke Projecttool Past Bij Jouw Team?"
+title: "Monday.com vs ClickUp 2026: Welke Past?"
 date: 2026-06-20
 lastmod: 2026-06-20
 description: "Monday.com vs ClickUp vergeleken op prijs, functies en gebruiksgemak. Welke projectmanagement tool past het beste bij jouw team in 2026?"

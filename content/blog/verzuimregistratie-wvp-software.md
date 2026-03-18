@@ -1,5 +1,5 @@
 ---
-title: "Verzuimregistratie en de Wet Verbetering Poortwachter: wat elke werkgever moet weten"
+title: "Verzuimregistratie en de WvP: Wat Je Moet Weten"
 date: 2026-03-03
 lastmod: 2026-03-03
 description: "Wet Verbetering Poortwachter nakomen zonder boetes? Vergelijk HR software met verzuimregistratie voor zorg en bouw. Bereken je verzuimkosten."

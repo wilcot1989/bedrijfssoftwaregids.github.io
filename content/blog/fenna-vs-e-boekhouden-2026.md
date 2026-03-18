@@ -2,7 +2,7 @@
 title: "fENNA vs e-Boekhouden 2026: Welke Past het Best bij Jou?"
 date: 2026-03-09
 lastmod: 2026-03-09
-description: "fENNA vs e-Boekhouden eerlijk vergeleken: prijzen, facturatie, BTW-aangifte en bankkoppeling. Welk boekhoudpakket past het beste bij jou als solo-ondernemer?"
+description: "fENNA vs e-Boekhouden vergeleken: prijzen, facturatie, BTW-aangifte en bankkoppeling. Welk pakket past het beste bij jou als ZZP'er?"
 categories: ["boekhouding"]
 tags:
   - boekhouding
