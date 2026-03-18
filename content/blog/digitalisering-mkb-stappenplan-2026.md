@@ -9,7 +9,7 @@ author: "Lars de Vries"
 author_bio: "B2B software consultant en redacteur bij Bedrijfssoftwaregids.nl"
 categories: ["productiviteit"]
 tags: ["digitalisering", "mkb", "stappenplan", "subsidies", "software"]
-image: "/images/categories/productiviteit.svg"
+featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Wat kost digitalisering voor een MKB-bedrijf gemiddeld?"
     a: "De kosten variëren sterk, maar reken op €3.000–€15.000 voor een volledige digitalisering in jaar 1. Daarna dalen operationele kosten gemiddeld 20–35%. Subsidies zoals WBSO en MIA kunnen 15–32% van de kosten dekken."
@@ -525,10 +525,13 @@ De belangrijkste zijn: WBSO (loonkostenaftrek R&D), MIA/Vamil (milieu-investerin
 **Hoe lang duurt een digitaliseringsproject gemiddeld?**
 Een gefaseerde aanpak duurt 6–18 maanden. Fase 1 (fundament) 1–3 maanden, fase 2 (kernprocessen) 2–4 maanden, fase 3 (CRM) 2–3 maanden, fase 4 (data) 1–2 maanden, fase 5 (optimalisatie) doorlopend.
 
-**Moet ik mijn bestaande software vervangen?**
-Niet per se. Bouw voort op wat werkt via integraties (Zapier, Make) voordat je vervangt. Vervang alleen als software fundamenteel tekortschiet: geen API, geen updates meer, of structureel traag.
+**Wat zijn de meest gemaakte fouten bij digitalisering MKB?**
+De top 5: alles tegelijk willen digitaliseren, medewerkers niet betrekken, geen duidelijk doel stellen, te weinig budget voor training, en verkeerde software kiezen op basis van prijs alleen. Faseer altijd en betrek je team vroeg in het proces.
 
-**Is cloud software veiliger dan lokale software?**
+**Moet ik mijn bestaande software vervangen of kan ik uitbreiden?**
+Niet per se vervangen. Bouw voort op wat werkt via integraties (Zapier, Make) voordat je vervangt. Vervang alleen als software fundamenteel tekortschiet: geen API, geen updates meer, of structureel traag.
+
+**Is cloud software veiliger dan lokale software voor MKB?**
 Voor de meeste MKB-bedrijven: ja. Cloud providers investeren meer in beveiliging dan een gemiddeld MKB-bedrijf zelf kan. Zorg wel voor sterke wachtwoorden, 2FA en heldere toegangsrechten.
 
 ---

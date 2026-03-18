@@ -26,7 +26,7 @@ faq:
   - q: "Welk antivirusprogramma is het beste voor zakelijk gebruik?"
     a: "Voor zakelijk gebruik zijn de beste keuzes: Kaspersky Small Office Security (goede prijs-kwaliteit, nu AWIN-partner), Bitdefender GravityZone Business Security (sterke detectie, centrale beheerconsole), Microsoft Defender for Business (al inbegrepen bij M365 Business Premium) en ESET PROTECT Essential (licht, goed geschikt voor oudere hardware). Alle vier bieden centrale beheerconsoles voor IT-beheerders."
   - q: "Heb ik als MKB echt een VPN nodig?"
-    a: "Als medewerkers regelmatig op afstand werken (thuis, onderweg, bij klanten), is een zakelijke VPN sterk aan te raden. Zie ook: [WhatsApp Business voor veilige klantcommunicatie](/blog/whatsapp-business-mkb-2026/) en [beste projectmanagement software voor remote teams](/blog/beste-projectmanagement-software-2026/). Zonder VPN loopt data over onbeveiligde netwerken. Een VPN versleutelt het verbinding en beschermt gevoelige bedrijfsdata. Voor bedrijven waar iedereen altijd op kantoor werkt en intern op een beveiligd netwerk, is de noodzaak kleiner. NordVPN Teams en Perimeter81 zijn de meest gebruikte zakelijke VPN-oplossingen voor het MKB."
+    a: "Als medewerkers regelmatig op afstand werken (thuis, onderweg, bij klanten), is een zakelijke VPN sterk aan te raden. Zonder VPN loopt data over onbeveiligde netwerken. Een VPN versleutelt de verbinding en beschermt gevoelige bedrijfsdata. Voor bedrijven waar iedereen altijd op kantoor werkt en intern op een beveiligd netwerk, is de noodzaak kleiner. NordVPN Teams en Perimeter81 zijn de meest gebruikte zakelijke VPN-oplossingen voor het MKB."
   - q: "Is een cyberverzekering noodzakelijk voor het MKB?"
     a: "Steeds meer ja. De gemiddelde schade van een cyberaanval op een MKB bedraagt €50.000-€200.000 (inclusief herstelkosten, juridische kosten, boetes en omzetderving). Een cyberverzekering kost €500-€3.000 per jaar voor het MKB, afhankelijk van omzet en sector. De meeste zakelijke aansprakelijkheidsverzekeringen dekken cyberincidenten NIET — controleer dit altijd bij je verzekeraar."
   - q: "Wat moet ik doen als mijn bedrijf gehackt is?"
@@ -102,7 +102,7 @@ Moderne endpoint security gaat verder dan traditioneel antivirus: het heet EDR (
 - Sterk in detectie, centrale beheerconsole
 - Let op: Kaspersky is Russisch bedrijf; sommige sectoren (overheid, defensie-gerelateerd) mijden het om politieke redenen. Voor regulier MKB is het technisch uitstekend.
 
-<a href="https://www.awin1.com/cread.php?awinmid=KASPERSKY&awinaffid=2776410" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Kaspersky Small Office Security bekijken →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=26916&awinaffid=2776410" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Kaspersky Small Office Security bekijken →</a>
 
 **Bitdefender GravityZone Business Security**
 - Prijs: circa €4,50/apparaat/mnd
@@ -495,10 +495,10 @@ Betaalgegevens vallen onder PCI-DSS standaarden. Als je creditcardbetalingen ver
 
 ## Veelgestelde vragen
 
-**Wat zijn de meest voorkomende cyberaanvallen op het MKB?**
+**Wat zijn de meest voorkomende cyberaanvallen op het MKB in Nederland?**
 De drie meest voorkomende zijn: phishing (nep-e-mails voor inloggegevens), ransomware (bestanden versleuteld tot losgeld betaald is) en CEO-fraude (criminelen doen zich voor als directeur voor overboekingen). 60% van de incidenten begint met een phishing-mail.
 
-**Wat kost goede cybersecurity voor 10 medewerkers?**
+**Wat kost goede cybersecurity voor een bedrijf van 10 medewerkers?**
 Een basispakket kost €350-400 per maand: endpoint security (€90), wachtwoordbeheer (€60), VPN (€70), phishing-training (€40) en e-mailfiltering (€40). Plus optioneel een cyberverzekering (€125-210/mnd). Totaal circa €475-560/mnd.
 
 **Welk antivirusprogramma is het beste voor zakelijk gebruik?**
@@ -507,8 +507,8 @@ Bitdefender GravityZone Business Security heeft de beste detectiepercentages. Mi
 **Heb ik als MKB echt een VPN nodig?**
 Als medewerkers regelmatig op afstand werken, ja. NordVPN Teams en Perimeter81 zijn de meest gebruikte zakelijke VPN-oplossingen voor het MKB. Combineer altijd met endpoint security.
 
-**Is een cyberverzekering noodzakelijk?**
+**Is een cyberverzekering noodzakelijk voor het MKB?**
 Steeds meer ja. De gemiddelde schade van een incident is €87.000. Een cyberverzekering kost €500-€3.000 per jaar. Standaard bedrijfsverzekeringen dekken cyberincidenten doorgaans NIET.
 
-**Wat doe ik als mijn bedrijf gehackt is?**
+**Wat moet ik doen als mijn bedrijf gehackt is?**
 Isoleer getroffen systemen direct. Bel een incident response specialist (NFIR, Fox-IT). Meld een datalek binnen 72 uur bij de Autoriteit Persoonsgegevens. Doe aangifte bij de politie. Informeer klanten als hun data gelekt is.

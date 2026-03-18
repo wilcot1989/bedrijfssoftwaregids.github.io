@@ -9,7 +9,7 @@ author: "Lars de Vries"
 author_bio: "B2B software consultant en redacteur bij Bedrijfssoftwaregids.nl"
 categories: ["planning"]
 tags: ["werkrooster software", "personeelsplanning", "shiftbase", "planday", "horeca software", "zorg software"]
-image: "/images/categories/productiviteit.svg"
+featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Wat is de beste werkrooster software voor horeca?"
     a: "Voor horeca zijn Shiftbase en Planday de sterkste opties. Shiftbase biedt uitstekende flexibiliteit voor oproepkrachten en nul-uren contracten, Planday heeft de beste mobiele app voor medewerkers die op locatie werken. Voor kleine horecabedrijven (tot 15 personen) is Shiftbase de prijs-kwaliteitswinnaar."
@@ -463,6 +463,28 @@ Begin met **Homebase gratis**. Zodra je de waarde ziet, upgrade naar Shiftbase.
 
 **Internationale activiteiten:**
 Kies **Deputy** voor de multi-jurisdictie ondersteuning en open API.
+
+---
+
+## Veelgestelde vragen
+
+**Wat is de beste werkrooster software voor horeca?**
+Voor horeca zijn Shiftbase en Planday de sterkste opties. Shiftbase biedt uitstekende flexibiliteit voor oproepkrachten en nul-uren contracten, Planday heeft de beste mobiele app voor medewerkers die op locatie werken. Voor kleine horecabedrijven tot 15 personen is Shiftbase de prijs-kwaliteitswinnaar.
+
+**Wat kost werkrooster software gemiddeld per maand?**
+Reken op €2–€6 per medewerker per maand voor basisfunctionaliteit. Premium pakketten met HR-integraties kosten €5–€10 per medewerker. Voor 20 medewerkers betaal je dus €40–€200 per maand. Shiftbase start al op €3,50 p.p., Quinyx op €5 p.p.
+
+**Kan ik werkrooster software gratis gebruiken?**
+Er zijn gratis opties, maar ze kennen limieten. Homebase is gratis tot 20 medewerkers op één locatie. When I Work heeft een gratis proef. Voor de meeste MKB-bedrijven zijn betaalde oplossingen (€3–€5 p.p.) de betere keuze vanwege betrouwbaarheid en integraties.
+
+**Welke werkrooster software integreert het best met loonadministratie?**
+Shiftbase integreert native met AFAS, Nmbrs, Loket.nl en Visma. Planday integreert met Exact Online, Nmbrs en Salary. Als je al AFAS gebruikt, is Shiftbase de logische keuze. Voor Exact Online gebruikers is Planday of Deputy sterk.
+
+**Is Excel nog te gebruiken als werkrooster voor kleine teams?**
+Technisch gezien wel, maar het is inefficiënt zodra je meer dan 5 medewerkers met variabele tijden hebt. Excel kent geen automatische notificaties, geen mobiele app voor medewerkers, geen verlofbeheer en geen koppeling met uren- of loonadministratie. De software verdient zichzelf terug in de eerste maand.
+
+**Welke werkrooster software werkt het beste voor zorgorganisaties?**
+Quinyx en Planday zijn het sterkst in zorg, met functies voor BIG-registratie controle, CAO-compliance en bezettingsnormen. Voor thuiszorg specifiek zijn Caren en Nedap ONS betere oplossingen, maar die zijn meer gespecialiseerde zorg-ERP dan zuivere roosterapps.
 
 ---
 

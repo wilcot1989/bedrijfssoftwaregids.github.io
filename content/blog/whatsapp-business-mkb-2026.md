@@ -397,17 +397,17 @@ Voor MKB-bedrijven die nu investeren in een goede WhatsApp Business-setup, is de
 **Is WhatsApp Business gratis?**
 De WhatsApp Business App is volledig gratis. De API kost geld via een officieel platform: reken op €20-€100/mnd afhankelijk van volume en platform. De eerste 1.000 service-gesprekken per maand via de API zijn gratis van Meta.
 
-**Mag ik WhatsApp Business gebruiken voor marketing?**
+**Mag ik WhatsApp Business gebruiken voor marketing onder de AVG?**
 Alleen met expliciete opt-in van de ontvanger. Bulk-berichten sturen zonder toestemming is een AVG-overtreding en wordt door WhatsApp bestraft met accountblokkering.
 
-**Kan ik WhatsApp koppelen aan mijn CRM?**
+**Kan ik WhatsApp Business koppelen aan mijn CRM?**
 Via de gratis app niet eenvoudig. Via de WhatsApp Business API (via platforms als Trengo of Messagebird) zijn directe koppelingen beschikbaar met de meeste populaire CRM-systemen.
 
-**Wat is het verschil tussen WhatsApp Business App en API?**
+**Wat is het verschil tussen WhatsApp Business App en WhatsApp Business API?**
 De App is gratis, werkt op je telefoon en is geschikt voor kleine teams (max. 5 apparaten). De API is voor grotere teams, biedt CRM-koppelingen en automatisering, maar kost geld via een BSP.
 
-**Wat zijn goede alternatieven?**
+**Wat zijn goede alternatieven voor WhatsApp Business?**
 Trengo (Nederlands, multi-channel, €25/gebruiker/mnd) is de meest complete keuze voor MKB. Tidio is goedkoper en focust op website-chat met WhatsApp-add-on. Messagebird is sterk voor API-gerichte implementaties.
 
-**Hoeveel apparaten kan ik koppelen?**
+**Hoeveel apparaten kan ik koppelen aan de WhatsApp Business App?**
 De WhatsApp Business App ondersteunt maximaal vijf apparaten. Voor meer gebruikers heb je de API nodig.

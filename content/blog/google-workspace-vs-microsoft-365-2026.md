@@ -488,14 +488,14 @@ Google Workspace Business Starter kost €6,90 per gebruiker per maand (jaarlijk
 **Wat kost Microsoft 365 voor het MKB?**
 Microsoft 365 Business Basic kost €6 per gebruiker per maand. Business Standard kost €12,50 per gebruiker en bevat de volledige desktopapps (Word, Excel, PowerPoint). Business Premium kost €22 per gebruiker en voegt geavanceerde beveiliging toe.
 
-**Welk pakket is beter voor samenwerking?**
+**Wat is het verschil tussen Google Workspace en Microsoft 365 voor samenwerking?**
 Google Workspace heeft een voorsprong bij realtime samenwerking: meerdere mensen werken tegelijk in hetzelfde document zonder versieproblemen. Microsoft 365 heeft co-authoring via OneDrive, maar dat werkt het best als alle partijen Microsoft 365 gebruiken.
 
-**Welke AI is beter: Gemini of Copilot?**
+**Welke AI is beter: Google Gemini of Microsoft Copilot?**
 Copilot is dieper geintegreerd in Word, Excel en PowerPoint. Gemini werkt beter in Gmail en Google Docs. Beide kosten extra: Copilot €30/gebruiker/mnd, Gemini €18/gebruiker/mnd. Voor de meeste MKB-bedrijven zijn de gratis AI-functies in de basissuites voorlopig voldoende.
 
-**Kan ik migreren van Microsoft naar Google?**
+**Kan ik migreren van Microsoft 365 naar Google Workspace?**
 Ja. Google biedt een gratis migratietool voor e-mail en agenda. Documenten migreer je handmatig via Google Drive. Reken op twee tot vier weken voor een team van 10-25 medewerkers inclusief training.
 
-**Welk pakket is beter voor een ZZP'er?**
+**Welk pakket is beter voor een ZZP'er of freelancer?**
 Google Workspace Starter (€6,90/mnd) of Microsoft 365 Business Basic (€6/mnd) zijn beide geschikt. Kies Microsoft als je veel in Word en Excel werkt; kies Google als je primair in de browser werkt.

@@ -9,7 +9,7 @@ author: "Lars de Vries"
 author_bio: "B2B software consultant en redacteur bij Bedrijfssoftwaregids.nl"
 categories: ["productiviteit"]
 tags: ["gratis software", "mkb", "zakelijke tools", "gratis crm", "gratis boekhouding", "freemium"]
-image: "/images/categories/productiviteit.svg"
+featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Is gratis zakelijke software betrouwbaar genoeg voor serieuze bedrijven?"
     a: "Ja, mits je de juiste tools kiest. HubSpot CRM, Clockify, Trello en Google Workspace zijn door miljoenen bedrijven in gebruik. De vraag is niet betrouwbaarheid maar grenzen: gratis plannen hebben limieten in gebruikers, opslag of functionaliteit. Ken je die grenzen, dan zijn gratis tools uitstekend voor starters en kleine teams."
@@ -459,6 +459,28 @@ Wees eerlijk met jezelf. Gratis software is uitstekend als startpunt, maar er zi
 - Integraties met andere tools nodig zijn die gratis plan niet biedt
 
 **De rekensom:** Als gratis software je 2 uur extra per maand kost door beperkte integraties of handmatig werk, en je uurtarief is €40: dan kost "gratis" je €80/maand. Pipedrive voor €14/maand is goedkoper.
+
+---
+
+## Veelgestelde vragen
+
+**Is gratis zakelijke software betrouwbaar genoeg voor serieuze bedrijven?**
+Ja, mits je de juiste tools kiest. HubSpot CRM, Clockify, Trello en Google Workspace zijn door miljoenen bedrijven in gebruik. De vraag is niet betrouwbaarheid maar grenzen: gratis plannen hebben limieten in gebruikers, opslag of functionaliteit. Ken je die grenzen, dan zijn gratis tools uitstekend voor starters en kleine teams.
+
+**Welke gratis boekhoudsoftware is het beste voor ZZP?**
+Wave is de meest complete gratis boekhoudoptie: onbeperkte facturen, kostenregistratie en rapporten. De beperking is dat Wave Payroll betaald is. Voor ZZP'ers die alleen facturen en kosten bijhouden, is Wave ideaal. Wil je BTW-aangifte direct koppelen, kijk dan naar het gratis plan van Moneybird (3 facturen/maand) of Flinkey.
+
+**Heeft HubSpot CRM echt een gratis versie?**
+Ja, en het is indrukwekkend genereus. HubSpot CRM gratis biedt onbeperkt contacten, deals, taken, e-mailtracking, basisrapportages en een gratis website-chatwidget. De betaalde toevoegingen zijn voor de meeste kleine bedrijven pas nodig bij 10+ actieve verkopers of geavanceerde marketingautomatisering.
+
+**Hoe lang kan ik gratis software blijven gebruiken?**
+Gratis (freemium) plannen zijn permanent — ze zijn een groeimodel voor de aanbieder. Zolang het bedrijf bestaat, heb je toegang. De risico's: het bedrijf stopt (zelden), het gratis plan wordt verslechterd (regelmatig), of je groeit de limieten uit (normaal). Exporteer altijd je data regelmatig als backup.
+
+**Wat zijn de verborgen kosten van gratis software?**
+Tijd is de grootste verborgen kost. Gratis software heeft minder support, minder integraties en vereist meer handmatig werk. Reken: bij 2 uur extra per maand × €40 = €80/maand ben je al duurder uit dan een betaald alternatief van €25/maand. Bereken dit eerlijk voordat je voor gratis kiest.
+
+**Welke gratis projectmanagement tool is het beste?**
+Voor kleine teams (minder dan 10 personen): Trello gratis is uitstekend voor simpele Kanban-workflows. Voor grotere teams of complexere projecten: ClickUp gratis (onbeperkte taken, onbeperkte leden) of Asana gratis (max 15 gebruikers). ClickUp heeft het meest genereuze gratis plan op papier; Trello het meest gebruiksvriendelijke.
 
 ---
 

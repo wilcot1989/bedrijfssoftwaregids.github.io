@@ -638,14 +638,14 @@ De beste gratis opties zijn ChatGPT Free (GPT-4o beschikbaar), Microsoft Copilot
 **Wat kost ChatGPT Plus voor een bedrijf?**
 ChatGPT Plus kost $20 per gebruiker per maand. Voor teams is ChatGPT Team ($30/gebruiker/mnd) beter: hogere limiten, gedeelde werkruimte en geen gebruik van data voor training.
 
-**Is AI veilig voor de AVG als ik klantdata invoer?**
+**Is AI veilig voor GDPR als je klantdata invoert?**
 Nooit gevoelige persoonsgegevens (BSN, medische data, rekeningnummers) invoeren in publieke AI-tools. ChatGPT Team en Enterprise, Copilot en Gemini Business bieden AVG-garanties, maar data verlaat nog steeds je systemen. Anonimiseer altijd voor je AI gebruikt.
 
 **Welke AI-tool is het beste voor tekstschrijven?**
 ChatGPT (GPT-4o) is de meest veelzijdige. Claude is beter voor lange documenten en genuanceerde teksten. Jasper is speciaal gebouwd voor marketingcontent. Voor Nederlandse teksten presteren alle drie goed.
 
-**Welke AI-tools zijn nuttig voor boekhouding?**
+**Welke AI-tools zijn nuttig voor boekhouding en financien?**
 Exact Online, Moneybird en Twinfield hebben ingebouwde AI voor categorisering en anomaliedetectie. ChatGPT is nuttig voor Excel-formules uitleggen en rapporten samenvatten. Laat AI nooit definitieve fiscale beslissingen nemen.
 
-**Hoe begin ik met AI zonder IT-afdeling?**
+**Hoe implementeer ik AI in mijn bedrijf zonder IT-afdeling?**
 Start klein: geef vijf medewerkers ChatGPT Team en drie concrete use cases. Evalueer na twee weken. De meeste AI-tools werken volledig via de browser — geen installatie of IT nodig.
