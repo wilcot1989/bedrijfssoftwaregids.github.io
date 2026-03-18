@@ -3,7 +3,7 @@ title: "AFAS Prijzen 2026: Wat Kost AFAS Software Echt?"
 date: 2026-06-11
 lastmod: 2026-06-11
 description: "AFAS publiceert geen prijzen. Op basis van marktervaring en klantgesprekken geef ik je een eerlijke schatting: wat kost AFAS per module en bedrijfsgrootte?"
-categories: ["hr"]
+categories: ["hr-software"]
 tags:
   - hr
   - mkb

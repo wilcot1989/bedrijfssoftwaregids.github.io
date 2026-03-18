@@ -3,7 +3,7 @@ title: "AFAS Review 2026: Eerlijk Oordeel na Testen"
 date: 2026-05-04
 lastmod: 2026-05-04
 description: "AFAS review 2026: modules, prijzen, voor- en nadelen eerlijk beoordeeld. Voor welke bedrijven is AFAS de juiste keuze en wanneer is het overkill?"
-categories: ["hr"]
+categories: ["hr-software"]
 tags:
   - hr
   - mkb

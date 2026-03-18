@@ -3,7 +3,7 @@ title: "HR-Software voor Uitzendbureaus 2026: Top 5"
 date: 2026-06-15
 lastmod: 2026-06-15
 description: "De beste HR-software voor uitzendbureaus van 2026: flexwerker-administratie, ABU/NBBU-CAO compliance, SNA-certificering en payroll vergeleken."
-categories: ["hr"]
+categories: ["hr-software"]
 tags:
   - hr
   - uitzendbranche

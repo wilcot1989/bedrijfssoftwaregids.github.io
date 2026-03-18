@@ -3,7 +3,7 @@ title: "Personio Review 2026: Snel Groeiend HR-Platform voor het MKB"
 date: 2026-05-17
 lastmod: 2026-05-17
 description: "Personio review 2026: modules, prijzen en nadelen eerlijk beoordeeld. Vergelijking met AFAS en Nmbrs. Is Personio het juiste HR-platform voor jou?"
-categories: ["hr"]
+categories: ["hr-software"]
 tags:
   - hr
   - mkb

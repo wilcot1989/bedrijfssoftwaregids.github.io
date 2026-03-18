@@ -3,7 +3,7 @@ title: "Beste Software voor Kinderopvang 2026: Top 5 Vergeleken"
 date: 2026-06-27
 lastmod: 2026-06-27
 description: "Beste software voor kinderopvang 2026: vergelijk Bitcare, KidsVision, Konnect en Flexkids op urenregistratie, oudercommunicatie en GGD-rapportage."
-categories: ["hr"]
+categories: ["hr-software"]
 tags:
   - hr
   - kinderopvang
