@@ -198,7 +198,7 @@ LiveChat ondersteunt WhatsApp via een add-on integratie. De koppeling werkt, maa
 
 Als je één ding wil — de beste live chat ervaring voor bezoekers en agents — wint LiveChat. De tool is betrouwbaar, snel, goed gedocumenteerd en de functies zoals typing preview en visitor tracking zijn uniek in dit prijssegment. Voor omnichannel klantenservice inclusief WhatsApp kijk je beter naar Trengo.
 
-<a href="https://www.livechat.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer LiveChat 14 dagen gratis →</a>
+<a href="https://www.livechat.com/?a=_vxQh-ODg&utm_campaign=pp_livechat-default&utm_source=PP" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer LiveChat 14 dagen gratis →</a>
 
 ---
 

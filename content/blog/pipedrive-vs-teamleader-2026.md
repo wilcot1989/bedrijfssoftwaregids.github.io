@@ -12,17 +12,17 @@ featured_image: "/images/categories/crm.svg"
 draft: false
 faq:
   - question: "Wat is het fundamentele verschil tussen Pipedrive en Teamleader?"
-    answer: "Pipedrive is een pure sales CRM gebouwd voor verkoopteams: pipeline management, dealtracking, salesautomatisering. Teamleader is een alles-in-één bedrijfsplatform voor MKB: CRM, projectmanagement, urenregistratie, facturatie en meer. Pipedrive focust diep op sales; Teamleader dekt de hele bedrijfsvoering."
+    a: "Pipedrive is een pure sales CRM gebouwd voor verkoopteams: pipeline management, dealtracking, salesautomatisering. Teamleader is een alles-in-één bedrijfsplatform voor MKB: CRM, projectmanagement, urenregistratie, facturatie en meer. Pipedrive focust diep op sales; Teamleader dekt de hele bedrijfsvoering."
   - question: "Is Teamleader duurder dan Pipedrive?"
-    answer: "Ja. Teamleader start bij €37,50/gebruiker/maand (jaarlijks), Pipedrive bij €14/gebruiker/maand. Maar Teamleader vervangt meerdere losse tools. Als je Pipedrive combineert met projectmanagement- en facturatiesoftware, kan de totaalprijs vergelijkbaar zijn."
+    a: "Ja. Teamleader start bij €37,50/gebruiker/maand (jaarlijks), Pipedrive bij €14/gebruiker/maand. Maar Teamleader vervangt meerdere losse tools. Als je Pipedrive combineert met projectmanagement- en facturatiesoftware, kan de totaalprijs vergelijkbaar zijn."
   - question: "Is Teamleader geschikt voor kleine teams van 2-3 personen?"
-    answer: "Teamleader heeft een minimum van 2 gebruikers en werkt goed voor kleine teams als je alle functies benut. Voor een freelancer of eenmansbedrijf is Teamleader overkill en te duur. Pipedrive is voor kleine salesteams toegankelijker qua prijs en complexiteit."
+    a: "Teamleader heeft een minimum van 2 gebruikers en werkt goed voor kleine teams als je alle functies benut. Voor een freelancer of eenmansbedrijf is Teamleader overkill en te duur. Pipedrive is voor kleine salesteams toegankelijker qua prijs en complexiteit."
   - question: "Heeft Pipedrive facturatiemogelijkheden?"
-    answer: "Pipedrive heeft een basismodule voor offertes en deals, maar geen volwaardige facturatie. Je kunt Pipedrive koppelen met externe facturatiesoftware zoals e-Boekhouden of Moneybird. Teamleader heeft ingebouwde facturatie — een significante functieverschil."
+    a: "Pipedrive heeft een basismodule voor offertes en deals, maar geen volwaardige facturatie. Je kunt Pipedrive koppelen met externe facturatiesoftware zoals e-Boekhouden of Moneybird. Teamleader heeft ingebouwde facturatie — een significante functieverschil."
   - question: "Welke is beter voor een dienstverlenend MKB-bedrijf?"
-    answer: "Voor een dienstverlenend bedrijf dat projecten bijhoudt, uren registreert en factureert op basis van bestede tijd, is Teamleader superieur. Pipedrive focust op het verkoopproces; zodra de deal getekend is, helpt het weinig bij de uitvoering. Voor bedrijven waarbij uitvoering even belangrijk is als verkoop, is Teamleader beter."
+    a: "Voor een dienstverlenend bedrijf dat projecten bijhoudt, uren registreert en factureert op basis van bestede tijd, is Teamleader superieur. Pipedrive focust op het verkoopproces; zodra de deal getekend is, helpt het weinig bij de uitvoering. Voor bedrijven waarbij uitvoering even belangrijk is als verkoop, is Teamleader beter."
   - question: "Kan ik van Pipedrive naar Teamleader migreren?"
-    answer: "Ja, maar het vereist planning. Teamleader heeft importtools voor contacten en deals. De migratie van actieve salesdata duurt gemiddeld een halve tot volledige dag. Plan de migratie aan het einde van een kwartaal om verstoringen te minimaliseren."
+    a: "Ja, maar het vereist planning. Teamleader heeft importtools voor contacten en deals. De migratie van actieve salesdata duurt gemiddeld een halve tot volledige dag. Plan de migratie aan het einde van een kwartaal om verstoringen te minimaliseren."
 ---
 
 Ik heb afgelopen jaar twee adviezen gegeven die lijnrecht tegenover elkaar staan. Aan een IT-bedrijf met zeven medewerkers zei ik: "Neem [Teamleader](/blog/teamleader-review-2026/), dat is het enige platform dat je nodig hebt." Aan een softwarebedrijf met twaalf verkopers zei ik: "Neem [Pipedrive](/blog/pipedrive-review-2026/), alles andere is afleiding." Beide adviezen waren correct — maar voor totaal verschillende situaties. Dat is precies het punt: Pipedrive en Teamleader zijn gebouwd voor andere soorten bedrijven. Dit artikel helpt je bepalen bij welke categorie jij hoort.
