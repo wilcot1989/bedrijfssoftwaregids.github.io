@@ -94,7 +94,7 @@ Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat
 **✅ Voordelen:** Modern en gebruiksvriendelijk, sterke API, goed medewerkersportaal, schaalbaar
 **❌ Nadelen:** Minder geschikt voor heel kleine bedrijven (<5), support kan beter
 
-<a href="https://www.nmbrs.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar nmbrs.com →</a>
+<a href="https://www.nmbrs.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar nmbrs.com →</a>
 
 ## 2. Visma Raet — Beste voor groot MKB
 
@@ -116,7 +116,7 @@ Vanaf €8-€15/medewerker/maand (afhankelijk van modules en bedrijfsgrootte)
 **✅ Voordelen:** Meest complete HR + payroll suite, alle CAO's, sterk verzuimmanagement, betrouwbaar
 **❌ Nadelen:** Duurder, interface kan moderner, implementatie kost tijd
 
-<a href="https://www.visma.nl/raet/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar visma.nl/raet →</a>
+<a href="https://www.visma.nl/raet/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar visma.nl/raet →</a>
 
 ## 3. Loket.nl — Beste voor klein MKB
 
@@ -142,7 +142,7 @@ Loket.nl raad ik aan als de portemonnee krap is maar je wel professionele salari
 **✅ Voordelen:** Goedkoopst, eenvoudig, snel operationeel, goede Nederlandse support
 **❌ Nadelen:** Minder functies dan Nmbrs/Visma, interface basaal, beperkte integraties
 
-<a href="https://www.loket.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar loket.nl →</a>
+<a href="https://www.loket.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar loket.nl →</a>
 
 ## 4. AFAS Software — Meest complete NL platform
 
@@ -162,7 +162,7 @@ Op aanvraag (typisch €20-€40/medewerker/maand voor het complete pakket)
 **✅ Voordelen:** Meest geïntegreerd NL platform, alles-in-één, sterke automatisering
 **❌ Nadelen:** Duur, overkill voor kleine bedrijven, langere implementatie
 
-<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar afas.nl →</a>
+<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar afas.nl →</a>
 
 Lees meer over AFAS in mijn [ERP-systeem overzicht](/blog/beste-erp-software-mkb-2026/).
 
@@ -184,7 +184,7 @@ Op aanvraag (typisch €15-€30/medewerker/maand, afhankelijk van landen en mod
 **✅ Voordelen:** Internationale dekking, compliance-zekerheid, schaalbaar
 **❌ Nadelen:** Duur voor alleen Nederland, interface niet de modernste, grote contracten
 
-<a href="https://www.adp.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar adp.com →</a>
+<a href="https://www.adp.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar adp.com →</a>
 
 ## Waar let je op bij de overstap naar nieuwe salarissoftware?
 

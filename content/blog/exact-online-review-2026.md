@@ -75,7 +75,7 @@ De vraag die ik het vaakst krijg over Exact Online: "Wat gaat het me kosten?" He
 
 Let op: de bovenstaande prijzen zijn verificaties van maart 2026 op exact.com/nl/producten/boekhouden. Exact hanteert regelmatig acties en kortingen. Combinatiepakketten zijn beschikbaar tegen gereduceerd tarief.
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Exact Online →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Exact Online →</a>
 
 ### Prijsberekening voorbeeld
 
@@ -401,6 +401,6 @@ Exact Online heeft drie hoofdfuncties op AI-gebied: factuurherkenning (OCR + mac
 
 Wil je nog meer opties verkennen? Bekijk dan onze vergelijking van de [beste facturatiesoftware voor het MKB](/blog/beste-facturatie-software-mkb-2026/) of ontdek hoe je je CRM kunt combineren met je boekhouding in ons artikel over de [beste CRM software](/blog/beste-crm-software-nederland-2026/).
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 Wil je Exact Online vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.

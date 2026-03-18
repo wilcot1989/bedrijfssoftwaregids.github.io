@@ -144,7 +144,7 @@ Het gratis plan is zo beperkt (maximaal 3 facturen per maand) dat het eigenlijk 
 
 Voor de meeste ZZP'ers is het plan van €28/maand het sweet spot. Je krijgt onbeperkte boekingen en bankkoppeling — alles wat je nodig hebt. Benieuwd hoe Moneybird zich verhoudt tot e-Boekhouden? Lees mijn uitgebreide [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -178,7 +178,7 @@ De prijs. €49/maand voor het instappakket is fors als je tien facturen per maa
 
 Het verschil met Moneybird is substantieel: €49 vs. €28 per maand, dat is €252 per jaar meer. Die investering moet je terugverdienen met functies die je ook daadwerkelijk gebruikt. Lees ook mijn volledige [Exact Online review](/blog/exact-online-review-2026/) voor een diepere analyse.
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -210,7 +210,7 @@ De interface is functioneel maar niet inspirerend. De mobiele app is basaal verg
 
 Die starter-actie is goud waard. 15 maanden gratis een compleet boekhoudpakket — nergens anders vind je dat.
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -246,7 +246,7 @@ Concreet scenario: ik ken een Nederlandse UX-designer die voor drie techbedrijve
 
 **Wanneer kies je NIET voor FreshBooks?** Als al je klanten in Nederland zitten en je in euro's factureert. Dan betaal je voor internationale features die je niet gebruikt en mis je de automatische Belastingdienst-koppeling die Nederlandse pakketten wel hebben.
 
-<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar freshbooks.com →</a>
+<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshbooks.com →</a>
 
 ---
 
@@ -281,7 +281,7 @@ In de praktijk werkt het zo: mijn eigen accountant werkt met InformerOnline voor
 
 Vergelijking met de alternatieven: als je een boekhouder hebt die ook met Moneybird werkt, is het prijsverschil gering (€17 vs. €28/maand). Dan kies je op basis van welke interface je prettiger vindt. Maar als je boekhouder specifiek met InformerOnline werkt -- of als de SBR-rapportages voor je jaarrekening relevant zijn -- dan is InformerOnline de logischere keuze. Wil je weten welk pakket het beste aansluit op de BTW-aangifte? Lees mijn vergelijking [BTW-aangifte: welke boekhoudsoftware?](/blog/btw-aangifte-welke-boekhoudsoftware/) voor een praktisch overzicht.
 
-<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar informer.nl →</a>
+<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar informer.nl →</a>
 
 ---
 
@@ -349,15 +349,15 @@ Niet alle ZZP'ers zijn gelijk. Hieronder geef ik mijn aanbevelingen per situatie
 
 ### ZZP'er als eenmanszaak
 
-De meest voorkomende situatie. Eén persoon, één BTW-nummer, dienstverlening of productverkoop. Mijn aanbeveling hier is Moneybird of e-Boekhouden. Beide werken prima als eenmanszaak, beide koppelen met alle grote Nederlandse banken en beide verwerken je BTW-aangifte automatisch. Het verschil zit in de interface (Moneybird mooier) en de prijs (e-Boekhouden goedkoper). Lees meer in mijn specifieke vergelijking: [boekhoudsoftware voor eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/).
+De meest voorkomende situatie. Eén persoon, één BTW-nummer, dienstverlening of productverkoop. Mijn aanbeveling hier is Moneybird of e-Boekhouden. Beide werken prima als eenmanszaak, beide koppelen met alle grote Nederlandse banken en beide verwerken je BTW-aangifte automatisch. Het verschil zit in de interface (Moneybird mooier) en de prijs (e-Boekhouden goedkoper). Lees meer in mijn specifieke vergelijking: [boekhoudsoftware voor eenmanszaken](/blog/beste-boekhoudsoftware-zzp-2026/).
 
 ### ZZP'er als freelancer
 
-Freelancers hebben vaak wat andere behoeften: urenregistratie per project, meerdere opdrachtgevers en soms internationale klanten. FreshBooks is de sterkste keuze als je internationaal werkt. Voor puur Nederlandse freelancers is Moneybird of InformerOnline (als je een boekhouder hebt) de betere keuze. Meer context in mijn artikel: [boekhoudsoftware voor freelancers](/sectoren/boekhouding/boekhoudsoftware-freelancers/).
+Freelancers hebben vaak wat andere behoeften: urenregistratie per project, meerdere opdrachtgevers en soms internationale klanten. FreshBooks is de sterkste keuze als je internationaal werkt. Voor puur Nederlandse freelancers is Moneybird of InformerOnline (als je een boekhouder hebt) de betere keuze. Meer context in mijn artikel: [boekhoudsoftware voor freelancers](/blog/beste-boekhoudsoftware-zzp-2026/).
 
 ### ZZP'er specifiek
 
-Als je je als "ZZP'er" identificeert -- dus zelfstandig ondernemer zonder personeel, Nederlandse klanten, standaard BTW-tarieven -- dan is de keuze eenvoudig: begin met Jortt (gratis) of e-Boekhouden (goedkoopst met telefoonondersteuning), en overweeg Moneybird als gebruiksgemak prioriteit heeft. Meer detail: [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/).
+Als je je als "ZZP'er" identificeert -- dus zelfstandig ondernemer zonder personeel, Nederlandse klanten, standaard BTW-tarieven -- dan is de keuze eenvoudig: begin met Jortt (gratis) of e-Boekhouden (goedkoopst met telefoonondersteuning), en overweeg Moneybird als gebruiksgemak prioriteit heeft. Meer detail: [boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/).
 
 ---
 
@@ -601,7 +601,7 @@ Twijfel je nog? Gebruik de gratis tools:
 - [Beste software voor accountants 2026](/blog/beste-software-accountants-2026/) — software vanuit het perspectief van je boekhouder
 - [fENNA review 2026](/blog/fenna-review-2026/) — eerlijk oordeel over het budgetvriendelijke boekhoudpakket
 - [fENNA vs e-Boekhouden 2026](/blog/fenna-vs-e-boekhouden-2026/) — directe vergelijking van twee betaalbare opties
-- [Boekhoudsoftware per doelgroep](/sectoren/boekhouding/) — welk pakket past bij jouw type onderneming?
+- [Boekhoudsoftware per doelgroep](/categories/boekhouding/) — welk pakket past bij jouw type onderneming?
 
 ## Mijn advies: het beste boekhoudprogramma per situatie
 

@@ -78,7 +78,7 @@ Wil je de jaarlijkse kosten van Moneybird vergelijken met alternatieven? Gebruik
 
 *Prijzen gecheckt op 1 maart 2026 via moneybird.nl/prijzen/. Alle bedragen excl. 21% btw.*
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Moneybird gratis →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
 
 ### Wat zit in elk betaald pakket?
 
@@ -458,6 +458,6 @@ Waar het tekortschiet: de extra kosten voor bankkoppelingen, de beperkte rapport
 
 **Het alternatief:** Zoek je hetzelfde gemak voor minder geld? Bekijk dan [e-Boekhouden.nl](/blog/moneybird-vs-e-boekhouden-2026/). Heb je meer functionaliteit nodig? Dan is [Exact Online](/blog/exact-online-review-2026/) de logische stap omhoog. Lees ook mijn complete vergelijking van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 Wil je Moneybird vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.
