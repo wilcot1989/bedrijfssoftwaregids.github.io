@@ -386,6 +386,10 @@ Na jaren van implementaties bij retailers weet ik welke functies daadwerkelijk i
 
 **Boekhoudkoppeling.** Handmatig omzetcijfers overtypen in je boekhoudprogramma is zonde van je tijd. Zorg dat je retail software koppelt met Exact Online, SnelStart of Moneybird. Lees meer over [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
 
+**Betaalverwerking.** Bij Shopify en Square betaal je transactiekosten bij elke pinbetaling. Wil je een onafhankelijke betaalprovider kiezen, lees dan mijn vergelijking van [Mollie vs MultiSafepay](/blog/mollie-vs-multisafepay-2026/) — met name relevant als je ook online verkoopt en de kosten wilt optimaliseren.
+
+**Voorraadbeheer.** Groeit je assortiment snel of heb je een productiebedrijf naast je winkel? Dan is aparte [voorraadbeheer software](/blog/beste-voorraadbeheer-software-2026/) soms zinvol naast je kassasysteem — zeker als je ook aan groothandel of B2B levert.
+
 ---
 
 ## Verborgen kosten om op te letten
