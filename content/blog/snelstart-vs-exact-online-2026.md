@@ -1,5 +1,5 @@
 ---
-title: "SnelStart vs Exact Online 2026: Starters vs MKB Vergeleken"
+title: "SnelStart vs Exact Online 2026: Starter vs MKB"
 date: 2026-03-18
 lastmod: 2026-03-18
 description: "SnelStart vs Exact Online eerlijk vergeleken op prijs, gebruiksgemak, functies, support en Nederlandse markt. Welke past bij jouw bedrijf?"

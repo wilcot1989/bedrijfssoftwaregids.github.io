@@ -1,5 +1,5 @@
 ---
-title: "Pipedrive vs Salesforce 2026: Vergeleken"
+title: "Pipedrive vs Salesforce 2026: MKB vs Enterprise"
 date: 2026-03-18
 lastmod: 2026-03-18
 description: "Pipedrive vs Salesforce eerlijk vergeleken op prijs, gebruiksgemak, functies, support en Nederlandse markt. Welke past bij jouw bedrijf?"
