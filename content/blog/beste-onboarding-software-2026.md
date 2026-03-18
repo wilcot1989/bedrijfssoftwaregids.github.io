@@ -56,7 +56,7 @@ faq:
     a: "Ja, de meeste tools koppelen met populaire ATS-systemen (Teamtailor, Recruitee, Greenhouse) zodat een aangenomen kandidaat automatisch instroomt in het onboarding-systeem. Dit voorkomt dubbele invoer en zorgt voor een naadloze candidate-to-employee-overgang."
 ---
 
-Een nieuwe medewerker die op zijn eerste dag zit te wachten op een laptop, geen toegang heeft tot systemen en niet weet wie zijn mentor is — dat is in 2026 echt niet meer acceptabel. Slechte onboarding kost u bovendien concreet geld: onderzoek van Glassdoor toont aan dat 20% van het verloop plaatsvindt in de eerste 45 dagen. Bij een gemiddeld vervangingskosten van 1 tot 2 keer het jaarsalaris, loopt dat snel op tot tienduizenden euro's per vertrekkende medewerker.
+Een nieuwe medewerker die op zijn eerste dag zit te wachten op een laptop, geen toegang heeft tot systemen en niet weet wie zijn mentor is — dat is in 2026 echt niet meer acceptabel. Onboarding is het begin van de medewerkerscyclus; voor het bredere HR-plaatje kijk ook naar [de beste HR-software voor Nederland](/blog/beste-hr-software-nederland-2026/) en de [HR-software categoriepagina](/categories/hr-software/). Slechte onboarding kost u bovendien concreet geld: onderzoek van Glassdoor toont aan dat 20% van het verloop plaatsvindt in de eerste 45 dagen. Bij een gemiddeld vervangingskosten van 1 tot 2 keer het jaarsalaris, loopt dat snel op tot tienduizenden euro's per vertrekkende medewerker.
 
 Goede onboarding software verandert dit structureel. Het automatiseert de administratieve rompslomp en zorgt dat nieuwe collega's direct productief, betrokken en welkom voelen.
 
@@ -84,11 +84,11 @@ Naast de kwalitatieve voordelen zijn er ook directe tijdsbesparingen. HR-medewer
 
 **Wat maakt Personio bijzonder:**
 
-Personio blinkt uit in workflow-automatisering voor onboarding. U configureert eenmalig uw onboardingproces — welke taken voor IT zijn, welke voor HR en welke voor de direct manager, welke documenten getekend moeten worden, welke trainingen verplicht zijn — en daarna verloopt alles automatisch bij elke nieuwe aanstelling.
+Lees voor een volledig overzicht ook mijn [Personio review](/blog/personio-review-2026/). Personio blinkt uit in workflow-automatisering voor onboarding. U configureert eenmalig uw onboardingproces — welke taken voor IT zijn, welke voor HR en welke voor de direct manager, welke documenten getekend moeten worden, welke trainingen verplicht zijn — en daarna verloopt alles automatisch bij elke nieuwe aanstelling.
 
 De medewerker ontvangt op dag één na ondertekening van het contract automatisch een welkomstmail met links naar het selfservice-portaal. Daar kan hij of zij documenten uploaden, persoonlijke informatie invullen en het inwerkprogramma bekijken. Alles op één plek, zonder heen en weer e-mailen.
 
-Het grote voordeel van Personio boven gespecialiseerde onboarding-tools is dat het ook alle andere HR-functies dekt: verlofbeheer, salarisadministratie, functioneringsgesprekken en recruitment. U heeft één systeem voor de hele medewerkerscyclus.
+Het grote voordeel van Personio boven gespecialiseerde onboarding-tools is dat het ook alle andere HR-functies dekt: verlofbeheer, salarisadministratie, functioneringsgesprekken en recruitment. Wilt u na onboarding ook talentmanagement inrichten? Dan is de combinatie met [een talentmanagement platform](/blog/beste-talentmanagement-software-2026/) een logische volgende stap. U heeft één systeem voor de hele medewerkerscyclus.
 
 **Functies van Personio:**
 
@@ -138,7 +138,7 @@ De digitale buddy-functie koppelt elke nieuwe medewerker aan een ervaren collega
 
 **Integraties:**
 
-Talmundo koppelt met HRIS-systemen als Workday, SAP SuccessFactors, Personio en diverse andere platforms. De koppeling zorgt dat nieuwe medewerkers automatisch instromen in het onboarding-traject zodra ze worden aangemeld in het HRIS.
+Talmundo koppelt met HRIS-systemen als Workday, SAP SuccessFactors, [Personio](/blog/personio-review-2026/) en diverse andere platforms. Vergelijk ook de positionering ten opzichte van [Personio vs. HoorayHR](/blog/personio-vs-hoorayhr-2026/) als u twijfelt over het juiste HRIS. De koppeling zorgt dat nieuwe medewerkers automatisch instromen in het onboarding-traject zodra ze worden aangemeld in het HRIS.
 
 **Nadelen van Talmundo:**
 
@@ -231,6 +231,8 @@ Appical is puur onboarding — geen bredere HR-functionaliteit. Ook vereist het 
 
 Een effectief onboardingprogramma omvat systematisch de volgende elementen:
 
+Een goed onboardingprogramma sluit naadloos aan op uw [AFAS-implementatie](/blog/afas-review-2026/) of andere HR-platform, zodat pre-boarding automatisch van start gaat zodra het contract is getekend.
+
 **Week -2 tot -1 (pre-boarding):**
 - Contract digitaal getekend en bewaard
 - IT-accounts aangemaakt (e-mail, systemen, tools)
@@ -247,7 +249,7 @@ Een effectief onboardingprogramma omvat systematisch de volgende elementen:
 - Briefing over de eerste week: wat staat er op de planning?
 
 **Week 1-4:**
-- Verplichte trainingen doorlopen (veiligheid, privacy, gedragscode)
+- Verplichte trainingen doorlopen (veiligheid, privacy, gedragscode) — gebruik hiervoor een [LMS of e-learning platform](/blog/beste-lms-elearning-software-2026/)
 - Kennismakingsgesprekken met stakeholders en collega's uit andere afdelingen
 - Eerste taken met begeleiding en ruimte voor vragen
 - Check-in aan het einde van week 1: hoe gaat het?
@@ -302,7 +304,7 @@ Wat effectieve preboarding omvat:
 - Eerste leesmateriaal over de rol, het team en de strategie
 - Introductiegesprekken inplannen voor de eerste week
 
-Onboarding software als Personio en Talmundo ondersteunen dit preboarding-proces volledig geautomatiseerd.
+Onboarding software als [Personio](/blog/personio-review-2026/) en Talmundo ondersteunen dit preboarding-proces volledig geautomatiseerd. Wilt u weten hoe HR-teams dit organiseren? De [HR-software vergelijkingstool](/tools/hr-software/keuzehulp/) helpt u de juiste combinatie te kiezen.
 
 ## Onboarding en medewerkersbetrokkenheid: de wetenschap
 
@@ -314,7 +316,7 @@ Wat de wetenschap zegt over effectieve onboarding:
 
 **De 90-dagenlimiet:** Onderzoek toont consistent dat als een nieuwe medewerker na 90 dagen niet tevreden is, de kans op vertrek binnen een jaar dramatisch stijgt. Onboarding moet de eerste 90 dagen actief bewaken en bijsturen.
 
-**Buddy-systemen werken:** Medewerkers die een buddy toegewezen krijgen, worden 23% sneller productief en zijn 36% tevredener in hun rol na een jaar, aldus Harvard Business Review-onderzoek. Onboarding-software die buddy-koppeling ondersteunt (zoals Talmundo en Appical) heeft daarmee een directe ROI.
+**Buddy-systemen werken:** Medewerkers die een buddy toegewezen krijgen, worden 23% sneller productief. Bekijk ook hoe [talentmanagement software](/blog/beste-talentmanagement-software-2026/) dit buddy-principe doorzet in de gehele eerste 90 dagen. en zijn 36% tevredener in hun rol na een jaar, aldus Harvard Business Review-onderzoek. Onboarding-software die buddy-koppeling ondersteunt (zoals Talmundo en Appical) heeft daarmee een directe ROI.
 
 **Manager-rol is cruciaal:** De kwaliteit van de onboarding-begeleiding door de directe manager heeft de grootste invloed op het succes van een nieuwe medewerker. Software die managers actief begeleidt met takenlijsten, herinneringen en check-in templates verhoogt de manager-effectiviteit aanzienlijk.
 

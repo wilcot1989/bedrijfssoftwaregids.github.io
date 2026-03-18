@@ -2,7 +2,7 @@
 title: "Software voor Onderwijsinstellingen 2026"
 date: 2026-03-18T08:55:00+01:00
 lastmod: 2026-03-18T08:55:00+01:00
-description: "Welke software kiezen onderwijsinstellingen in 2026? Ik vergelijk Canvas, Moodle, Google Classroom en Teams Education op gebruiksgemak, functies en kosten."
+description: "Software voor onderwijsinstellingen 2026: ik vergelijk Canvas, Moodle, Google Classroom en Teams Education op gebruiksgemak, functies en kosten."
 categories: ["productiviteit"]
 tags:
   - onderwijs
@@ -54,7 +54,7 @@ faq:
 
 Het onderwijs heeft de afgelopen jaren een enorme digitale transformatie doorgemaakt. COVID versnelde de adoptie van e-learning platforms, maar ook structureel is de behoefte aan goede ondersteuning van hybride en blended learning gegroeid.
 
-In dit artikel vergelijk ik de vier meest gebruikte softwareplatformen voor onderwijsinstellingen in Nederland: van basisschool tot universiteit.
+In dit artikel vergelijk ik de vier meest gebruikte softwareplatformen voor onderwijsinstellingen in Nederland: van basisschool tot universiteit. Zie ook ons brede overzicht van [LMS en e-learning software](/blog/beste-lms-elearning-software-2026/) en het [overzicht productiviteitssoftware](/categories/productiviteit/).
 
 ## De digitale onderwijsomgeving in Nederland
 
@@ -210,7 +210,7 @@ Onderwijsinstellingen verwerken persoonsgegevens van minderjarigen — dat verei
 - **Toestemming van ouders**: Voor kinderen onder 16 jaar is toestemming van ouders vereist voor verwerking van persoonsgegevens.
 - **Dataretentiebeleid**: Hoe lang worden gegevens bewaard? Na uitschrijving moeten data worden verwijderd.
 
-Google Workspace for Education en Microsoft hebben specifieke onderwijsovereenkomsten die AVG-compliant zijn. Raadpleeg ook de adviezen van Kennisnet en de PO-Raad over privacy in edtech.
+Google Workspace for Education en Microsoft hebben specifieke onderwijsovereenkomsten die AVG-compliant zijn. Raadpleeg ook de adviezen van Kennisnet en de PO-Raad over privacy in edtech. Voor documentbeheer en AVG-compliance bekijk ook onze vergelijking van [documenten management software](/blog/beste-documenten-management-2026/).
 
 **Kennisnet SURF-kader:** Onderwijsinstellingen in het hoger onderwijs gebruiken het SURF-kader voor cloud-inkoop. Platforms als Canvas en Moodle zijn geëvalueerd via dit kader. Vraag uw potentiële leverancier naar hun SURF-certificeringsstatus.
 
@@ -235,7 +235,7 @@ Voor volledige werking integreert uw LMS idealiter met:
 - **OSR / Osiris** (studievoortgang voor HBO/WO)
 - **SURFconext** voor veilig inloggen in het hoger onderwijs
 
-Canvas heeft de sterkste koppelingen met Nederlandse SIS-systemen. Moodle kan via plugins worden gekoppeld. Teams Education koppelt via School Data Sync met Magister en SOMtoday.
+Canvas heeft de sterkste koppelingen met Nederlandse SIS-systemen. Moodle kan via plugins worden gekoppeld. Teams Education koppelt via School Data Sync met Magister en SOMtoday. Voor online vergaderen en hybride lessen is ook een goede [vergadersoftware](/blog/beste-vergadersoftware-2026/) nodig.
 
 ## LTI-standaard: hoe externe tools integreren in uw LMS
 
@@ -243,15 +243,15 @@ LTI (Learning Tools Interoperability) is de standaard voor het integreren van ex
 
 Canvas en Moodle ondersteunen LTI 1.3 (de nieuwste versie) volledig. Google Classroom heeft beperkte LTI-ondersteuning. Teams Education ondersteunt LTI via de Teams App Store maar minder naadloos.
 
-Als uw instelling investeert in externe leertoepassingen, is LTI-ondersteuning een kritisch selectiecriterium.
+Als uw instelling investeert in externe leertoepassingen, is LTI-ondersteuning een kritisch selectiecriterium. Voor meer over e-learning tools bekijk ook onze uitgebreide gids over [LMS en e-learning software voor bedrijven](/blog/beste-lms-elearning-software-2026/).
 
 ## Blended learning: hoe kiest u de juiste aanpak?
 
-Blended learning — de combinatie van contactonderwijs en online leren — is voor de meeste Nederlandse instellingen de norm geworden. Uw LMS speelt een centrale rol:
+Blended learning — de combinatie van contactonderwijs en online leren — is voor de meeste Nederlandse instellingen de norm geworden. Uw LMS speelt een centrale rol. Bekijk ook onze vergelijking van de [beste LMS en e-learning software](/blog/beste-lms-elearning-software-2026/) voor een uitgebreid overzicht van alle opties:
 
 **Voor zelfstudie en voorbereiding:** Canvas en Moodle bieden uitgebreide mogelijkheden voor pre-class materiaal: video's, leesteksten, kennistoetsen. Studenten bereiden zich voor, zodat contactmomenten effectiever zijn.
 
-**Tijdens de les:** Teams Education en Google Meet integreren naadloos met de leeromgeving voor hybride lessen waarbij een deel van de groep op locatie is en een deel digitaal deelneemt.
+**Tijdens de les:** Teams Education en Google Meet integreren naadloos met de leeromgeving voor hybride lessen waarbij een deel van de groep op locatie is en een deel digitaal deelneemt. Bekijk ook onze vergelijking van de [beste vergadersoftware](/blog/beste-vergadersoftware-2026/) voor aanvullende opties voor hybride onderwijs.
 
 **Na de les:** Canvas's discussieboards en Moodle's forums faciliteren asynchrone kennisdeling tussen studenten onderling.
 
@@ -292,6 +292,8 @@ De totale eigendomskosten (TCO) over 5 jaar zijn voor Canvas en Moodle vergelijk
 
 **Microsoft-omgevingen**: Teams Education als aanvulling op of vervanging van een basis-LMS — niet als vervanging voor een volledig LMS bij hoger onderwijs.
 
+Bekijk ook onze uitgebreide vergelijking van [alle LMS en e-learning platforms](/blog/beste-lms-elearning-software-2026/) en de [beste vergadersoftware voor online lessen](/blog/beste-vergadersoftware-2026/).
+
 ## Veelgestelde vragen
 
 ### Wat is het verschil tussen een LMS en een LCMS?
@@ -324,7 +326,7 @@ Dit is een aandachtspunt voor scholen in achterstandswijken. Google Workspace fo
 
 ## Toetsing en assessment in digitale leeromgevingen
 
-Digitale toetsing is een van de meest uitdagende aspecten van onderwijs-software. Hoe zorgt u ervoor dat de toets valide en betrouwbaar is?
+Digitale toetsing is een van de meest uitdagende aspecten van onderwijs-software. Hoe zorgt u ervoor dat de toets valide en betrouwbaar is? Voor het bijhouden van documenten en materialen rondom toetsing, bekijk ook onze vergelijking van [documenten management systemen](/blog/beste-documenten-management-2026/).
 
 **Formatieve assessment (tussentijdse toetsing):**
 Google Forms via Classroom, Canvas Quizzes en Moodle's quiz-module bieden uitstekende mogelijkheden voor snelle kenniscontroles. Meerkeuze, open vragen, sleepvragen en video-antwoorden zijn mogelijk.
@@ -340,7 +342,7 @@ Voor beroepsonderwijs is portfolio-beoordeling belangrijk. Canvas heeft een uitg
 
 ## Adoptie-strategie: hoe zorg u voor draagvlak bij docenten?
 
-De grootste valkuil bij LMS-implementatie is niet de techniek maar de docenten die het systeem niet gebruiken. Hier zijn bewezen strategieën voor adoptie:
+De grootste valkuil bij LMS-implementatie is niet de techniek maar de docenten die het systeem niet gebruiken. Hier zijn bewezen strategieën voor adoptie. Voor bredere HR en onboarding-vragen bij instellingen, bekijk ook onze gids over [onboarding software](/blog/beste-onboarding-software-2026/):
 
 **Begin met enthousiaste vroege gebruikers:**
 Zoek 3-5 docenten die staan te popelen om het nieuwe systeem te proberen. Laat hen hun ervaringen delen met collega's. Peer-to-peer leren werkt beter dan top-down training.
@@ -359,7 +361,7 @@ Deel verhalen van docenten die tijd besparen of betere studenten-resultaten zien
 
 ## Toekomstige ontwikkelingen: AI in het onderwijs
 
-Artificial intelligence verandert het onderwijs structureel. Wat kunt u verwachten van LMS-software in de komende jaren?
+Artificial intelligence verandert het onderwijs structureel. Wat kunt u verwachten van LMS-software in de komende jaren? Voor alle [productiviteitssoftware-tools](/categories/productiviteit/) in het onderwijs heeft BSG ook een uitgebreid overzicht.
 
 **Adaptief leren:** AI past de leerroute aan op basis van individuele prestaties van studenten. Canvas en Moodle investeren in adaptieve learning modules. Een student die moeite heeft met een bepaald concept krijgt automatisch extra oefeningen aangeboden.
 

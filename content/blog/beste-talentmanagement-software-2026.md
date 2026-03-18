@@ -56,7 +56,7 @@ faq:
     a: "OKRs (Objectives and Key Results) zijn een doelenstellingsraamwerk waarbij ambitieuze kwalitatieve doelen (Objectives) worden gekoppeld aan meetbare resultaten (Key Results). Platforms als Leapsome en Lattice ondersteunen OKR-management volledig: cascadering van bedrijfsdoelen naar team- en individueel niveau."
 ---
 
-Goed presterende medewerkers vertrekken niet vanwege salaris — ze vertrekken door gebrek aan ontwikkelperspectief en onvoldoende erkenning. Dat zeggen ze zelf in exitgesprekken. McKinsey-onderzoek toont aan dat 55% van vertrekkende medewerkers aangeeft dat hun loopbaanmogelijkheden beperkt waren. Slechts 9% vertrekt primair om salaris.
+Goed presterende medewerkers vertrekken niet vanwege salaris — ze vertrekken door gebrek aan ontwikkelperspectief en onvoldoende erkenning. Talentmanagement is de strategische laag boven [HR-administratie](/blog/beste-hr-software-nederland-2026/) en sluit direct aan op uw [onboardingprogramma](/blog/beste-onboarding-software-2026/) voor nieuwe medewerkers. Bekijk ook de [HR-software categoriepagina](/categories/hr-software/) voor het totale ecosysteem. Dat zeggen ze zelf in exitgesprekken. McKinsey-onderzoek toont aan dat 55% van vertrekkende medewerkers aangeeft dat hun loopbaanmogelijkheden beperkt waren. Slechts 9% vertrekt primair om salaris.
 
 Talentmanagement software helpt u dit structureel anders te doen. Niet meer één jaarlijks functioneringsgesprek waarbij iedereen het gevoel heeft tijd te verspillen, maar een continu proces van feedback, doelen stellen en ontwikkelen dat medewerkers daadwerkelijk verder helpt.
 
@@ -90,7 +90,7 @@ De analytics-module is uitzonderlijk sterk: u ziet per team, afdeling en individ
 
 Performance reviews in Leapsome ondersteunen meerdere formats: 360° feedback (collega's beoordelen elkaar), upward feedback (medewerkers geven feedback aan hun manager), peer review en zelfbeoordeling. U configureert de reviewcyclus op maandbasis, kwartaal of halfjaarlijks.
 
-OKR-management is sterk uitgewerkt: bedrijfsdoelen cascaderen automatisch naar team- en individueel niveau. Medewerkers zien hoe hun OKRs bijdragen aan de bedrijfsstrategie, wat betrokkenheid verhoogt.
+OKR-management is sterk uitgewerkt: bedrijfsdoelen cascaderen automatisch naar team- en individueel niveau. Medewerkers zien hoe hun OKRs bijdragen aan de bedrijfsstrategie, wat betrokkenheid verhoogt. De combinatie met een goed [LMS voor e-learning](/blog/beste-lms-elearning-software-2026/) maakt de ontwikkelplannen direct uitvoerbaar.
 
 Engagement surveys zijn modulair: u kiest tussen een uitgebreide jaarlijkse survey of kortere pulse-surveys op wekelijkse of maandelijkse basis. Resultaten worden anoniem gerapporteerd met benchmarks.
 
@@ -98,7 +98,7 @@ Leer- en ontwikkelmodule: medewerkers stellen individuele ontwikkelplannen op di
 
 **Integraties:**
 
-Leapsome koppelt met Personio, BambooHR, Workday, SAP, Slack, Microsoft Teams en Google Workspace.
+Leapsome koppelt met [Personio](/blog/personio-review-2026/), BambooHR, Workday, SAP, Slack, Microsoft Teams en Google Workspace.
 
 <a href="https://www.dpbolvw.net/click-101698621-13855808" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Google Workspace voor HR-teams →</a>
 
@@ -184,7 +184,7 @@ Lattice is het duurst van de vier en de prijs stijgt snel als u meerdere modules
 
 **Wat maakt Bob bijzonder:**
 
-Bob's interface is de meest moderne en aantrekkelijk van de vier: kleurrijk, intuïtief en door medewerkers als prettig ervaren. Hoge adoptie is het resultaat: medewerkers gebruiken het systeem dagelijks in plaats van alleen tijdens review-seizoen.
+Bob's interface is de meest moderne en aantrekkelijk van de vier: kleurrijk, intuïtief en door medewerkers als prettig ervaren. Bekijk de vergelijking van [Personio vs. HoorayHR](/blog/personio-vs-hoorayhr-2026/) voor een goed beeld van hoe Bob zich positioneert ten opzichte van andere Europese HR-platforms. Hoge adoptie is het resultaat: medewerkers gebruiken het systeem dagelijks in plaats van alleen tijdens review-seizoen.
 
 Bob is bijzonder sterk in workforce planning en org-chart visualisatie. Voor snelgroeiende bedrijven die constant hun structuur aanpassen, is inzicht in de organisatiestructuur en open posities bijzonder waardevol.
 
@@ -236,7 +236,7 @@ Leapsome en Lattice ondersteunen OKR-management volledig, inclusief cascadering 
 
 ## Implementatietips voor succes met talentmanagement software
 
-Talentmanagement software is pas effectief als het daadwerkelijk gebruikt wordt. De grootste fout die organisaties maken, is het systeem technisch implementeren zonder de menselijke kant te adresseren.
+Talentmanagement software is pas effectief als het daadwerkelijk gebruikt wordt. De grootste fout die organisaties maken, is het systeem technisch implementeren zonder de menselijke kant te adresseren. Dit begint al bij de [onboarding](/blog/beste-onboarding-software-2026/): hoe beter nieuwe medewerkers worden ingewerkt, hoe sneller ze het talentmanagementsysteem omarmen.
 
 **1. Start met één module, niet alles tegelijk**
 
@@ -279,7 +279,7 @@ Voor HR-teams die Google Workspace gebruiken biedt [Google Workspace](https://ww
 
 ## Succession planning: het vergeten onderdeel van talentmanagement
 
-Naast performance management en ontwikkeling is opvolgingsplanning een cruciaal onderdeel van talentmanagement dat veel MKB-bedrijven vergeten. Succession planning beantwoordt de vraag: wie neemt een sleutelfunctie over als de huidige medewerker vertrekt, ziek wordt of promoveert?
+Naast performance management en ontwikkeling is opvolgingsplanning een cruciaal onderdeel van talentmanagement dat veel MKB-bedrijven vergeten. Zeker als u de aansluiting zoekt met uw [AFAS HR-omgeving](/blog/afas-review-2026/), is integratie van talentmodules een logische volgende stap. Succession planning beantwoordt de vraag: wie neemt een sleutelfunctie over als de huidige medewerker vertrekt, ziek wordt of promoveert?
 
 Lattice heeft de sterkste succession planning-module van de vier besproken platforms. U kunt per sleutelpositie aangeven wie de beoogde opvolger is en welke ontwikkelstappen nodig zijn om klaar te zijn. Zo creëert u een intern talent pipeline die dure externe recruitment voor seniorposities vermindert.
 
@@ -372,7 +372,7 @@ Leapsome is populair bij Europese scale-ups en MKB met sterke HR-ambitie. Bob (H
 
 ### Hoe integreer ik talentmanagement software met mijn bestaande HR-systeem?
 
-De meeste tools koppelen via API of directe integraties met HRIS-systemen als Personio, BambooHR, Workday en SAP SuccessFactors. Zo blijft uw medewerkersdatabase de enige bron van waarheid en stromen data automatisch door naar het talentmanagement platform.
+De meeste tools koppelen via API of directe integraties met HRIS-systemen als [Personio](/blog/personio-review-2026/), BambooHR, Workday en SAP SuccessFactors. Zo blijft uw medewerkersdatabase de enige bron van waarheid en stromen data automatisch door naar het talentmanagement platform. Twijfelt u over de keuze? Lees dan de vergelijking [Personio vs. HoorayHR](/blog/personio-vs-hoorayhr-2026/) voor een concreet richtpunt voor het Nederlandse MKB.
 
 ### Hoe meet ik medewerkersbetrokkenheid met talentmanagement software?
 
