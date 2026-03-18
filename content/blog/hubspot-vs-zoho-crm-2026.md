@@ -1,5 +1,5 @@
 ---
-title: "HubSpot vs Zoho CRM 2026: Gratis vs Budget"
+title: "HubSpot vs Zoho CRM 2026: Eerlijk Oordeel"
 description: "HubSpot of Zoho CRM kiezen? Uitgebreide vergelijking op prijs, functies, schaalbaarheid en meer. Met eerlijk advies voor Nederlandse MKB-bedrijven die willen groeien."
 date: 2026-03-18
 lastmod: 2026-03-18

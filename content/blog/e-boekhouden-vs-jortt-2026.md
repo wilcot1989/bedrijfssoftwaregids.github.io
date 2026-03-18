@@ -1,5 +1,5 @@
 ---
-title: "e-Boekhouden vs Jortt 2026: Welke is Goedkoper?"
+title: "e-Boekhouden vs Jortt 2026: Kosten & Ervaringen"
 description: "Uitgebreide vergelijking van e-Boekhouden en Jortt. Prijs, functies, gebruiksgemak en meer — alles vergeleken voor ZZP'ers en MKB in Nederland."
 date: 2026-03-18
 lastmod: 2026-03-18

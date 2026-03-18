@@ -1,5 +1,5 @@
 ---
-title: "e-Boekhouden vs Exact Online 2026: €40 Verschil"
+title: "e-Boekhouden vs Exact Online 2026: Kosten & Functies"
 date: 2026-03-18
 lastmod: 2026-03-18
 description: "e-Boekhouden vs Exact Online eerlijk vergeleken op prijs, gebruiksgemak, functies, support en Nederlandse markt. Welke past bij jouw bedrijf?"
