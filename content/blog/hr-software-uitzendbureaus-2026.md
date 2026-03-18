@@ -114,7 +114,7 @@ De combinatie Nmbrs (payroll) en Easyflex (uitzendadministratie) is de meest geb
 
 Ik heb deze combinatie bij meerdere uitzendbureaus geïmplementeerd. Het sterke punt is de diepgaande kennis van de uitzendbranche die in beide systemen is ingebouwd. Easyflex is jarenlang de standaard geweest voor uitzendadministratie en kent de ABU- en NBBU-CAO door en door.
 
-Lees mijn [Nmbrs review 2026](/blog/nmbrs-review-2026/) voor een uitgebreide analyse van het payroll-component.
+Lees mijn [Nmbrs review 2026](/blog/nmbrs-review-2026/) voor een uitgebreide analyse van het payroll-component. Twijfel je of Nmbrs of AFAS Payroll beter bij jouw bureau past? De [Nmbrs vs AFAS Payroll vergelijking](/blog/nmbrs-vs-afas-payroll-2026/) zet beide opties naast elkaar op prijs, functionaliteit en geschiktheid voor de uitzendbranche.
 
 ### Belangrijkste functies Easyflex
 - Flexwerker-administratie met volledig dossier

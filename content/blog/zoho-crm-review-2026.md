@@ -204,7 +204,7 @@ Support is beschikbaar via e-mail, live chat en telefoon — maar de kwaliteit i
 
 ### 5. Integratie met Nederlandse tools vereist maatwerk
 
-De koppeling met typisch Nederlandse software (Exact Online, Moneybird, e-Boekhouden, Twinfield) loopt vrijwel altijd via Zapier of Make — er zijn geen kant-en-klare native integraties. Dat werkt prima, maar voegt kosten en technische kennis toe. Voor de [beste CRM-integraties](/blog/crm-integraties-uitgelegd/) voor het Nederlandse MKB is dit een serieuze overweging.
+De koppeling met typisch Nederlandse software (Exact Online, Moneybird, e-Boekhouden, Twinfield) loopt vrijwel altijd via Zapier of Make — er zijn geen kant-en-klare native integraties. Dat werkt prima, maar voegt kosten en technische kennis toe. Voor de [beste CRM-integraties](/blog/crm-integraties-uitgelegd/) voor het Nederlandse MKB is dit een serieuze overweging. Wil je dieper ingaan op hoe je Zoho CRM koppelt aan je boekhouding? Lees mijn [CRM koppelen aan boekhouding gids](/blog/crm-koppelen-boekhouding-2026/) voor een stap-voor-stap aanpak.
 
 ### 6. Gratis plan heeft duidelijke beperkingen
 
@@ -361,5 +361,6 @@ Twijfel je welk CRM het beste bij jouw situatie past? Gebruik de [CRM keuzehulp]
 - [Close CRM vs Pipedrive 2026](/blog/close-crm-vs-pipedrive-2026/)
 - [CRM voor advocatenkantoren 2026](/blog/crm-voor-advocatenkantoren-2026/)
 - [CRM voor accountants 2026](/blog/crm-voor-accountants-2026/)
+- [GDPR en CRM: wat mag je opslaan?](/blog/gdpr-crm-wat-mag-je-opslaan-2026/) -- belangrijk als je klantdata opslaat in Zoho CRM
 
 *Prijzen gecontroleerd op 1 juni 2026. Zoho past tarieven periodiek aan — controleer altijd de actuele prijzen op zoho.com/crm/pricing.*

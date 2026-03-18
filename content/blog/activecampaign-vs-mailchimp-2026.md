@@ -38,7 +38,7 @@ faq:
 
 ActiveCampaign vs Mailchimp -- deze vergelijking gaat over een fundamentele keuze: wil je de krachtigste marketing automation op de markt, of wil je de meest gebruiksvriendelijke email tool met een sterk gratis plan? Na tientallen implementaties van beide platforms bij Nederlandse bedrijven kan ik je vertellen dat het antwoord zelden zwart-wit is. Het hangt af van je team, je budget en vooral van wat je daadwerkelijk met email marketing wilt bereiken. In deze vergelijking zet ik beide tools eerlijk naast elkaar -- met actuele prijzen, Trustpilot-scores en de fouten die ik klanten heb zien maken.
 
-Zoek je een breder overzicht? Bekijk dan de [beste email marketing software voor Nederland](/blog/beste-email-marketing-software-2026/). Of lees mijn [Brevo vs Mailchimp vergelijking](/blog/brevo-vs-mailchimp-2026/) als je ook een Europees alternatief wilt overwegen.
+Zoek je een breder overzicht? Bekijk dan de [beste email marketing software voor Nederland](/blog/beste-email-marketing-software-2026/). Of lees mijn [Brevo vs Mailchimp vergelijking](/blog/brevo-vs-mailchimp-2026/) als je ook een Europees alternatief wilt overwegen. Wil je weten hoe ActiveCampaign zich verhoudt tot Brevo op het gebied van prijs en automatisering? Lees de [Brevo vs ActiveCampaign vergelijking](/blog/brevo-vs-activecampaign-2026/).
 
 ---
 

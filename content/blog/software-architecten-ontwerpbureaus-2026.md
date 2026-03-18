@@ -265,7 +265,7 @@ Als je project- en ureninformatie in één systeem hebt en je factureert handmat
 
 ### Stap 1: Inventariseer je huidige werkwijze
 
-Maak een lijst van alle tools die je nu gebruikt: Excel voor uren? Word voor offertes? Outlook als CRM? Dan weet je wat je wil vervangen en wat je wil behouden.
+Maak een lijst van alle tools die je nu gebruikt: Excel voor uren? Word voor offertes? Outlook als CRM? Dan weet je wat je wil vervangen en wat je wil behouden. Als je nu veel in Excel werkt voor projectplanning, lees dan ook mijn [van spreadsheet naar projectmanagement gids](/blog/spreadsheet-naar-projectmanagement-2026/) — dat artikel helpt je concreet door het migratieproces heen.
 
 ### Stap 2: Betrek je team vroeg
 

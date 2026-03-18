@@ -78,7 +78,7 @@ Een bedrijf met 25 medewerkers betaalt ruwweg €125-250 per maand voor de pure 
 
 ### AFAS Payroll: module binnen een groter geheel
 
-AFAS werkt met modulelicenties. De exacte prijzen worden pas na een verkoopgesprek gecommuniceerd — AFAS publiceert bewust geen openbare prijslijst. Marktkennis en publicaties wijzen op:
+AFAS werkt met modulelicenties. De exacte prijzen worden pas na een verkoopgesprek gecommuniceerd — AFAS publiceert bewust geen openbare prijslijst. Voor een uitgebreide analyse van wat AFAS daadwerkelijk kost per module en bedrijfsgrootte, lees mijn [AFAS prijzen 2026](/blog/afas-prijzen-2026/). Marktkennis en publicaties wijzen op:
 
 - **AFAS Payroll module:** Vanaf circa €350-500 per maand voor kleine bedrijven
 - **Implementatiekosten:** €5.000-25.000+ afhankelijk van complexiteit en aanpassing
@@ -359,7 +359,7 @@ Voor het Nederlandse mkb dat salarisadministratie wil professionaliseren zonder 
 
 AFAS Payroll heeft zijn waarde — maar alleen als onderdeel van het bredere AFAS-ecosysteem. Als je niet ook AFAS Financieel of AFAS HRM overweegt, is de prijs-kwaliteitverhouding voor uitsluitend Payroll moeilijk te rechtvaardigen.
 
-Lees ook mijn [Nmbrs review](/blog/nmbrs-review-2026/) en [AFAS review](/blog/afas-review-2026/) voor volledige analyses van beide platforms. Voor een breder HR-software perspectief, zie mijn [HR-software overzicht](/blog/beste-hr-software-nederland-2026/).
+Lees ook mijn [Nmbrs review](/blog/nmbrs-review-2026/) en [AFAS review](/blog/afas-review-2026/) voor volledige analyses van beide platforms. Voor een breder HR-software perspectief, zie mijn [HR-software overzicht](/blog/beste-hr-software-nederland-2026/). Wil je verder kijken dan payroll en ook HR-modules vergelijken? De [Personio vs HoorayHR vergelijking](/blog/personio-vs-hoorayhr-2026/) geeft een goed beeld van de bredere HR-softwaremarkt.
 
 ## De payroll-compliance uitdagingen van 2026
 

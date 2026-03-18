@@ -186,6 +186,9 @@ Voor meer over zakelijke toolkoppelingen, lees ook [CRM integraties uitgelegd](/
 | Bedrijf met HubSpot marketing | HubSpot + Exact Online | Native (App Marketplace) |
 | Sales-gedreven team | Pipedrive + Exact Online | Zapier of Make |
 | Budget-bewust, technisch team | Close + Moneybird | Zapier |
+| Bouwbedrijf of projectorganisatie | Teamleader of Gripp + Exact | Native of Zapier |
+
+Voor bouwbedrijven en aannemers die ook offerte- en projectbeheer willen integreren, lees mijn [CRM voor bouwbedrijven 2026](/blog/crm-bouw-2026/) voor sector-specifieke aanbevelingen.
 
 ## Samenvatting
 

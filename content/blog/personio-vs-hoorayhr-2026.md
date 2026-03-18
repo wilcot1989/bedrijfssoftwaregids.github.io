@@ -65,7 +65,7 @@ Die tabel vertelt het kernverhaal. Personio is het bredere platform met meer mod
 
 ## Kostenvergelijking
 
-Prijzen zijn het eerste waar de meeste HR-managers naar kijken, en hier zit een fundamenteel verschil in aanpak.
+Prijzen zijn het eerste waar de meeste HR-managers naar kijken, en hier zit een fundamenteel verschil in aanpak. Als je ook wilt weten wat een zwaarder ERP-platform als AFAS kost, lees dan mijn [AFAS prijzen 2026](/blog/afas-prijzen-2026/) voor een eerlijke marktinschatting.
 
 ### Personio: offerte-model
 
@@ -127,7 +127,7 @@ Met 200+ integraties koppel je Personio aan vrijwel alles: Slack, Microsoft Team
 
 ### Waar Personio tekortschiet
 
-De salarisverwerking is niet standaard beschikbaar voor Nederland. Personio biedt payroll als add-on en via partners, maar voor specifiek Nederlandse loonverwerking (met CAO-tabellen, premies en loonaangifte) heb je een koppeling met een lokale payrollpartner nodig -- bijvoorbeeld Nmbrs. Dat is een extra kostenpost en een extra systeem om te beheren.
+De salarisverwerking is niet standaard beschikbaar voor Nederland. Personio biedt payroll als add-on en via partners, maar voor specifiek Nederlandse loonverwerking (met CAO-tabellen, premies en loonaangifte) heb je een koppeling met een lokale payrollpartner nodig -- bijvoorbeeld Nmbrs. Als je twijfelt welke payrolloplossing het beste aansluit, lees dan de [Nmbrs vs AFAS Payroll vergelijking](/blog/nmbrs-vs-afas-payroll-2026/) voor een uitgebreide analyse van beide opties. Dat is een extra kostenpost en een extra systeem om te beheren.
 
 De prijs stijgt snel zodra je modules toevoegt. Ik heb een klant begeleid die begon met Core HR voor €180/maand en binnen een jaar op €450/maand zat doordat ze recruitment en performance management activeerden. Niet onredelijk voor wat je krijgt, maar het loopt harder op dan je verwacht.
 

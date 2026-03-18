@@ -57,7 +57,7 @@ Wil je MailerLite direct vergelijken met de rest van het veld? Lees mijn overzic
 
 ## Prijzen: wat kost MailerLite in 2026?
 
-MailerLite rekent per contact, net als Mailchimp en ActiveCampaign. Maar de prijzen zijn aanzienlijk lager -- en het gratis plan is ronduit het beste in zijn categorie. Hier is het volledige prijsoverzicht:
+MailerLite rekent per contact, net als Mailchimp en ActiveCampaign. Maar de prijzen zijn aanzienlijk lager -- en het gratis plan is ronduit het beste in zijn categorie. Voor een gedetailleerde uitsplitsing van alle plannen en wat je daarvoor krijgt, zie ook mijn aparte [MailerLite prijzen overzicht 2026](/blog/mailerlite-prijzen-2026/). Hier is het volledige prijsoverzicht:
 
 | Plan | Prijs/mnd | Contacten | E-mails/mnd | Belangrijkste extra's |
 |---|---|---|---|---|

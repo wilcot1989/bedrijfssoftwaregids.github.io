@@ -41,7 +41,7 @@ Asana vs ClickUp -- dit is de vergelijking die ik de afgelopen maanden het vaaks
 
 Na uitgebreide hands-on tests van beide platforms -- en het begeleiden van meerdere migraties -- kan ik je vertellen dat de keuze genuanceerder is dan de prijskaart doet vermoeden. In dit artikel zet ik beide tools eerlijk naast elkaar op de negen criteria die er voor jouw team echt toe doen.
 
-Zoek je een breder overzicht? Bekijk dan mijn [beste projectmanagement software gids voor 2026](/blog/beste-projectmanagement-software-2026/). Of lees mijn uitgebreide [Monday.com vs Asana vergelijking](/blog/monday-com-vs-asana-2026/) als je een derde optie wilt meenemen.
+Zoek je een breder overzicht? Bekijk dan mijn [beste projectmanagement software gids voor 2026](/blog/beste-projectmanagement-software-2026/). Of lees mijn uitgebreide [Monday.com vs Asana vergelijking](/blog/monday-com-vs-asana-2026/) als je een derde optie wilt meenemen. Kom je rechtstreeks vanuit Excel of Google Sheets? Lees dan eerst mijn [van spreadsheet naar projectmanagement gids](/blog/spreadsheet-naar-projectmanagement-2026/) om te weten wat je kunt verwachten bij de overstap.
 
 ---
 

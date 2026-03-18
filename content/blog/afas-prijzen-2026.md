@@ -303,7 +303,7 @@ Als je een organisatie bent in de publieke sector die AFAS overweegt: vraag spec
 
 Als AFAS te duur is voor jouw situatie, zijn er serieuze alternatieven.
 
-**Voor salarisadministratie**: Nmbrs is de specialist. Payroll-bureaus gebruiken het om klanten te bedienen, maar je kunt ook rechtstreeks een account nemen. Loket.nl is een toegankelijk alternatief met duidelijke publieke prijzen.
+**Voor salarisadministratie**: Nmbrs is de specialist. Payroll-bureaus gebruiken het om klanten te bedienen, maar je kunt ook rechtstreeks een account nemen. Wil je Nmbrs en AFAS Payroll direct naast elkaar zetten? Lees de [Nmbrs vs AFAS Payroll vergelijking](/blog/nmbrs-vs-afas-payroll-2026/) voor een eerlijke afweging op prijs en functionaliteit. Loket.nl is een toegankelijk alternatief met duidelijke publieke prijzen.
 
 **Voor HR-software**: Personio is inmiddels ook in Nederland sterk vertegenwoordigd en biedt moderne HR-functionaliteit voor bedrijven van 10 tot 2.000 medewerkers. Lees mijn [Personio review 2026](/blog/personio-review-2026/) voor een eerlijk oordeel.
 
@@ -327,6 +327,6 @@ AFAS publiceert geen prijzen, en dat maakt vergelijken lastig. Op basis van mark
 
 **Mijn directe advies**: als je minder dan 25 medewerkers hebt, vraag dan eerst een offerte aan bij Nmbrs of Loket.nl voor salaris, en bij Personio of HoorayHR voor HR. Je zult zien dat de prijs significant lager is bij vergelijkbare functionaliteit voor jouw bedrijfsgrootte.
 
-Heb je 30+ medewerkers, een complexe CAO, en de behoefte aan een geïntegreerd platform? Dan is een AFAS-offerte aanvragen zeker de moeite waard. Vraag altijd offertes op bij minimaal twee implementatiepartners — de marge van de partner kan flink variëren.
+Heb je 30+ medewerkers, een complexe CAO, en de behoefte aan een geïntegreerd platform? Dan is een AFAS-offerte aanvragen zeker de moeite waard. Vraag altijd offertes op bij minimaal twee implementatiepartners — de marge van de partner kan flink variëren. Weet je nog niet zeker of een volledig ERP-systeem als AFAS de juiste stap is voor jouw organisatie? Lees mijn [hoe kies je een ERP-systeem voor MKB gids](/blog/hoe-kies-je-erp-systeem-mkb-2026/) voor een gestructureerd besliskader.
 
 Wil je weten wat alternatieven kosten? Lees dan de [beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) en de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/) voor een volledig vergelijkend overzicht.

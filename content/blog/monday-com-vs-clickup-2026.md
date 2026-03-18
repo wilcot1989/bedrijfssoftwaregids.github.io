@@ -262,5 +262,6 @@ ClickUp wint nipt op totaalscore dankzij de functies en prijs-kwaliteitverhoudin
 - [Beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/) -- compleet overzicht met alternatieven
 - [Monday.com vs Asana](/blog/monday-com-vs-asana-2026/) -- een andere populaire vergelijking
 - [Notion vs Monday vergelijking](/blog/notion-vs-monday-vergelijking-2026/) -- als je ook een kennisbank zoekt
+- [Monday.com alternatieven 2026](/blog/monday-com-alternatieven-2026/) -- als je ook buiten Monday.com en ClickUp wilt kijken
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/projectmanagement/keuzehulp/)**, bereken je **[projectmanagement kosten](/tools/projectmanagement/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/projectmanagement/)**.

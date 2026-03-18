@@ -490,7 +490,7 @@ ActiveCampaign Plus kost $49/mnd voor 1.000 contacten — dat is meer dan Brevo 
 
 ### Fout 4: De Engelse interface van ActiveCampaign onderschatten
 
-ActiveCampaign heeft geen Nederlandse interface. Dat klinkt als een detail maar is in de praktijk een obstakel voor teams die niet dagelijks Engels werken. Ik heb een implementatie meegemaakt waar de marketingmanager de automation builder prima begreep maar twee teamleden de interface te complex vonden in combinatie met de Engelse terminologie. Brevo en [MailerLite](/blog/mailerlite-review-2026/) bieden wel een Nederlandse interface — weeg dit mee als je met een team werkt.
+ActiveCampaign heeft geen Nederlandse interface. Dat klinkt als een detail maar is in de praktijk een obstakel voor teams die niet dagelijks Engels werken. Ik heb een implementatie meegemaakt waar de marketingmanager de automation builder prima begreep maar twee teamleden de interface te complex vonden in combinatie met de Engelse terminologie. Brevo en [MailerLite](/blog/mailerlite-review-2026/) bieden wel een Nederlandse interface — weeg dit mee als je met een team werkt. MailerLite is daarbij ook qua prijs aantrekkelijk: zie de [MailerLite prijzen 2026](/blog/mailerlite-prijzen-2026/) voor een vergelijking op contactaantal.
 
 ---
 

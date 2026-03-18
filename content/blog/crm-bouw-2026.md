@@ -304,7 +304,7 @@ Na het bespreken van alle opties kom ik tot een helder eindoordeel.
 
 Wat je niet moet doen: een enterprise-platform als Salesforce implementeren als je een MKB-bouwbedrijf bent. De complexiteit en kosten staan niet in verhouding tot wat je ervoor terugkrijgt.
 
-Bekijk de [CRM keuzehulp](/tools/crm/keuzehulp/) om jouw situatie in te vullen en direct een aanbeveling te krijgen. Of lees de vergelijking van [CRM voor advocatenkantoren 2026](/blog/crm-voor-advocatenkantoren-2026/) als je een ander sectorartikel zoekt om te vergelijken.
+Bekijk de [CRM keuzehulp](/tools/crm/keuzehulp/) om jouw situatie in te vullen en direct een aanbeveling te krijgen. Zoek je een budgetvriendelijk alternatief met meer functies dan Pipedrive? Lees mijn [Zoho CRM review](/blog/zoho-crm-review-2026/) — voor bouwbedrijven met een IT-afdeling die bereid is de leercurve te doorlopen is Zoho CRM een serieuze optie op een lagere prijs. Of lees de vergelijking van [CRM voor advocatenkantoren 2026](/blog/crm-voor-advocatenkantoren-2026/) als je een ander sectorartikel zoekt om te vergelijken.
 
 <a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis — geen creditcard nodig →</a>
 

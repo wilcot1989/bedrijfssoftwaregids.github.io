@@ -300,7 +300,7 @@ HubSpot. Het platform kan alles aan en groeit mee van kleine webshop naar enterp
 **WooCommerce-webshop:**
 ActiveCampaign of Klaviyo — beide hebben uitstekende, goed gedocumenteerde WooCommerce-integraties.
 
-Meer lezen? Bekijk mijn vergelijking van [HubSpot vs Pipedrive](/blog/hubspot-vs-pipedrive-2026/) en mijn overzicht van [beste e-mailmarketingsoftware](/blog/beste-email-marketing-software-2026/).
+Meer lezen? Bekijk mijn vergelijking van [HubSpot vs Pipedrive](/blog/hubspot-vs-pipedrive-2026/) en mijn overzicht van [beste e-mailmarketingsoftware](/blog/beste-email-marketing-software-2026/). Zoek je een budgetvriendelijke optie met uitgebreide functionaliteit? Lees dan ook mijn [Zoho CRM review](/blog/zoho-crm-review-2026/) — Zoho biedt een gratis plan voor drie gebruikers en is interessant voor webshops die CRM willen combineren met een bredere softwarestack.
 
 ## Segmentatie-strategieën voor webshops: praktische voorbeelden
 
@@ -380,7 +380,7 @@ Een CRM is pas waardevol als je er effectief mee segmenteert. Hier zijn zeven co
 
 Een CRM voor je webshop staat nooit alleen. Het verbindt met andere systemen:
 
-**Webshopplatform (Shopify/WooCommerce):** Dit is de databron. Alle order- en klantdata komt hieruit. De koppeling moet bidirectioneel zijn: van webshop naar CRM en van CRM terug naar webshop (voor segmentatiepixels e.d.).
+**Webshopplatform (Shopify/WooCommerce):** Dit is de databron. Alle order- en klantdata komt hieruit. De koppeling moet bidirectioneel zijn: van webshop naar CRM en van CRM terug naar webshop (voor segmentatiepixels e.d.). Wil je ook je CRM koppelen aan je boekhouding zodat gewonnen orders automatisch facturen worden? Lees mijn [CRM koppelen aan boekhouding gids](/blog/crm-koppelen-boekhouding-2026/) voor een stap-voor-stap aanpak.
 
 **Loyaliteitstool (Smile.io, LoyaltyLion):** Synchroniseert puntenbalans naar het CRM zodat je e-mails kunt personaliseren op loyaliteitsstatus.
 
@@ -439,3 +439,5 @@ Als je weet dat een klant €675 waard is over zijn relatie met je, mag je in kl
 Voor de meeste Shopify-webshops die primair B2C-klanten bedienen, is Klaviyo de beste keuze vanwege de diepste integratie en de kant-en-klare e-commerce flows. Voor webshops die ook B2B-klanten hebben of complexe automatisering nodig hebben, is ActiveCampaign de krachtigste optie. Pipedrive is de beste keuze als je een salesteam hebt dat actief klantrelaties onderhoudt.
 
 Begin met het opzetten van een abandoned cart flow — die betaalt de toolkosten al terug in de eerste maand.
+
+Sla je klantdata op in je CRM? Zorg dan dat je AVG-compliant bent. Lees [GDPR en CRM: wat mag je opslaan?](/blog/gdpr-crm-wat-mag-je-opslaan-2026/) voor concrete richtlijnen over welke klantdata je wel en niet mag verwerken.

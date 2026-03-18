@@ -96,7 +96,7 @@ Het grote verschil bij Premium: automatische valutaomrekening op alle transactie
 | **Standard** | €30 | €324 | 10% (€36 besparing) |
 | **Premium** | €42 | €454 | 10% (€50 besparing) |
 
-Wil je de kosten vergelijken met andere pakketten? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/).
+Wil je de kosten vergelijken met andere pakketten? Gebruik de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/). Voor een directe prijsvergelijking met de meest gebruikte Nederlandse alternatieven, lees mijn [Exact Online vs Moneybird prijsvergelijking](/blog/exactonline-vs-moneybird-prijsvergelijking-2026/).
 
 ## Functies in de praktijk: mijn testresultaten
 
