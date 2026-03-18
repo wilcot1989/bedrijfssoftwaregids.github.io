@@ -30,6 +30,16 @@ faq:
     a: "Ja, Exact Online ondersteunt automatische bankkoppelingen met alle grote Nederlandse banken (ING, ABN AMRO, Rabobank, etc.). Transacties worden automatisch ingelezen, waarna je ze kunt matchen met facturen of handmatig boeken."
   - q: "Is Exact Online veilig en voldoet het aan de AVG?"
     a: "Ja, Exact Online is ISO 27001 gecertificeerd en voldoet aan de AVG (GDPR). Je data wordt opgeslagen in Europese datacenters. Exact biedt tweefactorauthenticatie en uitgebreide gebruikersrechten voor extra beveiliging."
+  - q: "Werkt Exact Online met SAP?"
+    a: "Exact Online en SAP zijn aparte systemen, maar er zijn koppelingen beschikbaar via middleware zoals Alumio, Boomi of op maat gemaakte API-integraties. Voor de meeste MKB-bedrijven is een SAP-koppeling niet relevant; Exact Online is zelf al een volledig ERP-platform. Grotere organisaties die SAP draaien voor andere processen, kunnen via de REST API van Exact integraties bouwen."
+  - q: "Kan Exact Online Exact Globe vervangen?"
+    a: "Ja, voor de meeste MKB-bedrijven kan Exact Online Exact Globe volledig vervangen. Exact Online biedt dezelfde kernfuncties via de cloud en is moderner en gemakkelijker te onderhouden. Exact Globe is een on-premises oplossing gericht op grotere bedrijven met complexe productie- of logistieke processen. Als je geen geavanceerde maakbedrijf-functies nodig hebt, is Exact Online de betere keuze in 2026."
+  - q: "Is Exact Online geschikt voor een stichting?"
+    a: "Ja, Exact Online is geschikt voor stichtingen en non-profits. Je kunt werken met fondsboekhouden, projectkostenregistratie en rapportages die aansluiten op de RJ 650-richtlijn voor fondswerving. De BTW-module ondersteunt de bijzondere BTW-positie die veel stichtingen hebben. Nadeel: de prijs is relatief hoog vergeleken met specifieke non-profitpakketten als Unit4 Nonprofit."
+  - q: "Hoe verhoudt Exact Online zich tot Yuki?"
+    a: "Yuki is primair een boekhoudplatform voor accountants die voor hun klanten boekhouding doen. Exact Online is breder inzetbaar als zelfstandig platform voor de ondernemer zelf. Yuki blinkt uit in automatisering van de accountantsworkflow (facturen scannen, automatisch boeken, klantportal). Exact Online heeft meer modules (CRM, HRM, projecten) en een groter integratie-ecosysteem. Kies Yuki als je accountant ermee werkt en volledig uitbesteedt; kies Exact als je zelf meer controle en inzicht wilt."
+  - q: "Wat zijn de AI-functies van Exact Online?"
+    a: "Exact Online biedt meerdere AI-gedreven functies: factuurherkenning (inkoopfacturen worden automatisch herkend en geboekt), slimme bankkoppeling met automatische matching van transacties aan boekingen, en voorspellende cashflow-rapportages. De factuurherkenning werkt via machine learning en leert van je correcties. In de praktijk herkent het systeem na een aanloopperiode van een paar weken het merendeel van je terugkerende leveranciers correct."
 ---
 
 Exact Online is het boekhoudpakket dat ik het vaakst tegenkom bij MKB-klanten. Soms terecht, soms omdat de boekhouder het heeft aangeraden zonder naar alternatieven te kijken. In deze Exact Online review geef ik mijn eerlijke oordeel: waar blinkt Exact uit, waar schiet het tekort, en voor wie zijn goedkopere alternatieven als Moneybird of e-Boekhouden een betere keuze?
@@ -208,6 +218,113 @@ Lees meer over deze alternatieven in ons artikel over de [beste boekhoudsoftware
 
 Twinfield is de meest directe concurrent en ik kom het vooral tegen bij accountantskantoren. Lees ook mijn uitgebreide [Exact Online vs Twinfield vergelijking](/blog/exact-online-vs-twinfield-2026/) voor een diepgaande analyse naast elkaar. De multi-administratie mogelijkheden zijn sterker dan bij Exact, maar het platform is smaller: geen CRM, HRM of projectmodule. In de praktijk komt het vaak neer op wat je accountant gebruikt. **Kies Twinfield als** je accountant ermee werkt en je voornamelijk boekhoudingsfuncties nodig hebt. **Kies Exact als** je een breder platform zoekt met meer modules.
 
+### Exact Online vs Yuki: wanneer kies je welke?
+
+Yuki duikt steeds vaker op in gesprekken met klanten, met name als hun accountant ermee werkt. Ik zie beide platforms regelmatig naast elkaar staan, dus hier mijn eerlijke vergelijking.
+
+Yuki is gebouwd rondom de accountantsworkflow: de ondernemer uploadt bonnetjes en facturen, Yuki herkent en boekt ze automatisch, en de accountant controleert en keurt goed via een gedeeld portaal. Dat maakt het bijzonder efficiënt als je de boekhouding volledig uitbesteedt. De automatiseringsgraad is hoog — hogere dan bij Exact in mijn ervaring — en de interface voor klantportalen is strakker.
+
+Exact Online is breder. Je kunt er zelfstandig mee werken zonder dat alles via een accountant loopt, en je beschikt over modules voor CRM, HRM en projectbeheer die Yuki niet heeft. Het integratie-ecosysteem is ook groter.
+
+| Aspect | Exact Online | Yuki |
+|---|---|---|
+| **Primaire gebruiker** | Ondernemer + accountant | Accountant-driven |
+| **AI/automatisering** | Goed | Uitstekend |
+| **Modules (CRM, HRM)** | Ja | Nee |
+| **Zelfstandig gebruik** | Ja | Beperkt |
+| **Gebruiksgemak** | Gemiddeld | Hoog |
+| **Beste voor** | Groeiend MKB met eigen regie | Bedrijven die volledig uitbesteden |
+
+**Kies Yuki als** je accountant er enthousiast over is en je de boekhouding grotendeels wilt uitbesteden. De automatisering is indrukwekkend en bespaart veel tijd bij factuurbeheer. **Kies Exact Online als** je meer zelfstandigheid wilt, meerdere modules nodig hebt, of als je bedrijf groeit en je meer controle over je data wilt houden.
+
+Wil je meer alternatieven vergelijken? Bekijk mijn overzicht van [Exact Online alternatieven](/blog/exact-online-alternatieven-2026/).
+
+### Exact Online vs QuickBooks: wanneer voor welke?
+
+QuickBooks is in Nederland minder dominant dan in de VS of het VK, maar ik krijg er steeds meer vragen over — met name van internationale ondernemers en bedrijven met buitenlandse eigenaren of klanten. Hier de relevante verschillen.
+
+QuickBooks Online is een solide boekhoudpakket met goede meertalige ondersteuning, multicurrency-functies en een sterk rapport-systeem. Het is populair bij bedrijven die internationaal opereren en behoefte hebben aan rapportages die ook buiten Nederland begrepen worden. De prijs is vergelijkbaar met Exact Online.
+
+Exact Online heeft echter een paar duidelijke troeven voor de Nederlandse markt:
+
+- **Belastingdienst-koppeling**: Exact Online heeft directe integratie voor BTW-aangifte, ICP-opgave en Intrastat. QuickBooks vereist meer handmatig werk voor Nederlandse belastingzaken.
+- **Bankkoppelingen**: Exact Online heeft deeplink-koppelingen met alle grote Nederlandse banken. QuickBooks werkt via Yodlee-bankfeeds, wat minder stabiel is.
+- **Accountants**: Vrijwel alle Nederlandse accountants en boekhouders werken met Exact. Met QuickBooks ben je afhankelijk van een accountant die ermee overweg kan, wat je keuze beperkt.
+- **Lokale integraties**: Exact heeft koppelingen met Nmbrs, Loket.nl en andere Nederlandse salarispakketten. QuickBooks mist de meeste lokale integraties.
+
+**Kies QuickBooks als** je bedrijf internationaal georiënteerd is, je veel in meerdere valuta factureert, en je rapportages ook voor buitenlandse aandeelhouders of partners moet presenteren. **Kies Exact Online als** je primair in Nederland actief bent en een accountant wilt die het systeem door en door kent.
+
+### Exact Online vs Exact Globe: wat is het verschil?
+
+Dit is een zoekopdracht die ik vaak tegenkom, en het is begrijpelijk: twee producten met bijna dezelfde naam van hetzelfde bedrijf — wat is het verschil?
+
+**Exact Globe** is de on-premises ERP-oplossing van Exact, gericht op middelgrote en grotere bedrijven met complexe processen. Het draait op je eigen servers (of in een hosted omgeving), heeft uitgebreide functionaliteit voor productie, logistiek en supply chain, en is veel uitgebreider — en duurder — dan Exact Online. Het vereist ook meer beheer en implementatietijd.
+
+**Exact Online** is de cloudversie: altijd up-to-date, geen servers, lagere instapdrempel, en gericht op het MKB. Je betaalt per maand, hebt automatische updates en kunt overal inloggen.
+
+| Kenmerk | Exact Online | Exact Globe |
+|---|---|---|
+| **Deployment** | Cloud (SaaS) | On-premises / hosted |
+| **Doelgroep** | ZZP tot MKB | Middelgroot tot groot bedrijf |
+| **Implementatietijd** | Uren tot dagen | Weken tot maanden |
+| **Productie/logistiek** | Beperkt | Uitgebreid |
+| **Prijs** | Vanaf €49/mnd | Op aanvraag (significant hoger) |
+| **Beheer** | Minimaal | Vereist IT-afdeling of partner |
+
+**Kan Exact Online Exact Globe vervangen?** Voor de meeste MKB-bedrijven: ja. Als je geen geavanceerde productiebesturing, complexe voorraadlogistiek of meerdere magazijnlocaties beheert, is Exact Online meer dan voldoende. Ik zie regelmatig bedrijven die van Globe naar Online migreren omdat de cloudoplossing eenvoudiger, goedkoper en sneller is. Bekijk ook mijn artikel over [Exact Online prijzen](/blog/exact-online-prijzen-2026/) voor een kostenvergelijking.
+
+## Exact Online AI-functies: factuurherkenning en automatisch boeken
+
+Dit is een onderwerp waar ik enthousiaster over ben geworden de afgelopen anderhalf jaar. Exact heeft flink geïnvesteerd in AI-functionaliteit en dat is merkbaar in de dagelijkse praktijk.
+
+### Factuurherkenning (scan en herken)
+
+De factuurherkenning werkt via optische tekenherkenning (OCR) gecombineerd met machine learning. Je fotografeert een bonnetje via de mobiele app of upload een PDF, en het systeem herkent automatisch:
+
+- Leveranciersnaam en -gegevens
+- Factuurdatum en -nummer
+- Totaalbedrag en BTW-bedrag
+- BTW-percentage
+
+Na de eerste paar keer dat je een leverancier hebt verwerkt, leert het systeem de boekingsvoorkeur: op welke grootboekrekening je normaliter boekt, welk BTW-percentage van toepassing is. In mijn ervaring zit de herkenningsgraad na een aanloopperiode van een paar weken op 80 tot 90 procent voor terugkerende leveranciers. Dat scheelt aanzienlijk in handmatig intypen.
+
+### Automatische bankmatch
+
+Bij de bankkoppeling doet Exact meer dan alleen transacties inlezen. Het systeem koppelt automatisch transacties aan openstaande facturen op basis van bedrag, datum en omschrijving. Als er een duidelijke match is, stelt het systeem de boeking voor — je hoeft alleen te bevestigen. Bij onduidelijke gevallen vraagt het om een keuze.
+
+### Cashflow-voorspellingen
+
+Een nieuwere functie is de cashflow-prognose. Op basis van historische data, openstaande facturen en verwachte betalingstermijnen berekent Exact een verwachte cashflow voor de komende weken. Handig als je wil weten of je een grote investering kunt doen of een belastingbetaling kunt opvangen.
+
+### Eerlijke kanttekeningen bij de AI
+
+De AI-functies zijn goed, maar niet perfect. De factuurherkenning maakt fouten bij slecht leesbare of onconventionele facturen. En als je boekhouding niet consistent is — verschillende grootboekrekeningen voor vergelijkbare kosten, wisselende BTW-behandelingen — wordt het systeem minder slim, want het leert van je eigen gedrag.
+
+**Mijn advies**: zet de AI-functies direct aan bij de start. Hoe meer data, hoe slimmer het systeem. En corrigeer consequent als het een fout maakt — dat is hoe je het traint.
+
+## Exact Online voor stichtingen en non-profits
+
+Ik help regelmatig stichtingen en verenigingen bij het kiezen van boekhoudprogramma's, en Exact Online is een serieuze optie — maar er zijn specifieke afwegingen.
+
+### Wat werkt goed voor non-profits?
+
+**Fondsregistratie en projectkostenboekhouding** zijn de functies waarvoor stichtingen Exact Online vaak kiezen. Je kunt kosten en opbrengsten registreren per fonds, project of activiteit, waardoor je aan subsidiegevers en donateurs kunt rapporteren welk geld waarvoor gebruikt is. Dit sluit aan op de verwachtingen van veel subsidieverstrekkers en het CBF (Centraal Bureau Fondsenwerving).
+
+**BTW-positie van stichtingen** is complex: sommige activiteiten zijn vrijgesteld, andere belast, en soms is er een pro-rata-berekening nodig. Exact Online ondersteunt de bijzondere BTW-behandelingen die non-profits nodig hebben, inclusief het apart bijhouden van belaste en onbelaste activiteiten.
+
+**De RJ 650-richtlijn** (voor fondswervende instellingen) stelt specifieke eisen aan de jaarrekening: kostenspecificaties, bestemmingsreserves, continuïteitsreserves. Exact Online heeft rapportagemogelijkheden die hierop aansluiten, maar je hebt wel een accountant nodig die de inrichting goed doet.
+
+### Nadelen voor non-profits
+
+De prijs is het grootste bezwaar. Een stichting met een bescheiden omzet betaalt dezelfde €49 tot €159 per maand als een commercieel bedrijf. Er zijn geen non-profit-kortingen. Alternatieve pakketten als **Unit4 Nonprofit** of **Exact voor het MKB gecombineerd met een spreadsheet** kunnen goedkoper uitpakken.
+
+Daarnaast mist Exact specifieke non-profit functies zoals:
+- Ledenregistratie (voor verenigingen)
+- Vrijwilligersbeheer
+- Donatieregistratie met ANBI-rapporten
+
+**Mijn advies voor stichtingen**: als je meer dan €200.000 jaarbudget hebt, subsidies ontvangt en regelmatig projectkostenrapportages maakt, is Exact Online de moeite waard. Kleinere stichtingen met een eenvoudige financiële administratie zijn goedkoper en eenvoudiger uit met [Moneybird](/blog/moneybird-vs-exact-online-2026/) of zelfs een goed geconfigureerde spreadshop. Middelgrote stichtingen die ook SnelStart gebruiken kunnen in mijn [SnelStart vs Exact Online vergelijking](/blog/snelstart-vs-exact-online-2026/) meer specifieke vergelijkingspunten vinden.
+
 ## Voor wie is Exact Online geschikt?
 
 ### Ideaal voor:
@@ -254,6 +371,23 @@ Gebruik je Exact Online al, of overweeg je om te starten? Dit zijn de tips die i
 5. **Volg een training** -- Exact Academy biedt gratis en betaalde cursussen
 6. **Configureer je dashboard** -- zet de KPI's die voor jou belangrijk zijn in het overzicht
 7. **Overweeg een combinatiepakket** -- bundels zijn vaak voordeliger dan losse modules
+
+## Veelgestelde vragen over Exact Online
+
+**Werkt Exact Online met SAP?**
+Exact Online en SAP zijn aparte systemen. Er zijn koppelingen mogelijk via middleware zoals Alumio of Boomi, of via de REST API van Exact. Voor de meeste MKB-bedrijven is een SAP-koppeling echter niet relevant — Exact Online is zelf al een volledig ERP-platform. Grotere organisaties die SAP voor andere processen draaien kunnen via maatwerk integreren.
+
+**Kan Exact Online Exact Globe vervangen?**
+Voor de meeste MKB-bedrijven: ja. Exact Online biedt dezelfde kernfuncties als Globe via de cloud, is moderner en goedkoper in beheer. Globe is zinvol als je geavanceerde productie- of logistieke processen hebt die de cloudoplossing niet ondersteunt. Ik zie steeds meer bedrijven die van Globe naar Online migreren en het niet missen.
+
+**Is Exact Online geschikt voor een stichting?**
+Ja, Exact Online ondersteunt fondsregistratie, projectkostenboekhouding en de bijzondere BTW-positie van non-profits. De RJ 650-richtlijn voor fondswervende instellingen is in te richten met de juiste accountant. Nadeel: geen non-profit-korting, geen ledenregistratie of donatiemodule. Voor stichtingen met meer dan €200.000 budget is het een goede keuze; kleiner dan dat kijk ik eerst naar Moneybird.
+
+**Hoe verhoudt Exact Online zich tot Yuki?**
+Yuki is primair een accountantsplatform: de ondernemer levert documenten aan, Yuki automatiseert de verwerking en de accountant controleert. Exact Online is breder inzetbaar als zelfstandig platform met CRM, HRM en projectmodules. Yuki heeft hogere automatiseringsgraad; Exact biedt meer eigen controle en een groter integratie-ecosysteem.
+
+**Wat zijn de AI-functies van Exact Online?**
+Exact Online heeft drie hoofdfuncties op AI-gebied: factuurherkenning (OCR + machine learning voor automatisch boeken van inkoopfacturen), automatische banktransactiematching (koppelt bankafschriften aan openstaande facturen), en cashflow-prognoses op basis van historische data en openstaande posten. De herkenningsgraad bij factuurherkenning is na een aanloopperiode 80 tot 90 procent voor terugkerende leveranciers.
 
 ## Eindoordeel
 

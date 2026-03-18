@@ -1,7 +1,7 @@
 ---
 title: "Beste Factuurprogramma MKB 2026: Top 7"
 date: 2026-03-02
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-18T10:00:00+01:00
 description: "Beste factuurprogramma voor MKB in 2026? Vergelijk Moneybird, Exact, e-Boekhouden op prijs en BTW-aangifte. Inclusief gratis opties."
 categories: ["boekhouding"]
 tags:
@@ -70,6 +70,10 @@ faq:
     a: "Ja, alle pakketten in dit overzicht bieden een bankkoppeling. Hiermee worden banktransacties automatisch ingelezen en gekoppeld aan openstaande facturen. Dit scheelt veel handmatig werk en houdt je administratie altijd up-to-date."
   - q: "Welke facturatie software is het beste voor ZZP'ers?"
     a: "Voor ZZP'ers zijn Moneybird, Jortt en Rompslomp populaire keuzes vanwege hun eenvoud en scherpe prijzen. Lees ook ons uitgebreide artikel over de beste boekhoudsoftware voor ZZP'ers voor meer informatie."
+  - q: "Welke facturatiesoftware werkt het beste met een stichting?"
+    a: "Stichtingen hebben specifieke boekhoudkundige vereisten: geen winstoogmerk, veelal subsidieadministratie, én soms btw-plicht én btw-vrijstelling door elkaar. Voor kleine stichtingen is e-Boekhouden de sterkste keuze: volledige boekhoudkundige functies inclusief grootboek, gratis accountantstoegang voor je penningmeester of externe accountant, en een lage prijs van €14,50/maand. Middelgrote stichtingen met meerdere projecten en subsidiestromen zijn beter af met Exact Online — de projectadministratie en de uitgebreide rapportages maken verantwoording aan subsidieverstrekkers eenvoudiger. Informer is een goede tussenoptie als je een administratiekantoor hebt dat meerdere entiteiten beheert."
+  - q: "Wanneer wordt e-facturatie verplicht in Nederland?"
+    a: "E-facturatie (via Peppol/UBL) is al verplicht voor bedrijven die factureren aan de Nederlandse overheid — dat geldt al desde 2017 voor rijksoverheidsleveranciers en is uitgebreid naar decentrale overheden. De bredere verplichting voor B2B-facturatie volgt uit de Europese richtlijn ViDA (VAT in the Digital Age): lidstaten moeten uiterlijk in 2028 een systeem voor real-time digitale BTW-rapportage invoeren, waarbij elektronische facturatie de basis is. Nederland werkt aan de implementatie, maar een concrete verplichte B2B-invoerdatum is nog niet vastgesteld voor het brede MKB (peildatum maart 2026). Mijn advies: kies nu al een factuurprogramma dat Peppol ondersteunt, zodat je voorbereid bent. Exact Online, Moneybird en e-Boekhouden bieden dit al."
 ---
 
 Het klinkt simpel -- een factuur versturen -- maar ik spreek regelmatig ondernemers die elke maand uren kwijt zijn aan handmatig facturen opmaken in Word, BTW-bedragen uitrekenen en betalingen controleren. Een goed factuurprogramma reduceert dat tot een paar klikken. Hier zijn de 7 pakketten die ik voor het Nederlandse MKB aanbeveel, getoetst op prijs, UBL-ondersteuning en BTW-aangifte.
@@ -550,6 +554,107 @@ Als je factuurprogramma niet koppelt met je boekhoudprogramma, moet je elke beta
 Mijn advies: kies van het begin af aan een pakket dat facturatie én boekhouding combineert. Alle 6 pakketten in dit overzicht doen dat. Wil je meer weten over de afweging? Lees het artikel over [factureren en boekhouden alles-in-één](/blog/factureren-en-boekhouden-alles-in-een/).
 
 Voor grotere MKB-bedrijven die ook hun voorraadbeheer, logistiek of productieprocessen willen integreren, is een ERP-systeem de volgende stap. Lees de [beste ERP software voor MKB 2026](/blog/beste-erp-software-mkb-2026/) voor een overzicht van wanneer je die stap moet zetten. Als je specifiek Moneybird en Exact Online wilt vergelijken, helpt ook de [Moneybird vs e-Boekhouden vergelijking 2026](/blog/moneybird-vs-e-boekhouden-2026/) je met de afweging voor het MKB.
+
+---
+
+## E-facturatie (Peppol/UBL) verplicht: welke tools ondersteunen dit?
+
+Dit is een onderwerp dat ik bij klanten steeds vaker tegenkom, en terecht — want de verandering is fundamenteler dan de meeste ondernemers beseffen. E-facturatie gaat de komende jaren de standaard worden voor zakelijke transacties in Nederland en heel Europa. Wie nu kiest voor software die dit niet of slecht ondersteunt, heeft over 3 jaar een migratieprobleem.
+
+### Wat is Peppol en wat is UBL?
+
+UBL (Universal Business Language) is het gestandaardiseerde bestandsformaat voor elektronische facturen. Een UBL-factuur is een XML-bestand met gestructureerde data die automatisch kan worden ingelezen door boekhoud- en ERP-systemen — geen PDF waar iemand handmatig gegevens uit overneemt.
+
+Peppol (Pan-European Public Procurement OnLine) is het netwerk waarover UBL-facturen worden uitgewisseld. Vergelijk het met een soort internet voor facturen: je factuur gaat van jouw boekhoudprogramma via het Peppol-netwerk direct naar het boekhoudprogramma van je klant. Geen e-mailbijlagen, geen handmatige invoer.
+
+### Waarom is dit nu relevant?
+
+E-facturatie via Peppol is al **verplicht** als je factureert aan:
+- Nederlandse rijksoverheid (verplicht since 2017)
+- Decentrale overheden (gemeenten, provincies, waterschappen)
+- Veel semi-overheidsinstellingen (ziekenhuizen, universiteiten, woningcorporaties)
+
+De Europese richtlijn ViDA (VAT in the Digital Age) zal dit uitbreiden naar B2B-facturatie in 2028. Lidstaten moeten dan een systeem voor real-time digitale BTW-rapportage invoeren, waarbij elektronische facturatie de basis vormt. Mijn verwachting: Nederland zal ruim voor 2028 een verplichte invoerdatum voor B2B e-facturatie aankondigen.
+
+### Welke factuurprogramma's ondersteunen Peppol volledig?
+
+Ik heb voor dit artikel de Peppol-ondersteuning van elk pakket in dit overzicht gecontroleerd. Hier zijn de bevindingen:
+
+| Software | UBL verzenden | UBL ontvangen | Peppol-netwerk | Peppol-registratie |
+|----------|--------------|--------------|----------------|--------------------|
+| **Exact Online** | ✅ | ✅ | ✅ Volledig | Geautomatiseerd |
+| **Moneybird** | ✅ | ✅ | ✅ Volledig | Via instelling |
+| **e-Boekhouden** | ✅ | ✅ | ✅ Volledig | Via instelling |
+| **Informer** | ✅ | ✅ | ✅ Volledig | Via instelling |
+| **SnelStart** | ✅ | ✅ | ✅ Volledig | Via instelling |
+| **Rompslomp** | ✅ | ⚠️ Beperkt | ⚠️ Gedeeltelijk | Handmatig |
+| **Jortt** | ✅ | ⚠️ Beperkt | ⚠️ Gedeeltelijk | Handmatig |
+
+**Conclusie:** Als je factureert aan overheden of verwacht dat e-facturatie verplicht wordt voor jouw sector, zijn Exact Online, Moneybird, e-Boekhouden en Informer de sterkste keuzes. Rompslomp en Jortt ondersteunen het versturen van UBL-facturen, maar hun Peppol-integratie is minder volwassen.
+
+### Praktisch: hoe activeer je Peppol in je factuurprogramma?
+
+Voor de meeste pakketten is het activeren van Peppol een kwestie van je KvK-nummer invoeren en een instelling aan te zetten. Het pakket registreert je dan automatisch in het Peppol-netwerk, waarna klanten je kunnen vinden via je BTW-nummer of KvK-nummer.
+
+Een punt dat ondernemers vaak vergeten: je moet ook **inkomende** UBL-facturen kunnen ontvangen. Als je leverancier via Peppol factureert en jij kunt het niet ontvangen, krijg je alsnog een PDF — of erger, de levering wordt geweigerd. Zorg dus dat je boekhoudprogramma ook aan de ontvangstkant Peppol ondersteunt.
+
+Meer over de technische achtergrond van e-facturatie lees je in mijn artikel over [UBL-facturen en Peppol: wat elke ondernemer moet weten](/blog/ubl-facturen-peppol-uitgelegd/).
+
+---
+
+## Facturatie voor BV, eenmanszaak en VOF: wat verandert er per rechtsvorm?
+
+Een vraag die ik regelmatig krijg van ondernemers: "Mijn buurman heeft een BV en gebruikt Exact, maar ik heb een eenmanszaak — hoef ik dan hetzelfde?"
+
+Het antwoord is nee. De keuze voor facturatiesoftware hangt mede af van je rechtsvorm, omdat de fiscale en boekhoudkundige verplichtingen per rechtsvorm verschillen. Hier zijn de praktische verschillen.
+
+### Eenmanszaak en ZZP
+
+**Boekhoudkundige verplichting:** Enkelvoudige boekhouding volstaat juridisch — je hebt geen verplichting tot dubbel boekhouden of het opstellen van een formele jaarrekening voor de Kamer van Koophandel.
+
+**BTW:** Je draagt BTW af via de kwartaalaangifte (of maand bij hoge omzet). De KOR (Kleineondernemersregeling) kan van toepassing zijn als je omzet onder €20.000 blijft — dan ben je vrijgesteld van BTW-aangifte.
+
+**Inkoop vanuit privé:** Als eenmanszaak kun je zakelijke kosten betalen via je privérekening. Dat maakt de grenzen tussen privé en zakelijk vager — een factuurprogramma met een goede kostenregistratie helpt dit bij te houden.
+
+**Geschikte software:** Jortt, Rompslomp, Moneybird Starter of e-Boekhouden ZZP (€9,95/mnd). Eenvoud en lage prijs zijn hier de prioriteit. De meeste eenmanszaken hebben geen behoefte aan volledige dubbele boekhouding.
+
+**Tip:** Gebruik je de KOR? Controleer of je factuurprogramma facturen zonder BTW kan aanmaken en de vrijstellingszin automatisch toevoegt. Moneybird en e-Boekhouden doen dit, Jortt ook.
+
+### VOF (Vennootschap onder Firma)
+
+**Boekhoudkundige verplichting:** Een VOF heeft dezelfde wettelijke boekhoudplicht als een eenmanszaak — enkelvoudig boekhouden is wettelijk voldoende. Maar in de praktijk willen medevennoten inzicht in elkaars bijdragen, winstverdeling en tussentijdse rapportages. Dat vraagt om meer structuur.
+
+**Meerdere gebruikers:** Bij een VOF werken meerdere personen in dezelfde administratie. Kies dus een pakket dat meerdere gebruikers ondersteunt zonder astronomische meerkosten. e-Boekhouden (€14,50/mnd onbeperkt gebruikers), Moneybird (medewerkers gratis uitnodigen in elk betaald plan) en Rompslomp Professional (€26,50/mnd, meerdere gebruikers) zijn hier geschikt.
+
+**Winstverdeling:** Een VOF verdeelt winst volgens de vennootschapsovereenkomst. Niet alle factuurprogramma's ondersteunen het bijhouden van een kapitaalrekening per vennoot. Als dit relevant is, kijk dan naar Exact Online of e-Boekhouden voor een volledigere boekhouding.
+
+**Geschikte software:** Moneybird Professional, e-Boekhouden Onbeperkt of Exact Online Essentials. Zorg in elk geval voor meerdere gebruikersaccounts.
+
+### BV (Besloten Vennootschap)
+
+**Boekhoudkundige verplichting:** Een BV is wettelijk verplicht tot dubbele boekhouding (debet/credit), het opstellen van een jaarrekening en het deponeren daarvan bij de Kamer van Koophandel. Die jaarrekening moet worden opgesteld door of gecontroleerd door een accountant (afhankelijk van de omvang).
+
+**BTW en vennootschapsbelasting:** Naast BTW-aangifte moet een BV ook vennootschapsbelasting (VpB) betalen over de winst. De aangifte VpB doe je doorgaans via je accountant. Factuurprogramma's ondersteunen dit niet direct, maar de aanlevering van de juiste cijfers aan je accountant gaat veel soepeler als je boekhouding klopt.
+
+**Loon DGA:** Als directeur-grootaandeelhouder heb je een salaris (DGA-salaris) dat via de loonadministratie loopt. Dat is een aparte component die de meeste factuurprogramma's niet beheren — daarvoor heb je aanvullende salarissoftware of een loonservicebureau nodig.
+
+**Investeringsaftrek:** Een BV kan gebruikmaken van de Kleinschaligheidsinvesteringsaftrek (KIA). Je factuurprogramma moet vaste activa kunnen registreren om dit correct bij te houden. Exact Online doet dit, e-Boekhouden ook, maar Jortt en Rompslomp niet.
+
+**Geschikte software:** Exact Online is de meest gebruikte keuze voor BV's in het MKB, omdat accountants er bijna altijd mee werken. e-Boekhouden is een goedkoper alternatief als je een accountant hebt die er mee kan werken. Moneybird is bruikbaar voor kleine BV's maar mist functies voor complexere situaties (vaste activa, intercompany-transacties).
+
+### Samenvatting per rechtsvorm
+
+| Aspect | Eenmanszaak/ZZP | VOF | BV |
+|--------|----------------|-----|----|
+| Boekhoudplicht | Enkelvoudig | Enkelvoudig | Dubbel |
+| Jaarrekening KvK | ❌ | ❌ | ✅ Verplicht |
+| BTW-aangifte | Kwartaal | Kwartaal | Kwartaal/maand |
+| Vennootschapsbelasting | ❌ | ❌ | ✅ |
+| DGA-salaris | ❌ | ❌ | ✅ |
+| Meerdere gebruikers nodig | Soms | Ja | Ja |
+| Aanbevolen software | Jortt / Moneybird | Moneybird / e-Boekhouden | Exact Online / e-Boekhouden |
+
+**Mijn praktische advies:** Twijfel je of je een BV moet oprichten vanwege fiscale redenen? Gebruik dan de [ZZP of BV berekenen tool](/tools/boekhouding/zzp-bv-berekenen/) om de fiscale gevolgen te simuleren. Die keuze heeft direct impact op welk factuurprogramma het beste bij je past.
 
 ---
 

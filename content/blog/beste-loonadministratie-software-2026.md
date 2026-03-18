@@ -27,6 +27,16 @@ faq:
     a: "Minimale vereisten zijn: automatische loonheffing berekening, loonaangifte bij de Belastingdienst, loonstroken genereren, pensioenaangifte (UPA), verlofregistratie, en jaaropgaven. Bonus: medewerkersportaal, HR-module, en rapportages."
   - q: "Hoe vaak moet ik loonaangifte doen?"
     a: "Loonaangifte moet per aangiftetijdvak worden gedaan bij de Belastingdienst — standaard per maand (uiterlijk de laatste dag van de maand volgend op het aangiftetijdvak). Bij minder dan 10 medewerkers kun je per kwartaal aangifte doen. De software automatiseert dit proces."
+  - q: "Kan ik als eenmanszaak of ZZP'er loonadministratiesoftware gebruiken?"
+    a: "Als eenmanszaak of ZZP'er zonder personeel heb je geen loonadministratie software nodig — je bent geen werknemer in loondienst bij jezelf. Zodra je je eerste werknemer in dienst neemt (ook een parttime medewerker of stagiair met arbeidscontract), ben je wettelijk verplicht loonaangifte te doen. Loket.nl is dan de goedkoopste startoptie, vanaf €3/medewerker/maand."
+  - q: "Wat zijn de wettelijke eisen voor loonadministratie Nederland 2026?"
+    a: "Je bent verplicht om per medewerker een loonadministratie bij te houden met: naam en BSN, arbeidscontract, loonstroken, loonaangifte bij de Belastingdienst (maandelijks of per kwartaal), UPA-aangifte voor pensioenfondsen, en jaaropgaven. Je moet deze administratie minimaal 7 jaar bewaren. De loonheffingstabellen zijn per 2026 opnieuw bijgesteld — goede software past dit automatisch aan."
+  - q: "Wat is het verschil tussen HR software en loonadministratie software?"
+    a: "Loonadministratie software regelt uitsluitend de salarisverwerking: loonberekening, loonheffingen, loonaangifte, loonstroken en jaaropgaven. HR software is breder en omvat ook werving, onboarding, verlofregistratie, verzuim, personeelsdossiers en competentiemanagement. Veel paketten combineren beide — Nmbrs, Visma Raet en AFAS bieden een volledige HR + payroll suite. Een puur loonadministratie pakket (zoals Loket.nl basis) kost minder maar mist de HR-functies."
+  - q: "Wanneer doe ik salarisadministratie zelf vs. uitbesteden?"
+    a: "Zelf doen loont als je 5+ medewerkers hebt met een relatief eenvoudige situatie (geen complexe CAO, geen expats, geen onregelmatige diensten). Software kost €3-€10 per medewerker per maand. Uitbesteden loont bij minder dan 5 medewerkers (dan is de tijdsbesparing relatief groot), bij complexe CAO-situaties (bouw, zorg, horeca), of als je geen enkele basiskennis van loonadministratie hebt. Een externe salarisadministrateur kost €15-€25 per medewerker per maand."
+  - q: "Is er gratis loonadministratie software?"
+    a: "Volledig gratis professionele loonadministratie software bestaat niet in Nederland. De meeste aanbieders bieden wel een gratis proefperiode (14-30 dagen). De goedkoopste betaalde optie is Loket.nl vanaf €3/medewerker/maand. Er zijn gratis tools zoals Excel-sjablonen, maar die zijn niet geschikt voor officiële loonaangifte bij de Belastingdienst — dat vraagt gecertificeerde software."
 ---
 
 Fouten in de salarisadministratie zijn de snelste manier om het vertrouwen van je medewerkers te verliezen -- en een boete van de Belastingdienst te riskeren. Toch zie ik nog steeds bedrijven die salarissen handmatig berekenen in Excel. Dat hoeft niet. Goede salarissoftware voorkomt fouten, automatiseert loonaangifte en bespaart uren. Ik vergelijk hier de 5 beste loonadministratie software pakketten voor de Nederlandse markt, van betaalbaar voor kleine teams tot enterprise-klaar. Wil je ook je hele HR-administratie compleet digitaliseren? Lees dan het artikel over de [beste boekhouder app 2026](/blog/beste-boekhouder-app-2026/) en het [beste facturatieprogramma voor MKB](/blog/beste-facturatie-software-mkb-2026/).
@@ -210,6 +220,218 @@ Wil je ook inzicht in de beste intranet voor je HR-communicatie? Lees dan ook he
 | **Flexibiliteit** | Direct aanpassingen | Via administrateur |
 | **Fouten-risico** | Groter (eigen verantwoording) | Kleiner (expert) |
 | **Beste voor** | 5+ medewerkers, basis situaties | <5 medewerkers of complexe CAO's |
+
+## Loonadministratie per sector
+
+Niet elke sector is hetzelfde als het gaat om salarisadministratie. De basisregels van de Belastingdienst gelden overal, maar de uitvoering verschilt fors. In sommige sectoren is je salarissoftware eigenlijk de minst ingewikkelde schakel — de CAO of de roosterstructuur erachter maakt het complex. Hieronder leg ik uit wat er per sector echt anders is en wat je van je software moet eisen.
+
+### Bouw: CAO-variaties en seizoensarbeid
+
+De bouw-CAO is een van de meest gelaagde in Nederland. Er zijn meerdere bouw-CAO's — de CAO Bouwnijverheid, de CAO voor de Dakdekkers, de CAO Afbouw — en binnen die CAO's zijn er onderscheiden naar functiegroepen, ervaringsjaren en speciale toeslagen. Wat mijn ervaring leert: veel bouwbedrijven onderschatten hoe specifiek de berekening van de periodieken en de eindejaarsuitkering moet zijn.
+
+Wat je van je software nodig hebt in de bouw:
+- **CAO Bouwnijverheid ingebouwd en actueel bijgehouden** — jaarlijkse wijzigingen worden automatisch verwerkt
+- **Seizoensarbeid en nulurencontracten** — medewerkers die per project worden ingehuurd en dan weer uitstomen
+- **Onkostenvergoedingen reiskosten en gereedschap** — in de bouw zijn dit substantiële posten die correct moeten worden geadministreerd binnen de WKR
+- **Urenregistratie koppeling** — bouwprojecten werken met uren per project; die uren moeten doorstromen naar de verloning
+
+Nmbrs en Visma Raet ondersteunen de CAO Bouwnijverheid volledig. Loket.nl ondersteunt de basisbouw-CAO, maar bij meer complexe situaties (seizoensarbeid, projectloon) raad ik aan dit vooraf te verifiëren. Zie ook het overzicht van [urenregistratie software](/blog/beste-urenregistratie-software-2026/) — in de bouw is dat haast onlosmakelijk verbonden met je loonadministratie.
+
+### Zorg: onregelmatige diensten en toeslag-berekeningen
+
+De zorg is wat mij betreft de meest uitdagende sector voor loonadministratie. De combinatie van onregelmatige diensten (avond, nacht, weekend), wisselende roosters, en de CAO's in de zorg (VVT, Gehandicaptenzorg, GGZ, Ziekenhuizen) maakt de berekening bijzonder gevoelig voor fouten.
+
+De kern van het probleem: een verpleegkundige die zaterdag nacht werkt, heeft recht op meerdere toeslagen tegelijk. Nacht-ORT (onregelmatigheidstoeslag), weekendtoeslag, én mogelijk een feestdagtoeslag als het een feestdag is. Die toeslagen moeten correct worden gestapeld én correct worden meegenomen in de pensioengrondslag. Dat is iets wat je echt niet handmatig wilt berekenen.
+
+Wat je van je software nodig hebt in de zorg:
+- **ORT-berekening** (onregelmatigheidstoeslag) — automatisch op basis van gewerkte uren per dagdeel
+- **Roosterkoppeling** — directe integratie met roostersoftware zodat gewerkte uren zonder handmatig overtypen in de verloning komen
+- **Zorg-CAO's volledig ingebouwd** — VVT, GGZ, GHZ, Ziekenhuizen
+- **Verzuimregistratie** — in de zorg is verzuim hoog; je software moet ziekteperiodes correct verwerken inclusief loondoorbetaling en re-integratie
+
+Visma Raet is historisch de marktleider in de zorg en heeft de meeste zorg-CAO's ingebouwd. AFAS heeft ook een sterke positie in de zorg, met name bij grotere instellingen. Nmbrs is minder geschikt voor grote zorgorganisaties met complexe roosterkoppelingen.
+
+### Horeca: flexibele uren en oproepkrachten
+
+In de horeca draait alles om flexibiliteit. Oproepkrachten, min/max-contracten, studenten die paar avonden per week werken, seizoenspersoneel — en dat alles onder de Horeca-CAO met specifieke bepalingen over overwerk, feestdagen en vakantietoeslag.
+
+Het lastige in de horeca is niet zozeer de berekening zelf, maar de invoer. Als je elke week andere uren per medewerker hebt, is handmatige invoer in de salarissoftware tijdrovend en foutgevoelig. Een directe koppeling met je kassasysteem of planningsoftware is in de horeca geen luxe maar noodzaak.
+
+Wat je van je software nodig hebt in de horeca:
+- **Flexibele contracttypen** — oproepcontracten, min/max-contracten, nulurencontracten naast elkaar
+- **Horeca-CAO ingebouwd** — inclusief jaarlijkse updates van loonschalen
+- **Integratie met planningsoftware** — zodat de uren direct doorstromen naar de verloning
+- **Eenvoudige invoer voor variabele uren** — bulk-import of een koppeling met een tijdregistratiesysteem
+
+Loket.nl is een populaire keuze in de horeca vanwege de lage prijs en eenvoudige interface. Voor grotere horecabedrijven (meerdere vestigingen, 50+ medewerkers) is Nmbrs of Visma Raet beter geschikt.
+
+### Detailhandel: parttimers, verlof en minimumloon-updates
+
+De detailhandel heeft zijn eigen dynamiek: veel parttimers, studenten en bijbaners naast een vaste kern. De CAO Retail (voor kleinere winkels) of de CAO Detailhandel geldt voor de meeste werkgevers. Minimumloon-updates per juli en januari moeten automatisch worden doorgevoerd — dat is niet iets wat je handmatig wilt bijhouden.
+
+Wat je van je software nodig hebt in de detailhandel:
+- **Automatische minimumloon-updates** — de software past de loonschalen aan bij wetswijzigingen
+- **Parttimeberekeningen** — verlof, vakantietoeslag en pensioen worden pro rata berekend
+- **Eenvoudige onboarding** — in de detailhandel is het verloop hoog; je wil nieuwe medewerkers snel kunnen invoeren
+- **CAO Detailhandel ingebouwd** — inclusief jaarlijkse periodiekverhogingen
+
+Voor de meeste detailhandelsbedrijven is Loket.nl of Nmbrs de beste keuze. Grote ketens met meerdere vestigingen kunnen beter kijken naar Visma Raet of AFAS.
+
+---
+
+## Zelf doen vs. uitbesteden: de echte kosten
+
+Dit is de vraag die ik het meest krijg van ondernemers die voor het eerst personeel aannemen. Het antwoord is genuanceerder dan de software-verkopers je willen doen geloven. De softwareprijs is maar één onderdeel van de totale kosten.
+
+| Aspect | Zelf doen met software | Uitbesteden aan administrateur |
+|--------|----------------------|-------------------------------|
+| **Softwarekosten** | €3-€10/medewerker/mnd | €0 (zit inbegrepen) |
+| **Personeelskosten administrateur** | Eigen tijd: 2-4 uur/mnd (10 mdw) | €0 |
+| **Uitbestedingskosten** | €0 | €15-€25/medewerker/mnd |
+| **Kennis vereist** | Ja — basis loonadministratie | Nee |
+| **Reactiesnelheid** | Direct | Via administrateur (1-2 dagen) |
+| **Foutrisico** | Middelmatig (eigen verantwoording) | Laag (expert + aansprakelijkheid) |
+| **Totaalkosten 5 mdw/mnd** | ~€25-€50 + 1-2 uur tijd | €75-€125 |
+| **Totaalkosten 15 mdw/mnd** | ~€75-€150 + 2-3 uur tijd | €225-€375 |
+| **Totaalkosten 50 mdw/mnd** | ~€250-€500 + 4-6 uur tijd | €750-€1.250 |
+
+De rekensom is vrij duidelijk: boven 5-10 medewerkers is zelf doen met software bijna altijd goedkoper. Maar er is een situatie waarbij uitbesteden toch de betere keuze is, ook financieel: als je een complexe CAO hebt (bouw, zorg), expats in dienst hebt, of als jijzelf de enige bent die de loonadministratie doet en je geen fouten kunt permitteren.
+
+**Wanneer kies je voor uitbesteden?**
+- Je hebt minder dan 5 medewerkers en je tijd is schaars
+- Je hebt een complexe CAO waarbij fouten snel optreden
+- Je hebt expats in dienst met bijzondere fiscale situaties
+- Je hebt geen basiskennis van loonadministratie en wil die ook niet opdoen
+- Je bent midden in een snel groeitraject en de administratie schiet er bij in
+
+**Wanneer kies je voor zelf doen?**
+- Je hebt 5+ medewerkers in een relatief eenvoudige situatie
+- Je wil directe controle over de loonrun (geen wachttijd)
+- Je wil inzicht in de loonkosten en rapporten op maat
+- Je hebt al een boekhoudpakket dat goed integreert met salarissoftware
+
+Een tussenweg die ik ook zie werken: zelf doen met software, maar een accountant of salarisadministrateur die één keer per jaar de administratie controleert. Dat geeft de zekerheid van een expert zonder de volledige uitbestedingskosten.
+
+---
+
+## Gratis loonadministratie software: is het mogelijk?
+
+Ik snap de vraag. Software kost geld, en als startende ondernemer met je eerste werknemer wil je de kosten beperken. Maar laat me eerlijk zijn: volledig gratis professionele loonadministratie software bestaat niet in Nederland.
+
+**Waarom niet?**
+
+De Belastingdienst stelt eisen aan de software waarmee je loonaangifte doet. De software moet gecertificeerd zijn om berichten in het juiste formaat aan te leveren (het XBRL-formaat voor loonaangifte). Dat certificeringsproces kost de leverancier geld, en die kosten worden doorberekend aan gebruikers. Er is geen gratis gecertificeerde aanbieder.
+
+**Wat zijn de goedkoopste opties?**
+
+- **Loket.nl** — vanaf €3/medewerker/maand, marktconforme prijs voor professionele loonadministratie
+- **Nmbrs** — vanaf ~€5/medewerker/maand voor de basismodule
+- **Accountant of salarisadministrateur** — als je maar 1-2 medewerkers hebt, is de maandelijkse kosten bij een accountant soms zelfs vergelijkbaar met een softwareabonnement
+
+**Wat vind je gratis op internet?**
+
+Er zijn gratis Excel-sjablonen voor loonstroken en er zijn websites waar je de loonheffing kunt berekenen (Belastingdienst zelf heeft een loonheffingstool). Maar die zijn niet geschikt voor officiële aangifte. Je kan ze gebruiken om een inschatting te maken of om je salarisberekening te controleren, maar niet als vervanging voor gecertificeerde salarissoftware.
+
+**De gratis proefperiodes zijn wel nuttig**
+
+Nmbrs biedt een gratis proefperiode aan, en ook Loket.nl heeft een gratis startperiode. Gebruik die om een volledige loonrun te draaien voordat je besluit. Als je maar 1-2 medewerkers hebt, is het ook de moeite waard om bij je accountant te vragen wat ze rekenen voor salarisverwerking — soms is dat verrassend betaalbaar voor kleine aantallen.
+
+Kortom: reken op minimaal €3-€5 per medewerker per maand voor professionele salarissoftware. Bij 5 medewerkers is dat €15-€25 per maand — een kleine investering vergeleken met de risico's van incorrecte loonaangifte (boetes, naheffingen, belastingrente).
+
+---
+
+## Eerste medewerker in dienst: welke software heb je nodig?
+
+Je hebt net je eerste werknemer aangenomen. Gefeliciteerd — maar ook: er komt administratief een hoop op je af. Ik zet op een rij wat je concreet nodig hebt en in welke volgorde je dit regelt.
+
+**Stap 1: Identiteit en BSN controleren**
+
+Voordat je iemand aan de loonlijst zet, moet je de identiteit controleren en het BSN (Burgerservicenummer) registreren. Dat is een wettelijke verplichting. Je bewaart een kopie van het ID-bewijs in het personeelsdossier — zorg dat dat digitaal en AVG-conform is. Lees het artikel over [personeelsdossier digitaliseren conform AVG](/blog/personeelsdossier-digitaliseren-avg/) voor de concrete regels.
+
+**Stap 2: Loonheffingennummer aanvragen**
+
+Je hebt een loonheffingennummer van de Belastingdienst nodig om loonaangifte te doen. Dat vraag je aan via de Belastingdienst-website. Dit duurt in de praktijk 2-4 weken, dus doe dit ruim van tevoren. Zonder dit nummer kun je niet verlonen.
+
+**Stap 3: Pensioenfonds bepalen**
+
+Valt jouw bedrijf onder een verplicht bedrijfstakpensioenfonds? Dat hangt af van je sector en CAO. Verplichte aansluiting geldt voor veel sectoren (bouw, zorg, detailhandel, metaal). Als je niets regelt en later blijkt dat je had moeten aansluiten, dan zijn de naheffingen fors. Controleer dit via de website van je sector of via de Stichting voor Ondernemingspensioenfondsen (SFO).
+
+**Stap 4: Loonadministratie software kiezen**
+
+Voor je eerste werknemer is Loket.nl de meest voor de hand liggende keuze — goedkoop, snel operationeel, eenvoudig. Als je al weet dat je snel naar 10-20 medewerkers groeit, kun je beter direct kiezen voor Nmbrs zodat je niet binnen een jaar weer hoeft over te stappen.
+
+**Stap 5: Eerste loonrun draaien**
+
+De eerste loonrun is altijd spannend. Controleer: het BSN-nummer, de loonheffingskorting (heeft de medewerker die bij jou of bij een andere werkgever aangevraagd?), het aantal vakantiedagen en de opbouw vakantietoeslag, en de pensioengrondslag. Een fout in de eerste loonrun werkt door in alle volgende runs — investeer dus tijd in een goede start.
+
+**Wat kost het totaal?**
+
+Bij één werknemer op minimumloon (~€2.200 bruto/mnd in 2026) ben je als werkgever ruwweg 30-35% meer kwijt aan werkgeverslasten. Denk aan sociale premies (WW, WIA, ZVW), pensioenpremie-werkgeversdeel, eventuele sectorpremies. Goede salarissoftware berekent dit automatisch en toont je de totale loonkosten per medewerker. Zie ook [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor een volledig stappenplan.
+
+---
+
+## Wettelijke eisen loonadministratie Nederland 2026
+
+Dit is de sectie die de meeste ondernemers overslaan totdat het fout gaat. De wettelijke eisen zijn niet ingewikkeld, maar je moet ze kennen — en je software moet ze ondersteunen.
+
+### Wat moet je per medewerker administreren?
+
+De Belastingdienst vereist dat je per werknemer de volgende gegevens bijhoudt:
+
+- **Persoonsgegevens** — naam, adres, geboortedatum, BSN
+- **Arbeidscontract** — functie, salaris, contractvorm, startdatum
+- **Loonheffingskorting** — of de werknemer die bij jou heeft aangevraagd (ja/nee)
+- **Loonstroken** — elke betaalperiode een loonstrook die voldoet aan de wettelijke vereisten
+- **Loonaangifte** — per aangiftetijdvak (maand of kwartaal) aangifte doen bij de Belastingdienst
+- **UPA-aangifte** — als je medewerkers onder een pensioenfonds vallen, pensioenpremies afdragen via UPA
+
+### Bewaartermijnen
+
+Je bent verplicht de loonadministratie **minimaal 7 jaar** te bewaren na het einde van het belastingjaar. Dat geldt ook voor digitale administratie. Goede salarissoftware slaat alles automatisch op, maar zorg ook voor een backup-strategie als je ooit van software wisselt.
+
+### Loonaangifte: tijdvakken en deadlines
+
+- **Maandaangifte** — uiterlijk de laatste dag van de maand volgend op het aangiftetijdvak (loonaangifte over januari uiterlijk eind februari)
+- **Kwartaalaangifte** — als je minder dan 10 medewerkers hebt, kun je kiezen voor kwartaalaangifte; de deadline is dan uiterlijk de laatste dag van de maand volgend op het kwartaal
+- **Te laat aangifte** — de Belastingdienst rekent een verzuimboete van €68-€5.514 bij te late aangifte; bij herhaling hoger
+
+### Loonheffingstabellen 2026
+
+Elke 1 januari worden de loonheffingstabellen bijgesteld. In 2026 zijn de relevante wijzigingen:
+- De algemene heffingskorting is verhoogd
+- Het maximale dagloon voor sociale verzekeringen is bijgesteld
+- De WKR-vrije ruimte is 1,7% over de eerste €400.000 fiscale loonsom en 1,18% daarboven
+
+Goede salarissoftware verwerkt deze wijzigingen automatisch. Als je handmatig werkt of met een gedateerd systeem, loop je het risico dat je de verkeerde tabellen toepast — dat levert naheffingen op.
+
+### Minimumloon 2026
+
+Per 1 januari 2026 geldt een wettelijk minimumloon van **€13,27 bruto per uur** (bij een 40-urige werkweek). Het wettelijk minimumloon is in 2023 overgegaan van een maandbedrag naar een uurloon — dat maakt de berekening voor parttimers en oproepkrachten eenvoudiger, maar vraagt wel dat je software dit correct verwerkt.
+
+### Wat kost het als je de regels niet volgt?
+
+De Belastingdienst controleert actief op correcte loonaangifte, zeker bij bedrijven die snel groeien. De risico's:
+- **Naheffingsaanslagen** met belastingrente (per 2026: 8% per jaar)
+- **Verzuimboetes** bij te late aangifte
+- **Vergrijpboetes** bij opzettelijk onjuiste aangifte (tot 100% van het naheffingsbedrag)
+
+Goede salarissoftware elimineert het grootste deel van deze risico's door automatisch de juiste berekeningen te maken en de loonaangifte op tijd in te dienen. Dat is de belangrijkste ROI van loonadministratie software: niet de tijdbesparing, maar de risicoreductie.
+
+---
+
+## Kan ik als eenmanszaak of ZZP'er loonadministratiesoftware gebruiken?
+
+Dit is een vraag die ik regelmatig krijg van ZZP'ers die overwegen hun eerste medewerker aan te nemen, of van eenmanszaken die hulp inschakelen.
+
+**Als je geen personeel in loondienst hebt**, heb je geen loonadministratie software nodig. Als ZZP'er ben je zelf geen werknemer — je betaalt inkomstenbelasting, geen loonbelasting. Een zzp'er die je inhuurt staat ook niet op je loonlijst. Je hebt dan alleen een goede boekhouding nodig, geen salarissoftware. Lees het overzicht van de [beste software voor ZZP'ers](/blog/beste-software-zzp-2026/) voor wat je dan wél nodig hebt.
+
+**Zodra je iemand in loondienst neemt** — ook al is het maar één parttimer van 8 uur per week — ben je verplicht loonadministratie te voeren en loonaangifte te doen. Vanaf dat moment is loonadministratie software nuttig, zelfs als eenmanszaak. De kosten bij één werknemer zijn klein (€3-€10/maand) en de tijdsbesparing en foutpreventie zijn dat snel waard.
+
+**Wat als je een stagiair aanneemt?**
+
+Als een stagiair een stagevergoeding ontvangt, gelden in de meeste gevallen geen loonheffingsverplichtingen — mits de stage als echte leersituatie wordt gezien en de vergoeding redelijk is (richtlijn: tot ~€500/mnd is doorgaans geen loonheffing van toepassing). Maar zodra een stagiair een arbeidsovereenkomst heeft of meer verdient dan het wettelijk minimumloon op prorata basis, verandert de situatie. Bij twijfel: overleg met een accountant.
+
+---
 
 ## Conclusie
 

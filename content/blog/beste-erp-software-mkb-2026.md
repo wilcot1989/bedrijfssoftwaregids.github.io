@@ -27,6 +27,16 @@ faq:
     a: "Ja, alle moderne ERP-systemen bieden koppelingen met populaire webshopplatformen zoals WooCommerce, Shopify, Magento en Lightspeed. Dit synchroniseert automatisch orders, voorraad, klantgegevens en facturatie tussen je webshop en ERP."
   - q: "Wanneer is het tijd om over te stappen naar ERP software?"
     a: "Overweeg ERP als je merkt dat je veel tijd kwijt bent aan handmatige dataoverdracht tussen systemen, als fouten toenemen door dubbele invoer, als je geen real-time inzicht hebt in bedrijfsresultaten, of als je bedrijf groeit naar 10+ medewerkers en meer structuur nodig heeft."
+  - q: "Is er gratis ERP software voor kleine MKB-bedrijven?"
+    a: "Ja, Odoo Community is de meest serieuze gratis ERP-optie. Je kunt het zelf hosten en krijgt modules voor boekhouding, CRM, verkoop en voorraad. Het addertje: je mist functies zoals automatische bankreconciliatie en je hebt technische kennis nodig voor hosting en onderhoud. Voor de kleinste bedrijven is Odoo One App Free (één module gratis in de cloud) ook een optie om mee te starten."
+  - q: "Wat kost ERP-implementatie echt?"
+    a: "Reken breed: licenties zijn maar een deel. Implementatiekosten voor Exact Online liggen typisch tussen €3.000 en €20.000 voor een standaard MKB-traject. Afas kost €10.000 tot €50.000. SAP Business One en Dynamics 365 beginnen bij €15.000 en kunnen oplopen tot €100.000+ bij maatwerk. Tel daarbij op: migratie van bestaande data (€2.000-€10.000), training (€1.500-€5.000), en jaarlijks onderhoud (15-20% van licentiewaarde)."
+  - q: "Wanneer heb ik echt ERP nodig vs. losse tools?"
+    a: "ERP heeft pas echt meerwaarde als je merkt dat je twee of meer losse systemen handmatig synchroon houdt. Concreet: als je orders overzet van je webshop naar je boekhoudprogramma, voorraden bijhoudt in Excel naast je kassasysteem, of urenregistratie los staat van projectfacturatie. Onder de 10 medewerkers is goede boekhoudsoftware met koppelingen vaak voldoende. Boven de 15-20 medewerkers — zeker in productie, handel of de bouw — loont ERP structureel."
+  - q: "Welk ERP systeem past bij een bouwbedrijf?"
+    a: "Voor bouwbedrijven zijn de sterkste keuzes Exact Online Manufacturing of Afas. Exact Online heeft specifieke projectmodules voor calculatie, meerwerk en nacalculatie die de bouwsector goed kennen. Afas scoort hoog op urenregistratie en salarisadministratie voor flexibele arbeid. Voor grotere aannemers is ook Dynamics 365 met een bouw-specifieke add-on (zoals Bouwconnect of Trimble) een serieuze optie."
+  - q: "Welk ERP systeem past bij een productiebedrijf?"
+    a: "SAP Business One is mijn eerste advies voor productiebedrijven: de MRP-module (Material Requirements Planning) en werkorderafhandeling zijn klasse apart. Dynamics 365 Business Central Premium is een goed alternatief dat minder implementatiekosten meebrengt. Odoo heeft een verrassend sterke productiefunctie (Manufacturing-module) voor technisch onderlegde bedrijven met een kleiner budget."
 ---
 
 ERP-implementaties staan bekend als duur en pijnlijk, en eerlijk gezegd: dat klopt regelmatig. Maar ik heb ook genoeg MKB-bedrijven geholpen die na de overstap naar een goed ERP-systeem eindelijk real-time inzicht kregen in hun cijfers en uren per week bespaarden op handmatig overtypen. De truc is het juiste ERP-systeem kiezen voor jouw schaal. Dit zijn de 5 ERP-oplossingen die ik voor het Nederlandse MKB aanbeveel. Wil je ook je CRM-processen integreren naast je ERP? Lees dan het overzicht van de [beste CRM software voor Nederland 2026](/blog/beste-crm-software-nederland-2026/).
@@ -263,6 +273,311 @@ Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een t
 3. **Denk aan groei** — Kies een ERP-systeem dat meegroeit. Overstappen naar een ander ERP-systeem is kostbaar en tijdrovend.
 4. **Vraag demo's aan** — Alle leveranciers bieden persoonlijke demo's. Plan er minimaal 3 in voordat je beslist. Gebruik de [vergadersoftware 2026](/blog/beste-vergadersoftware-2026/) om die demo's efficiënt online te plannen en je team erbij te betrekken.
 5. **Reken totale kosten** — Tel licenties, implementatie, training, maatwerk en jaarlijks onderhoud bij elkaar op.
+
+## ERP per sector: welk systeem past bij jouw branche?
+
+Eén van de vragen die ik het vaakst krijg: "Ja, maar werkt dat ook in mijn branche?" Terecht. Een bouwbedrijf heeft andere ERP-behoeften dan een zorginstelling of een groothandel. Hieronder ga ik per sector concreet in op wat echt belangrijk is en welke systemen ik aanbeveel.
+
+### Bouw
+
+In de bouw draait alles om projectcalculatie, meerwerk en nacalculatie. Je wil weten of een project winst oplevert terwijl het nog loopt — niet pas als de factuur al verstuurd is. De belangrijkste ERP-functies voor bouwbedrijven zijn: werkorderbeheer, uren per project, materialenbeheer en koppeling met planningstools.
+
+**Mijn aanbevelingen voor bouwbedrijven:**
+
+- **Exact Online Manufacturing** — De projectmodules zijn specifiek geschikt voor calculatie en nacalculatie. Veel bouwbedrijven tot 50 medewerkers draaien hier goed op. Koppel het aan een planningtool zoals Snelstart of een bouw-specifieke app.
+- **Afas Software** — Sterk op urenregistratie, meerwerk verwerken en salarisadministratie voor oproep- en uitzendkrachten. Aanbevolen voor aannemers met 30+ medewerkers die HR als pijnpunt ervaren.
+- **Dynamics 365 Business Central** met een bouw-add-on (zoals Bouwconnect of 4PS Construct) — Krachtige optie voor grotere aannemers (50+ medewerkers) die ook diep in Microsoft 365 zitten.
+
+Lees ook mijn overzicht van de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/) als je projectplanning los van ERP wil aanpakken.
+
+### Zorg
+
+In de zorgsector gaat het niet alleen om boekhouding. Je hebt te maken met AVG-compliance, personeelsplanning met wisselende diensten, subsidie-administratie en soms ook declaraties richting zorgkantoren. Standaard ERP-systemen passen hier vaak minder goed zonder flinke aanpassing.
+
+**Mijn aanbevelingen voor de zorgsector:**
+
+- **Afas Software** — Verreweg de sterkste keuze voor zorginstellingen in het MKB. De HR-module handelt roosters, verlof, verzuim en salarisverwerking voor complexe CAO's af. Afas heeft ook specifieke zorginstellingen als referentieklanten.
+- **Dynamics 365 Business Central** — Voor kleine tot middelgrote zorginstellingen die een Microsoft-omgeving hebben. Vereist wel een gespecialiseerde zorgpartner voor implementatie.
+- **Odoo** — Alleen aan te raden als je een technisch team hebt. De HR- en planningsmodules zijn flexibel genoeg, maar je hebt maatwerk nodig voor zorg-specifieke declaraties.
+
+Zoek je specifiek HR-software voor roostering en verzuim? Lees dan ook mijn overzicht van de [beste HR software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/).
+
+### Groothandel
+
+Voor groothandelsbedrijven is voorraadbeheer het absolute hart van het ERP-systeem. Real-time inzicht in welke artikelen op voorraad liggen, in welk magazijn, met welke lottraceerbaarheid — dat bepaalt of je de klant goed kunt bedienen. Integratie met webshop en EDI-koppelingen zijn voor veel groothandelaren ook essentieel.
+
+**Mijn aanbevelingen voor groothandel:**
+
+- **SAP Business One** — Mijn eerste keuze voor groothandels met meerdere magazijnen of complexe voorraadstromen. De multi-warehouse module, batchtracking en serienummerbeheer zijn uitzonderlijk goed. Ik heb dit geadviseerd bij een groothandel met drie locaties die real-time inzicht nodig had — het resultaat was dag-en-nacht verschil.
+- **Exact Online** met de Voorraadbeheer-module — Voor kleinere groothandels (1-3 magazijnen, beperkte SKU's) een prima en goedkopere keuze.
+- **Odoo** — Als je budget beperkt is maar wel een krachtig WMS en e-commerce koppeling wil, is Odoo verrassend sterk in dit segment.
+
+Lees ook mijn uitgebreide gids over de [beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/) voor een diepgaande vergelijking.
+
+### Productie
+
+Productiebedrijven hebben ERP nodig dat MRP (Material Requirements Planning) goed ondersteunt: wat moet ik inkopen om volgende week de productieorders te kunnen draaien? Daarnaast zijn stuklijsten (BOM), werkorders en capaciteitsplanning cruciaal.
+
+**Mijn aanbevelingen voor productiebedrijven:**
+
+- **SAP Business One** — De sterkste MRP-functionaliteit van alle systemen in dit lijstje. Werkorders, productieroutes, capaciteitsplanning en kwaliteitscontrole zitten goed in elkaar. Voor serieuze productiebedrijven (10-250 medewerkers) mijn duidelijke eerste keuze.
+- **Dynamics 365 Business Central Premium** — De Premium-licentie bevat productiefuncties die voor veel MKB-productiebedrijven voldoende zijn. Minder complex te implementeren dan SAP, en aanlokkelijk als je al Microsoft gebruikt.
+- **Odoo Manufacturing** — Bevat een compleet productiemodule met stuklijsten, werkorders en MRP. Voor bedrijven met een technisch team die geen SAP-implementatiebudget hebben.
+
+### Horeca
+
+Horeca is een apart geval in ERP-land. Klassiek ERP past vaak slecht omdat de operationele processen — kassa, reserveringen, personeelsplanning in ploegen — specifieke software vragen die ERP-pakketten niet standaard bieden.
+
+**Mijn aanbevelingen voor horeca:**
+
+- **Exact Online** gecombineerd met een horeca-POS (zoals Lightspeed of SOCO) — Voor horecabedrijven is dit de meest pragmatische route. Exact verzorgt de boekhouding en laat de kassa-software doen waar die goed in is. De koppeling tussen Lightspeed en Exact Online werkt uitstekend.
+- **Afas** — Zinvol als je een horecaketen bent met 30+ medewerkers waarbij HR (flexibele arbeidscontracten, oproepkrachten, CAO Horeca) de grootste uitdaging is.
+- **Odoo** — Voor kleinere horecaondernemers met een eigen webshop of bezorgservice een interessante all-in-one optie, maar verwacht configuratiewerk.
+
+Voor horecabedrijven raad ik ook aan om te kijken naar [kassasoftware specifiek voor de horeca](/blog/beste-kassasoftware-horeca-2026/) als aanvulling op je ERP.
+
+---
+
+## Gratis ERP-software: zijn er serieuze opties?
+
+Ik krijg deze vraag regelmatig: "Bestaat er ook gratis ERP?" Het antwoord is ja — maar met nuances die je écht moet kennen voordat je er tijd in steekt.
+
+### Odoo Community: de sterkste gratis ERP
+
+Odoo Community is open-source en volledig gratis te downloaden en te hosten. Je krijgt modules voor:
+
+- Boekhouding (basisversie)
+- CRM en verkoop
+- Inkoop en voorraadbeheer
+- Productie (MRP)
+- HR en personeelsbeheer
+- Website en e-commerce
+
+**Wat je niet krijgt in Community (wel in Odoo Standard/Custom):**
+
+- Automatische bankreconciliatie (dé dagelijkse tijdsbesparing in boekhouding)
+- SEPA-betalingsbestanden
+- Technische support van Odoo BV
+- Automatische updates en hosting
+
+**Wat kost "gratis" in de praktijk?**
+
+Hosting: €20-€80/maand (een VPS of dedicated server). Technisch beheer: als je geen interne IT-kracht hebt, betaal je een Odoo-partner €50-€100/uur voor configuratie en onderhoud. Upgrades naar een nieuwe Odoo-versie kosten significant werk bij maatwerk modules.
+
+Mijn eerlijke conclusie: Odoo Community is serieus bruikbaar als je een ontwikkelaar of technisch onderlegde medewerker in huis hebt. Zonder die expertise wordt "gratis" snel duurder dan een betaald pakket.
+
+### Andere gratis ERP-opties
+
+**ERPNext** — Net als Odoo open-source en gratis te hosten. Sterker op productie en projectmanagement, minder sterk op Nederlandse boekhouding (BTW, iDEAL). Kleine maar actieve community.
+
+**Dolibarr** — Lichte open-source ERP voor kleine bedrijven. Makkelijker in te stellen dan Odoo, maar minder uitgebreid. Geschikt als je alleen facturatie, CRM en basale voorraad nodig hebt.
+
+**Odoo One App Free** — Je mag één Odoo-module gratis gebruiken in de cloud. Handig om mee te testen, maar zodra je een tweede module nodig hebt, betaal je voor alle modules.
+
+**Mijn advies:** Gebruik gratis ERP als leermiddel of proof of concept. Voor dagelijkse bedrijfsvoering met meerdere medewerkers is een betaald pakket structureel goedkoper als je alle verborgen kosten meerekent.
+
+<a href="https://www.odoo.com/nl_NL/page/community" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Download Odoo Community gratis →</a>
+
+---
+
+## ERP vergelijken: praktisch stappenplan
+
+Ik heb tientallen ERP-trajecten begeleid. De bedrijven die het best uitkwamen, hadden één ding gemeen: ze kozen niet op gevoel of op prijs, maar op basis van een gestructureerd vergelijkingsproces. Dit is het stappenplan dat ik gebruik.
+
+### Stap 1 — Breng je huidige processen in kaart (week 1-2)
+
+Maak een lijst van alle processen die je nu met losse tools beheert. Stel per proces de vraag: hoeveel tijd kost dit per week, en hoeveel fouten maken we hier? Die pijnpunten bepalen je prioriteiten.
+
+Typische pijnpunten die ik tegenkom:
+- Orders handmatig overtypen van webshop naar boekhouding
+- Voorraad bijhouden in Excel terwijl de boekhouding apart loopt
+- Uren registreren in een app die niet koppelt met projectfacturatie
+- Salarisverwerking los van verlof- en verzuimregistratie
+
+### Stap 2 — Stel een longlist samen (week 2-3)
+
+Begin met maximaal 5 systemen die passen bij je schaal en branche. Gebruik de keuzegids in dit artikel als startpunt. Lees reviews op G2.com en Capterra — filter op bedrijven met jouw aantal medewerkers en jouw branche.
+
+### Stap 3 — Vraag gerichte demo's aan (week 3-5)
+
+Plan minimaal 3 demo's. Geef de leverancier van tevoren een scenario uit je eigen praktijk: "Laat me zien hoe een inkooporder verwerkt wordt tot aan de betalingsopdracht." Leveranciers die alleen de standaard pitchdeck tonen en je specifieke vraag niet beantwoorden, zijn al bij voorbaat een risico.
+
+Wat je in elke demo wilt zien:
+- Hoe ziet dagelijkse boekhouding eruit?
+- Hoe werkt de koppeling met je bank?
+- Hoe lang duurt een rapport aanmaken?
+- Wat kost extra gebruikers toevoegen?
+
+### Stap 4 — Reken de Total Cost of Ownership (week 5-6)
+
+Vraag elke leverancier een all-in offerte. Wat wil je weten?
+
+| Kostenpost | Vragen |
+|------------|--------|
+| Licenties | Prijs per gebruiker, prijsstijging garantie, minimumcontract |
+| Implementatie | Wat is inbegrepen, wat wordt apart gefactureerd? |
+| Datamigrate | Wie migreert bestaande data, tegen welke prijs? |
+| Training | Hoeveel uur, online of on-site? |
+| Maatwerk | Wordt dit standaard onderhouden bij upgrades? |
+| Jaarlijks onderhoud | Percentage van licentiewaarde, wat krijg je ervoor? |
+
+### Stap 5 — Referentiegesprekken (week 6-7)
+
+Vraag elke serieuze leverancier om twee referentiecontacten: één bedrijf dat al 2+ jaar live is, en één dat recentelijk geïmplementeerd heeft. Wat je wil weten: "Wat is er tegengevallen? Wat kostte meer dan verwacht? Wat zou je anders doen?"
+
+### Stap 6 — Beslissing en contractonderhandeling (week 7-8)
+
+Onderhandel over:
+- Prijsstijgingspercentage per jaar (leg een cap vast in het contract)
+- Exitclausule: hoe kom je bij je data als je wil wisselen?
+- Testperiode of fase-1-go-live voor je alle modules activeert
+
+Gebruik de [vergelijkingsmatrix op BSG](/categories/boekhouding/) om systemen naast elkaar te zetten.
+
+---
+
+## Wat kost ERP-implementatie echt?
+
+De licentieprijs is zelden het grootste deel van de ERP-investering. Dit is het overzicht dat ik wil dat elke ondernemer kent voordat ze een handtekening zetten.
+
+### Kostenopbouw per systeem
+
+**Exact Online — MKB-implementatie (10-30 gebruikers)**
+
+| Kostenpost | Bandbreedte |
+|------------|-------------|
+| Licenties (jaar 1) | €3.500 – €12.000 |
+| Implementatie partner | €3.000 – €20.000 |
+| Datamigrate | €1.500 – €8.000 |
+| Training | €1.000 – €3.000 |
+| **Totaal jaar 1** | **€9.000 – €43.000** |
+| Jaarlijks terugkerend | €3.500 – €12.000 |
+
+**Afas Software — MKB-implementatie (20-50 medewerkers)**
+
+| Kostenpost | Bandbreedte |
+|------------|-------------|
+| Licenties (jaar 1) | €3.000 – €9.000 |
+| Implementatie partner | €10.000 – €50.000 |
+| Datamigrate | €2.000 – €10.000 |
+| Training | €2.000 – €5.000 |
+| **Totaal jaar 1** | **€17.000 – €74.000** |
+| Jaarlijks terugkerend | €3.000 – €9.000 |
+
+**SAP Business One — MKB-implementatie (10-50 gebruikers)**
+
+| Kostenpost | Bandbreedte |
+|------------|-------------|
+| Licenties (cloud, jaar 1) | €18.000 – €60.000 |
+| Implementatie partner | €20.000 – €100.000 |
+| Datamigrate | €5.000 – €20.000 |
+| Training | €3.000 – €8.000 |
+| **Totaal jaar 1** | **€46.000 – €188.000** |
+| Jaarlijks terugkerend | €18.000 – €60.000 |
+
+**Dynamics 365 Business Central — MKB-implementatie (10-50 gebruikers)**
+
+| Kostenpost | Bandbreedte |
+|------------|-------------|
+| Licenties (jaar 1) | €7.200 – €52.000 |
+| Implementatie partner | €15.000 – €75.000 |
+| Datamigrate | €3.000 – €15.000 |
+| Training | €2.000 – €6.000 |
+| **Totaal jaar 1** | **€27.200 – €148.000** |
+| Jaarlijks terugkerend | €7.200 – €52.000 |
+
+**Odoo Standard — MKB-implementatie (10-30 gebruikers)**
+
+| Kostenpost | Bandbreedte |
+|------------|-------------|
+| Licenties (jaar 1) | €3.600 – €13.500 |
+| Implementatie partner | €5.000 – €35.000 |
+| Datamigrate | €1.000 – €6.000 |
+| Training | €1.000 – €3.000 |
+| **Totaal jaar 1** | **€10.600 – €57.500** |
+| Jaarlijks terugkerend | €3.600 – €13.500 |
+
+### Verborgen kosten die onderschat worden
+
+**Maatwerk-onderhoud.** Iedere keer dat de leverancier een grote update uitbrengt, moeten maatwerkmodules opnieuw getest en soms aangepast worden. Reken €1.000-€5.000/jaar structureel als je maatwerk hebt.
+
+**Intern tijdverlies tijdens implementatie.** Je projectleider, boekhouder en key users besteden gemiddeld 20-30% van hun werktijd aan het ERP-traject gedurende de implementatiefase. Dit zie je nooit in een offerte, maar het kost echt geld.
+
+**Dubbele licenties tijdens overgangsperiode.** Reken op 1-3 maanden dat je het oude systeem en het nieuwe ERP parallel draait.
+
+**Additionele modules.** Vrijwel alle systemen verkopen basislicenties en rekenen extra voor modules als Productie, Warehouse Management of geavanceerde BI.
+
+### Wanneer is ERP financieel verantwoord?
+
+Mijn vuistregel: een ERP-implementatie verdient zichzelf terug als de gecombineerde tijdsbesparing op handmatige processen + reductie van fouten minstens €1.500/maand oplevert. Dat is bij 3 medewerkers die elk 2 uur/week besparen op handmatig overtypen al haalbaar.
+
+Maak de businesscase concreet: tel alle uren op die medewerkers nu kwijt zijn aan administratieve handelingen die het ERP automatiseert. Vermenigvuldig met een uurloon van €35-€60. Dat is je maximale investering per jaar die nog positief uitvalt.
+
+---
+
+## Wanneer heb ik echt ERP nodig — en wanneer volstaan losse tools?
+
+Dit is de vraag die ik het meest onderwaardeerd zie in ERP-discussies. Veel bedrijven kopen ERP te vroeg, of juist te laat. Hier is mijn praktische afweging.
+
+**Losse tools zijn voldoende als:**
+
+- Je minder dan 10 medewerkers hebt en je processen stabiel zijn
+- Boekhouding, facturatie en CRM zijn je enige echte behoeften
+- Je geen productie, complexe voorraad of projectadministratie hebt
+- Je een ZZP'er of eenmanszaak bent die nu net groeit
+
+In dat geval: begin met goede [boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) of [facturatie software voor MKB](/blog/beste-facturatie-software-mkb-2026/) en voeg een CRM toe als dat nodig is. Dat is goedkoper en makkelijker te implementeren.
+
+**ERP is zinvol zodra:**
+
+- Je twee of meer losse systemen handmatig synchroon houdt (orders van webshop naar boekhouding, voorraad in Excel naast kassasysteem)
+- Fouten toenemen omdat data op meerdere plaatsen wordt ingevoerd
+- Je 15+ medewerkers hebt en groeit — of al boven de 20 medewerkers zit
+- Je productiebedrijf bent waarbij stuklijsten en werkorders handmatig bijgehouden worden
+- Je als groothandel geen real-time voorraadzicht hebt
+
+**ERP is zeker nodig als:**
+
+- Je meerdere vestigingen of magazijnen hebt
+- Je omzet boven de €2 miljoen gaat en de complexiteit zichtbaar toeneemt
+- Je klanten EDI-koppelingen eisen (grote retailers of overheidsklanten)
+- Je salarisadministratie, HR en operatie nu in totaal verschillende systemen zitten
+
+---
+
+## Veelgestelde vragen over ERP voor het MKB
+
+### Is er gratis ERP software voor kleine MKB-bedrijven?
+
+Ja, **Odoo Community** is de meest serieuze gratis ERP-optie. Je kunt het zelf hosten en krijgt modules voor boekhouding, CRM, verkoop en voorraad. Het addertje: je mist functies zoals automatische bankreconciliatie en je hebt technische kennis nodig voor hosting en onderhoud. Voor de kleinste bedrijven is Odoo One App Free (één module gratis in de cloud) ook een optie om mee te starten.
+
+Andere gratis opties zijn ERPNext (open-source, sterk op productie) en Dolibarr (eenvoudiger, minder uitgebreid). Houd rekening met verborgen kosten: hosting, beheer en de tijd die je kwijt bent aan configuratie.
+
+### Wat kost ERP-implementatie echt?
+
+Licenties zijn maar een deel. Reken voor een standaard MKB-traject:
+
+- **Exact Online:** €9.000–€43.000 totaal jaar 1
+- **Afas:** €17.000–€74.000 totaal jaar 1
+- **Dynamics 365:** €27.200–€148.000 totaal jaar 1
+- **SAP Business One:** €46.000–€188.000 totaal jaar 1
+- **Odoo Standard:** €10.600–€57.500 totaal jaar 1
+
+De grootste verborgen kosten zijn intern tijdverlies tijdens de implementatie en maatwerk-onderhoud bij updates. Lees het volledige kostenoverzicht hierboven voor een gedetailleerde uitsplitsing per systeem.
+
+### Wanneer heb ik echt ERP nodig vs. losse tools?
+
+ERP heeft pas echt meerwaarde als je twee of meer losse systemen handmatig synchroon houdt. Concreet: als je orders overzet van je webshop naar je boekhoudprogramma, voorraden bijhoudt in Excel naast je kassasysteem, of urenregistratie los staat van projectfacturatie. Onder de 10 medewerkers is goede boekhoudsoftware met koppelingen vaak voldoende. Boven de 15-20 medewerkers — zeker in productie, handel of de bouw — loont ERP structureel.
+
+### Welk ERP systeem past bij een bouwbedrijf?
+
+Voor bouwbedrijven tot 50 medewerkers adviseer ik **Exact Online** met de projectmodules: calculatie, meerwerk en nacalculatie zijn er goed in. **Afas** is sterker als HR en salarisadministratie voor flexibele arbeid het hoofdpijnpunt is. Voor grotere aannemers (50+ medewerkers) is **Dynamics 365** met een bouw-add-on (zoals 4PS Construct) een serieuze keuze.
+
+### Welk ERP systeem past bij een productiebedrijf?
+
+**SAP Business One** is mijn eerste advies voor productiebedrijven: de MRP-module en werkorderafhandeling zijn klasse apart voor serieuze maakbedrijven. **Dynamics 365 Business Central Premium** is een goed alternatief met minder implementatiekosten. **Odoo Manufacturing** is voor technisch onderlegde productiebedrijven met een beperkt budget verrassend sterk.
+
+---
 
 ## Conclusie
 

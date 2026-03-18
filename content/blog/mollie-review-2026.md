@@ -1,14 +1,14 @@
 ---
 title: "Mollie Review 2026: Betaalprovider Getest"
 date: 2026-03-10
-lastmod: 2026-03-10
-description: "Eerlijke Mollie review 2026: transactiekosten per betaalmethode, dashboard, integraties en ervaringen. Ontdek of Mollie past bij jouw webshop of platform."
+lastmod: 2026-03-18
+description: "Eerlijke Mollie review 2026: transactiekosten per betaalmethode, vergelijking met Stripe en Adyen, dashboard, integraties en ervaringen. Ontdek of Mollie past bij jouw webshop of platform."
 categories: ["webshops"]
 tags:
   - webshop
   - mkb
   - review
-keywords: ["mollie review", "mollie ervaringen", "mollie kosten", "mollie betaalprovider"]
+keywords: ["mollie review", "mollie ervaringen", "mollie kosten", "mollie betaalprovider", "mollie vs stripe", "mollie vs adyen", "mollie shopify", "mollie woocommerce"]
 aliases:
   - /posts/mollie-review-2026/
 affiliate: true
@@ -30,6 +30,16 @@ faq:
     a: "Ja, Mollie integreert met alle grote Nederlandse boekhoudpakketten: Exact Online, Moneybird, e-Boekhouden en Twinfield. De koppeling zorgt ervoor dat betalingen automatisch in je administratie worden verwerkt."
   - q: "Is Mollie veilig en PCI-compliant?"
     a: "Ja, Mollie is PCI DSS Level 1 gecertificeerd, wat het hoogste beveiligingsniveau is voor betaalverwerking. Alle data wordt versleuteld en Mollie staat onder toezicht van De Nederlandsche Bank. Je hoeft als ondernemer zelf geen PCI-certificering te hebben."
+  - q: "Is Mollie goedkoper dan Stripe?"
+    a: "Voor Nederlandse webshops is Mollie doorgaans goedkoper dan Stripe. iDEAL via Mollie kost €0,32 per transactie; via Stripe betaal je €0,29 maar dan ben je afhankelijk van een derde plugin die zelf ook kosten toevoegt. Voor creditcards zijn de tarieven vergelijkbaar (beide circa 1,8% + vaste fee). Mollie heeft als voordeel dat iDEAL native is ingebouwd zonder toeslag."
+  - q: "Kan ik Mollie gebruiken voor een internationaal bedrijf?"
+    a: "Mollie is actief in 25+ Europese landen en ondersteunt betaalmethodes voor Nederland, België, Duitsland, Oostenrijk, Polen en meer. Voor zuiver internationale groei buiten Europa (VS, Azië) is Stripe of Adyen sterker. Binnen Europa is Mollie een uitstekende keuze voor MKB-bedrijven die internationaal willen groeien."
+  - q: "Wat zijn de Mollie-kosten vergeleken met Stripe per transactie?"
+    a: "Creditcard: Mollie 1,8% + €0,25 vs Stripe 1,5% + €0,25 (Stripe iets goedkoper bij hoog volume). iDEAL: Mollie €0,32 native vs Stripe €0,29 + kosten derde iDEAL-plugin. PayPal: Mollie 1,5% + €0,25 vs Stripe 1,5% + €0,25 (gelijk). Voor de meeste Nederlandse webshops is het totale kostenverschil minimaal; de keuze hangt meer af van platform-integratie en support."
+  - q: "Wanneer kies je Adyen boven Mollie?"
+    a: "Kies Adyen boven Mollie zodra je meer dan 10.000 transacties per maand verwerkt, internationaal opereert buiten Europa, of enterprise-functies nodig hebt zoals geavanceerde fraudedetectie, dedicated accountmanagement en directe acquiring. Adyen is ook beter als je één geïntegreerd platform wilt voor online, in-store en mobiel betalen op grote schaal. Voor MKB is Mollie vrijwel altijd de betere keuze vanwege eenvoud en transparante pricing."
+  - q: "Werkt Mollie met Shopify en WooCommerce?"
+    a: "Ja, Mollie werkt uitstekend met zowel Shopify (via de Mollie Payments app in de Shopify App Store) als WooCommerce (via de officiële gratis plugin). Beide integraties zijn door Mollie zelf onderhouden, goed gedocumenteerd en binnen 15 minuten geïnstalleerd. iDEAL, Bancontact, Klarna en alle andere betaalmethodes zijn direct beschikbaar na activatie."
 ---
 
 Toen ik vijf jaar geleden voor het eerst Mollie koppelde aan een WooCommerce webshop voor een klant, duurde dat precies 12 minuten. Account aanmaken, plugin installeren, API-key invoeren, testbetaling doen. Klaar. Dat was het moment dat ik begreep waarom Mollie zo populair is in Nederland: het werkt gewoon.
@@ -296,7 +306,7 @@ Op G2 scoort Mollie circa 4,2 op 5 sterren, met name hoge scores op gebruiksgema
 
 ### Mollie vs. MultiSafepay
 
-MultiSafepay is de meest directe concurrent. Qua functionaliteit liggen ze dicht bij elkaar. In mijn ervaring wint Mollie op gebruiksgemak en dashboardkwaliteit, terwijl MultiSafepay soms scherper is in prijs bij hoog volume. **Kies Mollie als** je de beste developer experience en het meest overzichtelijke dashboard wilt. **Kies MultiSafepay als** je groot volume draait en elke cent telt.
+MultiSafepay is de meest directe concurrent. Qua functionaliteit liggen ze dicht bij elkaar. In mijn ervaring wint Mollie op gebruiksgemak en dashboardkwaliteit, terwijl MultiSafepay soms scherper is in prijs bij hoog volume. **Kies Mollie als** je de beste developer experience en het meest overzichtelijke dashboard wilt. **Kies MultiSafepay als** je groot volume draait en elke cent telt. Bekijk ook mijn uitgebreide [Mollie vs MultiSafepay vergelijking](/blog/mollie-vs-multisafepay-2026/) voor een diepgaande analyse.
 
 ### Mollie vs. Adyen
 
@@ -305,6 +315,143 @@ Adyen is een ander kaliber: een enterprise-betaalplatform dat bedrijven als Spot
 ### Mollie vs. Stripe
 
 Stripe is de Amerikaans-Ierse concurrent die vooral populair is bij tech-bedrijven en SaaS-platforms. De API is legendarisch goed, net als bij Mollie. Het verschil: Stripe is sterker internationaal, Mollie is sterker op de Nederlandse en Belgische markt. **Kies Mollie als** je focus op de Benelux ligt. **Kies Stripe als** je wereldwijd verkoopt en een tech-team hebt.
+
+
+## Mollie vs Stripe: wanneer kies je welke?
+
+Dit is de vraag die ik het vaakst krijg van klanten die een nieuwe webshop opzetten. Stripe geniet een bijna mythische reputatie in de tech-wereld -- en die reputatie is niet onverdiend. Maar voor de meeste Nederlandse webshophouders is Mollie de betere keuze. Laat me uitleggen waarom, en wanneer het omgekeerde geldt.
+
+### Transactiekosten: wie is goedkoper?
+
+Op papier lijkt het simpel, maar de duivel zit in de details.
+
+| Betaalmethode | Mollie | Stripe |
+|---|---|---|
+| **iDEAL** | €0,32 (native) | €0,29 + plugin-kosten |
+| **Creditcard (Visa/Mastercard)** | 1,8% + €0,25 | 1,5% + €0,25 |
+| **Bancontact** | €0,39 | €0,39 |
+| **SEPA Direct Debit** | €0,25 | €0,35 |
+| **PayPal** | 1,5% + €0,25 | Niet native (via add-on) |
+| **Klarna** | 2,99% + €0,29 | 2,99% + €0,30 |
+| **Vaste maandkosten** | Geen | Geen |
+
+Twee punten die ik in de praktijk altijd toelicht:
+
+**iDEAL is bij Stripe niet native.** Stripe biedt iDEAL aan via hun Radar/Payments-systeem, maar je bent voor een goede WooCommerce- of Shopify-integratie met iDEAL afhankelijk van een aanvullende plugin of koppeling. Mollie heeft iDEAL van dag één ingebouwd -- het is een kernproduct, niet een bijgedachte. Bij een klant die overstapte van Stripe naar Mollie puur voor de iDEAL-setup, bespaar je mezelf urenlang troubleshooter op plugin-conflicten.
+
+**Creditcard is bij Stripe iets goedkoper.** Het verschil (1,5% vs 1,8%) is €3 per €1.000 creditcardtransacties. Bij een webshop met veel internationale klanten en hoge orderwaarden telt dit op. Bij een typische Nederlandse webshop met 80% iDEAL-gebruik is het verwaarloosbaar.
+
+### Internationale dekking
+
+Hier wint Stripe overtuigend. Stripe is actief in 46+ landen, verwerkt betalingen in 135+ valuta, en heeft directe relaties met card networks in markten als de VS, Canada, Australië en Azië. Als je een SaaS-product bouwt dat wereldwijd verkoopt, is Stripe de standaard keuze.
+
+Mollie is actief in 25+ Europese landen -- sterk in Nederland, België, Duitsland, Frankrijk, het VK en de rest van de EU. Buiten Europa is Mollie geen optie. Voor een webshop die ook aan Amerikaanse of Aziatische klanten levert, is dat een serieuze beperking.
+
+### API-kwaliteit: twee kampioenen
+
+Beide platforms hebben een API-reputatie om trots op te zijn, en terecht. Maar er zijn nuanceverschillen:
+
+**Stripe API** is de gouden standaard in de tech-industrie. De documentatie is ongeëvenaard uitgebreid, met interactieve voorbeelden, een krachtige testomgeving en clientbibliotheken voor vrijwel elke programmeertaal. De Stripe Dashboard voor developers is indrukwekkend: log-inzage, request-inspectie, webhookbeheer -- alles is er.
+
+**Mollie API** is de betere keuze voor Nederlandse ontwikkelaars die snel iDEAL en lokale methodes willen integreren. De documentatie op docs.mollie.com is helder en praktisch. Mijn ervaring: bij een gemiddelde integratie ben ik met Mollie sneller klaar dan met Stripe, simpelweg omdat ik minder hoef te configureren voor de Nederlandse context.
+
+### NL-specifieke features: iDEAL native vs plugin
+
+Dit is het beslissende punt voor de meeste Nederlandse ondernemers.
+
+Bij Mollie is iDEAL een first-class citizen. Je activeert het met een muisklik in je dashboard. De plugin voor WooCommerce of Shopify is door Mollie zelf gebouwd en onderhouden, gratis, en werkt out-of-the-box. Er is geen extra configuratie, geen afhankelijkheid van een derde partij, geen extra kosten.
+
+Bij Stripe is iDEAL technisch beschikbaar, maar de integratie in populaire platformen als WooCommerce is afhankelijk van hoe de plugin-ontwikkelaar dat heeft geïmplementeerd. Ik heb projecten gezien waar dit perfect werkte -- en projecten waar het maandenlang problemen gaf na een WooCommerce-update. De kans op frictie is reëel.
+
+Hetzelfde geldt voor Bancontact, Belfius, KBC, SOFORT en de andere betaalmethodes die specifiek zijn voor de Benelux en DACH-regio. Bij Mollie zit dit diep in het product. Bij Stripe is het een laag bovenop de internationale structuur.
+
+### Mijn conclusie: Mollie vs Stripe
+
+**Kies Mollie als:**
+- Je een Nederlandse of Belgische webshop runt
+- iDEAL de primaire betaalmethode is
+- Je WooCommerce, Shopify, Magento of een ander populair platform gebruikt
+- Je geen groot tech-team hebt om API-integraties te onderhouden
+- Je Europese markt je groei-horizon is
+
+**Kies Stripe als:**
+- Je een globale SaaS opbouwt (met betalers in de VS, Azië, Australië)
+- Je een groot developer-team hebt dat de volledige Stripe-stack wil benutten
+- Creditcard- en walletbetalingen jouw primaire betaalmethodes zijn
+- Je geavanceerde fraud-detection (Stripe Radar) nodig hebt
+- Je veel verschillende valuta verwerkt
+
+Voor de gemiddelde Nederlandse MKB-webshop is Mollie de logische keuze. Voor een Europese scale-up die binnen twee jaar ook in de VS wil verkopen: begin met Mollie en evalueer Stripe zodra de internationale volumes dat rechtvaardigen.
+
+
+## Mollie vs Adyen: voor grotere volumes
+
+Adyen heeft een bijzondere positie in de Nederlandse betaalmarkt: het is opgericht in Amsterdam in 2006, beursgenoteerd op Euronext Amsterdam, en bedient de absolute top van het bedrijfsleven. Ik noem Adyen in vrijwel elk klantgesprek -- niet als aanbeveling voor MKB, maar om de grenzen van Mollie te illustreren.
+
+### Het fundamentele verschil: MKB vs enterprise
+
+Mollie is gebouwd voor bedrijven die nu klein of middelgroot zijn en willen groeien. Adyen is gebouwd voor bedrijven die al groot zijn en nóg groter willen worden.
+
+Dat klinkt abstract, maar het vertaalt zich in concrete verschillen:
+
+| Kenmerk | Mollie | Adyen |
+|---|---|---|
+| **Minimumvolume** | Geen | ~€100K+ omzet/jaar aanbevolen |
+| **Pricing model** | Per transactie, vaste tarieven | Interchange++ (complex, schaalbaar) |
+| **Accountmanagement** | Self-service + support | Dedicated accountmanager |
+| **Onboarding** | Online, zelfstandig, snel | Commercieel traject, 2-8 weken |
+| **Contracten** | Geen (maandelijks opzegbaar) | Commercieel contract |
+| **In-store betalen** | Beperkt | Volledig (eigen terminals) |
+| **Fraudedetectie** | Basic | Geavanceerd (RevenueProtect) |
+| **Valuta** | EUR + 30+ | 150+ valuta |
+| **Settlement** | Volgende werkdag | Configureerbaar |
+
+### Volume-pricing: wanneer wordt Adyen goedkoper?
+
+Dit is de kernvraag. Adyen gebruikt het **interchange++ model**: je betaalt de werkelijke interchange-fee van de kaartnetwerkscheme (Visa, Mastercard) plus een kleine markup. Bij lage volumes is dit model duurder dan Mollie's vaste tarieven. Bij hoge volumes is het een stuk goedkoper.
+
+Een indicatieve doorrekening voor creditcardbetalingen:
+
+**Mollie** rekent 1,8% + €0,25. Bij €100 is dat €2,05. Bij €200.000 per maand aan creditcardtransacties is dat €4.100 per maand.
+
+**Adyen** rekent (ter illustratie) ~0,3% processing fee + interchange (gemiddeld ~1,5%) = ~1,8% bij lage volumes, maar door betere interchange-categorieën en volume-kortingen kan dit dalen naar 1,2-1,4% bij grote volumes. Bij €200.000 per maand is de besparing significant: €800-1.200 per maand.
+
+De break-even is ruwweg bij **€50.000-80.000 per maand** aan creditcardvolume -- dan wordt het interessant om Adyen te evalueren. Onder dat volume zijn de extra kosten van Adyen (accountmanagement, implementatietijd, contracten) niet gerechtvaardigd.
+
+Voor iDEAL-volumes geldt een ander verhaal: Adyen heeft ook compeitieve iDEAL-tarieven bij hoog volume, maar de vaste kosten en de complexere onboarding maken het pas interessant boven ~5.000 iDEAL-transacties per maand.
+
+### Adyen voor enterprise: wat krijg je extra?
+
+Als je de stap naar Adyen maakt, krijg je meer dan alleen lagere transactiekosten:
+
+**Eén platform voor alles.** Adyen kan je online webshop, je fysieke winkel (via eigen Adyen-terminals), je mobiele app en je telefonische betaalcentrum op één platform draaien. Voor een retailketen met 20 fysieke winkels en een webshop is dat een enorme operationele vereenvoudiging.
+
+**Geavanceerde fraudedetectie.** Adyen RevenueProtect gebruikt machine learning om fraude real-time te detecteren. Bij Mollie ben je afhankelijk van de fraudetooling van je webshop-platform. Voor branches met hoge frauderisico's (elektronica, mode, tickets) kan dit het verschil zijn.
+
+**Dedicated support.** Een échte accountmanager die jouw business kent. Bij Mollie ben je bij een issue afhankelijk van de reguliere supportqueue, tenzij je een groot contract hebt.
+
+**Fijnmazige rapportages.** Adyen's Data API geeft je inzicht in chargeback-rates per betaalmethode, autorisatieratio's, fraudepercentages en meer. Data-gedreven betaaloptimalisatie is bij Adyen een first-class feature.
+
+### De nadelen van Adyen voor MKB
+
+Ik adviseer MKB-klanten vrijwel nooit direct naar Adyen. De redenen:
+
+- **Onboarding duurt weken.** Je hebt een commercieel gesprek nodig, documentatie moet worden beoordeeld, contracten moeten worden ondertekend. Vergeleken met Mollie (account in 10 minuten, eerste betaling dezelfde dag) is dit een enorme drempel.
+- **De pricing is complex.** Interchange++ klinkt voordelig, maar je hebt echte expertise nodig om je maandelijkse Adyen-rekening te doorgronden. Ik ken MKB-eigenaren die verrast waren door hogere kosten dan verwacht doordat de interchange voor hun kaarttypes ongunstig uitpakte.
+- **Minimale aandacht voor kleine merchants.** Als je onder de €500.000 jaarbetaalvolume zit, ben je geen prioriteit voor Adyen's accountteam. Je kunt maanden wachten op antwoord bij een complexe vraag.
+- **Technische integratie vereist een developer.** Adyen heeft geen simpele plugins voor WooCommerce of Shopify die je zelf installeert. Je hebt een developer nodig die de Adyen API integreert -- wat tijd en geld kost.
+
+### Wanneer maak je de stap van Mollie naar Adyen?
+
+Ik gebruik dit als vuistregel bij klanten:
+
+1. **Betaalvolume boven €1 miljoen per jaar** (dan is interchange++ interessant)
+2. **Internationale groei buiten Europa** (Adyen dekt meer markten)
+3. **Fysieke winkelbetalingen op grote schaal** (Adyen's terminal-ecosysteem)
+4. **Enterprise-fraudepreventie nodig** (high-risk categorieën, hoge orderwaarden)
+5. **Je hebt een dedicated developer team** dat een complexere integratie kan onderhouden
+
+Voor iedereen onder die drempel: begin met Mollie, groei ermee, en evalueer Adyen zodra je volume en complexiteit dat rechtvaardigen. Mollie zelf biedt op grotere volumes ook volumekortingen aan -- vraag ernaar als je meer dan 5.000 transacties per maand verwerkt. Dat kan de overgang naar Adyen verder uitstellen.
 
 
 ## Veelgemaakte fouten bij Mollie (review)
@@ -371,6 +518,94 @@ Als je ook naar België of Duitsland verzendt maar alleen iDEAL aanbiedt, verlie
 **Mijn verdict**: Mollie is de iDEAL (pun intended) van de Nederlandse betaalmarkt -- het doet precies wat het belooft, zonder poespas, tegen een eerlijke prijs. Voor 9 van de 10 webshops die ik adviseer is het de eerste en enige keuze.
 
 Wil je weten welk webshop-platform het beste bij Mollie past? Lees dan mijn vergelijking van de [beste webshop software in Nederland](/blog/beste-webshop-software-2026/) of bekijk de [beste facturatie software voor het MKB](/blog/beste-facturatie-software-mkb-2026/) als je je boekhoudkoppeling wilt optimaliseren.
+
+
+## Mollie met Shopify en WooCommerce: zo werkt het
+
+Twee platforms die ik het vaakst combineer met Mollie zijn Shopify en WooCommerce. Beide integraties verdienen een korte toelichting, want er zijn subtiele verschillen.
+
+### Mollie + WooCommerce
+
+De Mollie for WooCommerce plugin is de officiële, gratis plugin van Mollie zelf. Het installatieschema:
+
+1. Ga naar je WordPress-dashboard → Plugins → Nieuwe plugin
+2. Zoek op "Mollie Payments for WooCommerce"
+3. Installeer en activeer de plugin
+4. Ga naar WooCommerce → Instellingen → Betalingen
+5. Voer je Mollie API-key in (live én test)
+6. Activeer de gewenste betaalmethodes per toggle
+
+De plugin wordt actief onderhouden door Mollie en bijgewerkt bij elke grote WooCommerce-release. In vijf jaar tijd heb ik deze integratie misschien tien keer geïnstalleerd en één keer een conflict gehad -- met een andere betalingsplugin die tegelijk actief was. Verwijder alle andere betalingsplugins voordat je Mollie instelt, dan verloopt het probleemloos.
+
+Een handige feature: de WooCommerce-plugin ondersteunt de Mollie Components (embedded betaalvelden) voor creditcard en Apple Pay, zodat de klant de checkout niet verlaat voor kaartbetalingen.
+
+### Mollie + Shopify
+
+Voor Shopify werkt Mollie via de **Mollie Payments** app in de Shopify App Store. De installatie is nog eenvoudiger:
+
+1. Ga naar de Shopify App Store en zoek "Mollie Payments"
+2. Klik op "App toevoegen" en autoriseer de verbinding
+3. Volg de onboarding-wizard in je Mollie-dashboard
+
+Let op: in Shopify kun je maar één betaalprovider als "primaire" gateway instellen. Mollie vervangt dan de standaard Shopify Payments. Dit is geen probleem voor Nederlandse webshops -- Shopify Payments ondersteunde iDEAL lange tijd niet native, waarna het pas later werd toegevoegd. Met Mollie heb je iDEAL meteen beschikbaar én voeg je alle andere methodes toe zonder meerprijs.
+
+Het nadeel: Shopify rekent een transactiefee (0,5% tot 2%, afhankelijk van je Shopify-plan) als je een externe betaalprovider gebruikt in plaats van Shopify Payments. Dit compenseert deels het voordeel van Mollie's lagere tarieven. Reken dit door voor jouw specifieke situatie -- bij Basic Shopify (2% transactiefee) kan Shopify Payments uiteindelijk goedkoper uitkomen als je weinig iDEAL-transacties hebt. Bij hogere Shopify-plannen (0,5-1% fee) is Mollie vrijwel altijd de betere keuze voor Nederlandse webshops.
+
+Lees ook mijn uitgebreide [Shopify review](/blog/shopify-review-2026/) als je overweegt om Shopify als platform te kiezen, of de [WooCommerce vs Shopify vergelijking](/blog/woocommerce-vs-shopify-2026/) als je nog aan het twijfelen bent.
+
+
+## Veelgestelde vragen over Mollie
+
+**q: Is Mollie goedkoper dan Stripe?**
+
+a: Voor de meeste Nederlandse webshops: ja, in de praktijk. Het belangrijkste verschil zit bij iDEAL: Mollie heeft iDEAL native ingebouwd zonder extra plugin-kosten of frictie. Stripe biedt iDEAL aan, maar de integratie in WooCommerce of Shopify is indirecter en kan extra kosten of beheer met zich meebrengen. Voor creditcardtransacties is Stripe iets goedkoper (1,5% vs 1,8%), maar bij een typische Nederlandse webshop met 70-85% iDEAL-gebruik valt dit verschil grotendeels weg. Mijn vuistregel: voor Benelux-gefocuste webshops is Mollie goedkoper in totaalplaatje. Voor webshops met veel internationale creditcardklanten loont het de moeite om beide tarieven door te rekenen.
+
+---
+
+**q: Kan ik Mollie gebruiken voor een internationaal bedrijf?**
+
+a: Ja, met een kanttekening. Mollie is actief in 25+ Europese landen en ondersteunt betaalmethodes voor bijna alle Europese markten: iDEAL (NL), Bancontact (BE), SOFORT/Klarna (DE), EPS (AT), Przelewy24 (PL), en creditcard, PayPal, Apple Pay en Google Pay voor de rest van Europa. Als je Europees wil groeien, is Mollie een uitstekende keuze.
+
+Buiten Europa wordt het beperkter. Mollie heeft geen directe aanwezigheid in de VS, Canada of Aziatische markten. Als meer dan 20% van je klanten van buiten Europa komt, zou ik Stripe of Adyen serieus overwegen naast of in plaats van Mollie. Voor een puur Europees bedrijf is Mollie volledig toereikend.
+
+---
+
+**q: Wat zijn de Mollie-kosten vergeleken met Stripe per transactie?**
+
+a: Een directe vergelijking per betaalmethode:
+
+- **iDEAL**: Mollie €0,32 (native, geen extra) vs Stripe €0,29 (maar vereist plugin-integratie)
+- **Creditcard**: Mollie 1,8% + €0,25 vs Stripe 1,5% + €0,25 (Stripe €3 goedkoper per €1.000)
+- **Bancontact**: Mollie €0,39 vs Stripe €0,39 (gelijk)
+- **SEPA Direct Debit**: Mollie €0,25 vs Stripe €0,35 (Mollie goedkoper)
+- **PayPal**: Mollie 1,5% + €0,25 vs Stripe biedt PayPal niet native aan
+- **Apple Pay / Google Pay**: Mollie 1,8% + €0,25 vs Stripe 1,5% + €0,25
+
+Het totale kostenverschil is voor de meeste Nederlandse webshops €10-30 per maand bij 500 transacties. De keuze tussen Mollie en Stripe hangt in de praktijk meer af van integratiegemak, iDEAL-kwaliteit en internationale ambities dan van een paar eurocent per transactie.
+
+---
+
+**q: Wanneer kies je Adyen boven Mollie?**
+
+a: Kies Adyen boven Mollie als aan minimaal twee van deze criteria wordt voldaan:
+
+1. Je verwerkt meer dan €1 miljoen per jaar aan kaartbetalingen (dan is Adyen's interchange++ model goedkoper)
+2. Je hebt fysieke winkels die je wilt integreren met je online kassa
+3. Je opereert in meerdere valuta's buiten de eurozone
+4. Je hebt enterprise-fraudedetectie nodig (hoge orderwaarden, high-risk categorieën)
+5. Je hebt een dedicated developer team voor de complexere integratie
+
+Voor het overgrote deel van het Nederlandse MKB geldt dat geen van deze criteria van toepassing is. Begin met Mollie, groei ermee, en evalueer opnieuw als je betaalvolume richting de €1 miljoen gaat.
+
+---
+
+**q: Werkt Mollie met Shopify en WooCommerce?**
+
+a: Ja, uitstekend. Voor WooCommerce is er de officiële gratis Mollie plugin (Mollie Payments for WooCommerce) die direct vanuit het WordPress-dashboard te installeren is. Voor Shopify is er de Mollie Payments app in de Shopify App Store. Beide integraties zijn door Mollie zelf gebouwd en onderhouden, en ondersteunen alle betaalmethodes: iDEAL, Bancontact, creditcard, PayPal, Klarna, Apple Pay en meer.
+
+Let bij Shopify op de Shopify-transactiefee voor externe betaalproviders (0,5-2% afhankelijk van je plan). Reken door of Mollie dan nog goedkoper is dan Shopify Payments voor jouw situatie. Voor de meeste Nederlandse webshops is Mollie via WooCommerce of Shopify de standaard setup die ik aanbeveel.
+
+---
 
 <a href="https://www.mollie.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar mollie.com →</a>
 

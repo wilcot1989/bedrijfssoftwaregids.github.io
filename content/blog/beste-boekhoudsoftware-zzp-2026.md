@@ -70,6 +70,16 @@ faq:
     a: "Dat hangt af van de complexiteit van je administratie. Voor eenvoudige administraties (dienstverlening, weinig kosten) kun je prima zelf boekhouden met goede software. Bij complexere situaties, zoals buitenlandse klanten, investeringen of vastgoed, is een boekhouder aan te raden. Veel boekhouders werken samen met software als Moneybird of Exact Online."
   - q: "Kan ik overstappen van boekhoudsoftware zonder data te verliezen?"
     a: "Ja, de meeste boekhoudpakketten bieden import- en exportfuncties. Je kunt je administratie doorgaans overzetten als je begint aan een nieuw boekjaar. Sommige pakketten, zoals Moneybird, bieden zelfs specifieke migratietools. Raadpleeg je boekhouder bij een overstap midden in het jaar."
+  - q: "Welk boekhoudprogramma werkt het beste voor een VOF?"
+    a: "Voor een VOF heb je een pakket nodig dat meerdere vennoten ondersteunt en een gecombineerde administratie aankan. Exact Online en Twinfield zijn de sterkste keuzes: zij ondersteunen meerdere gebruikers, gescheiden kostenplaatsen per vennoot en de iets complexere jaarrekening-eisen van een VOF. SnelStart en Moneybird (Professional-plan) werken ook, maar Exact biedt de meeste flexibiliteit voor de winstberekening per vennoot."
+  - q: "Welk boekhoudprogramma wordt aanbevolen op Reddit?"
+    a: "Op Reddit (r/geldzaken, r/zzp) worden Moneybird en e-Boekhouden.nl het vaakst positief besproken. Moneybird scoort op gebruiksgemak en de nette interface, e-Boekhouden.nl op prijs en telefonische support. Exact Online wordt ook veel genoemd maar vooral door gebruikers die een boekhouder hebben of doorgroeien naar een BV. Jortt krijgt lof van starters, maar ervaren ZZP'ers groeien er snel uit."
+  - q: "Wat zegt de Consumentenbond over boekhoudprogramma's?"
+    a: "De Consumentenbond heeft in meerdere tests boekhoudpakketten beoordeeld. In recente vergelijkingen scoorde e-Boekhouden.nl consistent hoog op prijs-kwaliteitverhouding en support. Moneybird wordt geprezen om gebruiksgemak. Exact Online scoort hoog op functies maar laag op prijs-kwaliteit voor eenvoudige ZZP-administraties. De Consumentenbond raadt ZZP'ers aan om goed na te denken hoeveel functies ze echt nodig hebben, voordat ze kiezen voor het duurdere segment."
+  - q: "Welk boekhoudprogramma is het beste voor een webshop?"
+    a: "Voor webshops is Moneybird de populairste keuze dankzij de ingebouwde API-koppeling met Shopify, WooCommerce en andere platformen. Transacties worden automatisch geïmporteerd, BTW-tarieven worden correct gesplitst en retouren worden verwerkt. Exact Online biedt de meeste uitgebreide integraties voor grotere webshops. Zie mijn uitgebreide artikel over boekhoudsoftware voor webshops voor een volledige vergelijking."
+  - q: "Wat doet AI in boekhoudprogramma's?"
+    a: "AI in boekhoudprogramma's doet drie dingen in de praktijk: factuurherkenning (automatisch inlezen van factuurgegevens zoals btw-bedrag, leveranciersnaam en vervaldatum), automatisch boeken (transacties worden op basis van historische patronen automatisch aan de juiste kostenpost gekoppeld) en anomaliedetectie (ongewone boekingen worden geflagd). Exact Online heeft de meest uitgebreide AI-functies, Moneybird biedt slimme automatische categorisering. Voor de gemiddelde ZZP'er bespaart AI-gestuurde automatisering 30 tot 60 minuten per maand aan handmatig categoriseerwerk."
 ---
 
 Ik spreek wekelijks ZZP'ers die te veel betalen voor hun boekhoudprogramma. Een grafisch ontwerper met tien facturen per maand die op Exact Online zit van €49/maand, terwijl e-Boekhouden.nl hetzelfde doet voor €9,95. Of iemand die al twee jaar gratis Moneybird gebruikt en zich afvraagt waarom de BTW-aangifte zo'n gedoe is — terwijl die functie in het betaalde plan gewoon automatisch gaat. Boekhouden als zzp'er hoeft niet ingewikkeld te zijn. In deze vergelijking laat ik je zien welke 7 pakketten echt geschikt zijn voor ZZP'ers, wat ze kosten en welke bij jouw specifieke situatie past.
@@ -397,6 +407,161 @@ Het verschil tussen het goedkoopste betaalde pakket en het duurste: €469 per j
 ### Kan ik halverwege het jaar overstappen van boekhoudpakket?
 
 Technisch kan het, maar ik raad het af. De meeste pakketten bieden import/export-functies, maar een overstap midden in het boekjaar geeft gedoe met je BTW-aangifte en je jaaroverzicht. Mijn advies: plan een overstap aan het begin van een nieuw boekjaar (1 januari). Exporteer je data, importeer in het nieuwe pakket, klaar. Moneybird biedt specifieke migratietools die het makkelijker maken.
+
+### Welk boekhoudprogramma werkt het beste voor een VOF?
+
+Voor een VOF (vennootschap onder firma) heb je minimaal twee zaken nodig die een standaard ZZP-pakket niet altijd levert: ondersteuning voor meerdere gebruikers en een winstsplitsing per vennoot. Exact Online is de sterkste keuze — het ondersteunt meerdere gebruikers, gescheiden kostenplaatsen en de SBR-jaarrekening-deponering die een VOF verplicht moet opstellen. Twinfield is een alternatief als jullie accountant daarmee werkt. Moneybird en e-Boekhouden.nl zijn bruikbaar voor een eenvoudige VOF waarbij één vennoot de administratie doet, maar voor complexere winstsplitsingen of groeiambities kies je beter meteen voor Exact. Gedeeld door twee vennoten is de prijs van €49/maand voor Exact Essentials al een stuk dragelijker: €24,50 per persoon per maand.
+
+### Welk boekhoudprogramma wordt aanbevolen op Reddit?
+
+Op Reddit-communities zoals r/geldzaken en r/zzp duiken Moneybird en e-Boekhouden.nl consequent naar boven als de meest geliefde keuzes. Moneybird wordt geprezen om de prettige interface en de soepele bankkoppeling. e-Boekhouden.nl wint op prijs en op de telefonische support — iets dat op Reddit verrassend veel positieve reacties krijgt, want echte telefonische hulp is tegenwoordig zeldzaam. Exact Online wordt ook veel besproken, maar de reacties zijn verdeeld: gebruikers die het via hun boekhouder kregen aanbevolen zijn positief, ZZP'ers die het zelf kozen voor een eenvoudige administratie mopperen over de prijs. Jortt heeft een klein maar enthousiast publiek van starters.
+
+### Wat zegt de Consumentenbond over boekhoudprogramma's?
+
+De Consumentenbond heeft meerdere keren boekhoudpakketten getest voor kleine ondernemers en ZZP'ers. e-Boekhouden.nl scoort consistent hoog op prijs-kwaliteitverhouding: complete functionaliteit voor een minimale prijs, met support die gewoon opneemt als je belt. Moneybird wordt geprezen om gebruiksgemak maar is duurder voor vergelijkbare functionaliteit. Exact Online scoort hoog op functies, maar de Consumentenbond wijst erop dat ZZP'ers met een eenvoudige administratie fors te veel betalen voor functies die ze nooit gebruiken. Het overkoepelende advies: breng eerst in kaart hoeveel facturen je per maand verstuurt en hoe complex je BTW-situatie is, voor je een pakket kiest.
+
+### Welk boekhoudprogramma is het beste voor een webshop?
+
+Voor een webshop is Moneybird mijn eerste aanbeveling. De reden: de native koppeling met Shopify en WooCommerce werkt direct, zonder dure tussenlaag. Bestellingen worden automatisch als factuur aangemaakt, BTW-tarieven worden gesplitst en retouren worden als creditnota verwerkt. De OSS-regeling voor EU-verkopen wordt automatisch afgehandeld. Exact Online is beter voor grotere webshops met complexe logistiek (voorraad, meerdere verkoopkanalen, inkooporders), maar dat is voor de meeste startende webshophouders overkill. Lees mijn volledige vergelijking in het artikel over [boekhoudsoftware voor webshops](/blog/boekhoudsoftware-webshops-2026/).
+
+### Wat doet AI in boekhoudprogramma's?
+
+In de praktijk doet AI in boekhoudprogramma's drie dingen: het herkent automatisch de gegevens op ingescande facturen en bonnetjes (leveranciersnaam, BTW-bedrag, vervaldatum), het koppelt terugkerende boekingen automatisch aan de juiste kostenpost op basis van eerdere patronen, en het matcht binnenkomende betalingen automatisch aan openstaande facturen. Voor een ZZP'er met twintig tot vijftig transacties per maand bespaart dit gemiddeld dertig tot vijftig minuten per maand. Exact Online heeft de meest uitgebreide AI-functionaliteit voor automatische inkoopfactuurverwerking. Moneybird's "slimme suggesties" zijn voldoende voor de meeste ZZP-administraties. Wat AI nog niet doet: fiscale beslissingen nemen over aftrekbaarheid of je BTW-aangifte inhoudelijk controleren — die verantwoordelijkheid blijft bij jou.
+
+---
+
+## Boekhoudprogramma voor BV: welke pakketten ondersteunen dit goed?
+
+Als ZZP'er denk je misschien: dit artikel is niet voor mij als ik overweeg een BV op te richten. Maar juist op het moment dat je twijfelt tussen ZZP en BV, is het slim om te weten welke boekhoudpakketten de overstap aankunnen — zodat je niet opnieuw hoeft te migreren als je eenmaal die stap zet.
+
+Een BV stelt andere eisen aan je boekhouding dan een eenmanszaak. De drie belangrijkste verschillen:
+
+1. **Jaarrekening met balans en resultatenrekening** die gedeponeerd moet worden bij de KvK
+2. **Vennootschapsbelasting (Vpb) in plaats van inkomstenbelasting** — je doet aangifte als rechtspersoon
+3. **DGA-salaris**: als directeur-grootaandeelhouder moet je jezelf een gebruikelijk loon uitkeren, wat aparte loonadministratie vereist
+
+### Exact Online: de sterkste keuze voor een BV
+
+Exact Online is de meest volledige oplossing voor een BV. De reden waarom zoveel accountants met Exact werken, is precies hierom: het systeem ondersteunt de SBR-deponering van de jaarrekening, heeft ingebouwde ondersteuning voor Vpb-aangifte en integreert loonadministratie (via Exact Salaris of een koppeling). De meeste grotere accountantskantoren werken standaard met Exact. Als jouw DGA-situatie complex is — dividend, pensioen in eigen beheer, tussenholding — dan is Exact de veiligste keus.
+
+Nadeel: de prijs. Het instappakket van €49/maand is voor een ZZP'er met een simpele administratie fors. Maar als je BV-plannen serieus zijn, is de investering snel terugverdiend door de uren die je boekhouder bespaart. Lees mijn [Exact Online review](/blog/exact-online-review-2026/) voor een gedetailleerd overzicht van alle functies per plan.
+
+### Twinfield: accountantssoftware die ook voor BV's werkt
+
+Twinfield is minder bekend bij ZZP'ers maar geliefd bij accountantskantoren die BV-administraties beheren. Het ondersteunt multi-entiteit beheer (ideaal als je een holding + werkmaatschappij hebt), heeft geavanceerde rapportages en werkt naadloos samen met SBR-rapportage. Als je accountant met Twinfield werkt, is dat vaak de belangrijkste reden om voor Twinfield te kiezen. Lees meer in mijn [Twinfield review](/blog/twinfield-review-2026/).
+
+### Moneybird en SnelStart: beperkt geschikt voor een BV
+
+Moneybird is in principe te gebruiken voor een eenvoudige BV, maar de tool mist functies die een BV vereist: geen ingebouwde loonadministratie, geen SBR-deponering, beperkte Vpb-ondersteuning. Voor een holding-structuur is het onvoldoende. SnelStart heeft loonadministratie als add-on, maar ook hier missen de geavanceerde BV-rapportages die Exact of Twinfield wel bieden.
+
+### Mijn advies als je een BV overweegt
+
+Als je nu ZZP bent maar binnen twee jaar een BV wilt oprichten: start op Moneybird of e-Boekhouden voor de ZZP-fase, en schakel over naar Exact Online of Twinfield zodra de BV is opgericht. Doe de overstap aan het begin van een boekjaar. En betrek je accountant vroeg — die weet precies welk pakket past bij jouw BV-structuur.
+
+Twijfel je nog of een BV voor jou fiscaal interessant is? Gebruik onze [ZZP of BV berekenen](/tools/boekhouding/zzp-bv-berekenen/) tool om de vergelijking door te rekenen.
+
+---
+
+## Boekhoudprogramma voor webshops en Shopify
+
+Een webshop heeft een fundamenteel ander boekhoudprobleem dan een dienstverlener: het volume. Waar een consultant vijftien facturen per maand verstuurt, verwerkt een webshop vijftienhonderd bestellingen. Handmatig invoeren is geen optie. Wat je nodig hebt, is een boekhoudpakket met een directe API-koppeling naar jouw webshopplatform.
+
+### Moneybird: sterkste keuze voor Shopify en WooCommerce
+
+Moneybird heeft de beste native integraties voor Nederlandse webshops. De koppeling met Shopify werkt direct: bestellingen worden automatisch als factuur aangemaakt, BTW-tarieven worden correct gesplitst (21% voor de meeste producten, 9% voor voedsel en bepaalde andere categorieën), en retouren worden als creditnota verwerkt. De WooCommerce-koppeling werkt via een officiële plugin die in de WordPress-repository staat — installeren, API-sleutel invoeren, klaar.
+
+Wat ik waardeer: Moneybird handelt de OSS-regeling (One Stop Shop) voor EU-verkopen aan consumenten automatisch af. Dat scheelt enorm als je ook naar Duitsland, België of andere EU-landen verkoopt. Meer detail over alle webshop-specifieke functies vind je in mijn artikel over [boekhoudsoftware voor webshops](/blog/boekhoudsoftware-webshops-2026/).
+
+### Exact Online: voor grotere webshops met complexe logistiek
+
+Als je webshop boven de vijftig bestellingen per dag uitkomt, of als je ook voorraadmanagement, inkooporders en meerdere verkoopkanalen wilt koppelen, is Exact Online de meest uitgebreide optie. De Shopify-koppeling loopt via een gecertificeerde connector (Alumio of PinkWeb), die ook voorraad en inkoopfacturen synchroniseert. Voor een kleine webshop is dit overkill en te duur. Voor een webshop met een ton omzet per maand is het de enige serieuze keuze.
+
+### e-Boekhouden.nl: werkt, maar minder naadloos
+
+e-Boekhouden.nl heeft koppelingen met Shopify en WooCommerce, maar die zijn minder uitgebreid dan bij Moneybird. De API werkt voor basis-orderiminport, maar de automatische BTW-splitsing voor OSS-verkopen moet je handmatig instellen. Voor een kleine webshop met honderd bestellingen per maand is dit acceptabel. Meer volume en je loopt er tegenaan.
+
+### Specifieke aandachtspunten voor webshop-boekhouding
+
+- **Dropshipping**: als je dropshipt via leveranciers in China, heb je te maken met douanerechten en invoer-BTW. Niet elk pakket handelt dit correct af. Exact Online is hier het sterkst.
+- **Marktplaatsen (Bol.com, Amazon)**: Moneybird heeft een native Bol.com-koppeling. Voor Amazon heb je een connector van derde partijen nodig.
+- **Betaalproviders**: Mollie, Stripe en PayPal koppelen allemaal direct met Moneybird en Exact. Uitbetalingen worden automatisch gematcht met bestellingen.
+
+Als je een Shopify-winkel hebt en nog niet hebt nagedacht over de boekhouding, lees dan eerst mijn [Shopify review](/blog/shopify-review-2026/) voor context over de totale softwarestack.
+
+---
+
+## Boekhoudprogramma voor stichting en vereniging
+
+Stichtingen en verenigingen denken vaak: "Wij maken geen winst, dan hoeven we toch weinig te regelen?" Dat klopt deels — maar de boekhoudkundige verplichtingen zijn er wel degelijk, en ze wijken op een paar punten af van wat een commercieel bedrijf moet bijhouden.
+
+### Wat maakt de boekhouding van een stichting anders?
+
+**BTW-behandeling**: de meeste activiteiten van een stichting of vereniging zijn vrijgesteld van BTW (art. 11 Wet OB). Dat klinkt als een voordeel, maar het betekent ook dat je de BTW op inkopen niet kunt terugvorderen. Boekhoudpakketten die hierop zijn ingesteld, verwerken dit automatisch. Pakketten die dit niet goed ondersteunen, boeken de ingaande BTW verkeerd — wat bij een controle problemen geeft.
+
+**Geen winstoogmerk**: je jaarrekening is opgebouwd rond een baten-lastenoverzicht in plaats van een winst-en-verliesrekening. Sommige pakketten gebruiken de commerciële terminologie en dat schept verwarring bij bestuursleden die de cijfers moeten goedkeuren.
+
+**Subsidieadministratie**: als je stichting subsidies ontvangt, moet je die apart administreren en verantwoorden. Niet elk pakket heeft een projectadministratie die dit goed ondersteunt.
+
+### Welke pakketten zijn geschikt?
+
+**e-Boekhouden.nl** heeft een specifiek stichtingen/verenigingen-pakket met de juiste BTW-instellingen en een baten-lastenoverzicht. Voor kleine tot middelgrote stichtingen is dit de meest kostenefficiënte keuze. De telefonische support helpt ook als je geen professionele boekhouder in het bestuur hebt.
+
+**Exact Online** heeft uitgebreide mogelijkheden voor stichtingen, inclusief projectadministratie voor subsidies en de juiste BTW-codes. Voor grotere stichtingen met meerdere activiteiten (waarvan sommige wél BTW-plichtig zijn, zoals een kantine) is Exact de meest correcte oplossing — maar ook de duurste.
+
+**Moneybird** kan technisch gebruikt worden door een stichting, maar de terminologie is commercieel ingesteld en de BTW-vrijstelling moet handmatig worden geconfigureerd. Voor een kleine vereniging die alleen contributie int en een paar facturen ontvangt, werkt het prima. Meer detail vind je in mijn uitgebreide artikel over [boekhoudsoftware voor verenigingen](/blog/boekhoudsoftware-verenigingen-2026/).
+
+### Praktisch advies voor bestuurders
+
+Als je penningmeester bent van een kleine sportvereniging: e-Boekhouden.nl doet wat je nodig hebt voor een minimale maandprijs. Heb je te maken met subsidies, meerdere BTW-regimes of een grotere organisatie? Dan is een accountant met Exact Online-ervaring verstandig — de complexiteit rechtvaardigt professionele begeleiding.
+
+---
+
+## AI in boekhoudprogramma's: wat doet het echt?
+
+"AI" staat tegenwoordig op de marketingpagina van elk boekhoudpakket. Maar wat doet AI in de praktijk voor een ZZP'er of kleine ondernemer? Ik schei de hype van de werkelijkheid.
+
+### Wat AI in boekhoudprogramma's daadwerkelijk doet
+
+**Factuurherkenning (OCR + AI)**: je fotografeert een bonnetje of uploadt een PDF-factuur, en de software leest automatisch het factuurnummer, leveranciersnaam, bedrag, BTW-bedrag en vervaldatum uit. Dit werkt bij alle moderne pakketten redelijk goed. Na een leerperiode van een paar weken — waarbij je correcties maakt — loopt de nauwkeurigheid op tot 90-95%. Het bespaart het handmatig overtypen van factuurgegevens.
+
+**Automatisch boeken**: op basis van historische boekingen leert de software jouw patronen. Als je elke maand een factuur van Adobe betaalt, boekt het pakket die na de derde keer automatisch onder "Software & licenties" zonder dat je het hoeft te bevestigen. Moneybird noemt dit "slimme suggesties", Exact Online heeft hier een uitgebreidere versie van.
+
+**Banktransacties matchen**: AI koppelt automatisch binnenkomende betalingen aan openstaande facturen. Als je een betaling ontvangt van een bestaande klant, matcht de software die direct — zonder dat je de factuur handmatig hoeft te "vereffenen". Dit werkt bij alle pakketten met een bankkoppeling, maar de nauwkeurigheid verschilt.
+
+**Anomaliedetectie**: sommige pakketten (met name Exact Online) signaleren ongewone boekingen: een dubbele factuur, een BTW-bedrag dat niet klopt met het factuurbedrag, of een afwijkend betalingspatroon. Voor ZZP'ers is dit minder relevant, maar voor MKB en accountants die meerdere administraties beheren, is het een serieuze tijdsbesparing.
+
+### Exact Online AI: de meest uitgebreide implementatie
+
+Exact Online heeft in 2024 en 2025 fors geïnvesteerd in AI-functionaliteit. De "Smart Automation" module laat inkoopfacturen automatisch inboeken via een configureerbare workflow: factuur binnenkomt → AI leest de gegevens → booking-suggestie → goedkeuring → betaling klaargezet. Voor een bedrijf dat tientallen inkoopfacturen per maand verwerkt, bespaart dit meerdere uren per week. Lees mijn [Exact Online review](/blog/exact-online-review-2026/) voor een gedetailleerde bespreking van de AI-functies.
+
+### Moneybird: slimme categorisering voor ZZP'ers
+
+Moneybird richt zich op de ZZP-markt en heeft de AI-functies daarop afgestemd. De automatische bankimport met slimme categorisering is voor de meeste ZZP'ers het meest waardevolle AI-element: na een maand of twee doet de software 70-80% van het categoriseerwerk automatisch. De factuur-OCR werkt goed voor Nederlandse facturen. Complexere AI-workflows (zoals automatische inkoopfactuurverwerking) zijn beschikbaarder bij Exact. Meer over Moneybird's specifieke functies in mijn [Moneybird review](/blog/moneybird-review-2026/).
+
+### Wat AI nog niet goed doet
+
+Eerlijk zijn: AI in boekhoudprogramma's is nog niet rijp voor volledig geautomatiseerde boekhouding. De categorisering is een suggestie, geen beslissing — je moet altijd controleren. Handgeschreven bonnetjes worden slecht herkend. Facturen in vreemde talen of met ongebruikelijke opmaak gaan regelmatig mis. En voor fiscale beslissingen (is dit een aftrekbare kostenpost?) geeft AI geen betrouwbaar antwoord. Die verantwoordelijkheid blijft bij jou of je boekhouder.
+
+Voor de doorsnee ZZP'er met twintig tot vijftig transacties per maand schat ik de tijdsbesparing door AI op dertig tot vijftig minuten per maand. Niet transformatief, maar wel merkbaar.
+
+---
+
+## Welk boekhoudprogramma werkt het beste voor een VOF?
+
+Een korte, maar veel gestelde vraag. Een VOF (vennootschap onder firma) heeft twee of meer vennoten die samen een bedrijf exploiteren. De boekhoudkundige eisen zijn complexer dan voor een eenmanszaak:
+
+- **Meerdere gebruikers**: elke vennoot wil toegang tot de administratie
+- **Winstsplitsing**: de winst wordt verdeeld op basis van de vennootschapsovereenkomst — het boekhoudpakket moet dit bijhouden
+- **Jaarrekening**: een VOF moet een balans en winst-en-verliesrekening opstellen, al is publicatie bij de KvK niet verplicht
+- **Aparte BTW-nummers**: iedere vennoot heeft een eigen BTW-identificatienummer
+
+### Mijn aanbeveling voor een VOF
+
+**Exact Online** is de sterkste keuze voor een VOF, met name als de vennoten ook een boekhouder inschakelen. Het systeem ondersteunt meerdere gebruikers in hetzelfde plan, heeft uitgebreide rapportages voor winstsplitsing en werkt naadloos met de SBR-jaarrekening-deponering. De kostprijs (€49+/maand) valt bij twee vennoten mee: gedeeld door twee is het €24,50 per persoon.
+
+**Twinfield** is een alternatief dat accountantskantoren vaak gebruiken voor VOF-administraties. Iets minder gebruiksvriendelijk voor de ondernemer zelf, maar zeer volledig voor de boekhouder.
+
+**Moneybird of e-Boekhouden.nl** werken voor een eenvoudige VOF waarbij één vennoot de administratie doet en de ander alleen meekijkt. Maar als de VOF groeit of als de winstsplitsing complex wordt, loop je er snel tegenaan.
 
 ---
 

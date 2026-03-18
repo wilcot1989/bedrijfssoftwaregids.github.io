@@ -1,7 +1,7 @@
 ---
 title: "Beste Helpdesk Software MKB 2026: Top 6 Vergeleken"
 date: 2026-05-23
-lastmod: 2026-05-23
+lastmod: 2026-03-18
 description: "Beste helpdesk software MKB 2026: top 6 vergeleken op prijs en functies. Zendesk, Freshdesk, Trengo, Tidio en meer. Vind de beste keuze voor jou."
 categories: ["klantenservice"]
 tags:
@@ -30,6 +30,10 @@ faq:
     a: "Een ticketsysteem zet elke inkomende klantvraag om in een genummerde taak (ticket) met een status, eigenaar en deadline. Zodra je meer dan 10-15 vragen per dag ontvangt vanuit meerdere kanalen, verlies je zonder ticketsysteem het overzicht. Je mist vragen, dubbelt werk, en klanttevredenheid daalt. Vanaf dat volume is een ticketsysteem geen luxe maar noodzaak."
   - q: "Is HubSpot Service Hub de moeite waard als ik al HubSpot CRM gebruik?"
     a: "Absoluut. Als je al HubSpot CRM gebruikt, is de overstap naar Service Hub logisch: alle klantcommunicatie, deals en tickets zijn zichtbaar in één interface. Je bespaart op integraties en je support-team ziet direct de saleshistorie van een klant. Begin met het gratis plan en upgrade naar Starter (€9/seat/maand) zodra je geavanceerdere automatisering nodig hebt."
+  - q: "Welke helpdesk software is het beste voor een kleine non-profit?"
+    a: "Voor een kleine non-profit is Freshdesk Free de eerste keuze: echt gratis, geen tijdslimiet, en geschikt voor 2 agents. Veel non-profits werken met vrijwilligers die niet elke dag inloggen — het gratis plan vraagt geen licentiekosten per gebruiker. HubSpot Service Hub Free is een goede tweede optie als je ook een CRM wilt bijhouden voor donateurs en relaties. Heb je een IT-helpdesk nodig (voor interne medewerkers en vrijwilligers), dan is osTicket een gratis open-source optie die je zelf kunt hosten."
+  - q: "Wat is het verschil tussen helpdesk software en ITSM software?"
+    a: "Helpdesk software richt zich op externe klantenservice: klanten stellen vragen, agents beantwoorden die via tickets. ITSM (IT Service Management) software richt zich op interne IT-dienstverlening: medewerkers melden problemen, IT-afdeling lost ze op volgens ITIL-processen. ITSM-software bevat functies die helpdesk-tools niet hebben: change management, asset management, incident- en problemmanagement en CMDB (configuratiedatabase). Freshservice (van Freshworks) en Jira Service Management zijn voorbeelden van ITSM-tools. Voor gewone klantenservice heb je geen ITSM nodig — dat is overkill en te duur."
 ---
 
 Bij een installatiebedrijf dat ik begeleidde, liepen klantvragen via e-mail, WhatsApp én telefonische voicemail door elkaar. Drie medewerkers, geen enkel overzicht. Vragen bleven soms vier dagen onbeantwoord — niet uit onwil, maar simpelweg omdat niemand wist welke collega waarmee bezig was. Na de implementatie van de juiste helpdesk software daalde de gemiddelde responstijd van 76 naar 11 uur. Klanttevredenheid steeg van een 6,8 naar een 8,1 binnen drie maanden.
@@ -528,6 +532,108 @@ Begin morgen met HubSpot Service Hub Free. Je zit al in het ecosysteem — elke 
 Zendesk Suite Professional. Accepteer de hogere prijs als investering in schaalbaarheid. Zorg voor een gedegen onboarding-traject — gooi het er niet zomaar in.
 
 Wil je ook je CRM-keuze optimaliseren naast je helpdesk? Lees mijn uitgebreide gids over de [beste CRM-software voor Nederland 2026](/blog/beste-crm-software-nederland-2026/).
+
+---
+
+## Gratis helpdesk software: wat zijn de beste opties?
+
+Niet elke ondernemer wil meteen een abonnement afsluiten. Ik snap dat. Zeker als je nog niet weet hoeveel tickets je per week verwerkt, of als je budget krap is in de opstartfase. Goed nieuws: er zijn bruikbare gratis opties — maar ze hebben elk hun eigen beperkingen. Hier zijn de drie die ik ken en zelf heb getest.
+
+### Freshdesk Free — de sterkste gratis optie voor kleine teams
+
+Freshdesk heeft een permanent gratis plan voor maximaal 2 agents. Geen creditcard, geen tijdslimiet. Je krijgt basis-ticketing via e-mail, een gedeelde inbox, een kennisbank en canned responses. Voor een bedrijf met 1-2 medewerkers die primair via e-mail vragen ontvangen, is dit voldoende om te starten.
+
+Wat je **niet** krijgt in het gratis plan: automatisering, collision detection, SLA-management, WhatsApp of uitgebreide rapportages. Zodra je meer dan 2 agents nodig hebt, of je wilt tickets automatisch toewijzen op basis van categorie, betaal je €15/agent/maand voor het Growth-plan.
+
+Mijn advies: begin met Freshdesk Free en upgrades zodra je merkt dat je tegen de grenzen aanloopt. Die grens bereikt de meeste bedrijven binnen 3-6 maanden na de lancering.
+
+**Ga naar [freshdesk.com/nl](https://www.freshdesk.com/nl/)**
+
+### Tawk.to — volledig gratis live chat, altijd
+
+Tawk.to is een live chat tool die 100% gratis is — en dat blijft. Geen betaalde tier verborgen achter een freemium-muur. Het businessmodel werkt anders: je kunt betaalde agents inhuren via tawk.to als je zelf geen tijd hebt om te chatten. De software zelf kost niets.
+
+Ik heb tawk.to gebruikt op meerdere websites en mijn conclusie: voor live chat op je website is het solide. De widget werkt, de mobiele app is functioneel, en het biedt basisrapportages over chatvolumes. Wat het **niet** is: een volledig helpdesksysteem. Er is geen uitgebreid ticketsysteem, geen automatisering, en de interface is functioneel maar niet modern.
+
+Tawk.to is de juiste keuze als je primair live chat wilt aanbieden op je website zonder enige maandelijkse verplichting. Voor een volwaardig ticketsysteem combineer je het met een apart e-mailtool, of je stapt over naar Freshdesk zodra je meer structuur nodig hebt.
+
+**Website:** https://www.tawk.to/
+
+### osTicket — gratis open-source ticketsysteem (zelf hosten)
+
+osTicket is het meest gebruikte gratis open-source ticketsysteem ter wereld. Het draait op je eigen server (of een goedkope hosting), je betaalt geen licentie, en je hebt volledige controle over je data. Populair bij overheden, onderwijsinstellingen, non-profits en IT-afdelingen die geen data in de cloud willen.
+
+De functionaliteit is uitgebreider dan je verwacht van gratis software: ticketing via e-mail en webformulieren, SLA-management, automatische toewijzing, klantportaal, kennisbank en rapportages. Het is echter geen moderne SaaS-tool: de interface is functioneel maar gedateerd, en je hebt technische kennis nodig om het te installeren en onderhouden.
+
+Mijn eerlijke oordeel: osTicket is uitstekend als je eigen hosting hebt, enige technische kennis in huis hebt, en datasoevereiniteit belangrijk vindt. Voor de meeste Nederlandse MKB-bedrijven is het te arbeidsintensief. Kies dan liever voor Freshdesk Free. Maar voor non-profits, verenigingen en IT-afdelingen met een beperkt budget is osTicket een serieuze optie.
+
+**Website:** https://osticket.com/
+
+### Vergelijking gratis opties
+
+| Tool | Type | Agents | Ticketing | Live chat | Zelf hosten |
+|------|------|--------|-----------|-----------|------------|
+| **Freshdesk Free** | SaaS | Max 2 | ✅ Uitgebreid | ✅ Beperkt | ❌ |
+| **Tawk.to** | SaaS | Onbeperkt | ⚠️ Basis | ✅ Volledig | ❌ |
+| **osTicket** | Open-source | Onbeperkt | ✅ Uitgebreid | ❌ | ✅ |
+| **HubSpot Service Free** | SaaS | Onbeperkt | ✅ Basis | ✅ Basis | ❌ |
+
+De conclusie is helder: als je gratis wilt beginnen met ticketing, ga voor Freshdesk Free. Als je gratis live chat op je website wilt, is tawk.to de meest complete oplossing. Als je volledige controle over je data wilt en bereid bent te hosten, is osTicket de enige echte open-source keuze.
+
+---
+
+## TOPdesk als Nederlandse concurrent: wanneer kies je voor TOPdesk?
+
+In elk gesprek over Nederlandse helpdesk software ontbreekt één naam die in de markt wél prominent aanwezig is: TOPdesk. En dat is een omissie die ik moet rechtzetten.
+
+TOPdesk is opgericht in 1993 in Delft en is uitgegroeid tot een van de meest gebruikte service management systemen in Nederland. Met meer dan 5.000 klanten wereldwijd — waarvan een substantieel deel Nederlandse gemeenten, zorginstellingen en universiteiten — is het de dominante keuze in de publieke sector. Het is ook actief in de private sector, maar de focus ligt traditioneel op grotere organisaties met complexe interne IT-dienstverlening.
+
+### Wat TOPdesk anders doet dan de andere tools in dit overzicht
+
+TOPdesk positioneert zichzelf als een **Enterprise Service Management (ESM)** platform — niet alleen voor IT-helpdesks, maar voor alle interne dienstverlening: HR, facilitair, financiën, inkoop. Een medewerker die ziek is meldt dat via hetzelfde systeem als waarop hij een defect laptopscherm rapporteert. Dat is fundamenteel anders dan de tools hierboven, die primair gericht zijn op externe klantenservice.
+
+Wat TOPdesk biedt dat andere tools in dit overzicht niet hebben:
+
+- **Self-service portal** — Een intranetachtig portaal waar medewerkers zelf meldingen aanmaken, de status volgen en kennisbankartikelen raadplegen
+- **ITIL-modules** — Incidentbeheer, probleembeheer, wijzigingsbeheer en configuratiebeheer (CMDB) volledig conform ITIL-standaarden
+- **Facilitair beheer** — Reserveringen van vergaderruimtes, beheer van inventaris, werkplekregistratie
+- **HR-module** — Onboarding-processen, verlofaanvragen, mutatiebeheer
+- **Rapportages op organisatieniveau** — Dashboards die de prestaties van meerdere afdelingen tegelijk tonen
+
+### Voor welk type bedrijf is TOPdesk geschikt?
+
+Mijn eerlijke beoordeling: TOPdesk is **niet** de juiste keuze voor het typische MKB-bedrijf dat ik in dit artikel beschrijf. Hier is waarom.
+
+TOPdesk is opgezet voor organisaties met een interne IT-afdeling, meerdere servicedomeinen (IT, HR, facilitair) en een behoefte aan ITIL-compliance. De implementatietijd bedraagt gemiddeld 2-6 maanden, inclusief inrichting van processen en training. De prijs ligt aanzienlijk hoger dan tools als Freshdesk of Trengo — denk aan €4.000-€15.000+ per jaar voor een middelgrote organisatie.
+
+**TOPdesk is de juiste keuze als:**
+- Je organisatie 50+ medewerkers heeft met een dedicate IT-afdeling
+- Je ook HR- en facilitaire diensten via hetzelfde systeem wilt beheren
+- Je in de publieke sector zit (gemeente, ziekenhuis, universiteit, woningcorporatie)
+- Je ITIL-processen wilt implementeren conform ISO 20000
+- Je een Nederlandse leverancier wilt met lokale implementatiepartners
+
+**TOPdesk is NIET de juiste keuze als:**
+- Je primair externe klantenservice wilt verbeteren (gebruik Freshdesk of Trengo)
+- Je een klein team hebt (< 20 medewerkers) — de complexiteit is te groot
+- Je snel live wilt gaan (implementatie duurt maanden)
+- Je een beperkt budget hebt
+
+### TOPdesk vs. de tools in dit overzicht
+
+| Aspect | TOPdesk | Freshdesk | Trengo | Zendesk |
+|--------|---------|-----------|--------|---------|
+| Primaire focus | Interne IT & ESM | Externe klantenservice | Externe omnichannel | Externe klantenservice |
+| Doelgroep | 50+ medewerkers, publieke sector | MKB, alle sectoren | MKB, B2C | Enterprise |
+| Implementatietijd | 2-6 maanden | 1-3 dagen | 1-2 dagen | 2-4 weken |
+| ITIL-modules | ✅ Volledig | ❌ | ❌ | Beperkt |
+| WhatsApp | ❌ | Via add-on | ✅ Native | Via add-on |
+| Startprijs | Op aanvraag (~€400/mnd) | Gratis | €99/mnd | €55/agent/mnd |
+| Nederlandstalig | ✅ | Deels | ✅ | ❌ |
+
+Voor meer informatie over TOPdesk als ITSM-platform, zie mijn aparte artikel over de [beste ITSM software 2026](/blog/beste-itsm-software-2026/). Wil je specifiek een interne IT-helpdesk inrichten? Dan is Freshservice (van Freshworks) ook een serieuze optie naast TOPdesk — lees meer in mijn [vergelijking van IT-helpdeskoplossingen](/blog/beste-it-helpdesk-software-2026/).
+
+**Website:** https://www.topdesk.com/nl/
 
 ---
 

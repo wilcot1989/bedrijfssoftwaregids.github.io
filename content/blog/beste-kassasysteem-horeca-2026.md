@@ -1,13 +1,13 @@
 ---
 title: "Beste Kassasysteem Horeca 2026: Top 6 Getest"
 date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-18T10:00:00+01:00
 description: "Welk kassasysteem past bij jouw horecazaak? Ik vergeleek 6 systemen op prijs, functies en gebruiksgemak. Vanaf €0/mnd. Ontdek mijn top pick."
 categories: ["kassasystemen"]
 tags:
   - kassasysteem
   - horeca
-keywords: ["beste kassasysteem horeca", "kassa restaurant", "pos systeem horeca", "kassasysteem vergelijken", "kassa café"]
+keywords: ["beste kassasysteem horeca", "kassa restaurant", "pos systeem horeca", "kassasysteem vergelijken", "kassa café", "kassasysteem zonder abonnement", "kassasysteem kledingwinkel", "kassasysteem detailhandel", "kassasysteem retail", "kassasysteem kleine winkel"]
 aliases:
   - /posts/beste-kassasysteem-horeca-2026/
 affiliate: true
@@ -58,6 +58,14 @@ faq:
     a: "Cloud-gebaseerde kassasystemen zoals Lightspeed of Square kunnen binnen een dag operationeel zijn. Uitgebreidere systemen zoals Untill of Trivec, die vaak met meer hardware worden geleverd, vergen doorgaans 1-2 weken voor installatie, configuratie en training van personeel."
   - q: "Kan ik mijn kassasysteem ook gebruiken voor voorraadbeheer?"
     a: "Ja, vrijwel alle moderne horecakassasystemen bieden voorraadbeheer. Je kunt recepturen invoeren, automatisch voorraad afboeken bij verkoop en meldingen instellen wanneer producten opraken. Lightspeed Restaurant en Untill bieden de meest uitgebreide voorraadfuncties."
+  - q: "Welk kassasysteem is het beste voor een kledingwinkel?"
+    a: "Voor een kledingwinkel raad ik Lightspeed Retail of Square for Retail aan. Beide bieden barcode-scanning, maat- en kleurbeheer en voorraadbeheer per variant. Lightspeed Retail is de sterkste keuze voor kledingwinkels met een breed assortiment en meerdere vestigingen. Square is beter geschikt als je klein begint en de transactiekosten bij jouw omzet meevallen."
+  - q: "Welk kassasysteem is het beste voor een kleine winkel of kiosk?"
+    a: "Voor een kleine winkel of kiosk is Square de eenvoudigste en goedkoopste start: gratis software, een reader van €19 en je bent operationeel. Zettle by PayPal is een goed alternatief als je al een PayPal-account hebt. Zodra je meer dan €8.000 per maand omzet, loont het om de transactiekosten te vergelijken met een abonnement-gebaseerd systeem als Lightspeed Retail."
+  - q: "Kan ik een kassasysteem gebruiken zonder maandelijkse kosten?"
+    a: "Ja, dat kan. Square en Zettle by PayPal bieden gratis kassasoftware waarbij je alleen betaalt per transactie (respectievelijk 1,75% en 1,95%). De echte kosten zitten dus in de transactieprovisies, niet in een abonnement. Bij hogere omzetten is een betaald abonnement met een dedicated pinautomaat vaak goedkoper. Er zijn ook eenmalige aankoop-opties zoals Revel Systems of oudere lokale kassasoftware, maar die zijn minder gangbaar voor moderne horecazaken."
+  - q: "Wat is het verschil tussen een kassasysteem voor horeca en retail?"
+    a: "Een horecakassasysteem is gebouwd rondom menu-items, tafelbeheer, recepturen en gang-indeling. Een retail kassasysteem draait om productvarianten (maat, kleur), barcode-scanners, inkooporders en voorraad per SKU. De interface, de werkstroom en de functies zijn fundamenteel anders. Gebruik je als horecaondernemer een retailkassa, dan mis je tafelbeheer en keukenprinters. Gebruik je als winkeleigenaar een horecakassa, dan mis je barcodescanning en variantbeheer."
 ---
 
 Een kassasysteem horeca kiezen is een beslissing waar je jarenlang mee zit. Ik heb cafehouders geholpen die vastzaten aan een verouderd systeem met hoge contractkosten, en restauranteigenaren die na een slimme keuze uren per week bespaarden op voorraadbeheer en afrekengemak. In deze vergelijking deel ik de 6 beste kassasystemen voor horeca die ik aanbeveel -- en waar je op moet letten.
@@ -588,6 +596,180 @@ Wil je specifiek advies voor jouw type horecazaak? De [kassasysteem keuzehulp](/
 Een kassasysteem is niet de enige software die je als restauranteigenaar nodig hebt. Er zijn ook reserveringssystemen, restaurant management platforms en HR-tools voor je personeel. Lees mijn overzicht van de [beste restaurantsoftware 2026](/blog/beste-restaurantsoftware-2026/) als je een completer beeld wilt. Heb je ook een goed voorraadbeheer systeem nodig? Bekijk dan mijn overzicht van de [beste voorraadbeheer software 2026](/blog/beste-voorraadbeheer-software-2026/) voor een koppeling met je kassasysteem.
 
 En als je ook je kassasysteem wil inrichten — producten invoeren, menukaart opzetten, hardware aansluiten — lees dan mijn [kassasysteem inrichten checklist](/blog/kassasysteem-inrichten-checklist/) zodat je niets vergeet bij de start.
+
+## Kassasysteem voor retail vs horeca: de belangrijkste verschillen
+
+Ik krijg regelmatig vragen van ondernemers die actief zijn in zowel horeca als retail — denk aan een museumcafé met een souvenirwinkel, of een bakkerij die ook kleding verkoopt. Hun vraag: kunnen ze één kassasysteem gebruiken voor beide? Het antwoord is: in de meeste gevallen niet goed.
+
+De reden: horeca- en retailkassasystemen zijn gebouwd rondom fundamenteel andere werkstromen.
+
+### Menu-gebaseerd vs product-gebaseerd
+
+In de horeca werk je met een menukaart: pasta van de dag, hamburger, biertje van het vat. Items zijn niet uniek per exemplaar — je verkoopt hetzelfde gerecht tientallen keren per avond. Een horecakassa is gebouwd rondom menukaartbeheer, modifiers ("zonder ui, extra kaas"), gangindeling en keukenrouting.
+
+In de retail werk je met producten die elk een unieke SKU hebben: een spijkerbroek in maat 32/32 blauw, een shirt in maat M rood. Iedere variant is een apart product in je voorraadbeheer. Een retailkassa is gebouwd rondom barcode-scanning, variantbeheer (maat, kleur, uitvoering) en inkooporders.
+
+Als je een horecakassa gebruikt voor je winkelverkoop, kun je wel producten invoeren — maar je mist barcodescanning en variantbeheer. Andersom: een retailkassa in een restaurant biedt geen tafelbeheer, geen gang-indeling en geen keukenprinters.
+
+### Voorraad op receptuurniveau vs per SKU
+
+Voorraadbeheer werkt ook anders. In de horeca gaat het om recepturen: als je een pasta bestelt, wordt automatisch 200 gram pasta, 100 ml saus en 50 gram kaas van de voorraad afgetrokken. Het gaat niet om het eindproduct, maar om de ingrediënten.
+
+In de retail gaat het om SKU-beheer: elke unieke combinatie van product + variant heeft zijn eigen voorraadniveau. Als de laatste blauwe spijkerbroek in maat 34/32 is verkocht, wil je dat de kassa dat bijhoudt — en liefst een signaal geven voor de volgende inkooporder.
+
+Lightspeed biedt allebei: Lightspeed Restaurant voor horeca, Lightspeed Retail voor winkels. Het zijn aparte producten met aparte interfaces, maar dezelfde achterkant. Dat maakt Lightspeed interessant als je op termijn beide wilt.
+
+### Barcodescanners vs touchscreen
+
+Bij een horecakassa tik je bestellingen in op een touchscreen: je tikt op "bier", dan op de variant, klaar. Snelheid en eenvoud zijn het belangrijkst. Je werkt per tafel, niet per product.
+
+Bij een retailkassa scan je barcodes. De medewerker scant het label, de kassa herkent het product inclusief variant, en boekt het automatisch af. Dat is essentieel bij een hoog volume aan verschillende producten — je kunt onmogelijk 500 productvarianten handmatig intikken.
+
+| Kenmerk | Horecakassasysteem | Retailkassasysteem |
+|---------|--------------------|--------------------|
+| Werkstroom | Menu → Tafel → Keuken → Afrekenen | Scannen → Voorraad afboeken → Afrekenen |
+| Voorraadbeheer | Recepturen (ingrediënten) | SKU's (varianten per product) |
+| Hardware | Touchscreen, keukenprinter, klantenbeeldscherm | Barcodescanner, bonprinter, kassalade |
+| Tafelbeheer | Ja — essentieel | Nee — niet van toepassing |
+| Variantbeheer | Beperkt (modifiers) | Uitgebreid (maat, kleur, uitvoering) |
+| Beste voor | Restaurant, café, hotel | Kledingwinkel, supermarkt, drogist |
+
+Wil je weten welke software het beste werkt voor een retailbedrijf? Lees mijn overzicht van [beste software voor detailhandel en retail 2026](/blog/software-detailhandel-retail-2026/) voor een gerichte vergelijking.
+
+---
+
+## Kassasysteem zonder abonnement: wat zijn de opties?
+
+Een vraag die ik steeds vaker krijg: "Lars, bestaat er een goed kassasysteem waarbij ik geen maandelijkse abonnementskosten betaal?" Het eerlijke antwoord is: ja, maar er zijn altijd afwegingen. Laat me de opties doorlopen.
+
+### Optie 1: Gratis software met transactiekosten (Square, Zettle)
+
+Dit is de populairste "abonnementsvrije" optie. Square en Zettle bieden gratis kassasoftware — je betaalt alleen per transactie.
+
+- **Square**: gratis software, 1,75% per transactie
+- **Zettle by PayPal**: gratis software, 1,95% per transactie
+
+De catch: dit is geen kassasysteem zonder kosten. Het is een kassasysteem zonder vaste kosten. De variabele kosten kunnen juist flink oplopen.
+
+Rekenvoorbeeld bij €10.000 maandomzet:
+- Square transactiekosten: €175/maand
+- Zettle transactiekosten: €195/maand
+- Orderbird Starter (€39/mnd) + dedicated pin (0,35%): €74/maand
+
+Bij €10.000 omzet is een "gratis" systeem dus bijna 2,5x duurder dan een betaald abonnement met een normaal pinapparaat. De gratis systemen zijn alleen echt goedkoper bij een lage omzet (onder de €3.000-5.000 per maand).
+
+### Optie 2: Eenmalige aankoop (legacy systemen)
+
+Er zijn nog kassasoftware-pakketten die je eenmalig koopt in plaats van maandelijks betaalt. Denk aan oudere Windows-gebaseerde systemen voor retailwinkels. In de horeca is dit zeldzamer geworden.
+
+**Wat je verliest bij een eenmalig betaald systeem:**
+- Automatische updates en nieuwe functies
+- Cloud-backup (bij lokale software ben je zelf verantwoordelijk)
+- Koppeling met moderne bezorgplatforms
+- Support na de eerste periode
+
+Mijn mening: in de horeca zou ik geen eenmalig kassasysteem aanbevelen. De kans is groot dat je na twee jaar een systeem hebt dat achterloopt op de markt, geen integraties heeft met nieuwe platforms en waarvoor de support is gestopt.
+
+### Optie 3: Open source kassasoftware
+
+Er zijn open source kassasystemen zoals Odoo POS of uniCenta. Gratis software, maar je betaalt wel voor:
+- Hosting of een server
+- Installatie en configuratie (of doe je het zelf)
+- Maatwerk aanpassingen
+- Support als er iets misgaat
+
+Voor een technisch aangelegde ondernemer die zelf wil sleutelen kan dit interessant zijn. Voor de meeste horecaondernemers is de totale eigendomskost hoger dan een commercieel abonnement.
+
+### Eerlijke kostenvergelijking: abonnement vs transactiekosten
+
+| Situatie | Abonnement (Orderbird €39/mnd + pin 0,35%) | Gratis (Square 1,75%) | Verschil |
+|----------|-------------------------------------------|-----------------------|----------|
+| Omzet €3.000/mnd | €50/mnd | €53/mnd | Bijna gelijk |
+| Omzet €6.000/mnd | €60/mnd | €105/mnd | €45/mnd duurder |
+| Omzet €10.000/mnd | €74/mnd | €175/mnd | €101/mnd duurder |
+| Omzet €20.000/mnd | €109/mnd | €350/mnd | €241/mnd duurder |
+
+Mijn conclusie: een kassasysteem zonder abonnement is eigenlijk nooit echt gratis. Je kiest alleen voor een ander kostenmodel. Gebruik de [kassasysteem kostenberekening](/tools/kassasystemen/kosten-berekenen/) om je eigen situatie door te rekenen — dan zie je meteen welk model voor jou goedkoper uitvalt.
+
+---
+
+## Kassasysteem voor detailhandel en kledingwinkels
+
+Hoewel dit artikel primair over horecakassasystemen gaat, krijg ik ook veel vragen van winkeleigenaars die googelen op "kassasysteem". Voor de volledigheid behandel ik hier de beste opties voor retail — zodat je als winkelier niet met een verkeerd systeem eindigt.
+
+### Lightspeed Retail — beste voor kledingwinkels en modewinkels
+
+Lightspeed Retail is mijn topkeuze voor kledingwinkels en modewinkels. Het systeem is specifiek gebouwd voor retail met een breed assortiment en variantbeheer is uitstekend: per artikel kun je maten, kleuren en uitvoeringen beheren als aparte voorraadeenheden.
+
+Wat Lightspeed Retail onderscheidt voor kledingwinkels:
+- **Matrix-voorraadbeheer**: beheer voorraad per maat én per kleur in één overzicht
+- **Inkooporders**: bestel direct bij leveranciers vanuit het kassasysteem
+- **Webshop-integratie**: koppel je fysieke winkel aan een online shop (Shopify, WooCommerce)
+- **Klantenkaarten en loyaliteit**: bijhouden wat klanten kopen en terugkerende klanten belonen
+- **Rapportages per categorie**: zie welke jassen, schoenen of broeken het best lopen
+
+**Prijs**: Lightspeed Retail begint bij €69/maand voor een basisplan. Dat is vergelijkbaar met het restaurant-variant.
+
+**Beste voor**: kledingwinkels, schoenenwinkels, sportartikelen, sieraden — kortom, elke winkel met veel varianten per product.
+
+### Square for Retail — beste voor kleine winkels en kiosken
+
+Square heeft naast zijn horecavariant ook Square for Retail: speciaal voor winkels. Het biedt barcode-scanning, voorraadbeheer en eenvoudig variantbeheer, alles gratis in de basisversie.
+
+Wat Square for Retail biedt:
+- Gratis kassasoftware met barcode-scanning
+- Voorraadbeheer met lage-voorraad meldingen
+- Eenvoudig variantbeheer (maat, kleur)
+- Klantenregistratie en loyaliteitsprogramma (gratis basis)
+- Koppeling met Square Online voor een webshop
+
+**Prijs**: Gratis (transactiekosten 1,75%) of Square for Retail Plus voor €69/maand.
+
+**Beste voor**: kleine winkels, kiosken, marktkraampjes, pop-up winkels die snel willen starten zonder investering.
+
+### Shopify POS — beste voor winkels met een webshop
+
+Als je als winkel ook online verkoopt — of online begint en een fysieke locatie opent — is Shopify POS een sterke keuze. De kassa is volledig geïntegreerd met je Shopify webshop: één voorraad, één klantendatabase, één backend.
+
+**Prijs**: Shopify begint bij €29/maand voor de webshop + €89/maand voor Shopify POS Pro.
+
+**Beste voor**: winkels die online en offline combineren, D2C-merken met een eigen winkel.
+
+Meer lezen over Shopify als kassasysteem? Zie mijn [Shopify review 2026](/blog/shopify-review-2026/) voor een volledige beoordeling.
+
+### Aanbeveling per winkeltype
+
+| Winkeltype | Aanbevolen systeem | Reden |
+|------------|-------------------|-------|
+| Kledingwinkel (middelgroot) | Lightspeed Retail | Beste variantbeheer, inkooporders |
+| Kleine winkel / kiosk | Square for Retail | Gratis start, eenvoudig |
+| Winkel + webshop | Shopify POS | Één systeem voor alles |
+| Supermarkt / drogist | Gespecialiseerd systeem | Zie detailhandel software overzicht |
+| Sieradenwinkel | Lightspeed Retail | Serienummerbeheer, hoge marges |
+
+Wil je een volledig overzicht van kassasystemen voor de detailhandel? Lees mijn artikel over [beste software voor detailhandel en retail 2026](/blog/software-detailhandel-retail-2026/) voor alle opties naast elkaar. En als je een webshop wilt combineren met je fysieke winkel, bekijk dan het [beste webshop software overzicht 2026](/blog/beste-webshop-software-2026/).
+
+---
+
+## Veelgestelde vragen
+
+**Welk kassasysteem is het beste voor een kledingwinkel?**
+
+Voor een kledingwinkel raad ik Lightspeed Retail aan. Het biedt het beste variantbeheer (maat × kleur), inkooporders rechtstreeks vanuit de kassa en uitstekende rapportages per productcategorie. Square for Retail is een goed gratis alternatief als je klein begint. Let op: gebruik geen horecakassasysteem voor een kledingwinkel — je mist dan barcode-scanning en variantbeheer.
+
+**Welk kassasysteem is het beste voor een kleine winkel of kiosk?**
+
+Voor een kleine winkel of kiosk is Square for Retail de eenvoudigste start: gratis software, een reader van €19 en je bent dezelfde dag operationeel. Zettle by PayPal is een goed alternatief bij lagere transactievolumes. Bij een hogere omzet (boven de €5.000-8.000 per maand) loont het om de transactiekosten te vergelijken met een abonnement-gebaseerd systeem.
+
+**Kan ik een kassasysteem gebruiken zonder maandelijkse kosten?**
+
+Ja — Square en Zettle bieden gratis kassasoftware waarbij je alleen per transactie betaalt (1,75% en 1,95% respectievelijk). Maar let op: bij een hogere omzet zijn die transactiekosten duurder dan een maandabonnement. Gebruik de [kostenberekening tool](/tools/kassasystemen/kosten-berekenen/) om te vergelijken wat voor jouw omzet goedkoper uitvalt. Eenmalige aankoop-systemen bestaan ook nog (legacy software), maar ik raad ze af voor moderne horecazaken vanwege het gebrek aan updates en integraties.
+
+**Wat is het verschil tussen een kassasysteem voor horeca en retail?**
+
+Een horecakassasysteem is gebouwd rondom menu-items, tafelbeheer, gangindeling en keukenprinters. Een retailkassasysteem draait om barcode-scanning, variantbeheer per SKU, inkooporders en voorraad per productvariant. De werkstroom, interface en functies zijn fundamenteel anders. Als horecaondernemer mis je bij een retailkassa het tafelbeheer en de keukenrouting; als winkelier mis je bij een horecakassa de barcodescanner en het variantbeheer.
+
+---
 
 ## Mijn advies: het beste kassasysteem per situatie
 

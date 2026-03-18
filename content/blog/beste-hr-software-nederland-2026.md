@@ -1,7 +1,7 @@
 ---
 title: "Beste HR Software Nederland 2026: Top 6 voor MKB"
 date: 2026-02-27T10:00:00+01:00
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-18T10:00:00+01:00
 description: "Vergelijk de beste HR software voor het MKB in Nederland. Personio, HiBob, Nmbrs, AFAS en meer op prijs, functies en gebruiksgemak."
 categories: ["hr-software"]
 tags:
@@ -64,6 +64,14 @@ faq:
     a: "Salarissoftware richt zich specifiek op loonverwerking, belastingaangiftes en salarisstroken. HR software is breder en omvat ook verlofregistratie, onboarding, performance management, verzuimbeheer en personeelsdossiers. Veel moderne platforms combineren beide functies in een pakket."
   - q: "Hoe lang duurt het om HR software te implementeren?"
     a: "Een eenvoudig cloudgebaseerd HR-systeem zoals Personio of HiBob is binnen 2-4 weken operationeel, inclusief datamigratie. Complexere systemen zoals AFAS met maatwerk vergen doorgaans 2-6 maanden. De salarismodule kost vaak het meeste tijd vanwege de nauwkeurigheid die vereist is."
+  - q: "Is er gratis HR software voor kleine MKB-bedrijven?"
+    a: "Volledig gratis HR software die ook salarisverwerking en AVG-compliance biedt, bestaat nauwelijks voor de Nederlandse markt. Wel zijn er gratis basisplannen: Factorial HR heeft een free tier voor verlof en aanwezigheidsregistratie, en Personio biedt een gratis proefperiode. Voor een bedrijf met 1-5 medewerkers is Loket.nl via je accountant of Nmbrs Starter (vanaf circa 3 euro per medewerker per maand) de goedkoopste professionele optie."
+  - q: "Welke HR software werkt het beste voor een bedrijf met uitzendkrachten?"
+    a: "Voor bedrijven die met uitzendkrachten werken, zijn Nmbrs en AFAS de sterkste keuzes. Nmbrs ondersteunt meerdere loonheffingsnummers en verwerkt de specifieke fiscale regels voor flexkrachten correct, inclusief de Waadi-verplichtingen. AFAS kan ingericht worden voor complexe personeelsmixen van vaste medewerkers en uitzendkrachten. Loket.nl via een gespecialiseerde salarisadviseur is ook een solide optie. Losse HR-tools als Personio of HiBob zijn minder geschikt omdat ze de payroll-complexiteit van uitzendconstructies niet zelfstandig aankunnen."
+  - q: "Hoe kies je HR software als je van 1 naar 5 medewerkers groeit?"
+    a: "Bij 1 tot 5 medewerkers heb je nog geen volledig HR-platform nodig, maar is het verstandig om vroeg te beginnen met de basis. Stap 1: zorg voor een correcte salarisverwerking via een accountant met Loket.nl of Nmbrs Starter. Stap 2: voeg bij de tweede of derde medewerker een digitaal personeelsdossier toe, zelfs een eenvoudige tool is beter dan e-mailmappen. Stap 3: zodra je vijf of meer vaste medewerkers hebt, schakel je over naar een platform zoals Personio dat verlof, onboarding en verzuim samenvoegt. Het voordeel van vroeg beginnen: je bouwt goede gewoontes op voordat de administratie escaleert."
+  - q: "Welke HR software is het beste voor kinderopvang?"
+    a: "Voor kinderopvangorganisaties zijn de specifieke eisen rondom de CAO Kinderopvang, de wettelijke kind-beroepskrachtratios en de onregelmatige diensten bepalend. AFAS is de sterkste keuze voor middelgrote tot grote kinderdagverblijven: het verwerkt de CAO-bijzonderheden correct, ondersteunt roosters per locatie en integreert met de administratiesystemen die in de sector gangbaar zijn. Voor kleinere BSO's en peuterspeelzalen is Nmbrs een goedkoper alternatief dat de salarisverwerking correct doet. Personio is bruikbaar voor de HR-kant maar vergt een aparte koppeling voor de specifieke kinderopvang-salarisregels."
 ---
 
 Zodra een bedrijf boven de 15 medewerkers groeit, zie ik steevast hetzelfde: verlofaanvragen via WhatsApp, personeelsdossiers in Excel, en een officemanager die halve dagen kwijt is aan administratie. HR-software lost dat op, maar de keuze is overweldigend. Ik heb de 6 beste opties voor het Nederlandse MKB naast elkaar gezet, specifiek getoetst op Nederlandse wet- en regelgeving.
@@ -551,6 +559,157 @@ Lees mijn vergelijking van de [beste loonadministratie software 2026](/blog/best
 
 Als je na het lezen van dit artikel nog twijfelt, gebruik dan de [HR software keuzehulp](/tools/hr-software/keuzehulp/) — vijf vragen, en je krijgt een concreet advies op basis van je bedrijfsgrootte, prioriteiten en budget. Wil je ook vergaderen en samenwerken met je HR-team professionaliseren? Lees dan mijn overzicht van de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/) voor passende tools.
 
+## HR software per sector: kinderopvang, bouw, zorg, horeca
+
+Generieke HR-software werkt voor kantooromgevingen, maar in sectoren met onregelmatige roosters, complexe CAO's en wettelijke ratio-vereisten schiet een standaardpakket tekort. Ik kom dit keer op keer tegen bij klanten in de kinderopvang, bouw, zorg en horeca. Hieronder leg ik per sector uit waar je op moet letten.
+
+### Kinderopvang
+
+Kinderopvang is HR-technisch een van de meest veeleisende sectoren van Nederland. Je hebt te maken met:
+
+- **Kind-beroepskrachtratios (BKR):** de wet verplicht een bepaald aantal pedagogisch medewerkers per kind, afhankelijk van de leeftijdsgroep. Een fout in de roostering is niet alleen een HR-probleem, maar een inspectieprobleen.
+- **CAO Kinderopvang:** deze CAO heeft specifieke regels voor toeslagen, inzetbaarheid en contractvormen die niet in elk HR-systeem correct worden verwerkt.
+- **Onregelmatige diensten:** kinderopvang werkt in vroege en late diensten, en ouders melden kinderen soms af op korte termijn. Dat vereist flexibele roosterplanning.
+- **Stagairs en vrijwilligers:** naast vaste medewerkers en oproepkrachten heb je ook niet-beloonde krachten die je wel in je systeem wilt administreren.
+
+**Mijn aanbeveling voor kinderopvang:** AFAS voor middelgrote tot grote organisaties (10+ locaties) — het enige systeem in dit overzicht dat de CAO-complexiteit en ratio-bewaking serieus neemt. Voor kleinere BSO's en peuterspeelzalen (1-3 locaties) is Nmbrs voor de salarisverwerking gecombineerd met een sector-specifieke planningtool de praktische keuze. Personio werkt voor de HR-administratie, maar heeft geen ingebouwde ratio-bewaking en vereist maatwerk voor de CAO.
+
+### Bouw
+
+De bouwsector combineert vaste werknemers op kantoor met projectgebonden medewerkers op de bouwplaats. Dat levert een unieke HR-mix op:
+
+- **CAO Bouw & Infra:** regels over reiskosten, onkostenvergoedingen, overwerk en seizoensfluctuaties zijn uitgebreid en veranderen regelmatig.
+- **Urenregistratie per project:** bouw verrekent loonkosten door naar projecten. Je wilt niet alleen weten hoeveel uur iemand werkte, maar ook op welk project.
+- **Flexibele bezetting:** oproepkrachten, ZZP'ers en uitzendkrachten naast vaste medewerkers — soms allemaal op hetzelfde project.
+- **Veiligheidsregistratie:** VCA-certificeringen, RI&E en andere verplichte veiligheidsdocumentatie wil je bijhouden per medewerker.
+
+Ik begeleidde een bouwbedrijf van 22 medewerkers bij de overgang naar Nmbrs — en het verschil met de vorige Excel-aanpak was direct merkbaar. Variabele uren, overwerk en reiskostenvergoedingen werden nu automatisch correct verwerkt. Voor grotere aannemers (50+ medewerkers) is AFAS de sterkere keuze, specifiek vanwege de urenregistratie per project die direct doorvloeit naar de financiële module.
+
+**Mijn aanbeveling voor bouw:** Nmbrs (5-50 medewerkers) voor betrouwbare salarisverwerking met de bouw-CAO. AFAS (50+ medewerkers) als je project-gebaseerde urenregistratie en koppeling met financiën nodig hebt. Combineer dit altijd met een degelijke [urenregistratie software](/blog/beste-urenregistratie-software-2026/) die per project registreert.
+
+### Zorg
+
+De zorgsector heeft haar eigen complexiteit: wisselende diensten, meerdere arbeidscontractvormen, BIG-register verplichtingen en de specifieke CAO's per subsector (thuiszorg, VVT, GGZ, ziekenhuizen).
+
+- **Dienstroosters:** vroege, late en nachtdiensten met wisselende toeslagen. Elk rooster heeft andere uurlonen — dat moet je systeem correct berekenen.
+- **BIG-registratie:** verpleegkundigen, artsen en andere BIG-beroepsbeoefenaars moeten periodiek herregistreren. HR-software die hierop waarschuwt, bespaart boetes en compliance-problemen.
+- **CAO VVT / CAO Ziekenhuizen:** deze CAO's hebben complexe loonschalen en periodiekensystemen die niet elk systeem correct ondersteunt.
+- **Verzuim is een topprioriteit:** de zorgsector heeft het hoogste ziekteverzuim van Nederland. Wet Poortwachter-integratie is geen nice-to-have maar een must.
+
+**Mijn aanbeveling voor zorg:** AFAS is het complete antwoord voor zorgorganisaties van enige omvang — het heeft CAO-ondersteuning, Wet Poortwachter-integratie en koppelt met gangbare zorginformatiesystemen. Voor kleinere praktijken (fysiotherapeuten, tandartsen, huisartsenpraktijken) is een sectorspecifieke tool vaak beter — lees mijn artikel over de [beste software voor fysiotherapeuten](/blog/beste-software-fysiotherapeuten-2026/) voor een praktijkgerichte aanpak.
+
+### Horeca
+
+Horeca is de sector waar ik de meeste HR-chaos tegenkom. Hoge personeelsrotatie, studenten en bijbaners met nul-uren contracten, onregelmatige diensten en een CAO Horeca die uitgebreid is over toeslagen voor avonden, weekenden en feestdagen.
+
+- **Onregelmatigheidstoeslagen (ORT):** vrijdag- en zaterdagavond, zon- en feestdagen — elk uur heeft een ander tarief. Dat handmatig bijhouden is vragen om fouten.
+- **Nul-uren contracten en min-max contracten:** de horeca werkt veel met flexibele contracten. Je systeem moet dit correct verwerken zonder loondoorbetalingsrisico's.
+- **Hoge personeelsrotatie:** gemiddeld 40-50% per jaar. Dat betekent veel in- en uitdiensttreding, veel loonmutaties.
+- **Koppeling met kassasysteem:** grote horecabedrijven willen hun urenregistratie direct koppelen aan het kassasysteem voor automatische loonberekening.
+
+**Mijn aanbeveling voor horeca:** Nmbrs is mijn eerste keuze voor kleine tot middelgrote horecabedrijven — het verwerkt de ORT-toeslagen correct en heeft goede koppelingen met horecaplanning tools. Voor grotere horecaketens (10+ vestigingen) is AFAS het sterkste platform. Combineer je HR-keuze altijd met een goede [planning software voor horeca](/blog/beste-planning-software-horeca-2026/) — de roosterplanning is in de horeca minstens zo belangrijk als de loonverwerking.
+
+---
+
+## Gratis HR software: zijn er serieuze opties?
+
+Ik krijg deze vraag regelmatig van starters en kleine MKB'ers: "Bestaat er gratis HR software die ook echt werkt?" Het eerlijke antwoord: volledig gratis en volledig compleet sluiten elkaar vrijwel uit. Maar er zijn zinvolle opties die het verkennen waard zijn.
+
+### Wat je gratis kunt krijgen
+
+**Factorial HR — gratis basisplan.** Factorial biedt een gratis tier voor verlofregistratie, aanwezigheidsregistratie en een digitaal personeelsdossier. Dat is bruikbaar voor een bedrijf van 1-10 medewerkers dat puur de basale HR-administratie wil bijhouden. De salarisverwerking, onboarding-flows en rapportages zitten niet in het gratis plan — daarvoor betaal je circa €5/medewerker/maand.
+
+**Personio — gratis demo/trial.** Personio biedt geen permanent gratis plan, maar wel een uitgebreide gratis proefperiode waarmee je het systeem volledig kunt testen. Dit is geen langetermijnoplossing, maar goed voor evaluatie.
+
+**Gratis tools voor specifieke functies.** Als je geen volledig HR-systeem nodig hebt, maar alleen verlofregistratie zoekt, zijn er tools als Calamari of Timetastic die een gratis tier hebben voor kleine teams. Dit zijn geen volwaardige HR-systemen, maar voor één specifiek probleem kan het volstaan.
+
+### Wat je NIET gratis kunt regelen
+
+De drie dingen die je als werkgever in Nederland altijd professioneel moet regelen, zijn nagenoeg nooit gratis beschikbaar:
+
+1. **Correcte salarisverwerking** — fout in de loonaangifte kost je boetes van de Belastingdienst. Gratis tools hebben hier de kennis en updates niet voor.
+2. **AVG-compliant personeelsdossier** — je bent verplicht een verwerkersovereenkomst te hebben met je softwareleverancier. Gratis tools bieden dit zelden.
+3. **Wet Poortwachter-signalering** — als een medewerker ziek wordt, moet je wettelijke stappen zetten op vaste momenten. Gratis tools ondersteunen dit niet.
+
+### Mijn advies
+
+Voor een bedrijf met 1-5 medewerkers: gebruik de gratis tier van Factorial voor verlof en personeelsdossiers, en combineer dat met je accountant via Loket.nl voor de salarisverwerking. Totale kosten: circa €15-25 per maand. Dat is het minimum voor een legale en nette HR-administratie.
+
+Zodra je boven de 5 medewerkers groeit, is een betaald plan van Nmbrs of Personio de verstandige stap. De tijdwinst en het foutreductie rechtvaardigen de kosten ruimschoots.
+
+Wil je meer weten over de kosten voor kleine bedrijven? Gebruik de [HR software kostenberekening](/tools/hr-software/kosten-berekenen/) om je eigen scenario door te rekenen.
+
+---
+
+## Van 1 naar 5 medewerkers: wanneer heb je HR software nodig?
+
+Dit is de vraag die ik het vaakst krijg van startende ondernemers. En het eerlijke antwoord is: eerder dan je denkt, maar anders dan je verwacht.
+
+### Medewerker 1: je salarisverwerking staat centraal
+
+Zodra je je eerste medewerker in dienst neemt, heb je een loonheffingsnummer, een loonadministratie en een arbeidsovereenkomst nodig. Dat zijn geen opties — dat zijn wettelijke verplichtingen. Op dit moment heb je nog geen HR-software nodig in de klassieke zin, maar je hebt wel een professionele salarisverwerking nodig.
+
+**Wat ik adviseer bij medewerker 1:**
+- Schakel een accountant of salarisadviseur in die werkt met Loket.nl of Nmbrs.
+- Sla je arbeidsovereenkomst en personeelsdocumenten op in een georganiseerde cloudmap (ook al is dat Google Drive — beter dan een bureaulade).
+- Denk na over verlofregistratie: een simpele spreadsheet werkt bij één persoon, maar de gewoontes die je nu bouwt, schalen mee.
+
+De kosten: circa €20-40 per maand via een accountant. Dat is de goedkoopste professionele route.
+
+### Medewerkers 2 en 3: de eerste complexiteit
+
+Bij twee of drie medewerkers beginnen de eerste HR-vragen te spelen. Verlof dat overlapt. Een ziekmelding die wettelijke stappen vereist. Iemand die vragen heeft over zijn loonstrook.
+
+Op dit punt adviseer ik een lichte maar gestructureerde aanpak:
+
+- **Verlofregistratie:** een tool als Factorial (gratis tier) of een eenvoudige kalender in je projecttool. Voorkom dat verlof via WhatsApp gaat — dat is vragen om misverstanden.
+- **Ziekmelding:** zodra een medewerker ziek wordt, start de Wet Poortwachter-klok. Noteer de datum van ziekmelding direct. Je hebt 6 weken om een probleemanalyse te laten opstellen.
+- **Loonstroken:** zorg dat medewerkers hun loonstroken digitaal kunnen inzien. Dat voorkomt vragen bij elke salarisbetaling.
+
+### Medewerker 4 en 5: tijd voor een echt systeem
+
+Bij vier of vijf medewerkers wordt een echte HR-tool de verstandige investering. Niet omdat de wet het verplicht, maar omdat de administratieve last anders escaleert.
+
+Ik heb een klant die bij medewerker 5 nog alles in Excel deed. Maandelijks een uur verlofregistratie bijhouden. Drie keer per jaar een HR-incident waarbij hij handmatig moest uitzoeken wat de Wet Poortwachter vereiste. Eén keer een contractverlengingsdatum gemist, wat hem een automatisch vaste aanstelling opleverde.
+
+Die fouten had een systeem van €15 per maand voorkomen.
+
+**Wat je bij 4-5 medewerkers nodig hebt:**
+- **Correcte salarisverwerking** (Loket.nl of Nmbrs): dit had je al, maar controleer of de complexiteit niet is toegenomen (variabele uren, onkostenvergoedingen).
+- **Verlof en verzuim in één systeem:** aparte tools voor verlof en verzuim worden bij meer medewerkers onoverzichtelijk.
+- **Contractbewaking:** signalering wanneer contracten aflopen of wanneer proeftijden verstrijken.
+- **Digitale personeelsdossiers:** bij 5 medewerkers heb je al 5 arbeidsovereenkomsten, loonstroken, correspondentie en mogelijk ziekmeldingsdossiers. Een map op je computer is geen AVG-conforme oplossing meer.
+
+**Mijn aanbeveling voor dit groeistadium:**
+
+Voor 1-3 medewerkers: accountant + Loket.nl, eventueel aangevuld met een gratis verloftool.
+Voor 4-10 medewerkers: Nmbrs Starter of Personio Core — een beperkt maar professioneel systeem dat de basis dekt.
+Boven de 10 medewerkers: evalueer of je een volledig HR-platform nodig hebt op basis van je sector en complexiteit.
+
+Lees ook mijn artikel over [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor een gedetailleerde uitleg van de wettelijke verplichtingen die starten zodra je je eerste contract tekent.
+
+---
+
+## Veelgestelde vragen over HR software
+
+### Is er gratis HR software voor kleine MKB-bedrijven?
+
+Volledig gratis en volledig compleet gaan zelden samen. Factorial HR heeft een gratis basisplan voor verlof en aanwezigheid. Personio biedt een gratis proefperiode. Maar voor de drie zaken die je wettelijk correct moet regelen — salarisverwerking, AVG-compliant dossier en Wet Poortwachter-ondersteuning — betaal je altijd. Voor 1-5 medewerkers is Loket.nl via je accountant (circa €20-40/maand) de goedkoopste legale route. Dat is goedkoper dan één boete van de Belastingdienst wegens een fout in de loonaangifte.
+
+### Welke HR software werkt het beste voor een bedrijf met uitzendkrachten?
+
+Nmbrs en AFAS zijn hier de sterkste keuzes. Nmbrs verwerkt meerdere loonheffingsnummers correct en kent de Waadi-verplichtingen. AFAS kan ingericht worden voor complexe personeelsmixen van vaste medewerkers en uitzendkrachten naast elkaar. Voor gespecialiseerd advies over uitzendbureau-software, lees ook mijn artikel over [HR software voor uitzendbureaus](/blog/hr-software-uitzendbureaus-2026/). Losse HR-tools als Personio of HiBob zijn hier minder geschikt omdat ze de payroll-complexiteit van uitzendconstructies niet zelfstandig aankunnen.
+
+### Hoe kies je HR software als je van 1 naar 5 medewerkers groeit?
+
+Begin bij medewerker 1 met een accountant die salarisverwerking doet via Loket.nl of Nmbrs. Voeg bij medewerker 2-3 een digitale verlof- en verzuimregistratie toe — een gratis tool of een lichtgewicht betaald plan volstaat. Schakel bij medewerker 4-5 over naar een volledig systeem dat verlof, verzuim, contractbewaking en personeelsdossiers samenvoegt. Nmbrs Starter of Personio Core zijn op dat moment de verstandigste keuzes. Het voordeel van vroeg beginnen: je bouwt goede gewoontes op voordat de administratie escaleert. De kosten zijn op deze schaal marginaal vergeleken met de risico's van fouten.
+
+### Welke HR software is het beste voor kinderopvang?
+
+AFAS is de sterkste keuze voor middelgrote tot grote kinderdagverblijven en BSO-ketens. Het verwerkt de CAO Kinderopvang correct, ondersteunt roosters per locatie en heeft functies voor de kind-beroepskrachtratios. Voor kleinere organisaties (1-3 locaties) is Nmbrs een goedkoper alternatief dat de salarisverwerking correct regelt — combineer dat dan met een sectorspecifieke planningtool voor de roosterplanning en ratio-bewaking. Personio is bruikbaar voor de HR-administratiekant maar heeft geen ingebouwde CAO Kinderopvang-logica en vereist maatwerk voor de specifieke eisen in de sector.
+
+---
+
 ## Vergelijking: HR-functies per platform
 
 | Functie | Personio | HiBob | Nmbrs | AFAS | Loket.nl | BambooHR |
@@ -582,11 +741,14 @@ Mijn advies: begin met het bepalen van je kernbehoeften. Als salarisadministrati
 ## Lees ook
 
 - [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) — waar begin je als startende werkgever?
+- [HR software voor uitzendbureaus 2026](/blog/hr-software-uitzendbureaus-2026/) — specifieke eisen voor bureaus met flexibele arbeid
 - [Personeelsdossier digitaliseren en AVG](/blog/personeelsdossier-digitaliseren-avg/) — wat mag je bewaren en hoe doe je het correct?
 - [Verzuimregistratie en de Wet Poortwachter](/blog/verzuimregistratie-wvp-software/) — voorkom loonsancties met de juiste software
 - [Ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/) — meer dan registreren: actief aanpakken
 - [Beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/) — diepere duik in salarisverwerking specifiek
 - [Beste recruitment software 2026](/blog/beste-recruitment-software-2026/) — als werving een apart systeem verdient
+- [Beste planning software horeca 2026](/blog/beste-planning-software-horeca-2026/) — roosters en personeelsplanning voor de horeca
+- [Beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/) — urenregistratie per project voor bouw en dienstverlening
 - [Beste software voor fysiotherapeuten 2026](/blog/beste-software-fysiotherapeuten-2026/) — HR en planning voor de zorgsector
 - [HR software per branche](/sectoren/hr/) — welk systeem past bij jouw sector?
 

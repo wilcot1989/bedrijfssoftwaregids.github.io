@@ -30,6 +30,16 @@ faq:
     a: "Moneybird is moderner, gebruiksvriendelijker en heeft een betere mobiele app. e-Boekhouden is goedkoper en scoort hoger op Trustpilot (4.6 vs 3.5 voor Moneybird). Voor beginners die gemak belangrijk vinden is Moneybird beter. Voor budgetbewuste ondernemers is e-Boekhouden een serieus alternatief."
   - q: "Hoe betrouwbaar is Moneybird?"
     a: "Moneybird wordt gebruikt door meer dan 380.000 ondernemers in Nederland en heeft een uptime van meer dan 99,9%. Het bedrijf bestaat sinds 2008 en is financieel gezond. Er is een openbare statuspagina waar je de systeemstatus kunt volgen."
+  - q: "Is Moneybird geschikt voor een VOF?"
+    a: "Ja, Moneybird werkt prima voor een VOF. Je kunt meerdere gebruikers uitnodigen zonder extra kosten, waardoor beide vennoten toegang hebben tot de administratie. Het enige aandachtspunt: Moneybird biedt geen aparte winstverdeling per vennoot. Je moet dat zelf bijhouden of via je accountant regelen."
+  - q: "Hoe verhoudt Moneybird zich tot Yuki?"
+    a: "Moneybird is gebruiksvriendelijker en geschikter voor ondernemers die zelf boekhouden. Yuki is sterker als je nauw samenwerkt met een accountant — het hele systeem is ontworpen vanuit de accountantsworkflow. Moneybird kost €15-39/maand; Yuki werkt via een accountant en heeft geen vaste consumentenprijzen. Voor zelfstandige ZZP'ers wint Moneybird. Voor ondernemers met een actief accountantskantoor wint Yuki."
+  - q: "Werkt Moneybird met Shopify en WooCommerce?"
+    a: "Ja. Moneybird heeft een directe integratie met Shopify via de eigen koppeling. Voor WooCommerce gebruik je een plugin of een koppelingstool zoals Zapier of Make. Bol.com-verkopers kunnen via de API of derde partijen koppelen. De synchronisatie verwerkt automatisch orders als facturen, inclusief BTW-berekening."
+  - q: "Wat is het verschil tussen Moneybird en MoneyMonk?"
+    a: "MoneyMonk is gebouwd voor freelancers en ZZP'ers met projectbeheer als kern: uren schrijven, projecten bewaken en facturen koppelen aan opdrachten. Moneybird focust op boekhouding met facturatie als sterkste functie. MoneyMonk kost €9-19/maand en is goedkoper. Moneybird is completer qua boekhouding en heeft een betere bankkoppeling. Als je veel met projecten en urenregistratie werkt, past MoneyMonk beter. Als boekhouding en BTW-aangifte de kern zijn, is Moneybird sterker."
+  - q: "Is Moneybird geschikt voor een stichting?"
+    a: "Moneybird kan technisch worden gebruikt door een stichting, maar heeft geen specifieke stichtingsfuncties zoals subsidie-administratie of fondsenbeheer. Kleine stichtingen met een eenvoudige administratie — inkomsten, uitgaven, bankimport — kunnen er prima mee uit de voeten. Grotere stichtingen met meerdere projecten en rapportageplichten aan subsidieverstrekkers hebben meer aan een pakket als Exact Online."
 ---
 
 Vier weken geleden besloot ik Moneybird opnieuw van nul af aan te testen voor deze Moneybird review. Niet even snel rondklikken, maar echt: een complete administratie inrichten, facturen versturen, bonnetjes scannen en de BTW-aangifte doorlopen. De reden? Ik kreeg steeds dezelfde vraag van lezers: "Is Moneybird echt zo goed als iedereen zegt, of is het vooral goede marketing?"
@@ -268,7 +278,163 @@ Bekijk voor een volledig overzicht het [aanbod van boekhoudsoftware](/categories
 - **Bedrijven die telefonische support willen** — die is er simpelweg niet
 - **Webshophouders met honderd+ orders per dag** — de transactiekosten via Ponto lopen dan op
 
+## Moneybird vs Yuki: wanneer kies je welke?
+
+Yuki duikt regelmatig op in gesprekken met ondernemers die een accountant hebben. En terecht: Yuki is niet gebouwd voor de ondernemer, maar voor de accountant. Dat is een fundamenteel verschil met Moneybird.
+
+**De kernverschillen in de workflow:**
+
+Bij Moneybird ben jij de centrale gebruiker. Jij importeert transacties, matcht bonnetjes, stuurt facturen en dient BTW in. Je accountant kijkt mee als bijrijder — gratis, maar passief. Het systeem is gebouwd zodat jij alles zelf kunt.
+
+Bij Yuki werkt het andersom. De accountant of hun kantoor beheert het systeem. Jij levert documenten aan (bonnetjes, bankafschriften), en Yuki's AI plus het accountantskantoor verwerken de administratie. De ondernemer ziet een dashboard, maar raakt de boekingen nauwelijks aan.
+
+**Wanneer kies je Moneybird:**
+- Je wilt zelf boekhouden en je boekhouder alleen voor de jaarafsluiting inschakelen
+- Je bent ZZP'er of kleine zelfstandige met een eenvoudige administratie
+- Gebruiksgemak en lage maandelijkse kosten zijn je prioriteit
+- Je hebt geen of weinig contact met een accountantskantoor
+
+**Wanneer kies je Yuki:**
+- Je werkt nauw samen met een accountantskantoor dat Yuki gebruikt
+- Je wilt niets zelf doen in de boekhouding en het volledig uitbesteden
+- Je bent bereid meer te betalen voor de combinatie software + dienstverlening
+- Je accountant adviseert Yuki actief aan jou
+
+**Prijsvergelijking:** Moneybird kost €15-39/maand als directe consumentensoftware. Yuki heeft geen openbare consumentenprijs — je koopt het via je accountantskantoor als onderdeel van hun dienstverlening. In de praktijk betaal je via je accountant dus meer, maar je koopt ook meer dienstverlening erbij.
+
+**Mijn conclusie:** Voor de ondernemer die zelfstandig zijn boekhouding doet, wint Moneybird op gebruiksgemak en prijs. Voor de ondernemer die alles wil uitbesteden aan een accountantskantoor dat Yuki gebruikt, is Yuki logischer. Lees ook mijn [Moneybird vs Exact Online vergelijking](/blog/moneybird-vs-exact-online-2026/) als je wil zien hoe Moneybird zich houdt tegen een zwaarder pakket.
+
+---
+
+## Moneybird voor VOF, BV en eenmanszaak: verschil in gebruik
+
+Moneybird is populair bij eenmanszaken, maar kan ook goed werken voor een VOF of kleine BV. Het hangt af van de complexiteit van je administratie.
+
+### Eenmanszaak: de ideale match
+
+Voor een eenmanszaak is Moneybird in de meeste gevallen de beste keuze in zijn prijsklasse. Je administratie is rechttoe rechtaan: facturen uitsturen, kosten vastleggen, BTW-aangifte indienen. Moneybird dekt dat volledig, en de €15-startersprijs is eerlijk voor wat je krijgt. De IB-aangifte doe je nog steeds zelf of via je accountant — Moneybird levert de benodigde cijfers op.
+
+### VOF: meerdere gebruikers, gedeelde administratie
+
+Bij een VOF zijn er minimaal twee vennoten. Moneybird laat je gratis meerdere gebruikers uitnodigen — dat is een groot voordeel. Beide vennoten kunnen facturen aanmaken, bonnetjes scannen en transacties verwerken. Wat Moneybird niet doet: de winstverdeling per vennoot automatisch berekenen. Als jij en je compagnon een 60/40-verdeling afspreken, moet je dat handmatig bijhouden of via je accountant laten verwerken bij de jaarafsluiting. Voor de meeste VOF's is dat geen dealbreaker.
+
+**Praktijktip voor VOF's:** Maak afspraken over wie welke categorie transacties verwerkt. Anders eindig je met dubbel ingevoerde bonnetjes.
+
+### BV: waar Moneybird zijn grenzen bereikt
+
+Een BV met een eenvoudige administratie — directeur-grootaandeelhouder, beperkte kostenposten, geen personeel — kan prima met Moneybird werken. De Professional-versie biedt onbeperkte transacties en meerdere gebruikers.
+
+Maar zodra de BV groeit, stuit je op beperkingen:
+- **Vaste activa en afschrijvingen**: Moneybird heeft geen ingebouwd afschrijvingsschema. Je houdt dat handmatig bij.
+- **Kostplaatsen**: wil je kosten toewijzen aan projecten, afdelingen of locaties? Dan is de functionaliteit beperkt.
+- **Consolidatie**: meerdere BV's in één groep beheer je niet vanuit één Moneybird-scherm.
+- **Managementrapportages**: aandeelhouders of investeerders willen vaak uitgebreidere overzichten dan Moneybird biedt.
+
+Voor een actieve BV met echt boekhoudkundige complexiteit adviseer ik eerder [Exact Online](/blog/moneybird-vs-exact-online-2026/) of Twinfield. Wil je weten wat de prijzen van Moneybird doen bij groei? Bekijk de [Moneybird prijzenpagina](/blog/moneybird-prijzen-2026/) voor een gedetailleerd overzicht.
+
+---
+
+## Moneybird voor webshop: koppelingen met Shopify, WooCommerce en Bol.com
+
+Steeds meer webshophouders gebruiken Moneybird als hun boekhoudpakket. En dat begrijp ik — de combinatie van een sterke API, automatische bankkoppeling en eenvoudige facturatie maakt het aantrekkelijk. Maar er zijn nuances.
+
+### Moneybird + Shopify
+
+Moneybird heeft een directe koppeling met Shopify via de officiële Moneybird-integratie in de Shopify App Store. Zodra je de koppeling instelt, worden Shopify-orders automatisch verwerkt als facturen of verkoopboekingen in Moneybird. BTW wordt automatisch gesplitst (NL, EU, buiten EU).
+
+**Wat goed werkt:**
+- Orders worden automatisch aangemaakt als verkoopboekingen
+- BTW-tarieven worden herkend per land (OSS-regeling)
+- Betalingen worden gematcht met de bijbehorende boeking
+
+**Let op:**
+- Retourzendingen en creditnota's vergen soms handmatige correctie
+- Bij hoge ordervolumes (100+ orders/dag) kun je tegen de transactielimiet van het pakket aanlopen — het Professional-pakket met onbeperkte transacties is dan de enige optie
+
+### Moneybird + WooCommerce
+
+Voor WooCommerce bestaat geen officiële plug-and-play-koppeling vanuit Moneybird zelf, maar er zijn meerdere oplossingen:
+
+- **Zapier of Make**: je kunt triggers instellen die nieuwe WooCommerce-orders automatisch als factuur aanmaken in Moneybird. Dit kost €20-50/maand voor de koppelingstool en wat eenmalige inrichting.
+- **Derde partijen**: aanbieders als Channelengine of Wijs hebben kant-en-klare Moneybird-koppelingen voor WooCommerce-winkels.
+
+De WooCommerce-integratie is minder naadloos dan de Shopify-koppeling, maar zeker werkbaar voor webshops met een gemiddeld ordervolume.
+
+### Moneybird + Bol.com
+
+Bol.com-verkopers die ook via Moneybird boekhouden, gebruiken doorgaans Channelengine of een vergelijkbare multichannel-tool als tussenlaag. Bol.com stuurt de verkoopdata naar Channelengine, en Channelengine maakt via de Moneybird-API de boekingen aan. Directe koppeling van Bol.com naar Moneybird zonder tussenpartij bestaat niet.
+
+**Webshop of meerdere platforms? Let op deze valkuil:**
+
+Als je via meerdere kanalen verkoopt (webshop + Bol.com + marketplaces), lopen de transacties snel op. Bij 50 orders per dag per kanaal wordt het Professional-pakket snel een noodzaak, geen luxe. Reken dat goed door voordat je instapt. Bekijk de [Moneybird prijzen voor 2026](/blog/moneybird-prijzen-2026/) om de totale kosten in kaart te brengen.
+
+Voor grotere webshops met complexe voorraadadministratie of multi-currency verkopen is Moneybird minder geschikt. Dan kijk je beter naar een pakket als [Xero](/blog/moneybird-vs-xero-2026/), dat sterker is in internationale e-commerce.
+
+---
+
+## Moneybird vs MoneyMonk: voor freelancers
+
+MoneyMonk is een naam die ik regelmatig tegenkom wanneer freelancers vragen wat het beste pakket voor hen is. Het is een directe concurrent van Moneybird in het freelancer-segment. Laat me de vergelijking eerlijk maken.
+
+### De positionering
+
+**Moneybird** is in de kern een boekhoudpakket met sterke facturatie. Urenregistratie en projectbeheer zijn aanwezig, maar niet de focus.
+
+**MoneyMonk** is gebouwd met de freelancer als middelpunt. Uren schrijven per project, projecten bewaken, en die uren direct omzetten in een factuur — dat is het hart van het systeem. Boekhouding zit erbij, maar is meer een afgeleid product.
+
+### Functies vergeleken
+
+| Functie | Moneybird | MoneyMonk |
+|---|---|---|
+| **Facturatie** | Uitstekend | Goed |
+| **BTW-aangifte** | Ingebouwd | Ingebouwd |
+| **Bankkoppeling** | Via Ponto (betaald) | Inbegrepen bij Plus |
+| **Urenregistratie** | Basisversie | Uitgebreid, kern van het systeem |
+| **Projectbeheer** | Beperkt | Uitgebreid |
+| **Bonnetjes scannen** | Goede app | Redelijk |
+| **Startprijs** | €15/mnd | €9/mnd |
+| **Rapportages** | Basis | Basis + projectinzicht |
+| **API / koppelingen** | Sterk | Beperkt |
+
+### Wanneer kies je MoneyMonk?
+
+- Je werkt structureel op uurbasis en wil uren direct schrijven op projecten
+- Je hebt meerdere opdrachtgevers tegelijk en wil per project bijhouden hoeveel je hebt gefactureerd
+- Budget is een prioriteit — het starterstarief is lager dan Moneybird
+- Je administratie is eenvoudig en je hebt geen uitgebreide koppelingen nodig
+
+### Wanneer kies je Moneybird?
+
+- Facturatie en boekhouding zijn je kerntaken, niet urenregistratie
+- Je hebt een webshop of wil koppelen met externe tools via de API
+- Je wil de beste mobiele app voor bonnetjes scannen
+- Je hebt meerdere gebruikers (collega's, boekhouder) die meekijken
+
+**Mijn oordeel:** Voor de pure freelancer die projectmatig werkt en uren schrijft, is MoneyMonk een serieuze concurrent. Voor de ondernemer die een complete boekhouding wil met sterke facturatie en uitbreidingsmogelijkheden, is Moneybird de betere keuze. Lees ook mijn [Moneybird vs Jortt vergelijking](/blog/moneybird-vs-jortt-2026/) als je een andere ZZP-gerichte concurrent wil vergelijken.
+
+---
+
 ## Veelgestelde vragen (Moneybird review)
+
+### Is Moneybird geschikt voor een VOF?
+
+Ja, Moneybird werkt goed voor een VOF. Beide vennoten kunnen gratis worden uitgenodigd en hebben toegang tot dezelfde administratie. Het enige voorbehoud: de winstverdeling per vennoot berekent Moneybird niet automatisch. Dat moet je handmatig bijhouden of via je accountant laten verwerken. Voor de dagelijkse boekhouding van een VOF biedt Moneybird meer dan voldoende.
+
+### Hoe verhoudt Moneybird zich tot Yuki?
+
+Moneybird is gebouwd voor de ondernemer die zelf boekhoudt; Yuki is gebouwd voor accountantskantoren die de administratie voor hun klanten beheren. Moneybird is directe software met vaste maandprijzen (€15-39). Yuki wordt aangeboden via accountantskantoren als onderdeel van een dienstpakket. Als je zelf je boekhouding doet, is Moneybird de logische keuze. Als je alles uitbesteedt aan een accountantskantoor dat Yuki aanbiedt, past Yuki beter. Zie ook de [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/) voor een breder overzicht van alternatieven.
+
+### Werkt Moneybird met Shopify en WooCommerce?
+
+Ja. Shopify heeft een directe integratie in de Shopify App Store. Voor WooCommerce gebruik je een koppelingstool zoals Zapier of Make, of een derde partij als Channelengine. De Shopify-koppeling werkt naadloos; WooCommerce vereist wat meer eenmalige inrichting. Bol.com-verkopers koppelen doorgaans via Channelengine als tussenlaag.
+
+### Wat is het verschil tussen Moneybird en MoneyMonk?
+
+MoneyMonk is sterk in urenregistratie en projectbeheer voor freelancers; Moneybird is sterker in boekhouding, facturatie en koppelingen. MoneyMonk start goedkoper (€9/mnd), maar Moneybird biedt een robuustere API en betere mobiele app. Werk je primair op projectbasis met uren schrijven? Dan past MoneyMonk beter. Wil je een completer boekhoudpakket met uitbreidingsmogelijkheden? Kies Moneybird. Zie ook de [Moneybird vs Jortt vergelijking](/blog/moneybird-vs-jortt-2026/) voor een vergelijking met nog een ZZP-pakket.
+
+### Is Moneybird geschikt voor een stichting?
+
+Een kleine stichting met een eenvoudige administratie — inkomsten uit donaties of contributies, vaste uitgaven, enkelvoudige bankrekening — kan prima met Moneybird werken. De BTW-aangifte is relevant als de stichting BTW-plichtige activiteiten heeft. Grotere stichtingen met subsidie-administratie, meerdere projecten of rapportageplichten aan fondsen en subsidieverstrekkers hebben meer aan een pakket zoals Exact Online, dat gedetailleerdere projectadministratie en rapportages biedt.
 
 ### Kan ik Moneybird gebruiken voor mijn BV?
 
