@@ -130,7 +130,7 @@ Pipedrive is primair een B2B sales CRM, maar werkt uitstekend voor webshops die 
 
 **Beste voor:** B2B-webshops, groothandels, webshops met een salesteam dat actief klantrelaties beheert.
 
-<a href="https://www.pipedrive.com/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ### 3. ActiveCampaign — krachtigste marketing automation voor webshops
 
@@ -164,7 +164,7 @@ ActiveCampaign is de krachtigste marketing automation tool in dit overzicht, met
 
 Lees mijn [ActiveCampaign review](/blog/activecampaign-review-2026/).
 
-<a href="https://www.activecampaign.com/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ActiveCampaign gratis →</a>
+<a href="https://try.activecampaign.com/bxnnvkmbvwyf" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ActiveCampaign gratis →</a>
 
 ### 4. Klaviyo — de e-commerce specialist
 

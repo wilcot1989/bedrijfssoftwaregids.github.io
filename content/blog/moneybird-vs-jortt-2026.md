@@ -11,17 +11,17 @@ affiliate: true
 featured_image: "/images/categories/boekhouding.svg"
 draft: false
 faq:
-  - question: "Wat is het grote verschil tussen Moneybird en Jortt?"
+  - q: "Wat is het grote verschil tussen Moneybird en Jortt?"
     a: "Moneybird is uitgebreider en geschikt voor ZZP tot klein MKB, met integraties en uitgebreide facturatie. Jortt is eenvoudiger en goedkoper, speciaal ontworpen voor freelancers met weinig transacties. Moneybird heeft meer functies; Jortt is eenvoudiger in gebruik."
-  - question: "Is Moneybird duurder dan Jortt?"
+  - q: "Is Moneybird duurder dan Jortt?"
     a: "Ja. Moneybird start bij €15/maand voor het betaalde plan. Jortt heeft een gratis basisplan en betaalde plannen vanaf €9/maand. Voor basale ZZP-behoeften is Jortt goedkoper."
-  - question: "Heeft Moneybird een gratis plan?"
+  - q: "Heeft Moneybird een gratis plan?"
     a: "Nee. Moneybird biedt een gratis proefperiode, maar geen permanent gratis plan. Je betaalt altijd minimaal €15/maand. Jortt heeft wel een echt gratis plan met beperkte functionaliteit."
-  - question: "Welke heeft betere klantenservice: Moneybird of Jortt?"
+  - q: "Welke heeft betere klantenservice: Moneybird of Jortt?"
     a: "Op basis van Trustpilot heeft Jortt (4.2) een iets betere score dan Moneybird (3.5). Moneybird heeft klachten ontvangen over reactietijden en het oplossen van complexe problemen. Jortt scoort beter op eenvoudige vragen."
-  - question: "Kan ik mijn boekhouder koppelen aan beide pakketten?"
+  - q: "Kan ik mijn boekhouder koppelen aan beide pakketten?"
     a: "Ja, beide pakketten bieden een accountantstoegang. Bij Moneybird is dit uitgebreider qua rechten; bij Jortt werkt het op het Business-plan. Vraag je accountant welk pakket hij of zij prefereert."
-  - question: "Welk pakket is beter voor een webshop?"
+  - q: "Welk pakket is beter voor een webshop?"
     a: "Moneybird heeft integraties met WooCommerce, Shopify, Magento en Exact. Voor een webshop is Moneybird duidelijk de betere keuze. Jortt heeft geen serieuze webshop-integraties."
 ---
 

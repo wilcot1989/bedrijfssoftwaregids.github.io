@@ -118,7 +118,7 @@ Voor de meeste bouwbedrijven is het Advanced-plan (€34) het instapniveau waarb
 
 Lees de volledige [Pipedrive review 2026](/blog/pipedrive-review-2026/) voor een uitgebreide beoordeling van alle functies.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ---
 
@@ -306,6 +306,6 @@ Wat je niet moet doen: een enterprise-platform als Salesforce implementeren als 
 
 Bekijk de [CRM keuzehulp](/tools/crm/keuzehulp/) om jouw situatie in te vullen en direct een aanbeveling te krijgen. Zoek je een budgetvriendelijk alternatief met meer functies dan Pipedrive? Lees mijn [Zoho CRM review](/blog/zoho-crm-review-2026/) — voor bouwbedrijven met een IT-afdeling die bereid is de leercurve te doorlopen is Zoho CRM een serieuze optie op een lagere prijs. Of lees de vergelijking van [CRM voor advocatenkantoren 2026](/blog/crm-voor-advocatenkantoren-2026/) als je een ander sectorartikel zoekt om te vergelijken.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis — geen creditcard nodig →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis — geen creditcard nodig →</a>
 
 Heb je specifieke vragen over CRM-implementatie in de bouw? Bekijk ook mijn overzicht van [alle CRM-software](/categories/crm/) voor aanvullende vergelijkingen en sectorartikelen.

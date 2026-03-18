@@ -212,4 +212,4 @@ Pipedrive is de meest gebruikte CRM bij Nederlandse MKB-bedrijven en koppelt een
 
 Google Workspace integreert naadloos met zowel Pipedrive als de meeste boekhoudtools. Meer dan 150 native integraties beschikbaar.
 
-[Meer over Google Workspace →](https://workspace.google.com)
+[Meer over Google Workspace →](https://www.dpbolvw.net/click-101698621-13855808)

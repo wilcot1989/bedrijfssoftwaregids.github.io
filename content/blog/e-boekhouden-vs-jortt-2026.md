@@ -11,17 +11,17 @@ affiliate: true
 featured_image: "/images/categories/boekhouding.svg"
 draft: false
 faq:
-  - question: "Wat is goedkoper: e-Boekhouden of Jortt?"
+  - q: "Wat is goedkoper: e-Boekhouden of Jortt?"
     a: "Jortt heeft een gratis basisplan voor freelancers met weinig facturen. e-Boekhouden kost €9,95 per maand maar biedt meer functies. Voor starters is Jortt Free goedkoper; voor groeiende ZZP'ers of MKB is e-Boekhouden op jaarbasis voordeliger."
-  - question: "Is Jortt geschikt voor MKB of alleen voor ZZP?"
+  - q: "Is Jortt geschikt voor MKB of alleen voor ZZP?"
     a: "Jortt is primair ontworpen voor ZZP'ers en kleine freelancers. Het mist functies zoals voorraadbeheer en uitgebreide projectadministratie die MKB-bedrijven doorgaans nodig hebben. e-Boekhouden schaalt beter naar kleine en middelgrote ondernemingen."
-  - question: "Kan ik mijn boekhouder toegang geven in beide pakketten?"
+  - q: "Kan ik mijn boekhouder toegang geven in beide pakketten?"
     a: "Ja, beide pakketten bieden een accountantslogin. Bij e-Boekhouden is dit inbegrepen; bij Jortt betaal je hier extra voor op hogere abonnementten."
-  - question: "Welk pakket heeft betere UiTV-integratie met Belastingdienst?"
+  - q: "Welk pakket heeft betere UiTV-integratie met Belastingdienst?"
     a: "Beide pakketten ondersteunen BTW-aangifte via Digipoort. e-Boekhouden heeft hier meer ervaring mee en biedt een langere staat van dienst op het gebied van fiscale compliance in Nederland."
-  - question: "Hoe lang duurt de overstap van het ene naar het andere pakket?"
+  - q: "Hoe lang duurt de overstap van het ene naar het andere pakket?"
     a: "Een volledige migratie van openstaande posten, klantgegevens en historische boekingen duurt gemiddeld 2-8 uur afhankelijk van de omvang van je administratie. Beide aanbieders hebben importtools voor CSV-bestanden."
-  - question: "Hebben e-Boekhouden en Jortt een mobiele app?"
+  - q: "Hebben e-Boekhouden en Jortt een mobiele app?"
     a: "e-Boekhouden heeft een mobiele app voor iOS en Android. Jortt werkt primair via de browser en heeft een beperkte mobiele weergave, maar geen volwaardige native app."
 ---
 

@@ -321,9 +321,9 @@ Jortt is volledig gefocust op zzp'ers en kleine ondernemers. Met €9,95/mnd (ja
 
 **Beperkingen Jortt:** Geen loonadministratie, geen meerdere gebruikers, minder geschikt als je groeit naar meerdere medewerkers.
 
-<a href="https://www.snelstart.nl/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart gratis →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart gratis →</a>
 
-<a href="https://www.jortt.nl/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Jortt →</a>
+<a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Jortt →</a>
 
 ## Conclusie: Moneybird wint op prijs in de meeste scenario's
 

@@ -186,7 +186,7 @@ Je voert zelf de ritten in: datum, start- en eindpunt, aantal kilometers.
 
 Wil je verder automatiseren? Google Workspace biedt vergelijkbare mogelijkheden voor teams die liever met Google-tools werken:
 
-<a href="https://workspace.google.com/intl/nl/" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Google Workspace voor uw team</a>
+<a href="https://www.dpbolvw.net/click-101698621-13855808" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Google Workspace voor uw team</a>
 
 ---
 
@@ -353,7 +353,7 @@ Voor grotere organisaties is de koppeling met HR en salarisadministratie belangr
 
 Als je team al werkt met Google Workspace, kun je rittenadministratie centraliseren. Rittendata exporteert naar Google Sheets, goedkeuringen verlopen via Gmail, en rapporten worden opgeslagen in Google Drive.
 
-<a href="https://workspace.google.com/intl/nl/" rel="noopener nofollow sponsored" class="cta-affiliate">Combineer rittenregistratie met Google Workspace — probeer 14 dagen gratis</a>
+<a href="https://www.dpbolvw.net/click-101698621-13855808" rel="noopener nofollow sponsored" class="cta-affiliate">Combineer rittenregistratie met Google Workspace — probeer 14 dagen gratis</a>
 
 ## Praktijkcase: hoe een bouwbedrijf €18.000 per jaar bespaarde
 

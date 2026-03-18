@@ -263,7 +263,7 @@ Als je een klein bedrijf hebt met eenvoudige payroll-behoeften — tot circa 15 
 - Beperktere medewerker-app
 - Minder geschikt boven circa 20 medewerkers
 
-<a href="https://www.snelstart.nl/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart Go gratis →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart Go gratis →</a>
 
 ## Praktijkcase: migratie van Excel naar Nmbrs bij een groeibedrijf
 

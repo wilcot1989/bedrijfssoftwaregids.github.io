@@ -11,17 +11,17 @@ affiliate: true
 featured_image: "/images/categories/crm.svg"
 draft: false
 faq:
-  - question: "Wat is het fundamentele verschil tussen Pipedrive en Teamleader?"
+  - q: "Wat is het fundamentele verschil tussen Pipedrive en Teamleader?"
     a: "Pipedrive is een pure sales CRM gebouwd voor verkoopteams: pipeline management, dealtracking, salesautomatisering. Teamleader is een alles-in-één bedrijfsplatform voor MKB: CRM, projectmanagement, urenregistratie, facturatie en meer. Pipedrive focust diep op sales; Teamleader dekt de hele bedrijfsvoering."
-  - question: "Is Teamleader duurder dan Pipedrive?"
+  - q: "Is Teamleader duurder dan Pipedrive?"
     a: "Ja. Teamleader start bij €37,50/gebruiker/maand (jaarlijks), Pipedrive bij €14/gebruiker/maand. Maar Teamleader vervangt meerdere losse tools. Als je Pipedrive combineert met projectmanagement- en facturatiesoftware, kan de totaalprijs vergelijkbaar zijn."
-  - question: "Is Teamleader geschikt voor kleine teams van 2-3 personen?"
+  - q: "Is Teamleader geschikt voor kleine teams van 2-3 personen?"
     a: "Teamleader heeft een minimum van 2 gebruikers en werkt goed voor kleine teams als je alle functies benut. Voor een freelancer of eenmansbedrijf is Teamleader overkill en te duur. Pipedrive is voor kleine salesteams toegankelijker qua prijs en complexiteit."
-  - question: "Heeft Pipedrive facturatiemogelijkheden?"
+  - q: "Heeft Pipedrive facturatiemogelijkheden?"
     a: "Pipedrive heeft een basismodule voor offertes en deals, maar geen volwaardige facturatie. Je kunt Pipedrive koppelen met externe facturatiesoftware zoals e-Boekhouden of Moneybird. Teamleader heeft ingebouwde facturatie — een significante functieverschil."
-  - question: "Welke is beter voor een dienstverlenend MKB-bedrijf?"
+  - q: "Welke is beter voor een dienstverlenend MKB-bedrijf?"
     a: "Voor een dienstverlenend bedrijf dat projecten bijhoudt, uren registreert en factureert op basis van bestede tijd, is Teamleader superieur. Pipedrive focust op het verkoopproces; zodra de deal getekend is, helpt het weinig bij de uitvoering. Voor bedrijven waarbij uitvoering even belangrijk is als verkoop, is Teamleader beter."
-  - question: "Kan ik van Pipedrive naar Teamleader migreren?"
+  - q: "Kan ik van Pipedrive naar Teamleader migreren?"
     a: "Ja, maar het vereist planning. Teamleader heeft importtools voor contacten en deals. De migratie van actieve salesdata duurt gemiddeld een halve tot volledige dag. Plan de migratie aan het einde van een kwartaal om verstoringen te minimaliseren."
 ---
 

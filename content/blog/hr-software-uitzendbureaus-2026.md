@@ -373,7 +373,7 @@ Mijn eindadvies per situatie:
 
 > **Wil je ook de loonadministratie optimaliseren?** SnelStart Go is een lichtgewichter optie voor de financiële administratie naast je uitzend-specifieke HR-software. Zeker voor kleinere bureaus die hun boekhouding eenvoudig willen houden.
 
-<a href="https://www.snelstart.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk SnelStart Go →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk SnelStart Go →</a>
 
 Software voor uitzendbureaus vergt een weloverwogen keuze. Investeer in een goede demo bij minimaal twee leveranciers, vraag expliciet naar CAO-updates en WTZA-compliance, en reken implementatiekosten en -tijd mee in je totaalbudget.
 

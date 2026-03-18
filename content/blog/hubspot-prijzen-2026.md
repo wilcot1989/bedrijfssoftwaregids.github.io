@@ -339,7 +339,7 @@ HubSpot is het waard als:
 
 Dit is de sectie die ik het vaakst nodig heb.
 
-**Je hebt alleen een sales CRM nodig.** Als je primaire behoefte pipeline-beheer is — deals bijhouden, e-mails loggen, activiteiten plannen — dan betaal je bij HubSpot Professional voor een heleboel functies die je nooit gebruikt. <a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Pipedrive vanaf €14/mnd →</a> Pipedrive doet dit beter voor een fractie van de prijs. Lees ook mijn [Pipedrive prijzen overzicht](/blog/pipedrive-prijzen-2026/) voor een gedetailleerde vergelijking.
+**Je hebt alleen een sales CRM nodig.** Als je primaire behoefte pipeline-beheer is — deals bijhouden, e-mails loggen, activiteiten plannen — dan betaal je bij HubSpot Professional voor een heleboel functies die je nooit gebruikt. <a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Pipedrive vanaf €14/mnd →</a> Pipedrive doet dit beter voor een fractie van de prijs. Lees ook mijn [Pipedrive prijzen overzicht](/blog/pipedrive-prijzen-2026/) voor een gedetailleerde vergelijking.
 
 **Je doet outbound sales.** Voor teams die puur op outbound werken — bellen, e-mailcampagnes, opvolgen — is HubSpot overdesigned. <a href="https://refer.close.com/p2kcrnz6lksy" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Close CRM →</a> Close CRM is specifiek gebouwd voor outbound en heeft ingebouwde telefonie, power dialer en e-mailsequenties die HubSpot op dit vlak overtreffen. Zie ook mijn [Close CRM vs Pipedrive vergelijking](/blog/close-crm-vs-pipedrive-2026/).
 

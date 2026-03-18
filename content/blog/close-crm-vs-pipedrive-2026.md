@@ -22,7 +22,7 @@ products:
     price: "29.00"
   - name: "Pipedrive"
     description: "Visuele sales CRM met drag-and-drop pipeline en uitgebreide integraties."
-    url: "https://www.pipedrive.com/nl"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
     price: "14.00"
     rating_value: "4.5"
     rating_count: "1842"
@@ -115,7 +115,7 @@ Het centrale idee bij Pipedrive is even simpel als krachtig: elke deal heeft een
 
 Wat Pipedrive niet heeft: ingebouwde cold-calling functies, een Power Dialer, native SMS, of serieuze e-mail sequences zonder add-on. Pipedrive is het sterkste bij het beheren van deals; Close is het sterkste bij het initiëren van gesprekken.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ---
 
@@ -312,7 +312,7 @@ Pipedrive heeft een bredere doelgroep en past bij veel meer situaties dan Close:
 
 Wil je Pipedrive vergelijken met andere opties? Lees [Pipedrive vs Monday CRM](/blog/pipedrive-vs-monday-crm-2026/) of de uitgebreide [HubSpot vs Pipedrive vergelijking](/blog/hubspot-vs-pipedrive-2026/).
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ---
 

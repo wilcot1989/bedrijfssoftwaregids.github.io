@@ -18,7 +18,7 @@ featured_image: "/images/categories/crm.svg"
 products:
   - name: "Pipedrive"
     description: "CRM-software gericht op verkoopteams met visuele pipeline, automatisering en integraties."
-    url: "https://www.pipedrive.com/nl"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
     price: "14.00"
     rating_value: "4.5"
     rating_count: "1842"
@@ -356,7 +356,7 @@ Het verschil tussen maandelijks en jaarlijks betalen is substantieel. Profession
 
 Pipedrive biedt 14 dagen gratis proberen zonder creditcard, op elk plan. Gebruik die twee weken intensief: voer echte deals in, test de automatiseringen, koppel je e-mail, probeer de mobiele app. Een beslissing nemen na actief gebruik van het product voorkomt dat je na drie maanden ontdekt dat het plan niet past.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ---
 
@@ -378,7 +378,7 @@ De meeste Nederlandse MKB-teams die ik zie, komen goed uit met Advanced of Profe
 
 Bekijk ook het volledige overzicht van [CRM-categorieën](/categories/crm/) of lees de [CRM-sectorpagina](/sectoren/crm/) voor context per branche. Wil je weten welk pakket bij jouw specifieke situatie past? De [CRM keuzehulp](/tools/crm/keuzehulp/) geeft je in vijf vragen een concreet advies.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ---
 

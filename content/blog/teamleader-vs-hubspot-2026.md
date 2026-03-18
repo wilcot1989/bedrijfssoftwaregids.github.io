@@ -87,7 +87,7 @@ Een veelgemaakte fout is dat bedrijven beginnen met het gratis plan, ingroeien, 
 
 Voor teams van 2-10 personen die zowel CRM als projectbeheer en facturatie nodig hebben, is **Teamleader duidelijk goedkoper** dan een vergelijkbare HubSpot-setup. Als je puur het gratis HubSpot CRM-plan kunt gebruiken, wint HubSpot uiteraard op prijs. Maar in de praktijk heeft de meerderheid van de teams meer nodig dan het gratis plan biedt.
 
-Als je budget de hoofdrol speelt en je puur naar CRM en salespijplijn zoekt, overweeg dan ook <a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Pipedrive</a>, dat start vanaf ~€14/gebruiker/maand met goede automatisering en een eerlijker prijsstructuur.
+Als je budget de hoofdrol speelt en je puur naar CRM en salespijplijn zoekt, overweeg dan ook <a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Pipedrive</a>, dat start vanaf ~€14/gebruiker/maand met goede automatisering en een eerlijker prijsstructuur.
 
 ---
 
@@ -345,7 +345,7 @@ Concrete voorbeelden die passen bij HubSpot: SaaS-bedrijf, e-commerce met actiev
 
 Eerlijk gezegd is er een derde scenario dat ik bij veel bedrijven tegenkom: ze hebben geen behoefte aan de complexe projectmodule van Teamleader, maar vinden HubSpot te duur of te complex voor hun salesteam.
 
-In dat geval is <a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Pipedrive</a> vaak de meest praktische keuze. Pipedrive:
+In dat geval is <a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Pipedrive</a> vaak de meest praktische keuze. Pipedrive:
 
 - Start vanaf ~€14/gebruiker/maand met serieuze functies
 - Is intuïtiever dan zowel Teamleader als HubSpot voor pure sales
@@ -390,7 +390,7 @@ Na jaren van MKB-implementaties kom ik steeds op dezelfde conclusie: **de beste 
 
 **Kies HubSpot als** marketing automation de kern is van hoe je leads genereert en nurturt, je internationaal opereert, of je wil beginnen met een gratis CRM en later beslissen. Wees wel voorbereid op de prijsschok zodra je meer nodig hebt dan het gratis plan.
 
-**Kies Pipedrive als** je primair naar een sales-CRM zoekt zonder de overhead van projectmodules of de complexiteit van HubSpot. <a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Pipedrive →</a>
+**Kies Pipedrive als** je primair naar een sales-CRM zoekt zonder de overhead van projectmodules of de complexiteit van HubSpot. <a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Pipedrive →</a>
 
 Wil je meer weten over de bredere CRM-markt in Nederland? Bekijk mijn overzicht van de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/) of filter direct via de [CRM-categoriepagina](/categories/crm/) voor alle vergelijkingen en reviews.
 

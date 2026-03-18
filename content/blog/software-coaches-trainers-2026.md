@@ -149,7 +149,7 @@ Lees ook mijn uitgebreide [Pipedrive review 2026](/blog/pipedrive-review-2026/) 
 
 > **Pipedrive proberen?** Start een gratis proefperiode van 14 dagen en ontdek hoe de visuele pijplijn werkt voor jouw coachingspraktijk.
 
-<a href="https://www.pipedrive.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Start gratis Pipedrive trial →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow" class="cta-affiliate">Start gratis Pipedrive trial →</a>
 
 ---
 
@@ -317,7 +317,7 @@ Totale kosten: circa €57 per maand.
 
 > **Wil je Google Workspace koppelen aan je coachingspraktijk?** Google Workspace geeft je een professioneel e-mailadres (@jouwcoachingsnaam.nl), gedeelde agenda's, Drive-opslag voor cliëntdossiers en Google Meet zonder tijdslimiet. Als je al een Pipedrive abonnement hebt, integreert Google Workspace naadloos.
 
-<a href="https://workspace.google.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Google Workspace voor coaches →</a>
+<a href="https://www.dpbolvw.net/click-101698621-13855808" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Google Workspace voor coaches →</a>
 
 ### Trainer die groepstrainingen geeft (meerdere deelnemers per sessie)
 

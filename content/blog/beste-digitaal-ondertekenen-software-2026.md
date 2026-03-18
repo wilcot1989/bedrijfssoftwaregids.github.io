@@ -170,7 +170,7 @@ Twijfel je voor een specifiek document? Raadpleeg een jurist of notaris.
 
 Als je DocuSign combineert met Google Workspace voor documentbeheer, heb je een krachtige digitale werkplek:
 
-<a href="https://workspace.google.com/intl/nl/" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Google Workspace — inclusief Google Docs integratie met e-signature tools</a>
+<a href="https://www.dpbolvw.net/click-101698621-13855808" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Google Workspace — inclusief Google Docs integratie met e-signature tools</a>
 
 ---
 
@@ -373,7 +373,7 @@ Digitale handtekeningen zijn het meest waardevol als ze geïntegreerd zijn in je
 
 DocuSign en Ondertekenen.nl integreren direct met Google Drive. Je slaat je documenten op in Drive, verstuurt ter ondertekening, en het getekende document wordt automatisch opgeslagen in de juiste Google Drive-map. In combinatie met Gmail voor notificaties en Google Sheets voor contractoverzichten heb je een krachtige, goedkope contractworkflow.
 
-<a href="https://workspace.google.com/intl/nl/" rel="noopener nofollow sponsored" class="cta-affiliate">Combineer Google Workspace met e-signature voor een complete documentworkflow — probeer 14 dagen gratis</a>
+<a href="https://www.dpbolvw.net/click-101698621-13855808" rel="noopener nofollow sponsored" class="cta-affiliate">Combineer Google Workspace met e-signature voor een complete documentworkflow — probeer 14 dagen gratis</a>
 
 ### Koppeling met CRM
 
@@ -471,7 +471,7 @@ Mijn aanbevelingen per profiel:
 
 Wil je digitaal ondertekenen combineren met een volledig digitale documentworkflow? Koppel je e-signature tool aan Google Workspace voor documentopslag, samenwerking en archivering:
 
-<a href="https://workspace.google.com/intl/nl/" rel="noopener nofollow sponsored" class="cta-affiliate">Ontdek Google Workspace — de basis van een papierloze werkplek</a>
+<a href="https://www.dpbolvw.net/click-101698621-13855808" rel="noopener nofollow sponsored" class="cta-affiliate">Ontdek Google Workspace — de basis van een papierloze werkplek</a>
 
 ---
 

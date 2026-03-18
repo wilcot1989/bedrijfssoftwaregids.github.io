@@ -112,7 +112,7 @@ Voor een advocatenkantoor van 2 tot 15 personen dat een stabiel, betaalbaar syst
 - Advanced: €34/gebruiker/mnd (aanbevolen voor advocaten — e-mailautomatisering en workflows inbegrepen)
 - Professional: €49/gebruiker/mnd
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 Lees ook mijn uitgebreide [Pipedrive review 2026](/blog/pipedrive-review-2026/) voor een volledig beeld van functies en gebruikerservaringen.
 
@@ -427,7 +427,7 @@ De terugverdientijd was vier maanden.
 
 Voor de meeste Nederlandse advocatenkantoren zijn er twee duidelijke keuzes:
 
-**Kies Pipedrive** als je een betaalbaar, flexibel CRM wil dat je zelf inricht en koppelt aan de tools die je al gebruikt. De [Pipedrive 14 dagen gratis proefperiode](https://www.pipedrive.com/nl) geeft je genoeg tijd om te beoordelen of het past.
+**Kies Pipedrive** als je een betaalbaar, flexibel CRM wil dat je zelf inricht en koppelt aan de tools die je al gebruikt. De [Pipedrive 14 dagen gratis proefperiode](https://aff.trypipedrive.com/65scdzrtiyaj) geeft je genoeg tijd om te beoordelen of het past.
 
 **Kies Teamleader** als je de combinatie van CRM, tijdregistratie en facturatie in één Nederlands pakket wil, zonder losse koppelingen te moeten beheren.
 
@@ -441,4 +441,4 @@ Voor wie overweegt te kiezen tussen Pipedrive en een alternatief: mijn [Close CR
 
 ---
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>

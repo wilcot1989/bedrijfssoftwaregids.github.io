@@ -385,7 +385,7 @@ MailerLite is een sterke generalistische keuze, maar niet voor iedereen de beste
 
 **Je zit al diep in het Google- of Meta-ecosysteem**: Sommige alternatieven bieden betere native integraties met advertentieplatforms.
 
-<a href="https://www.brevo.com/nl/pricing/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Vergelijk Brevo prijzen gratis →</a>
+<a href="https://get.brevo.com/0rdgkq6hwdei" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Vergelijk Brevo prijzen gratis →</a>
 
 <a href="https://try.activecampaign.com/bxnnvkmbvwyf" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ActiveCampaign 14 dagen gratis →</a>
 

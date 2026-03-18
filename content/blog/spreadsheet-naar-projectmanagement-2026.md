@@ -271,7 +271,7 @@ Na tientallen implementaties bij mkb-bedrijven kom ik consistent terug bij Click
 
 **Nederlandse markt:** ClickUp heeft een Nederlandstalige interface en de community is actief. Er zijn Nederlandse consultants beschikbaar voor implementatiehulp.
 
-<a href="https://clickup.com/?ref=bsg" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ClickUp gratis — geen creditcard nodig →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ClickUp gratis — geen creditcard nodig →</a>
 
 ## Praktijkcase: hoe een marketingbureau migreerde in drie weken
 

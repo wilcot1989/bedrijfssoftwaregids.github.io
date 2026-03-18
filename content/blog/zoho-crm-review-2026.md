@@ -260,7 +260,7 @@ Ik zeg het recht voor z'n raap: voor de meeste Nederlandse MKB-bedrijven die ik 
 
 Teams starten sneller. Gebruikers accepteren het systeem beter. De Nederlandse interface verlaagt de drempel. Automatisering is makkelijker te configureren. En de Trustpilot-score van 4,5 versus 3,5 voor Zoho weerspiegelt reële gebruikerservaringen.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Pipedrive →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Pipedrive →</a>
 
 Zoho CRM wint wanneer: je een beperkt budget hebt en veel functies nodig hebt, je het Zoho-ecosysteem breder wil benutten (Zoho One), je complexe meerstapsprocessen hebt die blueprints vereisen, of je team technisch vaardig is en de leercurve aankan.
 
@@ -347,7 +347,7 @@ De functies zijn er. De prijs is goed. Het ecosysteem is indrukwekkend. Maar de 
 
 **Verkoopteam dat snel wil starten:** Kies Pipedrive. Goedkoper instapniveau voor serieuze sales-functionaliteit, volledig in het Nederlands, en de gemiddelde implementatietijd is een fractie van Zoho CRM.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Pipedrive →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Pipedrive →</a>
 
 Twijfel je welk CRM het beste bij jouw situatie past? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) voor een persoonlijke aanbeveling, of bekijk het volledige overzicht op de [CRM-categoriepagina](/categories/crm/).
 

@@ -148,7 +148,7 @@ Lees mijn uitgebreide [SnelStart review 2026](/blog/snelstart-review-2026/) voor
 
 > **SnelStart gratis proberen?** SnelStart biedt een gratis proefperiode waarbij je alle functies kunt verkennen voor je een keuze maakt. Ideaal voor een nieuwe penningmeester die wil nagaan of het systeem past bij de behoeften van de vereniging.
 
-<a href="https://www.snelstart.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Start gratis SnelStart proefperiode →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow" class="cta-affiliate">Start gratis SnelStart proefperiode →</a>
 
 ---
 
@@ -362,7 +362,7 @@ Mijn eindadvies:
 
 > **Wil je ook de loonadministratie vergelijken?** Als je als vereniging personeel in dienst hebt, lees dan ook mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers 2026](/blog/beste-boekhoudsoftware-zzp-2026/) en bekijk de [SnelStart review](/blog/snelstart-review-2026/) voor meer informatie over de loonadministratiefuncties.
 
-<a href="https://www.snelstart.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk SnelStart voor uw vereniging →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk SnelStart voor uw vereniging →</a>
 
 ## Veelgemaakte fouten bij de boekhouding van verenigingen
 

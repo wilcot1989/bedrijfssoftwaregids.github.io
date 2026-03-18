@@ -311,7 +311,7 @@ Als AFAS te duur is voor jouw situatie, zijn er serieuze alternatieven.
 
 **Voor kleine bedrijven die lichtgewicht willen starten**: SnelStart Go is een betaalbare keuze voor ondernemer die gewoon een eenvoudige personeelsadministratie willen koppelen aan hun boekhouding zonder grote implementatietrajecten.
 
-<a href="https://www.snelstart.nl/go" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart Go gratis →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart Go gratis →</a>
 
 ---
 

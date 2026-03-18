@@ -104,7 +104,7 @@ Pipedrive is niet gebouwd voor accountants, maar het is een uitstekend generalis
 
 Lees mijn uitgebreide [Pipedrive review 2026](/blog/pipedrive-review-2026/) voor een volledig beeld van alle functies en prijzen.
 
-<a href="https://www.pipedrive.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ---
 
