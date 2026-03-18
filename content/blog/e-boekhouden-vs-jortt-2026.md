@@ -1,5 +1,5 @@
 ---
-title: "e-Boekhouden vs Jortt 2026: Welke boekhoudsoftware past bij jou?"
+title: "e-Boekhouden vs Jortt 2026: Vergeleken"
 description: "Uitgebreide vergelijking van e-Boekhouden en Jortt. Prijs, functies, gebruiksgemak en meer — alles vergeleken voor ZZP'ers en MKB in Nederland."
 date: 2026-03-18
 lastmod: 2026-03-18
@@ -25,7 +25,7 @@ faq:
     answer: "e-Boekhouden heeft een mobiele app voor iOS en Android. Jortt werkt primair via de browser en heeft een beperkte mobiele weergave, maar geen volwaardige native app."
 ---
 
-Vorig jaar hielp ik een fotograaf die al drie jaar zijn administratie deed op papier. Letterlijk: een schrift met inkomsten en uitgaven. Hij was klaar voor software, maar had geen idee waar hij moest beginnen. Ik heb hem uiteindelijk door drie pakketten geleid voordat we tot een beslissing kwamen. e-Boekhouden en Jortt kwamen allebei voorbij — en het verschil was groter dan ik van tevoren had verwacht. In dit artikel leg ik precies uit waar die twee van elkaar verschillen, welke prijs je echt betaalt, en welk pakket past bij wat voor soort ondernemer.
+Vorig jaar hielp ik een fotograaf die al drie jaar zijn administratie deed op papier. Letterlijk: een schrift met inkomsten en uitgaven. Hij was klaar voor software, maar had geen idee waar hij moest beginnen. Ik heb hem uiteindelijk door drie pakketten geleid voordat we tot een beslissing kwamen. [e-Boekhouden](/blog/e-boekhouden-review-2026/) en [Jortt](/blog/beste-boekhoudsoftware-zzp-2026/) kwamen allebei voorbij — en het verschil was groter dan ik van tevoren had verwacht. In dit artikel leg ik precies uit waar die twee van elkaar verschillen, welke prijs je echt betaalt, en welk pakket past bij wat voor soort ondernemer.
 
 ## Snel vergelijken: e-Boekhouden vs Jortt
 
@@ -360,6 +360,32 @@ Na deze uitgebreide vergelijking durf ik een heldere lijn te trekken:
 **Als je een kleine onderneming hebt met medewerkers of complexe administratie:** e-Boekhouden Uitgebreid of overweeg ook SnelStart.
 
 Wil je Jortt proberen? <a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Jortt →</a>
+
+## Veelgestelde vragen
+
+### Wat is goedkoper: e-Boekhouden of Jortt?
+
+Jortt heeft een gratis basisplan voor freelancers met weinig facturen. e-Boekhouden kost €9,95 per maand maar biedt meer functies. Voor starters is Jortt Free goedkoper; voor groeiende ZZP'ers of MKB is e-Boekhouden op jaarbasis voordeliger.
+
+### Is Jortt geschikt voor MKB of alleen voor ZZP?
+
+Jortt is primair ontworpen voor ZZP'ers en kleine freelancers. Het mist functies zoals voorraadbeheer en uitgebreide projectadministratie die MKB-bedrijven doorgaans nodig hebben. e-Boekhouden schaalt beter naar kleine en middelgrote ondernemingen.
+
+### Kan ik mijn boekhouder toegang geven in beide pakketten?
+
+Ja, beide pakketten bieden een accountantslogin. Bij e-Boekhouden is dit inbegrepen; bij Jortt betaal je hier extra voor op hogere abonnementten.
+
+### Welk pakket heeft betere UiTV-integratie met Belastingdienst?
+
+Beide pakketten ondersteunen BTW-aangifte via Digipoort. e-Boekhouden heeft hier meer ervaring mee en biedt een langere staat van dienst op het gebied van fiscale compliance in Nederland.
+
+### Hoe lang duurt de overstap van het ene naar het andere pakket?
+
+Een volledige migratie van openstaande posten, klantgegevens en historische boekingen duurt gemiddeld 2-8 uur afhankelijk van de omvang van je administratie. Beide aanbieders hebben importtools voor CSV-bestanden.
+
+### Hebben e-Boekhouden en Jortt een mobiele app?
+
+e-Boekhouden heeft een mobiele app voor iOS en Android. Jortt werkt primair via de browser en heeft een beperkte mobiele weergave, maar geen volwaardige native app.
 
 ## Lees ook
 

@@ -31,7 +31,7 @@ faq:
     a: "HubSpot is hier veruit de sterkste. E-mailcampagnes, lead nurturing flows, landing pages, lead scoring — dit is HubSpot's kernkracht. Close heeft sterke sales sequences, maar echte marketing automation ontbreekt. Als marketing automation prioriteit is, kies dan HubSpot."
 ---
 
-Twee jaar geleden begeleidde ik een softwarebedrijf in Amsterdam bij een cruciale keuze. Ze hadden HubSpot, betaalden €450 per maand voor 5 gebruikers, en vroegen zich af waarom hun SDR-team zo weinig deals sloot. Nadat ik een dag meekeek, was het antwoord duidelijk: ze gebruikten een marketingplatform voor inside sales. Ze schakelden over naar Close CRM. De belprestaties gingen met 40% omhoog in het eerste kwartaal.
+Twee jaar geleden begeleidde ik een softwarebedrijf in Amsterdam bij een cruciale keuze. Ze hadden [HubSpot](/blog/hubspot-prijzen-2026/), betaalden €450 per maand voor 5 gebruikers, en vroegen zich af waarom hun SDR-team zo weinig deals sloot. Nadat ik een dag meekeek, was het antwoord duidelijk: ze gebruikten een marketingplatform voor inside sales. Ze schakelden over naar [Close CRM](/blog/close-crm-review-2026/). De belprestaties gingen met 40% omhoog in het eerste kwartaal.
 
 Maar twee maanden later belde het marketingteam mij in paniek. Ze misten de e-mailcampagnes, de lead scoring, de landingspagina's. Close kon dat niet leveren.
 
@@ -334,6 +334,32 @@ En als je beide nodig hebt? Dan ben je een middelgroot bedrijf en is HubSpot Pro
 <a href="https://refer.close.com/p2kcrnz6lksy" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Close CRM →</a>
 
 Vergelijk meer CRM-opties? Gebruik de **[CRM keuzehulp](/tools/crm/keuzehulp/)**, bekijk de **[HubSpot prijzenpagina](/blog/hubspot-prijzen-2026/)** of lees de **[volledige CRM vergelijking](/categories/crm/)**.
+
+## Veelgestelde vragen
+
+### Is HubSpot beter dan Close CRM?
+
+Dat hangt volledig af van je verkoopproces. HubSpot is beter als je marketing en sales wilt combineren in één platform met inbound lead nurturing. Close CRM is beter als je een dedicated inside sales team hebt dat dagelijks belt, mailt en SMS-campagnes draait. Voor de meeste Nederlandse MKB-bedrijven is HubSpot de bredere keuze; voor outbound-gedreven salesteams wint Close op focused functionaliteit.
+
+### Wat kost Close CRM versus HubSpot?
+
+Close CRM begint bij $29/gebruiker/maand (Startup). HubSpot Sales Hub begint bij €15/gebruiker/maand (Starter) met een gratis basisplan. Op papier is HubSpot goedkoper, maar zodra je bij HubSpot serieuze automatiseringen wilt, betaal je €90/gebruiker/maand (Professional). Close heeft alle kernfuncties inclusief bellen vanaf $29. Bereken je totale kosten op basis van teamgrootte en benodigde functies.
+
+### Heeft Close CRM een Nederlandstalige interface?
+
+Nee, Close CRM is alleen beschikbaar in het Engels. HubSpot biedt wel een Nederlandse interface. Voor bedrijven waar een Nederlandse interface vereist is, is HubSpot de enige optie van deze twee.
+
+### Welke CRM is beter voor inside sales?
+
+Close CRM is gebouwd voor inside sales. De ingebouwde Power Dialer, e-mail sequences en SMS — alles vanuit één interface — zijn uniek in dit prijssegment. HubSpot biedt vergelijkbare functies pas in het dure Professional-plan en vereist vaak extra tools voor serieuze belfunctionaliteit.
+
+### Kan ik bellen vanuit HubSpot?
+
+Ja, HubSpot heeft een ingebouwde belmodule, maar de serieuze belfuncties zoals een Power Dialer zijn er niet. Voor teams die 30+ calls per dag doen is Close CRM duidelijk superieur. HubSpot's belfunctie is meer een handige aanvulling dan een volwaardige inside sales tool.
+
+### Welke CRM heeft betere marketing automation — HubSpot of Close?
+
+HubSpot is hier veruit de sterkste. E-mailcampagnes, lead nurturing flows, landing pages, lead scoring — dit is HubSpot's kernkracht. Close heeft sterke sales sequences, maar echte marketing automation ontbreekt. Als marketing automation prioriteit is, kies dan HubSpot.
 
 ## Lees ook
 
