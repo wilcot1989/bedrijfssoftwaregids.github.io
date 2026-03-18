@@ -8,7 +8,7 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 categories: ["boekhouding"]
 tags: ["e-boekhouden", "snelstart", "boekhoudsoftware", "zzp", "mkb", "vergelijking"]
 affiliate: true
-featured_image: "/images/categories/boekhouding.jpg"
+featured_image: "/images/categories/boekhouding.svg"
 draft: false
 faq:
   - question: "Wat is het grootste verschil tussen e-Boekhouden en SnelStart?"

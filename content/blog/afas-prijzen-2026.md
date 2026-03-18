@@ -22,7 +22,7 @@ aliases:
 affiliate: true
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Waarom publiceert AFAS geen prijzen?"
     a: "AFAS verkoopt altijd via een netwerk van gecertificeerde implementatiepartners, niet direct aan eindklanten. De prijs hangt sterk af van het aantal modules, het aantal gebruikers, de complexiteit van de organisatie en de implementatiepartner. Een vaste lijstprijs zou misleidend zijn. Dat is de officiële reden — maar eerlijk gezegd is het ook een strategische keuze: door geen prijzen te publiceren dwingen ze potentiële klanten in gesprek te gaan."

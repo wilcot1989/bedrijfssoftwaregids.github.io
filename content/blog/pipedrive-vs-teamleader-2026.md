@@ -8,7 +8,7 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 categories: ["crm"]
 tags: ["pipedrive", "teamleader", "crm-software", "mkb", "vergelijking"]
 affiliate: true
-featured_image: "/images/categories/crm.jpg"
+featured_image: "/images/categories/crm.svg"
 draft: false
 faq:
   - question: "Wat is het fundamentele verschil tussen Pipedrive en Teamleader?"

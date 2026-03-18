@@ -23,7 +23,7 @@ aliases:
 affiliate: true
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat kost Personio per maand?"
     a: "Personio publiceert geen vaste prijzen. Op basis van marktinformatie en klantgesprekken liggen de kosten doorgaans tussen de €6 en €12 per medewerker per maand, afhankelijk van welke modules je afneemt. Bij 50 medewerkers en een middenmodule reken je op €300 tot €600 per maand, exclusief implementatiekosten. Je vraagt altijd een offerte aan via hun website."

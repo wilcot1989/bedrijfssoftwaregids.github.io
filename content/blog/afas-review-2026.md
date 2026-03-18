@@ -23,7 +23,7 @@ aliases:
 affiliate: true
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat kost AFAS Software per maand?"
     a: "AFAS publiceert geen openbare prijzen. De kosten zijn afhankelijk van het aantal modules, gebruikers en de bedrijfsgrootte. Op basis van marktinformatie en klantgesprekken liggen de maandelijkse kosten doorgaans tussen de €150 en €800+ per maand voor MKB-bedrijven, exclusief implementatiekosten. Een realistisch instapbudget inclusief implementatie is €5.000 tot €15.000 voor het eerste jaar."

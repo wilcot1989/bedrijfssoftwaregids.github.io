@@ -17,7 +17,7 @@ aliases:
 affiliate: true
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat is het grootste verschil tussen Nmbrs en AFAS Payroll?"
     a: "Nmbrs is primair een standalone payroll-tool, geoptimaliseerd voor salarisadministratie via accountants en HR-adviseurs. AFAS is een volledig ERP-platform waarbij Payroll één module is naast HRM, CRM, financiële administratie en meer. Nmbrs is eenvoudiger en goedkoper te implementeren; AFAS biedt meer integratie maar vraagt een grotere investering."

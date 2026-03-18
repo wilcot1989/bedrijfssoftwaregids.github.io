@@ -8,7 +8,7 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 categories: ["boekhouding"]
 tags: ["moneybird", "jortt", "boekhoudsoftware", "zzp", "vergelijking"]
 affiliate: true
-featured_image: "/images/categories/boekhouding.jpg"
+featured_image: "/images/categories/boekhouding.svg"
 draft: false
 faq:
   - question: "Wat is het grote verschil tussen Moneybird en Jortt?"

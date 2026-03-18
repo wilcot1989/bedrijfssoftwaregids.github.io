@@ -8,7 +8,7 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 categories: ["crm"]
 tags: ["pipedrive", "zoho-crm", "crm-software", "sales", "vergelijking"]
 affiliate: true
-featured_image: "/images/categories/crm.jpg"
+featured_image: "/images/categories/crm.svg"
 draft: false
 faq:
   - question: "Is Pipedrive of Zoho CRM goedkoper?"

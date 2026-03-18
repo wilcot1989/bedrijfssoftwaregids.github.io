@@ -14,7 +14,7 @@ aliases:
 affiliate: true
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat maakt HR-software voor uitzendbureaus anders dan reguliere HR-software?"
     a: "Uitzendbureaus hebben te maken met drie partijen tegelijk: de flexwerker, het uitzendbureau zelf, en de opdrachtgever. Software moet uren per flexwerker per opdrachtgever bijhouden, loon berekenen conform ABU of NBBU-CAO (met inlenersbeloning), en declaraties genereren voor opdrachtgevers. Reguliere HR-software is gebouwd voor één werkgever-werknemer relatie en mist deze driehoeksconstructie."

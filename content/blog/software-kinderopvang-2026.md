@@ -16,7 +16,7 @@ aliases:
 affiliate: true
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Welke software is het beste voor kleine kinderopvang of gastouder?"
     a: "Voor gastouders en kleine opvanglocaties tot circa 20 kinderen is Konnect een populaire keuze vanwege de eenvoud en het eerlijke prijsmodel. Bitcare is ook geschikt voor kleine organisaties. Flexkids heeft een gastoudermodule maar is meer gericht op middelgrote organisaties. AFAS is voor kleine kinderopvang te zwaar en te duur."

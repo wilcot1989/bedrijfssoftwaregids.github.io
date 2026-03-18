@@ -24,7 +24,7 @@ aliases:
 affiliate: true
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
-featured_image: "/images/categories/hr.svg"
+featured_image: "/images/categories/hr-software.svg"
 faq:
   - q: "Wat kost Nmbrs per maand?"
     a: "Nmbrs publiceert geen vaste consumentenprijzen. De software wordt uitsluitend via accountants en gecertificeerde loonservicekantoren aangeboden. Marktinformatie wijst op kosten van ruwweg €5 tot €10 per medewerker per maand, afhankelijk van de dienstverlening van de tussenpersoon. Directe aanschaf als eindgebruiker is niet mogelijk."
