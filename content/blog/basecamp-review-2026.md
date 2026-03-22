@@ -1,6 +1,6 @@
 ---
 title: "Basecamp Review 2026: Eerlijk Oordeel na Testen"
-date: 2026-03-26
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-03-26
 description: "Basecamp getest: flat pricing, Hill Charts en Shape Up beoordeeld. Eerlijk oordeel voor remote teams en mkb. Is Basecamp het waard in 2026?"
 categories: ["projectmanagement"]

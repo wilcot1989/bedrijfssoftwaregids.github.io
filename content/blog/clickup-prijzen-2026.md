@@ -1,6 +1,6 @@
 ---
 title: "ClickUp Prijzen 2026: Gratis vs Betaald"
-date: 2026-04-07
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-07
 description: "ClickUp prijzen 2026: Free Forever vs Unlimited vs Business vs Enterprise vergeleken. Wat mis je gratis en wanneer is upgraden de moeite waard?"
 categories: ["projectmanagement"]

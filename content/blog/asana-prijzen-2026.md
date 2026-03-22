@@ -1,6 +1,6 @@
 ---
 title: "Asana Prijzen 2026: Alle Plannen Vergeleken"
-date: 2026-04-06
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-06
 description: "Asana prijzen 2026: alle plannen, verborgen kosten en per-user vergelijking. Wanneer upgraden en hoe Asana zich meet met Monday.com en ClickUp."
 categories: ["projectmanagement"]

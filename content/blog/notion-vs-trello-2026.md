@@ -1,6 +1,6 @@
 ---
 title: "Notion vs Trello 2026: Flexibel vs Simpel"
-date: 2026-04-01
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-01
 description: "Notion vs Trello 2026 vergeleken: flexibele databases versus eenvoudige Kanban-borden. Leercurve, templates, prijs en gebruik per teamtype."
 categories: ["projectmanagement"]

@@ -1,6 +1,6 @@
 ---
 title: "ClickUp vs Jira 2026: All-in-One vs Specialist"
-date: 2026-04-03
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-03
 description: "ClickUp vs Jira 2026: alles-in-één platform vs developer-specialist vergeleken. Prijzen, AI, Agile-diepgang en welke tool past bij jouw team."
 categories:

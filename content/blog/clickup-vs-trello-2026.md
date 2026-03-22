@@ -1,6 +1,6 @@
 ---
 title: "ClickUp vs Trello 2026: Alles vs Eenvoud"
-date: 2026-04-05
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-05
 description: "ClickUp vs Trello 2026: feature-rijk all-in-one platform vs minimalistisch Kanban vergeleken op prijs, leercurve en wanneer welke tool past."
 categories:

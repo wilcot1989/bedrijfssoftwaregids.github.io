@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Planner Review 2026: Genoeg voor MKB?"
-date: 2026-03-25
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-03-25
 description: "Microsoft Planner review 2026: Kanban, Gantt en Teams-integratie getest. Is Planner genoeg voor MKB of mis je te veel functies tegenover Monday en Asana?"
 categories: ["projectmanagement"]

@@ -1,6 +1,6 @@
 ---
 title: "Teamwork Review 2026: PM voor Bureaus en Agencies"
-date: 2026-03-28
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-03-28
 description: "Teamwork review 2026: tijdregistratie, klantfacturatie en budgetbeheer voor agencies getest. Is dit de beste PM-tool voor bureaus in Nederland?"
 categories: ["projectmanagement"]

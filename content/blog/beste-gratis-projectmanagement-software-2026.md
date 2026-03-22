@@ -1,6 +1,6 @@
 ---
 title: "Beste Gratis Projectmanagement Software 2026"
-date: 2026-04-11
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-11
 description: "Beste gratis projectmanagement software 2026: alle gratis plannen eerlijk vergeleken. Asana, ClickUp, Trello, Notion, Jira, Monday en Planner naast elkaar."
 categories: ["projectmanagement"]

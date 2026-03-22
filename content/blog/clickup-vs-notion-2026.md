@@ -1,6 +1,6 @@
 ---
 title: "ClickUp vs Notion 2026: PM vs Alles-in-Één"
-date: 2026-03-31
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-03-31
 description: "ClickUp vs Notion 2026 vergeleken: dedicated projectmanagement vs alles-in-één workspace. AI-functies, prijs en leercurve eerlijk besproken."
 categories: ["projectmanagement"]

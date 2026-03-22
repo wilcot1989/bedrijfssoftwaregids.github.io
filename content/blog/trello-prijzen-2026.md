@@ -1,6 +1,6 @@
 ---
 title: "Trello Prijzen 2026: Alle Plannen Uitgelegd"
-date: 2026-04-08
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-08
 description: "Trello prijzen 2026: Free vs Standard vs Premium vs Enterprise vergeleken. Power-Ups limieten, verborgen kosten en wanneer upgraden de moeite waard is."
 categories: ["projectmanagement"]

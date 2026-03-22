@@ -1,6 +1,6 @@
 ---
 title: "Monday.com vs Trello 2026: Compleet vs Simpel"
-date: 2026-04-04
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-04
 description: "Monday.com vs Trello vergeleken: visueel projectmanagement vs eenvoudig Kanban. Prijzen, automations, dashboards en voor welk team welke tool past."
 categories:

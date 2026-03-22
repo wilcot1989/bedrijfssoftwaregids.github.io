@@ -1,6 +1,6 @@
 ---
 title: "Asana vs Jira 2026: PM vs Developer Tool"
-date: 2026-04-02
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-02
 description: "Asana vs Jira vergeleken: welke tool past bij jouw team? PM voor iedereen of developer-specialist? Prijzen, Agile, integraties en eerlijk verdict."
 categories:

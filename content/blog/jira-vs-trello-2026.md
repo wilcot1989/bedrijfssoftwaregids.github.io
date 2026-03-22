@@ -1,6 +1,6 @@
 ---
 title: "Jira vs Trello 2026: Developer vs Simpel"
-date: 2026-03-30
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-03-30
 description: "Jira vs Trello 2026 vergeleken: Scrum en Agile voor developers versus simpele Kanban voor iedereen. Welke kies jij?"
 categories: ["projectmanagement"]

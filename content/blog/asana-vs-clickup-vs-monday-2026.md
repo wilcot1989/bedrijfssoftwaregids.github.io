@@ -1,6 +1,6 @@
 ---
 title: "Asana vs ClickUp vs Monday.com 2026: De Strijd"
-date: 2026-04-10
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-10
 description: "Asana vs ClickUp vs Monday.com 2026: uitgebreide driewegs-vergelijking met prijstabel, features matrix, AI en helder advies per use case en sector."
 categories: ["projectmanagement"]

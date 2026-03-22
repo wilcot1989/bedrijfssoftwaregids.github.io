@@ -1,6 +1,6 @@
 ---
 title: "Asana vs Trello 2026: Welke Past bij Jou?"
-date: 2026-03-29
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-03-29
 description: "Asana vs Trello 2026 vergeleken op Kanban, functies, prijs en teamgrootte. Welke projectmanagement tool kies jij voor jouw team?"
 categories: ["projectmanagement"]

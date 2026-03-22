@@ -1,6 +1,6 @@
 ---
 title: "Jira Prijzen 2026: Gratis vs Premium"
-date: 2026-04-09
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-04-09
 description: "Jira prijzen 2026: Free (10 users) vs Standard vs Premium vs Enterprise vergeleken. Cloud vs Data Center kosten en wanneer upgraden zinvol is."
 categories: ["projectmanagement"]
