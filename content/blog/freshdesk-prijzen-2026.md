@@ -333,3 +333,5 @@ Als je wil weten hoe Freshdesk qua functies presteert, lees dan ook de [beste kl
 Thijs, mijn klant van het begin, koos uiteindelijk voor Freshdesk Growth. Acht maanden later heeft hij zijn gemiddelde reactietijd teruggebracht van 14 uur naar 2,5 uur. Tegen een maandkosten van €120.
 
 Dat is een vrij goede businesscase.
+
+<a href="https://www.freshdesk.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Freshdesk gratis →</a>

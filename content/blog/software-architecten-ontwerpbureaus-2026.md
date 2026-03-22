@@ -306,4 +306,5 @@ Ben je een klein of middelgroot bureau en wil je beginnen met een flexibele, bet
 
 Is acquisitie een belangrijk onderdeel van je bureauwerk? Pipedrive is een CRM dat specifiek voor verkoopgedreven teams is gebouwd, en koppelt eenvoudig aan projecttools als ClickUp of Monday.com.
 
-[Probeer Pipedrive 14 dagen gratis →](https://pipedrive.com)
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
+

@@ -552,3 +552,5 @@ Op basis van G2, Capterra en Trustpilot (NL):
 
 Voor de meeste Nederlandse MKB-bedrijven (50-300 medewerkers) is AFAS de praktischere keuze. YouForce is de betere keuze voor complexe, grote organisaties die bereid zijn te investeren in een grondigere implementatie.
 
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Exact Online als ERP-alternatief →</a>
+

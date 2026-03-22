@@ -286,4 +286,6 @@ Een ERP kiezen is geen softwarebeslissing — het is een bedrijfsbeslissing. De 
 
 Mijn advies: doorloop de acht vragen eerlijk en zonder te kijken naar wat concurrenten doen of wat leveranciers beloven. Als je die antwoorden helder hebt, wordt de keuze tussen AFAS, Exact, SAP of Odoo een stuk eenvoudiger.
 
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Exact Online voor MKB →</a>
+
 Start je zoektocht met de [beste ERP software MKB 2026](/blog/beste-erp-software-mkb-2026/) voor een overzicht van alle opties, of gebruik de [keuzehulp productiviteitssoftware](/categories/productiviteit/) om gericht te filteren op jouw bedrijfssituatie.

@@ -258,6 +258,8 @@ Een simpele rekensom: als betere offertesoftware (€25/mnd) je conversieratio v
 | Internationaal, geavanceerde functies | PandaDoc betaald | €29/mnd |
 | Doorgroei naar bureau | Teamleader | €50-65/gebruiker/mnd |
 
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
+
 Meer vergelijkingen vind je in [beste offerte software 2026](/blog/beste-offerte-software-2026/) en [beste facturatie software MKB 2026](/blog/beste-facturatie-software-mkb-2026/). Als je twijfelt over welke boekhoudtool het beste bij jouw situatie past, gebruik dan de [keuzehulp boekhoudsoftware](/tools/boekhouding/keuzehulp/). Voor een volledig overzicht van alle boekhoudsoftware-opties, zie de [categoriepagina boekhouding](/categories/boekhouding/).
 
 ---
@@ -266,4 +268,4 @@ Meer vergelijkingen vind je in [beste offerte software 2026](/blog/beste-offerte
 
 Voor ZZP'ers die actief acquireren en meerdere offertetrajecten tegelijk beheren. Pipedrive combineert pipeline management met offertebeheer. Probeer het 14 dagen gratis.
 
-[Probeer Pipedrive gratis →](https://pipedrive.com)
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>

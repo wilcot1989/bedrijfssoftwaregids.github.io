@@ -454,7 +454,7 @@ Het enige echte nadeel: de interface heeft een steile leercurve. ClickUp biedt o
 
 Probeer ClickUp gratis — geen creditcard nodig:
 
-<a href="https://clickup.com/pricing" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">ClickUp gratis proberen →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">ClickUp gratis proberen →</a>
 
 Wil je meer opties? Lees mijn overzicht van [de beste gratis projectmanagement software 2026](/blog/beste-gratis-projectmanagement-software-2026/) of bekijk de [Jira prijzen vergelijking](/blog/jira-prijzen-2026/). Bekijk ook de [Asana review 2026](/blog/asana-review-2026/) en de [Monday.com review 2026](/blog/monday-com-review-2026/) voor een eerlijk beeld van de alternatieven. En voor projectmanagement in specifieke sectoren: lees mijn artikel over [projectmanagement software voor bouwbedrijven 2026](/blog/projectmanagement-software-bouwbedrijven-2026/).
 

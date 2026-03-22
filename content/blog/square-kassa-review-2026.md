@@ -514,3 +514,5 @@ Na drie maanden intensief testen en gebruik bij meerdere klanten, is hier mijn d
 - Bedrijven boven €50.000 maandomzet (bereken de total cost of ownership)
 
 Square is geen perfecte tool, maar voor de prijs (gratis) is het ongeëvenaard. Probeer het gratis uit — de drempel is nul.
+
+<a href="https://squareup.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Square →</a>

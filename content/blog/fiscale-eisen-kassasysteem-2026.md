@@ -146,6 +146,10 @@ Als je op een van deze punten "nee" of "weet ik niet" antwoordt, is er werk aan 
 
 Het goede nieuws: de meeste moderne cloudkassasystemen voldoen technisch aan alle bovenstaande eisen. Lightspeed, Square, Untill, Orderbird — ze bewaren transactiedata centraal in de cloud, ze loggen annuleringen, en ze bieden exportfuncties die bij een boekenonderzoek bruikbaar zijn.
 
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed kassasysteem →</a>
+
+<a href="https://squareup.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Square gratis →</a>
+
 Het slechte nieuws: ze voldoen alleen als je ze correct hebt geconfigureerd. En dat is precies waar het bij de meeste ondernemers misgaat.
 
 Mijn concrete aanbevelingen:

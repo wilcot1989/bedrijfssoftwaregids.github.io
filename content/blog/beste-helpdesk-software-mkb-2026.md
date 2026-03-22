@@ -547,7 +547,7 @@ Wat je **niet** krijgt in het gratis plan: automatisering, collision detection, 
 
 Mijn advies: begin met Freshdesk Free en upgrades zodra je merkt dat je tegen de grenzen aanloopt. Die grens bereikt de meeste bedrijven binnen 3-6 maanden na de lancering.
 
-**Ga naar [freshdesk.com/nl](https://www.freshdesk.com/nl/)**
+<a href="https://www.freshdesk.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Freshdesk gratis →</a>
 
 ### Tawk.to — volledig gratis live chat, altijd
 

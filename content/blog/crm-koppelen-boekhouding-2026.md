@@ -204,7 +204,7 @@ Wil je meer weten over de beste CRM-opties voor Nederlandse bedrijven? Lees [bes
 
 Pipedrive is de meest gebruikte CRM bij Nederlandse MKB-bedrijven en koppelt eenvoudig aan Moneybird, Exact en andere boekhoudsoftware. Probeer het 14 dagen gratis.
 
-[Probeer Pipedrive gratis →](https://pipedrive.com)
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Pipedrive 14 dagen gratis →</a>
 
 ---
 
@@ -212,4 +212,4 @@ Pipedrive is de meest gebruikte CRM bij Nederlandse MKB-bedrijven en koppelt een
 
 Google Workspace integreert naadloos met zowel Pipedrive als de meeste boekhoudtools. Meer dan 150 native integraties beschikbaar.
 
-[Meer over Google Workspace →](https://www.dpbolvw.net/click-101698621-13855808)
+<a href="https://www.dpbolvw.net/click-101698621-13855808" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Meer over Google Workspace →</a>

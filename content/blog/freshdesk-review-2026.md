@@ -446,6 +446,8 @@ Maar Freshdesk is niet perfect. De interface mag een visuele opfrisser krijgen. 
 - **Kleine tot middelgrote teams (5-20 agents)**: Growth voor €15/agent/mnd is de ideale instapoptie. Upgrade naar Pro als je serieuze rapportages en CSAT-metingen wilt.
 - **Zendesk overwegen**: Test Freshdesk eerst. Voor het merendeel van de MKB-teams is Freshdesk voldoende en aanzienlijk goedkoper. Alleen als je specifiek Zendesk-functionaliteit nodig hebt (diepgaande rapportages, complexe workflows, enterprise-integraties), is de hogere prijs gerechtvaardigd.
 
+<a href="https://www.freshdesk.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Freshdesk gratis →</a>
+
 Lees voor een volledig beeld ook de vergelijkende artikelen op deze site:
 
 - [Zendesk vs Freshdesk 2026: welke helpdesk kies je?](/blog/zendesk-vs-freshdesk-2026/)

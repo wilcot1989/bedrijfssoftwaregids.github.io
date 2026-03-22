@@ -305,6 +305,10 @@ Er is geen universeel beste kassasysteem — het hangt volledig af van jouw situ
 
 De grootste fout die ik zie is ondernemers die een te duur systeem kiezen in het begin, of te lang wachten met upgraden als hun bedrijf groeit. Schatten hoe je zult groeien is moeilijk, maar de meeste systemen laten je opschalen zonder volledig opnieuw te beginnen.
 
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed Retail →</a>
+
+<a href="https://squareup.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Square →</a>
+
 ---
 
 ## Veelgestelde vragen over kassasystemen voor retail
