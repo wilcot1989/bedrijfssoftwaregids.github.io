@@ -113,7 +113,7 @@ Voor development teams is Monday.com een compromis. Er zijn Dev-templates voor s
 
 En die Trustpilot-reviews? De terugkerende klacht is de jaarlijkse facturatie die automatisch verlengt en het minimum van 3 seats. Meerdere gebruikers melden dat downgraden moeizaam gaat.
 
-<a href="https://monday.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar monday.com →</a>
+<a href="https://monday.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 
 ---
 
@@ -225,7 +225,7 @@ Na beide tools bij diverse teams te hebben geïmplementeerd, is mijn aanbeveling
 - Een Nederlandstalige interface nodig hebt
 - Liever iets meer betaalt voor een soepelere ervaring
 
-<a href="https://monday.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar monday.com →</a>
+<a href="https://monday.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 
 **Kies ClickUp als je:**
 - Maximale functies per euro wilt

@@ -101,7 +101,7 @@ Lees mijn volledige [e-Boekhouden review 2026](/blog/e-boekhouden-review-2026/) 
 - Leercurve voor penningmeesters zonder boekhoudervaring
 - Beperkte automatisering in het Basis-plan
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer e-Boekhouden 30 dagen gratis →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer e-Boekhouden 30 dagen gratis →</a>
 
 ---
 
@@ -148,7 +148,7 @@ Lees mijn uitgebreide [SnelStart review 2026](/blog/snelstart-review-2026/) voor
 
 > **SnelStart gratis proberen?** SnelStart biedt een gratis proefperiode waarbij je alle functies kunt verkennen voor je een keuze maakt. Ideaal voor een nieuwe penningmeester die wil nagaan of het systeem past bij de behoeften van de vereniging.
 
-<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow" class="cta-affiliate">Start gratis SnelStart proefperiode →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis SnelStart proefperiode →</a>
 
 ---
 
@@ -194,7 +194,7 @@ Voor ANBI-instellingen biedt Conscribo specifieke categorieën en rapportageform
 - Interface is functioneel maar minder modern
 - Minder integraties met externe tools
 
-<a href="https://www.conscribo.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar conscribo.nl →</a>
+<a href="https://www.conscribo.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar conscribo.nl →</a>
 
 ---
 
@@ -234,7 +234,7 @@ Voor een doorsnee sportvereniging of culturele stichting is Exact Online te uitg
 - Geen specifieke contributiebeheer-module
 - Totale kosten lopen snel op
 
-<a href="https://www.exact.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Exact Online →</a>
+<a href="https://www.exact.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Exact Online →</a>
 
 ---
 
@@ -272,7 +272,7 @@ Lees mijn [Moneybird review 2026](/blog/moneybird-review-2026/) voor een uitgebr
 - Beperkte projectboekhouding
 - Niet geschikt voor grotere of complexe organisaties
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Moneybird gratis →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
 
 ---
 
@@ -362,7 +362,7 @@ Mijn eindadvies:
 
 > **Wil je ook de loonadministratie vergelijken?** Als je als vereniging personeel in dienst hebt, lees dan ook mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers 2026](/blog/beste-boekhoudsoftware-zzp-2026/) en bekijk de [SnelStart review](/blog/snelstart-review-2026/) voor meer informatie over de loonadministratiefuncties.
 
-<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk SnelStart voor uw vereniging →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart voor uw vereniging →</a>
 
 ## Veelgemaakte fouten bij de boekhouding van verenigingen
 

@@ -147,7 +147,7 @@ Gebouwd voor de Nederlandse markt: iDEAL, PostNL, bol.com en btw-regels zitten e
 
 **Stack-integratie:** iDEAL en PostNL out-of-the-box -- je hebt geen aparte Mollie-account nodig. Bol.com-koppeling standaard. Directe koppelingen met Moneybird, e-Boekhouden en Exact Online. Beperktere app-keuze voor marketing -- Klaviyo werkt niet native, Brevo wel. De goedkoopste complete stack: circa €50-70/maand.
 
-<a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar mijnwebwinkel.nl →</a>
+<a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mijnwebwinkel.nl →</a>
 
 ---
 
@@ -157,7 +157,7 @@ De keuze zodra je online én offline verkoopt. Je voorraad synchroniseert real-t
 
 **Stack-integratie:** iDEAL en Bancontact standaard ingebouwd. Directe bol.com en Amazon-koppeling. Eigen POS-systeem (centrale voorraad). Sterke Exact Online-integratie. De totale omnichannel-stack (eCom + POS + Mollie + Sendcloud + Exact) kost circa €250-400/maand -- maar je vervangt twee losse systemen.
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 ---
 
@@ -177,7 +177,7 @@ iDEAL, bol.com, PostNL, Exact Online-koppeling -- het zit er standaard in, zonde
 
 **Stack-integratie:** De meest complete out-of-the-box stack. iDEAL en Bancontact native. PostNL en DHL standaard. Directe boekhoudkoppelingen (Exact, Moneybird, e-Boekhouden). Bol.com en Marktplaats-koppeling. Geen transactiekosten. De totale stack is effectief gewoon CCV Shop + Mollie als backup + eventueel Brevo voor e-mail: circa €30-60/maand.
 
-<a href="https://www.ccvshop.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar ccvshop.nl →</a>
+<a href="https://www.ccvshop.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar ccvshop.nl →</a>
 
 ---
 
@@ -187,7 +187,7 @@ Shopware is waar je naartoe groeit als Shopify of CCV Shop gaat knellen. Complex
 
 **Stack-integratie:** API-first (headless commerce) -- je kunt elke tool via API koppelen. Mollie en MultiSafepay via extensies. Sterke ERP-koppelingen (Exact, SAP). De implementatiekosten zijn hoog (€10.000-50.000+), maar je krijgt een stack die volledig op maat werkt. Totale stack: €600-3.000+/maand (inclusief hosting en extensies).
 
-<a href="https://www.shopware.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar shopware.com →</a>
+<a href="https://www.shopware.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar shopware.com →</a>
 
 
 ## Betaalproviders: hoe ontvang je geld?

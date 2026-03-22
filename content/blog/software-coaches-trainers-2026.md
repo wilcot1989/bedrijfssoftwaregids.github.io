@@ -102,7 +102,7 @@ Zie ook mijn vergelijking van [HubSpot prijzen en plannen 2026](/blog/hubspot-pr
 - Geen specifieke coaching-dossier functionaliteit
 - Prijssprong van gratis naar Professional is enorm
 
-<a href="https://www.hubspot.com/products/crm" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer HubSpot CRM gratis →</a>
+<a href="https://www.hubspot.com/products/crm" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer HubSpot CRM gratis →</a>
 
 ---
 
@@ -149,7 +149,7 @@ Lees ook mijn uitgebreide [Pipedrive review 2026](/blog/pipedrive-review-2026/) 
 
 > **Pipedrive proberen?** Start een gratis proefperiode van 14 dagen en ontdek hoe de visuele pijplijn werkt voor jouw coachingspraktijk.
 
-<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow" class="cta-affiliate">Start gratis Pipedrive trial →</a>
+<a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis Pipedrive trial →</a>
 
 ---
 
@@ -196,7 +196,7 @@ Meer opties? Bekijk ook mijn overzicht van de [beste afspraken software 2026](/b
 - Betalingsfuncties zijn basis vergeleken met een echte payment provider
 - Bij complex team-beheer snel de hogere plannen nodig
 
-<a href="https://calendly.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Calendly gratis →</a>
+<a href="https://calendly.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Calendly gratis →</a>
 
 ---
 
@@ -240,7 +240,7 @@ Lees mijn volledige [Moneybird review 2026](/blog/moneybird-review-2026/) voor e
 - Beperkter dan Exact Online of SnelStart voor groeiende bedrijven
 - Urenregistratie is basis
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Moneybird gratis →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
 
 ---
 
@@ -284,7 +284,7 @@ Voor online groepstrainingen is Zoom Meetings de goede keuze. Wil je webinars ge
 - Alternatieven als Google Meet zijn gratis zonder tijdslimiet
 - Veiligheid en privacy vereist bewuste instellingen
 
-<a href="https://zoom.us/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar zoom.us →</a>
+<a href="https://zoom.us/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zoom.us →</a>
 
 ---
 
@@ -317,7 +317,7 @@ Totale kosten: circa €57 per maand.
 
 > **Wil je Google Workspace koppelen aan je coachingspraktijk?** Google Workspace geeft je een professioneel e-mailadres (@jouwcoachingsnaam.nl), gedeelde agenda's, Drive-opslag voor cliëntdossiers en Google Meet zonder tijdslimiet. Als je al een Pipedrive abonnement hebt, integreert Google Workspace naadloos.
 
-<a href="https://www.dpbolvw.net/click-101698621-13855808" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Google Workspace voor coaches →</a>
+<a href="https://www.dpbolvw.net/click-101698621-13855808" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Google Workspace voor coaches →</a>
 
 ### Trainer die groepstrainingen geeft (meerdere deelnemers per sessie)
 

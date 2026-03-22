@@ -87,7 +87,7 @@ Geen minimum aantal seats — dat is een voordeel van Asana ten opzichte van Mon
 
 Advanced wordt dus snel duur. Bij 25 medewerkers betaal je meer dan €600 per maand. Dat is het niveau waarop je je moet afvragen of je alle geavanceerde functies echt gebruikt — of dat Starter met wat workarounds ook volstaat.
 
-<a href="https://asana.com/create-account" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Asana gratis (30 dagen) →</a>
+<a href="https://asana.com/create-account" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Asana gratis (30 dagen) →</a>
 
 ## Interface en gebruiksvriendelijkheid
 

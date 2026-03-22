@@ -85,7 +85,7 @@ Contractbook is de tool die ik het vaakst aanbeveel voor MKB-contractbeheer. De 
 
 **Review scores:** G2 4,3/5 (100+ reviews) · Trustpilot: geen profiel
 
-<a href="https://contractbook.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar contractbook.com →</a>
+<a href="https://contractbook.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar contractbook.com →</a>
 
 ## 2. Juro — Beste voor scale-ups
 
@@ -105,7 +105,7 @@ Juro is het platform dat ik noem zodra een bedrijf zegt: "We verwerken honderden
 
 Overweeg je naast contractbeheer ook je recruitment en onboarding te digitaliseren? Lees dan ook het overzicht van de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/).
 
-<a href="https://juro.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar juro.com →</a>
+<a href="https://juro.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar juro.com →</a>
 
 ## 3. PandaDoc — Beste voor offertes + contracten
 
@@ -155,7 +155,7 @@ DocuSign kennen de meeste mensen van de digitale handtekening, maar hun CLM-prod
 
 Voor grotere organisaties die ook hun klantenservice-processen willen automatiseren naast contractbeheer, is de [beste klantenservice software 2026](/blog/beste-klantenservice-software-2026/) een logische aanvulling.
 
-<a href="https://www.docusign.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar docusign.com →</a>
+<a href="https://www.docusign.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar docusign.com →</a>
 
 ## 5. Precisely — Beste voor NL/EU compliance
 
@@ -181,7 +181,7 @@ Precisely viel me op vanwege de EU-focus. Als GDPR-compliance en eIDAS-handteken
 
 Als je met je salesteam ook social selling gebruikt naast contractpresentaties, lees dan mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/).
 
-<a href="https://precisely.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar precisely.com →</a>
+<a href="https://precisely.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar precisely.com →</a>
 
 ## Wat moet je controleren voordat je overstapt?
 

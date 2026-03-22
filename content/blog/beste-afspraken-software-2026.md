@@ -90,7 +90,7 @@ Als ik een consultant of ZZP'er help met afsprakensoftware, raad ik bijna altijd
 
 **Review scores:** G2 4,7/5 (2.100+ reviews) · Trustpilot: geen profiel
 
-<a href="https://calendly.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar calendly.com →</a>
+<a href="https://calendly.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar calendly.com →</a>
 
 ---
 
@@ -135,7 +135,7 @@ SimplyBook.me is de tool die ik aanbeveel zodra een bedrijf iDEAL-betaling nodig
 
 **Review scores:** Trustpilot 4,6/5 (2.800+ reviews)
 
-<a href="https://simplybook.me/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar simplybook.me →</a>
+<a href="https://simplybook.me/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar simplybook.me →</a>
 
 ---
 
@@ -177,7 +177,7 @@ Tidycal is mijn favoriete budgettip: je betaalt eenmalig $29 en je hebt levensla
 - Kleinere community en minder integraties
 - Interface in het Engels
 
-<a href="https://tidycal.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar tidycal.com →</a>
+<a href="https://tidycal.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar tidycal.com →</a>
 
 ---
 
@@ -219,7 +219,7 @@ Setmore viel me op vanwege het gratis plan: tot 4 gebruikers, geen kosten. Dat i
 - Rapportages beperkt in het gratis plan
 - Minder integraties dan Calendly
 
-<a href="https://www.setmore.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar setmore.com →</a>
+<a href="https://www.setmore.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar setmore.com →</a>
 
 ---
 
@@ -262,7 +262,7 @@ Acuity Scheduling is de tool die ik pak wanneer Calendly of SimplyBook.me niet g
 - Onderdeel van Squarespace -- sterkste integratie met dat platform
 - Geen native iDEAL-ondersteuning
 
-<a href="https://acuityscheduling.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar acuityscheduling.com →</a>
+<a href="https://acuityscheduling.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar acuityscheduling.com →</a>
 
 ---
 
@@ -306,7 +306,7 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 
 **Review scores:** Trustpilot 4,1/5 (150+ reviews)
 
-<a href="https://salonkee.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar salonkee.com →</a>
+<a href="https://salonkee.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salonkee.com →</a>
 
 ---
 

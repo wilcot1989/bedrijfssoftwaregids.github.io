@@ -276,7 +276,7 @@ Ben je ook op zoek naar een kassasysteem voor je fysieke locatie? Lees dan ons a
 - Interface kan overweldigend zijn voor beginners
 - Sommige functies alleen in hogere plannen
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 ---
 
@@ -331,7 +331,7 @@ Voor wie al op Magento zit en overweegt te upgraden naar Adobe Commerce (de beta
 - Langzaam zonder goede optimalisatie
 - Specialistische Magento-developers zijn schaars en duur
 
-<a href="https://business.adobe.com/nl/products/magento/magento-commerce.html" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar business.adobe.com →</a>
+<a href="https://business.adobe.com/nl/products/magento/magento-commerce.html" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar business.adobe.com →</a>
 
 ---
 
@@ -388,7 +388,7 @@ De keerzijde: de community is kleiner. Als je een probleem hebt met een obscure 
 - Omzetlimieten per plan
 - iDEAL alleen via Mollie-integratie
 
-<a href="https://www.bigcommerce.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar bigcommerce.com →</a>
+<a href="https://www.bigcommerce.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar bigcommerce.com →</a>
 
 ---
 
@@ -445,7 +445,7 @@ De productlimieten per abonnement zijn het meest genoemde nadeel. Op het goedkoo
 - Design-mogelijkheden beperkter dan bij sommige concurrenten
 - Minder geschikt voor zeer grote webshops
 
-<a href="https://www.ccvshop.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar ccvshop.nl →</a>
+<a href="https://www.ccvshop.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar ccvshop.nl →</a>
 
 ---
 
@@ -502,7 +502,7 @@ Twijfel je tussen Acendy en Shopify? Lees mijn [Shopify vs Mijnwebwinkel vergeli
 - Minder geschikt voor zeer grote of complexe webshops
 - Internationale verkoop beperkter ondersteund
 
-<a href="https://www.acendy.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar acendy.com →</a>
+<a href="https://www.acendy.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar acendy.com →</a>
 
 ---
 

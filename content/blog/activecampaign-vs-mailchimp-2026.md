@@ -199,7 +199,7 @@ Mailchimp is ideaal voor bedrijven die primair nieuwsbrieven en campagne-emails 
 - Functies verdwijnen steeds vaker achter duurdere plannen
 - Data opgeslagen in de VS
 
-<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar mailchimp.com →</a>
+<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mailchimp.com →</a>
 
 ---
 

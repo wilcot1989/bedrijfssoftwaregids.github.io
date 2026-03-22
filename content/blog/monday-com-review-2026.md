@@ -88,7 +88,7 @@ Laat ik het concreet maken. Dit zijn de maandkosten bij jaarlijkse betaling:
 
 Bij maandelijkse betaling liggen de prijzen 20-25% hoger. Mijn advies: begin altijd met de gratis proefperiode van 14 dagen op het Pro-plan. Dan weet je precies welke functies je nodig hebt voordat je betaalt.
 
-<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer monday.com gratis →</a>
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer monday.com gratis →</a>
 
 ### Monday CRM prijzen
 
@@ -320,7 +320,7 @@ Maar het is niet goedkoop voor kleine teams (minimum 3 seats), de 250 automatise
 
 Sterke projectmanagement tool met de beste interface in zijn klasse. De prijs en automatiseringslimieten houden het van een 9 af.
 
-<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar monday.com →</a>
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 
 ---
 

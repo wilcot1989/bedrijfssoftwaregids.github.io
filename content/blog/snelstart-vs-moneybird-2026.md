@@ -137,7 +137,7 @@ Dat heeft een prijs. Moneybird gaat niet dieper dan wat een gemiddelde ZZP'er no
 
 *Prijzen gecheckt op 1 april 2026 via moneybird.nl/prijzen/. Alle bedragen excl. 21% BTW.*
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Moneybird 60 dagen gratis →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird 60 dagen gratis →</a>
 
 Meer details? Lees mijn volledige [Moneybird review 2026](/blog/moneybird-review-2026/).
 
@@ -381,4 +381,4 @@ En voor een compleet overzicht van alle boekhoudopties in Nederland, zie de [sec
 
 <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Moneybird 60 dagen gratis →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird 60 dagen gratis →</a>

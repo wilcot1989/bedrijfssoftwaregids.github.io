@@ -117,7 +117,7 @@ Het hangt af van je prioriteiten:
 - **Wil je functiediepte (tijdlijn, docs, tijdregistratie) op nul kosten?** ClickUp gratis.
 - **Heb je meerdere Power-Ups nodig per bord?** Trello gratis voldoet niet; ClickUp gratis wél.
 
-<a href="https://clickup.com" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met ClickUp →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met ClickUp →</a>
 
 <a href="https://trello.com" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Trello gratis →</a>
 
@@ -329,7 +329,7 @@ ClickUp is de betere keuze als:
 
 Lees ook mijn [ClickUp review 2026](/blog/clickup-review-2026/) en [ClickUp vs Jira vergelijking](/blog/clickup-vs-jira-2026/).
 
-<a href="https://clickup.com" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ClickUp gratis →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ClickUp gratis →</a>
 
 ---
 

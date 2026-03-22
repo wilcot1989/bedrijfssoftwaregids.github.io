@@ -89,7 +89,7 @@ Realworks is de de facto standaard in de Nederlandse makelaardij, en als ik met 
 - Steile leercurve door uitgebreide functionaliteit
 - Minder geschikt voor makelaars die ook andere diensten aanbieden (taxatie, advies)
 
-<a href="https://www.realworks.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar realworks.nl →</a>
+<a href="https://www.realworks.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar realworks.nl →</a>
 
 ---
 
@@ -142,7 +142,7 @@ Je kunt pipelines aanmaken per proces: een voor verkoop (intake > opname > marke
 - Geen kadaster- of BAG-integratie
 - Minder inzicht in vastgoedspecifieke workflows
 
-<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hubspot.com →</a>
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 ---
 
@@ -245,7 +245,7 @@ Salesforce heeft een ecosysteem van vastgoedspecifieke apps:
 - Geen out-of-the-box Funda of NVM-koppeling
 - Vastgoedapps zijn vaak Engelstalig
 
-<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar salesforce.com →</a>
+<a href="https://www.salesforce.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salesforce.com →</a>
 
 ---
 
@@ -289,7 +289,7 @@ Als je Gripp koppelt aan je boekhouding, bekijk dan ook ons overzicht van de [be
 - Geen kadaster- of BAG-integratie
 - Pipeline minder visueel dan Pipedrive
 
-<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar gripp.com →</a>
+<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar gripp.com →</a>
 
 ---
 

@@ -134,7 +134,7 @@ Meer lezen: [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/) | [Beste C
 
 ### 4. Projectmanagement — ClickUp
 
-<a href="https://clickup.com" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met ClickUp →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met ClickUp →</a>
 
 **Gratis voor:** Onbeperkte taken, onbeperkte leden, 5 Spaces, meerdere views (lijst, bord, kalender), 100MB opslag
 **Betaald voor:** Onbeperkte opslag, Gantt-charts, dashboards, tijdregistratie, AI-functies

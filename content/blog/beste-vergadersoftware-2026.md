@@ -68,7 +68,7 @@ Mijn eerste vraag aan klanten is altijd: "Gebruik je Microsoft 365?" Zo ja, dan 
 
 **Review scores:** G2 4,3/5 (15.600+ reviews) · Trustpilot 1,2/5 (Microsoft-profiel, niet representatief voor Teams)
 
-<a href="https://www.microsoft.com/nl-nl/microsoft-teams/group-chat-software" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar microsoft.com/teams →</a>
+<a href="https://www.microsoft.com/nl-nl/microsoft-teams/group-chat-software" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar microsoft.com/teams →</a>
 
 ## 2. Zoom — Beste voor externe meetings
 
@@ -94,7 +94,7 @@ Zoom is wat ik adviseer als een bedrijf veel vergadert met externe partijen -- k
 
 **Review scores:** G2 4,6/5 (55.000+ reviews) · Trustpilot 1,3/5 (1.411 reviews, overwegend over klantenservice)
 
-<a href="https://zoom.us/nl-nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar zoom.us →</a>
+<a href="https://zoom.us/nl-nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zoom.us →</a>
 
 ## 3. Google Meet — Beste voor Google Workspace
 
@@ -112,7 +112,7 @@ Gebruik je [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808)?
 
 **Review scores:** G2 4,6/5 (2.600+ reviews) · Trustpilot: onderdeel van Google, geen apart profiel
 
-<a href="https://meet.google.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar meet.google.com →</a>
+<a href="https://meet.google.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar meet.google.com →</a>
 
 ## 4. Webex — Beste voor hybride kantoor
 
@@ -130,7 +130,7 @@ Webex is het platform dat ik tegenkom bij grotere bedrijven met vergaderzalen vo
 
 **Review scores:** G2 4,3/5 (19.400+ reviews) · Trustpilot: geen profiel
 
-<a href="https://www.webex.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar webex.com →</a>
+<a href="https://www.webex.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar webex.com →</a>
 
 ## 5. Whereby — Meest eenvoudig
 
@@ -155,7 +155,7 @@ Whereby is mijn tip voor coaches, consultants en iedereen die regelmatig 1-op-1 
 
 **Review scores:** G2 4,6/5 (1.100+ reviews) · Trustpilot: geen profiel
 
-<a href="https://whereby.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar whereby.com →</a>
+<a href="https://whereby.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar whereby.com →</a>
 
 ## Vergadersoftware voor hybride teams: wat werkt écht?
 

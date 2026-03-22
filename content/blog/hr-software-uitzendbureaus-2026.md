@@ -104,7 +104,7 @@ Lees mijn uitgebreide [AFAS review 2026](/blog/afas-review-2026/) en de [AFAS pr
 - Prijzen niet transparant op de website
 - Hogere maandelijkse kosten dan specifiekere point-solutions
 
-<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk AFAS voor uitzendbureaus →</a>
+<a href="https://www.afas.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk AFAS voor uitzendbureaus →</a>
 
 ---
 
@@ -155,7 +155,7 @@ Lees mijn [Nmbrs review 2026](/blog/nmbrs-review-2026/) voor een uitgebreide ana
 - Implementatie van de koppeling vergt technisch inzicht
 - Minder ERP-functionaliteit dan AFAS (geen financiën, CRM)
 
-<a href="https://www.nmbrs.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Nmbrs →</a>
+<a href="https://www.nmbrs.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Nmbrs →</a>
 
 ---
 
@@ -194,7 +194,7 @@ Wat Connexie onderscheidt is de focus op planning en beschikbaarheid: het systee
 - Kleinere leverancier
 - Minder integraties met externe systemen
 
-<a href="https://www.connexie.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Connexie →</a>
+<a href="https://www.connexie.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Connexie →</a>
 
 ---
 
@@ -229,7 +229,7 @@ Voor puur uitzendwerk is Picompany minder sterk dan AFAS of Easyflex op de CAO-s
 - Minder sterk voor puur operationele uitzendadministratie
 - Vereist koppelingen voor volledige salarisverwerking
 
-<a href="https://www.picompany.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Picompany →</a>
+<a href="https://www.picompany.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Picompany →</a>
 
 ---
 
@@ -266,7 +266,7 @@ Voor bureaus die nog groeien en de complexiteit van volledige payroll-software n
 - Beperktere rapportagemogelijkheden
 - Minder diepgaande CAO-automatisering
 
-<a href="https://www.tentoo.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Tentoo →</a>
+<a href="https://www.tentoo.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Tentoo →</a>
 
 ---
 
@@ -373,7 +373,7 @@ Mijn eindadvies per situatie:
 
 > **Wil je ook de loonadministratie optimaliseren?** SnelStart Go is een lichtgewichter optie voor de financiële administratie naast je uitzend-specifieke HR-software. Zeker voor kleinere bureaus die hun boekhouding eenvoudig willen houden.
 
-<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk SnelStart Go →</a>
+<a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart Go →</a>
 
 Software voor uitzendbureaus vergt een weloverwogen keuze. Investeer in een goede demo bij minimaal twee leveranciers, vraag expliciet naar CAO-updates en WTZA-compliance, en reken implementatiekosten en -tijd mee in je totaalbudget.
 

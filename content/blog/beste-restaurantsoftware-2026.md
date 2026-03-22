@@ -190,7 +190,7 @@ Wil je dieper duiken in wat Lightspeed kan? Lees mijn [uitgebreide Lightspeed ka
 - Reserveringen lopen via externe koppelingen, niet ingebouwd -- je betaalt dus dubbel
 - Geen inkoopmodule: je kunt niet vanuit Lightspeed bij leveranciers bestellen
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 ---
 
@@ -239,7 +239,7 @@ Ben je benieuwd hoe Untill zich verhoudt tot Lightspeed? Ik schreef er een [dire
 - QR-bestellen loopt via Jamezz (apart platform, extra kosten)
 - Interface voor voorraadbeheer oogt gedateerd vergeleken met Lightspeed
 
-<a href="https://www.untill.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar untill.com →</a>
+<a href="https://www.untill.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar untill.com →</a>
 
 ---
 
@@ -286,7 +286,7 @@ De keerzijde: Trivec publiceert geen vaste prijzen. Je krijgt altijd een maatwer
 - Minder online reviews in Nederland -- lastig om ervaringen van andere restauranthouders te vinden
 - Reserveringssysteem is basaal vergeleken met gespecialiseerde platforms als Formitable
 
-<a href="https://www.trivec.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar trivec.nl →</a>
+<a href="https://www.trivec.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar trivec.nl →</a>
 
 ---
 
@@ -330,7 +330,7 @@ De beperkingen worden duidelijk als je verder kijkt dan de kassa: er is geen res
 - Geen KDS-ondersteuning: alleen keukenprinters, geen digitaal overzicht met timers
 - Support primair Duitstalig -- lastig als je keukenmanager een vraag heeft
 
-<a href="https://www.orderbird.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar orderbird.com →</a>
+<a href="https://www.orderbird.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar orderbird.com →</a>
 
 ---
 
@@ -371,7 +371,7 @@ Waar het wel werkt: foodtrucks, pop-up restaurants en seizoensterrassen. Reader 
 - Bij €15.000/mnd omzet betaal je €293 aan transactiekosten -- duurder dan elk betaald systeem
 - **Kortom: dit is een kassa, geen horeca software** -- ik neem het op als eerlijke referentie
 
-<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar zettle.com →</a>
+<a href="https://www.zettle.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zettle.com →</a>
 
 ---
 

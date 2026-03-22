@@ -165,7 +165,7 @@ Let op: Moneybird rekent niet per gebruiker. Je betaalt een vast bedrag en kunt 
 - Je team groeit maar je **geen extra kosten per gebruiker** wilt
 - Je al gebruik maakt van losse tools (Zapier, Shopify) en die via integraties wilt koppelen
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ## Kies Exact Online als...
 
@@ -177,7 +177,7 @@ Let op: Moneybird rekent niet per gebruiker. Je betaalt een vast bedrag en kunt 
 - Je behoefte hebt aan **uitgebreide financiële rapportages** en cashflow-prognoses
 - Je **telefonische support** belangrijk vindt
 
-<a href="https://www.exact.com/nl/producten/boekhouden/probeer/essentials" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl/producten/boekhouden/probeer/essentials" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ## Samenwerking met je boekhouder: welke is beter?
 

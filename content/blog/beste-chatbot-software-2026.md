@@ -110,7 +110,7 @@ Let op die €0,99 per resolutie voor Fin. Bij 500 opgeloste vragen per maand is
 
 Eerlijk gezegd: de kosten kunnen snel oplopen. Een klant van mij met 3 support-medewerkers en ~800 chats per maand betaalt circa €350 per maand all-in. Dat is stevig, maar ze hebben wel hun supportteam met 50% kunnen inkrimpen.
 
-<a href="https://www.intercom.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar intercom.com →</a>
+<a href="https://www.intercom.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar intercom.com →</a>
 
 **✅ Voordelen:** Beste AI-kwaliteit, meertalig, krachtige automatisering, nauwelijks hallucinaties
 **❌ Nadelen:** Duurste optie, Fin-kosten per resolutie tellen snel op, Engelstalige interface
@@ -147,7 +147,7 @@ Wat me opviel bij Tidio: de trigger-logica is verrassend krachtig voor de prijs.
 
 Het gratis plan is echt bruikbaar voor kleine webshops. Bij 50 gesprekken per maand dek je de meest gestelde vragen af. Als je groeit, schakel je makkelijk op naar Growth voor €59.
 
-<a href="https://www.tidio.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar tidio.com →</a>
+<a href="https://www.tidio.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar tidio.com →</a>
 
 **✅ Voordelen:** Gratis plan, makkelijkste installatie, goede e-commerce integraties, proactieve triggers
 **❌ Nadelen:** Lyro AI minder geavanceerd dan Intercom Fin, beperktere workflows bij complexe scenario's
@@ -184,7 +184,7 @@ Eerlijk gezegd: als je nu bij nul begint en alleen een chatbot wilt, neem dan Ti
 
 Voor een team van 5 agenten zit je al snel op €275-€575 per maand, exclusief add-ons.
 
-<a href="https://www.zendesk.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar zendesk.com →</a>
+<a href="https://www.zendesk.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar zendesk.com →</a>
 
 **✅ Voordelen:** Complete klantenservice-suite, krachtige rapportages, enterprise-ready, sterk SLA-beheer
 **❌ Nadelen:** Duur, complexe onboarding, overkill voor kleine bedrijven, hoge leercurve
@@ -212,7 +212,7 @@ Een aandachtspunt: Drift is in 2024 overgenomen door Salesloft. De integratie is
 - **Playbooks** — Geautomatiseerde verkoopscripts per segment of ICP
 - **AI-kwalificatie** — Stel automatisch kwalificatievragen en filter niet-gekwalificeerde leads
 
-<a href="https://www.salesloft.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar salesloft.com →</a> (Drift is in 2024 overgenomen door Salesloft)
+<a href="https://www.salesloft.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar salesloft.com →</a> (Drift is in 2024 overgenomen door Salesloft)
 
 **✅ Voordelen:** Beste voor B2B sales, directe CRM-integratie, account-based targeting, meeting-booking automation
 **❌ Nadelen:** Zeer duur (€2.500+/mnd), alleen zinvol voor B2B met hoge dealwaarde, integratie in Salesloft nog in ontwikkeling

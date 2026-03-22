@@ -116,7 +116,7 @@ Sinds 2026 is Move.nl -- het klantenportaal van Realworks -- uitgegroeid tot het
 
 **Review scores:** Geen Trustpilot- of G2-profiel. Realworks is marktleider met 4.300+ kantoren; referenties via NVM-netwerk.
 
-<a href="https://www.realworks.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar realworks.nl →</a>
+<a href="https://www.realworks.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar realworks.nl →</a>
 
 ---
 
@@ -163,7 +163,7 @@ De AppXchange van Kolibri biedt ruim veertig extra applicaties, van boekhoudkopp
 - Prijsopbouw met losse apps kan onoverzichtelijk worden
 - Minder uitgebreide taxatiemodule
 
-<a href="https://kolibri.software/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar kolibri.software →</a>
+<a href="https://kolibri.software/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar kolibri.software →</a>
 
 ---
 
@@ -209,7 +209,7 @@ Het klantenportaal MijnHuiszaken biedt woningzoekers een persoonlijke omgeving w
 - Interface is functioneel maar minder gepolijst dan Kolibri
 - Minder integraties met externe tools buiten de App Market
 
-<a href="https://www.yes-co.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar yes-co.nl →</a>
+<a href="https://www.yes-co.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar yes-co.nl →</a>
 
 ---
 
@@ -254,7 +254,7 @@ Friva is een cloud-oplossing die geoptimaliseerd is voor zowel desktop als mobie
 - Minder uitbreidingen en integraties dan Realworks of Kolibri
 - Nog geen eigen klantenportaal vergelijkbaar met Move.nl of MijnHuiszaken
 
-<a href="https://friva.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar friva.nl →</a>
+<a href="https://friva.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar friva.nl →</a>
 
 ---
 
@@ -296,7 +296,7 @@ Het systeem biedt directe integraties met Funda, Huispedia, Huislijn en Matrixia
 - Minder uitgebreid klantenportaal dan Move.nl
 - Minder integraties buiten het vastgoeddomein
 
-<a href="https://keysoftware.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar keysoftware.nl →</a>
+<a href="https://keysoftware.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar keysoftware.nl →</a>
 
 ---
 

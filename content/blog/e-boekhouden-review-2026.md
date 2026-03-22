@@ -64,7 +64,7 @@ De vraag die ik het vaakst krijg. Hier de actuele prijzen (gecheckt maart 2026):
 | **Onbeperkt boekhouden** | €14,50 | Onbeperkt | Ja | Ja | Ja |
 | **Boekhouden + Facturatie** | €24,00 | Onbeperkt | Uitgebreid | Ja | Ja |
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer e-Boekhouden gratis →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer e-Boekhouden gratis →</a>
 
 ### Wat zit er inbegrepen?
 
@@ -326,6 +326,6 @@ Na drie maanden testen is mijn conclusie helder: e-Boekhouden is het beste boekh
 
 **Mijn score: 7.5/10** — een betrouwbare, betaalbare keuze die ik met een gerust hart aanbeveel aan elke budgetbewuste ondernemer. De interface en mobiele app zijn de enige zwakke plekken, en voor de meeste ZZP'ers wegen die niet op tegen de prijs en de support.
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 Wil je e-Boekhouden vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.

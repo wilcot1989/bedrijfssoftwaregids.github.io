@@ -232,7 +232,7 @@ Monday.com is de betere keuze als:
 - **Je een divers team hebt**: verschillende afdelingen gebruiken de tool op hun eigen manier
 - **Je met klanten of externen samenwerkt**: de deelmogelijkheden en formulieren zijn sterk
 
-<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar monday.com →</a>
+<a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 
 ## Wanneer kies je Asana?
 
@@ -247,7 +247,7 @@ Asana is de betere keuze als:
 - **Je een kleiner team hebt**: het gratis plan voor 10 gebruikers is ruimer
 - **Je in een agile-omgeving werkt**: de sprintfuncties zijn beter uitgewerkt
 
-<a href="https://asana.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar asana.com →</a>
+<a href="https://asana.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar asana.com →</a>
 
 ## Overstappen: hoe makkelijk is het?
 

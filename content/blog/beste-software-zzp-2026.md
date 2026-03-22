@@ -64,8 +64,8 @@ Ik heb hier een [compleet artikel](/blog/beste-boekhoudsoftware-zzp-2026/) over 
 
 **Mijn advies:** als je net start, begin bij e-Boekhouden (gratis tot 15 maanden). Wil je de prettigste ervaring? Kies Moneybird. Lees de volledige vergelijking: [Beste Boekhoudprogramma ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/). Twijfel je nog welk boekhoudprogramma het beste bij jou past? Lees dan mijn artikel [boekhoudprogramma kiezen: 7 vragen](/blog/boekhoudprogramma-kiezen-7-vragen/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 
 ## 2. Urenregistratie — weet wat je verdient
@@ -78,8 +78,8 @@ Als je op uurbasis werkt — en dat doen de meeste ZZP'ers — is een urenregist
 
 **Mijn advies:** gebruik Moneybird's ingebouwde urenregistratie als je dat pakket al hebt. Anders is Toggl Track gratis en uitstekend. Meer opties? Lees mijn [vergelijking van urenregistratie software](/blog/beste-urenregistratie-software-2026/).
 
-<a href="https://toggl.com/track/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar toggl.com →</a>
-<a href="https://clockify.me/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar clockify.me →</a>
+<a href="https://toggl.com/track/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar toggl.com →</a>
+<a href="https://clockify.me/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar clockify.me →</a>
 
 
 ## 3. CRM / klantbeheer — stop met post-its
@@ -91,7 +91,7 @@ Zodra je meer dan een handvol klanten hebt, wordt het onmogelijk om alles in je 
 
 **Mijn advies:** begin met HubSpot gratis. Pas als je merkt dat je meer dan 20 deals tegelijk beheert of geavanceerde automatisering wilt, is een upgrade of overstap naar Pipedrive de moeite waard. Meer opties: [Beste CRM voor ZZP'ers](/blog/beste-crm-zzp-freelancers-2026/). Wil je ook e-mailmarketing inzetten als ZZP'er om klanten te binden? Lees mijn vergelijking van de [beste e-mailmarketing software 2026](/blog/beste-email-marketing-software-2026/).
 
-<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hubspot.com →</a>
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 <a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pipedrive.com →</a>
 
 
@@ -118,7 +118,7 @@ Zelfs als solo-ondernemer heb je overzicht nodig over je lopende projecten, dead
 
 **Mijn advies:** Notion is gratis en doet alles. Start daar. Meer opties: [Beste Projectmanagement Software 2026](/blog/beste-projectmanagement-software-2026/). Als je ook op zoek bent naar een handige boekhoudapp voor onderweg, lees dan mijn vergelijking van de [beste boekhouder app 2026](/blog/beste-boekhouder-app-2026/).
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar notion.so →</a>
+<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
 
 
 ## 6. Website & online zichtbaarheid
@@ -132,7 +132,7 @@ Je website is je visitekaartje. Als een potentiële klant je googelt en niets vi
 **Mijn advies:** investeer eerst in een sterk LinkedIn-profiel (gratis). Bouw daarna een simpele website met Wix of WordPress. Meer opties: [Beste Websitebouwer MKB 2026](/blog/beste-website-bouwers-mkb-2026/). Wil je ook social media professioneel inzetten als ZZP'er? Lees mijn overzicht van de [beste social media management tools 2026](/blog/beste-social-media-management-2026/).
 
 <a href="https://automattic.pxf.io/c/7037268/1919834/22744" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar WordPress.com →</a>
-<a href="https://www.wix.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar wix.com →</a>
+<a href="https://www.wix.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar wix.com →</a>
 
 
 ## 7. Planning & afspraken
@@ -144,7 +144,7 @@ Als je regelmatig afspraken plant met klanten, bespaart een planningtool je het 
 
 **Mijn advies:** Calendly gratis is voor de meeste ZZP'ers genoeg. Heb je verschillende soorten afspraken (intakegesprek, sparringsessie, workshop)? Dan is een betaald plan de moeite waard. Meer opties: [Beste Afsprakensoftware 2026](/blog/beste-afspraken-software-2026/).
 
-<a href="https://calendly.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar calendly.com →</a>
+<a href="https://calendly.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar calendly.com →</a>
 
 
 ## Wat kost een compleet ZZP-softwarepakket?

@@ -109,7 +109,7 @@ Geen van beide aanpakken is fout. Maar ze zijn fundamenteel anders.
 
 Dit is het argument dat ik het meest gebruik om teams te overtuigen serieus naar ClickUp te kijken. Als je de volledige Atlassian-suite en bijbehorende add-ons meetelt, is ClickUp bij vergelijkbare functionaliteit vaak 50-60% goedkoper.
 
-<a href="https://clickup.com" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ClickUp gratis →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ClickUp gratis →</a>
 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Jira Software plannen →</a>
 
@@ -267,7 +267,7 @@ ClickUp is de betere keuze als:
 
 Lees ook mijn [ClickUp vs Trello vergelijking](/blog/clickup-vs-trello-2026/) en [Monday.com vs Trello vergelijking](/blog/monday-com-vs-trello-2026/) voor meer context.
 
-<a href="https://clickup.com" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met ClickUp →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met ClickUp →</a>
 
 ---
 

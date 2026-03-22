@@ -138,7 +138,7 @@ Ik raad Lightspeed Retail NIET aan voor:
 - Leercurve voor nieuwe medewerkers
 - Hardware-investering is extra
 
-<a href="https://www.lightspeedhq.nl/retail/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Lightspeed Retail →</a>
+<a href="https://www.lightspeedhq.nl/retail/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed Retail →</a>
 
 ---
 
@@ -191,7 +191,7 @@ Ik raad Shopify POS NIET aan voor:
 - Beperkte offline functionaliteit bij internetuitval
 - Minder sterk voor pure B2B-retail
 
-<a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Shopify POS gratis →</a>
+<a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Shopify POS gratis →</a>
 
 ---
 
@@ -244,7 +244,7 @@ Ik raad Square NIET aan voor:
 - Nederlandse support is minder sterk dan Nederlandse aanbieders
 - Beperkte aanpassingsmogelijkheden voor specifieke branchebehoeften
 
-<a href="https://squareup.com/nl/nl/point-of-sale/retail" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Square gratis →</a>
+<a href="https://squareup.com/nl/nl/point-of-sale/retail" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Square gratis →</a>
 
 ---
 
@@ -297,7 +297,7 @@ Ik raad CCV Shop NIET aan voor:
 - Geavanceerde analytics minder sterk dan Lightspeed
 - Minder geschikt voor winkels met hoog transactievolume
 
-<a href="https://www.ccvshop.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk CCV Shop →</a>
+<a href="https://www.ccvshop.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk CCV Shop →</a>
 
 ---
 
@@ -347,7 +347,7 @@ Ik raad Mijnwebwinkel NIET aan voor:
 - Voorraadbeheer is basis
 - Minder geschikt zodra je serieus gaat opschalen
 
-<a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Mijnwebwinkel →</a>
+<a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Mijnwebwinkel →</a>
 
 ---
 
@@ -417,7 +417,7 @@ Er is geen één beste retail software voor elke winkel. Mijn praktische richtli
 
 Wil je meer vergelijkingen? Lees mijn [Lightspeed vs Square vergelijking](/blog/lightspeed-vs-square-2026/), de [Lightspeed kassa review](/blog/lightspeed-kassa-review-2026/), de [Shopify review](/blog/shopify-review-2026/) of het overzicht van [Shopify prijzen voor Nederland](/blog/shopify-prijzen-nederland-2026/). Voor fiscale vereisten bij je kassa lees ik altijd mijn [fiscale eisen kassasysteem artikel](/blog/fiscale-eisen-kassasysteem-2026/).
 
-<a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow" class="cta-affiliate">Start je gratis proefperiode bij Shopify →</a>
+<a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start je gratis proefperiode bij Shopify →</a>
 
 ---
 

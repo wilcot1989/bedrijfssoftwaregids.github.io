@@ -293,9 +293,9 @@ Twijfel je? Beide bieden een gratis proefperiode van 30 dagen. Test ze naast elk
 
 <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
-<a href="https://www.twinfield.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar twinfield.nl →</a>
+<a href="https://www.twinfield.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar twinfield.nl →</a>
 
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.

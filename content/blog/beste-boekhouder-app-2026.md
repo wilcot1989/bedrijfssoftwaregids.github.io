@@ -89,7 +89,7 @@ De Moneybird app voelt als een natuurlijke extensie van de webversie. De interfa
 
 Lees meer in mijn uitgebreide [Moneybird review 2026](/blog/moneybird-review-2026/) of in mijn [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/). Ben je benieuwd of boekhouden en factureren ook gecombineerd kunnen? Lees dan over [factureren en boekhouden alles-in-een](/blog/factureren-en-boekhouden-alles-in-een/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -178,7 +178,7 @@ De Exact Online app is functioneel en stabiel, maar voelt minder intuïtief dan 
 
 Lees onze uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voor een volledig beeld.
 
-<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar exact.com →</a>
+<a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar exact.com →</a>
 
 ---
 
@@ -219,7 +219,7 @@ De e-Boekhouden app is functioneel maar voelt gedateerder dan de concurrentie. D
 
 Vergelijk e-Boekhouden direct met Moneybird in ons artikel [Moneybird vs e-Boekhouden 2026](/blog/moneybird-vs-e-boekhouden-2026/).
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -262,7 +262,7 @@ De FreshBooks app is een van de best ontworpen boekhoud-apps. De interface is mo
 - Beperkte bankkoppeling met Nederlandse banken
 - Minder geschikt als enige boekhoudtool voor Nederlandse ondernemers
 
-<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar freshbooks.com →</a>
+<a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshbooks.com →</a>
 
 ---
 

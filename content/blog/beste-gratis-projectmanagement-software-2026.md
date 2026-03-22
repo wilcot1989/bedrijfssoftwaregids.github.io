@@ -102,7 +102,7 @@ ClickUp's gratis plan heet niet voor niets "Free Forever". Het is het meest uitg
 
 **Mijn oordeel:** ClickUp Free is de beste gratis projectmanagement tool als je meer dan 2 features tegelijk zoekt. Het enige echte bezwaar is de 100 MB opslag — als je bestanden uploadt, ga dan al vroeg na of je die ruimte nodig hebt.
 
-<a href="https://clickup.com/pricing" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">ClickUp gratis proberen →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">ClickUp gratis proberen →</a>
 
 ---
 
@@ -673,7 +673,7 @@ Maar zodra je tegen de limieten aanloopt — en die limieten zijn bij alle tools
 
 Probeer de tools die je interesseren altijd eerst:
 
-<a href="https://clickup.com/pricing" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">ClickUp gratis proberen →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">ClickUp gratis proberen →</a>
 
 <a href="https://asana.com/pricing" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Asana gratis proberen →</a>
 

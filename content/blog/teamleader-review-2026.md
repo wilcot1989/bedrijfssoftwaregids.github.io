@@ -64,7 +64,7 @@ De prijsstructuur van Teamleader Focus is overzichtelijker dan bij veel concurre
 | **GROW** | €39 | Alles in SMART + offertes, facturatie, betalingsopvolging | Bedrijven die ook factureren via Teamleader |
 | **FLOW** | €99 | Alles in GROW + multi-team, multi-bedrijf, geavanceerde workflows | Grotere organisaties met meerdere afdelingen |
 
-<a href="https://www.teamleader.eu/nl-nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer Teamleader 14 dagen gratis →</a>
+<a href="https://www.teamleader.eu/nl-nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Teamleader 14 dagen gratis →</a>
 
 ### Wat je moet weten over de prijzen
 
@@ -307,7 +307,7 @@ Het is geen beste-in-klasse CRM (dat is Pipedrive), geen beste-in-klasse factura
 
 De Trustpilot-score van 4,4 en G2-score van 4,3 bevestigen wat ik in de praktijk zie: gebruikers zijn overwegend tevreden, mits ze de tool inzetten waarvoor hij bedoeld is. De recente prijsverhogingen zijn een aandachtspunt, maar de waarde die je krijgt voor €39 per gebruiker per maand -- CRM, offertes, facturatie, projecten en tijdregistratie -- is in de Benelux-markt lastig te evenaren.
 
-<a href="https://www.teamleader.eu/nl-nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar teamleader.eu →</a>
+<a href="https://www.teamleader.eu/nl-nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar teamleader.eu →</a>
 
 Lees ook mijn overzicht van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) en het artikel over de [beste facturatiesoftware voor het MKB](/blog/beste-facturatie-software-mkb-2026/).
 

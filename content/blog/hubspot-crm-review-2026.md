@@ -95,7 +95,7 @@ Wil je de kosten voor jouw teamgrootte uitrekenen? Gebruik de [CRM kosten bereke
 
 Die laatste rij is waar het pijn doet. Een team van vijf dat sales en marketing combineert op Professional-niveau betaalt bijna €15.000 per jaar. Ter vergelijking: Pipedrive Professional kost €49,90 per gebruiker, wat neerkomt op €2.994 per jaar voor vijf gebruikers -- zonder aparte marketingkosten.
 
-<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer HubSpot gratis →</a>
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer HubSpot gratis →</a>
 
 **Verplichte onboarding:** bij Sales Hub Professional betaal je een eenmalige onboarding van $1.500 (circa €1.380). Bij Marketing Hub Professional is dat $3.000. Dit is niet optioneel.
 
@@ -334,7 +334,7 @@ Bekijk ook mijn complete vergelijking van de [beste CRM software in Nederland](/
 
 *Prijzen en scores gecontroleerd op 1 maart 2026. HubSpot past prijzen regelmatig aan -- controleer altijd de actuele tarieven op hubspot.com/pricing.*
 
-<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hubspot.com →</a>
+<a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
 Wil je HubSpot vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)**, gebruik de **[keuzehulp](/tools/crm/keuzehulp/)** of bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)**.
 

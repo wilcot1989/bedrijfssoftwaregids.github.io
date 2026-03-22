@@ -180,7 +180,7 @@ De financiële kant is ook sterk. Declaraties gaan via VECOZO, en je boekhouding
 
 **Review scores:** Geen Trustpilot- of G2-profiel. Intramed is een niche-platform voor de Nederlandse zorg; gebruikerservaringen zijn te vinden op brancheforums en via KNGF-netwerken.
 
-<a href="https://www.intramed.nl/beroepsgroepen/fysiotherapie/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar intramed.nl →</a>
+<a href="https://www.intramed.nl/beroepsgroepen/fysiotherapie/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar intramed.nl →</a>
 
 ---
 
@@ -228,7 +228,7 @@ De helpdesk krijgt consistent goede reviews van gebruikers. Dat klinkt als een k
 
 
 **Review scores:** Geen Trustpilot- of G2-profiel. HCI is een gespecialiseerde Nederlandse zorgaanbieder; ervaringen zijn beschikbaar via beroepsverenigingen.
-<a href="https://www.hci-software.com/fysioroadmap/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar hci-software.com →</a>
+<a href="https://www.hci-software.com/fysioroadmap/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hci-software.com →</a>
 
 ---
 
@@ -276,7 +276,7 @@ De klinimetrie is uitgebreid, met meetinstrumenten, testen en vragenlijsten die 
 - MijnZorgtoegang patientenportaal is een betaalde add-on
 - Minder bekende naam dan Intramed
 
-<a href="https://fysiomanager.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar fysiomanager.nl →</a>
+<a href="https://fysiomanager.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar fysiomanager.nl →</a>
 
 ---
 
@@ -323,7 +323,7 @@ Het patientenportaal is sterk: patienten boeken zelf afspraken, ontvangen oefenp
 - Prijzen vereisen simulatie op de website (niet direct zichtbaar)
 - Minder community-ondersteuning in Nederland
 
-<a href="https://www.crossuite.com/nl_nl/software-fysiotherapie/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar crossuite.com →</a>
+<a href="https://www.crossuite.com/nl_nl/software-fysiotherapie/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar crossuite.com →</a>
 
 ---
 
@@ -370,7 +370,7 @@ Wat je inlevert ten opzichte van de duurdere pakketten: de interface is minder g
 - Minder integraties met externe systemen
 - Minder persoonlijke ondersteuning bij de overstap
 
-<a href="https://spotonmedics.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar spotonmedics.nl →</a>
+<a href="https://spotonmedics.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar spotonmedics.nl →</a>
 
 ---
 

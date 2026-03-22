@@ -70,7 +70,7 @@ Notion is de tool die ik het vaakst aanbeveel aan kleine teams die snel een werk
 
 **Praktisch gebruik:** Notion werkt het beste als primaire kennisbank voor teams die op Slack of Google Workspace draaien. Ik stel voor elk nieuw bedrijf een basisstructuur op: een "Bedrijfshandboek" space met daarin onboarding, procedures per afdeling en veelgestelde vragen. Dat kost een middag en is daarna meteen bruikbaar. Koppelingen met Slack (automatisch notificaties bij updates), Google Drive (embed bestanden) en GitHub (voor dev-teams) werken goed out of the box. Notion AI is inmiddels ook serieus bruikbaar: je kunt een pagina laten samenvatten, actiepunten laten extraheren uit vergadernotities of content laten herschrijven. Dat scheelt mijn klanten gemiddeld een paar uur per week.
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar notion.so →</a>
+<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
 
 ## 2. SharePoint — Beste voor Microsoft 365
 
@@ -91,7 +91,7 @@ SharePoint is krachtig, maar ik waarschuw altijd: het is geen kant-en-klaar intr
 
 **Praktisch gebruik:** SharePoint is qua prijzen ongeklopt voor M365-bedrijven — je betaalt er niets extra voor. De aanpak die ik aanbeveel: begin niet met SharePoint zelf, maar met Viva Connections in Teams. Daarmee geef je medewerkers een startpagina met nieuws, snelkoppelingen en recente documenten — zonder dat ze ooit naar SharePoint.com hoeven te gaan. Koppeling met Microsoft 365 is totaal: Word-documenten leven in SharePoint, Power Automate regelt goedkeuringsflows, en Outlook-kalenders zijn zichtbaar in intranetpagina's. Voor bedrijven die ook Google Workspace-tools (zoals Gmail of Google Meet) naast Microsoft gebruiken, is de integratie helaas minimaal — dan is Happeo een betere keuze.
 
-<a href="https://www.microsoft.com/nl-nl/microsoft-365/sharepoint/collaboration" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar microsoft.com/sharepoint →</a>
+<a href="https://www.microsoft.com/nl-nl/microsoft-365/sharepoint/collaboration" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar microsoft.com/sharepoint →</a>
 
 ## 3. Confluence — Beste voor technische teams
 
@@ -119,7 +119,7 @@ Confluence adviseer ik specifiek aan technische teams die al met Jira werken. De
 
 **Praktisch gebruik:** Confluence is op zijn best als technische documentatielaag. Een typische structuur: één Space per product of team, met daarin architectuurdocumenten, runbooks, API-documentatie en besluitlogs. Via Jira-macro's verschijnen open tickets automatisch in de relevante pagina. Voor niet-technische afdelingen (HR, finance, marketing) adviseer ik Confluence niet — de leercurve is te steil en Notion is dan prettiger. Slack-integratie werkt degelijk: updates in Confluence triggeren meldingen in het juiste Slack-kanaal.
 
-<a href="https://www.atlassian.com/nl/software/confluence" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar atlassian.com/confluence →</a>
+<a href="https://www.atlassian.com/nl/software/confluence" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar atlassian.com/confluence →</a>
 
 ## 4. Happeo — Beste voor Google Workspace
 
@@ -140,7 +140,7 @@ Happeo is de logische keuze als je bedrijf op [Google Workspace](https://www.dpb
 
 **Praktisch gebruik:** Happeo's kracht zit hem in de Google-koppeling: documenten uit Google Drive verschijnen direct in de intranetpagina's, Google Meet-links worden automatisch in kanaalberichten gezet, en de People Directory trekt profielen uit Google Workspace. Dat marketingbureau van 60 man dat ik noemde, gebruikte Happeo specifiek voor de wekelijkse teamupdate — die ging van een e-mail die niemand las naar een Happeo-post met reacties en likes die 85% van het team bekeek. Prijzen zijn alleen beschikbaar via een demo, maar reken op €6-10 per gebruiker per maand bij 50+ gebruikers.
 
-<a href="https://www.happeo.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar happeo.com →</a>
+<a href="https://www.happeo.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar happeo.com →</a>
 
 ## 5. Workvivo — Beste voor medewerkerscommunicatie
 
@@ -159,7 +159,7 @@ Workvivo is geen klassiek intranet maar een intern social media-platform, nu ond
 
 **Review scores:** G2 4,8/5 (2.100+ reviews) · Trustpilot: geen profiel
 
-<a href="https://www.workvivo.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar workvivo.com →</a>
+<a href="https://www.workvivo.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar workvivo.com →</a>
 
 ## Hoe kies je de juiste intranet software?
 

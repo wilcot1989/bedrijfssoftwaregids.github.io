@@ -121,7 +121,7 @@ De goedkoopste betaalde upgrade is Basic voor €3,99 per gebruiker per maand --
 ### Voor wie?
 Clockify is perfect voor **teams die een gratis, eenvoudige urenregistratie software** zoeken. De urenregistratie app is beschikbaar op alle platforms. Als je geen geavanceerde rapportages of facturatie-integratie nodig hebt, is er geen reden om te betalen.
 
-<a href="https://clockify.me/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar clockify.me →</a>
+<a href="https://clockify.me/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar clockify.me →</a>
 
 **✅ Voordelen:** Gratis voor onbeperkte gebruikers, eenvoudig, goede integraties, alle platforms, kiosk-modus
 **❌ Nadelen:** Gratis rapportages zijn beperkt, geen automatische tracking, interface is functioneel maar niet fraai
@@ -161,7 +161,7 @@ Zoek je ook een tool voor je productiviteit en taken? Lees de [vergelijking Noti
 ### Voor wie?
 Toggl Track is ideaal voor **ZZP'ers en kleine teams** die snel en makkelijk uren willen bijhouden. De urenregistratie app voor mobiel is een van de beste die ik heb getest. De gratis versie voor 5 gebruikers is perfect voor startups.
 
-<a href="https://toggl.com/track/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar toggl.com →</a>
+<a href="https://toggl.com/track/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar toggl.com →</a>
 
 **✅ Voordelen:** Beste gebruikservaring, idle detection, slimme herinneringen, goede rapportages, prachtige interface
 **❌ Nadelen:** Geen facturatie ingebouwd, duurder dan Clockify bij meer dan 5 users, gratis plan beperkt tot 5 gebruikers
@@ -199,7 +199,7 @@ Het Pro-plan voor €10,80 per gebruiker is een van de eerlijkste prijzen in dez
 ### Voor wie?
 Harvest is de beste keuze als je **uren direct wilt omzetten in facturen**. De combinatie van timetracking en facturatie bespaart een aparte facturatietool.
 
-<a href="https://www.getharvest.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar getharvest.com →</a>
+<a href="https://www.getharvest.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar getharvest.com →</a>
 
 **✅ Voordelen:** Ingebouwde facturatie, kostenregistratie, budgetwaarschuwingen, goede projectbudgettering, QuickBooks-integratie
 **❌ Nadelen:** Gratis plan zeer beperkt (1 user, 2 projecten), interface wat gedateerd, minder integraties dan Toggl
@@ -238,7 +238,7 @@ Een praktisch nadeel: de eerste configuratie kost tijd. Je moet regels instellen
 ### Voor wie?
 TimeCamp is de beste keuze als je **vergeten om te timen** het grootste probleem is. De automatische tracking vangt alles op, zelfs als medewerkers vergeten de timer te starten.
 
-<a href="https://www.timecamp.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar timecamp.com →</a>
+<a href="https://www.timecamp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar timecamp.com →</a>
 
 **✅ Voordelen:** Automatische tracking, productiviteitsanalyse, gratis voor onbeperkte users, facturatie inbegrepen, GPS-tracking
 **❌ Nadelen:** Automatische categorisering vereist initiële configuratie, privacy-overwegingen bij monitoring, desktop app vereist, setup kost tijd
@@ -281,7 +281,7 @@ Gripp werkt met staffeltarieven op basis van teamgrootte. Reken op circa €25-�
 ### Voor wie?
 Gripp is ideaal voor **Nederlandse bureaus (10-100 medewerkers)** die een compleet platform willen voor uren, projecten en facturatie. Het is duurder, maar vervangt meerdere losse tools.
 
-<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar gripp.com →</a>
+<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar gripp.com →</a>
 
 **✅ Voordelen:** Alles-in-één NL platform, diepe Exact Online-koppeling, capaciteitsplanning, Nederlandse support
 **❌ Nadelen:** Duurste optie, overkill voor solo-gebruikers, leercurve bij implementatie (4-8 weken), geen gratis plan

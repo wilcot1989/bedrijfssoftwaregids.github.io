@@ -138,7 +138,7 @@ Ik raad Fieldly NIET aan voor:
 - Beperkte projectmanagementfuncties voor complexe projecten
 - Minder internationaal ecosysteem dan Mobiwork
 
-<a href="https://fieldly.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Fieldly →</a>
+<a href="https://fieldly.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Fieldly →</a>
 
 ---
 
@@ -190,7 +190,7 @@ Ik raad Mobiwork NIET aan voor:
 - Hogere complexiteit voor kleine bedrijven
 - Nacalculatie is basis
 
-<a href="https://www.mobiwork.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Mobiwork →</a>
+<a href="https://www.mobiwork.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Mobiwork →</a>
 
 ---
 
@@ -244,7 +244,7 @@ Ik raad Gripp NIET aan voor:
 - Boekhouden is niet de kern (vereist koppeling met apart pakket)
 - Leercurve voor complexe projectconfiguraties
 
-<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Gripp →</a>
+<a href="https://www.gripp.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Gripp →</a>
 
 ---
 
@@ -299,7 +299,7 @@ Ik raad Exact Online NIET aan voor:
 - Vereist meer configuratie en installatietijd
 - Kritisch punt: support wordt regelmatig bekritiseerd (3.2 Trustpilot)
 
-<a href="https://www.exact.com/nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Exact Online →</a>
+<a href="https://www.exact.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Exact Online →</a>
 
 ---
 
@@ -352,7 +352,7 @@ Ik raad SnelStart NIET aan voor:
 - Minder geschikt voor grotere bedrijven
 - Nacalculatie is basis
 
-<a href="https://jf79.net/c/?si=16383&mi=1&li=1&wi=29736&ws=&dl=snelstart.nl%2F" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer SnelStart gratis →</a>
+<a href="https://jf79.net/c/?si=16383&mi=1&li=1&wi=29736&ws=&dl=snelstart.nl%2F" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart gratis →</a>
 
 ---
 
@@ -424,7 +424,7 @@ Software voor installatiebedrijven is geen one-size-fits-all. Mijn praktische ri
 
 Wil je meer lezen? Bekijk mijn overzichten van [beste werkbonnen software](/blog/beste-werkbonnen-software-2026/), [beste routeplanning software](/blog/beste-routeplanning-software-2026/), [Exact Online alternatieven](/blog/exact-online-alternatieven-2026/) of [SnelStart alternatieven](/blog/snelstart-alternatieven-2026/).
 
-<a href="https://jf79.net/c/?si=16383&mi=1&li=1&wi=29736&ws=&dl=snelstart.nl%2F" target="_blank" rel="noopener nofollow" class="cta-affiliate">Probeer SnelStart gratis voor je administratie →</a>
+<a href="https://jf79.net/c/?si=16383&mi=1&li=1&wi=29736&ws=&dl=snelstart.nl%2F" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart gratis voor je administratie →</a>
 
 ---
 

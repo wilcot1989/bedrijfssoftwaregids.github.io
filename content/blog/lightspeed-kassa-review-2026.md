@@ -188,7 +188,7 @@ Sinds een paar jaar biedt Lightspeed een eigen betaalverwerking aan: Lightspeed 
 
 *Prijzen bij jaarlijkse betaling. Maandelijks opzegbaar is circa 10-20% duurder.*
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Lightspeed →</a>
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Lightspeed →</a>
 
 ### Verborgen kosten waar je op moet letten
 
@@ -314,7 +314,7 @@ Als ik het moet samenvatten in een score:
 
 Mijn advies: **vraag een demo aan en test het systeem minimaal twee weken voordat je een beslissing neemt.** Gebruik die periode om je belangrijkste workflows door te lopen: bestellingen, afrekenen, voorraadbeheer, rapportages. En reken de totale maandkosten door -- inclusief Deliverect, hardware en transactiekosten. Dan weet je precies of Lightspeed de investering waard is voor jouw zaak.
 
-<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
+<a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 
 Wil je Lightspeed vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/kassasystemen/)**, gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)** of bereken je **[kassasysteem kosten](/tools/kassasystemen/kosten-berekenen/)**.

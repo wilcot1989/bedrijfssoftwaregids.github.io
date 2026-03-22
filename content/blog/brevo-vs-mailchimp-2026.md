@@ -402,7 +402,7 @@ Bij minder dan 2.500 contacten die je wekelijks mailt, is het prijsverschil met 
 **4. Deliverability is je prioriteit**
 Als je in een sector werkt waar elke gemiste e-mail telt -- denk aan transactiemeldingen, afspraaherinneringen of tijdkritieke aanbiedingen -- is Mailchimp's hogere deliverability-score een serieus argument.
 
-<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar mailchimp.com →</a>
+<a href="https://mailchimp.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar mailchimp.com →</a>
 
 ---
 

@@ -548,7 +548,7 @@ Monday.com heeft de laagste migratie-drempel dankzij eenvoudige Excel-import en 
 
 **Persoonlijk advies:** Start met de gratis proefperiode van ClickUp en Asana. Ze hebben allebei 30 dagen trial. Monday.com heeft een 14-daagse trial. Gebruik die periodes actief — import je bestaande projecten en test dagelijks gebruik.
 
-<a href="https://clickup.com/pricing" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">ClickUp gratis proberen →</a>
+<a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">ClickUp gratis proberen →</a>
 
 <a href="https://asana.com/pricing" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Asana 30 dagen gratis testen →</a>
 

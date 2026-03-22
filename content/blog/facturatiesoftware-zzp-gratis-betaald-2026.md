@@ -142,7 +142,7 @@ Het transactielimiet is de grote valkuil bij Moneybird. Als je maandelijks meer 
 
 **Beste keuze voor:** ZZP'ers die de mooiste interface willen, per project werken en tijdregistratie combineren met facturatie. Growth-plan voor de meeste freelancers.
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Bekijk Moneybird →</a>
+<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Moneybird →</a>
 
 ---
 
@@ -251,7 +251,7 @@ Maar voor de doorsnee ZZP'er die diensten levert, maandelijks 10-40 facturen ver
 
 **Beste keuze voor:** Budget-bewuste ZZP'ers die complete functionaliteit willen met telefonische ondersteuning. Ideaal voor starters door het gratis startersaanbod.
 
-<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
+<a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 ---
 
@@ -316,7 +316,7 @@ De keerzijde: de software heeft minder functies dan e-Boekhouden, WeFact of Mone
 
 **Beste keuze voor:** ZZP'ers die zo snel en eenvoudig mogelijk willen beginnen, of de absolute minimumprijs zoeken voor een werkend betaald plan inclusief BTW-aangifte.
 
-<a href="https://www.factuursturen.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar factuursturen.nl →</a>
+<a href="https://www.factuursturen.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar factuursturen.nl →</a>
 
 ---
 
@@ -353,7 +353,7 @@ Als je niet zeker weet of WeFact bij jou past, vergelijk het dan met e-Boekhoude
 
 **Beste keuze voor:** ZZP'ers die maandelijks dezelfde klanten factureren, abonnementsdiensten leveren of maximale tijdsbesparing willen op de facturatieroute.
 
-<a href="https://www.wefact.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar wefact.nl →</a>
+<a href="https://www.wefact.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar wefact.nl →</a>
 
 ---
 
@@ -380,7 +380,7 @@ Als je geen boekhouder gebruikt en alles zelf doet, betaal je bij InformerOnline
 
 **Beste keuze voor:** ZZP'ers die samenwerken met een boekhouder of accountant. De gratis boekhouder-toegang en SBR-rapportages besparen tijd en geld bij de jaarrekening.
 
-<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow" class="cta-affiliate">Ga naar informer.nl →</a>
+<a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar informer.nl →</a>
 
 ---
 
