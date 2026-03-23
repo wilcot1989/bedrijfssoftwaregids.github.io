@@ -258,7 +258,7 @@ Een simpele rekensom: als betere offertesoftware (€25/mnd) je conversieratio v
 | Internationaal, geavanceerde functies | PandaDoc betaald | €29/mnd |
 | Doorgroei naar bureau | Teamleader | €50-65/gebruiker/mnd |
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
 
 Meer vergelijkingen vind je in [beste offerte software 2026](/blog/beste-offerte-software-2026/) en [beste facturatie software MKB 2026](/blog/beste-facturatie-software-mkb-2026/). Als je twijfelt over welke boekhoudtool het beste bij jouw situatie past, gebruik dan de [keuzehulp boekhoudsoftware](/tools/boekhouding/keuzehulp/). Voor een volledig overzicht van alle boekhoudsoftware-opties, zie de [categoriepagina boekhouding](/categories/boekhouding/).
 

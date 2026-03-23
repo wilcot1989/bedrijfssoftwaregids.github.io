@@ -166,7 +166,7 @@ Inbegrepen in Moneybird-abonnementen. Moneybird kost vanaf €15/maand (inclusie
 **✅ Voordelen:** Geen extra kosten, offerte-naar-factuur in één klik, alles in één systeem
 **❌ Nadelen:** Zeer beperkte templates en design-opties, geen digitale handtekening, geen interactieve elementen
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ## Welk offerteprogramma past bij jou?
 

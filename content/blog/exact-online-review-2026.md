@@ -395,7 +395,7 @@ Exact Online heeft drie hoofdfuncties op AI-gebied: factuurherkenning (OCR + mac
 
 **De prijs is gerechtvaardigd als** je een groeiend MKB-bedrijf bent dat meerdere modules gebruikt, samenwerkt met een accountant en een betrouwbaar, compleet platform zoekt. De investering verdient zich terug in efficiency en overzicht.
 
-**De prijs is minder gerechtvaardigd als** je een ZZP'er bent met een eenvoudige administratie. Dan ben je met [Moneybird](https://www.moneybird.nl/) of [e-Boekhouden](https://www.e-boekhouden.nl/) goedkoper en even goed uit.
+**De prijs is minder gerechtvaardigd als** je een ZZP'er bent met een eenvoudige administratie. Dan ben je met [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) of [e-Boekhouden](https://www.e-boekhouden.nl/) goedkoper en even goed uit.
 
 **Mijn verdict**: Exact Online is de Toyota Corolla van de Nederlandse boekhoudmarkt -- betrouwbaar, compleet en misschien niet het spannendst, maar het doet wat het moet doen en het doet het goed. Voor groeiende MKB-bedrijven blijft het in 2026 de standaardkeuze, en dat is niet zonder reden.
 

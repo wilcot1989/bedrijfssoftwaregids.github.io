@@ -326,6 +326,8 @@ Er is niet één beste alternatief — dat hangt volledig af van wat jij mist bi
 
 Moneybird is een uitstekend product — maar het is niet voor iedereen de beste keuze. De Nederlandse markt heeft meerdere serieuze alternatieven die op specifieke punten beter presteren.
 
+Twijfel je toch of de alternatieven beter zijn? <a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a> en oordeel zelf.
+
 Wil je weten welk pakket het beste bij jou past? Gebruik de [boekhoudprogramma keuzehulp](/tools/boekhouding/keuzehulp/) of lees mijn uitgebreide [vergelijking van de beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/).
 
 ---

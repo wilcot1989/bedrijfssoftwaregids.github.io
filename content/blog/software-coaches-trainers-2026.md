@@ -240,7 +240,7 @@ Lees mijn volledige [Moneybird review 2026](/blog/moneybird-review-2026/) voor e
 - Beperkter dan Exact Online of SnelStart voor groeiende bedrijven
 - Urenregistratie is basis
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
 
 ---
 

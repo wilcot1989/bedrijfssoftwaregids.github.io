@@ -232,7 +232,7 @@ Maar dan de keerzijde. De interface voelt gedateerd aan. De prijzen zijn niet tr
 **Mijn advies:**
 
 - Ben je accountant of werk je nauw samen met een accountantskantoor dat Twinfield gebruikt? Dan is het een logische keuze die zijn werk goed doet.
-- Ben je ondernemer die zelf zijn boekhouding wil beheren? Kijk dan eerst naar [Exact Online](https://www.exact.com/nl) (breder, met meer modules) of [Moneybird](https://www.moneybird.nl/) (goedkoper en eenvoudiger).
+- Ben je ondernemer die zelf zijn boekhouding wil beheren? Kijk dan eerst naar [Exact Online](https://www.exact.com/nl) (breder, met meer modules) of [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) (goedkoper en eenvoudiger).
 - Heb je meerdere entiteiten en zoek je consolidatiefunctionaliteit? Dan is Twinfield de moeite waard om te bekijken, maar vergelijk het eerst met Exact Online, dat dit ook ondersteunt.
 
 Twinfield krijgt van mij een **6/10**. Niet slecht voor het specifieke segment waarvoor het is gebouwd, maar zeker geen aanrader buiten dat segment.

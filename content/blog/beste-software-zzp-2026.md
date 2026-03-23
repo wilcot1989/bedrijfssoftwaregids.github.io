@@ -57,14 +57,14 @@ Dit is de enige categorie waar je niet omheen kunt. Je bent wettelijk verplicht 
 
 Ik heb hier een [compleet artikel](/blog/beste-boekhoudsoftware-zzp-2026/) over geschreven met 6 pakketten diepgaand vergeleken, maar in het kort:
 
-- **[Moneybird](https://www.moneybird.nl/)** (€15/mnd) — het populairst onder ZZP'ers vanwege de prettige interface. Urenregistratie en offertes zitten ingebouwd. Mijn standaard aanbeveling.
+- **[Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=)** (€15/mnd) — het populairst onder ZZP'ers vanwege de prettige interface. Urenregistratie en offertes zitten ingebouwd. Mijn standaard aanbeveling.
 - **[e-Boekhouden.nl](https://www.e-boekhouden.nl/)** (€9,95/mnd) — beste prijs-kwaliteit met een Trustpilot van 4.7/5. **15 maanden gratis voor starters.**
 - **SnelStart** (gratis basisplan / €16/mnd) — Nederlandstalig boekhoudpakket van Visma met 250.000+ gebruikers. Gratis starten, volledige BTW-aangifte en bankkoppeling. Goede keuze als je een vertrouwd lokaal pakket wilt zonder veel franje. <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
 - **[Rompslomp](https://rompslomp.nl/)** (€13,50/mnd) — 100% gebouwd voor ZZP'ers, geen overbodige functies.
 
 **Mijn advies:** als je net start, begin bij e-Boekhouden (gratis tot 15 maanden). Wil je de prettigste ervaring? Kies Moneybird. Lees de volledige vergelijking: [Beste Boekhoudprogramma ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/). Twijfel je nog welk boekhoudprogramma het beste bij jou past? Lees dan mijn artikel [boekhoudprogramma kiezen: 7 vragen](/blog/boekhoudprogramma-kiezen-7-vragen/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 <a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 

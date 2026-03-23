@@ -1,0 +1,18 @@
+{
+  "boekhouding": [
+    {"name": "Moneybird", "slug": "moneybird", "price": "€15/mnd", "score": "3.5/5", "best_for": "ZZP & MKB"},
+    {"name": "e-Boekhouden", "slug": "e-boekhouden", "price": "€9.95/mnd", "score": "4.6/5", "best_for": "Budget"},
+    {"name": "SnelStart", "slug": "snelstart", "price": "€0-16/mnd", "score": "4.6/5", "best_for": "Starters"},
+    {"name": "Exact Online", "slug": "exact-online", "price": "€49/mnd", "score": "2.6/5", "best_for": "MKB"},
+    {"name": "Jortt", "slug": "jortt", "price": "€0-19/mnd", "score": "4.2/5", "best_for": "Eenvoud"},
+    {"name": "Xero", "slug": "xero", "price": "€15/mnd", "score": "—", "best_for": "Internationaal"}
+  ],
+  "crm": [
+    {"name": "Pipedrive", "slug": "pipedrive", "price": "€14/user", "score": "4.5/5", "best_for": "Sales"},
+    {"name": "HubSpot", "slug": "hubspot", "price": "Gratis", "score": "2.9/5", "best_for": "Marketing"},
+    {"name": "Salesforce", "slug": "salesforce", "price": "€25/user", "score": "—", "best_for": "Enterprise"},
+    {"name": "Zoho CRM", "slug": "zoho", "price": "€14/user", "score": "4.5/5", "best_for": "Budget"},
+    {"name": "Close CRM", "slug": "close", "price": "$29/user", "score": "4.7/5", "best_for": "Inside sales"},
+    {"name": "Teamleader", "slug": "teamleader", "price": "€37.50/user", "score": "2.8/5", "best_for": "NL MKB"}
+  ]
+}

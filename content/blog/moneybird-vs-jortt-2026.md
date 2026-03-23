@@ -376,6 +376,8 @@ De eerste BTW-aangifte in een nieuw systeem is altijd een spanend moment. Plan e
 
 Wil je Jortt proberen? <a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Jortt →</a>
 
+Of kies toch voor Moneybird? <a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Moneybird →</a>
+
 ## Veelgestelde vragen
 
 ### Wat is het grote verschil tussen Moneybird en Jortt?

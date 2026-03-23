@@ -289,7 +289,7 @@ Na jaren ondernemers te adviseren, zie ik steeds dezelfde fouten:
 - **Praktische types** die functionaliteit boven design verkiezen
 
 ### Minder geschikt voor:
-- **Ondernemers die een moderne, strakke interface willen** — kies dan [Moneybird](https://www.moneybird.nl/)
+- **Ondernemers die een moderne, strakke interface willen** — kies dan [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=)
 - **Wie veel onderweg boekt** en afhankelijk is van een sterke mobiele app
 - **Bedrijven die veel integraties nodig hebben** met externe tools — kies dan [Exact Online](/blog/exact-online-review-2026/)
 - **Internationale freelancers** die in meerdere valuta factureren

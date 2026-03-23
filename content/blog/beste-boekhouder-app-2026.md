@@ -89,7 +89,7 @@ De Moneybird app voelt als een natuurlijke extensie van de webversie. De interfa
 
 Lees meer in mijn uitgebreide [Moneybird review 2026](/blog/moneybird-review-2026/) of in mijn [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/). Ben je benieuwd of boekhouden en factureren ook gecombineerd kunnen? Lees dan over [factureren en boekhouden alles-in-een](/blog/factureren-en-boekhouden-alles-in-een/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -289,7 +289,7 @@ Update je boekhoud-app regelmatig voor de nieuwste functies en beveiligingspatch
 
 De beste boekhoud-app hangt af van je prioriteiten en je huidige boekhoudsoftware:
 
-- **Beste overall**: [Moneybird](https://www.moneybird.nl/) -- de sterkste combinatie van bonnetjes scannen, facturatie en gebruiksgemak op mobiel.
+- **Beste overall**: [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) -- de sterkste combinatie van bonnetjes scannen, facturatie en gebruiksgemak op mobiel.
 - **Meest gebruiksvriendelijk**: [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) -- ideaal voor starters die het zo simpel mogelijk willen houden.
 - **Beste voor groeiende bedrijven**: [Exact Online](https://www.exact.com/nl) -- krachtig platform met een solide mobiele aanvulling.
 - **Beste budget-optie**: [e-Boekhouden](https://www.e-boekhouden.nl/) -- basale maar functionele app tegen de laagste prijs.

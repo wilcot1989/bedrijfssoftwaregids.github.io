@@ -113,7 +113,7 @@ Boekhoudsoftware is de ruggengraat van je financiële administratie. De keuze he
 - **[E-Boekhouden](/blog/e-boekhouden-review-2026/):** Betaalbare optie voor kleinere ondernemingen. Prijs: v.a. €10/maand.
 - **[AFAS](/blog/afas-review-2026/):** Alles-in-één ERP voor bedrijven met 20+ medewerkers. Maatwerk pricing, maar bevat HR, payroll, boekhouding én projectmanagement in één systeem.
 
-<a href="https://www.moneybird.nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird 30 dagen gratis →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird 30 dagen gratis →</a>
 
 Twijfel je welke boekhoudoplossing bij jou past? Lees mijn vergelijkingen:
 - [Exact Online vs. Moneybird](/blog/moneybird-vs-exact-online-2026/)

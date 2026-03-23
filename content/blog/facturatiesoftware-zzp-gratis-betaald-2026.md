@@ -18,7 +18,7 @@ featured_image: "/images/categories/boekhouding.svg"
 products:
   - name: "Moneybird Free"
     description: "Gratis instapversie van Moneybird met maximaal 3 facturen per maand voor ZZP'ers die willen testen."
-    url: "https://www.moneybird.nl/"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
     price: "0.00"
     rating_value: "3.5"
     rating_count: "181"
@@ -142,7 +142,7 @@ Het transactielimiet is de grote valkuil bij Moneybird. Als je maandelijks meer 
 
 **Beste keuze voor:** ZZP'ers die de mooiste interface willen, per project werken en tijdregistratie combineren met facturatie. Growth-plan voor de meeste freelancers.
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Moneybird →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Moneybird →</a>
 
 ---
 

@@ -165,7 +165,7 @@ Let op: Moneybird rekent niet per gebruiker. Je betaalt een vast bedrag en kunt 
 - Je team groeit maar je **geen extra kosten per gebruiker** wilt
 - Je al gebruik maakt van losse tools (Zapier, Shopify) en die via integraties wilt koppelen
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ## Kies Exact Online als...
 
@@ -238,7 +238,7 @@ Bekijk het volledige overzicht in mijn artikel [Beste Boekhoudsoftware voor ZZP'
 
 Na jaren klanten te hebben geholpen met deze keuze, komt mijn advies neer op een simpele vraag: **hoe complex is je bedrijf?**
 
-**Kies Moneybird** als je een overzichtelijke administratie hebt. Je bent ZZP'er, freelancer of hebt een klein team. Je stuurt facturen, boekt bonnetjes, doet je BTW-aangifte en klaar. Je wilt er zo min mogelijk tijd aan besteden. Moneybird doet precies dat, voor een fractie van de prijs van Exact. [Start gratis met Moneybird](https://www.moneybird.nl/).
+**Kies Moneybird** als je een overzichtelijke administratie hebt. Je bent ZZP'er, freelancer of hebt een klein team. Je stuurt facturen, boekt bonnetjes, doet je BTW-aangifte en klaar. Je wilt er zo min mogelijk tijd aan besteden. Moneybird doet precies dat, voor een fractie van de prijs van Exact. [Start gratis met Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=).
 
 **Kies Exact Online** als je bedrijf groeit en je meer nodig hebt dan alleen boekhouden. Je wilt voorraad bijhouden, projecten managen, klantrelaties beheren -- allemaal vanuit een systeem. De hogere prijs en steilere leercurve betaal je terug in overzicht en schaalbaarheid. [Probeer Exact Online 30 dagen gratis](https://www.exact.com/nl/producten/boekhouden/probeer/essentials).
 

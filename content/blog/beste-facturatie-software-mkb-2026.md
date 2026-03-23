@@ -17,7 +17,7 @@ featured_image: "/images/categories/boekhouding.svg"
 products:
   - name: "Moneybird"
     description: "Gebruiksvriendelijk factuurprogramma voor Nederlands MKB met bankkoppeling, BTW-aangifte en offertes in drie klikken."
-    url: "https://www.moneybird.nl/"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
     price: "15.00"
     rating_value: "3.5"
     rating_count: "181"
@@ -154,7 +154,7 @@ Eerlijk nadeel: als je boekhouding complex is -- meerdere BTW-percentages, buite
 
 Ben je ZZP'er? Lees dan ook het artikel over de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/) voor een vergelijking die specifiek op jouw situatie is gericht.
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -662,7 +662,7 @@ Het antwoord is nee. De keuze voor facturatiesoftware hangt mede af van je recht
 
 Het juiste factuurprogramma bespaart je uren per week en voorkomt kostbare fouten in je administratie. Hier zijn mijn aanbevelingen:
 
-- **Beste allrounder voor MKB**: [Moneybird](https://www.moneybird.nl/) -- de perfecte balans tussen gebruiksgemak, functies en prijs.
+- **Beste allrounder voor MKB**: [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) -- de perfecte balans tussen gebruiksgemak, functies en prijs.
 - **Beste voor groeiend MKB**: [Exact Online](https://www.exact.com/nl) -- het meest complete platform dat meegroeit met je bedrijf.
 - **Beste samenwerking met boekhouder**: [e-Boekhouden](https://www.e-boekhouden.nl/) -- betrouwbaar platform met gratis accountantstoegang.
 - **Beste voor eenvoud**: [Rompslomp](https://www.rompslomp.nl/) -- minimale rompslomp, maximaal resultaat.

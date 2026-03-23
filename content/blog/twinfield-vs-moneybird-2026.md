@@ -324,7 +324,7 @@ Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:
 
 <a href="https://www.twinfield.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar twinfield.nl →</a>
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.

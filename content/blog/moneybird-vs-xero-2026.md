@@ -368,6 +368,8 @@ Uit gesprekken met gebruikers van beide platforms komen een paar consistente pat
 
 <a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Jortt →</a>
 
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Moneybird →</a>
+
 ## Veelgestelde vragen
 
 ### Is Moneybird beter dan Xero voor Nederlandse bedrijven?

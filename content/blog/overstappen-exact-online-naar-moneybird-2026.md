@@ -350,6 +350,8 @@ Maar doe het goed. Controleer je opzegtermijn vandaag nog. Betrek je boekhouder 
 
 Als je wilt weten of Moneybird voor jouw situatie het juiste pakket is, kun je de [keuzehulp voor boekhoudsoftware](/tools/boekhouding/keuzehulp/) gebruiken of het [overzicht van alle boekhoudsoftware pakketten](/categories/boekhouding/) bekijken.
 
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Moneybird →</a>
+
 Heb je een vraag over de migratie? Laat het weten in de reacties — ik beantwoord die allemaal zelf.
 
 ---

@@ -62,7 +62,7 @@ Moneybird is mijn standaard aanbeveling voor ZZP'ers die hun boekhouding snel en
 
 **Prijs:** Gratis proefperiode. Starter: EUR 15 per maand. Growth: EUR 28 per maand (inclusief meerdere gebruikers en geavanceerde rapportages).
 
-<a href="https://www.moneybird.nl/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Moneybird</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Moneybird</a>
 
 ---
 

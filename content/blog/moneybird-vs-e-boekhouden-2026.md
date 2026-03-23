@@ -225,7 +225,7 @@ Moneybird is de beste keuze als:
 - Je **integraties** nodig hebt met tools als Shopify, WooCommerce of Zapier
 - Je regelmatig **facturen verstuurt** en deze professioneel wilt laten ogen
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -281,7 +281,7 @@ Bekijk ons volledige overzicht in het artikel [Beste Boekhoudsoftware voor ZZP'e
 
 Ik krijg deze vraag zo vaak dat ik er bijna een standaardantwoord voor heb:
 
-- **Kies Moneybird** als je het soort ondernemer bent dat een prettige app-ervaring waardeert en niet wilt nadenken over boekhoudtermen. Die ruim zestig euro per jaar extra betaal je voor gemak, en voor veel mensen is dat het dubbel en dwars waard. [Start gratis met Moneybird](https://www.moneybird.nl/).
+- **Kies Moneybird** als je het soort ondernemer bent dat een prettige app-ervaring waardeert en niet wilt nadenken over boekhoudtermen. Die ruim zestig euro per jaar extra betaal je voor gemak, en voor veel mensen is dat het dubbel en dwars waard. [Start gratis met Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=).
 
 - **Kies e-Boekhouden** als je nuchter bent en het beste pakket wilt voor de laagste prijs. Je krijgt meer rapportages, telefonische support, en een stabiel platform. De interface is minder hip, maar als je kunt boekhouden, merk je dat nauwelijks. [Probeer e-Boekhouden.nl](https://www.e-boekhouden.nl/).
 

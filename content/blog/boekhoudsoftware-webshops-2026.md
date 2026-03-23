@@ -24,7 +24,7 @@ products:
     rating_count: "641"
   - name: "Moneybird"
     description: "Gebruiksvriendelijke boekhoud- en facturatiesoftware, populairste keuze bij kleinere Nederlandse webshops."
-    url: "https://www.moneybird.nl/"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
     price: "15.00"
     rating_value: "3.5"
     rating_count: "180"
@@ -345,7 +345,7 @@ De juiste boekhoudsoftware voor jouw webshop hangt af van drie factoren: je volu
 
 Voor de meeste startende en groeiende Nederlandse webshops is **Moneybird** de beste combinatie van gebruiksgemak, koppelingen en prijs. Op **Lightspeed** of bij internationaal hoog volume is **Exact Online** de enige serieuze optie. En als je voorraadbeheer wil ingebouwd zonder extra kosten, verdient **SnelStart** een serieuze blik.
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
 
 <a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Exact Online voor webshops →</a>
 

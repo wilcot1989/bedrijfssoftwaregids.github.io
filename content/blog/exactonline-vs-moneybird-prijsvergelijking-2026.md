@@ -325,6 +325,8 @@ Jortt is volledig gefocust op zzp'ers en kleine ondernemers. Met €9,95/mnd (ja
 
 <a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Jortt →</a>
 
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird gratis →</a>
+
 ## Conclusie: Moneybird wint op prijs in de meeste scenario's
 
 De conclusie is helder: voor zzp'ers en klein mkb is Moneybird financieel de betere keuze. Het prijsverschil over vijf jaar is substantieel — tussen de €1.500 en €2.900 afhankelijk van je situatie. Zelfs als je de kosten van een externe salarismodule meetelt, komt Moneybird in de meeste scenario's goedkoper uit dan Exact Online.

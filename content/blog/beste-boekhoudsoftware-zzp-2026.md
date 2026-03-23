@@ -17,7 +17,7 @@ featured_image: "/images/categories/boekhouding.svg"
 products:
   - name: "Moneybird"
     description: "Gebruiksvriendelijke boekhoud- en facturatiesoftware speciaal ontwikkeld voor Nederlandse ZZP'ers en MKB."
-    url: "https://www.moneybird.nl/"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
     price: "15.00"
     rating_value: "3.5"
     rating_count: "180"
@@ -144,7 +144,7 @@ Het gratis plan is zo beperkt (maximaal 3 facturen per maand) dat het eigenlijk 
 
 Voor de meeste ZZP'ers is het plan van €28/maand het sweet spot. Je krijgt onbeperkte boekingen en bankkoppeling — alles wat je nodig hebt. Benieuwd hoe Moneybird zich verhoudt tot e-Boekhouden? Lees mijn uitgebreide [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/).
 
-<a href="https://www.moneybird.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
+<a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a>
 
 ---
 
@@ -607,7 +607,7 @@ Twijfel je nog? Gebruik de gratis tools:
 
 Na meer dan 12 jaar ZZP'ers en MKB'ers te adviseren over software, komt het voor een boekhoudprogramma op het volgende neer:
 
-**Als je de fijnste gebruikerservaring wilt** en zelf je administratie doet: ga voor [Moneybird](https://www.moneybird.nl/). Het plan van €28/maand (50 transacties) is alles wat 90% van de ZZP'ers nodig heeft. Begin met de gratis proefperiode van 60 dagen en oordeel zelf.
+**Als je de fijnste gebruikerservaring wilt** en zelf je administratie doet: ga voor [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=). Het plan van €28/maand (50 transacties) is alles wat 90% van de ZZP'ers nodig heeft. Begin met de gratis proefperiode van 60 dagen en oordeel zelf.
 
 **Als je elk dubbeltje moet omdraaien** en gewoon een compleet pakket zoekt: [e-Boekhouden.nl](https://www.e-boekhouden.nl/) levert dezelfde basisfuncties voor €9,95/maand — met de beste Trustpilot-score (4.6) en echte telefonische support. Start je net als ondernemer? Dan is het tot 15 maanden gratis.
 

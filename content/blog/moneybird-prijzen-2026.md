@@ -117,7 +117,7 @@ Moneybird biedt circa **10% korting** als je jaarlijks betaalt in plaats van maa
 | Growth | €28 | ~€25,20 | ~€302 | ~€34/jaar |
 | Professional | €39 | ~€35,10 | ~€421 | ~€47/jaar |
 
-Alle bedragen excl. btw. De precieze kortingsbedragen kunnen variëren — controleer altijd de actuele prijs op [moneybird.nl](https://www.moneybird.nl/).
+Alle bedragen excl. btw. De precieze kortingsbedragen kunnen variëren — controleer altijd de actuele prijs op [moneybird.nl](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=).
 
 De besparing is relatief bescheiden. €18-47 per jaar is geen reden om blind te kiezen voor jaarlijkse betaling. Weet je zeker dat je Moneybird het komende jaar blijft gebruiken? Dan loont het. Ben je net begonnen of overweeg je nog een overstap? Start maandelijks.
 
@@ -327,7 +327,7 @@ Moneybird is een uitstekend boekhoudpakket met een helder prijsmodel — mits je
 - **Growth (€28/mnd):** voor actieve ZZP'ers met 20-50 transacties/mnd
 - **Professional (€39/mnd):** voor MKB en iedereen met meer dan 50 transacties/mnd
 
-Wil je Moneybird proberen? Bezoek [moneybird.nl](https://www.moneybird.nl/) voor de actuele proefperiode. Wil je eerst vergelijken? Bekijk dan mijn [Moneybird review](/blog/moneybird-review-2026/) of gebruik de [kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een persoonlijke berekening.
+Wil je Moneybird proberen? <a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar moneybird.nl →</a> voor de actuele proefperiode. Wil je eerst vergelijken? Bekijk dan mijn [Moneybird review](/blog/moneybird-review-2026/) of gebruik de [kosten berekenen tool](/tools/boekhouding/kosten-berekenen/) voor een persoonlijke berekening.
 
 En als je na het lezen twijfelt of Moneybird wel de juiste keuze is: dat is een gezond teken. Er zijn goede alternatieven. <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart →</a> en <a href="https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Jortt →</a> zijn allebei serieuze opties die het overwegen waard zijn, afhankelijk van jouw situatie.
 
