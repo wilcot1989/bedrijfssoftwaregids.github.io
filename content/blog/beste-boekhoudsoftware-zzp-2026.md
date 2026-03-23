@@ -55,6 +55,10 @@ products:
     description: "Vertrouwd Nederlands boekhoudpakket met gratis instap, onderdeel van Visma. Populair bij 250.000+ Nederlandse ZZP'ers en MKB."
     url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
     price: "16.00"
+  - name: "Bunni"
+    description: "Simpele boekhoudsoftware voor ZZP'ers en kleine ondernemers zonder boekhoudkennis. Opgericht door niet-financiële mensen, met eigen categorieën in plaats van boekhoudtaal."
+    url: "https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl="
+    price: "10.00"
 faq:
   - q: "Welk boekhoudprogramma is het goedkoopst voor ZZP'ers?"
     a: "E-Boekhouden.nl begint bij circa 9,95 euro per maand en is daarmee het goedkoopste volledige pakket. Jortt biedt een gratis basisversie maar de betaalde ZZP-versie kost 19,95 euro per maand. Moneybird begint bij 15 euro per maand. Voor de meeste ZZP'ers liggen de kosten tussen 10 en 40 euro per maand."
@@ -111,6 +115,7 @@ Voordat ik elk pakket apart bespreek, eerst het overzicht waar het om draait —
 | **FreshBooks** | $19/mnd (±€17,50, 5 klanten) | $33/mnd (±€30, 50 klanten) | Nee (30 dagen trial) | Beperkt | Beperkt | 3.9/5 (984) |
 | **InformerOnline** | €15/mnd (Starter) | €23/mnd (Professional) | Nee (30 dagen trial) | Ja | Ja | 4.3/5 (113) |
 | **Jortt** | Gratis (basis) | €19,95/mnd (ZZP) | Ja | Ja | Ja (betaald) | 4.7/5 (185) |
+| **Bunni** | €10/mnd (<€2.500/mnd) | €15/mnd | Nee | Ja | Ja | n.v.t. |
 
 Wat meteen opvalt: het duurste pakket (Exact Online) heeft de laagste Trustpilot-score. En e-Boekhouden.nl — niet het meest sexy merk — scoort het hoogst met een 4.6 op bijna 1.900 reviews. Dat zegt iets.
 
@@ -319,9 +324,27 @@ Wil je later toch overstappen van Jortt naar een ander pakket? Dat is goed te do
 
 ---
 
+## 7. Bunni — de simpelste optie voor starters die niks van boekhouding weten
+
+Bunni is opgericht door mensen zonder financiële achtergrond — en dat merk je aan alles. Waar andere pakketten spreken over "grootboekrekeningen" en "debiteuren", gebruikt Bunni gewoon je eigen taal. Je maakt zelf categorieën die aansluiten op hoe jij je bedrijf beleeft. Geen boekhoudopleiding nodig, geen handleiding van tachtig pagina's.
+
+Wat Bunni onderscheidt van de andere pakketten in dit overzicht:
+
+- **Bankkoppelingen** met alle grote Nederlandse banken
+- **Facturatie en offertes** ingebouwd
+- **Uren- en kilometerregistratie** standaard beschikbaar
+- **BTW-aangifte in minder dan 5 minuten** — het systeem werkt alles voor je uit
+- **Accountant-koppeling** voor als je toch hulp inschakelt
+
+De prijs is opvallend goed voor kleine omzetten. Verdien je minder dan €2.500 per maand? Dan betaal je €10 per maand. Daarboven is het €15 per maand. Voor een bijverdienende ZZP'er of iemand die net start, is dit het goedkoopste volwaardige pakket in dit overzicht.
+
+Eerlijk gezegd: als je al twee jaar boekhoudt en een eigen workflow hebt, verandert Bunni daar niets aan. Maar als je nu staat te twijfelen of je uberhaupt zelf kunt boekhouden — ja, dan is dit de zachte landing die je zoekt.
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Bunni →</a>
+
 ---
 
-## 7. SnelStart — vertrouwd Nederlands boekhoudpakket met gratis instap
+## 8. SnelStart — vertrouwd Nederlands boekhoudpakket met gratis instap
 
 SnelStart is misschien niet het hipste pakket op deze lijst, maar het heeft iets dat de meeste concurrenten ontberen: 250.000+ Nederlandse gebruikers en decennia aan lokale kennis. Het pakket — inmiddels onderdeel van Visma — is populair bij ZZP'ers en klein MKB die gewoon een degelijk, Nederlandstalig boekhoudprogramma willen zonder fratsen. Het gratis plan maakt het laagdrempelig om te starten; wie meer volume heeft, stapt door naar een betaald pakket vanaf €16 per maand.
 

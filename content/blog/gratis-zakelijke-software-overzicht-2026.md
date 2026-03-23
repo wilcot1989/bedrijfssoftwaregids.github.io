@@ -76,6 +76,9 @@ Wave is de meest complete gratis boekhoudsoftware voor kleine bedrijven. Het pla
 **Nederlandse alternatieven:**
 - Moneybird gratis: max 3 facturen per maand — handig voor absolute starters
 - E-Boekhouden: proefperiode, daarna v.a. €10/maand
+- **Bunni:** niet gratis, maar €10/mnd voor kleine ondernemers (omzet <€2.500/mnd). Volledig Nederlands boekhoudpakket zonder boekhoudtaal: bankkoppeling, facturatie, offertes, BTW-aangifte en uren/km-registratie. Voor ZZP'ers die Wave te internationaal vinden, is Bunni de betaalbare Nederlandse keuze.
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Bunni →</a>
 
 Meer lezen: [Moneybird review 2026](/blog/moneybird-review-2026/) | [Beste boekhoudsoftware ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/)
 

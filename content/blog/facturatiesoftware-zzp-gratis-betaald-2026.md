@@ -85,7 +85,7 @@ Ik spreek wekelijks ZZP'ers die te veel betalen voor hun facturatieprogramma —
 
 Factureren als ZZP'er is simpel. De software die je daarvoor gebruikt minder. Want de markt is gevuld met zowel excellente tools als gratis proefversies die je pas op het verkeerde moment laat stellen. In dit artikel vergelijk ik 8 facturatieprogramma's die ik geschikt acht voor ZZP'ers — van volledig gratis tot professioneel betaald — eerlijk en zonder reclamepraat.
 
-**Wat ik vergelijk:** Moneybird Free, fENNA Facturatie (gratis), Jortt basis, e-Boekhouden.nl, SnelStart Web Gratis, Factuursturen.nl, WeFact en InformerOnline.
+**Wat ik vergelijk:** Moneybird Free, fENNA Facturatie (gratis), Jortt basis, e-Boekhouden.nl, SnelStart Web Gratis, Factuursturen.nl, WeFact, InformerOnline en Bunni.
 
 Wil je meteen naar de vergelijkingstabel? Scroll naar het hoofdstuk [Gratis vs. betaald: de eerlijke vergelijking](#gratis-vs-betaald). Wil je weten welk pakket bij jouw type ZZP-werk past? Ga naar [Concrete scenario's per type ZZP'er](#scenarios).
 
@@ -381,6 +381,28 @@ Als je geen boekhouder gebruikt en alles zelf doet, betaal je bij InformerOnline
 **Beste keuze voor:** ZZP'ers die samenwerken met een boekhouder of accountant. De gratis boekhouder-toegang en SBR-rapportages besparen tijd en geld bij de jaarrekening.
 
 <a href="https://www.informer.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar informer.nl →</a>
+
+---
+
+## 9. Bunni — de meest toegankelijke optie voor ZZP'ers zonder boekhoudkennis {#bunni}
+
+Bunni is opgericht door mensen die zelf geen financiële achtergrond hadden en gefrustreerd raakten van het boekhoudtaalgebruik in bestaande software. Dat vertaalt zich in een pakket dat werkt met je eigen categorieën — geen "debet/credit" of "grootboekrekeningen", maar de termen die jij gebruikt voor je bedrijf.
+
+Wat Bunni biedt voor facturatie en meer:
+
+- **Facturatie en offertes** ingebouwd
+- **Bankkoppelingen** met alle grote Nederlandse banken
+- **BTW-aangifte in minder dan 5 minuten** — het systeem rekent alles voor je uit
+- **Uren- en kilometerregistratie** standaard aanwezig
+- **Accountant-koppeling** beschikbaar
+
+De prijs werkt op een andere manier dan de meeste pakketten: verdien je minder dan €2.500 per maand, dan betaal je €10 per maand. Daarboven is het €15 per maand. Voor een startende of bijverdienende ZZP'er met een kleine omzet is dat scherp.
+
+De kanttekening: Bunni heeft minder integraties dan Moneybird en geen bonnetjesscanner. Als je al een administratief systeem hebt en puur wil overstappen voor de facturatiefunctie, check dan even of de andere functies die je gebruikt ook aanwezig zijn.
+
+**Beste keuze voor:** ZZP'ers die net beginnen, een kleine omzet hebben en geen zin hebben in boekhoudtaal. De eenvoudige BTW-aangifte maakt het ook interessant voor wie zijn kwartaalritueel zo kort mogelijk wil houden.
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar bunni.nl →</a>
 
 ---
 

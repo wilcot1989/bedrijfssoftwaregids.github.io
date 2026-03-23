@@ -13,7 +13,7 @@ tags:
 
 faq:
   - q: "Wat is de beste boekhoudsoftware voor ZZP'ers in 2026?"
-    a: "Moneybird is de beste allrounder voor ZZP'ers die zelf hun boekhouding bijhouden: overzichtelijke interface, directe bankkoppeling en BTW-aangifte rechtstreeks naar de Belastingdienst. Jortt is de eenvoudigste optie voor minimale administratie. e-Boekhouden.nl is de beste keuze als je een externe boekhouder hebt die het systeem al kent."
+    a: "Moneybird is de beste allrounder voor ZZP'ers die zelf hun boekhouding bijhouden: overzichtelijke interface, directe bankkoppeling en BTW-aangifte rechtstreeks naar de Belastingdienst. Jortt is de eenvoudigste optie voor minimale administratie. Bunni is de beste keuze voor ZZP'ers die geen boekhoudtaal willen en snel BTW-aangifte doen (€10/mnd voor kleine omzetten). e-Boekhouden.nl is de beste keuze als je een externe boekhouder hebt die het systeem al kent."
   - q: "Wat kost boekhoudsoftware voor een ZZP'er per maand?"
     a: "Jortt biedt een gratis basisversie; het betaalde Compleet-plan kost EUR 19,95 per maand. e-Boekhouden.nl kost EUR 9,95 per maand voor het ZZP-pakket. Moneybird Starter kost EUR 15 per maand en het Growth-plan EUR 28 per maand. Alle drie bieden een gratis proefperiode aan."
   - q: "Kan ik als ZZP'er zelf mijn BTW-aangifte doen via boekhoudsoftware?"
@@ -85,7 +85,27 @@ Jortt is ontworpen voor ZZP'ers die zo min mogelijk tijd aan hun boekhouding wil
 
 ---
 
-### 3. e-Boekhouden.nl -- Beste voor ZZP'ers met een eigen boekhouder
+### 3. Bunni -- Beste voor ZZP'ers die geen boekhoudtaal willen
+
+Bunni is specifiek gebouwd voor ZZP'ers en kleine ondernemers die boekhouding liever vermijden. Waar andere pakketten werken met grootboekrekeningen en journaalposten, gebruikt Bunni gewone omschrijvingen die je zelf begrijpt. Je koppelt je bankrekening, stuurt facturen en offertes, registreert je uren en kilometers, en doet je BTW-aangifte — dat laatste duurt volgens Bunni minder dan vijf minuten.
+
+**Wat werkt goed voor ZZP'ers:**
+- Interface zonder boekhoudtaal — je eigen categorieën, geen jargon
+- Bankkoppelingen met de grote Nederlandse banken
+- Offertes maken en direct omzetten naar factuur
+- Uren- en kilometerregistratie ingebouwd
+- BTW-aangifte in minder dan vijf minuten
+- Accountant-koppeling voor wie toch hulp wil
+
+**Wat ontbreekt:** Minder geschikt als je complexere administratie hebt of naar een BV wilt groeien.
+
+**Prijs:** €10 per maand voor kleine ondernemers (omzet onder €2.500 per maand). €15 per maand voor het standaard plan.
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Bunni →</a>
+
+---
+
+### 4. e-Boekhouden.nl -- Beste voor ZZP'ers met een eigen boekhouder
 
 e-Boekhouden.nl is al meer dan twintig jaar een vaste naam in de Nederlandse markt. De software is functioneel solide en heeft een brede gebruikersbasis onder ZZP'ers en hun boekhouders. Als je een externe boekhouder hebt die toegang nodig heeft tot je administratie, is e-Boekhouden.nl een verstandige keuze -- de meeste boekhouders kennen het systeem en kunnen er direct mee aan de slag.
 
@@ -111,12 +131,14 @@ e-Boekhouden.nl is al meer dan twintig jaar een vaste naam in de Nederlandse mar
 |----------|----------------|--------------|-------------|---------|------------|
 | Moneybird | EUR 15 | Ja | Direct | Ja | Ja |
 | Jortt | EUR 19,95 | Ja | Automatisch | Beperkt | Ja |
+| Bunni | EUR 10–15 | Ja | Ja (<5 min) | Ja | Ja |
 | e-Boekhouden.nl | EUR 9,95 | Ja | Ja | Ja | Beperkt |
 
 ## Mijn advies
 
 - **ZZP'er die zelf zijn boekhouding doet:** Moneybird -- de beste interface en de meest volledige functieset voor de prijs.
 - **ZZP'er met minimale administratie:** Jortt -- zo simpel als het kan, ideaal als je boekhouding nevenactiviteit is.
+- **ZZP'er die boekhoudtaal wil vermijden:** Bunni -- geen jargon, eigen categorieën, en €10/mnd voor kleine omzetten.
 - **ZZP'er met externe boekhouder:** e-Boekhouden.nl -- breed geaccepteerd en toegankelijk voor accountants.
 
 Weet je nog niet welke boekhoudsoftware bij jou past? Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om in vijf vragen een concreet advies te krijgen. Of bereken vooraf de [kosten van boekhoudsoftware voor jouw situatie](/tools/boekhouding/kosten-berekenen/).

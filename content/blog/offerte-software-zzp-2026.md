@@ -65,6 +65,7 @@ Als je meerdere offertes tegelijk hebt uitstaan, wil je een overzicht: welke zij
 | Software | Prijs/mnd | Gratis plan | Digitale handtekening | Tracking | Offerte→Factuur | Beste voor |
 |---|---|---|---|---|---|---|
 | **Moneybird** | €19-29 | Nee (trial) | Ja | Ja | Ja (ingebouwd) | ZZP'ers die ook boekhouden |
+| **Bunni** | €10-15 | Nee (trial) | Ja | Beperkt | Ja (ingebouwd) | ZZP'ers die eenvoud boven alles stellen |
 | **Pipedrive** | €14-49 | Nee (trial) | Via koppeling | Ja | Via koppeling | ZZP'ers met actieve acquisitie |
 | **Offorte** | €19-39 | Nee (trial) | Ja | Ja | Beperkt | ZZP'ers die indruk willen maken |
 | **PandaDoc** | €0-29 | Ja (beperkt) | Ja | Ja | Beperkt | Verkoopgedreven professionals |
@@ -94,6 +95,23 @@ Moneybird past bij ZZP'ers die:
 - Eenvoudige, nette offertes willen sturen zonder fancy features
 - Een Nederlandstalig systeem met goede support willen
 - Geen aparte boekhoudtool willen betalen naast offertesoftware
+
+## 1b. Bunni — Eenvoudigste combinatie van offertes en boekhouding
+
+Wie Moneybird te uitgebreid vindt of liever werkt zonder boekhoudtaal, kijkt naar Bunni. Dit Nederlandse boekhoudpakket is specifiek gebouwd voor ZZP'ers en kleine ondernemers. Offertes zijn een standaardfunctie: je maakt een offerte, stuurt hem naar je klant en zet hem bij akkoord om naar een factuur. Geen apart module, geen extra kosten.
+
+De kracht van Bunni zit in de eenvoud. Je werkt met je eigen categorieën in plaats van grootboekrekeningen. De BTW-aangifte doe je in minder dan vijf minuten. En voor kleine ondernemers met een omzet onder €2.500 per maand kost het maar €10 per maand.
+
+**Voor wie past Bunni:**
+- ZZP'ers die offertes en boekhouding willen samenvoegen in één eenvoudig systeem
+- Ondernemers die geen boekhoudkennis hebben en dat ook niet willen opdoen
+- Kleine omzetten waarbij Moneybird meer dan nodig is
+
+**Prijs:** €10/mnd (omzet <€2.500/mnd) of €15/mnd standaard.
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Bunni voor offertes en boekhouding →</a>
+
+---
 
 ## 2. Pipedrive — Beste keuze als acquisitie een kernactiviteit is
 
@@ -252,7 +270,8 @@ Een simpele rekensom: als betere offertesoftware (€25/mnd) je conversieratio v
 | Situatie | Aanbeveling | Prijs |
 |---|---|---|
 | Starter, weinig offertes | Google Docs of PandaDoc gratis | Gratis |
-| Boekhouding + offertes integreren | Moneybird | €19-29/mnd |
+| Boekhouding + offertes, eenvoud voorop | Bunni | €10-15/mnd |
+| Boekhouding + offertes, meer functies | Moneybird | €19-29/mnd |
 | Hoge-waarde offertes, mooie presentatie | Offorte | €19-39/mnd |
 | Actief acquireren, pipeline | Pipedrive + Moneybird | €14+19/mnd |
 | Internationaal, geavanceerde functies | PandaDoc betaald | €29/mnd |

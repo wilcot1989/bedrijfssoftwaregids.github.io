@@ -103,6 +103,22 @@ Exact Online is de standaard voor het Nederlandse MKB en dat heeft een reden. Al
 
 ---
 
+### Bunni — Voor de eenmanszaak die nog klein begint
+
+Niet elke eenmanszaak heeft direct een volledig boekhoudpakket nodig. Als je net start, weinig transacties hebt en je omzet onder de €2.500 per maand ligt, is Bunni een eerlijk alternatief voor je eerste jaar. De software is ontworpen voor ZZP'ers die boekhouding willen zonder boekhoudtaal: je werkt met je eigen categorieën, koppelt je bank, factureert, maakt offertes en doet je BTW-aangifte — het hele pakket voor €10 per maand.
+
+Het eerlijke verhaal: als je eenmanszaak doorgroeit richting personeel, voorraad of een complexere administratie, ga je op een gegeven moment naar Moneybird, Snelstart of Exact Online. Maar in de opstartfase hoef je dat moment niet te forceren.
+
+**Wat Bunni biedt:**
+- Bankkoppeling, facturatie, offertes en BTW-aangifte in één overzicht
+- Uren- en kilometerregistratie
+- Accountant-koppeling zodra je die nodig hebt
+- €10/mnd (omzet <€2.500/mnd) of €15/mnd standaard
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Bunni voor je eenmanszaak →</a>
+
+---
+
 ## Vergelijking: boekhoudsoftware voor eenmanszaak
 
 | Software | Prijs per maand | Salarisadministratie | Voorraad | Meerdere gebruikers | Groeipotentieel |

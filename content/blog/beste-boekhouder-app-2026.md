@@ -45,6 +45,7 @@ Zoek je meer dan alleen een mobiele app? Lees dan mijn complete overzicht van de
 | **Exact Online** | iOS, Android | €49 | Goed | Ja | Ja | Goed |
 | **e-Boekhouden** | iOS, Android | €9,95 | Basis | Ja | Ja | Redelijk |
 | **FreshBooks** | iOS, Android | $19 (USD) | Goed | Ja | Beperkt | Uitstekend |
+| **Bunni** | iOS, Android | €10–€15 | Nee | Ja | Ja | Goed |
 
 ---
 
@@ -263,6 +264,22 @@ De FreshBooks app is een van de best ontworpen boekhoud-apps. De interface is mo
 - Minder geschikt als enige boekhoudtool voor Nederlandse ondernemers
 
 <a href="https://www.freshbooks.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar freshbooks.com →</a>
+
+---
+
+## 6. Bunni — Simpelste App voor ZZP'ers die boekhoudtaal willen vermijden
+
+Niet elke ZZP'er wil leren wat "grootboekrekening 8000" betekent. Bunni is gebouwd voor precies die groep: ondernemers die gewoon willen weten hoeveel geld er binnenkomt, wat er uitgaat en wat ze aan BTW moeten afdragen — zonder een boekhoudopleiding.
+
+De mobiele ervaring sluit aan bij die filosofie. Je categoriseert transacties in je eigen termen, stuurt facturen en offertes, registreert uren en kilometers, en het systeem berekent je BTW-aangifte automatisch. Bankkoppelingen zijn inbegrepen. Voor een ZZP'er die zijn telefoon als primaire werktool gebruikt, werkt dat prima.
+
+De prijs is gunstig voor kleine omzetten: €10 per maand als je minder dan €2.500 per maand verdient, €15 per maand daarboven. Beide inclusief de volledige functionaliteit.
+
+Eerlijk gezegd is de Bunni-app minder gepolijst dan Moneybird of Jortt. De sterkte zit niet in technische features maar in de lage drempel: als je nu voor het eerst begint met boekhouden en de telefoon pakket gebruikt, kom je bij Bunni geen verwarrende boekhoudtermen tegen.
+
+**Beste keuze voor:** Starters en bijverdienende ZZP'ers met een kleine omzet die een boekhoud-app willen zonder leercurve.
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Bunni →</a>
 
 ---
 

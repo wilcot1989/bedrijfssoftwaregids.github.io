@@ -197,7 +197,23 @@ De [Exact Online review](/blog/exact-online-review-2026/) geeft een volledig bee
 
 ---
 
-### 6. Twinfield — Beste voor: wie nauw samenwerkt met een accountant
+### 6. Bunni — Beste voor: starters met een kleine omzet die nul boekhoudkennis hebben
+
+Als ik eerlijk ben: ik had Bunni een tijdje niet op mijn radar. Maar na een paar gesprekken met ZZP'ers die Moneybird te overweldigend vonden — niet de interface, maar de boekhoudtaal erachter — snapte ik waarom Bunni bestaat.
+
+Bunni is gebouwd door mensen zonder financiële achtergrond. Dat klinkt als een beperking, maar het is precies de kracht. Je werkt niet met standaard boekhoudcategorieën maar maakt je eigen categorieën die aansluiten op hoe jij je bedrijf beleeft. BTW-aangifte doe je in minder dan vijf minuten — het systeem rekent alles voor je uit. Bankkoppeling, facturatie, offertes, uren- en kilometerregistratie en een accountant-koppeling zitten allemaal ingebouwd.
+
+Wat Bunni goedkoper maakt dan Moneybird voor kleine omzetten: verdien je minder dan €2.500 per maand, dan betaal je €10 per maand in plaats van €15. Geen transactielimiet, geen gedoe met upgrades op basis van bankboekingen.
+
+De keerzijde: Bunni is kleiner dan Moneybird en heeft minder integraties. Als je allerlei externe tools wil koppelen of complexere projectadministratie nodig hebt, is Moneybird of e-Boekhouden de betere keuze. Maar voor een ZZP'er die puur wil boekhouden zonder boekhoudtaal te leren, is Bunni een verfrissend simpele instap.
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Bunni →</a>
+
+**Prijs:** €10/mnd (<€2.500/mnd omzet) of €15/mnd | Telefonische support: Beperkt | Transactielimiet: Nee
+
+---
+
+### 7. Twinfield — Beste voor: wie nauw samenwerkt met een accountant
 
 Twinfield is de naam die je niet snel tegenkomt als je zelf online zoekt naar boekhoudpakketten, maar die wél regelmatig opduikt als je met accountants praat. Dat is geen toeval.
 
@@ -233,6 +249,7 @@ Meer detail lees je in de [Twinfield review](/blog/twinfield-review-2026/) en de
 | **fENNA** | €8,25–€15/mnd | Nee | Nee | Beperkt | Ja (inbegrepen) | Nee (1 mnd gratis) | n.v.t. |
 | **Exact Online** | ~€45/mnd+ | Nee | Ja | Ja | Ja | Nee | 3.8/5 |
 | **Twinfield** | ~€25/mnd+ | Nee | Ja | Ja | Ja | Nee | 3.9/5 |
+| **Bunni** | €10–€15/mnd | Nee | Nee | Beperkt | Ja | Nee | n.v.t. |
 
 *Prijzen zijn excl. 21% BTW en indicatief — controleer altijd de actuele tarieven op de website van de aanbieder.*
 
@@ -249,7 +266,7 @@ Ga naar **e-Boekhouden**. €9,95 per maand, onbeperkte transacties, goede suppo
 Begin met **SnelStart Web Gratis**. Dat is nul euro per maand voor 50 boekingen. Als je groeit, switch je naar het betaalde pakket.
 
 **Je hebt frustratie met de transactielimiet maar wil iets even simpels als Moneybird:**
-**Jortt** is dan de meest logische stap. Vergelijkbare eenvoud, bankkoppeling inbegrepen, geen transactielimiet.
+**Jortt** is dan de meest logische stap. Verdien je minder dan €2.500 per maand en wil je de absolute instapdrempel zo laag mogelijk? Kijk dan ook naar **Bunni** — €10 per maand, geen transactielimiet, geen boekhoudtaal. Vergelijkbare eenvoud, bankkoppeling inbegrepen, geen transactielimiet.
 
 **Je wilt boekhouden en salarisadministratie combineren:**
 **SnelStart Go** (circa €22/mnd) is de goedkoopste optie die beide combineert. Voor een serieuzer MKB-bedrijf is **Exact Online** de stabielere keuze.
@@ -323,6 +340,7 @@ Er is niet één beste alternatief — dat hangt volledig af van wat jij mist bi
 - **Maximale eenvoud en multi-taal?** → fENNA
 - **Groeien naar MKB?** → Exact Online
 - **Intensieve accountantssamenwerking?** → Twinfield
+- **Kleine omzet, nul boekhoudkennis, zo simpel mogelijk?** → Bunni
 
 Moneybird is een uitstekend product — maar het is niet voor iedereen de beste keuze. De Nederlandse markt heeft meerdere serieuze alternatieven die op specifieke punten beter presteren.
 
@@ -332,4 +350,4 @@ Wil je weten welk pakket het beste bij jou past? Gebruik de [boekhoudprogramma k
 
 ---
 
-*Disclaimer: Dit artikel bevat affiliate links naar SnelStart, Jortt en fENNA. Als je via deze links een abonnement afsluit, ontvang ik een vergoeding — zonder extra kosten voor jou. Mijn aanbevelingen zijn gebaseerd op eigen onderzoek en zijn onafhankelijk van deze vergoeding.*
+*Disclaimer: Dit artikel bevat affiliate links naar SnelStart, Jortt, fENNA en Bunni. Als je via deze links een abonnement afsluit, ontvang ik een vergoeding — zonder extra kosten voor jou. Mijn aanbevelingen zijn gebaseerd op eigen onderzoek en zijn onafhankelijk van deze vergoeding.*

@@ -85,7 +85,26 @@ Yuki combineert boekhoudsoftware met een accountantsdienst. Je laadt je bonnetje
 
 ---
 
-### 3. e-Boekhouden.nl -- Beste voor freelancers met een vaste boekhouder
+### 3. Bunni -- Beste voor freelancers met eenvoudige Nederlandse opdrachten
+
+Bunni is boekhoudsoftware voor ZZP'ers en freelancers die gewoon willen factureren, uren bijhouden en hun BTW-aangifte snel afwerken. Het systeem werkt zonder boekhoudkennis: geen rekeningschema's, geen debet/credit, maar gewone omschrijvingen die je zelf kiest. Voor freelancers die voornamelijk voor Nederlandse opdrachtgevers werken en geen internationale facturatie nodig hebben, is Bunni een rustige en betaalbare optie.
+
+**Wat werkt goed voor freelancers:**
+- Offertes maken en omzetten naar factuur
+- Uren- en kilometerregistratie per opdracht
+- Bankkoppeling en automatische transactieverwerking
+- BTW-aangifte afhandelen in minder dan vijf minuten
+- Accountant-koppeling als je toch iemand wil laten meekijken
+
+**Wat ontbreekt:** Geen meervaluta-facturatie; niet geschikt voor freelancers met internationale klanten in vreemde valuta.
+
+**Prijs:** €10 per maand (omzet onder €2.500/mnd). €15 per maand voor het standaard plan.
+
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Bunni →</a>
+
+---
+
+### 4. e-Boekhouden.nl -- Beste voor freelancers met een vaste boekhouder
 
 Veel freelancers hebben een externe boekhouder die ze eenmaal per kwartaal helpt. e-Boekhouden.nl is bij de meeste Nederlandse boekhouders bekend en biedt een eenvoudig systeem voor facturen, bankimport en BTW-aangifte. De prijs is lager dan Moneybird bij eenvoudige administraties, en het systeem is stabiel en bewezen.
 
@@ -111,12 +130,14 @@ Veel freelancers hebben een externe boekhouder die ze eenmaal per kwartaal helpt
 |----------|----------------|-----------|----------------|----------------------|-------------------|
 | Moneybird | EUR 28 | Ja | Ja (Growth) | Nee | Ja |
 | Yuki | EUR 35 | Ja | Nee | Ja | Ja |
+| Bunni | EUR 10–15 | Nee | Ja | Nee | Nee |
 | e-Boekhouden.nl | EUR 8,95 | Beperkt | Nee | Nee | Ja |
 
 ## Mijn advies
 
 - **Freelancer met internationale klanten en eigen administratie:** Moneybird Growth -- de combinatie van meervaluta, urenregistratie en moderne interface is lastig te evenaren.
 - **Freelancer die geen tijd heeft voor administratie:** Yuki -- je betaalt meer, maar je koopt ook tijd terug.
+- **Freelancer met alleen Nederlandse opdrachtgevers en kleine omzet:** Bunni -- €10/mnd, geen boekhoudkennis vereist, BTW-aangifte in vijf minuten.
 - **Freelancer met vaste externe boekhouder en simpele administratie:** e-Boekhouden.nl -- solide en goedkoop.
 
 Een tip die ik elke freelancer meegeef: begin met het systeem dat je daadwerkelijk bijhoudt. Een perfecte administratie in een systeem dat je te ingewikkeld vindt, is minder waard dan een simpele maar consequente administratie. De Belastingdienst vraagt om nauwkeurigheid, niet om complexiteit.
