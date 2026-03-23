@@ -2,7 +2,7 @@
 title: "Beste Talentmanagement Software 2026"
 date: 2026-03-18T08:15:00+01:00
 lastmod: 2026-03-18T08:15:00+01:00
-description: "Talentmanagement software vergelijken? Ik bespreek Leapsome, 15Five, Lattice en Bob op prestatiebeheer, ontwikkeling en medewerkersbetrokkenheid."
+description: "Ik testte Leapsome, 15Five, Lattice en Bob voor het MKB. Eerlijk oordeel over prestatiebeheer, kosten en wat je echt nodig hebt."
 categories: ["hr-software"]
 tags:
   - talentmanagement
