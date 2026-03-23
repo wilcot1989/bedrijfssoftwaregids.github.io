@@ -110,8 +110,20 @@
     "vat": true,
     "payroll": false,
     "bank_sync": true,
-    "affiliate": { "type": "link", "url": "https://www.moneybird.nl/" },
+    "affiliate": { "type": "link", "url": "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" },
     "cost": { "model": "tiered_monthly", "tiers": [{ "up_to": 1, "price": 15 }, { "up_to": 3, "price": 28 }, { "up_to": 10, "price": 39 }] }
+  },
+  {
+    "id": "bunni",
+    "name": "Bunni",
+    "categories": ["boekhouding"],
+    "pricing_band": "<€20",
+    "nl_support": true,
+    "vat": true,
+    "payroll": false,
+    "bank_sync": true,
+    "affiliate": { "type": "link", "url": "https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" },
+    "cost": { "model": "flat_monthly", "base": 15, "per_user": 0 }
   },
   {
     "id": "exact_online",
