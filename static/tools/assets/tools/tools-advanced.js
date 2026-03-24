@@ -60,7 +60,7 @@ async function initAdvancedTool() {
       const verdict = score > 1.2 ? "BV is het onderzoeken waard" : "ZZP blijft vaak prima (check met adviseur)";
       qs("#out").innerHTML = `<div class="bsg-result">
         <div class="bsg-result-head"><strong>Indicatie</strong><span class="bsg-badge">ZZP vs BV</span></div>
-        <p style="font-size:1.1rem;font-weight:600;color:#0F172A;margin:0.75rem 0 0.25rem;">${escapeHTML(verdict)}</p>
+        <p style="font-size:1.1rem;font-weight:600;color:#1A1A2E;margin:0.75rem 0 0.25rem;">${escapeHTML(verdict)}</p>
         <p class="bsg-note">Dit is een vereenvoudigde indicatie. Raadpleeg een fiscalist voor persoonlijk advies.</p>
       </div>`;
       renderKeuzehulpCTA(catKey);
@@ -97,10 +97,10 @@ async function initAdvancedTool() {
       const pct = Math.round((score/20)*100);
       qs("#out").innerHTML = `<div class="bsg-result">
         <div class="bsg-result-head"><strong>Agile maturity</strong><span class="bsg-badge">${score}/20</span></div>
-        <div style="background:#E2E8F0;border-radius:6px;height:10px;margin:0.75rem 0 0.5rem;overflow:hidden;">
-          <div style="background:#2563EB;height:100%;width:${pct}%;border-radius:6px;transition:width 0.3s;"></div>
+        <div style="background:#E8E4DD;border-radius:6px;height:10px;margin:0.75rem 0 0.5rem;overflow:hidden;">
+          <div style="background:#1B4D3E;height:100%;width:${pct}%;border-radius:6px;transition:width 0.3s;"></div>
         </div>
-        <p style="font-size:1.05rem;font-weight:600;color:#0F172A;margin:0;">${escapeHTML(level)}</p>
+        <p style="font-size:1.05rem;font-weight:600;color:#1A1A2E;margin:0;">${escapeHTML(level)}</p>
       </div>`;
       renderKeuzehulpCTA(catKey);
     });
@@ -212,7 +212,7 @@ async function initAdvancedTool() {
       const verdict = (rev>150000 && effort<8) ? "Migratie is het onderzoeken waard" : "Migratie alleen als je duidelijke pijnpunten hebt";
       qs("#out").innerHTML = `<div class="bsg-result">
         <div class="bsg-result-head"><strong>Migratie-advies</strong><span class="bsg-badge">Indicatie</span></div>
-        <p style="font-size:1.1rem;font-weight:600;color:#0F172A;margin:0.75rem 0 0.25rem;">${escapeHTML(verdict)}</p>
+        <p style="font-size:1.1rem;font-weight:600;color:#1A1A2E;margin:0.75rem 0 0.25rem;">${escapeHTML(verdict)}</p>
         <p class="bsg-amount-sub">Geschatte inspanning: ${effort.toFixed(1)} punten (${prod} producten, complexiteit ${cx})</p>
       </div>`;
       renderKeuzehulpCTA(catKey);

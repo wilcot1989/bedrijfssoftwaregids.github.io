@@ -31,7 +31,7 @@ function renderKeuzehulpCTA(catKey) {
   var outEl = document.getElementById("out");
   if (!outEl || !catKey) return;
   outEl.insertAdjacentHTML("afterend",
-    '<div class="bsg-keuzehulp-cta" style="margin-top:1.25rem;padding:1.25rem;background:#F8FAFC;border:1px solid #E2E8F0;border-radius:10px;text-align:center;">' +
-    '<p style="font-weight:600;color:#0F172A;margin:0 0 .5rem">Wil je de beste software vinden?</p>' +
+    '<div class="bsg-keuzehulp-cta" style="margin-top:1.25rem;padding:1.25rem;background:#FDFBF7;border:1px solid #E8E4DD;border-radius:10px;text-align:center;">' +
+    '<p style="font-weight:600;color:#1A1A2E;margin:0 0 .5rem">Wil je de beste software vinden?</p>' +
     '<a class="bsg-btn" href="/tools/' + escapeHTML(catKey) + '/keuzehulp/">Doe de keuzehulp</a></div>');
 }

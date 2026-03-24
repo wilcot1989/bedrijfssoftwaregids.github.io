@@ -1,14 +1,14 @@
 {{ define "main" }}
 
-{{/* ===== 1. HERO — LICHT & UITNODIGEND ===== */}}
-<div class="hero hero-home">
+{{/* ===== 1. HERO ===== */}}
+<div class="hero">
   <div class="container wide">
     <span class="section-label">Onafhankelijk software advies</span>
     <h1>Vind de beste software voor jouw bedrijf</h1>
     <p>Ik test zakelijke software hands-on en vergelijk op prijs, gebruiksgemak en support. Eerlijk advies voor het Nederlandse MKB.</p>
     <div class="hero-actions">
       <a href="/tools/" class="cta">Doe de gratis keuzehulp</a>
-      <a href="/blog/" class="cta cta-white">Bekijk alle reviews</a>
+      <a href="/blog/" class="cta cta-soft">Bekijk alle reviews</a>
     </div>
     <div class="trust-strip">
       {{ $totalArticles := len (where .Site.RegularPages "Type" "blog") }}
@@ -28,7 +28,7 @@
   </div>
 </div>
 
-{{/* ===== 2. CATEGORIE GRID MET SVG ICONEN ===== */}}
+{{/* ===== 2. CATEGORIEËN ===== */}}
 <div class="section">
   <div class="container wide">
     <div class="section-title">
@@ -45,8 +45,8 @@
         <a href="/categories/{{ $name }}/" class="cat-card">
           <span class="cat-icon">
             {{ if eq $name "kassasystemen" }}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M6 8h.01M10 8h.01M14 8h.01M18 8h.01M6 12h.01M10 12h.01M14 12h.01M18 12h.01M6 16h4M14 16h4"/></svg>
-            {{ else if eq $name "crm" }}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg>
-            {{ else if eq $name "boekhouding" }}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="22" height="16" rx="2"/><path d="M1 10h22"/><path d="M12 4v16"/></svg>
+            {{ else if eq $name "crm" }}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/></svg>
+            {{ else if eq $name "boekhouding" }}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="22" height="16" rx="2"/><path d="M1 10h22M12 4v16"/></svg>
             {{ else if eq $name "projectmanagement" }}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11"/></svg>
             {{ else if eq $name "hr-software" }}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
             {{ else if eq $name "marketing" }}<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
@@ -90,13 +90,13 @@
 </div>
 {{ end }}
 
-{{/* ===== 4. HOE IK TEST — VERTROUWENSSIGNALEN ===== */}}
+{{/* ===== 4. METHODIEK ===== */}}
 <div class="section section-dark">
   <div class="container wide">
     <div class="section-title">
-      <span class="section-label" style="background:rgba(255,255,255,0.08);color:var(--primary-border);">Transparant proces</span>
+      <span class="section-label" style="background:rgba(255,255,255,0.08);color:var(--brand-border);">Transparant proces</span>
       <h2>Hoe ik software test</h2>
-      <p>Geen herverpakte marketingpraatjes. Elke review is gebaseerd op eigen ervaring.</p>
+      <p>Geen marketingpraatjes. Elke review is gebaseerd op eigen ervaring.</p>
     </div>
     <div class="method-grid">
       <div class="method-card">
@@ -107,12 +107,12 @@
       <div class="method-card">
         <span class="method-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg></span>
         <div class="method-title">Actuele prijzen</div>
-        <div class="method-desc">Alle prijzen worden maandelijks gecontroleerd en bijgewerkt. Inclusief verborgen kosten.</div>
+        <div class="method-desc">Alle prijzen worden maandelijks gecontroleerd. Inclusief verborgen kosten en kortingen.</div>
       </div>
       <div class="method-card">
         <span class="method-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></span>
         <div class="method-title">Onafhankelijk advies</div>
-        <div class="method-desc">Geen betaalde reviews of voorkeursposities. Mijn aanbevelingen zijn gebaseerd op kwaliteit.</div>
+        <div class="method-desc">Geen betaalde reviews of voorkeursposities. Aanbevelingen gebaseerd op kwaliteit.</div>
       </div>
     </div>
   </div>
@@ -142,7 +142,7 @@
 </div>
 {{ end }}
 
-{{/* ===== 6. OVER LARS — PROMINENT ===== */}}
+{{/* ===== 6. OVER LARS ===== */}}
 <div class="section section-warm">
   <div class="container" style="max-width:750px;">
     <div class="author-cta">
@@ -155,8 +155,8 @@
           <div class="author-stat"><span class="author-stat-number">{{ len .Site.Taxonomies.categories }}</span><span class="author-stat-label">Categorieën</span></div>
           <div class="author-stat"><span class="author-stat-number">8+</span><span class="author-stat-label">Jaar ervaring</span></div>
         </div>
-        <p>B2B software consultant met jarenlange ervaring. Ik help Nederlandse ondernemers de juiste software te kiezen — eerlijk, praktisch en zonder verkooppraatjes.</p>
-        <a href="/about/" class="cta" style="margin:0;padding:0.5rem 1.25rem;font-size:0.9rem;">Meer over mij</a>
+        <p>B2B software consultant. Ik help Nederlandse ondernemers de juiste software te kiezen — eerlijk, praktisch en zonder verkooppraatjes.</p>
+        <a href="/about/" class="cta" style="margin:0;padding:0.55rem 1.25rem;font-size:0.9rem;">Meer over mij</a>
       </div>
     </div>
   </div>
