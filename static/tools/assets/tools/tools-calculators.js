@@ -50,15 +50,15 @@ function renderAlternatives(selectedTool, allItems, calcType) {
     .slice(0, 3);
   if (alts.length === 0) return "";
   var rows = alts.map(function(a) {
-    return '<div style="display:flex;justify-content:space-between;align-items:center;padding:0.5rem 0;border-bottom:1px solid #E8E4DD;">' +
+    return '<div style="display:flex;justify-content:space-between;align-items:center;padding:0.5rem 0;border-bottom:1px solid #E2E8F0;">' +
       '<span style="font-weight:500;">' + escapeHTML(a.t.name) + '</span>' +
       '<span style="display:flex;align-items:center;gap:0.75rem;">' +
-      '<span style="color:#7A7A8E;font-size:0.9rem;">~\u20AC' + Math.round(a.est).toLocaleString("nl-NL") + '/mnd</span>' +
+      '<span style="color:#64748B;font-size:0.9rem;">~\u20AC' + Math.round(a.est).toLocaleString("nl-NL") + '/mnd</span>' +
       '<a class="bsg-btn" style="font-size:0.85rem;padding:0.35rem 0.75rem;" href="' + escapeHTML(a.t.affiliate?.url || "#") + '" target="_blank" rel="noopener nofollow sponsored">Bekijk</a>' +
       '</span></div>';
   }).join("");
-  return '<div style="border-top:2px solid #E8E4DD;margin-top:1.25rem;padding-top:1rem;">' +
-    '<p style="font-weight:600;color:#1A1A2E;margin:0 0 0.5rem;">Vergelijkbare alternatieven</p>' +
+  return '<div style="border-top:2px solid #E2E8F0;margin-top:1.25rem;padding-top:1rem;">' +
+    '<p style="font-weight:600;color:#0F172A;margin:0 0 0.5rem;">Vergelijkbare alternatieven</p>' +
     rows + '</div>';
 }
 

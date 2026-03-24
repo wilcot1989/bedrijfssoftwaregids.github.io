@@ -27,7 +27,7 @@ const FILTER_LABELS = {
 function boolCell(val) {
   if (val === true) return '<span style="color:#16a34a;font-weight:600">✓</span>';
   if (val === false) return '<span style="color:#dc2626">✗</span>';
-  return '<span style="color:#A0A0B0">–</span>';
+  return '<span style="color:#94A3B8">–</span>';
 }
 
 /** Collect unique pricing bands from product list */

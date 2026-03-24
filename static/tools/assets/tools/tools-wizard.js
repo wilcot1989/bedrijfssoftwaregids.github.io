@@ -146,10 +146,10 @@ async function initWizard() {
     if (ranked.length > 0 && ranked[0].score > 0) {
       var top = ranked[0];
       var reasons = buildRecommendationReasons(top.breakdown, catKey);
-      recHTML = '<div class="bsg-result" style="border-left:4px solid #1B4D3E;background:#E8F0ED;">' +
+      recHTML = '<div class="bsg-result" style="border-left:4px solid #059669;background:#ECFDF5;">' +
         '<div class="bsg-result-head"><strong>\u2605 Onze aanbeveling: ' + escapeHTML(top.t.name) + '</strong>' +
         '<span class="bsg-badge">Matchscore: ' + Math.round(top.score) + '</span></div>' +
-        '<ul style="margin:0.5rem 0 0.75rem 1.25rem;line-height:1.8;color:#143D31;">' +
+        '<ul style="margin:0.5rem 0 0.75rem 1.25rem;line-height:1.8;color:#047857;">' +
         reasons.map(function(r) { return '<li>' + escapeHTML(r) + '</li>'; }).join('') +
         '</ul>' +
         '<div class="bsg-cta"><a class="bsg-btn" href="' + escapeHTML(top.t.affiliate?.url || "#") + '" target="_blank" rel="noopener nofollow sponsored">Bekijk ' + escapeHTML(top.t.name) + '</a></div></div>';
@@ -171,13 +171,13 @@ async function initWizard() {
     const leadCapture = `
       <div class="bsg-lead-capture">
         <p style="font-weight:600;margin-bottom:0.5rem;">Bewaar je resultaat</p>
-        <p style="font-size:0.9rem;color:#7A7A8E;margin-bottom:0.75rem;">Ontvang je persoonlijke shortlist per e-mail, inclusief een vergelijkings-PDF.</p>
+        <p style="font-size:0.9rem;color:#64748B;margin-bottom:0.75rem;">Ontvang je persoonlijke shortlist per e-mail, inclusief een vergelijkings-PDF.</p>
         <div style="display:flex;gap:8px;flex-wrap:wrap;">
           <input type="email" id="bsg-lead-email" placeholder="info@jouwbedrijf.nl" style="flex:1;min-width:200px;">
           <button type="button" id="bsg-lead-submit" class="bsg-btn" style="white-space:nowrap;margin-top:0;">Verstuur</button>
         </div>
-        <p id="bsg-lead-msg" style="font-size:0.8rem;color:#7A7A8E;margin-top:0.5rem;display:none;"></p>
-        <p class="bsg-note">Geen spam. Je gegevens worden niet gedeeld. <a href="/privacy/" style="color:#A0A0B0;">Privacybeleid</a></p>
+        <p id="bsg-lead-msg" style="font-size:0.8rem;color:#64748B;margin-top:0.5rem;display:none;"></p>
+        <p class="bsg-note">Geen spam. Je gegevens worden niet gedeeld. <a href="/privacy/" style="color:#94A3B8;">Privacybeleid</a></p>
       </div>
     `;
 
