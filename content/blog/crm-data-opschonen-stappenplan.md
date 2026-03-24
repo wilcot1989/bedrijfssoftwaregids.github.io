@@ -128,6 +128,50 @@ Als je twijfelt welk CRM het beste aansluit bij jouw situatie en de beschikbare 
 
 ---
 
+## Stap 5b: Consistentie in veldgebruik afdwingen
+
+Een punt dat ik wil toevoegen aan de standaarden: naast naamgevingsconventies en verplichte velden is consistentie in hoe velden worden gebruikt minstens zo belangrijk. Ik zie dit regelmatig misgaan bij teams die een CRM delen.
+
+**Functietitels als voorbeeld.** In een CRM met tien verkopers kun je tientallen schrijfwijzen hebben voor dezelfde functie: "Directeur", "directeur", "Algemeen directeur", "CEO", "Chief Executive Officer", "Dir.", "Eigenaar", "Eigenaar/Directeur". Als je wil segmenteren op beslissersniveau, is dat onmogelijk als de data zo inconsistent is.
+
+De oplossing is een dropdown-lijst in plaats van een vrij tekstveld. De meeste CRM-systemen laten je dit instellen. Definieer vijf tot tien standaardfuncties en dwing je team om uit die lijst te kiezen. Vrije invoer in functielijsten is de grootste bron van inkonsistente data na duplicaten.
+
+**Tags en categorieën.** Hetzelfde geldt voor tags. "Prospect" en "prospect" en "PROSPECT" zijn hetzelfde label dat drie keer bestaat. Gebruik altijd hoofdletters of altijd kleine letters, en zorg dat het CRM niet toestaat dat dezelfde tag in meerdere schrijfwijzen bestaat.
+
+**Notitievelden versus gestructureerde velden.** Een veelgemaakte fout: informatie die in een gestructureerd veld hoort, belandt in een notitiebox. "BTW-nummer staat in de notities bij het contact" is geen administratie, dat is digitaal rommelen. Als informatie doorzoekbaar, filterbaar en synchroniseerbaar moet zijn, hoort het in een veld — niet in een opmerking.
+
+Dit klinkt micro-management. Maar een team dat deze gewoontes heeft, bouwt in zes maanden een CRM-database op waarmee je ook over twee jaar nog goede beslissingen kunt nemen.
+
+## Stap 6: Verrijking — ontbrekende gegevens aanvullen
+
+Nadat je hebt opgeschoond, heb je waarschijnlijk een lijst contacten met gaten. Telefoonnummers die ontbreken, functietitels die leeg zijn, adressen die niet kloppen. De vraag is: hoe vul je die aan zonder er handmatig uren in te stoppen?
+
+Er zijn drie aanpakken die ik in de praktijk gebruik.
+
+**Automatische verrijkingstools.** HubSpot heeft een ingebouwde verrijkingsfunctie die bedrijfsdata aanvult op basis van het e-maildomein van de contactpersoon. Clearbit en Lusha zijn externe tools die hetzelfde doen maar breder: ze verrijken ook individuele contacten met functietitels, LinkedIn-profielen en telefoonnummers. Kost geld, maar bespaart uren handmatig opzoekwerk.
+
+**LinkedIn Sales Navigator.** Als je serieus bezig bent met B2B-sales, is Navigator de meest betrouwbare bron voor actuele functietitels en bedrijfsinformatie. Je kunt lijsten exporteren en data matchen met je CRM. Nadeel: het abonnement kost €100 per maand of meer.
+
+**Eigen team als verrijkingsbron.** De eerlijkste aanpak: bij elk klantcontact vult de verantwoordelijke de ontbrekende velden aan. Geen big-bang verrijkingsactie, maar een gewoonte. Elke keer dat een accountmanager een afspraak maakt, voert hij het directe telefoonnummer in. Elke keer dat een klant van positie wisselt, wordt het bijgewerkt. Over zes maanden is je data structureel beter zonder grote projecten.
+
+Welke aanpak past, hangt af van je volume en je budget. Voor een CRM met 200 contacten is een tool als Lusha onevenredig duur. Voor een CRM met 5.000 contacten is handmatig verrijken onhaalbaar.
+
+## Stap 7: Segmentering na opschoning
+
+Een bijkomend voordeel van een opschoningsactie is dat je daarna betere segmenten kunt bouwen. Met schone, volledige data kun je je contacten groeperen op manieren die daarvoor niet mogelijk waren.
+
+Segmenten die ik standaard aanraad na een opschoonactie:
+
+**Op bedrijfsgrootte.** ZZP'ers, MKB tot tien medewerkers, MKB tot vijftig, middelgroot, groot. De boodschap die je naar een eenmanszaak stuurt is fundamenteel anders dan die naar een onderneming met vijftig mensen. Als dit veld bij de meeste contacten leeg was, is verrijking hier het meest waardevol.
+
+**Op branche.** Als je meerdere sectoren bedient, wil je per sector andere campagnes kunnen draaien. Zorg dat dit veld gevuld is en consistent.
+
+**Op lifecycle-fase.** Lead, prospect, klant, inactief. In de meeste CRM-systemen is dit een standaard veld dat je al kunt vullen op basis van de activiteitsgeschiedenis die je al hebt.
+
+**Op betrokkenheid.** In combinatie met je e-mailplatform kun je segmenteren op wie de laatste drie e-mails heeft geopend. Dat zijn je meest betrokken contacten. Een aparte campagne voor die groep presteert bijna altijd beter dan een mailing naar iedereen.
+
+Na een grondige opschoonactie zijn deze segmenten eindelijk betrouwbaar. Daarvoor zijn ze dat niet, want je weet niet of de data klopt.
+
 ## Mijn advies: perfecte data bestaat niet — maar goede data wel
 
 Na jaren van CRM-implementaties bij MKB-bedrijven heb ik één ding geleerd: wie wacht tot zijn data perfect is, begint nooit. Perfecte data bestaat niet. Data vervuilt sneller dan je kunt opschonen.

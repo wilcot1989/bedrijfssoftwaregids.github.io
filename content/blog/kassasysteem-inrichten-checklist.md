@@ -197,6 +197,22 @@ Gebruik dit als definitieve controle voor je opening:
 
 ---
 
+## Dagsluiting en rapportage: dit moet je elke avond doen
+
+Een kassasysteem instellen is één ding. Er dagelijks goed mee werken is iets anders. De dagsluiting is het ritueel dat je administratie gezond houdt en je data bruikbaar maakt.
+
+Wat de dagsluiting doet: het sluit de kasregistratie af voor de dag, berekent het totaal aan contant geld dat in de lade hoort te zitten, en genereert een dagrapport met omzet per categorie en per BTW-tarief.
+
+**Elke avond controleer je:**
+- Kas tellen: klopt het kassaldo met het systeem? Een verschil van meer dan €5 is een reden om terug te zoeken.
+- BTW-uitsplitsing: voor horeca — klopt de verhouding 9%/21% ruwweg met wat je hebt verkocht?
+- Omzet per betaalmethode: pin, contant, cadeaubon — kloppen die met de betalingsterminal en de kaslade?
+- Openstaande bestellingen: zijn er bestellingen die niet afgerekend zijn?
+
+Dat klinkt als veel werk, maar een goede dagsluiting in een goed geconfigureerd systeem kost niet meer dan vijf tot tien minuten. Wie de dagsluiting overslaat, bouwt dagelijks kleine afwijkingen op die na een maand onmogelijk terug te vinden zijn.
+
+Voor de fiscale kant: de dagsluiting is ook de basis voor je BTW-aangifte. Elk kwartaal gebruik je de dagrapportages om je BTW-aangifte te verifiëren. Zorg dat die rapporten exporteerbaar zijn en bewaar ze zeven jaar.
+
 ## Mijn advies: plan een zachte opening
 
 Als ik één ding zou mogen aanbevelen, is het dit: organiseer een zachte opening voordat je officieel opengaat.

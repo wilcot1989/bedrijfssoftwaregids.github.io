@@ -95,6 +95,58 @@ AVG-compliance heeft een directe impact op deliverability. E-mailmarketing aan c
 
 Gebruik altijd een dubbele opt-in waarbij de ontvanger zijn aanmelding bevestigt via een bevestigingsmail. Dat verlaagt de lijstgrootte maar verhoogt de kwaliteit en de betrokkenheid, wat direct ten goede komt aan de deliverability. Zodra de deliverability op orde is, is automation de logische volgende stap; wat dat in de praktijk oplevert lees je in [Marketing automation ROI: 4 voorbeelden](/blog/marketing-automation-roi-voorbeelden/).
 
+## Bounce-types begrijpen en correct afhandelen
+
+Bounces zijn een van de meest directe signalen van deliverability-problemen, maar niet alle bounces zijn gelijk. Het onderscheid tussen hard bounces en soft bounces bepaalt hoe je ze behandelt.
+
+Een hard bounce betekent dat het e-mailadres definitief onbereikbaar is: het adres bestaat niet, het domein bestaat niet, of de ontvankende server weigert structureel alle e-mail voor dat adres. Hard bounces verwijder je direct en permanent van je lijst. Het opnieuw sturen naar een hard bounce-adres schaadt je reputatie en levert niets op.
+
+Een soft bounce betekent een tijdelijk probleem: de mailbox is vol, de server is tijdelijk offline, of er is een tijdelijk filterprobleem. Soft bounces worden doorgaans automatisch opnieuw geprobeerd door het platform. Na drie opeenvolgende soft bounces archiveer je het adres — het is waarschijnlijk een verlaten mailbox of een aanhoudend probleem.
+
+Het bounce-rapport na elke campagne is een van de meest waardevolle rapporten in je e-mailplatform. Een stijgend bouncepercentage is een vroeg signaal van lijstveroudering, een probleem met een specifiek domein, of een configuratiefout. Bij een bouncepercentage boven de 2% van een verzending is actie vereist voor de volgende campagne.
+
+Sommige platforms verwijderen hard bounces automatisch. Verifieer of dit in jouw platform actief is ingesteld. Handmatig bijhouden van bounces is tijdrovend en leidt bij hogere volumes tot gemiste verwijderingen.
+
+## Het verschil tussen inbox, promotietab en spamfolder
+
+Veel verzenders tellen "promotietab-plaatsing" als een deliverability-probleem, maar dat is het technisch niet. Gmail's promotietab is een apart segment in de inbox — de e-mail is bezorgd, alleen in een andere map. Spamfolder-plaatsing is het echte probleem: de e-mail is weggehouden van de ontvanger.
+
+Het onderscheid is relevant voor je aanpak. Als je e-mails in de promotietab belanden maar niet in spam, is je technische configuratie waarschijnlijk in orde. Wat je dan kunt doen: schrijf onderwerpregels die meer op persoonlijke e-mail lijken dan op marketing, vermijd overtrefwoorden zoals "gratis", "korting" of "aanbieding" in de onderwerpregel, en pas het afzenderadres aan naar een persoonsnaam in plaats van een bedrijfsnaam.
+
+De promotietab-plaatsing bij Gmail is gebaseerd op een combinatie van factoren: de aanwezigheid van bulk-e-mail headers, het gebruik van tracking-pixels, de verhouding tekst tot afbeeldingen, en het afzendadres. E-mails die er uitzien als persoonlijke berichten belanden vaker in de primaire inbox.
+
+Dat gezegd: voor commerciële e-mailcampagnes is de promotietab in veel gevallen een acceptabel resultaat. Mensen checken die tab actief als ze op zoek zijn naar aanbiedingen. Optimaliseer op opens en clicks, niet alleen op inbox-plaatsing.
+
+## Onderwerpregel en preheader: de eerste 3 seconden
+
+Als de e-mail de inbox haalt, is de onderwerpregel de volgende hindernis. Je hebt gemiddeld drie seconden om iemand te overtuigen te openen. Die drie seconden bepalen ook of een ontvanger de e-mail als spam markeert zonder te openen.
+
+Een goede onderwerpregel is specifiek, relevant voor de ontvanger en vermijdt woorden die spamfilters triggeren. De meest getriggerde woorden zijn: "gratis", "winner", "cash", "100%", "guaranteed" en varianten daarop in het Nederlands. Maar ook subtielere signalen tellen: een onderwerpregel in volledig hoofdletters, overdreven gebruik van uitroeptekens of emoji's verhogen de kans op spamfiltering.
+
+De preheader — de eerste zin tekst die je in de inbox naast de onderwerpregel ziet — is een onderschat element. Veel verzenders laten dit leeg, waarna de inbox automatisch de eerste tekstzin van de e-mail toont, inclusief "View this email in your browser" als die zin als eerste staat. Dat is verspilde zichtbaarheid. Stel de preheader in als een aanvulling op de onderwerpregel, niet als herhaling ervan.
+
+## Dedicated IP versus gedeeld IP: wanneer maakt het uit
+
+Bij volumes onder de 100.000 e-mails per maand is een dedicated IP doorgaans niet de moeite waard. Een dedicated IP heeft een eigen reputatie die volledig door jouw gedrag wordt bepaald — dat klinkt goed, maar het betekent ook dat je zelf verantwoordelijk bent voor het opbouwen van die reputatie. Als je een nieuw dedicated IP pakt en direct een grote campagne verstuurt, behandelen mailproviders dat als verdacht gedrag.
+
+Bij hogere volumes is een dedicated IP zinvol omdat je niet afhankelijk bent van het gedrag van andere gebruikers op hetzelfde IP. Platforms als Mailchimp, Brevo en ActiveCampaign bieden dedicated IP-opties in hun hogere abonnementsvormen.
+
+Voor de meeste MKB-bedrijven en ZZP'ers zijn gedeelde IP's op een gerenommeerd platform voldoende. De platforms bewaken actief de reputatie van hun IP-pools en verwijderen gebruikers die de reputatie beschadigen. Zolang jij zelf goede lijsthygiëne toepast, profiteer je van de collectieve reputatie.
+
+## Wat je doet na een spammelding van een klant
+
+Als een klant aangeeft dat je e-mail in zijn spamfolder belandt, doe dan het volgende in deze volgorde.
+
+Controleer eerst of de klant jou heeft whitegelisted. Vraag hem om jouw afzenderadres toe te voegen aan zijn contacten of veilige afzenders. Dit is de eenvoudigste oplossing en werkt direct voor die specifieke ontvanger.
+
+Controleer daarna je SPF, DKIM en DMARC-records via een gratis checker. Als die correct zijn, is het probleem waarschijnlijk bij de ontvankende mailserver van de klant en niet bij jou.
+
+Als de klant een zakelijk e-mailadres heeft bij een bedrijf met een eigen mailserver, kan de IT-afdeling van dat bedrijf je domein op een allowlist plaatsen. Dit is relevant bij B2B-e-mail, minder bij consumentenmail.
+
+Als meerdere klanten tegelijk rapporteren dat je e-mails in de spam belanden, is het een systeemprobleem. Controleer dan of er recent iets veranderd is: een domeinmigratie, een update van het e-mailplatform, een campagne met ongewoon hoge spammeldingpercentages.
+
+Een volledig overzicht van e-mailmarketingtools voor jouw situatie vind je op de [marketing software sectorgids](/sectoren/marketing/).
+
 ## Lees ook
 
 - [Beste email marketing software 2026](/blog/beste-email-marketing-software-2026/) — welk platform heeft de beste deliverability?

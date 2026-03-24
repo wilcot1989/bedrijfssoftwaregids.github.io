@@ -161,6 +161,50 @@ Bereken ook de [CRM kosten](/tools/crm/kosten-berekenen/) voor jouw teamgrootte 
 
 ---
 
+## Hoe je de historische data beheert
+
+Een vraag die ik altijd krijg bij Excel-naar-CRM-migraties: wat doe je met de historische data? Contacten van vijf jaar geleden, deals die lang verloren zijn, aantekeningen uit een andere periode. Importeer je alles, of begin je schoon?
+
+Mijn advies: importeer actieve contacten en lopende of recente deals. Alles van de afgelopen achttien maanden is relevant. Wat ouder is, importeer je alleen als er een actieve reden is om die data bij de hand te hebben.
+
+Historische data die je meeneemt levert snel een rommelig CRM op: oude contacten die nooit worden opgepakt, verlopen deals die de rapportages vertekenen, contactgegevens die al jaren niet zijn gecontroleerd. Dat ondermijnt het vertrouwen in het nieuwe systeem.
+
+Een alternatief is een "archief-tag" aanmaken: importeer ook historische data maar tag die als archief. Zo zijn de gegevens beschikbaar als je ze nodig hebt, maar staan ze niet in je actieve pipeline en rapportages.
+
+## Wat te doen met aantekeningen en notities
+
+Excel heeft geen notitieveld per contact; de meeste mensen zetten aantekeningen in een extra kolom. Die kolommen zijn vrijgevormde tekst: willekeurige opmerkingen, datums, gespreksnotities, reminders. Ze zijn waardevoller dan de contactgegevens zelf, maar ook het moeilijkst te importeren.
+
+De meeste CRM-systemen bieden een notitieveld per contact en per deal. Bij import vanuit Excel kun je een tekstkolom koppelen aan het notitieveld. Dat werkt technisch, maar de notities staan dan zonder datum en context als één grote blob tekst.
+
+Een betere aanpak voor belangrijke contacten: neem vijf minuten per contact en herschrijf de belangrijkste aantekeningen als een correcte activiteitenlog in het CRM. Met datum, type activiteit (gesprek, e-mail, meeting) en een korte samenvatting. Dat kost meer tijd dan een bulk-import, maar levert een CRM op dat daadwerkelijk bruikbaar is.
+
+Doe dit voor de twintig meest actieve contacten eerst. Voor de rest volstaat de geïmporteerde tekst of een schone start.
+
+## Parallel gebruik vermijden: de moeilijkste gewoonte te doorbreken
+
+De grootste bedreiging voor een geslaagde CRM-migratie is niet de technologie maar de gewoonte. Mensen kennen hun Excel-bestand. Ze weten waar alles staat. Het openen ervan gaat automatisch, zonder nadenken.
+
+Na de overstap duurt het gemiddeld twee tot vier weken voor de reflex om Excel te openen verdwijnt. In die periode is het verleidelijk om "even snel iets op te zoeken" in het oude bestand. Dat "even snel" wordt een gewoonte, en voor je het weet werk je met twee systemen naast elkaar.
+
+Ik geef al mijn klanten hetzelfde advies: verniet of archiveer het bestand direct na de migratie. Niet "als je er zeker van bent dat alles in het CRM staat" — dat moment verschuift altijd naar later. Neem de sprong op dag één. Je hebt een back-up gemaakt. Je kunt altijd terug als het echt nodig is. Maar door het bestand weg te halen, dwing je jezelf het CRM te gebruiken.
+
+Het alternatief — blijven werken met beide systemen "totdat iedereen gewend is aan het nieuwe" — levert in de praktijk nooit een volledige overstap op.
+
+## Wat je nog niet wist dat je miste
+
+Na de overstap van Excel naar een CRM ontvangen bijna alle klanten die ik begeleid hetzelfde soort verrassing. Ze zien inzichten die ze in Excel nooit hadden — niet omdat de data er niet was, maar omdat Excel ze niet automatisch zichtbaar maakt.
+
+Welke deals zijn al meer dan negentig dagen open zonder activiteit? In Excel zou je daarvoor een complexe filter moeten bouwen. In een CRM klik je op één knop en je hebt de lijst.
+
+Welke leads zijn binnengekomen via een specifiek kanaal en hoe hoog is de conversie van dat kanaal? In Excel nooit bijgehouden. In een CRM staat het standaard als je de herkomst bij aanmaak invult.
+
+Welke medewerker heeft de hoogste win-rate en bij welk type deal? In Excel een uurwerk aan pivot-tabellen. In een CRM een dashboard dat je elke week opent.
+
+Dit is de echte waarde van de overstap. Niet sneller werken — hoewel dat ook — maar zichtbaarheid op informatie die er altijd al was maar nooit toegankelijk was. Dat verandert hoe je beslissingen neemt, en dat verandert uiteindelijk de uitkomsten.
+
+Het accountantskantoor in Utrecht weet nu exact welke klanten hun meest winstgevend zijn. Ze weten wanneer contracten verlopen en kunnen pro-actief contact opnemen. Ze weten welke leads de meeste kans maken en steken daar meer tijd in. Dat wisten ze niet uit Excel. Nu wel.
+
 ## Lees ook
 
 - [Beste CRM software voor Nederland 2026: eerlijk vergelijk](/blog/beste-crm-software-nederland-2026/)

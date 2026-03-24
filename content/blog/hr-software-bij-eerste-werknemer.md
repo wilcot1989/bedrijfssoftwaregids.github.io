@@ -127,6 +127,79 @@ Ja, elke werkgever met personeel is verplicht een contract te hebben met een gec
 **Hoe werkt vakantiedagen bijhouden?**
 Wettelijk heeft een fulltime medewerker recht op minimaal 20 vakantiedagen per jaar (4 maal het aantal werkdagen per week). Bovenwettelijke vakantiedagen worden contractueel vastgelegd. HR-software houdt het saldo automatisch bij op basis van het dienstverband en de opgenomen dagen. Wettelijke vakantiedagen vervallen na zes maanden als ze niet zijn opgenomen; bovenwettelijke dagen na vijf jaar.
 
+## Concrete toolaanbevelingen per situatie
+
+Hieronder zet ik de meest gebruikte pakketten naast elkaar zodat je snel kunt vergelijken. Meer details over elk pakket vind je in de [beste HR software Nederland vergelijking](/blog/beste-hr-software-nederland-2026/).
+
+| Pakket | Prijs (1 mw) | Salarisadmin | Verlof/verzuim | CAO-ondersteuning | Beste voor |
+|--------|-------------|-------------|---------------|-------------------|------------|
+| Loket.nl | ~€20-30/mnd | Ja | Ja | Breed | Kleine werkgevers, eenvoudige situaties |
+| NMBRS | ~€25/mnd | Ja | Ja | Breed (ruimste) | CAO-gevoelige sectoren |
+| Visma eLoket | ~€15-25/mnd | Ja | Ja | Goed | Starters met klein budget |
+| Personio | Vanaf ~€80/mnd | Via integratie | Ja | Beperkt | Groeiende bedrijven (5-100 mw) |
+| AFAS | Op aanvraag | Ja | Ja | Ja | Bedrijven die willen doorgroeien naar 20+ mw |
+
+Een paar praktijkobservaties uit mijn eigen werk:
+
+**Loket.nl** is voor de meeste eerste werkgevers de kortste weg naar een werkende administratie. De initiële configuratie doe je in een middag. De interface is functioneel, niet fancy, maar dat is precies wat je nodig hebt als je nog bezig bent te leren wat een loonheffingstabel is.
+
+**NMBRS** is technisch de sterkste keuze als je in een sector werkt met een ingewikkelde CAO — bouw, horeca, zorg, schoonmaak. Het CAO-pakket wordt actief onderhouden en bespaart je veel handmatig zoekwerk.
+
+**Visma eLoket** is het goedkoopste instappunt en werkt prima voor een enkelvoudige situatie: één medewerker, vast salaris, standaard vakantiedagen, geen bijzonderheden. Wordt het complexer, dan loop je tegen de beperkingen aan.
+
+**Personio** is logisch als je verwacht binnen twee jaar door te groeien naar vijf of meer medewerkers. De onboarding- en performance-modules zijn dan de moeite waard. Voor alleen de eerste werknemer is het relatief duur.
+
+## Gebruik cases: drie veelvoorkomende situaties
+
+**Situatie 1 — Webdesigner neemt eerste projectmedewerker aan**
+Mohammed runt een webdesignbureau als ZZP'er en neemt zijn eerste medewerker aan: een junior designer op 32 uur per week. Er is geen CAO van toepassing. Mohammed kiest Loket.nl Basis (€22/mnd), richt in twee uur de administratie in en koppelt het aan zijn Moneybird-boekhouding voor automatische journaalposten van de salariskosten.
+
+**Situatie 2 — Cateringbedrijf met flexibele uren**
+Sandra heeft een cateringbedrijf en neemt haar eerste vaste medewerker aan op 24 uur per week, maar met wisselende diensten en avondtoeslagen op basis van de horeca-CAO. Ze kiest NMBRS: de horeca-CAO is volledig ingebouwd, inclusief de toeslagberekening voor avond- en weekendwerk. Dat bespaart haar elk salarisgesprek een kwartier rekenwerk.
+
+**Situatie 3 — Accountantskantoor wil groeien**
+Peter heeft een accountantskantoor en neemt zijn eerste medewerker aan, maar hij verwacht binnen twee jaar door te groeien naar acht medewerkers. Hij kiest Personio ondanks de hogere instapkosten. De reden: hij wil straks ook onboarding, doelenbeheer en functiebeschrijvingen in hetzelfde systeem. Eén migratie bespaar je hem een hoop gedoe.
+
+## Integraties die je nodig hebt
+
+HR-software staat niet op zichzelf. De meeste kleine werkgevers koppelen hun HR-pakket aan twee andere systemen:
+
+**Boekhoudsoftware**: Salariskosten worden geboekt als journaalposten in de boekhouding. Met een koppeling gaat dat automatisch. Loket.nl en NMBRS koppelen standaard met Exact Online, Moneybird, Twinfield en SnelStart. Zonder koppeling boek je de salariskosten handmatig — wat kan, maar foutgevoelig is bij meerdere kostenplaatsen.
+
+**Salarisverwerker of arbodienst**: Als je de salarisadministratie uitbesteedt aan een boekhouder of salarisadministrateur, geeft die persoon je NMBRS of Loket.nl toegang tot jouw omgeving. Zo werken beide partijen in hetzelfde systeem en zijn er geen afwijkingen tussen de externe administratie en jouw eigen systeem.
+
+**Urenregistratie**: Als de medewerker uren schrijft per project of klant, wil je die uren koppelen aan de salarisadministratie. Tools als Harvest, Toggl Track en Exact voor de projectmodule koppelen met diverse HR-pakketten. Bekijk de [urenregistratie vergelijking](/blog/beste-urenregistratie-software-2026/) voor meer opties.
+
+## AVG en het personeelsdossier
+
+Als werkgever ben je verwerker van persoonsgegevens van je medewerkers. De AVG verplicht je tot:
+
+- Minimale gegevensverwerking: sla alleen op wat nodig is voor de administratieve verplichtingen
+- Beveiliging: toegang tot het personeelsdossier alleen voor wie het nodig heeft (jij, de salarisadministrateur, niet de collega medewerkers)
+- Inzagerecht: de medewerker heeft recht zijn dossier in te zien
+- Bewaarplicht: salarisadministratie bewaar je minimaal vijf jaar; het arbeidscontract twee jaar na einde dienstverband
+
+Alle genoemde HR-pakketten zijn AVG-conform ingericht: de gegevens staan op Europese servers, je kunt rechten instellen per gebruiker en de toegangslog is inzichtelijk. Dat is één van de redenen om nooit een gewone cloudopslag (Dropbox, Google Drive) te gebruiken voor personeelsdossiers.
+
+## Wat kost de eerste werknemer je echt?
+
+Veel ondernemers rekenen alleen met het netto salaris als ze inschatten wat een medewerker kost. Dat klopt niet. Hier is de volledige berekening voor een medewerker op €3.000 bruto per maand (2026):
+
+| Kostencomponent | Maandbedrag |
+|----------------|-------------|
+| Bruto salaris | €3.000 |
+| Werkgeverspremie WW | ~€138 |
+| Werkgeverspremie WIA | ~€54 |
+| Inkomensafh. bijdr. Zvw | ~€258 |
+| Pensioenpremie werkgever | ~€150-300 |
+| **Totale loonkosten** | **~€3.600-3.750** |
+| Vakantietoeslag (8%) | €240/mnd (opgebouwd) |
+| HR-software | €20-30/mnd |
+| Arbodienst | ~€12/mnd |
+| **Volledige maandkosten** | **~€3.870-4.030** |
+
+Een medewerker op €3.000 bruto kost je als werkgever dus rond de €3.900-4.000 per maand. Dit is een ruwe schatting — de exacte premies zijn afhankelijk van sector, risicoclassificatie en pensioenregeling. Gebruik de [HR software kosten berekenen tool](/tools/hr-software/kosten-berekenen/) voor een berekening op basis van jouw specifieke situatie.
+
 ## Lees ook
 
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — vergelijk HR-pakketten voor startende werkgevers

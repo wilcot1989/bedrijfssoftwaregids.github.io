@@ -149,6 +149,30 @@ Wil je weten welke pakketten de beste exportmogelijkheden bieden? Bekijk mijn ve
 
 ---
 
+## Veelgestelde vragen over boekhoudmigaties
+
+In mijn adviespraktijk krijg ik steeds dezelfde vragen. Ik beantwoord ze hier kort en direct.
+
+**Verlies ik mijn BTW-historiek bij een overstap?**
+
+Niet als je goed exporteert. De BTW-aangiftes die je in het verleden hebt ingediend, zijn ingediend bij de Belastingdienst en staan daar geregistreerd — ongeacht of je het boekhoudpakket nog hebt. Wat je wel nodig kunt hebben bij een controle is de onderliggende transactiedata. Exporteer die als PDF en CSV voordat je het oude systeem afsluit. De BTW-aangifte van komende kwartalen doe je gewoon in het nieuwe systeem.
+
+**Kan ik mijn factuursjabloon meenemen?**
+
+Het sjabloon zelf (het ontwerp) niet, maar je kunt het ontwerp in het nieuwe systeem nabootsen of opnieuw instellen. Je logo, lettertype, kleuren en vaste tekstvelden stel je opnieuw in. Dit kost een uur werk, niet meer. Wat niet overkomt: de factuurhistorie als opgemaakte documenten, tenzij je die exporteert als PDF.
+
+**Wat als ik facturen op twee systemen moet sturen tijdens de overgang?**
+
+Dat moet je vermijden. Kies één datum waarop het nieuwe systeem de enige bron is voor nieuwe facturen. Facturen die voor die datum zijn aangemaakt, zitten in het oude systeem. Facturen na die datum in het nieuwe. Dat geeft een heldere knip.
+
+**Moet ik mijn klanten informeren over de overstap?**
+
+Nee, dat is niet verplicht. Je factuurontwerp mag veranderen, je e-mailadres blijft hetzelfde, je bankrekening blijft hetzelfde. De enige uitzondering is als je ook je factuurformat wijzigt op een manier die relevant is voor klanten die zelf facturen automatisch verwerken — maar dat speelt alleen bij grote volumes.
+
+**Wat als ik midden in een BTW-aangifte-periode overga?**
+
+Probeer het te vermijden, maar als het niet anders kan: gebruik voor het lopende kwartaal het oude systeem voor alle boekingen tot de migratiedatum, en het nieuwe systeem voor alle boekingen vanaf de migratiedatum. Maak in beide systemen een duidelijk overzicht van de BTW-bedragen over hun respectieve periodes. Tel die bij elkaar op voor de totale kwartaalaangifte. Laat je accountant dit controleren — het is het risico op een fout niet waard om dit alleen te doen.
+
 ## Mijn advies: neem de tijd en betrek je accountant
 
 Een boekhoudmigratie is geen zaterdagmiddagproject. Voor een ZZP'er met een eenvoudige administratie is één dag realistisch. Voor een BV met meerdere bankrekeningen, openstaande posten en een complexe BTW-structuur moet je rekenen op een tot twee weken voorbereidingstijd, plus een maand parallel draaien.

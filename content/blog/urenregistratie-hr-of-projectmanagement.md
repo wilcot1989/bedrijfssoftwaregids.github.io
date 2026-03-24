@@ -88,6 +88,66 @@ Als je twijfelt welke richting je kiest, stel dan de vraag: wie heeft de meeste 
 
 In de meeste bedrijven is de behoefte aan beide. Kies dan het systeem dat het meest gebruikt wordt door het dagelijkse team en bouw van daaruit een koppeling naar het andere. Een half-ingerichte dubbele oplossing is altijd beter dan een volledig genegeerd alternatief.
 
+## De wettelijke verplichting die veel werkgevers niet kennen
+
+Urenregistratie is in Nederland niet voor elk bedrijf wettelijk verplicht, maar de uitzondering is kleiner dan veel werkgevers denken. Het Europese Hof van Justitie heeft in 2019 bepaald dat werkgevers verplicht zijn een systeem te hebben waarmee de dagelijkse arbeidstijd per werknemer objectief en betrouwbaar kan worden gemeten. Dat arrest heeft directe werking in Nederland.
+
+Wat dat in de praktijk betekent: je hoeft geen tijdklok te gebruiken, maar je moet kunnen aantonen hoeveel uren een medewerker heeft gewerkt als de Inspectie SZW hierom vraagt. Een mondelinge toezegging van een medewerker dat hij zijn contracturen werkt, is daarvoor niet voldoende.
+
+Voor medewerkers die werken op basis van een oproepcontract, nuluren-overeenkomst of flexibel rooster is de registratieplicht nog strikter. Hier moet je per dag kunnen aantonen wat de begin- en eindtijd was.
+
+Ik zie bij kleinere bedrijven regelmatig dat urenregistratie als optioneel wordt beschouwd. Tot er een discussie ontstaat over overuren, een ontslagprocedure of een handhavingsbezoek. Dan blijkt het gebrek aan registratie een groot probleem — niet alleen juridisch, maar ook in de praktijk omdat niemand meer precies weet hoe de situatie was.
+
+## Koppeling tussen urenregistratie en facturatie: de drie meest gebruikte methoden
+
+Voor dienstverlenende bedrijven is de koppeling tussen geregistreerde uren en uitgaande facturen een van de meest waardevolle automatiseringen die je kunt inrichten. De drie meest gebruikte methoden in de Nederlandse MKB-praktijk:
+
+**Methode 1: Uren direct in de facturatietool.** Tools als Teamleader, Moneybird (met tijdregistratie) en Harvest combineren urenregistratie en facturatie in één systeem. Medewerkers registreren uren per klant en project, en aan het einde van de periode genereer je een factuurvoorstel op basis van die uren. Dit is het eenvoudigst en werkt goed voor bedrijven met een beperkt aantal klanten en een rechttoe-rechtaan facturatieproces.
+
+**Methode 2: Uren in projecttool, facturatie via koppeling met boekhouding.** Je gebruikt een tool als Toggl Track of Harvest voor de urenregistratie en exporteert de goedgekeurde uren naar het boekhoudpakket voor facturatie. Dit werkt goed als projectmanagers controle willen houden over welke uren worden doorbelast voordat ze de factuur genereren.
+
+**Methode 3: Centrale tijdregistratie met meerdere outputs.** Sommige bedrijven gebruiken een centrale tijdregistratietool die via API's zowel naar de salarisadministratie als naar de projectadministratie stuurt. Dit is de meest volledig geautomatiseerde aanpak maar ook de meest complexe om in te richten. Pas relevant voor bedrijven met meer dan twintig medewerkers of een hoog facturatievolume.
+
+Welke methode je kiest, hangt af van hoe nauwkeurig je de doorbelasting wilt controleren en hoeveel administratieve overhead je accepteert in het goedkeuringsproces.
+
+## Urenregistratie voor thuiswerkers: extra aandachtspunten
+
+Thuiswerken heeft urenregistratie ingewikkelder gemaakt voor veel bedrijven. Medewerkers werken vaker op onregelmatige tijden, combineren werk en privé door de dag heen, en zijn minder geneigd om precies bij te houden hoe laat ze beginnen en stoppen.
+
+Praktisch werkt dit het best met een dagelijks begin-stop systeem: de medewerker klikt aan het begin van de werkdag in op een eenvoudige app en klikt uit aan het einde. Dat is het minimum om aan de wettelijke verplichting te voldoen en om overuren correct te berekenen.
+
+Voor thuis werkende medewerkers die worden doorbelast aan klanten, is de tijdregistratie per taak of project relevanter dan de begin-eindtijd. Hier werken timer-gebaseerde tools als Toggl Track goed: de medewerker start een timer bij het beginnen van een taak en stopt hem als de taak klaar is. Het overzicht aan het einde van de dag is automatisch gedetailleerd genoeg voor facturatie.
+
+Wijs bij thuiswerken ook af en toe op de registratieverplichting. In mijn ervaring neemt de nauwkeurigheid van urenregistratie bij thuiswerkers na zes maanden structureel af — niet door kwade wil maar door gewenning en informalisering van de werkdag.
+
+## Wat je leert van urenoverzichten die je nog niet wist
+
+Goede urenregistratie brengt inzichten boven tafel die je anders nooit zou hebben. Ik hoor dit consistent van bedrijven die voor het eerst serieus gaan analyseren:
+
+Het blijkt dat de klant die het meeste omzet genereerde, ook de meeste onbetaalde uren opslurpte. Kleine aanpassingsverzoeken, extra overlegmomenten, herwerk — allemaal niet gefactureerd. Na analyse bleek de klant netto verlieslatend.
+
+Interne processen zoals vergaderen, rapportages schrijven en e-mail verwerken namen bij sommige medewerkers 35 tot 40 procent van de werkweek in beslag. Dat was zichtbaar geworden door de urenregistratie, wat leidde tot een vergaderreductie die meer vrije capaciteit opleverde dan een nieuwe aanstelling.
+
+Een specifiek project kostte consequent het dubbele van de begroting aan uren. Na analyse bleek de offerte structureel te laag omdat de scope niet goed was gedefinieerd. Dat was te zien in de urencijfers maar niet eerder geadresseerd.
+
+Dit soort inzichten rechtvaardigen de investering in goede urenregistratie meerdere malen. Gebruik de [kosten berekenen tool voor HR software](/tools/hr-software/kosten-berekenen/) om de totale investering in een gecombineerde of losse urenregistratie-oplossing te begroten.
+
+## Veelgestelde vragen over urenregistratie
+
+**Mag je medewerkers verplichten om uren te registreren?**
+Ja. Urenregistratie valt onder het instructierecht van de werkgever. Je mag het als arbeidsvoorwaarde opnemen en naleving vereisen als onderdeel van het functioneren. Zorg dat de verplichting en de gebruikte tool zijn opgenomen in de arbeidsovereenkomst of een bijlage daarbij.
+
+**Hoe ga je om met vergeten uren?**
+Beleid verschilt per bedrijf, maar een praktische aanpak is: elke dag registreren is de norm, achterstanden tot drie werkdagen mogen worden hersteld, daarna vervalt de registratiemogelijkheid zonder toestemming van de leidinggevende. Strikte regels helpen de datakwaliteit maar kunnen wrijving geven als ze te rigide zijn. Vind de balans die bij je cultuur past.
+
+**Moeten zzp'ers die voor jou werken ook uren registreren?**
+Als je zzp'ers factureert op basis van uren, is urenregistratie de bewijslast voor de gefactureerde uren. Dat is in het belang van beide partijen. Maak afspraken over welk systeem wordt gebruikt en wie toegang heeft tot de uren, zodat er geen discussie ontstaat over wat is gefactureerd.
+
+**Wat is het beste moment om naar urenregistratie te vragen?**
+Dagelijkse registratie aan het einde van de werkdag levert de meest nauwkeurige data. Wekelijkse terugblik op vrijdag geeft een sterk teruglopende nauwkeurigheid voor uren die al vroeg in de week zijn gemaakt. Maandelijkse reconstructie is voor projectkosten vrijwel onbruikbaar.
+
+Gebruik de [kosten berekenen tool voor HR software](/tools/hr-software/kosten-berekenen/) om de totale investering te begroten en een vergelijking per bedrijfsgrootte te zien op de [HR software sectorgids](/sectoren/hr/).
+
 ## Lees ook
 
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — HR-pakketten met urenregistratie

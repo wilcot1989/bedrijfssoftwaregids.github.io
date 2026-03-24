@@ -356,3 +356,11 @@ Gebruik software om de volgende KPI's te monitoren en te verbeteren:
 | Inspecties conform NEN | >85% | <75% |
 
 Door deze KPI's maandelijks te meten via uw software krijgt u inzicht in structurele verbeterpunten en kunt u tijdig bijsturen.
+
+## Praktijkvoorbeeld: schoonmaakbedrijf van 15 naar 40 medewerkers
+
+Neem een schoonmaakbedrijf in Utrecht dat in twee jaar tijd groeide van 15 naar 40 medewerkers en acht vaste opdrachtgevers. De eigenaar werkte aanvankelijk met WhatsApp-groepen voor roosters en papieren inspectielijsten. Dat werkte prima bij 15 man, maar zodra hij de 25 medewerkers passeerde, liepen zaken mis: een medewerker die op twee locaties tegelijk was ingepland, een inspectie die niet teruggevonden kon worden bij een klacht, en een maandelijkse salarisverwerking die steeds een dag in beslag nam.
+
+De keuze viel op Leviy voor kwaliteitscontrole en klantcommunicatie, gecombineerd met Shiftbase voor de roosters. Resultaten na zes maanden: het aantal klachten daalde met 30%, de maandelijkse salarisverwerking kostte nog twee uur, en drie nieuwe opdrachtgevers werden gewonnen mede doordat het klantenportaal een professionele indruk maakte tijdens de offerteronde.
+
+De les: software voor schoonmaakbedrijven verdient zich niet terug op dag één, maar op het moment dat de groei anders onbeheersbaar wordt. Begin eerder dan je denkt nodig te hebben.

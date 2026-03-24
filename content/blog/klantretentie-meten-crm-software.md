@@ -115,6 +115,42 @@ Eerlijk antwoord: dat hangt af van wat je nodig hebt en wat je bereid bent te be
 
 Voor een breder overzicht van de beschikbare opties verwijs ik je naar mijn vergelijking van de [beste CRM-software in Nederland](/blog/beste-crm-software-nederland-2026/). Als je ook wil weten welke koppelingen je CRM kan maken met je andere systemen, lees dan het artikel over [CRM-integraties](/blog/crm-integraties-uitgelegd/).
 
+## Een retentieplan bouwen in drie maanden
+
+Theorie is mooi, maar ondernemers hebben concrete stappen nodig. Dit is het plan dat ik bij klanten gebruik als ze met retentie beginnen.
+
+**Maand één: meting opzetten**
+
+De eerste maand draait volledig om data verzamelen, niets anders. Exporteer je klantenbestand van twee jaar geleden en bereken hoeveel van die klanten nog actief zijn. Dat is je startnummer. Bereken je churnrate over de afgelopen twaalf maanden. Voer de NPS-vraag in bij je meest recente klanten — geen uitgebreide enquête, gewoon één vraag per e-mail. Maak een lijstje van de vijf grootste klanten die het afgelopen jaar zijn vertrokken en noteer waarom, voor zover je dat weet.
+
+Aan het einde van maand één heb je een nulmeting. Retentiepercentage, churnrate, NPS-score, en een eerste idee van waarom klanten weggaan. Dat is genoeg om te beginnen.
+
+**Maand twee: snelle wins**
+
+In de tweede maand pak je de meest urgente gevallen aan. Maak in je CRM een lijst van klanten die meer dan negentig dagen geen activiteit hebben gehad maar historisch goede klanten waren. Bel ze op. Geen verkoopgesprek — gewoon: "Hoe gaat het, hebben jullie alles wat je nodig hebt?"
+
+In mijn ervaring zijn er altijd klanten in die lijst die eigenlijk tevreden zijn maar simpelweg vergeten waren contact op te nemen. Een telefoontje is soms genoeg. En je ontdekt bij een paar van die gesprekken ook een reden voor inactiviteit die je kunt oplossen — een onbeantwoorde klacht, een misverstand over een factuur, iets waarover ze niet vanzelf belden.
+
+Stel in je CRM ook de automatische alerts in voor nieuwe inactiviteit. Zodra een klant zestig dagen niets heeft gedaan, krijgt de accountmanager een taak.
+
+**Maand drie: systematiseren**
+
+In de derde maand maak je van de snelle wins een systeem. Schrijf de retentieprocedures op. Wie belt wie? Wanneer? Wat zijn de escalatiecriteria als een klant niet reageert? Hoe worden NPS-scores verzameld en wie handelt ernaar?
+
+Maak het retentiedashboard definitief en bekijk het elke week. Niet elke dag — dat is te veel. Niet elke maand — dan reageer je te langzaam. Wekelijks is het juiste ritme.
+
+Na drie maanden heb je een systeem dat werkt zonder dat je er constant aan hoeft te trekken.
+
+## Retentie bij een-persoonsbedrijven en kleinere teams
+
+Alles hierboven klinkt als werk voor een salesteam. Maar wat als je maar met twee of drie mensen werkt?
+
+Dan is de aanpak eenvoudiger maar het principe hetzelfde. Maak een lijst van al je actieve klanten — dat zijn er misschien tien of vijftien. Elke klant die meer dan drie maanden niets heeft gedaan, belt je eens in de twee weken kort. Niet voor een uur, gewoon vijf minuten: "Hoe gaat het, nog plannen voor komend kwartaal?" Dat is je retentiesysteem.
+
+Bij kleinere klantenbestanden heb je geen CRM-dashboard nodig. Een simpele spreadsheet met de laatste contactdatum per klant doet het ook. Als je groeit naar twintig of meer actieve klanten, dan wordt een CRM echt zijn geld waard.
+
+De kern blijft hetzelfde: bewust aandacht geven aan bestaande klanten in plaats van alleen focussen op nieuwe.
+
 ## Mijn advies: meet het voordat je het probeert te verbeteren
 
 Dit is het meest onderschatte principe in retentiemanagement. Ik kom regelmatig bij bedrijven die al van alles proberen — loyaliteitsprogramma's, extra contactmomenten, kortingen voor langdurige klanten — maar geen idee hebben of het werkt. Ze hebben geen nulmeting, geen retentiecijfer van het jaar daarvoor, geen baseline.

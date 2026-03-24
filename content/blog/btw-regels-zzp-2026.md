@@ -146,6 +146,36 @@ Een vergelijking van kosten tussen software en een boekhouder vind je in [boekho
 
 ---
 
+## Hoe zit het met BTW bij samenwerkingen en onderaannemers?
+
+Een situatie die ik regelmatig tegenkom bij ZZP'ers die groeien: je werkt samen met andere zelfstandigen. Iemand doet een deel van de opdracht, jij factureert de eindklant. Of andersom: jij factureer jouw aandeel aan een andere ZZP'er die de klant bedient.
+
+**Als je onderaannemer inhuurt:** Je betaalt de onderaannemer zijn factuur inclusief BTW. Die BTW trek je als zakelijke inkoopkost af op je eigen BTW-aangifte, mits het zakelijk verband aanwezig is. Dat is normaal. Zorg wel dat je een correcte factuur ontvangt met het BTW-nummer van de onderaannemer.
+
+**Als jij de onderaannemer bent:** Je factureert aan de hoofdaannemer, gewoon zoals je aan andere zakelijke klanten factureert. Geen bijzondere regels. Wel opgelet: als de hoofdaannemer een beroep doet op de verleggingsregeling in de bouwsector (zie hieronder), factureer je zonder BTW.
+
+**Verlegging in de bouw (artikel 24bb OB):** In de bouwsector bestaat een specifieke verleggingsregeling voor werk aan onroerend goed. Als jij als onderaannemer bouwwerkzaamheden verricht voor een andere aannemer (die BTW-ondernemer is), wordt de BTW verlegd naar de hoofdaannemer. Je factureert zonder BTW, met de vermelding "BTW verlegd". Dit is verplicht als beide partijen in de bouwketen zitten en het om aangewezen diensten gaat. Twijfel je of dit op jou van toepassing is? Raadpleeg de Belastingdienst of een belastingadviseur.
+
+## Bijzondere situaties: wanneer standaard BTW-regels niet opgaan
+
+Naast de basisregels zijn er een paar situaties die regelmatig voor verwarring zorgen bij ZZP'ers. Ik beschrijf de vier die ik het vaakst tegenkom.
+
+**Diensten aan particulieren buiten de EU**
+
+Lever je diensten aan een particulier in de VS, Canada of Australië? Dan gelden andere regels dan bij EU-leveringen. Voor de meeste diensten geldt dat je geen Nederlandse BTW in rekening hoeft te brengen — de levering valt buiten de Nederlandse BTW-heffing. Dit klinkt voordelig, maar het heeft ook gevolgen: je kunt de BTW op eventuele kosten die specifiek toegerekend worden aan die diensten niet aftrekken.
+
+**De margeregeling voor tweedehands goederen**
+
+Koop je tweedehands spullen in en verkoop je die door? Dan geldt mogelijk de margeregeling: je betaalt BTW alleen over de winstmarge (verkoopprijs minus inkoopprijs), niet over de volledige verkoopprijs. Dat klinkt aantrekkelijk, maar het vereist een nauwkeurige inkoop- en verkoopadministratie per product. Niet elk boekhoudpakket ondersteunt dit goed. Vraag je boekhouder of dit op jou van toepassing is.
+
+**Vrijgestelde prestaties**
+
+Sommige beroepsgroepen zijn vrijgesteld van BTW, niet omdat ze onder de KOR vallen maar omdat de wet dat zo bepaalt. Dit geldt onder meer voor artsen, tandartsen, fysiotherapeuten, bepaalde sportleraren, en onderwijsdiensten die voldoen aan specifieke criteria. BTW-vrijstelling klinkt voordelig, maar de keerzijde is dezelfde als bij de KOR: je kunt geen BTW op kosten terugvragen. Weet je niet zeker of jouw activiteit is vrijgesteld? Vraag het bij de Belastingdienst of een belastingadviseur.
+
+**Verhuur van onroerend goed**
+
+Verhuur je zakelijk vastgoed? Dan is de hoofdregel dat verhuur van onroerend goed is vrijgesteld van BTW. Maar onder bepaalde voorwaarden kun je gezamenlijk met de huurder opteren voor BTW-belaste verhuur. Dat kan voordelig zijn als de huurder BTW kan aftrekken en als jij daarmee de BTW op bouw- en onderhoudskosten wilt terugvragen. Dit is een specialist-onderwerp — zoek een belastingadviseur als dit voor jou speelt.
+
 ## Mijn advies: drie BTW-tips die elke ZZP'er moet kennen
 
 Na jaren van gesprekken met ZZP'ers over hun administratie, zijn dit de drie dingen die ik keer op keer tegenkom. Geen grote ontdekkingen — maar de basisfouten die het meeste geld kosten.

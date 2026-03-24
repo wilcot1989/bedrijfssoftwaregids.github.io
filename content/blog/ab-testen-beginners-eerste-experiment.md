@@ -133,6 +133,32 @@ Na jaren MKB-bedrijven begeleiden zie ik steeds dezelfde fouten terugkomen.
 
 Meer over [e-maillijsten opbouwen voor B2B](/blog/email-lijst-opbouwen-b2b/) en [deliverability-problemen voorkomen](/blog/email-deliverability-problemen-oplossen/) vind je in de gerelateerde artikelen, want die kanalen lenen zich uitstekend voor beginners die hun eerste A/B tests willen draaien met een laag technisch risico.
 
+## Je testresultaten documenteren: waarom het telt
+
+De meeste MKB-ondernemers die beginnen met A/B testen doen één test, zien een resultaat, en vergeten twee maanden later alles over wat ze getest hadden. Dat is een gemiste kans.
+
+Documenteer elke test in een eenvoudige spreadsheet. Kolommen: datum gestart, datum beëindigd, pagina of e-mail, beschrijving van variant A, beschrijving van variant B, hypothese, resultaat variant A (conversie%), resultaat variant B (conversie%), statistische significantie, winnaar, geleerde les.
+
+Die "geleerde les" is de waardevollste kolom. Na twaalf tests heb je een patroon: welke type aanpassingen werken bij jouw publiek? Zijn kleurvariaties nooit doorslaggevend bij jou terwijl tekstwijzigingen altijd impact hebben? Dat is waardevolle kennis die je niet in één test leert.
+
+Een tweede reden om te documenteren: je voorkomt dat je dezelfde test twee keer doet. Ik heb bij klanten meegemaakt dat een team zes maanden na een afgeronde test dezelfde variant opnieuw testte, puur omdat niemand meer wist wat er was getest. Vijf minuten documentatie bespaart je weken aan dubbel werk.
+
+## A/B testen voor e-mailcampagnes: laagdrempelig beginnen
+
+Als je website nog weinig verkeer heeft en je niet kunt wachten op de statistisch benodigde aantallen, is e-mail een uitstekend alternatief om te beginnen. E-mailcampagnes hebben twee grote voordelen voor beginners: je bepaalt zelf het tijdstip van verzending, en je kunt vrij snel resultaten zien zonder maanden te wachten.
+
+**Onderwerpregel testen** is de eenvoudigste e-mail A/B test. Stuur variant A naar 30 procent van je lijst, variant B naar 30 procent, wacht twee uur op de open rates, en stuur de winnende variant naar de resterende 40 procent. Mailchimp, Brevo en ActiveCampaign doen dit automatisch.
+
+Wat je kunt testen in e-mails:
+- Onderwerpregel: vraag versus statement ("5 tips voor betere offertes" versus "Waarom jouw offertes het afleggen tegen de concurrent")
+- Verzendtijd: dinsdag 9:00 versus donderdag 14:00
+- Afzendernaam: bedrijfsnaam versus persoonsnaam
+- Call-to-action in de e-mail: "Lees het artikel" versus "Bekijk de vergelijking"
+
+Bij e-mails kun je al bij een lijst van 500 personen zinvolle A/B tests draaien, zolang je de verschillen groot genoeg houdt om te meten. Een open rate van 22 procent versus 26 procent is statistisch interessant bij 500 ontvangers. Een verschil van 22 procent versus 22,5 procent is dat niet.
+
+Gebruik e-mail als oefenterrein voor je hypotheseformulering. De methodiek is dezelfde als bij websitetests. Als je eenmaal gewend bent aan het denken in hypotheses en het interpreteren van resultaten, is de overstap naar landingspagina-tests minder groot.
+
 ## Mijn advies: begin met één test per maand
 
 A/B testen is geen sprint. Het is een gewoonte.

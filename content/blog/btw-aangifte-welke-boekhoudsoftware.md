@@ -89,6 +89,56 @@ Sla je BTW-aangiften op als pdf voor je eigen administratie. De Belastingdienst 
 
 Een volledig overzicht van opties per doelgroep biedt de [boekhoudsoftware sectorgids](/sectoren/boekhouding/).
 
+## Hoe je de bankkoppeling instelt voor een foutloze BTW-verwerking
+
+De bankkoppeling is voor de BTW-aangifte de meest onderschatte tijdsbesparing. Zonder koppeling verwerk je bankafschriften handmatig: je importeert een bestand of typt transacties over, wijs ze aan de juiste grootboekrekening toe en herhaalt dat elk kwartaal. Met een koppeling importeert het systeem bankafschriften automatisch en stelt het categorieën voor op basis van eerdere boekingen.
+
+De instap is eenvoudig. De meeste Nederlandse pakketten ondersteunen een directe koppeling via de bankstandaard PSD2, waarmee je éénmalig toestemming geeft aan het boekhoudpakket om je rekeninggegevens in te lezen. Dat inrichten kost een kwartier.
+
+Na de koppeling is het dagelijkse werk het matchen van transacties met de juiste categorieën. Het systeem leert van herhaalde keuzes: als je iedere maand de abonnementsfactuur van je hostingprovider als bedrijfskosten boekt, herkent het dat patroon en stelt het die categorie automatisch voor. Na drie maanden is 80 tot 90 procent van de transacties automatisch gecategoriseerd.
+
+De BTW-verrekening op inkomende kosten — de BTW die jij betaalt en terugkrijgt — is direct zichtbaar in de BTW-positie van het systeem. Dat geeft je elk kwartaal een betrouwbaar beeld van wat je moet afdragen zonder handmatige berekening.
+
+## Kleineondernemersregeling: wanneer BTW-aangifte eenvoudiger wordt
+
+De kleineondernemersregeling (KOR) is een optie die veel ZZP'ers en kleine ondernemers niet kennen of niet overwegen. Als je verwacht dat je jaarlijkse omzet onder de €20.000 blijft, kun je je aanmelden voor de KOR. Je berekent dan geen BTW meer op je facturen en doet geen BTW-aangifte meer.
+
+Het nadeel: je kunt ook geen BTW meer terugvragen op zakelijke kosten. Voor bedrijven met weinig zakelijke kosten is de netto impact soms nul of zelfs positief, omdat je geen administratieve last meer hebt van de kwartaalaangifte.
+
+De beslissing om de KOR te kiezen hangt af van je omzetpatroon, je kostenstructuur en je klanten. Zakelijke klanten die BTW willen verrekenen, prefereren leveranciers die BTW in rekening brengen. Als je primair aan consumenten factureert, is dat minder relevant.
+
+Boekhoudsoftware ondersteunt de KOR standaard: je zet de BTW-verwerking uit voor je eigen facturen. De administratie van de inkomende facturen van leveranciers blijft, maar de aangifte verdwijnt. Controleer bij aanschaf of jouw pakket de KOR correct ondersteunt en of het systeem automatisch waarschuwt als je de drempelwaarde nadert.
+
+## De jaarafsluiting en hoe je die foutloos uitvoert
+
+De jaarafsluiting is het moment waarop fouten in de BTW-administratie van het afgelopen jaar bovenkomen. In de praktijk zijn er drie veelgemaakte fouten die je vóór de afsluiting wilt opsporen.
+
+Ten eerste: transacties die in het verkeerde boekjaar staan. Een factuur van december die pas in januari is geboekt, valt in het verkeerde jaar als je geen nacalculatieperiode hebt ingesteld. Controleer aan het einde van het jaar of er transacties in de eerste twee weken van januari staan die eigenlijk december-omzet zijn.
+
+Ten tweede: openstaande crediteuren en debiteuren die handmatig zijn bijgehouden maar niet in het boekhoudpakket staan. Als een klant in december heeft betaald maar de boeking nog niet heeft plaatsgevonden, is je eindbalans onjuist.
+
+Ten derde: privécorrecties die vergeten zijn. Wie een zakelijk abonnement of auto voor privé gebruikt, moet aan het einde van het jaar een BTW-correctie boeken voor het privégedeelte. Veel pakketten bieden hiervoor een vaste module; gebruik die voor je de jaarafsluiting doet.
+
+Sommige pakketten sturen een afsluiting-checklist aan het einde van het jaar. Doorloop die consequent. De paar uur die je investeert in een correcte afsluiting besparen je mogelijke correcties bij een belastingcontrole en vermijden een suppletie-aangifte.
+
+## Wat je bespaart ten opzichte van uitbesteden aan een boekhouder
+
+Een van de meest gehoorde argumenten voor het zelf doen van de BTW-aangifte via software is kostenbesparing. Maar hoeveel scheelt dat werkelijk?
+
+Een boekhouder die je kwartaalaangifte doet, rekent gemiddeld €75 tot €150 per uur en is doorgaans één tot twee uur per kwartaal bezig met een eenvoudige aangifte. Dat is €300 tot €1.200 per jaar voor de BTW-aangifte alleen.
+
+Goede boekhoudsoftware voor ZZP'ers kost €8 tot €30 per maand, dus €100 tot €360 per jaar voor het abonnement. Het systeem doet zelf de berekening; jij controleert en dient in. De tijdsbesteding is 20 tot 30 minuten per kwartaal als de administratie bijgehouden is.
+
+De besparing is daarmee €200 tot €800 per jaar op de aangifte alleen, plus de tijdsbesparing die je daarboven hebt bij een goed gecombineerd facturatie- en boekhoudsysteem. Voor wie de besparing wil uitrekenen voor zijn eigen situatie, biedt de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/) een gericht overzicht per doelgroep.
+
+## De nieuwe BTW-regels voor 2025 en 2026 die je kent
+
+Per 1 januari 2025 is de meldingsplicht voor BTW-suppleties ingegaan: als je een fout ontdekt in een eerder ingediende aangifte, ben je verplicht die binnen acht weken te corrigeren via een suppletie. Dat was eerder een mogelijkheid maar geen plicht. Goed boekhoudpakket herinnert je hieraan en genereert het suppletie-document.
+
+Daarnaast is er toenemende aandacht van de Belastingdienst voor de kwaliteit van digitale administraties. De Standaard Audit File for Tax (SAF-T) wordt in Nederland steeds vaker gevraagd bij controles: een gestandaardiseerd XML-exportformat waarmee de Belastingdienst de volledige boekhouding kan analyseren. Niet alle boekhoudpakketten ondersteunen SAF-T-export. Controleer dit expliciet als je een pakket overweegt — met name als je bedrijf sneller groeit dan gemiddeld of actief in sectoren die vaker gecontroleerd worden.
+
+Voor ondernemers met activiteiten in meerdere EU-landen is de OSS-regeling (One Stop Shop) relevant: je doet BTW-aangifte voor alle EU-landen in Nederland via één portaal. Niet alle pakketten in het lagere segment ondersteunen dit volledig. Controleer de OSS-functionaliteit als je online verkoopt aan consumenten in andere EU-landen.
+
 ## Lees ook
 
 - [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — welk pakket maakt BTW-aangifte het makkelijkst?

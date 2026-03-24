@@ -147,6 +147,34 @@ De [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) helpt je overigens in 
 
 ---
 
+## Vraag 7b: Hoe goed is de ondersteuning van de leverancier?
+
+Nog een vraag die ik altijd stel voordat ik een definitieve aanbeveling doe: hoe bereikbaar is de leverancier als je een probleem hebt?
+
+Boekhoudprogramma's zijn tools waar je dagelijks van afhankelijk bent. Een bug bij de BTW-aangifte vlak voor de deadline, een bankkoppeling die plotseling stopt, een importfout die je administratie overhoop gooit — het zijn situaties die vroeg of laat voorkomen, en dan wil je snel een mens aan de lijn.
+
+**Moneybird** heeft een bekende support-chat en een actief communityplatform. De responstijden zijn redelijk. Voor kritieke problemen zijn ze bereikbaar op werkdagen tijdens kantooruren.
+
+**e-Boekhouden** werkt voornamelijk via e-mailsupport. Niet ideaal in een crisissituatie, maar voor de meeste problemen goed genoeg.
+
+**Exact Online** heeft meer documentatie en een uitgebreid helpcenter, maar de directe support is trager en telefonisch bereikbaar zijn kost moeite.
+
+Test de support voordat je beslissing definitief is. Stuur een vrij voor de hand liggende vraag en kijk hoe lang het duurt voor je antwoord krijgt. Dat is een eerlijker test dan de beloftes op de productpagina.
+
+## Vraag 7b: Wat zijn de overstapkosten als ik later toch iets anders wil?
+
+Dit is eigenlijk een achtste vraag die ik er altijd bij stel. Niet officieel in de lijst, maar minstens zo belangrijk als de andere zeven.
+
+Boekhoudprogramma's zijn niet voor altijd. Misschien groei je sneller dan verwacht. Misschien neemt je accountant een ander pakket in gebruik. Misschien verbetert een concurrent zich zo sterk dat overstappen slim is. De vraag is: hoe moeilijk maakt het pakket dat?
+
+**Exportmogelijkheden zijn de sleutel.** Vraag bij elke kandidaat: kan ik mijn volledige factuurhistorie exporteren als CSV of PDF? Kan ik mijn klanten- en leverancierslijst exporteren? Kan ik de grootboeksaldi per periode exporteren? Als het antwoord op één van die vragen "nee" of "dat kost extra" is, moet je dat meewegen.
+
+**De meeste overstapkosten zitten in je tijd.** Het exporteren en importeren gaat relatief snel. Het controleren of alles correct is overgekomen, het opnieuw instellen van sjablonen en koppelingen, het bijwerken van je boekhoudconfiguratie — dat is waar de uren zitten. Gemiddeld kost een overstap voor een ZZP'er een halve tot volledige dag. Voor een MKB-bedrijf met medewerkers en salarisadministratie kan dat oplopen tot een week.
+
+**Timing bepaalt de pijn.** Zoals eerder gezegd: overstappen per 1 januari is de minst pijnlijke optie. Halverwege een kwartaal overstappen kost je significant meer werk en meer risico op fouten in de BTW-aangifte.
+
+Kortom: kies een pakket dat je makkelijk kunt verlaten als het moet. Dat geeft je gemoedsrust en houd de marktpositie van de leverancier eerlijk.
+
 ## Mijn advies per situatie
 
 Na honderden gesprekken met ondernemers kom ik telkens op hetzelfde uit:

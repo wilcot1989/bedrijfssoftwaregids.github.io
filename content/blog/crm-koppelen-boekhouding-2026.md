@@ -190,6 +190,19 @@ Voor meer over zakelijke toolkoppelingen, lees ook [CRM integraties uitgelegd](/
 
 Voor bouwbedrijven en aannemers die ook offerte- en projectbeheer willen integreren, lees mijn [CRM voor bouwbedrijven 2026](/blog/crm-bouw-2026/) voor sector-specifieke aanbevelingen.
 
+## Kosten en ROI van een CRM-boekhoudkoppeling
+
+Voordat je aan de slag gaat, is het goed om de kosten realistisch in te schatten. Een Zapier-koppeling voor Pipedrive en Moneybird kost:
+
+- Zapier Starter: €19,99 per maand (je hebt het meertraps-plan nodig voor een filter-stap)
+- Opzetstijd: een middag, gemiddeld drie tot vier uur
+
+De ROI berekening is simpel. Terug naar het voorbeeld van de salesmanager met 30 deals per maand en 20 minuten dubbel invoerwerk per deal: dat is 600 minuten, ofwel tien uur per maand. Bij een uurtarief van €40 voor administratief werk is dat €400 per maand aan verspilde tijd. De Zapier-koppeling kost €20 per maand. Terugverdientijd: twee dagen.
+
+Voor HubSpot met de native Exact-koppeling zijn de kosten iets anders. De koppeling zelf is gratis in de HubSpot App Marketplace, maar je hebt een actief HubSpot-abonnement nodig en de insteltijd is iets langer — reken op een halve dag inclusief testen.
+
+Voor Teamleader als alles-in-één oplossing: de insteltijd voor de interne koppeling is nul. De maandkosten zijn hoger dan twee losse tools, maar de beheerslast is lager.
+
 ## Samenvatting
 
 Een CRM-boekhoudkoppeling is geen luxe meer — het is een productiviteitsverbetering die de meeste MKB-bedrijven met 5+ deals per maand snel terugverdient. De simpelste versie (klantgegevens van CRM naar boekhouding) is in een middag opgezet via Zapier. De uitgebreide versie met tweerichtingssynchronisatie en factuurstatus vraagt meer investering, maar levert ook meer op.

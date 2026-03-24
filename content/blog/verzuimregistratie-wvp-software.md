@@ -95,6 +95,75 @@ Zorg dat de re-integratievoortgang wordt vastgelegd in hetzelfde dossier als de 
 
 Goed verzuimbeleid begint bij een cultuur waarin medewerkers zich veilig voelen om vroeg een signaal te geven als het niet goed gaat. HR-software kan de administratie organiseren en deadlines bewaken, maar de menselijke component -- aandacht, gesprek, vertrouwen -- is de basis van elk effectief verzuimbeleid.
 
+## Hoe je een verzuimdossier opbouwt dat UWV-proof is
+
+Een UWV-beoordeling aan het einde van het tweede ziektejaar draait volledig om de vraag: heeft de werkgever voldoende re-integratie-inspanning geleverd? De bewijslast ligt bij jou als werkgever. Zonder compleet dossier wordt die vraag vrijwel automatisch negatief beantwoord.
+
+Een goed dossier bevat minimaal: de originele ziekmelding met datum, het probleemanalyse-document van de bedrijfsarts, het ondertekende Plan van Aanpak inclusief alle bijstellingen, verslagen van alle voortgangsgesprekken en de twaalfde-maandsevaluatie. Elke stap heeft een datum, een handtekening van werknemer en werkgever, en een beschrijving van wat er is besproken.
+
+Ik zie bij MKB-bedrijven regelmatig dat de voortgangsgesprekken wel plaatsvinden maar niet worden verslagen. De leidinggevende belt de zieke medewerker wekelijks, maar niemand legt vast wat er is besproken. Bij de UWV-beoordeling telt dat als een ontbrekende stap. Het gesprek heeft plaatsgevonden, maar het bewijs ontbreekt. HR-software met een dossiermodule legt dit vast als een standaardhandeling na elk gesprek: datum, gesprekspartners, samenvatting, vervolgactie.
+
+## Wat te doen bij frequent kortdurend verzuim
+
+De WvP richt zich op langdurig verzuim, maar frequent kortdurend verzuim is minstens zo kostbaar en vraagt een andere aanpak. Een medewerker die acht keer per jaar twee of drie dagen ziek is, kost je meer aan productiviteitsverlies dan een medewerker die één keer vier weken uitvalt.
+
+Het patroon van frequent kortdurend verzuim is een vroeg signaal van een onderliggend probleem: werkdruk, privéproblematiek, een niet-passende functie of een verstoorde relatie met de leidinggevende. Het eerste gesprek bij terugkeer na elk verzuimmoment — het zogenoemde terugkeergesprek — is verplicht en het meest effectieve middel om het patroon te doorbreken.
+
+HR-software met een verzuimmodule registreert automatisch wanneer het terugkeergesprek gevoerd moet worden en herinnert de leidinggevende. Sommige systemen bieden ook een nulde-dagsmelding: de optie om een medewerker al op de eerste ziektedag uit te nodigen voor een telefonisch check-in gesprek. Dat is bij kortdurend verzuim vaak genoeg om het probleem vroeg te signaleren.
+
+Voor [zorginstellingen](/sectoren/hr/hr-software-zorg/) die al met structureel hoog verzuim kampen, is frequent kortdurend verzuim het hardnekkigste type. De combinatie van onregelmatige diensten, hoge werkdruk en emotioneel belastend werk maakt dit een sectorspecifiek probleem dat een sectorspecifieke aanpak vraagt.
+
+## Het verschil tussen eigen risicodrager en publiek verzekerd
+
+Als werkgever heb je een keuze: je kunt het WIA-risico publiek verzekeren bij het UWV of zelf het eigen risicodragerschap op je nemen. Die keuze heeft directe invloed op hoe je de verzuimregistratie organiseert.
+
+Publiek verzekerd betekent dat je premies betaalt aan het UWV en dat het UWV na twee jaar ziekte de WIA-uitkering financiert. Je hebt dan minder financieel belang bij een vlotte re-integratie na het tweede jaar, maar nog steeds een wettelijke verplichting.
+
+Eigen risicodrager zijn betekent dat je zelf verantwoordelijk bent voor de WIA-uitkering als de medewerker na twee jaar nog niet volledig werkt. De financiële prikkel om te investeren in re-integratie en preventie is daarmee groter. Veel grote werkgevers en sommige MKB-bedrijven kiezen hiervoor, mede omdat de premievoordelen bij laag verzuim aanzienlijk zijn.
+
+In beide gevallen geldt hetzelfde: de WvP-deadlines, de dossierplicht en de loondoorbetalingsverplichting in de eerste twee jaar. Het verschil zit in wat er na die twee jaar gebeurt. HR-software met een verzuimmodule werkt in beide varianten.
+
+## Veelgestelde vragen van werkgevers over verzuimregistratie
+
+**Mag je een medewerker vragen wat hij mankeert?**
+Nee. Je mag alleen vragen wanneer de medewerker verwacht terug te kunnen komen en of er aanpassingen nodig zijn op het werk. De diagnose is privé en is voorbehouden aan de bedrijfsarts. Noteer dit ook zo in het dossier: geen medische informatie, alleen functionele beperkingen.
+
+**Wat als een medewerker weigert mee te werken aan re-integratie?**
+Dan kun je de loondoorbetaling opschorten. Maar: je moet de medewerker schriftelijk waarschuwen en de bedrijfsarts inschakelen om te beoordelen of de medewerker in staat is om mee te werken. Een opschorting zonder deze stappen is juridisch aanvechtbaar. HR-software helpt je de procedure correct te documenteren.
+
+**Moet je een bedrijfsarts inschakelen als een medewerker na vier weken nog ziek is?**
+Ja, uiterlijk in week zes is een probleemanalyse door de bedrijfsarts verplicht. Je hoeft geen vaste bedrijfsarts te hebben, maar je moet wel een contract hebben met een arbodienst of een maatwerkregeling via een gecertificeerde bedrijfsarts. Veel kleine werkgevers regelen dit pas als er een ziekmelding is — dat is te laat.
+
+## Hoe je de WvP-tool gebruikt in de dagelijkse praktijk
+
+Een verzuimmodule is zo goed als de input die je erin stopt. De workflow is eenvoudig: medewerker meldt zich ziek, je registreert de datum en het tijdstip van de melding in de software. Het systeem berekent automatisch alle vervolg-deadlines en zet een takenlijst klaar voor de verantwoordelijke leidinggevende.
+
+Die takenlijst is het dagelijkse werkdocument. Elke dag zie je welke deadlines de komende week verlopen, welke voortgangsgesprekken gepland staan en welke documenten nog moeten worden ondertekend. Als je de taken consequent afvinkt, bouw je automatisch het dossier op dat je aan het einde van het traject nodig hebt.
+
+Het risico is dat je de software goed hebt ingericht maar de taken niet consequent uitvoert. Softwaresystemen herinneren je aan de deadline, maar iemand moet hem ook daadwerkelijk inplannen en de medewerker bellen. De technologie organiseert; de uitvoering blijft menselijk werk.
+
+## Verzuim meten: de drie cijfers die er echt toe doen
+
+Veel bedrijven meten het verzuimpercentage maar kijken niet verder. Dat ene getal zegt weinig zonder context. De drie cijfers die echt inzicht geven in de gezondheid van je personeelsbestand zijn het verzuimpercentage, de verzuimfrequentie en de gemiddelde verzuimduur.
+
+Het verzuimpercentage is het percentage van de totale beschikbare arbeidstijd dat verloren gaat aan ziekte. Het landelijk gemiddelde in Nederland lag in 2025 op circa 5,0%. Voor de zorg lag dat ruim boven de 6%, voor kantooromgevingen lager, rond de 3 tot 4%. Vergelijk jouw percentage met het sectorgemiddelde — niet met het landelijk gemiddelde.
+
+De verzuimfrequentie geeft aan hoe vaak medewerkers per jaar ziek zijn. Een frequentie van 3 bij een laag percentage betekent veel kortdurende meldingen. Dat is een ander probleem dan één langdurig traject. HR-software berekent beide automatisch.
+
+De gemiddelde verzuimduur zegt iets over de aard van het verzuim: zijn het voornamelijk korte meldingen van een à twee dagen, of zijn er regelmatig langdurige trajecten? Langdurig verzuim boven de zes weken is bijna altijd kostbaarder dan kortdurend verzuim, ook al is het percentage lager.
+
+Gebruik deze drie cijfers samen in je kwartaalrapportage. Zo zie je trends eerder en kun je gerichte maatregelen nemen in plaats van pas te reageren als het te laat is.
+
+## De rol van de leidinggevende bij verzuimregistratie
+
+In de meeste MKB-bedrijven is de directe leidinggevende de eerste schakel in het verzuimproces — maar ook de schakel die het vaakst faalt. Niet door kwade opzet, maar omdat leidinggevenden zelden zijn opgeleid in verzuimmanagement en de WvP-verplichtingen onvoldoende kennen.
+
+De leidinggevende meldt de zieke medewerker te laat, voert het terugkeergesprek niet structureel uit, of plant het voortgangsgesprek uit vanwege agenda-drukte. Elk van die omissies is later terug te zien in een onvolledig dossier.
+
+Goede HR-software lost dit op door de leidinggevende automatisch te notificeren bij elke stap die van hem wordt verwacht, en door de actie te documenteren als het systeem geen bevestiging ontvangt. Zo bewaakt het systeem niet alleen het proces maar ook de naleving door de persoon die verantwoordelijk is.
+
+Investeer ook in een korte training voor leidinggevenden over de WvP en de rol die zij daarin spelen. Een uur training bespaart potentieel tienduizenden euro's aan loonsancties. Dat is een eenvoudig business case.
+
 ## Lees ook
 
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — HR software met verzuimregistratie vergeleken

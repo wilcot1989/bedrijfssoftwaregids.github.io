@@ -80,6 +80,70 @@ Hoe langer je met de combinatie werkt, hoe afhankelijker je wordt van de koppeli
 
 Schakel bij voorkeur ook de boekhouder in bij de initiële configuratie van de koppeling. Een boekhoudkundige blik op de exportstructuur voorkomt dat BTW-categorieën verkeerd worden gemapt en bespaart correctiewerk achteraf.
 
+## De inrichting per BTW-tarief: waar het vaakst misgaat
+
+Het vaakst gaat het mis bij de BTW-categorisering per artikel. In de horeca heb je te maken met meerdere tarieven door elkaar: eten is 9%, alcoholische dranken zijn 21%, fooien zijn belastingvrij, en sommige producten vallen afhankelijk van de manier van verkoop in verschillende categorieën.
+
+Als de kassasoftware een biertje op 9% heeft staan in plaats van 21%, exporteert de koppeling dat ook foutief. Na drie maanden sta je dan voor een naheffing plus boete, terwijl de koppeling technisch perfect heeft gewerkt. De koppeling is zo betrouwbaar als de configuratie aan de kassazijde.
+
+De controle die ik altijd aanraad: loop bij het instellen van de koppeling samen met je boekhouder de BTW-categorieën door voor de vijf best verkochte producten in elke categorie. Als die kloppen, is de basis doorgaans goed. Doe daarna hetzelfde voor nieuw toegevoegde producten voor je ze op de kaart zet.
+
+Voor [retail](/sectoren/kassasystemen/kassasysteem-retail/) is de uitdaging anders: producten kunnen BTW-vrij zijn (sommige voedselmiddelen), 9% (boeken, tijdschriften) of 21% (kleding, elektronica). Een kledingwinkel die ook accessoires verkoopt of een cadeaubon aanbiedt, heeft soms drie tarieven in één kassabon. Controleer bij aanschaf van het kassasysteem hoe het systeem omgaat met gemengde bonnen.
+
+## Kassasysteem koppelen aan salarisadministratie
+
+Een minder bekende maar waardevolle koppeling is die tussen het kassasysteem en de salarisadministratie. Voor horecabedrijven waarbij medewerkers omzetgerelateerde toeslagen ontvangen of waarbij uren gekoppeld worden aan specifieke diensten, biedt een directe verbinding tijdwinst.
+
+In de praktijk werkt dit het vaakst niet via een directe koppeling maar via een export: de omzetcijfers per dienst worden geëxporteerd en handmatig vergeleken met de roosterverdeling. Een volledige automatisering vereist dat kassasysteem, roostersoftware en salarisadministratie dezelfde medewerker-ID's gebruiken — iets wat bij de meeste MKB-bedrijven niet standaard het geval is.
+
+Als je hiermee aan de slag wilt, begin dan klein: exporteer maandelijks de totaalomzet per dag en vergelijk dat met de bemanningssterkte per dienst. Dat geeft al inzicht in productiviteit per shift zonder complexe koppelingen.
+
+## Wat je doet als de koppeling even uitvalt
+
+Elke koppeling valt wel eens uit. Een API-update, een serveronderhoud van de leverancier of een netwerkstoringen kan de automatische synchronisatie tijdelijk onderbreken. Het is belangrijk dat je van tevoren weet wat je dan doet.
+
+De meeste kassasystemen bewaren de dagstaten lokaal, ook als de koppeling niet werkt. Je kunt die handmatig exporteren en importeren in de boekhouding. Zorg dat je weet hoe dat werkt voor je er voor het eerst mee te maken krijgt — niet erna. Een testexport bij de start van de koppeling is daarvoor het juiste moment.
+
+Spreek ook met je boekhouder af wat de procedure is bij uitval. Hoeveel dagen mag je wachten op herstel van de automatische koppeling voor je handmatig ingrijpt? Voor kwartaalaangiften wil je geen achterstand van meer dan een week onopgelost laten.
+
+## Meerdere locaties: hoe je de koppeling schaalt
+
+Voor horecabedrijven of retailers met meerdere vestigingen biedt de koppeling extra voordelen maar ook extra complexiteit. Het voordeel: gecentraliseerde omzetrapportage over alle locaties in één boekhoudpakket. De complexiteit: elke locatie heeft mogelijk een eigen kassasysteem met een eigen configuratie.
+
+Zorg dat de BTW-categorieën op alle locaties identiek zijn geconfigureerd. Gebruik aparte dagboeken in de boekhouding per locatie zodat je omzet per vestiging kunt analyseren. En controleer bij elke locatie-uitbreiding of de koppeling nog werkt na de initiële configuratie van de nieuwe locatie.
+
+Bij twee of meer locaties is een directe API-koppeling via een ondersteunde integratiepartner vrijwel altijd beter dan een CSV-export. De tijdsbesparing rechtvaardigt de hogere instapkosten.
+
+## De checklist voor het instellen van de koppeling
+
+Gebruik deze checklist als je de koppeling voor het eerst instelt of evalueert:
+
+1. Controleer of alle BTW-tarieven correct zijn geconfigureerd in het kassasysteem, inclusief vrijstellingen en gemengde producten.
+2. Stel het exportformat in: bepaal of je werkt met automatische synchronisatie via API of met periodieke CSV-export.
+3. Maak een testperiode van twee weken: vergelijk elke dag de kassadagstaat met de boekhoudimport.
+4. Controleer hoe fooien, contant geld, pin en creditcard als aparte posten worden doorgezet.
+5. Test de koppeling bij een BTW-kwartaalovergang: de eerste omzetboeking in het nieuwe kwartaal moet in het juiste tijdvak vallen.
+6. Maak een back-upprocedure: weet hoe je handmatig exporteert als de koppeling uitvalt.
+7. Betrek de boekhouder bij de inrichting en laat hem of haar de eerste volledige kwartaalaangifte controleren op afwijkingen.
+
+## Fiscale bewaarplicht: wat je van de kassagegevens moet bewaren
+
+De Belastingdienst verplicht ondernemers om hun administratie zeven jaar te bewaren. Voor digitale kassaregistraties betekent dat: alle kasboekingen, de dagstaten, de BTW-specificaties en de bijbehorende exportbestanden moeten minimaal zeven jaar beschikbaar zijn voor een eventuele controle.
+
+Een kassaboekhouding-koppeling maakt dit eenvoudiger, omdat de geboekte dagstaten in het boekhoudpakket automatisch worden opgeslagen en zijn voorzien van een tijdstempel. Het boekhoudpakket vormt het archief.
+
+Wat je ook moet bewaren: de oorspronkelijke kassaregistraties zelf. Als de Belastingdienst een controle doet, wil die doorgaans de ruwe kassaregistraties zien, niet alleen de geaggregeerde dagstaten. Controleer of je kassasysteem de transactiegeschiedenis zeven jaar lang bewaart, of exporteer periodiek een volledige back-up van de transactiedata.
+
+Bij een cloud-gebaseerd kassasysteem ligt de bewaarplicht bij de leverancier als je niet zelf een lokale back-up beheert. Vraag expliciet naar het bewaarbeleid van de leverancier en leg de antwoorden vast. Als de leverancier na vijf jaar failliet gaat, wil je niet in een situatie terechtkomen waarbij de kassahistorie verdwenen is.
+
+## Rapportages die je alleen hebt dankzij een goede koppeling
+
+Een onderschat voordeel van een goed geconfigureerde kassaboekhouding-koppeling is de rapportage-diepte die je er achteraf aan ontleent. Als elke dag automatisch is geïmporteerd per categorie, kun je aan het einde van het kwartaal eenvoudig zien welke productcategorieën het meeste hebben bijgedragen aan de omzet en welke BTW-tarieven de meeste uitdaging geven.
+
+Die informatie helpt je bij prijsbeslissingen, menuwijzigingen en inkoopkeuzes — maar alleen als de data consistent en betrouwbaar is. Een half-jaar handmatige invoer en een half-jaar automatisch importeren geeft een vertekend beeld. Consistentie van dag één is de basis voor bruikbare analyses.
+
+Bespreek met je boekhouder welke kwartaalrapportages je wilt gebruiken en richt de koppeling daarop in. De meeste boekhouders hebben een voorkeur voor een specifieke structuur van de journaalposten. Als je die voorkeur kent voor je de koppeling configureert, bespaar je achteraf correctiewerk.
+
 ## Lees ook
 
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — kassasystemen met de beste boekhoudkoppelingen

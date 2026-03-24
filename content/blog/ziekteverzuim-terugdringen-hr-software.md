@@ -136,6 +136,30 @@ Ik ga hier geen ranglijst maken met sterretjes, want de beste keuze hangt sterk 
 
 Een volledig overzicht van de beste opties staat in mijn artikel [beste HR-software Nederland 2026](/blog/beste-hr-software-nederland-2026/). Gebruik ook de [HR-software keuzehulp](/tools/hr-software/keuzehulp/) als je snel wilt weten welk systeem past bij jouw situatie.
 
+## Re-integratie begeleiden: het tweede spoor
+
+Naast de Wet Poortwachter-verplichtingen speelt bij langdurig verzuim ook het re-integratietraject. Dat vraagt om twee sporen tegelijk.
+
+**Het eerste spoor** is re-integratie bij de eigen werkgever. De medewerker begint — zodra het medisch mogelijk is — op aangepaste werkzaamheden of aangepaste uren bij jou. Dat kan een ander takenpakket zijn, minder uren, of tijdelijk ander werk. HR-software ondersteunt dit door aangepaste werkroosters bij te houden en de urenadministratie te koppelen aan het verzuimdossier.
+
+**Het tweede spoor** wordt ingezet als re-integratie bij de eigen werkgever niet lukt — na zes maanden of eerder als duidelijk is dat terugkeer naar de eigen functie niet realistisch is. Dan gaat de medewerker bij een re-integratiebedrijf werken aan het vinden van ander werk. Als werkgever betaal je het loon door, ook al werkt de medewerker niet meer voor jou.
+
+Dit klinkt als een zeldzame situatie. Het is dat niet. Bij rugklachten, psychische problematiek of chronische aandoeningen is het tweede spoor vaker aan de orde dan werkgevers denken. En het UWV beoordeelt achteraf of je beide sporen tijdig en adequaat hebt ingezet.
+
+HR-software helpt ook hier: het systeem houdt bij wanneer het tweede spoor gestart moet worden, welk re-integratiebedrijf is ingeschakeld, en wat de voortgang is. Zonder systeem is de kans groot dat je dit vergeet of te laat start.
+
+## Bedrijfsarts versus arbodienst: wat heb je nodig?
+
+Een punt van verwarring dat ik regelmatig tegenkom bij MKB-ondernemers: het verschil tussen een bedrijfsarts en een arbodienst.
+
+Een **arbodienst** is een organisatie die je als werkgever inhuurt voor alle arbo-gerelateerde diensten. Ze leveren een bedrijfsarts, verzorgen de Wet Poortwachter-begeleiding, en bieden preventiemedewerkers.
+
+Een **bedrijfsarts** is de specifieke arts die de probleemanalyse opstelt en het re-integratieplan bewaakt. Die kan in dienst zijn van een arbodienst, maar kan ook zelfstandig werken.
+
+Als werkgever ben je wettelijk verplicht een basiscontract af te sluiten met een arbodienst of bedrijfsarts. Dat contract moet in elk geval de probleemanalyse en het advies bij langdurig verzuim dekken.
+
+De kosten lopen uiteen van €15 tot €50 per medewerker per jaar voor een basiscontract bij een grote arbodienst, tot meer dan €100 per medewerker bij individueel ingehuurde bedrijfsartsen. Sommige HR-software biedt koppelingen met arbodiensten aan, zodat afspraken en adviezen automatisch in het verzuimdossier terechtkomen. HRMforce en Nmbrs hebben dit soort koppelingen. Controleer bij je eigen arbodienst welk HR-systeem zij ondersteunen.
+
 ## Mijn advies: begin met registreren, de rest volgt
 
 Als ik één ding heb geleerd van de gesprekken die ik voer met MKB-ondernemers over verzuim, is het dit: de grootste fout is niet een verkeerd systeem kiezen. De grootste fout is helemaal niets bijhouden totdat het misgaat.

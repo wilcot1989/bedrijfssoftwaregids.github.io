@@ -121,6 +121,32 @@ Vraag bij de leverancier expliciet: wat is de standaard bewaartermijn, kan ik da
 
 De fiscale eisen in detail en wat de Belastingdienst bij een controle controleert, lees je in [Fiscale eisen kassasysteem 2026](/blog/fiscale-eisen-kassasysteem-2026/).
 
+## Schaalkosten: wat verandert als je groeit?
+
+Veel ondernemers kiezen een kassasysteem op basis van hun huidige situatie. Wat ze onderschatten is hoe de kosten veranderen bij groei.
+
+Een tweede locatie openen? Dan verdubbelen niet alleen de abonnementskosten — je hebt ook nieuwe hardware nodig, nieuwe training, een nieuwe installatie, en mogelijk een duurder pakket dat multi-locatie ondersteunt. Sommige kassasystemen zijn expliciet ontworpen voor één locatie en brengen een significant meerprijs voor de tweede en derde vestiging.
+
+Personeel uitbreiden? Sommige kassasystemen rekenen per gebruiker of per medewerker die inlogt. Bij drie medew medewerkers is dat een klein bedrag. Bij twintig kan dat een substantiële extra post zijn.
+
+Meer betaalkanalen toevoegen? Als je nu alleen pin en contant verwerkt maar later ook cadeaubonnen, loyaliteitspunten of online voorbetalingen wilt, check dan van tevoren of dat in je huidige pakket zit of extra kost. Die uitbreidingen klinken klein maar kunnen per stuk €10 tot €30 per maand kosten.
+
+Vraag bij iedere leverancier: hoe ziet de prijsstructuur eruit als ik over twee jaar twee locaties en twintig medewerkers heb? Dat getal vertelt je meer over de langetermijnkosten dan elke andere vergelijking.
+
+## Onderhandelruimte: wat mag je vragen aan een leverancier?
+
+Veel ondernemers weten niet dat de prijzen van kassasystemen niet altijd vast zijn. Bij grotere implementaties of bij meerdere locaties is er vaak ruimte om te onderhandelen. Wat je kunt proberen:
+
+**Transactiepercentage omlaag.** Als je van tevoren een realistisch omzetcijfer kunt onderbouwen, kunnen sommige leveranciers een lager percentage aanbieden. Zeker bij volumes boven de €20.000 per maand is onderhandelen de moeite waard.
+
+**Installatiekosten kwijtschelden.** Als je bereid bent om jezelf te installeren en alleen telefonische ondersteuning nodig hebt, kun je soms de installatiekosten laten vervallen. Vraag het gewoon.
+
+**Kortere proefperiode voor een langjarig contract.** Sommige leveranciers bieden drie jaar contract aan met aanzienlijk lagere maandprijzen. Vraag of je eerst zes maanden kunt draaien op het kortere tarief voor je een langjarig contract tekent. Lang niet alle leveranciers gaan mee, maar een deel wel.
+
+**Gratis hardware als bundel.** Bij meerdere kassa's of bij het kiezen voor een bepaald betaalplan bieden leveranciers soms hardware gratis of tegen inkoopprijs aan. Vergelijk altijd de bundel (inclusief hardware) met de losse aankoop.
+
+Kortom: het gesprek aangaan kost je niets, en het kan je een significante besparing opleveren over een driejaarsperiode.
+
 ## Lees ook
 
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — vergelijk kassasystemen op prijs en verborgen kosten

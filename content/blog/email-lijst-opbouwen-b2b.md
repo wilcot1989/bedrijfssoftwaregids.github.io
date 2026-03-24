@@ -118,6 +118,34 @@ Lees mijn uitgebreide vergelijking in [beste e-mail marketing software 2026](/bl
 
 **Deliverability monitoring.** Als je lijst groeit, wil je weten of je e-mails daadwerkelijk aankomen. Tools als MXToolbox (gratis) geven inzicht in je domeinreputatie. Voor diepgaandere analyse: zie [e-mail deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/).
 
+## Wat je nieuwsbrief stuurt: inhoud die B2B-lezers bijhoudt
+
+Een lijst opbouwen is stap één. Een lijst houden is stap twee. Veel B2B-nieuwsbrieven verliezen abonnees niet doordat ze te vaak mailen, maar doordat de inhoud niet goed genoeg is.
+
+Wat werkt bij B2B-nieuwsbrieven:
+
+**Concrete, toepasbare informatie.** Geen samenvattingen van branchenieuws die iedereen al gelezen heeft. Geen algemene marketingtips. Wel: "Ik testte vorige week drie CRM-pakketten naast elkaar — dit viel mij op." Of: "Een klant van mij bespaarde 8 uur per maand door deze ene koppeling in te stellen." Specifiek, persoonlijk, bruikbaar.
+
+**Eén onderwerp per mailing.** De verleiding is groot om alles te bundelen: het laatste artikel, drie tips, een aankondiging, een product-update. Maar de nieuwsbrieven met de hoogste klikpercentages hebben één duidelijk focus. Eén inzicht, uitgewerkt, met één call-to-action.
+
+**Een vaste structuur die lezers herkennen.** Als je elke week een vergelijkbaar format gebruikt, weten abonnees wat ze kunnen verwachten. Dat vergroot de kans dat ze je e-mail openen ook als de onderwerpregel ze niet meteen pakt.
+
+**Af en toe een mening.** B2B-inkopers lezen niet voor niets jouw nieuwsbrief in plaats van een generieke branchesite. Ze willen jouw kijk op dingen. "Ik denk dat CRM-leverancier X het verkeerd aanpakt, en dit is waarom" genereert reacties en gesprekken. Niet iedereen is het eens, en dat is precies goed.
+
+**Frequentie:** voor de meeste B2B-nieuwsbrieven is tweewekelijks het veiligste startpunt. Je hebt dan genoeg tijd om goede inhoud te maken, en je abonnees horen regelmatig genoeg van je om je niet te vergeten.
+
+## AVG-compliance in de praktijk: drie dingen die je moet regelen
+
+Het juridische stuk is voor veel ondernemers vaag. Hier zijn de drie concrete dingen die je moet regelen.
+
+**1. Dubbele opt-in activeren.** Niet onderhandelbaar. Iemand vult zijn e-mailadres in op je website, ontvangt een bevestigingsmail, en klikt op de bevestigingslink. Pas dan is hij of zij abonnee. Zonder dubbele opt-in kun je bij een AVG-controle niet aantonen dat je toestemming hebt gekregen.
+
+**2. Uitschrijfmogelijkheid in elke e-mail.** Elke mailing die je verstuurt moet een zichtbare afmeldlink bevatten. Dat is wettelijk verplicht én goed voor je domeinreputatie. Iemand die zich uitschrijft, markeert je e-mail minder snel als spam — en spammarkeringen schaden je deliverability voor alle andere abonnees.
+
+**3. Verwerkersovereenkomsten met je e-mailplatform.** Als je Brevo, Mailchimp of ActiveCampaign gebruikt en je verwerkt persoonsgegevens van EU-burgers, heb je een verwerkersovereenkomst (DPA) nodig met je e-mailprovider. Alle grote platforms bieden dit aan — controleer of je hem getekend hebt of in je accountinstellingen hebt geaccepteerd.
+
+Je hoeft geen advocaat te raadplegen voor een eenvoudige B2B-nieuwsbrief. Maar die drie punten zijn niet optioneel.
+
 ## Mijn advies: begin klein en meet alles
 
 De meest gemaakte fout is proberen alle vier strategieën tegelijk op te starten. Dat leidt tot halfbakken uitvoering op meerdere fronten.
