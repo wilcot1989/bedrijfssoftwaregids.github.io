@@ -250,6 +250,26 @@ Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereke
 - [Beste projectmanagement software](/blog/beste-projectmanagement-software-2026/) — combineer CRM met projectbeheer
 - [Beste kassasysteem voor horeca](/blog/beste-kassasysteem-horeca-2026/) — koppel je kassasysteem aan je CRM
 
+## Praktisch scenario: de eerste 90 dagen met je nieuwe CRM
+
+Ik begeleid nieuwe CRM-gebruikers altijd door drie fases. Hier is hoe dat eruitziet voor HubSpot en Pipedrive:
+
+**Fase 1 (dag 1-14): basisinrichting**
+
+Bij Pipedrive: je importeert je bestaande contacten via CSV, richt je salespipeline in met de fases die passen bij jouw verkoopproces, koppelt je e-mailaccount en nodigt je team uit. Op dag twee draai je al live. Het enige dat de meeste teams even kost, is bepalen welke pipelinefases ze willen -- daarna gaat het snel.
+
+Bij HubSpot: je begint met de gratis CRM en werkt je pipeline in. De eerste week is vergelijkbaar met Pipedrive als je alleen de Sales Hub gebruikt. Maar zodra je ook de Marketing Hub of Service Hub activeert, verdriedubbelt de configuratietijd.
+
+**Fase 2 (dag 15-45): automatiseringen activeren**
+
+Dit is waar het verschil zichtbaar wordt. Bij Pipedrive stel je in het Growth-plan je eerste automatiseringen in: e-mail na eerste contact, taak aanmaken bij fasewisseling, notificatie bij inactieve deal. De visuele builder doet wat hij belooft. Bij HubSpot zijn sequences al vroeg beschikbaar, maar echte workflows zitten pas in Professional -- en dat is een flinke budgetstap.
+
+**Fase 3 (dag 46-90): rapportages en evaluatie**
+
+Na drie maanden weet je welk CRM daadwerkelijk werkt voor je team. Ik vraag altijd: hoeveel procent van de deals wordt bijgehouden? Bij Pipedrive zie ik doorgaans 85-95% -- het systeem is simpel genoeg dat niemand het overslaat. Bij HubSpot zie ik meer variatie: teams die het goed instellen scoren ook hoog, maar teams die het te complex vinden, laten het langzaam versloffen.
+
+Die adoptiegraad is mijn meest voorspellende indicator voor CRM-succes.
+
 ## Mijn advies: HubSpot of Pipedrive voor jouw situatie
 
 Na 12+ jaar in B2B software en tientallen CRM-implementaties is mijn aanbeveling genuanceerd maar duidelijk:

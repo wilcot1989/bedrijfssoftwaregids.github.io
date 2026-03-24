@@ -262,6 +262,44 @@ Een kleine waarschuwing: je bankkoppeling moet je in het nieuwe pakket opnieuw i
 
 ---
 
+## Vier praktijksituaties waarbij de keuze anders uitpakt dan je denkt
+
+Ik heb genoeg ondernemers begeleid om te weten dat de standaardregel "kies Moneybird voor gemak, e-Boekhouden voor prijs" niet altijd opgaat. Hier zijn vier situaties waarbij de keuze genuanceerder ligt.
+
+### Situatie 1: de ZZP'er met een webshop
+
+Je hebt een kleine webshop op WooCommerce of Shopify. Je stuurt per maand vijftig tot honderd facturen, verwerkt Mollie-betalingen en wilt zo min mogelijk handmatig invoeren.
+
+Moneybird wint hier duidelijk. De Shopify- en WooCommerce-koppelingen zijn native beschikbaar. Bestellingen worden automatisch als facturen ingeschoten, Mollie-betalingen worden direct gesynchroniseerd. e-Boekhouden heeft beperktere webshopkoppelingen en je zult meer handmatig moeten aanvullen. De hogere maandprijs van Moneybird verdient zichzelf terug in bespaarde tijd bij dit transactievolume.
+
+### Situatie 2: de starter die drie jaar wil bouwen
+
+Je bent net gestart, verwacht de eerste twee jaar weinig omzet en wilt zo min mogelijk kosten. Over drie jaar hoop je een groeiend bedrijf met een paar medewerkers te hebben.
+
+e-Boekhouden is hier aantrekkelijker — en niet alleen door de prijs. De 15-maanden startersregeling maakt het gratis in de beginfase. En zodra je groeit naar meerdere medewerkers, schaalt e-Boekhouden mee met het MKB-pakket. Moneybird schaalt ook, maar e-Boekhouden zit qua structuur voor groeiende bedrijven net een stap voor.
+
+### Situatie 3: de ZZP'er die intensief samenwerkt met zijn boekhouder
+
+Je hebt een goede boekhouder die eens per kwartaal meekijkt, de jaaraangifte doet en af en toe bijstuurt. Jullie werken graag in hetzelfde systeem.
+
+Bel je boekhouder. Serieus. Als je boekhouder zegt dat hij Moneybird gebruikt en jij kiest voor e-Boekhouden, lever je hem extra werk dat hij bij jou in rekening brengt. En omgekeerd. De vraag "welk pakket gebruik jij als boekhouder het liefst?" is de belangrijkste vraag in dit scenario, en ze hebben geen van beide een absolute voorkeur bij boekhouders in Nederland — dus de keuze is puur praktisch: bel eerst.
+
+### Situatie 4: de ondernemer die bang is voor de BTW-deadline
+
+Je hebt geen boekhoudervaring. De BTW-aangifte op het einde van het kwartaal is elke keer een stressmoment. Je wilt gewoon iemand kunnen bellen als je vastloopt.
+
+e-Boekhouden. Zonder twijfel. De telefonische support van e-Boekhouden is het enige betaalbare boekhoudpakket met een echte helpdesk die je kunt bellen. De eerste keer dat je de BTW-aangifte doet en je niet zeker weet of je alles goed hebt gecategoriseerd, is dat telefoontje goud waard.
+
+## Vergelijking van de klantenservice in detail
+
+Omdat support zo'n bepalende factor is in deze keuze, wil ik er meer tijd aan besteden.
+
+**Moneybird support:** e-mail en via een uitgebreide kennisbank. De reactietijden zijn doorgaans binnen één werkdag. Voor standaardvragen — hoe stel ik een bankkoppeling in, hoe doe ik mijn BTW-aangifte — is de kennisbank goed gedocumenteerd en kun je de meeste antwoorden zelf vinden. Waar het wringt: urgente vragen. Als je op de laatste dag van het kwartaal een foutmelding krijgt bij je BTW-aangifte, wil je geen e-mail sturen en de volgende dag antwoord krijgen.
+
+**e-Boekhouden support:** telefoon én e-mail. Ik heb in mijn tests de klantenservice van e-Boekhouden drie keer gebeld: twee keer een complexe vraag, één keer een simpele vraag. Alle drie de keren werd ik snel geholpen door een medewerker die wist waar ze het over had. Op Trustpilot (4.6/5 op 1.878 reviews) wordt de support consistent als pluspunt genoemd. Dat is zeldzaam in de boekhoudmarkt — de meeste pakketten scoren slecht op support.
+
+**Moneybird community:** een punt ten voordele van Moneybird dat ik niet wil overslaan. Moneybird heeft een actieve Nederlandse gebruikerscommunity. Op forums en in Facebookgroepen voor ZZP'ers is Moneybird goed vertegenwoordigd. Je kunt vragen stellen en ervaringen delen. Dit compenseert deels het ontbreken van telefonische support — maar alleen als je dat soort peer-support prettig vindt.
+
 ## Alternatieven om te overwegen
 
 Moneybird en e-Boekhouden zijn niet je enige opties. Afhankelijk van je situatie kunnen deze alternatieven ook interessant zijn:

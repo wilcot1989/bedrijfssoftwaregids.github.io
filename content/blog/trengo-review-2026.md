@@ -406,6 +406,19 @@ Vergelijk meer klantenservice tools:
 
 ---
 
+## Drie praktische tips om Trengo maximaal te benutten
+
+Na een jaar werken met Trengo en meerdere implementaties bij klanten zijn dit de drie aanpassingen die het meeste verschil maken:
+
+**1. Stel routeringsregels in op trefwoorden**
+Veel bedrijven laten alle WhatsApp-berichten in één generieke inbox belanden. Zonde. Met Trengo's routeringsregels stuur je berichten met "retour" of "klacht" automatisch naar het verantwoordelijke team en berichten met "bestelling" of "levering" naar de logistieke afdeling. Dat scheelt elke dag handmatig doorverwijzen en klanten worden sneller geholpen.
+
+**2. Gebruik de interne kennisbank als eerste**
+De Trengo kennisbank is voor klanten, maar de meeste tijdsbesparing zit in een interne kennisbank voor je eigen agenten. Schrijf 20 tot 30 standaardantwoorden op veelgestelde vragen en sla ze op als snelle antwoorden. Agenten vinden ze via zoeken en sturen ze met één klik. Nieuwe medewerkers zijn daardoor sneller ingewerkt.
+
+**3. Activeer CSAT-enquêtes op het Boost-plan**
+Klanttevredenheidsscores per gesprek geven je concrete data om te verbeteren. Stel een automatische CSAT-enquête in die 30 minuten na het sluiten van een gesprek verstuurd wordt. Na vier weken heb je genoeg data om te zien welke agenten of welke gesprekstypen structureel lager scoren -- en daar kun je gericht op bijsturen.
+
 ## Veelgestelde vragen
 
 **Wat is Trengo?**

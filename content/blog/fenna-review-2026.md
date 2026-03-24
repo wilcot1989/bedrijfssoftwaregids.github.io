@@ -256,6 +256,34 @@ De sterkte van fENNA zit in de focus. Waar andere pakketten steeds meer functies
 
 Wil je de opties naast elkaar leggen? Gebruik de [keuzehulp boekhoudsoftware](/tools/boekhouding/keuzehulp/) of bekijk het volledige overzicht van [boekhoudsoftware voor ZZP](/blog/beste-boekhoudsoftware-zzp-2026/) en de [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/).
 
+## fENNA instellen: zo ziet de eerste week eruit
+
+Voor wie overweegt te starten met fENNA, een realistisch beeld van de eerste week:
+
+**Dag 1 — Account aanmaken en bankkoppeling activeren**
+Na registratie (geen creditcard nodig) activeer je direct de bankkoppeling. Selecteer je bank, log in via Open Banking en de eerste transacties worden geïmporteerd. Dit kost circa 15 minuten. Stel direct je bedrijfsgegevens in: naam, adres, KvK-nummer, BTW-nummer — deze verschijnen automatisch op je facturen.
+
+**Dag 2 — Eerste factuur versturen**
+Maak je eerste klant aan, stel een factuurtemplate in met je logo en huisstijl en verstuur je eerste factuur. De iDEAL betaallink staat er standaard op. Bij de drag-and-drop editor zijn de keuzes beperkt, maar dat is ook de kracht: je kunt niet de fout in.
+
+**Dag 3-5 — Transacties categoriseren**
+De geïmporteerde banktransacties wachten op categorisering. fENNA stelt categorieën voor; je bevestigt of corrigeert. Na het categoriseren van de eerste tientallen transacties leert het systeem je patronen en worden de suggesties beter. Terugkerende betalingen kun je instellen als automatische boeking.
+
+**Week 2 — Ritme vinden**
+Na twee weken zijn de meeste ZZP'ers in een ritme: nieuwe facturen aanmaken direct na het afronden van opdrachten, transacties wekelijks categoriseren, betalingstatus bewaken. De dagelijkse tijdsbesteding: 10 tot 20 minuten, afhankelijk van het volume.
+
+Aan het einde van het kwartaal klik je op BTW-aangifte, controleer je de bedragen en dient in. Dat is fENNA in zijn essentie: geen uren per week, geen kwartaalstress, gewoon bijhouden wat je verdient en uitgeeft.
+
+## fENNA voor internationale ZZP'ers: hoe werkt de multi-taal facturatie?
+
+Als je buitenlandse opdrachtgevers hebt, is de multi-taal facturatie een van de meest praktische functies van fENNA. Dit werkt zo:
+
+Per klant stel je de gewenste factuurtaal in: Nederlands, Engels, Duits of Frans. Zodra je een factuur aanmaakt voor die klant, verschijnen alle vaste teksten (factuurbepalingen, BTW-omschrijvingen, betaalinstructies) automatisch in de gewenste taal. Je schrijft zelf alleen de omschrijving van je dienst.
+
+Voor ZZP'ers die werken voor internationale bureaus of opdrachtgevers in Duitsland, België of Engeland scheelt dit elke factuurcyclus een handmatige vertaalstap. Bij Moneybird en e-Boekhouden is multi-taal facturatie standaard niet beschikbaar -- je moet dan zelf een vertaald template bouwen en bijhouden.
+
+Een aandachtspunt: de BTW-regels voor internationale facturen (ICL, omgekeerde BTW-heffing bij B2B) moet je zelf kennen en correct toepassen. fENNA berekent de BTW op basis van hoe jij de boeking aanmaakt -- de software controleert niet of je de juiste BTW-behandeling kiest voor elke klant. Bij twijfel raadpleeg je je boekhouder of de Belastingdienst-website.
+
 ## Hoe wij vergelijken
 
 Bij Bedrijfssoftwaregids.nl testen wij elk pakket actief: we richten een testadministratie in, verwerken facturen en transacties, controleren de BTW-aangifte en vergelijken de eindkosten bij gelijke functionaliteit. We accepteren geen betaling van softwarebedrijven voor positieve beoordelingen. Affiliate links zijn transparant gelabeld. Onze scores zijn gebaseerd op functionaliteit, prijs, gebruiksgemak en gebruikerservaringen van externe bronnen (Trustpilot, zelfboekhouden.com). Prijzen worden maandelijks gecheckt — zie de datum bovenaan dit artikel voor de laatste controle.

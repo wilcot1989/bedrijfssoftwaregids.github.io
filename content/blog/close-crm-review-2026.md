@@ -289,6 +289,70 @@ Twijfel je nog? Gebruik de gratis tools:
 - **[Kosten calculator](/tools/crm/kosten-berekenen/)** — Bereken wat je per maand kwijt bent
 - **[CRM ROI berekenen](/tools/crm/roi-berekenen/)** — Bereken wat een CRM je oplevert
 
+## Close CRM: dieper in de functies
+
+### AI Call Coaching (Scale-plan)
+
+Sinds begin 2025 biedt Close op het Scale-plan AI-gestuurde call coaching. Het systeem transcribeert gesprekken automatisch, herkent gesprekspatronen en geeft de salesmanager een overzicht van hoe goed elke SDR luistert, hoe hij bezwaren afhandelt en of hij de volgende stap benoemt. Ik heb dit getest bij één klant: de transcripties zijn accuraat (ook bij Nederlandse namen en bedrijfsnamen), de samenvattingen zijn bruikbaar, maar de coaching-scores zijn nog te generiek om echt op te sturen. Voor een team dat call coaching serieus wil inzetten, is het een goed beginpunt, maar geen vervanging voor een ervaren salescoach.
+
+### Leads-module versus Contacts
+
+Close maakt onderscheid tussen **Leads** (bedrijven of personen in je verkooppijplijn) en **Contacts** (individuen verbonden aan die leads). Een lead kan meerdere contactpersonen hebben. Dat werkt goed voor B2B waar je met DMU's (decision making units) te maken hebt: je koppelt de CTO en de inkoopmanager allebei aan dezelfde deal.
+
+De zoekfunctie in leads is snel en ondersteunt opgeslagen filters en segmenten. Je kunt leads segmenteren op status, activiteitsdatum, eigenaar, pipelinefase, en custom velden. Voor de dagelijkse SDR-workflow is dat genoeg. Voor complexe multi-territory segmentatie merk je dat HubSpot of Salesforce meer mogelijkheden bieden.
+
+### Rapportages en forecasting
+
+Close biedt rapportages op activiteitsniveau (calls, e-mails, taken) en op deal-niveau (won, lost, omzetprognose). De funnel-rapportage laat zien hoeveel deals van fase naar fase bewegen en waar ze verloren gaan. Voor een teamleider die wekelijks wil bijsturen, zijn de standaardrapporten voldoende. Custom rapportages — zoals een vergelijking van twee periodes of een uitsplitsing per segment — zijn beperkt beschikbaar en missen de diepgang van Salesforce of HubSpot.
+
+Omzetforecasting werkt op basis van kans per pipelinefase. Je stelt per fase een winstkans in (bijv. fase "demo gepland" = 40%), en Close berekent de gewogen pijplijn automatisch. Simpel maar effectief voor de meeste teams.
+
+### Outbound sequenties: de technische details
+
+E-mail sequences in Close werken op basis van relatieve vertragingen (dag 1, dag 3, dag 7), niet op absolute datums. Dat maakt sjablonen makkelijk herbruikbaar over meerdere prospects. Een paar details die ik tijdens tests ontdekte:
+
+- **Stopregel:** een sequence stopt automatisch als een prospect antwoordt. Dat klinkt logisch, maar je moet zorgen dat het reply-detection goed is ingesteld. Bij forward-replies of automatische out-of-office responses kan het systeem een sequence ten onrechte stoppen.
+- **Meerdere sequences:** je kunt een contact aan slechts één actieve sequence tegelijk koppelen. Dat voorkomt dubbele outreach, maar vereist bewuste keuze welke sequence prioriteit heeft.
+- **Personalisatietokens:** je kunt custom velden als tokens gebruiken in je e-mailtemplates. Hoe meer custom velden je hebt ingevuld per lead, hoe persoonlijker je outreach.
+
+---
+
+## Close CRM in Nederland: specifieke overwegingen
+
+### Taal en lokalisatie
+
+Close is volledig in het Engels. Er is geen Nederlandse vertaling, geen Nederlandstalige interface-optie, en de helpdocumentatie is primair in het Engels. Voor teams waarbij medewerkers gewend zijn aan Engelstalige software — SaaS-bedrijven, tech-startups, internationale organisaties — is dit geen probleem. Voor een traditioneel Nederlands MKB-bedrijf met medewerkers die niet dagelijks Engels werken, is dit een serieuze drempel.
+
+Eén concreet issue: Close gebruikt het begrip "lead" voor wat anderen een "account" noemen. Dat creëert soms verwarring bij Nederlandse teams die gewend zijn aan de Pipedrive- of HubSpot-terminologie. Plan een korte training van 30 minuten om de Close-terminologie te verhelderen.
+
+### Telefoonnummers voor Nederland
+
+Close laat je telefoonnummers aanschaffen vanuit het dashboard. Nederlandse nummers (beginnend met 085 of 088) zijn beschikbaar via de Close-telefonie-infrastructuur. Je betaalt per minuut voor gesprekken. De kosten voor binnenlandse gesprekken in Nederland liggen rond de 2-3 cent per minuut. Dat is acceptabel voor gemiddeld gebruik, maar bij teams die honderden minuten per dag draaien, tikt het door.
+
+Mijn aanbeveling: zet bij de start van je Close-proefperiode een testgesprek op met een echt Nederlands mobiel nummer om de gesprekskwaliteit en latency te controleren. Ik heb overwegend goede ervaringen gehad, maar sporadisch klinkkwaliteitsproblemen gemeld bij teams in kleinere steden.
+
+### GDPR en AVG
+
+Close verwerkt klantdata op servers in de VS. Als je met Europese persoonsgegevens werkt — wat voor vrijwel elk Nederlandse verkoopteam het geval is — moet je controleren of Close voldoet aan je AVG-verplichtingen. Close biedt een Data Processing Agreement (DPA) aan en valt onder het EU-US Data Privacy Framework. Voor de meeste commerciële use cases is dit voldoende, maar bij gevoelige sectoren (zorg, juridisch, financieel) raad ik aan dit te laten toetsen door je compliance-officer of privacyjurist.
+
+---
+
+## Veelgestelde vragen (aanvulling)
+
+**Hoe verhoudt Close CRM zich tot HubSpot Sales Hub?**
+HubSpot heeft een gratis instapplan, meer marketingfuncties en een groter ecosysteem. Close is sterker in telefonie en e-mail sequences, en heeft een betere Power Dialer. Voor een team dat primair via telefoon en e-mail verkoopt zonder uitgebreide marketing-workflows, biedt Close meer directe waarde. Voor een team dat marketing en sales wil integreren, is HubSpot de logischere keuze.
+
+**Kan ik Close gebruiken als mijn team in meerdere landen werkt?**
+Ja. Close ondersteunt meerdere valuta, tijdzones en internationale telefoonnummers. Sequences en templates zijn taalvrij aan te passen. Je kunt aparte pipelines aanmaken per land of markt. De beperkingen zitten meer in rapportage (beperkte multi-territory filtering) dan in dagelijkse functionaliteit.
+
+**Is er een API voor koppelingen met maatwerksoftware?**
+Ja, Close heeft een uitgebreide REST API. Koppelingen met interne systemen, eigen dashboards of Nederlandse tools als Exact Online of AFAS zijn te bouwen via de API of via Zapier/Make. De API-documentatie is goed, en er is een actieve developer-community op GitHub.
+
+**Wat gebeurt er met mijn data als ik opzegt?**
+Close biedt een data-export mogelijkheid voor leads, contacts, activities en deals in CSV-formaat. Ik raad aan om voor het opzeggen altijd een volledige export te maken en te controleren of alle velden meekomen. Na 30 dagen na opzegging wordt data verwijderd — exporteer dus op tijd.
+
+---
+
 ## Lees ook
 
 - [Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/) — uitgebreide vergelijking van 8 systemen

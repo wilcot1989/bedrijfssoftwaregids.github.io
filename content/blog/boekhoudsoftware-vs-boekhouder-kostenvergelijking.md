@@ -164,6 +164,63 @@ Ik begeleid regelmatig ondernemers die na een jaar met software terugkomen met p
 
 **Vergeten kosten te boeken.** De abonnementen die automatisch worden afgeschreven, de km-vergoedingen voor zakelijke ritten, de thuiswerkaftrek — dit zijn kosten die je geld besparen maar die veel zelf-boekhouders missen.
 
+## Hoe de markt voor boekhouders in 2026 er echt uitziet
+
+De markt voor externe boekhouders en accountants is krap. Kleine kantoren zijn moeilijk bereikbaar, tarieven zijn gestegen en wachttijden voor een jaaraangifte lopen op tot drie maanden na afloop van het boekjaar. Dit heeft de kostenbalans de laatste jaren verder in het voordeel van software verschoven.
+
+Voor ZZP'ers in de bouw, IT, design en zakelijke dienstverlening betekent dit concreet: wie in 2026 nog een boekhouder betaalt voor taken die software kan doen, betaalt een premie die steeds moeilijker te rechtvaardigen is. De enige situaties waarbij ik een externe boekhouder voor alle taken nog aanbeveel, zijn situaties met echte complexiteit: holdingstructuren, meerdere BV's, internationale constructies of lopende belastinggeschillen.
+
+## Wanneer je combineert: wat je boekhouder dan nog doet
+
+De hybride aanpak — software voor de dagelijkse administratie, boekhouder voor het strategische werk — is de standaard geworden voor ondernemers die slim omgaan met hun tijd en geld. Maar welke taken leef je dan precies uit aan je boekhouder?
+
+**Jaaraangifte inkomstenbelasting.** Dit is het werk dat de meeste ZZP'ers het liefst uitbesteden — en terecht. Een fout in de jaaraangifte kan jaren later tot naheffingen leiden. De boekhouder controleert alle posten, beoordeelt of alle aftrekposten zijn meegenomen en dient in. Kosten: €300-€600 voor een eenvoudige ZZP-aangifte.
+
+**Kwartaaloverleg over fiscale optimalisatie.** Eén keer per kwartaal (of half jaar) een uur met je boekhouder om te bespreken of er mogelijkheden zijn die je mist. Investering in nieuwe apparatuur, willekeurige afschrijving, dotatie aan de oudedagsreserve, aanpassing van je tarief vanwege verwachte jaarwinst — dit zijn gesprekken die software niet met je kan voeren.
+
+**Structuuradvies bij groei.** Zodra je omzet boven de €80.000-€100.000 uitkomt, wordt de vraag of een BV voordeliger is actueel. Een boekhouder die jouw specifieke situatie kent, geeft hier gefundeerd advies. De kosten van een fout op dit beslissingsmoment kunnen tienduizenden euro's bedragen.
+
+**Bezwaar en correspondentie met de Belastingdienst.** Als je een naheffing ontvangt, een boekenonderzoek tegemoet ziet of een vraag krijgt over een specifieke post, wil je iemand die professioneel en snel kan reageren. Software reageert niet op brieven van de Belastingdienst.
+
+## Vergelijking: vijf populaire boekhoudsoftware-pakketten naast de boekhouder
+
+Om de kosten concreet te maken, zet ik vijf veelgebruikte pakketten naast de boekhouder-optie, op basis van een ZZP'er met €60.000 omzet per jaar.
+
+| Optie | Jaarkosten (software) | Jaarkosten (boekhouder erbij) | Totaal/jaar |
+|---|---|---|---|
+| Moneybird Starter | €180 | €400 (jaaraangifte) | €580 |
+| e-Boekhouden ZZP | €119 | €400 | €519 |
+| Exact Online Essentials | €588 | €300 (lagere administratietijd) | €888 |
+| SnelStart ZZP | €192 | €400 | €592 |
+| Externe boekhouder full-service | €0 | €1.800-€2.500 | €1.800-€2.500 |
+
+De conclusie springt eruit: zelfs de duurste software-optie (Exact) kost met een boekhouder voor de jaaraangifte nog maar de helft van wat een full-service externe boekhouder rekent. En dat is voor dezelfde €60.000 ZZP-situatie.
+
+## Drie vragen die bepalen welke aanpak bij jou past
+
+Ik stel altijd drie vragen als ik ondernemers begeleid bij deze beslissing.
+
+**Vraag 1: Hoeveel BTW-tarieven gebruik je?**
+Als je uitsluitend diensten levert tegen 21% BTW en geen gemengde tarieven hebt, is de BTW-aangifte in elk modern boekhoudpakket eenvoudig en vrijwel foutloos. Als je producten en diensten combineert, goederen importeert of werkt met de 0%-vrijstelling voor export, wordt het complexer en is een boekhouder die meedenkt meer waard.
+
+**Vraag 2: Hoe stabiel is je bedrijfssituatie?**
+Een ZZP'er die al vijf jaar op hetzelfde niveau werkt, met dezelfde kostensoorten en dezelfde klantenkring, heeft een voorspelbare en goed te beheren administratie. Wie elk jaar iets nieuws toevoegt — personeel, machines, panden, nieuwe markten — heeft meer behoefte aan een expert die signaleert wat de fiscale gevolgen zijn.
+
+**Vraag 3: Hoeveel waarde hecht je aan je eigen tijd?**
+Een zelfstandig ondernemer die €80 per uur verdient en drie uur per maand kwijt is aan zijn administratie, betaalt €240 per maand aan alternatieve kosten. Dat is €2.880 per jaar. Een boekhouder voor full-service kost €2.000-€3.000 per jaar. De rekensom is dan snel gemaakt: software + drie uur per maand eigen tijd is goedkoper — maar alleen als je die drie uur ook daadwerkelijk aan iets winstgevers besteedt. Voor veel ondernemers is de administratie ook gewoon iets dat ze liever een ander laten doen, en dat is een volledig legitieme reden om een boekhouder te nemen.
+
+## Wat verandert er als je eenmaal software gebruikt?
+
+De eerste drie maanden zijn altijd de zwaarste. Daarna gebeurt er iets interessants: de meeste ondernemers die de overstap hebben gemaakt, willen niet meer terug. Niet omdat software perfect is, maar omdat ze beter inzicht hebben in hun eigen cijfers dan ze ooit hadden.
+
+Een externe boekhouder heeft het bijgehouden — maar jij als ondernemer had weinig idee van je actuele BTW-positie, je cashflow voor de komende twee maanden, of welke klanten nog openstaande facturen hadden. Met software zie je dat dagelijks, zonder dat je erom moet vragen.
+
+Dat inzicht heeft waarde die je niet terugziet in de kostenberekening. Ondernemers die hun eigen cijfers kennen, nemen andere beslissingen: ze sturen sneller een herinnering als een factuur te lang openstaat, ze zien het aankomen als een drukke maand een liquiditeitsdip veroorzaakt, en ze kunnen een leverancier beter onderhandelen als ze weten hoeveel marge er op een bepaald product zit.
+
+Dat is niet iets wat een boekhouder die eens per kwartaal meekijkt je kan geven. Software geeft je dat inzicht dag voor dag.
+
+**De valkuil van overschatting:** Aan de andere kant zie ik ook ondernemers die te optimistisch zijn over wat ze zelf kunnen. Ze beginnen met software, maken in het eerste jaar een paar categoriseerfouten, en ontdekken dat bij de jaaraangifte — op het moment dat het te laat is om makkelijk te corrigeren. Mijn advies: laat je eerste jaaraangifte altijd controleren door een boekhouder, ook als je de rest van het jaar zelfstandig boekt. Die ene controle kost €300-€500 en geeft je de zekerheid dat je het goed hebt gedaan.
+
 ## Lees ook
 
 - [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — vergelijk pakketten op prijs en functies

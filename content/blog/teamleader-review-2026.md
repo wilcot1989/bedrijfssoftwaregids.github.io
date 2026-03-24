@@ -293,6 +293,47 @@ De tijdregistratie is er, maar als je team het niet consequent gebruikt, heb je 
 5. **Investeer een halve dag in templates** -- offerte-templates, factuurlayout, e-mailtemplates. Dit betaalt zich dubbel en dwars terug
 6. **Train je team op tijdregistratie** -- het is de basis voor correcte projectrapportages en nacalculatie
 
+## Wat kost een overstap naar Teamleader echt?
+
+Een veelgestelde vraag die ik hoor van klanten die overwegen over te stappen: wat ben je kwijt aan tijd en moeite? In mijn ervaring verloopt een Teamleader-implementatie voor een bedrijf van 5 tot 10 medewerkers als volgt:
+
+**Fase 1 — Voorbereiding (1-2 weken)**
+Exporteer je bestaande contacten, klanten en factuurhistorie uit het huidige systeem. Breng je salesproces in kaart: welke fases heeft een deal, wie is waarvoor verantwoordelijk, welke informatie moeten contacten bevatten.
+
+**Fase 2 — Inrichting (2-5 dagen)**
+Pipelinefases aanmaken, offerte-templates bouwen, factuurlayout instellen, boekhoudkoppeling activeren. Dit doe je grotendeels zelf via de setup wizard. Bij klanten die ik begeleid, kost dit een intensieve werkdag tot twee.
+
+**Fase 3 — Data-import en training (1 week)**
+Contacten importeren via CSV, bestaande deals aanmaken, team trainen op de workflow. De interface is intuïtief genoeg dat nieuwe gebruikers na een halve dag training zelfstandig kunnen werken.
+
+**Fase 4 — Live gaan**
+Na twee tot drie weken draaien de meeste teams productief. De parallelle periode -- waarbij je de oude tool nog gebruikt terwijl Teamleader operationeel wordt -- is de meeste bedrijven aan te raden.
+
+De totale implementatietijd in uren: 20 tot 40 manuren, afhankelijk van je databehoefte. Er zijn geen verplichte consultancykosten zoals bij Salesforce. De support van Teamleader helpt bij technische vragen, maar begeleiding inrichten op je specifieke workflow moet je zelf doen of extern inhuren.
+
+### Teamleader voor dienstverlenende bureaus: de ideale use case
+
+Ik wil een concreet voorbeeld geven van hoe Teamleader werkt voor het type bedrijf waarvoor het gebouwd is: een adviesbureau met acht medewerkers, actief in marketingconsultancy.
+
+Voor de implementatie bij dit bureau werkten ze met Pipedrive voor CRM en een los factuurprogramma. Elke maand kopieerden ze klantgegevens handmatig van Pipedrive naar de facturatietool. Dat kostte een medewerker gemiddeld drie uur per maand -- en fouten zaten er regelmatig in.
+
+Na de overstap naar Teamleader GROW:
+
+- Leads komen binnen via de website en worden automatisch aangemaakt als contact in het CRM
+- Bij het sluiten van een deal stuurt de accountmanager direct vanuit de deal een offerte. De klant accepteert digitaal
+- Na acceptatie zet de accountmanager de offerte om naar een project met mijlpalen en urenbegroting
+- Teamleden registreren hun uren direct in het project via de timer
+- Aan het einde van de maand genereert Teamleader facturen op basis van de geregistreerde uren -- handmatig overtypen is verleden tijd
+- Facturen gaan automatisch naar Exact Online
+
+De tijdsbesparing: van drie uur handmatig werk per maand naar circa twintig minuten. De foutmarge is vrijwel nul. En de data is consistent: elke euro die gefactureerd wordt, is terug te traceren naar een project en een deal in het CRM.
+
+### Integratie met Mollie: online betalen bij facturen
+
+Een functie die ik bij klanten consequent inzet: de koppeling met [Mollie](/blog/mollie-review-2026/) voor directe iDEAL-betaling vanuit facturen. Je kunt een betaallink opnemen in je factuur waarmee de klant direct online betaalt. In de praktijk zie ik bij klanten die dit activeren hun gemiddelde betalingstermijn met vijf tot acht dagen afnemen. Dat is cash in je zak zonder extra werk.
+
+Instellen kost minder dan tien minuten: je koppelt je Mollie-account in de Teamleader-instellingen, activeert de betaallink op je factuurtemplate en je bent klaar. Stripe werkt op dezelfde manier.
+
 ## Teamleader review: is het de investering waard?
 
 Teamleader Focus is het platform dat ik aanbeveel aan dienstverlenende MKB-bedrijven in de Benelux die hun hele bedrijfsvoering -- van lead tot factuur -- in een systeem willen draaien. De combinatie van CRM, offertes, facturatie, projectbeheer en tijdregistratie is uniek in deze prijsklasse.

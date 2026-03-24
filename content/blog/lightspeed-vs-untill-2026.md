@@ -397,6 +397,48 @@ Geen van beide is "beter." Het hangt af van jouw zaak, jouw budget en jouw manie
 
 **Nog twijfelen?** Lees mijn [overzicht van de beste kassasystemen voor horeca](/blog/beste-kassasysteem-horeca-2026/) waarin ik zes systemen vergelijk, waaronder Lightspeed, Untill en vier alternatieven. Of bekijk de [Lightspeed vs Square vergelijking](/blog/lightspeed-vs-square-2026/) als je ook een budgetvriendelijkere optie overweegt. Wil je ook inzicht in de totale kosten inclusief verborgen posten? Lees dan de [kassasysteem verborgen kosten checklist](/blog/kassasysteem-verborgen-kosten-checklist/). Specifiek voor horeca vind je praktische adviezen op de [kassasysteem horeca sectorpagina](/sectoren/kassasystemen/kassasysteem-horeca/). Controleer ook wat de wet van je eist: de [fiscale eisen kassasysteem 2026](/blog/fiscale-eisen-kassasysteem-2026/) zet alle wettelijke verplichtingen op een rij, en de [kassasysteem inrichten checklist](/blog/kassasysteem-inrichten-checklist/) begeleidt je stap voor stap bij de opzet.
 
+## Migreren van Lightspeed naar Untill (of andersom)
+
+De keuze voor een kassasysteem is niet eeuwig. Ik begeleid regelmatig horecaondernemers die overstappen, en beide richtingen zijn goed te doen als je het slim aanpakt.
+
+### Van Lightspeed naar Untill
+
+Dit zie ik bij zaken die zijn gegroeid, meerdere terminals nodig hebben of worstelen met de internetafhankelijkheid van Lightspeed.
+
+**Stap 1: neem contact op met een Untill-dealer.** Dit is de eerste en belangrijkste stap. Untill werkt via het dealernetwerk — er is geen webshop of self-service onboarding. Een dealer beoordeelt jouw situatie, adviseert over de juiste hardware en maakt een offerte op maat. Neem minimaal twee dealers mee in het traject; de kwaliteit verschilt.
+
+**Stap 2: exporteer je Lightspeed-productenlijst.** Via Lightspeed's backoffice exporteer je alle producten, prijzen, BTW-codes en modificatoren naar CSV. Dat is de basis voor de Untill-configuratie. Een dealer kan dit importeren, maar controleer altijd na de import of alles klopt — bijzonder bij speciale BTW-tarieven en samengestelde gerechten.
+
+**Stap 3: plan de installatiedag.** Untill vereist installatie door de dealer. Dat kost een halve tot een volle dag, afhankelijk van de complexiteit. Plan dit op een rustige dag buiten het weekend.
+
+**Stap 4: train je personeel.** Untill heeft een andere interface dan Lightspeed. Reserveer een avond voor training. De meeste medewerkers hebben na twee shifts het systeem onder de knie, maar de eerste avond is altijd even wennen.
+
+**Eenmalige overstapkosten:** dealer-installatie €300-€600, hardware (als je switcht naar FEC-terminals) €800-€1.200 per stuk. Reken totaal €1.500-€3.000 voor een enkele-terminal situatie.
+
+### Van Untill naar Lightspeed
+
+Minder frequent, maar het komt voor. Meestal bij ondernemers die op een nieuwe locatie starten en liever klein beginnen met een iPad dan investeren in professionele hardware.
+
+Exporteer je productenlijst uit Untill's backoffice. Lightspeed laat je die importeren via CSV. Houd rekening met het feit dat Untill's productstructuur (groepen, subgroepen, condimenten) anders is dan Lightspeed's categoriestructuur — je zult handmatig moeten aanvullen en corrigeren.
+
+## Veelgestelde vragen uit de praktijk
+
+**Kan ik Lightspeed gebruiken op een Android-tablet in plaats van een iPad?**
+
+Ja. Lightspeed Restaurant heeft een Android-app die op de meeste recente Android-tablets werkt. De ervaring is iets minder gepolijst dan op een iPad — Apple-hardware en iOS zijn de primaire ontwikkelomgeving — maar voor prijsbewuste starters is een Android-tablet van €200 een werkbare optie. Test de app altijd voor aanschaf op jouw specifieke apparaat.
+
+**Hoe vaak heeft Untill gepland onderhoud waarbij het systeem uitvalt?**
+
+Untill draait primair lokaal, wat betekent dat geplande onderhoud aan de cloudbackoffice de kassafunctie niet beïnvloedt. Updates worden via de dealer ingepland en doorgevoerd op een moment dat jouw zaak gesloten is. Dit is een concreet voordeel ten opzichte van cloud-first systemen waarbij een update tijdens een drukke avond de werking tijdelijk kan beïnvloeden.
+
+**Kan ik Lightspeed en Untill koppelen aan Thuisbezorgd zonder tussenpartij?**
+
+Lightspeed koppelt met Thuisbezorgd via Deliverect — dat is een aparte abonnementsdienst (€70-€150 per maand). Untill biedt ook directe koppelingen met bezorgplatforms via partners. In beide gevallen zijn er extra kosten voor de bezorgkoppeling buiten de basisprijs van het kassasysteem. Reken dit in je totale maandlasten mee.
+
+**Kan ik tips en fooien registreren in beide systemen?**
+
+Ja, beide systemen ondersteunen fooienregistratie. In Lightspeed stel je dit in via de betalingsinstellingen en je kunt gasten een fooi-optie aanbieden op het pinapparaat. Untill verwerkt fooien via de kassa-instellingen van de dealer. In beide gevallen is de fiscale verwerking van fooien iets wat je met je boekhouder moet afstemmen.
+
 ## Lees ook
 
 - [Lightspeed Kassa Review 2026: Getest](/blog/lightspeed-kassa-review-2026/)

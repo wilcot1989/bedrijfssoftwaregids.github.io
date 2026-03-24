@@ -312,3 +312,127 @@ Krachtig, flexibel en kostenefficient voor de juiste gebruiker. Maar de technisc
 - [Beste CRM voor webshops 2026](/blog/beste-crm-webshops-2026/)
 
 Wil je WooCommerce vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/webshops/)** of gebruik de **[webshop keuzehulp](/tools/webshops/keuzehulp/)**.
+
+---
+
+## WooCommerce in de praktijk: drie scenario's
+
+### Scenario 1: de WordPress-blogger die een webshop toevoegt
+
+Dit is de meest logische use case voor WooCommerce en de situatie waarin ik het het vaakst adviseer. Stel: je hebt al een WordPress-website met 50 blogposts over koffiebranderijen. Je hebt een eigen koffielabel, je wilt vijf producten online verkopen en je verwacht 20 à 30 bestellingen per maand.
+
+WooCommerce is hier de perfecte keuze. Je hebt al WordPress, je hebt al hosting, je hebt al een thema. Je installeert WooCommerce, voegt de Mollie-extensie toe, importeert je vijf producten, en je bent online. Totale extra kosten: Mollie (geen maandelijks tarief, alleen transactiekosten), en eventueel een BTW-plugin voor factuurconformiteit. De tijdsinvestering is één dag.
+
+Het alternatief — Shopify — zou betekenen dat je een apart platform onderhoudt naast je WordPress-site. Dat is extra beheer, extra kosten, en je SEO-blog en webshop zijn van elkaar gescheiden. Voor deze situatie is WooCommerce de rationele keuze.
+
+### Scenario 2: de groeistarter zonder technische achtergrond
+
+Een klant wil een webshop starten voor handgemaakte cadeauproducten. Budget: zo laag mogelijk. Verwachting: 50-100 bestellingen per maand in het eerste jaar. Geen technische achtergrond.
+
+Hier adviseer ik WooCommerce niet. Niet vanwege de kosten — die zijn vergelijkbaar met Shopify na het eerste jaar — maar vanwege de technische overhead. De klant heeft geen zin in plugins bijhouden, serverfouten oplossen of beveiligingsupdates bijhouden. Ze wil producten verkopen.
+
+Voor deze klant is Shopify de betere keuze. Of, als het budget echt krap is en de focus puur op de Nederlandse markt ligt, Mijnwebwinkel (nu Acendy). Die keuze bespaart haar maanden frustratie en technische leercurve.
+
+### Scenario 3: de uitgebreide maatwerk-webshop
+
+Een B2B-leverancier van technische onderdelen wil een webshop met klantspecifieke prijsafspraken, variabele configuratoren per producttype, en koppeling met hun eigen ERP-systeem via een API. Budget: substantieel. Technisch team aanwezig.
+
+Dit is WooCommerce op zijn sterkst. De open-source architectuur maakt het mogelijk om elke gewenste functionaliteit te bouwen of te integreren. Er zijn geen platformbeperkingen, geen transactiekosten, geen vendor die je vertelt wat wel en niet mag. De developer-uren zijn de investering; die zijn eenmalig en de resultaten zijn duurzaam.
+
+Shopify zou hier tegen zijn grenzen aanlopen bij de productconfigurator en de ERP-koppeling — die zijn ook te bouwen via Shopify's API, maar duurder en minder flexibel dan in WooCommerce.
+
+---
+
+## WooCommerce-hosting: welke provider kies je?
+
+Dit is een onderdeel van de beslissing dat meer aandacht verdient dan het gewoonlijk krijgt. De hostingkeuze bepaalt voor een groot deel de snelheid, betrouwbaarheid en het onderhoud van je WooCommerce-shop.
+
+### De vier niveaus
+
+**Niveau 1 — Gedeelde hosting (€3-10/mnd)**
+Providers als Strato, TransIP of Hostnet op instapniveau. Je deelt servercapaciteit met honderden andere websites. Dit werkt voor een blog, niet voor een webshop. Zodra je meer dan twintig bezoekers tegelijk hebt, merk je de traagheid. Mijn advies: vermijd dit voor WooCommerce.
+
+**Niveau 2 — Managed WordPress-hosting (€10-30/mnd)**
+Providers als Kinsta, WP Engine of SiteGround's WooCommerce-plan. De server is geoptimaliseerd voor WordPress en WooCommerce. Automatische updates, dagelijkse backups, en een CDN zijn inbegrepen. Dit is het minimumniveau dat ik aanbeveel voor een serieuze WooCommerce-shop.
+
+Ik gebruik zelf [Hostinger](https://jf79.net/c/?si=16780&li=1722914&wi=418626&ws=&dl=) Business-plan als budgetvriendelijk instapniveau bij klanten die net starten (€10/mnd). Voor shops die doorgroeien, stap ik over naar SiteGround (~€25/mnd) of Kinsta (~€35/mnd).
+
+**Niveau 3 — VPS (€20-60/mnd)**
+Een Virtual Private Server geeft je geïsoleerde servercapaciteit. Meer controle, maar ook meer beheertijd. Voor de meeste MKB-webshops is managed hosting efficiënter.
+
+**Niveau 4 — Dedicated server of cloud (€100+/mnd)**
+Voor WooCommerce-shops met miljoenen euro's omzet en hoge piekbelasting. Niet relevant voor het MKB.
+
+### Serverlocatie voor Nederlandse webshops
+
+Kies een hostingprovider met datacenters in Nederland of West-Europa. Laadtijden zijn lager als de server dichter bij je bezoeker staat. Google PageSpeed en Core Web Vitals zijn rankingfactoren in de zoekmachineresultaten — een server in Frankfurt laadt voor een Nederlandse bezoeker aanzienlijk sneller dan een server in Virginia.
+
+---
+
+## WordPress en WooCommerce-updates: wat je wekelijks moet doen
+
+Een van de meest onderschatte tijdsinvesteringen bij WooCommerce is het onderhoud. Dit is wat ik bij klanten zie als "wekelijks beheer":
+
+**Wekelijks (15-30 minuten):**
+- Controleer of er WordPress-updates beschikbaar zijn
+- Controleer of er plugin-updates beschikbaar zijn (inclusief WooCommerce zelf)
+- Maak een backup vóór grote updates
+- Installeer updates in een staging-omgeving als je die hebt, anders direct na backup
+
+**Maandelijks (1-2 uur):**
+- Controleer laadtijden via Google PageSpeed Insights of GTmetrix
+- Check beveiligingsrapport in Wordfence of equivalente plugin
+- Controleer of alle betaalmethoden nog werken na updates
+- Controleer Google Analytics/Search Console op technische fouten
+
+**Kwartaal (2-4 uur):**
+- PHP-versie controleren bij hosting — verouderde PHP-versies zijn een beveiligingsrisico
+- Database optimaliseren (automatisch via plugin, maar bewust triggeren)
+- Auditeer geïnstalleerde plugins — verwijder wat je niet meer gebruikt
+
+Als deze checklist je afschrikt: dat is terecht. Dit is de reële werkdruk van WooCommerce-eigenaarschap. Als je dat niet wilt, kies dan een hosted platform.
+
+---
+
+## WooCommerce-SEO: het echte voordeel
+
+Ik noem SEO eerder in dit artikel al als een sterk punt van WooCommerce. Hier wil ik concreter zijn, want het is een significant voordeel voor shops die serieus op zoekverkeer willen inzetten.
+
+### Volledige URL-controle
+
+Bij Shopify zijn productpagina's altijd `/products/[naam]` en collectiepagina's `/collections/[naam]`. Je kunt dit niet wijzigen. Bij WooCommerce bepaal je zelf de URL-structuur volledig. Wil je `/shop/categorie/productnaam/`? Dat kan. Wil je simpelweg `/productnaam/`? Dat kan ook.
+
+Dat klinkt als een technisch detail, maar voor SEO maakt het verschil in twee opzichten: de URL kan het primaire zoekwoord bevatten, en je kunt de URL-hiërarchie laten aansluiten bij je sitestructuur en interne linkstrategie.
+
+### Schema-markup via Yoast
+
+Yoast SEO voegt automatisch Product schema, AggregateRating schema en BreadcrumbList schema toe aan je productpagina's. Dat is wat leidt tot rich snippets in Google: de sterren, de prijs en de beschikbaarheid die je soms onder zoekresultaten ziet. Dat verhoogt de klikfrequentie (CTR) uit de zoekresultaten.
+
+Shopify heeft dit ook via apps, maar bij WooCommerce zit het standaard in Yoast en is het betrouwbaarder geconfigureerd in mijn ervaring.
+
+### Blogging als SEO-motor
+
+Als je WooCommerce naast een actieve WordPress-blog gebruikt, heb je een SEO-voordeel dat hosted platforms niet kunnen repliceren. De blogposts en de shopproducten zitten op hetzelfde domein, delen hetzelfde linkprofiel, en je kunt intern linken vanuit longtail-blogteksten naar producten op een manier die Google als autoriteitsopbouw behandelt.
+
+Ik heb een klant met een WooCommerce-shop die 60% van zijn organische verkeer genereert via blogcontent. Dat model werkt specifiek doordat blog en shop geïntegreerd zijn. Bij Shopify zou je ofwel de blog naast je shop moeten onderhouden op een ander domein (verlies van domeinautoriteit) of werken met de beperkte Shopify-blog.
+
+---
+
+## Veelgestelde vragen (aanvulling)
+
+**Hoe installeer ik WooCommerce stap voor stap?**
+1. Koop een domeinnaam en een WordPress-hostingpakket (bijv. bij Hostinger of SiteGround)
+2. Installeer WordPress via de 1-click installer van je host
+3. Ga in je WordPress-dashboard naar Plugins > Nieuwe plugin > zoek "WooCommerce" > installeer en activeer
+4. Doorloop de setup-wizard: winkellocatie, valuta (euro), betaalmethoden, verzending
+5. Installeer de Mollie-extensie voor iDEAL en andere Nederlandse betaalmethoden
+6. Voeg je eerste producten toe via Producten > Nieuw product
+7. Kies een WooCommerce-geschikt thema (Storefront is gratis en een goede start)
+
+De volledige basisinstallatie duurt voor een technisch vaardige gebruiker een halve dag. Voor iemand zonder WordPress-ervaring reken op een dag tot anderhalf.
+
+**Kan ik een WooCommerce-shop starten zonder WordPress-kennis?**
+Beperkt. Je hebt minimaal basiskennis nodig van hoe WordPress werkt: hoe je een plugin installeert, hoe je een pagina aanmaakt, hoe je een thema activeert. Als je die basis hebt, kom je een heel eind met de uitgebreide WooCommerce-documentatie. Maar als je nog nooit met WordPress hebt gewerkt, is de leercurve steil genoeg om te overwegen of een hosted platform zoals Shopify niet sneller tot resultaat leidt.
+
+**Is WooCommerce veilig voor online betalingen?**
+Ja, mits correct geconfigureerd. De beveiliging van betalingen ligt bij de betaalgateway (Mollie of Stripe), niet bij WooCommerce zelf. Die gateways zijn PCI DSS-gecertificeerd en verwerken betaaldata buiten jouw server om. Wat jij als WooCommerce-eigenaar moet borgen: een SSL-certificaat (HTTPS), WordPress en plugins up-to-date houden, en een beveiligingsplugin zoals Wordfence of Sucuri actief hebben.

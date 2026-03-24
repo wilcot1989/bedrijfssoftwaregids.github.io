@@ -296,6 +296,59 @@ Wil je een uitgebreidere vergelijking? Lees mijn [Lightspeed vs Square vergelijk
 - Prijsverhogingen zonder duidelijke communicatie vooraf
 - iPad-hardware is verplicht (geen Android-support)
 
+## Lightspeed in de praktijk: een dag in het leven van een restauranthouder
+
+Om te begrijpen waarom Lightspeed Restaurant bij drukke zaken zo goed werkt, loopt het beste een typische donderdagavond door.
+
+**17:30 — Voorbereidingen**
+De medewerker opent Lightspeed op de iPad. De dagmenu's zijn al ingevoerd. De tafelplattegrond staat klaar: 18 tafels, elk met eigen status. Reserveringen zijn gesynchroniseerd vanuit het reserveringssysteem.
+
+**18:00 — Eerste gasten**
+Gasten worden ingecheckt op tafel 4. De medewerker tikt de bestelling in op de iPad: twee biertjes, een carpaccio en twee dagschotels. De bestelling verschijnt direct op het KDS-scherm in de keuken. Geen papieren bonnetje, geen shouting.
+
+**19:30 — Het drukste moment**
+Alle 18 tafels bezet. De manager bekijkt via de Pulse-app op zijn telefoon de live omzet: €1.847 tot nu toe. De populairste gerechten op die avond: dagsuggestie vis en het vegetarisch bord. Die informatie gebruikt hij volgende week voor de inkoop.
+
+**20:15 — Thuisbezorgd-bestellingen**
+Vier bestellingen binnengekomen via Thuisbezorgd. Via Deliverect verschijnen ze automatisch op het kassascherm. Geen aparte tablet, geen handmatig overtypen. De keuken werkt gewoon door.
+
+**22:30 — Afsluiting**
+De kassalade wordt geteld. Het dagsaldo klopt. De omzetrapportage gaat automatisch naar de boekhouding via de Exact Online-koppeling.
+
+Dit is waar Lightspeed zijn prijs verdient: de dag verloopt soepeler, er gaan minder bestellingen verloren en de rapportages zijn de volgende dag beschikbaar zonder extra werk.
+
+## Lightspeed voor retailers: voorraadbeheer in de praktijk
+
+Een klant van mij -- een kledingwinkel met twee vestigingen en een webshop -- werkte voor de overstap naar Lightspeed Retail met een losse webshopoplossing en een spreadsheet voor de voorraad. Iedere avond moest een medewerker handmatig de verkopen van de dag in de spreadsheet invoeren en de webshop bijwerken. Bij een artikel dat in de winkel uitverkocht was maar nog op de site stond, volgden teleurgestelde online kopers.
+
+Na de overstap naar Lightspeed Retail:
+
+**Voorraad in real-time gesynchroniseerd.** Verkoop je een blouse in maat M in de vestiging op de Kalverstraat? Lightspeed past de webshopvoorraad meteen aan. Geen aparte update meer, geen teleurgestelde webshopklanten die iets bestellen dat al weg is.
+
+**Inkooporders direct vanuit het systeem.** Als een product onder het herbestelpunt komt, genereert Lightspeed een inkooporder die je naar de leverancier stuurt. Voor de kledingwinkel scheelde dat twee uur per week aan handmatig inkoopwerk.
+
+**Margeoverzicht per product.** Via de rapportages zie je per artikel wat de aankoopprijs, verkoopprijs en marge zijn. De eigenaar ontdekte dat een bepaalde leverancier zijn inkoopprijzen had verhoogd zonder dat de verkoopprijzen waren meegegaan -- een verliespost die eerder onzichtbaar was.
+
+**Meerdere locaties, een dashboard.** Beide vestigingen zijn zichtbaar in hetzelfde systeem. Je kunt voorraad verplaatsen tussen vestigingen en zien welke locatie beter presteert op welke productcategorie.
+
+Dit is precies de use case waarvoor Lightspeed Retail gebouwd is: retailers die serieus voorraadbeheer willen zonder drie separate systemen naast elkaar te draaien.
+
+## Overstappen naar Lightspeed: wat te regelen
+
+Als je nu een ander kassasysteem gebruikt en naar Lightspeed overstapt, zijn dit de stappen die je niet kunt overslaan:
+
+**1. Menu-import of handmatige invoer**
+Je menukaart of productcatalogus moet in Lightspeed komen. Lightspeed biedt een CSV-import voor producten, maar de opmaak moet kloppen. Reken op een halve dag werk voor een gemiddeld menu van 60 tot 80 items.
+
+**2. Hardware aanschaffen of testen**
+Bestaande iPads zijn vaak bruikbaar als ze aan de minimale vereisten voldoen (iPad 7e generatie of later). Test je printers (Epson/Star) op compatibiliteit vóór de opening. Lightspeed heeft een hardware-compatibiliteitslijst op hun website.
+
+**3. Teamtraining**
+Lightspeed zelf biedt een gratis onboarding-sessie van circa 1 uur. Dat is een startpunt, geen volledige training. Ik adviseer klanten om een extra interne trainingsdag te plannen waarbij alle medewerkers zelf bestellen, splitsen en afrekenen in een testsituatie.
+
+**4. Integraties activeren**
+Stel de boekhoudkoppeling en eventuele bezorgplatform-integraties in vóór de livegang. Achteraf terugboeken vanuit een oud systeem is tijdrovend en foutgevoelig.
+
 ## Lightspeed kassa review: mijn eindoordeel
 
 Lightspeed is niet het goedkoopste kassasysteem, en het is niet het meest flexibele. Maar het is wel een van de meest complete en betrouwbare oplossingen die je in Nederland kunt krijgen -- zeker voor horeca met bezorgambities en retail met serieus voorraadbeheer.

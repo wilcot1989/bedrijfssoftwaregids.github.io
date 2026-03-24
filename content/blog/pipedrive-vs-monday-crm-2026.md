@@ -262,6 +262,22 @@ Ja, beide koppelen met Nederlandse pakketten als Exact Online en Moneybird -- vi
 
 ---
 
+## Praktisch scenario: een dealcyclus van A tot Z
+
+Het verschil tussen Pipedrive en Monday CRM wordt het duidelijkst als je een volledig verkoopproces doorloopt. Ik gebruik hiervoor een typisch MKB-scenario: een IT-dienstverlener met acht accountmanagers die B2B softwarelicenties verkoopt.
+
+**Met Pipedrive:**
+
+Accountmanager Joris voegt een nieuw lead toe vanuit een LinkedIn-bericht. Hij koppelt zijn Gmail-account en alle e-mails met dit contact worden automatisch gelogd. Hij plant een belafspraak — de AI Sales Assistant suggereert op basis van eerdere deals dat dit type contact na twee contactmomenten gemiddeld beslisklaar is. Na het gesprek sleept hij de deal van "Eerste contact" naar "Demo gepland". Automatisch wordt er een taak aangemaakt voor de demo-bevestigingsmail. De deal landt in de rapportages van de salesmanager zonder dat er iets handmatig ingevoerd hoeft te worden.
+
+Als de deal wordt gewonnen, zit het werk van Pipedrive erop. Er is geen projectmodule. De overdracht naar het implementatieteam gaat via e-mail en een apart systeem.
+
+**Met Monday CRM:**
+
+Dezelfde dealcyclus verloopt vergelijkbaar -- visuele pipeline, e-mailkoppeling, fasewisseling. Het cruciale verschil zit na het winnen van de deal. In Monday CRM is het volgende geautomatiseerd: zodra de status "Gewonnen" wordt, maakt het systeem automatisch een projectbord aan in het Monday.com-werkgedeelte, wijst het de implementatiebeheerder toe als verantwoordelijke, en stelt het een welkomstmail naar de klant in. Het account management team en het implementatieteam werken letterlijk op hetzelfde platform, aan hetzelfde klantdossier.
+
+Voor de IT-dienstverlener in mijn voorbeeld was die naadloze overgang van sales naar delivery doorslaggevend voor de keuze voor Monday CRM.
+
 ## Mijn advies: Pipedrive vs Monday CRM -- welke past bij jou?
 
 Na tientallen implementaties van beide platformen bij Nederlandse MKB-bedrijven is mijn aanbeveling helder:

@@ -286,11 +286,43 @@ Wil je meer pakketten vergelijken? Bekijk het volledige overzicht van de [beste 
 
 ---
 
+## Overstappen tussen fENNA en e-Boekhouden: hoe pak je dat aan?
+
+Ik begeleid ook ZZP'ers die wisselen tussen pakketten. Misschien begonnen ze bij e-Boekhouden via de startersregeling, maar willen nu over naar fENNA vanwege de internationale facturatiemogelijkheden. Of ze begonnen bij fENNA maar groeien richting een situatie waarbij e-Boekhouden beter past. Hier is hoe je de overstap slim aanpakt.
+
+### Timing: altijd bij de jaarovergang
+
+Dit is mijn absolute eerste advies, bij elke pakketwisseling. Start op 1 januari van een nieuw boekjaar. Dan heb je een schone lei: je vorige boekhouder heeft het afgelopen jaar afgesloten, alle BTW-aangiften zijn gedaan en ingediend, en je begint het nieuwe jaar met een beginbalans die klopt.
+
+Halverwege het jaar wisselen kan wel, maar het levert altijd een gesplitste administratie op — een deel van het jaar in pakket A, een deel in pakket B — wat de jaaraangifte compliceerder maakt en je boekhouder extra uur kost.
+
+### Exporteren uit fENNA
+
+fENNA laat je contacten, facturen en boekingen exporteren als CSV. Ga naar Instellingen > Exporteren en download je contactenlijst, factuuroverzicht en boekingsexport. Bewaar alles, ook al ga je het meeste niet direct importeren — je hebt het nodig als archief en eventueel voor de Belastingdienst.
+
+De BTW-aangiften die je in fENNA hebt ingediend staan los van de boekingsdata. Exporteer ook die overzichten als PDF en bewaar ze zeven jaar. Wettelijke bewaarplicht geldt ongeacht welk pakket je gebruikt.
+
+### Importeren in e-Boekhouden
+
+e-Boekhouden accepteert CSV-imports voor contacten (klanten en leveranciers) en bankimports via MT940. Factureergeschiedenis kun je niet direct importeren als boekingen — dat is bij elk pakket zo. Historische facturen bewaar je als PDF-archief.
+
+Na import: controleer minimaal tien contactrecords handmatig. BTW-nummers die niet in het juiste formaat staan, krijg je later terug als foutmeldingen. Beter nu vijf minuten extra investeren.
+
+Stel daarna de bankkoppeling in. Dat is de basis voor de automatische transactieverwerking. Doe dit op dag één van het nieuwe boekjaar, niet een week later.
+
+### Importeren in fENNA
+
+De omgekeerde richting: exporteer je e-Boekhouden-contactenlijst en importeer die in fENNA. fENNA heeft een importwizard die CSV-velden matcht aan zijn eigen velden. Controleer na import of de BTW-nummers en e-mailadressen correct zijn overgekomen — bij speciale tekens gaat er weleens iets fout.
+
+Stel vervolgens de bankkoppeling in en richt je Mollie-koppeling in als je online betalingen verwerkt.
+
 ## Hoe wij vergelijken
 
 Ik vergelijk boekhoudpakketten op basis van zeven criteria: prijs, facturatiefuncties, BTW-aangifte, bankkoppeling, gebruiksgemak, support en schaalbaarheid. Waar mogelijk test ik de software zelf; voor kleinere pakketten zoals fENNA combineer ik eigen gebruik met publieksdata, gebruikersreviews en verificatie van de officiële prijspagina (gecheckt maart 2026).
 
 Ik heb een commerciële relatie met fENNA (gemarkeerd als sponsored). e-Boekhouden wordt zonder affiliate-deal gelinkt. Dat beïnvloedt mijn oordeel niet — mijn doel is een eerlijk advies, geen zo hoog mogelijke commissie.
+
+Beide pakketten zijn actief in doorontwikkeling. fENNA voegt regelmatig nieuwe functies toe, met een duidelijke focus op de ZZP-markt. e-Boekhouden heeft een stabielere ontwikkelcyclus maar een bewezen track record van meer dan twintig jaar. Voor de meeste ZZP'ers is die bewezen staat van dienst een rustgevend gegeven — ook als de interface wat minder modern oogt dan die van een jongere concurrent.
 
 Lees meer over de vergelijkingsmethode op de [keuzehulp pagina](/tools/boekhouding/keuzehulp/) of vergelijk meer pakketten in het [overzicht boekhoudsoftware ZZP](/sectoren/boekhouding/boekhoudsoftware-zzp/).
 

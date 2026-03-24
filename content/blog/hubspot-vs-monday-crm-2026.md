@@ -420,6 +420,28 @@ Bekijk het volledige overzicht in mijn [beste CRM software Nederland 2026](/blog
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)**.
 
+## De drie vragen die de keuze bepalen
+
+Na jaren van HubSpot- en Monday CRM-implementaties heb ik het beslisproces teruggebracht tot drie vragen. Welke je met "ja" beantwoordt, bepaalt je richting.
+
+**Vraag 1: "Genereren wij actief leads via content, advertenties of e-mailcampagnes?"**
+
+Als het antwoord ja is, heeft HubSpot de overhand. De kracht van HubSpot zit precies in dat stuk: leads vanuit content of campagnes automatisch kwalificeren, opwarmen en doorgeven aan sales. Zonder die marketingbehoefte betaal je voor HubSpot's sterkste functie zonder hem te benutten.
+
+Als het antwoord nee is -- je krijgt leads via referrals, netwerk of beurzen -- dan voegt HubSpot's marketing automation weinig toe. Monday CRM is dan ruim voldoende.
+
+**Vraag 2: "Moet ons team na de deal ook projecten beheren?"**
+
+Als het antwoord ja is, is Monday CRM bijna altijd de logischere keuze. De integratie van CRM en projectmanagement is uniek en vermijdt de constructie van "CRM + Asana + Zapier" die ik bij HubSpot-klanten keer op keer zie verschijnen.
+
+Als het antwoord nee is -- je verkoopt producten of diensten waarbij de deal eindstation is -- dan maakt Monday CRM's projectfunctionaliteit minder uit.
+
+**Vraag 3: "Hoeveel mogen automatiseringen kosten per gebruiker?"**
+
+Bij HubSpot betaal je €90/gebruiker/maand voor serieuze workflows. Als je team van vijf €450/maand kan rechtvaardigen voor automatiseringen, is HubSpot een optie. Kan dat budget niet, dan is Monday CRM's Standard-plan voor €17/gebruiker het antwoord -- automatiseringen inclusief.
+
+Drie "nee's" op de eerste twee vragen en een krappe budget bij vraag drie? Dan is Monday CRM vrijwel zeker de juiste keuze voor jouw team.
+
 ## Lees ook
 
 - [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/) -- uitgebreide review met alle voor- en nadelen

@@ -240,3 +240,106 @@ Twinfield krijgt van mij een **6/10**. Niet slecht voor het specifieke segment w
 <a href="https://www.wolterskluwer.com/nl-nl/solutions/twinfield" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Twinfield →</a>
 
 Wil je meer opties vergelijken? Bekijk de vergelijkingsmatrix via de **[boekhoudsoftware categoriepagina](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je kosten met de **[boekhoudsoftware kostenberekening](/tools/boekhouding/kosten-berekenen/)**.
+
+---
+
+## Twinfield dieper: de functies die accountants echt gebruiken
+
+Na mijn bredere oordeel wil ik eerlijkheidshalve ook dieper ingaan op de functies die de reden zijn dat Twinfield al jaren zijn positie in de accountancymarkt houdt. Als je als accountant of als medewerker van een accountantskantoor overweegt om te switchen of door te gaan, zijn dit de functies die het verschil maken.
+
+### Multi-administratie: de kernfunctie
+
+Vanuit één Twinfield-omgeving beheer je tientallen, in sommige gevallen honderden klantadministraties. De meervoudige schermstructuur laat je eenvoudig switchen via een dropdown bovenin het scherm. Per administratie stel je eigen boekhouddossiers, rapportageperiodes en gebruikersrechten in.
+
+Wat accountants concreet waarderen:
+- **Batch-verwerking:** aangifte voor twintig klanten tegelijk voorbereiden gaat aanzienlijk sneller dan per klant inloggen en afzonderlijk werken
+- **Template-administraties:** je bouwt één modeladministratie voor een branchetype (bijv. horeca, retail, dienstverlening) en kopieert die als startpunt voor nieuwe klanten
+- **Gecentraliseerde documentopslag:** alle ingescande bonnen en facturen per klant in één omgeving, toegankelijk voor zowel de accountant als de klant via zijn eigen inloggegevens
+
+Het is specifiek deze multi-administratiefunctie die Twinfield op voorsprong houdt op Exact Online in de accountancysector. Exact Online doet het ook, maar de ervaren accountants die ik spreek, vinden Twinfield nog steeds vloeiender werken voor hoge volumes klantadministraties.
+
+### Periodeafsluiting en journaalposten
+
+De journaalpostmodule in Twinfield is krachtig voor handmatige boekingen en herinrichting van administraties. Je kunt:
+- Journaalposten handmatig invoeren met debet/credit-controle
+- Inkoopfacturen en verkoopfacturen verwerken via geavanceerde factuurverwerking
+- Memoriaalboekingen aanmaken voor uurlonen, afschrijvingen en correcties
+- Periodes sluiten per kwartaal of boekjaar met een formele afsluiting
+
+Voor accountants die klanten ondersteunen bij jaarafsluiting is de periodeafsluitingsfunctie werkbaar. De interface vraagt wat gewenning, maar professionals die Twinfield dagelijks gebruiken, werken er vlot mee.
+
+### Vaste activa en afschrijvingen
+
+Twinfield heeft een ingebouwde module voor vaste activa. Je registreert activa met aankoopprijs, gebruiksduur, afschrijvingsmethode en restwaarde. De afschrijvingen worden automatisch geboekt per periode. Bij verkoop van een activum berekent Twinfield automatisch de boekwinst of het boekverlies.
+
+Dit is een functie die bij Moneybird ontbreekt en bij Exact Online apart geconfigureerd moet worden. Voor bedrijven met materiële vaste activa (machines, voertuigen, inventaris) is dit een concreet voordeel.
+
+### Intercompany-boekingen
+
+Bij holdingstructuren en bedrijven met meerdere dochtermaatschappijen is intercompany-verkeer een dagelijkse realiteit: managementfees, leningen tussen entiteiten, gedeelde inkoopfacturen. Twinfield ondersteunt intercompany-boekingen waarbij een boeking in entiteit A automatisch een tegenboeking aanmaakt in entiteit B. Dit maakt de consolidatie aanzienlijk schoner.
+
+---
+
+## Twinfield voor de MKB-ondernemer: een eerlijker analyse
+
+Ik heb eerder al gezegd dat Twinfield niet voor MKB-ondernemers is gebouwd. Dat blijf ik zeggen. Maar er is een nuance die ik wil toevoegen, namelijk voor ondernemers die wél Twinfield overwegen vanwege hun accountant.
+
+### Situatie: je accountant werkt met Twinfield
+
+Als je huidige accountant Twinfield als primaire softwareomgeving gebruikt, heb je in de praktijk drie opties:
+
+**Optie 1: meegaan met Twinfield**
+Je vraagt je accountant om een login op zijn kantooromgeving. Je kunt facturen invoeren, bonnen inscannen en mutaties aanmaken. Het is functioneel, maar de interface vraagt een steile leercurve als je niet boekhoudkundig bent opgeleid.
+
+**Optie 2: een separate tool naast Twinfield**
+Je gebruikt Moneybird of Exact Online voor je dagelijkse administratie (facturen sturen, bonnen uploaden, bankafschriften importeren) en je accountant verwerkt de data in zijn Twinfield-omgeving. Dat vraagt een extra exportstap, maar je werkt in een omgeving die voor je gebouwd is als ondernemer.
+
+**Optie 3: van accountant wisselen**
+Als de software van je accountant een blokkade is voor je eigen werkwijze, is het ook een valide overweging om naar een accountant over te stappen die met Exact Online of een andere ondernemersvriendelijke tool werkt. Dat klinkt drastisch, maar ik zie het regelmatig in mijn adviespraktijk.
+
+Mijn aanbeveling: wil je zelf actief je boekhouding beheren en begrijpen, kies dan voor een tool die daarvoor gebouwd is. Dat is Twinfield niet.
+
+---
+
+## Twinfield pricing: nader bekeken
+
+Ik heb eerder de richtprijzen beschreven. Hier wil ik wat dieper ingaan op de prijsstructuur die je kunt verwachten bij directe aanschaf via een reseller.
+
+### Gebruikers en licentiesoorten
+
+Twinfield werkt met gebruikerslicenties per type:
+
+| Gebruikerstype | Wat het inhoudt |
+|---|---|
+| **Standaard gebruiker** | Volledige toegang tot de administratie, inclusief journaalposten |
+| **Inkoop gebruiker** | Facturen invoeren en goedkeuren, beperkte toegang |
+| **Lees-only gebruiker** | Inzage in rapporten en documenten, geen bewerkrechten |
+
+De prijs per gebruiker verschilt per type. Een doorsnee MKB-bedrijf heeft één standaard gebruiker (de financieel medewerker of ondernemer) en eventueel een inkoop-gebruiker voor een assistent. Dat houdt de gebruikerskosten beperkt.
+
+### Setup- en implementatiekosten
+
+Veel resellers rekenen een eenmalige implementatievergoeding voor de opzet van een nieuw Twinfield-dossier. Dat bedrag varieert van €300 tot €800 afhankelijk van de complexiteit (enkelvoudige versus meervoudige administratie, historische data importeren). Reken dit mee in je totale kostenvergelijking.
+
+### Aanpassen van je pakket
+
+Als je pakket wilt uitbreiden met extra modules (projectadministratie, kostplaatsen, vaste activa) betaal je per module een extra maandelijks bedrag. De precieze bedragen zijn afhankelijk van je reseller. Vraag bij het aanvragen van een offerte altijd naar de totaalprijs inclusief alle modules die je nodig hebt, niet alleen de basisprijs.
+
+---
+
+## Veelgestelde vragen (aanvulling)
+
+**Kan ik Twinfield koppelen aan mijn webshop of e-commerceplatform?**
+Niet direct via een native integratie. Via de REST API zijn maatwerkkoppelingen te bouwen, en er zijn derde-partij connectors voor platforms zoals WooCommerce en Shopify. Dat vraagt technische kennis of de hulp van een developer. Voor een MKB-ondernemer die een eenvoudige webshopkoppeling zoekt, is Exact Online of Moneybird praktischer: die hebben ingebouwde of kant-en-klare marketplace-integraties.
+
+**Is Twinfield geschikt voor internationale handelsactiviteiten?**
+Ja, beter dan veel concurrenten. Twinfield ondersteunt meerdere valuta, ICP-opgave, Intrastat, en rapportages in meerdere talen. Accountantskantoren die internationaal opererende klanten bedienen, noemen dit als een van de sterkste punten van het platform.
+
+**Hoe zit het met de beveiliging van mijn data in Twinfield?**
+Twinfield (Wolters Kluwer) slaat data op in Europese datacenters en heeft ISO 27001-certificering. Het platform voldoet aan de AVG/GDPR. Als je specifieke compliance-eisen hebt (bijv. financiële sector, zorg), vraag dan een gedetailleerd overzicht op bij je reseller.
+
+**Kan mijn accountant en ik tegelijk in Twinfield werken?**
+Ja, Twinfield is een cloud-systeem dat gelijktijdig gebruik door meerdere gebruikers ondersteunt. Je ziet elkaars boekingen real-time. Dat is een voordeel bij samenwerking rondom kwartaalafsluiting of BTW-aangifte.
+
+**Wat is het verschil tussen Twinfield en AFAS voor accountants?**
+AFAS heeft een breder pakket (HR, salarisadministratie, projectbeheer, CRM) maar is primair gericht op de bedrijfsadministratie van het bedrijf zelf, niet op het centraal beheren van meerdere klantadministraties. Twinfield is specifiek gebouwd als kantooromgeving voor accountants die meerdere klanten bedienen. Ze zijn geen directe concurrenten; veel kantoren gebruiken AFAS voor hun eigen administratie en Twinfield voor klantwerk.

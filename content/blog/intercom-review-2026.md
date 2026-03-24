@@ -314,6 +314,25 @@ Veel bedrijven schatten Fin-kosten laag in. Bij 1.000 opgeloste gesprekken per m
 **Fout 4: De Starter-transitie onderschatten**
 Bedrijven beginnen met Starter (2 seats) en moeten dan snel upgraden naar Essential (€87/seat). De prijssprong is groot. Plan je team-groei en zet het juiste plan vanaf het begin.
 
+## Intercom voor Nederlandse bedrijven: praktische overwegingen
+
+Intercom is een Amerikaans product en dat merk je op een aantal punten die relevant zijn voor Nederlandse gebruikers.
+
+**AVG-compliance en dataopslag**
+Intercom biedt EU-dataopslag en een Data Processing Agreement (DPA). Voor de meeste Nederlandse bedrijven is het gebruik van Intercom juridisch in orde. De dataopslag in de EU is een standaardoptie die je actief instelt bij account-aanmaak of via de privacy-instellingen. Controleer dit altijd bij een SaaS-tool die klantdata verwerkt.
+
+**Geen Nederlandstalige interface of support**
+Intercom is volledig Engelstalig. Dat is voor de doelgroep van Intercom -- tech-bedrijven en SaaS -- doorgaans geen probleem. Maar als je agenten niet comfortabel zijn met een Engelse interface, is dat een reëel adoptieobstakel. Trengo of Freshdesk zijn dan pragmatischer.
+
+**WhatsApp Business via Intercom**
+Intercom biedt WhatsApp-koppeling, maar het is een toegevoegde integratie, geen kernfunctie. De WhatsApp-ervaring in Intercom is functioneel -- berichten komen binnen in de inbox -- maar de uitgebreide WhatsApp Business functies (template management, bulkberichten, gedetailleerde flows) zijn minder uitgewerkt dan bij Trengo. Voor bedrijven waar WhatsApp het primaire klantcontactkanaal is, is Trengo beter.
+
+**Prijs in euro's**
+Intercom rekent in dollars maar heeft euro-facturering beschikbaar voor Europese klanten. De wisselkoers en eventuele BTW-behandeling variëren. Vraag bij aanmelding expliciet om euro-facturering als dat belangrijk is voor jouw administratie.
+
+**Integratie met Nederlandse tools**
+Intercom integreert niet native met typisch Nederlandse software als Exact Online, Moneybird of Teamleader. Je bent aangewezen op Zapier of de API. Voor Nederlandse webshops die Lightspeed of Bol.com gebruiken, zijn de integratiemogelijkheden via Intercom beperkter dan via Trengo.
+
 ## Mijn eindoordeel: 7/10
 
 Intercom is een uitstekend platform voor het juiste bedrijf. De AI-functionaliteit en proactieve communicatiemogelijkheden zijn klasse. Maar voor de meeste Nederlandse MKB-bedrijven is het te duur en te complex.

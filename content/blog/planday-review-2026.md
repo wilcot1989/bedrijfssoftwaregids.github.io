@@ -317,3 +317,137 @@ Planday heeft geen native koppeling met Nmbrs of AFAS. Wel is er een API waarmee
 
 **Wat is het verschil tussen Planday Starter en Plus?**
 Planday Starter biedt basisroostering, beschikbaarheidsbeheer en de medewerkers-app. Planday Plus voegt tijdregistratie, verlofbeheer, communicatietools, rapportages en integraties toe. Voor horecabedrijven is het Plus-plan vrijwel altijd noodzakelijk vanwege de tijdregistratie en communicatiefuncties.
+
+---
+
+## Planday in de horeca: concrete use cases
+
+### Restaurant met wekelijks wisselende diensten
+
+Bij een restaurant in Amsterdam met 28 medewerkers was de wekelijkse planningssessie de ergste klus van de bedrijfsleider. Elke week tien tot vijftien WhatsApp-berichten van medewerkers over beschikbaarheid, ruilverzoeken en vrije dagen. Na implementatie van Planday:
+
+- Medewerkers stellen hun beschikbaarheid in voor de komende vier weken via de app. De bedrijfsleider ziet dat vóórdat hij het rooster bouwt.
+- Ruilverzoeken gaan via de app: medewerker A plaatst zijn dienst als "te ruilen", collega's zien het en reageren. Bedrijfsleider keurt goed. WhatsApp is niet meer betrokken.
+- Open shifts voor last-minute bezetting worden gepubliceerd in de app. Beschikbare medewerkers kunnen zich aanmelden. Dat heeft de zoektocht naar vervanging bij ziekte teruggebracht van gemiddeld 45 minuten naar 10 minuten.
+
+De bedrijfsleider heeft me twee maanden later gemeld dat de wekelijkse planningsronde van gemiddeld 2,5 uur naar minder dan een uur is gegaan. Dat klinkt als een klein getal, maar over een jaar is dat meer dan 75 uur teruggewonnen tijd.
+
+### Hotel met meerdere afdelingen
+
+Hotels zijn een complexe planningsomgeving: receptie, housekeeping, keuken, bediening en evenementen hebben elk hun eigen functies, kwalificaties en roostersystematiek. Bij een middelgroot hotel met 45 medewerkers verdeeld over vier afdelingen bood Planday de volgende oplossing:
+
+Elke afdeling heeft een eigen bord in Planday, maar het management kan het totaaloverzicht zien via één dashboard. Diensten zijn getagd met functieomschrijving (receptionist, supervisor, kamermeisje) zodat het systeem automatisch controleert of de roostercombinatie logisch is. Nieuwe medewerkers ontvangen bij indiensttreding direct een uitnodiging voor de app — onboarding naar het plansysteem duurt vijf minuten.
+
+Wat dit hotel specifiek waardeerde: de Announcements-functie. Bij bijzondere evenementen of klantenweken stuurt de manager een officieel bericht aan alle betrokken medewerkers via de app, met een leesontvangstbevestiging. Ze hoefden niet meer te controleren of iedereen het had gelezen via WhatsApp-vinkjes.
+
+### Evenementenbedrijf met flexibele bezetting
+
+Evenementenbedrijven zijn een interessant geval: groot deel van de medewerkers werkt slechts bij bepaalde events en zijn de rest van de tijd elders of beschikbaar op oproep. Het Open Shifts-systeem van Planday is hier ideaal voor. De planner publiceert een event-dienst als open shift met datum, tijd en functiebeschrijving. Medewerkers die beschikbaar zijn melden zich aan. De planner kiest wie de dienst krijgt.
+
+Bij een bedrijf dat culinaire events organiseert, heeft dit geleid tot een vrijwel volledig zelforganiserend systeem voor niet-vaste medewerkers. De planner hoeft alleen te beslissen wie hij kiest, niet meer te bellen of appen wie er beschikbaar is.
+
+---
+
+## Rapportages en inzichten in Planday
+
+Planday biedt rapportages op het Plus-plan die voor de meeste horecabedrijven voldoende zijn:
+
+### Aanwezigheidsrapportage
+
+Per medewerker en per periode een overzicht van:
+- Geplande diensten versus werkelijk gewerkte uren
+- Te late of te vroege in- en uitklokken
+- Niet gewerkte diensten met reden
+
+Dit is de rapportage die ik het meest gebruik als ik een klant help om discussies over uren en salaris op te lossen. In de horeca zijn er regelmatig vragen over "ik dacht dat ik meer had gewerkt" — met de Planday-rapportage is dat objectief na te kijken.
+
+### Kostenrapportage
+
+Planday kan arbeidskosten koppelen aan functies en uurlonen. Dat geeft je een overzicht van de loonkosten per dienst, afdeling en periode. Het is geen volwaardig HR-kostensysteem, maar het geeft de horecaondernemer inzicht in de arbeidskosten per dag of week — bruikbaar voor budgetbewaking en personeelsbeslissingen.
+
+### Verlofoverzicht
+
+Wie heeft hoeveel verlof opgenomen, wat staat er nog open, en welke periodes zijn druk bezet? De verlofmodule in het Plus-plan geeft een overzicht per medewerker en per team. Ideaal voor de zomerplanning in de horeca, wanneer je wilt voorkomen dat te veel medewerkers tegelijk op vakantie zijn.
+
+---
+
+## Planday implementeren: mijn aanpak voor de horeca
+
+Na meerdere Planday-implementaties in de horeca gebruik ik dit stappenplan:
+
+**Dag 1: basisinrichting**
+- Afdelingen aanmaken (bijv. keuken, bediening, bar, management)
+- Functies per afdeling definiëren (chef-kok, sous-chef, bedieningsmedewerker)
+- Locatie(s) instellen
+- Alle medewerkers importeren via CSV (naam, e-mailadres, functie, afdeling)
+
+**Dag 2: medewerkers activeren**
+- Uitnodigingsemails versturen vanuit Planday
+- Korte instructie sturen: "Download de app, stel je beschikbaarheid in voor de komende vier weken"
+- Kiosk instellen op tablet als alternatief voor medewerkers zonder smartphone
+- Eerste inkloktest uitvoeren
+
+**Dag 3-4: eerste rooster bouwen**
+- Sjabloonrooster bouwen voor een standaardweek
+- Diensten aanmaken per afdeling en per dag
+- Open shifts publiceren voor variabele diensten
+- Rooster publiceren en team informeren via Announcements
+
+**Week 2: live**
+- Eerste week medewerkers laten inklokken via app
+- Ruilverzoeken laten verlopen via Planday (niet meer via WhatsApp)
+- Eerste tijdregistratierapportage bekijken
+- Vragen van medewerkers beantwoorden
+
+**Week 3-4: optimaliseren**
+- Verlofregels instellen
+- Shift Notes toevoegen aan terugkerende diensten
+- Eerste maandafsluiting — uren exporteren naar loonverwerking
+
+De meeste horecabedrijven zijn na twee weken volledig operationeel. De adoptiegraad bij medewerkers is hoog zolang je de app goed introduceert: een korte uitleg van twee minuten bij de briefing is genoeg.
+
+---
+
+## Planday Pro: wat zit er in?
+
+Het Pro-plan is beschikbaar op aanvraag voor grotere organisaties. De functies die je extra krijgt ten opzichte van Plus:
+
+- **Geavanceerde rapportages** met exportmogelijkheden naar BI-tools
+- **Custom contracten** per medewerker met specifieke regelsets
+- **Dedicated onboarding-begeleiding** door een Planday-consultant
+- **SLA-garanties** voor uptime en supportresponstijd
+
+Voor de meeste MKB-horecabedrijven is het Plus-plan voldoende. Het Pro-plan is relevant voor ketens met meerdere locaties (10+) of grote hotels met complexe planningslogica.
+
+---
+
+## Planday vs. WhatsApp: het echte vergelijkingspunt
+
+Ik schrijf dit sectie bewust, want de concurrentie voor Planday is in de praktijk niet Shiftbase of Dyflexis — het is een WhatsApp-groep gecombineerd met een Excel-rooster. Dat is waar de meeste horecabedrijven vandaan komen. Hier is het eerlijke vergelijkingspunt:
+
+| Aspect | WhatsApp + Excel | Planday Plus |
+|---|---|---|
+| Rooster doorgeven aan team | WhatsApp-foto of PDF sturen | App-notificatie, altijd up-to-date |
+| Ruilverzoek verwerken | Handmatig in Excel + groepsapp | Via app, manager keurt goed, rooster past automatisch aan |
+| Beschikbaarheid verzamelen | Losse berichten verzamelen | Medewerkers stellen zelf in, overzicht in dashboard |
+| Inklokken registreren | Kladblok of vergeten | App of kiosk, automatisch vastgelegd |
+| Uren exporteren naar loonadmin | Handmatig overtellen of typen | Export naar CSV, of handmatig via salarissoftware |
+| Kosten | €0 (maar tijdkosten zijn hoog) | €50-175/mnd (Plus, 20-35 medewerkers) |
+
+De vraag is niet of Planday beter is dan Shiftbase. De vraag is of Planday beter is dan de chaos die er nu is. Voor vrijwel elke horecaondernemer met tien of meer medewerkers is het antwoord ja.
+
+---
+
+## Veelgestelde vragen (aanvulling)
+
+**Hoe lang duurt een Planday-implementatie?**
+Voor een horecabedrijf met 15-40 medewerkers reken ik op twee weken van eerste inrichting tot volledig operationeel. De eerste week is inrichting en medewerkers activeren. De tweede week is het eerste echte rooster en de eerste inklokregistraties. Dat is sneller dan Shiftbase bij complexe Nederlandse salarisintegraties, simpelweg omdat die integratiestap bij Planday ontbreekt.
+
+**Kan ik Planday gebruiken voor een restaurant met meerdere locaties?**
+Ja, Planday ondersteunt meerdere locaties. Je beheert elke locatie apart, maar kunt medewerkers ook over locaties heen inplannen. Het dashboard geeft je een totaaloverzicht over alle locaties. Bij ketens met vijf of meer locaties raad ik het Pro-plan aan voor de uitgebreide rapportages per locatie.
+
+**Is Planday geschikt voor seizoensbedrijven?**
+Ja. Je kunt medewerkers deactiveren buiten het seizoen en heractiveren aan het begin van het nieuwe seizoen. Hun data en geschiedenis blijft bewaard. De kosten dalen ook: je betaalt per actieve gebruiker, dus een gedeactiveerde medewerker kost niets.
+
+**Hoe werkt de 30-daagse gratis proefperiode?**
+Je registreert je zonder creditcard. Je krijgt toegang tot het Plus-plan gedurende 30 dagen. Ik raad aan om in die 30 dagen minimaal één volledig rooster te bouwen, medewerkers te activeren en de app te laten gebruiken. Dat geeft een realistisch beeld van hoe Planday in de dagelijkse praktijk werkt.

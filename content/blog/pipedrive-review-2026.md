@@ -276,3 +276,87 @@ Wat je niet moet verwachten: een marketingplatform, uitgebreide projectopvolging
 Bekijk ook het volledige overzicht van de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/), gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) als je twijfelt welk pakket bij jou past, of bereken de exacte kosten via de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/).
 
 *Prijzen gecontroleerd op 14 maart 2026. Pipedrive past tarieven periodiek aan -- controleer altijd de actuele prijzen op pipedrive.com/pricing.*
+
+---
+
+## Pipedrive dieper: functies die het verschil maken in de praktijk
+
+### Aangepaste velden en custom pipelines
+
+Pipedrive laat je vrijwel alles aanpassen aan je eigen verkoopproces. Custom velden zijn beschikbaar op alle plannen en kun je toevoegen aan Deals, Contacten en Organisaties. Dat klinkt technisch, maar het betekent concreet dat je Pipedrive kunt inrichten voor jouw branche zonder compromissen te sluiten.
+
+Praktijkvoorbeelden van custom velden die ik bij klanten gebruik:
+- **IT-dienstverlener:** "Technisch platform" (dropdown: Microsoft 365, Google Workspace, AWS), "Contractlooptijd" (nummer), "Licentieverlenging per" (datum)
+- **Makelaardij:** "Type object" (dropdown), "Vraagprijs" (valuta), "Bezichtigingsdatum" (datum)
+- **Consultancy:** "Geschatte projectomvang" (valuta), "Referral van" (tekst), "Decision maker aanwezig" (ja/nee)
+
+Custom pipelines zijn even krachtig. Je maakt per productlijn of markt een aparte pipeline met eigen fases. Een softwarebedrijf dat zowel licenties als implementatieprojecten verkoopt, kan die twee trajecten in aparte pipelines beheren zonder dat ze door elkaar lopen.
+
+### Meeting Scheduler
+
+Vanaf het Advanced-plan zit de Meeting Scheduler inbegrepen. Dit is een functie die ik onderschat had tot een klant erop wees dat hij met Calendly €180 per jaar uitspaarde door over te stappen op Pipedrive Advanced.
+
+De Meeting Scheduler werkt als volgt: je koppelt je Google- of Outlook-agenda, stelt beschikbaarheidsblokken in, en Pipedrive genereert een link die je naar prospects stuurt. Ze kiezen een tijdstip, en de afspraak wordt automatisch in beide agenda's gezet en als activiteit in de deal gelogd. Geen heen-en-weer e-mailen over wanneer iemand kan.
+
+Eén verschil met Calendly: de Pipedrive-scheduler zit ingebakken in de CRM-workflow. Een nieuw contact dat een afspraak boekt, wordt automatisch aangemaakt als lead in je pipeline. Dat scheelt handmatig werk.
+
+### Revenue Forecasting (Professional+)
+
+Revenue forecasting is beschikbaar vanaf het Professional-plan. Je stelt per pipelinefase een winstkanspercentage in (bijv. "Demo gegeven" = 40%, "Offerte uitgebracht" = 70%). Pipedrive berekent je gewogen pijplijn automatisch en toont een maandelijks omzetprognose.
+
+Ik gebruik dit bij klanten om de verkoopvergadering te stroomlijnen. In tien minuten gaan we door de forecast: welke deals gaan dit kwartaal gewonnen worden, welke staan stil, waar heeft de manager hulp nodig. Dat is een gesprek dat vroeger een uur kostte en nu op basis van data wordt gevoerd.
+
+Eerlijkheidhalve: voor echt geavanceerde forecasting (meerdere scenario's, bottoms-up en tops-down gecombineerd, integratie met financiële systemen) kom je bij Pipedrive tekort. Salesforce of HubSpot Enterprise bieden meer. Maar voor het MKB is Pipedrive's aanpak ruimschoots voldoende.
+
+### Smart Docs en e-signing
+
+Smart Docs is beschikbaar als add-on (€32,50/bedrijf/mnd) of inbegrepen bij het Professional-plan. Je maakt offertes en contracten aan direct vanuit Pipedrive, gevuld met deal- en contactdata via merge-velden. De ontvanger tekent digitaal in de browser.
+
+Bij klanten in consultancy en IT-dienstverlening heeft dit de doorlooptijd tussen "offerte verstuurd" en "deal gewonnen" aanzienlijk verkort. Een klant die een offerte ontvangt en direct kan tekenen, doet dat sneller dan een klant die een Word-document moet uitprinten, tekenen en inscannen.
+
+---
+
+## Pipedrive implementeren: mijn bewezen aanpak
+
+Na tientallen implementaties heb ik een vaste aanpak die teams binnen een week productief maakt.
+
+**Dag 1: de fundering**
+
+Start met het opzetten van de pipelines. Maak maximaal twee of drie pipelines aan — teams die te veel pipelines aanmaken in week 1, raken het overzicht kwijt. Stel de fases in die aansluiten bij hoe jullie echt verkopen, niet bij hoe het in een salesboek staat. Voeg de vijf custom velden toe die je het vaakst nodig hebt. Importeer bestaande contacts en deals via CSV.
+
+**Dag 2: integraties**
+
+Koppel Gmail of Outlook per gebruiker — dit is de integratie die het meeste dagelijkse tijdwinst oplevert. E-mails worden voortaan automatisch gelogd bij de juiste deal. Stel de Pipedrive-extensie in Chrome in, zodat je vanuit Gmail direct deals en contacts kunt aanmaken. Koppel Slack voor dealnotificaties als je team dat gebruikt.
+
+**Dag 3: automatiseringen**
+
+Bouw je eerste drie automatiseringen. Ik gebruik altijd dezelfde startset:
+1. "Wanneer deal naar fase X schuift → maak follow-up taak aan voor de dealhouder"
+2. "Wanneer deal 7 dagen niet is bijgewerkt → stuur herinnering naar dealhouder"
+3. "Wanneer deal gewonnen → stuur notificatie naar Slack-kanaal #sales-wins"
+
+Die drie automatiseringen alleen al besparen een gemiddeld team twee tot drie uur per week.
+
+**Dag 4: rapportages instellen**
+
+Maak een standaard rapport per vertegenwoordiger (activiteiten per week, deals per fase, gewonnen deals per maand) en één teamoverzicht voor de manager. Sla ze op als favorieten. Zo hoeft niemand elk keer handmatig een rapport samen te stellen.
+
+**Dag 5: training team**
+
+Een halve dag is genoeg voor teams tot 10 personen. De interface is zo intuïtief dat uitgebreide training contraproductief werkt — mensen willen zelf verkennen. Ik beperk training tot drie onderdelen: deals aanmaken en beheren, activiteiten plannen en loggen, en e-mail sturen vanuit Pipedrive. De rest ontdekken ze zelf.
+
+---
+
+## Veelgestelde vragen (aanvulling)
+
+**Kan ik Pipedrive gebruiken voor accountmanagement naast acquisitie?**
+Ja, Pipedrive werkt goed voor zowel new business als accountmanagement. Je maakt een aparte pipeline aan voor bestaande klanten (bijv. fases: "Actief account", "Upsell-kans geïdentificeerd", "Renewal in zicht", "Renewal gewonnen"). Met de rotting-functie stel je in dat accounts die langer dan 90 dagen niet zijn aangeraakt, automatisch een signaal geven.
+
+**Hoe werkt Pipedrive bij seizoensbedrijven met wisselende salesdruk?**
+Je kunt het aantal gebruikers per maand aanpassen (jaarcontract biedt dit beperkt; maandcontract biedt meer flexibiliteit). Een alternatief is om vaste gebruikers aan te houden maar seizoensmedewerkers als "lees-only" toe te voegen. Pipedrive rekent dan geen volledig seat-tarief. Vraag dit na bij de klantenservice — de mogelijkheden zijn per contractvorm verschillend.
+
+**Zijn er branche-specifieke templates beschikbaar?**
+Ja, Pipedrive biedt bij het aanmaken van een nieuwe pipeline branche-specifieke templaten voor onder andere: consultancy, vastgoed, IT-dienstverlening, verzekeringen en recruitment. Die templaten geven je een goed startpunt voor fases en activiteitentypen. Je past ze daarna aan op je eigen werkwijze.
+
+**Hoe verhoudt Pipedrive zich tot Salesforce voor een team van 15 personen?**
+Salesforce biedt meer mogelijkheden voor complexe rapportages, maatwerkprocessen en enterprise-integraties. Maar de implementatietijd is aanzienlijk langer (weken tot maanden tegenover dagen bij Pipedrive) en de licentiekosten zijn hoger. Voor een team van 15 personen in het MKB is Pipedrive in bijna alle gevallen de betere keuze. De enige situatie waarin ik voor een team van 15 toch Salesforce aanbeveel: als ze al Salesforce-ervaring hebben in het team of als ze direct moeten integreren met een groot Salesforce-ecosysteem (bijv. een corporatieve opdrachtgever die Salesforce verplicht).

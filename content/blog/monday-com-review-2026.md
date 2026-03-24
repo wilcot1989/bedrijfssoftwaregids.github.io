@@ -334,3 +334,96 @@ Sterke projectmanagement tool met de beste interface in zijn klasse. De prijs en
 - [Pipedrive vs Monday CRM 2026](/blog/pipedrive-vs-monday-crm-2026/) -- welk CRM past beter bij jouw salesteam?
 
 Wil je monday.com vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/projectmanagement/)**, gebruik de **[keuzehulp](/tools/projectmanagement/keuzehulp/)** of bereken je **[projectmanagement kosten](/tools/projectmanagement/kosten-berekenen/)**.
+
+---
+
+## Monday.com dieper: functies die de meeste reviews overslaan
+
+### Subitems: projecten in projecten
+
+Subitems zijn een functie die Monday.com in 2022 heeft uitgebreid en die veel teams onderschatten bij de eerste kennismaking. Een subitem is een taak onder een taak — vergelijkbaar met subtaken in Asana of ClickUp, maar iets anders geïmplementeerd.
+
+Wat je ermee doet:
+- Een hoofdtaak "Website redesign" heeft subitems voor "Wireframes", "Copywriting", "Development", "Review"
+- Elk subitem heeft zijn eigen verantwoordelijke, deadline en status
+- De hoofdtaak toont automatisch de voortgang op basis van de subitems
+
+Wat ik in de praktijk zie: teams die subitems goed gebruiken, reduceren het aantal borden aanzienlijk. In plaats van elk klein project een eigen bord te geven, beheren ze alles in een paar hoofd-borden met subitems. Dat houdt het overzicht beter.
+
+De beperking: subitems ondersteunen niet alle kolomtypen die het hoofditem wel heeft. Formules die berekeningen doen op subitems zijn ook lastiger te configureren dan je zou verwachten. Als je complexe hiërarchieën nodig hebt (taak > subtaak > sub-subtaak), kom je bij Monday.com tekort — ClickUp gaat daar verder.
+
+### Docs en kennisbank
+
+Monday.com heeft een ingebouwde documentenmodule (Monday Docs) die je kunt gebruiken voor projectdocumentatie, meeting-notities, kennisbanken en handleidingen. De editor is vergelijkbaar met Notion: blokken, kopteksten, afbeeldingen, tabellen, en ingesloten items van borden.
+
+De integratie met borden is waardevol: je kunt een Doc direct vanuit een board-item openen, zo dat projectdocumentatie altijd bij de juiste context zit. Ik gebruik dit bij klanten voor:
+- Projectbriefings die aan de projectitems zijn gekoppeld
+- Interne SOP's (standaardprocedures) per afdeling
+- Wekelijkse vergadernotities die direct aan het projectbord hangen
+
+Eerlijk nadeel: Monday Docs is functioneel maar niet zo diepgaand als Notion. Als je primair een kennisbank wil bouwen, is Notion de betere keuze. Als je Docs als aanvulling op je projectborden gebruikt, voldoet het prima.
+
+### Workload-weergave: capaciteitsplanning in de praktijk
+
+De Workload-weergave (beschikbaar vanaf Pro) is een van de functies die ik het vaakst aanwijs als verborgen gem. Het laat zien hoeveel werk elke teamleden heeft, uitgedrukt in uren, story points of een andere eenheid die jij kiest.
+
+Concreet gebruik bij een klant: een marketingteam van acht met overlappende campagnedrukte in Q4. De teamleider opende de Workload-weergave en zag in één oogopslag dat drie medewerkers in de komende twee weken overbelast waren en twee juist onderbezet. Hij herverdeel taken in vijf minuten op basis van dat overzicht, iets wat hij vroeger alleen wist door individuele gesprekken te voeren.
+
+Beperking: de Workload-weergave werkt goed als je consequent tijdschattingen en capaciteiten per teamlid invult. Als dat niet consistent wordt bijgehouden — wat bij drukke teams snel gebeurt — verlies je de betrouwbaarheid van het overzicht.
+
+---
+
+## Monday.com voor specifieke teams: wat werkt en wat niet
+
+### Marketing en contentteams
+
+Dit is de sweet spot van Monday.com. Marketingteams waardeer ik het concept van een "campagnebord" dat alle gerelateerde taken, assets en deadlines bundelt. De kleurcodering per campagne maakt het rooster van de afdeling direct visueel: groen = loopt goed, rood = achter op schema.
+
+Templates die direct bruikbaar zijn bij marketing:
+- **Content Calendar**: taken per contenttype (blogpost, social media, nieuwsbrief) met publicatiedatum en verantwoordelijke
+- **Campaign Tracker**: budget, resultaten en taken per campagne
+- **Social Media Publishing**: planning per platform met goedkeuringsworkflow
+
+Wat ik mis: directe publicatiefunctionaliteit. Monday.com is geen social media scheduler. Voor het daadwerkelijk publiceren heb je een tool als Buffer of Hootsuite nodig. Via Zapier koppel je beide, maar het is een extra stap.
+
+### Dienstverlenende bedrijven (consultancy, bureau)
+
+Voor consultancybedrijven en bureaus is Monday.com sterk in projectopvolging per klant. Elke klant krijgt een eigen bord of een groep binnen een gedeeld bord. Statusupdates zijn zichtbaar voor het hele team. Tijdregistratie (Pro-plan) laat zien hoeveel uren per project zijn besteed, wat factuurcontrole vergemakkelijkt.
+
+Wat ik bij bureaus als veelgemaakte fout zie: elk project als een apart bord behandelen. Na een jaar heb je 80 borden en geen structuur. Mijn aanpak: één bord per klant, met groepen per projectfase of opdrachttype. Dat houdt het aantal borden behapbaar.
+
+### HR en onboarding
+
+Monday.com wordt steeds vaker gebruikt voor HR-processen, met name onboarding van nieuwe medewerkers. Een onboarding-bord bevat alle taken die uitgevoerd moeten worden vóór en op de eerste werkdag van een nieuwe medewerker: IT-toegang regelen, contractsturen, bureau inrichten, introductiegesprekken plannen.
+
+Bij een klant met frequent wisselende projectteamleden hebben we een onboarding-template gebouwd dat bij elk nieuw project wordt gekopieerd. De teamleider vult alleen de naam van de nieuwe medewerker in en al het andere — notificaties, taken, deadlines — wordt automatisch ingesteld via automatiseringen. Dat bespaart elke onboarding anderhalf uur handmatig werk.
+
+---
+
+## Monday.com kopen: hoe onderhandel je over de prijs?
+
+Dit is een tip die ik niet overal zie, maar die in de praktijk werkt. Monday.com hanteert, net als veel SaaS-bedrijven, onderhandelingsruimte bij jaarabonnementen voor teams van 10+ personen.
+
+**Wat werkt:**
+- Vraag via de chat of telefoon naar een demo bij een accountmanager. Leg duidelijk je teamomvang en budget uit.
+- Vergelijk expliciet met ClickUp of Asana — noem de prijs van de concurrent. Monday.com-verkopers hebben targets en zijn gemotiveerd om je binnen te halen.
+- Vraag naar "promotional pricing" voor het eerste jaar. Kortingen van 20-30% zijn niet ongebruikelijk als je 10+ seats afneemt.
+- Overweeg een jaarabonnement te betalen voor 12 maanden vooruit — dat geeft je extra onderhandelingsruimte.
+
+Wat niet werkt: wachten op een spontane korting via e-mail. Die komen zelden. De kortingen zitten bij de verkopers, niet in het marketing-systeem.
+
+---
+
+## Veelgestelde vragen (aanvulling)
+
+**Kan ik Monday.com gebruiken voor tijdregistratie en facturering?**
+Tijdregistratie is beschikbaar op het Pro-plan via de tijdkolom. Je klikt op "start" bij een taak en Monday.com registreert de tijd. De geregistreerde uren kun je exporteren naar Excel of koppelen aan factureringstools via Zapier. Native facturering zit niet in Monday.com — daarvoor heb je een externe tool nodig (bijv. Exact Online of Moneybird). De koppeling tussen Monday.com-uren en een factuur is handmatig of via automatisering.
+
+**Hoe werkt gasten-toegang in Monday.com?**
+Op het Pro- en Enterprise-plan kun je externe gasten uitnodigen voor specifieke borden. Gasten hebben beperkte rechten: ze kunnen items bekijken en bijwerken op de borden waartoe ze toegang hebben, maar niet de rest van je werkruimte zien. Dit is handig voor klanten, freelancers of andere externe partijen die op de hoogte gehouden moeten worden van projectvoortgang zonder toegang tot interne borden.
+
+**Is Monday.com geschikt als ticketsysteem voor klantenservice?**
+Beperkt. Je kunt een eenvoudig ticketsysteem bouwen met formulieren (klant dient verzoek in via webformulier, dat automatisch een item aanmaakt op een servicebord). Voor teams die tientallen tickets per dag verwerken, is een dedicated helpdesktool (zoals Freshdesk of Intercom) beter. Voor teams met beperkt klantenservicevolume die alles in Monday.com willen houden, werkt het redelijk.
+
+**Wat zijn de privacyinstellingen per bord?**
+Elk bord in Monday.com heeft drie zichtbaarheidsinstellingen: openbaar (iedereen in de werkruimte ziet het), gedeeld (alleen uitgenodigde teamleden) en privé (alleen jij en degenen die je expliciet toevoegt). Dit maakt het mogelijk om gevoelige informatie (bijv. salarisdata, managementbesluiten) af te schermen voor de rest van het team terwijl je andere borden open houdt. Op het Enterprise-plan zijn de rechtenmogelijkheden uitgebreider met rolgebaseerde toegangscontrole.

@@ -237,6 +237,40 @@ Voor een uitgebreid vergelijking, lees ook mijn artikel over [Salesforce vs HubS
 
 Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) als je niet zeker weet welk platform het beste bij jouw situatie past.
 
+## Salesforce implementatie: wat gaat er in de praktijk mis?
+
+Na vier trajecten zie ik steeds dezelfde valkuilen. Als je toch Salesforce implementeert, voorkom dan deze fouten:
+
+### 1. Starten zonder een Salesforce-beheerder
+
+De meest kostbare fout die ik heb gezien: een bedrijf van 30 medewerkers dat Salesforce inkoopt zonder iemand intern aan te wijzen als beheerder. Na drie maanden is het systeem een jungletuin: dubbele velden, inconsistente pipelinefases, rapportages die niemand meer begrijpt. Een Salesforce Admin certificering kost je medewerker twee tot drie maanden studie, maar het is de investering waard. Zonder een beheerder groeit de technische schuld snel.
+
+### 2. Te veel customiseren in de eerste drie maanden
+
+Salesforce is bijna onbeperkt aanpasbaar. Dat verleidelijk is. Wat ik keer op keer zie: in de eerste maanden worden tientallen custom fields aangemaakt, custom objects gebouwd en complexe workflows geconfigureerd. Het systeem loopt vast op zijn eigen complexiteit voordat het team de basics beheerst. Mijn advies: gebruik de eerste drie maanden de standaardfunctionaliteit en pas daarna aan op basis van echte knelpunten, niet op basis van wat theoretisch handig lijkt.
+
+### 3. De contractvoorwaarden niet uitpluizen
+
+Salesforce hanteert automatisch verlengbare jaarcontracten. De opzegtermijn staat in de bijlagen van het contract -- niet op de saleswebsite. Klanten die hun contract een week te laat opzeggen, betalen een extra jaar. Dit is de meest genoemde klacht op Trustpilot en ik heb het zelf bij klanten meegemaakt. Lees de contractvoorwaarden vóór je tekent, niet erna.
+
+### 4. Rapportages niet configureren op dag 1
+
+De rapportagemodule is Salesforce's sterkste punt, maar ook de functie die het langst onbenut blijft. Ik adviseer klanten om in week 1 drie kerndashboards in te richten: pipeline-overzicht voor het salesteam, forecast voor het management en activiteiten-overzicht per vertegenwoordiger. Die dashboards structureren het gebruik van het systeem en maken de waarde van Salesforce direct zichtbaar.
+
+### 5. De Einstein AI te vroeg activeren
+
+Einstein AI heeft data nodig om goed te werken. Een bedrijf dat Salesforce net implementeert en meteen Einstein lead scoring activeert, ziet AI-aanbevelingen die nergens op slaan. Einstein begint pas waarde te leveren na zes tot twaalf maanden kwalitatieve data. Activeer het pas dan.
+
+## Salesforce in gereguleerde sectoren: een ander verhaal
+
+Voor bedrijven in financiële dienstverlening, zorg of de juridische sector gelden andere overwegingen. Salesforce biedt gecertificeerde oplossingen voor sectoren met strenge compliancevereisten:
+
+- **Financiële dienstverlening**: Salesforce Financial Services Cloud met MiFID II-compatibele audittrails en klantdossiers
+- **Zorg**: Health Cloud met AVG/GDPR-compliance en koppelingsmogelijkheden met EPD-systemen
+- **Overheid en publieke sector**: Government Cloud met verhoogde beveiligingscertificeringen
+
+In deze sectoren is de complexiteit en prijs van Salesforce vaak juist te rechtvaardigen -- de alternatieven bieden niet dezelfde diepgang op compliancefuncties. Een zorginstelling of vermogensbeheerder die Salesforce overweegt, weegt de kosten anders dan een regulier MKB-bedrijf.
+
 ## Mijn eindoordeel
 
 Salesforce verdient zijn reputatie als het krachtigste CRM-platform ter wereld -- voor de doelgroep waarvoor het gebouwd is. Die doelgroep is niet het gemiddelde Nederlandse MKB-bedrijf.

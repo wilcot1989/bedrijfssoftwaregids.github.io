@@ -485,6 +485,24 @@ Benieuwd hoe Lightspeed zich verhoudt tot andere horecakassa's? Lees dan mijn [L
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)**, bereken je **[kassasysteem kosten](/tools/kassasystemen/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.
 
+## Praktische tip: zo reken je het omslagpunt uit voor jouw zaak
+
+De rekenvoorbeelden in dit artikel gaan uit van gemiddelde transactiekosten en een standaard abonnement. Jouw situatie kan afwijken. Hier is een simpele formule om het omslagpunt voor jouw zaak te berekenen:
+
+**Omslagpunt (maandelijks) = abonnement Lightspeed ÷ (transactiepercentage Square - transactiepercentage Lightspeed)**
+
+Concreet, met Lightspeed Basic Retail (€59/mnd), Square op 1,75% en Lightspeed via extern pinapparaat op 0,8%:
+
+Omslagpunt = €59 ÷ (1,75% - 0,80%) = €59 ÷ 0,95% = **circa €6.200 maandomzet**
+
+Boven de €6.200 maandomzet betaal je bij Lightspeed minder dan bij Square. Gebruik je het Core-plan (€89/mnd), dan schuift het omslagpunt naar circa €9.400.
+
+Twee extra factoren die dit berekening beïnvloeden:
+
+1. **Gemiddeld transactiebedrag** — Bij veel kleine transacties (koffiezaak, snackbar) kost iDEAL relatief meer per euro omzet dan bij grotere aankopen (kledingwinkel). Square accepteert geen iDEAL, dus bij een koffiezaak met voornamelijk pinbetalingen speelt dit minder. Bij een kledingwinkel waar klanten geregeld online bestellen of webtransacties doen, is het iDEAL-gemis van Square een serieus bezwaar.
+
+2. **Hardware-afschrijving** — Reken je de hardware-investering mee in de kosten? Een volledige Lightspeed-setup (iPad, bonprinter, kassalade, pinapparaat) kost €1.200-€2.500. Afgeschreven over drie jaar is dat €33-€70 per maand extra. Pas je omslagpuntberekening daarop aan als je Square's hardware als startinvestering vergelijkt.
+
 ## Lees ook
 
 - [Lightspeed Kassa Review 2026: Getest](/blog/lightspeed-kassa-review-2026/)

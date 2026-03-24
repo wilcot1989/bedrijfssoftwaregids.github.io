@@ -223,6 +223,40 @@ Technisch kan het. Er bestaan zelfs koppelingen (via Combidesk en anderen) die f
 
 Reken op minimaal een week voor de basis als je geen boekhoudervaring hebt. Met een achtergrond in boekhouding of ervaring met vergelijkbare software kom je er in twee tot drie dagen. Moneybird daarentegen heeft een leercurve van hooguit een paar uur.
 
+## Dieper in de dagelijkse praktijk: hoe werkt elk pakket echt?
+
+### Moneybird: een dag uit het leven
+
+Een van mijn klanten, een zelfstandig tekstschrijver, werkt al drie jaar met Moneybird. Ik vroeg haar om haar maandelijkse routine te beschrijven.
+
+Elke week neemt ze tien minuten om binnenkomende betalingen te controleren via de bankkoppeling. Moneybird heeft de transacties al herkend en de meeste juist gecategoriseerd. Ze klikt door de lijst, bevestigt de voorgestelde categorieën en is klaar. Bonnetjes voor de printer en koffie fotografeert ze met de app en stuurt ze onmiddellijk door. De BTW-aangifte aan het einde van het kwartaal is een kwestie van drie klikken: controleren, bevestigen, indienen. Ze besteedt in totaal minder dan dertig minuten per maand aan haar administratie.
+
+Dat is Moneybird op zijn best. En het werkt zo voor de meeste ZZP'ers met een overzichtelijke administratie.
+
+Waar ze wél tegenaan liep: ze wil haar uuromzet per type opdracht bijhouden voor haar eigen inzicht. Moneybird biedt dat niet native. Ze is overgestapt naar een aparte spreadsheet voor dat deel — suboptimaal, maar ze vindt de combinatie goedkoper en simpeler dan overstappen naar Exact.
+
+### Exact Online: een dag bij een MKB-bedrijf
+
+Een bouwadviesbedrijf in Utrecht, tien medewerkers, draait op Exact Online Professional. De office manager vertelde me hoe haar dag eruitziet.
+
+Ze begint de dag in Exact met een overzicht van openstaande facturen. Twee herinneringen worden direct verstuurd. Dan controleert ze de inkoopfacturen die zijn binnengekomen via de automatische factuurscan — Exact leest PDF's en stelt boekingen voor. Ze goedkeurt drie, corrigeert één en stuurt één terug naar de leverancier voor een creditnota.
+
+Twee keer per week runt ze een cashflow-rapportage om te zien of de rekeningen de komende 30 dagen kloppen. Aan het einde van de maand exporteert ze de projectwinstgevendheid per opdracht naar de directie — iets wat Exact standaard biedt in de projectmodule.
+
+Wat haar frustreert: als Exact trager is dan verwacht. Aan het einde van de maand, als iedereen rapportages ophaalt, zijn sommige schermen merkbaar trager te laden. Ze heeft er een gewoonte van gemaakt dat werk in de ochtend vroeg te doen.
+
+Dat zijn de eerlijke observaties van dagelijkse Exact-gebruikers. Geen marketingpraatje, maar het echte gebruik.
+
+## Wat te doen bij een belastingcontrole? Hoe elk pakket je helpt
+
+Een vraag die ik regelmatig krijg maar die zelden in vergelijkingen wordt beantwoord: wat als de Belastingdienst een boekenonderzoek aankondigt?
+
+**Moneybird:** Je kunt je volledige administratie exporteren als auditbestand (PDF, CSV) of je boekhouder directe toegang geven tot je omgeving. Moneybird voldoet aan de Nederlandse bewaarplicht en de administratie is zeven jaar terug te vinden. Een Belastingdienst-medewerker die inzage vraagt, kan jouw boekhouder via Moneybird alle gevraagde informatie laten aanleveren.
+
+**Exact Online:** Exact biedt een auditbestandexport in het standaard .xbrl-formaat dat accountants en de Belastingdienst kennen. De breadcrumb-trail van elke mutatie — wie heeft het ingeboekt, wanneer, wat was de bronvermelding — is altijd terug te vinden. Voor grotere bedrijven met complexe administraties is dit een aanzienlijk voordeel: de transparantie van Exact's boekhouding is juridisch sterker gedocumenteerd.
+
+Mijn advies: voor ZZP'ers is het verschil in de praktijk klein. Voor MKB-bedrijven die te maken kunnen krijgen met een serieus boekenonderzoek, is Exact's uitgebreidere audittraai een geruststelling.
+
 ## Alternatieve boekhoudpakketten
 
 Moneybird en Exact Online zijn niet je enige opties. Afhankelijk van je situatie zijn er alternatieven die beter kunnen passen:
@@ -245,6 +279,16 @@ Na jaren klanten te hebben geholpen met deze keuze, komt mijn advies neer op een
 Wat je ook kiest: test beide pakketten voordat je beslist. Moneybird biedt 60 dagen gratis, Exact Online 30 dagen. Voer dezelfde drie taken uit in beide systemen -- een factuur aanmaken, een bonnetje boeken, een banktransactie categoriseren -- en je weet binnen een uur welke beter voelt.
 
 En vergeet niet: bel je boekhouder. Die ene vraag bespaart je meer hoofdpijn dan welke review dan ook.
+
+## Wat te verwachten van beide pakketten over drie jaar
+
+Zowel Moneybird als Exact Online zijn actief in ontwikkeling, maar de richting is anders.
+
+**Moneybird** investeert in gebruiksgemak en de mobiele ervaring. De AI-functies voor categorisering worden beter, de app wordt uitgebreider, en de koppelingen met betaalplatforms (Mollie, Stripe) worden uitgebouwd. De functionaliteit buiten de boekhoudkern — CRM, voorraadbeheer, projecten — zal Moneybird waarschijnlijk aan derden overlaten via koppelingen, niet zelf bouwen.
+
+**Exact Online** investeert in AI-gestuurde administratie, uitbreiding van de App Store en verbetering van de interface. Exact heeft historisch trager gereageerd op UX-verbeteringen dan zijn concurrenten, maar de druk van de markt is zichtbaar: de meest recente versies van Exact zijn merkbaar moderner dan vijf jaar geleden. De prijsverhogingen blijven een risico — Exact heeft meerdere keren per jaar de tarieven aangepast, en dat patroon is niet verdwenen.
+
+Voor ZZP'ers die kiezen tussen deze twee: de kans is klein dat Moneybird over drie jaar ineens zo duur is als Exact. De kans dat Exact over drie jaar zo eenvoudig is als Moneybird is ook klein. De fundamentele kloof blijft bestaan — en dat is prima, want ze bedienen een andere doelgroep.
 
 Heb je nog twijfels? Lees ook mijn [Exact Online review](/blog/exact-online-review-2026/) voor een diepgaande analyse van Exact, mijn [Moneybird review](/blog/moneybird-review-2026/) voor een uitgebreid oordeel, of mijn [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/) als je twijfelt tussen Moneybird en een nog goedkoper alternatief.
 

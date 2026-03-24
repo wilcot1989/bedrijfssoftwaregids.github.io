@@ -329,3 +329,14 @@ Na drie maanden testen is mijn conclusie helder: e-Boekhouden is het beste boekh
 <a href="https://www.e-boekhouden.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar e-boekhouden.nl →</a>
 
 Wil je e-Boekhouden vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/boekhouding/)**, gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)** of bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)**.
+
+## Veelgestelde vragen over e-Boekhouden
+
+**Hoe werkt de 15 maanden gratis startersregeling precies?**
+Als je KvK-inschrijving minder dan 15 maanden oud is op het moment dat je je aanmeldt bij e-Boekhouden, gebruik je het pakket gratis tot je inschrijving 15 maanden oud is. Daarna betaal je automatisch het reguliere tarief tenzij je opzegt. Je krijgt hierover een e-mailherinnering van e-Boekhouden. Er is geen creditcard vereist bij aanmelding.
+
+**Kan ik overstappen van Moneybird naar e-Boekhouden?**
+Ja. Moneybird laat je contacten, facturen en transacties exporteren als CSV. Die importeer je in e-Boekhouden. De boekhoudkundige historie -- grootboekboekingen, openstaande posten -- moet je handmatig of via je boekhouder overbrengen als beginbalans. Reken op een middag werk. e-Boekhouden biedt ook een overstapkorting van 50% als je van een ander pakket komt.
+
+**Werkt e-Boekhouden samen met PayPal of Stripe?**
+e-Boekhouden heeft geen directe native koppeling met PayPal of Stripe. Via de bankimport kun je PayPal-transacties handmatig verwerken nadat je ze downloadt vanuit je PayPal-account. Voor Stripe geldt hetzelfde. Als je veel betalingen via deze platforms ontvangt, is een pakket met directe API-koppelingen -- zoals Moneybird of Exact Online -- praktischer.

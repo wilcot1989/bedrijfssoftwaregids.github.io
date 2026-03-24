@@ -260,3 +260,88 @@ Wil je de kosten voor jouw specifieke situatie vergelijken? Gebruik de [webshop 
 Bekijk ook het volledige [overzicht van beste webshop software](/blog/beste-webshop-software-2026/) om Shopify naast alle alternatieven te vergelijken.
 
 Wil je Shopify direct vergelijken met het beste Nederlandse alternatief? Lees dan de [Shopify vs Mijnwebwinkel vergelijking](/blog/shopify-vs-mijnwebwinkel-2026/) voor een gedetailleerde analyse.
+
+---
+
+## Shopify dieper: functies die je moet kennen
+
+### Shopify Payments vs. Mollie: wat kies je?
+
+Dit is de vraag die ik het vaakst krijg van Nederlandse webshop-eigenaren die Shopify overwegen. Het antwoord hangt af van je situatie.
+
+**Shopify Payments** is de eigen betaaloplossing van Shopify. Je hebt er geen extra account voor nodig, de instelling duurt vijf minuten, en de transactiekosten van Shopify zelf vervallen. Je betaalt alleen de creditcard-verwerkingsfee (1,5-2% afhankelijk van je plan). iDEAL, Bancontact, Apple Pay en creditcards worden ondersteund.
+
+**Nadeel van Shopify Payments:** Shopify kan je account bevriezen als ze verdachte transacties detecteren. Dat klinkt theoretisch, maar het komt voor. Lees op forums regelmatig verhalen van webshop-eigenaren wier account tijdelijk bevroren was terwijl hun omzet vaststond. Als je omzet volledig afhankelijk is van één betaaloplossing, is dat een serieus risico.
+
+**Mollie** is de populairste Nederlandse betaalprovider. Ze bieden de breedste dekking van Nederlandse betaalmethoden, hebben een uitstekend reputatie, en de tarieven zijn transparant (€0,29 per iDEAL-transactie). Maar als je Mollie gebruikt bij Shopify, betaal je bovenop die transactiekosten ook de Shopify-transactiefee (2% op Basic, 1% op Grow, 0,6% op Advanced).
+
+**Mijn advies:** gebruik Shopify Payments als je primair met creditcards en iDEAL werkt en bereid bent het risico van account-freeze te accepteren. Gebruik Mollie als je brede betaalmethodendekking wilt (inclusief Klarna, SEPA, Afterpay) of als je betalingszekerheid verkiest boven kostenoptimalisatie.
+
+### De Shopify App Store: navigeren zonder te verdwalen
+
+Met 8.000+ apps is de keuze overweldigend. Ik gebruik bij elke Shopify-implementatie een vaste basis-setup:
+
+**Verplichte apps voor Nederlandse webshops:**
+- **Sufio of Billie** (~€19-29/mnd): Nederlandse facturen met BTW-specificatie, KvK-nummer en betalingstermijnen conform NL-regels. Shopify's standaard facturen zijn niet volledig conform Nederlandse factuureisen.
+- **Yoast SEO voor Shopify** (~€29/mnd): structured data, robots.txt beheer, sitemap-optimalisatie. Shopify's ingebouwde SEO-tools zijn basic.
+- **Vitals** (~€29/mnd): bundelt 40+ kleine apps (reviews, upsells, sticky add-to-cart, social proof) in één app. Dat scheelt aanzienlijk in app-kosten.
+
+**Sectorspecifieke apps die ik regelmatig installeer:**
+- **Klaviyo** (gratis tot 250 contacten): e-mailmarketing volledig geïntegreerd met Shopify-orderdata. De segmentatiemogelijkheden zijn beter dan Shopify's ingebouwde Campaigns-add-on.
+- **Loop Returns** (~€49/mnd): retourportal dat Nederlandse retourregels ondersteunt. Scheelt aanzienlijk in klantenservicetijd.
+- **Sendcloud** (gratis tot 50 zendingen): PostNL, DHL en andere Nederlandse verzendopties gecentraliseerd. Automatische verzendbons, track-en-trace e-mails.
+
+### Shopify Markets: internationaal verkopen
+
+Shopify Markets is een functie die in 2022 is gelanceerd en sindsdien sterk verbeterd. Het maakt het mogelijk om vanuit één Shopify-winkel naar meerdere landen te verkopen met lokale valuta, talen en betaalmethoden.
+
+Hoe het werkt: je stelt per markt (bijv. "Nederland", "Duitsland", "België") specifieke instellingen in: de taal, de valuta, de betaalmethoden die voor die markt worden getoond, en eventueel aangepaste prijzen. Een klant die vanuit Duitsland bezoekt, ziet automatisch prijzen in euro met lokale BTW, en kan via de voor Duitsland relevante betaalmethoden afrekenen.
+
+Ik heb dit gebruikt bij een klant die haar Nederlandse collectie in drie talen wilde aanbieden. Het opstarten kostte één dag werk; de vertaling van de winkelinhoud de meeste tijd. Het resultaat: 18% van de omzet komt sindsdien uit Duitsland en België.
+
+### Shopify's Checkout Extensibility
+
+Eind 2024 heeft Shopify de checkout volledig opengesteld voor aanpassingen via "Checkout Extensibility". Dat betekent dat je zonder de One Page Checkout te verliezen (wat de conversieprestaties beïnvloedt) toch aanpassingen kunt maken: een extra veld voor bezorgnotities, een upsell-blok, een loyaltypunten-overzicht.
+
+Voorheen vereiste elke checkout-aanpassing het bewerken van de checkout.liquid — een bestand dat bij Shopify Plus was afgeschermd. Nu zijn deze aanpassingen beschikbaar via apps en de theme editor, ook op reguliere plannen. Dat is een significante verbetering voor de Nederlandse markt, waar klanten graag bezorgnotities willen achterlaten.
+
+---
+
+## Shopify voor de Nederlandse markt: de praktijk
+
+### BTW-instellingen correct configureren
+
+Dit is een stap die veel beginnende Shopify-gebruikers overslaan of half doen, en die leidt tot problemen bij de belastingaangifte. In Nederland heb je te maken met:
+- **21% BTW** voor de meeste producten
+- **9% BTW** voor levensmiddelen, boeken, medicijnen en sommige andere categorieën
+- **0% BTW** voor export buiten de EU en intracommunautaire levering
+
+In Shopify stel je BTW in via Instellingen > Belastingen. Schakel automatische BTW in voor Nederland en controleer of Shopify de juiste rate toepast op elk producttype. Voeg je BTW-nummer toe zodat het op facturen verschijnt. Gebruik een factuur-app (zie boven) voor volledige NL-conforme facturen.
+
+**Let op bij de OSS-regeling:** als je meer dan €10.000 per jaar aan consumenten in andere EU-landen verkoopt, moet je je registreren voor het OSS-systeem (One Stop Shop). Shopify ondersteunt dit via de Tax Settings, maar de configuratie vraagt aandacht. Ik raad aan om dit te laten controleren door je belastingadviseur.
+
+### Bezorgopties voor Nederland
+
+De standaard Shopify-verzendopties zijn gericht op de VS en Canada. Voor een Nederlandse webshop voeg je de volgende opties toe:
+
+- **Sendcloud-app**: koppelt PostNL, DHL, DPD, Bpost en andere vervoerders. Automatische labels en track-en-trace. Gratis plan voor kleine volumes.
+- **MyParcel**: vergelijkbare functionaliteit, sterker in PostNL-specifieke integraties. Breed gebruikt door Nederlandse webshops.
+- **Budbee en Trunkrs**: voor same-day delivery in Nederland, beschikbaar via apps.
+
+Ik gebruik zelf bij vrijwel elke Nederlandse Shopify-implementatie Sendcloud. De tijdsbesparing op het handmatig aanmaken van verzendbonnen is significant.
+
+---
+
+## Veelgestelde vragen (aanvulling)
+
+**Kan ik mijn bestaande webshop migreren naar Shopify?**
+Ja. Shopify biedt migratietools voor WooCommerce, Magento, BigCommerce en andere platforms. De meest betrouwbare aanpak is via de "Store Importer" app, die producten, klanten en orders importeert. Wat je niet automatisch meekrijgt: je URL-structuur (wat 301-redirects vereist), je thema-aanpassingen en je app-configuraties. Reken voor een volledige migratie op twee tot vijf werkdagen, afhankelijk van de omvang en complexiteit.
+
+**Is Shopify geschikt voor B2B-verkoop?**
+Shopify biedt een B2B-module op het Plus-plan die klantspecifieke prijzen, minimumbestellingen en netto-facturering ondersteunt. Voor het MKB dat af en toe zakelijk verkoopt naast consumentenverkoop, zijn apps als Wholesale Gorilla (€39/mnd) een betaalbaarder alternatief. Voor serieuze B2B-groothandel met complexe orderprocessen is Shopify Plus of een dedicated B2B-platform beter passend.
+
+**Hoe goed is Shopify's SEO voor de Nederlandse markt?**
+De technische SEO-basis is goed: automatische sitemaps, canonical tags, alt-teksten, snelle laadtijden via CDN. De beperkingen zitten in de URL-structuur (altijd /products/ en /collections/, niet aanpasbaar) en de beperkte blogfunctionaliteit. Voor een Nederlandse webshop die serieus op content en zoekverkeer wil inzetten, raad ik een blog-supplement aan (bijv. via een apart WordPress-domein) of het gebruik van Yoast SEO voor Shopify.
+
+**Wat is Shopify's uptime-garantie?**
+Shopify garandeert 99,99% uptime. In de afgelopen vijf jaar zijn er slechts een handvol incidenten geweest waarbij Shopify-winkels tijdelijk niet bereikbaar waren. Vergeleken met zelfgehoste oplossingen zoals WooCommerce — waarbij je zelf verantwoordelijk bent voor serveronderhoud — is dit een sterk argument voor Shopify.

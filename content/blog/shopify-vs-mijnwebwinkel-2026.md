@@ -363,6 +363,26 @@ Voor de meeste Nederlandse ondernemers die ik adviseer, valt de keuze op Shopify
 <a href="https://www.mijnwebwinkel.nl/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Mijnwebwinkel →</a>
 
 
+## Praktische implementatietips per platform
+
+### Shopify: zo ben je snel en goed live
+
+De meeste vertragingen bij Shopify-launches ontstaan niet door het platform, maar door keuzes die ondernemers te laat maken. Dit zijn de stappen die ik bij klanten doorloop voor een vlotte start:
+
+1. **Kies je thema vóór je producten importeert** — Een thema bepaalt je afbeeldingsverhoudingen en lay-out. Als je eerst honderd productfoto's uploadt en daarna je thema kiest, moet je vaak opnieuw uploaden.
+2. **Activeer Shopify Payments als eerste stap** — Koppel je betaalmethode voordat je producten toevoegt. Zo test je het afrekenproces direct. Vergeet dit niet: zonder Shopify Payments betaal je 2% extra op elke transactie via een externe PSP.
+3. **Maak een testbestelling voordat je live gaat** — Bestel zelf een product voor €0,01 en doorloop het volledige proces: betaling, bevestigingsmail, bezorginformatie. Je ontdekt zo eventuele instellingsfouten zonder dat klanten er last van hebben.
+4. **Installeer maximaal drie apps bij de start** — Reviews, e-mail en eventueel verlaten winkelwagentjes. Meer apps slopen de laadtijd van je shop. Voeg apps alleen toe als je een specifiek probleem hebt dat je wilt oplossen.
+
+### Acendy (Mijnwebwinkel): haal het meeste uit het platform
+
+Acendy is bewust eenvoudig gehouden, maar er zijn een paar instellingen die veel nieuwe gebruikers missen:
+
+1. **Gebruik de proefperiode als configuratietijd** — Zet tijdens de veertien dagen proefperiode alles klaar: producten, betaalmethoden, verzendopties, BTW-instellingen. Ga niet pas na dag tien beginnen met je catalogus.
+2. **Vraag telefonische ondersteuning bij de Mollie-koppeling** — De betaalkoppeling is het belangrijkste technische onderdeel. Acendy's support is telefonisch bereikbaar en helpt je hier graag doorheen — gebruik dat.
+3. **Controleer de BTW-instellingen per product** — Voor producten met verschillende BTW-tarieven (9% voor voedsel, 21% voor andere producten) moet je dit per categorie instellen. Fout ingesteld BTW kost je straks correcties in je boekhouding.
+4. **Sla je contract op en noteer de opzegdatum** — Het jaarcontract verlengt automatisch. Noteer de opzegdeadline in je agenda, zodat je niet onverwacht aan een tweede jaar vastzit.
+
 ## Gerelateerde artikelen
 
 - [Beste webshop software Nederland 2026](/blog/beste-webshop-software-2026/) -- vergelijking van 7 platformen

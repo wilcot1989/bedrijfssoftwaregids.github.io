@@ -359,6 +359,20 @@ Bekijk ook mijn vergelijking van de [beste email marketing software voor Nederla
 
 Wil je Brevo vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/marketing/)**, gebruik de **[keuzehulp](/tools/marketing/keuzehulp/)** of bereken je **[marketing software kosten](/tools/marketing/kosten-berekenen/)**.
 
+## Veelgestelde vragen over Brevo
+
+**Kan ik mijn Mailchimp-contacten overzetten naar Brevo?**
+Ja. Exporteer je Mailchimp-lijst als CSV en importeer die in Brevo. Segmenten en tags neem je mee via aparte lijsten. Automation-flows moet je opnieuw bouwen in Brevo's workflow-editor -- die exporteer je niet mee. Reken op een halve dag werk voor een gemiddelde migratie.
+
+**Hoe zit het met de Brevo-branding op het gratis plan?**
+Op het gratis plan staat "Sent by Brevo" in de footer van elke mail. Dat ziet er onprofessioneel uit voor zakelijk gebruik. Vanaf het Starter-plan (€7/mnd) kun je de branding verwijderen -- dat is de voornaamste reden om niet op het gratis plan zakelijk te mailen.
+
+**Kan Brevo transactionele e-mails aan voor een WooCommerce-webshop?**
+Ja. De WooCommerce-plugin van Brevo stuurt bestelbevestigingen, verzendupdates en wachtwoord-resets via Brevo's SMTP. Dat is betrouwbaarder dan de standaard WordPress-mailserver en geeft je tracking per transactionele mail. Instellen kost ongeveer een uur.
+
+**Is er een volumelimiet op het aantal contacten bij Brevo?**
+Nee. Alle plannen bieden onbeperkt contacten. Je betaalt alleen voor het aantal verzonden e-mails per maand. Dat is het fundamentele onderscheid met Mailchimp en ActiveCampaign, en het voordeel wordt groter naarmate je contactlijst groeit.
+
 ## Lees ook
 
 - [Brevo vs Mailchimp 2026: Welke Kies Je?](/blog/brevo-vs-mailchimp-2026/)

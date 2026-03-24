@@ -297,6 +297,16 @@ Twijfel je nog? Begin met het **gratis CRM van HubSpot**. Dat kost je niets en g
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)**.
 
+## Hoe je de beslissing intern verkoopt
+
+Een praktisch punt dat ik zelden zie besproken in CRM-vergelijkingen: hoe krijg je het management of de directie mee in je keuze? Bij het MKB zie ik twee terugkerende patronen.
+
+**De Salesforce-keuze intern verkopen:** Salesforce is het "veilige" keuze-argument. "Het is de marktleider, iedereen kent het, het integreert met alles." Als je in een organisatie werkt waar beslissingen risico-gedreven zijn — waar niemand ooit is ontslagen voor het kopen van Salesforce — is dat argument sterk. Mijn tegenargument voor directies: vraag je salesteam om een eerlijke schatting van hoeveel uur per week ze kwijt zijn aan het systeem versus aan klantcontact. Bij de meeste MKB-teams zie ik dat Salesforce meer tijd kost dan het oplevert.
+
+**De HubSpot-keuze intern verkopen:** HubSpot's sterkste argument tegenover een budget-bewuste directie is het 3-jaars kostenplaatje. Zet de licentiekosten, implementatiekosten en de gemiddelde productiviteitswinst naast elkaar. HubSpot kost 40-60% minder in jaar 1 en heeft een aantoonbaar hogere adoptiegraad — dat laatste is direct vertaalbaar naar datakwaliteit en verkoopefficiëntie.
+
+Mijn advies voor teams die nog moeten beslissen: vraag beide leveranciers om een demo met jullie eigen data en jullie eigen use cases. Niet de standaarddemo, maar een sessie waarbij je salesmanager zijn of haar dagelijkse workflow nabootst. Die twee uur leveren meer inzicht op dan alle vergelijkingsartikelen bij elkaar.
+
 ## Lees ook
 
 - **[Beste CRM Software Nederland 2026](/blog/beste-crm-software-nederland-2026/)** — Compleet overzicht van alle CRM-opties

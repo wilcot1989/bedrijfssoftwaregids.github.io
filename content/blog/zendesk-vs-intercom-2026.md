@@ -400,6 +400,24 @@ De maandprijs is slechts een deel van de totale eigendomskosten. Ik bereken de r
 
 Het verschil: **€32.000 over 3 jaar**. Dat is een forse investering die Intercom moet terugverdienen via betere retentie, hogere conversie en efficiëntere onboarding. Voor SaaS-bedrijven die proactieve communicatie strategisch inzetten, is dit realistisch. Voor de meeste andere bedrijven niet.
 
+## Implementatietips voor een vliegende start
+
+Of je nu voor Zendesk of Intercom kiest, de eerste weken bepalen of je team het systeem omarmt of omzeilt. Dit zijn de stappen die ik bij klanten doorloop.
+
+**Zendesk: de vier essentiële configuratiestappen**
+
+1. **Kanalen verbinden vóór agenten uitnodigen** — Verbind eerst e-mail, WhatsApp en eventueel telefoon. Zo gaan er geen tickets verloren in de opstartweken. Agenten uitnodigen terwijl kanalen nog niet staan, leidt tot verwarring.
+2. **Triggers en automatiseringen minimaal houden** — De verleiding is groot om meteen tientallen regels in te stellen. Begin met drie: auto-reply bij ontvangst, escalatie na 4 uur geen reactie, CSAT na sluiting. Meer regels voegen later toe.
+3. **SLA's realistisch instellen** — Ik zie teams SLA's instellen die ze niet halen. Dan staat de hele inbox rood en verliest het systeem geloofwaardigheid. Begin met ruime SLA's en schroef ze aan zodra je de gemiddelde responstijd weet.
+4. **Kennisbank vóór de go-live** — Zorg dat de twintig meest gestelde vragen beantwoord zijn in de kennisbank voordat je live gaat. Zendesk's AI gebruikt die artikelen direct voor automatische antwoorden.
+
+**Intercom: de juiste volgorde voor maximaal rendement**
+
+1. **Start met de chatwidget, niets meer** — Dag één: widget op de website, inbox in gebruik. Laat de proactieve functies voor later. Je team moet eerst leren werken met de basisinterface.
+2. **Kennisbank week twee** — Voeg kennisbankartikelen toe en activeer Fin AI. Fin werkt beter naarmate je meer kwalitatieve artikelen hebt.
+3. **Segmentatie pas na drie weken** — Je hebt drie weken echte gespreksdata nodig om zinvolle segmenten te maken. Segmenteer op basis van wat klanten daadwerkelijk vragen, niet op basis van wat je denkt dat ze vragen.
+4. **Proactieve campagnes pas na twee maanden** — Triggered berichten op basis van gebruikersgedrag vereisen inzicht in je gebruikersreis. Dat inzicht heb je pas na twee maanden meten.
+
 ## Wanneer je beide tools kunt combineren
 
 Er is een scenario waar Zendesk én Intercom samenwerken. Sommige grotere SaaS-bedrijven gebruiken:

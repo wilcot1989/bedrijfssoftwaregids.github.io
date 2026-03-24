@@ -305,6 +305,26 @@ Ja, HoorayHR slaat alle data op in Europa en voldoet aan de AVG. Ze bieden een v
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**.
 
+## Praktisch scenario: een groeibedrijf kiest HR-software
+
+Stel: je hebt een marketingbureau in Utrecht met 22 medewerkers. Je gebruikt nu losse tools -- verlof via een Excel-sheet, ziekmeldingen per WhatsApp, personeelsdossiers in een gedeelde schijf. Je wilt dit digitaliseren. Hoe kies je?
+
+**Stap 1: inventariseer wat je nu mist**
+
+Bij 22 medewerkers zijn dit doorgaans de pijnpunten: geen overzicht wie wanneer verlof heeft, geen gestructureerde verzuimregistratie, geen centrale plek voor arbeidscontracten. Dat zijn allemaal basisbehoeften -- geen recruitment, geen performance management.
+
+**Conclusie stap 1:** HoorayHR dekt al je behoeften.
+
+**Stap 2: kijk naar de komende 18 maanden**
+
+Groeit het bureau naar 35 medewerkers? Jullie nemen misschien vier keer per jaar iemand aan. Moet de HR-manager dan ook beoordelingsgesprekken structureren? Wil je als directeur een dashboard met HR-KPI's?
+
+Als je groeiplan concrete HR-uitbreidingen inhoudt, ga je óf later migreren van HoorayHR naar Personio, óf je start meteen met Personio.
+
+**Mijn advies voor dit scenario:** start met HoorayHR. De kostenbesparing (€66/mnd versus ~€100-120/mnd bij Personio Core HR) is bij 22 medewerkers bijna €700 per jaar. Met die besparing houd je de optie open om over twee jaar te migreren als je dan echt de extra modules nodig hebt. Migreren kost tijd, maar niet meer dan een week -- en een week werk is minder dan twee jaar teveel betalen voor functies die je niet gebruikt.
+
+**Wanneer je direct voor Personio zou kiezen:** als je naast de basismodules ook een ATS zoekt en je nu al regelmatig medewerkers aanneemt. De waarde van recruitment in hetzelfde platform als je personeelsdossier is dan direct zichtbaar -- geen losse sollicitatietools, geen handmatige dataoverdracht bij aanname.
+
 ## Lees ook
 
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) -- compleet overzicht van alle HR-platforms

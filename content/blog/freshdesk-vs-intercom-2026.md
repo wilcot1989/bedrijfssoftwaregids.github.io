@@ -402,6 +402,26 @@ Mijn bottomline: **begin met Freshdesk** — of zelfs het gratis plan — als je
 
 Zie ook: [Freshdesk review 2026](/blog/freshdesk-review-2026/), [Freshdesk prijzen 2026](/blog/freshdesk-prijzen-2026/) en het totaaloverzicht [beste klantenservice software 2026](/blog/beste-klantenservice-software-2026/).
 
+## Snelstart tips: binnen een week operationeel
+
+De meeste teams die ik begeleid, willen zo snel mogelijk live. Hier is hoe je dat doet zonder later alles te moeten herinrichten.
+
+### Freshdesk: van inbox-chaos naar geordend systeem in vijf stappen
+
+1. **Zet je e-mailadres als eerste door** — Koppel support@jouwbedrijf.nl direct aan Freshdesk. Alles wat binnenkomt wordt automatisch een ticket. Begin pas daarna met andere kanalen.
+2. **Maak drie automatische regels** — Stel in: (1) auto-reply bij ontvangst, (2) toewijzing aan de juiste agent op basis van onderwerp, (3) melding bij ticket ouder dan vier uur zonder reactie. Meer regels voegen later toe.
+3. **Vul de kennisbank met je tien meest gestelde vragen** — Freddy AI gebruikt deze artikelen voor automatische antwoorden. Tien goede artikelen leveren meer op dan vijftig halfzachte.
+4. **Nodig agenten gefaseerd uit** — Begin met twee agenten die het systeem leren kennen. Voeg de rest toe zodra de workflows staan. Zo voorkom je dat agenten improviseren in een onvoltooid systeem.
+5. **Activeer CSAT na drie weken** — Na drie weken heb je genoeg tickets om zinvolle tevredenheidsscores te zien. Te vroeg activeren levert weinig data op.
+
+### Intercom: van chatwidget naar proactieve klantenservice
+
+1. **Dag één: alleen de chatwidget** — Plak de JavaScript-snippet op je website. Zorg dat de widget werkt en dat berichten binnenkomen. Niets meer.
+2. **Week twee: kennisbank en Fin** — Schrijf minimaal vijftien kennisbankartikelen over je meest gestelde vragen. Activeer Fin en test de antwoordkwaliteit met testvragen die je klanten écht stellen.
+3. **Week drie: team trainen op gesprekken** — Leer het team werken met de gespreksinterface, niet met de configuratie. Die komt later. Adoptie van de basis gaat voor de geavanceerde functies.
+4. **Maand twee: segmentatie** — Je hebt nu genoeg gespreksdata om te zien welke gebruikersgroepen welke vragen stellen. Maak je eerste drie segmenten op basis van die data.
+5. **Maand drie: eerste triggered berichten** — Nu pas ben je klaar voor proactieve campagnes. Je kent je gebruikers, je content is op orde en je team is gewend aan het systeem.
+
 ## Meer lezen: gerelateerde artikelen
 
 Vergelijk meer klantenservice tools:

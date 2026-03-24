@@ -398,3 +398,80 @@ Ja, Shiftbase heeft een iOS en Android app voor medewerkers. Via de app kunnen m
 
 **Wat is het verschil tussen Shiftbase en Dyflexis?**
 Shiftbase en Dyflexis zijn beide Nederlandse planningstools voor het MKB. Shiftbase is breder inzetbaar en sterker in HR-integraties (AFAS, Nmbrs). Dyflexis is sterker in horeca en retail door kassasynckoppelingen en omzetgedreven planning. Qua prijs zijn ze vergelijkbaar. Voor de meeste niet-horecabedrijven is Shiftbase de betere keuze.
+
+---
+
+## Shiftbase in de praktijk: drie specifieke sectoren
+
+De vier use cases hierboven geven al een aardig beeld, maar ik wil nog drie sectoren uitlichten waar ik Shiftbase regelmatig zie ingezet worden en waar de specifieke voordelen goed tot uiting komen.
+
+### Thuiszorg en thuisbegeleiding
+
+In de zorgmarkt is planningssoftware geen luxe maar een noodzaak. Tegelijkertijd is de sector extra gevoelig voor arbeidswetgeving: nul-urencontracten, oproepkrachten, cao-verplichtingen en de WAB-regels rondom aanbod vaste uren. Bij een kleine thuiszorgorganisatie met twintig vaste en twaalf oproepkrachten heeft Shiftbase de volgende problemen opgelost:
+
+- **Dubbele inroostering voorkomen:** twee leidinggevenden die allebei roosters beheerden, boekten dezelfde medewerkers soms dubbel in voor dezelfde dag. Shiftbase detecteert dat automatisch.
+- **Kwalificatiebewaking:** in de zorg moet je weten of een medewerker een bepaalde opleiding heeft voordat je hem of haar aan een specifieke cliënt koppelt. Shiftbase ondersteunt dit via skills-velden per medewerker, al is de functionaliteit minder uitgebreid dan in dedicated zorgsoftware zoals CareClarity.
+- **Meldingen bij overschrijding contracturen:** de zorgmanager ontvangt automatisch een signaal als een medewerker boven zijn of haar contractuurgrens wordt ingeroosterd. Dat maakt overleggen over extra uren bewuster en gedocumenteerder.
+
+### Supermarkten en levensmiddelenretail
+
+Supermarkten zijn een van de meest intensieve planningsomgevingen: wisselende drukte door dag, tijd en campagnes, hoge personeelsverloop, en een mix van vaste krachten en scholieren met beperkte beschikbaarheid. Ik heb Shiftbase ingezet bij een zelfstandige supermarkt met vijf afdelingen en 38 medewerkers.
+
+Wat direct werkte: het scherm per afdeling (kassa, vers, staf, logistiek, productie) in plaats van één groot rooster. Elke afdelingshoofd kon zijn eigen afdeling roosteren zonder in die van een ander te komen. De manager zag het totaaloverzicht en kon bezettingsgaten snel detecteren.
+
+Wat iets meer configuratie vroeg: de koppeling met het urenregistratiesysteem bij de kassa (prikklok via QR-code). Shiftbase biedt kioskmodus, maar de integratie met bestaande kassamodules is maatwerk. In dit geval heb ik de kiosk-modus gebruikt op een goedkope Android-tablet bij de personeelsingang — dat werkte prima.
+
+### Schoonmaak- en facilitaire dienstverlening
+
+Dit is misschien wel de sector waar Shiftbase het meeste resultaat boekt. De uitdagingen zijn specifiek: wisselende locaties per dag, last-minute verzuim dat direct impact heeft op de klant, en een groot aandeel oproepkrachten. De combinatie van GPS-inklokken via de app, automatische WAB-signalering en de native Nmbrs-koppeling is precies wat deze sector nodig heeft.
+
+Bij een facilitair dienstverlener met 55 medewerkers (schoonmaak, receptie, catering) was de grootste winst niet de planningsefficiëntie zelf, maar de transparantie naar klanten toe: de manager kon via de rapportages aantonen welke medewerkers op welke locaties aanwezig waren geweest en hoe lang. Dat is relevant bij contracten waarbij aanwezigheid en uren gefactureerd worden aan de opdrachtgever.
+
+---
+
+## Shiftbase Business-plan: wat je extra krijgt
+
+Veel teams starten op het Starter-plan en upgraden naar Business zodra de planningsroutine staat. Wat je erbij krijgt is de moeite waard om concreet te maken:
+
+### HR-module
+
+De HR-module in het Business-plan voegt de volgende functionaliteit toe:
+
+- **Digitaal personeelsdossier:** contracten, loonstroken, documenten en certificaten per medewerker opgeslagen in de applicatie
+- **Verlof uitgebreid:** meerdere verloftypes met eigen opbouwregels, compensatieverlof, en een volledig overzicht per medewerker
+- **Functioneringsgesprekken en beoordelingen:** basismodule voor het vastleggen van gesprekken en doelen per medewerker
+- **Onboarding-workflows:** taken aanmaken per nieuwe medewerker die doorlopen moeten worden voor de eerste werkdag
+
+Vergeleef dit met dedicated HR-software zoals Personio of AFAS HRM: die zijn uitgebreider. Maar voor een MKB-bedrijf dat geen aparte HR-tool wil aanschaffen en alleen de basisprocessen wil digitaliseren, biedt de Business-module genoeg.
+
+### Uitgebreide rapportages
+
+Op het Starter-plan zijn de rapportages beperkt tot basisoverzichten. Het Business-plan voegt toe:
+
+- Aanwezigheidsrapportage per periode en per afdeling
+- Vergelijking gepland versus werkelijk per medewerker
+- Verlofbalansoverzicht per periode
+- WAB-specifieke rapporten
+
+### API-toegang
+
+De Shiftbase REST API is beschikbaar op het Business-plan. Dat maakt maatwerkkoppelingen mogelijk met andere systemen in je stack, zoals een field service management tool, een ERP of een eigen dashboard. De API-documentatie is goed en wordt actief bijgehouden.
+
+---
+
+## Veelgestelde vragen (aanvulling)
+
+**Werkt Shiftbase ook voor medewerkers die geen smartphone hebben?**
+Ja. Naast de app biedt Shiftbase een kiosk-modus op een gedeelde tablet of computerscherm op de werkvloer. Medewerkers klokken in en uit via een pincode of QR-code. Dat is de oplossing die ik inzet bij teams in de productie, schoonmaak of horeca waar niet iedereen een eigen smartphone bij de hand heeft of wil gebruiken.
+
+**Hoe lang duurt een gemiddelde Shiftbase-implementatie?**
+Bij mijn aanpak (zie het implementatie-stappenplan eerder in dit artikel) ben ik bij een team van 15-35 medewerkers klaar in een à twee weken. De technische inrichting is een dag werk. De meeste tijd gaat zitten in het activeren van medewerkers en het bouwen van sjabloonroosters. Bij grote teams (50+) of complexe situaties met meerdere locaties reken ik op twee tot drie weken.
+
+**Kan ik Shiftbase proefdraaien met echte data?**
+Ja, de gratis proefperiode van 14 dagen geeft je toegang tot alle functies van het Business-plan. Ik raad altijd aan om tijdens de proef echte medewerkerdata te importeren en een rooster voor de komende twee weken te bouwen. Dat is de enige manier om te weten of het systeem bij je situatie past. Een proef met testdata zegt weinig.
+
+**Wat kost de koppeling met Nmbrs of AFAS extra?**
+Niets. De native integraties met Nmbrs, AFAS en de andere salarispakketten zitten standaard inbegrepen in het abonnement op zowel Starter als Business. Je betaalt geen extra koppelingsfee. Je hebt wel toegang nodig tot je Nmbrs- of AFAS-omgeving om de koppeling te activeren — je accountant of loonadministrateur kan je daarbij helpen.
+
+**Kan Shiftbase omgaan met nul-urencontracten en min-max contracten?**
+Ja, beide contractvormen worden ondersteund. Je stelt per medewerker het contracttype in, inclusief het minimum en maximum aantal uur bij een min-max contract. Shiftbase bewaakt automatisch of je de grenzen overschrijdt en signaleert wanneer actie vereist is. Dit is een van de specifiek Nederlandse functies die de tool onderscheidt van internationale alternatieven.
