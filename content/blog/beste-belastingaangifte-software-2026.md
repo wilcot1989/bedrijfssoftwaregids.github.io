@@ -426,3 +426,149 @@ Digipoort is de beveiligde infrastructuur van de Nederlandse overheid voor elekt
 Aangifte.nl is gratis en voldoende voor eenvoudige particuliere IB-aangiftes. Heb je een onderneming met meerdere inkomstenbronnen, BTW-verplichtingen of een BV, dan kies je voor een boekhoudpakket met BTW-module of (voor VpB) voor Fiscaalgemak of een accountant. De scheidslijn ligt bij complexiteit, niet bij bedrijfsgrootte.
 
 <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart gratis — inclusief BTW-aangifte via Digipoort →</a>
+
+---
+
+## Belastingplanning voor ondernemers: verder dan alleen aangifte doen
+
+Aangifte doen is het minimum. Goede belastingplanning gaat een stap verder: je optimaliseert je belastingpositie actief het hele jaar door, in plaats van alleen aan het einde van het jaar te kijken wat je verschuldigd bent.
+
+### Kwartaalrapporten als planningsinstrument
+
+Als je kwartaalaangifte BTW doet, is dat moment ook een uitstekende gelegenheid om je belastingpositie voor het jaar te beoordelen. Vragen die je elk kwartaal stelt:
+
+- Ben ik op weg om boven of onder de verwachte winst uit te komen?
+- Heb ik grote investeringen gepland die ik beter dit jaar of volgend jaar doe?
+- Heb ik nog ruimte voor pensioenopbouw via lijfrente?
+- Nadert mijn omzet de €20.000 KOR-grens en moet ik actie ondernemen?
+
+Een goed boekhoudpakket met winst-en-verlies-rapportages per kwartaal (SnelStart, Exact Online, Moneybird) maakt dit makkelijk. Combineer dit met twee gesprekken per jaar met je accountant en je vermijdt verrassingen in het aangiftejaar.
+
+### Belastinguitstel versus belastingbesparing
+
+Een veelgemaakte verwarring: belastinguitstel is niet hetzelfde als belastingbesparing.
+
+**Belastinguitstel:** Je betaalt nu minder belasting maar betaalt later meer. Voorbeeld: investeringsaftrek — je trekt de investering nu af, maar de afschrijving loopt over meerdere jaren.
+
+**Belastingbesparing:** Je betaalt structureel minder belasting. Voorbeeld: MKB-winstvrijstelling — 14% van je winst is definitief vrijgesteld, niet alleen uitgesteld.
+
+Zelfstandigenaftrek, MKB-winstvrijstelling en scholingsaftrek zijn echte belastingbesparingen. Gebruik ze maximaal.
+
+---
+
+## Praktijkgids: BTW-aangifte stap voor stap
+
+Voor ZZP'ers die voor het eerst BTW-aangifte doen via hun boekhoudpakket, hier is het complete proces.
+
+### Stap 1: Boekingen bijwerken
+
+Zorg dat alle inkoopfacturen, verkoopfacturen en bankafschriften van het kwartaal zijn verwerkt in je boekhoudpakket. Elk pakket heeft een overzicht van "niet-verwerkte" items die je aandacht vragen.
+
+**Veel voorkomende fout:** BTW op buitenlandse facturen (bijv. Google Ads, Shopify, Canva) verkeerd boeken. Deze facturen zijn in de meeste gevallen BTW-verlegd. Boek ze als binnenlandse BTW-verlegd zodat je de BTW kunt verrekenen.
+
+### Stap 2: BTW-overzicht controleren
+
+Bijna alle pakketten tonen een BTW-overzicht voor de aangifteperiode. Controleer:
+- Rubriek 1a (binnenlandse leveringen, 21%): klopt dit met je omzet?
+- Rubriek 5b (voorbelasting): klopt dit met je zakelijke inkoopfacturen?
+- Saldo te betalen of terug te ontvangen
+
+### Stap 3: Aangifte indienen via Digipoort
+
+Vanuit het boekhoudpakket klik je "aangifte indienen" of vergelijkbaar. Het pakket maakt automatisch verbinding met Digipoort. Bevestig de aangifte en bewaar de ontvangstbevestiging.
+
+### Stap 4: Betaling regelen
+
+Als je BTW moet betalen, maak je dit over vóór de uiterste betaaldatum. De meeste pakketten tonen de betaalgegevens direct. Let op: sommige ondernemers vergeten dat de aangifte en de betaling twee aparte acties zijn.
+
+---
+
+## Moneybird als alternatief voor e-Boekhouden
+
+Naast de vijf tools die ik in dit overzicht heb besproken, verdient Moneybird een expliciete vermelding als populaire keuze voor startende ondernemers.
+
+[Moneybird](https://www.moneybird.com/nl/) heeft een verfrissend moderne interface, een uitstekende mobiele app en een sterke BTW-aangifte-functionaliteit. Het gratis plan (voor eenmanszaken met simpele administratie) maakt het een laagdrempelig startpunt.
+
+**Moneybird prijzen:**
+- Gratis (beperkt)
+- Zakelijk: €15/maand
+- Advanced: €29/maand
+
+**Sterkste punten voor BTW-aangifte:**
+- Automatische BTW-herkenning op basis van leveranciersinstellingen
+- Één-klik BTW-aangifte via Digipoort
+- Heldere weergave van per BTW-tarief
+- Koppeling met iDEAL voor directe betaling vanuit de app
+
+**Beperking:** Geen VpB-aangifte en minder geschikt voor complexe bedrijfsstructuren of grotere MKB-bedrijven. Lees meer in mijn [Moneybird review](/blog/moneybird-review-2026/).
+
+---
+
+## Belastingaangifte voor starters: wat je in het eerste jaar moet weten
+
+Als je net begint met ondernemen, zijn er een aantal belastingzaken die je in het eerste jaar op orde moet krijgen.
+
+### BTW-registratie
+
+Zodra je je bij de KvK inschrijft, krijg je automatisch een BTW-nummer. Als je meer dan €20.000 per jaar omzet verwacht, ben je BTW-plichtig. Onder de €20.000 kun je kiezen voor de KOR (kleineondernemersregeling).
+
+**Mijn advies voor starters:** Meld je niet direct aan voor de KOR, ook al verwacht je minder dan €20.000 omzet. Als je BTW op zakelijke aankopen terugvordert (laptop, software, kantoor), ben je financieel beter af met een regulier BTW-nummer. De BTW-aangifte kostte je met een modern boekhoudpakket minder dan 30 minuten per kwartaal.
+
+### Het eerste belastingjaar: wat te verwachten
+
+In het eerste belastingjaar loop je tegen een bijzonderheid aan: je betaalt in 2026 belasting over het inkomen van 2025, maar je hebt in 2026 al inkomen uit je huidige onderneming. Dit kan leiden tot een liquiditeitsprobleem als je niet reserveert.
+
+**Praktische regel:** Reserveer 30-40% van je winst voor belasting op een aparte spaarrekening. Dit dekt zowel je IB-aangifte als je ZVW-bijdrage.
+
+### Voorlopige aanslag aanvragen
+
+Als je verwacht meer dan €500 aan IB te moeten betalen over het lopende jaar, kun je een voorlopige aanslag aanvragen bij de Belastingdienst. Je betaalt dan gespreid over het jaar in plaats van alles achteraf. Dit is gunstiger voor je liquiditeit.
+
+---
+
+## Vergelijking: accountant versus software
+
+Een vraag die ik regelmatig krijg: "Wanneer heb ik een accountant nodig, en wanneer kan ik het zelf met software?"
+
+### Doe het zelf met software als:
+
+- Je een eenmanszaak of VOF hebt met een relatief eenvoudige administratie
+- Je BTW-plichtig bent maar geen complexe BTW-situaties hebt (geen buitenlandse verkopen, geen vrijgestelde prestaties)
+- Je geen BV hebt
+- Je winst minder dan €150.000 per jaar is
+
+**Benodigde tools:** e-Boekhouden, SnelStart of Moneybird voor BTW. Aangifte.nl voor de IB-aangifte.
+
+**Kosten:** €120-240 per jaar voor software.
+
+### Schakel een accountant in als:
+
+- Je een BV hebt (VpB-aangifte is te complex voor zelfstandige verwerking)
+- Je buitenlandse zakelijke activiteiten hebt
+- Je een fusie, overname of bedrijfsbeëindiging hebt
+- Je winst meer dan €200.000 per jaar is (fiscale optimalisatie loont dan)
+- Je meerdere entiteiten hebt in een groepsstructuur
+
+**Kosten accountant:** €1.500-5.000 per jaar voor een eenvoudige BV. €500-1.500 per jaar voor een ZZP'er met iets complexere aangifte.
+
+**ROI:** Een goede accountant bespaart vaak meer belasting dan zijn of haar honorarium kost, door gebruik van aftrekposten die jij zelf gemist had.
+
+---
+
+## Veelgestelde vragen (uitgebreid)
+
+### Wat is de uiterste datum voor de BTW-aangifte in 2026?
+
+De uiterste datum voor de kwartaal-BTW-aangifte is de laatste dag van de maand na het kwartaal. Voor Q1 2026 (januari-maart) is de deadline 30 april 2026. Voor Q2 (april-juni) is de deadline 31 juli 2026. Bij te late aangifte begint de verzuimboete bij €65 en kan oplopen tot €1.319 bij ernstig verzuim.
+
+### Kan ik uitstel krijgen voor de IB-aangifte?
+
+Ja. Als je vóór 1 mei aangifte doet, hoef je geen uitstel aan te vragen. Doe je aangifte ná 1 mei, dan vraag je uitstel aan via Mijn Belastingdienst (online) of via een belastingadviseur. Ondernemers met een belastingadviseur die is aangesloten bij de NOB of RB krijgen automatisch uitstel tot 1 mei van het volgende jaar.
+
+### Wat is het fiscaal partnerschap bij ZZP'ers?
+
+Als jij en je partner beiden ZZP'er zijn of als één van beiden ZZP'er is, kunt u in veel gevallen als fiscale partners worden aangemerkt. Dit heeft invloed op aftrekposten, persoonsgebonden aftrek en de verdeling van vermogen. Aangifte.nl en Fiscaalgemak ondersteunen gezamenlijke aangifte voor fiscale partners.
+
+### Hoe werkt de eerste zakelijke aangifte BTW als je net begonnen bent?
+
+Als je je bedrijf op 1 juli 2026 inschrijft, doe je voor het eerste kwartaal (Q3: juli-september) aangifte vóór 31 oktober 2026. Je hebt dan drie maanden tijd om je in te werken in het boekhoudpakket en BTW correct te administreren. Meld je aan voor een gratis proefperiode bij SnelStart, e-Boekhouden of Moneybird en stel in het systeem in dat je kwartaalaangifte doet. Zo is de eerste aangifte al geautomatiseerd.

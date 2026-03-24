@@ -59,6 +59,14 @@ faq:
     a: "Met dienstrooster software begin je met het importeren van je medewerkerlijst en het instellen van contracturen. Je bouwt een weekrooster door diensten te slepen naar medewerkers. Na publicatie ontvangen medewerkers een notificatie via app. Moderne tools automatiseren controles op contracturen, verlof en WAB-verplichtingen."
   - q: "Voldoet dienstrooster software aan de Arbeidstijdenwet?"
     a: "Goede dienstrooster software ondersteunt ATW-compliance door automatische controles op maximale dagdiensten, minimale rusttijden en maximale weektotalen. Shiftbase en Dyflexis zijn specifiek gebouwd voor de Nederlandse markt en houden rekening met ATW-limieten bij het inroosteren."
+  - q: "Wat is het verschil tussen dienstrooster software en personeelsplanning software?"
+    a: "Dienstrooster software richt zich specifiek op het plannen van diensten per medewerker per dag, met inzicht in contracturen, beschikbaarheid en WAB-compliance. Personeelsplanning software is breder: het omvat ook capaciteitsplanning op langere termijn, projectbezetting en skills-matching. De twee overlappen sterk; veel tools bieden beide functies."
+  - q: "Kan ik dienstrooster software koppelen aan mijn salarissoftware?"
+    a: "Ja, de meeste professionele dienstrooster tools bieden koppelingen met Nederlandse salarissoftware. Shiftbase koppelt native met AFAS, Nmbrs en Loket.nl. Dyflexis integreert ook met meerdere salarispakketten. De koppeling zorgt dat gewerkte uren automatisch worden doorgezet naar de salarisadministratie, zonder handmatige invoer."
+  - q: "Hoeveel tijd bespaar ik met dienstrooster software?"
+    a: "Gemiddeld bespaar je 2 tot 5 uur per week op het maken en aanpassen van roosters. Bij teams van 15+ medewerkers loopt dit op tot 6-10 uur per week. De grootste tijdswinst zit in het automatisch verwerken van verlofaanvragen, ziekmeldingen en ruilverzoeken — taken die handmatig veel communicatie vereisen."
+  - q: "Welke dienstrooster software heeft de beste app voor medewerkers?"
+    a: "Deputy en Planday hebben de hoogst gewaardeerde medewerker-apps. Deputy scoort 4.8/5 in de App Store, Planday 4.6/5. Beide apps laten medewerkers hun rooster inzien, beschikbaarheid doorgeven en diensten ruilen. Shiftbase heeft een solide app (4.3/5) die specifiek is afgestemd op de Nederlandse markt."
 ---
 
 Het maken van een goed dienstrooster kost de gemiddelde leidinggevende 3 tot 6 uur per week. Dat klinkt misschien mee, maar op jaarbasis is dat 150 tot 300 uur — bijna 8 volle werkweken. En dan heb je nog de wijzigingen door ziekmelding, ruilverzoeken en last-minute aanpassingen niet meegerekend.
@@ -232,6 +240,146 @@ Bedrijfsrooster.nl is een eenvoudige online roosterapplicatie voor kleine teams 
 
 ---
 
+## Gedetailleerde prijsvergelijking
+
+Het is belangrijk om de totale kosten te begrijpen, niet alleen de vermelde basisprijs per gebruiker.
+
+| Software | Basisprijs | Min. gebruikers | Maandelijks voor 10 users | Jaarlijks voor 10 users |
+|---|---|---|---|---|
+| Shiftbase Starter | €3,00/user | 5 | €30 | €360 |
+| Shiftbase Business | €4,00/user | 5 | €40 | €480 |
+| Dyflexis | €2,50/user | Geen | €25 | €300 |
+| Planday Starter | €2,49/user | Geen | €24,90 | ~€299 |
+| Deputy Scheduling | €3,50/user | Geen | €35 | €420 |
+| Bedrijfsrooster.nl | €1,00/user | Geen | €10 | €120 |
+
+**Let op:** bij Shiftbase geldt een minimumafname van 5 gebruikers. Voor teams van 5 medewerkers is Dyflexis daardoor goedkoper (€12,50 vs €15/mnd). Bij grotere teams (20+) gaan bij Dyflexis volumekortingen gelden.
+
+### Wat zit er in de prijs?
+
+De prijsverschillen tussen tools worden duidelijker als je kijkt wat erin zit:
+
+**Shiftbase Starter (€3,00/user):** Roostering, urenregistratie, verlofbeheer, WAB-signalering, medewerkers-app, salarisexport. Dit is een compleet pakket dat bij concurrenten soms meer kost.
+
+**Dyflexis (€2,50/user):** Roostering, omzetgedreven planning, kassasysteemkoppelingen, personeelspoolbeheer. Salarisintegratie zit erin maar is minder uitgebreid voor de Nederlandse markt.
+
+**Planday (€2,49/user):** Roostering, communicatie, shift-ruilen, medewerkers-app. Salarisintegraties zijn beperkt voor NL; voor volledige loonverwerking is extra software nodig.
+
+**Deputy (€3,50/user):** Roostering, AI-optimalisatie, tijdregistratie, de beste medewerkers-app. Geen native WAB-module.
+
+---
+
+## Wanneer kies je welke tool?
+
+Na tientallen implementaties zie ik de beslissing steeds terugkomen tot een paar kernvragen.
+
+### Kies Shiftbase als:
+- Je in Nederland werkt en WAB-compliance niet wilt uitbesteden
+- Je al Nmbrs, AFAS of Loket.nl gebruikt voor salarisadministratie
+- Je meerdere afdelingen of locaties wilt beheren in één systeem
+- Je een alles-in-één pakket wilt (roostering + uren + verlof)
+
+**Typisch profiel:** Retailketen, zorginstelling, industrieel bedrijf. 10–200 medewerkers.
+
+### Kies Dyflexis als:
+- Je in de horeca of retail werkt en een kassasysteem hebt
+- Je omzetgedreven wilt plannen (bezetting afstemmen op drukke periodes)
+- Je een personeelspool hebt die je bij afzeggingen snel wilt mobiliseren
+
+**Typisch profiel:** Restaurant, café, winkelketen, snackbar. 5–150 medewerkers.
+
+### Kies Planday als:
+- De medewerkerservaring en communicatie je hoogste prioriteit zijn
+- Je in de horeca werkt met flexibele oproepkrachten die diensten onderling ruilen
+- Je geen complexe salarisintegratie nodig hebt
+
+**Typisch profiel:** Horeca met veel oproepkrachten, eventorganisaties. 8–100 medewerkers.
+
+### Kies Deputy als:
+- Gebruiksgemak voor managers je topprioriteit is
+- Je internationale teams hebt (Deputy ondersteunt 30+ landen)
+- Je AI-gestuurde roosteroptimalisatie wilt zonder te veel configuratie
+
+**Typisch profiel:** Schoonmaakbedrijf, facilitaire dienstverlening, internationale keten. 10–500 medewerkers.
+
+### Kies Bedrijfsrooster.nl als:
+- Je team kleiner is dan 10 medewerkers
+- Je budget erg krap is
+- Je alleen een digitale versie van je papieren rooster wilt, zonder extra functies
+
+**Typisch profiel:** Kleine winkel, eenmanszaak met medewerkers, startende onderneming.
+
+---
+
+## Praktijkvoorbeelden: zo werkt dienstrooster software in de praktijk
+
+### Voorbeeld 1: Restaurant met 18 oproepkrachten
+
+Een restaurant in Amsterdam met 18 medewerkers (mix van vast en oproep) maakte wekelijks 4-5 uur verlies aan roosteren via WhatsApp-groepen. Ruilverzoeken kwamen soms niet aan, en de manager wist nooit precies wie beschikbaar was.
+
+**Na implementatie van Planday:**
+- Medewerkers geven beschikbaarheid door via de app
+- Open diensten worden gepubliceerd; beschikbare medewerkers melden zich
+- Ruilverzoeken lopen via de app met automatische goedkeuring van de manager
+- Roostertijd per week: van 4,5 uur naar 45 minuten
+
+De communicatie via WhatsApp is vrijwel gestopt. Alle roostereditems zijn traceerbaar.
+
+### Voorbeeld 2: Thuiszorgorganisatie met 45 medewerkers
+
+Een thuiszorgbedrijf in de regio Utrecht had moeite met de complexe mix van contractsoorten (vast, min-max, oproep) en de strikte ATW-eisen voor de zorgsector. Excel-roosters leidden tot fouten die bij loonsverwerking problemen gaven.
+
+**Na implementatie van Shiftbase:**
+- Alle contractsoorten correct ingevoerd met bijbehorende limieten
+- ATW-controles actief: de software geeft een rode melding bij te korte rusttijden
+- Directe koppeling met Nmbrs: na afloop van de maand exporteert de planner de uren, de salarisadministrateur verwerkt ze in drie klikken
+- Verlofaanvragen lopen volledig via de app, inclusief digitale goedkeuring
+
+Tijdsinvestering in salarisvoorbereiding: van 6 uur naar 45 minuten per maand.
+
+### Voorbeeld 3: Supermarkt met wisselende diensten
+
+Een supermarkt in Eindhoven met 32 medewerkers had problemen met roosterpatronen: wisselende vroeg- en late diensten, weekendtoeslag-berekeningen, en de complexe deeltijdcontracten van bijbaners.
+
+**Na implementatie van Dyflexis:**
+- Rooster gekoppeld aan kassasysteem (Lightspeed): drukke momenten zijn zichtbaar per uur
+- Toeslagberekeningen automatisch verwerkt in de export naar salarissoftware
+- De manager plant nu op basis van de verwachte omzet, niet op gevoel
+- Personeelskosten als percentage van omzet gedaald van 18% naar 15,5%
+
+---
+
+## Integraties: wat koppelt aan wat?
+
+Dienstrooster software staat nooit op zichzelf. De waarde zit voor een groot deel in de koppelingen met andere systemen.
+
+### Salarisintegraties
+
+| Salarissoftware | Shiftbase | Dyflexis | Planday | Deputy |
+|---|---|---|---|---|
+| Nmbrs | ✅ Native | ✅ | ❌ | ❌ |
+| AFAS | ✅ Native | ⚠️ Via export | ❌ | ❌ |
+| Loket.nl | ✅ Native | ✅ | ❌ | ❌ |
+| HR2day | ✅ | ✅ | ❌ | ❌ |
+| ADP | ⚠️ Export | ⚠️ Export | ⚠️ Export | ✅ |
+| Xero | ❌ | ❌ | ⚠️ | ✅ |
+
+### Kassasysteemkoppelingen
+
+| Kassasysteem | Dyflexis | Shiftbase | Planday |
+|---|---|---|---|
+| Lightspeed | ✅ | ❌ | ❌ |
+| Untill | ✅ | ❌ | ❌ |
+| Omzetdata import | ✅ | ⚠️ Handmatig | ❌ |
+
+### Communicatiekoppelingen
+
+- **Slack:** Shiftbase en Deputy bieden notificaties via Slack bij roosterwijzigingen
+- **Microsoft Teams:** Deputy en Shiftbase koppelen met Teams voor planningsberichten
+- **WhatsApp:** Alle tools hebben een eigen app; directe WhatsApp-integratie is beperkt
+
+---
+
 ## Sectorspecifieke aanbevelingen
 
 ### Horeca (restaurant, café, hotel)
@@ -254,6 +402,44 @@ Reden: Shiftbase voor NL markt en WAB. Deputy als je mobiele teams op meerdere l
 **Beste keuze:** Shiftbase of Quinyx (100+ medewerkers)
 Reden: Ploegendiensten en complexe ATW-regelgeving vragen om sterke compliance-functies.
 
+### Transport en logistiek
+**Beste keuze:** Deputy of Shiftbase
+Reden: Chauffeurs en bezorgers werken met wisselende diensten en locaties. Deputy's GPS-inchecken en mobiele tijdregistratie passen goed bij veldwerk. Shiftbase is sterk als je ook rittenregistratie wilt koppelen aan salarisverwerking.
+
+### Beveiliging
+**Beste keuze:** Shiftbase
+Reden: Beveiliging werkt met complexe dienstpatronen (avond, nacht, weekend), strikte ATW-regels en vaak met wisseldienst-toeslagen. Shiftbase's toeslagberekeningen en WAB-compliance zijn hier onmisbaar.
+
+---
+
+## WAB en ATW: wat moet je weten?
+
+De Wet arbeidsmarkt in balans (WAB) en de Arbeidstijdenwet (ATW) zijn twee wetten die direct invloed hebben op je roosterbeleid. Goede dienstrooster software helpt je hieraan te voldoen.
+
+### WAB — de meest gemaakte fouten
+
+De WAB heeft gevolgen voor oproepkrachten en nulurencontracten. De meest gemaakte fouten die ik in de praktijk zie:
+
+**1. Geen minimale opzegtermijn bij oproepkrachten.** De WAB verplicht je om een oproepkracht minimaal 4 dagen van tevoren op te roepen. Als je dit korter doet, heeft de medewerker het recht de oproep te weigeren. Shiftbase en Dyflexis kunnen je hierop waarschuwen bij het publiceren van roosters.
+
+**2. Aanbod vaste uren na 12 maanden.** Na een jaar oproepcontract ben je verplicht om de medewerker een aanbod te doen voor een contract met vaste uren (gebaseerd op het gemiddeld aantal uren in het afgelopen jaar). Zonder systeem verlies je dit overzicht. Shiftbase signaleert dit automatisch.
+
+**3. Annuleringsvergoeding.** Als je een oproep binnen 4 dagen annuleert, heb je alsnog een betalingsverplichting. Dienstrooster software die WAB-compliant is, registreert dit en maakt de berekening inzichtelijk.
+
+### ATW — de limieten
+
+De Arbeidstijdenwet legt grenzen aan wat je medewerkers mogen werken:
+
+| Regel | Limiet |
+|---|---|
+| Max. dagdienst | 12 uur |
+| Max. weekdienst | 60 uur |
+| Min. rusttijd per dag | 11 uur |
+| Min. rusttijd per week | 36 uur aaneengesloten |
+| Max. nachtdiensten in een aaneengesloten periode | 5 |
+
+Shiftbase en Dyflexis controleren automatisch bij het inplannen of een dienst deze limieten overschrijdt. Zo voorkom je niet alleen juridische problemen, maar ook overbelasting van je medewerkers.
+
 ---
 
 ## Dienstrooster software implementeren: tips
@@ -273,6 +459,26 @@ Stel de koppeling in en test de export vóór de eerste echte salarisrun. Contro
 ### Tip 5: Stel meldingen in voor WAB-signaleringen
 Activeer alle automatische meldingen voor WAB- en ATW-overschrijdingen. Beter een melding negeren dan er een missen.
 
+### Tip 6: Gebruik de proefperiode serieus
+Alle tools bieden een gratis proefperiode van 14-30 dagen. Gebruik die niet om de interface te klikken, maar om een echte werkweek te roosteren met je eigen medewerkers en uren. Pas dan zie je of de tool past bij jouw werkwijze.
+
+### Tip 7: Zorg voor medewerkers-adoptie van de app
+De beste tool helpt niet als medewerkers hun rooster niet via de app inzien. Plan een korte introductiemiddag van 15 minuten per team: laat zien hoe ze de app installeren, hun beschikbaarheid doorgeven en ruilverzoeken indienen. Dit bepaalt voor 80% het succes van de implementatie.
+
+---
+
+## Veelgemaakte fouten bij dienstrooster software
+
+**Fout 1: Inplannen zonder contracturen in te stellen.** Als je de contracturen niet configureert, geeft de software geen waarschuwing bij overuren. Dit is de meest gemaakte configuratiefout. Neem een uur de tijd om alle medewerkers correct in te stellen.
+
+**Fout 2: Verlof niet koppelen aan het rooster.** Als verlof en roostering in aparte systemen leven, plan je medewerkers dubbel in op vrije dagen. Zorg dat verlofaanvragen direct zichtbaar zijn in de roosterediteur.
+
+**Fout 3: Salarisexport niet testen vóór de eerste loonrun.** Ik zie regelmatig dat bedrijven een tool implementeren en de eerste salarisexport niet controleren. Test met een kleine steekproef: kloppen de uren in de export overeen met het rooster?
+
+**Fout 4: Te veel medewerkers tegelijk migreren.** Begin met één afdeling of locatie. Leer het systeem kennen, los kinderziektes op, en rol daarna uit. Wie iedereen tegelijk migreert, creëert chaos.
+
+**Fout 5: Mobiele app vergeten.** Een roosterprogramma zonder medewerkers-app is half werk. Als medewerkers het rooster nog steeds via WhatsApp opvragen, haal je geen tijdswinst.
+
 ---
 
 ## Conclusie: welke dienstrooster software past bij jou?
@@ -287,7 +493,58 @@ Activeer alle automatische meldingen voor WAB- en ATW-overschrijdingen. Beter ee
 
 **Kies Bedrijfsrooster.nl** als je een klein team hebt en een minimale, goedkope oplossing zoekt.
 
-Test altijd gratis voordat je een contract tekent.
+Test altijd gratis voordat je een contract tekent. Alle vijf tools bieden een gratis proefperiode:
+
+- Shiftbase: 14 dagen gratis, geen creditcard vereist
+- Dyflexis: 30 dagen gratis demo
+- Planday: 14 dagen gratis
+- Deputy: Gratis starterplan (1 locatie), of 30 dagen proefperiode
+- Bedrijfsrooster.nl: Gratis basisplan
+
+<a href="https://www.shiftbase.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Shiftbase →</a>
+
+<a href="https://www.dyflexis.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Dyflexis →</a>
+
+<a href="https://www.planday.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Planday gratis →</a>
+
+<a href="https://www.deputy.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Deputy gratis →</a>
+
+---
+
+## Dienstrooster software voor specifieke sectoren: verdieping
+
+### Horeca: complexe oproepkracht-situaties
+
+De horeca heeft de meest complexe roostersituatie in Nederland. Je werkt met een mix van vaste medewerkers, min-max-contractanten en oproepkrachten. Weekendtoeslagen, avondtoeslagen en de berekening van vakantietoeslag op variabele uren zijn standaard.
+
+**Wat ik in de praktijk zie bij horecabedrijven:**
+
+Restaurants met Planday lossen het ruilprobleem het best op. Medewerkers zijn gewend om via de app diensten te ruilen zonder de manager erin te betrekken. Bij drukke periodes (Kerst, Koningsdag, festivalweekends) laat de manager open shifts publiceren en melden enthousiaste medewerkers zich aan.
+
+Dyflexis wordt ingezet door grotere horecabedrijven (10+ medewerkers) die een kassasysteem hebben. De bezettingsgrafiek — die per uur laat zien hoeveel medewerkers je hebt ingepland vs. hoeveel je op basis van historische omzet nodig hebt — is voor restaurant- en cafébeheerders een echte eye-opener.
+
+### Retail: meerdere filialen plannen
+
+Bij retailketens heb je te maken met cross-locatie plannen: medewerkers die op meerdere filialen kunnen werken. Shiftbase en Dyflexis zijn hier het sterkst. Je plant een medewerker op Locatie A, maar als er op Locatie B een tekort is, zie je direct welke medewerkers beschikbaar zijn en ook bevoegd om op die locatie te werken.
+
+Voor kassamedewerkers zijn certificeringen ook relevant: niet iedereen mag alles doen. Shiftbase laat je functievereisten instellen per dienst, zodat je nooit een ongekwalificeerde medewerker inplant voor een dienst die specifieke vaardigheden vereist.
+
+### Zorg: ATW en zorgspecifieke regelgeving
+
+De zorgsector heeft de strengste ATW-toepassing. Nachtdiensten, slaapdienstsituaties, reistijd als werktijd bij thuiszorg — allemaal factoren die in een gewoon roosterprogramma niet goed worden verwerkt.
+
+Shiftbase is mijn aanbeveling voor MKB-zorgorganisaties. De sectorspecifieke ATW-instellingen voor de zorg zijn uitgewerkt, en de koppeling met Nmbrs (populair bij zorginstellingen) werkt native. Quinyx is een alternatief voor grotere organisaties (100+ medewerkers) maar heeft een hogere instapprijs en een langere implementatietijd.
+
+---
+
+## Lees ook
+
+- **[Beste Personeelsplanning Software 2026](/blog/beste-personeelsplanning-software-2026/)** — Bredere planningsfuncties
+- **[Shiftbase Review 2026](/blog/shiftbase-review-2026/)** — Uitgebreide review van onze topkeuze
+- **[Planday Review 2026](/blog/planday-review-2026/)** — Diepgaande Planday-analyse
+- **[Beste HR-Software MKB 2026](/blog/beste-hr-software-mkb-2026/)** — HR en personeelsbeheer
+- **[Beste Loonadministratie Software](/blog/beste-loonadministratie-software-mkb-2026/)** — Salarisverwerking
+- **[AFAS Review 2026](/blog/afas-review-2026/)** — HRM en salarisadministratie gecombineerd
 
 ---
 
@@ -307,3 +564,21 @@ Met dienstrooster software begin je met het importeren van je medewerkerlijst en
 
 **Voldoet dienstrooster software aan de Arbeidstijdenwet?**
 Goede dienstrooster software ondersteunt ATW-compliance door automatische controles op maximale dagdiensten, minimale rusttijden en maximale weektotalen. Shiftbase en Dyflexis zijn specifiek gebouwd voor de Nederlandse markt en houden rekening met ATW-limieten bij het inroosteren.
+
+**Wat is het verschil tussen dienstrooster software en personeelsplanning software?**
+Dienstrooster software richt zich specifiek op het plannen van diensten per medewerker per dag, met inzicht in contracturen, beschikbaarheid en WAB-compliance. Personeelsplanning software is breder: het omvat ook capaciteitsplanning op langere termijn, projectbezetting en skills-matching. De twee overlappen sterk; veel tools bieden beide functies.
+
+**Kan ik dienstrooster software koppelen aan mijn salarissoftware?**
+Ja, de meeste professionele dienstrooster tools bieden koppelingen met Nederlandse salarissoftware. Shiftbase koppelt native met AFAS, Nmbrs en Loket.nl. Dyflexis integreert ook met meerdere salarispakketten. De koppeling zorgt dat gewerkte uren automatisch worden doorgezet naar de salarisadministratie, zonder handmatige invoer.
+
+**Hoeveel tijd bespaar ik met dienstrooster software?**
+Gemiddeld bespaar je 2 tot 5 uur per week op het maken en aanpassen van roosters. Bij teams van 15+ medewerkers loopt dit op tot 6-10 uur per week. De grootste tijdswinst zit in het automatisch verwerken van verlofaanvragen, ziekmeldingen en ruilverzoeken — taken die handmatig veel communicatie vereisen.
+
+**Welke dienstrooster software heeft de beste app voor medewerkers?**
+Deputy en Planday hebben de hoogst gewaardeerde medewerker-apps. Deputy scoort 4.8/5 in de App Store, Planday 4.6/5. Beide apps laten medewerkers hun rooster inzien, beschikbaarheid doorgeven en diensten ruilen. Shiftbase heeft een solide app (4.3/5) die specifiek is afgestemd op de Nederlandse markt.
+
+**Kan ik medewerkers zichzelf inschrijven voor diensten?**
+Ja, deze functie heet "open shifts" of "beschikbare diensten". Planday is de sterkste in dit segment: je publiceert een dienst zonder medewerker, en beschikbare medewerkers melden zich aan via de app. Jij kiest wie de dienst krijgt. Shiftbase en Deputy bieden vergelijkbare functionaliteit.
+
+**Hoe werkt verlofbeheer in dienstrooster software?**
+Medewerkers dienen verlofaanvragen in via de app. De manager keurt goed of af, ook via de app. Goedgekeurd verlof wordt direct zichtbaar in het rooster: als je probeert een medewerker in te plannen op zijn verlofdag, krijg je een waarschuwing. Shiftbase en Dyflexis koppelen het verlofregistratie aan de uren- en salarisadministratie.

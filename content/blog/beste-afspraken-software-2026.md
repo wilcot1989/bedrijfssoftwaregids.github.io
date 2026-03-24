@@ -310,6 +310,140 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 
 ---
 
+## Gedetailleerde prijsvergelijking afsprakensoftware
+
+| Tool | Gratis | Basis | Professioneel | Team/Enterprise |
+|---|---|---|---|---|
+| **Calendly** | ✅ (1 type) | Standard: €10/user/mnd | Teams: €16/user/mnd | Enterprise: op aanvraag |
+| **SimplyBook.me** | ✅ (15 bkng/mnd) | Basic: €8,25/mnd | Standard: €24,90/mnd | Premium: €49,90/mnd |
+| **Tidycal** | ✅ (10/mnd) | Pro: $29 eenmalig | - | - |
+| **Setmore** | ✅ (4 users) | Pro: €5/user/mnd | - | - |
+| **Acuity Scheduling** | ❌ (7d trial) | Emerging: €16/mnd (1 user) | Growing: €27/mnd (6 users) | Powerhouse: €49/mnd (36 users) |
+| **Salonkee** | ❌ | Op aanvraag | Op aanvraag | Op aanvraag (~€30-80/mnd) |
+
+**Totaalkosten per jaar voor een consultant of ZZP'er (1 gebruiker):**
+
+- Calendly gratis: **€0** (1 afspraaktype, geen betalingen)
+- Tidycal Pro: **€27 eenmalig** (levenslang, onbeperkt)
+- Calendly Standard: **€120/jaar**
+- SimplyBook.me Standard: **€299/jaar**
+- Acuity Emerging: **€192/jaar**
+
+Voor solo-gebruik is Tidycal onverslaanbaar in prijs. Voor multi-user of uitgebreide functies is SimplyBook.me de beste prijs-kwaliteitsverhouding.
+
+---
+
+## Wanneer kies je welke tool?
+
+### Kies Calendly als:
+- Je consulent of ZZP'er bent die kennismakingsgesprekken en salesgesprekken plant
+- Professionele uitstraling (eigen branding, Zoom/Teams-integratie) belangrijk is
+- Je teamleden via round-robin routing wilt verdelen over beschikbare slots
+- Integraties met HubSpot, Salesforce of andere CRM-systemen nodig zijn
+
+**Typisch profiel:** Consultant, coach, salesteam, freelancer, kleine dienstverlenende teams.
+
+### Kies SimplyBook.me als:
+- Je klanten via iDEAL moeten kunnen betalen bij het boeken
+- Je meerdere medewerkers en diensten hebt (klanten kiezen bij het boeken)
+- Een volledig aanpasbare boekingspagina met eigen branding noodzakelijk is
+- Je herinneringen via SMS wilt sturen
+
+**Typisch profiel:** Fysiotherapeut, coach, trainer, thuiszorgorganisatie, klinieken.
+
+### Kies Tidycal als:
+- Je budget zo laag mogelijk wilt houden
+- Je de basisfuncties van Calendly wilt zonder maandelijkse kosten
+- Je geen geavanceerde teamfuncties of betalingen nodig hebt
+
+**Typisch profiel:** Startende ZZP'er, freelancer met beperkt budget.
+
+### Kies Setmore als:
+- Je een klein team hebt (2-4 medewerkers) en gratis wilt starten
+- Klanten zelf een medewerker willen kiezen bij het boeken
+- Een mobiele app voor beheer onderweg prioriteit is
+
+**Typisch profiel:** Kleine praktijk, coaching-duo, klein adviesteam.
+
+### Kies Acuity Scheduling als:
+- Je pakketten, abonnementen of strippenkaarten verkoopt (10-rittenkaart, maandabonnement)
+- Je intakeformulieren bij het boeken wilt verzamelen (anamnese, intake-vragenlijst)
+- HIPAA-compliance verplicht is (medische praktijken)
+- Meerdere locaties en uitgebreide beschikbaarheidsregels nodig zijn
+
+**Typisch profiel:** Yogastudio, therapeutenpraktijk, medisch specialist, fitnesscoach met meerdere locaties.
+
+### Kies Salonkee als:
+- Je een kapsalon, schoonheidssalon of barbershop runt
+- Een kassasysteem met iDEAL gecombineerd met afsprakenbeheer de standaard is
+- Klantenkaarten met behandelhistorie en voorraadbeheer erbij nodig zijn
+
+**Typisch profiel:** Kapsalon, schoonheidssalon, barbershop, nagelstudio.
+
+---
+
+## Praktijkvoorbeelden
+
+### Voorbeeld 1: Financieel coach bespaart 5 uur per week
+
+Een financieel coach gaf 20 sessies per week van een uur. Ze plantte afspraken via e-mail, wat gemiddeld 3-4 heen-en-weer berichten kostte per boeking. Plus herinneringen sturen, no-shows opvolgen. Totale tijd per week aan agendabeheer: 5 uur.
+
+**Na implementatie van Calendly Standard (€10/mnd):**
+- Klanten boeken via haar website-link
+- Calendly controleert haar agenda real-time en biedt alleen vrije slots aan
+- Automatische bevestiging met Zoom-link (gegenereerd via Zoom-integratie)
+- Herinnering 24 uur en 2 uur voor de afspraak
+- No-show rate: van 22% naar 8%
+
+Tijdsbesparing: 4,5 uur per week. ROI van €10/mnd abonnement: terugverdiend in twee afspraken.
+
+### Voorbeeld 2: Fysiotherapeut-praktijk met 3 therapeuten en iDEAL
+
+Een fysiotherapiepraktijk met 3 therapeuten werkte met telefonisch afsprakenbeheer. Receptioniste was 2 uur per dag bezig met afspraken inplannen. Klanten belden ook buiten kantooruren, waarna ze moesten terugbellen.
+
+**Na implementatie van SimplyBook.me Standard (€24,90/mnd):**
+- Online boekingspagina: klant kiest behandeling, therapeut en tijdslot
+- iDEAL-betaling via Mollie: klant betaalt €15 aanbetaling bij boeking
+- SMS-herinnering 24 uur van tevoren (via €7/mnd SMS add-on)
+- Google Calendar-sync per therapeut
+
+No-show rate daalde van 18% naar 4%. Receptioniste: van 2 uur naar 20 minuten per dag aan agendabeheer. Buiten-kantooruren-boekingen: 35% van alle boekingen.
+
+### Voorbeeld 3: Yogastudio verkoopt strippenkaarten via Acuity
+
+Een yogastudio bood zowel losse lessen als 10-rittenkaarten aan. Beheer liep via een WhatsApp-groep voor lesrooster en handmatige bijhouding van strippenkaarten in een spreadsheet.
+
+**Na implementatie van Acuity Scheduling Growing (€27/mnd):**
+- Lesrooster online: klanten boeken losse lessen of gebruiken hun strippenkaartbalans
+- Strippenkaarten en maandabonnementen verkocht via Stripe-koppeling
+- Automatische herinnering 24 uur voor de les
+- Wachtlijst: als een les vol is, kunnen klanten zich op de wachtlijst zetten en ontvangen ze automatisch een bericht bij annulering
+
+Spreadsheet: vervangen. Studio-benutting steeg van 72% naar 88%. Maandelijkse strippenkaartverkoop verdubbeld door de zichtbaarheid op de boekingspagina.
+
+---
+
+## Integraties: wat koppelt aan wat?
+
+| Integratie | Calendly | SimplyBook.me | Acuity | Setmore |
+|---|---|---|---|---|
+| Google Calendar | ✅ | ✅ | ✅ | ✅ |
+| Outlook / Office 365 | ✅ | ✅ | ✅ | ✅ |
+| Apple Calendar | ✅ | ❌ | ✅ | ✅ |
+| Zoom | ✅ | ✅ | ✅ | ✅ |
+| Google Meet | ✅ | ✅ | ✅ | ✅ |
+| Microsoft Teams | ✅ | ❌ | ✅ | ✅ |
+| HubSpot CRM | ✅ | ❌ | ✅ | ❌ |
+| Salesforce | ✅ | ❌ | ✅ | ❌ |
+| Stripe betalingen | ✅ | ✅ | ✅ | ✅ |
+| Mollie (iDEAL) | ❌ | ✅ | ❌ | ❌ |
+| PayPal | ✅ | ✅ | ✅ | ✅ |
+| Zapier | ✅ | ✅ | ✅ | ✅ |
+
+**Sleutelobservatie:** Voor iDEAL-betalingen bij het boeken is SimplyBook.me via Mollie de enige tool in dit overzicht met native iDEAL-ondersteuning. De overige tools ondersteunen Stripe (waarmee iDEAL ook mogelijk is als betaalmethode, maar minder gebruiksvriendelijk voor klanten).
+
+---
+
 ## Welke afsprakensoftware past bij jou?
 
 | Situatie | Aanbevolen software | Waarom |
@@ -320,6 +454,9 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 | **Klein team (2-4 personen)** | Setmore | Gratis tot 4 gebruikers |
 | **Complexe planning** | Acuity Scheduling | Meest uitgebreide functies |
 | **Kapsalon / schoonheidssalon** | Salonkee | Branche-specifiek, alles-in-een |
+| **iDEAL-betalingen bij boeken** | SimplyBook.me | Enige met native Mollie/iDEAL |
+| **Pakketten en abonnementen** | Acuity Scheduling | Strippenkaarten, maandabonnementen |
+| **Medische praktijk (HIPAA)** | Acuity Scheduling | HIPAA-compliant |
 
 ---
 
@@ -342,6 +479,74 @@ Bij duurdere diensten kun je een aanbetaling vragen bij het boeken. Dit verminde
 
 ---
 
+## No-shows verminderen: bewezen strategieën
+
+No-shows zijn een serieus probleem voor elk bedrijf dat op afspraken werkt. Een fysiotherapeut met 20% no-show verliest bij €60/sessie en 5 sessies per dag €60 per dag, €1.260 per maand. Afsprakensoftware is de meest effectieve tool om no-shows te verminderen.
+
+### Automatische herinneringen: de sleutel
+
+Alle tools in dit overzicht sturen automatische herinneringen. De combinatie die het beste werkt:
+- **24 uur voor de afspraak:** e-mail (hoge openingsrate omdat mensen hun agenda controleren)
+- **2-4 uur voor de afspraak:** SMS (hogere urgentie, directe aandacht)
+
+Onderzoek laat zien dat dubbele herinneringen (e-mail + SMS) no-shows met 30-50% verminderen ten opzichte van geen herinneringen.
+
+**Kosten van SMS-herinneringen:**
+- SimplyBook.me: SMS als betaalde add-on (~€7/mnd)
+- Acuity Scheduling: SMS inbegrepen in alle betaalde plannen
+- Setmore: SMS in Pro-plan (€5/user/mnd)
+- Calendly: SMS niet beschikbaar in standaardplannen (alleen via integraties)
+
+### Aanbetalingen: de sterkste no-show-reductiemaatregel
+
+Een kleine aanbetaling (€10-25) bij het boeken is de meest effectieve maatregel. De psychologie is helder: wie heeft betaald, komt ook. Bovendien ontvang je de aanbetaling al vóór de afspraak, wat je cashflow verbetert.
+
+**Tools met betalingsintegratie voor aanbetalingen:**
+- SimplyBook.me: Mollie (iDEAL) + Stripe + PayPal
+- Acuity Scheduling: Stripe, PayPal, Square
+- Setmore: Stripe, Square (betaald plan)
+- Calendly: Stripe, PayPal (Standard plan en hoger)
+
+### Annuleringsbeleid communiceren
+
+Vermeld altijd je annuleringsbeleid op de boekingspagina én in de bevestigingsmail. Klanten die van tevoren weten dat ze bij late annulering de aanbetaling kwijtraken, zijn bewuster met hun boeking. Alle tools in dit overzicht laten je een annuleringsbeleid instellen in de boekingsconfiguratie.
+
+---
+
+## Branche-specifieke overwegingen
+
+### Gezondheidszorg en therapie
+
+Zorgaanbieders (fysiotherapeuten, psychologen, huisartsen) hebben specifieke eisen:
+- **AVG/privacy:** Patiëntgegevens zijn bijzondere persoonsgegevens. Kies een tool met een verwerkersovereenkomst (DPA) en EU-dataopslag.
+- **HIPAA:** Alleen relevant als je ook Amerikaanse patiënten hebt. Acuity Scheduling is HIPAA-compliant.
+- **Intakeformulieren:** Acuity Scheduling en SimplyBook.me ondersteunen uitgebreide intake-vragenlijsten bij het boeken.
+- **Terugkerende afspraken:** Patiënten met een behandelplan boeken meerdere sessies. Acuity en SimplyBook.me bieden recurring appointment functies.
+
+**Beste keuze:** Acuity Scheduling voor complexe praktijken, SimplyBook.me voor kleinere praktijken met focus op iDEAL.
+
+### Coaching en consultancy
+
+Coaches en consultants werken typisch met kennismakingsgesprekken (gratis, korter) en betaalde sessies. Ze willen:
+- Verschillende afspraaktypen met verschillende duren en prijzen
+- Automatische Zoom of Teams-link aanmaken
+- Betalingsverwerking bij boeking voor betaalde sessies
+- Buffer tussen afspraken voor voorbereiding
+
+**Beste keuze:** Calendly Standard of Teams. De Zoom-integratie is de sterkste en de interface is het meest professioneel voor B2B.
+
+### Detailhandel en dienstverlening
+
+Winkels en dienstverleners (stylisten, autoreparatie, thuisservice) hebben andere behoeften:
+- Meerdere medewerkers, klant kiest zelf
+- Locatie-informatie prominent in de bevestiging
+- iDEAL-betaling (Nederlandse klanten)
+- Aanpasbare boekingspagina met eigen huisstijl
+
+**Beste keuze:** SimplyBook.me. De meest uitgebreide aanpassing van de boekingspagina, native iDEAL, en Nederlandse taalondersteuning.
+
+---
+
 ## Conclusie
 
 De juiste afsprakensoftware bespaart je tijd, vermindert no-shows en biedt je klanten het gemak van 24/7 boeken via een online afsprakensysteem. Wil je je volledige werkwijze digitaliseren? Bekijk dan ook de [beste documenten management software 2026](/blog/beste-documenten-management-2026/) voor het bijhouden van dossiers en formulieren, of vergelijk [Notion vs Monday.com](/blog/notion-vs-monday-vergelijking-2026/) als je ook je interne planning wilt vereenvoudigen. De beste afsprakenplanner hangt af van je bedrijfstype en behoeften:
@@ -354,5 +559,64 @@ De juiste afsprakensoftware bespaart je tijd, vermindert no-shows en biedt je kl
 - **Beste voor salons**: [Salonkee](https://salonkee.com/) -- branche-specifiek alles-in-een platform.
 
 Bekijk ook ons artikel over de [beste planning software voor horeca](/blog/beste-planning-software-horeca-2026/) voor branche-specifieke planningsoplossingen.
+
+## AVG en privacyoverwegingen bij afsprakensoftware
+
+Afsprakensoftware verwerkt persoonsgegevens: namen, e-mailadressen, telefoonnummers, en soms medische informatie of andere gevoelige gegevens. Dit valt onder de AVG.
+
+### Wat je moet regelen
+
+**Verwerkersovereenkomst:** Als je een SaaS-tool gebruikt die persoonsgegevens verwerkt namens jou, is de tool-aanbieder de verwerker en ben jij de verwerkersverantwoordelijke. Je moet een DPA (Data Processing Agreement) tekenen met de aanbieder. Alle tools in dit overzicht bieden DPA's aan.
+
+**Toestemming voor marketing-berichten:** Als je bij het boeken ook toestemming vraagt voor nieuwsbrief-inschrijving, moet dat een actief vakje zijn (geen vooraf aangevinkt vakje). SimplyBook.me en Acuity Scheduling ondersteunen dit in hun boekingsformulier.
+
+**Bewaartermijnen:** Boekingsdata mag je niet onbeperkt bewaren. Stel een retentiebeleid in: klantgegevens verwijderen na 2-3 jaar inactiviteit is een redelijke termijn voor de meeste dienstverleners. Sommige tools laten je dit automatiseren.
+
+**Privacyverklaring:** Verwijs in je boekingsbevestiging naar je privacyverklaring. Alle tools laten je een link toevoegen aan de bevestigingsmail.
+
+### Datalocatie
+
+- **Calendly:** Servers in de VS. EU-klanten kunnen een DPA tekenen maar data-opslag is primair in de VS.
+- **SimplyBook.me:** Servers in Europa (via Amazon Web Services EU-regio). Goed voor AVG-bewuste bedrijven.
+- **Acuity Scheduling (Squarespace):** Servers in de VS. DPA beschikbaar.
+- **Setmore:** Servers in de VS. DPA beschikbaar.
+- **Salonkee:** Europese aanbieder, data in Europa.
+
+Voor medische praktijken en andere sectoren met strikte privacyvereisten is SimplyBook.me (Europese dataopslag) of Salonkee de veiligste keuze.
+
+---
+
+## Veelgestelde vragen over afsprakensoftware
+
+**Kan ik afsprakensoftware koppelen aan mijn facturatiesoftware?**
+Niet direct in de meeste tools, maar via Zapier wel. Een koppeling waarbij een geboekte en betaalde afspraak automatisch een factuur aanmaakt in Moneybird of Exact Online is haalbaar. Kosten: Zapier gratis plan (100 taken/mnd) of betaald ($19,99/mnd voor 750 taken).
+
+**Wat als een klant zijn afspraak wil annuleren of verzetten?**
+Alle tools in dit overzicht bieden klanten de mogelijkheid om via de bevestigingsmail zelf een afspraak te annuleren of te verzetten, binnen de regels die jij instelt (bijv. minimaal 24 uur van tevoren). Dit scheelt communicatie-heen-en-weer.
+
+**Kan ik afsprakensoftware gebruiken voor groepsbijeenkomsten of workshops?**
+Ja. Acuity Scheduling, SimplyBook.me en Setmore ondersteunen groepsboekingen met een maximum aantal deelnemers. Calendly Teams ondersteunt ook collectieve beschikbaarheid voor teamgesprekken.
+
+**Wordt er ook een bevestiging gestuurd naar mij als aanbieder?**
+Ja, alle tools sturen bij elke boeking een bevestigingsmail naar de aanbieder. Bovendien verschijnt de afspraak automatisch in je gesynchroniseerde agenda (Google Calendar, Outlook).
+
+---
+
+## Gratis proefperiodes per tool
+
+Alle tools bieden een gratis probeerperiode. Gebruik die om met een echt scenario te testen.
+
+| Tool | Gratis plan | Proefperiode betaald plan |
+|---|---|---|
+| Calendly | Ja, 1 afspraaktype | 14 dagen gratis |
+| SimplyBook.me | Ja, 15 boekingen/mnd | 14 dagen gratis |
+| Tidycal | Ja, 10 boekingen/mnd | Geen proefperiode, eenmalig $29 |
+| Setmore | Ja, 4 gebruikers | 30 dagen gratis |
+| Acuity Scheduling | Nee | 7 dagen gratis |
+| Salonkee | Nee | Demo op aanvraag |
+
+**Mijn advies voor het testen:** Nodig een vriend of collega uit als "testklant" en laat hem door het boekingsproces gaan. Kijk of de boeking logisch voelt, of de bevestigingsmail duidelijk is, en of de herinnering op het juiste moment aankomt. Dit geeft je een eerlijker beeld dan zelf door de instellingen klikken.
+
+---
 
 Op zoek naar meer opties? Gebruik de **[productiviteit keuzehulp](/tools/productiviteit/keuzehulp/)**, bereken je **[softwarekosten](/tools/productiviteit/keuzehulp/)** of bekijk de **[volledige productiviteitsvergelijking](/categories/productiviteit/)** voor alle tools op een rij.

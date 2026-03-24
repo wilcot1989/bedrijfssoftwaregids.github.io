@@ -443,3 +443,145 @@ Start vandaag nog met één van de gratis proefversies en stel eenmalig de app i
 ---
 
 *Meer lezen over productiviteitstools voor ondernemers? Bekijk ook mijn vergelijkingen van de [beste urenregistratie software](/blog/beste-urenregistratie-software-2026/) en de [beste software voor ZZP'ers](/blog/beste-software-zzp-2026/).*
+
+---
+
+## Uitgebreide gids: de Belastingdienst en je rittenadministratie
+
+In mijn praktijk zie ik veel ZZP'ers en ondernemers die rittenregistratie te licht nemen — tot ze een belastingcontrole krijgen en hun aftrekpost alsnog wordt afgewezen. Hier is alles wat je moet weten om een waterdichte administratie op te bouwen.
+
+### Wat telt de Belastingdienst als "zakelijke kilometer"?
+
+Niet elke kilometer die je rijdt voor je werk is automatisch zakelijk. De Belastingdienst maakt het volgende onderscheid:
+
+**Zakelijk:** Reizen van je werkplek naar een klant, leverancier, vergaderlocatie of beurs. Reizen voor cursussen, trainingen of congressen. Woon-werkverkeer als je regelmatig van wisselende locaties werkt.
+
+**Privé:** De dagelijkse woon-werkrit naar een vaste werkplek (ook al is die klant van jou). Omrijden voor een boodschap. Privébezoeken gecombineerd met een zakelijk bezoek waarbij het privédeel duidelijk is.
+
+**Grijs gebied:** Reizen naar een zakelijk etentje waaraan ook privéaspecten zitten. De Belastingdienst kijkt naar de primaire intentie van de rit.
+
+### Bewaarplicht: precies zeven jaar, niet minder
+
+De Belastingdienst kan je administratie zeven jaar terug opvragen. Dat betekent dat de rittenadministratie van 2019 bewaard moet blijven tot en met 2026. Exporteer elk kwartaal een PDF of Excel-rapport en sla dit op een externe locatie op (cloud, externe harde schijf). Verlies je de data, dan verlies je ook de aftrekpost.
+
+### Wat als je een deel van het jaar ben vergeten te registreren?
+
+Dit is een situatie die ik regelmatig tegenkom. Je bent in januari begonnen met de app, maar hebt in mei drie weken overgeslagen omdat je druk was. Wat nu?
+
+De Belastingdienst accepteert extrapolatie als er aantoonbare reden is om te geloven dat de niet-geregistreerde periode vergelijkbaar is met de wel-geregistreerde periode. Bewaar in dat geval ook je agendahistorie als aanvullend bewijs: de afspraken in je agenda ondersteunen de claim dat je op bepaalde dagen zakelijk reed.
+
+Dit is echter een zwakke positie. Verstandiger is het om ontbrekende periodes zo snel mogelijk zelf in te schatten en als "geschat" te markeren in je administratie — beter dan niets.
+
+---
+
+## Diepgaande vergelijking: de vijf apps naast elkaar
+
+Na jaren werken met deze tools heb ik een genuanceerder beeld dan de standaard vergelijking. Hier zijn de inzichten die je niet in een productbrochure vindt.
+
+### MileIQ: de beste voor consistentie
+
+MileIQ's grote voordeel is niet de interface maar de betrouwbaarheid. De app detecteert ritten op de achtergrond zonder dat je er aan hoeft te denken. Ik heb MileIQ-gebruikers gesproken die na een jaar aangifteseizoen een perfect rapport produceerden zonder ooit bewust aan de app te hebben gedacht — alleen de wekelijkse labelsessie.
+
+**Maar let op:** MileIQ is door Microsoft overgenomen en de roadmap is minder dynamisch dan bij pure-play concurrenten. De app ontvangt minder regelmatige updates dan TripLog. Gebruikers die geavanceerde rapportages willen per klant of project, lopen tegen beperkingen aan.
+
+**Beste voor:** ZZP'ers en freelancers die niet willen nadenken over rittenregistratie en bereid zijn €8/maand te betalen voor die zekerheid.
+
+### Rydoo: de beste voor teams met onkostenbeheer
+
+Rydoo's onderscheidende factor is de onkostenbeheer-integratie. Als buitendienstmedewerker declareer je niet alleen kilometers maar ook parkeerkosten, brandstof, zakelijke lunches en hotelnachten. Al deze posten belanden in één maandelijks declaratierapport dat de manager met één klik kan goedkeuren.
+
+**Maar let op:** Rydoo is prijzig voor individueel gebruik. Het verdient zijn waarde pas in een teamcontext waarbij de manager-goedkeuringsfunctie zijn voordeel bewijst. Voor een ZZP'er die alleen kilometers bijhoudt, is het overschot aan functionaliteit niet de meerprijs waard.
+
+**Beste voor:** Buitendienstteams van vijf of meer medewerkers waarbij onkostendeclaraties centraal worden verwerkt.
+
+### TripLog: de beste waarde voor geld
+
+TripLog biedt de meeste functies per euro. De OBD-plugin is uniek in dit segment: een plug-in-apparaatje in de OBD-II poort van je auto (onder het stuurwiel) registreert automatisch alle ritten zonder dat je je telefoon hoeft te gebruiken. Dit is ideaal als:
+
+- Je telefoon niet altijd bij je hebt in de auto
+- Je rijdt in gebieden met slecht mobiel bereik
+- Je zakelijke auto wordt door meerdere personen gebruikt
+
+**Maar let op:** De interface van TripLog is functioneler dan mooi. Als je gewend bent aan de strakke interface van MileIQ, voelt TripLog gedateerd. De automatch-functie (automatisch herkennen of een rit zakelijk is op basis van historisch gedrag) werkt wisselend betrouwbaar.
+
+**Beste voor:** ZZP'ers die meerdere klanten factureren per rit, of mensen die de OBD-plugin willen gebruiken.
+
+### Mobilexpense: de beste voor compliance
+
+Mobilexpense richt zich expliciet op de Europese compliancemarkt. De software houdt automatisch rekening met per-diem vergoedingen per land, maximale zakelijke kilometervergoedingen per cao en sector-specifieke regelgeving.
+
+**Maar let op:** De complexiteit van Mobilexpense is voor kleine ondernemingen een nadeel, geen voordeel. De implementatietijd, de leercurve en de hogere prijs zijn alleen gerechtvaardigd als je in een sector werkt met strikte compliance-eisen (financieel, juridisch, farmaceutisch).
+
+**Beste voor:** Bedrijven in gereguleerde sectoren met internationale medewerkers en complexe onkostenregels.
+
+### NFON Drive: de beste voor voertuigbeheer
+
+NFON Drive is eigenlijk geen rittenregistratie-app in de klassieke zin — het is een fleet management-platform met rittenregistratie als onderdeel. De rijgedraganalyse (hoe rijden mijn chauffeurs?) en voertuigonderhoudsbeheer (wanneer is de volgende APK?) zijn functies die de andere apps niet bieden.
+
+**Maar let op:** NFON Drive is te duur en te complex voor een ZZP'er of klein team. Pas zinvol bij vijf of meer voertuigen in een wagenpark dat je actief wil beheren.
+
+**Beste voor:** Bedrijven met een wagenpark van vijf of meer voertuigen waarbij rijgedrag en voertuigkosten centraal gemanaged worden.
+
+---
+
+## Gedetailleerde ROI-berekening: 2026 tarieven
+
+Ik hoor regelmatig de opmerking: "Is die €8 per maand voor een app echt de moeite waard?" Laten we dat uitrekenen.
+
+### ROI voor een freelance consultant (30.000 km/jaar)
+
+**Inkomsten:**
+- 30.000 km × €0,23 = **€6.900 belastingaftrek**
+- Belastingbesparing (42% belastingschijf): **€2.898 netto voordeel**
+
+**Kosten MileIQ:**
+- €8/maand × 12 = **€96 per jaar**
+
+**Return on investment: 3.019% — de investering betaalt zichzelf 30x terug**
+
+### ROI voor een buitendienstteam (5 medewerkers, gemiddeld 25.000 km/jaar per persoon)
+
+**Inkomsten:**
+- 5 × 25.000 km × €0,23 = **€28.750 belastingaftrek (of vergoeding)**
+- Bij interne vergoeding van €0,23/km bespaart het bedrijf €6.625 aan gemiste vergoeding die nu correct wordt vastgelegd
+
+**Kosten Rydoo:**
+- 5 × €10/maand × 12 = **€600 per jaar**
+
+**Return on investment: 1.104%**
+
+---
+
+## Rittenregistratie en de kilometervergoeding van de werkgever
+
+Als je werknemer bent (of medewerkers hebt), speelt rittenregistratie ook een rol bij de kilometervergoeding die de werkgever betaalt. De werkgever mag maximaal €0,23 per zakelijke kilometer onbelast vergoeden. Boven dit bedrag is de vergoeding belast als loon.
+
+### Hoe werkt dit in de praktijk?
+
+De werknemer registreert de zakelijke kilometers. Maandelijks wordt een overzicht ingediend bij de salarisadministratie. Het systeem verrekent de vergoeding onbelast tot €0,23/km.
+
+Rydoo en Mobilexpense hebben hiervoor ingebouwde goedkeuringsworkflows: de medewerker dient zijn declaratie in, de manager keurt goed of af, de HR-administrateur verwerkt het in het salaris. Dit is een eind-tot-eind geautomatiseerd proces dat handmatig uren per maand kost.
+
+### Combinatie met Nmbrs of AFAS
+
+Rydoo en Mobilexpense koppelen direct met populaire Nederlandse salarissystemen zoals [Nmbrs](/blog/nmbrs-review-2026/) en AFAS. Goedgekeurde kilometervergoedingen stromen automatisch door naar de salarisverwerking. Dit elimineert de handmatige tussenlaag volledig.
+
+---
+
+## Veelgestelde vragen (uitgebreid)
+
+### Mag ik de rittenregistratie-app zelf als aftrekpost opgeven?
+
+Ja. De kosten van een rittenregistratie-app zijn volledig aftrekbaar als zakelijke softwarekosten. €96 per jaar (MileIQ jaarabonnement) trek je af van je winst als ZZP'er. Boek het als "abonnementen en software" in je boekhoudpakket.
+
+### Wat als ik mijn telefoon vergeten ben in de auto en de rit niet is geregistreerd?
+
+Bij GPS-gebaseerde apps zoals MileIQ wordt de rit dan niet geregistreerd. Je kunt handmatig een rit toevoegen achteraf, maar dit vereist discipline en een goed geheugen. De Belastingdienst accepteert handmatig toegevoegde ritten als ze consistent zijn met je agenda-afspraken en zakelijke activiteiten. Bewaar daarom ook je agendahistorie.
+
+### Kan ik rittenregistratie-data gebruiken als bewijs bij een conflict met een klant?
+
+Ja. GPS-logs met exacte tijden en routes kunnen aantonen dat je op een bepaalde locatie was op een bepaald tijdstip. Dit is waardevol bij disputen over gewerkte uren, aankomsttijden of de omvang van een klantbezoek. TripLog en Rydoo bieden gedetailleerde rapportages met exact routeoverzicht per rit.
+
+### Wat is het verschil tussen kilometer-vergoeding en auto van de zaak?
+
+Bij een auto van de zaak rijdt je in een auto die eigendom is van je bedrijf of van een leasemaatschappij. Je boekt dan alle autokosten als zakelijke kosten maar telt de bijtelling als belastbaar inkomen. Bij gebruik van je privéauto voor zakelijk verkeer mag je €0,23 per zakelijke kilometer aftrekken zonder bijtelling. Welke constructie fiscaal gunstiger is, hangt af van je privégebruik en het automodel. Laat dit altijd berekenen door je accountant.

@@ -27,6 +27,12 @@ faq:
     a: "WordPress is het beste voor SEO dankzij plugins als Yoast SEO en RankMath die volledige controle bieden. Squarespace en Wix hebben goede ingebouwde SEO-tools maar minder flexibiliteit. Webflow biedt technisch de beste SEO-controle na WordPress."
   - q: "Heb ik een webshop nodig of kan een gewone website volstaan?"
     a: "Als je producten online wilt verkopen, heb je een webshop nodig (Shopify, WooCommerce). Als je diensten aanbiedt en klanten via telefoon of e-mail binnenkomen, volstaat een gewone website met contactformulier. Veel websitebouwers (Wix, Squarespace) bieden basis webshop-functionaliteit als add-on."
+  - q: "Welke websitebouwer is het makkelijkst om te onderhouden?"
+    a: "Wix en Squarespace zijn het makkelijkst te onderhouden: hosting, beveiliging en updates worden automatisch beheerd. Bij WordPress ben je zelf verantwoordelijk voor updates van de kern, plugins en thema's — dat kost je maandelijks 30-60 minuten. Webflow zit daar tussenin: hosting is beheerd, maar je bent zelf verantwoordelijk voor design-updates."
+  - q: "Kan ik overstappen van Wix naar WordPress later?"
+    a: "Technisch gezien wel, maar het is bewerkelijk. Wix exporteert geen volledige WordPress-import. Je moet content handmatig overzetten of een migratiebedrijf inhuren. Denk dus vooraf goed na over de keuze. Als je verwacht dat je ooit naar WordPress wilt, begin dan meteen met WordPress."
+  - q: "Welk hosting pakket heb ik nodig bij WordPress?"
+    a: "Voor een startende website is gedeelde hosting (€3-8/mnd bij SiteGround, Hostinger) voldoende. Bij meer dan 10.000 bezoekers per maand of een webshop raden we managed WordPress hosting aan (Kinsta, WP Engine: €25-50/mnd). Dat biedt betere snelheid, automatische back-ups en beveiligingsbeheer."
 ---
 
 Wat is de beste websitebouwer voor het MKB? Ik zie regelmatig bedrijven die duizenden euro's hebben betaald aan een webbureau voor een website die ze vervolgens niet zelf kunnen aanpassen. In 2026 is dat nergens meer voor nodig. Met de juiste websitebouwer heb je als MKB-ondernemer in een dag een professionele site staan. Hier zijn de 5 platforms die ik aanbeveel, van simpel tot volledig maatwerk. Wil je ook je leadgeneratie en klantcontacten professionaliseren? Lees dan ook het overzicht van de [beste CRM software in Nederland 2026](/blog/beste-crm-software-nederland-2026/) voor de beste koppeling tussen je website en je verkoopproces.
@@ -173,6 +179,118 @@ Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door 
 
 Zoek je een CRM voor je webshop? Bekijk onze [CRM voor webshops gids](/blog/beste-crm-webshops-2026/).
 
+## Gedetailleerde prijsvergelijking: totale kosten per jaar
+
+Prijzen zijn verwarrend als je alleen naar het maandbedrag kijkt. Dit is wat je echt betaalt voor een zakelijke website:
+
+| Platform | Basisplan/mnd | Domein | E-mail | Totaal jaar 1 |
+|---|---|---|---|---|
+| WordPress + SiteGround | €6 | ~€12/jr | Via Google Workspace (€6/mnd) | ~€144 |
+| Wix Business | €29 | Gratis jaar 1 | Geen (apart regelen) | ~€348 |
+| Squarespace Core | $23 (~€21) | Gratis jaar 1 | Via Squarespace (add-on) | ~€252+ |
+| Webflow CMS | €23 | Apart regelen | Niet inbegrepen | ~€276+ |
+| Shopify Basic | €21 (jaarlijks) | Apart regelen | Niet inbegrepen | ~€252+ |
+
+**Let op:** Wix is in het eerste jaar goedkoper dan het lijkt (gratis domein). Maar bij verlenging betaal je de domeinkosten erbij. WordPress is structureel het goedkoopst als je een basishostingpakket neemt, maar de echte totaalkosten hangen af van premium plugins en thema's.
+
+---
+
+## Welke websitebouwer past bij welk type MKB?
+
+### Dienstverleners (consultant, coach, advocaat, accountant)
+
+**Beste keuze: WordPress of Squarespace**
+
+Voor dienstverleners is het doel van de website bijna altijd hetzelfde: autoriteit opbouwen via content en leads binnenhalen via een contactformulier of offerte-aanvraag. WordPress wint hier als je veel blogs en SEO-content wilt publiceren. Squarespace is beter als je snel wilt starten en design voor je laat spreken.
+
+Wat ik in de praktijk zie: dienstverleners die starten met Wix "omdat het makkelijk is" en een jaar later vastlopen omdat ze geen geavanceerde SEO-functies kunnen inzetten. Begin met WordPress als je weet dat content en SEO je groeistrategie zijn.
+
+### Webshops (producten verkopen)
+
+**Beste keuze: Shopify of WooCommerce (WordPress)**
+
+Als je primaire doel online verkopen is, is Shopify de snelste route. iDEAL werkt ingebouwd via Shopify Payments, voorraadbeheer is goed, en de koppeling met Instagram en marketplaces is eenvoudig.
+
+WooCommerce (als plugin in WordPress) is goedkoper en flexibeler, maar vraagt meer technisch beheer. Bij kleine webshops (tot 500 producten) is WooCommerce prima. Bij grotere volumes of multichannel verkoop is Shopify de betere keuze.
+
+### Creatieve bedrijven (fotograaf, architect, grafisch ontwerper)
+
+**Beste keuze: Squarespace of Webflow**
+
+Als portfolio-presentatie het doel is, is Squarespace de snelste weg naar een professioneel resultaat. De templates zijn ontworpen voor visuele impact, en je hebt geen designer nodig om er indrukwekkend uit te zien. Webflow is de keuze als je zelf design-kennis hebt en volledig maatwerk wilt.
+
+### Horeca (restaurant, café, hotel)
+
+**Beste keuze: Squarespace of WordPress (met reserveringsplugin)**
+
+Restaurants en cafés hebben een simpele maar visueel sterke website nodig: menu, locatie, openingstijden en reserveringsknop. Squarespace heeft goede restauranttemplates. WordPress werkt goed als je een reserveringsplugin (zoals OpenTable of ResOS) wilt integreren.
+
+### Lokale dienstverleners (kapper, fysiotherapeut, tandarts)
+
+**Beste keuze: Wix of WordPress**
+
+Voor lokale bedrijven is lokale SEO (Google Maps, "kapper Amsterdam") de grootste driver van bezoekers. WordPress heeft hier de meeste SEO-flexibiliteit, maar Wix heeft de afgelopen jaren zijn lokale SEO-tools sterk verbeterd. De keuze hangt af van hoeveel tijd je wilt steken in technisch SEO-beheer.
+
+---
+
+## WordPress vs Wix: diepgaande vergelijking
+
+Dit is de meest gestelde vraag die ik krijg, dus ik ga er wat dieper op in.
+
+### Gebruiksgemak
+
+Wix wint overduidelijk. Je sleept elementen, plaatst tekst, en publiceert. De AI-bouwer van Wix maakt zelfs een basiswebsite als je vertelt wat je bedrijf doet. Bij WordPress moet je hosting regelen, een thema kiezen, WordPress installeren, plugins instellen — en dat is nog voor je één woord inhoud hebt geschreven.
+
+**Mijn inschatting:** Wix is voor iemand zonder technische achtergrond 5-10x sneller om live te gaan.
+
+### Flexibiliteit en schaalbaarheid
+
+WordPress wint hier even duidelijk. Met 59.000+ plugins en duizenden thema's kun je WordPress laten doen wat je wilt: membership-site, meerdere talen, complexe e-commerce, vastgoed-portaal. Wix heeft een kleinere app-marktplaats en de flexibiliteit is structureel beperkter — je kunt nooit de HTML of server-configuratie aanraken.
+
+**Mijn inschatting:** Als je over twee jaar meer functionaliteit nodig hebt dan je nu kunt overzien, kies dan WordPress.
+
+### SEO
+
+WordPress wint, maar het verschil is kleiner dan drie jaar geleden. Yoast SEO en RankMath geven je volledige controle: canonical tags, breadcrumbs, structured data, XML sitemaps, redirects. Wix heeft zijn SEO-tools sterk verbeterd en haalt nu voor 80-90% van de gebruikers hetzelfde resultaat. Voor geavanceerde technische SEO is WordPress nog steeds de betere keuze.
+
+**Mijn inschatting:** Voor de meeste MKB-bedrijven is het SEO-verschil in de praktijk kleiner dan je zou verwachten. Wat meer impact heeft: de kwaliteit van je content en het aantal backlinks.
+
+### Kosten op lange termijn
+
+Wix is duurder op jaarbasis dan een basisWordPress-setup, maar als je bij WordPress premium thema's en plugins optelt (€150-300/jaar voor kwaliteitsopties), valt het verschil mee. WordPress kost ook tijd in onderhoud; reken dat eerlijk mee.
+
+**Mijn inschatting:** Over 3 jaar zijn de totale eigendomskosten (inclusief jouw tijd) bij WordPress lager als je technisch bent, en hoger als je niet technisch bent.
+
+---
+
+## Praktijkvoorbeelden
+
+### Voorbeeld 1: Freelance consultant gaat online
+
+Een financieel consultant wil een website om gevonden te worden op Google. Ze heeft geen technische kennis en een beperkt budget.
+
+**Keuze: WordPress met Hostinger hosting (€3/mnd) en het gratis Astra-thema.**
+
+Resultaat: In één weekend een website met 5 pagina's (home, diensten, over, blog, contact), SSL, contactformulier en Google Analytics. Totale kosten: €36/jaar hosting + €12 domein = €48/jaar. Eerste blogpost scoorde binnen twee maanden top 3 op een lokale zoekterm.
+
+### Voorbeeld 2: Meubelmaker wil zijn portfolio laten zien
+
+Een meubelmaker maakt ambachtelijke meubels en wil zijn werk laten zien. Klanten worden gewonnen op mond-tot-mond en Instagram, niet op zoekverkeer.
+
+**Keuze: Squarespace Core ($23/mnd).**
+
+Resultaat: In drie avonden een portfolio-website met 40 foto's, contactformulier en Instagram-feed. De template deed het zware designwerk; de eigenaar hoefde alleen foto's te uploaden en tekst aan te passen. "Dit ziet er professioneler uit dan de site waarvoor ik €3.000 betaalde aan een bureau."
+
+### Voorbeeld 3: Kookstudio opent webshop
+
+Een kookstudio verkoopt kookboeken en accessoires naast haar lessen. Ze wil online verkopen via iDEAL.
+
+**Keuze: Shopify Basic (€21/mnd jaarlijks).**
+
+Resultaat: 45 producten online, koppeling met Mollie voor iDEAL, automatische voorraadsignalering en koppeling met Instagram Shopping. Eerste bestelling binnen 48 uur na livegang. Gemiddelde setup-tijd: 2 werkdagen.
+
+---
+
 ## Welke websitebouwer past bij jou?
 
 | Jouw situatie | Beste keuze | Waarom |
@@ -183,10 +301,88 @@ Zoek je een CRM voor je webshop? Bekijk onze [CRM voor webshops gids](/blog/best
 | Maatwerk design zonder code | **Webflow** | Maximale design-vrijheid |
 | Webshop, online verkopen | **Shopify** | Beste e-commerce platform |
 | Budget is beperkt | **WordPress** (met goedkope hosting) | Vanaf €5/maand |
+| Lokale dienstverlener, lokale SEO | **WordPress of Wix** | Beide geschikt; WordPress beter voor zware SEO |
+| Horeca, restaurant, café | **Squarespace** | Beste visuele templates, snelst live |
+| Creatieve sector, portfolio | **Squarespace of Webflow** | Design staat centraal |
+
+## SEO-vergelijking: hoe scoren de platforms?
+
+SEO is voor de meeste MKB-bedrijven een kritische factor in de websitekeuze. Hier is mijn eerlijke beoordeling per platform.
+
+### WordPress SEO
+
+WordPress is de SEO-kampioen, niet alleen op papier maar ook in de praktijk. Met Yoast SEO of RankMath (beide gratis basispakket) heb je volledige controle over:
+- Title tags en meta descriptions per pagina
+- Open Graph tags (sociale media previews)
+- Canonical URL's
+- XML sitemaps (automatisch gegenereerd en bijgewerkt)
+- Schema markup (structured data voor rijke zoekresultaten)
+- Core Web Vitals optimalisatie via caching-plugins (WP Rocket, W3 Total Cache)
+- Redirect management (301/302 redirects)
+
+Het nadeel: dit is pas waardevol als je ook weet hoe je het gebruikt. Technische SEO in WordPress vereist kennis of een specialist.
+
+### Wix SEO
+
+Wix heeft de afgelopen drie jaar enorm geïnvesteerd in SEO. De SEO-wizard begeleidt je stap voor stap door basisoptimalisaties. Wix genereert automatisch sitemap.xml, ondersteunt meta tags, structured data en heeft Core Web Vitals redelijk op orde. Wat ontbreekt: dezelfde diepte van controle als WordPress. Je kunt bijvoorbeeld geen .htaccess-bestand aanpassen of zelf geavanceerde redirect-regels schrijven.
+
+**Mijn praktijkervaring:** Wix-sites scoren prima op lokale en longtail-keywords. Voor grote contentstrategie op concurrerende keywords is WordPress nog steeds sterker.
+
+### Squarespace SEO
+
+Squarespace doet SEO-basics goed zonder dat je er iets voor hoeft te doen: automatische sitemaps, correcte title-structuur, mobiel-responsief design. Maar er zijn beperkingen: geen volledige controle over structured data, beperkte redirect-opties, en het ontbreken van een geavanceerde SEO-plugin. Voor portfolio-sites en lokale bedrijven is dit meer dan voldoende. Voor kennisportals of content-gedreven sites kom je tekort.
+
+### Webflow SEO
+
+Webflow biedt technisch de beste SEO-controle na WordPress. Je kunt meta tags, canonical tags, Open Graph en schema markup per pagina instellen. De gegenereerde code is schoner dan de meeste WordPress-thema's, wat positief is voor laadsnelheid en Core Web Vitals. Aanbevolen voor developers en designers die ook SEO serieus nemen.
+
+### Shopify SEO
+
+Shopify is gemiddeld op SEO voor een e-commerce platform. Automatische sitemaps, meta tags, en canonical tags zijn aanwezig. Beperkingen: de URL-structuur is niet volledig aanpasbaar (altijd /products/ en /collections/ in de URL), en er zijn minder SEO-plugins beschikbaar dan bij WooCommerce.
+
+---
+
+## Beveiliging en onderhoud per platform
+
+Een factor die veel ondernemers vergeten bij de websitekeuze: wie zorgt voor de beveiliging en updates?
+
+### Beheerde platforms (Wix, Squarespace, Shopify, Webflow)
+
+Bij Wix, Squarespace, Shopify en Webflow zorgt de provider voor:
+- SSL-certificaat (altijd actief, geen configuratie nodig)
+- Platform-updates en beveiligingspatches
+- Server-onderhoud en uptime (99,9%+)
+- DDoS-bescherming
+
+Jij hoeft niets te doen. Dit is een groot voordeel voor ondernemers zonder technische achtergrond.
+
+### Zelf-beheerde platforms (WordPress)
+
+Bij WordPress ben je zelf verantwoordelijk voor:
+- Plugin-updates (worden niet automatisch uitgevoerd, tenzij je dit instelt)
+- WordPress core-updates
+- Theme-updates
+- Back-ups (tenzij je hostingprovider dit doet)
+- Beveiligingsplugins (bijv. Wordfence of iThemes Security)
+
+De meeste incidenten op WordPress-sites worden veroorzaakt door verouderde plugins of themes. Dit kost je gemiddeld 30-60 minuten per maand als je het zelf doet, of €15-50/maand als je managed WordPress hosting kiest (waarbij de provider updates en back-ups beheert).
+
+---
 
 ## Conclusie
 
-Er is geen "beste" websitebouwer — het hangt af van je behoeften. **Wix** als je snel en simpel online wilt. **WordPress** als je flexibiliteit en SEO nodig hebt. **Squarespace** als design prioriteit is. **Shopify** als je primair wilt verkopen. **Webflow** als je maatwerk design wilt zonder code. Gebruik je de website ook voor klantenservice? Lees dan het artikel over de [beste klantenservice software 2026](/blog/beste-klantenservice-software-2026/) en combineer het met een goede [chatbot tool](/blog/beste-chatbot-software-2026/) voor automatische ondersteuning.
+Er is geen "beste" websitebouwer — het hangt af van je behoeften. **Wix** als je snel en simpel online wilt. **WordPress** als je flexibiliteit en SEO nodig hebt. **Squarespace** als design prioriteit is. **Shopify** als je primair wilt verkopen. **Webflow** als je maatwerk design wilt zonder code.
+
+Twijfel je nog? Hier zijn de drie vragen die het keuzeproces altijd verhelderen:
+
+**Vraag 1: Hoe technisch ben jij?**
+Geen technische achtergrond → Wix of Squarespace. Beetje technisch → WordPress met een managed hostingprovider. Technisch of developer → WordPress of Webflow.
+
+**Vraag 2: Wat is je primaire doel?**
+Online verkopen → Shopify of WooCommerce. Gevonden worden op Google → WordPress. Indruk maken op prospects → Squarespace of Webflow. Snel online gaan → Wix.
+
+**Vraag 3: Hoe groot is je budget?**
+< €10/mnd → WordPress met goedkope hosting. €10-25/mnd → Wix of Squarespace. > €25/mnd → Shopify of Webflow voor geavanceerde functies. Gebruik je de website ook voor klantenservice? Lees dan het artikel over de [beste klantenservice software 2026](/blog/beste-klantenservice-software-2026/) en combineer het met een goede [chatbot tool](/blog/beste-chatbot-software-2026/) voor automatische ondersteuning.
 
 
 ## Interactieve hulp
@@ -195,6 +391,49 @@ Twijfel je nog? Gebruik de gratis tools:
 - **[Keuzehulp](/tools/productiviteit/keuzehulp/)** — Beantwoord 5 vragen, krijg een persoonlijk advies
 - **[Tool Stack Planner](/tools/productiviteit/tool-stack-planner/)** — Stel je ideale softwarecombinatie samen
 - **[Vergelijkingsmatrix](/categories/productiviteit/)** — Filter en vergelijk alle opties
+
+## Website checklist: wat moet er zeker op je zakelijke website?
+
+Ongeacht welke websitebouwer je kiest, zorg dat je website deze elementen bevat. Ik loop ze door bij elke website die ik beoordeel.
+
+### Technische basis
+
+- **SSL-certificaat:** Verplicht. Alle websitebouwers in dit artikel bieden dit standaard. Geen SSL = Google-waarschuwing in de browser voor bezoekers.
+- **Mobiel-responsief:** Je website moet er goed uitzien op telefoon. Meer dan 60% van het webverkeer komt van mobiele apparaten. Alle tools in dit overzicht zijn standaard mobiel-responsief.
+- **Laadsnelheid:** Google's Core Web Vitals meten laadsnelheid en beoordelen dit in zoekopdrachten. Zorg dat je website laadt in < 3 seconden. Test met Google PageSpeed Insights (gratis).
+- **Google Analytics:** Verbind je website met Google Analytics 4 om bezoekers, herkomst en gedrag te meten. Alle platforms in dit overzicht ondersteunen GA4-integratie.
+- **Google Search Console:** Gratis tool van Google die toont op welke zoekopdrachten je gevonden wordt en welke technische problemen er zijn. Altijd instellen.
+
+### Inhoud die bezoekers verwachten
+
+- **Homepage met duidelijke propositie:** In 5 seconden moet een bezoeker begrijpen wat je doet en voor wie.
+- **Diensten- of productenpagina:** Duidelijke beschrijving van wat je aanbiedt, inclusief prijsindicatie als dat past in jouw sector.
+- **Over ons-pagina:** Wie ben jij/jullie? Mensen kopen van mensen. Een persoonlijke over-pagina verhoogt het vertrouwen.
+- **Contactpagina met formulier:** Laagdrempelig contact opnemen, liefst ook een telefoonnummer.
+- **Reviews of referenties:** Klantbeoordelingen of logo's van bedrijven waarvoor je werkt.
+- **Privacy- en cookieverklaring:** Verplicht onder de AVG. De meeste websitebouwers bieden templates.
+
+### Conversie-elementen
+
+- **Call-to-action (CTA):** Elke pagina moet één duidelijke vervolgstap hebben: "Vraag een offerte aan", "Maak een afspraak", "Download de brochure."
+- **Afsprakensoftware-integratie:** Als je afspraken plant, koppel je website aan Calendly of SimplyBook.me. Een boekingsknop op je homepage converteert beter dan een contactformulier.
+- **Chat-widget:** Overweeg een live chat of chatbot voor directe vragen. Intercom, Trengo of zelfs de gratis HubSpot-chatwidget.
+
+---
+
+## Veelgemaakte fouten bij het kiezen van een websitebouwer
+
+**Fout 1: Beginnen met Wix terwijl je weet dat SEO en content centraal zullen staan.** Als je al weet dat bloggen en organisch zoekverkeer je strategie zijn, begin dan meteen met WordPress. Later migreren van Wix naar WordPress is pijnlijk.
+
+**Fout 2: Een te duur theme of website-pakket kopen voordat je weet of het werkt.** Begin altijd met een gratis of goedkoop template. Investeer in een premium design pas als je weet dat je website bezoekers trekt en converteert.
+
+**Fout 3: Vergeten de website te optimaliseren voor Google.** De mooiste website helpt niet als niemand hem vindt. Maak een Google Search Console-account aan, schrijf paginatitels met zoekwoorden, en publiceer regelmatig relevante content.
+
+**Fout 4: Geen back-up instellen bij WordPress.** Als je WordPress gebruikt en het gaat mis (gehackt, plugin-update breekt de site), wil je kunnen terugzetten. UpdraftPlus is een gratis plugin die automatisch dagelijks back-ups maakt naar Google Drive of Dropbox.
+
+**Fout 5: De website bouwen en nooit meer aanraken.** Een website is geen eenmalig project. Voeg regelmatig nieuwe content toe, houd contact- en prijsinformatie actueel, en controleer elke zes maanden of alle formulieren en links nog werken.
+
+---
 
 ## Lees ook
 

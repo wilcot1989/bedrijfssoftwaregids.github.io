@@ -152,6 +152,40 @@ Werk je bij een uitzendbureau of recruitment agency? Dan is Bullhorn eigenlijk d
 
 <a href="https://www.bullhorn.com/nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar bullhorn.com →</a>
 
+## Wat kost een ATS echt? De volledige kostenberekening
+
+Veel ondernemers die ik spreek focussen op de licentieprijs en vergeten de volledige kostenplaatje. Laat me dat transparant maken.
+
+### Directe kosten
+
+| ATS | Kosten per jaar (10 vacatures/jaar) | Gebruikers |
+|-----|-------------------------------------|-----------|
+| Recruitee Advance | ~€4.116 | Onbeperkt |
+| Homerun Growth | €1.788 | Onbeperkt |
+| Personio | Op aanvraag (typisch €3.000-8.000) | Onbeperkt |
+| Greenhouse | Op aanvraag (typisch €5.000-15.000) | Onbeperkt |
+| Bullhorn | Op aanvraag | Per gebruiker |
+
+### Verborgen kosten die je vergeet
+
+**Jobboard-budgetten**: Een ATS verstuurt je vacature naar jobboards, maar de gesponsorde plaatsingen kosten extra. Reken voor een gemiddelde vacature op Indeed op €150-400 aan jobboard-budget, bovenop de ATS-licentie.
+
+**Implementatietijd**: Een ATS opzetten kost intern 8-20 uur voor een eenvoudige implementatie. Recruitee heeft goede onboarding-documentatie; Greenhouse vraagt meer tijd. Reken deze uren mee als je total cost of ownership berekent.
+
+**LinkedIn Recruiter**: Als je actief kandidaten wilt sourcen (niet alleen passief ontvangen), is LinkedIn Recruiter een aparte investering van €8.000-15.000 per jaar per licentie. Dit staat los van je ATS-kosten.
+
+**Training**: Hiring managers moeten leren hoe ze scorecards invullen en kandidaten beoordelen in het systeem. Plan 2-4 uur training per hiring manager in je implementatieplan.
+
+### De ROI-berekening die ik gebruik
+
+De meeste bedrijven besparen met een ATS 20-40 uur per aanname aan administratieve tijd. Bij een gemiddeld uurloon van €40 voor HR-medewerkers:
+
+- 10 aannames per jaar × 30 uur besparing = 300 uur
+- 300 uur × €40 = €12.000 besparing
+- Minus ATS-kosten van €3.000-5.000 = netto besparing van €7.000-9.000
+
+Bovendien: kortere time-to-hire betekent minder lang open vacatures, wat productiviteitsverlies bespaart. Dat is moeilijker te kwantificeren, maar bij technische functies met een vacaturetijd van 60+ dagen is dat snel €5.000-10.000 per aanname.
+
 ## De recruitmentfunnel: waar past een ATS precies in?
 
 Ik merk dat veel ondernemers denken dat een ATS puur een "sollicitaties bijhouden"-tool is. Dat klopt maar gedeeltelijk. Een goed ATS dekt de hele funnel, van de eerste zichtbaarheid van je vacature tot de handtekening onder het contract.
@@ -165,6 +199,30 @@ Ik merk dat veel ondernemers denken dat een ATS puur een "sollicitaties bijhoude
 **Fase 4 — Communicatie:** Automatische statusmails aan kandidaten. Dit klinkt klein, maar het maakt een wereld van verschil voor je employer brand. De kandidaat die jij afwijst, kan over twee jaar een klant of aanbeveling zijn.
 
 **Fase 5 — Aanname en overdracht:** Het ATS genereert een aanbodbrief, registreert de acceptatie en draagt de kandidaat over naar je HR-systeem of onboarding-workflow. Bij Personio gaat dit soepel; bij een losse ATS-tool (Recruitee) heb je een koppeling nodig met je HR-software.
+
+## Employer branding: hoe je ATS bijdraagt aan je reputatie als werkgever
+
+Een ATS is niet alleen een administratief systeem — het is ook het gezicht van je bedrijf richting kandidaten. Hier is wat ik zie misgaan bij bedrijven die hun employer brand verwaarlozen.
+
+**De carrièrepagina als eerste indruk**
+
+Kandidaten beoordelen je als werkgever al lang voordat ze solliciteren. De carrièrepagina bepaalt voor een groot deel of ze überhaupt de moeite nemen. Homerun is hier de absolute winnaar: de visuele templates, foto's van het team en de mogelijkheid om cultuurwaarden te tonen zijn ongeëvenaard voor de prijs.
+
+Recruitee heeft ook een goede carrièrepagina-builder, maar minder visueel indrukwekkend. Greenhouse heeft de meest aanpasbare opties, maar vraagt meer technische kennis.
+
+**Kandidaatcommunicatie bepaalt je reputatie**
+
+Ik hoor regelmatig van kandidaten dat ze een bedrijf uitsluiten voor toekomstige sollicitaties omdat ze na een sollicitatie nooit iets hoorden. Dat is een employer brand-probleem dat een ATS voorkomt.
+
+Stel in elk ATS automatische bevestigingsmails in (binnen 24 uur), statusupdates bij doorgang naar de volgende fase, en een nette afwijzingsmail met bedankje. Klinkt vanzelfsprekend, maar 60% van de bedrijven die ik spreek doet dit niet consequent.
+
+**Referral-programma als groeimiddel**
+
+Recruitee heeft een ingebouwd referral-systeem waarbij medewerkers kandidaten kunnen aandragen. Dit is een van de meest onderbenutte functies die ik zie. Medewerkers kennen goede kandidaten — geef ze een makkelijke manier om die aan te dragen, eventueel met een beloning. De gemiddelde hire via referral heeft een 45% hogere retentie na twee jaar.
+
+**Reviews op Glassdoor en Indeed**
+
+Je ATS heeft ook invloed op je reviews. Kandidaten die slecht zijn behandeld (geen reactie, onduidelijke communicatie) plaatsen negatieve reviews. Investeer in automatische communicatie via je ATS, en je Glassdoor-score verbetert.
 
 ## Integraties met jobboards: wat werkt in Nederland?
 
@@ -180,6 +238,28 @@ Nederlandse bedrijven hebben specifieke kanalen waar kandidaten actief zijn. De 
 
 **Praktisch advies:** voor een MKB-bedrijf dat 10-15 vacatures per jaar plaatst, is multiposting naar Indeed, LinkedIn en Nationale Vacaturebank de 80/20-oplossing. Meer kanalen voegen zelden evenredig meer kandidaten toe — ze voegen wel meer beheer toe.
 
+## AI in recruitment software: wat werkt en wat niet
+
+In 2026 claimen bijna alle ATS-leveranciers AI-functies. Hier is mijn eerlijke beoordeling van wat daadwerkelijk waarde toevoegt.
+
+**CV-screening met AI — niet zo betrouwbaar als beloofd**
+
+AI-gestuurde CV-screening (automatisch kandidaten scoren op basis van de vacaturetekst) klinkt verleidelijk, maar ik heb er gemengde ervaringen mee. Het systeem is zo goed als de vacaturetekst die je invoert. Vaag geschreven vacatures leiden tot slechte AI-scores. Bovendien is er een reëel risico op onbedoelde bias: als je AI traint op historische aannames, kan het de diversiteit van je kandidatenpijplijn ondermijnen.
+
+Greenhouse doet dit het best met hun gestructureerde aanpak en DEI-checks. Maar zelfs Greenhouse adviseert om AI-screening als hulpmiddel te zien, niet als eindoordeel.
+
+**Interview-scheduling AI — hier voegt het wel waarde toe**
+
+Het automatisch plannen van interviews op basis van agenda-beschikbaarheid is een functie die wél werkt en tijd bespaart. Recruitee en Greenhouse bieden dit. In plaats van heen en weer mailen over beschikbaarheid, stuurt het systeem een link waar de kandidaat zelf een slot kiest.
+
+**Vacaturetekst-optimalisatie**
+
+Sommige ATS-systemen analyseren je vacaturetekst op inclusiviteit (mannelijk vs. vrouwelijk taalgebruik), leesbaarheid en verwachte kandidaatbereik. Dit is een zinvolle functie. Greenhouse heeft hier de sterkste implementatie.
+
+**Mijn aanbeveling:**
+
+Gebruik AI als hulpmiddel bij scheduling en vacaturetekst-review. Wees terughoudend met volledig geautomatiseerde CV-screening — zeker voor functies waar menselijk inzicht essentieel is.
+
 ## AVG-compliance voor kandidaatdata: wat je moet regelen
 
 Sollicitantendata valt onder de AVG. Dat betekent concrete verplichtingen die je ATS moet ondersteunen — en die de meeste tools inmiddels wel bieden, maar die je actief moet inrichten.
@@ -194,6 +274,25 @@ Sollicitantendata valt onder de AVG. Dat betekent concrete verplichtingen die je
 
 **Mijn aanbeveling:** vraag bij elke ATS-demo expliciet naar AVG-functionaliteit. Niet alle verkopers brengen dit zelf ter sprake, maar het is je wettelijke verantwoordelijkheid — niet die van de software.
 
+## Van ATS naar onboarding: de overdracht die je niet mag missen
+
+Een van de meest onderschatte problemen in recruitment is wat er gebeurt ná de aanname. De kandidaat heeft getekend — en dan? In veel bedrijven verdwijnt alle informatie die tijdens het recruitment-proces is verzameld in de ether. De hiring manager heeft notities, HR heeft een map, en de nieuwe medewerker begint blanco.
+
+**De beste ATS-systemen maken deze overdracht soepel:**
+
+Personio is hier de duidelijke winnaar: de kandidaat gaat na acceptatie van het aanbod automatisch over naar het HR-module als nieuwe medewerker. Alle informatie (CV, sollicitatiebrieven, interviewnotities, scorecards) is beschikbaar voor de onboarding-coördinator.
+
+Bij losse ATS-tools (Recruitee, Greenhouse) heb je een koppeling nodig met je HR-systeem. Recruitee koppelt met Personio en andere HR-tools via API. Dat werkt goed, maar vraagt initiële configuratie.
+
+**Wat ik aanbeveel voor de overdracht:**
+
+1. Maak een standaard "pre-boarding checklist" in je HR-tool die automatisch wordt aangemaakt bij elke nieuwe medewerker
+2. Stuur de nieuwe medewerker minimaal één week voor start een welkomstmail met praktische informatie
+3. Zorg dat de hiring manager interviewnotities overdraagt aan de directe leidinggevende
+4. Plan een 30-60-90 dagenplan voor het eerste kwartaal
+
+Lees ook mijn artikel over [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor de wettelijke verplichtingen die direct bij aanname spelen.
+
 ## Welke ATS-software past bij jou?
 
 | Jouw situatie | Beste keuze | Waarom |
@@ -206,14 +305,84 @@ Sollicitantendata valt onder de AVG. Dat betekent concrete verplichtingen die je
 
 Werk je ook met een boekhouder voor je personeelskosten? Lees dan mijn vergelijking van [boekhoudsoftware voor ZZP'ers en MKB](/blog/beste-boekhoudsoftware-zzp-2026/) voor de beste koppelingen.
 
+## Vacatureteksten schrijven die werken: tips voor meer en betere sollicitaties
+
+Een ATS helpt je vacatures te verspreiden — maar de kwaliteit van de sollicitaties hangt af van de vacaturetekst zelf. Dit zijn de principes die ik toepas voor klanten die klagen over te weinig of te slechte sollicitaties:
+
+**Schrijf over wat je doet, niet wie je bent**
+
+De meeste vacatureteksten beginnen met twee alinea's over het bedrijf. Kandidaten slaan dit over. Begin met wat de persoon in deze functie daadwerkelijk gaat doen. "Als accountmanager bij ons bel je dagelijks 10-15 prospects in de tech-sector, je bereidt offertes voor en sluit deals van €5.000-50.000." Dat is concreet.
+
+**Wees eerlijk over wat moeilijk is**
+
+Vacatures die alleen het mooie laten zien, trekken kandidaten die afhaken als de realiteit anders is. Schrijf ook over de uitdagingen: "De klanten zijn veeleisend, de targets zijn ambitieus en in het eerste kwartaal is de leergroei steil." Kandidaten die dit lezen en toch solliciteren, zijn oprecht gemotiveerd.
+
+**Vermijd functie-eisen die je niet echt eist**
+
+"Vijf jaar ervaring" voor een juniorrol, "vloeiend in vijf talen" terwijl je alleen Engels nodig hebt. Functie-eisen die niet kloppen, schrikken gekwalificeerde kandidaten af. Wees realistisch: wat is echt noodzakelijk, wat is mooi meegenomen?
+
+**Gebruik inclusieve taal**
+
+Greenhouse en sommige versies van Recruitee bieden een taalanalyse die mannelijk versus vrouwelijk taalgebruik detecteert. "Assertief" en "competitief" trekken statistisch meer mannelijke kandidaten aan; "samenwerkend" en "ondersteunend" meer vrouwelijke. Gebruik neutrale termen als je diversiteit serieus neemt.
+
+**Vermeld salaris — of in ieder geval een range**
+
+Vacatures met salarisvermelding ontvangen 30-40% meer sollicitaties. Kandidaten weten wat ze kunnen verwachten en solliciteren gerichter. Als je het exacte salaris niet wilt vermelden, geef dan een range: "€3.200-3.800 bruto per maand, afhankelijk van ervaring."
+
+## Recruitment software implementeren: een praktisch stappenplan
+
+De meeste mislukte ATS-implementaties die ik heb gezien, gingen niet mis door de software — maar door slechte voorbereiding. Hier is het stappenplan dat ik gebruik:
+
+**Week 1: Processen in kaart brengen**
+
+Voordat je ook maar één vacature in een nieuw systeem zet, moet je je huidige recruitmentproces documenteren. Welke fases heeft elke vacature? Wie beoordeelt in welke fase? Welke informatie heb je nodig van kandidaten?
+
+Antwoord op deze vragen bepaalt hoe je het systeem inricht. Een ATS dat niet aansluit bij je feitelijke proces, wordt niet gebruikt.
+
+**Week 2: Systeem inrichten**
+
+Maak je pipeline aan met de fases die je hebt bepaald. Maak scorecards per functietype (technische vragen voor developers, presentatievaardigheid voor commerciële functies). Stel automatische e-mails in voor elke fase-overgang.
+
+Test dit met een dummy-kandidaat voordat je live gaat.
+
+**Week 3: Eerste vacature live**
+
+Publiceer je eerste echte vacature via het systeem. Controleer hoe de sollicitatiepagina eruit ziet voor kandidaten. Doorloop het hele proces: van sollicitatie ontvangen tot afwijzen of aannemen. Noteer wat er niet klopt.
+
+**Week 4: Feedback verzamelen**
+
+Vraag hiring managers die het systeem gebruiken: wat werkt, wat niet? Pas de scorecards en e-mailtemplates aan. De eerste implementatie is nooit perfect — de verbetering komt door gebruik.
+
+**Mijn tip voor de eerste maand:**
+
+Kies één recruitmentverantwoordelijke die eigenaar is van het systeem. Die persoon zorgt dat iedereen het correct gebruikt, en is aanspreekpunt voor vragen. Zonder één eigenaar verwatert de adoptie snel.
+
 ## Conclusie
 
-Voor de meeste Nederlandse MKB-bedrijven is **Recruitee** de beste keuze: Nederlands, intuïtief en met de juiste balans tussen functies en prijs. **Homerun** is ideaal als je mooi wilt beginnen met een kleiner budget. Groei je uit je ATS-software? Dan is **Greenhouse** de logische volgende stap. Zoek je ook een manier om ziekteverzuim terug te dringen nadat je mensen hebt aangenomen? Lees dan mijn gids over [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/). Wil je ook vergaderen en samenwerken efficiënter inrichten na het aannemen van personeel? Lees mijn overzicht van de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/).
+Voor de meeste Nederlandse MKB-bedrijven is **Recruitee** de beste keuze: Nederlands, intuïtief en met de juiste balans tussen functies en prijs. **Homerun** is ideaal als je mooi wilt beginnen met een kleiner budget. Groei je uit je ATS-software? Dan is **Greenhouse** de logische volgende stap. En als je één tip meeneemt uit dit artikel: begin vandaag nog met gestructureerde communicatie richting kandidaten — een automatische bevestigingsmail kost je vijf minuten om in te stellen en kan het verschil maken voor je employer brand. De kandidaat die je nu afwijst, kan over twee jaar een klant of doorverwijzer zijn. Zoek je ook een manier om ziekteverzuim terug te dringen nadat je mensen hebt aangenomen? Lees dan mijn gids over [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/). Wil je ook vergaderen en samenwerken efficiënter inrichten na het aannemen van personeel? Lees mijn overzicht van de [beste vergadersoftware 2026](/blog/beste-vergadersoftware-2026/).
 
 Wil je ook de bijbehorende HR-kosten doorrekenen? Gebruik de [HR software kostencalculator](/tools/hr-software/kosten-berekenen/) voor een eerlijk beeld. En bekijk de [volledige HR software vergelijking](/categories/hr-software/) voor een overzicht van alle relevante tools. Heb je een groeiend bedrijf en wil je ook ERP-software overwegen voor je HR-processen? Bekijk dan mijn vergelijking van de [beste ERP-software voor MKB 2026](/blog/beste-erp-software-mkb-2026/). Werkt je HR-team ook aan horeca-planning? Lees dan de [beste planning software voor horeca 2026](/blog/beste-planning-software-horeca-2026/). En voor de urenregistratie van nieuwe medewerkers: lees mijn overzicht van de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
 
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**.
+
+## ATS kopen of first outsourcen? Een eerlijke afweging
+
+Soms is de vraag niet welk ATS je moet kiezen, maar of je überhaupt een ATS nodig hebt — of dat outsourcing van recruitment slimmer is.
+
+**Wanneer outsourcing logischer is dan een ATS:**
+- Je werft minder dan 4 functies per jaar: dan rechtvaardigt de investering zich niet
+- De functies zijn zeer specialistisch (executive search, nichemarkten): externe bureaus hebben de contacten
+- Je hebt geen HR-medewerker intern: een ATS vraagt beheer en onderhoud
+- De rol is tijdgevoelig en een bureau heeft direct beschikbare kandidaten
+
+**Wanneer een eigen ATS beter is:**
+- Je werft 5+ functies per jaar en wilt grip op het proces
+- Employer branding is strategisch belangrijk voor je bedrijf
+- Je wilt een talentpool opbouwen voor toekomstige functies
+- Je wilt de wervingskosten per aanname verlagen ten opzichte van bureau-kosten (typisch 15-25% van jaarsalaris)
+
+De meeste bedrijven die ik adviseer, combineren beide: een ATS voor directe werving, en een bureau voor moeilijk vervulbare of senior functies. Een goede hybride aanpak is: gebruik je ATS voor functies die je zelf goed kunt invullen (administratief, operationeel, junior), en schakel een bureau in voor leidinggevende of zeer specialistische functies waar je netwerk tekortschiet. Zo houd je de wervingskosten beheersbaar en profiteer je toch van de expertise van specialisten waar dat toegevoegde waarde heeft.
 
 ## Lees ook
 

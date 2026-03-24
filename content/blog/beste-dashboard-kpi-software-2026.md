@@ -394,3 +394,143 @@ Ja. Geckoboard is specifiek gebouwd voor TV-weergave. Ook Klipfolio en Databox o
 ### Is er gratis dashboard-software?
 
 Ja. Looker Studio is volledig gratis. Databox heeft een gratis plan voor drie databronnen en drie dashboards. Voor kleine teams zijn dit uitstekende startpunten. Als je behoeften groeien, kun je altijd upgraden naar een betaald plan bij Klipfolio of Geckoboard.
+
+---
+
+## Gedetailleerde prijsvergelijking: wat betaal je echt?
+
+Bij het kiezen van dashboard-software is de lijstprijs zelden het hele verhaal. Hier is een eerlijke doorrekening van de totale kosten voor een team van vijf medewerkers over een jaar:
+
+| Tool | Maandprijs (team 5) | Jaarprijs | Extra kosten |
+|---|---|---|---|
+| **Looker Studio** | €0 | €0 | Geen |
+| **Geckoboard Essential** | €39 | €468 | Geen |
+| **Databox Starter** | €47 | €564 | Beperkt tot 10 databronnen |
+| **Klipfolio Growth** | €99 | €1.188 | Geen bij jaarcontract |
+| **Monday.com Pro** | €95 (5x €19) | €1.140 | Dashboards alleen in Pro |
+
+De lage instapprijs van Monday.com (€9 per gebruiker) geldt voor het Basic-plan dat geen dashboards biedt. Voor echte dashboard-functionaliteit heb je het Pro-plan nodig. Dit is een veelgemaakte rekenfouttijdens de selectie.
+
+Bij Databox zijn de betaalde plannen niet per gebruiker maar per verbinding geprijsd. Als je twaalf databronnen wil koppelen, stap je snel door naar het Professional-plan op €159 per maand.
+
+### Verborgen kosten om op te letten
+
+**Databronlimieten:** Geckoboard Essential staat slechts vijf databronnen toe. Als je zes of meer bronnen wil, moet je upgraden naar Pro (€79/maand). Controleer altijd hoeveel databronnen je daadwerkelijk nodig hebt voordat je een plan kiest.
+
+**Gebruikerslimieten:** Klipfolio's Growth-plan staat vijf gebruikers toe. Groeit het team naar zes, dan ga je automatisch naar Team (€199/maand). Zorg dat de prijs-per-extra-gebruiker transparant is.
+
+**API-kosten:** Als je eigen systemen wil koppelen via de API, vragen sommige tools een uitgebreider plan. Controleer dit specifiek als je een eigen database of intern systeem wil ontsluiten.
+
+---
+
+## Praktijkscenario's: welke tool past echt bij jou?
+
+Theorie is één ding. Hier zijn drie concrete bedrijfssituaties met een specifieke tool-aanbeveling.
+
+### Scenario A: Marketingbureau, 8 medewerkers
+
+Een marketingbureau heeft tien klanten voor wie ze Google Ads, Facebook Ads, LinkedIn en SEO beheren. De directeur wil per klant een live dashboard met de belangrijkste marketing-KPI's: spend, CPC, conversies, ROI. Klanten moeten het dashboard zelf kunnen inzien.
+
+**Beste keuze: Klipfolio**
+
+Klipfolio heeft specifieke bureau-functionaliteit: je maakt per klant een apart dashboard en geeft de klant toegang zonder dat die andere klantdata ziet. De 400+ integraties dekken alle marketingkanalen. Prijs: €199 per maand (Team-plan) voor het bureau.
+
+### Scenario B: Wholesaler, 15 medewerkers
+
+Een grossier wil op een groot scherm in het magazijn de dagelijkse verzendstatus, het orderverwerkingstempo en de openstaande leveringen zien. Data komt uit het WMS en de boekhouding.
+
+**Beste keuze: Geckoboard**
+
+De TV-display-optimalisatie van Geckoboard is hier het doorslaggevende argument. Je koppelt je systemen via de API of Google Sheets, bouwt een eenvoudig dashboard, en het staat de hele dag op het scherm. Prijs: €79 per maand (Pro-plan).
+
+### Scenario C: SaaS-startup, 5 medewerkers
+
+Een startup in de groeifase wil marketing-, sales- en product-KPI's bijhouden: MRR, churn, CAC, activatiepercentage. Budget is beperkt, maar ze willen wel professionele rapportages voor investeerders.
+
+**Beste keuze: Databox**
+
+Het gratis plan is een uitstekend startpunt. Als het bedrijf groeit, upgrade je naar het Starter-plan (€47/maand). De benchmark-functionaliteit is bijzonder waardevol voor startups: je vergelijkt je KPI's direct met vergelijkbare SaaS-bedrijven.
+
+---
+
+## Hoe bouw je een effectief KPI-dashboard in 5 stappen
+
+Een goed dashboard bouwen gaat verder dan een tool kiezen. Hier is de aanpak die ik bij klanten gebruik.
+
+### Stap 1: Definieer je bedrijfsdoelen (niet de metrics)
+
+Begin niet met "welke data heb ik beschikbaar?" maar met "welke doelen wil ik dit jaar bereiken?" Stel dat je doel is de klantretentie te verhogen van 80% naar 88% — dán bepaal je welke metrics die doelstelling beïnvloeden.
+
+### Stap 2: Kies maximaal twaalf KPI's
+
+Meer dan twaalf KPI's op een dashboard is ruis. Verdeel ze in twee categorieën:
+
+- **Drie tot vijf North Star-metrics:** De KPI's die rechtstreeks meten of je je doelen haalt
+- **Zeven tot negen leading indicators:** De activiteiten die toekomstige resultaten voorspellen
+
+### Stap 3: Stel doelwaarden in per KPI
+
+Een KPI zonder doelstelling is een getal. Stel per metric een target in: wat moet de conversieratio zijn aan het einde van het kwartaal? Wat is de acceptabele maximale CAC? Met een target in het dashboard is het direct zichtbaar of je op koers ligt.
+
+### Stap 4: Kies de juiste visualisatie
+
+- **Trendlijn:** Gebruik dit voor metrics die over tijd moeten bewegen (omzetgroei, churn)
+- **Gauge/donutgrafiek:** Gebruik dit voor percentage-naar-doel (je bent op 73% van je kwartaaldoel)
+- **Tabel:** Gebruik dit voor vergelijkingen per klant, regio of product
+- **Getal groot:** Gebruik dit voor de meest kritische real-time metrics op het tv-scherm
+
+### Stap 5: Plan een wekelijkse review
+
+Een dashboard dat niemand bekijkt is zinloos. Plan een vaste wekelijkse review van vijftien minuten voor het leiderschapsteam. Bespreek uitsluitend de afwijkingen: wat valt op, wat vraagt actie?
+
+---
+
+## Dashboard-software versus Excel: wanneer is de overstap zinvol?
+
+Ik raad niet iedereen aan om direct over te stappen op betaalde dashboard-software. Excel of Google Sheets kan prima werken als:
+
+- Je minder dan drie databronnen hebt
+- Je alleen maandelijkse rapportages nodig hebt (niet live)
+- Je team kleiner is dan vijf mensen
+- Je minder dan vijf KPI's bijhoudt
+
+De overstap wordt zinvol zodra één van de volgende situaties geldt:
+
+**Je mist actuele data bij beslissingen.** Als je op dinsdag vergadert over cijfers uit de vrijdagse Excel-export, loop je altijd achter. Dashboard-software geeft real-time data.
+
+**Je besteedt meer dan twee uur per week aan rapportages.** Twee uur per week is 100 uur per jaar. Bij een senior medewerker is dat €5.000 tot €8.000 aan loonkosten — voor werk dat software gratis overneemt.
+
+**Meerdere mensen tegelijk actuele data nodig hebben.** Excel-bestanden die rondgestuurd worden via e-mail leiden altijd tot versieconflicten. Dashboard-software biedt één centrale bron van waarheid.
+
+**Je wil je team motiveren met zichtbare KPI's.** Een live salesboard op een kantoorscherm heeft een bewezen motiverend effect. Dat werkt niet met een Excel-bestand dat de manager beheert.
+
+---
+
+## Veelgestelde vragen (uitgebreid)
+
+### Welke dashboard-software heeft de beste koppeling met Exact Online?
+
+Klipfolio heeft de meest volwassen integratie met Exact Online. Je koppelt via de Exact Online API en trekt automatisch omzet-, debiteur- en margedata in je dashboard. Geckoboard en Databox ondersteunen Exact Online ook, maar Klipfolio biedt meer configuratiemogelijkheden voor de data-transformatie. Lees meer in mijn [Exact Online review](/blog/exact-online-review-2026/).
+
+### Kan ik meerdere vestigingen of entiteiten combineren in één dashboard?
+
+Ja. Klipfolio en Monday.com ondersteunen multi-entity rapportages. Je koppelt data uit twee vestigingen als aparte databronnen en bouwt een geconsolideerd overzicht. Looker Studio kan dit ook, mits je de data consolideert in BigQuery of Google Sheets voordat je het dashboard bouwt.
+
+### Hoe beveilig ik mijn dashboard-data?
+
+Alle tools in dit overzicht hanteren minimaal SSL-encryptie voor data in transit en AES-256 encryptie voor data in rust. Voor GDPR-compliance is het relevant waar de servers staan. Looker Studio, Klipfolio en Geckoboard bieden Europese dataservers. Vraag dit specifiek na als je met persoonsgegevens werkt.
+
+### Wat is een goede benchmark voor KPI-prestaties in het MKB?
+
+Dit verschilt sterk per sector, maar een paar algemene benchmarks voor Nederlandse MKB-bedrijven:
+
+- **Brutomarge:** 40-60% voor dienstverleners, 20-40% voor handelsbedrijven
+- **Klantretentie:** 80%+ is goed, 90%+ is uitstekend
+- **CAC-terugverdientijd:** maximaal 12 maanden
+- **Conversieratio website:** 1-3% voor e-commerce, 5-10% voor leadgeneratie B2B
+
+Gebruik Databox's benchmarkfunctie om je eigen metrics te vergelijken met de mediaan in je sector.
+
+### Is er dashboard-software specifiek voor de zorgsector of overheid?
+
+Ja. Microsoft Power BI en Tableau zijn de meest gebruikte tools in de publieke sector, vanwege hun NEN 7510 en ISO 27001-compliance en de mogelijkheid om on-premise te draaien. Voor de zorg zijn specifieke VIPP-rapportages mogelijk. De tools in dit overzicht zijn primair gericht op commercieel MKB.

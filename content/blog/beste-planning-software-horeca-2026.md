@@ -273,6 +273,98 @@ Dyflexis is naast Shiftbase de andere Nederlandse specialist die ik vaak advisee
 
 ---
 
+## Personeelsplanning horeca: wat kost het en wat levert het op?
+
+Ik zie regelmatig horeca-ondernemers twijfelen bij de aanschaf van planningssoftware. "Het kost €3 per medewerker per maand, dat telt op." Laat me de rekening eerlijk maken.
+
+### De kostenberekening voor een restaurant met 20 medewerkers
+
+| Tool | Kosten/maand | Kosten/jaar |
+|------|-------------|------------|
+| Shiftbase Basic | €60 | €720 |
+| Planday Starter | €50 | €600 |
+| Dyflexis | ~€50 | ~€600 |
+| Deputy Premium | €120 | €1.440 |
+
+Dat klinkt als een serieuze post. Maar stel nu de andere kant van de berekening op.
+
+**Tijdsbesparing per week bij 20 medewerkers:**
+- Roostering: van 3 uur naar 30 minuten = 2,5 uur bespaard
+- Beschikbaarheid verzamelen: van 1,5 uur naar 0 uur = 1,5 uur bespaard
+- Dienstwissel-communicatie: van 45 min naar 10 min = 35 min bespaard
+- Totaal: ~4,5 uur per week bespaard
+
+Bij een leidinggevende met een uurloon van €18:
+- 4,5 uur × €18 × 52 weken = **€4.212 besparing per jaar**
+
+Netto: besparing van €3.492 tot €3.612 per jaar na aftrek van softwarekosten.
+
+En dat is zonder de vermeden boetes bij CAO-overtredingen, de betere bezetting door omzetgestuurde planning, en de hogere medewerkerstevredenheid door transparante roosters.
+
+### ROI bij omzetgestuurde planning
+
+Dyflexis en Shiftbase koppelen aan je kassasysteem voor omzetgestuurde planning. Bij een restaurant met een jaarlijkse loonkostenquote van 35% en een omzet van €600.000:
+
+- Loonkosten: €210.000 per jaar
+- Besparing van 5% op loonkosten door betere bezetting: €10.500
+- Investering in Dyflexis: ~€600-1.200 per jaar
+
+ROI: 875-1.750%. Dit zijn de cijfers die ik tegenkom bij klanten die écht omzetgestuurde planning toepassen.
+
+## Horeca-CAO 2026: de regels die je planningssoftware moet kennen
+
+De Horeca-CAO is in 2026 bijgewerkt op een aantal punten. Dit is wat je planningssoftware voor je moet bijhouden:
+
+**Maximale werktijden:**
+- Maximaal 60 uur per week (gemiddeld 48 uur over 16 weken)
+- Maximaal 12 uur per dienst
+- Minimaal 11 uur rust tussen diensten
+
+**Toeslagen die automatisch berekend moeten worden:**
+- Avondtoeslag (na 20:00 uur): 25% boven basisuurloon
+- Nachttoeslag (0:00 - 6:00): 50% boven basisuurloon
+- Zondagtoeslag: 100% boven basisuurloon
+- Feestdagentoeslag: 200% boven basisuurloon
+
+**Oproepkrachten (nul-urencontract):**
+- Minimale oproeptermijn: 4 dagen
+- Bij kortere oproep: recht op loon over minimaal 3 uur
+- Na 12 maanden recht op aanbod van vaste uren (WAB)
+
+Shiftbase en Dyflexis verwerken deze regels automatisch in hun systemen. Zij waarschuwen je als je een rooster maakt dat niet voldoet aan de CAO — voordat je het publiceert.
+
+Planday heeft minder diepgaande Nederlandse CAO-ondersteuning. Deputy heeft een generieke compliance-engine die de meeste regels ondersteunt, maar vraagt soms handmatige configuratie voor Nederlandse CAO-specifieke bepalingen.
+
+**Mijn advies:** vraag bij een demo altijd expliciet hoe de tool omgaat met jouw specifieke horeca-functies (bedienend personeel, keukenpersoneel, managementfuncties). CAO-interpretatie kan per functiegroep verschillen.
+
+## Personeelsplanning horeca: de praktische implementatie
+
+Ik heb tientallen horeca-implementaties begeleid. Dit zijn de stappen die het meeste verschil maken:
+
+**Week 1: Medewerkers instellen**
+
+Voer alle medewerkers in met:
+- Contracttype (vast, flex, oproep, stage)
+- Contracturen per week
+- Functies en vaardigheden (kok, bediening, bar, afwas)
+- Beschikbaarheidsbeperkingen (student die alleen na 15:00 kan)
+
+Dit kost tijd, maar het is de basis van alles. Doe dit goed en de rest gaat vanzelf.
+
+**Week 2: Sjabloonroosters aanmaken**
+
+Maak een basisrooster dat je wekelijks aanpast. De meeste horecazaken hebben patronen: dezelfde bezetting op maandag tot donderdag, opgeschaald op vrijdag en zaterdag. Zet dit als sjabloon in — je kopieert het gewoon en past individuele diensten aan.
+
+**Week 3: Medewerker-app uitrollen**
+
+Stuur alle medewerkers een uitnodiging voor de app. Plan een kort briefmoment (5-10 minuten voor aanvang van de dienst) waar je uitlegt wat er van hen verwacht wordt: beschikbaarheid doorgeven, diensten bekijken, verlof aanvragen.
+
+De app-adoptie is de grootste succesfactor. Zonder actieve medewerkers-app verlies je de helft van de voordelen van de software.
+
+**Week 4: Kassa-koppeling activeren**
+
+Als je Dyflexis of Shiftbase gebruikt met een kassasysteem-koppeling: activeer die nu. Na een maand heb je genoeg historische data om de eerste bezettingsaanbevelingen te zien.
+
 ## Waar let je op bij personeelsplanning software voor horeca?
 
 Bij het kiezen van de juiste personeelsplanning software voor je horecabedrijf zijn er enkele essentiële factoren:
@@ -303,6 +395,33 @@ Heb je een enkele locatie met 10 medewerkers, of meerdere vestigingen met honder
 
 De koppeling met je salarissoftware scheelt je enorm veel handmatig werk. Controleer of de planning tool integreert met je huidige salarispakket, of je overweegt software als [Exact Online](/blog/exact-online-review-2026/) te gebruiken. Voor een volledig overzicht van loonadministratie-opties lees ik ook graag de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/).
 
+## Wat kost het niet hebben van goede planningssoftware?
+
+Veel horeca-ondernemers vragen me of planning software "de investering waard is." Ik draai de vraag om: wat kost het je als je het niet hebt?
+
+**Kosten van slechte planning — de rekening:**
+
+| Kostenpost | Schatting per jaar |
+|-----------|-------------------|
+| Roostermaken (3 uur/week × €18/uur × 52 weken) | €2.808 |
+| Beschikbaarheid verzamelen (2 uur/week) | €1.872 |
+| Dienstwissel-communicatie (1 uur/week) | €936 |
+| Handmatige urenberekening voor salaris (2 uur/mnd) | €432 |
+| CAO-boete (1 keer per jaar, gemiddeld) | €3.000-10.000 |
+| **Totaal minimaal** | **€9.048** |
+
+Daar tegenover: de beste personeelsplanning software voor een horecazaak met 15 medewerkers kost €45-90 per maand, of €540-1.080 per jaar.
+
+De ROI is evident: elke euro die je uitgeeft aan planning software bespaart je minstens acht euro aan directe kosten, en reduceert het risico op CAO-boetes die een veelvoud van de softwarekosten bedragen.
+
+**De indirecte kosten die je niet ziet:**
+
+Naast de directe kosten zijn er kosten die moeilijker te kwantificeren zijn maar even reëel:
+
+- **Medewerkerstevredenheid**: Een slecht georganiseerd rooster dat via WhatsApp wordt rondgestuurd frustreert personeel. In een markt met krapte op de arbeidsmarkt kost dit je medewerkers — en werving kost gemiddeld €3.000-5.000 per nieuwe kracht.
+- **Klantervaringen**: Te weinig personeel op drukke momenten leidt tot langere wachttijden en slechtere service. Dat kost je reviews en terugkerende klanten.
+- **Jouw nachtrust**: Roostering is mentaal zwaar als het handmatig gaat. De mentale belasting verdwijnt met goede software.
+
 ## Veelgemaakte fouten bij personeelsplanning in de horeca
 
 Veel horecaondernemers maken dezelfde fouten bij de personeelsplanning. Hier zijn de belangrijkste valkuilen en hoe software je helpt ze te voorkomen:
@@ -327,6 +446,48 @@ Handmatige urenregistratie leidt tot afrondingsfouten en discussies over gewerkt
 
 Als je planning en urenregistratie losstaan van je boekhouding en salarisadministratie, verspil je wekelijks tijd aan handmatige invoer. Koppel je planningssoftware aan je salarispakket en [boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/) voor een efficiënte workflow. Heb je ook je eerste medewerker aangenomen? Lees dan [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor een overzicht van de wettelijke verplichtingen. Als medewerkers verzuimen, lees dan ook mijn artikel over [verzuimregistratie en de Wet Poortwachter](/blog/verzuimregistratie-wvp-software/) en [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/) voor een proactieve aanpak.
 
+## Flex en vast personeel combineren: hoe planningssoftware dat vereenvoudigt
+
+De meeste horecazaken werken met een mix van vaste medewerkers en flexibele krachten. Vaste medewerkers hebben een voorspelbaar rooster; flexkrachten worden ingezet op drukke momenten. Die combinatie beheren is complex zonder goede software.
+
+**Wat goede planningssoftware voor gemengde teams doet:**
+
+Shiftbase en Dyflexis maken onderscheid tussen contracttypen: vaste medewerkers (met minimale uren per week), flex-medewerkers (met wisselende beschikbaarheid) en oproepkrachten (zonder vaste uren). Per type gelden andere regels — de software past die automatisch toe.
+
+**De flex-pool:**
+
+Dyflexis heeft een specifieke flex-pool functie: je maakt een aparte groep van beschikbare krachten die je kunt oproepen als het drukker is dan verwacht. Als een vaste medewerker uitvalt, zie je direct wie beschikbaar is en kun je een pushmelding sturen. De kracht accepteert of weigert via de app. Shiftbase heeft een vergelijkbare functionaliteit met de "open dienst" feature: je publiceert een dienst zonder specifieke medewerker, en beschikbare teamleden kunnen zichzelf inschrijven via de app. Dit werkt bijzonder goed voor late invullingen op dezelfde dag.
+
+**Beschikbaarheid bijhouden:**
+
+Flexkrachten geven hun beschikbaarheid op via de app — per dag, per week, of per periode. Shiftbase toont bij het inplannen automatisch wie beschikbaar is, wie al ingepland staat en wie verlof heeft. Dit voorkomt conflicten en dubbele planning.
+
+**Student-medewerkers:**
+
+Students hebben extra regels (max. arbeidsuren tijdens schoolperiodes, feestdagentoeslagen). Zorg dat je de contractsoort "student" correct instelt in je planningssoftware, zodat de CAO-regels voor deze groep automatisch worden toegepast.
+
+## Veelgestelde vragen over personeelsplanning in de horeca
+
+**Kan ik als kleine kroeg of eetcafé ook starten met planning software?**
+
+Ja, zeker. Shiftbase heeft een gratis plan voor teams tot 75 medewerkers met één locatie. Als je vijf medewerkers hebt en elke week 2-3 uur bezig bent met het rooster, verdient de software zich snel terug. Zelfs het gratis plan bespaart je uren doordat medewerkers zelf hun beschikbaarheid doorgeven via de app.
+
+**Mijn personeel wil de app niet gebruiken. Hoe pak ik dat aan?**
+
+Dit is het meest voorkomende implementatieprobleem. Mijn aanpak: laat één populaire medewerker de app als eerste installeren en gebruik hem als ambassadeur. Zorg dat de app direct iets oplevert voor medewerkers: inzicht in hun rooster, makkelijk verlof aanvragen, en de mogelijkheid om diensten te ruilen zonder bellen. Dat zijn voordelen die zij ervaren, niet alleen jij.
+
+**Hoe gaat de software om met studenten die hun beschikbaarheid wekelijks wisselen?**
+
+Alle tools ondersteunen wisselende beschikbaarheid. Medewerkers geven hun beschikbaarheid per dag of per week op via de app, en je ziet bij het inplannen automatisch wie beschikbaar is op welk moment. Shiftbase toont dit het duidelijkst: bij het aanmaken van een dienst zie je direct een overzicht van wie beschikbaar is, wie al ingepland staat en wie verlof heeft.
+
+**Is personeelsplanning software ook handig voor seizoensbedrijven?**
+
+Absoluut. Dyflexis en Deputy hebben specifieke functies voor seizoensmedewerkers: tijdelijke contracten, automatisch uitdiensttreding instellen, en rapportages over kosten per seizoen. Als je een terras-horecazaak hebt, kun je in het naseizoen medewerkers op non-actief zetten zonder ze te verwijderen — en ze het volgende voorjaar direct weer activeren.
+
+**Wat als de software offline gaat? Hebben we dan geen rooster?**
+
+De tools in dit overzicht hebben een uptijd van 99.9% of hoger. Maar plan nooit volledig zonder backup: exporteer het rooster aan het begin van elke week als PDF en deel dat via WhatsApp. Zo hebben medewerkers altijd een offline versie beschikbaar.
+
 ## Conclusie
 
 De beste personeelsplanning software voor jouw horecabedrijf hangt af van je grootte, budget en specifieke behoeften. Hier zijn onze aanbevelingen:
@@ -341,3 +502,5 @@ De beste personeelsplanning software voor jouw horecabedrijf hangt af van je gro
 Mijn advies: begin met het gratis plan van Shiftbase of vraag demo's aan bij Dyflexis en Planday. Ben je ook ZZP'er in de horeca of catering? Dan is het overzicht van de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/) ook nuttig voor de administratieve kant van je bedrijf. Test de software met je team -- ook met je medewerkers op de werkvloer -- voordat je een definitieve keuze maakt. Een goed planningssysteem verdient zichzelf snel terug door lagere loonkosten, minder administratief werk en een hoger werktevredenheid bij je personeel. Bedenk dat de gemiddelde horecamanager wekelijks 3-5 uur besteedt aan roostering. Planning software kan dit terugbrengen tot minder dan een uur, zodat jij je kunt richten op wat echt telt: het runnen van een geweldige horecazaak.
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**. En vergeet niet een bijpassend [kassasysteem voor je horeca](/blog/beste-kassasysteem-horeca-2026/) te kiezen -- de kassasysteem-inrichtingschecklist op [kassasysteem inrichten](/blog/kassasysteem-inrichten-checklist/) helpt je bij de eerste stappen.
+
+**Mijn laatste tip:** vraag bij je eerste demo altijd of de aanbieder een referentie wil geven van een vergelijkbare horecazaak. Een restauranteigenaar van een soortgelijk bedrijf — qua grootte, type keuken, openingstijden en teamsamenstelling — vertelt je dingen die geen salesgesprek kan vervangen. Vraag specifiek: "Hoe lang duurde de implementatie?" en "Wat zou je achteraf anders doen?" Die twee vragen leveren de eerlijkste antwoorden op die je kunt krijgen voor je een abonnement tekent. Goed referentie-onderzoek bespaart je meer tijd dan welke vergelijkingstabel ook. Die twee specifieke vragen kosten je slechts vijf minuten maar kunnen je maanden implementatieproblemen, onnodig werk en frustraties besparen. Een restauranteigenaar van een soortgelijk bedrijf kan je vertellen wat in de praktijk werkt en wat niet — iets wat geen salesvideo of productpagina kan vervangen.

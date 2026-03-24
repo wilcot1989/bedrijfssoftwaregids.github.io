@@ -413,3 +413,159 @@ iAuditor implementeert u in 1 tot 5 dagen. Intelex of MasterControl vergen 3 tot
 ### Is QMS software ook geschikt voor de zorgsector?
 
 Ja. De zorgsector heeft eigen kwaliteitsnormen (HKZ, NEN 7510, ISO 15189 voor laboratoria) maar de principes zijn vergelijkbaar met ISO 9001. iAuditor wordt breed gebruikt voor inspecties in zorglocaties. Voor specifieke zorgcertificeringen zijn sectorspecifieke tools beschikbaar.
+
+---
+
+## Uitgebreide prijsvergelijking en beslissingsgids
+
+De vier tools in dit overzicht bedienen fundamenteel verschillende marktsegmenten. Hier is een eerlijk overzicht om de keuze te vergemakkelijken.
+
+### Prijs-indicaties per platform
+
+| Platform | Indicatieprijs per maand | Minimale contractduur | Implementatietijd |
+|---|---|---|---|
+| **iAuditor** | €24 per gebruiker (gratis basisplan) | Maandelijks opzegbaar | 1-5 dagen |
+| **Intelex** | Op aanvraag (€2.000-10.000+) | Minimaal 1 jaar | 6-12 maanden |
+| **Qualio** | Op aanvraag (€500-2.000) | Minimaal 1 jaar | 4-8 weken |
+| **MasterControl** | Op aanvraag (€1.500-5.000+) | Minimaal 1 jaar | 3-9 maanden |
+
+**De kritische kanttekening bij enterprise-pricing:** Vraag altijd naar alle kosten. Implementatiekosten, trainingskosten, jaarlijkse support-fees en validatiediensten (bij Qualio en MasterControl voor gereguleerde sectoren) kunnen de jaarprijs verdubbelen of verdrievoudigen ten opzichte van de basislicentie.
+
+### Beslissingsmatrix: welke tool voor welke situatie?
+
+| Situatie | Aanbevolen tool | Reden |
+|---|---|---|
+| Bouw/horeca/retail inspectie | iAuditor | Laagste drempel, beste mobiele app |
+| ISO 9001 certificering MKB | iAuditor + aanvulling | Inspectie + CAPA basics |
+| ISO 9001 grote industrie | Intelex | Compleet en geïntegreerd met EHS |
+| Farma/medtech startup | Qualio | Snel te implementeren, FDA/CE klaar |
+| Grote farmacie (bestaand) | MasterControl | Bewezen standaard, diepe GxP-modules |
+| Voedselveiligheid (HACCP) | iAuditor | HACCP-templates, breed ingezet |
+| Automotive (IATF 16949) | Intelex | Brede automotive-module |
+
+---
+
+## CAPA-beheer in de praktijk: van incident tot verbetermaatregel
+
+CAPA is de kern van elk kwaliteitsmanagementsysteem, maar in de praktijk zijn er grote verschillen in hoe goed bedrijven dit beheren. Hier is de aanpak die ik aanbeveel.
+
+### De CAPA-cyclus in vier stappen
+
+**Stap 1: Detectie en registratie**
+
+Een non-conformiteit wordt gedetecteerd: een klacht van een klant, een intern audit-bevinding, een afwijking in de productie, of een leveranciersprobleem. De medewerker registreert dit in het QMS met:
+- Datum en omschrijving van de bevinding
+- Locatie of proces
+- Direct betrokken partijen
+
+iAuditor maakt dit eenvoudig via de mobiele app: tijdens een inspectie merk je direct een bevinding en koppelt er een actie aan.
+
+**Stap 2: Root cause analyse**
+
+Dit is de stap die het meest wordt overgeslagen maar het meest waardevol is. Zonder de werkelijke oorzaak te vinden, los je het symptoom op maar keert het probleem terug.
+
+Twee methoden die goed werken:
+
+*5-Why-methode:* Vraag vijf keer "waarom?" op de bevinding. Voorbeeld: Product non-conform → Waarom? Verkeerde specificatie → Waarom? Specificatie niet bijgewerkt → Waarom? Geen change management process → Waarom? Geen eigenaar aangewezen voor change management → Waarom? Geen beleid vastgesteld. De root cause is: ontbrekend change management beleid.
+
+*Fishbone-diagram (Ishikawa):* Categoriseer mogelijke oorzaken in: Mens, Machine, Methode, Materiaal, Meting, Omgeving. Intelex en MasterControl hebben beide methoden ingebouwd.
+
+**Stap 3: Actieplan en implementatie**
+
+Stel een corrective action op (los het huidige probleem op) EN een preventive action (voorkom herhaling). Wijs per actie een verantwoordelijke, een deadline en een verificatiemethode toe.
+
+**Stap 4: Effectiviteitscontrole**
+
+Na de implementatie van de acties bevestig je dat het probleem werkelijk is opgelost. Een CAPA is pas gesloten als de effectiviteit is aangetoond — niet alleen als de actie is uitgevoerd.
+
+---
+
+## ISO 9001 voor het MKB: wat het werkelijk kost
+
+De kosten van ISO 9001-certificering worden vaak onderschat. Hier is een realistisch kostenoverzicht voor een MKB-bedrijf van 25 medewerkers.
+
+### Eenmalige kosten
+
+| Kostenpost | Laag | Hoog |
+|---|---|---|
+| Gap-analyse door consultant | €2.000 | €5.000 |
+| QMS software (eerste jaar) | €1.000 | €5.000 |
+| Documentatie schrijven | €3.000 | €15.000 |
+| Medewerkerstraining | €1.500 | €4.000 |
+| Pre-audit (optioneel) | €1.500 | €3.000 |
+| Certificeringsaudit | €3.000 | €6.000 |
+| **Totaal jaar 1** | **€12.000** | **€38.000** |
+
+### Jaarlijkse doorlopende kosten
+
+| Kostenpost | Per jaar |
+|---|---|
+| QMS software | €1.000-5.000 |
+| Surveillance audit (Lloyd's, Bureau Veritas, DNV) | €2.000-4.000 |
+| Intern kwaliteitsmanagementtijd (0,5-1 fte) | €20.000-40.000 |
+| **Totaal per jaar** | **€23.000-49.000** |
+
+### Wanneer is de investering de moeite waard?
+
+ISO 9001-certificering loont als:
+- Opdrachtgevers of aanbestedende diensten een ISO-certificaat eisen
+- U operationele efficiëntie-verbeteringen van meer dan 15% verwacht (dit dekt de jaarlijkse kosten)
+- U in een sector werkt waar ISO-certificering een onderscheidende factor is
+
+Voor veel MKB-bedrijven is de directe ROI marginaal, maar de indirecte waarde (discipline in processen, minder klachten, betere onboarding van medewerkers) is aanzienlijk.
+
+---
+
+## Digitale transformatie van de vloer: iAuditor in de praktijk
+
+Van de vier tools in dit overzicht is iAuditor het meest toegankelijk voor MKB-bedrijven die nog geen formeel QMS hebben. Hier is een praktisch stappenplan voor implementatie.
+
+### Week 1: Eerste inspectieformulier bouwen
+
+Kies je meest uitgevoerde inspectie: de dagelijkse open-/sluit-controle van een locatie, de HACCP-temperatuurregistratie, of de 5S-audit van een productiecel. Bouw dit formulier na in iAuditor:
+
+- Download de iAuditor-app
+- Ga naar "Templates" en maak een nieuw template
+- Voeg vragen toe per inspectiepunt met antwoordopties (OK/Niet OK/N.v.t. of een schaal)
+- Sla het template op en wijs het toe aan je team
+
+### Week 2: Pilotinspectie
+
+Laat drie medewerkers de eerste week inspecties uitvoeren met de app. Verzamel feedback:
+- Zijn alle inspectiepunten duidelijk geformuleerd?
+- Zijn er inspectiepunten die ontbreken?
+- Werkt de foto-functie correct?
+
+### Week 3-4: Actiemanagement activeren
+
+Als de inspecties goed lopen, activeer de actiebeheer-functie. Elke bevinding die "Niet OK" scoort, wordt automatisch een actie die wordt toegewezen aan een verantwoordelijke met een deadline. De afronding wordt bijgehouden in het dashboard.
+
+### Maand 2-3: Analyticsgebruik
+
+Na zes weken data heb je patronen zichtbaar. Welke inspectiepunten scoren structureel laag? Welke locaties presteren slechter? Dit geeft richting aan verbeterinitiatieven.
+
+---
+
+## Veelgestelde vragen (uitgebreid)
+
+### Hoe koppel ik QMS-bevindingen aan mijn ERP-systeem?
+
+Intelex en MasterControl bieden API-koppelingen met SAP, Oracle en Microsoft Dynamics. Zo kunnen productiestops, kwaliteitsafwijkingen en herwerk-orders automatisch worden gesynchroniseerd. iAuditor biedt een API en Zapier-koppeling voor eenvoudigere integraties. Voor Nederlandse ERP-systemen (AFAS, Exact) zijn maatwerk-koppelingen via de API het meest gebruikte pad.
+
+### Wat is het verschil tussen ISO 9001:2015 en de vorige versie?
+
+ISO 9001:2015 heeft ten opzichte van de vorige versie (2008) vier grote wijzigingen: (1) sterkere focus op risicogebaseerd denken, (2) de context van de organisatie moet expliciet worden gedocumenteerd, (3) kennis als bedrijfsmiddel wordt erkend, en (4) minder nadruk op documentprocedures — de norm stelt nu procesgericht denken centraal boven papieren procedures.
+
+### Kan iAuditor worden gebruikt voor HACCP-inspecties in de horeca?
+
+Ja, en het is een van de meest gebruikte tools hiervoor in Nederland. iAuditor heeft specifieke HACCP-templates voor:
+- Temperatuurregistratie koelcellen
+- Persoonlijke hygiëne-controles
+- Leveranciersinspectie bij ontvangst
+- Schoonmaakcontroles
+
+De templates zijn direct te gebruiken of aan te passen aan uw specifieke situatie. Rapporten voldoen aan de Nederlandse Voedsel en Waren Autoriteit (NVWA) documentatie-eisen.
+
+### Hoe bewijs ik bij een externe audit dat mijn QMS effectief is?
+
+Auditors kijken naar vier typen bewijs: (1) actuele documentatie van procedures, (2) records die aantonen dat procedures worden gevolgd, (3) CAPA-dossiers die aantonen dat problemen systematisch worden aangepakt, en (4) management review-verslagen die aantonen dat de directie betrokken is bij kwaliteitsverbetering. Een goed QMS-systeem produceert al dit bewijs automatisch als bijproduct van dagelijks gebruik.

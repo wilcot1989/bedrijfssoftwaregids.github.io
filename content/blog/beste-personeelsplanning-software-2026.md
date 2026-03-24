@@ -329,6 +329,35 @@ Werktijden.nl is een eenvoudige Nederlandse tool voor kleine bedrijven die start
 
 ---
 
+## Personeelsplanning integreren met je HR-ecosysteem
+
+De waarde van personeelsplanning software verveelvoudigt als het goed is geïntegreerd met de rest van je HR-stack. Dit is hoe een compleet HR-ecosysteem eruitziet voor een MKB-bedrijf:
+
+**Het complete HR-ecosysteem voor MKB:**
+
+| Functie | Tool-categorie | Koppeling met planning |
+|---------|---------------|----------------------|
+| Werving | ATS (Recruitee) | Nieuwe medewerker importeren in planning |
+| Personeelsregistratie | HR-systeem (Personio) | Contractgegevens synchroniseren |
+| Salarisadministratie | Payroll (Nmbrs, AFAS) | Gewerkte uren exporteren |
+| Verlof en verzuim | HR-module of standalone | Verlof zichtbaar in rooster |
+| Urenregistratie | Ingebouwd in planningtool | Geïntegreerd |
+| Boekhouding | Exact, SnelStart | Loonkosten importeren |
+
+**Shiftbase als centrale hub:**
+
+Shiftbase heeft de meest uitgebreide integraties voor het Nederlandse MKB. Je kunt het volgende koppelen:
+- Personeelsdata vanuit AFAS of Nmbrs importeren (geen dubbele invoer bij nieuwe medewerkers)
+- Verlof en ziekte doorgeven naar HR-systeem
+- Gewerkte uren exporteren naar salarissoftware
+- Loonkosten rapporteren naar boekhoudsoftware
+
+Dit betekent dat een nieuwe medewerker die in AFAS wordt aangemaakt, automatisch in Shiftbase verschijnt — inclusief contractsoort, functies en arbeidsuren.
+
+**Waarom dit zo waardevol is:**
+
+Zonder integraties heb je bij 30 medewerkers al snel tien systemen die niet met elkaar praten. Elke maand handmatig data overzetten tussen die systemen kost uren en introduceert fouten. Met de juiste integraties stroomt data automatisch van recruitment naar HR naar planning naar salaris — zonder handmatige tussenkomst.
+
 ## Hoe kies ik de juiste personeelsplanning software?
 
 ### Stap 1: Bepaal je sector en complexiteit
@@ -405,6 +434,33 @@ De medewerkers-app bepaalt voor 50% het succes van de implementatie. Betrek een 
 
 ---
 
+## Urenregistratie en de Arbeidstijdenwet: wat verplicht is
+
+Personeelsplanning en urenregistratie zijn onlosmakelijk verbonden met de Arbeidstijdenwet (ATW). Als werkgever ben je verplicht om de arbeids- en rusttijden van je medewerkers bij te houden en te kunnen aantonen dat je de wettelijke normen naleeft.
+
+**De ATW-normen die je planningssoftware moet bewaken:**
+
+| Categorie | Maximum/Minimum |
+|-----------|----------------|
+| Werkdag | Max 12 uur |
+| Werkweek | Max 60 uur |
+| Werkweek gemiddeld | Max 48 uur over 16 weken |
+| Dagelijkse rust | Min 11 uur aaneengesloten |
+| Wekelijkse rust | Min 36 uur per 7 dagen |
+| Pauze (bij >5,5 uur) | Min 30 minuten |
+
+**Wat Shiftbase en Dyflexis automatisch doen:**
+
+Beide tools berekenen bij het inplannen of een dienst voldoet aan de ATW-normen. Zodra je een dienst inplant die een rusttijdnorm overschrijdt, krijg je een waarschuwing voordat je het rooster publiceert. Dat is aanzienlijk beter dan handmatig controleren.
+
+**Wat de Arbeidsinspectie controleert:**
+
+De Nederlandse Arbeidsinspectie (NLA) controleert steekproefsgewijs op ATW-naleving. Bij een controle moet je de urenregistratie kunnen overleggen van minimaal de afgelopen 52 weken. Digitale planningssoftware met tijdstempels voldoet hier prima aan — zorg wel dat je de data ook kunt exporteren voor het geval je van softwareleverancier wisselt.
+
+**Boetes bij overtredingen:**
+
+Overtredingen van de ATW kunnen leiden tot boetes van €1.500 tot €10.000 per overtreding. Bij systematische overtredingen kunnen die bedragen oplopen. Planning software die automatisch waarschuwt bij potentiële overtredingen is daarmee direct een investering in compliancebescherming.
+
 ## Conclusie: welke personeelsplanning software past bij jou?
 
 Voor de meeste Nederlandse MKB-bedrijven is **Shiftbase** de beste keuze in 2026. Het is volledig Nederlandstalig, voldoet aan WAB-wetgeving, heeft sterke salarisintegraties en biedt een goede balans tussen functies en prijs.
@@ -419,9 +475,92 @@ Voor de meeste Nederlandse MKB-bedrijven is **Shiftbase** de beste keuze in 2026
 
 **Kies Werktijden.nl** als je een klein team hebt en wilt beginnen met digitale planning voor een minimale investering.
 
-Test altijd gratis voordat je een contract tekent. De meeste aanbieders bieden 14-30 dagen zonder betalingsverplichting.
+Test altijd gratis voordat je een contract tekent. De meeste aanbieders bieden 14-30 dagen zonder betalingsverplichting. En mijn belangrijkste advies: betrek ook je medewerkers in de keuze. De tool die teamleiders en medewerkers prettig vinden om te gebruiken, is de tool die ook na zes maanden nog actief wordt gebruikt — en dat bepaalt uiteindelijk het succes van de implementatie.
 
 ---
+
+## Personeelsplanning en de WAB: wat je moet weten als werkgever
+
+De Wet arbeidsmarkt in balans (WAB) heeft de spelregels voor flexibel personeel veranderd. Dit heeft directe gevolgen voor hoe je je planningssoftware moet inrichten.
+
+**De WAB-verplichtingen die je planningssoftware moet registreren:**
+
+**Oproepcontracten en nul-urencontracten:**
+- Je bent verplicht een oproep minimaal vier dagen van tevoren te doen
+- Annuleer je korter dan vier dagen van tevoren? Dan ben je minimaal drie uur loon verschuldigd
+- Na 12 maanden dienstverband moet je een aanbod doen voor een vaste arbeidsomvang, gebaseerd op het gemiddelde van de afgelopen 12 maanden
+
+**Wat Shiftbase en Dyflexis automatisch bijhouden:**
+- Per oproepmedewerker: wanneer was de oproep, hoe lang van tevoren, hoeveel uur zijn er gewerkt
+- Signalering: "Medewerker X werkt 12 maanden voor je — tijd voor een aanbod van vaste uren"
+- Berekening van de gemiddelde arbeidsomvang over de afgelopen 12 maanden
+
+**Wat je zelf moet doen:**
+- Het formele aanbod opstellen en versturen (dit doet de software niet voor je)
+- Reactie van de medewerker vastleggen
+- Bij acceptatie: een nieuw contract opstellen
+
+**Mijn praktisch advies:** stel in je planningssoftware een automatische melding in 30 dagen voordat iemand 12 maanden in dienst is. Zo heb je genoeg tijd om het aanbod te berekenen en op te stellen.
+
+Lees ook mijn artikel over [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor meer over de WAB-verplichtingen.
+
+## Sectorvergelijking: welke planning tool per branche?
+
+Personeelsplanning is niet voor elke branche hetzelfde. Hier zijn mijn branchespecifieke aanbevelingen:
+
+**Retail (supermarkt, kledingwinkel, doe-het-zelf):**
+
+Dyflexis is de sterkste keuze voor retail vanwege de kassasynckoppelingen. De koppeling met Lightspeed Retail is bijzonder goed: het systeem gebruikt omzetdata per uur om te voorspellen hoeveel kassa's je open moet hebben. Shiftbase is ook sterk en heeft meer gerichte functies voor de Nederlandse retail-CAO.
+
+**Zorg (thuiszorg, ouderenzorg, ggz):**
+
+Zorg heeft complexe roosters: 24/7 bezetting, slaapdiensten, ANW-toeslagen. Dyflexis en Quinyx zijn hier het sterkst. Shiftbase werkt ook, maar vraagt meer handmatige configuratie voor zorgsector-specifieke roostertypes. Deputy heeft minder ervaring met de Nederlandse zorgwetgeving.
+
+**Bouw en installatie (buitendienst):**
+
+Hier is planningssoftware minder relevant dan werkbonnen-software. Shiftbase volstaat voor basisroostering en urenregistratie. Koppel het aan een werkbonnen-app als Fieldly voor een complete operationele workflow.
+
+**Schoonmaak en facilitaire dienstverlening:**
+
+Veel oproepkrachten, wisselende locaties en wisselende opdrachtgevers. Shiftbase heeft hier een goede reputatie. Deputy is ook sterk vanwege de locatie-based scheduling — je plant medewerkers in per adres, niet per afdeling.
+
+**Evenementen en catering:**
+
+Hoge pieken, veel tijdelijk personeel. Deputy of Planday zijn hier de favorieten: de open-shift functionaliteit waarbij medewerkers zichzelf kunnen inschrijven voor beschikbare diensten is ideaal voor evenementenpersoneel.
+
+**Onderwijs (scholen, opleidingsinstituten):**
+
+Hier kom ik Shiftbase en Dyflexis minder tegen; de meeste scholen gebruiken generieke HR-systemen. Voor roosterbeheer specifiek (lesroosters, docentenverdeling) zijn gespecialiseerde tools als Zermelo of Magister beter geschikt.
+
+## Personeelsplanning en salarissoftware: de koppelingen uitgelegd
+
+De koppeling tussen planningssoftware en salarissoftware is de functie die de meeste tijdsbesparing oplevert — en die het meest misgaat als hij niet goed is ingesteld. Hier is wat je moet weten:
+
+**Welke data stroomt over?**
+
+Vanuit je planningssoftware naar je salarispakket gaan:
+- Gewerkte uren per medewerker per periode
+- Toeslagen (avond, nacht, weekend, feestdagen)
+- Overuren en compensatieverlof
+- Ziektedagen en verlofuren
+- Contracttype per medewerker
+
+**De koppelingen per tool:**
+
+| Planningssoftware | AFAS | Nmbrs | SnelStart | Loket.nl | Exact |
+|------------------|------|-------|-----------|---------|-------|
+| Shiftbase | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Dyflexis | ❌ | ✅ | ❌ | ✅ | Via API |
+| Planday | ❌ | Via API | ❌ | Via API | ❌ |
+| Deputy | Via API | Via API | ❌ | Via API | ❌ |
+
+**Mijn advies:** begin de tool-selectie bij je salarispakket. Gebruik je AFAS? Dan is Shiftbase de logische keuze met native AFAS-koppeling. Gebruik je Nmbrs? Dan werken zowel Shiftbase als Dyflexis goed.
+
+**Wat kan er misgaan bij koppelingen:**
+
+De meest voorkomende problemen zijn: toeslagpercentages die niet overeenkomen met CAO, functiegroepen die niet correct zijn gemapt, en handmatige aanpassingen in het salarispakket die worden overschreven door de volgende export.
+
+Mijn tip: doe altijd een proefexport voor de eerste echte salarisrun. Controleer voor drie willekeurige medewerkers of het uurloon, de toeslagen en de verlofuren correct zijn overgenomen.
 
 ## Veelgestelde vragen
 
