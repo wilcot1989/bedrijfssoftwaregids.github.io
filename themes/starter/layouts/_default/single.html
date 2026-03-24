@@ -24,7 +24,7 @@
       {{ if .Params.categories }}{{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a> &rsaquo; {{ end }}{{ else if .Parent }}<a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &rsaquo; {{ end }}
       {{ .Title }}
     </div>
-    {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</div>{{ end }}
+    {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd{{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}{{ end }}</div>{{ end }}
     <h1>{{ .Title }}</h1>
 {{ end }}
 {{ if .Params.categories }}<meta name="bsg-category" content="{{ index .Params.categories 0 | urlize }}">{{ end }}

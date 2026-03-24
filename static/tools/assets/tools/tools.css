@@ -1,37 +1,40 @@
 /* ===== BSG Tools — consistent met site design system ===== */
 
-/* Inter font — zelfde als baseof.html, nodig voor standalone tool-pagina's */
-@font-face { font-family: 'Inter'; font-style: normal; font-weight: 400; font-display: swap; src: url(/fonts/inter-latin.woff2) format('woff2'); }
-@font-face { font-family: 'Inter'; font-style: normal; font-weight: 500; font-display: swap; src: url(/fonts/inter-latin.woff2) format('woff2'); }
-@font-face { font-family: 'Inter'; font-style: normal; font-weight: 600; font-display: swap; src: url(/fonts/inter-latin.woff2) format('woff2'); }
-@font-face { font-family: 'Inter'; font-style: normal; font-weight: 700; font-display: swap; src: url(/fonts/inter-latin.woff2) format('woff2'); }
+/* Outfit + DM Sans — zelfde als baseof.html, nodig voor standalone tool-pagina's */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
 /* Card container */
 .bsg-card {
   background: #fff;
-  border: 1px solid #e2e8f0;
-  border-radius: 12px;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
   padding: 2rem;
   margin: 1.5rem 0;
   max-width: 720px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
 }
 .bsg-card h1 {
-  color: #0f2439;
+  font-family: 'Outfit', -apple-system, sans-serif;
+  color: #111827;
   font-size: 1.75rem;
   margin-bottom: 0.5rem;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.025em;
+  font-weight: 700;
 }
 .bsg-card h2 {
-  color: #0f2439;
+  font-family: 'Outfit', -apple-system, sans-serif;
+  color: #111827;
   font-size: 1.4rem;
   margin-bottom: 0.75rem;
   margin-top: 0;
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 .bsg-card > p {
-  color: #64748b;
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  color: #6b7280;
   margin-bottom: 1.25rem;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 /* ===== FORM FIELDS ===== */
@@ -39,6 +42,7 @@
 /* Default: all labels in bsg-card are form field labels */
 .bsg-card label {
   display: block;
+  font-family: 'DM Sans', -apple-system, sans-serif;
   font-weight: 600;
   font-size: 0.95rem;
   color: #1e293b;
@@ -55,9 +59,9 @@
   margin-top: 0.35rem;
   padding: 0.7rem 0.9rem;
   border: 1.5px solid #d1d5db;
-  border-radius: 8px;
+  border-radius: 10px;
   font-size: 0.95rem;
-  font-family: inherit;
+  font-family: 'DM Sans', -apple-system, sans-serif;
   color: #1e293b;
   background: #fff;
   transition: border-color 0.2s, box-shadow 0.2s;
@@ -68,8 +72,8 @@
 .bsg-card input[type="text"]:focus,
 .bsg-card input[type="email"]:focus {
   outline: none;
-  border-color: #2563eb;
-  box-shadow: 0 0 0 3px rgba(37,99,235,0.1);
+  border-color: #059669;
+  box-shadow: 0 0 0 3px rgba(5,150,105,0.1);
 }
 
 /* Wizard question wrapper */
@@ -94,18 +98,18 @@
   cursor: pointer;
   padding: 0.55rem 1.1rem;
   border: 1.5px solid #d1d5db;
-  border-radius: 8px;
+  border-radius: 10px;
   margin-bottom: 0;
   background: #fff;
   transition: border-color 0.2s, background 0.2s;
 }
 .bsg-bool label:hover {
-  border-color: #93c5fd;
+  border-color: #a7f3d0;
 }
 .bsg-bool label:has(input:checked) {
-  border-color: #2563eb;
-  background: #eff6ff;
-  color: #1d4ed8;
+  border-color: #059669;
+  background: #ecfdf5;
+  color: #047857;
 }
 
 /* Multi-select chips */
@@ -122,6 +126,7 @@
   border-radius: 999px;
   padding: 0.5rem 1rem;
   font-size: 0.9rem;
+  font-family: 'DM Sans', -apple-system, sans-serif;
   font-weight: 400;
   cursor: pointer;
   background: #fff;
@@ -129,57 +134,59 @@
   transition: border-color 0.2s, background 0.2s;
 }
 .bsg-chips .bsg-chip:hover {
-  border-color: #93c5fd;
+  border-color: #a7f3d0;
 }
 .bsg-chips .bsg-chip:has(input:checked) {
-  border-color: #2563eb;
-  background: #eff6ff;
-  color: #1d4ed8;
+  border-color: #059669;
+  background: #ecfdf5;
+  color: #047857;
 }
 
 /* ===== BUTTONS ===== */
 .bsg-btn {
   display: inline-block;
   padding: 0.7rem 1.5rem;
-  border-radius: 8px;
+  border-radius: 10px;
   border: none;
-  background: #2563eb;
+  background: #059669;
   color: #fff;
   font-weight: 600;
   font-size: 0.95rem;
-  font-family: inherit;
+  font-family: 'Outfit', -apple-system, sans-serif;
   text-decoration: none;
   cursor: pointer;
-  transition: background 0.2s, box-shadow 0.2s;
+  transition: background 0.2s, box-shadow 0.2s, transform 0.1s;
   margin-top: 0.5rem;
 }
 .bsg-btn:hover {
-  background: #1d4ed8;
-  box-shadow: 0 2px 8px rgba(37,99,235,0.3);
+  background: #047857;
+  box-shadow: 0 4px 12px rgba(5,150,105,0.2);
   color: #fff;
   text-decoration: none;
+  transform: translateY(-1px);
 }
 .bsg-btn:disabled {
   opacity: 0.55;
   cursor: not-allowed;
   box-shadow: none;
+  transform: none;
 }
 .bsg-btn-sm {
   display: inline-block;
   padding: 0.4rem 0.9rem;
   border-radius: 6px;
   border: none;
-  background: #2563eb;
+  background: #059669;
   color: #fff;
   font-weight: 600;
   font-size: 0.85rem;
-  font-family: inherit;
+  font-family: 'Outfit', -apple-system, sans-serif;
   text-decoration: none;
   cursor: pointer;
   transition: background 0.2s;
 }
 .bsg-btn-sm:hover {
-  background: #1d4ed8;
+  background: #047857;
   color: #fff;
   text-decoration: none;
 }
@@ -189,11 +196,16 @@
   margin-top: 1.5rem;
 }
 .bsg-result {
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 10px;
+  background: #f8f8f6;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
   padding: 1.25rem 1.5rem;
   margin-bottom: 0.75rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.bsg-result:hover {
+  border-color: #a7f3d0;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.07);
 }
 .bsg-result-head {
   display: flex;
@@ -204,13 +216,14 @@
 }
 .bsg-badge {
   display: inline-block;
-  background: #eff6ff;
-  color: #1d4ed8;
-  border: 1px solid #bfdbfe;
+  background: #ecfdf5;
+  color: #047857;
+  border: 1px solid #a7f3d0;
   border-radius: 999px;
   padding: 0.2rem 0.7rem;
   font-size: 0.8rem;
   font-weight: 600;
+  font-family: 'Outfit', -apple-system, sans-serif;
 }
 .bsg-cta {
   margin-top: 0.75rem;
@@ -218,15 +231,18 @@
 
 /* Large number display for calculator results */
 .bsg-amount {
+  font-family: 'Outfit', -apple-system, sans-serif;
   font-size: 2rem;
   font-weight: 700;
-  color: #0f2439;
+  color: #111827;
   margin: 0.75rem 0 0.25rem;
   line-height: 1.2;
+  letter-spacing: -0.02em;
 }
 .bsg-amount-sub {
+  font-family: 'DM Sans', -apple-system, sans-serif;
   font-size: 0.92rem;
-  color: #64748b;
+  color: #6b7280;
   margin: 0 0 0.75rem;
 }
 
@@ -234,8 +250,8 @@
 .bsg-table-wrap {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  border-radius: 10px;
-  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  border: 1px solid #e5e7eb;
   margin: 1rem 0;
 }
 .bsg-table {
@@ -243,32 +259,35 @@
   border-collapse: separate;
   border-spacing: 0;
   min-width: 500px;
+  font-family: 'DM Sans', -apple-system, sans-serif;
 }
 .bsg-table th {
-  background: #0f2439;
+  background: #111827;
   color: #fff;
+  font-family: 'Outfit', -apple-system, sans-serif;
   font-weight: 600;
   padding: 0.7rem 0.9rem;
   text-align: left;
   white-space: nowrap;
   font-size: 0.88rem;
+  letter-spacing: 0.01em;
 }
-.bsg-table th:first-child { border-radius: 9px 0 0 0; }
-.bsg-table th:last-child { border-radius: 0 9px 0 0; }
+.bsg-table th:first-child { border-radius: 13px 0 0 0; }
+.bsg-table th:last-child { border-radius: 0 13px 0 0; }
 .bsg-table td {
   padding: 0.7rem 0.9rem;
-  border-bottom: 1px solid #e2e8f0;
+  border-bottom: 1px solid #e5e7eb;
   font-size: 0.92rem;
   vertical-align: middle;
 }
 .bsg-table tr:nth-child(even) td {
-  background: #f8fafc;
+  background: #f8f8f6;
 }
 .bsg-table tr:last-child td {
   border-bottom: none;
 }
 .bsg-table tr:hover td {
-  background: #eff6ff;
+  background: #ecfdf5;
 }
 
 /* ===== FILTERS ===== */
@@ -279,9 +298,9 @@
   align-items: flex-end;
   margin: 1rem 0 1.25rem;
   padding: 1rem 1.25rem;
-  background: #f8fafc;
-  border: 1px solid #e2e8f0;
-  border-radius: 10px;
+  background: #f8f8f6;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
 }
 .bsg-filters label {
   font-size: 0.88rem;
@@ -296,7 +315,7 @@
   border: 1.5px solid #d1d5db;
   border-radius: 6px;
   font-size: 0.88rem;
-  font-family: inherit;
+  font-family: 'DM Sans', -apple-system, sans-serif;
   width: auto;
 }
 .bsg-inline {
@@ -309,7 +328,7 @@
 /* ===== MISC ===== */
 .bsg-note {
   font-size: 0.82rem;
-  color: #94a3b8;
+  color: #9ca3af;
   margin-top: 0.75rem;
 }
 #bsg-matrix .bsg-card {
@@ -331,56 +350,63 @@
 .bsg-lead-capture {
   margin-top: 1.5rem;
   padding: 1.5rem;
-  border: 1px solid #e2e8f0;
-  border-radius: 12px;
-  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #f8f8f6;
 }
 
 /* ===== SEO CONTENT SECTIONS ===== */
 .bsg-intro {
-  color: #475569;
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  color: #374151;
   font-size: 1.05rem;
-  line-height: 1.7;
+  line-height: 1.75;
   margin-bottom: 0.5rem;
 }
 .bsg-seo {
   margin-top: 2.5rem;
   padding-top: 2rem;
-  border-top: 1px solid #e2e8f0;
+  border-top: 1px solid #e5e7eb;
 }
 .bsg-seo h2 {
-  color: #0f2439;
+  font-family: 'Outfit', -apple-system, sans-serif;
+  color: #111827;
   font-size: 1.3rem;
   margin: 1.75rem 0 0.5rem;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
+  font-weight: 700;
 }
 .bsg-seo h2:first-child {
   margin-top: 0;
 }
 .bsg-seo p {
-  color: #475569;
-  line-height: 1.7;
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  color: #374151;
+  line-height: 1.75;
   margin-bottom: 0.75rem;
 }
 .bsg-seo ul {
   margin: 0.5rem 0 1rem 1.25rem;
-  color: #475569;
+  color: #374151;
   line-height: 1.8;
 }
 .bsg-seo a {
-  color: #2563eb;
+  color: #059669;
   text-decoration: underline;
-  text-underline-offset: 2px;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
 }
 .bsg-seo a:hover {
-  color: #1d4ed8;
+  color: #047857;
 }
 .bsg-page-h1 {
-  color: #0f2439;
+  font-family: 'Outfit', -apple-system, sans-serif;
+  color: #111827;
   font-size: 1.85rem;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.025em;
   margin-bottom: 0.5rem;
   line-height: 1.25;
+  font-weight: 700;
 }
 
 /* ===== ARTICLE HERO (matches baseof.html) ===== */
@@ -388,25 +414,28 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin-top: -2rem;
+  margin-top: -2.5rem;
 }
 .article-hero-overlay {
-  background: rgba(15,36,57,0.75);
-  padding: 4rem 0 3rem;
+  background: linear-gradient(180deg, rgba(17,24,39,0.85) 0%, rgba(17,24,39,0.92) 100%);
+  padding: 5rem 0 3.5rem;
 }
 .article-hero-title {
+  font-family: 'Outfit', -apple-system, sans-serif;
   color: #fff;
-  font-size: 2.2rem;
-  margin-bottom: 0.5rem;
-  letter-spacing: -0.02em;
+  font-size: 2.25rem;
+  margin-bottom: 0.6rem;
+  letter-spacing: -0.03em;
   line-height: 1.25;
+  font-weight: 700;
 }
 .article-hero .breadcrumb-light {
-  color: rgba(255,255,255,0.7);
+  color: rgba(255,255,255,0.5);
   margin-bottom: 0.75rem;
+  font-weight: 500;
 }
 .article-hero .breadcrumb-light a {
-  color: rgba(255,255,255,0.7);
+  color: rgba(255,255,255,0.5);
   text-decoration: none;
 }
 .article-hero .breadcrumb-light a:hover {
@@ -417,20 +446,22 @@
 .footer-grid {
   display: grid;
   grid-template-columns: 1.5fr 1fr 1fr 1fr;
-  gap: 2rem;
-  padding: 3rem 0 2rem;
+  gap: 2.5rem;
+  padding: 3.5rem 0 2.5rem;
 }
 .footer-col h4 {
+  font-family: 'Outfit', -apple-system, sans-serif;
   color: white;
-  font-size: 0.9rem;
+  font-size: 0.82rem;
   font-weight: 700;
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
 }
 .footer-col p {
+  font-family: 'DM Sans', -apple-system, sans-serif;
   font-size: 0.85rem;
-  line-height: 1.6;
+  line-height: 1.65;
   margin-bottom: 0.5rem;
 }
 .footer-col ul {
@@ -439,26 +470,28 @@
   padding: 0;
 }
 .footer-col li {
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.5rem;
 }
 .footer-col a {
-  color: #94a3b8;
+  color: rgba(255,255,255,0.5);
   font-size: 0.85rem;
   text-decoration: none;
+  transition: color 0.15s;
 }
 .footer-col a:hover {
   color: white;
-  text-decoration: underline;
 }
 .footer-brand {
+  font-family: 'Outfit', -apple-system, sans-serif;
   font-weight: 700;
   font-size: 1.1rem;
   color: white;
   margin-bottom: 0.75rem;
   display: block;
+  letter-spacing: -0.01em;
 }
 .footer-bottom {
-  border-top: 1px solid rgba(255,255,255,0.1);
+  border-top: 1px solid rgba(255,255,255,0.08);
   padding: 1.25rem 0;
   display: flex;
   justify-content: space-between;
@@ -468,7 +501,7 @@
   font-size: 0.78rem;
 }
 .footer-bottom a {
-  color: #94a3b8;
+  color: rgba(255,255,255,0.5);
   text-decoration: underline;
 }
 

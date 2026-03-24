@@ -23,11 +23,8 @@
       {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . | urlize }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
       <div class="meta">{{ .Date.Format "02-01-2006" }} · {{ .ReadingTime }} min leestijd</div>
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <p style="color:#64748b;font-size:0.92rem;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;">{{ .Summary }}</p>
-      <div class="tags">
-        {{ range .Params.tags }}<a class="tag" href="/tags/{{ . | urlize }}/">{{ . }}</a>{{ end }}
-      </div>
-      <a href="{{ .RelPermalink }}" class="read-more" style="margin-top:0.75rem;display:inline-block;">Lees meer →</a>
+      <p class="card-excerpt">{{ .Summary }}</p>
+      <a href="{{ .RelPermalink }}" class="read-more">Lees meer</a>
     </div>
     {{ end }}
   </div>

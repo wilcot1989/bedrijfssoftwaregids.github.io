@@ -3,6 +3,7 @@
 {{/* ===== 1. HERO ===== */}}
 <div class="hero hero-home">
   <div class="container wide">
+    <span class="section-label">Onafhankelijke software vergelijkingen</span>
     <h1>Vind de beste software voor jouw bedrijf</h1>
     <p>Ik test zakelijke software hands-on en vergelijk op prijs, gebruiksgemak en support. Eerlijk advies voor Nederlandse ondernemers.</p>
     <div class="trust-strip">
@@ -11,13 +12,18 @@
       <span class="trust-item">{{ len .Site.Taxonomies.categories }} categorieën</span>
       <span class="trust-item">100% onafhankelijk</span>
     </div>
+    <div style="margin-top:2rem;">
+      <a href="/tools/" class="cta">Doe de keuzehulp</a>
+      <a href="/blog/" class="cta cta-outline" style="border-color:rgba(255,255,255,0.25);color:rgba(255,255,255,0.85);">Alle artikelen</a>
+    </div>
   </div>
 </div>
 
 {{/* ===== 2. CATEGORIE GRID ===== */}}
-<div class="section section-warm">
+<div class="section">
   <div class="container wide">
     <div class="section-title">
+      <span class="section-label">Ontdek per categorie</span>
       <h2>Alle categorieën</h2>
       <p>Kies een categorie om vergelijkingen en reviews te bekijken.</p>
     </div>
@@ -44,9 +50,10 @@
 {{ $allPosts := where .Site.RegularPages "Type" "blog" }}
 {{ $popularPosts := first 4 $allPosts }}
 {{ if $popularPosts }}
-<div class="section">
+<div class="section section-warm">
   <div class="container wide">
     <div class="section-title">
+      <span class="section-label">Meest gelezen</span>
       <h2>Populaire vergelijkingen</h2>
     </div>
     <div class="popular-grid">
@@ -57,8 +64,8 @@
         {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <div class="meta">{{ .Date.Format "02-01-2006" }} · {{ .ReadingTime }} min leestijd</div>
-        <p style="color:#64748b;font-size:0.92rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">{{ .Summary }}</p>
-        <a href="{{ .RelPermalink }}" class="read-more">Lees meer →</a>
+        <p class="card-excerpt">{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}" class="read-more">Lees meer</a>
       </div>
       {{ end }}
     </div>
@@ -70,6 +77,7 @@
 <div class="section section-dark">
   <div class="container wide">
     <div class="section-title">
+      <span class="section-label" style="color:var(--accent);">Transparant proces</span>
       <h2>Hoe ik software test</h2>
     </div>
     <div class="method-grid">
@@ -95,12 +103,13 @@
 {{/* ===== 5. RECENTE ARTIKELEN ===== */}}
 {{ $remainingPosts := after 4 $allPosts }}
 {{ if $remainingPosts }}
-<div class="section section-warm">
+<div class="section">
   <div class="container wide">
     <div class="section-title">
+      <span class="section-label">Nieuw op de site</span>
       <h2>Recente artikelen</h2>
     </div>
-    <div style="background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:0.5rem 1.25rem;">
+    <div style="background:var(--surface-card);border:1px solid var(--border);border-radius:var(--radius-lg);padding:0.5rem 1.25rem;box-shadow:var(--shadow-xs);">
       {{ range first 8 $remainingPosts }}
       <div class="article-row">
         {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
@@ -108,15 +117,15 @@
       </div>
       {{ end }}
     </div>
-    <div style="text-align:center;margin-top:1.5rem;">
-      <a href="/blog/" class="cta cta-outline">Bekijk alle artikelen →</a>
+    <div style="text-align:center;margin-top:2rem;">
+      <a href="/blog/" class="cta cta-outline">Bekijk alle artikelen</a>
     </div>
   </div>
 </div>
 {{ end }}
 
 {{/* ===== 6. AUTEUR CTA ===== */}}
-<div class="section">
+<div class="section section-warm">
   <div class="container" style="max-width:700px;">
     <div class="author-cta">
       <div class="author-cta-avatar">LV</div>

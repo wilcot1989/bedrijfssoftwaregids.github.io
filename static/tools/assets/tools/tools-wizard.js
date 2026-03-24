@@ -146,10 +146,10 @@ async function initWizard() {
     if (ranked.length > 0 && ranked[0].score > 0) {
       var top = ranked[0];
       var reasons = buildRecommendationReasons(top.breakdown, catKey);
-      recHTML = '<div class="bsg-result" style="border-left:4px solid #2563eb;background:#eff6ff;">' +
+      recHTML = '<div class="bsg-result" style="border-left:4px solid #059669;background:#ecfdf5;">' +
         '<div class="bsg-result-head"><strong>\u2605 Onze aanbeveling: ' + escapeHTML(top.t.name) + '</strong>' +
         '<span class="bsg-badge">Matchscore: ' + Math.round(top.score) + '</span></div>' +
-        '<ul style="margin:0.5rem 0 0.75rem 1.25rem;line-height:1.8;color:#1e40af;">' +
+        '<ul style="margin:0.5rem 0 0.75rem 1.25rem;line-height:1.8;color:#047857;">' +
         reasons.map(function(r) { return '<li>' + escapeHTML(r) + '</li>'; }).join('') +
         '</ul>' +
         '<div class="bsg-cta"><a class="bsg-btn" href="' + escapeHTML(top.t.affiliate?.url || "#") + '" target="_blank" rel="noopener nofollow sponsored">Bekijk ' + escapeHTML(top.t.name) + '</a></div></div>';
