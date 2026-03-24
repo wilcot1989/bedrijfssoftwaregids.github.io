@@ -76,7 +76,7 @@ faq:
   - q: "Hoe lang duurt de implementatie van een CRM systeem?"
     a: "Voor eenvoudige cloud-CRM oplossingen zoals Pipedrive of HubSpot kun je binnen een paar dagen aan de slag. Complexere systemen zoals Salesforce vergen doorgaans 2-6 maanden voor een volledige implementatie, inclusief datamigratie en training."
   - q: "Is een gratis CRM goed genoeg voor mijn bedrijf?"
-    a: "Gratis CRM-pakketten zoals HubSpot Free CRM zijn geschikt voor kleine bedrijven en startups met basale behoeften. Zodra je team groeit of je meer geavanceerde functies nodig hebt zoals automatisering en rapportages, is een betaald abonnement aan te raden."
+    a: "Gratis CRM-pakketten zoals HubSpot Free CRM zijn geschikt voor kleine bedrijven en startups met basale behoeften. Zodra je team groeit of je meer uitgebreide functies nodig hebt zoals automatisering en rapportages, is een betaald abonnement aan te raden."
   - q: "Wat is het verschil tussen CRM en ERP software?"
     a: "CRM richt zich op klantrelaties, verkoop en marketing. ERP (Enterprise Resource Planning) is breder en omvat ook financiën, voorraadbeheer, HR en productie. Sommige bedrijven gebruiken beide systemen naast elkaar, vaak met een koppeling ertussen."
   - q: "Welk CRM is het beste voor een stichting of non-profit?"
@@ -121,7 +121,7 @@ Voordat ik de systemen individueel bespreek, wil ik je eerst laten zien wat je w
 | **Gripp** | €33 | €165 | Nee | €1.980 |
 | **Close CRM** | €35 (Essentials) | €175 | Nee | €2.100 |
 
-Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel op zodra je geavanceerde functies nodig hebt. Teamleader en Gripp zijn duurder op papier, maar vervangen meerdere losse tools -- reken dat mee.
+Let op: dit zijn de startprijzen. Bij HubSpot en Salesforce lopen de kosten snel op zodra je uitgebreide functies nodig hebt. Teamleader en Gripp zijn duurder op papier, maar vervangen meerdere losse tools -- reken dat mee.
 
 ## Vergelijkingstabel: Beste CRM-Systeem per Categorie 2026
 
@@ -166,13 +166,13 @@ HubSpot is het CRM dat ik het vaakst als startpunt aanbeveel, en de reden is sim
 
 ### Nadelen
 - Betaalde plannen worden snel duur bij opschaling (Professional voor 5 gebruikers: €450/maand)
-- Geavanceerde functies pas beschikbaar vanaf Professional
+- Uitgebreide functies pas beschikbaar vanaf Professional
 - Kan overweldigend zijn door de veelheid aan functies
 - Contractueel lastig op te zeggen volgens veel gebruikers
 
 Als je net begint en nog niet weet hoeveel je aan CRM wilt besteden, zou ik zeggen: begin met HubSpot Free en ontdek wat je werkelijk nodig hebt. Kost je niets, en je kunt altijd overstappen.
 
-**Wanneer kies je NIET voor HubSpot?** Als je team minder dan 5 contacten per dag aanmaakt en je primaire doel is simpel klantbeheer, niet marketingautomatisering. In dat geval betaal je bij opschaling veel te snel te veel. Een trainingsbureau dat ik adviseerde, begon met HubSpot Free. Na een jaar hadden ze marketing automation nodig -- en dat kostte ineens €450/maand voor 5 gebruikers. Ze stapten over naar Pipedrive + Brevo voor dezelfde functionaliteit tegen een kwart van de prijs. HubSpot is een platform, geen CRM-tool. Dat onderscheid is cruciaal.
+**Wanneer kies je NIET voor HubSpot?** Als je team minder dan 5 contacten per dag aanmaakt en je primaire doel is simpel klantbeheer, niet marketingautomatisering. In dat geval betaal je bij opschaling veel te snel te veel. Een trainingsbureau dat ik adviseerde, begon met HubSpot Free. Na een jaar hadden ze marketing automation nodig -- en dat kostte ineens €450/maand voor 5 gebruikers. Ze stapten over naar Pipedrive + Brevo voor dezelfde functionaliteit tegen een kwart van de prijs. HubSpot is een platform, geen CRM-tool. Dat onderscheid is essentieel.
 
 <a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
@@ -254,7 +254,7 @@ Monday CRM is de tool die ik aanbeveel als een klant zegt: "Ik wil mijn deals tr
 - Gratis plan zeer beperkt (max 2 gebruikers)
 - Kan complex worden bij uitgebreide configuraties
 
-Heb je een dienstverlenend bedrijf waarbij deals naadloos in projecten moeten overgaan? Dan is Monday CRM een slimme keuze. Begin met het Standard-plan (€17/gebruiker) voor de automatiseringen.
+Heb je een dienstverlenend bedrijf waarbij deals soepel in projecten moeten overgaan? Dan is Monday CRM een slimme keuze. Begin met het Standard-plan (€17/gebruiker) voor de automatiseringen.
 
 **Wanneer kies je NIET voor Monday CRM?** Als je team primair verkoop doet zonder projectfase. Dan mis je de diepgang van Pipedrive's pipeline-functionaliteit en betaal je voor features die je niet gebruikt. Monday is een werkplatform dat ook als CRM werkt -- geen puur CRM dat ook projecten aankan. Dat verschil merk je in de praktijk.
 
@@ -272,7 +272,7 @@ Salesforce raad ik eerlijk gezegd alleen aan als je bedrijf de schaal heeft om h
 - Uitgebreide marketingautomatisering
 - Service Cloud voor klantenservice
 - AppExchange met duizenden extensies
-- Geavanceerde rapportages en analytics
+- Uitgebreide rapportages en analytics
 - CPQ (Configure, Price, Quote) mogelijkheden
 
 ### Prijzen (februari 2026)
@@ -339,7 +339,7 @@ Als je een bedrijf hebt met 5 tot 30 medewerkers en je wilt offertes, projecten 
 
 ## 6. Exact Online CRM — voor wie al op Exact draait
 
-Exact Online CRM is niet het sterkste standalone CRM in dit overzicht, en dat geef ik eerlijk toe. Maar als je al op Exact draait voor je boekhouding, dan is de naadloze koppeling goud waard. Van offerte naar factuur zonder kopieerwerk, klantgegevens op een plek. Ik adviseer het uitsluitend aan bedrijven die al in het Exact-ecosysteem zitten. Trustpilot: 2.6/5 (641 reviews) -- de klachten gaan vooral over de klantenservice en de wat gedateerde interface. De koppeling met de boekhoudmodule wordt juist positief gewaardeerd.
+Exact Online CRM is niet het sterkste standalone CRM in dit overzicht, en dat geef ik eerlijk toe. Maar als je al op Exact draait voor je boekhouding, dan is de directe koppeling goud waard. Van offerte naar factuur zonder kopieerwerk, klantgegevens op een plek. Ik adviseer het uitsluitend aan bedrijven die al in het Exact-ecosysteem zitten. Trustpilot: 2.6/5 (641 reviews) -- de klachten gaan vooral over de klantenservice en de wat gedateerde interface. De koppeling met de boekhoudmodule wordt juist positief gewaardeerd.
 
 Als je ook op zoek bent naar boekhoudsoftware, lees dan mijn artikel over de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/).
 
@@ -357,7 +357,7 @@ Als je ook op zoek bent naar boekhoudsoftware, lees dan mijn artikel over de [be
 - Combinatiepakketten met boekhouding beschikbaar
 
 ### Voordelen
-- Naadloze integratie met Exact boekhouding
+- Soepele integratie met Exact boekhouding
 - Bekend en vertrouwd in Nederlandse markt
 - Nederlandstalige interface en support
 - Sterke offerte-naar-factuur workflow
@@ -477,7 +477,7 @@ Als ZZP'er heb je geen uitgebreid CRM nodig — je hebt een tool nodig die jouw 
 
 ### Kan ik CRM software koppelen aan mijn kassasysteem?
 
-Ja, dat is technisch mogelijk — maar hoe soepel dat werkt, verschilt sterk per combinatie. **HubSpot** heeft via zijn marketplace koppelingen met kassasystemen zoals Lightspeed en Square. **Salesforce** biedt via AppExchange de meest uitgebreide kassa-integraties, inclusief geavanceerde opties voor retail en horeca. Voor kleinere setups werkt een koppeling via Zapier of Make het vaakst — je verbindt je kassasysteem met je CRM zonder te coderen. Wil je weten welke kassasystemen goed integreren met andere software? Lees dan mijn artikel over de [beste kassasystemen voor horeca](/blog/beste-kassasysteem-horeca-2026/) of mijn gids over [kassasystemen koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/) voor vergelijkbare integratielogica.
+Ja, dat is technisch mogelijk — maar hoe soepel dat werkt, verschilt sterk per combinatie. **HubSpot** heeft via zijn marketplace koppelingen met kassasystemen zoals Lightspeed en Square. **Salesforce** biedt via AppExchange de meest uitgebreide kassa-integraties, inclusief uitgebreide opties voor retail en horeca. Voor kleinere setups werkt een koppeling via Zapier of Make het vaakst — je verbindt je kassasysteem met je CRM zonder te coderen. Wil je weten welke kassasystemen goed integreren met andere software? Lees dan mijn artikel over de [beste kassasystemen voor horeca](/blog/beste-kassasysteem-horeca-2026/) of mijn gids over [kassasystemen koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/) voor vergelijkbare integratielogica.
 
 ### Wat doet AI in CRM-software?
 
@@ -497,7 +497,7 @@ Ja, maar de mate waarin verschilt sterk per CRM. Teamleader en Exact Online CRM 
 
 ### Is een gratis CRM goed genoeg voor mijn bedrijf?
 
-Dat hangt af van je fase. HubSpot Free CRM is verrassend compleet: onbeperkt contacten, basispipeline en e-mail tracking. Voor een ZZP'er of een startup met 2-3 mensen is dat prima om mee te beginnen. Zodra je team groeit naar 5+ mensen en je marketing automation, geavanceerde rapportages of workflow-automatiseringen nodig hebt, loop je tegen de limieten aan. Mijn vuistregel: begin gratis, upgrade pas als het gratis plan je aantoonbaar beperkt.
+Dat hangt af van je fase. HubSpot Free CRM is verrassend compleet: onbeperkt contacten, basispipeline en e-mail tracking. Voor een ZZP'er of een startup met 2-3 mensen is dat prima om mee te beginnen. Zodra je team groeit naar 5+ mensen en je marketing automation, gedetailleerde rapportages of workflow-automatiseringen nodig hebt, loop je tegen de limieten aan. Mijn vuistregel: begin gratis, upgrade pas als het gratis plan je aantoonbaar beperkt.
 
 ### Welk CRM heeft de beste mobiele app?
 
@@ -535,7 +535,7 @@ Verzekeringsprofessionals hebben specifieke eisen: polis- en verlengingsbeheer, 
 
 ### Kinderopvang en peuterspeelzalen
 
-Kinderopvangorganisaties combineren commercieel klantbeheer (ouders als klant) met dossier- en aanmeldingsbeheer (kinderen als deelnemers). De meeste generieke CRM's sluiten hier niet naadloos op aan. **HubSpot Free** werkt goed voor het bijhouden van aanvragen en wachtlijsten via aangepaste eigenschappen en formulieren. **Teamleader** is een interessant alternatief als je ook facturatie en projectplanning wilt combineren — handig voor kinderopvangorganisaties die locaties beheren. Houd er rekening mee dat je voor het verwerken van gegevens van minderjarigen extra AVG-maatregelen moet nemen; lees daarvoor mijn artikel over [GDPR en CRM: wat mag je opslaan?](/blog/gdpr-crm-wat-mag-je-opslaan-2026/).
+Kinderopvangorganisaties combineren commercieel klantbeheer (ouders als klant) met dossier- en aanmeldingsbeheer (kinderen als deelnemers). De meeste generieke CRM's sluiten hier niet soepel op aan. **HubSpot Free** werkt goed voor het bijhouden van aanvragen en wachtlijsten via aangepaste eigenschappen en formulieren. **Teamleader** is een interessant alternatief als je ook facturatie en projectplanning wilt combineren — handig voor kinderopvangorganisaties die locaties beheren. Houd er rekening mee dat je voor het verwerken van gegevens van minderjarigen extra AVG-maatregelen moet nemen; lees daarvoor mijn artikel over [GDPR en CRM: wat mag je opslaan?](/blog/gdpr-crm-wat-mag-je-opslaan-2026/).
 
 ---
 
@@ -547,7 +547,7 @@ AI is de meest overgebruikte term in SaaS-marketing, maar in CRM zie ik voor het
 
 AI-leadscoring analyseert gedragsdata — welke pagina's heeft een contact bezocht, hoe snel reageerden ze op e-mails, hoe actief zijn ze — en vertaalt dat naar een score. Het resultaat: je verkoopteam belt als eerste de leads die het warmst zijn, niet de leads die toevallig bovenaan de lijst staan.
 
-**Pipedrive** heeft AI-leadscoring ingebouwd vanaf het Growth-plan. In mijn tests gaf het verkopers een duidelijk startpunt voor hun dagelijkse prioritering. **HubSpot** heeft predictive lead scoring beschikbaar vanaf het Professional-plan (€90/gebruiker/maand) — krachtig, maar prijzig voor kleinere teams. **Salesforce Einstein** is verreweg het meest geavanceerd met multi-channel scoring, maar je hebt minimaal het Enterprise-plan nodig om het volledig te benutten.
+**Pipedrive** heeft AI-leadscoring ingebouwd vanaf het Growth-plan. In mijn tests gaf het verkopers een duidelijk startpunt voor hun dagelijkse prioritering. **HubSpot** heeft predictive lead scoring beschikbaar vanaf het Professional-plan (€90/gebruiker/maand) — krachtig, maar prijzig voor kleinere teams. **Salesforce Einstein** is verreweg het meest uitgebreid met multi-channel scoring, maar je hebt minimaal het Enterprise-plan nodig om het volledig te benutten.
 
 ### Pipeline predictions: welke deals win je écht?
 
@@ -565,7 +565,7 @@ Mijn eerlijke oordeel: AI-e-mailgeneratie bespaart 10–20 minuten per dag per v
 
 ## Gratis CRM-software: serieuze opties voor starters
 
-Ik krijg de vraag regelmatig: "Lars, moet ik nu al betalen voor een CRM, of kan ik met een gratis versie beginnen?" Mijn antwoord: begin gratis, tenzij je van dag één weet dat je geavanceerde automatisering nodig hebt. Hier zijn de drie gratis CRM-opties die ik serieus neem:
+Ik krijg de vraag regelmatig: "Lars, moet ik nu al betalen voor een CRM, of kan ik met een gratis versie beginnen?" Mijn antwoord: begin gratis, tenzij je van dag één weet dat je uitgebreide automatisering nodig hebt. Hier zijn de drie gratis CRM-opties die ik serieus neem:
 
 ### HubSpot Free CRM — de meest complete gratis optie
 
@@ -611,7 +611,7 @@ Na tientallen bedrijven te hebben begeleid met hun CRM-keuze, kan ik je dit vert
 
 - **Groot bedrijf met 50+ medewerkers?** Dan is [Salesforce](https://www.salesforce.com/nl/) de standaard. Maar investeer in een goede implementatiepartner -- daar staat of valt het mee.
 
-- **Al op Exact voor je boekhouding?** Dan is de [Exact Online CRM-module](https://www.exact.com/nl) de logische keuze. Die naadloze koppeling bespaart je uren per week.
+- **Al op Exact voor je boekhouding?** Dan is de [Exact Online CRM-module](https://www.exact.com/nl) de logische keuze. Die directe koppeling bespaart je uren per week.
 
 - **CRM en projectmanagement combineren?** [Monday CRM](https://monday.com/lang/nl) is je tool -- van deal tot projectoplevering in een systeem.
 

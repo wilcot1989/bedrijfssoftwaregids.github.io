@@ -166,7 +166,7 @@ Trengo integreert met Mollie, de populairste betaalprovider voor Nederlandse web
 |------|----------------|-----------------|
 | Essentials | €25 | WhatsApp + e-mail + chat |
 | Boost | €35 | + SLA + CSAT + Exact Online |
-| Pro | €45 | + Geavanceerde rapportages |
+| Pro | €45 | + Uitgebreide rapportages |
 
 **Voor wie is Trengo?** Nederlandse webshops van 3-30 medewerkers waarvoor WhatsApp het primaire klantcontactkanaal is en die een volledig Nederlandstalige ervaring willen.
 
@@ -178,7 +178,7 @@ Trengo integreert met Mollie, de populairste betaalprovider voor Nederlandse web
 
 ## #3 Freshdesk — Beste prijs-kwaliteitsverhouding
 
-[Freshdesk](/blog/freshdesk-review-2026/) heeft een gratis plan dat voor kleine webshops al indrukwekkend is. De Shopify-integratie is goed en het ticketsysteem is robuust.
+[Freshdesk](/blog/freshdesk-review-2026/) heeft een gratis plan dat voor kleine webshops al indrukwekkend is. De Shopify-integratie is goed en het ticketsysteem is solide.
 
 ### Waarom Freshdesk voor webshops?
 
@@ -242,12 +242,12 @@ E-mail, WhatsApp, live chat, Facebook, Instagram en telefoon (Freshcaller) — a
 
 - **Shopify**: klantorder-informatie, retourstatus, tracking in het ticket
 - **WooCommerce**: directe koppeling met orderdata
-- **Magento**: geavanceerde integratie voor grotere webshops
+- **Magento**: uitgebreide integratie voor grotere webshops
 - **Bol.com**: voor Nederlandse bol-verkopers
 
 **Krachtige automatisering voor hoog volume:**
 
-Bij een webshop die 500+ tickets per dag verwerkt, zijn Zendesk's geavanceerde triggers, workflows en automatiseringen de meest efficiënte oplossing. Je kunt:
+Bij een webshop die 500+ tickets per dag verwerkt, zijn Zendesk's uitgebreide triggers, workflows en automatiseringen de meest efficiënte oplossing. Je kunt:
 - Automatisch tickets sorteren op urgentie
 - Orderstatusvragen automatisch toewijzen aan de juiste afdeling
 - SLA's instellen per tickettype en kanaal
@@ -367,7 +367,7 @@ Voor Shopify-webshops die dagelijks honderden orderstatusvragen ontvangen, is Go
 
 **Aanbeveling: Zendesk Suite Growth**
 
-Bij grotere teams en complexere processen — meerdere merken, meerdere verzendpartners, geavanceerde SLA's — is Zendesk de sterkste keuze. De investering is gerechtvaardigd door de schaalbaarheid.
+Bij grotere teams en complexere processen — meerdere merken, meerdere verzendpartners, uitgebreide SLA's — is Zendesk de sterkste keuze. De investering is gerechtvaardigd door de schaalbaarheid.
 
 ### Webshop die wil groeien en Shopify-alternatief zoekt
 

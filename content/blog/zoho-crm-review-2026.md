@@ -62,8 +62,8 @@ Dit zijn de actuele Zoho CRM-prijzen bij jaarlijkse betaling. Maandelijkse betal
 | **Free** | Gratis (max. 3 users) | Contactbeheer, 1 pipeline, taken, basisrapportages |
 | **Standard** | €14 | Scoring rules, workflows (1 per module), e-mailmarketing, sociale media, aangepaste velden |
 | **Professional** | €23 | Meerdere pipelines, SalesSignals, webhooks, Google Ads integratie, onbeperkte workflows |
-| **Enterprise** | €40 | Zia AI, CommandCenter (blueprints), canvas-interface, multi-user portals, geavanceerde analytics |
-| **Ultimate** | €52 | Enhanced AI, geavanceerde BI-dashboards (Zoho Analytics inbegrepen), hogere API-limieten |
+| **Enterprise** | €40 | Zia AI, CommandCenter (blueprints), canvas-interface, multi-user portals, diepgaande analytics |
+| **Ultimate** | €52 | Enhanced AI, uitgebreide BI-dashboards (Zoho Analytics inbegrepen), hogere API-limieten |
 
 ### Wat betaalt een team van 5?
 
@@ -137,7 +137,7 @@ Wat ik vaak hoor van klanten: de rapportages zijn krachtig maar vereisen een lee
 
 Zoho CRM integreert via de Marketplace met meer dan 800 externe applicaties: [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), Microsoft 365, Slack, Mailchimp, Zapier, LinkedIn en veel meer. Voor specifieke branches zijn er speciale integraties beschikbaar.
 
-Maar de echte integratiewaarde zit in het Zoho-eigen ecosysteem. Zoho heeft meer dan 45 applicaties ontwikkeld die allemaal naadloos met Zoho CRM communiceren:
+Maar de echte integratiewaarde zit in het Zoho-eigen ecosysteem. Zoho heeft meer dan 45 applicaties ontwikkeld die allemaal soepel met Zoho CRM communiceren:
 
 - **Zoho Books** — boekhoudsoftware met directe CRM-koppeling (deals worden automatisch facturen)
 - **Zoho Campaigns** — e-mailmarketing met gesynchroniseerde CRM-contacten
@@ -302,7 +302,7 @@ Na diverse Zoho CRM-implementaties heb ik een aantal lessen geleerd die je weken
 Zoho CRM is de beste keuze voor:
 
 - **MKB-bedrijven met een beperkt budget** die meer willen dan basiscontactbeheer
-- **Bedrijven met complexe verkoopprocessen** die blueprints en geavanceerde automatisering nodig hebben
+- **Bedrijven met complexe verkoopprocessen** die blueprints en uitgebreide automatisering nodig hebben
 - **Teams die het Zoho-ecosysteem willen benutten** (Zoho Books, Zoho Projects, Zoho Desk)
 - **Technisch onderlegde teams** die bereid zijn de leercurve te doorlopen
 - **Bedrijven boven de 10 gebruikers** die op Pipedrive- of HubSpot-niveau functionaliteit willen, maar een lagere prijsklasse zoeken

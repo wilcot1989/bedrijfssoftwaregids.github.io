@@ -21,13 +21,13 @@ faq:
   - q: "Is Asana duurder dan Monday.com?"
     a: "Nee, Asana Starter ($10,99/gebruiker/maand) is goedkoper dan Monday.com Standard ($14/gebruiker/maand). Bovendien heeft Asana geen minimum van 3 seats. Voor een team van 2 personen ben je bij Asana $21,98/maand kwijt, bij Monday.com minstens $42/maand (3 seats minimum)."
   - q: "Wat zijn de verborgen kosten van Asana?"
-    a: "De grootste kostenval is de stap naar Advanced voor portfoliobeheer, workloadmanagement en tijdregistratie-integraties. Tijdregistratie zit nooit ingebouwd — daarvoor betaal je extra voor een integratie zoals Harvest of Toggl. Enterprise-functies als SSO, SAML en geavanceerde beveiliging zitten niet in Advanced."
+    a: "De grootste kostenval is de stap naar Advanced voor portfoliobeheer, workloadmanagement en tijdregistratie-integraties. Tijdregistratie zit nooit ingebouwd — daarvoor betaal je extra voor een integratie zoals Harvest of Toggl. Enterprise-functies als SSO, SAML en uitgebreide beveiliging zitten niet in Advanced."
   - q: "Wanneer moet ik upgraden van Asana Personal naar Starter?"
-    a: "Upgrade naar Starter zodra je één van deze functies nodig hebt: tijdlijn/Gantt-view, onbeperkte dashboards, geavanceerde rapportages, aangepaste regels (automations) of taken exporteren. Voor de meeste teams van 5+ personen die serieus projecten bijhouden is Starter de logische keuze."
+    a: "Upgrade naar Starter zodra je één van deze functies nodig hebt: tijdlijn/Gantt-view, onbeperkte dashboards, gedetailleerde rapportages, aangepaste regels (automations) of taken exporteren. Voor de meeste teams van 5+ personen die serieus projecten bijhouden is Starter de logische keuze."
   - q: "Heeft Asana een gratis plan voor bedrijven?"
     a: "Ja, het Personal-plan is permanent gratis voor maximaal 10 gebruikers. Je krijgt onbeperkte taken en projecten, lijst-, bord- en kalenderweergave en basisintegraties. Het is het ruimste gratis plan in zijn klasse — ruimer dan Monday.com (2 users) en Trello (10 users, beperkte Power-Ups)."
   - q: "Wat is het verschil tussen Asana Starter en Advanced?"
-    a: "Starter ($10,99/gebruiker/maand) geeft tijdlijn, onbeperkte automations, integraties en dashboards. Advanced ($24,99) voegt portfoliobeheer, workloadmanagement, geavanceerde rapportages en taakgoedkeuringen toe. Het verschil is $14/gebruiker/maand — voor teams zonder portfoliobeheer is Starter voldoende."
+    a: "Starter ($10,99/gebruiker/maand) geeft tijdlijn, onbeperkte automations, integraties en dashboards. Advanced ($24,99) voegt portfoliobeheer, workloadmanagement, gedetailleerde rapportages en taakgoedkeuringen toe. Het verschil is $14/gebruiker/maand — voor teams zonder portfoliobeheer is Starter voldoende."
 ---
 
 Een marketingmanager uit Amsterdam belde me vorig jaar met een verrassende vraag: "Lars, waarom is mijn Asana-factuur ineens zo veel hoger?" Ze had haar team uitgebreid van 8 naar 12 personen en was onverwacht in een hoger factuurbedrag terechtgekomen. Het goede nieuws: Asana kent geen minimum seats. Het vervelende nieuws: de stap van Starter naar Advanced zette haar team in één keer op een factor 2,3 hogere prijs per gebruiker.
@@ -73,7 +73,7 @@ Asana's Personal-plan is het ruimste gratis aanbod in de projectmanagement-markt
 - Tijdlijn/Gantt-view (die zit in Starter)
 - Portfoliobeheer
 - Workloadmanagement
-- Geavanceerde rapportages en dashboards
+- Uitgebreide rapportages en dashboards
 - Onbeperkte automations
 - Taken exporteren naar CSV
 
@@ -117,7 +117,7 @@ Asana Starter is voor de meeste teams van 5-50 personen de juiste keuze. Bij jaa
 - **Geen workloadmanagement** — zien wie te veel of te weinig werk heeft: Advanced
 - **Geen tijdregistratie** — native tijdinvoer zit niet in Asana, ook niet in Starter
 - **Geen taakgoedkeuringen** — reviewproces met goedkeuringsflows: Advanced
-- **Geen geavanceerde beveiliging** (SSO/SAML is Enterprise)
+- **Geen uitgebreide beveiliging** (SSO/SAML is Enterprise)
 
 ### Kostenberekening Starter
 
@@ -149,7 +149,7 @@ Advanced ($24,99/gebruiker/maand jaarlijks) verdubbelt ruwweg de prijs per gebru
 - Overbelasting signaleren
 - Taken herverdelen vanuit workloadweergave
 
-**Geavanceerde rapportages:**
+**Uitgebreide rapportages:**
 - Aanpasbare rapportages over meerdere projecten
 - Rapportages exporteren
 - Tijdregistratie-rapportages (via integraties)
@@ -161,7 +161,7 @@ Advanced ($24,99/gebruiker/maand jaarlijks) verdubbelt ruwweg de prijs per gebru
 
 **Overige Advanced-features:**
 - Aangepaste velden op formulieren
-- Geavanceerde zoekfuncties
+- Uitgebreide zoekfuncties
 - Prioriteitsinstellingen
 
 ### Wanneer is Advanced het geld waard?
@@ -191,14 +191,14 @@ Enterprise is voor grote organisaties (doorgaans 50+ gebruikers) met specifieke 
 **Enterprise voegt toe:**
 - SAML-based SSO (single sign-on)
 - SCIM-provisioning (automatisch accounts aanmaken/verwijderen via HR-systeem)
-- Geavanceerde gebruikersbeheer
+- Uitgebreide gebruikersbeheer
 - Data Export API
 - Toegewijde customer success manager
 - SLA-afspraken
 
 **Enterprise+ voegt boven Enterprise toe:**
 - HIPAA-compliance (gezondheidszorg)
-- Geavanceerde gegevensresidentie-opties
+- Uitgebreide gegevensresidentie-opties
 - Uitgebreidere auditlogs
 - Aanvullende beveiligingscertificaten
 
@@ -419,7 +419,7 @@ Asana heeft 300+ integraties, maar de meest gevraagde kosten buiten Asana ook ge
 |---|---|---|
 | **Harvest** | Tijdregistratie | $12/gebruiker/maand |
 | **Toggl Track** | Tijdregistratie | $9/gebruiker/maand (Business) |
-| **Clockify** | Tijdregistratie | Gratis basis / betaald geavanceerd |
+| **Clockify** | Tijdregistratie | Gratis basis / betaald uitgebreid |
 | **Zapier** | Koppeling met 5.000+ tools | $19,99-$49/maand |
 | **Slack** | Notificaties en taken aanmaken | Inbegrepen in Slack-plan |
 | **Google Workspace** | Bijlagen en agenda | Inbegrepen in Google Workspace |
@@ -451,13 +451,13 @@ Asana Starter kost $10,99 per gebruiker per maand bij jaarlijkse betaling. Advan
 Nee, Asana Starter ($10,99/gebruiker/maand) is goedkoper dan Monday.com Standard ($14/gebruiker/maand). Bovendien heeft Asana geen minimum van 3 seats. Voor een team van 2 personen ben je bij Asana $21,98/maand kwijt, bij Monday.com minstens $42/maand (3 seats minimum).
 
 **Wat zijn de verborgen kosten van Asana?**
-De grootste kostenval is de stap naar Advanced voor portfoliobeheer, workloadmanagement en tijdregistratie-integraties. Tijdregistratie zit nooit ingebouwd — daarvoor betaal je extra voor een integratie zoals Harvest of Toggl. Enterprise-functies als SSO, SAML en geavanceerde beveiliging zitten niet in Advanced.
+De grootste kostenval is de stap naar Advanced voor portfoliobeheer, workloadmanagement en tijdregistratie-integraties. Tijdregistratie zit nooit ingebouwd — daarvoor betaal je extra voor een integratie zoals Harvest of Toggl. Enterprise-functies als SSO, SAML en uitgebreide beveiliging zitten niet in Advanced.
 
 **Wanneer moet ik upgraden van Asana Personal naar Starter?**
-Upgrade naar Starter zodra je één van deze functies nodig hebt: tijdlijn/Gantt-view, onbeperkte dashboards, geavanceerde rapportages, aangepaste regels (automations) of taken exporteren. Voor de meeste teams van 5+ personen die serieus projecten bijhouden is Starter de logische keuze.
+Upgrade naar Starter zodra je één van deze functies nodig hebt: tijdlijn/Gantt-view, onbeperkte dashboards, gedetailleerde rapportages, aangepaste regels (automations) of taken exporteren. Voor de meeste teams van 5+ personen die serieus projecten bijhouden is Starter de logische keuze.
 
 **Heeft Asana een gratis plan voor bedrijven?**
 Ja, het Personal-plan is permanent gratis voor maximaal 10 gebruikers. Je krijgt onbeperkte taken en projecten, lijst-, bord- en kalenderweergave en basisintegraties. Het is het ruimste gratis plan in zijn klasse — ruimer dan Monday.com (2 users) en Trello (10 users, beperkte Power-Ups).
 
 **Wat is het verschil tussen Asana Starter en Advanced?**
-Starter ($10,99/gebruiker/maand) geeft tijdlijn, onbeperkte automations, integraties en dashboards. Advanced ($24,99) voegt portfoliobeheer, workloadmanagement, geavanceerde rapportages en taakgoedkeuringen toe. Het verschil is $14/gebruiker/maand — voor teams zonder portfoliobeheer is Starter voldoende.
+Starter ($10,99/gebruiker/maand) geeft tijdlijn, onbeperkte automations, integraties en dashboards. Advanced ($24,99) voegt portfoliobeheer, workloadmanagement, gedetailleerde rapportages en taakgoedkeuringen toe. Het verschil is $14/gebruiker/maand — voor teams zonder portfoliobeheer is Starter voldoende.

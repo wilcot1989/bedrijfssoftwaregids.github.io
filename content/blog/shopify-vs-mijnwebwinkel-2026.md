@@ -28,7 +28,7 @@ faq:
   - q: "Welk platform heeft meer thema's en templates?"
     a: "Shopify biedt ruim 200 professionele thema's (13 gratis, de rest tussen €150 en €400). Acendy heeft een beperkter aanbod van templates die je binnen het platform kunt aanpassen. Qua designvrijheid en keuze wint Shopify ruimschoots."
   - q: "Is Shopify geschikt voor de Nederlandse markt?"
-    a: "Ja, Shopify is volledig beschikbaar in het Nederlands, ondersteunt iDEAL via Shopify Payments, heeft een Nederlands supportteam en werkt naadloos met Nederlandse betaalproviders als Mollie. Veel grote Nederlandse webshops draaien op Shopify."
+    a: "Ja, Shopify is volledig beschikbaar in het Nederlands, ondersteunt iDEAL via Shopify Payments, heeft een Nederlands supportteam en werkt soepel met Nederlandse betaalproviders als Mollie. Veel grote Nederlandse webshops draaien op Shopify."
 ---
 
 Shopify vs Mijnwebwinkel -- ik krijg deze vraag steeds vaker: "Lars, ik wil een webshop starten in Nederland, welke kies ik?" Tot voor kort was het antwoord simpel: Shopify voor ambitie en schaal, Mijnwebwinkel voor wie puur Nederlands en eenvoudig wil. Maar sinds januari 2026 is Mijnwebwinkel getransformeerd naar Acendy, en daarmee zijn de kaarten flink geschud. Hogere prijzen, een nieuw platform, andere pakketten.
@@ -70,7 +70,7 @@ Wat ik waardeer aan Shopify is dat het platform meegroeit. Ik heb klanten geholp
 - Shopify Payments met iDEAL-ondersteuning (€0,29/transactie)
 - Uitstekende uptime en snelheid (99,99%)
 - Koppeling met bol.com, Amazon en andere marketplaces
-- Geavanceerde analytics en rapportages
+- Uitgebreide analytics en rapportages
 
 ### Zwakke punten van Shopify
 
@@ -170,7 +170,7 @@ Acendy biedt een **beperkter aantal templates** die je binnen het platform kunt 
 
 ### Betaalmethoden
 
-Voor de Nederlandse markt is dit een cruciale vergelijking.
+Voor de Nederlandse markt is dit een essentiële vergelijking.
 
 **Shopify:**
 - Shopify Payments (iDEAL, creditcard, Bancontact, Apple Pay, Google Pay)
@@ -317,7 +317,7 @@ Ik merk dat veel bestaande Mijnwebwinkel-klanten overwegen om over te stappen na
 
 Reken op 1 tot 3 weken doorlooptijd, afhankelijk van het aantal producten en de complexiteit van je shop. Er zijn ook gespecialiseerde bureaus die de migratie voor je verzorgen, zoals Opklopper en Code.
 
-Voor je betaalintegratie verwijs ik je naar mijn [Mollie review](/blog/mollie-review-2026/) -- Mollie werkt naadloos met zowel Shopify als Acendy.
+Voor je betaalintegratie verwijs ik je naar mijn [Mollie review](/blog/mollie-review-2026/) -- Mollie werkt soepel met zowel Shopify als Acendy.
 
 
 ## Veelgemaakte fouten bij het kiezen van een webshopplatform

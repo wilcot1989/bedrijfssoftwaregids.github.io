@@ -23,9 +23,9 @@ faq:
   - q: "Wat is het grote nadeel van Wix?"
     a: "Het grootste nadeel is lock-in: als je eenmaal op Wix zit, kun je niet meer overstappen naar een ander platform zonder je website volledig opnieuw te bouwen. Wix exporteert geen overdraagbare data of code. Dit is een bewuste keuze van Wix, maar het betekent dat je je toekomst volledig aan hun platform verbindt. Voor serieuze e-commerce is ook de beperktere functionaliteit vergeleken met Shopify een relevant nadeel."
   - q: "Is Wix goed voor SEO?"
-    a: "Wix heeft de afgelopen jaren forse SEO-verbeteringen doorgevoerd en is tegenwoordig aanzienlijk beter dan zijn historische reputatie als SEO-nachtmerrie. Automatische sitemap, aanpasbare meta-tags, SSL, en een redelijke paginasnelheid op lichte sites zijn nu standaard. Toch blijft Wix in SEO-benchmarks gemiddeld iets achter bij WordPress/WooCommerce -- met name bij zware sites of bij geavanceerde technische SEO-eisen."
+    a: "Wix heeft de afgelopen jaren forse SEO-verbeteringen doorgevoerd en is tegenwoordig aanzienlijk beter dan zijn historische reputatie als SEO-nachtmerrie. Automatische sitemap, aanpasbare meta-tags, SSL, en een redelijke paginasnelheid op lichte sites zijn nu standaard. Toch blijft Wix in SEO-benchmarks gemiddeld iets achter bij WordPress/WooCommerce -- met name bij zware sites of bij uitgebreide technische SEO-eisen."
   - q: "Is Wix geschikt voor een webshop?"
-    a: "Voor kleine tot middelgrote webshops kan Wix prima werken, zeker als je weinig producten hebt en geen complexe logistiek nodig hebt. Wix Stores heeft de basisfuncties voor e-commerce: productpagina's, winkelwagen, kortingscodes, verzendopties. Maar bij meer dan ~200 producten, internationale verkoop, of geavanceerd voorraadbeheer is Shopify een sterkere keuze. Wix is meer geschikt voor ondernemers waarbij de website centraal staat en de webshop een secundaire functie is."
+    a: "Voor kleine tot middelgrote webshops kan Wix prima werken, zeker als je weinig producten hebt en geen complexe logistiek nodig hebt. Wix Stores heeft de basisfuncties voor e-commerce: productpagina's, winkelwagen, kortingscodes, verzendopties. Maar bij meer dan ~200 producten, internationale verkoop, of uitgebreid voorraadbeheer is Shopify een sterkere keuze. Wix is meer geschikt voor ondernemers waarbij de website centraal staat en de webshop een secundaire functie is."
   - q: "Kan ik mijn Wix website overzetten naar een ander platform?"
     a: "Dat is helaas zeer moeilijk. Wix heeft geen exportfunctie voor je volledige website. Je kunt wel je blogberichten en productdata (CSV) exporteren, maar de opmaak, het design en de pagina-structuur zijn niet overdraagbaar. In de praktijk betekent een overstap van Wix naar een ander platform dat je je website grotendeels of volledig opnieuw moet bouwen. Dit is misschien wel het grootste risico van Wix op de lange termijn."
 ---
@@ -63,7 +63,7 @@ Wix werkt met vijf abonnementen. Let op: de prijzen zijn in Amerikaanse dollars 
 | **Light** | $17 | 2 GB | Nee | Kleine portfolio/blog |
 | **Core** | $29 | 50 GB | Basis | Startende webshop |
 | **Business** | $36 | 100 GB | Volledig | Groeiende webshop |
-| **Business Elite** | $159 | Onbeperkt | Geavanceerd | Enterprise |
+| **Business Elite** | $159 | Onbeperkt | Uitgebreid | Enterprise |
 
 Een paar dingen die ik altijd benadruk bij klanten die Wix overwegen:
 
@@ -155,7 +155,7 @@ Wix Stores is Wix's e-commerce oplossing, ingebouwd in het platform. Voor kleine
 
 ### Betalingen in Nederland
 
-Dit is een cruciaal punt voor Nederlandse webshophouders. Wix heeft geen eigen geïntegreerde betaaloplossing voor Nederland zoals Shopify Payments. **iDEAL — de dominante betaalmethode in Nederland — is niet native ingebouwd bij Wix.**
+Dit is een essentieel punt voor Nederlandse webshophouders. Wix heeft geen eigen geïntegreerde betaaloplossing voor Nederland zoals Shopify Payments. **iDEAL — de dominante betaalmethode in Nederland — is niet native ingebouwd bij Wix.**
 
 De meest gebruikte oplossing is **Mollie**, te installeren via de Wix App Market. Mollie ondersteunt iDEAL, Bancontact, creditcards en meer, en werkt redelijk soepel met Wix. Maar het is een extra app, een extra integratie, en potentieel extra transactiekosten. Lees meer over betaalopties in mijn vergelijking van [Mollie vs MultiSafepay](/blog/mollie-vs-multisafepay-2026/).
 
@@ -163,7 +163,7 @@ Alternatief: PayPal is native beschikbaar bij Wix maar wordt door Nederlandse co
 
 ### Waar Wix Stores achter blijft bij Shopify
 
-- Geen geavanceerd voorraadbeheer voor meerdere locaties
+- Geen uitgebreid voorraadbeheer voor meerdere locaties
 - Beperkte rapportagemogelijkheden op lagere plannen
 - Minder uitgebreide shipping-integraties
 - Geen directe koppeling met grote logistieke partijen zoals PostNL of DHL zonder apps
@@ -193,7 +193,7 @@ In 2026 is dat beeld genuanceerder. Wix heeft forse investeringen gedaan in SEO-
 
 **Wat nog steeds beperkter is:**
 - Laadtijden bij zware pagina's met veel animaties en apps blijven een risico. Core Web Vitals scores zijn gemiddeld lager dan WordPress-sites met goede optimalisatie.
-- Geavanceerde redirects beheren is omslachtiger dan in WordPress
+- Uitgebreide redirects beheren is omslachtiger dan in WordPress
 - Blog-structuur (categorieën, tags, archiefsides) is minder uitgebreid dan WordPress
 - Minder controle over hreflang voor meertalige sites
 - Log-bestand analyse en technische SEO-audit mogelijkheden zijn extern (via bijv. Screaming Frog)
@@ -237,7 +237,7 @@ Voor de gemiddelde MKB-ondernemer is dit een groot voordeel. Je wilt een website
 - CDN (content delivery network) voor snellere laadtijden wereldwijd
 - DDoS-bescherming
 
-**De keerzijde:** Omdat alles op Wix's infrastructure draait, heb je geen root-toegang, geen FTP, geen directe database-toegang. Custom server-configuraties zijn onmogelijk. Voor 99% van de MKB-bedrijven is dit geen probleem. Maar voor specifieke technische vereisten (bijv. een custom API, geavanceerde server-side scripting) bot je tegen wanden.
+**De keerzijde:** Omdat alles op Wix's infrastructure draait, heb je geen root-toegang, geen FTP, geen directe database-toegang. Custom server-configuraties zijn onmogelijk. Voor 99% van de MKB-bedrijven is dit geen probleem. Maar voor specifieke technische vereisten (bijv. een custom API, uitgebreide server-side scripting) bot je tegen wanden.
 
 ---
 
@@ -332,7 +332,7 @@ Na alles afgewogen, is Wix de juiste keuze voor:
 - Je maximale controle en SEO-slagkracht wilt → WordPress/WooCommerce
 - Je nu al weet dat je op termijn wilt migreren naar een professioneler platform
 - iDEAL direct ingebouwd essentieel is voor jouw workflow
-- Je geavanceerde e-commerce functies nodig hebt (B2B, dropshipping, meerdere valuta's)
+- Je uitgebreide e-commerce functies nodig hebt (B2B, dropshipping, meerdere valuta's)
 
 Wil je zien hoe je de beste keuze maakt voor jouw situatie? Lees dan mijn gids [beste website bouwers voor het MKB](/blog/beste-website-bouwers-mkb-2026/).
 

@@ -90,7 +90,7 @@ Lightspeed werkt met maandelijkse abonnementen. De precieze prijs hangt af van o
 
 **Lightspeed Retail:**
 - **Basic**: €59/maand -- 1 kassa, 1 locatie, basis voorraadbeheer
-- **Core**: €89/maand -- geavanceerde rapportages, loyaliteitsprogramma, boekhoudingraties
+- **Core**: €89/maand -- gedetailleerde rapportages, loyaliteitsprogramma, boekhoudingraties
 - **Plus**: €149/maand -- custom rapportages, API-toegang, voorspellend voorraadbeheer
 
 **Lightspeed Restaurant:**
@@ -108,7 +108,7 @@ Square draait het model om: geen abonnement, wel transactiekosten.
 
 **Software:**
 - **Gratis plan**: €0/maand -- volledige kassasoftware, basis voorraadbeheer, rapportages
-- **Square for Retail Plus**: €69/maand per locatie -- geavanceerd voorraadbeheer, leveranciersbeheer
+- **Square for Retail Plus**: €69/maand per locatie -- uitgebreid voorraadbeheer, leveranciersbeheer
 - **Square for Restaurants Plus**: €69/maand per locatie -- tafelmanagement, gangenmanagement
 
 **Transactiekosten:**
@@ -347,7 +347,7 @@ Lightspeed wint hier overtuigend, zeker als je in Nederland opereert. De directe
 - Multi-locatie voorraadbeheer (zie voorraad over alle vestigingen)
 - Eenvoudig extra kassa's toevoegen (€39/mnd per stuk)
 - Geïntegreerde webshop voor online verkoop
-- Geavanceerde rapportages voor ketens en meerdere vestigingen
+- Uitgebreide rapportages voor ketens en meerdere vestigingen
 - API voor maatwerk-integraties
 - Geschikt van 1 tot 100+ locaties
 
@@ -356,7 +356,7 @@ Lightspeed wint hier overtuigend, zeker als je in Nederland opereert. De directe
 - Multi-locatie beheer mogelijk (in betaalde plannen)
 - Extra locaties tegen €69/mnd per locatie (Plus-plan)
 - Square Online voor e-commerce
-- Beperkter in geavanceerde rapportages voor meerdere locaties
+- Beperkter in gedetailleerde rapportages voor meerdere locaties
 - API beschikbaar
 - Best geschikt voor 1 tot 10 locaties
 
@@ -429,7 +429,7 @@ Lightspeed is het betere kassasysteem als je:
 
 - **Een gevestigde winkel of horecazaak runt** met een omzet boven de €9.000 per maand
 - **Uitgebreid voorraadbeheer nodig hebt** met varianten, leveranciers en inkooporders
-- **Een restaurant met tafelservice hebt** waar gangenbeheer en keukenprinters cruciaal zijn
+- **Een restaurant met tafelservice hebt** waar gangenbeheer en keukenprinters essentieel zijn
 - **iDEAL wilt accepteren** -- en laten we eerlijk zijn, in Nederland wil je dat
 - **Nederlandstalige support belangrijk vindt** voor als het misgaat op een drukke zaterdag
 - **Groeiplannen hebt** voor een tweede vestiging, webshop of groter assortiment

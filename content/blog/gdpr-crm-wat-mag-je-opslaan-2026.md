@@ -46,7 +46,7 @@ De AVG staat gegevensverwerking alleen toe als je één van de zes grondslagen k
 
 ### Grondslag 1: Uitvoering van een overeenkomst
 
-Als iemand klant bij je is, mag je de gegevens bewaren die nodig zijn om die overeenkomst uit te voeren en na te komen. NAW-gegevens, orderhistorie, betaalgegevens, leveringsadressen — allemaal toegestaan. Dit is de meest robuuste grondslag voor klantgegevens en in de meeste gevallen de primaire grondslag voor actieve klanten.
+Als iemand klant bij je is, mag je de gegevens bewaren die nodig zijn om die overeenkomst uit te voeren en na te komen. NAW-gegevens, orderhistorie, betaalgegevens, leveringsadressen — allemaal toegestaan. Dit is de meest solide grondslag voor klantgegevens en in de meeste gevallen de primaire grondslag voor actieve klanten.
 
 De overeenkomst hoeft niet altijd een formeel contract te zijn. Een aankoop in je webshop, een getekende offerte, of zelfs een mondelinge afspraak die is bevestigd per e-mail telt als overeenkomst.
 
@@ -182,7 +182,7 @@ In Nederland geldt voor B2B e-mailmarketing een relatief soepel regime bij besta
 3. Je altijd een gemakkelijke en gratis mogelijkheid biedt om af te melden (opt-out)
 4. Je je bedrijfsidentiteit duidelijk vermeldt
 
-Voor nieuwe zakelijke contacten zonder eerdere relatie heb je in principe toestemming nodig. In de praktijk wordt "gerechtvaardigd belang" hier soms als grondslag gehanteerd, maar dit is juridisch minder robuust en vereist documentatie.
+Voor nieuwe zakelijke contacten zonder eerdere relatie heb je in principe toestemming nodig. In de praktijk wordt "gerechtvaardigd belang" hier soms als grondslag gehanteerd, maar dit is juridisch minder solide en vereist documentatie.
 
 ### B2C marketing: altijd opt-in
 

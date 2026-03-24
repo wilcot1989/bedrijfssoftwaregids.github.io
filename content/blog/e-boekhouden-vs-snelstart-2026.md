@@ -76,7 +76,7 @@ SnelStart is ook een Nederlandse veteraan — opgericht in 1989, een van de ouds
 
 **Wat werkt goed bij SnelStart:**
 
-SnelStart's kracht is breedte op MKB-niveau. Salarisadministratie is diep uitgewerkt en ingebouwd — niet als dure add-on. Voorraadbeheer is robuuster dan bij de meeste concurrenten in dit prijssegment. De aansluiting bij Belastingdienst en Nederlandse boekhoudstandaarden zit er al dertig jaar in.
+SnelStart's kracht is breedte op MKB-niveau. Salarisadministratie is diep uitgewerkt en ingebouwd — niet als dure add-on. Voorraadbeheer is betrouwbaarder dan bij de meeste concurrenten in dit prijssegment. De aansluiting bij Belastingdienst en Nederlandse boekhoudstandaarden zit er al dertig jaar in.
 
 Het gratis plan (SnelStart Free) is een serieuze optie voor startende ondernemers of ZZP'ers met een eenvoudige administratie. Je kunt inkomsten en uitgaven bijhouden, facturen maken, en BTW-aangifte doen zonder te betalen.
 
@@ -122,7 +122,7 @@ Beide pakketten bieden solide kernfunctionaliteit. Het verschil zit in de diepte
 
 **Salarisadministratie:** SnelStart wint duidelijk. De Salaris-module is dieper, beter geïntegreerd, en heeft meer ondersteuning voor complexe salarisberekeningen (loonheffing, eindejaarsuitkering, etc.).
 
-**Voorraadbeheer:** SnelStart wint nipt. Beide hebben voorraadbeheer, maar SnelStart's implementatie is robuuster voor bedrijven met grotere voorraden.
+**Voorraadbeheer:** SnelStart wint nipt. Beide hebben voorraadbeheer, maar SnelStart's implementatie is betrouwbaarder voor bedrijven met grotere voorraden.
 
 **Projectadministratie:** Gelijkspel. Beide bieden urenregistratie en projectkoppelingen voor facturatie.
 
@@ -134,7 +134,7 @@ Beide pakketten bieden solide kernfunctionaliteit. Het verschil zit in de diepte
 
 e-Boekhouden heeft meer geïnvesteerd in cloud-automatisering: directe bankkoppelingen met automatisch matchen, terugkerende facturen, automatische betalingsherinneringen, en integraties met externe platforms.
 
-SnelStart's automatisering is sterk op de MKB-kant (automatische loonjournaalposten, periodieke verwerking) maar minder geavanceerd op cloud-automatisering zoals bankmatching en externe integraties.
+SnelStart's automatisering is sterk op de MKB-kant (automatische loonjournaalposten, periodieke verwerking) maar minder uitgebreid op cloud-automatisering zoals bankmatching en externe integraties.
 
 **Conclusie automatisering:** e-Boekhouden wint op cloud-automatisering en externe integraties.
 
@@ -247,7 +247,7 @@ Het hoofdoverzicht heb je nu. Maar bij boekhoudsoftware zit het verschil in de d
 
 Ik begin bewust met dit onderwerp omdat het voor veel MKB-bedrijven doorslaggevend is — maar vaak te laat ontdekt wordt.
 
-**SnelStart Salaris** is een volledig uitgewerkte salarismodule die naadloos is geïntegreerd in het boekhoudpakket. Je voert medewerkergegevens in (naam, BSN, salaris, arbeidscontract), en SnelStart berekent automatisch de loonheffing, sociale premies, en de nettobetaling. Aan het einde van de maand klik je op "verwerk lonen", en de salarisstroken worden gegenereerd, de journaalposten worden aangemaakt, en de salarisbetalingen kunnen via SEPA-bulk worden uitgestuurd.
+**SnelStart Salaris** is een volledig uitgewerkte salarismodule die soepel is geïntegreerd in het boekhoudpakket. Je voert medewerkergegevens in (naam, BSN, salaris, arbeidscontract), en SnelStart berekent automatisch de loonheffing, sociale premies, en de nettobetaling. Aan het einde van de maand klik je op "verwerk lonen", en de salarisstroken worden gegenereerd, de journaalposten worden aangemaakt, en de salarisbetalingen kunnen via SEPA-bulk worden uitgestuurd.
 
 Voor een klein bedrijf met acht medewerkers is dit enorm tijdbesparend. En omdat de salarisboekingen direct in het grootboek terechtkomen, hoef je niets handmatig over te typen.
 
@@ -259,9 +259,9 @@ Voor bedrijven met personeel is SnelStart's geïntegreerde salarisoplossing een 
 
 Beide pakketten bieden voorraadbeheer, maar de diepte verschilt.
 
-**SnelStart** heeft een robuuste voorraadmodule die aansluit bij zijn MKB-focus. Je kunt producten aanmaken met inkoopprijs, verkoopprijs, en minimumstockmelding. Bij het boeken van inkopen stijgt de voorraad automatisch; bij het versturen van facturen daalt hij. Je krijgt rapporten over de huidige voorraadwaarde, de omzetsnelheid per product, en wanneer je moet nabestellen.
+**SnelStart** heeft een solide voorraadmodule die aansluit bij zijn MKB-focus. Je kunt producten aanmaken met inkoopprijs, verkoopprijs, en minimumstockmelding. Bij het boeken van inkopen stijgt de voorraad automatisch; bij het versturen van facturen daalt hij. Je krijgt rapporten over de huidige voorraadwaarde, de omzetsnelheid per product, en wanneer je moet nabestellen.
 
-**e-Boekhouden** heeft ook voorraadbeheer, maar het is iets minder uitgebreid op het gebied van productlocaties, meerdere magazijnen, en geavanceerde FIFO/LIFO-waardering. Voor een eenvoudig product-assortiment is e-Boekhouden voldoende; voor een bedrijf met tientallen of honderden SKU's is SnelStart robuuster.
+**e-Boekhouden** heeft ook voorraadbeheer, maar het is iets minder uitgebreid op het gebied van productlocaties, meerdere magazijnen, en uitgebreide FIFO/LIFO-waardering. Voor een eenvoudig product-assortiment is e-Boekhouden voldoende; voor een bedrijf met tientallen of honderden SKU's is SnelStart betrouwbaarder.
 
 ### Desktop versus cloud: welk model past bij jou?
 
@@ -305,7 +305,7 @@ Een van de meest gebruikte functies in boekhoudsoftware is de bankimport. Hoe so
 
 **e-Boekhouden** heeft directe bankkoppelingen via PSD2 Open Banking met de meeste Nederlandse banken: ING, Rabobank, ABN AMRO, SNS, Knab, Bunq, en meer. Transacties worden automatisch geïmporteerd en het systeem leert van je boekingspatronen. Na een paar maanden matcht het systeem 70-80% van transacties automatisch op de juiste kostenpost of openstaande factuur.
 
-**SnelStart** ondersteunt ook PSD2-bankkoppelingen voor de meeste grote banken, plus MT940-import als alternatief. De automatische matching is aanwezig maar minder geavanceerd dan e-Boekhouden's lerende systeem. MT940 is handig voor bedrijven die de bankimport liever handmatig triggeren dan automatisch.
+**SnelStart** ondersteunt ook PSD2-bankkoppelingen voor de meeste grote banken, plus MT940-import als alternatief. De automatische matching is aanwezig maar minder uitgebreid dan e-Boekhouden's lerende systeem. MT940 is handig voor bedrijven die de bankimport liever handmatig triggeren dan automatisch.
 
 Voor bedrijven met veel transacties (50+ per maand) bespaart e-Boekhouden's betere automatische matching merkbaar tijd.
 
@@ -387,7 +387,7 @@ Ik sluit af met een reeks concrete bedrijfsprofielen. Zie welke het meest op jou
 
 Je runt een loodgietersbedrijf met vijf medewerkers in dienst. Je stuurt maandelijks 30-50 facturen voor klussen, hebt een kleine voorraad aan materialen, en wil de salarisadministratie voor vijf mensen in hetzelfde systeem doen als de boekhouding.
 
-**Mijn keuze: SnelStart Online + Salaris.** De geïntegreerde salarismodule, voorraadbeheer voor materialen, en de robuuste MKB-functies zijn perfect voor dit scenario. Voor €29/maand heb je alles in één systeem.
+**Mijn keuze: SnelStart Online + Salaris.** De geïntegreerde salarismodule, voorraadbeheer voor materialen, en de solide MKB-functies zijn perfect voor dit scenario. Voor €29/maand heb je alles in één systeem.
 
 ### Scenario 2: Freelance UX-designer, net gestart
 

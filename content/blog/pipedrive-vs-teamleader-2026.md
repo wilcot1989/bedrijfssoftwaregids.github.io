@@ -74,7 +74,7 @@ Voor een dienstverlenend bedrijf — consultants, IT-bedrijven, bureaus, aanneme
 
 ## Teamleader in het kort
 
-Teamleader is een Belgisch-Nederlands bedrijf dat specifiek voor de West-Europese MKB-markt is gebouwd. Het platform is gebouwd op één premisse: een dienstverlenend bedrijf heeft CRM, projectmanagement en facturatie nodig — en die moeten naadloos samenwerken.
+Teamleader is een Belgisch-Nederlands bedrijf dat specifiek voor de West-Europese MKB-markt is gebouwd. Het platform is gebouwd op één premisse: een dienstverlenend bedrijf heeft CRM, projectmanagement en facturatie nodig — en die moeten soepel samenwerken.
 
 **Wat werkt goed bij Teamleader:**
 
@@ -263,7 +263,7 @@ De interface is snel — je logt een uur in minder dan twintig seconden. En aan 
 
 ### Offertes: Teamleader vs Pipedrive's aanpak
 
-Het maken en sturen van offertes is voor veel bedrijven een cruciaal onderdeel van het verkoopproces.
+Het maken en sturen van offertes is voor veel bedrijven een belangrijk onderdeel van het verkoopproces.
 
 **Teamleader** heeft een volledig offertesysteem. Je maakt een offerte met je huisstijl, voegt regels toe met beschrijvingen en prijzen, stuurt de offerte naar de klant via e-mail of een unieke link, en de klant kan de offerte digitaal accepteren. Na acceptatie converteert de offerte automatisch naar een project en/of factuur. Het hele proces zit in één tool.
 
@@ -301,7 +301,7 @@ Ik heb eerder gezegd dat Teamleader een Belgisch-Nederlands bedrijf is — maar 
 
 **BTW-nummers en KVK-data:** Teamleader herkent Nederlandse BTW-nummers en KVK-nummers, en kan bedrijfsgegevens automatisch ophalen. Dat bespaart typwerk bij het aanmaken van klanten.
 
-**Belgische en Nederlandse boekhoudkoppelingen:** Teamleader integreert naadloos met Exact Online, Yuki, en andere Nederlandse boekhoudpakketten. De koppelingen zijn gebouwd met de Nederlandse boekhoudstandaarden in gedachten.
+**Belgische en Nederlandse boekhoudkoppelingen:** Teamleader integreert soepel met Exact Online, Yuki, en andere Nederlandse boekhoudpakketten. De koppelingen zijn gebouwd met de Nederlandse boekhoudstandaarden in gedachten.
 
 **Nederlandstalige support:** Alle support is beschikbaar in het Nederlands. De kennisbank is volledig in het Nederlands. Als je een probleem hebt op vrijdagmiddag voor een kritieke maandfactuur moet verstuurd, is het waardevol om in je eigen taal te communiceren.
 
@@ -313,7 +313,7 @@ Ik heb eerder gezegd dat Teamleader een Belgisch-Nederlands bedrijf is — maar 
 
 Beide platformen schalen. Maar ze schalen op andere manieren.
 
-**Pipedrive** schaalt goed in salesdiepte: meer gebruikers, uitgebreidere pijplijnen, geavanceerdere salestool. Maar het schaalt niet naar bedrijfsbreedere functionaliteit — dat blijft een pure sales CRM.
+**Pipedrive** schaalt goed in salesdiepte: meer gebruikers, uitgebreidere pijplijnen, uitgebreidere salestool. Maar het schaalt niet naar bedrijfsbreedere functionaliteit — dat blijft een pure sales CRM.
 
 **Teamleader** schaalt als bedrijfsplatform: meer gebruikers, complexere projecten, uitgebreidere facturatie, meer integraties. Als je groeit van 5 naar 25 medewerkers, is Teamleader flexibeler omdat het meer onderdelen van je bedrijfsvoering afdekt.
 

@@ -84,7 +84,7 @@ Formulieren zijn responsive en werken op zowel iOS als Android. Offline invullen
 **Beperkingen:**
 - Vraagt meer configuratietijd dan kant-en-klare werkbonnen tools
 - Geen ingebouwde planning of dispatchfunctie
-- Geavanceerde koppelingen vereisen technische kennis of hulp van Formdesk
+- Uitgebreide koppelingen vereisen technische kennis of hulp van Formdesk
 
 ### Prijzen Formdesk
 
@@ -280,7 +280,7 @@ Alle vijf tools in dit overzicht ondersteunen offline gebruik, maar de kwaliteit
 
 ## Handtekeningen en foto's: wat je moet weten
 
-Twee functies zijn in de praktijk onmisbaar bij werkbonnen software:
+Twee functies zijn in de praktijk essentieel bij werkbonnen software:
 
 **Digitale handtekening op locatie**
 

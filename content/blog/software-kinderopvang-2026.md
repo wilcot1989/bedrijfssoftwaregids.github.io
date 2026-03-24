@@ -167,7 +167,7 @@ Beperktere GGD-rapportagemogelijkheden dan Bitcare of Flexkids. Minder pedagogis
 
 ### 4. AFAS Kinderopvang — krachtig voor grote organisaties met AFAS-ecosysteem
 
-AFAS heeft een specifieke kinderopvangmodule die naadloos integreert met het bredere AFAS-platform. Voor grotere kinderopvangorganisaties die al AFAS gebruiken voor HR en financiën, is dit de meest voor de hand liggende keuze.
+AFAS heeft een specifieke kinderopvangmodule die direct integreert met het bredere AFAS-platform. Voor grotere kinderopvangorganisaties die al AFAS gebruiken voor HR en financiën, is dit de meest voor de hand liggende keuze.
 
 **Integratie als sterkste punt:**
 Als je AFAS Financieel gebruikt voor de boekhouding en AFAS HRM voor personeelsbeheer, dan integreert de kinderopvangmodule:
@@ -197,7 +197,7 @@ Flexkids is een gevestigd Nederlands platform dat al meer dan 15 jaar wordt gebr
 Flexkids is sterk in het centraal beheren van meerdere locaties. Via één dashboard heb je overzicht van alle locaties, medewerkers en kinderen. Bezettingsoverzichten per locatie, vergelijking van KOT-facturen, personeelsplanning over locaties heen.
 
 **Wachtlijstbeheer:**
-Goed uitgewerkt systeem voor het beheren van wachtlijsten, KOT-indicaties en plaatsingen. In een markt waar de vraag naar kinderopvang het aanbod overstijgt, is wachtlijstbeheer cruciaal.
+Goed uitgewerkt systeem voor het beheren van wachtlijsten, KOT-indicaties en plaatsingen. In een markt waar de vraag naar kinderopvang het aanbod overstijgt, is wachtlijstbeheer essentieel.
 
 **Facturatie en KOT:**
 Flexkids heeft een volwassen en uitgebreid getest facturatiesysteem. De KOT-koppeling is betrouwbaar en is al bij honderden organisaties in productie.

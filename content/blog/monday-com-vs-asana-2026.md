@@ -65,14 +65,14 @@ Laten we beginnen bij wat veel teams als eerste willen weten: de kosten. Beide t
 - **Basic**: €9/gebruiker/maand (jaarlijks) -- basisfuncties, onbeperkte borden
 - **Standard**: €12/gebruiker/maand -- tijdlijn, Gantt, automatiseringen (250/mnd)
 - **Pro**: €19/gebruiker/maand -- tijdregistratie, dashboards, afhankelijkheden
-- **Enterprise**: op aanvraag -- geavanceerde beveiliging en governance
+- **Enterprise**: op aanvraag -- uitgebreide beveiliging en governance
 
 Belangrijk: Monday.com hanteert een minimum van 3 gebruikers bij betaalde plannen.
 
 ### Asana prijzen (2026)
 - **Personal**: Gratis voor maximaal 10 gebruikers
 - **Starter**: €10,99/gebruiker/maand (jaarlijks) -- tijdlijn, workflows, formulieren
-- **Advanced**: €24,99/gebruiker/maand -- portfolios, goals, geavanceerde rapportages
+- **Advanced**: €24,99/gebruiker/maand -- portfolios, goals, gedetailleerde rapportages
 - **Enterprise**: op aanvraag -- SAML SSO, data regio's, audit logs
 
 ### Prijsvergelijking: wie is goedkoper?
@@ -217,7 +217,7 @@ Beide platforms investeren fors in kunstmatige intelligentie. In 2026 zijn de AI
 
 Beide AI-implementaties zijn nog volop in ontwikkeling. Monday AI is sterker in contentgeneratie, Asana Intelligence in projectinzichten.
 
-**Winnaar AI**: Gelijkspel. Verschillende focusgebieden, beide nuttig maar nog niet onmisbaar.
+**Winnaar AI**: Gelijkspel. Verschillende focusgebieden, beide nuttig maar nog niet noodzakelijk.
 
 ## Wanneer kies je Monday.com?
 

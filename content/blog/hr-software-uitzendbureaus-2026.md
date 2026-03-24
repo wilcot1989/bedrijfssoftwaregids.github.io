@@ -167,7 +167,7 @@ Wat Connexie onderscheidt is de focus op planning en beschikbaarheid: het systee
 
 ### Belangrijkste functies voor uitzendbureaus
 - Flexwerker-administratie en dossiersbeheer
-- Geavanceerd plannings- en matchingsysteem
+- Uitgebreid plannings- en matchingsysteem
 - Urenregistratie per opdrachtgever
 - ABU/NBBU-CAO compliance
 - SNA-certificering ondersteuning

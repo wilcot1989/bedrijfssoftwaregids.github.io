@@ -19,7 +19,7 @@ faq:
   - q: "Hoe lang duurt het om een kassasysteem in te stellen voor een horecazaak?"
     a: "Lightspeed Restaurant en Orderbird zijn cloudgebaseerd en kunnen binnen één dag worden ingesteld: menu aanmaken, plattegrond tekenen en personeel uitnodigen. Untill vereist een installatieteam dat langs komt en heeft een langere doorlooptijd van één tot twee weken. Cloudgebaseerde systemen zijn sneller live maar vereisen een stabiele internetverbinding."
   - q: "Werkt het kassasysteem ook als het internet uitvalt?"
-    a: "Untill heeft de sterkste offline modus van de drie: het systeem blijft volledig functioneel zonder internet. Lightspeed Restaurant en Orderbird hebben een beperkte offline modus waarbij recente bestellingen tijdelijk worden opgeslagen, maar dit is minder robuust dan Untill. Op drukke vrijdagavonden is offline-robuustheid een kritisch criterium."
+    a: "Untill heeft de sterkste offline modus van de drie: het systeem blijft volledig functioneel zonder internet. Lightspeed Restaurant en Orderbird hebben een beperkte offline modus waarbij recente bestellingen tijdelijk worden opgeslagen, maar dit is minder solide dan Untill. Op drukke vrijdagavonden is offline-betrouwbaarheid een kritisch criterium."
   - q: "Kan ik Thuisbezorgd en Uber Eats koppelen aan mijn kassasysteem?"
     a: "Lightspeed Restaurant heeft native koppelingen met Thuisbezorgd, Uber Eats en Deliveroo ingebouwd; bestellingen komen direct in de keukenprinter terecht. Untill ondersteunt bezorgkoppelingen maar dan via externe integraties. Orderbird heeft beperkte bezorgplatform-integraties; dat maakt het minder geschikt voor zaken met actieve bezorgomzet."
   - q: "Hoeveel kassa's of iPads heb ik nodig voor mijn horecazaak?"
@@ -70,7 +70,7 @@ Untill is het werkpaard van de Nederlandse horeca. Voor drukke brasseries, evene
 **Wat werkt goed voor horeca:**
 - Uitgebreid tafelmanagement met bestelronde-registratie
 - Handheld-terminals voor bediening aan tafel — geen papieren bonnen
-- Robuuste offline modus zonder dataverlies
+- Solidee offline modus zonder dataverlies
 - Koppeling met alle gangbare pinapparaten
 - Happy hour-modules en kortingsacties instelbaar per tijdblok
 - Inkoopmodule en voorraadbeheer voor grote keukenoperaties
@@ -113,7 +113,7 @@ Orderbird is de specialist voor cafés en kleinere horecazaken met maximaal 60 c
 ## Mijn advies
 
 - **Restaurant of brasserie met bezorgdienst:** Lightspeed Restaurant — de bezorgkoppelingen zijn ongeëvenaard en de prijs is scherp voor wat je krijgt.
-- **Drukke zaak, evenementenlocatie of keten:** Untill — voor offline-robuustheid, handheld-terminals en intensief gebruik.
+- **Drukke zaak, evenementenlocatie of keten:** Untill — voor offline-betrouwbaarheid, handheld-terminals en intensief gebruik.
 - **Klein café of eetcafé tot 60 couverts:** Orderbird — betaalbaar, snel ingesteld en precies genoeg functies.
 
 Nog niet zeker welk POS systeem voor horeca bij jou past? Gebruik de [kassasysteem keuzehulp voor horeca](/tools/kassasystemen/keuzehulp/) — beantwoord vijf vragen en ontvang een concreet advies. Bereken ook de [totale kassaystemen kosten per maand](/tools/kassasystemen/kosten-berekenen/) inclusief hardware, en vergelijk de [transactiekosten per betaalmethode](/tools/kassasystemen/transactiekosten-berekenen/) om te zien of een gratis systeem echt goedkoper is.

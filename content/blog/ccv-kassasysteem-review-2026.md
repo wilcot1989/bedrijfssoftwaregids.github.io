@@ -401,7 +401,7 @@ Naast kassasystemen biedt CCV ook CCV Shop, een Nederlandse webshop-platform. Vo
 | Business | €55 | Inbegrepen |
 | Professional | €85 | Inbegrepen |
 
-CCV Shop is een middelmatig e-commerceplatform — functioneel maar niet bijzonder krachtig vergeleken met Shopify of WooCommerce. De voornaamste reden om het te gebruiken: de integratie met CCV Kassa is naadloos en u heeft één aanspreekpunt.
+CCV Shop is een middelmatig e-commerceplatform — functioneel maar niet bijzonder krachtig vergeleken met Shopify of WooCommerce. De voornaamste reden om het te gebruiken: de integratie met CCV Kassa is soepel en u heeft één aanspreekpunt.
 
 ### CCV Mobile: Betalingen Onderweg
 
@@ -492,7 +492,7 @@ Via het CCV-portaal (MijnCCV) kunt u:
 - Piekuren (heatmap per uur/dag)
 - Gemiddeld transactiebedrag
 
-**Wat ontbreekt:** CCV-rapportage is functioneel maar niet bijzonder geavanceerd. Lightspeed heeft beduidend krachtigere analytics, met betere mogelijkheden voor retailers die datagedreven beslissingen willen nemen.
+**Wat ontbreekt:** CCV-rapportage is functioneel maar niet bijzonder uitgebreid. Lightspeed heeft beduidend krachtigere analytics, met betere mogelijkheden voor retailers die datagedreven beslissingen willen nemen.
 
 ### Klanttevredenheid: Eerlijke Cijfers
 
@@ -521,15 +521,15 @@ Op basis van openbare reviews (Trustpilot, Google Reviews):
 | Schaalbaarheid | Goed (NL/BE) | Uitstekend (internationaal) |
 | Integraties | Beperkt | Uitgebreid |
 
-**Kies CCV** als u een Nederlandse leverancier wil, prijs-bewust bent, en geen behoefte heeft aan geavanceerde integraties of internationale uitbreiding.
+**Kies CCV** als u een Nederlandse leverancier wil, prijs-bewust bent, en geen behoefte heeft aan uitgebreide integraties of internationale uitbreiding.
 
-**Kies Lightspeed** als schaalbaarheid, geavanceerde rapportage, en ecosystem-integraties (e-commerce, boekhouding) prioriteit hebben.
+**Kies Lightspeed** als schaalbaarheid, gedetailleerde rapportage, en ecosystem-integraties (e-commerce, boekhouding) prioriteit hebben.
 
 ### Eindoordeel CCV Kassasysteem
 
 CCV is een solide Nederlandse kassasysteemleverancier met een breed product-aanbod voor retail en horeca. De kracht ligt in het volledig geïntegreerde Nederlandse aanbod (kassa, betalingen, webshop), de Nederlandse klantenservice, en de jarenlange ervaring in de Nederlandse markt.
 
-De zwaktes zijn de contractstijfheid en de minder geavanceerde functionaliteit vergeleken met internationale concurrenten als Lightspeed.
+De zwaktes zijn de contractstijfheid en de minder uitgebreide functionaliteit vergeleken met internationale concurrenten als Lightspeed.
 
 **CCV scoort:**
 - Betrouwbaarheid: 8/10

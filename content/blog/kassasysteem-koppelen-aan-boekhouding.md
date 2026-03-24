@@ -44,7 +44,7 @@ Moneybird werkt goed samen met meerdere kassasystemen via third-party koppelinge
 
 Nmbrs, Unit4 en AFAS zijn voor grotere horecaketens of retailorganisaties interessant: de koppeling met kassasystemen verwerkt niet alleen omzet maar ook personeelskosten en inkooporders in één geïntegreerd systeem. De implementatiekosten zijn hoger maar de tijdsbesparing is navenant groter. In mijn praktijk zie ik dat grotere organisaties die dit goed inrichten een halve FTE aan administratief werk besparen. Of het kassasysteem in de cloud of lokaal draait, is bepalend voor de technische opzet van de koppeling; dat vergelijk je in [Cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/).
 
-Voor [horecabedrijven](/sectoren/kassasystemen/kassasysteem-horeca/) is het onmisbaar dat de koppeling BTW-correct omgaat met de 9%-categorie voor eten en de 21%-categorie voor alcoholische dranken. Een fout in de categorisering aan de kassazijde leidt rechtstreeks tot een onjuiste BTW-aangifte, wat bij controle een naheffing plus boete oplevert.
+Voor [horecabedrijven](/sectoren/kassasystemen/kassasysteem-horeca/) is het essentieel dat de koppeling BTW-correct omgaat met de 9%-categorie voor eten en de 21%-categorie voor alcoholische dranken. Een fout in de categorisering aan de kassazijde leidt rechtstreeks tot een onjuiste BTW-aangifte, wat bij controle een naheffing plus boete oplevert.
 
 ## Hoe je de koppeling technisch inricht
 

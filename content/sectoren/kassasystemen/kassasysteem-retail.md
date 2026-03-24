@@ -86,7 +86,7 @@ Square is mijn go-to advies voor winkels die net starten of een eenvoudig kassas
 
 ### 3. Zettle by PayPal — Beste mobiele optie voor kleine winkels
 
-Zettle is de eenvoudigste instap voor een winkel die primair PIN-betalingen wil accepteren met een basis kassafunctie. De reader kost €29 en de app is gratis. Voor pop-upwinkels, marktkramen en winkels met een beperkt assortiment werkt Zettle uitstekend. Het mist geavanceerd voorraadbeheer en webshop-integraties — wie dat nodig heeft, kijkt beter naar Lightspeed of Square.
+Zettle is de eenvoudigste instap voor een winkel die primair PIN-betalingen wil accepteren met een basis kassafunctie. De reader kost €29 en de app is gratis. Voor pop-upwinkels, marktkramen en winkels met een beperkt assortiment werkt Zettle uitstekend. Het mist uitgebreid voorraadbeheer en webshop-integraties — wie dat nodig heeft, kijkt beter naar Lightspeed of Square.
 
 **Wat werkt goed voor retail:**
 - Minimale investering om van start te gaan (reader €29)

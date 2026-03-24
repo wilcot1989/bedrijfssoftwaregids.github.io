@@ -26,7 +26,7 @@ faq:
   - q: "Welke CRM heeft betere belfunctionaliteit — Zoho of Close?"
     a: "Close CRM wint hier overtuigend. De Power Dialer, Predictive Dialer, automatische voicemail drop en SMS — alles ingebouwd. Zoho heeft een belfunctie via Zoho PhoneBridge, maar die vereist een koppeling met een extern belplatform. Voor teams die 30+ calls per dag doen is Close veruit de sterkere keuze."
   - q: "Kan ik Zoho CRM koppelen met Zoho Books voor facturatie?"
-    a: "Ja, dat is precies waar Zoho sterk in is. Het Zoho-ecosysteem omvat Zoho Books (facturatie), Zoho Campaigns (e-mail), Zoho Projects, Zoho Desk en tientallen andere apps die naadloos koppelen met Zoho CRM. Als je meerdere Zoho-apps gebruikt, is de integratie een serieus voordeel tegenover close-staande tools."
+    a: "Ja, dat is precies waar Zoho sterk in is. Het Zoho-ecosysteem omvat Zoho Books (facturatie), Zoho Campaigns (e-mail), Zoho Projects, Zoho Desk en tientallen andere apps die direct koppelen met Zoho CRM. Als je meerdere Zoho-apps gebruikt, is de integratie een serieus voordeel tegenover close-staande tools."
   - q: "Wat is het grootste nadeel van Close CRM?"
     a: "Het grootste nadeel van Close CRM is het gebrek aan marketing automation en een breder ecosysteem. Close is een gespecialiseerde sales tool en doet sales uitstekend, maar voor marketing, klantenservice of facturatie heb je aparte tools nodig. Ook de beperkte Nederlandse interface en het ontbreken van een gratis plan zijn nadelen voor bepaalde teams."
 ---
@@ -71,7 +71,7 @@ De Trustpilot-scores zijn informatief maar niet doorslaggevend. Zoho's 3.5/5 op 
 | **Gratis** | €0 (max 3 gebruikers) | Contacten, deals, e-mail |
 | **Standard** | €14/gebruiker | Rapportages, e-mail marketing, workflows |
 | **Professional** | €23/gebruiker | Uitgebreide automatiseringen, inventory |
-| **Enterprise** | €40/gebruiker | Geavanceerde AI, aanpassing, module builder |
+| **Enterprise** | €40/gebruiker | Uitgebreide AI, aanpassing, module builder |
 | **Ultimate** | €52/gebruiker | Alles inclusief Zoho Analytics |
 
 ### Close CRM prijzen (mrt 2026, jaarlijks)
@@ -99,7 +99,7 @@ Het kostenplaatje verschuift sterk als je rekening houdt met de totale toolstack
 
 Trustpilot: 3.5/5 (~850 reviews) — gemengde scores met sterke waardering voor prijs-kwaliteit en kritiek op leercurve.
 
-Zoho CRM is het Zwitsers zakmes van CRM-platforms. Het is niet het beste in elk specifiek onderdeel, maar het doet bijna alles acceptabel tot goed — en de integratie met het bredere Zoho-ecosysteem is uniek. Als ik bij een MKB-bedrijf kom dat ook facturatie, klantenservice en projectmanagement wil stroomlijnen, is Zoho vaak de eerste optie die ik overweeg.
+Zoho CRM is het Zwitsers zakmes van CRM-platforms. Het is niet het beste in elk specifiek onderdeel, maar het doet bijna alles acceptabel tot goed — en de integratie met het bredere Zoho-ecosysteem is uniek. Als ik bij een MKB-bedrijf kom dat ook facturatie, klantenservice en projectmanagement wil vereenvoudigen, is Zoho vaak de eerste optie die ik overweeg.
 
 ### Voor wie is Zoho CRM geschikt?
 
@@ -109,7 +109,7 @@ Het platform past minder goed bij gespecialiseerde inside sales teams die maxima
 
 ### Waar Zoho CRM uitblinkt
 
-**Het ecosysteem is Zoho's grootste troef.** Als je ook Zoho Books (facturatie), Zoho Desk (klantenservice), Zoho Projects of Zoho Campaigns gebruikt, is de naadloze integratie met Zoho CRM goud waard. Data stroomt automatisch door het systeem: een deal in CRM wordt een factuur in Zoho Books, een klacht in Zoho Desk verschijnt in het klantprofiel in CRM. Dat soort integratie kost bij losse tools veel tijd en geld.
+**Het ecosysteem is Zoho's grootste troef.** Als je ook Zoho Books (facturatie), Zoho Desk (klantenservice), Zoho Projects of Zoho Campaigns gebruikt, is de directe integratie met Zoho CRM goud waard. Data stroomt automatisch door het systeem: een deal in CRM wordt een factuur in Zoho Books, een klacht in Zoho Desk verschijnt in het klantprofiel in CRM. Dat soort integratie kost bij losse tools veel tijd en geld.
 
 **De automatiseringsmogelijkheden zijn uitgebreid.** Zoho CRM biedt workflows, blueprints (voor procesautomatisering), en Zia — de ingebouwde AI-assistent die deals scoort, anomalieën signaleert en gespreksoptimalisaties suggereert. Voor een CRM in deze prijsklasse is dat opmerkelijk.
 
@@ -141,7 +141,7 @@ Die focus is tegelijkertijd Close's grootste kracht en grootste beperking.
 
 Close CRM is ideaal voor teams van 2 tot 25 mensen die outbound sales als primaire activiteit hebben. SaaS-bedrijven met SDR-teams die koud prospecteren, verzekeringsagenten die leads nabellen, recruitmentbureaus die kandidaten en opdrachtgevers bellen, telemarketing-organisaties, vastgoedmakelaars die actief acquisitie doen.
 
-Als de kern van je verkoopproces telefoon, e-mail en SMS is — en je wilt dat zo geautomatiseerd en gestroomlijnd mogelijk — is Close het beste instrument op de markt in dit prijssegment.
+Als de kern van je verkoopproces telefoon, e-mail en SMS is — en je wilt dat zo geautomatiseerd en geoptimaliseerd mogelijk — is Close het beste instrument op de markt in dit prijssegment.
 
 ### Waar Close CRM uitblinkt
 
@@ -199,7 +199,7 @@ Als de kern van je verkoopproces telefoon, e-mail en SMS is — en je wilt dat z
 
 ### 4. SMS
 
-**Zoho CRM** biedt SMS via integraties met externe tools. Het werkt, maar het is geen naadloze native ervaring. Logging en rapportage van SMS zijn minder volledig dan bij directe integraties.
+**Zoho CRM** biedt SMS via integraties met externe tools. Het werkt, maar het is geen soepele native ervaring. Logging en rapportage van SMS zijn minder volledig dan bij directe integraties.
 
 **Close CRM** heeft native SMS. Je stuurt SMS vanuit hetzelfde scherm als waaruit je belt en e-mailt. Antwoorden komen binnen in Close. Alles wordt automatisch gelogd. Voor sectoren met hoge SMS-conversie is dit een serieus voordeel.
 

@@ -107,11 +107,11 @@ Meer over hoe je je CRM-data op orde houdt lees je in het artikel over [CRM data
 
 Eerlijk antwoord: dat hangt af van wat je nodig hebt en wat je bereid bent te betalen.
 
-**HubSpot** is mijn eerste keuze voor retentie-rapportages. De ingebouwde dashboards voor klanttevredenheid, lifecycle-fases en contactactiviteit zijn sterk, en de integratie met e-mailmarketing maakt segmentatie eenvoudig. Het nadeel: de marketing hub die je nodig hebt voor geavanceerde automation, kost al snel €800 per maand voor een MKB-bedrijf.
+**HubSpot** is mijn eerste keuze voor retentie-rapportages. De ingebouwde dashboards voor klanttevredenheid, lifecycle-fases en contactactiviteit zijn sterk, en de integratie met e-mailmarketing maakt segmentatie eenvoudig. Het nadeel: de marketing hub die je nodig hebt voor uitgebreide automation, kost al snel €800 per maand voor een MKB-bedrijf.
 
 **Salesforce** biedt de meest uitgebreide automation-mogelijkheden. Als je complexe churn-modellen wilt bouwen met meerdere signalen tegelijk, is Salesforce het enige systeem dat je daarin volledig ondersteunt. Maar de implementatietijd is lang en de kosten zijn hoog. Voor MKB onder de twintig medewerkers is het zelden de juiste keuze.
 
-**Pipedrive** is simpeler, maar dat is soms precies wat werkt. De retentiefunctionaliteit is beperkter dan HubSpot of Salesforce, maar de drempel om het systeem daadwerkelijk te gebruiken is veel lager. Een CRM dat je verkoopteam echt bijhoudt, doet meer voor je retentie dan een geavanceerd systeem dat niemand gebruikt.
+**Pipedrive** is simpeler, maar dat is soms precies wat werkt. De retentiefunctionaliteit is beperkter dan HubSpot of Salesforce, maar de drempel om het systeem daadwerkelijk te gebruiken is veel lager. Een CRM dat je verkoopteam echt bijhoudt, doet meer voor je retentie dan een uitgebreid systeem dat niemand gebruikt.
 
 Voor een breder overzicht van de beschikbare opties verwijs ik je naar mijn vergelijking van de [beste CRM-software in Nederland](/blog/beste-crm-software-nederland-2026/). Als je ook wil weten welke koppelingen je CRM kan maken met je andere systemen, lees dan het artikel over [CRM-integraties](/blog/crm-integraties-uitgelegd/).
 

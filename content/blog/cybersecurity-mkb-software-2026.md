@@ -107,7 +107,7 @@ Moderne endpoint security gaat verder dan traditioneel antivirus: het heet EDR (
 **Bitdefender GravityZone Business Security**
 - Prijs: circa €4,50/apparaat/mnd
 - Beste detectiepercentages in onafhankelijke tests (AV-Test, AV-Comparatives)
-- Robuuste centrale beheerconsole
+- Solidee centrale beheerconsole
 - Geschikt voor teams van 3-100 apparaten
 
 **Microsoft Defender for Business**
@@ -139,11 +139,11 @@ Als medewerkers op afstand werken — thuis, bij klanten, in hotels of op treins
 
 **Perimeter81**
 - Prijs: vanaf $10/gebruiker/mnd
-- Zero-trust netwerkbeveiliging (geavanceerder dan traditionele VPN)
-- Geschikt voor bedrijven die groeien en een robuustere oplossing willen
+- Zero-trust netwerkbeveiliging (uitgebreider dan traditionele VPN)
+- Geschikt voor bedrijven die groeien en een betrouwbaardere oplossing willen
 
 **Cisco AnyConnect / Meraki**
-- Prijzig maar robuust enterprise-niveau
+- Prijzig maar solide enterprise-niveau
 - Alleen zinvol als je al Cisco-infrastructuur hebt
 
 **Let op:** Een VPN beschermt de verbinding, niet het eindpunt. Combineer altijd met endpoint security.
@@ -299,7 +299,7 @@ Doe deze check voor je bedrijf. Elk "nee" is een actieput:
 
 ## Wat te doen als je bedrijf gehackt is
 
-Als het toch misgaat, is snel en correct handelen cruciaal.
+Als het toch misgaat, is snel en correct handelen essentieel.
 
 **Eerste 30 minuten:**
 1. Isoleer getroffen systemen — koppel ze los van het netwerk (WiFi uit, netwerkkabel uit)
@@ -308,7 +308,7 @@ Als het toch misgaat, is snel en correct handelen cruciaal.
 
 **Gespecialiseerde bedrijven in Nederland:**
 - NFIR (nfir.nl) — incident response MKB
-- Fox-IT (fox-it.com) — technisch geavanceerd
+- Fox-IT (fox-it.com) — technisch onderlegd
 - Northwave (northwave.nl) — breed cybersecuritybedrijf
 
 **Verplichte meldingen:**

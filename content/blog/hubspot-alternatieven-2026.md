@@ -135,7 +135,7 @@ Close CRM is minder bekend in Nederland, maar onder inside sales professionals i
 | Solo | €9 (1 gebruiker, max) | Freelancers, solopreneurs |
 | Essentials | €35 | Kleine teams, basisfuncties |
 | Growth | €99 | Teams die Power Dialer nodig hebben |
-| Scale | €139 | Predictive Dialer, geavanceerde rapportages |
+| Scale | €139 | Predictive Dialer, gedetailleerde rapportages |
 
 **Nadelen voor de Nederlandse markt:**
 - Interface alleen in het Engels
@@ -202,7 +202,7 @@ Monday CRM is geen traditioneel CRM — het is Monday.com's werkplatform geconfi
 | Basic | €12 | Onbeperkte contacten, basis pipeline |
 | Standard | €17 | Integraties, timeline, gasten |
 | Pro | €28 | Automatisering, tijdregistratie |
-| Enterprise | Op aanvraag | SSO, geavanceerde security |
+| Enterprise | Op aanvraag | SSO, uitgebreide security |
 
 Voor een directe vergelijking lees je de [HubSpot vs Monday CRM analyse](/blog/hubspot-vs-monday-crm-2026/).
 

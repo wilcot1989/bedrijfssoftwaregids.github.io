@@ -113,7 +113,7 @@ Beide platformen zijn sterk in sales, maar de aanpak verschilt fundamenteel. Sal
 **Salesforce** blinkt uit in:
 - Complexe salesprocessen met meerdere stappen en goedkeuringsniveaus
 - Territory management voor grote salesteams
-- Geavanceerde forecasting met AI (Einstein)
+- Uitgebreide forecasting met AI (Einstein)
 - CPQ voor complexe product- en prijsconfiguraties
 
 Een concreet voorbeeld: ik heb vorig jaar een technisch groothandel in Rotterdam begeleid met 35 buitendienstmedewerkers, elk verantwoordelijk voor een eigen regio. Ze hadden territory management nodig, automatische lead-routing op postcode, en goedkeuringsworkflows voor kortingen boven de 15%. In HubSpot was dat niet haalbaar zonder dure workarounds. In Salesforce Enterprise hadden we het binnen drie weken staan — inclusief een dashboard waar de salesmanager per regio de pipeline kon monitoren.
@@ -163,7 +163,7 @@ Dit is een gebied waar de kloof de laatste jaren groter is geworden, niet kleine
 
 Dit is waar ik het vaakst over spreek met klanten, en waar de keuze meestal valt.
 
-**HubSpot** is het CRM waar ik nieuwe medewerkers binnen een dag productief mee krijg. Moderne interface, logische navigatie, alles in 2-3 klikken bereikbaar. Teams adopteren het snel, en dat is cruciaal — een CRM dat niemand gebruikt is geldverspilling.
+**HubSpot** is het CRM waar ik nieuwe medewerkers binnen een dag productief mee krijg. Moderne interface, logische navigatie, alles in 2-3 klikken bereikbaar. Teams adopteren het snel, en dat is essentieel — een CRM dat niemand gebruikt is geldverspilling.
 
 **Salesforce** is een ander verhaal. Het is krachtiger, geen twijfel mogelijk. Maar ik heb bedrijven begeleid die een part-time of zelfs full-time Salesforce-admin moesten aannemen om het systeem draaiende te houden. Nieuwe gebruikers hebben 1-2 weken training nodig. Dat is een serieuze investering.
 
@@ -207,7 +207,7 @@ Beide platformen integreren met de populairste zakelijke tools. De meest gevraag
 - Je bedrijf heeft **complexe salesprocessen** met meerdere goedkeuringsniveaus
 - Je hebt een **dedicated IT-team of Salesforce-admin** beschikbaar
 - Je werkt al met andere **Salesforce-producten** (Marketing Cloud, Service Cloud)
-- Je bedrijf heeft **50+ salesgebruikers** en geavanceerde rapportagebehoeften
+- Je bedrijf heeft **50+ salesgebruikers** en gedetailleerde rapportagebehoeften
 - **Aanpasbaarheid** is belangrijker dan eenvoud
 
 ### Kies HubSpot als:
@@ -234,7 +234,7 @@ Een typische situatie in het Nederlandse MKB. Korte salescyclus, terugkerende kl
 
 Lange salescyclus, hoge orderwaardes, meerdere regio's, kortingssysteem met goedkeuringen. Verkopers werken veel onderweg en willen snel notities kunnen vastleggen na een klantbezoek.
 
-**Mijn advies: Salesforce Enterprise.** Territory management, goedkeuringsworkflows en geavanceerde forecasting zijn hier geen luxe maar noodzaak. Ja, de implementatie kost €15.000-€25.000 en je hebt een admin nodig. Maar de ROI bij dit type salesproces is duidelijk aantoonbaar. Kosten: ~€3.500/maand licenties, plus implementatie.
+**Mijn advies: Salesforce Enterprise.** Territory management, goedkeuringsworkflows en uitgebreide forecasting zijn hier geen luxe maar noodzaak. Ja, de implementatie kost €15.000-€25.000 en je hebt een admin nodig. Maar de ROI bij dit type salesproces is duidelijk aantoonbaar. Kosten: ~€3.500/maand licenties, plus implementatie.
 
 ### Scenario 3: SaaS-startup, 8 medewerkers, groeiend
 
@@ -266,7 +266,7 @@ Reken op 4-8 weken voor de volledige migratie bij een team van 10-20 gebruikers.
 
 ### Van HubSpot naar Salesforce
 
-Dit komt minder vaak voor, maar het gebeurt. Meestal bij bedrijven die snel gegroeid zijn en tegen de grenzen van HubSpot aanlopen — denk aan complexe goedkeuringsworkflows, geavanceerd territory management, of de behoefte aan Apex-code voor maatwerk.
+Dit komt minder vaak voor, maar het gebeurt. Meestal bij bedrijven die snel gegroeid zijn en tegen de grenzen van HubSpot aanlopen — denk aan complexe goedkeuringsworkflows, uitgebreid territory management, of de behoefte aan Apex-code voor maatwerk.
 
 Belangrijkste valkuil: onderschat de implementatietijd niet. Waar je HubSpot in een week live had, moet je voor Salesforce 2-6 maanden rekenen. En je hebt een gecertificeerde Salesforce-partner nodig, tenzij je een ervaren admin in huis hebt.
 
@@ -286,7 +286,7 @@ Na jarenlang bedrijven te begeleiden bij deze beslissing, zie ik steeds dezelfde
 
 Na jarenlang beide platforms te implementeren is mijn advies helder: voor het Nederlandse MKB is **HubSpot** in de meeste gevallen de betere keuze. Niet omdat Salesforce slecht is — integendeel — maar omdat de meeste MKB-bedrijven die ik begeleid de kracht van Salesforce niet nodig hebben en wel verdrinken in de complexiteit. HubSpot is sneller opgezet, makkelijker te leren, en de kosten liggen 40-60% lager.
 
-**Salesforce** adviseer ik wanneer een bedrijf echt complexe processen heeft, een dedicated IT-team beschikbaar is, en er budget is voor implementatie en onderhoud. Bij 50+ salesgebruikers met geavanceerde rapportagebehoeften is het de enige serieuze optie.
+**Salesforce** adviseer ik wanneer een bedrijf echt complexe processen heeft, een dedicated IT-team beschikbaar is, en er budget is voor implementatie en onderhoud. Bij 50+ salesgebruikers met gedetailleerde rapportagebehoeften is het de enige serieuze optie.
 
 Twijfel je nog? Begin met het **gratis CRM van HubSpot**. Dat kost je niets en geeft binnen een week een realistisch beeld van of het bij je past. Wil je ook begrijpen hoe CRM-koppelingen werken met de rest van je software-stack? Lees dan het artikel over [CRM integraties uitgelegd](/blog/crm-integraties-uitgelegd/). En zodra je CRM draait, bekijk dan hoe je [klantretentie kunt meten met CRM software](/blog/klantretentie-meten-crm-software/) voor het maximaliseren van je customer lifetime value.
 

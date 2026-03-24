@@ -248,7 +248,7 @@ De manager is de meest kritische factor voor het succes van talentmanagement. Ee
 
 **3. Communiceer het waarom**
 
-Medewerkers zijn sceptisch over nieuwe HR-systemen, met name als ze vermoeden dat het extra controle betekent. Communiceer helder: het systeem is er om hen te helpen groeien, niet om ze te beoordelen voor ontslag. Transparantie over hoe data wordt gebruikt is cruciaal voor vertrouwen.
+Medewerkers zijn sceptisch over nieuwe HR-systemen, met name als ze vermoeden dat het extra controle betekent. Communiceer helder: het systeem is er om hen te helpen groeien, niet om ze te beoordelen voor ontslag. Transparantie over hoe data wordt gebruikt is essentieel voor vertrouwen.
 
 **4. Koppel het aan beloning (maar doe het goed)**
 
@@ -279,7 +279,7 @@ Voor HR-teams die Google Workspace gebruiken biedt [Google Workspace](https://ww
 
 ## Succession planning: het vergeten onderdeel van talentmanagement
 
-Naast performance management en ontwikkeling is opvolgingsplanning een cruciaal onderdeel van talentmanagement dat veel MKB-bedrijven vergeten. Zeker als u de aansluiting zoekt met uw [AFAS HR-omgeving](/blog/afas-review-2026/), is integratie van talentmodules een logische volgende stap. Succession planning beantwoordt de vraag: wie neemt een sleutelfunctie over als de huidige medewerker vertrekt, ziek wordt of promoveert?
+Naast performance management en ontwikkeling is opvolgingsplanning een belangrijk onderdeel van talentmanagement dat veel MKB-bedrijven vergeten. Zeker als u de aansluiting zoekt met uw [AFAS HR-omgeving](/blog/afas-review-2026/), is integratie van talentmodules een logische volgende stap. Succession planning beantwoordt de vraag: wie neemt een sleutelfunctie over als de huidige medewerker vertrekt, ziek wordt of promoveert?
 
 Lattice heeft de sterkste succession planning-module van de vier besproken platforms. U kunt per sleutelpositie aangeven wie de beoogde opvolger is en welke ontwikkelstappen nodig zijn om klaar te zijn. Zo creëert u een intern talent pipeline die dure externe recruitment voor seniorposities vermindert.
 

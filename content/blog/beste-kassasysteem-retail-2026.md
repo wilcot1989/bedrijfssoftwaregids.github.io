@@ -20,13 +20,13 @@ faq:
   - q: "Wat kost een goed kassasysteem voor een winkel?"
     a: "Een kassasysteem voor retail kost gemiddeld €50-300 per maand, afhankelijk van het systeem en je omzet. Instapsystemen zoals Square en SumUp beginnen gratis (alleen transactiekosten van 1,69-1,75%). Professionele systemen zoals Lightspeed kosten €69-269 per maand plus hardware. Tel ook de hardware-aanschaf mee: €500-2.500 voor een complete setup."
   - q: "Welk kassasysteem is het beste voor een kleine winkel?"
-    a: "Voor een kleine winkel met een omzet tot €15.000 per maand is Square of SumUp de beste keuze. Beide zijn gratis qua software en rekenen alleen transactiekosten. Square heeft betere voorraadbeheer-functies. Bij een omzet boven €15.000 of als je geavanceerd voorraadbeheer nodig hebt, overweeg Lightspeed Retail."
+    a: "Voor een kleine winkel met een omzet tot €15.000 per maand is Square of SumUp de beste keuze. Beide zijn gratis qua software en rekenen alleen transactiekosten. Square heeft betere voorraadbeheer-functies. Bij een omzet boven €15.000 of als je uitgebreid voorraadbeheer nodig hebt, overweeg Lightspeed Retail."
   - q: "Werkt een kassasysteem ook zonder internet?"
     a: "De meeste moderne kassasystemen werken ook offline, maar met beperkingen. Square, SumUp en Lightspeed slaan transacties lokaal op en synchroniseren zodra er verbinding is. Betalingsgerelateerde functies (pinbetalingen) vereisen doorgaans een actieve internetverbinding voor autorisatie. Untill werkt volledig offline."
   - q: "Welk kassasysteem integreert het beste met Exact Online?"
     a: "Lightspeed Retail heeft de beste koppeling met Exact Online voor retailers: automatische synchronisatie van transacties, voorraadmutaties en klantendata. Square en CCV hebben ook directe koppelingen, maar die zijn minder uitgebreid. SumUp werkt via CSV-export of Zapier, wat meer handmatig werk vereist."
   - q: "Kan ik een kassasysteem koppelen aan mijn webshop?"
-    a: "Ja, de meeste moderne kassasystemen bieden omnichannel-koppelingen. Lightspeed heeft een eigen webshop-module. Square koppelt naadloos met Shopify en WooCommerce. SumUp en CCV bieden API-koppelingen. De beste setup is een systeem dat voorraad, bestellingen en klantdata real-time synchroniseert tussen je winkel en webshop."
+    a: "Ja, de meeste moderne kassasystemen bieden omnichannel-koppelingen. Lightspeed heeft een eigen webshop-module. Square koppelt soepel met Shopify en WooCommerce. SumUp en CCV bieden API-koppelingen. De beste setup is een systeem dat voorraad, bestellingen en klantdata real-time synchroniseert tussen je winkel en webshop."
   - q: "Hoe lang duurt het om een kassasysteem te installeren?"
     a: "Instapsystemen (Square, SumUp) zijn binnen een dag operationeel: app downloaden, account aanmaken, hardware ontvangen en klaar. Middenklasse systemen (Lightspeed) vergen 3-5 dagen voor het importeren van productcatalogi en training. Enterprise-systemen (Untill, CCV Full Service) vereisen 1-5 werkdagen voor installatie en training."
 ---
@@ -56,7 +56,7 @@ Lightspeed is het beste kassasysteem voor Nederlandse retailers die serieus zijn
 **Waarom Lightspeed op #1:**
 - Het meest complete voorraadbeheer van alle systemen
 - Uitstekende omnichannel koppeling (winkel + webshop gesynchroniseerd)
-- Geavanceerde rapportages die je helpen beter in te kopen
+- Uitgebreide rapportages die je helpen beter in te kopen
 - Directe koppeling met Exact Online
 - Goede Nederlandse support (kantoor in Amsterdam)
 
@@ -86,13 +86,13 @@ Square is de beste keuze voor kleine retailers die geen hoge maandelijkse kosten
 **Waarom Square op #2:**
 - Gratis kassasoftware met professionele functies
 - Goed voorraadbeheer (zeldzaam voor gratis software)
-- Naadloze koppeling met Shopify
+- Soepele koppeling met Shopify
 - Eenvoudig te leren, snel operationeel
 - Transparante prijsstructuur
 
 **Kosten:**
 - Gratis (alleen transactiekosten)
-- Square Plus: €60/mnd voor geavanceerde functies
+- Square Plus: €60/mnd voor uitgebreide functies
 
 **Transactiekosten:** 1,75% contactloos, 2,5% handmatig
 
@@ -317,7 +317,7 @@ De grootste fout die ik zie is ondernemers die een te duur systeem kiezen in het
 Een kassasysteem voor retail kost gemiddeld €50-300 per maand, afhankelijk van het systeem en je omzet. Instapsystemen zoals Square en SumUp beginnen gratis (alleen transactiekosten van 1,69-1,75%). Professionele systemen zoals Lightspeed kosten €69-269 per maand plus hardware. Tel ook de hardware-aanschaf mee: €500-2.500 voor een complete setup.
 
 **Welk kassasysteem is het beste voor een kleine winkel?**
-Voor een kleine winkel met een omzet tot €15.000 per maand is Square of SumUp de beste keuze. Beide zijn gratis qua software en rekenen alleen transactiekosten. Square heeft betere voorraadbeheer-functies. Bij een omzet boven €15.000 of als je geavanceerd voorraadbeheer nodig hebt, overweeg Lightspeed Retail.
+Voor een kleine winkel met een omzet tot €15.000 per maand is Square of SumUp de beste keuze. Beide zijn gratis qua software en rekenen alleen transactiekosten. Square heeft betere voorraadbeheer-functies. Bij een omzet boven €15.000 of als je uitgebreid voorraadbeheer nodig hebt, overweeg Lightspeed Retail.
 
 **Werkt een kassasysteem ook zonder internet?**
 De meeste moderne kassasystemen werken ook offline, maar met beperkingen. Square, SumUp en Lightspeed slaan transacties lokaal op en synchroniseren zodra er verbinding is. Betalingsgerelateerde functies (pinbetalingen) vereisen doorgaans een actieve internetverbinding voor autorisatie. Untill werkt volledig offline.
@@ -326,7 +326,7 @@ De meeste moderne kassasystemen werken ook offline, maar met beperkingen. Square
 Lightspeed Retail heeft de beste koppeling met Exact Online voor retailers: automatische synchronisatie van transacties, voorraadmutaties en klantendata. Square en CCV hebben ook directe koppelingen, maar die zijn minder uitgebreid. SumUp werkt via CSV-export of Zapier, wat meer handmatig werk vereist.
 
 **Kan ik een kassasysteem koppelen aan mijn webshop?**
-Ja, de meeste moderne kassasystemen bieden omnichannel-koppelingen. Lightspeed heeft een eigen webshop-module. Square koppelt naadloos met Shopify en WooCommerce. SumUp en CCV bieden API-koppelingen. De beste setup is een systeem dat voorraad, bestellingen en klantdata real-time synchroniseert tussen je winkel en webshop.
+Ja, de meeste moderne kassasystemen bieden omnichannel-koppelingen. Lightspeed heeft een eigen webshop-module. Square koppelt soepel met Shopify en WooCommerce. SumUp en CCV bieden API-koppelingen. De beste setup is een systeem dat voorraad, bestellingen en klantdata real-time synchroniseert tussen je winkel en webshop.
 
 **Hoe lang duurt het om een kassasysteem te installeren?**
 Instapsystemen (Square, SumUp) zijn binnen een dag operationeel: app downloaden, account aanmaken, hardware ontvangen en klaar. Middenklasse systemen (Lightspeed) vergen 3-5 dagen voor het importeren van productcatalogi en training. Enterprise-systemen (Untill, CCV Full Service) vereisen 1-5 werkdagen voor installatie en training.
@@ -370,7 +370,7 @@ De keuze tussen hardware kopen of huren is een separate beslissing naast de soft
 - Hogere totaalkosten op 3 jaar
 - Je zit langer vast aan dezelfde leverancier
 
-**Mijn advies:** voor kleine bedrijven koop je hardware bij Square of SumUp (laagste totaalkosten). Voor grotere bedrijven waarbij hardware-support cruciaal is, is CCV's huurmodel de moeite van de overweging waard.
+**Mijn advies:** voor kleine bedrijven koop je hardware bij Square of SumUp (laagste totaalkosten). Voor grotere bedrijven waarbij hardware-support essentieel is, is CCV's huurmodel de moeite van de overweging waard.
 
 ---
 
@@ -467,7 +467,7 @@ Sieraden hebben unieke uitdagingen:
 ### Drogisterij en Health & Beauty
 
 - Allergene informatie bij producten voor adviesgesprekken
-- Loyaltyprogramma's zijn cruciaal (klanten komen wekelijks)
+- Loyaltyprogramma's zijn essentieel (klanten komen wekelijks)
 - Veel kleine transacties vereisen snel kassagedrag
 
 **Aanbevolen:** Square for Retail (snelste checkout), of een gespecialiseerde beauty-POS.

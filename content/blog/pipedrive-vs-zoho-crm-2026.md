@@ -16,7 +16,7 @@ faq:
   - q: "Welke CRM is beter voor kleine salesteams?"
     a: "Pipedrive is specifiek gebouwd voor salesteams en biedt betere pipeline-visualisatie en dealmanagement. Zoho CRM is breder maar minder gefocust op sales. Voor een team van 2-10 mensen met een actief salesproces is Pipedrive doorgaans de betere keuze."
   - q: "Heeft Zoho CRM betere integraties dan Pipedrive?"
-    a: "Zoho CRM integreert naadloos met het volledige Zoho-ecosysteem (30+ apps). Pipedrive heeft meer dan 400 externe integraties en een sterke Marketplace. Als je al andere Zoho-tools gebruikt, wint Zoho CRM op integratiegemak. Voor niet-Zoho-omgevingen zijn de integraties vergelijkbaar."
+    a: "Zoho CRM integreert soepel met het volledige Zoho-ecosysteem (30+ apps). Pipedrive heeft meer dan 400 externe integraties en een sterke Marketplace. Als je al andere Zoho-tools gebruikt, wint Zoho CRM op integratiegemak. Voor niet-Zoho-omgevingen zijn de integraties vergelijkbaar."
   - q: "Is Pipedrive of Zoho CRM geschikter voor de Nederlandse markt?"
     a: "Beide hebben een Nederlandse interface en support. Pipedrive heeft een Nederlandse vestiging en meer zichtbaarheid in de Nederlandse markt. Zoho CRM biedt iets meer lokalisatie op het gebied van GDPR en AVG-compliance. Op beide punten zijn ze vergelijkbaar."
   - q: "Welke CRM heeft betere AI-functies?"
@@ -77,7 +77,7 @@ Zoho CRM is onderdeel van het bredere Zoho-ecosysteem, dat meer dan 45 zakelijke
 
 **Wat werkt goed bij Zoho CRM:**
 
-Het gratis plan voor drie gebruikers is een echte instapoptie voor kleine teams. De integratie met andere Zoho-producten — Zoho Books, Zoho Campaigns, Zoho Desk — is naadloos en powerful als je al in het Zoho-ecosysteem zit.
+Het gratis plan voor drie gebruikers is een echte instapoptie voor kleine teams. De integratie met andere Zoho-producten — Zoho Books, Zoho Campaigns, Zoho Desk — is soepel en powerful als je al in het Zoho-ecosysteem zit.
 
 Zia, de AI-assistent van Zoho, is indrukwekkend. Voorspellende lead-scoring, sentimentanalyse van e-mails, automatische activiteitsprioritering — dat zijn functies die je bij Pipedrive pas op hogere plannen vindt.
 
@@ -136,7 +136,7 @@ Pipedrive heeft goede automatisering voor salesprocessen: opvolgreminders, e-mai
 
 ### 5. Rapportages — Winnaar: Zoho CRM
 
-Zoho CRM biedt uitgebreidere rapportages. Aanpasbare dashboards, geavanceerde filters, realtime analytics — je kunt dieper in de data duiken. Met Zia krijg je ook voorspellende analyses.
+Zoho CRM biedt uitgebreidere rapportages. Aanpasbare dashboards, uitgebreide filters, realtime analytics — je kunt dieper in de data duiken. Met Zia krijg je ook voorspellende analyses.
 
 Pipedrive's rapportages zijn goed voor salesmonitoring maar beperkter voor bredere bedrijfsanalyse. Op hogere plannen verbetert de rapportagemodule, maar het haalt het niveau van Zoho CRM niet volledig.
 
@@ -146,7 +146,7 @@ Pipedrive's rapportages zijn goed voor salesmonitoring maar beperkter voor brede
 
 Pipedrive heeft een Marketplace met 400+ integraties: Google Workspace, Microsoft 365, Slack, Mailchimp, Zapier, en meer. De API is goed gedocumenteerd.
 
-Zoho CRM integreert met het volledige Zoho-ecosysteem (30+ apps) plus externe systemen via connectors en API. Als je al Zoho-producten gebruikt, is de integratie naadloos.
+Zoho CRM integreert met het volledige Zoho-ecosysteem (30+ apps) plus externe systemen via connectors en API. Als je al Zoho-producten gebruikt, is de integratie soepel.
 
 **Conclusie integraties:** Gelijkspel — beide zijn goed op dit punt. Pipedrive wint als je niet in het Zoho-ecosysteem zit.
 
@@ -195,10 +195,10 @@ Beide hebben een Nederlandse interface en zijn GDPR/AVG-compliant. Pipedrive hee
 - Je een klein team hebt dat gratis wil starten (max 3 gebruikers)
 - Je al Zoho-producten gebruikt (Zoho Books, Zoho Desk, Zoho Campaigns)
 - Je naast sales ook marketing en klantenservice wil bijhouden
-- Je een geavanceerde AI-assistent wil voor lead-scoring en analyses
+- Je een krachtige AI-assistent wil voor lead-scoring en analyses
 - Je Enterprise-functies zoekt voor een lagere prijs dan Salesforce of HubSpot
 
-**Concreet voorbeeld:** Een B2B SaaS-bedrijf dat Zoho Books gebruikt voor de financiën, Zoho Desk voor klantenservice, en nu ook CRM wil toevoegen — die kiest Zoho CRM voor de naadloze integratie.
+**Concreet voorbeeld:** Een B2B SaaS-bedrijf dat Zoho Books gebruikt voor de financiën, Zoho Desk voor klantenservice, en nu ook CRM wil toevoegen — die kiest Zoho CRM voor de directe integratie.
 
 ## Veelgemaakte fouten bij deze keuze
 
@@ -209,7 +209,7 @@ Meer functies is niet beter als je salesreps het systeem niet gebruiken. Adoptie
 Zoho's lagere prijs gaat gepaard met een langere implementatietijd en hogere beheerskosten als je geen dedicated CRM-beheerder hebt. Bereken de total cost of ownership, niet alleen de licentieprijs.
 
 **Fout 3: De mobiele app onderschatten**
-Als je salesreps veel onderweg zijn, is de mobiele app cruciaal. Test die specifiek voor je beslissing neemt — niet alle apps zijn gelijk.
+Als je salesreps veel onderweg zijn, is de mobiele app essentieel. Test die specifiek voor je beslissing neemt — niet alle apps zijn gelijk.
 
 **Fout 4: Geen proefperiode gebruiken**
 Beide CRM's bieden proefperiodes. Pipedrive geeft 14 dagen; Zoho heeft een gratis plan. Stel een werkelijk salesscenario in — voer echt leads in, maak deals aan, doe een opvolgactie — en evalueer pas daarna.
@@ -247,7 +247,7 @@ De meeste salesprofessionals leven in hun e-mailclient. Een goede CRM-integratie
 
 **Pipedrive** heeft een excellente Gmail-extensie die rechtstreeks in je inbox werkt. Je ziet aan de rechterkant van elke e-mail alle CRM-informatie over die contactpersoon: gekoppelde deals, recente activiteiten, notities. Je kunt direct vanuit Gmail een deal aanmaken, een activiteit loggen, of een contactpersoon toevoegen — zonder van tabblad te wisselen. Outlook-integratie is vergelijkbaar.
 
-**Zoho CRM** heeft ook een Gmail/Outlook-integratie, maar die is minder naadloos. De synchronisatie werkt, maar de workflow is iets meer "heen en weer" dan Pipedrive's zijpaneel-aanpak.
+**Zoho CRM** heeft ook een Gmail/Outlook-integratie, maar die is minder soepel. De synchronisatie werkt, maar de workflow is iets meer "heen en weer" dan Pipedrive's zijpaneel-aanpak.
 
 Voor salesreps die dagelijks tientallen e-mails verwerken, is dit verschil in gebruiksgemak merkbaar.
 
@@ -406,7 +406,7 @@ Pipedrive is specifiek gebouwd voor salesteams en biedt betere pipeline-visualis
 
 ### Heeft Zoho CRM betere integraties dan Pipedrive?
 
-Zoho CRM integreert naadloos met het volledige Zoho-ecosysteem (30+ apps). Pipedrive heeft meer dan 400 externe integraties en een sterke Marketplace. Als je al andere Zoho-tools gebruikt, wint Zoho CRM op integratiegemak. Voor niet-Zoho-omgevingen zijn de integraties vergelijkbaar.
+Zoho CRM integreert soepel met het volledige Zoho-ecosysteem (30+ apps). Pipedrive heeft meer dan 400 externe integraties en een sterke Marketplace. Als je al andere Zoho-tools gebruikt, wint Zoho CRM op integratiegemak. Voor niet-Zoho-omgevingen zijn de integraties vergelijkbaar.
 
 ### Is Pipedrive of Zoho CRM geschikter voor de Nederlandse markt?
 

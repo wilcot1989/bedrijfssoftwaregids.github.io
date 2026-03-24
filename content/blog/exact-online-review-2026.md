@@ -19,7 +19,7 @@ faq:
   - q: "Wat kost Exact Online per maand?"
     a: "Exact Online Boekhouden begint bij €49 per maand (Essentials, 1 gebruiker, 1 administratie, 25 facturen). Het Plus-pakket kost €99 per maand (2 gebruikers, 5 bankkoppelingen, 100 facturen). Het Professional-pakket kost €159 per maand (2 gebruikers, onbeperkte functies). Het Premium-pakket start vanaf €299 per maand (multi-company)."
   - q: "Is Exact Online geschikt voor ZZP'ers?"
-    a: "Exact Online biedt een ZZP-pakket, maar het is voor de meeste ZZP'ers aan de dure kant vergeleken met alternatieven als Moneybird of e-Boekhouden. Het ZZP-pakket is interessant als je wilt groeien naar een groter bedrijf, omdat Exact moeiteloos meeschaalt."
+    a: "Exact Online biedt een ZZP-pakket, maar het is voor de meeste ZZP'ers aan de dure kant vergeleken met alternatieven als Moneybird of e-Boekhouden. Het ZZP-pakket is interessant als je wilt groeien naar een groter bedrijf, omdat Exact eenvoudig meeschaalt."
   - q: "Kan ik mijn BTW-aangifte doen via Exact Online?"
     a: "Ja, Exact Online berekent automatisch je BTW-aangifte op basis van je boekingen. Je kunt de aangifte direct vanuit het systeem indienen bij de Belastingdienst. Dit werkt voor reguliere BTW-aangifte, ICP-opgave en Intrastat."
   - q: "Wat is het verschil tussen Exact Online en Twinfield?"
@@ -33,7 +33,7 @@ faq:
   - q: "Werkt Exact Online met SAP?"
     a: "Exact Online en SAP zijn aparte systemen, maar er zijn koppelingen beschikbaar via middleware zoals Alumio, Boomi of op maat gemaakte API-integraties. Voor de meeste MKB-bedrijven is een SAP-koppeling niet relevant; Exact Online is zelf al een volledig ERP-platform. Grotere organisaties die SAP draaien voor andere processen, kunnen via de REST API van Exact integraties bouwen."
   - q: "Kan Exact Online Exact Globe vervangen?"
-    a: "Ja, voor de meeste MKB-bedrijven kan Exact Online Exact Globe volledig vervangen. Exact Online biedt dezelfde kernfuncties via de cloud en is moderner en gemakkelijker te onderhouden. Exact Globe is een on-premises oplossing gericht op grotere bedrijven met complexe productie- of logistieke processen. Als je geen geavanceerde maakbedrijf-functies nodig hebt, is Exact Online de betere keuze in 2026."
+    a: "Ja, voor de meeste MKB-bedrijven kan Exact Online Exact Globe volledig vervangen. Exact Online biedt dezelfde kernfuncties via de cloud en is moderner en gemakkelijker te onderhouden. Exact Globe is een on-premises oplossing gericht op grotere bedrijven met complexe productie- of logistieke processen. Als je geen uitgebreide maakbedrijf-functies nodig hebt, is Exact Online de betere keuze in 2026."
   - q: "Is Exact Online geschikt voor een stichting?"
     a: "Ja, Exact Online is geschikt voor stichtingen en non-profits. Je kunt werken met fondsboekhouden, projectkostenregistratie en rapportages die aansluiten op de RJ 650-richtlijn voor fondswerving. De BTW-module ondersteunt de bijzondere BTW-positie die veel stichtingen hebben. Nadeel: de prijs is relatief hoog vergeleken met specifieke non-profitpakketten als Unit4 Nonprofit."
   - q: "Hoe verhoudt Exact Online zich tot Yuki?"
@@ -271,7 +271,7 @@ Dit is een zoekopdracht die ik vaak tegenkom, en het is begrijpelijk: twee produ
 | **Prijs** | Vanaf €49/mnd | Op aanvraag (significant hoger) |
 | **Beheer** | Minimaal | Vereist IT-afdeling of partner |
 
-**Kan Exact Online Exact Globe vervangen?** Voor de meeste MKB-bedrijven: ja. Als je geen geavanceerde productiebesturing, complexe voorraadlogistiek of meerdere magazijnlocaties beheert, is Exact Online meer dan voldoende. Ik zie regelmatig bedrijven die van Globe naar Online migreren omdat de cloudoplossing eenvoudiger, goedkoper en sneller is. Bekijk ook mijn artikel over [Exact Online prijzen](/blog/exact-online-prijzen-2026/) voor een kostenvergelijking.
+**Kan Exact Online Exact Globe vervangen?** Voor de meeste MKB-bedrijven: ja. Als je geen uitgebreide productiebesturing, complexe voorraadlogistiek of meerdere magazijnlocaties beheert, is Exact Online meer dan voldoende. Ik zie regelmatig bedrijven die van Globe naar Online migreren omdat de cloudoplossing eenvoudiger, goedkoper en sneller is. Bekijk ook mijn artikel over [Exact Online prijzen](/blog/exact-online-prijzen-2026/) voor een kostenvergelijking.
 
 ## Exact Online AI-functies: factuurherkenning en automatisch boeken
 
@@ -378,7 +378,7 @@ Gebruik je Exact Online al, of overweeg je om te starten? Dit zijn de tips die i
 Exact Online en SAP zijn aparte systemen. Er zijn koppelingen mogelijk via middleware zoals Alumio of Boomi, of via de REST API van Exact. Voor de meeste MKB-bedrijven is een SAP-koppeling echter niet relevant — Exact Online is zelf al een volledig ERP-platform. Grotere organisaties die SAP voor andere processen draaien kunnen via maatwerk integreren.
 
 **Kan Exact Online Exact Globe vervangen?**
-Voor de meeste MKB-bedrijven: ja. Exact Online biedt dezelfde kernfuncties als Globe via de cloud, is moderner en goedkoper in beheer. Globe is zinvol als je geavanceerde productie- of logistieke processen hebt die de cloudoplossing niet ondersteunt. Ik zie steeds meer bedrijven die van Globe naar Online migreren en het niet missen.
+Voor de meeste MKB-bedrijven: ja. Exact Online biedt dezelfde kernfuncties als Globe via de cloud, is moderner en goedkoper in beheer. Globe is zinvol als je uitgebreide productie- of logistieke processen hebt die de cloudoplossing niet ondersteunt. Ik zie steeds meer bedrijven die van Globe naar Online migreren en het niet missen.
 
 **Is Exact Online geschikt voor een stichting?**
 Ja, Exact Online ondersteunt fondsregistratie, projectkostenboekhouding en de bijzondere BTW-positie van non-profits. De RJ 650-richtlijn voor fondswervende instellingen is in te richten met de juiste accountant. Nadeel: geen non-profit-korting, geen ledenregistratie of donatiemodule. Voor stichtingen met meer dan €200.000 budget is het een goede keuze; kleiner dan dat kijk ik eerst naar Moneybird.

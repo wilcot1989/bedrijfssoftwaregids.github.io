@@ -173,7 +173,7 @@ HubSpot heeft in 2025-2026 flink geïnvesteerd in AI onder de noemer "Breeze". E
 - **Prospecting Agent** -- onderzoekt leads en stelt gepersonaliseerde outreach voor
 - **Social Agent** -- maakt social media posts op basis van je content
 
-Sinds januari 2026 draaien de meeste agents op geavanceerde AI-modellen. Klinkt indrukwekkend, en in de praktijk is het dat soms ook. De Content Agent bespaart mijn klanten daadwerkelijk tijd bij het schrijven van e-mails en social posts. Maar de Prospecting Agent levert wisselende kwaliteit -- soms spot-on, soms naast de plank.
+Sinds januari 2026 draaien de meeste agents op krachtige AI-modellen. Klinkt indrukwekkend, en in de praktijk is het dat soms ook. De Content Agent bespaart mijn klanten daadwerkelijk tijd bij het schrijven van e-mails en social posts. Maar de Prospecting Agent levert wisselende kwaliteit -- soms spot-on, soms naast de plank.
 
 Mijn realistische inschatting: Breeze AI is een handige bonus, geen reden om voor HubSpot te kiezen. De basis-CRM functies moeten de doorslag geven.
 
@@ -187,7 +187,7 @@ Wat ik waardeer: de visuele dashboards zijn overzichtelijk en je kunt ze delen m
 
 Met meer dan 1.500 integraties in de Marketplace is HubSpot een van de best verbonden CRM's op de markt. De meestgebruikte koppelingen bij mijn klanten:
 
-- **Gmail / Outlook** -- naadloze e-mailintegratie, werkt betrouwbaar
+- **Gmail / Outlook** -- soepele e-mailintegratie, werkt betrouwbaar
 - **Slack** -- dealnotificaties en updates in je teamkanaal
 - **Zapier / Make** -- voor elke koppeling die niet native beschikbaar is
 - **WordPress** -- formulieren, live chat en tracking
@@ -315,7 +315,7 @@ Wil je HubSpot naast Pipedrive en Salesforce vergelijken op kosten voor jouw tea
 
 **Budget beperkt, team van 1-3 personen:** Start met HubSpot Free of het Starter Customer Platform (€15/gebruiker/maand). Combineer met Mailchimp voor e-mailmarketing. Dit is de beste prijs-kwaliteitverhouding.
 
-**Groeiend MKB, budget voor Professional:** HubSpot Professional is een krachtig platform dat marketing automation, geavanceerde rapportages en forecasting combineert. De investering loont als je het platform volledig benut. Reken op €6.000-15.000 per jaar afhankelijk van teamgrootte en hubs.
+**Groeiend MKB, budget voor Professional:** HubSpot Professional is een krachtig platform dat marketing automation, gedetailleerde rapportages en forecasting combineert. De investering loont als je het platform volledig benut. Reken op €6.000-15.000 per jaar afhankelijk van teamgrootte en hubs.
 
 **Puur sales, geen marketing:** Kies [Pipedrive](/blog/hubspot-vs-pipedrive-2026/). Het is goedkoper, eenvoudiger en doet wat je nodig hebt. Automatiseringen beginnen al bij €27,90 per gebruiker per maand in plaats van €90 bij HubSpot.
 

@@ -71,7 +71,7 @@ Twinfield (Wolters Kluwer) is de keuze voor stichtingen met een complexe financi
 
 **Wat werkt goed voor stichtingen:**
 - Meerdere dimensies: kostenplaats, project, fonds en activiteit combineerbaar
-- Geavanceerde rapportage-editor voor maatwerk bestuurrapportages
+- Uitgebreide rapportage-editor voor maatwerk bestuurrapportages
 - Intercompany-verwerking voor stichtingen met nevenorganisaties
 - Audit trail en compliance-functies voor verantwoording aan subsidiegevers
 - Breed geaccepteerd door accountants en registeraccountants

@@ -222,13 +222,13 @@ Na tientallen software-trajecten bij MKB-bedrijven heb ik een redelijk goed beel
 
 - Je een serieuze nieuwsbrief wilt sturen met een professioneel resultaat voor weinig geld
 - Je lijst groeit en je niet wil dat de kosten exponentieel meestijgen (kijk naar die staffel bij Mailchimp)
-- Je basisautomation nodig hebt (welkomssequentie, abandoned cart, heractivering) maar geen geavanceerde conditionele logica
+- Je basisautomation nodig hebt (welkomssequentie, abandoned cart, heractivering) maar geen uitgebreide conditionele logica
 - Je een kleine e-commerceshop runt en liever niet het Mailchimp-tarief wil betalen
 - Je overstapt van een duurder platform en je functies wilt behouden zonder te betalen voor dingen die je niet gebruikt
 
 **Kies een alternatief als:**
 
-- Je geavanceerde automation nodig hebt met complexe conditionele logica en lead scoring → [ActiveCampaign](/blog/activecampaign-review-2026/)
+- Je uitgebreide automation nodig hebt met complexe conditionele logica en lead scoring → [ActiveCampaign](/blog/activecampaign-review-2026/)
 - Je een grote lijst hebt maar weinig verstuurt, en per verzending wil betalen → [Brevo](/blog/brevo-review-2026/)
 - Je sterk hecht aan het Mailchimp-ecosysteem, de integraties of de bekende interface → [Mailchimp review](/blog/mailchimp-review-2026/)
 - Je marketing automation wil combineren met een volledig CRM en salespipeline
@@ -381,7 +381,7 @@ MailerLite is een sterke generalistische keuze, maar niet voor iedereen de beste
 
 **Je hebt een hoge verzendfrequentie én een grote lijst**: Dan loopt MailerLite's abonneemodel snel op. Brevo's verzendingsmodel kan goedkoper zijn. Lees mijn [Brevo review 2026](/blog/brevo-review-2026/) voor de details.
 
-**Je wil geavanceerde automation en CRM**: ActiveCampaign is in een andere klasse qua automation-kracht. Niet goedkoop, maar als je het volledig benut, loont de investering. Zie de [Brevo vs ActiveCampaign vergelijking](/blog/brevo-vs-activecampaign-2026/).
+**Je wil uitgebreide automation en CRM**: ActiveCampaign is in een andere klasse qua automation-kracht. Niet goedkoop, maar als je het volledig benut, loont de investering. Zie de [Brevo vs ActiveCampaign vergelijking](/blog/brevo-vs-activecampaign-2026/).
 
 **Je zit al diep in het Google- of Meta-ecosysteem**: Sommige alternatieven bieden betere native integraties met advertentieplatforms.
 

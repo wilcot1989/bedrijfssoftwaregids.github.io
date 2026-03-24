@@ -18,7 +18,7 @@ faq:
   - q: "Wat kost CRM software voor een makelaarskantoor?"
     a: "HubSpot is gratis voor de basisfunctionaliteit; betaalde plannen beginnen bij EUR 45 per maand voor automatisering. Pipedrive kost EUR 14,90 per gebruiker per maand. Realworks wordt op aanvraag geprijsd en vereist ook een NVM-lidmaatschap. De totale kosten voor Realworks zijn doorgaans hoger dan die van HubSpot of Pipedrive."
   - q: "Kan ik Funda koppelen aan mijn CRM?"
-    a: "Realworks is het enige systeem in dit overzicht met een directe, native Funda-koppeling. HubSpot en Pipedrive kunnen via Zapier gekoppeld worden aan Funda-data, maar dat vereist technische configuratie en is minder naadloos. Als Funda-integratie een prioriteit is, is Realworks de meest stabiele optie."
+    a: "Realworks is het enige systeem in dit overzicht met een directe, native Funda-koppeling. HubSpot en Pipedrive kunnen via Zapier gekoppeld worden aan Funda-data, maar dat vereist technische configuratie en is minder soepel. Als Funda-integratie een prioriteit is, is Realworks de meest stabiele optie."
   - q: "Hoe werkt leadbeheer in een CRM voor makelaars?"
     a: "In HubSpot maak je per potentiële koper of verkoper een contactrecord aan met hun zoekprofiel en alle communicatiehistorie. Pipedrive werkt met een deal per woning of per klant, inclusief de fase van het verkoopproces. In beide systemen kun je automatisch een follow-up mail sturen een week na een bezichtiging."
   - q: "Hoe zorg ik dat ik contact houd met eerdere kopers voor toekomstige verkopen?"
@@ -124,7 +124,7 @@ Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op
 
 Een CRM werkt het best in combinatie met tools die nieuwe leads aanleveren voordat ze zelf contact opnemen. Op de pagina [leadgeneratie software voor B2B](/sectoren/marketing/leadgeneratie-software-b2b/) staan systemen die websitebezoekers identificeren en doorsturen naar je CRM.
 
-Makelaars die naast hun CRM ook hun financiële administratie willen stroomlijnen, vinden een vergelijking op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/).
+Makelaars die naast hun CRM ook hun financiële administratie willen vereenvoudigen, vinden een vergelijking op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/).
 
 Als je makelaarskantoor groeit, raakt ook de HR-administratie complexer. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) bespreken we welke systemen goed schaalbaar zijn voor groeiende teams.
 

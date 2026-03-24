@@ -86,7 +86,7 @@ Dit is waar bijna elk bedrijf begint, en terecht. Communicatie en samenwerking z
 | 10–50 medewerkers | Microsoft 365 Business Basic | €6 p.p. | Teams, Exchange, SharePoint, OneDrive |
 | 50+ medewerkers | Microsoft 365 Business Standard | €12,50 p.p. | + desktop Office apps, Bookings |
 
-**Mijn aanbeveling:** Microsoft 365 als je al Windows gebruikt en Office kent (naadloze integratie, medewerkers kennen de interface). Google Workspace als je flexibel en apparaat-onafhankelijk wilt werken en geen Windows-afhankelijkheden hebt.
+**Mijn aanbeveling:** Microsoft 365 als je al Windows gebruikt en Office kent (directe integratie, medewerkers kennen de interface). Google Workspace als je flexibel en apparaat-onafhankelijk wilt werken en geen Windows-afhankelijkheden hebt.
 
 **Wat te vermijden in stap 1:** Te snel te veel tools introduceren. Ik zie dit regelmatig: een bedrijf schaf zowel Teams als Slack aan, voegt Notion toe en start ook met Asana — in dezelfde maand. Het resultaat is dat niemand weet waar iets staat en de adoptie mislukt. Begin met één communicatietool. Teams OF Slack — niet beide.
 

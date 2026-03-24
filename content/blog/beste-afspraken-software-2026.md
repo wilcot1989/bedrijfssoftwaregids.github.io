@@ -44,7 +44,7 @@ Ben je ZZP'er of zelfstandig ondernemer? Dan is het ook slim om te kijken naar d
 | **SimplyBook.me** | Gratis / €8,25 | Ja (beperkt) | Google, Outlook | E-mail, SMS | Mollie, Stripe | Trustpilot 4,6/5 (2.800+ reviews) | Dienstverlenende bedrijven |
 | **Tidycal** | Gratis / €29 eenmalig | Ja (beperkt) | Google, Outlook | E-mail | Stripe | — | Budget-bewuste gebruikers |
 | **Setmore** | Gratis / €5 | Ja (tot 4 users) | Google, Outlook, Apple | E-mail | Stripe, Square | — | Kleine teams |
-| **Acuity Scheduling** | €16 | Nee (7 dagen trial) | Google, Outlook, iCloud | E-mail, SMS | Stripe, PayPal, Square | — | Geavanceerde behoeften |
+| **Acuity Scheduling** | €16 | Nee (7 dagen trial) | Google, Outlook, iCloud | E-mail, SMS | Stripe, PayPal, Square | — | Uitgebreide behoeften |
 | **Salonkee** | Op aanvraag | Nee | Google | E-mail, SMS | iDEAL, Stripe | Trustpilot 4,1/5 (150+ reviews) | Salons en beauty |
 
 ---
@@ -170,7 +170,7 @@ Tidycal is mijn favoriete budgettip: je betaalt eenmalig $29 en je hebt levensla
 
 ### Nadelen
 
-- Minder geavanceerd dan Calendly of SimplyBook.me
+- Minder uitgebreid dan Calendly of SimplyBook.me
 - Geen SMS-herinneringen
 - Geen iDEAL-ondersteuning (alleen Stripe)
 - Beperkte team-functies
@@ -201,7 +201,7 @@ Setmore viel me op vanwege het gratis plan: tot 4 gebruikers, geen kosten. Dat i
 
 - **Free**: Gratis (tot 4 gebruikers, basisfuncties)
 - **Pro**: €5/gebruiker/maand (SMS, betalingen, meer integraties)
-- **Team**: €5/gebruiker/maand (geavanceerde rapportages, 2 kalenders per user)
+- **Team**: €5/gebruiker/maand (gedetailleerde rapportages, 2 kalenders per user)
 
 ### Voordelen
 
@@ -223,7 +223,7 @@ Setmore viel me op vanwege het gratis plan: tot 4 gebruikers, geen kosten. Dat i
 
 ---
 
-## 5. Acuity Scheduling (Squarespace) -- Beste voor Geavanceerde Behoeften
+## 5. Acuity Scheduling (Squarespace) -- Beste voor Uitgebreide Behoeften
 
 Acuity Scheduling is de tool die ik pak wanneer Calendly of SimplyBook.me niet genoeg is. Denk aan een yogastudio met groepslessen, strippenkaarten en intakeformulieren, of een therapeutenpraktijk met meerdere locaties. Ja, het is complexer en duurder, maar als je die functies nodig hebt, is er weinig dat erbij komt. Als contracten en overeenkomsten onderdeel zijn van je werkproces, bekijk dan ook de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/) voor een complete administratieve aanpak. Voor sportscholen en fitnesscentra die ook een kassa en ledenadministratie nodig hebben, is het ook de moeite waard om te kijken naar een [kassasysteem voor een sportschool](/sectoren/kassasystemen/kassasysteem-sportschool/).
 
@@ -236,7 +236,7 @@ Acuity Scheduling is de tool die ik pak wanneer Calendly of SimplyBook.me niet g
 - HIPAA-compliance (voor medische praktijken)
 - Automatische herinneringen via e-mail en SMS
 - Betaling via Stripe, PayPal en Square
-- Geavanceerde beschikbaarheidsregels
+- Uitgebreide beschikbaarheidsregels
 - Groepslessen en workshops
 - Krachtige API voor maatwerkintegraties
 
@@ -318,7 +318,7 @@ Lees ook ons uitgebreide artikel over de [beste software voor kappers en schoonh
 | **Dienstverlenend bedrijf** | SimplyBook.me | Uitgebreid, iDEAL, Nederlands |
 | **Laagste kosten** | Tidycal | Eenmalig €29, levenslang |
 | **Klein team (2-4 personen)** | Setmore | Gratis tot 4 gebruikers |
-| **Complexe planning** | Acuity Scheduling | Meest geavanceerde functies |
+| **Complexe planning** | Acuity Scheduling | Meest uitgebreide functies |
 | **Kapsalon / schoonheidssalon** | Salonkee | Branche-specifiek, alles-in-een |
 
 ---
@@ -344,13 +344,13 @@ Bij duurdere diensten kun je een aanbetaling vragen bij het boeken. Dit verminde
 
 ## Conclusie
 
-De juiste afsprakensoftware bespaart je tijd, vermindert no-shows en biedt je klanten het gemak van 24/7 boeken via een online afsprakensysteem. Wil je je volledige werkwijze digitaliseren? Bekijk dan ook de [beste documenten management software 2026](/blog/beste-documenten-management-2026/) voor het bijhouden van dossiers en formulieren, of vergelijk [Notion vs Monday.com](/blog/notion-vs-monday-vergelijking-2026/) als je ook je interne planning wilt stroomlijnen. De beste afsprakenplanner hangt af van je bedrijfstype en behoeften:
+De juiste afsprakensoftware bespaart je tijd, vermindert no-shows en biedt je klanten het gemak van 24/7 boeken via een online afsprakensysteem. Wil je je volledige werkwijze digitaliseren? Bekijk dan ook de [beste documenten management software 2026](/blog/beste-documenten-management-2026/) voor het bijhouden van dossiers en formulieren, of vergelijk [Notion vs Monday.com](/blog/notion-vs-monday-vergelijking-2026/) als je ook je interne planning wilt vereenvoudigen. De beste afsprakenplanner hangt af van je bedrijfstype en behoeften:
 
 - **Beste voor consultants en ZZP'ers**: [Calendly](https://calendly.com/) -- eenvoudig, professioneel en gratis te starten.
 - **Beste voor dienstverlenende bedrijven**: [SimplyBook.me](https://simplybook.me/nl/) -- uitgebreid, met iDEAL en Nederlandse taal.
 - **Beste budget-optie**: [Tidycal](https://tidycal.com/) -- eenmalig €29 voor levenslang gebruik.
 - **Beste voor kleine teams**: [Setmore](https://www.setmore.com/) -- gratis tot 4 gebruikers.
-- **Beste voor geavanceerde behoeften**: [Acuity Scheduling](https://acuityscheduling.com/) -- de meest uitgebreide functieset.
+- **Beste voor uitgebreide behoeften**: [Acuity Scheduling](https://acuityscheduling.com/) -- de meest uitgebreide functieset.
 - **Beste voor salons**: [Salonkee](https://salonkee.com/) -- branche-specifiek alles-in-een platform.
 
 Bekijk ook ons artikel over de [beste planning software voor horeca](/blog/beste-planning-software-horeca-2026/) voor branche-specifieke planningsoplossingen.

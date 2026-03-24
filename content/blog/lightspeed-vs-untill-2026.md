@@ -26,7 +26,7 @@ faq:
 
 Lightspeed vs Untill -- twee namen die altijd terugkomen als horecaondernemers mij vragen welk kassasysteem ze moeten kiezen. Ik snap de verwarring. Lightspeed is het hippe cloudsysteem op iPads dat je overal ziet staan. Untill is de stille kracht achter duizenden Nederlandse horecazaken, van strandtenten tot hotels.
 
-Na jaren met beide systemen te hebben gewerkt -- bij klanten geïnstalleerd, support gebeld, rapporten doorgespit -- zie ik dat de keuze neerkomt op een fundamenteel verschil in filosofie. Lightspeed wil alles modern en visueel houden. Untill wil alles robuust en koppelbaar maken.
+Na jaren met beide systemen te hebben gewerkt -- bij klanten geïnstalleerd, support gebeld, rapporten doorgespit -- zie ik dat de keuze neerkomt op een fundamenteel verschil in filosofie. Lightspeed wil alles modern en visueel houden. Untill wil alles solide en koppelbaar maken.
 
 In dit artikel zet ik ze punt voor punt naast elkaar. Zodat jij straks weet welk systeem bij jouw zaak past, zonder dat een verkoper je iets aanpraat.
 
@@ -79,7 +79,7 @@ Het systeem draait hybride. De kassa werkt lokaal (dus ook zonder internet), ter
 Lightspeed hanteert een transparant abonnementsmodel:
 
 - **Basic**: €79/maand -- bestellingen opnemen, betalen, wachtrij
-- **Core**: €139/maand -- workflows stroomlijnen, meer inzichten
+- **Core**: €139/maand -- workflows vereenvoudigen, meer inzichten
 - **Pro**: €249/maand -- meerdere locaties, benchmarkdata, extra omzetkanalen
 
 Extra kassa's kosten vanaf €39/maand per stuk. Hardware moet je apart aanschaffen:
@@ -163,7 +163,7 @@ Als ik een gloednieuwe ondernemer met een iPad zie staan, wijs ik naar Lightspee
 
 **Untill** gaat een stap verder met een volledig F&B-managementmodule. Recepturen, inkoop, marge-analyse per gerecht -- het is uitgebreider dan wat Lightspeed biedt. Dit is een van de redenen waarom grotere restaurants en hotels voor Untill kiezen.
 
-**Winnaar:** Untill, met name voor zaken waar food cost management cruciaal is.
+**Winnaar:** Untill, met name voor zaken waar food cost management essentieel is.
 
 ### Rapportages en inzichten
 
@@ -227,7 +227,7 @@ Untill werkt via het dealermodel:
 - Vaak ook buiten kantoortijden bereikbaar
 - Installatie, training en onderhoud via dezelfde dealer
 
-Dit is waar Untill echt verschilt. Je belt niet naar een callcenter, maar naar iemand die jouw zaak heeft ingericht. Dat scheelt enorm in oplostijd. Goede Untill-dealers bieden 24/7 bereikbaarheid, wat voor horeca cruciaal is -- een kassastoring om 21:00 op vrijdagavond moet direct opgelost worden.
+Dit is waar Untill echt verschilt. Je belt niet naar een callcenter, maar naar iemand die jouw zaak heeft ingericht. Dat scheelt enorm in oplostijd. Goede Untill-dealers bieden 24/7 bereikbaarheid, wat voor horeca essentieel is -- een kassastoring om 21:00 op vrijdagavond moet direct opgelost worden.
 
 Het nadeel: je bent afhankelijk van de kwaliteit van jouw specifieke dealer. De meeste zijn goed, maar ik heb ook dealers gezien die traag reageerden.
 
@@ -335,7 +335,7 @@ Voor een **klein cafe** dat snel wil starten: Lightspeed met een iPad. Voor een 
 <div class="pros">
 <h4>Voordelen Untill</h4>
 <ul>
-<li>Robuust en betrouwbaar -- werkt ook offline</li>
+<li>Solide en betrouwbaar -- werkt ook offline</li>
 <li>125+ integraties, het breedste ecosysteem in Nederland</li>
 <li>Persoonlijke support via lokale dealer</li>
 <li>Professionele horeca-hardware</li>
@@ -375,7 +375,7 @@ Lightspeed Restaurant is de betere keuze als je:
 Untill is de betere keuze als je:
 
 - **Een gevestigde horecazaak runt** met meerdere terminals en een complexe keukenstructuur
-- **Een hotel, strandpaviljoen of evenementenlocatie** hebt waar integraties met PMS-systemen (Mews, Opera) cruciaal zijn
+- **Een hotel, strandpaviljoen of evenementenlocatie** hebt waar integraties met PMS-systemen (Mews, Opera) essentieel zijn
 - **Op een locatie zit met onbetrouwbaar internet** en je kassa altijd moet werken
 - **Persoonlijke support** belangrijk vindt -- iemand die je belt en die je zaak kent
 - **Veel integraties** nodig hebt (personeel, boekhouden, reserveren, bezorging, hotel)

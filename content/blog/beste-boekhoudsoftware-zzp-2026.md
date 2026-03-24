@@ -471,11 +471,11 @@ Nadeel: de prijs. Het instappakket van €49/maand is voor een ZZP'er met een si
 
 ### Twinfield: accountantssoftware die ook voor BV's werkt
 
-Twinfield is minder bekend bij ZZP'ers maar geliefd bij accountantskantoren die BV-administraties beheren. Het ondersteunt multi-entiteit beheer (ideaal als je een holding + werkmaatschappij hebt), heeft geavanceerde rapportages en werkt naadloos samen met SBR-rapportage. Als je accountant met Twinfield werkt, is dat vaak de belangrijkste reden om voor Twinfield te kiezen. Lees meer in mijn [Twinfield review](/blog/twinfield-review-2026/).
+Twinfield is minder bekend bij ZZP'ers maar geliefd bij accountantskantoren die BV-administraties beheren. Het ondersteunt multi-entiteit beheer (ideaal als je een holding + werkmaatschappij hebt), heeft gedetailleerde rapportages en werkt soepel samen met SBR-rapportage. Als je accountant met Twinfield werkt, is dat vaak de belangrijkste reden om voor Twinfield te kiezen. Lees meer in mijn [Twinfield review](/blog/twinfield-review-2026/).
 
 ### Moneybird en SnelStart: beperkt geschikt voor een BV
 
-Moneybird is in principe te gebruiken voor een eenvoudige BV, maar de tool mist functies die een BV vereist: geen ingebouwde loonadministratie, geen SBR-deponering, beperkte Vpb-ondersteuning. Voor een holding-structuur is het onvoldoende. SnelStart heeft loonadministratie als add-on, maar ook hier missen de geavanceerde BV-rapportages die Exact of Twinfield wel bieden.
+Moneybird is in principe te gebruiken voor een eenvoudige BV, maar de tool mist functies die een BV vereist: geen ingebouwde loonadministratie, geen SBR-deponering, beperkte Vpb-ondersteuning. Voor een holding-structuur is het onvoldoende. SnelStart heeft loonadministratie als add-on, maar ook hier missen de uitgebreide BV-rapportages die Exact of Twinfield wel bieden.
 
 ### Mijn advies als je een BV overweegt
 
@@ -499,7 +499,7 @@ Wat ik waardeer: Moneybird handelt de OSS-regeling (One Stop Shop) voor EU-verko
 
 Als je webshop boven de vijftig bestellingen per dag uitkomt, of als je ook voorraadmanagement, inkooporders en meerdere verkoopkanalen wilt koppelen, is Exact Online de meest uitgebreide optie. De Shopify-koppeling loopt via een gecertificeerde connector (Alumio of PinkWeb), die ook voorraad en inkoopfacturen synchroniseert. Voor een kleine webshop is dit overkill en te duur. Voor een webshop met een ton omzet per maand is het de enige serieuze keuze.
 
-### e-Boekhouden.nl: werkt, maar minder naadloos
+### e-Boekhouden.nl: werkt, maar minder soepel
 
 e-Boekhouden.nl heeft koppelingen met Shopify en WooCommerce, maar die zijn minder uitgebreid dan bij Moneybird. De API werkt voor basis-orderiminport, maar de automatische BTW-splitsing voor OSS-verkopen moet je handmatig instellen. Voor een kleine webshop met honderd bestellingen per maand is dit acceptabel. Meer volume en je loopt er tegenaan.
 
@@ -580,7 +580,7 @@ Een korte, maar veel gestelde vraag. Een VOF (vennootschap onder firma) heeft tw
 
 ### Mijn aanbeveling voor een VOF
 
-**Exact Online** is de sterkste keuze voor een VOF, met name als de vennoten ook een boekhouder inschakelen. Het systeem ondersteunt meerdere gebruikers in hetzelfde plan, heeft uitgebreide rapportages voor winstsplitsing en werkt naadloos met de SBR-jaarrekening-deponering. De kostprijs (€49+/maand) valt bij twee vennoten mee: gedeeld door twee is het €24,50 per persoon.
+**Exact Online** is de sterkste keuze voor een VOF, met name als de vennoten ook een boekhouder inschakelen. Het systeem ondersteunt meerdere gebruikers in hetzelfde plan, heeft uitgebreide rapportages voor winstsplitsing en werkt soepel met de SBR-jaarrekening-deponering. De kostprijs (€49+/maand) valt bij twee vennoten mee: gedeeld door twee is het €24,50 per persoon.
 
 **Twinfield** is een alternatief dat accountantskantoren vaak gebruiken voor VOF-administraties. Iets minder gebruiksvriendelijk voor de ondernemer zelf, maar zeer volledig voor de boekhouder.
 

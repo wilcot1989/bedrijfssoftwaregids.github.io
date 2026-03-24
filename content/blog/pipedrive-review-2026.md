@@ -177,7 +177,7 @@ Pipedrive is volledig vertaald naar het Nederlands, inclusief een groot deel van
 
 ### 1. Beperkte marketingfuncties
 
-Dit is het punt waar ik klanten altijd eerlijk over ben: Pipedrive is een sales-tool, geen marketingplatform. De Campaigns add-on is prima voor een maandelijkse nieuwsbrief, maar als je marketing automation, lead nurturing op schaal of geavanceerde segmentatie nodig hebt, moet je een aparte tool gebruiken. Combinaties met ActiveCampaign of Mailchimp werken goed via de Marketplace, maar het is een extra tool en extra kosten.
+Dit is het punt waar ik klanten altijd eerlijk over ben: Pipedrive is een sales-tool, geen marketingplatform. De Campaigns add-on is prima voor een maandelijkse nieuwsbrief, maar als je marketing automation, lead nurturing op schaal of gedetailleerde segmentatie nodig hebt, moet je een aparte tool gebruiken. Combinaties met ActiveCampaign of Mailchimp werken goed via de Marketplace, maar het is een extra tool en extra kosten.
 
 Als je marketing en sales in één platform wil, is HubSpot de betere keuze. Lees de [HubSpot vs Pipedrive vergelijking](/blog/hubspot-vs-pipedrive-2026/) voor een gedetailleerde afweging.
 
@@ -259,7 +259,7 @@ Ja -- voor de juiste situatie is Pipedrive een van de beste investeringen die ee
 
 Wat Pipedrive goed doet, doet het beter dan de meeste concurrenten: pipeline beheren, deals opvolgen, activiteiten plannen en de dagelijkse verkoopworkflow ondersteunen. De interface is snel, de mobiele app werkt vlekkeloos en het team staat er binnen een dag op.
 
-Wat je niet moet verwachten: een marketingplatform, geavanceerde projectopvolging of enterprise-level rapportages op de goedkopere plannen. Pipedrive heeft bewust gekozen voor focus, en dat is precies de reden waarom het zo goed werkt.
+Wat je niet moet verwachten: een marketingplatform, uitgebreide projectopvolging of enterprise-level rapportages op de goedkopere plannen. Pipedrive heeft bewust gekozen voor focus, en dat is precies de reden waarom het zo goed werkt.
 
 ### Mijn aanbeveling per situatie
 

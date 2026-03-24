@@ -47,7 +47,7 @@ products:
     rating_count: "9200"
 faq:
   - q: "Welke payment provider is het beste voor een Nederlandse webshop?"
-    a: "Mollie is voor de meeste Nederlandse webshops de beste keuze: eenvoudige integratie, scherpe tarieven, iDEAL als standaard betaalmethode en uitstekende Nederlandse support. MultiSafepay is een sterk alternatief. Stripe is beter voor technisch geavanceerde of internationale webshops."
+    a: "Mollie is voor de meeste Nederlandse webshops de beste keuze: eenvoudige integratie, scherpe tarieven, iDEAL als standaard betaalmethode en uitstekende Nederlandse support. MultiSafepay is een sterk alternatief. Stripe is beter voor technisch onderlegde of internationale webshops."
   - q: "Wat kost een payment provider voor een webshop?"
     a: "De meeste providers rekenen geen maandelijkse abonnementskosten maar werken op transactiebasis. Voor iDEAL-betalingen betaalt u bij Mollie €0,29 per transactie. Creditcard-betalingen kosten doorgaans 1,5-2,9% per transactie. Adyen heeft ook interchange++ pricing voor grote volumes."
   - q: "Wat is het verschil tussen iDEAL en een payment provider?"
@@ -124,9 +124,9 @@ Het Mollie Dashboard is overzichtelijk en geeft u realtime inzicht in transactie
 
 ---
 
-### 2. Stripe — Beste voor technisch geavanceerde webshops
+### 2. Stripe — Beste voor technisch onderlegde webshops
 
-[Stripe](https://stripe.com/nl) is het favoriete payment platform voor developers en technisch geavanceerde webshops. Het biedt de meest flexibele API op de markt en is uitstekend voor internationale webshops.
+[Stripe](https://stripe.com/nl) is het favoriete payment platform voor developers en technisch onderlegde webshops. Het biedt de meest flexibele API op de markt en is uitstekend voor internationale webshops.
 
 **Wat maakt Stripe bijzonder:**
 
@@ -173,7 +173,7 @@ De omnichannel functionaliteit is uniek: Adyen koppelt online betalingen aan in-
 **Functies van Adyen:**
 - Online, in-store en in-app betalingen
 - Interchange++ pricing bij hoge volumes
-- Geavanceerde fraudepreventie (RevenueProtect)
+- Uitgebreide fraudepreventie (RevenueProtect)
 - Data-driven betalingsoptimalisatie
 - Tokenized payment voor terugkerende klanten
 - 250+ betaalmethoden wereldwijd
@@ -338,7 +338,7 @@ Fraude kost Nederlandse webshops jaarlijks tientallen miljoenen euro's. Moderne 
 
 **Mollie** biedt basisrisicocontroles. Voor hogere volumes kunt u aanvullende tools toevoegen.
 
-**Adyen RevenueProtect** is de meest geavanceerde optie voor enterprise: aanpasbare regels per risicocategorie, real-time beslissingen en gedetailleerde rapportages.
+**Adyen RevenueProtect** is de meest uitgebreide optie voor enterprise: aanpasbare regels per risicocategorie, real-time beslissingen en gedetailleerde rapportages.
 
 ## Kosten-batenanalyse: wat kost uw payment provider per jaar?
 
@@ -360,7 +360,7 @@ Bij dit volume is het verschil klein. Bij €1M+ omzet loont het verhandelen van
 
 **Nederlandse webshop, MKB**: Mollie is de beste keuze voor de combinatie van tarieven, gemak en NL-marktkennis. De snelle uitbetalingen en Nederlandse support zijn extra voordelen.
 
-**Technisch geavanceerde webshop of SaaS**: Stripe voor de beste API, Stripe Billing voor abonnementen en Stripe Radar voor fraudepreventie.
+**Technisch uitgebreide webshop of SaaS**: Stripe voor de beste API, Stripe Billing voor abonnementen en Stripe Radar voor fraudepreventie.
 
 **Enterprise retail met hoge volumes**: Adyen voor interchange++ pricing en omnichannel betalingen online en in-store.
 
@@ -447,7 +447,7 @@ Bereken uw specifieke situatie: aantal transacties per maand × transactiekosten
 
 **Open Banking via PSD2:** De Europese betaalrichtlijn PSD2 maakt het mogelijk voor payment providers om direct banktransacties te initiëren via Open Banking. iDEAL 2.0 is hierop gebouwd. Verwacht meer innovatie in betaalinitiatiën via Open Banking in 2026-2027.
 
-**Biometrische authenticatie:** Apple Pay en Google Pay gebruiken Face ID en vingerafdruk voor authenticatie. Dit vervangt 3D Secure op mobiel devices met een naadloze gebruikerservaring.
+**Biometrische authenticatie:** Apple Pay en Google Pay gebruiken Face ID en vingerafdruk voor authenticatie. Dit vervangt 3D Secure op mobiel devices met een soepele gebruikerservaring.
 
 ## Payment provider integratie met boekhoudingssoftware
 

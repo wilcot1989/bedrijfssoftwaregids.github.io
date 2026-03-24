@@ -30,9 +30,9 @@ faq:
   - q: "Kan ik Asana gebruiken voor Scrum en Agile?"
     a: "Ja, maar het vereist meer configuratie. Asana biedt sprints, backlogs en story points via de Business- en Enterprise-plannen. Dev-teams die native Scrum willen -- inclusief burndown charts, velocity tracking en diepgaande GitHub/GitLab-koppelingen -- zijn toch beter af met Jira. Asana's Agile-ondersteuning is goed genoeg voor hybride teams, maar mist de diepgang die pure dev-teams nodig hebben."
   - q: "Heeft Jira een gratis plan?"
-    a: "Ja. Jira Software Free ondersteunt onbeperkte gebruikers (aanbevolen max. 10), onbeperkte projecten en scrum/kanban-borden. Je krijgt 2 GB opslag en community-support. Boven de 10 gebruikers of bij behoefte aan audit logs, SLA-rapporten en geavanceerde rechten stap je over naar Standard ($8,15/gebruiker/mnd) of Premium ($16/gebruiker/mnd)."
+    a: "Ja. Jira Software Free ondersteunt onbeperkte gebruikers (aanbevolen max. 10), onbeperkte projecten en scrum/kanban-borden. Je krijgt 2 GB opslag en community-support. Boven de 10 gebruikers of bij behoefte aan audit logs, SLA-rapporten en uitgebreide rechten stap je over naar Standard ($8,15/gebruiker/mnd) of Premium ($16/gebruiker/mnd)."
   - q: "Welke tool integreert beter met Slack en andere tools?"
-    a: "Beide integreren solide met Slack, Microsoft Teams, Google Workspace en Zoom. Jira heeft een strategisch voordeel bij de Atlassian-suite: Confluence (wiki), Bitbucket (code), Trello en Jira Service Management werken naadloos samen. Asana wint op breedte van integraties buiten de techstack: 200+ native koppelingen inclusief Salesforce, HubSpot en Adobe Creative Cloud."
+    a: "Beide integreren solide met Slack, Microsoft Teams, Google Workspace en Zoom. Jira heeft een strategisch voordeel bij de Atlassian-suite: Confluence (wiki), Bitbucket (code), Trello en Jira Service Management werken soepel samen. Asana wint op breedte van integraties buiten de techstack: 200+ native koppelingen inclusief Salesforce, HubSpot en Adobe Creative Cloud."
   - q: "Wanneer kies ik Asana en wanneer Jira?"
     a: "Kies Asana als je team gemengd is (marketing, operations, sales, projectmanagement) en geen zware development-workflows heeft. Kies Jira als je primair een software- of IT-team beheert dat met sprints, backlogs en code-repositories werkt. Bij twijfel: Asana is de veiligere keuze voor mixed teams, Jira voor pure dev-teams."
 ---
@@ -55,7 +55,7 @@ Wil je eerst een breder beeld? Lees mijn [beste projectmanagement software gids 
 | **Startprijs betaald** | $13,49/gebruiker/mnd | $8,15/gebruiker/mnd |
 | **Premium-plan** | $30,49/gebruiker/mnd | $16/gebruiker/mnd |
 | **Agile/Scrum** | Ja (Business+) | Ja (native, kern-feature) |
-| **Sprint-planning** | Ja | Ja (geavanceerd) |
+| **Sprint-planning** | Ja | Ja (uitgebreid) |
 | **Backlog-beheer** | Beperkt | Uitgebreid |
 | **Burndown charts** | Nee | Ja |
 | **GitHub-integratie** | Ja | Diep (native) |
@@ -86,13 +86,13 @@ Ik vertel dit niet om Jira af te schrijven -- voor de juiste doelgroep is het ex
 - **Personal (gratis):** Tot 15 gebruikers, onbeperkte taken, lijst/bord/kalender weergaven, basisintegraties
 - **Starter:** $13,49 -- tijdlijn, dashboards, 3 portfolios, werkstroomregels (250 acties/mnd)
 - **Advanced:** $30,49 -- onbeperkte portfolios, doelen, workload-beheer, 25.000 automatiseringsacties/mnd
-- **Enterprise / Enterprise+:** Op aanvraag -- SCIM, SAML, geavanceerde beveiliging
+- **Enterprise / Enterprise+:** Op aanvraag -- SCIM, SAML, uitgebreide beveiliging
 
 ### Jira Software-plannen (per gebruiker per maand, jaarlijks gefactureerd)
 
 - **Free:** Onbeperkte gebruikers (aanbevolen max. 10), onbeperkte projecten, scrum/kanban-borden, 2 GB opslag
 - **Standard:** $8,15 -- onbeperkte opslag, audit log, 250 automatiseringsregels/project/mnd, rolegebaseerde rechten
-- **Premium:** $16 -- geavanceerde roadmaps (Plans), onbeperkte automatisering, sandbox-omgeving, 24/7 support
+- **Premium:** $16 -- uitgebreide roadmaps (Plans), onbeperkte automatisering, sandbox-omgeving, 24/7 support
 - **Enterprise:** Op aanvraag -- globale automatisering, meerdere instanties, Atlassian Guard
 
 ### Kostenanalyse voor een team van 15 personen
@@ -178,7 +178,7 @@ De breedte is Asana's kracht. Je kunt Asana in bijna elk team integreren, ongeac
 
 Jira's integraties zijn strategisch gericht op de developer-workflow:
 
-- **Atlassian-suite:** Confluence, Bitbucket, Trello, Jira Service Management -- naadloze samenwerking
+- **Atlassian-suite:** Confluence, Bitbucket, Trello, Jira Service Management -- soepele samenwerking
 - **Code-repositories:** GitHub, GitLab, Bitbucket -- commits en pull requests koppelen aan issues
 - **CI/CD:** Jenkins, CircleCI, GitHub Actions, Bamboo
 - **Monitoring:** Opsgenie, PagerDuty, Datadog
@@ -264,7 +264,7 @@ Jira is de betere keuze als:
 - Je al gebruik maakt van Confluence, Bitbucket of andere Atlassian-producten
 - Diepe integratie met code-repositories (GitHub, GitLab) een vereiste is
 - Je engineers al ervaring hebben met Jira en geen nieuwe tool willen leren
-- Je geavanceerde release-planning en versie-management nodig hebt
+- Je uitgebreide release-planning en versie-management nodig hebt
 
 Lees ook mijn [ClickUp vs Jira vergelijking](/blog/clickup-vs-jira-2026/) als je een ClickUp-alternatief overweegt voor je dev-team.
 
@@ -314,7 +314,7 @@ Bij de keuze tussen Asana en Jira is het verstandig om verder te kijken dan de m
 Jira's leercurve vertaalt zich in directe kosten: trainingstijd, verminderde productiviteit de eerste weken en eventuele consultant-inschakeling voor de configuratie. Ik schat voor een team van 10 dat Jira-onboarding gemiddeld 3-5 uur per medewerker kost. Bij Asana is dat 1-2 uur. Bij 10 personen en een intern uurtarief van €60 scheelt dat al €600-€1.800 eenmalig.
 
 **Add-on-kosten**
-Asana Intelligence (AI) en Asana-portals voor klanten zijn betaalde add-ons. Jira's Atlassian Guard (geavanceerde security) en Atlassian Analytics zijn ook add-ons. Beide platforms hebben een neiging om basis-functies achter extra betalingen te plaatsen op Enterprise-niveau.
+Asana Intelligence (AI) en Asana-portals voor klanten zijn betaalde add-ons. Jira's Atlassian Guard (uitgebreide security) en Atlassian Analytics zijn ook add-ons. Beide platforms hebben een neiging om basis-functies achter extra betalingen te plaatsen op Enterprise-niveau.
 
 **Confluence vs ingebouwde docs**
 Als je Jira gebruikt en ook documentatie nodig hebt (technische specs, runbooks, kennisbank), heb je vrijwel zeker Confluence nodig. Dat kost $5,75/gebruiker/mnd extra. Asana heeft ingebouwde basisdocumentatie. Voor een team van 15 personen is dat $86/mnd extra alleen voor documentatie -- €1.000+ per jaar.
@@ -429,10 +429,10 @@ Voor kleine teams (tot 10 gebruikers) is Jira goedkoper -- het gratis plan onder
 Ja, maar het vereist meer configuratie. Asana biedt sprints, backlogs en story points via de Business- en Enterprise-plannen. Dev-teams die native Scrum willen -- inclusief burndown charts, velocity tracking en diepgaande GitHub/GitLab-koppelingen -- zijn toch beter af met Jira. Asana's Agile-ondersteuning is goed genoeg voor hybride teams, maar mist de diepgang die pure dev-teams nodig hebben.
 
 **Heeft Jira een gratis plan?**
-Ja. Jira Software Free ondersteunt onbeperkte gebruikers (aanbevolen max. 10), onbeperkte projecten en scrum/kanban-borden. Je krijgt 2 GB opslag en community-support. Boven de 10 gebruikers of bij behoefte aan audit logs, SLA-rapporten en geavanceerde rechten stap je over naar Standard ($8,15/gebruiker/mnd) of Premium ($16/gebruiker/mnd).
+Ja. Jira Software Free ondersteunt onbeperkte gebruikers (aanbevolen max. 10), onbeperkte projecten en scrum/kanban-borden. Je krijgt 2 GB opslag en community-support. Boven de 10 gebruikers of bij behoefte aan audit logs, SLA-rapporten en uitgebreide rechten stap je over naar Standard ($8,15/gebruiker/mnd) of Premium ($16/gebruiker/mnd).
 
 **Welke tool integreert beter met Slack en andere tools?**
-Beide integreren solide met Slack, Microsoft Teams, Google Workspace en Zoom. Jira heeft een strategisch voordeel bij de Atlassian-suite: Confluence (wiki), Bitbucket (code), Trello en Jira Service Management werken naadloos samen. Asana wint op breedte van integraties buiten de techstack: 200+ native koppelingen inclusief Salesforce, HubSpot en Adobe Creative Cloud.
+Beide integreren solide met Slack, Microsoft Teams, Google Workspace en Zoom. Jira heeft een strategisch voordeel bij de Atlassian-suite: Confluence (wiki), Bitbucket (code), Trello en Jira Service Management werken soepel samen. Asana wint op breedte van integraties buiten de techstack: 200+ native koppelingen inclusief Salesforce, HubSpot en Adobe Creative Cloud.
 
 **Wanneer kies ik Asana en wanneer Jira?**
 Kies Asana als je team gemengd is (marketing, operations, sales, projectmanagement) en geen zware development-workflows heeft. Kies Jira als je primair een software- of IT-team beheert dat met sprints, backlogs en code-repositories werkt. Bij twijfel: Asana is de veiligere keuze voor mixed teams, Jira voor pure dev-teams.

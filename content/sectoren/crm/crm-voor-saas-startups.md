@@ -21,7 +21,7 @@ faq:
   - q: "Wat kost CRM software voor een SaaS-startup?"
     a: "HubSpot gratis volstaat voor de eerste fase. De betaalde Sales Hub begint bij EUR 45 per gebruiker per maand. Pipedrive kost EUR 14,90 per gebruiker per maand. Salesforce Starter begint bij EUR 25 per gebruiker per maand; de professionele versie met forecasting en meer customisatie kost EUR 75 of meer."
   - q: "Hoe voorkom ik churn met mijn CRM als SaaS-startup?"
-    a: "Stel automatische signalen in die het salesteam of customer success alarmeert bij risicogedrag: inactiviteit, openstaande support tickets of downgrade-verzoeken. In HubSpot kun je dit via workflows instellen. Voor geavanceerde churnpredictie heb je doorgaans een aparte customer success tool naast je CRM."
+    a: "Stel automatische signalen in die het salesteam of customer success alarmeert bij risicogedrag: inactiviteit, openstaande support tickets of downgrade-verzoeken. In HubSpot kun je dit via workflows instellen. Voor diepgaande churnpredictie heb je doorgaans een aparte customer success tool naast je CRM."
   - q: "Welk CRM past bij een product-led growth (PLG) model?"
     a: "HubSpot is de sterkste keuze voor PLG-bedrijven dankzij de marketing + product integratie en de mogelijkheid om trial-gedrag te koppelen aan CRM-records via de API. Pipedrive is sterker voor sales-led modellen waarbij SDRs actief outbound prospecting doen. Salesforce is flexibel genoeg voor beide modellen, maar vereist meer implementatiecapaciteit."
 affiliate: true

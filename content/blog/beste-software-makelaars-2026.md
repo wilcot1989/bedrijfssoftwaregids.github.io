@@ -18,7 +18,7 @@ faq:
   - q: "Wat kost makelaarssoftware gemiddeld per maand?"
     a: "De kosten variëren sterk per pakket en kantoorgrootte. Kolibri begint bij 109 euro per maand voor het CRM. Yes-co start vanaf 75 euro per maand. Realworks werkt met prijzen op aanvraag, maar reken op 200 tot 500 euro per maand afhankelijk van je modules en kantoorgrootte. Bij de meeste aanbieders betaal je maandelijks en zijn er eenmalige implementatiekosten."
   - q: "Is een Funda-koppeling verplicht voor makelaars?"
-    a: "Nee, een Funda-koppeling is niet verplicht, maar wel bijna onmisbaar. Ruim 90 procent van de woningzoekers begint op Funda. Zonder koppeling moet je woningen handmatig invoeren via Funda Business (Tiara), wat veel extra tijd kost. Alle vijf de pakketten in dit overzicht bieden een directe Funda-koppeling."
+    a: "Nee, een Funda-koppeling is niet verplicht, maar wel sterk aanbevolen. Ruim 90 procent van de woningzoekers begint op Funda. Zonder koppeling moet je woningen handmatig invoeren via Funda Business (Tiara), wat veel extra tijd kost. Alle vijf de pakketten in dit overzicht bieden een directe Funda-koppeling."
   - q: "Kan ik als niet-NVM makelaar ook Realworks gebruiken?"
     a: "Ja, Realworks is beschikbaar voor zowel NVM-leden als niet-NVM makelaars. Sinds enkele jaren heeft Realworks het platform opengesteld voor de hele sector. Wel krijgen NVM-leden vaak een preferentieel tarief en extra functies zoals directe NVM-uitwisseling. Kolibri, Yes-co en Friva zijn eveneens beschikbaar voor alle makelaars, ongeacht branchevereniging."
 ---
@@ -74,7 +74,7 @@ Directe toegang tot kadastergegevens, eigendomsinformatie en BAG-data (Basisregi
 
 Realworks is het platform waar de meeste Nederlandse makelaars mee werken. Meer dan 4.300 makelaarskantoren en 15.000 vastgoedprofessionals gebruiken het dagelijks. Als je ook je loonadministratie voor kantoormedewerkers wilt digitaliseren, lees dan over de [beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/). De NVM is sinds 2015 volledig eigenaar van Realworks, wat de diepe integratie met het NVM-netwerk verklaart. Maar laat dat je niet misleiden: het platform is tegenwoordig ook beschikbaar voor niet-NVM kantoren.
 
-Wat mij opvalt bij Realworks is de compleetheid. Van het eerste klantcontact tot de sleuteloverdracht bij de notaris zit alles in een systeem. De Funda-koppeling is de meest naadloze die ik ken -- woningen publiceren, wijzigen en depubliceren gaat direct vanuit het CRM. De automatische woningmatching koppelt zoekprofielen van kopers aan nieuw aanbod, zodat je leads niet handmatig hoeft te doorzoeken.
+Wat mij opvalt bij Realworks is de compleetheid. Van het eerste klantcontact tot de sleuteloverdracht bij de notaris zit alles in een systeem. De Funda-koppeling is de meest soepele die ik ken -- woningen publiceren, wijzigen en depubliceren gaat direct vanuit het CRM. De automatische woningmatching koppelt zoekprofielen van kopers aan nieuw aanbod, zodat je leads niet handmatig hoeft te doorzoeken.
 
 Sinds 2026 is Move.nl -- het klantenportaal van Realworks -- uitgegroeid tot het standaardplatform voor transparant bieden. Verkopers zien alle biedingen in realtime, inclusief voorwaarden en timestamps. Na afloop krijgen alle bieders automatisch een geanonimiseerd overzicht. Dit is precies wat het verplichte NVM-protocol voorschrijft.
 
@@ -342,7 +342,7 @@ Dit is het segment waar **Kolibri** en **Realworks** het sterkst zijn. Kolibri b
 Werk je niet alleen in de woningverkoop maar ook in bedrijfsonroerend goed, nieuwbouw of verhuur? Dan is **KeySoftware** het overwegen waard vanwege de aparte modules per segment en de triple Tiara-certificering.
 
 ### Compliance-gericht kantoor
-Als WWFT-compliance en klantenscreening hoog op je prioriteitenlijst staan, biedt **Yes-co** met de geïntegreerde CDD on Demand-module de meest naadloze oplossing.
+Als WWFT-compliance en klantenscreening hoog op je prioriteitenlijst staan, biedt **Yes-co** met de geïntegreerde CDD on Demand-module de meest soepele oplossing.
 
 Voor een vergelijking met generieke CRM-systemen als HubSpot, Pipedrive en Salesforce die je ook voor de makelaardij kunt inrichten, verwijs ik je naar mijn artikel over de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/).
 

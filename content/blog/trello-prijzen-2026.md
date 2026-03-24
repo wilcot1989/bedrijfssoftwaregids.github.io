@@ -19,13 +19,13 @@ faq:
   - q: "Wat kost Trello per maand in 2026?"
     a: "Trello Standard kost $5 per gebruiker per maand (jaarlijks). Premium kost $10 per gebruiker per maand (jaarlijks). Enterprise heeft een staffelprijs — 50 gebruikers: ~$17,50/gebruiker/maand. Er is een permanent gratis plan. Bij maandelijkse betaling zijn de tarieven 20-25% hoger."
   - q: "Hoeveel Power-Ups krijg je gratis bij Trello?"
-    a: "Op het gratis plan heb je onbeperkte Power-Ups (dit is gewijzigd in 2023 — vroeger was het 1 Power-Up gratis). Je kunt nu alle beschikbare Power-Ups gebruiken op het gratis plan. Het verschil zit in geavanceerde views en automatiseringen, niet meer in Power-Ups."
+    a: "Op het gratis plan heb je onbeperkte Power-Ups (dit is gewijzigd in 2023 — vroeger was het 1 Power-Up gratis). Je kunt nu alle beschikbare Power-Ups gebruiken op het gratis plan. Het verschil zit in uitgebreide views en automatiseringen, niet meer in Power-Ups."
   - q: "Wanneer moet ik upgraden van Trello Free naar Standard?"
-    a: "Upgrade naar Standard ($5/gebruiker/maand) als je meer dan 10 borden per workspace nodig hebt, geavanceerde checklists wil, meer dan 250 automatiseringscommando's per maand gebruikt, of kaarttemplates wil hergebruiken."
+    a: "Upgrade naar Standard ($5/gebruiker/maand) als je meer dan 10 borden per workspace nodig hebt, uitgebreide checklists wil, meer dan 250 automatiseringscommando's per maand gebruikt, of kaarttemplates wil hergebruiken."
   - q: "Wat zijn de limieten van het gratis Trello-plan?"
     a: "Gratis Trello heeft: maximaal 10 borden per workspace, 250 automatiseringscommando's per maand, onbeperkte kaarten en lijsten, onbeperkte Power-Ups, maximaal 10 MB per bijlage, en beperkte weergaven (alleen Kanban-bord)."
   - q: "Is Trello geschikt voor projectmanagement?"
-    a: "Trello is uitstekend voor eenvoudig Kanban-gebaseerd taakbeheer. Het mist echter native Gantt-charts (alleen via Power-Up), onbeperkte automatiseringen op lagere plannen en geavanceerde rapportages. Voor complexe projecten met afhankelijkheden is Asana of ClickUp beter geschikt."
+    a: "Trello is uitstekend voor eenvoudig Kanban-gebaseerd taakbeheer. Het mist echter native Gantt-charts (alleen via Power-Up), onbeperkte automatiseringen op lagere plannen en gedetailleerde rapportages. Voor complexe projecten met afhankelijkheden is Asana of ClickUp beter geschikt."
   - q: "Wat is het verschil tussen Trello en Asana?"
     a: "Trello is goedkoper ($5/gebruiker/maand vs. $10,99), eenvoudiger in gebruik maar minder krachtig. Asana heeft betere tijdlijn-views, taakafhankelijkheden, portfoliobeheer en rapportages. Trello past bij teams die Kanban willen; Asana bij teams die uitgebreide projectplanning nodig hebben."
 ---
@@ -110,7 +110,7 @@ Standard ($5/gebruiker/maand jaarlijks) is Trello's goedkoopste betaalde plan en
 - Maximaal **250 MB per bijlage** — van 10 MB naar 250 MB
 
 **Functies:**
-- Geavanceerde checklists (toewijsbare checklistitems met deadlines)
+- Uitgebreide checklists (toewijsbare checklistitems met deadlines)
 - Aangepaste velden op kaarten (tot 1 veld per bord gratis, onbeperkt op Standard)
 - Kaartsjablonen (herbruikbare kaarttemplates)
 - Rijen in bijlage-sectie bewaren
@@ -188,7 +188,7 @@ Premium loont als je:
 
 ## Enterprise: voor grote organisaties
 
-Enterprise is voor organisaties met 25+ gebruikers die behoefte hebben aan centraal beheer, geavanceerde beveiliging en organisatiebrede instellingen.
+Enterprise is voor organisaties met 25+ gebruikers die behoefte hebben aan centraal beheer, uitgebreide beveiliging en organisatiebrede instellingen.
 
 ### Enterprise-pricing: staffelmodel
 
@@ -210,7 +210,7 @@ Trello Enterprise werkt met een degressieve staffelprijs:
 - Beheer van meerdere workspaces centraal
 - Single Sign-On (SSO) via SAML
 - SCIM-provisioning
-- Geavanceerde auditlogs
+- Uitgebreide auditlogs
 - Prioriteitsondersteuning
 - Onboarding-sessie met Trello-specialist
 
@@ -230,7 +230,7 @@ Power-Ups zijn Trello's integratiesysteem. Ze voegen functionaliteit toe die nie
 
 | Power-Up | Functie | Kosten |
 |---|---|---|
-| **Elegantt** | Gantt-chart voor Trello-borden | Gratis basis / betaald geavanceerd |
+| **Elegantt** | Gantt-chart voor Trello-borden | Gratis basis / betaald uitgebreid |
 | **Calendar** | Kalenderweergave | Gratis (ingebouwd in Premium) |
 | **Harvest** | Tijdregistratie | Gratis (Harvest-account vereist) |
 | **Slack** | Kaarten aanmaken vanuit Slack | Gratis |
@@ -397,7 +397,7 @@ Contentteams plannen redactionele kalenders in Trello: idee → research → sch
 | Onbeperkte kaarten | ✓ | ✓ | ✓ | ✓ |
 | Onbeperkte lijsten | ✓ | ✓ | ✓ | ✓ |
 | Activiteitenlog | ✓ | ✓ | ✓ | ✓ |
-| Geavanceerde checklists | ✗ | ✓ | ✓ | ✓ |
+| Uitgebreide checklists | ✗ | ✓ | ✓ | ✓ |
 | Kaartsjablonen | ✗ | ✓ | ✓ | ✓ |
 | Aangepaste velden | 1 per bord | Onbeperkt | Onbeperkt | Onbeperkt |
 | Formulieren (intake) | ✗ | ✗ | ✓ | ✓ |
@@ -426,7 +426,7 @@ Contentteams plannen redactionele kalenders in Trello: idee → research → sch
 
 | Feature | Free | Standard | Premium | Enterprise |
 |---|---|---|---|---|
-| Gastrechten instellen | Basis | Geavanceerd | Geavanceerd | Enterprise |
+| Gastrechten instellen | Basis | Uitgebreid | Uitgebreid | Enterprise |
 | SSO/SAML | ✗ | ✗ | ✗ | ✓ |
 | SCIM provisioning | ✗ | ✗ | ✗ | ✓ |
 | Organisatiebrede instellingen | ✗ | ✗ | ✗ | ✓ |
@@ -491,16 +491,16 @@ Wil je meer vergelijken? Bekijk mijn [overzicht van gratis projectmanagement sof
 Trello Standard kost $5 per gebruiker per maand (jaarlijks). Premium kost $10 per gebruiker per maand (jaarlijks). Enterprise heeft een staffelprijs — 50 gebruikers: ~$17,50/gebruiker/maand. Er is een permanent gratis plan. Bij maandelijkse betaling zijn de tarieven 20-25% hoger.
 
 **Hoeveel Power-Ups krijg je gratis bij Trello?**
-Op het gratis plan heb je onbeperkte Power-Ups (dit is gewijzigd in 2023 — vroeger was het 1 Power-Up gratis). Je kunt nu alle beschikbare Power-Ups gebruiken op het gratis plan. Het verschil zit in geavanceerde views en automatiseringen, niet meer in Power-Ups.
+Op het gratis plan heb je onbeperkte Power-Ups (dit is gewijzigd in 2023 — vroeger was het 1 Power-Up gratis). Je kunt nu alle beschikbare Power-Ups gebruiken op het gratis plan. Het verschil zit in uitgebreide views en automatiseringen, niet meer in Power-Ups.
 
 **Wanneer moet ik upgraden van Trello Free naar Standard?**
-Upgrade naar Standard ($5/gebruiker/maand) als je meer dan 10 borden per workspace nodig hebt, geavanceerde checklists wil, meer dan 250 automatiseringscommando's per maand gebruikt, of kaarttemplates wil hergebruiken.
+Upgrade naar Standard ($5/gebruiker/maand) als je meer dan 10 borden per workspace nodig hebt, uitgebreide checklists wil, meer dan 250 automatiseringscommando's per maand gebruikt, of kaarttemplates wil hergebruiken.
 
 **Wat zijn de limieten van het gratis Trello-plan?**
 Gratis Trello heeft: maximaal 10 borden per workspace, 250 automatiseringscommando's per maand, onbeperkte kaarten en lijsten, onbeperkte Power-Ups, maximaal 10 MB per bijlage, en beperkte weergaven (alleen Kanban-bord).
 
 **Is Trello geschikt voor projectmanagement?**
-Trello is uitstekend voor eenvoudig Kanban-gebaseerd taakbeheer. Het mist echter native Gantt-charts (alleen via Power-Up), onbeperkte automatiseringen op lagere plannen en geavanceerde rapportages. Voor complexe projecten met afhankelijkheden is Asana of ClickUp beter geschikt.
+Trello is uitstekend voor eenvoudig Kanban-gebaseerd taakbeheer. Het mist echter native Gantt-charts (alleen via Power-Up), onbeperkte automatiseringen op lagere plannen en gedetailleerde rapportages. Voor complexe projecten met afhankelijkheden is Asana of ClickUp beter geschikt.
 
 **Wat is het verschil tussen Trello en Asana?**
 Trello is goedkoper ($5/gebruiker/maand vs. $10,99), eenvoudiger in gebruik maar minder krachtig. Asana heeft betere tijdlijn-views, taakafhankelijkheden, portfoliobeheer en rapportages. Trello past bij teams die Kanban willen; Asana bij teams die uitgebreide projectplanning nodig hebben.

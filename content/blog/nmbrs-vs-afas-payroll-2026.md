@@ -119,7 +119,7 @@ Beide tools ondersteunen ook de Polisadministratie (UWV), de basis voor WW-recht
 
 ### Correcties en bezwaren
 
-Beide tools ondersteunen correctiemogelijkheden voor eerder verwerkte perioden. AFAS heeft hier meer geavanceerde mogelijkheden voor retroactieve correcties over meerdere perioden — relevant voor grotere organisaties met complexe correctie-situaties.
+Beide tools ondersteunen correctiemogelijkheden voor eerder verwerkte perioden. AFAS heeft hier meer uitgebreide mogelijkheden voor retroactieve correcties over meerdere perioden — relevant voor grotere organisaties met complexe correctie-situaties.
 
 ## CAO-tabellen: Nederlandse marktkennis in de praktijk
 
@@ -188,7 +188,7 @@ Nmbrs heeft open API's en een reeks kant-en-klare koppelingen:
 - Time & Attendance koppelingen
 
 **Accountantssoftware:**
-- Naadloze samenwerking met software van de meeste accountantskantoren
+- Soepele samenwerking met software van de meeste accountantskantoren
 - Accountants kunnen namens hun klanten inloggen met eigen account
 
 De API-documentatie van Nmbrs is goed gedocumenteerd en er zijn actieve ontwikkelaars-communities voor integratiebouw.
@@ -200,7 +200,7 @@ AFAS integreert primair binnen het eigen platform. Als je ook AFAS Financieel ge
 - Kostenplaatsen worden correct verdeeld
 - Geen handmatige boekingen nodig
 
-Dit is de grote kracht van AFAS: als je het platform breed inzet, is de integratie vrijwel naadloos. Buiten het eigen ecosysteem heeft AFAS wel een open API maar zijn er minder kant-en-klare connectors. Integraties met derde partijen vereisen vaak maatwerk via een AFAS-partner.
+Dit is de grote kracht van AFAS: als je het platform breed inzet, is de integratie vrijwel soepel. Buiten het eigen ecosysteem heeft AFAS wel een open API maar zijn er minder kant-en-klare connectors. Integraties met derde partijen vereisen vaak maatwerk via een AFAS-partner.
 
 ## Implementatie: van besluit tot live gaan
 
@@ -226,7 +226,7 @@ Dit is de grote kracht van AFAS: als je het platform breed inzet, is de integrat
 - **Training:** Formele trainingstrajecten via AFAS Education zijn standaard
 - **Support:** Via je AFAS-partner of AFAS direct
 
-De AFAS-implementatie volgt een gestructureerde methodologie met fasen: analyse, inrichting, testen, training, acceptatie en go-live. Dit is meer werk maar ook robuuster voor complexe organisaties.
+De AFAS-implementatie volgt een gestructureerde methodologie met fasen: analyse, inrichting, testen, training, acceptatie en go-live. Dit is meer werk maar ook betrouwbaarder voor complexe organisaties.
 
 ## Nmbrs vs. AFAS: wanneer kies je wat?
 
@@ -293,7 +293,7 @@ Bij Nmbrs via een accountant-partner wordt de pensioenadministratie vaak meegeno
 
 ### AFAS en pensioenaangiftes
 
-AFAS heeft uitgebreidere pensioenbeheer-functies, met name relevant voor grotere organisaties met meerdere pensioenfondsen of een eigen pensioenfonds. De AFAS-module voor pensioenbeheer is meer geavanceerd dan wat Nmbrs biedt, maar vereist ook meer inrichting.
+AFAS heeft uitgebreidere pensioenbeheer-functies, met name relevant voor grotere organisaties met meerdere pensioenfondsen of een eigen pensioenfonds. De AFAS-module voor pensioenbeheer is meer uitgebreid dan wat Nmbrs biedt, maar vereist ook meer inrichting.
 
 ## Ziekteverzuim en WIA-aanvraag
 
@@ -426,7 +426,7 @@ De rapportages zijn goed voor de meeste mkb-behoeften. Wie meer wil, kan data ex
 
 ### AFAS rapportages
 
-AFAS biedt uitgebreidere rapportage-mogelijkheden, inclusief geavanceerde dashboards die zijn te bouwen zonder programmeerkennis. Loonkostenanalyses per kostenplaats, vergelijkingen met begroting, HR-analytics over ziekteverzuim en personeelsverloop — dit is waar AFAS uitblinkt ten opzichte van Nmbrs.
+AFAS biedt uitgebreidere rapportage-mogelijkheden, inclusief uitgebreide dashboards die zijn te bouwen zonder programmeerkennis. Loonkostenanalyses per kostenplaats, vergelijkingen met begroting, HR-analytics over ziekteverzuim en personeelsverloop — dit is waar AFAS uitblinkt ten opzichte van Nmbrs.
 
 Voor grotere organisaties die managementinformatie over HR en financiën geïntegreerd willen bekijken, is AFAS hier superieur.
 

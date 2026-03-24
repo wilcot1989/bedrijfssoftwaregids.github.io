@@ -175,7 +175,7 @@ Hier wordt het interessant. HubSpot en Monday CRM hanteren een fundamenteel ande
       <td>&euro;17/gebruiker/mnd (Standard)</td>
     </tr>
     <tr>
-      <td><strong>Geavanceerd</strong></td>
+      <td><strong>Uitgebreid</strong></td>
       <td>&euro;150/gebruiker/mnd (Enterprise)</td>
       <td>&euro;28/gebruiker/mnd (Pro)</td>
     </tr>
@@ -220,7 +220,7 @@ Hier wordt het interessant. HubSpot en Monday CRM hanteren een fundamenteel ande
   </tbody>
 </table>
 
-Dat middelste scenario is cruciaal. De meeste groeiende MKB-bedrijven willen automatiseringen: follow-ups automatisch versturen, deals verplaatsen bij fase-wisselingen, taken toewijzen. Bij HubSpot heb je daar het Professional-plan voor nodig: 90 euro per gebruiker per maand. Bij Monday CRM zit dat al in het Standard-plan: 17 euro. Het verschil voor een team van vijf is 4.380 euro per jaar. Dat is een serieus bedrag.
+Dat middelste scenario is essentieel. De meeste groeiende MKB-bedrijven willen automatiseringen: follow-ups automatisch versturen, deals verplaatsen bij fase-wisselingen, taken toewijzen. Bij HubSpot heb je daar het Professional-plan voor nodig: 90 euro per gebruiker per maand. Bij Monday CRM zit dat al in het Standard-plan: 17 euro. Het verschil voor een team van vijf is 4.380 euro per jaar. Dat is een serieus bedrag.
 
 **De verborgen kosten bij HubSpot:** de bovenstaande prijzen gelden alleen voor de Sales Hub. Wil je ook marketing automation? Dan heb je de Marketing Hub nodig -- apart geprijsd. Ik heb klanten begeleid die bij 15 euro per maand begonnen en binnen een jaar op 400+ euro zaten doordat ze Hubs bleven toevoegen. Bij Monday CRM zit alles in een pakket.
 
@@ -264,7 +264,7 @@ Het nadeel: je moet het zelf opzetten. Er is geen standaard sales-pipeline die k
 
 **HubSpot** is hier veruit de sterkste. E-mailcampagnes, landing pages, lead scoring, nurturing workflows, A/B-testen, gedetailleerde attributie-rapportages. Als je content marketing als groeistrategie gebruikt en leads wilt opwarmen voordat je sales inschakelt, is er in dit prijssegment geen betere optie. Wel betaal je er flink voor: serieuze marketing automation zit pas in de Marketing Hub Professional (vanaf 792 euro per maand voor 2.000 contacten).
 
-**Monday CRM** heeft automations waarmee je e-mails automatisch kunt versturen bij triggers, maar van echte marketing automation is geen sprake. Geen landing pages, geen lead scoring op basis van websitegedrag, geen geavanceerde nurturing flows. Monday's automations zijn sterk voor procesautomatisering (taken toewijzen, notificaties sturen, statuswijzigingen), maar niet voor marketingcampagnes.
+**Monday CRM** heeft automations waarmee je e-mails automatisch kunt versturen bij triggers, maar van echte marketing automation is geen sprake. Geen landing pages, geen lead scoring op basis van websitegedrag, geen uitgebreide nurturing flows. Monday's automations zijn sterk voor procesautomatisering (taken toewijzen, notificaties sturen, statuswijzigingen), maar niet voor marketingcampagnes.
 
 **Winnaar: HubSpot** -- als marketing automation belangrijk is, is dit geen wedstrijd.
 
@@ -282,7 +282,7 @@ Dit is waar Monday CRM zich echt onderscheidt. Bij veel bedrijven stopt het CRM-
 
 **HubSpot** heeft een beperkte taakmanager en de Service Hub voor tickets, maar echt projectmanagement is het niet. De meeste HubSpot-gebruikers koppelen Asana, Trello of... Monday.com voor projectbeheer.
 
-**Monday CRM** laat je naadloos overschakelen van een gewonnen deal naar een projectboard. Tijdlijnen, afhankelijkheden, werklastoverzichten, Gantt-charts -- alles zit erin. Bij dat bureau in Eindhoven koppelden we deals direct aan projectboards. Zodra een deal op "Gewonnen" stond, werd automatisch een projectboard aangemaakt met de juiste taken en deadlines.
+**Monday CRM** laat je soepel overschakelen van een gewonnen deal naar een projectboard. Tijdlijnen, afhankelijkheden, werklastoverzichten, Gantt-charts -- alles zit erin. Bij dat bureau in Eindhoven koppelden we deals direct aan projectboards. Zodra een deal op "Gewonnen" stond, werd automatisch een projectboard aangemaakt met de juiste taken en deadlines.
 
 **Winnaar: Monday CRM** -- als je na de deal projectmatig werkt, is dit een doorslaggevend voordeel.
 

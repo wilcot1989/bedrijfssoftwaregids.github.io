@@ -9,7 +9,7 @@ Zoek je een kassasysteem voor je horecazaak? Op deze pagina vind je mijn actuele
 ## Snel kiezen: welk kassasysteem past bij jouw zaak?
 
 - **Restaurant met tafelservice**: focus op tafelplattegrond, keukenbonnen en multi-user workflows.
-- **Café of bar**: focus op snelheid aan de kassa, happy-hour logica en robuuste hardware.
+- **Café of bar**: focus op snelheid aan de kassa, happy-hour logica en solide hardware.
 - **Foodtruck of pop-up**: focus op mobiel pinnen, lage opstartkosten en offline fallback.
 - **Grotere zaak met meerdere locaties**: focus op rapportages, gebruikersrechten en centrale aansturing.
 

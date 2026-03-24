@@ -67,7 +67,7 @@ PandaDoc is de tool die ik aanbeveel als klanten het maximale uit hun offertes w
 | **Free eSign** | Gratis | Alleen digitale handtekeningen |
 | **Essentials** | €19 | Templates, drag-and-drop editor, basis analytics |
 | **Business** | €49 | + Content library, custom branding, approval workflows |
-| **Enterprise** | Op aanvraag | + API, SSO, geavanceerde integraties |
+| **Enterprise** | Op aanvraag | + API, SSO, uitgebreide integraties |
 
 **✅ Voordelen:** Meest complete functionaliteit, uitstekende UX, sterke integraties, goede analytics
 **❌ Nadelen:** Kan duur worden bij veel gebruikers, sommige templates zijn Engelstalig
@@ -94,7 +94,7 @@ Offorte is de tool die ik adviseer aan Nederlandse MKB'ers die hun offerteproces
 |------|---------------|----------|
 | **Starter** | €25 | 1 gebruiker, basis templates, e-signing |
 | **Professional** | €35 | + Content library, meerdere gebruikers |
-| **Business** | €49 | + API, white-label, geavanceerde analytics |
+| **Business** | €49 | + API, white-label, diepgaande analytics |
 
 **✅ Voordelen:** Volledig Nederlands, goede integraties met Nederlandse software, uitstekende support
 **❌ Nadelen:** Minder templates dan PandaDoc, geen gratis versie, kleiner internationaal ecosysteem
@@ -140,9 +140,9 @@ Gebruik je al HubSpot? Dan hoef je geen aparte offertesoftware aan te schaffen. 
 - **Betalingslinks** — Stripe-integratie voor directe betaling na acceptatie
 
 ### Prijzen
-Inbegrepen in alle HubSpot-plannen (inclusief gratis CRM). Geavanceerde functies zoals custom quotes en product library vereisen het Starter-plan (€15/gebruiker/maand).
+Inbegrepen in alle HubSpot-plannen (inclusief gratis CRM). Uitgebreide functies zoals custom quotes en product library vereisen het Starter-plan (€15/gebruiker/maand).
 
-**✅ Voordelen:** Gratis als je al HubSpot gebruikt, naadloze CRM-integratie, eenvoudig in gebruik
+**✅ Voordelen:** Gratis als je al HubSpot gebruikt, directe CRM-integratie, eenvoudig in gebruik
 **❌ Nadelen:** Beperkte template-aanpassing, geen interactieve prijstabellen, alleen bruikbaar binnen HubSpot
 
 <a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
@@ -174,7 +174,7 @@ Inbegrepen in Moneybird-abonnementen. Moneybird kost vanaf €15/maand (inclusie
 |-------------|-------------|
 | Je wilt de meest complete tool | **PandaDoc** |
 | Je zoekt een Nederlandse oplossing | **Offorte** |
-| Design en branding zijn cruciaal | **Proposify** |
+| Design en branding zijn essentieel | **Proposify** |
 | Je gebruikt al HubSpot | **HubSpot Quotes** |
 | Je bent ZZP'er en gebruikt Moneybird | **Moneybird Offertes** |
 | Je hebt het kleinste budget | **HubSpot Quotes** (gratis) of **Moneybird** |

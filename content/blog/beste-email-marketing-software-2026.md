@@ -28,7 +28,7 @@ products:
     rating_value: "2.8"
     rating_count: "1348"
   - name: "ActiveCampaign"
-    description: "Geavanceerd e-mailmarketing en marketing automation platform met krachtige CRM-integratie en lead scoring."
+    description: "Uitgebreid e-mailmarketing en marketing automation platform met krachtige CRM-integratie en lead scoring."
     url: "https://try.activecampaign.com/bxnnvkmbvwyf"
     price: "15.00"
     rating_value: "2.8"
@@ -40,7 +40,7 @@ products:
     rating_value: "4.3"
     rating_count: "2786"
   - name: "Klaviyo"
-    description: "E-commerce gericht e-mailmarketing platform met geavanceerde segmentatie op basis van aankoopgedrag en productdata."
+    description: "E-commerce gericht e-mailmarketing platform met gedetailleerde segmentatie op basis van aankoopgedrag en productdata."
     url: "https://www.klaviyo.com/"
     price: "20.00"
     rating_value: "1.9"
@@ -59,7 +59,7 @@ faq:
   - q: "Is e-mailmarketing software AVG-compliant?"
     a: "Alle tools in dit overzicht bieden AVG-functies zoals double opt-in, afmeldlinks en verwerkersovereenkomsten. Brevo en MailerLite slaan data op in de EU. Laposta slaat data op in Nederland. Mailchimp, ActiveCampaign en Klaviyo slaan data op in de VS maar bieden wel verwerkersovereenkomsten. Voor maximale compliance kies je een Europese aanbieder."
   - q: "Welke e-mailmarketing software is het beste voor B2B?"
-    a: "Voor B2B-bedrijven is ActiveCampaign de sterkste keuze. De combinatie van geavanceerde marketing automation, lead scoring op basis van gedrag en een ingebouwd CRM maakt het ideaal voor langere salestrajecten met meerdere beslissers. Brevo is een goed alternatief als budget een rol speelt: het biedt solide automation en CRM-functionaliteit voor een flink lagere prijs. Mailchimp volstaat voor B2B-bedrijven die primair nieuwsbrieven sturen zonder complexe lead nurturing."
+    a: "Voor B2B-bedrijven is ActiveCampaign de sterkste keuze. De combinatie van uitgebreide marketing automation, lead scoring op basis van gedrag en een ingebouwd CRM maakt het ideaal voor langere salestrajecten met meerdere beslissers. Brevo is een goed alternatief als budget een rol speelt: het biedt solide automation en CRM-functionaliteit voor een flink lagere prijs. Mailchimp volstaat voor B2B-bedrijven die primair nieuwsbrieven sturen zonder complexe lead nurturing."
   - q: "Hoe verschilt e-mailmarketing van marketing automation?"
     a: "E-mailmarketing gaat over het verzenden van campagnes en nieuwsbrieven aan je lijst — handmatig of op een vast tijdstip. Marketing automation gaat verder: het verstuurt berichten automatisch op basis van gedrag, zoals een bezoek aan een productpagina, het invullen van een formulier of het bereiken van een score. ActiveCampaign en Klaviyo combineren beide. MailerLite en Laposta richten zich primair op e-mailmarketing met basisautomatisering."
   - q: "Is er gratis e-mailmarketing software zonder limieten?"
@@ -251,7 +251,7 @@ Mailchimp is het platform waar de meeste klanten mee bij mij aankloppen. Iederee
 
 Waar ik klanten wil voor waarschuwen: het gratis plan is flink uitgekleed. Sinds 2024 krijg je nog maar 250 contacten en 500 mails per maand. De automations zijn uit het gratis plan verdwenen. En bij een groeiend contactenbestand stijgen de kosten snel -- bij 10.000 contacten zit je al op zo'n $100 per maand voor het Standard-plan.
 
-De e-commerce integraties zijn waar Mailchimp echt uitblinkt. De koppelingen met Shopify en WooCommerce zijn diep: productaanbevelingen, verlaten-winkelwagen mails en aankoopgestuurde segmentatie werken naadloos. Als je een webshop draait en geen Klaviyo wilt gebruiken, is Mailchimp de sterkste keuze. Wil je meer weten over welke webshop software je hierbij nodig hebt? Lees mijn [beste webshop software vergelijking 2026](/blog/beste-webshop-software-2026/).
+De e-commerce integraties zijn waar Mailchimp echt uitblinkt. De koppelingen met Shopify en WooCommerce zijn diep: productaanbevelingen, verlaten-winkelwagen mails en aankoopgestuurde segmentatie werken soepel. Als je een webshop draait en geen Klaviyo wilt gebruiken, is Mailchimp de sterkste keuze. Wil je meer weten over welke webshop software je hierbij nodig hebt? Lees mijn [beste webshop software vergelijking 2026](/blog/beste-webshop-software-2026/).
 
 ### Prijzen (april 2026)
 
@@ -342,7 +342,7 @@ In de praktijk: ik heb een coachingspraktijk begeleid die van Mailchimp overstap
 
 - **Free:** tot 1.000 contacten, 12.000 e-mails/maand
 - **Growing Business:** vanaf $10/maand (500 contacten, onbeperkt e-mails)
-- **Advanced:** vanaf $20/maand (500 contacten, geavanceerde functies)
+- **Advanced:** vanaf $20/maand (500 contacten, uitgebreide functies)
 - **Enterprise:** op aanvraag (100.000+ contacten)
 - Jaarabonnement geeft 15% korting
 - Non-profits krijgen 30% korting
@@ -360,7 +360,7 @@ In de praktijk: ik heb een coachingspraktijk begeleid die van Mailchimp overstap
 
 - Interface niet volledig in het Nederlands
 - Support alleen in het Engels
-- Automation minder geavanceerd dan ActiveCampaign
+- Automation minder uitgebreid dan ActiveCampaign
 - Minder templates dan Mailchimp
 - Geen ingebouwd CRM
 - Account moet worden goedgekeurd (anti-spam beleid)
@@ -403,7 +403,7 @@ De prijs is niet mals. Klaviyo is duurder dan de meeste alternatieven, en de kos
 - Prijsstijging fors bij groeiend contactenbestand
 - Overkill als je geen webshop hebt
 - Data opgeslagen in de VS
-- Leercurve bij het opzetten van geavanceerde flows
+- Leercurve bij het opzetten van uitgebreide flows
 
 <a href="https://www.klaviyo.com/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar klaviyo.com →</a>
 
@@ -649,13 +649,13 @@ Na tientallen implementaties heb ik een vrij helder beeld van welke tool bij wel
 
 Hier is iets waar weinig softwareoverzichten eerlijk over zijn: de tool zelf is maar een deel van de kosten. Wat kost e-mailmarketing je écht als je het serieus aanpakt?
 
-**Tijd.** Een goede nieuwsbrief kost je 2-4 uur per maand. Een welkomstreeks opzetten: 1 dag. Een volledige lead nurturing flow: een week. Dat is tijd die je ergens vandaan moet halen. Als je een solo ondernemer bent, is dat cruciaal om in te calculeren. Als je een team hebt, is het een investering in een kanaal dat gemiddeld €42 oplevert per geïnvesteerde euro -- [dat is geen hype maar data van de DMA](https://blog.hubspot.com/marketing/email-marketing-stats).
+**Tijd.** Een goede nieuwsbrief kost je 2-4 uur per maand. Een welkomstreeks opzetten: 1 dag. Een volledige lead nurturing flow: een week. Dat is tijd die je ergens vandaan moet halen. Als je een solo ondernemer bent, is dat essentieel om in te calculeren. Als je een team hebt, is het een investering in een kanaal dat gemiddeld €42 oplevert per geïnvesteerde euro -- [dat is geen hype maar data van de DMA](https://blog.hubspot.com/marketing/email-marketing-stats).
 
 **Deliverability-werk.** De beste tool helpt je niet als je mails in de spam belanden. SPF, DKIM, DMARC instellen -- dat doet niet het platform voor je. En als je mailinglijst vol zit met bounces en inactieve adressen, daalt je verzenderreputatie. Ik raad alle klanten aan dit actief bij te houden. Mijn artikel over [email deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/) legt stap voor stap uit hoe je dit aanpakt.
 
 **A/B-testen.** De meeste bedrijven sturen een mail en denken "klaar". Maar een onderwerpregel die 5% meer opens oplevert, betekent op 10.000 contacten 500 extra mensen die je boodschap zien. Dat test je door systematisch A/B te testen. Als je hier nog niet mee begonnen bent, lees dan mijn [beginnersgids voor A/B-testen](/blog/ab-testen-beginners-eerste-experiment/) -- het is eenvoudiger dan het klinkt.
 
-**Integraties met de rest van je marketingstack.** E-mailmarketing werkt het best als het verbonden is met je CRM, je website en je analytics. Welke tool past hier het best in? Dat hangt af van je bestaande stack. Brevo heeft een ingebouwd CRM. ActiveCampaign heeft diepe integraties met de meeste CRM's. Klaviyo integreert naadloos met Shopify. Kies niet de beste e-mailtool in isolatie -- kies de tool die het best aansluit bij je hele systeem.
+**Integraties met de rest van je marketingstack.** E-mailmarketing werkt het best als het verbonden is met je CRM, je website en je analytics. Welke tool past hier het best in? Dat hangt af van je bestaande stack. Brevo heeft een ingebouwd CRM. ActiveCampaign heeft diepe integraties met de meeste CRM's. Klaviyo integreert soepel met Shopify. Kies niet de beste e-mailtool in isolatie -- kies de tool die het best aansluit bij je hele systeem.
 
 ---
 
@@ -735,7 +735,7 @@ Als coach, consultant of solopreneur heb je doorgaans een relatief kleine maar b
 
 MailerLite is hier mijn eerste keuze. Het gratis plan volstaat voor de meeste coaches in de beginfase. De interface is clean en je bouwt een nette welkomstreeks in een middag. De landingspagina-builder maakt het ook eenvoudig om inschrijfpagina's te maken zonder externe tools.
 
-Voor coaches die ook digitale producten verkopen via e-mail en meer controle willen over automation, is Brevo de logische stap op: het per-email prijsmodel is gunstig als je grote launches hebt (je betaalt per mail, niet voor de schaal van je lijst) en de automation builder is geavanceerder dan MailerLite's.
+Voor coaches die ook digitale producten verkopen via e-mail en meer controle willen over automation, is Brevo de logische stap op: het per-email prijsmodel is gunstig als je grote launches hebt (je betaalt per mail, niet voor de schaal van je lijst) en de automation builder is uitgebreider dan MailerLite's.
 
 ### Non-profit en goede doelen
 
@@ -771,7 +771,7 @@ Het Mailchimp gratis plan is in de loop der jaren fors teruggebracht. In 2026 kr
 
 **Wat je wel krijgt:** drag-and-drop editor met de beste gebruikservaring in dit overzicht, toegang tot templates, basisrapportages, één audience (geen segmenten).
 
-**Wat je niet krijgt:** automations, A/B-testing, geavanceerde segmentatie, support (alleen gratis via e-mail na 30 dagen).
+**Wat je niet krijgt:** automations, A/B-testing, gedetailleerde segmentatie, support (alleen gratis via e-mail na 30 dagen).
 
 **Eerlijk oordeel:** te beperkt voor serieuze e-mailmarketing in 2026. Bruikbaar om de editor te leren kennen, maar de gratis limiet van 500 contacten is zo snel bereikt dat je al bij een bescheiden groeistrategie binnen een paar maanden moet betalen. En dan stijgen de kosten snel.
 
@@ -779,11 +779,11 @@ Het Mailchimp gratis plan is in de loop der jaren fors teruggebracht. In 2026 kr
 
 MailerLite heeft het sterkste gratis plan in dit overzicht en dat is al jaren zo. Tot 1.000 contacten en 12.000 e-mails per maand, inclusief drag-and-drop editor, automatiseringen, landingspagina's en een website builder. Geen kunstmatig uitgeklede versie — je krijgt gewoon de tool.
 
-De enige echte beperkingen op het gratis plan: geen 24/7 live support (alleen e-mailsupport), geen promotiecodes en geen geavanceerde automatiseringsopties die exclusief zijn voor het Advanced-plan.
+De enige echte beperkingen op het gratis plan: geen 24/7 live support (alleen e-mailsupport), geen promotiecodes en geen uitgebreide automatiseringsopties die exclusief zijn voor het Advanced-plan.
 
 **Wat je wel krijgt:** drag-and-drop editor, automations (welkomstreeksen, triggers), landingspagina's, website builder, basisrapportages, EU-dataopslag.
 
-**Wat je niet krijgt:** live chat support, promotiecodes, enkele geavanceerde automation-functies, onbeperkt templates.
+**Wat je niet krijgt:** live chat support, promotiecodes, enkele uitgebreide automation-functies, onbeperkt templates.
 
 **Eerlijk oordeel:** de beste gratis optie voor starters. 1.000 contacten is genoeg om je eerste jaar te groeien zonder te betalen. Als je boven de 1.000 contacten uitkomt, betaal je $10/maand -- dat is eerlijk voor wat je krijgt. Lees mijn [MailerLite review 2026](/blog/mailerlite-review-2026/) voor de volledige analyse, of bekijk de [MailerLite prijzen pagina](/blog/mailerlite-prijzen-2026/) voor een nauwkeurige vergelijking van alle abonnementstiers.
 
@@ -807,7 +807,7 @@ Bij de meeste platforms kost het overstappen naar een betaald plan $10-$20 per m
 
 ### Welke e-mailmarketing software is het beste voor B2B?
 
-Voor B2B is ActiveCampaign mijn eerste keuze. Het platform combineert geavanceerde marketing automation met lead scoring en een ingebouwd CRM — precies de drie onderdelen die je nodig hebt voor langere B2B-salestrajecten. Iemand die een whitepaper downloadt krijgt automatisch een opvolgingsreeks. Salesreps zien in het CRM welke leads de meeste interactie vertonen. En met conditionele content stuur je elke rol in het koopteam een op maat gemaakte boodschap.
+Voor B2B is ActiveCampaign mijn eerste keuze. Het platform combineert uitgebreide marketing automation met lead scoring en een ingebouwd CRM — precies de drie onderdelen die je nodig hebt voor langere B2B-salestrajecten. Iemand die een whitepaper downloadt krijgt automatisch een opvolgingsreeks. Salesreps zien in het CRM welke leads de meeste interactie vertonen. En met conditionele content stuur je elke rol in het koopteam een op maat gemaakte boodschap.
 
 Brevo is een uitstekend B2B-alternatief als het ActiveCampaign-budget te hoog is. De automation-functies zijn minder diep, maar voor de meeste MKB-B2B-bedrijven zijn ze meer dan voldoende. Mailchimp volstaat als je primair nieuwsbrieven stuurt en geen complexe lead nurturing nodig hebt.
 
@@ -831,13 +831,13 @@ De meest genereuze gratis drempels in 2026:
 - **MailerLite:** tot 1.000 contacten, 12.000 e-mails/maand
 - **Brevo:** onbeperkt contacten, 300 e-mails per dag (9.000/maand)
 
-Als je net begint, zijn deze limieten ruim genoeg. Maar "gratis" heeft ook andere kosten: je mist geavanceerde functies, je hebt de branding van het platform in je mails en support is beperkt. Zodra e-mailmarketing een serieus onderdeel van je bedrijf is, is een betaald plan van $10-$20 per maand de logische en loonende investering.
+Als je net begint, zijn deze limieten ruim genoeg. Maar "gratis" heeft ook andere kosten: je mist uitgebreide functies, je hebt de branding van het platform in je mails en support is beperkt. Zodra e-mailmarketing een serieus onderdeel van je bedrijf is, is een betaald plan van $10-$20 per maand de logische en loonende investering.
 
 ### Wat doet AI in e-mailmarketing software?
 
 AI in e-mailmarketing tools werkt op drie concrete niveaus:
 
-**1. Verzendtijd-optimalisatie (predictive sending).** De AI analyseert wanneer elk individueel contact historisch gezien e-mails opent en stuurt je campagne op dat moment. Niet iedereen krijgt je mail tegelijk om 10:00 uur, maar elke ontvanger op zijn persoonlijk optimale tijdstip. ActiveCampaign's predictive sending is hier het meest geavanceerd; Brevo en Mailchimp bieden vergelijkbare functies.
+**1. Verzendtijd-optimalisatie (predictive sending).** De AI analyseert wanneer elk individueel contact historisch gezien e-mails opent en stuurt je campagne op dat moment. Niet iedereen krijgt je mail tegelijk om 10:00 uur, maar elke ontvanger op zijn persoonlijk optimale tijdstip. ActiveCampaign's predictive sending is hier het meest uitgebreid; Brevo en Mailchimp bieden vergelijkbare functies.
 
 **2. Contentgeneratie en -optimalisatie.** Op basis van een korte briefing genereren AI-assistenten onderwerpregels, e-mailteksten en CTA-formuleringen. Mailchimp's Content Optimizer vergelijkt je campagne met miljoenen historische campagnes en geeft concrete verbeteringsuggesties. Brevo heeft een vergelijkbare AI-schrijfassistent in de editor.
 

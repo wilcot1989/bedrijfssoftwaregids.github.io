@@ -112,7 +112,7 @@ De Sales Hub is het CRM-gedeelte: pipeline-beheer, dealtracking, e-mailintegrati
 - Conversation intelligence (AI-analyse van gesprekken)
 - Recurringopbrengsten (MRR/ARR tracking)
 - 100 pipelines
-- SSO en geavanceerd gebruikersbeheer
+- SSO en uitgebreid gebruikersbeheer
 - Verplichte onboarding: $3.500 eenmalig
 
 De sprong van Starter naar Professional is verbluffend: van €15 naar €90 per gebruiker per maand. Een verdrievoudiging als je de prijs per gebruiker bekijkt, maar in de praktijk een vervijfvoudiging van je totale rekening. Dat is geen vergissing van HubSpot — het is een bewuste strategische keuze. De functies die je écht nodig hebt voor serieuze sales automation zitten vrijwel allemaal op Professional-niveau.

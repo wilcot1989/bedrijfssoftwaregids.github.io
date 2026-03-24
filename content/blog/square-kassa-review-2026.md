@@ -64,7 +64,7 @@ Ik heb Square drie maanden gebruikt voor twee klanten: een kledingwinkel in Amst
 - De iPad-app is intuïtief en snel. Medewerkers leerden het in één ochtend
 - Voorraadbeheer is voor een gratis systeem indrukwekkend goed
 - Dagelijkse rapportages geven direct inzicht per product en medewerker
-- Koppeling met de webshop werkt naadloos (voorraad gesynchroniseerd)
+- Koppeling met de webshop werkt soepel (voorraad gesynchroniseerd)
 
 **Waar ik tegenaan liep:**
 - Nederlandstalige support was moeilijk bereikbaar (responstijd 2-3 dagen)
@@ -136,22 +136,22 @@ Dit is waar Square uniek is: geen maandelijks abonnement voor de basisfuncties.
 
 ### Square Plus (€60/mnd per locatie)
 - Alle gratis functies
-- Geavanceerde rapportages
+- Uitgebreide rapportages
 - Loyaliteitsprogramma (onbeperkt)
 - Teammanagement uitgebreid
-- Facturering geavanceerd
+- Facturering uitgebreid
 
 ### Square Premium (prijs op aanvraag)
 - Alle Plus-functies
 - Lagere transactiekosten (onderhandelbaar)
 - Dedicated accountmanager
-- Geavanceerde API-toegang
+- Uitgebreide API-toegang
 
 ### Square for Restaurants / Retail
 Specifieke versies voor horeca en retail met extra functies:
 - **Square for Restaurants Free:** gratis met basis functies
 - **Square for Restaurants Plus:** €60/mnd — tafelplattegronden, coursemanagement, keukendisplay
-- **Square for Retail Plus:** €60/mnd — geavanceerd voorraadbeheer, leveranciersorders, klanten-segmentatie
+- **Square for Retail Plus:** €60/mnd — uitgebreid voorraadbeheer, leveranciersorders, klanten-segmentatie
 
 ### Rekenvoorbeeld: Wat betaal je werkelijk?
 
@@ -442,7 +442,7 @@ Square biedt een ingebouwde e-commerce oplossing:
 
 ### Shopify integratie
 
-Voor professionele webshops integreert Square naadloos met Shopify:
+Voor professionele webshops integreert Square soepel met Shopify:
 - Voorraad real-time gesynchroniseerd (verkoopje in de winkel, wordt onttrokken uit de webshopvoorraad)
 - Bestellingen van Shopify komen binnen als Square-transacties
 - Klantprofielen worden samengevoegd

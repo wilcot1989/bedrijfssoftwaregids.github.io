@@ -23,7 +23,7 @@ faq:
   - q: "Wat is het verschil tussen Jira Cloud en Jira Data Center?"
     a: "Jira Cloud is een SaaS-abonnement — Atlassian host alles. Jira Data Center draait op eigen servers of private cloud en vereist een jaarlijkse licentie. Data Center begint bij $42.000 per jaar (500 gebruikers). Cloud is voor de meeste bedrijven de betere keuze vanwege lagere kosten en minder onderhoud."
   - q: "Wanneer moet ik upgraden van Jira Free naar Standard?"
-    a: "Upgrade naar Standard als je team meer dan 10 personen heeft, meer dan 2 GB opslag nodig hebt, geavanceerde gebruikersbeheer wil, auditlogs wil bekijken, of projectarchivering nodig hebt."
+    a: "Upgrade naar Standard als je team meer dan 10 personen heeft, meer dan 2 GB opslag nodig hebt, ervaren gebruikersbeheer wil, auditlogs wil bekijken, of projectarchivering nodig hebt."
   - q: "Is Jira geschikt voor niet-softwareteams?"
     a: "Jira is primair gebouwd voor softwareteams (agile development, sprints, bugs bijhouden). Er zijn Jira-sjablonen voor businessteams en HR, maar de interface blijft technisch. Voor niet-softwareteams is Asana, Monday.com of ClickUp toegankelijker."
   - q: "Wat zijn de verborgen kosten van Jira?"
@@ -86,7 +86,7 @@ Jira's gratis plan is voor softwareteams uitstekend — genereuzer dan de meeste
 - **2 GB opslag** — snel vol bij grotere attachments
 - Community-support (geen e-mailondersteuning)
 - Geen auditlogs
-- Geen geavanceerde gebruikersbeheer
+- Geen ervaren gebruikersbeheer
 
 ### Wanneer is Jira Free genoeg?
 
@@ -113,7 +113,7 @@ Standard ($8,15/gebruiker/maand jaarlijks) is de meest gekozen optie voor teams 
 
 **Beheer:**
 - Projectarchivering
-- Geavanceerde gebruikersbeheer (rollen en rechten)
+- Uitgebreide gebruikersbeheer (rollen en rechten)
 - Auditlogs (activiteitenhistorie)
 - Anonimisering van gebruikersgegevens (GDPR)
 
@@ -127,7 +127,7 @@ Standard ($8,15/gebruiker/maand jaarlijks) is de meest gekozen optie voor teams 
 
 ### Wat mist Standard?
 
-- Geen geavanceerde roadmap met cross-project planning (Premium)
+- Geen uitgebreide roadmap met cross-project planning (Premium)
 - Geen unlimited-opslag
 - Geen sandbox-omgeving voor testen
 - Geen 24/7 support
@@ -152,7 +152,7 @@ Premium ($16/gebruiker/maand jaarlijks) verdubbelt de prijs ten opzichte van Sta
 
 ### Wat voegt Premium toe?
 
-**Geavanceerde planning:**
+**Uitgebreide planning:**
 - **Advanced Roadmaps** — cross-project planning, afhankelijkheden tussen teams
 - Scenario's vergelijken (wat als dit team twee weken uitloopt?)
 - Capaciteitsplanning over meerdere teams
@@ -166,7 +166,7 @@ Premium ($16/gebruiker/maand jaarlijks) verdubbelt de prijs ten opzichte van Sta
 
 **Beveiliging:**
 - **IP-whitelisting** — alleen toegang vanuit goedgekeurde IP-reeksen
-- Geavanceerde machtigingsbeheer
+- Uitgebreide machtigingsbeheer
 
 **Support:**
 - **24/7 priority support** — geen wachttijden meer
@@ -255,14 +255,14 @@ Voor de meeste bedrijven, inclusief grote MKB's en kleinere enterprises, is **Cl
 Documentatie en wikifunctionaliteit zit in Confluence — een apart product. Confluence heeft zijn eigen prijsmodel ($5,75/gebruiker/maand voor Standard). Als je Jira + Confluence wil, tel je dubbele kosten bij elkaar op — tenzij je Enterprise hebt. Als je documentatie en samenwerking wil combineren met projectbeheer zonder Atlassian-pakket, bekijk dan [Notion review 2026](/blog/notion-review-2026/) als alternatief.
 
 ### 2. Atlassian Marketplace add-ons
-Veel geavanceerde functies zitten niet in Jira zelf maar in marketplace-apps. Populaire add-ons:
+Veel uitgebreide functies zitten niet in Jira zelf maar in marketplace-apps. Populaire add-ons:
 
 | App | Functie | Kosten (circa) |
 |---|---|---|
 | **Tempo Timesheets** | Tijdregistratie | $3-6/gebruiker/mnd |
 | **Structure for Jira** | Hiërarchische projectstructuur | $3-8/gebruiker/mnd |
 | **Zephyr Scale** | Testcasebeheer | $4-8/gebruiker/mnd |
-| **Scriptrunner** | Geavanceerde automatisering | $3-5/gebruiker/mnd |
+| **Scriptrunner** | Uitgebreide automatisering | $3-5/gebruiker/mnd |
 
 Een team van 20 developers met Tempo én Structure betaalt al $120-280 per maand extra.
 
@@ -329,7 +329,7 @@ Jira Standard wint op prijs voor softwareteams — en biedt agile-specifieke fun
 | Velocity-rapporten | ✓ | ✓ | ✓ | ✓ |
 | Cumulative flow | ✓ | ✓ | ✓ | ✓ |
 | Sprint-rapporten | ✓ | ✓ | ✓ | ✓ |
-| Geavanceerde analyses | ✗ | Basis | ✓ | ✓ |
+| Uitgebreide analyses | ✗ | Basis | ✓ | ✓ |
 | Cross-project rapportages | ✗ | ✗ | ✓ | ✓ |
 
 ### Beveiliging en compliance
@@ -381,7 +381,7 @@ Monday.com exporteert naar Excel/CSV. Jira importeert CSV. Automatiseringen en w
 **Blijf op Free als:**
 - Je team 10 of minder personen heeft
 - Je minder dan 2 GB opslag gebruikt
-- Je geen auditlogs of geavanceerd gebruikersbeheer nodig hebt
+- Je geen auditlogs of uitgebreid gebruikersbeheer nodig hebt
 
 **Upgrade naar Standard als:**
 - Je team 11+ personen telt
@@ -418,7 +418,7 @@ Een softwarebedrijf met 35 ontwikkelaars verdeeld over 4 teams. Ze werken met fe
 
 **Aanbeveling: Jira Standard**
 - Kosten: 35 × $8,15 = $285,25/maand (jaarlijks)
-- Wat ze krijgen: 250 GB opslag, auditlogs, projectarchivering, geavanceerd gebruikersbeheer
+- Wat ze krijgen: 250 GB opslag, auditlogs, projectarchivering, uitgebreid gebruikersbeheer
 - Totaal per jaar: $3.423
 - Opmerking: Confluence apart bestellen als ze documentatie willen
 
@@ -525,7 +525,7 @@ Ja, Jira Free is permanent gratis voor maximaal 10 gebruikers. Je krijgt onbeper
 Jira Cloud is een SaaS-abonnement — Atlassian host alles. Jira Data Center draait op eigen servers of private cloud en vereist een jaarlijkse licentie. Data Center begint bij $42.000 per jaar (500 gebruikers). Cloud is voor de meeste bedrijven de betere keuze vanwege lagere kosten en minder onderhoud.
 
 **Wanneer moet ik upgraden van Jira Free naar Standard?**
-Upgrade naar Standard als je team meer dan 10 personen heeft, meer dan 2 GB opslag nodig hebt, geavanceerde gebruikersbeheer wil, auditlogs wil bekijken, of projectarchivering nodig hebt.
+Upgrade naar Standard als je team meer dan 10 personen heeft, meer dan 2 GB opslag nodig hebt, ervaren gebruikersbeheer wil, auditlogs wil bekijken, of projectarchivering nodig hebt.
 
 **Is Jira geschikt voor niet-softwareteams?**
 Jira is primair gebouwd voor softwareteams (agile development, sprints, bugs bijhouden). Er zijn Jira-sjablonen voor businessteams en HR, maar de interface blijft technisch. Voor niet-softwareteams is Asana, Monday.com of ClickUp toegankelijker.

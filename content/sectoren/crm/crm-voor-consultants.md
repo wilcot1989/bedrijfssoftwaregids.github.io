@@ -21,7 +21,7 @@ faq:
   - q: "Hoe bijhoud ik welke proposals zijn verstuurd en wat de status is?"
     a: "In Pipedrive maak je per proposal een deal aan met een verwachte waarde en sluitdatum. Je kunt activiteiten koppelen zoals 'opvolgen na gesprek' en de voortgang per fase zien. HubSpot doet hetzelfde via deals. In Teamleader koppel je proposals direct aan klantdossiers met een follow-up taak."
   - q: "Kan ik HubSpot gratis gebruiken als consultant zonder betaald abonnement?"
-    a: "Ja, het gratis HubSpot CRM is voor solo consultants en kleine bureaus volledig bruikbaar. Je krijgt onbeperkte contacten, deal-beheer, e-mailintegratie en een agendakoppeling. Voor e-mailsequences en geavanceerde rapportages heb je de betaalde Sales Hub vanaf EUR 45 per maand nodig."
+    a: "Ja, het gratis HubSpot CRM is voor solo consultants en kleine bureaus volledig bruikbaar. Je krijgt onbeperkte contacten, deal-beheer, e-mailintegratie en een agendakoppeling. Voor e-mailsequences en gedetailleerde rapportages heb je de betaalde Sales Hub vanaf EUR 45 per maand nodig."
   - q: "Wat is het verschil tussen HubSpot en Pipedrive voor adviesbureaus?"
     a: "HubSpot is sterker als je ook inbound marketing wilt combineren met je CRM: blogs, landingspaginas en e-mailcampagnes zitten in hetzelfde platform. Pipedrive is puurder gericht op verkooppipeline en is sneller en eenvoudiger in gebruik voor bureaus die vooral op actieve acquisitie inzetten."
 affiliate: true
@@ -143,7 +143,7 @@ Prijzen en functies kunnen wijzigen. Wij controleren deze pagina elk kwartaal op
 
 Een CRM is het meest waardevol als het aangevuld wordt met een leadgeneratietool die nieuwe opdrachtgevers identificeert. Op de pagina [leadgeneratie software voor B2B](/sectoren/marketing/leadgeneratie-software-b2b/) vergelijken we systemen die websitebezoekers herkennen en doorsturen naar je CRM.
 
-Consultants die ook hun financiële administratie willen stroomlijnen, vinden een overzicht op de pagina [boekhoudsoftware voor eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/).
+Consultants die ook hun financiële administratie willen vereenvoudigen, vinden een overzicht op de pagina [boekhoudsoftware voor eenmanszaken](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/).
 
 Als je consultancybedrijf groeit naar een klein team, is ook HR-software relevant. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) staan opties die goed werken voor professionele dienstverleners.
 

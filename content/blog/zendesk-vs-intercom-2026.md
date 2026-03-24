@@ -21,7 +21,7 @@ faq:
   - q: "Kunnen Zendesk en Intercom samenwerken?"
     a: "Ja, er is een officiële Zendesk-Intercom integratie. Sommige bedrijven gebruiken Intercom voor proactieve communicatie en Zendesk als ticketsysteem voor complexere kwesties."
   - q: "Welke heeft betere rapportages: Zendesk of Intercom?"
-    a: "Zendesk Explore (Professional) biedt diepgaandere rapportages en custom dashboards. Intercom heeft goede standaard rapportages maar minder flexibiliteit voor geavanceerde analyses."
+    a: "Zendesk Explore (Professional) biedt diepgaandere rapportages en custom dashboards. Intercom heeft goede standaard rapportages maar minder flexibiliteit voor diepgaande analyses."
   - q: "Welke tool migreert gemakkelijker?"
     a: "Beide tools hebben migratiehulpmiddelen, maar Zendesk heeft meer third-party importeurs. Intercom's data-exportmogelijkheden zijn goed. De moeilijkheid hangt af van je huidige systeem."
 ---
@@ -76,7 +76,7 @@ Die filosofische tegenstelling — reactief vs proactief — verklaart elk versc
 
 **Winnaar ticketbeheer: Zendesk (ruime marge)**
 
-Zendesk's ticketsysteem is volwassener, completer en specifiek gebouwd voor gestructureerde supportprocessen. SLA-beheer, ticket merging, aanpasbare formulieren en geavanceerde routering zijn sterker. Intercom benadert klantenservice meer als conversatiemanagement dan als ticketbeheer — wat voor sommige bedrijven perfect is, maar voor anderen tekortschiet.
+Zendesk's ticketsysteem is volwassener, completer en specifiek gebouwd voor gestructureerde supportprocessen. SLA-beheer, ticket merging, aanpasbare formulieren en uitgebreide routering zijn sterker. Intercom benadert klantenservice meer als conversatiemanagement dan als ticketbeheer — wat voor sommige bedrijven perfect is, maar voor anderen tekortschiet.
 
 ### Live chat en messaging
 
@@ -226,7 +226,7 @@ Zendesk is voor de meeste teams significant goedkoper, ook als je de verborgen k
 
 - **Tijdsinvestering voor chat**: 1-2 dagen voor basisfunctionaliteit
 - **Tijdsinvestering voor alles**: 2-4 weken voor campagnes en segmentatie
-- **Complexiteit**: gemiddeld voor basis, hoog voor geavanceerde outbound
+- **Complexiteit**: gemiddeld voor basis, hoog voor uitgebreide outbound
 - **Documentatie**: goed
 - **Support**: Engelstalig
 
@@ -293,7 +293,7 @@ Alternatieven: Freshdesk gratis plan (10 agenten, maar minder moderne chat).
 - Je bedrijf in e-commerce, retail, financiën of traditionele dienstverlening zit
 - Je primair via e-mail, WhatsApp en telefoon communiceert
 - Je team heeft 10+ agenten die dagelijks support verlenen
-- Je geavanceerde rapportages en SLA-beheer wilt
+- Je gedetailleerde rapportages en SLA-beheer wilt
 - Je integraties nodig hebt met Nederlandse software (Exact, AFAS, Lightspeed)
 - Je schaalbaarheid op lange termijn nodig hebt
 
@@ -461,7 +461,7 @@ Voor de meeste SaaS-bedrijven is Intercom beter: betere in-app messaging, produc
 Ja, er is een officiële Zendesk-Intercom integratie. Sommige bedrijven gebruiken Intercom voor proactieve communicatie en Zendesk als ticketsysteem voor complexere kwesties.
 
 **Welke heeft betere rapportages: Zendesk of Intercom?**
-Zendesk Explore (Professional) biedt diepgaandere rapportages en custom dashboards. Intercom heeft goede standaard rapportages maar minder flexibiliteit voor geavanceerde analyses.
+Zendesk Explore (Professional) biedt diepgaandere rapportages en custom dashboards. Intercom heeft goede standaard rapportages maar minder flexibiliteit voor diepgaande analyses.
 
 **Welke tool migreert gemakkelijker?**
 Beide tools hebben migratiehulpmiddelen, maar Zendesk heeft meer third-party importeurs. Intercom's data-exportmogelijkheden zijn goed. De moeilijkheid hangt af van je huidige systeem.

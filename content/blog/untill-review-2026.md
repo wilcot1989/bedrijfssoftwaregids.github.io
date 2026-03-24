@@ -22,7 +22,7 @@ faq:
   - q: "Is Untill geschikt voor kleine horecazaken?"
     a: "Untill is primair ontworpen voor middelgrote tot grote horecagelegenheden: restaurants, cafés, hotels en evenementenlocaties. Voor kleine eenpitters of food trucks is Untill vaak overdreven complex en duur. In dat geval is Square, SumUp of een eenvoudiger systeem beter passend."
   - q: "Werkt Untill offline?"
-    a: "Ja, Untill werkt volledig offline. Dit is een van de grootste voordelen: ook bij internetstoring blijft je kassa functioneren. Data wordt lokaal opgeslagen en gesynchroniseerd zodra de verbinding is hersteld. Dit is cruciaal voor drukke horecagelegenheden die zich geen downtime kunnen veroorloven."
+    a: "Ja, Untill werkt volledig offline. Dit is een van de grootste voordelen: ook bij internetstoring blijft je kassa functioneren. Data wordt lokaal opgeslagen en gesynchroniseerd zodra de verbinding is hersteld. Dit is essentieel voor drukke horecagelegenheden die zich geen downtime kunnen veroorloven."
   - q: "Integreert Untill met Exact Online?"
     a: "Ja, Untill heeft een directe koppeling met Exact Online, Twinfield en andere boekhoudpakketten. Via de Untill API zijn ook koppelingen mogelijk met bezorgplatformen zoals Thuisbezorgd en Uber Eats. De integratiemogelijkheden zijn uitgebreid, maar vereisen vaak een technische reseller voor de implementatie."
   - q: "Hoe lang duurt de implementatie van Untill?"
@@ -97,7 +97,7 @@ Untill's rapportage-module is uitgebreid:
 
 ### Voorraadbeheer
 
-Voor horeca is voorraadbeheer cruciaal. Untill biedt:
+Voor horeca is voorraadbeheer essentieel. Untill biedt:
 - Inkoopbonnen registreren
 - Voorraadwaarschuwingen
 - Receptmanagement: gerecht aan ingrediënten koppelen
@@ -214,7 +214,7 @@ Untill werkt met een licentiemodel via geautoriseerde resellers. De prijs versch
 Untill is primair ontworpen voor middelgrote tot grote horecagelegenheden: restaurants, cafés, hotels en evenementenlocaties. Voor kleine eenpitters of food trucks is Untill vaak overdreven complex en duur. In dat geval is Square, SumUp of een eenvoudiger systeem beter passend.
 
 **Werkt Untill offline?**
-Ja, Untill werkt volledig offline. Dit is een van de grootste voordelen: ook bij internetstoring blijft je kassa functioneren. Data wordt lokaal opgeslagen en gesynchroniseerd zodra de verbinding is hersteld. Dit is cruciaal voor drukke horecagelegenheden die zich geen downtime kunnen veroorloven.
+Ja, Untill werkt volledig offline. Dit is een van de grootste voordelen: ook bij internetstoring blijft je kassa functioneren. Data wordt lokaal opgeslagen en gesynchroniseerd zodra de verbinding is hersteld. Dit is essentieel voor drukke horecagelegenheden die zich geen downtime kunnen veroorloven.
 
 **Integreert Untill met Exact Online?**
 Ja, Untill heeft een directe koppeling met Exact Online, Twinfield en andere boekhoudpakketten. Via de Untill API zijn ook koppelingen mogelijk met bezorgplatformen zoals Thuisbezorgd en Uber Eats. De integratiemogelijkheden zijn uitgebreid, maar vereisen vaak een technische reseller voor de implementatie.
@@ -359,7 +359,7 @@ Dit geïntegreerde werkproces — van reservering tot betaling — is waar Until
 
 Na meerder implementaties ken ik de meest voorkomende valkuilen:
 
-**1. Resellerkeuze is cruciaal**
+**1. Resellerkeuze is essentieel**
 De kwaliteit van je reseller bepaalt voor 50% het succes van je implementatie. Vraag altijd naar referenties van vergelijkbare horeca-concepten. Bezoek een bestaande klant van de reseller voor je tekent.
 
 **2. Trainingstijd onderschatten**
@@ -493,7 +493,7 @@ Untill heeft een eigen reserveringsmodule (Untill Reservations) die inbegrepen i
 - Automatische bevestigingsmail + herinnering
 - Koppeling met tafelindeling in de POS
 
-Ik vergeleek Untill Reservations met FORK Reservations (populair in Nederland) en Formitable. Untill is functioneel voldoende voor restaurants tot 100 couverts. Wilt u geavanceerde wachtlijst-functies, automatische sms-herinneringen of yield management? Dan zijn gespecialiseerde tools als Formitable of OpenTable beter.
+Ik vergeleek Untill Reservations met FORK Reservations (populair in Nederland) en Formitable. Untill is functioneel voldoende voor restaurants tot 100 couverts. Wilt u uitgebreide wachtlijst-functies, automatische sms-herinneringen of yield management? Dan zijn gespecialiseerde tools als Formitable of OpenTable beter.
 
 ### Untill voor Fastfood en Quick Service
 
@@ -558,13 +558,13 @@ Het reseller-model heeft een keerzijde: uw primaire supportpunt is de reseller, 
 | Support | Via reseller (wisselend) | Direct (betrouwbaar) |
 | Implementatie | Lokale reseller | Online + lokale partners |
 
-**Wanneer Untill:** Stabiliteit en offline-werking zijn cruciaal. U werkt liever met een lokale partner. Complexe tafelindeling/seating.
+**Wanneer Untill:** Stabiliteit en offline-werking zijn essentieel. U werkt liever met een lokale partner. Complexe tafelindeling/seating.
 
 **Wanneer Lightspeed:** U wilt directe leverancierssupport. Diepgaande rapportage en multi-locatie analytics zijn prioriteit. U heeft ook een webshop.
 
 ### Mijn Eindoordeel over Untill
 
-Untill verdient zijn reputatie als betrouwbaar kassasysteem voor de Nederlandse en Belgische horeca. De offline-stabiliteit is best-in-class, het tafelmanagement is intuïtief, en voor complexe horecaomgevingen is het robuust genoeg.
+Untill verdient zijn reputatie als betrouwbaar kassasysteem voor de Nederlandse en Belgische horeca. De offline-stabiliteit is best-in-class, het tafelmanagement is intuïtief, en voor complexe horecaomgevingen is het solide genoeg.
 
 De zwakke punten zijn reëel: de afhankelijkheid van resellers maakt de ervaring inconsistent, integraties zijn beperkter dan bij internationaal georiënteerde concurrenten, en de interface oogt wat verouderd vergeleken met Lightspeed of Square.
 

@@ -71,8 +71,8 @@ Asana hanteert vier plannen. Let op: de prijzen zijn in dollar en excl. btw.
 |---|---|---|---|
 | **Personal** | Gratis | Gratis | Max. 10 gebruikers, taken, lijst/bord/kalender, basisintegraties |
 | **Starter** | $10,99 | $13,49 | Tijdlijn, Gantt, onbeperkte dashboards, regels (automatiseringen), formulieren, rapporten |
-| **Advanced** | $24,99 | $30,49 | Portfoliobeheer, workloadmanagement, doelen, geavanceerde rapporten, goedkeuringsworkflows |
-| **Enterprise** | Op aanvraag | Op aanvraag | Geavanceerde beveiliging, SAML SSO, data residency, onbeperkte gast-gebruikers |
+| **Advanced** | $24,99 | $30,49 | Portfoliobeheer, workloadmanagement, doelen, gedetailleerde rapporten, goedkeuringsworkflows |
+| **Enterprise** | Op aanvraag | Op aanvraag | Uitgebreide beveiliging, SAML SSO, data residency, onbeperkte gast-gebruikers |
 
 ### Wat betaal je echt?
 
@@ -85,7 +85,7 @@ Geen minimum aantal seats — dat is een voordeel van Asana ten opzichte van Mon
 | **25 personen** | — | ~$275/mnd | ~$625/mnd |
 | **50 personen** | — | ~$550/mnd | ~$1.250/mnd |
 
-Advanced wordt dus snel duur. Bij 25 medewerkers betaal je meer dan €600 per maand. Dat is het niveau waarop je je moet afvragen of je alle geavanceerde functies echt gebruikt — of dat Starter met wat workarounds ook volstaat.
+Advanced wordt dus snel duur. Bij 25 medewerkers betaal je meer dan €600 per maand. Dat is het niveau waarop je je moet afvragen of je alle uitgebreide functies echt gebruikt — of dat Starter met wat workarounds ook volstaat.
 
 <a href="https://asana.com/create-account" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Asana gratis (30 dagen) →</a>
 
@@ -207,7 +207,7 @@ Formulieren zijn beschikbaar vanaf het Starter-plan. Je maakt een formulier dat 
 
 Praktisch gebruik: een marketingbureau maakt een briefingformulier. Klanten vullen het in. Elke inzending wordt een taak in het "Nieuwe Aanvragen"-project. De projectmanager hoeft nooit meer een Excel-briefing te verwerken.
 
-De formulieren zijn eenvoudig maar functioneel. Je kunt vragen toevoegen, verplichte velden instellen en de logica aanpassen (bepaalde vragen verschijnen pas als een eerdere vraag op een bepaalde manier beantwoord is). Geen geavanceerde opmaak of conditional logic zo complex als Typeform, maar voor de meeste use cases meer dan voldoende.
+De formulieren zijn eenvoudig maar functioneel. Je kunt vragen toevoegen, verplichte velden instellen en de logica aanpassen (bepaalde vragen verschijnen pas als een eerdere vraag op een bepaalde manier beantwoord is). Geen uitgebreide opmaak of conditional logic zo complex als Typeform, maar voor de meeste use cases meer dan voldoende.
 
 ## Integraties
 
@@ -235,9 +235,9 @@ Asana heeft meer dan 300 integraties. De belangrijkste voor Nederlandse MKB-team
 
 **Overige:**
 - Zapier — duizenden extra integraties via no-code
-- Make (voorheen Integromat) — geavanceerdere automatiseringen
+- Make (voorheen Integromat) — uitgebreidere automatiseringen
 
-De Slack-integratie gebruik ik zelf bij vrijwel elk project. Het vermindert de neiging om alles in Slack te bespreken in plaats van in Asana te documenteren. Een bericht in Slack kun je omzetten naar een taak met één klik — dat is een kleine maar cruciale functie.
+De Slack-integratie gebruik ik zelf bij vrijwel elk project. Het vermindert de neiging om alles in Slack te bespreken in plaats van in Asana te documenteren. Een bericht in Slack kun je omzetten naar een taak met één klik — dat is een kleine maar essentiële functie.
 
 Voor teams die ook nadenken over online samenwerken en videovergaderen, bekijk mijn [overzicht van de beste vergadersoftware](/blog/beste-vergadersoftware-2026/).
 

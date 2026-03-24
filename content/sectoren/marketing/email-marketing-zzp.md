@@ -56,7 +56,7 @@ MailerLite is mijn standaard aanbeveling voor ZZP'ers die serieus willen beginne
 - Pop-ups en embedded formulieren voor je website
 - Goede deliverability en duidelijke statistieken per campagne
 
-**Wat ontbreekt:** Beperktere integraties dan Mailchimp; geavanceerde segmentatie pas in betaalde versie.
+**Wat ontbreekt:** Beperktere integraties dan Mailchimp; gedetailleerde segmentatie pas in betaalde versie.
 
 **Prijs:** Gratis tot 1.000 abonnees. Growing Business: EUR 9 per maand (1.000 abonnees).
 

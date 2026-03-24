@@ -121,7 +121,7 @@ Exact Online is de duurste optie in dit lijstje, maar ook de meest complete. Voo
 
 Lees ook mijn uitgebreide [Exact Online review 2026](/blog/exact-online-review-2026/) voor een compleet beeld.
 
-**Koppelingen:** Exact heeft directe integraties met Shopify, WooCommerce en Lightspeed. De Shopify-koppeling via de App Store importeert orders, betalingen en retouren automatisch. De WooCommerce-koppeling vereist een plugin maar is robuust en breed gedocumenteerd. Lightspeed heeft een speciale samenwerking met Exact — de koppeling is het sterkst van alle opties in dit artikel.
+**Koppelingen:** Exact heeft directe integraties met Shopify, WooCommerce en Lightspeed. De Shopify-koppeling via de App Store importeert orders, betalingen en retouren automatisch. De WooCommerce-koppeling vereist een plugin maar is solide en breed gedocumenteerd. Lightspeed heeft een speciale samenwerking met Exact — de koppeling is het sterkst van alle opties in dit artikel.
 
 **Mollie en MultiSafepay:** Beide betaalproviders hebben een native Exact Online-koppeling. Betalingen worden automatisch geïmporteerd en gematcht met facturen. MultiSafepay biedt zelfs een speciale Exact-module die ook omzetrapportages synchroniseert.
 
@@ -173,7 +173,7 @@ Voor de meeste kleine webshops is het Groei-plan toereikend.
 
 e-Boekhouden is niet de meest sexy software, maar het is wel de pakket met de hoogste Trustpilot-score in dit overzicht: 4.6/5 op bijna 1.900 reviews. Die reviews zijn een accurate weerspiegeling van mijn ervaring: het werkt, de support is goed, en de prijs is eerlijk.
 
-**Koppelingen:** e-Boekhouden heeft koppelingen met Shopify en WooCommerce, maar die zijn minder naadloos dan bij Exact of Moneybird. De Shopify-koppeling werkt via een externe app. Voor WooCommerce zijn er meerdere plugins beschikbaar, met wisselende kwaliteit. Zapier-koppelingen vullen de gaten op, maar dat kost extra tijd bij de setup.
+**Koppelingen:** e-Boekhouden heeft koppelingen met Shopify en WooCommerce, maar die zijn minder soepel dan bij Exact of Moneybird. De Shopify-koppeling werkt via een externe app. Voor WooCommerce zijn er meerdere plugins beschikbaar, met wisselende kwaliteit. Zapier-koppelingen vullen de gaten op, maar dat kost extra tijd bij de setup.
 
 **Mollie:** Directe koppeling beschikbaar. MultiSafepay werkt via handmatige import of Zapier.
 
@@ -183,7 +183,7 @@ e-Boekhouden is niet de meest sexy software, maar het is wel de pakket met de ho
 
 **Retourverwerking:** Handmatige creditnota's, geen automatische import vanuit webshopplatformen.
 
-**Nadelen:** De interface is functioneel maar gedateerd. Koppelingen zijn minder robuust dan bij Exact of Moneybird. Geen voorraadbeheer.
+**Nadelen:** De interface is functioneel maar gedateerd. Koppelingen zijn minder solide dan bij Exact of Moneybird. Geen voorraadbeheer.
 
 **Prijs:**
 - Basis: €9,95/mnd (240 boekingen/maand)
@@ -208,7 +208,7 @@ SnelStart is onderdeel van Visma en heeft meer dan 250.000 actieve gebruikers in
 
 **Retourverwerking:** Creditnota's en voorraadcorrectie kunnen in één flow worden verwerkt. De koppeling met webshopplatformen verwerkt retouren niet automatisch — dat is nog een handmatige stap.
 
-**Nadelen:** De interface is iets minder modern dan Moneybird. Koppelingen zijn minder naadloos dan bij Exact. Het gratis plan heeft beperkte functies.
+**Nadelen:** De interface is iets minder modern dan Moneybird. Koppelingen zijn minder soepel dan bij Exact. Het gratis plan heeft beperkte functies.
 
 **Prijs:**
 - Gratis basisplan
@@ -256,7 +256,7 @@ De combinatie van webshopplatform en boekhoudsoftware bepaalt voor een groot dee
 
 [Shopify](/blog/shopify-review-nederland-2026/) heeft de beste koppelingen met zowel Exact Online als Moneybird. De Shopify App Store biedt native apps voor beide pakketten. Mijn advies:
 
-- **Shopify + Exact Online**: Kies dit als je meer dan 100 orders/maand hebt, internationaal verkoopt of een boekhouder inschakelt. De koppeling is robuust, OSS wordt volledig ondersteund en retouren worden automatisch verwerkt.
+- **Shopify + Exact Online**: Kies dit als je meer dan 100 orders/maand hebt, internationaal verkoopt of een boekhouder inschakelt. De koppeling is solide, OSS wordt volledig ondersteund en retouren worden automatisch verwerkt.
 - **Shopify + Moneybird**: Kies dit als je kleiner bent (10–100 orders/maand) en zelf de boekhouding doet. Eenvoudiger in gebruik, betaalbaarder, en de Shopify-koppeling werkt prima voor dit volume.
 
 ### WooCommerce → Moneybird of e-Boekhouden

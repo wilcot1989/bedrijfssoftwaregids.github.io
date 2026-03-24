@@ -25,7 +25,7 @@ faq:
   - q: "Is Teamleader echt een goed alternatief voor Pipedrive?"
     a: "Ja, zeker voor Benelux-bedrijven van 2 tot 20 personen die naast CRM ook facturatie en projectbeheer nodig hebben. Teamleader combineert dat in één pakket. Het is duurder dan Pipedrive (vanaf €30 per gebruiker per maand), maar je spaart een of twee losse tools uit."
   - q: "Welk alternatief past bij een groot salesteam van 50+ personen?"
-    a: "Salesforce is dan de standaardkeuze. Het biedt onbeperkte aanpasbaarheid, enterprise-integraties en geavanceerde AI-functies (Agentforce). Wel heb je een ervaren admin nodig en zijn de kosten aanzienlijk: vanaf €25 per gebruiker per maand, maar in de praktijk veel meer."
+    a: "Salesforce is dan de standaardkeuze. Het biedt onbeperkte aanpasbaarheid, enterprise-integraties en krachtige AI-functies (Agentforce). Wel heb je een ervaren admin nodig en zijn de kosten aanzienlijk: vanaf €25 per gebruiker per maand, maar in de praktijk veel meer."
   - q: "Kan ik mijn Pipedrive-data meenemen naar een ander CRM?"
     a: "Ja. Pipedrive biedt een CSV-export van contacten, organisaties, deals, notities en activiteiten. De meeste alternatieven hebben een importfunctie die Pipedrive-exports direct verwerkt. Plan altijd een datakwaliteitscheck voor de migratie, want dubbele contacten en ontbrekende velden zijn veelvoorkomende problemen."
 ---
@@ -44,7 +44,7 @@ Pipedrive is gebouwd als een puur sales-CRM. Dat is tegelijk de grootste kracht 
 
 ### 1. De prijs loopt snel op bij groei
 
-Pipedrive begint aantrekkelijk: €14 per gebruiker per maand voor het Essential-plan. Maar zodra je de functies nodig hebt die de meeste groeiende bedrijven vereisen — geavanceerde automatisering, forecasting, e-mailsequences, aangepaste rapporten — zit je al snel op het Professional-plan van €49 per gebruiker per maand.
+Pipedrive begint aantrekkelijk: €14 per gebruiker per maand voor het Essential-plan. Maar zodra je de functies nodig hebt die de meeste groeiende bedrijven vereisen — uitgebreide automatisering, forecasting, e-mailsequences, aangepaste rapporten — zit je al snel op het Professional-plan van €49 per gebruiker per maand.
 
 Met een salesteam van tien personen betaal je dan €490 per maand. Dat is €5.880 per jaar voor een tool die alleen sales ondersteunt. Op dat prijsniveau zijn alternatieven die ook marketing, projectbeheer of facturatie bieden ineens heel aantrekkelijk.
 
@@ -137,7 +137,7 @@ Lees meer over kosten in mijn artikel over [HubSpot prijzen 2026](/blog/hubspot-
 
 **Beste voor:** Teams die een visuele, aanpasbare werkruimte willen, bedrijven die CRM combineren met projectmanagement
 
-Monday.com is van oorsprong een projectmanagement tool die een CRM-module heeft toegevoegd. Dat klinkt als een nadeel, maar voor veel teams is het precies wat ze nodig hebben: een CRM dat naadloos overvloeit in projectopvolging na de gewonnen deal.
+Monday.com is van oorsprong een projectmanagement tool die een CRM-module heeft toegevoegd. Dat klinkt als een nadeel, maar voor veel teams is het precies wat ze nodig hebben: een CRM dat soepel overvloeit in projectopvolging na de gewonnen deal.
 
 De interface is kleurrijk, visueel en sterk aanpasbaar. Je kunt pipelines, dashboards en automatiseringen inrichten zonder technische kennis. Dat maakt Monday aantrekkelijk voor teams die gefrustreerd zijn geraakt door de rigide structuur van traditionele CRM's.
 
@@ -186,7 +186,7 @@ Lees mijn volledige [Teamleader review 2026](/blog/teamleader-review-2026/) voor
 
 **Beste voor:** Bedrijven met 50+ medewerkers, complexe salesprocessen, enterprise-integraties vereisten
 
-Salesforce is het CRM waaraan alle andere worden gemeten. Het heeft de grootste marktaandeel, de meeste integraties, de diepste aanpasbaarheid en de meest geavanceerde AI-functies (Agentforce). Als je ooit een CRM-consultant hoort spreken over "Salesforce-certified", weet je hoe serieus het ecosysteem rondom dit platform is.
+Salesforce is het CRM waaraan alle andere worden gemeten. Het heeft de grootste marktaandeel, de meeste integraties, de diepste aanpasbaarheid en de meest krachtige AI-functies (Agentforce). Als je ooit een CRM-consultant hoort spreken over "Salesforce-certified", weet je hoe serieus het ecosysteem rondom dit platform is.
 
 De reden dat de meeste MKB-bedrijven Salesforce niet gebruiken is simpel: het is complex en duur. De instapprijs van €25 per gebruiker per maand (Essentials) klinkt behapbaar, maar in de praktijk heb je al snel het Professional- of Enterprise-plan nodig, inclusief een admin die het systeem beheert en implementatiekosten die in de tienduizenden euro's kunnen lopen.
 
@@ -214,7 +214,7 @@ Salesforce's kracht zit in de aanpasbaarheid. Elk veld, elk proces, elke workflo
 
 Freshsales is het CRM van Freshworks, een Indiaas SaaS-bedrijf dat bekender is van Freshdesk (klantenservice). Het is minder bekend in Nederland dan de andere tools in dit overzicht, maar het verdient meer aandacht.
 
-De reden: Freshsales biedt AI-gestuurde lead scoring, e-mail sequences, telefoonfuncties en geavanceerde automatisering op een prijsniveau dat aanzienlijk lager ligt dan Pipedrive's vergelijkbare plannen. Het Growth-plan (€9 per gebruiker per maand, jaarlijks) bevat functies die bij Pipedrive pas beschikbaar zijn op het Professional-plan (€49 per gebruiker per maand).
+De reden: Freshsales biedt AI-gestuurde lead scoring, e-mail sequences, telefoonfuncties en uitgebreide automatisering op een prijsniveau dat aanzienlijk lager ligt dan Pipedrive's vergelijkbare plannen. Het Growth-plan (€9 per gebruiker per maand, jaarlijks) bevat functies die bij Pipedrive pas beschikbaar zijn op het Professional-plan (€49 per gebruiker per maand).
 
 Ik heb Freshsales getest bij twee klanten die expliciet vroegen om "Pipedrive-functionaliteit voor minder geld". De conclusie: voor teams die de kern van Pipedrive zoeken — visuele pipeline, automatische activiteitentracking, e-mail integratie — is Freshsales een solide alternatief voor een fractie van de prijs.
 
@@ -316,7 +316,7 @@ Als het de prijs is, vergelijk dan Freshsales of Monday. Als het de beperkte mar
 **Hoe groot is je team nu en over twee jaar?**
 Een CRM die nu past kan over twee jaar te duur of te beperkt zijn. Kijk naar de schaalbare plannen en de kosten bij 2x groei.
 
-**Welke integraties zijn onmisbaar?**
+**Welke integraties zijn essentieel?**
 Controleer voor elk alternatief of je huidige boekhoudsoftware, e-mailmarketingtool en eventuele andere tools native integraties hebben. Elke integratie via Zapier of Make is een extra abonnement en een extra onderhoudspunt.
 
 **Is een Nederlandstalige interface verplicht?**

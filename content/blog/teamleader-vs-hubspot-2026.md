@@ -201,11 +201,11 @@ HubSpot is oorspronkelijk groot geworden als inbound marketing platform. Dat zie
 - **SEO-tools** met zoekwoordanalyse en content-aanbevelingen
 - **Ads-integratie** met Google Ads, Facebook en LinkedIn
 
-Dit is krachtige infrastructuur voor bedrijven die actief aan leadgeneratie doen. Dat gezegd hebbende: de meeste geavanceerde functies zitten in Marketing Hub Professional (€800/maand+). Het gratis plan biedt basale e-mailmarketing.
+Dit is krachtige infrastructuur voor bedrijven die actief aan leadgeneratie doen. Dat gezegd hebbende: de meeste uitgebreide functies zitten in Marketing Hub Professional (€800/maand+). Het gratis plan biedt basale e-mailmarketing.
 
 ### Teamleader Focus: marketing automation is beperkt
 
-Teamleader heeft basisondersteuning voor marketing: e-mailcampagnes via een add-on, integratie met Mailchimp, en leadformulieren op je website die direct in Teamleader landen. Maar het is geen marketingplatform. Workflows, lead scoring, SEO-tools of geavanceerde segmentatie zijn niet aanwezig.
+Teamleader heeft basisondersteuning voor marketing: e-mailcampagnes via een add-on, integratie met Mailchimp, en leadformulieren op je website die direct in Teamleader landen. Maar het is geen marketingplatform. Workflows, lead scoring, SEO-tools of gedetailleerde segmentatie zijn niet aanwezig.
 
 Als marketing automation een centrale rol speelt in hoe je bedrijf leads genereert en nurturt, is Teamleader schlicht onvoldoende.
 

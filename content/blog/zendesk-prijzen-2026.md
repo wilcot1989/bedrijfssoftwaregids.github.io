@@ -79,7 +79,7 @@ Dit is het kritische punt. Suite Team mist functies die je al vroeg nodig hebt:
 
 - **SLA-beleid**: je kunt geen responsgaranties instellen of meten
 - **CSAT-enquêtes**: geen automatische klanttevredenheidsmeting
-- **Geavanceerde rapportages (Explore)**: geen custom dashboards
+- **Uitgebreide rapportages (Explore)**: geen custom dashboards
 - **Meerdere merken**: slechts één helpcenter en inbox
 - **Light agents**: collega's kunnen niet meelezen zonder betaald account
 - **Business uren per groep**: SLA's werken niet per afdeling
@@ -101,7 +101,7 @@ Het meest populaire plan voor MKB-bedrijven. Hier zitten alle functies in die je
 - **Explore standaard**: rapportages en dashboards, niet volledig custom
 - **Self-service portals** voor meerdere producten of merken
 - **25 light agents** inbegrepen (lees-only toegang voor collega's)
-- **Geavanceerde workflows** op basis van tickettypes
+- **Uitgebreide workflows** op basis van tickettypes
 
 ### Waarom Growth de beste balans biedt
 
@@ -117,18 +117,18 @@ In mijn ervaring is Growth het plan waar de meeste MKB-bedrijven de meeste waard
 
 ## Zendesk Suite Professional — €115/agent/maand
 
-Het geavanceerde plan voor grote teams en complexe organisaties. Bij €115 per agent per maand loopt de rekening snel op, maar voor de juiste organisatie zijn de extra functies elke euro waard.
+Het uitgebreide plan voor grote teams en complexe organisaties. Bij €115 per agent per maand loopt de rekening snel op, maar voor de juiste organisatie zijn de extra functies elke euro waard.
 
 ### Extra ten opzichte van Suite Growth
 
-**Geavanceerde automatisering:**
+**Uitgebreide automatisering:**
 - **Skills-based routing**: tickets gaan automatisch naar de agent met de juiste expertise (taal, product, klantsegment)
 - **Conditional ticket forms**: formuliervelden passen zich aan op basis van eerdere antwoorden
-- **Geavanceerde workflows** met meerdere stappen en condities
+- **Uitgebreide workflows** met meerdere stappen en condities
 
 **Rapportages:**
 - **Explore Professional**: volledig customiseerbare dashboards
-- Geavanceerde metrices en KPI's
+- Uitgebreide metrices en KPI's
 - Automatische e-mailrapporten op schema
 - Data export via API
 
@@ -161,7 +161,7 @@ Enterprise is het maatwerk plan voor organisaties met specifieke behoeften. Typi
 - **Advanced AI (Intelligent Triage)**: automatische categorisering en intentiedetectie
 - **Dedicated implementation support**: persoonlijke begeleiding bij inrichting
 - **Dedicated Customer Success Manager**: vaste contactpersoon voor jouw account
-- **Geavanceerde security**: SSO, SCIM-provisioning, audit logs
+- **Uitgebreide security**: SSO, SCIM-provisioning, audit logs
 - **Data residency keuze**: data in specifiek datacenter (EU, US, etc.)
 - **SLA op applicatieniveau**: contractuele garanties over uptime
 - **Multiple Sandbox omgevingen**: meer testomgevingen
@@ -194,7 +194,7 @@ Voor bedrijven met hoog belvolume zijn gespecialiseerde telefonie-integraties (A
 
 ### AI-add-ons
 
-Geavanceerde AI-functies zijn niet in de basisplannen inbegrepen. De Zendesk AI-add-on — met Intelligent Triage, Intent Detection en geavanceerde suggesties — kost extra bovenop het maandabonnement.
+Uitgebreide AI-functies zijn niet in de basisplannen inbegrepen. De Zendesk AI-add-on — met Intelligent Triage, Intent Detection en uitgebreide suggesties — kost extra bovenop het maandabonnement.
 
 Voor exacte AI-add-on prijzen: vraag een offerte aan via Zendesk Sales, want deze worden per situatie berekend.
 
@@ -215,7 +215,7 @@ Elk plan heeft een hoeveelheid dataopslag inbegrepen. Bij grote ticketvolumes of
 Veel integraties in de Zendesk Marketplace zijn gratis, maar sommige premium apps hebben eigen abonnementskosten. Voorbeelden:
 
 - Eén-klik vertaling tools: €30-80/maand extra
-- Geavanceerde analytics tools: €50-200/maand extra
+- Uitgebreide analytics tools: €50-200/maand extra
 - Sommige CRM-integraties: €20-100/maand extra
 
 Controleer altijd de kosten van een integratie vóórdat je die installeert.

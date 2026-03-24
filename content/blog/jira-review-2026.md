@@ -17,7 +17,7 @@ author_bio: "B2B software consultant en redacteur bij Bedrijfssoftwaregids.nl"
 featured_image: "/images/categories/projectmanagement.svg"
 faq:
   - q: "Is Jira gratis te gebruiken?"
-    a: "Ja, Jira heeft een permanent gratis plan voor maximaal 10 gebruikers. Je krijgt toegang tot Scrum- en Kanban-boards, de backlog, basisrapportages en 2 GB opslagruimte. Voor kleine ontwikkelteams is dit plan ruim voldoende om te starten. Zodra je team groeit of je geavanceerde rapportages nodig hebt, moet je upgraden naar Standard."
+    a: "Ja, Jira heeft een permanent gratis plan voor maximaal 10 gebruikers. Je krijgt toegang tot Scrum- en Kanban-boards, de backlog, basisrapportages en 2 GB opslagruimte. Voor kleine ontwikkelteams is dit plan ruim voldoende om te starten. Zodra je team groeit of je gedetailleerde rapportages nodig hebt, moet je upgraden naar Standard."
   - q: "Wat kost Jira per maand in 2026?"
     a: "Jira Standard kost $8,15 per gebruiker per maand (jaarlijks), Premium kost $16 per gebruiker per maand. Enterprise heeft een prijs op aanvraag. Bij maandelijkse betaling zijn de tarieven hoger. Bij meer dan 100 gebruikers gelden gestaffelde kortingen. Het gratis plan ondersteunt maximaal 10 gebruikers."
   - q: "Wat is het verschil tussen Jira Software en Jira Work Management?"
@@ -29,7 +29,7 @@ faq:
   - q: "Wat zijn de beste alternatieven voor Jira?"
     a: "De drie beste alternatieven zijn Asana (beter voor niet-agile projectteams, mooiere interface), Monday.com (visueler, meer aanpasbaar, geschikt voor alle teamtypen) en Linear (lichter, sneller, populair bij moderne ontwikkelteams). Voor eenvoudige projecten is Trello een goed Atlassian-alternatief. ClickUp combineert functies van Jira en Asana."
   - q: "Werkt Jira goed samen met andere Atlassian-tools?"
-    a: "Ja, de integratie met Confluence (documentatie), Bitbucket (code-repositories) en Trello is uitstekend. Als je al gebruikmaakt van Atlassian-producten, is Jira de logische keuze vanwege de naadloze samenwerking. De Atlassian-suite biedt een gecombineerd abonnement dat goedkoper kan zijn dan losse tools."
+    a: "Ja, de integratie met Confluence (documentatie), Bitbucket (code-repositories) en Trello is uitstekend. Als je al gebruikmaakt van Atlassian-producten, is Jira de logische keuze vanwege de soepele samenwerking. De Atlassian-suite biedt een gecombineerd abonnement dat goedkoper kan zijn dan losse tools."
 ---
 
 Ik zie het regelmatig bij softwareteams die ik begeleid: Jira staat op de planning als "te vervangen door iets gebruiksvriendelijkers", en een jaar later gebruiken ze het nog steeds. Niet omdat het zo makkelijk is, maar omdat het zo grondig is. Jira doet wat het belooft — mits je bereid bent de steile leercurve te beklimmen.
@@ -96,7 +96,7 @@ Jira hanteert vier abonnementsvormen. De prijzen zijn per gebruiker per maand, g
 - Alles uit Free, plus:
 - Onbeperkt gebruikers
 - Auditlog
-- Geavanceerde machtigingen per project
+- Uitgebreide machtigingen per project
 - Aangepaste velden en workflows
 - 250 GB opslagruimte
 - Kantooruren support
@@ -144,7 +144,7 @@ Wat ik sterk vind aan het Scrum-board:
 - **Backlog-beheer**: Issues kun je eenvoudig in de backlog slepen en naar een sprint verplaatsen. Sprint refinement wordt een stuk gestructureerder.
 - **Story points**: Je kunt inschatten hoeveel werk een issue vergt met story points. Jira berekent automatisch de sprintcapaciteit.
 - **Sprint velocity**: Na elke sprint zie je hoeveel punten je team heeft afgerond. Na drie sprints heb je een betrouwbaar beeld van je teamcapaciteit.
-- **Burndown charts**: Realtime grafiek die laat zien of je sprint op schema ligt. Eenvoudig, maar voor Scrum-teams onmisbaar.
+- **Burndown charts**: Realtime grafiek die laat zien of je sprint op schema ligt. Eenvoudig, maar voor Scrum-teams essentieel.
 
 **Nadeel:** De Scrum-terminologie kan overweldigend zijn voor nieuwe medewerkers die geen agile-achtergrond hebben. Epics, stories, tasks en subtasks — je moet je teamleden echt inwerken.
 
@@ -180,7 +180,7 @@ Jira biedt een uitgebreide set aan standaardrapportages, met name voor Scrum-tea
 - **Control chart**: doorlooptijd per issue meten
 - **Epic report**: voortgang op epic-niveau
 
-In Premium komen daar **Advanced Roadmaps** bij: een Gantt-achtige tijdlijn over meerdere teams en projecten. Afhankelijkheden zijn zichtbaar en aanpasbaar. Dit is voor grotere organisaties onmisbaar.
+In Premium komen daar **Advanced Roadmaps** bij: een Gantt-achtige tijdlijn over meerdere teams en projecten. Afhankelijkheden zijn zichtbaar en aanpasbaar. Dit is voor grotere organisaties essentieel.
 
 **Eerlijk oordeel:** De rapportages zijn krachtig maar vragen enige kennis om te interpreteren. Wie nooit met sprint velocity of cycle time heeft gewerkt, zal tijd moeten investeren. [Asana](/blog/asana-review-2026/) en [Monday.com](/blog/monday-com-review-2026/) bieden toegankelijkere dashboards.
 
@@ -210,7 +210,7 @@ Dit is niet nagebootst te worden met integraties. Monday.com en Asana kunnen Con
 
 **Prijsoverweging:** Confluence kost apart $5,75 (Standard) of $11 (Premium) per gebruiker per maand. Gecombineerd met Jira Standard ($8,15) kom je op circa $14/gebruiker — nog steeds goedkoper dan Asana Advanced ($24,99) als je beide tools nodig hebt.
 
-### Geavanceerde zoekopdrachten met JQL
+### Uitgebreide zoekopdrachten met JQL
 
 Jira Query Language (JQL) is een krachtige zoekmethode waarmee je specifieke sets issues kunt opvragen. Voorbeelden:
 
@@ -311,7 +311,7 @@ Jira zonder onboarding werkt niet. Plan een inleiding van 1-2 uur voor nieuwe te
 - **Aanpasbare workflows**: volledig instelbaar per team en project
 - **Krachtige rapportages**: sprint velocity, burndown, cycle time — alles is aanwezig
 - **Gunstige prijs voor grotere teams**: staffelkortingen bij 101+ gebruikers
-- **Atlassian-ecosysteem**: naadloze samenwerking met Confluence, Bitbucket en Trello
+- **Atlassian-ecosysteem**: soepele samenwerking met Confluence, Bitbucket en Trello
 
 ### Nadelen
 
@@ -421,7 +421,7 @@ Wil je Jira zelf uitproberen?
 
 ### Is Jira gratis te gebruiken?
 
-Ja, Jira heeft een permanent gratis plan voor maximaal 10 gebruikers. Je krijgt toegang tot Scrum- en Kanban-boards, de backlog, basisrapportages en 2 GB opslagruimte. Voor kleine ontwikkelteams is dit plan ruim voldoende om te starten. Zodra je team groeit of je geavanceerde rapportages nodig hebt, moet je upgraden naar Standard.
+Ja, Jira heeft een permanent gratis plan voor maximaal 10 gebruikers. Je krijgt toegang tot Scrum- en Kanban-boards, de backlog, basisrapportages en 2 GB opslagruimte. Voor kleine ontwikkelteams is dit plan ruim voldoende om te starten. Zodra je team groeit of je gedetailleerde rapportages nodig hebt, moet je upgraden naar Standard.
 
 ### Wat kost Jira per maand in 2026?
 
@@ -445,4 +445,4 @@ De drie beste alternatieven zijn Asana (beter voor niet-agile projectteams, mooi
 
 ### Werkt Jira goed samen met andere Atlassian-tools?
 
-Ja, de integratie met Confluence (documentatie), Bitbucket (code-repositories) en Trello is uitstekend. Als je al gebruikmaakt van Atlassian-producten, is Jira de logische keuze vanwege de naadloze samenwerking. De Atlassian-suite biedt een gecombineerd abonnement dat goedkoper kan zijn dan losse tools.
+Ja, de integratie met Confluence (documentatie), Bitbucket (code-repositories) en Trello is uitstekend. Als je al gebruikmaakt van Atlassian-producten, is Jira de logische keuze vanwege de soepele samenwerking. De Atlassian-suite biedt een gecombineerd abonnement dat goedkoper kan zijn dan losse tools.

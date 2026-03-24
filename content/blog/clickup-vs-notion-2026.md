@@ -149,8 +149,8 @@ Winnaar: **ClickUp**, duidelijk.
 |---|---|---|
 | Free Forever | Gratis | Onbeperkte taken, 100 MB opslag, beperkte weergaven |
 | Unlimited | $7/gbr/mnd | Onbeperkte opslag, Gantt, tijdregistratie, integraties |
-| Business | $12/gbr/mnd | Geavanceerde automatiseringen, workload, sprints |
-| Enterprise | Op aanvraag | SSO, geavanceerde rechten, dedicated support |
+| Business | $12/gbr/mnd | Uitgebreide automatiseringen, workload, sprints |
+| Enterprise | Op aanvraag | SSO, uitgebreide rechten, dedicated support |
 | ClickUp AI | $7/gbr/mnd add-on | AI-assistent voor alle plannen |
 
 ### Notion prijsplannen
@@ -159,8 +159,8 @@ Winnaar: **ClickUp**, duidelijk.
 |---|---|---|
 | Free | Gratis | Onbeperkte pagina's, 1 gast, 5 MB upload |
 | Plus | $10/gbr/mnd | Onbeperkte gasten, 100 uploads, versiegeschiedenis |
-| Business | $18/gbr/mnd | SAML SSO, geavanceerde rechten, 1 jaar geschiedenis |
-| Enterprise | Op aanvraag | Geavanceerde beveiliging, dedicated support |
+| Business | $18/gbr/mnd | SAML SSO, uitgebreide rechten, 1 jaar geschiedenis |
+| Enterprise | Op aanvraag | Uitgebreide beveiliging, dedicated support |
 | Notion AI | $10/gbr/mnd add-on | Schrijfassistentie, Q&A, samenvatting |
 
 ClickUp is goedkoper op vergelijkbaar niveau. ClickUp Unlimited ($7) vs Notion Plus ($10) is al een verschil. Voeg je AI toe, dan betaal je bij Notion $20/gebruiker/maand vs $14 bij ClickUp.

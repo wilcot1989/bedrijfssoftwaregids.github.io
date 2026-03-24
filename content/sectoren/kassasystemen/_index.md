@@ -57,9 +57,9 @@ Prijzen en functionaliteit veranderen regelmatig. Wij controleren en actualisere
 
 **Horeca** heeft tafelmanagement, gesplitste rekeningen en een koppeling met de keukenprinter nodig naast de standaard kassafuncties. Op de pagina [kassasysteem voor horeca](/sectoren/kassasystemen/kassasysteem-horeca/) vergelijken we horecaspecifieke POS-systemen op functies en prijs.
 
-**Retail** heeft voorraadbeheer, barcodescanning en koppelingen met webshops nodig voor een naadloze omnichannel ervaring. De pagina [kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/) vergelijkt systemen die zowel de fysieke winkel als de online verkoop kunnen ondersteunen.
+**Retail** heeft voorraadbeheer, barcodescanning en koppelingen met webshops nodig voor een soepele omnichannel ervaring. De pagina [kassasysteem voor retail](/sectoren/kassasystemen/kassasysteem-retail/) vergelijkt systemen die zowel de fysieke winkel als de online verkoop kunnen ondersteunen.
 
-**Kapsalons** combineren afsprakenbeheer met kassafuncties en hebben behoefte aan een systeem dat beide naadloos integreert. Op de pagina [kassasysteem voor kapsalon](/sectoren/kassasystemen/kassasysteem-kapsalon/) bespreken we de meest gebruikte POS-systemen in de kapperssector.
+**Kapsalons** combineren afsprakenbeheer met kassafuncties en hebben behoefte aan een systeem dat beide direct integreert. Op de pagina [kassasysteem voor kapsalon](/sectoren/kassasystemen/kassasysteem-kapsalon/) bespreken we de meest gebruikte POS-systemen in de kapperssector.
 
 **Foodtrucks** hebben behoefte aan een mobiel, offline-werkend kassasysteem met lage transactiekosten en eenvoudige menu-aanpassing. De pagina [kassasysteem voor foodtruck](/sectoren/kassasystemen/kassasysteem-foodtruck/) vergelijkt readers en POS-apps die mobiel werken.
 

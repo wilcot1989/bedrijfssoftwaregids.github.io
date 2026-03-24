@@ -24,7 +24,7 @@ faq:
   - q: "Kan ik Lightspeed koppelen aan Thuisbezorgd en Uber Eats?"
     a: "Ja. Lightspeed Restaurant biedt integraties met Thuisbezorgd, Uber Eats en Deliveroo. De koppeling loopt in veel gevallen via Deliverect, een tussenschakel. Bestellingen verschijnen automatisch op je kassascherm en menuwijzigingen beheer je vanuit een centraal dashboard. Je hebt hiervoor wel een hoger pakket of een aparte Deliverect-licentie nodig."
   - q: "Werkt Lightspeed ook zonder internet?"
-    a: "Gedeeltelijk. Lightspeed heeft een offline modus waarmee je bestellingen kunt blijven opnemen als de verbinding wegvalt. Pinbetalingen via Lightspeed Payments werken op dat moment niet. Zodra de verbinding hersteld is, synchroniseert alles automatisch. Voor zaken met een onbetrouwbare internetverbinding is Untill een robuuster alternatief."
+    a: "Gedeeltelijk. Lightspeed heeft een offline modus waarmee je bestellingen kunt blijven opnemen als de verbinding wegvalt. Pinbetalingen via Lightspeed Payments werken op dat moment niet. Zodra de verbinding hersteld is, synchroniseert alles automatisch. Voor zaken met een onbetrouwbare internetverbinding is Untill een betrouwbaarder alternatief."
   - q: "Wat is het verschil tussen Lightspeed Restaurant en Lightspeed Retail?"
     a: "Lightspeed Restaurant is gebouwd voor horeca: tafelmanagement, keukenprinters, menukaartbeheer en bezorgplatformkoppelingen zijn kernfuncties. Lightspeed Retail richt zich op winkels met uitgebreid voorraadbeheer, barcodescanning, leveranciersbeheer en een optionele webshopkoppeling via Lightspeed eCom. Je kiest het product dat bij jouw branche past."
   - q: "Hoe scoort Lightspeed bij Nederlandse gebruikers?"
@@ -109,7 +109,7 @@ Wat je moet weten: de koppeling werkt goed als alles correct is ingesteld, maar 
 Lightspeed biedt een eigen betaaloplossing: **Lightspeed Payments**. Hiermee verwerk je pin- en contactloze betalingen rechtstreeks vanuit de kassa, zonder aparte betaalterminal van een derde partij.
 
 Voordelen van Lightspeed Payments:
-- Naadloze integratie: kasticket en betaaltransactie zijn direct gekoppeld
+- Soepele integratie: kasticket en betaaltransactie zijn direct gekoppeld
 - Geen handmatig overtypen van bedragen
 - Gecentraliseerde transactieoverzichten in de backoffice
 
@@ -153,7 +153,7 @@ Voor een modewinkel of speciaalzaak met honderden artikelen in meerdere variante
 
 Lightspeed Retail heeft een ingebouwde klantendatabase waarmee je aankoophistorie, voorkeuren en contactgegevens bijhoudt. Je kunt klanten opzoeken aan de kassa, de aankoophistorie raadplegen en direct aansluiten bij een terugkeer- of loyaliteitsprogramma.
 
-Het loyaliteitsprogramma (punten sparen per euro besteed) is beschikbaar als add-on. De functionaliteit is functioneel maar niet verbluffend — voor geavanceerde loyalty-campagnes heb je een externe tool of integratie nodig.
+Het loyaliteitsprogramma (punten sparen per euro besteed) is beschikbaar als add-on. De functionaliteit is functioneel maar niet verbluffend — voor uitgebreide loyalty-campagnes heb je een externe tool of integratie nodig.
 
 ### Lightspeed eCom: webshop-integratie
 
@@ -207,7 +207,7 @@ Op basis van mijn ervaring met klanten en publiek beschikbare informatie zijn de
 | Pakket | Indicatieve prijs | Wat erbij zit |
 |---|---|---|
 | **Starter** | Vanaf ~€69/mnd | 1 kassa, basisrapportages, Lightspeed Payments |
-| **Essential** | Vanaf ~€119/mnd | Meerdere kassa's, geavanceerde rapportages, tafelbeheer |
+| **Essential** | Vanaf ~€119/mnd | Meerdere kassa's, gedetailleerde rapportages, tafelbeheer |
 | **Premium** | Vanaf ~€199/mnd | Multi-locatie, API-toegang, priority support |
 
 Prijzen zijn richtprijzen en kunnen variëren per configuratie, extra modules en regio. Bij maandelijkse betaling reken je circa 20 tot 25% meer.
@@ -225,7 +225,7 @@ Lightspeed Retail heeft een vergelijkbare structuur:
 |---|---|---|
 | **Starter** | Vanaf ~€89/mnd | 1 register, basisvoorraadbeheer, Lightspeed Payments |
 | **Standard** | Vanaf ~€149/mnd | Meerdere registers, uitgebreid voorraadbeheer, klantenbeheer |
-| **Advanced** | Vanaf ~€229/mnd | Multi-locatie, geavanceerde rapportages, eCom inbegrepen |
+| **Advanced** | Vanaf ~€229/mnd | Multi-locatie, gedetailleerde rapportages, eCom inbegrepen |
 
 Ook hier geldt: hoe meer locaties, registers en modules, hoe hoger de totaalprijs. Een retailer met drie vestigingen en vijf registers betaalt aanzienlijk meer dan een starter met één winkel.
 
@@ -285,12 +285,12 @@ Zie mijn volledige [Lightspeed vs. Square vergelijking](/blog/lightspeed-vs-squa
 
 ### Lightspeed vs. Untill
 
-Untill is een Nederlandse speler die geliefd is bij grotere horecazaken vanwege de robuuste offline modus en uitgebreide functies. Het systeem is minder mooi van interface maar technisch betrouwbaarder in omgevingen met wisselende internetverbinding.
+Untill is een Nederlandse speler die geliefd is bij grotere horecazaken vanwege de solide offline modus en uitgebreide functies. Het systeem is minder mooi van interface maar technisch betrouwbaarder in omgevingen met wisselende internetverbinding.
 
 | | Lightspeed Restaurant | Untill |
 |---|---|---|
 | **Interface** | Modern, iPad-native | Functioneel, minder polijst |
-| **Offline modus** | Gedeeltelijk | Volledig robuust |
+| **Offline modus** | Gedeeltelijk | Volledig solide |
 | **Bezorgkoppelingen** | Sterk | Aanwezig, minder prominent |
 | **Prijs** | ~€69-199/mnd | ~€79-250/mnd |
 | **Doelgroep** | Breed: cafés t/m ketens | Grote horeca, stadions, evenementen |
@@ -372,7 +372,7 @@ Na drie jaar Lightspeed-klanten is mijn conclusie genuanceerd.
 
 **Lightspeed Restaurant is minder geschikt als:**
 - Je klein bent en kostenbewust opereert
-- Je primair behoefte hebt aan robuuste offline-werking
+- Je primair behoefte hebt aan solide offline-werking
 - Je geen jaarcontract wilt aangaan
 
 **Lightspeed Retail is een goede keuze als:**

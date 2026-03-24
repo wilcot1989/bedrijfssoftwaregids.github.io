@@ -196,7 +196,7 @@ Freshdesk heeft community forums (klanten helpen klanten) op hogere plannen. Int
 |------|-----------------|---------|
 | Free | €0 | Max 10 agenten |
 | Growth | €15 | Basisfunctionaliteit |
-| Pro | €49 | Geavanceerd (inclusief rapportages) |
+| Pro | €49 | Uitgebreid (inclusief rapportages) |
 | Enterprise | €79 | Enterprise-functies |
 
 ### Intercom prijzen
@@ -287,7 +287,7 @@ Intercom is niet ontworpen voor interne IT-support.
 
 **Aanbeveling: Freshdesk Pro**
 
-Freshdesk Pro biedt goede omnichannel support, geavanceerde rapportages en GDPR-compliance. De prijs is redelijk voor de functionaliteit.
+Freshdesk Pro biedt goede omnichannel support, gedetailleerde rapportages en GDPR-compliance. De prijs is redelijk voor de functionaliteit.
 
 Intercom past minder goed bij de traditionele communicatiestijl van financieel advies.
 

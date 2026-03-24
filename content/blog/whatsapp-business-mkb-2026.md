@@ -26,7 +26,7 @@ faq:
   - q: "Wat is het verschil tussen WhatsApp Business App en WhatsApp Business API?"
     a: "De WhatsApp Business App is een gratis app voor je telefoon, geschikt voor ZZP'ers en kleine bedrijven met maximaal vier apparaten. De WhatsApp Business API is een programmatische interface voor bedrijven die WhatsApp willen integreren in hun software, meerdere medewerkers tegelijk berichten laten beantwoorden of automatisch willen antwoorden. De API heb je altijd via een officieel BSP (Business Solution Provider) nodig."
   - q: "Wat zijn goede alternatieven voor WhatsApp Business?"
-    a: "Trengo (Nederlands platform, €25/gebruiker/mnd) is de meest complete oplossing voor MKB: het combineert WhatsApp, e-mail, chat en sociale media in één inbox. Tidio is goedkoper en focust op live chat en chatbots op je website. Voor puur WhatsApp-communicatie zonder brede multi-channel aanpak is Messagebird een robuuste keuze. Welke je kiest hangt af van of je alleen WhatsApp wilt of een complete klantenservice-inbox."
+    a: "Trengo (Nederlands platform, €25/gebruiker/mnd) is de meest complete oplossing voor MKB: het combineert WhatsApp, e-mail, chat en sociale media in één inbox. Tidio is goedkoper en focust op live chat en chatbots op je website. Voor puur WhatsApp-communicatie zonder brede multi-channel aanpak is Messagebird een solide keuze. Welke je kiest hangt af van of je alleen WhatsApp wilt of een complete klantenservice-inbox."
   - q: "Hoeveel apparaten kan ik koppelen aan de WhatsApp Business App?"
     a: "Maximaal vijf apparaten: één primair telefoon en vier extra apparaten (tablets, computers via WhatsApp Web). Voor grotere teams is de gratis app dus niet geschikt — je hebt dan de API nodig via een BSP."
 ---
@@ -104,7 +104,7 @@ Bovenop de Meta-kosten betaal je voor het platform:
 | Platform | Prijs | Kenmerken |
 |---|---|---|
 | **Trengo** | Vanaf €25/gebruiker/mnd | Multi-channel, NL support, CRM-koppelingen |
-| **Messagebird** | Vanaf €45/mnd (platform) | Robuust, API-gericht, goed voor developers |
+| **Messagebird** | Vanaf €45/mnd (platform) | Solide, API-gericht, goed voor developers |
 | **360dialog** | Vanaf €9/mnd (alleen WhatsApp-toegang) | Goedkoopste optie, geen extra features |
 | **Respond.io** | Vanaf $79/mnd | Sterk in automatisering, internationale focus |
 

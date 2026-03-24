@@ -26,7 +26,7 @@ faq:
   - q: "Is Wrike geschikt voor kleine teams?"
     a: "Ja, maar het hangt af van je behoeften. Het gratis plan is bruikbaar voor teams tot 5 mensen met basistaakvereisten. Het Team-plan ($9,80/gebruiker) is vergelijkbaar geprijsd met Monday.com en Asana, maar heeft minder gebruiksvriendelijke onboarding. Voor eenvoudige projecten zijn Monday.com of Basecamp eenvoudiger om mee te starten."
   - q: "Wat maakt Wrike uniek ten opzichte van andere projectmanagement tools?"
-    a: "Wrike onderscheidt zich op drie punten: geavanceerde proofing en approval-workflows voor creatieve teams, krachtige resource management en werkbelastingplanning, en uitgebreide rapportage met aanpasbare dashboards. Dit zijn enterprise-functies die bij de meeste concurrenten alleen beschikbaar zijn in de duurste plannen."
+    a: "Wrike onderscheidt zich op drie punten: uitgebreide proofing en approval-workflows voor creatieve teams, krachtige resource management en werkbelastingplanning, en uitgebreide rapportage met aanpasbare dashboards. Dit zijn enterprise-functies die bij de meeste concurrenten alleen beschikbaar zijn in de duurste plannen."
   - q: "Heeft Wrike een goede Gantt-chart?"
     a: "Ja, Wrike's Gantt-chart is een van de sterkste in de markt. Je kunt taakafhankelijkheden instellen, het kritieke pad zichtbaar maken, meerdere projecten gelijktijdig weergeven en de tijdlijn aanpassen met drag-and-drop. De Gantt-chart is beschikbaar vanaf het Business-plan ($24,80/gebruiker/maand)."
   - q: "Hoe verhoudt Wrike zich tot Monday.com?"
@@ -93,7 +93,7 @@ Wrike heeft vijf plannen, maar de meeste mkb-bedrijven kiezen tussen Free, Team 
 
 ### Wat betaal je werkelijk?
 
-De sprong van Team ($9,80) naar Business ($24,80) is fors — meer dan 2,5x hogere prijs. Maar in die sprong zitten de meest onderscheidende functies van Wrike: Gantt-charts, proofing, resource planning en geavanceerde workflows.
+De sprong van Team ($9,80) naar Business ($24,80) is fors — meer dan 2,5x hogere prijs. Maar in die sprong zitten de meest onderscheidende functies van Wrike: Gantt-charts, proofing, resource planning en uitgebreide workflows.
 
 Concreet: een team van 10 personen op Business-plan betaalt $248/maand (jaarlijks). Dat is duurder dan Monday.com Pro ($190) en aanzienlijk duurder dan ClickUp Business ($120). De vraag is of de extra functies de meerprijs rechtvaardigen.
 
@@ -124,7 +124,7 @@ Wrike's Gantt-chart is een van de sterkste in de markt. Beschikbaar vanaf het Bu
 
 In mijn test bij het productiebedrijf was de Gantt-chart het meest gewaardeerde onderdeel. De projectmanager, gewend aan MS Project, vond de overstap eenvoudiger dan verwacht. Het kritieke pad hielp om vroeg te signaleren waar vertraging in één taak domino-effecten had op het volledige project.
 
-Beperkingen: de Gantt is alleen beschikbaar op Business+ niveau. Op het Team-plan moet je het met een tijdlijn-weergave doen die minder geavanceerd is.
+Beperkingen: de Gantt is alleen beschikbaar op Business+ niveau. Op het Team-plan moet je het met een tijdlijn-weergave doen die minder uitgebreid is.
 
 ### Custom Workflows
 
@@ -405,7 +405,7 @@ Ja, maar het hangt af van je behoeften. Het gratis plan is bruikbaar voor teams 
 
 ### Wat maakt Wrike uniek ten opzichte van andere projectmanagement tools?
 
-Wrike onderscheidt zich op drie punten: geavanceerde proofing en approval-workflows voor creatieve teams, krachtige resource management en werkbelastingplanning, en uitgebreide rapportage met aanpasbare dashboards. Dit zijn enterprise-functies die bij de meeste concurrenten alleen beschikbaar zijn in de duurste plannen.
+Wrike onderscheidt zich op drie punten: uitgebreide proofing en approval-workflows voor creatieve teams, krachtige resource management en werkbelastingplanning, en uitgebreide rapportage met aanpasbare dashboards. Dit zijn enterprise-functies die bij de meeste concurrenten alleen beschikbaar zijn in de duurste plannen.
 
 ### Heeft Wrike een goede Gantt-chart?
 

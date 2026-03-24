@@ -108,7 +108,7 @@ De integratiemogelijkheden zijn het grootste voordeel. Exact Online heeft koppel
 
 De projectmodule maakt het mogelijk om per cliënt of per zorgtraject kosten bij te houden. Dat is nuttig voor WMO-leveranciers die per opdracht rapporteren aan de gemeente: je kunt een project aanmaken per zorgvrager, uren en kosten koppelen, en op elk moment een overzicht trekken van wat een traject heeft gekost versus opgebracht.
 
-Voor salarisadministratie biedt Exact Online een robuuste module, inclusief ondersteuning voor cao's, toeslagen en meerdere contracttypen. Dat maakt het geschikt voor thuiszorgorganisaties en kleine zorgbedrijven met tien of meer medewerkers.
+Voor salarisadministratie biedt Exact Online een solide module, inclusief ondersteuning voor cao's, toeslagen en meerdere contracttypen. Dat maakt het geschikt voor thuiszorgorganisaties en kleine zorgbedrijven met tien of meer medewerkers.
 
 **Beperkingen voor de zorg:**
 
@@ -300,7 +300,7 @@ Kies Moneybird. Het is gebruiksvriendelijk, goedkoop en doet alles wat je nodig 
 Kies SnelStart Go. De salarismodule is de doorslaggevende factor. De meerprijs (ca. €6/mnd ten opzichte van Moneybird) is gerechtvaardigd als je ook loonaangifte wil doen vanuit hetzelfde systeem.
 
 **Heb je een groeiende praktijk met vijf of meer medewerkers?**
-Overweeg Exact Online. De hogere prijs weegt op tegen de tijdwinst door PMS-koppelingen, betere rapportages en een robuustere salarismodule. Betrek een Exact-partner bij de inrichting.
+Overweeg Exact Online. De hogere prijs weegt op tegen de tijdwinst door PMS-koppelingen, betere rapportages en een betrouwbaardere salarismodule. Betrek een Exact-partner bij de inrichting.
 
 **Heb je een heel klein budget en weinig transacties?**
 e-Boekhouden kan volstaan. Accepteer dat de interface ouder is en dat je meer handmatig moet doen.

@@ -16,7 +16,7 @@ faq:
   - q: "Voor hoeveel gebruikers is HubSpot gratis?"
     a: "HubSpot's gratis CRM heeft onbeperkte gebruikers — dat is een echte plus. Zoho CRM is gratis voor maximaal 3 gebruikers. Voor grotere teams is HubSpot's gratis plan initieel aantrekkelijker, maar zodra je betaalde functies nodig hebt, zijn de per-seat kosten van HubSpot aanzienlijk hoger dan Zoho."
   - q: "Welke heeft betere marketingautomatisering: HubSpot of Zoho?"
-    a: "HubSpot wordt beschouwd als de marktleider in inbound marketing en heeft de meest geavanceerde marketingautomatisering. Zoho CRM combineert met Zoho Campaigns voor vergelijkbare functies, maar HubSpot's marketing tools zijn dieper geïntegreerd en gebruiksvriendelijker op marketinggebied."
+    a: "HubSpot wordt beschouwd als de marktleider in inbound marketing en heeft de meest uitgebreide marketingautomatisering. Zoho CRM combineert met Zoho Campaigns voor vergelijkbare functies, maar HubSpot's marketing tools zijn dieper geïntegreerd en gebruiksvriendelijker op marketinggebied."
   - q: "Is Zoho CRM een goede HubSpot-vervanger?"
     a: "Ja, voor veel MKB-bedrijven is Zoho CRM een uitstekende HubSpot-vervanger. Je krijgt vergelijkbare CRM-functies voor een fractie van de prijs. Zoho mist de diepte van HubSpot's marketing Hub, maar als je primair CRM en basale automatisering nodig hebt, is Zoho ruim voldoende."
   - q: "Hoe verschillen HubSpot en Zoho CRM op rapportages?"
@@ -68,7 +68,7 @@ De Trustpilot-score van 2.9 is zorgelijk. HubSpot ontvangt structureel negatieve
 - Free: €0 (onbeperkte gebruikers, basis CRM)
 - Starter: €45/maand (2 gebruikers, Marketing + Sales + Service basics)
 - Professional: €800/maand (5 gebruikers, volledige automatisering)
-- Enterprise: €3.300/maand (10 gebruikers, geavanceerde functies)
+- Enterprise: €3.300/maand (10 gebruikers, uitgebreide functies)
 
 Let op: extra gebruikers kosten €23-€92/gebruiker/maand afhankelijk van het plan.
 
@@ -198,7 +198,7 @@ Beide hebben een Nederlandse interface, GDPR/AVG-compliance, en Nederlandse klan
 
 - Kostenefficiëntie een belangrijke factor is in je softwarekeuze
 - Je al andere Zoho-tools gebruikt (Zoho Books, Zoho Desk, Zoho Campaigns)
-- Je geavanceerde AI-analyses wil zonder Enterprise-prijzen te betalen
+- Je krachtige AI-analyses wil zonder Enterprise-prijzen te betalen
 - Je een salesteam hebt dat complexe deals beheert en uitgebreide CRM-aanpassing nodig heeft
 - Je een HubSpot-alternatief zoekt dat veel minder kost
 
@@ -257,7 +257,7 @@ HubSpot's gratis CRM is indrukwekkend in wat het biedt — maar er zijn ook gren
 
 **Wat je gratis niet krijgt:**
 - E-mailsequenties (automatische opvolgmails)
-- Geavanceerde segmentatie
+- Uitgebreide segmentatie
 - A/B-testing
 - Aangepaste rapportages
 - Uitgebreide marketingautomatisering
@@ -274,7 +274,7 @@ HubSpot's businessmodel is gebouwd op het gratis plan als instap en de upgradedr
 
 1. Je begint gratis
 2. Je groeit en wil e-mailsequenties — je upgradet naar Starter
-3. Je wil A/B-testing en geavanceerde rapportages — je upgradet naar Professional
+3. Je wil A/B-testing en gedetailleerde rapportages — je upgradet naar Professional
 4. Je wil prognosetools en meerdere teams — je upgradet naar Enterprise
 
 Elk upgrade-niveau is een significant prijssprong. Van gratis naar Starter is relatief betaalbaar (€45/maand). Van Starter naar Professional is een enorme sprong: €800/maand. Voor de meeste Nederlandse MKB-bedrijven is Professional te duur als je alleen CRM- en basale marketingfuncties nodig hebt.
@@ -287,7 +287,7 @@ HubSpot wordt terecht erkend als de marktleider in inbound marketing. De marketi
 
 Op Starter-niveau biedt HubSpot basale automatisering: simpele e-mailflows, basis segmentatie, en weergave van wie je e-mails opent. Dat is nuttig maar niet spectaculair.
 
-**Zoho CRM + Zoho Campaigns** (samen €23-€40/maand voor CRM + campagnes voor kleine teams) biedt vergelijkbare marketingautomatisering voor een fractie van HubSpot Professional's prijs. De integratie tussen CRM en e-mailmarketing in Zoho is naadloos omdat het één ecosysteem is.
+**Zoho CRM + Zoho Campaigns** (samen €23-€40/maand voor CRM + campagnes voor kleine teams) biedt vergelijkbare marketingautomatisering voor een fractie van HubSpot Professional's prijs. De integratie tussen CRM en e-mailmarketing in Zoho is soepel omdat het één ecosysteem is.
 
 ### Content marketing en SEO: HubSpot's unieke kracht
 
@@ -295,7 +295,7 @@ Dit is een gebied waar HubSpot écht superieur is, en ik wil het eerlijk benoeme
 
 HubSpot's CMS Hub (niet inbegrepen in de basis CRM, maar als add-on of in sommige bundels) biedt een volledig contentplatform: bloggen, landingspagina's, SEO-suggesties, content strategy tools, en A/B-testing voor pagina's. Als content marketing een sleutelstrategie is voor jouw bedrijf, is HubSpot hier zonder twijfel beter dan Zoho CRM.
 
-Zoho CRM heeft geen ingebouwd CMS of content marketing tooling. Daarvoor heb je Zoho Sites of een externe website-tool nodig, en de integratie is minder naadloos.
+Zoho CRM heeft geen ingebouwd CMS of content marketing tooling. Daarvoor heb je Zoho Sites of een externe website-tool nodig, en de integratie is minder soepel.
 
 **Conclusie:** Als content marketing en SEO essentieel zijn voor je groeistrategie, geeft HubSpot een echte meerwaarde die de hogere prijs kan rechtvaardigen.
 
@@ -387,7 +387,7 @@ Je bouwt software, hebt een klein team, en wil groeien via content marketing, SE
 
 ### Scenario 2: Dienstverlenend bedrijf, 15 medewerkers, geen marketing
 
-Je levert zakelijke diensten, vindt werk via netwerk en referrals, en hebt primair een goed CRM nodig voor klantbeheer en dealtracking. Geavanceerde marketing is niet relevant.
+Je levert zakelijke diensten, vindt werk via netwerk en referrals, en hebt primair een goed CRM nodig voor klantbeheer en dealtracking. Uitgebreide marketing is niet relevant.
 
 **Mijn keuze: Zoho CRM Standard (€14/gebruiker/maand).** Je betaalt 30% van wat HubSpot Professional kost en krijgt een volwaardig CRM. HubSpot's marketingfuncties zijn voor dit scenario overbodig.
 
@@ -435,7 +435,7 @@ HubSpot's gratis CRM heeft onbeperkte gebruikers — dat is een echte plus. Zoho
 
 ### Welke heeft betere marketingautomatisering: HubSpot of Zoho?
 
-HubSpot wordt beschouwd als de marktleider in inbound marketing en heeft de meest geavanceerde marketingautomatisering. Zoho CRM combineert met Zoho Campaigns voor vergelijkbare functies, maar HubSpot's marketing tools zijn dieper geïntegreerd en gebruiksvriendelijker op marketinggebied.
+HubSpot wordt beschouwd als de marktleider in inbound marketing en heeft de meest uitgebreide marketingautomatisering. Zoho CRM combineert met Zoho Campaigns voor vergelijkbare functies, maar HubSpot's marketing tools zijn dieper geïntegreerd en gebruiksvriendelijker op marketinggebied.
 
 ### Is Zoho CRM een goede HubSpot-vervanger?
 

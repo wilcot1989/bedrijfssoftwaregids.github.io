@@ -262,7 +262,7 @@ Loket.nl is het meest geschikt als je al samenwerkt met een salarisadviseur of a
 - WvP-procedure volledig geautomatiseerd met deadlines en herinneringen
 - Verzuimdossier per medewerker
 - Koppeling met arbo-dienst via API
-- Geavanceerde verzuimanalyse en dashboards voor HR
+- Uitgebreide verzuimanalyse en dashboards voor HR
 - Integratie met externe re-integratietools
 
 ### Prijs
@@ -353,7 +353,7 @@ Gebruik dit vijfstappenplan:
 
 ### Stap 1: Bepaal de primaire behoefte
 
-Wil je primair verlof beheren? Of is de WvP-trajectbegeleiding minstens even belangrijk? Als je regelmatig te maken hebt met langdurig verzuim (bijv. in de zorg, productie of logistiek), is een tool met sterke WvP-bewaking onmisbaar. Als je primair vakantiedagen wil digitaliseren, is een eenvoudiger tool voldoende.
+Wil je primair verlof beheren? Of is de WvP-trajectbegeleiding minstens even belangrijk? Als je regelmatig te maken hebt met langdurig verzuim (bijv. in de zorg, productie of logistiek), is een tool met sterke WvP-bewaking essentieel. Als je primair vakantiedagen wil digitaliseren, is een eenvoudiger tool voldoende.
 
 ### Stap 2: Check de salariskoppeling
 
@@ -381,7 +381,7 @@ Bij tools zoals Personio en AFAS is implementatiebegeleiding door een consultant
 
 **Groeiend MKB (50-200 medewerkers):** Personio — breedte van het platform voorkomt herhaalde migratie bij groei. Lees ook de vergelijking [Personio vs HoorayHR 2026](/blog/personio-vs-hoorayhr-2026/).
 
-**Via salarisadviseur:** Loket.nl — als je al samenwerkt met een Loket-adviseur, is dit de meest gestroomlijnde optie.
+**Via salarisadviseur:** Loket.nl — als je al samenwerkt met een Loket-adviseur, is dit de meest efficiënte optie.
 
 **Grote organisatie (100+ mdw) met AFAS-omgeving:** AFAS InSite — de meest complete WvP-bewaking en verzuimanalyse. Zie de [AFAS Review 2026](/blog/afas-review-2026/) voor een volledig beeld.
 

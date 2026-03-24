@@ -134,7 +134,7 @@ Exact Online is met meer dan 40 jaar marktervaring en 580.000+ klanten de meest 
 
 Exact Online past bij groeiende MKB-bedrijven van 5 tot 250 medewerkers die hun volledige bedrijfsadministratie willen centraliseren. Een bouwbedrijf dat urenstaten, projectkosten en salarisadministratie wil combineren. Een handelsbedrijf met uitgebreide voorraadbeheer-eisen. Een detacheringsbureau dat facturatie op urenbasis doet. Een accountantskantoor dat meerdere klantadministraties beheert.
 
-Ook als je boekhouder al met Exact Online werkt — en veel grotere accountantskantoren doen dat — is de samenwerking het meest naadloos als jij hetzelfde platform gebruikt.
+Ook als je boekhouder al met Exact Online werkt — en veel grotere accountantskantoren doen dat — is de samenwerking het meest soepel als jij hetzelfde platform gebruikt.
 
 ### Waar Exact Online uitblinkt
 
@@ -264,7 +264,7 @@ Je runt een restaurant, wilt je omzet- en kostenstructuur bijhouden, doet BTW-aa
 
 2. **Exact Online kopen voor functies die je niet gebruikt** — Ik heb zzp'ers begeleid die jarenlang €49/maand betaalden terwijl ze alleen facturen en BTW-aangifte deden. €264 per jaar te veel voor functies die ongebruikt blijven.
 
-3. **Niet vragen wat je accountant gebruikt** — Als je accountant al met Exact Online werkt en je gebruikt SnelStart, is de samenwerking minder naadloos. Bespreek dit altijd vooraf. De kostenbesparing van SnelStart kan teniet worden gedaan door extra accountantsuren.
+3. **Niet vragen wat je accountant gebruikt** — Als je accountant al met Exact Online werkt en je gebruikt SnelStart, is de samenwerking minder soepel. Bespreek dit altijd vooraf. De kostenbesparing van SnelStart kan teniet worden gedaan door extra accountantsuren.
 
 4. **De groeivraag vergeten** — SnelStart is perfect voor nu, maar hoe ziet je bedrijf er over 18 maanden uit? Als je snel groeit naar 10+ medewerkers, voorraadbeheer en salarisadministratie, bedenk dan nu al of het loont om meteen met Exact Online te beginnen en de migratiepijn te vermijden.
 

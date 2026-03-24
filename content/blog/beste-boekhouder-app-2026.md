@@ -116,7 +116,7 @@ De Jortt app is bijzonder gebruiksvriendelijk. Alles is eenvoudig en overzichtel
 - **Gratis**: Basisfuncties (handmatig bankieren)
 - **ZZP**: €19,95/maand (bankkoppeling, volledige functionaliteit voor zzp'ers)
 - **MKB**: €24,95/maand (meerdere gebruikers, uitgebreidere functies)
-- **Plus**: €34,95/maand (extra rapportages, geavanceerde functies)
+- **Plus**: €34,95/maand (extra rapportages, uitgebreide functies)
 
 ### Voordelen
 

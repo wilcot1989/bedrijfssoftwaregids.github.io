@@ -70,7 +70,7 @@ Exact Online is de meest gebruikte boekhoud- en ERP-software onder Nederlandse M
 - Koppeling met boekhouding: offerte → factuur in één klik
 - 500+ integraties met bouwsoftware en HR-tools
 
-**Nadelen:** CRM is functioneel maar minder geavanceerd dan pure CRM-tools. Geen marketing automation.
+**Nadelen:** CRM is functioneel maar minder uitgebreid dan pure CRM-tools. Geen marketing automation.
 
 **Prijs:** Vanaf €39/maand (incl. boekhouding).
 

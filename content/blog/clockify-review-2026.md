@@ -17,7 +17,7 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Is Clockify echt gratis?"
-    a: "Ja, het Free-plan van Clockify is permanent gratis voor onbeperkt gebruikers en onbeperkte projecten. Er is geen tijdslimiet, geen creditcard vereist en geen verborgen kosten. De beperkingen zitten in de rapportages (geen geavanceerde filters), het ontbreken van goedkeuringsworkflows en beperkte beheerfuncties."
+    a: "Ja, het Free-plan van Clockify is permanent gratis voor onbeperkt gebruikers en onbeperkte projecten. Er is geen tijdslimiet, geen creditcard vereist en geen verborgen kosten. De beperkingen zitten in de rapportages (geen uitgebreide filters), het ontbreken van goedkeuringsworkflows en beperkte beheerfuncties."
   - q: "Wat kost Clockify per maand?"
     a: "Clockify heeft vijf plannen. Het Free-plan is gratis voor onbeperkt gebruikers. Betaalde plannen zijn: Basic ($3,99/gebruiker/mnd), Standard ($5,49/gebruiker/mnd), Pro ($7,99/gebruiker/mnd) en Enterprise ($11,99/gebruiker/mnd), alle bij jaarlijkse betaling. Maandelijks betalen is circa 20% duurder."
   - q: "Wat is het verschil tussen Clockify en Toggl Track?"
@@ -27,7 +27,7 @@ faq:
   - q: "Kan ik Clockify koppelen aan mijn boekhoudsoftware?"
     a: "Direct native integraties met Nederlandse boekhoudsoftware (Exact Online, Moneybird, e-Boekhouden) zijn er niet. Clockify integreert wel met QuickBooks, Xero en FreshBooks. Via Zapier of Make koppel je Clockify aan vrijwel elke tool, inclusief de populaire Nederlandse pakketten. Op het Standard-plan kun je ook rechtstreeks facturen exporteren."
   - q: "Voor welk Clockify-plan moet ik kiezen?"
-    a: "Kleine teams (tot 10 personen) die tijdregistratie en basisrapportages nodig hebben: begin met het Free-plan. Heb je goedkeuringsworkflows, projectbudgettering of tijdvergrendeling nodig: kies Standard ($5,49/gebruiker/mnd). Teams met facturatiebehoefte en geavanceerde rapporten: Pro ($7,99/gebruiker/mnd). Voor grotere organisaties met SSO en auditlog: Enterprise ($11,99/gebruiker/mnd)."
+    a: "Kleine teams (tot 10 personen) die tijdregistratie en basisrapportages nodig hebben: begin met het Free-plan. Heb je goedkeuringsworkflows, projectbudgettering of tijdvergrendeling nodig: kies Standard ($5,49/gebruiker/mnd). Teams met facturatiebehoefte en gedetailleerde rapporten: Pro ($7,99/gebruiker/mnd). Voor grotere organisaties met SSO en auditlog: Enterprise ($11,99/gebruiker/mnd)."
 ---
 
 Ik zie het regelmatig bij de teams die ik begeleid: tijdregistratie is het eerste wat wordt uitgesteld en het laatste wat serieus wordt genomen. "We weten wel ongeveer hoeveel tijd projecten kosten." Bij een reclamebureau in Amsterdam ontdekten we na implementatie van Clockify dat ze structureel 23% meer uren besteedden aan klantcorrectieronden dan ze hadden begroot. Dat was niet een kwestie van slecht plannen — het was een kwestie van nooit meten.
@@ -61,7 +61,7 @@ Clockify heeft een helder prijsmodel met vijf plannen. Alle prijzen hieronder zi
 | **Free** | Gratis | Onbeperkt users, onbeperkte projecten, timer, basisrapportages |
 | **Basic** | $3,99 | Tijdvergrendeling, verplichte tijdinvoer, aanpasbare exporttemplates, projecttemplates |
 | **Standard** | $5,49 | Goedkeuringsworkflow, urendoelen per gebruiker, facturatie, Quickbooks/Xero-integratie |
-| **Pro** | $7,99 | Geavanceerde rapportages, budgetwaarschuwingen, GPS-tracking, schermopname, arbeidskosten |
+| **Pro** | $7,99 | Uitgebreide rapportages, budgetwaarschuwingen, GPS-tracking, schermopname, arbeidskosten |
 | **Enterprise** | $11,99 | SSO, auditlog, aangepaste subdomeinen, team-veldaanpassingen, SLA |
 
 ### Wat betaalt een team van 10 per jaar?
@@ -165,7 +165,7 @@ De kiosk-modus is inbegrepen in het gratis plan. Werkgevers in de retail, horeca
 
 ### 5. Sterk op rapportages (betaalde plannen)
 
-Zodra je naar Standard of Pro gaat, zijn de rapportages serieus goed. Geavanceerde filtering, budgetstatus, schattingen vs. realisaties, facturatiestatus — dit is het niveau waarop je als bureaudirecteur of projectmanager daadwerkelijk op kunt sturen. De visuele weergave is duidelijk, het exporteren naar CSV of PDF werkt vlekkeloos.
+Zodra je naar Standard of Pro gaat, zijn de rapportages serieus goed. Uitgebreide filtering, budgetstatus, schattingen vs. realisaties, facturatiestatus — dit is het niveau waarop je als bureaudirecteur of projectmanager daadwerkelijk op kunt sturen. De visuele weergave is duidelijk, het exporteren naar CSV of PDF werkt vlekkeloos.
 
 ---
 
@@ -304,7 +304,7 @@ Voor teams die méér willen dan puur tijdregistratie — taken, projecten, docu
 
 **Is Clockify echt gratis?**
 
-Ja, het Free-plan van Clockify is permanent gratis voor onbeperkt gebruikers en onbeperkte projecten. Er is geen tijdslimiet, geen creditcard vereist en geen verborgen kosten. De beperkingen zitten in de rapportages (geen geavanceerde filters), het ontbreken van goedkeuringsworkflows en beperkte beheerfuncties.
+Ja, het Free-plan van Clockify is permanent gratis voor onbeperkt gebruikers en onbeperkte projecten. Er is geen tijdslimiet, geen creditcard vereist en geen verborgen kosten. De beperkingen zitten in de rapportages (geen uitgebreide filters), het ontbreken van goedkeuringsworkflows en beperkte beheerfuncties.
 
 **Wat kost Clockify per maand?**
 
@@ -324,7 +324,7 @@ Direct native integraties met Nederlandse boekhoudsoftware (Exact Online, Moneyb
 
 **Voor welk Clockify-plan moet ik kiezen?**
 
-Kleine teams (tot 10 personen) die tijdregistratie en basisrapportages nodig hebben: begin met het Free-plan. Heb je goedkeuringsworkflows, projectbudgettering of tijdvergrendeling nodig: kies Standard ($5,49/gebruiker/mnd). Teams met facturatiebehoefte en geavanceerde rapporten: Pro ($7,99/gebruiker/mnd). Voor grotere organisaties met SSO en auditlog: Enterprise ($11,99/gebruiker/mnd).
+Kleine teams (tot 10 personen) die tijdregistratie en basisrapportages nodig hebben: begin met het Free-plan. Heb je goedkeuringsworkflows, projectbudgettering of tijdvergrendeling nodig: kies Standard ($5,49/gebruiker/mnd). Teams met facturatiebehoefte en gedetailleerde rapporten: Pro ($7,99/gebruiker/mnd). Voor grotere organisaties met SSO en auditlog: Enterprise ($11,99/gebruiker/mnd).
 
 ---
 

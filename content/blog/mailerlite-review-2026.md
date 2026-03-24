@@ -23,7 +23,7 @@ faq:
   - q: "Is MailerLite geschikt voor beginners?"
     a: "Ja, MailerLite is een van de meest beginnersvriendelijke email marketing tools op de markt. De interface is overzichtelijk, de drag-and-drop editor is intuïtief, en het gratis plan is royaal genoeg om echt te leren werken met email marketing. Het platform is niet in het Nederlands vertaald, maar de Engelse interface is zo eenvoudig dat dat zelden een probleem vormt."
   - q: "Hoe sterk is de automation van MailerLite?"
-    a: "MailerLite biedt solide basisautomation: welkomstreeksen, verlaten-winkelwagen flows, verjaardag-e-mails en gedragsgebaseerde triggers. Voor de meeste kleine en middelgrote bedrijven is dit meer dan genoeg. Maar vergeleken met ActiveCampaign of zelfs Brevo Standard zijn de conditionele logica en geavanceerde triggers beperkter. Wie serieuze multi-step automation nodig heeft, raakt sneller aan de grenzen."
+    a: "MailerLite biedt solide basisautomation: welkomstreeksen, verlaten-winkelwagen flows, verjaardag-e-mails en gedragsgebaseerde triggers. Voor de meeste kleine en middelgrote bedrijven is dit meer dan genoeg. Maar vergeleken met ActiveCampaign of zelfs Brevo Standard zijn de conditionele logica en uitgebreide triggers beperkter. Wie serieuze multi-step automation nodig heeft, raakt sneller aan de grenzen."
   - q: "Slaat MailerLite data op in de EU?"
     a: "Ja, MailerLite is een Litouws bedrijf en slaat data op binnen de Europese Unie. Dit maakt het een AVG-vriendelijke keuze. MailerLite biedt ook een Data Processing Agreement (DPA) aan, die je kunt aanvragen via hun privacypagina."
   - q: "Wat is het nadeel van het MailerLite goedkeuringsproces?"
@@ -140,7 +140,7 @@ De automation-builder is visueel en overzichtelijk. Je sleept stappen, vertakkin
 
 - Conditionele logica is minder diep. Je kunt niet tegelijkertijd op meerdere contacteigenschappen filteren met AND/OR-combinaties in alle stappen.
 - Lead scoring is niet aanwezig -- dit zit niet in MailerLite, ook niet op het Advanced-plan. Bij ActiveCampaign is dit een kernfunctie.
-- Predictive sending (AI-gestuurde verzendtijdoptimalisatie) is minder geavanceerd dan bij ActiveCampaign of HubSpot.
+- Predictive sending (AI-gestuurde verzendtijdoptimalisatie) is minder uitgebreid dan bij ActiveCampaign of HubSpot.
 
 Voor MKB-bedrijven zonder toegewijde marketing-automation specialist is MailerLite meer dan voldoende. Wie complexe multi-branch workflows met lead scoring en cross-channel triggers nodig heeft, kijkt beter naar [ActiveCampaign](/blog/activecampaign-review-2026/).
 
@@ -177,7 +177,7 @@ MailerLite biedt directe integraties met de belangrijkste e-commerce platforms:
 - **Squarespace**: koppeling voor contactsynchronisatie
 - **Stripe**: voor facturatie en betaaltracking
 
-Voor webshops is de Shopify-integratie het sterkste punt. Je kunt klanten segmenteren op basis van wat ze hebben gekocht, verlaten winkelwagen-sequences opstarten en productaanbevelingen meesturen. Dit werkt goed -- maar is minder geavanceerd dan de Shopify-integratie van Klaviyo, dat speciaal voor e-commerce is gebouwd.
+Voor webshops is de Shopify-integratie het sterkste punt. Je kunt klanten segmenteren op basis van wat ze hebben gekocht, verlaten winkelwagen-sequences opstarten en productaanbevelingen meesturen. Dit werkt goed -- maar is minder uitgebreid dan de Shopify-integratie van Klaviyo, dat speciaal voor e-commerce is gebouwd.
 
 ### A/B-testing
 
@@ -188,7 +188,7 @@ A/B-testing is beschikbaar op alle betaalde plannen (niet op het gratis plan). J
 - Verzendtijd
 - Volledige e-mailcontent (tussen twee varianten)
 
-De test-setup is eenvoudig: je kiest je testvariabele, splitst je lijst (bijv. 20% krijgt variant A, 20% krijgt variant B), en de winnaar wordt automatisch of handmatig naar de rest verstuurd. Dit is standaard A/B-testing -- geen multivariate testing zoals bij Mailchimp of meer geavanceerde platforms.
+De test-setup is eenvoudig: je kiest je testvariabele, splitst je lijst (bijv. 20% krijgt variant A, 20% krijgt variant B), en de winnaar wordt automatisch of handmatig naar de rest verstuurd. Dit is standaard A/B-testing -- geen multivariate testing zoals bij Mailchimp of meer uitgebreide platforms.
 
 Wil je meer halen uit je A/B-tests? Het artikel over [A/B testen voor beginners](/blog/ab-testen-beginners-eerste-experiment/) geeft je een solide stappenplan.
 
@@ -203,7 +203,7 @@ De rapportages van MailerLite zijn overzichtelijk en geven je de essentiële met
 - Automation-rapportages per stap
 - E-commerce conversietracking (met Shopify/WooCommerce)
 
-Wat ontbreekt: geavanceerde engagementrapportages over meerdere campagnes heen, zoals bij ActiveCampaign of HubSpot. En de rapportages zijn niet zo diep te drilldown als bij Klaviyo voor e-commerce. Maar voor de meeste bedrijven is het meer dan voldoende.
+Wat ontbreekt: uitgebreide engagementrapportages over meerdere campagnes heen, zoals bij ActiveCampaign of HubSpot. En de rapportages zijn niet zo diep te drilldown als bij Klaviyo voor e-commerce. Maar voor de meeste bedrijven is het meer dan voldoende.
 
 ### Formulieren en popups
 
@@ -214,7 +214,7 @@ MailerLite biedt vier typen aanmeldformulieren:
 3. **Sticky bars** -- smalle balk bovenaan of onderaan je pagina
 4. **Promotionele popups** -- voor kortingscodes en speciale aanbiedingen (betaald plan)
 
-De popup-builder is eenvoudig maar functioneel. Je kunt targeting instellen op basis van pagina-URL, bezoekersstatus en timing. Voor een geavanceerde popup-strategie kijk je naar een gespecialiseerde tool, maar voor standaard aanmeldformulieren is MailerLite prima.
+De popup-builder is eenvoudig maar functioneel. Je kunt targeting instellen op basis van pagina-URL, bezoekersstatus en timing. Voor een uitgebreide popup-strategie kijk je naar een gespecialiseerde tool, maar voor standaard aanmeldformulieren is MailerLite prima.
 
 ---
 
@@ -412,7 +412,7 @@ Wil je ook je e-maillijst strategisch opbouwen? Het artikel over [e-maillijst op
 
 **MailerLite is minder geschikt voor:**
 
-- **Bedrijven die geavanceerde automation nodig hebben** -- kies dan ActiveCampaign
+- **Bedrijven die uitgebreide automation nodig hebben** -- kies dan ActiveCampaign
 - **Organisaties met grote lijsten die regelmatig mailen** -- bij 10.000+ contacten is Brevo (per e-mail) mogelijk voordeliger
 - **Teams die Nederlandstalige interface en support willen** -- kies dan Brevo
 - **Webshops die diepgaande e-commerce analytics nodig hebben** -- kies dan Klaviyo

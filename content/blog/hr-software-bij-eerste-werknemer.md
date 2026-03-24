@@ -37,7 +37,7 @@ Als ZZP'er ben je verantwoordelijk voor je eigen belastingaangifte. Als werkgeve
 
 Daarboven heb je verplichtingen rond de Arbowet (gezonde en veilige werkomstandigheden), de Wet Verbetering Poortwachter (verzuimbegeleiding bij ziekte), verlofregistratie conform het arbeidscontract en de toepasselijke CAO, en bewaarplicht van de salarisadministratie gedurende ten minste vijf jaar.
 
-Een fout in de loonaangifte of een gemiste meldingstermijn bij langdurig ziekteverzuim kan leiden tot boetes. Dat maakt een gestructureerde aanpak van dag één onmisbaar. Wat de Wet Verbetering Poortwachter precies vereist en hoe HR-software de bijbehorende deadlines bewaakt, lees je in [Verzuimregistratie en de Wet Verbetering Poortwachter](/blog/verzuimregistratie-wvp-software/).
+Een fout in de loonaangifte of een gemiste meldingstermijn bij langdurig ziekteverzuim kan leiden tot boetes. Dat maakt een gestructureerde aanpak van dag één essentieel. Wat de Wet Verbetering Poortwachter precies vereist en hoe HR-software de bijbehorende deadlines bewaakt, lees je in [Verzuimregistratie en de Wet Verbetering Poortwachter](/blog/verzuimregistratie-wvp-software/).
 
 Voor [ZZP'ers die groeien naar een klein bedrijf](/sectoren/hr/hr-software-zzp/) is de stap naar werkgeverschap een van de meest ingrijpende administratieve veranderingen. Het loont om die stap goed te voorbereiden.
 

@@ -138,7 +138,7 @@ Clockify begon als projectgebaseerde urentool maar is in de afgelopen jaren uitg
 
 ### Prijs-kwaliteitverhouding
 
-Voor kleine bedrijven en starters is Clockify een serieuze optie. Het gratis plan biedt al in/uitklokken, basale rapportages en onbeperkte gebruikers. Dat is uitzonderlijk. De betaalde plannen voegen GPS, vergrendelingsfuncties en geavanceerde rapportages toe.
+Voor kleine bedrijven en starters is Clockify een serieuze optie. Het gratis plan biedt al in/uitklokken, basale rapportages en onbeperkte gebruikers. Dat is uitzonderlijk. De betaalde plannen voegen GPS, vergrendelingsfuncties en gedetailleerde rapportages toe.
 
 **Wat mist:** Clockify heeft geen native koppeling met Nederlandse salarisadministratietools zoals NMBRS of SnelStart. Je kunt wel exporteren naar CSV en dat handmatig verwerken. Ook is er geen verlofbeheer of verzuimregistratie — je hebt dus aparte tools nodig voor een compleet HR-plaatje.
 
@@ -175,7 +175,7 @@ TimeMoto (voorheen TimeSafe, onderdeel van Safescan) is de enige tool in dit ove
 
 ### Sterke punten
 
-TimeMoto is de oplossing voor omgevingen waar je smartphones en laptops niet kunt of wilt inzetten: fabriekshal, bouwplaats, magazijn, keuken. De biometrische authenticatie voorkomt "buddy punching" (collega's die voor elkaar inklokken). De hardware is robuust en werkt ook offline — data synchroniseert zodra verbinding wordt hersteld.
+TimeMoto is de oplossing voor omgevingen waar je smartphones en laptops niet kunt of wilt inzetten: fabriekshal, bouwplaats, magazijn, keuken. De biometrische authenticatie voorkomt "buddy punching" (collega's die voor elkaar inklokken). De hardware is solide en werkt ook offline — data synchroniseert zodra verbinding wordt hersteld.
 
 ### Zwakke punten
 
@@ -358,7 +358,7 @@ Dit zijn de twee meest vergelijkbare tools in dit artikel. Beide zijn voor wisse
 | Prijs | Iets goedkoper | Iets uitgebreider |
 | Nederlandstalige support | Minder sterk | Beter |
 
-Voor de horeca geef ik Planday een lichte voorkeur vanwege de robuustere roosterfuncties en de diep geïntegreerde planningscommunicatie. Voor zorg en zakelijke dienstverlening kies ik ShiftBase.
+Voor de horeca geef ik Planday een lichte voorkeur vanwege de betrouwbaardere roosterfuncties en de diep geïntegreerde planningscommunicatie. Voor zorg en zakelijke dienstverlening kies ik ShiftBase.
 
 Lees meer over personeelsplanning in de horeca in mijn artikel over de [beste planning software horeca 2026](/blog/beste-planning-software-horeca-2026/).
 

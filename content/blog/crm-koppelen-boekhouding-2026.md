@@ -25,7 +25,7 @@ faq:
   - q: "Wat is het verschil tussen een native koppeling en een Zapier-koppeling?"
     a: "Een native koppeling is gebouwd door de softwareleverancier zelf en werkt dieper: tweerichtingssynchronisatie, real-time updates, meer velden. Een Zapier-koppeling is een tussenlaag die je zelf configureert: flexibeler maar ook minder stabiel bij complexe workflows. Voor eenvoudige klantsynchronisatie werkt Zapier prima. Voor real-time factuurstatus terug in je CRM heb je een native koppeling nodig."
   - q: "Teamleader heeft CRM en boekhouding in één systeem — is dat beter dan twee losse tools koppelen?"
-    a: "Voor bedrijven die alles in één systeem willen: ja, Teamleader is eenvoudiger en goedkoper dan twee losse tools koppelen. De nadelen: je bent afhankelijk van één leverancier, en de CRM en boekhoudmodule zijn allebei minder uitgebreid dan gespecialiseerde tools. Pipedrive is een sterkere CRM dan de Teamleader-CRM; Moneybird of Exact zijn sterkere boekhoudtools dan de Teamleader-boekhouding. Wat je kiest hangt af van hoe geavanceerd je behoeften zijn."
+    a: "Voor bedrijven die alles in één systeem willen: ja, Teamleader is eenvoudiger en goedkoper dan twee losse tools koppelen. De nadelen: je bent afhankelijk van één leverancier, en de CRM en boekhoudmodule zijn allebei minder uitgebreid dan gespecialiseerde tools. Pipedrive is een sterkere CRM dan de Teamleader-CRM; Moneybird of Exact zijn sterkere boekhoudtools dan de Teamleader-boekhouding. Wat je kiest hangt af van hoe uitgebreid je behoeften zijn."
   - q: "Hoe voorkom ik dubbele klantgegevens na de koppeling?"
     a: "Maak duidelijke afspraken over welk systeem de 'master' is voor klantgegevens. Mijn advies: het CRM is de master voor klantinformatie (naam, adres, contactpersoon); de boekhouding krijgt die gegevens alleen via de koppeling. Maak nooit handmatig een nieuwe klant aan in de boekhouding als die al in je CRM staat — dat is de bron van dubbele records. Gebruik bij twijfel een deduplicatietool om bestaande duplicaten op te ruimen."
 ---
@@ -159,11 +159,11 @@ Begin eenvoudig: synchroniseer alleen de velden die je echt nodig hebt (naam, ad
 
 Zapier heeft een ingebouwde foutlog, maar je ziet meldingen alleen als je er actief naar kijkt. Stel e-mailmeldingen in bij Zapier zodat je een bericht krijgt als een Zap faalt. Ontdek fouten liever meteen dan na drie weken.
 
-## Geavanceerde koppelingen: wat is er nog meer mogelijk?
+## Uitgebreide koppelingen: wat is er nog meer mogelijk?
 
 ### Factuurstatus terug in CRM
 
-Een geavanceerde koppeling synchroniseert niet alleen van CRM naar boekhouding, maar ook andersom. Als een factuur betaald is in je boekhoudpakket, kan die status terug gestuurd worden naar je CRM. Zo ziet je salesteam direct of een klant actueel betaalt, of er openstaande facturen zijn, en wat de klantwaarde is.
+Een uitgebreide koppeling synchroniseert niet alleen van CRM naar boekhouding, maar ook andersom. Als een factuur betaald is in je boekhoudpakket, kan die status terug gestuurd worden naar je CRM. Zo ziet je salesteam direct of een klant actueel betaalt, of er openstaande facturen zijn, en wat de klantwaarde is.
 
 Deze tweerichtingssynchronisatie vraagt meer configuratie en een betrouwbaardere koppeling (native of via Make/Integromat). Zapier ondersteunt het technisch, maar het is complexer om foutloos in te stellen.
 
@@ -173,7 +173,7 @@ Als je abonnementen verkoopt (SaaS, retainercontracten), wil je dat terugkerende
 
 ### Google Workspace als verbindende laag
 
-Als je Google Workspace gebruikt voor e-mail en documenten, kun je dat gebruiken als extra verbindingslaag. Een e-mail naar een klant kan automatisch gelogd worden in zowel je CRM als gekoppeld aan de factuur in je boekhouding. Dit vraagt wel meer geavanceerde configuratie.
+Als je Google Workspace gebruikt voor e-mail en documenten, kun je dat gebruiken als extra verbindingslaag. Een e-mail naar een klant kan automatisch gelogd worden in zowel je CRM als gekoppeld aan de factuur in je boekhouding. Dit vraagt wel meer uitgebreide configuratie.
 
 Voor meer over zakelijke toolkoppelingen, lees ook [CRM integraties uitgelegd](/blog/crm-integraties-uitgelegd/).
 
@@ -210,6 +210,6 @@ Pipedrive is de meest gebruikte CRM bij Nederlandse MKB-bedrijven en koppelt een
 
 **Google Workspace voor zakelijke communicatie**
 
-Google Workspace integreert naadloos met zowel Pipedrive als de meeste boekhoudtools. Meer dan 150 native integraties beschikbaar.
+Google Workspace integreert soepel met zowel Pipedrive als de meeste boekhoudtools. Meer dan 150 native integraties beschikbaar.
 
 <a href="https://www.dpbolvw.net/click-101698621-13855808" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Meer over Google Workspace →</a>

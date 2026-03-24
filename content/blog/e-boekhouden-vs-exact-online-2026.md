@@ -124,7 +124,7 @@ Exact Online is het meest gebruikte boekhoudpakket van Nederland. Met meer dan 5
 
 Exact Online past bij groeiende bedrijven van 5 tot 250 medewerkers die meer nodig hebben dan basisboekhouding. Een MKB-bedrijf dat voorraadbeheer wil integreren, een projectgebaseerd bureau dat uren en kosten per project wil bijhouden, een bedrijf dat salarisadministratie wil centraliseren, of een handelsbedrijf met complexe inkoopprocessen.
 
-Als je boekhouder al met Exact Online werkt, is de keuze ook snel gemaakt: de samenwerking is het meest naadloos als jullie hetzelfde platform gebruiken.
+Als je boekhouder al met Exact Online werkt, is de keuze ook snel gemaakt: de samenwerking is het meest soepel als jullie hetzelfde platform gebruiken.
 
 ### Waar Exact Online uitblinkt
 
@@ -166,7 +166,7 @@ De klantenservice is telefonisch beschikbaar, maar de wachttijden worden in revi
 
 **e-Boekhouden** koppeelt goed met Nederlandse banken. Automatische transactie-import, bankafstemming, SEPA-betalingen in batch — het werkt soepel. Eén keer per dag synchroniseren is standaard.
 
-**Exact Online** biedt real-time bankkoppelingen en uitgebreidere betalingsverwerking. Multi-currency betalingen, geautomatiseerde bankafstemming met geavanceerde matchingregels, en uitgebreidere betaaldosierfuncties.
+**Exact Online** biedt real-time bankkoppelingen en uitgebreidere betalingsverwerking. Multi-currency betalingen, geautomatiseerde bankafstemming met uitgebreide matchingregels, en uitgebreidere betaaldosierfuncties.
 
 **Winnaar: Exact Online** — diepere bankkoppelingen en betalingsfunctionaliteit.
 

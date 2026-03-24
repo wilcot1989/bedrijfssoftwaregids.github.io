@@ -105,7 +105,7 @@ Ik heb Monday.com geïmplementeerd bij een groeibedrijf in de zakelijke dienstve
 | Basic | €9/gebruiker/mnd | Boards, docs, 200+ integraties |
 | Standard | €12/gebruiker/mnd | + Timeline, Gantt, automations (250/mnd) |
 | Pro | €19/gebruiker/mnd | + Formule kolommen, tijdregistratie, 25.000 automations/mnd |
-| Enterprise | Op aanvraag | + Geavanceerde beveiliging, API enterprise, premium support |
+| Enterprise | Op aanvraag | + Uitgebreide beveiliging, API enterprise, premium support |
 
 *Minimum 3 gebruikers. Jaarlijkse facturering. 14 dagen gratis proberen.*
 
@@ -159,7 +159,7 @@ Asana's Workflow Builder is een van de sterkste visuele workflowtools in de mark
 |------|-------|------------|
 | Personal | €0 (tot 15 gebruikers) | Taken, projecten, basis automatisering |
 | Starter | €10,99/gebruiker/mnd | + Timeline, Workflow Builder, Forms |
-| Advanced | €24,99/gebruiker/mnd | + Portfolio's, doelen, geavanceerde rapportage |
+| Advanced | €24,99/gebruiker/mnd | + Portfolio's, doelen, gedetailleerde rapportage |
 | Enterprise | Op aanvraag | + SAML, SCIM, data export, premium support |
 
 *Jaarlijkse facturering. Maandelijks 20-25% duurder. Gratis plan vereist geen creditcard.*
@@ -365,7 +365,7 @@ Ik raad Process Street aan voor bedrijven die hun standaard operating procedures
 | Plan | Prijs | Inbegrepen |
 |------|-------|------------|
 | Startup | €100/mnd (5 gebruikers) | Workflows, basis integraties, rapportage |
-| Pro | €415/mnd (15 gebruikers) | + Geavanceerde integraties, API, SSO |
+| Pro | €415/mnd (15 gebruikers) | + Uitgebreide integraties, API, SSO |
 | Enterprise | Op aanvraag | + Maatwerk, dedicated CSM, SLA |
 
 *Jaarlijkse facturering. Prijs per team, niet per gebruiker. 14 dagen gratis proberen.*

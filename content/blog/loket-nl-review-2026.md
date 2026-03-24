@@ -84,7 +84,7 @@ Loket.nl heeft de meest uitgebreide CAO-database in Nederland:
 - Pensioenafdrachten per pensioenfonds
 - Alerts bij CAO-wijzigingen
 
-Voor een MKB-ondernemer die geen HR-specialist is, is dit onmisbaar. CAO's zijn complex en wijzigen regelmatig; handmatig bijhouden is foutgevoelig.
+Voor een MKB-ondernemer die geen HR-specialist is, is dit essentieel. CAO's zijn complex en wijzigen regelmatig; handmatig bijhouden is foutgevoelig.
 
 ### Loonheffingen en aangifte
 
@@ -412,7 +412,7 @@ Voor de meeste MKB-bedrijven met 15-100 medewerkers is de combinatie HoorayHR + 
 
 ## Loket.nl support: hoe bereikbaar zijn ze?
 
-Support is cruciaal voor salarisadministratie — een fout in de loonrun kost je medewerkers het vertrouwen en jezelf boetes. Hoe goed is Loket.nl's support?
+Support is essentieel voor salarisadministratie — een fout in de loonrun kost je medewerkers het vertrouwen en jezelf boetes. Hoe goed is Loket.nl's support?
 
 **Beschikbaarheid:**
 - Telefoon: maandag-vrijdag 9:00-17:00

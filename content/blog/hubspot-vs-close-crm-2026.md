@@ -31,7 +31,7 @@ faq:
     a: "HubSpot is hier veruit de sterkste. E-mailcampagnes, lead nurturing flows, landing pages, lead scoring — dit is HubSpot's kernkracht. Close heeft sterke sales sequences, maar echte marketing automation ontbreekt. Als marketing automation prioriteit is, kies dan HubSpot."
 ---
 
-Twee jaar geleden begeleidde ik een softwarebedrijf in Amsterdam bij een cruciale keuze. Ze hadden [HubSpot](/blog/hubspot-prijzen-2026/), betaalden €450 per maand voor 5 gebruikers, en vroegen zich af waarom hun SDR-team zo weinig deals sloot. Nadat ik een dag meekeek, was het antwoord duidelijk: ze gebruikten een marketingplatform voor inside sales. Ze schakelden over naar [Close CRM](/blog/close-crm-review-2026/). De belprestaties gingen met 40% omhoog in het eerste kwartaal.
+Twee jaar geleden begeleidde ik een softwarebedrijf in Amsterdam bij een essentiële keuze. Ze hadden [HubSpot](/blog/hubspot-prijzen-2026/), betaalden €450 per maand voor 5 gebruikers, en vroegen zich af waarom hun SDR-team zo weinig deals sloot. Nadat ik een dag meekeek, was het antwoord duidelijk: ze gebruikten een marketingplatform voor inside sales. Ze schakelden over naar [Close CRM](/blog/close-crm-review-2026/). De belprestaties gingen met 40% omhoog in het eerste kwartaal.
 
 Maar twee maanden later belde het marketingteam mij in paniek. Ze misten de e-mailcampagnes, de lead scoring, de landingspagina's. Close kon dat niet leveren.
 
@@ -71,7 +71,7 @@ Dit is waar de meeste ondernemers zich verkijken bij HubSpot vs Close. De prijss
 | **Gratis** | €0 | Contactbeheer, deals, beperkte e-mail |
 | **Starter** | €15/gebruiker | Basis sales tools, e-mail tracking |
 | **Professional** | €90/gebruiker | Volledige automatiseringen, sequences |
-| **Enterprise** | €150/gebruiker | Geavanceerde aanpassingen, AI |
+| **Enterprise** | €150/gebruiker | Uitgebreide aanpassingen, AI |
 
 ### Close CRM prijzen (mrt 2026, jaarlijks)
 
@@ -225,7 +225,7 @@ Het integratieaanbod (100+ integraties) is beperkt vergeleken met HubSpot (1.700
 
 Je genereert leads via content, webinars en SEO. Je wilt leads nurturen via geautomatiseerde e-mailflows, ze scoren op basis van gedrag, en ze op het juiste moment doorzetten naar sales.
 
-**Keuze: HubSpot** — de combinatie van marketing automation en sales pipeline is hier onmisbaar. Close biedt dit niet.
+**Keuze: HubSpot** — de combinatie van marketing automation en sales pipeline is hier essentieel. Close biedt dit niet.
 
 ### Scenario B: Inside sales team met 5-15 SDR's
 

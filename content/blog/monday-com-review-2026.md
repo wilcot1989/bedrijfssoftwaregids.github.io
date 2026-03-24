@@ -73,7 +73,7 @@ Hier is wat Monday.com werkelijk kost. Let op: betaalde plannen beginnen bij min
 | **Basic** | €9 | €12 | Onbeperkte borden, 5 GB opslag, 1 dashboard |
 | **Standard** | €12 | €14 | Tijdlijn, Gantt, automatiseringen (250/mnd), integraties (250/mnd) |
 | **Pro** | €19 | €24 | Tijdregistratie, formules, afhankelijkheden, 25.000 automatiseringen/mnd |
-| **Enterprise** | Op aanvraag | Op aanvraag | SSO, audit log, geavanceerde beveiliging, onbeperkte automatiseringen |
+| **Enterprise** | Op aanvraag | Op aanvraag | SSO, audit log, uitgebreide beveiliging, onbeperkte automatiseringen |
 
 ### Wat betaal je echt?
 
@@ -172,7 +172,7 @@ Monday.com integreert met meer dan 200 tools. De belangrijkste:
 - **Automatisering**: Zapier, Make (Integromat)
 - **Financieel**: QuickBooks, Xero
 
-De native integraties werken goed — met name Slack en Google Drive zijn naadloos. Via Zapier en Make kun je vrijwel alles koppelen. Ik gebruik zelf de Gmail-integratie om e-mails direct om te zetten naar items op een bord. Dat bespaart me elke week minstens een uur aan handmatig werk.
+De native integraties werken goed — met name Slack en Google Drive zijn soepel. Via Zapier en Make kun je vrijwel alles koppelen. Ik gebruik zelf de Gmail-integratie om e-mails direct om te zetten naar items op een bord. Dat bespaart me elke week minstens een uur aan handmatig werk.
 
 Wat ik minder vind: sommige integraties werken alleen in een richting. Je kunt een Slack-bericht sturen vanuit Monday.com, maar niet altijd een Monday-item aanmaken vanuit Slack zonder omweg via Zapier.
 
@@ -183,7 +183,7 @@ Dashboards zijn beschikbaar op alle plannen, maar de mogelijkheden groeien per p
 - **Basic**: 1 dashboard, data uit 1 bord
 - **Standard**: 5 dashboards, data uit 5 borden
 - **Pro**: 10 dashboards, data uit 20 borden, tijdregistratie-widgets
-- **Enterprise**: 50+ dashboards, geavanceerde analytics
+- **Enterprise**: 50+ dashboards, diepgaande analytics
 
 De widgets zijn visueel aantrekkelijk: staafdiagrammen, cirkeldiagrammen, getallen, batterij-indicatoren, workload-overzichten. Je kunt ze slepen en rangschikken.
 
@@ -257,7 +257,7 @@ Na tientallen implementaties heb ik een vrij duidelijk beeld:
 - 250 automatiseringsacties op Standard is krap voor actieve teams
 - Prestaties dalen bij grote borden (300+ items)
 - Trustpilot-score van 2,7 wijst op problemen met facturatie en annulering
-- Geavanceerde functies (tijdregistratie, afhankelijkheden) alleen op Pro
+- Uitgebreide functies (tijdregistratie, afhankelijkheden) alleen op Pro
 - Dashboards beperkt — geen vervanging voor een BI-tool
 - Mobiele app is functioneel maar niet snel
 - Klantenservice soms traag — geen direct telefoonnummer

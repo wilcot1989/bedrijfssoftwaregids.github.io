@@ -60,7 +60,7 @@ faq:
   - q: "Wat kost het om een webshop te beginnen?"
     a: "De kosten variëren sterk per platform. Een basiswebshop op Shopify begint bij circa 21 euro per maand (bij jaarlijkse facturering). WooCommerce is gratis als plugin, maar je betaalt voor hosting (vanaf circa 5-15 euro per maand), thema's en extensies. CCV Shop begint bij 12,50 euro per maand. Tel daar transactiekosten, een domeinnaam en eventuele extra plugins bij op."
   - q: "Is WooCommerce echt gratis?"
-    a: "WooCommerce als WordPress-plugin is gratis, maar je hebt wel betaalde hosting nodig (vanaf circa 5-15 euro per maand), een domeinnaam (circa 10-15 euro per jaar) en vaak betaalde extensies voor functies als iDEAL-betalingen, verzendlabels en geavanceerde productvarianten. De totale kosten liggen voor een basisshop rond 15-50 euro per maand."
+    a: "WooCommerce als WordPress-plugin is gratis, maar je hebt wel betaalde hosting nodig (vanaf circa 5-15 euro per maand), een domeinnaam (circa 10-15 euro per jaar) en vaak betaalde extensies voor functies als iDEAL-betalingen, verzendlabels en uitgebreide productvarianten. De totale kosten liggen voor een basisshop rond 15-50 euro per maand."
   - q: "Welke webshop software ondersteunt iDEAL?"
     a: "Alle webshop platforms in dit artikel ondersteunen iDEAL via betaalproviders zoals Mollie, MultiSafepay of Adyen. Nederlandse platformen als CCV Shop, Acendy en Lightspeed hebben iDEAL standaard geïntegreerd. Bij Shopify en WooCommerce koppel je eenvoudig Mollie als betaalprovider."
   - q: "Kan ik mijn webshop koppelen aan bol.com of Amazon?"
@@ -136,7 +136,7 @@ Twijfel je tussen Shopify en een Nederlands platform? Lees mijn [Shopify vs Mijn
 - Ingebouwde SEO-tools en blogfunctie
 - Shopify App Store met meer dan 8.000 apps
 - Multichannel verkoop (Instagram, Facebook, TikTok, bol.com)
-- Geavanceerde analytics en rapportages
+- Uitgebreide analytics en rapportages
 - Shopify POS voor fysieke winkels
 
 ### Prijzen (2026, bij jaarlijkse facturering)
@@ -226,7 +226,7 @@ De Mollie-plugin voor WooCommerce is overigens uitstekend — iDEAL, creditcard,
 
 ## 3. Lightspeed eCom
 
-Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." **Trustpilot: 3.7/5 (1.149 reviews).** Persoonlijke support wordt veel geprezen, vooral bij onboarding — veruit de beste score in deze categorie. De naadloze koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Wil je een diepgaande beoordeling van Lightspeed als kassasysteem? Lees mijn [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/). Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
+Lightspeed eCom raad ik aan zodra een klant zegt: "Ik heb een winkel en wil er een webshop bij." **Trustpilot: 3.7/5 (1.149 reviews).** Persoonlijke support wordt veel geprezen, vooral bij onboarding — veruit de beste score in deze categorie. De directe koppeling tussen kassa en webshop is waar Lightspeed in uitblinkt -- je voorraad synchroniseert in real-time. Wil je een diepgaande beoordeling van Lightspeed als kassasysteem? Lees mijn [Lightspeed kassa review 2026](/blog/lightspeed-kassa-review-2026/). Het is duurder dan Shopify als instap, maar als je omnichannel verkoopt bespaar je jezelf een berg gedoe met losse koppelingen.
 
 **Lightspeed eCom in de praktijk: ideaal voor de retailer die online gaat.** Een kledingboetiek die ik begeleid besloot online te gaan verkopen. Ze hadden al Lightspeed als kassasysteem in de winkel. De keuze voor Lightspeed eCom was logisch: dezelfde voorraad, één systeem, geen dubbel werk.
 
@@ -249,7 +249,7 @@ Ben je ook op zoek naar een kassasysteem voor je fysieke locatie? Lees dan ons a
 
 ### Belangrijkste functies
 - Professionele webshop met aanpasbare thema's
-- Naadloze koppeling met Lightspeed POS (kassasysteem)
+- Soepele koppeling met Lightspeed POS (kassasysteem)
 - Centrale voorraad voor online en offline
 - Ingebouwde iDEAL en andere Nederlandse betaalmethoden
 - Integraties met bol.com, Amazon en marktplaatsen
@@ -288,7 +288,7 @@ Magento is het platform dat ik alleen adviseer als een webshop echt groot en com
 
 Eerlijk gezegd raad ik Magento Open Source zelden aan voor nieuwe webshops. De setup vereist minimaal een paar weken developer-werk, en de hosting-vereisten zijn niet mis. Een klant die ik kende startte met Magento, had drie maanden nodig om live te gaan en betaalde €15.000 aan development. Had hij eerst Shopify geprobeerd om te valideren dat zijn concept werkte, had hij dat geld beter besteed.
 
-Voor wie al op Magento zit en overweegt te upgraden naar Adobe Commerce (de betaalde versie): dat is pas zinvol als je boven de 100-200 bestellingen per dag zit en specifieke enterprise-functies nodig hebt zoals geavanceerde B2B-portalen of complexe promoties-engines.
+Voor wie al op Magento zit en overweegt te upgraden naar Adobe Commerce (de betaalde versie): dat is pas zinvol als je boven de 100-200 bestellingen per dag zit en specifieke enterprise-functies nodig hebt zoals uitgebreide B2B-portalen of complexe promoties-engines.
 
 **Voor wie is Magento/Adobe Commerce de juiste keuze?**
 - Enterprise webshops met 5.000+ producten en complexe catalogusstructuur
@@ -303,11 +303,11 @@ Voor wie al op Magento zit en overweegt te upgraden naar Adobe Commerce (de beta
 
 ### Belangrijkste functies
 - Extreem schaalbaar en aanpasbaar platform
-- Geavanceerd catalogusbeheer met duizenden producten
+- Uitgebreid catalogusbeheer met duizenden producten
 - Multi-store en multi-valuta functionaliteit
 - B2B-functionaliteit ingebouwd (Adobe Commerce)
 - Krachtige API's voor integraties
-- Geavanceerde promotie- en pricing-regels
+- Uitgebreide promotie- en pricing-regels
 - Uitgebreide rapportages en business intelligence
 - Grote marketplace met extensies
 
@@ -362,7 +362,7 @@ De keerzijde: de community is kleiner. Als je een probleem hebt met een obscure 
 - Multi-channel verkoop (Amazon, eBay, social media)
 - Ingebouwde B2B-functionaliteit
 - Headless commerce via API's
-- Geavanceerde SEO-tools
+- Uitgebreide SEO-tools
 - Onbeperkt aantal producten, varianten en medewerkers
 - Ingebouwde rapportages en analytics
 

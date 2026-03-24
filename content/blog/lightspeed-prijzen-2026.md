@@ -45,7 +45,7 @@ Lightspeed Retail is het kassasysteem voor winkels. De prijzen zijn bij jaarlijk
 |---|---|---|---|---|
 | **Lean** | €69 | 1 | 1 | Basis |
 | **Standard** | €99 | 1 | Onbeperkt | Uitgebreid |
-| **Advanced** | €139 | 5 | Onbeperkt | Geavanceerd |
+| **Advanced** | €139 | 5 | Onbeperkt | Uitgebreid |
 | **Enterprise** | €269 | Onbeperkt | Onbeperkt | Volledig |
 
 *Prijzen zijn excl. BTW. Maandelijkse betaling kost ~20% meer.*
@@ -64,7 +64,7 @@ Lightspeed Retail is het kassasysteem voor winkels. De prijzen zijn bij jaarlijk
 - 1 vestiging, onbeperkte registers
 - Uitgebreid voorraadbeheer (varianten, matrix)
 - Klantensegmentatie
-- Geavanceerde rapportages
+- Uitgebreide rapportages
 - Leveranciersmanagement
 - Inkooporders
 - Telefoon + email support
@@ -102,10 +102,10 @@ Voor horecagelegenheden biedt Lightspeed aparte plannen:
 |---|---|---|
 | **Lean** | €69 | Basis POS |
 | **Essential** | €189 | Volledig restaurant POS |
-| **Premium** | €399 | Multi-locatie + geavanceerd |
+| **Premium** | €399 | Multi-locatie + uitgebreid |
 
 ### Lightspeed Restaurant Lean (€69/mnd)
-Basis kassasysteem voor restaurants. Tafelmanagement, bestellen, afrekenen. Zonder de geavanceerde functies van het Essential-plan.
+Basis kassasysteem voor restaurants. Tafelmanagement, bestellen, afrekenen. Zonder de uitgebreide functies van het Essential-plan.
 
 ### Lightspeed Restaurant Essential (€189/mnd)
 Het meest gekozen plan voor restaurants:
@@ -119,7 +119,7 @@ Het meest gekozen plan voor restaurants:
 ### Lightspeed Restaurant Premium (€399/mnd)
 - Alles van Essential
 - Multi-locatie beheer
-- Geavanceerde loyaliteitstools
+- Uitgebreide loyaliteitstools
 - Custom rapportages
 - Dedicated support
 
@@ -515,7 +515,7 @@ Naast de basisplannen biedt Lightspeed optionele add-ons die de maandprijs verho
 - Voorraad gesynchroniseerd tussen winkel en online
 - Alternatief: Shopify-koppeling (inclusief bij Standard+)
 
-**Geavanceerde rapportage:**
+**Uitgebreide rapportage:**
 - Diepgaande analyses: inbegrepen bij Advanced en Enterprise
 - Bij Standard: basis-rapportage voldoende voor de meeste winkels
 

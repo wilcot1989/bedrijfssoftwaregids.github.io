@@ -114,7 +114,7 @@ Wil je een knop op een andere plek? De productpagina anders indelen? Een eigen s
 
 ### App Store
 
-De App Store is Shopify's grootste troef. Met 8.000+ apps kun je vrijwel elke functionaliteit toevoegen: abonnementen, loyaltyprogramma's, geavanceerde reviews, upsells, dropshipping-koppelingen (Oberlo/DSers), retourportals, factuursystemen voor NL belastingregels, noem maar op.
+De App Store is Shopify's grootste troef. Met 8.000+ apps kun je vrijwel elke functionaliteit toevoegen: abonnementen, loyaltyprogramma's, uitgebreide reviews, upsells, dropshipping-koppelingen (Oberlo/DSers), retourportals, factuursystemen voor NL belastingregels, noem maar op.
 
 Het keerzijde: veel van die apps zijn betaald, en de kosten kunnen snel oplopen. Ik heb klanten gezien die €50-150 per maand aan apps betalen bovenop hun abonnement. Shopify is bewust "lean" in ingebouwde functies -- ze rekenen erop dat je de App Store gebruikt. Dat is slim businessmodel, maar minder prettig voor je maandelijkse rekening.
 
@@ -140,7 +140,7 @@ Blogfunctionaliteit zit ingebouwd, maar is basic. Voor serieuze content-marketin
 
 ### Analytics
 
-Shopify heeft ingebouwde rapportages die verder gaan naarmate je een hoger plan hebt. Bij Advanced en Plus krijg je geavanceerde rapporten: klantretentie, cohort-analyses, productrapporten per kanaal. Voor Basic is het vrij basis. Koppeling met Google Analytics 4 en Meta Pixel werkt vlekkeloos. Je koppelt Shopify ook aan je [boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/) voor automatische facturatie en BTW-verwerking.
+Shopify heeft ingebouwde rapportages die verder gaan naarmate je een hoger plan hebt. Bij Advanced en Plus krijg je gedetailleerde rapporten: klantretentie, cohort-analyses, productrapporten per kanaal. Voor Basic is het vrij basis. Koppeling met Google Analytics 4 en Meta Pixel werkt vlekkeloos. Je koppelt Shopify ook aan je [boekhoudsoftware](/blog/beste-boekhoudsoftware-zzp-2026/) voor automatische facturatie en BTW-verwerking.
 
 ---
 
@@ -188,7 +188,7 @@ Als je besluit Shopify te verlaten, is migratie pijnlijk. Je product- en klantda
 
 **5. App-kosten stapelen zich op**
 
-De basisprijs is helder, maar zodra je apps nodig hebt (facturering voor NL, geavanceerde reviews, abonnementen, retourportaal) gaat de maandrekening snel omhoog. Het is niet ongebruikelijk om €50-150 extra per maand aan apps te betalen.
+De basisprijs is helder, maar zodra je apps nodig hebt (facturering voor NL, uitgebreide reviews, abonnementen, retourportaal) gaat de maandrekening snel omhoog. Het is niet ongebruikelijk om €50-150 extra per maand aan apps te betalen.
 
 ---
 

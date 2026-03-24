@@ -65,7 +65,7 @@ Identificeer je beste klanten — hoge bestelfrequentie, hoge orderwaarde, lang 
 De sterkste CRM's voor webshops combineren klantdata met e-mailautomatisering. Je segmenteert op aankoopgedrag en stuurt relevante berichten — niet dezelfde nieuwsbrief aan iedereen.
 
 **5. Shopify/WooCommerce integratie**
-De koppeling met je webshopplatform is cruciaal. Vragen om te stellen: Worden orders real-time gesynchroniseerd of met vertraging? Kun je segmenteren op productcategorieën? Worden retourzendingen ook gesynchroniseerd? Is de integratie officieel en stabiel?
+De koppeling met je webshopplatform is essentieel. Vragen om te stellen: Worden orders real-time gesynchroniseerd of met vertraging? Kun je segmenteren op productcategorieën? Worden retourzendingen ook gesynchroniseerd? Is de integratie officieel en stabiel?
 
 ## Top 5 CRM voor webshophouders
 
@@ -90,7 +90,7 @@ HubSpot is het meest complete CRM-platform op de markt en heeft uitstekende Shop
 
 **Zwakheden:**
 - Wordt snel duur bij groei van contactaantallen
-- Marketing Hub Professional (voor geavanceerde automatisering) is een grote prijsstap: €792/mnd
+- Marketing Hub Professional (voor uitgebreide automatisering) is een grote prijsstap: €792/mnd
 - Gratis plan slaat data op in VS — voor EU-dataopslag heb je een betaald plan nodig
 - Overkill voor kleine webshops die alleen e-mailmarketing willen
 
@@ -142,7 +142,7 @@ ActiveCampaign is de krachtigste marketing automation tool in dit overzicht, met
 - Browse abandonment automation (iemand bekijkt een product maar koopt niet)
 - Win-back campagnes voor inactieve klanten
 - Post-purchase workflows (bedankmail, review-verzoek, upsell)
-- Geavanceerde segmentatie op aankoopgedrag, RFM-waarden
+- Uitgebreide segmentatie op aankoopgedrag, RFM-waarden
 - Revenue attribution per e-mailcampagne
 
 **Sterktes:**
@@ -174,7 +174,7 @@ Klaviyo is gebouwd voor één doel: e-commerce marketing. Het platform denkt in 
 - Shopify & WooCommerce integratie (diepste beschikbaar op de markt)
 - Kant-en-klare flows: abandoned cart, browse abandonment, win-back, post-purchase, welkomstreeks
 - Productaanbevelingen op basis van aankoopgedrag (predictive, AI-gestuurd)
-- Geavanceerde RFM-segmentatie (Recency, Frequency, Monetary)
+- Uitgebreide RFM-segmentatie (Recency, Frequency, Monetary)
 - SMS-marketing naast e-mail vanuit één platform
 - Predictive analytics: voorspelde customer lifetime value, churn-risico, volgende aankoopdatum
 - Revenue attribution per flow en campagne
@@ -214,7 +214,7 @@ Shopify heeft ingebouwde klantbeheer-functionaliteit die voor kleine webshops ve
 - Shopify Email is een verrassing: gratis e-mailmarketing inbegrepen
 
 **Zwakheden:**
-- Geen volwaardig CRM: geen salesfunnel, geen geavanceerde automatisering
+- Geen volwaardig CRM: geen salesfunnel, geen uitgebreide automatisering
 - E-mailmarketing-mogelijkheden beperkt vergeleken met Klaviyo of ActiveCampaign
 - Rapportages minder diep dan gespecialiseerde tools
 - Schaalt niet mee bij groei boven 500-1.000 actieve klanten
@@ -405,7 +405,7 @@ Klaviyo en ActiveCampaign hebben kant-en-klare templates voor deze flow. Gemidde
 
 ### Flow 2: Welkomstreeks voor nieuwe klanten
 
-De momenten direct na de eerste aankoop zijn cruciaal voor herhaalaankopen. Stuur vier e-mails verspreid over de eerste twee weken:
+De momenten direct na de eerste aankoop zijn essentieel voor herhaalaankopen. Stuur vier e-mails verspreid over de eerste twee weken:
 - E-mail 1 (direct): Persoonlijke bedankmail, niet de standaard Shopify-bevestiging
 - E-mail 2 (3 dagen): Verwacht je bestelling binnenkort, eventueel met bezorgtracking
 - E-mail 3 (7 dagen): Hoe was je ervaring? Review-verzoek
@@ -417,11 +417,11 @@ Klanten die meer dan 90 dagen niet hebben besteld, zijn in gevaar. Een reeks van
 
 ### Flow 4: Post-purchase review-verzoek
 
-Reviews zijn cruciaal voor conversie van nieuwe bezoekers. Stuur een review-verzoek 7-10 dagen na de verwachte leverdatum. Koppel dit aan je reviewplatform (Kiyoh, Trustpilot, Google Reviews). ActiveCampaign en Klaviyo ondersteunen beide directe koppeling met externe reviewplatforms.
+Reviews zijn essentieel voor conversie van nieuwe bezoekers. Stuur een review-verzoek 7-10 dagen na de verwachte leverdatum. Koppel dit aan je reviewplatform (Kiyoh, Trustpilot, Google Reviews). ActiveCampaign en Klaviyo ondersteunen beide directe koppeling met externe reviewplatforms.
 
 ### Flow 5: Browse abandonment
 
-Klanten die een productpagina hebben bezocht maar niets hebben toegevoegd aan de winkelwagen. Stuur 24 uur na het bezoek een zachte herinnering: "We zagen dat je geïnteresseerd was in [product]." Klaviyo is de enige tool die dit naadloos ondersteunt via Shopify; andere tools vereisen extra tracking-setup.
+Klanten die een productpagina hebben bezocht maar niets hebben toegevoegd aan de winkelwagen. Stuur 24 uur na het bezoek een zachte herinnering: "We zagen dat je geïnteresseerd was in [product]." Klaviyo is de enige tool die dit soepel ondersteunt via Shopify; andere tools vereisen extra tracking-setup.
 
 ## Customer lifetime value: de meest onderbenutte metric
 

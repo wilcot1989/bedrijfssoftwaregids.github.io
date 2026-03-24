@@ -84,7 +84,7 @@ De webgebaseerde beheerconsole is het meest onderscheidende kenmerk van de zakel
 - Rapportages en beveiligingsgebeurtenissen
 - Instellen van beleidsregels (websitefilters, USB-toegang)
 
-Mijn eerlijke beoordeling: de console is **gebruiksvriendelijk maar beperkt**. Voor een ondernemer zonder IT-achtergrond is hij perfect — je begrijpt direct wat er gebeurt. Voor een IT-beheerder die diep wil duiken in logs, geavanceerde policies en gedetailleerde rapportages is Bitdefender GravityZone krachtiger.
+Mijn eerlijke beoordeling: de console is **gebruiksvriendelijk maar beperkt**. Voor een ondernemer zonder IT-achtergrond is hij perfect — je begrijpt direct wat er gebeurt. Voor een IT-beheerder die diep wil duiken in logs, uitgebreide policies en gedetailleerde rapportages is Bitdefender GravityZone krachtiger.
 
 ### Wachtwoordmanager
 
@@ -184,7 +184,7 @@ Prijs inclusief 1 bestandsserver-licentie. Gratis proefperiode van 30 dagen besc
 
 ### Endpoint Security for Business Select (voor grotere organisaties)
 
-Bevat meer geavanceerde mogelijkheden: mobiele apparaatbeheer, uitgebreide rapportages, geavanceerde policy-management. Prijs op aanvraag, typisch €5-7/apparaat/mnd.
+Bevat meer uitgebreide mogelijkheden: mobiele apparaatbeheer, uitgebreide rapportages, uitgebreide policy-management. Prijs op aanvraag, typisch €5-7/apparaat/mnd.
 
 <a href="https://www.awin1.com/cread.php?awinmid=26916&awinaffid=2776410&ued=https://www.kaspersky.nl/small-to-medium-business-security" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Kaspersky Business prijzen en start gratis proef →</a>
 
@@ -219,7 +219,7 @@ Lees ook mijn uitgebreide [Bitdefender vs Kaspersky vergelijking](/blog/bitdefen
 
 **Wat ik minder goed vind:**
 
-1. **De console is te beperkt voor IT-beheerders.** Als je meer dan 25 medewerkers hebt of geavanceerde security-policies nodig hebt, is de Small Office Security console te simpel. Dan is Endpoint Security for Business nodig.
+1. **De console is te beperkt voor IT-beheerders.** Als je meer dan 25 medewerkers hebt of uitgebreide security-policies nodig hebt, is de Small Office Security console te simpel. Dan is Endpoint Security for Business nodig.
 
 2. **De VPN-limiet is een grap.** 300 MB per dag is nutteloos voor productief werk. Presenteer het niet als een feature als het in de praktijk niks betekent.
 
@@ -240,7 +240,7 @@ Lees ook mijn uitgebreide [Bitdefender vs Kaspersky vergelijking](/blog/bitdefen
 **Minder geschikt voor:**
 - Bedrijven met overheids- of defensie-gerelateerde activiteiten
 - Organisaties die formeel NIS2-compliant moeten zijn als kritieke infrastructuur
-- IT-beheerders die geavanceerde policy-management nodig hebben (gebruik dan Endpoint Security for Business)
+- IT-beheerders die uitgebreide policy-management nodig hebben (gebruik dan Endpoint Security for Business)
 - Mac-heavy omgevingen waar ESET of Bitdefender lichtere opties bieden
 
 ---
@@ -306,7 +306,7 @@ Microsoft Defender for Business (inbegrepen bij Microsoft 365 Business Premium) 
 **Defender is voldoende als:**
 - Alle apparaten Windows-apparaten zijn (Mac-bescherming is minder sterk)
 - U al Microsoft 365 Business Premium gebruikt
-- U geen geavanceerde rapportages of uitgebreide beheerconsole nodig hebt
+- U geen gedetailleerde rapportages of uitgebreide beheerconsole nodig hebt
 - Budget een prioriteit is
 
 **Kaspersky biedt meerwaarde boven Defender als:**
@@ -343,7 +343,7 @@ Veel klanten stellen deze vraag. Het antwoord hangt af van uw bedrijfsgrootte en
 
 **Kenmerken:**
 - Kaspersky Security Center (KSC) — krachtige on-premise of cloud console
-- Geavanceerde policy-management per groep
+- Uitgebreide policy-management per groep
 - Rollout-beheer voor grootschalige implementaties
 - Aanvullende modules: mobiel, EDR, Anti-Targeted Attack
 - Active Directory integratie
@@ -356,7 +356,7 @@ Veel klanten stellen deze vraag. Het antwoord hangt af van uw bedrijfsgrootte en
 **Geschikt als:**
 - U IT-beheerder heeft intern of extern
 - U meer dan 25 apparaten beheert
-- U geavanceerde beveiligingsfeatures nodig hebt
+- U uitgebreide beveiligingsfeatures nodig hebt
 - U compliance-rapportages moet genereren
 
 ---
@@ -469,7 +469,7 @@ Dit is relevant voor IT-beheerders die bij een beveiligingsincident willen begri
 
 Voor grotere organisaties biedt Kaspersky realtime data-feeds met informatie over kwaadaardige IP-adressen, URL's, bestandshashes en phishingpagina's. Deze feeds kunnen worden geïntegreerd in SIEM-systemen.
 
-**Voor MKB:** Dit is te geavanceerd en te duur. Het is bedoeld voor Security Operations Centers (SOC's) van grotere organisaties.
+**Voor MKB:** Dit is te uitgebreid en te duur. Het is bedoeld voor Security Operations Centers (SOC's) van grotere organisaties.
 
 ---
 

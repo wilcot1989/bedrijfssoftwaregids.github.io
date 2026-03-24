@@ -22,7 +22,7 @@ products:
     rating_value: "3.7"
     rating_count: "1149"
   - name: "Untill"
-    description: "Robuust kassasysteem voor grote horecazaken met betrouwbare offline modus en uitgebreide functies."
+    description: "Solide kassasysteem voor grote horecazaken met betrouwbare offline modus en uitgebreide functies."
     url: "https://www.untill.com/nl/"
     price: "79.00"
   - name: "Orderbird"
@@ -147,7 +147,7 @@ Twijfel je specifiek tussen Lightspeed en een goedkoper alternatief? Lees mijn [
 - Hogere maandkosten dan sommige concurrenten
 - Vereist stabiele internetverbinding
 - iPad-hardware is extra investering
-- Sommige geavanceerde functies alleen in duurdere plannen
+- Sommige uitgebreide functies alleen in duurdere plannen
 
 <a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
@@ -155,7 +155,7 @@ Twijfel je specifiek tussen Lightspeed en een goedkoper alternatief? Lees mijn [
 
 ## 2. Untill
 
-Untill is het werkpaard van de Nederlandse horeca. Ik raad het aan bij grotere zaken waar het systeem de hele avond foutloos moet draaien, ook als het internet even hapert. De offline modus is een van de beste die ik ken. Bij een drukke brasserie die ik heb begeleid, was Untill het enige systeem dat aan alle eisen voldeed: robuust, uitgebreid en echt gebouwd voor de Nederlandse markt.
+Untill is het werkpaard van de Nederlandse horeca. Ik raad het aan bij grotere zaken waar het systeem de hele avond foutloos moet draaien, ook als het internet even hapert. De offline modus is een van de beste die ik ken. Bij een drukke brasserie die ik heb begeleid, was Untill het enige systeem dat aan alle eisen voldeed: solide, uitgebreid en echt gebouwd voor de Nederlandse markt.
 
 **Wanneer is Untill de betere keuze dan Lightspeed?** Simpel gezegd: als falen geen optie is. Een brasserie met 120 couverts op zaterdagavond, drie barmedewerkers en acht bedieningsmedewerkers tegelijkertijd — daar wil je geen cloudkassa die even hapert omdat de router flikkert. Untill draait door. Ik heb bij een evenementenlocatie gezien hoe het systeem een avond lang zonder internet bleef functioneren en pas bij het sluiten synchronized. Dat geeft rust.
 
@@ -165,7 +165,7 @@ Ik raad Untill aan voor:
 - Grote restaurants, brasserieën en eventlocaties met meer dan 10 bedieningstaflets tegelijkertijd
 - Horecazaken in gebouwen met wisselende internetverbinding
 - Ketens die een centrale database willen met lokale autonomie per vestiging
-- Ondernemers die bereid zijn te betalen voor robuustheid
+- Ondernemers die bereid zijn te betalen voor betrouwbaarheid
 
 Ik raad Untill NIET aan voor:
 - Kleine cafés of lunchzaken met 5 tafeltjes (te zwaar, te duur)
@@ -194,7 +194,7 @@ Ik raad Untill NIET aan voor:
 - Hardware: variabel, op offertebasis
 
 ### Voordelen
-- Zeer robuust en betrouwbaar
+- Zeer solide en betrouwbaar
 - Speciaal ontwikkeld voor de Nederlandse horeca
 - Uitgebreide functies voor grote horecazaken
 - Goede lokale support en installatie
@@ -280,7 +280,7 @@ Het echte nadeel van Square voor horeca is het ontbreken van tafelmanagement. Da
 
 Ik raad Square aan voor:
 - Starters die nog geen track record hebben en het budget moeten bewaken
-- Foodkraampjes, markets, pop-ups waarbij eenvoud en snelheid cruciaal zijn
+- Foodkraampjes, markets, pop-ups waarbij eenvoud en snelheid essentieel zijn
 - Ondernemers die eerst willen valideren of het concept werkt, dan opschalen
 
 Ik raad Square NIET aan voor:
@@ -487,7 +487,7 @@ Elke aanbieder heeft een basispakket dat er aantrekkelijk uitziet, en een reeks 
 
 Bij Lightspeed betaal je extra voor:
 - Extra kassas (€39/stuk/maand)
-- Geavanceerde rapportages (alleen in Pro-plan)
+- Uitgebreide rapportages (alleen in Pro-plan)
 - Loyaliteitsprogramma (losse module)
 
 Bij Untill betaal je extra voor:
@@ -558,7 +558,7 @@ Een goed kassasysteem horeca moet ook offline werken. Untill heeft hier de beste
 Zit je op een locatie waar internet niet altijd stabiel is (festivalterrein, historisch pand, kelder)? Lees dan mijn vergelijking van [cloud POS vs lokaal kassasysteem](/blog/cloud-pos-vs-lokaal/) — ik leg uit wanneer lokaal opgeslagen data de betere keuze is.
 
 ### iPad of dedicated terminal?
-iPad-systemen (Lightspeed, Orderbird) zijn flexibeler en goedkoper als horeca kassa. Dedicated terminals (Untill, Trivec) zijn robuuster voor intensief gebruik. Mijn advies: voor de meeste zaken volstaat een iPad-gebaseerde horeca kassa prima. Alleen bij hele drukke zaken met meerdere kassa's is een dedicated terminal de betere keuze.
+iPad-systemen (Lightspeed, Orderbird) zijn flexibeler en goedkoper als horeca kassa. Dedicated terminals (Untill, Trivec) zijn betrouwbaarder voor intensief gebruik. Mijn advies: voor de meeste zaken volstaat een iPad-gebaseerde horeca kassa prima. Alleen bij hele drukke zaken met meerdere kassa's is een dedicated terminal de betere keuze.
 
 ### Café vs restaurant vs hotel: wat maakt het verschil?
 
@@ -776,7 +776,7 @@ Een horecakassasysteem is gebouwd rondom menu-items, tafelbeheer, gangindeling e
 Na tientallen horecaondernemers te hebben geholpen met het kiezen van een kassasysteem horeca, komt het hier op neer:
 
 - **Beste allrounder voor restaurants**: [Lightspeed Restaurant](https://www.lightspeedhq.nl/) — compleet, gebruiksvriendelijk en de beste bezorgintegraties. Dit is mijn standaard aanbeveling.
-- **Beste voor grote horecazaken**: [Untill](https://www.untill.com/nl/) — als je een drukke brasserie, evenementenlocatie of keten runt, is Untill het meest robuust.
+- **Beste voor grote horecazaken**: [Untill](https://www.untill.com/nl/) — als je een drukke brasserie, evenementenlocatie of keten runt, is Untill het meest solide.
 - **Beste voor hotels en fine dining**: [Trivec](https://www.trivec.nl/) — de hotel PMS-koppeling maakt het uniek.
 - **Beste budget-optie voor kleine zaken**: [Orderbird](https://www.orderbird.com/nl) — vanaf €39/maand en specifiek voor cafés. Let wel op de Trustpilot-reviews.
 - **Beste voor foodtrucks en pop-ups**: [Zettle by PayPal](https://www.zettle.com/nl) — reader van €29 en je bent klaar.

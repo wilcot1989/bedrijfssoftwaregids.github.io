@@ -52,7 +52,7 @@ Bij grotere teams speelt dit minder, maar voor startende bedrijven en kleine tea
 
 Monday.com Basic is €9/seat/mnd. Standard is €12/seat/mnd. Pro is €19/seat/mnd. Business is €26/seat/mnd. Die stijging is steiler dan bij ClickUp of Asana.
 
-Een team van 20 personen dat van Basic naar Pro wil — voor tijdregistratie, privéborden en geavanceerde integraties — betaalt ineens €380 per maand in plaats van €180 per maand. Dat is een verdubbeling voor features die bij ClickUp standaard zijn inbegrepen in het goedkoopste betaalde plan.
+Een team van 20 personen dat van Basic naar Pro wil — voor tijdregistratie, privéborden en uitgebreide integraties — betaalt ineens €380 per maand in plaats van €180 per maand. Dat is een verdubbeling voor features die bij ClickUp standaard zijn inbegrepen in het goedkoopste betaalde plan.
 
 Concreet voor een team van 20 over drie plannen:
 
@@ -111,7 +111,7 @@ ClickUp positioneert zichzelf als de tool die alle andere tools vervangt. Dat is
 **Prijzen:**
 - Free: onbeperkt gebruikers, 5GB opslag, meeste functies aanwezig
 - Unlimited: €7/gebruiker/mnd — onbeperkte opslag, extra views, integraties
-- Business: €12/gebruiker/mnd — geavanceerde automatisering, portfolioviews, tijdregistratierapportages
+- Business: €12/gebruiker/mnd — uitgebreide automatisering, portfolioviews, tijdregistratierapportages
 - Enterprise: op aanvraag
 
 **Beste voor:** Teams die maximale functionaliteit tegen de laagste prijs willen, projecten met complexe structuren, teams die tijdregistratie nodig hebben.
@@ -159,7 +159,7 @@ Notion is fundamenteel anders dan Monday.com. Het is geen pure projectmanagement
 **Zwakheden ten opzichte van Monday.com:**
 - Minder gespecialiseerd in projectbeheer — geen Gantt-chart in het gratis plan
 - Geen tijdregistratie
-- Taakinstellingen en notificaties zijn minder geavanceerd
+- Taakinstellingen en notificaties zijn minder uitgebreid
 - Kan rommelig worden zonder sterke structuur en naamgeving-discipline
 - Minder geschikt voor complexe project-portfolios
 
@@ -186,7 +186,7 @@ Trello is de tool die vrijwel iedereen wel kent: kaartjes op Kanban-borden die j
 - Alleen Kanban-view in het gratis plan — geen tijdlijn, Gantt of kalender
 - Geen tijdregistratie ingebouwd
 - Geen Gantt-chart voor projectplanning
-- Minder geavanceerde automatisering
+- Minder uitgebreide automatisering
 - Minder rapportages
 
 **Prijzen:**
@@ -212,7 +212,7 @@ Basecamp heeft een uniek businessmodel dat steeds populairder wordt als reactie 
 - Duur voor kleine teams (< 10 personen) omdat de vaste prijs €$299/mnd is
 - Beperktere visuele weergaven — geen Gantt-chart of tijdlijn
 - Geen tijdregistratie
-- Minder geavanceerde rapportages dan Monday.com
+- Minder gedetailleerde rapportages dan Monday.com
 
 **Prijzen:**
 - Personal: Gratis (beperkt tot 3 projecten)
@@ -237,7 +237,7 @@ Teamleader Focus is een Belgische tool die in Nederland populair is bij mkb-bedr
 **Zwakkere punten:**
 - Duurder dan Monday.com voor puur projectmanagement
 - Geen gratis plan
-- Minder geavanceerde pure PM-functies dan Monday.com
+- Minder uitgebreide pure PM-functies dan Monday.com
 - Kleinere internationale community
 
 **Prijzen:** Vanaf €50/mnd voor 2 gebruikers.
@@ -269,7 +269,7 @@ Eerlijk is eerlijk: er zijn situaties waarin Monday.com het beste product is —
 De bord-interface van Monday.com is strakker en intuïtiever dan ClickUp. Als jouw team van nature visueel denkt en weinig weerstand wil bij de adoptie, is Monday.com een sterke keuze.
 
 **Situatie 2: Je wilt CRM én projectmanagement in één tool**
-Monday CRM is een volwaardig CRM-product dat naadloos integreert met Monday Work Management. Als je die combinatie zoekt en niet voor Teamleader wil kiezen (en geen uitgebreide facturatie nodig hebt), is Monday.com hierin uniek onder de niet-Teamleader opties.
+Monday CRM is een volwaardig CRM-product dat direct integreert met Monday Work Management. Als je die combinatie zoekt en niet voor Teamleader wil kiezen (en geen uitgebreide facturatie nodig hebt), is Monday.com hierin uniek onder de niet-Teamleader opties.
 
 **Situatie 3: Team van 20+ medewerkers, strakke onboarding gewenst**
 Bij grotere teams worden de per-seat kosten minder relevant als percentage van de totale personeelskosten. En de schone, uniforme interface van Monday.com maakt onboarding van nieuwe medewerkers eenvoudiger dan bij het uitgebreide ClickUp.
@@ -320,7 +320,7 @@ Ik heb meerdere bedrijven begeleid die de beste projectmanagementtool op de mark
 
 *Mobile app kwaliteit:* Teams die veel onderweg werken, hebben een goede mobiele app nodig. ClickUp, Asana en Monday.com hebben uitstekende iOS/Android-apps. Basecamp ook. Notion's mobiele app is functioneel maar trager dan de desktop-versie.
 
-*Aansluiting op bestaande tools:* Als je team al volledig in Google Workspace werkt, wil je een tool die naadloos integreert. Asana en ClickUp winnen hier.
+*Aansluiting op bestaande tools:* Als je team al volledig in Google Workspace werkt, wil je een tool die direct integreert. Asana en ClickUp winnen hier.
 
 *Stakeholder-acceptatie:* Wie in je organisatie moet de tool steunen? Als de directie gewend is aan Excel-rapportages, kies dan een tool die eenvoudig exporteert of dashboards biedt die herkenbaar zijn.
 

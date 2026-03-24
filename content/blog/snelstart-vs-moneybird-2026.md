@@ -344,7 +344,7 @@ SnelStart en Moneybird zijn niet de enige opties. Afhankelijk van je situatie zi
 
 **e-Boekhouden** — De goedkoopste serieuze optie, vanaf €9,95/mnd. Interface is ouder dan beide, maar Trustpilot-score is uitstekend (4.6/5). Goed voor ondernemers die prijs boven design stellen. Lees de vergelijking [Moneybird vs e-Boekhouden](/blog/moneybird-vs-e-boekhouden-2026/) voor meer detail.
 
-**Exact Online** — Als je meer geavanceerde functionaliteit nodig hebt (projectadministratie, voorraadbeheer, complexe rapportages) en bereid bent meer te betalen (vanaf €49/mnd), is Exact Online de professionelere keuze. Maar voor de meeste ZZP'ers en klein MKB is dat schieten met een kanon op een mug.
+**Exact Online** — Als je meer uitgebreide functionaliteit nodig hebt (projectadministratie, voorraadbeheer, complexe rapportages) en bereid bent meer te betalen (vanaf €49/mnd), is Exact Online de professionelere keuze. Maar voor de meeste ZZP'ers en klein MKB is dat schieten met een kanon op een mug.
 
 Zie ook mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers 2026](/blog/beste-boekhoudsoftware-zzp-2026/) voor een volledig beeld van alle opties.
 

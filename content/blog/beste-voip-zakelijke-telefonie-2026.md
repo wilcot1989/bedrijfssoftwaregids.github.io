@@ -116,12 +116,12 @@ De gesprekskwaliteit van Belfabriek is goed — Nederlandstalige medewerkers met
 
 - Gesprekskosten apart betalen (niet all-in)
 - Beperkte CRM-integraties
-- Minder geavanceerde rapportages dan CloudTalk
+- Minder gedetailleerde rapportages dan CloudTalk
 - Geen eigen softphone-app van topkwaliteit
 
 ### IVR en belplannen bij Belfabriek
 
-Belfabriek biedt een keuzemenu (IVR) via het online dashboard: "Druk 1 voor verkoop, druk 2 voor support." Belplannen zijn flexibel in te stellen per dag en tijdstip. Buiten kantooruren doorschakelen naar voicemail of een mobiel nummer is standaard. De setup is eenvoudiger dan bij CloudTalk of 3CX, maar ook minder geavanceerd.
+Belfabriek biedt een keuzemenu (IVR) via het online dashboard: "Druk 1 voor verkoop, druk 2 voor support." Belplannen zijn flexibel in te stellen per dag en tijdstip. Buiten kantooruren doorschakelen naar voicemail of een mobiel nummer is standaard. De setup is eenvoudiger dan bij CloudTalk of 3CX, maar ook minder uitgebreid.
 
 ### Samenvatting Belfabriek
 
@@ -159,7 +159,7 @@ De Voys-app voor iOS en Android is solide. Gesprekken via mobiel gebruiken je za
 ### Minpunten
 
 - Duurder dan Belfabriek voor lage belvolumes
-- Geavanceerde callcenter-functies minder uitgebreid dan CloudTalk
+- Uitgebreide callcenter-functies minder uitgebreid dan CloudTalk
 - Enterprise functies vereisen een apart gesprek
 
 ### Voys en telefonische bereikbaarheid voor hybride teams
@@ -216,13 +216,13 @@ CloudTalk is gebouwd voor teams die veel bellen: callcenters, salesteams en klan
 
 ### Wat CloudTalk doet
 
-CloudTalk focust op inbound en outbound callcenter-functionaliteit: intelligente wachtrijen, predictive dialer, gespreksopname en transcriptie, en geavanceerde rapportages. De tool is ook sterk voor sales teams met een power dialer die automatisch door een bellijst belt.
+CloudTalk focust op inbound en outbound callcenter-functionaliteit: intelligente wachtrijen, predictive dialer, gespreksopname en transcriptie, en gedetailleerde rapportages. De tool is ook sterk voor sales teams met een power dialer die automatisch door een bellijst belt.
 
 ### Pricing
 
 - Starter: $25/gebruiker/mnd — basis inbound/outbound
 - Essential: $30/gebruiker/mnd — automation, integraties
-- Expert: $50/gebruiker/mnd — AI-functies, geavanceerde rapportages
+- Expert: $50/gebruiker/mnd — AI-functies, gedetailleerde rapportages
 - Custom: op aanvraag
 
 ### Integraties
@@ -268,7 +268,7 @@ Als je Google Workspace gebruikt voor e-mail en samenwerking, past RingCentral g
 
 - Core: €20/gebruiker/mnd — basis VoIP, messaging
 - Advanced: €25/gebruiker/mnd — fax, rapportages, integraties
-- Ultra: €35/gebruiker/mnd — onbeperkte opslag, geavanceerde analytics
+- Ultra: €35/gebruiker/mnd — onbeperkte opslag, diepgaande analytics
 
 ### Integraties
 

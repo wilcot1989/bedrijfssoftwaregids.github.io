@@ -64,7 +64,7 @@ Trustpilot-reviews van Exact Online (gemiddeld 2.7/5 over 644 reviews) klagen re
 
 ### 4. Het is alleen zinvol als je accountant het ook gebruikt
 
-Dit is de sterkste reden om bij Exact Online te blijven: als je accountant het systeem dagelijks gebruikt, is de samenwerking naadloos. Journaalposten, afsluiten van perioden, aangifte voorbereiden — alles loopt soepel als jullie allebei in hetzelfde systeem zitten.
+Dit is de sterkste reden om bij Exact Online te blijven: als je accountant het systeem dagelijks gebruikt, is de samenwerking soepel. Journaalposten, afsluiten van perioden, aangifte voorbereiden — alles loopt soepel als jullie allebei in hetzelfde systeem zitten.
 
 Maar als je accountant je cijfers aan het einde van het kwartaal controleert en daarvoor niet afhankelijk is van Exact Online, heb je die koppeling helemaal niet nodig. En dan betaal je premiumprijs voor een feature die je niet gebruikt.
 

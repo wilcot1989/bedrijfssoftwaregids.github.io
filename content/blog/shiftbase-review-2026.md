@@ -76,7 +76,7 @@ De roostermodule is het hart van Shiftbase en direct de sterkste functie. Het we
 
 **Wat beter kan:**
 - Automatische roosteroptimalisatie is beperkt. Deputy doet dit beter met zijn AI-module.
-- Bijscholingeisen (certificering per functie) zijn aanwezig maar minder geavanceerd dan in Deputy.
+- Bijscholingeisen (certificering per functie) zijn aanwezig maar minder uitgebreid dan in Deputy.
 
 ### Urenregistratie
 

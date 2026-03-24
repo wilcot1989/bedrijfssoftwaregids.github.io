@@ -33,7 +33,7 @@ faq:
 
 Een tijdje geleden vroeg een lezer me of ik Xero ooit serieus had getest. "Het wordt door veel expats en internationale freelancers gebruikt," schreef ze, "maar ik vind er geen eerlijke Nederlandse review van." Ze had gelijk. De meeste Nederlandstalige informatie over Xero is marketingmateriaal of oppervlakkig. Dus ik besloot het zelf te doen: een volledige testperiode, inclusief de functies die er voor de Nederlandse markt echt toe doen.
 
-Het eerlijke antwoord na die test: Xero is indrukwekkend als platform, en heeft een paar functies die de Nederlandse concurrenten domweg niet hebben. Maar er is één cruciaal nadeel dat voor veel Nederlandse ondernemers een dealbreaker is. In deze Xero review leg ik alles uit — zonder marketingpraatjes.
+Het eerlijke antwoord na die test: Xero is indrukwekkend als platform, en heeft een paar functies die de Nederlandse concurrenten domweg niet hebben. Maar er is één belangrijk nadeel dat voor veel Nederlandse ondernemers een dealbreaker is. In deze Xero review leg ik alles uit — zonder marketingpraatjes.
 
 Zoek je eerst een breed overzicht? Bekijk dan mijn vergelijking van de [beste boekhoudsoftware voor ZZP'ers](/blog/beste-boekhoudsoftware-zzp-2026/).
 

@@ -20,7 +20,7 @@ faq:
   - q: "Wat kost Google Workspace per maand voor een klein bedrijf?"
     a: "Google Workspace Business Starter kost €6,90 per gebruiker per maand (jaarlijks gefactureerd). Voor een team van 10 personen is dat €69/mnd. Business Standard kost €13,80 per gebruiker en biedt 2 TB opslagruimte en opname van vergaderingen. Business Plus kost €20,75 per gebruiker."
   - q: "Wat kost Microsoft 365 voor het MKB?"
-    a: "Microsoft 365 Business Basic kost €6 per gebruiker per maand. Microsoft 365 Business Standard kost €12,50 per gebruiker en bevat de desktopapps (Word, Excel, PowerPoint). Microsoft 365 Business Premium kost €22 per gebruiker en voegt geavanceerde beveiliging toe."
+    a: "Microsoft 365 Business Basic kost €6 per gebruiker per maand. Microsoft 365 Business Standard kost €12,50 per gebruiker en bevat de desktopapps (Word, Excel, PowerPoint). Microsoft 365 Business Premium kost €22 per gebruiker en voegt uitgebreide beveiliging toe."
   - q: "Wat is het verschil tussen Google Workspace en Microsoft 365 voor samenwerking?"
     a: "Google Workspace is gebouwd rondom samenwerking in de browser: meerdere mensen werken tegelijk in hetzelfde document zonder versieproblemen. Microsoft 365 heeft OneDrive en Teams als kern, maar echte realtime samenwerking in Word vereist dat iedereen Office 365 gebruikt. Voor teams die altijd online werken wint Google; voor zware documentbewerking met opmaakwensen wint Microsoft."
   - q: "Welke AI is beter: Google Gemini of Microsoft Copilot?"
@@ -121,7 +121,7 @@ Wat ik in de praktijk waardeer: Gmail's spamfilter is de beste die ik ken. Van d
 
 ### Outlook (Microsoft 365)
 
-Outlook is de standaard in veel Nederlandse sectoren: accountancy, juridisch, overheid, bouw. Als je klanten en partners allemaal met Outlook werken, is de integratie naadloos. Vergaderverzoeken, gedeelde agenda's en out-of-office berichten werken frictieloos.
+Outlook is de standaard in veel Nederlandse sectoren: accountancy, juridisch, overheid, bouw. Als je klanten en partners allemaal met Outlook werken, is de integratie soepel. Vergaderverzoeken, gedeelde agenda's en out-of-office berichten werken frictieloos.
 
 De gecombineerde weergave (e-mail, agenda, taken, contacten in één venster) is voor veel mensen productiever dan losse tabbladen. Mijn persoonlijke voorkeur voor zware e-mailwerkers: Outlook.
 
@@ -141,7 +141,7 @@ Meerdere mensen werken tegelijk in hetzelfde bestand, zien elkaars cursor in rea
 
 Voor teams die veel samen schrijven (offertes, rapporten, beleid) is dit een enorm voordeel. Ik heb bedrijven zien stoppen met het e-mailen van Word-versies terug en voor na de overstap naar Google Docs, en dat alleen al bespaart uren per week.
 
-**Nadeel:** Complexe Excel-modellen met VBA-macro's, draaitabellen of geavanceerde opmaak werken niet correct in Google Sheets. Als je klanten Excel-bestanden sturen die je moet aanpassen en terugsturen, is Google Sheets frustrerend.
+**Nadeel:** Complexe Excel-modellen met VBA-macro's, draaitabellen of uitgebreide opmaak werken niet correct in Google Sheets. Als je klanten Excel-bestanden sturen die je moet aanpassen en terugsturen, is Google Sheets frustrerend.
 
 ### Microsoft Word en Excel
 
@@ -268,7 +268,7 @@ Voor begeleiding bij migratie of IT-beheer, zie ook: [Beste IT-beheer software](
 - Je zware Excel-bestanden ontvangt die je moet aanpassen
 - Je medewerkers gewend zijn aan de desktopversies van Word, Excel en PowerPoint
 - Je branche Microsoft-gericht is (accountancy, juridisch, overheid, bouw)
-- Je geavanceerde beveiligingsfuncties nodig hebt (Premium)
+- Je uitgebreide beveiligingsfuncties nodig hebt (Premium)
 
 ---
 
@@ -326,7 +326,7 @@ Microsoft heeft een grotere enterprise-appbibliotheek, met name voor zakelijke s
 - **Adobe Sign:** e-handtekeningen in Word en Outlook
 - **SAP, Oracle, Dynamics 365:** enterprise ERP-integraties
 - **Power Automate:** krachtige workflow-automatisering binnen het Microsoft-ecosysteem
-- **Power BI:** datavisualisatie en rapportages, naadloos gekoppeld aan Excel en SharePoint
+- **Power BI:** datavisualisatie en rapportages, soepel gekoppeld aan Excel en SharePoint
 - **GitHub / Azure DevOps:** voor technische teams
 
 Voor bedrijven die al gebruik maken van Microsoft Dynamics, Power Platform of Azure is de integratie met Microsoft 365 een groot voordeel. Dat ecosysteem is voor Google moeilijk te evenaren.
@@ -486,7 +486,7 @@ Als je bij vraag 4 uitkomt, is de prijs het doorslaggevende argument. Microsoft 
 Google Workspace Business Starter kost €6,90 per gebruiker per maand (jaarlijks gefactureerd). Voor een team van 10 personen is dat €69/mnd. Business Standard kost €13,80 per gebruiker en biedt 2 TB opslagruimte en opname van vergaderingen.
 
 **Wat kost Microsoft 365 voor het MKB?**
-Microsoft 365 Business Basic kost €6 per gebruiker per maand. Business Standard kost €12,50 per gebruiker en bevat de volledige desktopapps (Word, Excel, PowerPoint). Business Premium kost €22 per gebruiker en voegt geavanceerde beveiliging toe.
+Microsoft 365 Business Basic kost €6 per gebruiker per maand. Business Standard kost €12,50 per gebruiker en bevat de volledige desktopapps (Word, Excel, PowerPoint). Business Premium kost €22 per gebruiker en voegt uitgebreide beveiliging toe.
 
 **Wat is het verschil tussen Google Workspace en Microsoft 365 voor samenwerking?**
 Google Workspace heeft een voorsprong bij realtime samenwerking: meerdere mensen werken tegelijk in hetzelfde document zonder versieproblemen. Microsoft 365 heeft co-authoring via OneDrive, maar dat werkt het best als alle partijen Microsoft 365 gebruiken.

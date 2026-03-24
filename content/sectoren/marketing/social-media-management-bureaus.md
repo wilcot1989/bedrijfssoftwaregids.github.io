@@ -92,7 +92,7 @@ Sprout Social is het duurste platform in dit overzicht en ook het meest complete
 **Wat werkt goed voor bureaus:**
 - Meest uitgebreide rapportagemodule van alle social media managementtools
 - Ingebouwde social CRM voor klantinteractiegeschiedenis
-- Geavanceerde luisterfunctie voor merkvermeldingen en trendmonitoring
+- Uitgebreide luisterfunctie voor merkvermeldingen en trendmonitoring
 - Goedkeuringsworkflows en taakbeheer voor teamcollaboratie
 - Geautomatiseerde posting op optimale tijden per account
 - Integraties met Salesforce, HubSpot en andere CRM-systemen

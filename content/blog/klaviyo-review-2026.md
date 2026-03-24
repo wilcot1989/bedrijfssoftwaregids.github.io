@@ -76,7 +76,7 @@ Dit is Klaviyo's absolute troef. De integraties met e-commerce platforms zijn di
 
 **Shopify:** Synchroniseert klantdata, orders, producten, browse-gedrag, winkelwagen-data en custom events. De koppeling is native (officieel Shopify Partner) en werkt real-time.
 
-**WooCommerce:** Plugin beschikbaar. Goede integratie maar iets minder naadloos dan Shopify.
+**WooCommerce:** Plugin beschikbaar. Goede integratie maar iets minder soepel dan Shopify.
 
 **Magento / Adobe Commerce:** Enterprise-integratie met uitgebreide data-sync.
 
@@ -458,7 +458,7 @@ Elke segment ontving andere communicatie. Resultaat na 6 maanden: omzet uit e-ma
 
 ### A/B Testing in Klaviyo
 
-Klaviyo's A/B testmogelijkheden zijn robuuster dan de meeste e-mailtools:
+Klaviyo's A/B testmogelijkheden zijn betrouwbaarder dan de meeste e-mailtools:
 
 **Wat u kunt testen:**
 - Onderwerpregels (meest gebruikte test)

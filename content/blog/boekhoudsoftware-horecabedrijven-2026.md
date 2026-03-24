@@ -40,7 +40,7 @@ Voordat ik in de vergelijking duik, wil ik kort uitleggen wat horecaboekhouding 
 
 Dit is de meest specifieke uitdaging in de horeca. Op eten en niet-alcoholische dranken geldt het lage BTW-tarief van 9%. Op alcoholische dranken geldt 21%. Als je dus een bestelling hebt van een biefstuk met een glas wijn, moet je administratie automatisch de juiste BTW-split maken.
 
-Goede boekhoudsoftware ondersteunt dit, maar alleen als je kassasysteem de transacties ook met de juiste BTW-codes aanlevert. De koppeling tussen kassa en boekhouding is dus cruciaal.
+Goede boekhoudsoftware ondersteunt dit, maar alleen als je kassasysteem de transacties ook met de juiste BTW-codes aanlevert. De koppeling tussen kassa en boekhouding is dus essentieel.
 
 ### Kassasysteem-koppeling
 
@@ -132,7 +132,7 @@ Lees meer in mijn [Exact Online review 2026](/blog/exact-online-review-2026/) me
 
 Moneybird is de meest gebruiksvriendelijke boekhoudsoftware op de Nederlandse markt. De interface is modern, opgeruimd en intuïtief — je hoeft geen boekhoudkennis te hebben om ermee te werken. Dat maakt het aantrekkelijk voor zelfstandige horecaondernemers die geen zin hebben om zich te verdiepen in boekhoudtermen.
 
-Voor horecabedrijven zonder of met weinig personeel is Moneybird een sterke keuze. De BTW-verwerking voor meerdere tarieven werkt goed, en via koppeltools als Zapier kun je integraties bouwen met kassasystemen. Een directe koppeling met Lightspeed is beperkt beschikbaar voor Moneybird, maar werkt iets minder naadloos dan bij Exact Online.
+Voor horecabedrijven zonder of met weinig personeel is Moneybird een sterke keuze. De BTW-verwerking voor meerdere tarieven werkt goed, en via koppeltools als Zapier kun je integraties bouwen met kassasystemen. Een directe koppeling met Lightspeed is beperkt beschikbaar voor Moneybird, maar werkt iets minder soepel dan bij Exact Online.
 
 Moneybird heeft geen eigen salarismodule. Als je medewerkers in dienst hebt, heb je een externe salarissoftware nodig (zoals Nmbrs of Loket.nl) die via een koppeling samenwerkt. Voor ZZP'ers en eenmanszaken is dit geen bezwaar.
 

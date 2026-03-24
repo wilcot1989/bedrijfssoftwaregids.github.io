@@ -27,7 +27,7 @@ faq:
   - q: "Bieden Pipedrive en Monday CRM een gratis plan?"
     a: "Pipedrive biedt geen gratis plan, wel een 14 dagen gratis proefperiode. Monday CRM biedt evenmin een gratis CRM-plan (het gratis plan van Monday.com geldt alleen voor de Work Management module, niet voor CRM). Beide bieden wel een gratis trial om het platform te testen."
   - q: "Welke CRM is beter voor een team dat ook projecten beheert?"
-    a: "Monday CRM, zonder twijfel. Het is gebouwd op het Monday.com Work OS platform, waardoor je naadloos kunt schakelen tussen sales pipelines en projectborden. Bij Pipedrive heb je hiervoor een aparte tool nodig, zoals Asana of Trello, plus een Zapier-koppeling."
+    a: "Monday CRM, zonder twijfel. Het is gebouwd op het Monday.com Work OS platform, waardoor je soepel kunt schakelen tussen sales pipelines en projectborden. Bij Pipedrive heb je hiervoor een aparte tool nodig, zoals Asana of Trello, plus een Zapier-koppeling."
   - q: "Kan ik Pipedrive en Monday CRM in het Nederlands gebruiken?"
     a: "Ja, beide platforms bieden een Nederlandstalige interface. Pipedrive heeft 24/7 live chat support in het Engels. Monday CRM biedt support via e-mail en chat, eveneens primair in het Engels maar met steeds meer Nederlandse ondersteuning."
 ---
@@ -66,7 +66,7 @@ Dit is waar de meeste MKB-ondernemers zich verkijken. De startprijzen liggen dic
 |---|---|---|
 | **Instap** | ~$14 (Lite) | €12 (Basic) |
 | **Middel** | ~$24 (Growth) | €17 (Standard) |
-| **Geavanceerd** | ~$49 (Premium) | €28 (Pro) |
+| **Uitgebreid** | ~$49 (Premium) | €28 (Pro) |
 | **Top** | ~$69 (Ultimate) | Op aanvraag (Enterprise) |
 
 Op het eerste gezicht is Monday CRM op elk niveau goedkoper. Maar er zit een addertje: Monday CRM vereist minimaal 3 gebruikers bij elk betaald plan. Bij Pipedrive kun je starten met 1 seat.
@@ -79,7 +79,7 @@ Op het eerste gezicht is Monday CRM op elk niveau goedkoper. Maar er zit een add
 | Met automatiseringen | 5 x ~$24 = ~$120/mnd | 5 x €17 = €85/mnd | **~€420/jaar** (Monday goedkoper) |
 | Alles uit de kast | 5 x ~$49 = ~$245/mnd | 5 x €28 = €140/mnd | **~€1.260/jaar** (Monday goedkoper) |
 
-Monday CRM is aanzienlijk goedkoper, vooral bij de middelste plannen. Maar -- en dit is cruciaal -- Pipedrive's Lite-plan bevat al functies die bij Monday CRM pas in het Standard-plan zitten, zoals tweezijdige e-mailsync. De vergelijking is dus niet helemaal een-op-een.
+Monday CRM is aanzienlijk goedkoper, vooral bij de middelste plannen. Maar -- en dit is essentieel -- Pipedrive's Lite-plan bevat al functies die bij Monday CRM pas in het Standard-plan zitten, zoals tweezijdige e-mailsync. De vergelijking is dus niet helemaal een-op-een.
 
 ### Verborgen kosten waar je op moet letten
 
@@ -91,7 +91,7 @@ Monday CRM is aanzienlijk goedkoper, vooral bij de middelste plannen. Maar -- en
 **Bij Monday CRM:**
 - Minimaal 3 seats, ook als je maar 1-2 gebruikers hebt
 - Opschaling gaat in stappen van 5 gebruikers (van 3 naar 5, van 5 naar 10)
-- Geavanceerde dashboards pas in het Pro-plan
+- Uitgebreide dashboards pas in het Pro-plan
 
 ## Pipedrive: het pure sales-CRM
 
@@ -126,13 +126,13 @@ Meer weten? Lees mijn [uitgebreide Pipedrive review](/blog/pipedrive-review-2026
 
 **Trustpilot: 2.7/5** (3.388 reviews, gecheckt mrt 2026) — de lagere score gaat vooral over het bredere Monday.com-platform (contractverlenging, prijsstijgingen), niet specifiek over de CRM-module. G2: 4,6/5 (970+ reviews) — daar scoort het juist uitstekend.
 
-Monday CRM is geen traditioneel CRM -- het is een CRM gebouwd op een werkplatform. En dat merk je overal. De kracht zit in de flexibiliteit: je kunt pipelines, borden en workflows precies zo inrichten als jouw bedrijf werkt. Bij een marketingbureau in Amsterdam heb ik Monday CRM geïmplementeerd en het team gebruikte binnen een week hetzelfde platform voor lead-opvolging, campagneplanning en klantprojecten. Dat naadloze verloop van sales naar delivery is iets wat Pipedrive simpelweg niet biedt.
+Monday CRM is geen traditioneel CRM -- het is een CRM gebouwd op een werkplatform. En dat merk je overal. De kracht zit in de flexibiliteit: je kunt pipelines, borden en workflows precies zo inrichten als jouw bedrijf werkt. Bij een marketingbureau in Amsterdam heb ik Monday CRM geïmplementeerd en het team gebruikte binnen een week hetzelfde platform voor lead-opvolging, campagneplanning en klantprojecten. Dat soepele verloop van sales naar delivery is iets wat Pipedrive simpelweg niet biedt.
 
 ### Waar Monday CRM echt scoort
 
 - **Sales + projectmanagement in een platform**: zodra een deal is gewonnen, maak je met een klik een projectbord aan. Geen data-overdracht, geen externe tools.
 - **Extreme flexibiliteit**: elke kolom, elk bord, elke workflow is aanpasbaar. Je bent niet gebonden aan een standaard pipeline-structuur.
-- **Visuele dashboards**: de dashboards zijn uitgebreider dan bij Pipedrive en combineren moeiteloos sales- en projectdata.
+- **Visuele dashboards**: de dashboards zijn uitgebreider dan bij Pipedrive en combineren eenvoudig sales- en projectdata.
 - **Automatiseringen**: de automatiseringsengine is krachtig. "Als een deal naar fase X gaat, maak dan automatisch een projectbord aan en wijs taken toe." Dat soort cross-functionele automatiseringen.
 - **Samenwerking**: updates, commentaren en @-mentions direct op de deal. Minder e-mail heen-en-weer, meer context op het juiste moment.
 
@@ -164,7 +164,7 @@ Benieuwd hoe Monday.com zich als projectmanagementtool houdt? Lees dan mijn [Mon
 
 ### Automatiseringen
 
-**Pipedrive** biedt sales-gerichte automatiseringen: automatisch e-mails versturen bij een fasewissel, taken aanmaken, notificaties sturen. De workflow-builder is visueel en eenvoudig. Geavanceerde automatiseringen zitten in het Growth-plan (~$24/maand).
+**Pipedrive** biedt sales-gerichte automatiseringen: automatisch e-mails versturen bij een fasewissel, taken aanmaken, notificaties sturen. De workflow-builder is visueel en eenvoudig. Uitgebreide automatiseringen zitten in het Growth-plan (~$24/maand).
 
 **Monday CRM** gaat verder. De automatiseringen werken niet alleen binnen de CRM, maar ook tussen CRM-borden en projectborden. "Als een deal wordt gewonnen, maak dan een projectbord aan, wijs een projectmanager toe en stuur een welkomstmail naar de klant." Dat soort ketens.
 

@@ -23,7 +23,7 @@ faq:
   - q: "Welke social media platforms ondersteunt Hootsuite?"
     a: "Hootsuite ondersteunt: Facebook, Instagram, LinkedIn, X (Twitter), Pinterest, YouTube, TikTok en Google My Business. De meeste platformen zijn volledig geïntegreerd; sommige hebben beperktere functies. Voor TikTok is de integratie minder uitgebreid dan voor de traditionele platforms."
   - q: "Hoe goed is de analytics van Hootsuite?"
-    a: "Hootsuite's analytics is een van de sterkste punten. Je ziet per platform: bereik, engagement, volger-groei, beste tijden en campagneprestaties. De rapportages zijn aanpasbaar en exporteerbaar als PDF of Excel. De geavanceerde BI-rapportages (Hootsuite Insights) zijn alleen beschikbaar voor Enterprise."
+    a: "Hootsuite's analytics is een van de sterkste punten. Je ziet per platform: bereik, engagement, volger-groei, beste tijden en campagneprestaties. De rapportages zijn aanpasbaar en exporteerbaar als PDF of Excel. De uitgebreide BI-rapportages (Hootsuite Insights) zijn alleen beschikbaar voor Enterprise."
   - q: "Heeft Hootsuite een AI-assistent?"
     a: "Ja, Hootsuite heeft OwlyWriter AI voor het genereren van social media posts. Je kunt bestaande posts recyclen, variaties maken en captions laten schrijven. De kwaliteit is redelijk maar niet uitzonderlijk. Het bespaart wel tijd bij het produceren van grote hoeveelheden content."
   - q: "Wat zijn de beste alternatieven voor Hootsuite?"
@@ -149,7 +149,7 @@ De kwaliteit is gemiddeld. Ik gebruik OwlyWriter als startpunt, niet als eindpro
 
 **Business (€739/mnd):**
 - Alles van Team
-- Geavanceerde analytics
+- Uitgebreide analytics
 - Custom rapportages
 - Prioriteit support
 
@@ -220,7 +220,7 @@ Voor de meeste kleine bedrijven is Hootsuite te duur. Het Professional-plan van 
 Hootsuite ondersteunt: Facebook, Instagram, LinkedIn, X (Twitter), Pinterest, YouTube, TikTok en Google My Business. De meeste platformen zijn volledig geïntegreerd; sommige hebben beperktere functies. Voor TikTok is de integratie minder uitgebreid dan voor de traditionele platforms.
 
 **Hoe goed is de analytics van Hootsuite?**
-Hootsuite's analytics is een van de sterkste punten. Je ziet per platform: bereik, engagement, volger-groei, beste tijden en campagneprestaties. De rapportages zijn aanpasbaar en exporteerbaar als PDF of Excel. De geavanceerde BI-rapportages (Hootsuite Insights) zijn alleen beschikbaar voor Enterprise.
+Hootsuite's analytics is een van de sterkste punten. Je ziet per platform: bereik, engagement, volger-groei, beste tijden en campagneprestaties. De rapportages zijn aanpasbaar en exporteerbaar als PDF of Excel. De uitgebreide BI-rapportages (Hootsuite Insights) zijn alleen beschikbaar voor Enterprise.
 
 **Heeft Hootsuite een AI-assistent?**
 Ja, Hootsuite heeft OwlyWriter AI voor het genereren van social media posts. Je kunt bestaande posts recyclen, variaties maken en captions laten schrijven. De kwaliteit is redelijk maar niet uitzonderlijk. Het bespaart wel tijd bij het produceren van grote hoeveelheden content.
@@ -371,7 +371,7 @@ Hootsuite en Sprout Social zijn de twee grote social media management platforms 
 Sprout Social is twee keer zo duur. Maar rechtvaardigt het de prijs?
 
 **Analyticks:**
-Sprout Social heeft betere analytics dan Hootsuite — meer aanpasbare dashboards, betere sentiment-analyse, betere competitor benchmarking. Voor grotere merken waarbij analytics-kwaliteit cruciaal is, is Sprout Social de betere keuze.
+Sprout Social heeft betere analytics dan Hootsuite — meer aanpasbare dashboards, betere sentiment-analyse, betere competitor benchmarking. Voor grotere merken waarbij analytics-kwaliteit essentieel is, is Sprout Social de betere keuze.
 
 **Ease-of-use:**
 Beide zijn vergelijkbaar. Hootsuite's Streams-interface is uniek; Sprout Social heeft een cleaner design. Het is persoonlijke voorkeur.
@@ -395,7 +395,7 @@ Voor non-profits die sociale media professioneel willen aanpakken is dit een uit
 
 Hootsuite is een volwassen, betrouwbaar platform dat zijn belofte nakomt: alles-in-één social media management voor professionele teams.
 
-De €99/mnd voor Professional is hoog voor individuelen, maar fair voor kleine teams. De Business-prijs van €739/mnd is te rechtvaardigen voor bureaus en grotere marketingteams die de goedkeurings-workflows en geavanceerde analytics nodig hebben.
+De €99/mnd voor Professional is hoog voor individuelen, maar fair voor kleine teams. De Business-prijs van €739/mnd is te rechtvaardigen voor bureaus en grotere marketingteams die de goedkeurings-workflows en diepgaande analytics nodig hebben.
 
 De verslechterde reputatie op Trustpilot en het afschaffen van het gratis plan zijn reële minpunten. Maar de software zelf is goed, stabiel en innovatief.
 

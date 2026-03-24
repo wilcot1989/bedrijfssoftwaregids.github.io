@@ -23,7 +23,7 @@ faq:
   - q: "Hoe veilig is NordPass? Welke versleuteling gebruikt het?"
     a: "NordPass gebruikt XChaCha20-versleuteling — een modern algoritme dat op hetzelfde beveiligingsniveau zit als AES-256, maar efficiënter op apparaten zonder speciale hardware-instructies. De zero-knowledge architectuur garandeert dat NordVPN zelf nooit toegang heeft tot uw wachtwoorden. Een onafhankelijke beveiligingsaudit door Cure53 (2023) bevestigde de technische integriteit."
   - q: "Wat zijn de beperkingen van NordPass Business tegenover 1Password?"
-    a: "NordPass mist: geavanceerde SIEM-integraties, developer-features (SSH-sleutels, geheimenbeheer), uitgebreide audit logs, en de Travel Mode die 1Password biedt. Voor de meeste MKB-bedrijven zijn deze functies niet nodig. Voor enterprise-omgevingen of compliance-zware sectoren is 1Password of Keeper de betere keuze."
+    a: "NordPass mist: uitgebreide SIEM-integraties, developer-features (SSH-sleutels, geheimenbeheer), uitgebreide audit logs, en de Travel Mode die 1Password biedt. Voor de meeste MKB-bedrijven zijn deze functies niet nodig. Voor enterprise-omgevingen of compliance-zware sectoren is 1Password of Keeper de betere keuze."
   - q: "Kan NordPass wachtwoorden importeren vanuit andere managers?"
     a: "Ja, NordPass ondersteunt import vanuit LastPass, 1Password, Dashlane, Bitwarden, Keeper en generieke CSV-bestanden. De importtool is beschikbaar in de webapplicatie en werkt eenvoudig. Gemiddelde importtijd voor 200+ wachtwoorden: 5-10 minuten."
   - q: "Heeft NordPass een gratis versie voor bedrijven?"
@@ -75,7 +75,7 @@ De kernfunctionaliteit is solide: wachtwoorden opslaan, aanmaken met de generato
 - Direct kopiëren naar klembord
 
 **Browserextensies:**
-Beschikbaar voor Chrome, Firefox, Safari, Edge, Brave en Opera. De kwaliteit van extensies is cruciaal — slechte auto-fill leidt tot medewerkers die de manager niet gebruiken.
+Beschikbaar voor Chrome, Firefox, Safari, Edge, Brave en Opera. De kwaliteit van extensies is essentieel — slechte auto-fill leidt tot medewerkers die de manager niet gebruiken.
 
 Mijn beoordeling van de NordPass-extensie: **uitstekend**. Snelle detectie van inlogvelden, geen false positives, werkt op vrijwel alle websites inclusief complexe enterprise-portalen die andere managers weigeren.
 
@@ -303,7 +303,7 @@ Ja, NordPass Business is specifiek sterk voor teams zonder IT-afdeling. De inter
 NordPass gebruikt XChaCha20-versleuteling — een modern algoritme dat op hetzelfde beveiligingsniveau zit als AES-256, maar efficiënter op apparaten zonder speciale hardware-instructies. De zero-knowledge architectuur garandeert dat NordVPN zelf nooit toegang heeft tot uw wachtwoorden. Een onafhankelijke beveiligingsaudit door Cure53 (2023) bevestigde de technische integriteit.
 
 **Wat zijn de beperkingen van NordPass Business tegenover 1Password?**
-NordPass mist: geavanceerde SIEM-integraties, developer-features (SSH-sleutels, geheimenbeheer), uitgebreide audit logs, en de Travel Mode die 1Password biedt. Voor de meeste MKB-bedrijven zijn deze functies niet nodig. Voor enterprise-omgevingen of compliance-zware sectoren is 1Password of Keeper de betere keuze.
+NordPass mist: uitgebreide SIEM-integraties, developer-features (SSH-sleutels, geheimenbeheer), uitgebreide audit logs, en de Travel Mode die 1Password biedt. Voor de meeste MKB-bedrijven zijn deze functies niet nodig. Voor enterprise-omgevingen of compliance-zware sectoren is 1Password of Keeper de betere keuze.
 
 **Kan NordPass wachtwoorden importeren vanuit andere managers?**
 Ja, NordPass ondersteunt import vanuit LastPass, 1Password, Dashlane, Bitwarden, Keeper en generieke CSV-bestanden. De importtool is beschikbaar in de webapplicatie en werkt eenvoudig. Gemiddelde importtijd voor 200+ wachtwoorden: 5-10 minuten.

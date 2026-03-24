@@ -35,7 +35,7 @@ faq:
 
 Bij een groothandel die ik begeleidde, verloor de financiële afdeling gemiddeld acht uur per week aan het verwerken van declaraties. Medewerkers stuurden foto's van bonnetjes via WhatsApp, Excel-sheets gingen heen en weer, en de boekhouder moest alles handmatig overtypen in Exact Online. Na de implementatie van de juiste declaratiesoftware daalde de verwerkingstijd met 85 procent. Declaraties werden dezelfde dag goedgekeurd en automatisch doorgestuurd naar de boekhouding.
 
-Dat is wat goede declaratiesoftware doet: het elimineert papierwerk, versnelt het goedkeuringsproces en koppelt naadloos aan je bestaande boekhoudpakket.
+Dat is wat goede declaratiesoftware doet: het elimineert papierwerk, versnelt het goedkeuringsproces en koppelt soepel aan je bestaande boekhoudpakket.
 
 In dit artikel vergelijk ik de **5 beste declaratiesoftwareoplossingen voor het Nederlandse MKB** in 2026. Per tool bespreek ik de prijs, de functies, de koppeling met Nederlandse boekhoudsoftware, en voor wie de tool de beste keuze is.
 
@@ -81,7 +81,7 @@ Bij het evalueren van declaratiesoftware let ik altijd op deze zes punten:
 
 ## 1. Declaree — De beste keuze voor het Nederlandse MKB
 
-[Declaree](https://www.declaree.com/) is de enige tool in dit overzicht die volledig in Nederland is gebouwd — en dat merk je. De interface is Nederlandstalig, de klantenservice is in het Nederlands bereikbaar, en de koppelingen met Nederlandse boekhoudsoftware zijn native en robuust. Ik raad Declaree standaard aan als eerste optie voor elk Nederlands MKB-bedrijf.
+[Declaree](https://www.declaree.com/) is de enige tool in dit overzicht die volledig in Nederland is gebouwd — en dat merk je. De interface is Nederlandstalig, de klantenservice is in het Nederlands bereikbaar, en de koppelingen met Nederlandse boekhoudsoftware zijn native en solide. Ik raad Declaree standaard aan als eerste optie voor elk Nederlands MKB-bedrijf.
 
 Wat Declaree onderscheidt van de internationale concurrentie is de diepte van de Nederlandse boekhoudkoppelingen. Niet via Zapier, maar directe, bidirectionele synchronisatie met Exact Online, Twinfield, AFAS, Unit4 en — als enige tool — ook SnelStart. Declaraties worden inclusief de juiste grootboekrekeningen, btw-codes en kostenplaatsen overgezet. De boekhouder hoeft niets meer te doen.
 
@@ -132,7 +132,7 @@ Declaree is de beste keuze voor elk Nederlands MKB-bedrijf met 5-200 medewerkers
 
 [Rydoo](https://www.rydoo.com/) is een Belgisch-Europese tool die zich heeft gespecialiseerd in spend management voor internationale teams. Waar Declaree uitblinkt in de Nederlandse markt, is Rydoo sterk als je medewerkers in meerdere landen werken, reizen en declareren in verschillende valuta.
 
-Ik heb Rydoo ingezet bij een distributeur met kantoren in Nederland, België en Duitsland. De meertalige interface, de ondersteuning van 200+ valuta en de automatische wisselkoersverwerking zijn hier cruciaal. Declaraties in euro's, Britse ponden en Zwitserse franken komen allemaal terecht in de juiste valuta in de boekhouding.
+Ik heb Rydoo ingezet bij een distributeur met kantoren in Nederland, België en Duitsland. De meertalige interface, de ondersteuning van 200+ valuta en de automatische wisselkoersverwerking zijn hier essentieel. Declaraties in euro's, Britse ponden en Zwitserse franken komen allemaal terecht in de juiste valuta in de boekhouding.
 
 Rydoo positioneert zichzelf als een volledig spend management platform — naast declaraties ook reisboekingen, zakelijke creditcards en budgetbeheer.
 
@@ -194,7 +194,7 @@ Ik adviseer SAP Concur uitsluitend aan organisaties met 100+ medewerkers, een fu
 - **AI-powered compliance** — Automatische detectie van dubbele declaraties, beleidsoverschrijdingen en fraudepatronen
 - **Global Support** — Ondersteuning in 180 landen, meertalig, multi-currency, multi-entiteit
 - **ERP-integraties** — Diepe integraties met SAP S/4HANA, Oracle, Microsoft Dynamics en andere enterprise-systemen
-- **Rapportage & Analytics** — Geavanceerde spend-analyse met Concur Intelligence
+- **Rapportage & Analytics** — Uitgebreide spend-analyse met Concur Intelligence
 - **Mobile App** — Uitgebreide app voor declaraties, reisboekingen en goedkeuringen onderweg
 
 ### Prijzen SAP Concur 2026
@@ -250,7 +250,7 @@ Ik heb Moss gezien bij tech-startups en scale-ups die weinig papierwerk willen e
 | Plan | Prijs | Inbegrepen |
 |------|-------|------------|
 | Starter | €9/gebruiker/mnd | Declaraties, 1 kaart per gebruiker, basis integraties |
-| Scale | €15/gebruiker/mnd | + Meerdere kaarten, projectbeheer, geavanceerde workflow |
+| Scale | €15/gebruiker/mnd | + Meerdere kaarten, projectbeheer, uitgebreide workflow |
 | Enterprise | Op aanvraag | + Maatwerk, dedicated support, API |
 
 *Kaartuitgifte is gratis. Transactiekosten zijn 0% voor eurobetalingen in de SEPA-zone.*
@@ -282,7 +282,7 @@ Moss is de beste keuze voor tech-bedrijven, scale-ups en startups die hun comple
 
 [Expensify](https://www.expensify.com/) is een Amerikaans product dat wereldwijd ruim 10 miljoen gebruikers heeft. Het onderscheidt zich met een gratis plan voor individuen en kleine teams, en een slimme SmartScan-technologie die bonnetjes verwerkt via menselijke verificatie (Concierge Expense Reports). Dat maakt het nauwkeuriger dan puur AI-gebaseerde OCR.
 
-Expensify is in Nederland minder gangbaar dan Declaree of Rydoo, deels omdat de koppeling met Nederlandse boekhoudsoftware minder robuust is — het loopt via Zapier in plaats van native integraties. Voor ZZP'ers of bedrijven die internationaal opereren met Xero of QuickBooks is het echter een sterke optie.
+Expensify is in Nederland minder gangbaar dan Declaree of Rydoo, deels omdat de koppeling met Nederlandse boekhoudsoftware minder solide is — het loopt via Zapier in plaats van native integraties. Voor ZZP'ers of bedrijven die internationaal opereren met Xero of QuickBooks is het echter een sterke optie.
 
 ### Functies Expensify
 
@@ -398,7 +398,7 @@ De software is zo goed als het beleid dat je erin instelt. Bepaal vooraf: welke 
 ### 3. Train leidinggevenden eerst
 De bottleneck in declaratieverwerking zit vaak bij de goedkeurders, niet de indieners. Zorg dat managers weten hoe ze snel en efficiënt goedkeuren via de app — liefst op dezelfde dag als de indiening.
 
-Wil je ook je bredere financiële administratie optimaliseren? Bekijk dan mijn gids over [boekhoudsoftware kiezen: 7 cruciale vragen](/blog/boekhoudprogramma-kiezen-7-vragen/) of lees meer over [de beste debiteurenbeheer software voor MKB 2026](/blog/beste-debiteurenbeheer-software-2026/).
+Wil je ook je bredere financiële administratie optimaliseren? Bekijk dan mijn gids over [boekhoudsoftware kiezen: 7 essentiële vragen](/blog/boekhoudprogramma-kiezen-7-vragen/) of lees meer over [de beste debiteurenbeheer software voor MKB 2026](/blog/beste-debiteurenbeheer-software-2026/).
 
 ---
 

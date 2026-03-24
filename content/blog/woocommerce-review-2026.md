@@ -182,7 +182,7 @@ De keerzijde: plugins zijn van wisselende kwaliteit. Sommige worden niet meer ac
 
 ### SEO via Yoast
 
-WooCommerce integreert naadloos met Yoast SEO, de standaard SEO-plugin voor WordPress. Yoast genereert automatisch schema-markup voor producten (Product schema, AggregateRating), wat rich snippets in Google oplevert. De gratis versie van Yoast is voor de meeste winkels voldoende; de Premium-versie (€99/jaar) voegt slimme interne linkvorming en redirectbeheer toe.
+WooCommerce integreert soepel met Yoast SEO, de standaard SEO-plugin voor WordPress. Yoast genereert automatisch schema-markup voor producten (Product schema, AggregateRating), wat rich snippets in Google oplevert. De gratis versie van Yoast is voor de meeste winkels voldoende; de Premium-versie (€99/jaar) voegt slimme interne linkvorming en redirectbeheer toe.
 
 Dit is één van de gebieden waar WooCommerce echt uitblinkt. Volledige controle over URL-structuur, canonical tags, meta-titels en structured data — zonder beperkingen van een hosted platform.
 
@@ -200,7 +200,7 @@ WooCommerce pakt geen percentage van je omzet. Je betaalt alleen de gateway-kost
 **Eigen hosting = eigen data**
 Jij beheert je eigen server en database. Je bent niet afhankelijk van de dienstverlening van een extern platform. Als WooCommerce morgen verdwijnt, draaien je webshop en data gewoon door.
 
-**Naadloze WordPress-integratie**
+**Soepele WordPress-integratie**
 Als je al een WordPress-site hebt met content, blogposts of een uitgebreid CMS, is WooCommerce de logische aanvulling. Je hoeft geen apart platform bij te houden.
 
 **Sterk SEO-fundament**
@@ -289,7 +289,7 @@ Meer details over alle opties vind je in mijn [uitgebreid overzicht van de beste
 
 ## Eindoordeel
 
-WooCommerce is indrukwekkend als je het op zijn eigen voorwaarden beoordeelt: gratis, open-source, onbeperkt aanpasbaar, geen transactiekosten, en naadloos geïntegreerd met WordPress. Als je een technisch vaardige ondernemer bent, WordPress al kent, en bereid bent wat tijd te investeren, biedt WooCommerce meer flexibiliteit en controle dan welk hosted platform dan ook.
+WooCommerce is indrukwekkend als je het op zijn eigen voorwaarden beoordeelt: gratis, open-source, onbeperkt aanpasbaar, geen transactiekosten, en volledig geïntegreerd met WordPress. Als je een technisch vaardige ondernemer bent, WordPress al kent, en bereid bent wat tijd te investeren, biedt WooCommerce meer flexibiliteit en controle dan welk hosted platform dan ook.
 
 Maar "gratis webshop" is een mythe die ik keer op keer zie leiden tot teleurgestelde klanten. De werkelijke kosten — hosting, plugins, onderhoud, en de uren die je kwijt bent aan technisch beheer — liggen voor de meeste shops tussen de €20 en €80 per maand. Dat is niet dramatisch, maar het is ook niet gratis.
 

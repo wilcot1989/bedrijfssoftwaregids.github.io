@@ -143,7 +143,7 @@ Is dat duur? In vergelijking met [AFAS](/blog/afas-review-2026/) — dat aanzien
 
 **Kies AFAS als:** je een groter bedrijf bent (50+ medewerkers), salarisadministratie centraal wil integreren, en bereid bent te investeren in implementatie en prijs.
 
-**Kies Personio als:** je primair HR-processen wil stroomlijnen, salarisadministratie al geregeld hebt (of via een externe partij regelt), en een modernere interface wil.
+**Kies Personio als:** je primair HR-processen wil vereenvoudigen, salarisadministratie al geregeld hebt (of via een externe partij regelt), en een modernere interface wil.
 
 ### Personio vs. Nmbrs
 

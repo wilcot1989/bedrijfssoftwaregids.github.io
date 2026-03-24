@@ -43,7 +43,7 @@ faq:
   - q: "Welke LMS software gebruiken Nederlandse scholen?"
     a: "In Nederland zijn Google Classroom (basis- en voortgezet onderwijs), Microsoft Teams Education (MBO en HBO) en Canvas (hoger onderwijs, universiteiten) het meest gebruikt. Moodle heeft een grote installed base bij ROC's en HBO-instellingen die meer controle en maatwerk willen."
   - q: "Is Google Classroom gratis voor scholen?"
-    a: "Google Classroom is gratis beschikbaar als onderdeel van Google Workspace for Education Fundamentals voor alle onderwijsinstellingen. Meer geavanceerde functies (Google Workspace for Education Plus) kosten geld. Zie ook de Google for Education-subsidies voor Nederlandstalig onderwijs."
+    a: "Google Classroom is gratis beschikbaar als onderdeel van Google Workspace for Education Fundamentals voor alle onderwijsinstellingen. Meer uitgebreide functies (Google Workspace for Education Plus) kosten geld. Zie ook de Google for Education-subsidies voor Nederlandstalig onderwijs."
   - q: "Wat is het verschil tussen een LMS en een SIS?"
     a: "Een LMS (Learning Management System) beheert de leercontent, opdrachten, toetsen en communicatie tussen docent en leerling. Een SIS (Student Information System) beheert administratieve gegevens: inschrijvingen, cijfers, aanwezigheid en roosters. Veel instellingen gebruiken beide, gekoppeld aan elkaar."
   - q: "Welke software past bij een kleine basisschool?"
@@ -131,7 +131,7 @@ Moodle is gratis als u het zelf host, maar managed Moodle-hosting (via MoodleClo
 
 ### 3. Google Classroom — Beste voor basis- en voortgezet onderwijs
 
-[Google Classroom](https://edu.google.com/products/classroom/) is het meest gebruikte LMS in het Nederlandse basis- en voortgezet onderwijs. Het is gratis, eenvoudig in gebruik en naadloos geïntegreerd met Google Docs, Drive en Meet.
+[Google Classroom](https://edu.google.com/products/classroom/) is het meest gebruikte LMS in het Nederlandse basis- en voortgezet onderwijs. Het is gratis, eenvoudig in gebruik en volledig geïntegreerd met Google Docs, Drive en Meet.
 
 **Wat maakt Google Classroom bijzonder:**
 
@@ -149,7 +149,7 @@ Voor leerlingen is de interface vertrouwd — veel kinderen gebruiken Google-pro
 - Google Forms voor toetsen
 
 **Nadelen:**
-- Beperkt op geavanceerde LMS-functies (SCORM, rubrics)
+- Beperkt op uitgebreide LMS-functies (SCORM, rubrics)
 - Cijferbeheer minder uitgebreid dan Canvas
 - Geen ingebouwde voortgangsrapportages
 
@@ -241,7 +241,7 @@ Canvas heeft de sterkste koppelingen met Nederlandse SIS-systemen. Moodle kan vi
 
 LTI (Learning Tools Interoperability) is de standaard voor het integreren van externe leertoepassingen in uw LMS. Via LTI kunt u tools als video-annotatie (Kaltura), plagiaatdetectie (Turnitin), online proctoring (ProctorExam) en digitale tentamens integreren.
 
-Canvas en Moodle ondersteunen LTI 1.3 (de nieuwste versie) volledig. Google Classroom heeft beperkte LTI-ondersteuning. Teams Education ondersteunt LTI via de Teams App Store maar minder naadloos.
+Canvas en Moodle ondersteunen LTI 1.3 (de nieuwste versie) volledig. Google Classroom heeft beperkte LTI-ondersteuning. Teams Education ondersteunt LTI via de Teams App Store maar minder soepel.
 
 Als uw instelling investeert in externe leertoepassingen, is LTI-ondersteuning een kritisch selectiecriterium. Voor meer over e-learning tools bekijk ook onze uitgebreide gids over [LMS en e-learning software voor bedrijven](/blog/beste-lms-elearning-software-2026/).
 
@@ -251,7 +251,7 @@ Blended learning — de combinatie van contactonderwijs en online leren — is v
 
 **Voor zelfstudie en voorbereiding:** Canvas en Moodle bieden uitgebreide mogelijkheden voor pre-class materiaal: video's, leesteksten, kennistoetsen. Studenten bereiden zich voor, zodat contactmomenten effectiever zijn.
 
-**Tijdens de les:** Teams Education en Google Meet integreren naadloos met de leeromgeving voor hybride lessen waarbij een deel van de groep op locatie is en een deel digitaal deelneemt. Bekijk ook onze vergelijking van de [beste vergadersoftware](/blog/beste-vergadersoftware-2026/) voor aanvullende opties voor hybride onderwijs.
+**Tijdens de les:** Teams Education en Google Meet integreren soepel met de leeromgeving voor hybride lessen waarbij een deel van de groep op locatie is en een deel digitaal deelneemt. Bekijk ook onze vergelijking van de [beste vergadersoftware](/blog/beste-vergadersoftware-2026/) voor aanvullende opties voor hybride onderwijs.
 
 **Na de les:** Canvas's discussieboards en Moodle's forums faciliteren asynchrone kennisdeling tussen studenten onderling.
 
@@ -274,7 +274,7 @@ De totale eigendomskosten (TCO) over 5 jaar zijn voor Canvas en Moodle vergelijk
 → Google Classroom (gratis, eenvoudig, voldoende voor PO/VO-behoeften)
 
 **Werkt uw school al volledig in Microsoft 365?**
-→ Teams Education als aanvulling (naadloze integratie, gratis via A1)
+→ Teams Education als aanvulling (directe integratie, gratis via A1)
 
 **Bent u een ROC, MBO of HBO-instelling met eigen IT?**
 → Moodle (open-source, volledige controle, grote plugin-bibliotheek)
@@ -316,7 +316,7 @@ Canvas hanteert instellings-gebaseerde pricing op aanvraag. Voor een middelbare 
 
 Teams Education is sterk als communicatie- en samenwerkingstool, maar minder als volledig LMS. Het heeft geen SCORM-ondersteuning, beperkte assessment-functionaliteit en geen uitgebreid cijferbeheer. De meeste instellingen gebruiken Teams Education naast een volledig LMS, niet als vervanging.
 
-### Welke LMS-functies zijn onmisbaar voor blended learning?
+### Welke LMS-functies zijn essentieel voor blended learning?
 
 Voor effectief blended learning heeft u minimaal nodig: mogelijkheid voor asynchroon leermateriaal (video, tekst, toetsen), real-time communicatie (chat of videovergadering), groepsopdrachten en samenwerking, en feedback-tools voor docenten. Canvas scoort het best op al deze aspecten. Moodle is vergelijkbaar sterk maar vergt meer configuratie.
 

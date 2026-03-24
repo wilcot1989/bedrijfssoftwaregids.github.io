@@ -143,7 +143,7 @@ Commercieel directeuren en salesmanagers die wekelijks rapporteren aan directie 
 
 ## Power — €64 per gebruiker per maand
 
-Power is het plan voor teams die tegen de grenzen van Professional aanlopen. Het voegt met name projectbeheer en hogere gebruikslimieten toe — de functies die je nodig hebt als sales naadloos moet overgaan in delivery.
+Power is het plan voor teams die tegen de grenzen van Professional aanlopen. Het voegt met name projectbeheer en hogere gebruikslimieten toe — de functies die je nodig hebt als sales soepel moet overgaan in delivery.
 
 **Wat Power toevoegt boven Professional:**
 - Native projectmanagement (taken, subtaken en afhankelijkheden direct in Pipedrive)
@@ -169,7 +169,7 @@ Enterprise is het hoogste plan en bedoeld voor organisaties waar beveiliging, co
 **Wat Enterprise toevoegt boven Power:**
 - Single Sign-On (SSO) voor bedrijfsbrede authenticatie
 - Onbeperkte maatwerkaanpassingen aan velden, activiteiten en interfaces
-- Geavanceerde beheermogelijkheden en rolgebaseerde rechten
+- Uitgebreide beheermogelijkheden en rolgebaseerde rechten
 - Uitgebreide beveiligingsinstellingen (IP-restricties, audit logs)
 - Premium telefoonondersteuning
 
@@ -372,7 +372,7 @@ Pipedrive biedt 14 dagen gratis proberen zonder creditcard, op elk plan. Gebruik
 
 **Team van 15+ personen met projectopvolging:** Power (€64/gebruiker/mnd) als je after-sales projecten direct in Pipedrive wil bijhouden. Anders Professional met een externe projectmanagementtool.
 
-**Grote organisatie met security-eisen:** Enterprise (€99/gebruiker/mnd) voor SSO, geavanceerde rechten en compliance-instellingen.
+**Grote organisatie met security-eisen:** Enterprise (€99/gebruiker/mnd) voor SSO, uitgebreide rechten en compliance-instellingen.
 
 De meeste Nederlandse MKB-teams die ik zie, komen goed uit met Advanced of Professional. Dat zijn de twee plannen waar Pipedrive het beste scoort op prijs-kwaliteitverhouding en waar de tool het duidelijkst zijn waarde bewijst.
 

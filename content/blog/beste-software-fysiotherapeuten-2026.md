@@ -16,7 +16,7 @@ aliases:
   - /posts/beste-software-fysiotherapeuten-2026/
 faq:
   - q: "Wat kost software voor fysiotherapeuten gemiddeld?"
-    a: "De meeste fysiotherapie-software kost tussen de 50 en 150 euro per maand, afhankelijk van het aantal therapeuten en de gekozen modules. Intramed en FysioRoadmap werken met prijzen op aanvraag. SpotOnMedics FysioOne is met circa 5 euro per gebruiker per maand de goedkoopste optie, maar mist enkele geavanceerde functies."
+    a: "De meeste fysiotherapie-software kost tussen de 50 en 150 euro per maand, afhankelijk van het aantal therapeuten en de gekozen modules. Intramed en FysioRoadmap werken met prijzen op aanvraag. SpotOnMedics FysioOne is met circa 5 euro per gebruiker per maand de goedkoopste optie, maar mist enkele uitgebreide functies."
   - q: "Is een EPD verplicht voor fysiotherapeuten?"
     a: "Ja, fysiotherapeuten zijn wettelijk verplicht een patiëntendossier bij te houden volgens de WGBO en de AVG. Een elektronisch patiëntendossier is niet strikt verplicht, maar in de praktijk werkt vrijwel elke fysiotherapeut digitaal. Zorgverzekeraars stellen bovendien eisen aan registratie en declaratie die zonder EPD-software nauwelijks te realiseren zijn."
   - q: "Kan ik declareren bij zorgverzekeraars vanuit mijn EPD?"
@@ -334,7 +334,7 @@ SpotOnMedics FysioOne is het goedkoopste pakket in dit overzicht. Voor het beher
 
 Het is een SaaS-platform: je betaalt een jaarlicentie en alle updates, backups en onderhoud zijn inbegrepen. De cloud-versie kost €62,40 per gebruiker per jaar. De software is specifiek ontwikkeld voor de paramedische sector en biedt patientendossiers, afsprakenbeheer, financiële administratie en rapportage.
 
-Wat je inlevert ten opzichte van de duurdere pakketten: de interface is minder gepolijst, er zijn minder geavanceerde BI-functies en de oefenmodule is basaler. Voor een solopraktijk of een startende fysiotherapeut die nog geen honderden euro's per maand wil uitgeven, is het een prima instapmodel.
+Wat je inlevert ten opzichte van de duurdere pakketten: de interface is minder gepolijst, er zijn minder uitgebreide BI-functies en de oefenmodule is basaler. Voor een solopraktijk of een startende fysiotherapeut die nog geen honderden euro's per maand wil uitgeven, is het een prima instapmodel.
 
 ### Belangrijkste functies
 - EPD voor fysiotherapie en paramedici
@@ -365,7 +365,7 @@ Wat je inlevert ten opzichte van de duurdere pakketten: de interface is minder g
 ### Nadelen
 - Minder uitgebreide interface dan de concurrentie
 - Beperktere BI- en rapportagefuncties
-- Oefenmodule minder geavanceerd
+- Oefenmodule minder uitgebreid
 - Kleiner gebruikersbestand (5% marktaandeel)
 - Minder integraties met externe systemen
 - Minder persoonlijke ondersteuning bij de overstap

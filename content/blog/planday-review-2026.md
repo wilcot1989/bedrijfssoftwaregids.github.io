@@ -139,7 +139,7 @@ Planday laat je bepalen wanneer je een rooster publiceert aan medewerkers. Je ku
 
 ### Beperkingen in de roostermodule
 
-Planday is op sommige punten minder geavanceerd dan Shiftbase:
+Planday is op sommige punten minder uitgebreid dan Shiftbase:
 - Geen automatische contracturenbewaking per medewerker
 - WAB-signaleringsregels zijn beperkter
 - Minder uitgebreide sjabloonmogelijkheden

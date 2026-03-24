@@ -164,8 +164,8 @@ Voor een bedrijf van 25 medewerkers:
 **Wat zit in elk plan:**
 
 **Starter:** Verlof, verzuim, personeelsdossier, tijdregistratie, onboarding
-**Growth:** Alles + performance management, recruitment, geavanceerde rapportages
-**Premium:** Alles + AI-functies, geavanceerde integraties, dedicated support
+**Growth:** Alles + performance management, recruitment, gedetailleerde rapportages
+**Premium:** Alles + AI-functies, uitgebreide integraties, dedicated support
 
 ---
 
@@ -351,7 +351,7 @@ Binnen drie dagen kwamen 12 sollicitaties binnen op een test-vacature. Factorial
 Na elk interview kan de interviewer een scorecard invullen per competentie. Dit maakt de afweging tussen kandidaten objectiever.
 
 **Opmerkingen:**
-De ATS is functioneel maar minder geavanceerd dan standalone tools als Recruitee of Teamtailor. Geen video-integratie, geen automatische email-sequenties voor kandidaten. Voor kleine tot middelgrote bedrijven die af en toe werven is het goed genoeg.
+De ATS is functioneel maar minder uitgebreid dan standalone tools als Recruitee of Teamtailor. Geen video-integratie, geen automatische email-sequenties voor kandidaten. Voor kleine tot middelgrote bedrijven die af en toe werven is het goed genoeg.
 
 ---
 

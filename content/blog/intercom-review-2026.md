@@ -75,7 +75,7 @@ Voor SaaS-bedrijven is dit goud waard. Je kunt direct zien of iemand een zwaar g
 
 ### Fin AI Agent: de beste AI-assistent in de markt
 
-Intercom heeft flink geïnvesteerd in AI. Hun AI-agent "Fin" is in 2024-2026 uitgegroeid tot de meest geavanceerde in de markt.
+Intercom heeft flink geïnvesteerd in AI. Hun AI-agent "Fin" is in 2024-2026 uitgegroeid tot de meest uitgebreide in de markt.
 
 **Wat Fin kan:**
 
@@ -145,7 +145,7 @@ Intercom biedt solide rapportages:
 - Team prestaties en workload-verdeling
 
 **Wat ontbreekt:**
-- Geavanceerde custom dashboards (zoals Zendesk Explore)
+- Uitgebreide custom dashboards (zoals Zendesk Explore)
 - Diepgaande cohort-analyses
 - Ticketbaseerde rapportages (Intercom is meer gesprek- dan ticketgericht)
 - Data warehouse integraties
@@ -176,7 +176,7 @@ Opvallend: de e-commerce integraties zijn minder sterk dan bij Zendesk of Trengo
 |------|-------|---------|
 | Starter | €39/maand | Max 2 seats, basis |
 | Essential | €87/seat/maand | Volledig platform |
-| Advanced | €132/seat/maand | + Geavanceerde automatisering |
+| Advanced | €132/seat/maand | + Uitgebreide automatisering |
 | Expert | €215/seat/maand | Enterprise functies |
 
 **Rekenvoorbeeld 5 agenten:**
@@ -193,7 +193,7 @@ Intercom is significant duurder dan alternatieven. Plus de extra kosten voor Fin
 
 **Verborgen kosten bij Intercom:**
 - **Fin AI Agent**: ~€0,99 per opgelost gesprek
-- **Proactive Support Plus**: voor geavanceerde outbound functies (prijs op aanvraag)
+- **Proactive Support Plus**: voor uitgebreide outbound functies (prijs op aanvraag)
 - **SMS**: per bericht (prijs varieert per land)
 - **Extra data**: bij hoog evenement-volume
 
@@ -254,7 +254,7 @@ Zie ook mijn vergelijking [Freshdesk vs Intercom 2026](/blog/freshdesk-vs-interc
 - **Complexe prijsstelling**: moeilijk te voorspellen maandlasten door add-ons
 - **E-commerce is bijzaak**: niet geoptimaliseerd voor webshops en retailklanten
 - **Minder sterk ticketbeheer**: SLA-beheer minder uitgebreid dan Zendesk
-- **Steile leercurve voor geavanceerde functies**: campagnes en segmentatie vereisen tijd
+- **Steile leercurve voor uitgebreide functies**: campagnes en segmentatie vereisen tijd
 
 ## Intercom vs alternatieven: wanneer overstappen?
 

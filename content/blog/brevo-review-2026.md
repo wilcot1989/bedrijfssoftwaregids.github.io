@@ -114,7 +114,7 @@ Hier wordt het interessant. Vanaf het Standard-plan krijg je toegang tot een vis
 
 De automation-builder is intuïtief -- niet zo krachtig als ActiveCampaign, maar absoluut voldoende voor de meeste MKB-bedrijven. Wat ik waardeer: je kunt condities instellen op basis van e-mail opens, klikken, websitebezoek en contacteigenschappen. Bij een klant heb ik een lead-scoring flow opgezet die automatisch warme leads doorzet naar het salesteam via de ingebouwde CRM. Dat soort zaken werken goed.
 
-Het nadeel: de meer geavanceerde triggers (zoals predictive sending en AI-segmentatie) zitten pas in het Professional-plan van €499/maand. Dat is een flinke sprong.
+Het nadeel: de meer uitgebreide triggers (zoals predictive sending en AI-segmentatie) zitten pas in het Professional-plan van €499/maand. Dat is een flinke sprong.
 
 ### CRM
 
@@ -175,7 +175,7 @@ Mijn eigen ervaring: bij klanten die het goed instellen (eigen domein geverifiee
 
 Heb je al last van deliverability-problemen? Lees dan ons artikel over [email deliverability problemen oplossen](/blog/email-deliverability-problemen-oplossen/) voor een stap-voor-stap aanpak. En als je je lijst nog moet opbouwen, bekijk dan het artikel over [e-maillijst opbouwen voor B2B](/blog/email-lijst-opbouwen-b2b/) voor strategieën die werken.
 
-1. **Verifieer je domein** met DKIM en DMARC (dit is gratis en cruciaal)
+1. **Verifieer je domein** met DKIM en DMARC (dit is gratis en essentieel)
 2. **Investeer in een dedicated IP** als je meer dan 10.000 mails per maand verstuurt
 3. **Warm je IP op** -- begin met kleine volumes en bouw geleidelijk op
 4. **Houd je lijst schoon** -- verwijder hard bounces en inactieve contacten regelmatig
@@ -334,7 +334,7 @@ Stuur je eerste campagne naar een klein segment om te testen. Check de preview o
 
 **Brevo is minder geschikt voor:**
 
-- **Bedrijven die geavanceerde marketing automation nodig hebben** -- kies dan ActiveCampaign
+- **Bedrijven die uitgebreide marketing automation nodig hebben** -- kies dan ActiveCampaign
 - **Organisaties die afhankelijk zijn van goede klantenservice** -- Brevo's support is onder de maat
 - **Hoog-volume verzenders (150K+/mnd) met een beperkt budget** -- de sprong naar Professional (€499/mnd) is fors
 - **Bedrijven die veel templates en design-opties willen** -- Mailchimp biedt hier meer

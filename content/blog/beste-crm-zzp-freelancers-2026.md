@@ -83,7 +83,7 @@ Benieuwd hoe HubSpot zich verhoudt tot Pipedrive? Lees dan onze uitgebreide [Hub
 - Betaalde plannen worden snel duur
 - HubSpot-branding op gratis tools (formulieren, e-mails)
 - Kan overweldigend zijn door de veelheid aan functies
-- Geavanceerde automatisering pas vanaf Professional (€90/mnd)
+- Uitgebreide automatisering pas vanaf Professional (€90/mnd)
 
 <a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
 
@@ -188,7 +188,7 @@ Notion als CRM is een optie die ik met een kanttekening aanbeveel. Als je toch a
 ### Prijzen (2026)
 - **Free**: Gratis (basisfuncties, onbeperkte pagina's)
 - **Plus**: €10/maand (meer ruimte en functies)
-- **Business**: €18/maand (geavanceerde functies)
+- **Business**: €18/maand (uitgebreide functies)
 
 ### Voordelen
 - Volledig op maat in te richten
@@ -295,7 +295,7 @@ Je hebt nog weinig klanten en een minimaal budget. **Start met [HubSpot Free CRM
 
 ### Scenario 2: Je doet actief acquisitie
 
-Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces stroomlijnen. **Kies [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj)**. De visuele pipeline en automatische herinneringen zorgen dat je geen kans mist. De investering van ~$14/maand verdient zich snel terug als je er een extra opdracht mee binnenhaalt.
+Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces vereenvoudigen. **Kies [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj)**. De visuele pipeline en automatische herinneringen zorgen dat je geen kans mist. De investering van ~$14/maand verdient zich snel terug als je er een extra opdracht mee binnenhaalt.
 
 ### Scenario 3: Je combineert sales met projecten
 
@@ -321,7 +321,7 @@ Je freelance-business groeit, je hebt steeds meer leads en wilt AI-ondersteuning
 
 ## Conclusie: beste CRM voor ZZP'ers
 
-Voor ZZP'ers geldt: het beste CRM is het CRM dat je daadwerkelijk gebruikt. Een eenvoudige tool die je bijhoudt, is waardevoller dan een geavanceerd systeem dat stof verzamelt. Hier zijn onze aanbevelingen:
+Voor ZZP'ers geldt: het beste CRM is het CRM dat je daadwerkelijk gebruikt. Een eenvoudige tool die je bijhoudt, is waardevoller dan een uitgebreid systeem dat stof verzamelt. Hier zijn onze aanbevelingen:
 
 Vermijd ook de bekende valkuilen: lees mijn artikel over [CRM-fouten die MKB-bedrijven maken](/blog/crm-fouten-mkb/) om te leren van andermans ervaringen. Als consultant is de [sectorpagina CRM voor consultants](/sectoren/crm/crm-voor-consultants/) ook een interessant vertrekpunt. En gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) of de [CRM kostencalculator](/tools/crm/kosten-berekenen/) om je keuze te verfijnen.
 

@@ -31,7 +31,7 @@ products:
     rating_value: "4.6"
     rating_count: "487"
   - name: "HubSpot Sales Hub"
-    description: "Sales-module van HubSpot met e-mailtracking, sequenties, vergaderplanning en naadloze aansluiting op marketing automation."
+    description: "Sales-module van HubSpot met e-mailtracking, sequenties, vergaderplanning en soepele aansluiting op marketing automation."
     url: "https://www.hubspot.com/products/sales"
     price: "15.00"
     rating_value: "4.4"
@@ -199,13 +199,13 @@ Close CRM is de beste keuze als:
 - Je gedetailleerde activiteitsrapportages per verkoper wil
 - Je de bel-, e-mail- en sms-communicatie in één tool wil hebben
 
-**Oordeel: 8,5/10** — De beste tool voor outbound inside sales. Onmisbaar voor teams die leven van het telefoontje.
+**Oordeel: 8,5/10** — De beste tool voor outbound inside sales. Essentieel voor teams die leven van het telefoontje.
 
 ---
 
 ## 3. HubSpot Sales Hub — Beste voor inbound + outbound combinatie
 
-[HubSpot Sales Hub](https://www.hubspot.com/products/sales) is de sales-module van HubSpot's bredere platform. Waar Pipedrive en Close CRM puur salestools zijn, biedt HubSpot de unieke mogelijkheid om je marketing en sales naadloos te integreren in één systeem.
+[HubSpot Sales Hub](https://www.hubspot.com/products/sales) is de sales-module van HubSpot's bredere platform. Waar Pipedrive en Close CRM puur salestools zijn, biedt HubSpot de unieke mogelijkheid om je marketing en sales soepel te integreren in één systeem.
 
 ### Functies
 
@@ -226,14 +226,14 @@ Als je al HubSpot Marketing gebruikt, is Sales Hub de logische uitbreiding. Zie 
 
 ### Gratis vs betaald
 
-HubSpot Sales Hub heeft een substantieel gratis plan met e-mailtracking, dealmanagement, vergaderplanning en basisrapportages. Voor kleine teams van één tot drie verkopers is dat gratis plan een serieuze optie. De betaalde versies voegen automatiseringen, sequenties en geavanceerde rapportages toe.
+HubSpot Sales Hub heeft een substantieel gratis plan met e-mailtracking, dealmanagement, vergaderplanning en basisrapportages. Voor kleine teams van één tot drie verkopers is dat gratis plan een serieuze optie. De betaalde versies voegen automatiseringen, sequenties en gedetailleerde rapportages toe.
 
 ### Prijs
 
 - **Free:** Gratis (beperkte functies, HubSpot-branding)
 - **Starter:** €15/gebruiker/mnd (e-mailsequenties, basisautomatiseringen)
 - **Professional:** €90/gebruiker/mnd (volledige automatisering, aangepaste rapportages)
-- **Enterprise:** €150/gebruiker/mnd (geavanceerde teams, predictive lead scoring)
+- **Enterprise:** €150/gebruiker/mnd (uitgebreide teams, predictive lead scoring)
 
 Het Professional-plan is voor de meeste MKB-teams de relevante keuze, maar de prijs (€90/gebruiker/mnd) is significant hoger dan Pipedrive.
 
@@ -325,7 +325,7 @@ Apollo.io heeft een gratis plan met 50 exportpunten per maand, vijf reeksen en b
 
 - **Free:** Gratis (50 exportpunten, basisfuncties)
 - **Basic:** €49/gebruiker/mnd (onbeperkte e-mailsequenties, 10.000 exportpunten)
-- **Professional:** €79/gebruiker/mnd (AI-functies, geavanceerde filtering)
+- **Professional:** €79/gebruiker/mnd (AI-functies, uitgebreide filtering)
 - **Organization:** €119/gebruiker/mnd (teamfuncties, uitgebreide rapportages)
 
 ### Voor wie?
@@ -336,17 +336,17 @@ Apollo.io is de beste keuze als:
 - Je e-mailsequenties wil inzetten voor outbound prospecting
 - Je Apollo wil combineren met een sterk sales-CRM voor dealmanagement
 
-**Oordeel: 8,5/10** — Onmisbaar voor B2B-teams die actief prospecten. De beste database-tool in zijn klasse.
+**Oordeel: 8,5/10** — Essentieel voor B2B-teams die actief prospecten. De beste database-tool in zijn klasse.
 
 ---
 
 ## 6. LinkedIn Sales Navigator — Beste voor B2B social selling
 
-[LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) is het premium salesproduct van LinkedIn en maakt gebruik van het grootste professionele netwerk ter wereld — meer dan 1 miljard leden. Voor B2B-verkopers die complexe deals sluiten bij grote organisaties is het onmisbaar.
+[LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) is het premium salesproduct van LinkedIn en maakt gebruik van het grootste professionele netwerk ter wereld — meer dan 1 miljard leden. Voor B2B-verkopers die complexe deals sluiten bij grote organisaties is het essentieel.
 
 ### Functies
 
-- **Geavanceerd zoeken:** Filter op functietitel, bedrijfsomvang, sector, senioriteitsniveau, regio en meer dan 30 andere criteria
+- **Uitgebreid zoeken:** Filter op functietitel, bedrijfsomvang, sector, senioriteitsniveau, regio en meer dan 30 andere criteria
 - **Lead en Account-lijsten:** Bewaar doellijsten en volg relevante ontwikkelingen bij prospects
 - **Alerts:** Meldingen bij baanwisselingen, bedrijfsnieuws, LinkedIn-posts van prospects
 - **InMail-berichten:** Berichten sturen aan mensen buiten je netwerk (25 credits per maand)
@@ -369,7 +369,7 @@ LinkedIn Sales Navigator biedt een kleinere database dan Apollo.io (LinkedIn-led
 ### Prijs
 
 - **Core:** ~€99/gebruiker/mnd (basisfuncties, 50 InMails/mnd)
-- **Advanced:** ~€149/gebruiker/mnd (TeamLink, geavanceerde filters)
+- **Advanced:** ~€149/gebruiker/mnd (TeamLink, uitgebreide filters)
 - **Advanced Plus:** Op aanvraag (CRM-sync, enterprise-functies)
 
 ### Voor wie?
@@ -398,7 +398,7 @@ Begin met [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj). De lage prijs,
 
 ### Teams die al HubSpot Marketing gebruiken
 
-Kies HubSpot Sales Hub. De naadloze integratie met de marketing-module en de gedeelde klantdatabase zijn meer waard dan de prijspremie. Zie ook [HubSpot vs Pipedrive](/blog/hubspot-vs-pipedrive-2026/) voor de afweging.
+Kies HubSpot Sales Hub. De directe integratie met de marketing-module en de gedeelde klantdatabase zijn meer waard dan de prijspremie. Zie ook [HubSpot vs Pipedrive](/blog/hubspot-vs-pipedrive-2026/) voor de afweging.
 
 ### B2B-bedrijven gericht op enterprise deals
 

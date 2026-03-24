@@ -107,7 +107,7 @@ Je hoeft niet meteen het duurste platform te kopen. Maar je hebt wel een paar bo
 **E-mailplatform.** Dit is de kern. Drie opties die ik regelmatig aanbeveel aan MKB-klanten:
 
 - **Brevo** (voorheen Sendinblue) — sterke keuze voor Nederlandse bedrijven, AVG-compliant, gratis plan tot 300 e-mails per dag. Goede automatiseringen, betaalbaar instapniveau.
-- **Mailchimp** — de bekendste naam, gratis tot 250 contacten (500 e-mails/maand), makkelijk te leren. Minder sterk in geavanceerde automatisering maar prima voor starters.
+- **Mailchimp** — de bekendste naam, gratis tot 250 contacten (500 e-mails/maand), makkelijk te leren. Minder sterk in uitgebreide automatisering maar prima voor starters.
 - **ActiveCampaign** — mijn persoonlijke voorkeur voor serieuze B2B-automatisering. Duurder (vanaf circa 29 euro per maand), maar de CRM-integratie en segmentatiemogelijkheden zijn aanzienlijk beter.
 
 Lees mijn uitgebreide vergelijking in [beste e-mail marketing software 2026](/blog/beste-email-marketing-software-2026/) als je twijfelt welk platform bij jou past.

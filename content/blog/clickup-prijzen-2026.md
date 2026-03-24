@@ -23,7 +23,7 @@ faq:
   - q: "Wanneer moet ik upgraden van ClickUp Free naar Unlimited?"
     a: "Upgrade naar Unlimited ($7/gebruiker/maand) zodra je meer opslag nodig hebt, onbeperkte integraties wil, meer dan 100 automations per maand gebruikt, of rapportage-exports nodig hebt. Voor de meeste teams van 3+ personen is Unlimited al snel de logische keuze."
   - q: "Wat zijn de verborgen kosten van ClickUp?"
-    a: "ClickUp AI is een add-on van $7 per gebruiker per maand extra — niet inbegrepen in welk plan dan ook. Geavanceerde tijdregistratie (met facturering) vereist het Business-plan. Sommige integraties zoals Salesforce zijn beperkt tot Enterprise. En Enterprise heeft verplichte jaarcontracten."
+    a: "ClickUp AI is een add-on van $7 per gebruiker per maand extra — niet inbegrepen in welk plan dan ook. Uitgebreide tijdregistratie (met facturering) vereist het Business-plan. Sommige integraties zoals Salesforce zijn beperkt tot Enterprise. En Enterprise heeft verplichte jaarcontracten."
   - q: "Is ClickUp goedkoper dan Asana?"
     a: "Ja, ClickUp is op elk niveau goedkoper. ClickUp Unlimited ($7/gebruiker/maand) vs. Asana Starter ($10,99/gebruiker/maand) — bijna 40% goedkoper. ClickUp Business ($12/gebruiker/maand) is goedkoper dan Asana Advanced ($24,99/gebruiker/maand). Bovendien heeft ClickUp native tijdregistratie ingebouwd."
   - q: "Heeft ClickUp een minimum aantal seats?"
@@ -77,10 +77,10 @@ ClickUp's gratis plan heet Free Forever en biedt een opmerkelijk royale basisset
 - **100 MB** — de grootste beperking van Free Forever
 
 **Integraties:**
-- Beperkt: Slack, GitHub, e-mail (geen geavanceerde integraties)
+- Beperkt: Slack, GitHub, e-mail (geen uitgebreide integraties)
 
 **Rapportages:**
-- Basisrapportages — geen exports, geen geavanceerde filters
+- Basisrapportages — geen exports, geen uitgebreide filters
 
 **Tijdregistratie:**
 - Ingebouwde tijdregistratie (simpel) ✓
@@ -132,7 +132,7 @@ Unlimited ($7/gebruiker/maand jaarlijks) is ClickUp's populairste plan en dat is
 ### Wat mist Unlimited nog?
 
 - **ClickUp AI** (add-on, $7/gebruiker/maand extra)
-- Geavanceerde tijdregistratie met factureerbare tarieven (Business)
+- Uitgebreide tijdregistratie met factureerbare tarieven (Business)
 - Workloadbeheer (Business)
 - Google SSO ingebouwd (Business)
 - Aangepaste exportformaten (Business)
@@ -152,7 +152,7 @@ Voor de meeste MKB-teams is Unlimited de beste prijs-kwaliteitsverhouding in de 
 
 ## Business: voor professionele teams met capaciteitsplanning
 
-Business ($12/gebruiker/maand jaarlijks) is het plan voor teams die ook workloadbeheer, geavanceerde tijdregistratie en betere exportmogelijkheden nodig hebben.
+Business ($12/gebruiker/maand jaarlijks) is het plan voor teams die ook workloadbeheer, uitgebreide tijdregistratie en betere exportmogelijkheden nodig hebben.
 
 ### Wat voegt Business toe boven Unlimited?
 
@@ -166,7 +166,7 @@ Business ($12/gebruiker/maand jaarlijks) is het plan voor teams die ook workload
 - Overbelasting signaleren en taken herverdelen
 
 **AI en automatiseringen:**
-- Geavanceerde automatiseringstriggers (meerdere condities)
+- Uitgebreide automatiseringstriggers (meerdere condities)
 - Aangepaste e-mailautomatiseringen
 - (AI nog steeds add-on)
 
@@ -175,7 +175,7 @@ Business ($12/gebruiker/maand jaarlijks) is het plan voor teams die ook workload
 - Twee-factor-authenticatie verplicht instellen
 
 **Rapportages:**
-- Geavanceerde rapportagefilters
+- Uitgebreide rapportagefilters
 - Exporteren naar meerdere formaten
 
 **Doelen en OKR's:**
@@ -187,7 +187,7 @@ Business ($12/gebruiker/maand jaarlijks) is het plan voor teams die ook workload
 Business loont als één of meer van de volgende situaties van toepassing zijn:
 1. Je registreert factureerbare uren voor klanten
 2. Je wil capaciteitsplanning doen voor een team van 10+
-3. Je hebt geavanceerde SSO-eisen
+3. Je hebt uitgebreide SSO-eisen
 4. Je wil uitgebreide tijdregistratierapporten
 
 ### Kostenberekening Business
@@ -202,17 +202,17 @@ Business loont als één of meer van de volgende situaties van toepassing zijn:
 
 ## Enterprise: voor grote organisaties
 
-Enterprise is voor organisaties met 100+ gebruikers die compliance, geavanceerde beveiliging en toegewijde ondersteuning nodig hebben.
+Enterprise is voor organisaties met 100+ gebruikers die compliance, uitgebreide beveiliging en toegewijde ondersteuning nodig hebben.
 
 **Enterprise voegt toe:**
-- Geavanceerde machtigingsinstelling per gebruiker
+- Uitgebreide machtigingsinstelling per gebruiker
 - SAML SSO voor Enterprise Identity Providers
 - SCIM provisioning
 - Aangepaste SLA
 - Dedicated customer success manager
 - MSA (Master Service Agreement) mogelijkheid
 - White labeling (beperkt)
-- Geavanceerde auditlogs
+- Uitgebreide auditlogs
 
 **Wanneer Enterprise?**
 - 100+ gebruikers
@@ -238,7 +238,7 @@ Vergelijking: Notion AI kost $8/gebruiker/maand. Microsoft Copilot (in Teams/Pla
 ### 1. AI is altijd extra
 $7/gebruiker/maand. Bij 10 gebruikers is dat $840/jaar. Niet onvermijdelijk, maar sommige teams rekenen er niet op.
 
-### 2. Geavanceerde tijdregistratie vereist Business
+### 2. Uitgebreide tijdregistratie vereist Business
 Wil je factureerbare uren per klant of project bijhouden? Dan heb je Business nodig ($12/maand in plaats van $7). Dat is 71% meer.
 
 ### 3. Jaarcontract voor Enterprise
@@ -340,7 +340,7 @@ Niet elk team gebruikt dezelfde functies. Hier geef ik per use-case aan welk pla
 | Google SSO | ✗ | ✗ | ✓ | ✓ |
 | SAML SSO | ✗ | ✗ | ✗ | ✓ |
 | SCIM | ✗ | ✗ | ✗ | ✓ |
-| Machtigingen per gebruiker | Basis | Geavanceerd | Geavanceerd | Enterprise |
+| Machtigingen per gebruiker | Basis | Uitgebreid | Uitgebreid | Enterprise |
 
 ---
 
@@ -398,7 +398,7 @@ Een bureau met 12 medewerkers die uren registreren per klant en factureerbare ur
 
 **Aanbeveling: ClickUp Business**
 - Kosten: 12 × $12 = $144/maand (jaarlijks)
-- Waarom Business: factureerbare uren per klant instellen, workloadbeheer, geavanceerde tijdregistratierapporten
+- Waarom Business: factureerbare uren per klant instellen, workloadbeheer, uitgebreide tijdregistratierapporten
 - Totaal per jaar: $1.728
 - Vergelijking met Asana Advanced: 12 × $24,99 = $299,88/maand — $155,88 per maand duurder
 
@@ -472,7 +472,7 @@ Ja, ClickUp Free Forever is permanent gratis voor onbeperkte gebruikers. De limi
 Upgrade naar Unlimited ($7/gebruiker/maand) zodra je meer opslag nodig hebt, onbeperkte integraties wil, meer dan 100 automations per maand gebruikt, of rapportage-exports nodig hebt. Voor de meeste teams van 3+ personen is Unlimited al snel de logische keuze.
 
 **Wat zijn de verborgen kosten van ClickUp?**
-ClickUp AI is een add-on van $7 per gebruiker per maand extra — niet inbegrepen in welk plan dan ook. Geavanceerde tijdregistratie (met facturering) vereist het Business-plan. Sommige integraties zoals Salesforce zijn beperkt tot Enterprise. En Enterprise heeft verplichte jaarcontracten.
+ClickUp AI is een add-on van $7 per gebruiker per maand extra — niet inbegrepen in welk plan dan ook. Uitgebreide tijdregistratie (met facturering) vereist het Business-plan. Sommige integraties zoals Salesforce zijn beperkt tot Enterprise. En Enterprise heeft verplichte jaarcontracten.
 
 **Is ClickUp goedkoper dan Asana?**
 Ja, ClickUp is op elk niveau goedkoper. ClickUp Unlimited ($7/gebruiker/maand) vs. Asana Starter ($10,99/gebruiker/maand) — bijna 40% goedkoper. ClickUp Business ($12/gebruiker/maand) is goedkoper dan Asana Advanced ($24,99/gebruiker/maand). Bovendien heeft ClickUp native tijdregistratie ingebouwd.

@@ -46,7 +46,7 @@ Een bouwbedrijf werkt aan meerdere projecten tegelijk. Je wil weten wat elke klu
 
 ### 2. Urenregistratie medewerkers en onderaannemers
 
-Of je nu personeel in dienst hebt of regelmatig onderaannemers inschakelt: je wil weten hoeveel uur er in een project zit. Dat is nodig voor de nacalculatie (zijn we binnen budget gebleven?) en voor correcte facturatie aan de opdrachtgever. Goede [urenregistratie software](/blog/beste-urenregistratie-software-2026/) is voor veel bouwbedrijven dan ook een onmisbare aanvulling op de boekhouding.
+Of je nu personeel in dienst hebt of regelmatig onderaannemers inschakelt: je wil weten hoeveel uur er in een project zit. Dat is nodig voor de nacalculatie (zijn we binnen budget gebleven?) en voor correcte facturatie aan de opdrachtgever. Goede [urenregistratie software](/blog/beste-urenregistratie-software-2026/) is voor veel bouwbedrijven dan ook een essentiële aanvulling op de boekhouding.
 
 ### 3. Materiaalkosten registreren en doorbelasten
 
@@ -144,7 +144,7 @@ Het nadeel is de prijs. De basisversie kost al circa €49 per maand, en de proj
 ### Prijzen (2026)
 
 - **Essentials**: ca. €49/mnd — basis boekhouding, facturatie, bankkoppeling
-- **Advanced**: ca. €89/mnd — toevoegen van projectmodule en geavanceerde rapportages
+- **Advanced**: ca. €89/mnd — toevoegen van projectmodule en gedetailleerde rapportages
 - **Professional**: ca. €149/mnd — uitgebreide integraties en maatwerk
 - Prijzen zijn per gebruiker, exclusief BTW; projectmodule zit niet in het goedkoopste pakket
 
@@ -191,7 +191,7 @@ Wat Moneybird niet heeft, is een echte projectmodule. Er zijn geen kostenplaatse
 - **Gratis**: beperkte functies, 10 facturen/mnd
 - **Basis**: €15/mnd — onbeperkte facturen, bankkoppeling
 - **Uitgebreid**: €35/mnd — meerdere gebruikers, meer integraties
-- **Pro**: €55/mnd — geavanceerde functies, meerdere administraties
+- **Pro**: €55/mnd — uitgebreide functies, meerdere administraties
 
 ### Voordelen
 
@@ -263,7 +263,7 @@ Wil je e-Boekhouden vergelijken met Moneybird? Lees mijn artikel [Moneybird vs. 
 
 Twinfield is een boekhoudplatform dat gericht is op gebruik door of via accountants en administratiekantoren. Als je een accountant hebt die actief is in de bouwsector, is de kans groot dat hij of zij werkt met Twinfield. In dat geval beheer jij de projectadministratie en urenregistratie, en verwerkt de accountant alles in Twinfield.
 
-Ik raad Twinfield niet aan als je helemaal zelf je boekhouding doet zonder accountant — het pakket is niet ontworpen voor die situatie. Maar voor aannemers die een accountant hebben die de boekhouding leidt, biedt Twinfield de meest robuuste combinatie van projectboekhouden, BTW-verlegging, G-rekening-ondersteuning en rapportages.
+Ik raad Twinfield niet aan als je helemaal zelf je boekhouding doet zonder accountant — het pakket is niet ontworpen voor die situatie. Maar voor aannemers die een accountant hebben die de boekhouding leidt, biedt Twinfield de meest solide combinatie van projectboekhouden, BTW-verlegging, G-rekening-ondersteuning en rapportages.
 
 ### Bouw-specifieke functies in Twinfield
 

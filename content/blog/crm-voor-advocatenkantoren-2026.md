@@ -214,7 +214,7 @@ Salesforce is het meest uitgebreide CRM-platform ter wereld. Voor een groot advo
 **Wat Salesforce biedt:**
 
 - Onbeperkte aanpasbaarheid: je kunt elk juridisch proces erin bouwen
-- Geavanceerde rechtenstructuur voor toegang tot gevoelige dossiers
+- Uitgebreide rechtenstructuur voor toegang tot gevoelige dossiers
 - Uitgebreide rapportages en dashboards
 - Integraties met vrijwel elke bestaande software
 - AI-functies voor cliëntinzichten en workload-management
@@ -337,7 +337,7 @@ Ik zie bij implementaties regelmatig dezelfde fouten terugkomen. Hier zijn de ze
 
 ### Fout 1: Een CRM kopen voor features die je nooit gebruikt
 
-De meeste advocatenkantoren hebben geen behoefte aan geavanceerde marketing automation, AI-gestuurde leadscoring of enterprise-rapportages. Toch kiezen ze soms voor een duur platform "voor de toekomst". Kies een tool die past bij je huidige omvang. Je kunt altijd upgraden.
+De meeste advocatenkantoren hebben geen behoefte aan uitgebreide marketing automation, AI-gestuurde leadscoring of enterprise-rapportages. Toch kiezen ze soms voor een duur platform "voor de toekomst". Kies een tool die past bij je huidige omvang. Je kunt altijd upgraden.
 
 ### Fout 2: Contacten importeren zonder opschoning
 

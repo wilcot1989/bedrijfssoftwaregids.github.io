@@ -103,7 +103,7 @@ Ik heb vier van de meest gebruikte oplossingen voor de Nederlandse markt getest 
 
 Payt werkt met een 'actief debiteurenbeheer' model. Dat betekent dat het systeem niet alleen herinneringen stuurt, maar ook communiceert op basis van het gedrag van uw debiteur. Betaalt iemand altijd 5 dagen te laat? Dan past Payt de herinneringstiming automatisch aan op dat patroon, waardoor de herinnering aankomt op het moment dat er écht actie ondernomen kan worden.
 
-De software koppelt naadloos met [Exact Online](/blog/exact-online-review-2026/), Twinfield, Unit4 en SAP. U configureert uw escalatietraject eenmalig en Payt voert het daarna volledig automatisch uit. Medewerkers van Payt halen gemiddeld 22% snellere betalingen bij klanten die de software implementeren.
+De software koppelt soepel met [Exact Online](/blog/exact-online-review-2026/), Twinfield, Unit4 en SAP. U configureert uw escalatietraject eenmalig en Payt voert het daarna volledig automatisch uit. Medewerkers van Payt halen gemiddeld 22% snellere betalingen bij klanten die de software implementeren.
 
 **Functies:**
 
@@ -287,7 +287,7 @@ SnelStart als boekhoudpakket is al betaalbaar en heeft voldoende basisfunctional
 
 ## Koppeling met boekhoudsoftware: van factuur tot betaling
 
-Voor een naadloze workflow wilt u dat uw incassosoftware automatisch nieuwe facturen importeert en betalingen terugkoppelt. Met onze [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) vindt u snel het pakket dat het beste aansluit op uw situatie, inclusief de incasso-integraties die voor u relevant zijn. Let bij de keuze op:
+Voor een soepele workflow wilt u dat uw incassosoftware automatisch nieuwe facturen importeert en betalingen terugkoppelt. Met onze [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) vindt u snel het pakket dat het beste aansluit op uw situatie, inclusief de incasso-integraties die voor u relevant zijn. Let bij de keuze op:
 
 - **Realtime of batch-synchronisatie**: Realtime is altijd te verkiezen boven dagelijkse batch-imports
 - **Bidirectionele koppeling**: Betalingen moeten ook terugvloeien naar uw boekhouding

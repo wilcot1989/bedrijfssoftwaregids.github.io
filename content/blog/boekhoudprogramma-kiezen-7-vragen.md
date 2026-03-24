@@ -121,7 +121,7 @@ De markt ziet er ruwweg zo uit in 2026:
 - **€10-€20/maand:** De zoete plek voor de meeste ZZP'ers. e-Boekhouden (€9,95/maand ZZP of €14,50/maand Onbeperkt), Moneybird Starter (€15/maand). Volledig functioneel voor enkelvoudige administraties.
 - **€20-€40/maand:** Meer mogelijkheden, betere koppelingen, soms salarismodule. Moneybird Growth (€28/maand), Moneybird Professional (€39/maand), InformerOnline.
 - **€40-€60/maand:** Professionele pakketten voor MKB of BV's. Exact Online Essentials (€49/maand). Hier ga je nooit meer naar Excel terug.
-- **€60+/maand:** Uitgebreide MKB-oplossingen met projectadministratie, multi-entiteit, geavanceerde rapportages. AFAS, Unit4, Twinfield.
+- **€60+/maand:** Uitgebreide MKB-oplossingen met projectadministratie, multi-entiteit, gedetailleerde rapportages. AFAS, Unit4, Twinfield.
 
 Wat is verstandig? Als je €5.000 per jaar omzet draait, dan is een pakket van €40/maand onevenredig. Als je €150.000 per jaar omzet draait en je betaalt €15/maand voor boekhoudsoftware, laat je waarschijnlijk functies liggen die je uren besparen.
 

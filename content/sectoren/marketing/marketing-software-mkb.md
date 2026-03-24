@@ -46,7 +46,7 @@ MKB-bedrijven hebben behoefte aan tools die meerdere marketingkanalen samenbreng
 
 ### 1. HubSpot Marketing Hub -- Beste voor MKB dat wil groeien
 
-HubSpot is het meest complete marketingplatform voor het MKB. De gratis versie bevat al een CRM, formulieren, landingspaginas en eenvoudige e-mailmarketing -- voldoende om mee te starten. De betaalde versies voegen automation, lead scoring en uitgebreide rapportages toe. Wat HubSpot onderscheidt van concurrenten, is de naadloze koppeling tussen marketing, sales en service in een platform. Leads die je via een marketingcampagne binnenkrijgt, landen direct in het CRM en worden automatisch toegewezen aan het salesteam.
+HubSpot is het meest complete marketingplatform voor het MKB. De gratis versie bevat al een CRM, formulieren, landingspaginas en eenvoudige e-mailmarketing -- voldoende om mee te starten. De betaalde versies voegen automation, lead scoring en uitgebreide rapportages toe. Wat HubSpot onderscheidt van concurrenten, is de directe koppeling tussen marketing, sales en service in een platform. Leads die je via een marketingcampagne binnenkrijgt, landen direct in het CRM en worden automatisch toegewezen aan het salesteam.
 
 **Wat werkt goed voor MKB:**
 - Volledig gratis CRM met onbeperkt aantal contacten
@@ -56,7 +56,7 @@ HubSpot is het meest complete marketingplatform voor het MKB. De gratis versie b
 - Meer dan 1.000 integraties via de HubSpot App Marketplace
 - Breed ondersteund door Nederlandse marketingbureaus en consultants
 
-**Wat ontbreekt:** De Professional-versie is duur voor kleine teams; sommige geavanceerde features zijn pas beschikbaar vanaf EUR 800 per maand.
+**Wat ontbreekt:** De Professional-versie is duur voor kleine teams; sommige uitgebreide features zijn pas beschikbaar vanaf EUR 800 per maand.
 
 **Prijs:** Gratis. Marketing Hub Starter: EUR 45 per maand. Professional: EUR 800 per maand.
 

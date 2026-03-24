@@ -73,7 +73,7 @@ Zoek je een breder overzicht van alle CRM-opties? Bekijk eerst de [beste CRM sof
 | **Rapportages** | Goed (activiteit & pipeline) | Goed (pipeline & omzet) |
 | **Beste voor** | Inside sales, cold calling, SDR-teams | Relationship sales, field sales, MKB |
 
-Die Trustpilot-scores vertellen een verhaal, maar niet het hele verhaal. Pipedrive's score (4.5/5 op basis van 3.200+ reviews) is robuust en consistent. Close scoort 3.0/5 maar op slechts 11 reviews — te weinig voor een representatief beeld. Uit de gesprekken die ik met Close-gebruikers voer, is de tevredenheid over de kern-functies hoog. De lage score op Trustpilot weerspiegelt deels onboarding-frictie, niet het product zelf.
+Die Trustpilot-scores vertellen een verhaal, maar niet het hele verhaal. Pipedrive's score (4.5/5 op basis van 3.200+ reviews) is solide en consistent. Close scoort 3.0/5 maar op slechts 11 reviews — te weinig voor een representatief beeld. Uit de gesprekken die ik met Close-gebruikers voer, is de tevredenheid over de kern-functies hoog. De lage score op Trustpilot weerspiegelt deels onboarding-frictie, niet het product zelf.
 
 ---
 
@@ -221,7 +221,7 @@ Close is primair gebouwd als web-first platform. De mobiele app is functioneel m
 
 ### 9. Schaalbaarheid voor MKB
 
-Beide systemen schalen goed voor MKB-bedrijven van 5 tot 100 medewerkers. Close heeft plannen tot en met Scale (€139/gebruiker/mnd) met geavanceerde rechtenstructuren en custom activiteiten. Pipedrive schalt tot Enterprise (€99/gebruiker/mnd) met SSO, geavanceerde beveiliging en dedicated account management.
+Beide systemen schalen goed voor MKB-bedrijven van 5 tot 100 medewerkers. Close heeft plannen tot en met Scale (€139/gebruiker/mnd) met uitgebreide rechtenstructuren en custom activiteiten. Pipedrive schalt tot Enterprise (€99/gebruiker/mnd) met SSO, uitgebreide beveiliging en dedicated account management.
 
 Voor bedrijven boven de 100 medewerkers worden beide systemen minder voor de hand liggend — Salesforce of HubSpot Enterprise zijn dan betere opties. Bekijk de [Salesforce review 2026](/blog/salesforce-review-2026/) voor een vergelijking op enterprise-niveau.
 
@@ -248,7 +248,7 @@ Close heeft geen Nederlandse interface, geen Nederlandstalige documentatie, en g
 | **Solo** | €9 | 1 gebruiker, 10.000 leads, basis communicatie |
 | **Essentials** | €35 | Meerdere gebruikers, onbeperkte leads, meerdere pipelines, basis automatiseringen |
 | **Growth** | €99 | Workflow automation, Power Dialer, AI e-mailassistent, call coaching |
-| **Scale** | €139 | Predictive Dialer, role-based access, custom activities, geavanceerde rapportages |
+| **Scale** | €139 | Predictive Dialer, role-based access, custom activities, gedetailleerde rapportages |
 
 ### Pipedrive (prijzen jaarlijks, april 2026)
 

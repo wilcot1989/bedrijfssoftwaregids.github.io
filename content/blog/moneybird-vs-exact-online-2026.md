@@ -102,7 +102,7 @@ Waar Exact echt uitblinkt:
 - **450+ integraties** via de Exact App Store. Van Shopify en WooCommerce tot Mollie en Bol.com.
 - **Uitgebreide rapportages** die standaard beschikbaar zijn. Cashflow-prognoses, budgetvergelijkingen, consolidatie -- de financiële diepgang is een klasse apart.
 - **Telefonische support.** Als je vastzit, bel je gewoon. Dat klinkt als een detail, maar bij een boekhoudvraag om 16:00 op de laatste dag van het kwartaal is het goud waard.
-- **Accountant-integratie.** Vrijwel elke boekhouder in Nederland kent Exact Online. De koppeling met je accountant is naadloos.
+- **Accountant-integratie.** Vrijwel elke boekhouder in Nederland kent Exact Online. De koppeling met je accountant is soepel.
 
 ### Waar Exact Online tekortschiet
 
@@ -171,7 +171,7 @@ Let op: Moneybird rekent niet per gebruiker. Je betaalt een vast bedrag en kunt 
 
 - Je een **MKB-bedrijf** runt met meerdere medewerkers en afdelingen
 - Je naast boekhouding ook **CRM, voorraad of projectbeheer** in een systeem wilt
-- Je **boekhouder of accountant Exact al gebruikt** en je naadloze samenwerking wilt
+- Je **boekhouder of accountant Exact al gebruikt** en je soepele samenwerking wilt
 - Je bedrijf **snel groeit** en je een platform nodig hebt dat meeschaalt
 - Je **internationale handel** doet en ICP-opgave of Intrastat nodig hebt
 - Je behoefte hebt aan **uitgebreide financiële rapportages** en cashflow-prognoses

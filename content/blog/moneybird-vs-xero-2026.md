@@ -229,7 +229,7 @@ Je factureert klanten in Nederland, UK en Duitsland. Facturen in EUR, GBP en EUR
 
 ### Scenario C: Kleine webshop, 2 medewerkers, WooCommerce
 
-Je verkoopt online via WooCommerce, voornamelijk aan Nederlandse klanten. Je wilt een naadloze koppeling tussen je webshop en boekhouding.
+Je verkoopt online via WooCommerce, voornamelijk aan Nederlandse klanten. Je wilt een directe koppeling tussen je webshop en boekhouding.
 
 **Keuze: Moneybird** — uitstekende WooCommerce-koppeling, lagere prijs, betere Nederlandse BTW-integratie. Overweeg ook SnelStart als alternatief.
 
@@ -241,7 +241,7 @@ Je koopt in China, verkoopt in Europa. Meerdere valuta's, EU-BTW-regels, complex
 
 ### Scenario E: Consultancybureau, 3 medewerkers, boekhouder gebruikt Xero
 
-Je boekhouder werkt al met Xero en adviseert je hetzelfde systeem te gebruiken voor naadloze samenwerking.
+Je boekhouder werkt al met Xero en adviseert je hetzelfde systeem te gebruiken voor soepele samenwerking.
 
 **Keuze: Xero** — als je boekhouder het platform gebruikt, is de samenwerking het meest efficiënt.
 

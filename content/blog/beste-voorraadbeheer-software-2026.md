@@ -32,7 +32,7 @@ Verkoop je ook via een webshop? Bekijk dan eerst mijn overzicht van de [beste so
 
 ## Waar moet je op letten bij voorraadbeheer software?
 
-Voordat ik de tools bespreek, wil ik vijf criteria uitlichten die in de praktijk het verschil maken. Ik heb te vaak gezien dat bedrijven software kiezen op basis van een mooie demo, om er drie maanden later achter te komen dat een cruciale functie ontbreekt.
+Voordat ik de tools bespreek, wil ik vijf criteria uitlichten die in de praktijk het verschil maken. Ik heb te vaak gezien dat bedrijven software kiezen op basis van een mooie demo, om er drie maanden later achter te komen dat een essentiële functie ontbreekt.
 
 ### Barcodescanning
 
@@ -40,7 +40,7 @@ Zonder barcodescanning ben je handmatig producten aan het zoeken en invoeren. Da
 
 ### Multi-locatie ondersteuning
 
-Zodra je voorraad over meerdere locaties verdeeld is -- een magazijn, een winkel, een dropship-leverancier -- heb je software nodig die per locatie de stand bijhoudt. Transferorders tussen locaties en een geconsolideerd overzicht zijn dan onmisbaar. Niet elke tool biedt dit in het basispakket.
+Zodra je voorraad over meerdere locaties verdeeld is -- een magazijn, een winkel, een dropship-leverancier -- heb je software nodig die per locatie de stand bijhoudt. Transferorders tussen locaties en een geconsolideerd overzicht zijn dan essentieel. Niet elke tool biedt dit in het basispakket.
 
 ### Integraties
 
@@ -210,14 +210,14 @@ Lees mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voo
 ### Prijzen (2026)
 
 - **Handel Basis**: vanaf ca. €49/maand
-- **Handel Geavanceerd**: vanaf ca. €149/maand (multi-locatie, serienummers)
-- **Handel Premium**: vanaf ca. €255/maand (geavanceerde logistiek, multi-order picking)
+- **Handel Uitgebreid**: vanaf ca. €149/maand (multi-locatie, serienummers)
+- **Handel Premium**: vanaf ca. €255/maand (uitgebreide logistiek, multi-order picking)
 - Extra gebruikers tegen meerprijs
 - Alle prijzen excl. btw
 
 ### Voordelen
 
-- Naadloze integratie tussen voorraad en financiële administratie
+- Soepele integratie tussen voorraad en financiële administratie
 - Voorraadwaarde direct zichtbaar in je balans en rapportages
 - Vrijwel elke Nederlandse boekhouder werkt ermee
 - Breed scala aan integraties via de Exact App Store
@@ -355,7 +355,7 @@ Ik heb het geadviseerd aan een importeur van keukenapparatuur die met drie man w
 
 - **Entrepreneur**: vanaf ~$110/maand (klein team, basisfuncties)
 - **Small Business**: vanaf ~$279/maand (groter team, meer orders)
-- **Mid-Size**: vanaf ~$499-999/maand (geavanceerde functies, meer gebruikers)
+- **Mid-Size**: vanaf ~$499-999/maand (uitgebreide functies, meer gebruikers)
 - **Add-ons**: BOM & werkorders ($39-$299/mnd), API-toegang ($29-$69/mnd)
 - 20% korting bij jaarabonnement
 - Gratis proefperiode beschikbaar
@@ -447,7 +447,7 @@ Een paar kanttekeningen:
 
 **Begin niet te groot.** Ik zie regelmatig bedrijven die meteen Cin7 of Katana Professional aanschaffen terwijl ze met 200 producten en 20 orders per dag werken. Start met een tool die past bij je huidige volume, en schaal op wanneer dat nodig is. Voor een complete set administratietools voor je bedrijf, lees ook het overzicht van de [beste ERP software voor MKB 2026](/blog/beste-erp-software-mkb-2026/).
 
-**Integraties zijn cruciaal.** Controleer voor je kiest of de tool integreert met je huidige webshop, boekhouding en kassasysteem. Een tool die niet praat met je bestaande systemen creert meer problemen dan hij oplost. Werk je met een [kassasysteem in de horeca](/blog/beste-kassasysteem-horeca-2026/) of een [Lightspeed kassa](/blog/lightspeed-kassa-review-2026/)? Check dan specifiek de koppeling met die systemen.
+**Integraties zijn essentieel.** Controleer voor je kiest of de tool integreert met je huidige webshop, boekhouding en kassasysteem. Een tool die niet praat met je bestaande systemen creert meer problemen dan hij oplost. Werk je met een [kassasysteem in de horeca](/blog/beste-kassasysteem-horeca-2026/) of een [Lightspeed kassa](/blog/lightspeed-kassa-review-2026/)? Check dan specifiek de koppeling met die systemen.
 
 
 ## 5 praktische tips voor beter voorraadbeheer

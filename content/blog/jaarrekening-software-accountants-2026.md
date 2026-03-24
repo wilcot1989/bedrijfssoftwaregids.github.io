@@ -83,7 +83,7 @@ Hoe groter uw kantoor en hoe meer dossiers u beheert, hoe meer tijdsbesparing ee
 
 Silverfin's meest onderscheidende feature is de realtime koppeling met boekhoudpakketten. Het systeem haalt automatisch de grootboekgegevens op uit [Exact Online](/blog/exact-online-review-2026/), [Twinfield](/blog/twinfield-review-2026/), SnelStart, [AFAS](/blog/afas-review-2026/) en tientallen andere pakketten. Elke mutatie in het boekhoudpakket van de klant is direct zichtbaar in het Silverfin-dossier — zonder export, zonder import, zonder handmatige bewerking.
 
-Dat klinkt simpel maar is in de praktijk revolutionair voor kantoren die gewend zijn handmatig Excel-bestanden te exporteren en importeren. De tijdsbesparing bij data-import alleen al bedraagt gemiddeld 2 tot 4 uur per dossier.
+Dat klinkt simpel maar is in de praktijk vernieuwend voor kantoren die gewend zijn handmatig Excel-bestanden te exporteren en importeren. De tijdsbesparing bij data-import alleen al bedraagt gemiddeld 2 tot 4 uur per dossier.
 
 Silverfin werkt met gestandaardiseerde templates en workflows die u volledig kunt aanpassen aan uw kantoorstandaard. Eén keer goed instellen, en elke nieuwe klant en elk nieuw boekjaar volgt automatisch uw aanpak. Paragrafen in de toelichting worden automatisch ingevuld op basis van de financiële data, u hoeft alleen de uitzonderingen en toelichtingen handmatig aan te passen.
 

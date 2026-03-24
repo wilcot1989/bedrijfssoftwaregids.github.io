@@ -17,13 +17,13 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 featured_image: "/images/categories/productiviteit.svg"
 faq:
   - q: "Wat kost Notion per maand in 2026?"
-    a: "Notion heeft vier plannen. Free is permanent gratis voor individueel gebruik. Plus kost $10/gebruiker/maand (jaarlijks) en is het meest gekozen plan voor kleine teams. Business kost $18/gebruiker/maand en voegt SAML SSO en geavanceerde permissies toe. Enterprise is op aanvraag. Notion AI is een optionele add-on van $10/gebruiker/maand bovenop elk betaald plan."
+    a: "Notion heeft vier plannen. Free is permanent gratis voor individueel gebruik. Plus kost $10/gebruiker/maand (jaarlijks) en is het meest gekozen plan voor kleine teams. Business kost $18/gebruiker/maand en voegt SAML SSO en uitgebreide permissies toe. Enterprise is op aanvraag. Notion AI is een optionele add-on van $10/gebruiker/maand bovenop elk betaald plan."
   - q: "Is Notion geschikt als projectmanagement tool?"
     a: "Ja, maar met een kanttekening. Notion heeft alle bouwstenen voor projectmanagement: Kanban-borden, tijdlijnweergave, databases met statussen en toewijzingen. Wat het mist is een echte Gantt-chart met afhankelijkheden, native tijdregistratie en krachtige automatiseringen. Als projectmanagement je primaire gebruik is, en je wil structuur direct uit de doos, dan zijn Monday.com of ClickUp betere keuzes."
   - q: "Wat is Notion AI en is het de extra kosten waard?"
     a: "Notion AI is een add-on van $10/gebruiker/maand die schrijfassistentie, samenvatten, vertalen en antwoorden op vragen over je workspace biedt. De 'Q&A'-functie die je workspace doorzoekt is de meest waardevolle feature. Of het de prijs waard is, hangt af van gebruik: voor teams die veel documentatie schrijven en kennisbeheer centraal staat, ja. Voor teams die Notion puur als takenlijst gebruiken, is het overkill."
   - q: "Wat zijn de grootste nadelen van Notion?"
-    a: "De drie belangrijkste nadelen: (1) Geen structuur out-of-the-box — je moet alles zelf opzetten of templates aanpassen, wat tijd kost. (2) Geen echte Gantt-chart of native tijdregistratie. (3) Performance bij grote databases (500+ items) kan traag worden, vooral op oudere apparaten. Daarnaast missen geavanceerde automatiseringen die tools als Monday.com wel bieden."
+    a: "De drie belangrijkste nadelen: (1) Geen structuur out-of-the-box — je moet alles zelf opzetten of templates aanpassen, wat tijd kost. (2) Geen echte Gantt-chart of native tijdregistratie. (3) Performance bij grote databases (500+ items) kan traag worden, vooral op oudere apparaten. Daarnaast missen uitgebreide automatiseringen die tools als Monday.com wel bieden."
   - q: "Hoe verhoudt Notion zich tot Confluence?"
     a: "Notion en Confluence zijn beide kennisbeheersystemen, maar voor verschillende doelgroepen. Confluence is diep geïntegreerd met Jira en Atlassian-producten, waardoor het sterk is voor software-development teams. Notion is veelzijdiger, moderner van interface en combineert kennisbeheer met projectbeheer en databases. Voor MKB-bedrijven zonder Jira is Notion vrijwel altijd de betere keuze — moderner, betaalbaarder en makkelijker om te leren."
   - q: "Kan ik Notion gratis uitproberen?"
@@ -77,7 +77,7 @@ Notion doet alle drie, maar is bij elk ervan net iets minder gespecialiseerd dan
 |---|---|---|---|
 | **Free** | Gratis | Gratis | Onbeperkte pagina's, 1 gast, beperkte uploads |
 | **Plus** | $10 | $12 | Onbeperkt gasten, volledige uploads, versiegeschiedenis (30 dagen) |
-| **Business** | $18 | $22 | SAML SSO, geavanceerde permissies, bulk PDF-export, 90 dagen versiegeschiedenis |
+| **Business** | $18 | $22 | SAML SSO, uitgebreide permissies, bulk PDF-export, 90 dagen versiegeschiedenis |
 | **Enterprise** | Op aanvraag | Op aanvraag | Audit logs, SCIM provisioning, advanced security, dedicated support |
 
 ### Notion AI (add-on)

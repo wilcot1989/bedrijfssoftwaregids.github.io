@@ -19,11 +19,11 @@ faq:
   - q: "Wat kost marketing automation voor een webshop?"
     a: "Mailchimp is gratis tot 500 contacten en betaald vanaf EUR 13 per maand. ActiveCampaign begint bij EUR 15 per maand voor 500 contacten. Klaviyo is gratis tot 250 contacten en betaald vanaf EUR 20 per maand; de prijs stijgt steil bij grotere lijsten. Bij een lijst van 10.000 contacten kost Klaviyo circa EUR 150 per maand."
   - q: "Kan ik productaanbevelingen sturen op basis van aankoophistorie?"
-    a: "Klaviyo heeft de meest geavanceerde productaanbevelingsfunctionaliteit: e-mails met dynamische productblokken op basis van eerder bekeken of gekochte producten. Mailchimp biedt basisproductaanbevelingen via dynamische inhoudsblokken. ActiveCampaign ondersteunt productaanbevelingen via koppelingen met je webshopplatform."
+    a: "Klaviyo heeft de meest uitgebreide productaanbevelingsfunctionaliteit: e-mails met dynamische productblokken op basis van eerder bekeken of gekochte producten. Mailchimp biedt basisproductaanbevelingen via dynamische inhoudsblokken. ActiveCampaign ondersteunt productaanbevelingen via koppelingen met je webshopplatform."
   - q: "Hoe meet ik de omzet die e-mailcampagnes genereren voor mijn webshop?"
     a: "Klaviyo heeft de sterkste omzetattributie: per flow en per campagne zie je exact hoeveel omzet direct toe te schrijven is aan een e-mail, inclusief welke producten werden besteld. Mailchimp toont omzetdata per campagne als je de Shopify-koppeling actief hebt. ActiveCampaign heeft beperktere omzetrapportages."
   - q: "Wat is het verschil tussen Klaviyo en Mailchimp voor een webshop?"
-    a: "Klaviyo is gebouwd specifiek voor e-commerce en heeft diepere integratie met Shopify en WooCommerce, geavanceerde segmentatie op aankoopgedrag en directe omzetattributie. Mailchimp is een generalistisch e-mailplatform dat ook voor webshops werkt. Klaviyo is sterker maar duurder; Mailchimp is beter voor startende webshops met beperkt budget."
+    a: "Klaviyo is gebouwd specifiek voor e-commerce en heeft diepere integratie met Shopify en WooCommerce, gedetailleerde segmentatie op aankoopgedrag en directe omzetattributie. Mailchimp is een generalistisch e-mailplatform dat ook voor webshops werkt. Klaviyo is sterker maar duurder; Mailchimp is beter voor startende webshops met beperkt budget."
 affiliate: true
 ---
 
@@ -54,7 +54,7 @@ Klaviyo is het systeem dat ik standaard adviseer aan webshops die serieus willen
 - Abandoned-cart, browse abandonment en post-purchase flows out-of-the-box
 - Productaanbevelingen op basis van aankoophistorie in e-mails
 - Omzetattributie per flow en per campagne
-- Geavanceerde segmentatie op aankoopgedrag, bestelwaarde en categorie
+- Uitgebreide segmentatie op aankoopgedrag, bestelwaarde en categorie
 - SMS-marketing gecombineerd met e-mail in dezelfde flows
 
 **Wat ontbreekt:** Prijsstijging is steil bij grotere lijsten; voor kleine webshops met weinig omzet kan de prijs-omzetverhouding tegenvallen.
@@ -77,7 +77,7 @@ Mailchimp heeft zijn e-commerce integraties de afgelopen jaren sterk verbeterd. 
 - Eenvoudige segmentatie op aankoopfrequentie en bestelwaarde
 - Gratis instap voor kleine webshops
 
-**Wat ontbreekt:** Minder geavanceerde segmentatie en omzetrapportages dan Klaviyo; browse abandonment niet beschikbaar in goedkopere plannen.
+**Wat ontbreekt:** Minder gedetailleerde segmentatie en omzetrapportages dan Klaviyo; browse abandonment niet beschikbaar in goedkopere plannen.
 
 **Prijs:** Gratis (500 contacten). Essentials: EUR 13 per maand. Standard: EUR 20 per maand.
 

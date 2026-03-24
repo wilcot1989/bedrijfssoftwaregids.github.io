@@ -74,7 +74,7 @@ Notion is de tool die ik het vaakst aanbeveel aan kleine teams die snel een werk
 
 ## 2. SharePoint — Beste voor Microsoft 365
 
-SharePoint is krachtig, maar ik waarschuw altijd: het is geen kant-en-klaar intranet. Je moet het opzetten, en dat kost tijd. Maar als je bedrijf al op Microsoft 365 draait, is het onverslaanbaar qua integratie. Met Viva Connections erbij heb je een volwaardig modern intranet in Teams. SharePoint's documentbibliotheken sluiten ook naadloos aan op een goed [documentbeheersysteem](/blog/beste-documenten-management-2026/). Wil je naast je intranet ook je social media beter managen? Bekijk dan de [beste social media management tools 2026](/blog/beste-social-media-management-2026/) voor een geïntegreerde aanpak.
+SharePoint is krachtig, maar ik waarschuw altijd: het is geen kant-en-klaar intranet. Je moet het opzetten, en dat kost tijd. Maar als je bedrijf al op Microsoft 365 draait, is het onverslaanbaar qua integratie. Met Viva Connections erbij heb je een volwaardig modern intranet in Teams. SharePoint's documentbibliotheken sluiten ook soepel aan op een goed [documentbeheersysteem](/blog/beste-documenten-management-2026/). Wil je naast je intranet ook je social media beter managen? Bekijk dan de [beste social media management tools 2026](/blog/beste-social-media-management-2026/) voor een geïntegreerde aanpak.
 
 ### Belangrijkste functies
 - **Sites en pagina's** — Afdelings- en projectsites
@@ -95,12 +95,12 @@ SharePoint is krachtig, maar ik waarschuw altijd: het is geen kant-en-klaar intr
 
 ## 3. Confluence — Beste voor technische teams
 
-Confluence adviseer ik specifiek aan technische teams die al met Jira werken. De koppeling is naadloos: je linkt Jira-tickets in je documentatie en alles blijft synchroon. Voor niet-technische teams vind ik het eerlijk gezegd te zwaar, maar voor dev-teams is het de gouden standaard. Wil je ook je urenregistratie koppelen aan je projecten en kennisbank? Bekijk dan het overzicht van de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
+Confluence adviseer ik specifiek aan technische teams die al met Jira werken. De koppeling is soepel: je linkt Jira-tickets in je documentatie en alles blijft synchroon. Voor niet-technische teams vind ik het eerlijk gezegd te zwaar, maar voor dev-teams is het de gouden standaard. Wil je ook je urenregistratie koppelen aan je projecten en kennisbank? Bekijk dan het overzicht van de [beste urenregistratie software 2026](/blog/beste-urenregistratie-software-2026/).
 
 ### Belangrijkste functies
 - **Spaces** — Georganiseerde kennisgebieden per team
 - **Templates** — Meeting notes, besluitlogs, projectplannen
-- **Jira-integratie** — Naadloze koppeling met projectmanagement
+- **Jira-integratie** — Soepele koppeling met projectmanagement
 - **Commentaar en mentions** — Inline feedback op documenten
 - **Macro's** — Dynamische content (tabellen, grafieken, Jira-tickets)
 - **Atlassian Intelligence** — AI-samenvatting en schrijfhulp
@@ -123,14 +123,14 @@ Confluence adviseer ik specifiek aan technische teams die al met Jira werken. De
 
 ## 4. Happeo — Beste voor Google Workspace
 
-Happeo is de logische keuze als je bedrijf op [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) draait. Ik heb het geadviseerd bij een marketingbureau van 60 man dat alles in Google had, en Happeo sloot daar naadloos op aan. Het combineert nieuwsfeed, kennisbank en interne communicatie in een mooie interface.
+Happeo is de logische keuze als je bedrijf op [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) draait. Ik heb het geadviseerd bij een marketingbureau van 60 man dat alles in Google had, en Happeo sloot daar soepel op aan. Het combineert nieuwsfeed, kennisbank en interne communicatie in een mooie interface.
 
 ### Belangrijkste functies
 - **Kanalen** — Interne communicatie per team/onderwerp
 - **Pagina's** — Intranetpagina's met drag-and-drop builder
 - **Kennisbank** — Gestructureerde wiki
 - **People directory** — Medewerkersprofielen en organigram
-- **Google integratie** — Drive, Calendar, Meet naadloos gekoppeld
+- **Google integratie** — Drive, Calendar, Meet soepel gekoppeld
 - **Analytics** — Wie leest wat, engagement metrics
 
 **✅ Voordelen:** Beste Google Workspace integratie, sociaal intranet, mooie interface
@@ -178,7 +178,7 @@ Na tientallen adviesgesprekken hierover heb ik een beslisboom die vrijwel altijd
 **Concrete scenario's:**
 - *"We zijn een startup van 15 man, geen bestaand ecosysteem"* → **Notion**, gratis te beginnen, upgrade naar Plus als je team groeit.
 - *"We zitten al volledig in Microsoft Teams"* → **SharePoint + Viva Connections**, geen extra kosten, gewoon inrichten.
-- *"We zijn een bureau met veel freelancers die Google Drive gebruiken"* → **Happeo**, naadloze Google-integratie, ook externe medewerkers kunnen beperkt toegang krijgen.
+- *"We zijn een bureau met veel freelancers die Google Drive gebruiken"* → **Happeo**, soepele Google-integratie, ook externe medewerkers kunnen beperkt toegang krijgen.
 - *"We zijn een softwarebedrijf met een dev-team dat Jira gebruikt"* → **Confluence** voor technische docs, eventueel aangevuld met Notion voor niet-technische afdelingen.
 - *"We willen onze bedrijfscultuur versterken na een fusie"* → **Workvivo**, specifiek ontworpen voor interne communicatie en medewerkersbetrokkenheid.
 

@@ -15,9 +15,9 @@ faq:
   - q: "Wat kost Trengo per maand?"
     a: "Trengo kost €25 per seat per maand (Essentials), €35 per seat (Boost) of €45 per seat (Pro), bij jaarlijkse betaling. Er is geen gratis plan, maar wel een proefperiode van 14 dagen."
   - q: "Is Trengo beter dan Zendesk?"
-    a: "Trengo is toegankelijker en goedkoper dan Zendesk, en biedt betere WhatsApp-integratie. Zendesk heeft meer geavanceerde functies en is beter schaalbaar voor grote teams. Voor NL MKB-bedrijven is Trengo vaak de betere keuze."
+    a: "Trengo is toegankelijker en goedkoper dan Zendesk, en biedt betere WhatsApp-integratie. Zendesk heeft meer uitgebreide functies en is beter schaalbaar voor grote teams. Voor NL MKB-bedrijven is Trengo vaak de betere keuze."
   - q: "Heeft Trengo WhatsApp Business integratie?"
-    a: "Ja, WhatsApp Business is een kernfunctie van Trengo. Het is inbegrepen in alle betaalde plannen en werkt naadloos samen met de andere communicatiekanalen in de inbox."
+    a: "Ja, WhatsApp Business is een kernfunctie van Trengo. Het is inbegrepen in alle betaalde plannen en werkt soepel samen met de andere communicatiekanalen in de inbox."
   - q: "Werkt Trengo in het Nederlands?"
     a: "Ja, Trengo is volledig Nederlandstalig — interface, ondersteuning en documentatie. Dit is een groot voordeel voor Nederlandse bedrijven ten opzichte van internationale alternatieven."
   - q: "Kan ik Trengo integreren met mijn webshop?"
@@ -120,7 +120,7 @@ Trengo biedt een ingebouwde kennisbank waar je helpartikelen kunt publiceren. Kl
 
 De editor is eenvoudig en werkt goed voor basis tekstopmaak. Wat ik minder vind: de templates zijn beperkt en er is minder mogelijkheid tot CSS-aanpassing dan bij Zendesk Guide.
 
-Voor een uitgebreide, merkgepersonaliseerde kennisbank met geavanceerde zoekfunctionaliteit is Zendesk Guide krachtiger. Maar voor de meeste MKB-bedrijven is Trengo's kennisbank prima geschikt.
+Voor een uitgebreide, merkgepersonaliseerde kennisbank met uitgebreide zoekfunctionaliteit is Zendesk Guide krachtiger. Maar voor de meeste MKB-bedrijven is Trengo's kennisbank prima geschikt.
 
 **Praktische tip**: maak de kennisbank primair voor je eigen agenten. Een interne kennisbank met standaardantwoorden, procedures en productinformatie bespaart agents elke dag tijd.
 
@@ -156,7 +156,7 @@ Trengo biedt standaard rapportages over:
 
 De rapportages zijn overzichtelijk en exporteerbaar naar CSV. De grafieken zijn helder en geven snel inzicht.
 
-**Wat ontbreekt:** Er zijn geen geavanceerde custom dashboards. Als je specifieke KPI's wilt combineren of diepgaande cohort-analyses wilt maken, moet je data exporteren naar Excel of een BI-tool. Zendesk Explore is hier veel krachtiger.
+**Wat ontbreekt:** Er zijn geen uitgebreide custom dashboards. Als je specifieke KPI's wilt combineren of diepgaande cohort-analyses wilt maken, moet je data exporteren naar Excel of een BI-tool. Zendesk Explore is hier veel krachtiger.
 
 Voor de meeste MKB-bedrijven zijn de standaard rapportages echter meer dan voldoende. Ik gebruik ze wekelijks om te zien hoe mijn team presteert en waar ik moet bijsturen.
 
@@ -198,7 +198,7 @@ De mobiele app van Trengo is een van de betere in de markt. De meeste functies v
 
 Notificaties werken betrouwbaar. Als er een urgent WhatsApp-bericht binnenkomt, ben ik direct op de hoogte, ook als ik niet achter mijn computer zit. Voor ondernemers die ook buiten kantoor klanten willen beantwoorden, is dit een groot pluspunt.
 
-De app is niet perfect — sommige geavanceerde functies zoals het aanpassen van automatiserings-regels zijn niet beschikbaar via mobiel. Maar voor dagelijkse support-taken is hij prima.
+De app is niet perfect — sommige uitgebreide functies zoals het aanpassen van automatiserings-regels zijn niet beschikbaar via mobiel. Maar voor dagelijkse support-taken is hij prima.
 
 ### Nederlandstalige interface en support
 
@@ -251,14 +251,14 @@ Er is geen gratis plan, maar wel een **gratis proefperiode van 14 dagen** voor a
 - Standaard rapportages
 - Basis integraties (Shopify, HubSpot)
 
-**Beperking:** Geen CSAT-enquêtes, geen SLA-beheer, beperkte geavanceerde integraties.
+**Beperking:** Geen CSAT-enquêtes, geen SLA-beheer, beperkte uitgebreide integraties.
 
 ### Boost (€35/seat/maand)
 
 **Extra ten opzichte van Essentials:**
 - CSAT-enquêtes
 - SLA-beheer
-- Geavanceerde automatisering
+- Uitgebreide automatisering
 - Meerdere merken/inboxen
 - Uitgebreidere integraties (Exact Online, Salesforce)
 - API-toegang
@@ -268,9 +268,9 @@ Er is geen gratis plan, maar wel een **gratis proefperiode van 14 dagen** voor a
 ### Pro (€45/seat/maand)
 
 **Extra ten opzichte van Boost:**
-- Geavanceerde rapportages
+- Uitgebreide rapportages
 - Prioriteitsondersteuning
-- Geavanceerde API-toegang
+- Uitgebreide API-toegang
 - Meer automatiseringsregels
 
 ### Kostenberekening: 5 agenten
@@ -300,7 +300,7 @@ Ter vergelijking: Zendesk Suite Growth voor 5 agenten = €3.300/jaar. Trengo Bo
 
 ### Nadelen
 
-- **Beperkte rapportages**: geen geavanceerde custom dashboards of diepgaande analyses
+- **Beperkte rapportages**: geen uitgebreide custom dashboards of diepgaande analyses
 - **Minder schaalbaar dan Zendesk**: voor grote enterprises (50+ agents) minder geschikt
 - **Kleiner integratie-ecosysteem**: 50+ vs 1.500+ bij Zendesk
 - **Geen gratis plan**: alleen 14 dagen proefperiode
@@ -323,7 +323,7 @@ Goed. Lightspeed-integratie is uniek. WhatsApp voor afspraken en vragen over pro
 Redelijk. Trengo is AVG-compliant en biedt een DPA. Maar voor strenge compliance (HIPAA) is Zendesk Professional beter.
 
 **Enterprise (50+ agents):**
-Minder geschikt. Bij deze schaal zijn Zendesk's geavanceerde automatisering, custom rapportages en enterprise-security features belangrijker. Trengo is gebouwd voor MKB.
+Minder geschikt. Bij deze schaal zijn Zendesk's uitgebreide automatisering, custom rapportages en enterprise-security features belangrijker. Trengo is gebouwd voor MKB.
 
 ## Trengo in de toekomst: roadmap en ontwikkeling
 
@@ -415,10 +415,10 @@ Trengo is een Nederlands omnichannel klantenservice platform dat alle communicat
 Trengo kost €25 per seat per maand (Essentials), €35 per seat (Boost) of €45 per seat (Pro), bij jaarlijkse betaling. Er is geen gratis plan, maar wel een proefperiode van 14 dagen.
 
 **Is Trengo beter dan Zendesk?**
-Trengo is toegankelijker en goedkoper dan Zendesk, en biedt betere WhatsApp-integratie. Zendesk heeft meer geavanceerde functies en is beter schaalbaar voor grote teams. Voor NL MKB-bedrijven is Trengo vaak de betere keuze.
+Trengo is toegankelijker en goedkoper dan Zendesk, en biedt betere WhatsApp-integratie. Zendesk heeft meer uitgebreide functies en is beter schaalbaar voor grote teams. Voor NL MKB-bedrijven is Trengo vaak de betere keuze.
 
 **Heeft Trengo WhatsApp Business integratie?**
-Ja, WhatsApp Business is een kernfunctie van Trengo. Het is inbegrepen in alle betaalde plannen en werkt naadloos samen met de andere communicatiekanalen in de inbox.
+Ja, WhatsApp Business is een kernfunctie van Trengo. Het is inbegrepen in alle betaalde plannen en werkt soepel samen met de andere communicatiekanalen in de inbox.
 
 **Werkt Trengo in het Nederlands?**
 Ja, Trengo is volledig Nederlandstalig — interface, ondersteuning en documentatie. Dit is een groot voordeel voor Nederlandse bedrijven ten opzichte van internationale alternatieven.

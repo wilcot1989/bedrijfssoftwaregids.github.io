@@ -96,7 +96,7 @@ De oproepkracht-module is bijzonder sterk. Oproepkrachten kunnen aangeven wannee
 
 **Minder sterk:**
 - Rapportages zijn minder diepgaand dan bij Quinyx — goed voor operationeel gebruik, minder geschikt voor strategische workforce analytics
-- Geavanceerde bezettingsprognoses (op basis van omzetdata) alleen in het Enterprise-plan
+- Uitgebreide bezettingsprognoses (op basis van omzetdata) alleen in het Enterprise-plan
 - Implementatie van meerdere CAO's in één organisatie is complexer dan bij Quinyx
 
 **Sectorscore:**
@@ -219,7 +219,7 @@ Deputy is opgezet voor gebruik in meerdere landen met verschillende arbeidsrecht
 **Minder sterk:**
 - Nederlandse CAO-ondersteuning is minder uitgebreid dan Shiftbase — handmatige configuratie vereist
 - Nederlandstalige telefonische support is beperkt
-- Integraties met Nederlandse salarisadministraties zijn minder diepgaand (AFAS-integratie bestaat maar is minder naadloos dan bij Shiftbase)
+- Integraties met Nederlandse salarisadministraties zijn minder diepgaand (AFAS-integratie bestaat maar is minder soepel dan bij Shiftbase)
 - Minder sterk voor nul-uren contract management in Nederland specifiek
 
 **Sectorscore:**
@@ -271,9 +271,9 @@ Rooster.nl is een kleinere Nederlandse speler die met name in de horeca en retai
 - Minder functionaliteit dan Shiftbase of Planday op vrijwel alle onderdelen
 - Beperkte integratiemogelijkheden met loonadministratie
 - Minder actieve productontwikkeling dan grote concurrenten
-- Geen AI-functies of geavanceerde analytics
+- Geen AI-functies of diepgaande analytics
 
-**Voor wie:** Kleine bedrijven (< 25 medewerkers) die simpelheid boven functionaliteit stellen, volledig Netherlands-only werken, en geen behoefte hebben aan integraties of geavanceerde rapportages.
+**Voor wie:** Kleine bedrijven (< 25 medewerkers) die simpelheid boven functionaliteit stellen, volledig Netherlands-only werken, en geen behoefte hebben aan integraties of gedetailleerde rapportages.
 
 ---
 

@@ -66,7 +66,7 @@ SharePoint is de keuze die ik maak voor bedrijven die al in Microsoft 365 zitten
 
 ## 2. Google Workspace — Beste voor MKB
 
-[Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) is de documentbeheer software die ik het vaakst aanbeveel aan kleine teams. De reden is nuchter: iedereen kent Google Drive al, niemand heeft training nodig. Bij een MKB-klant van mij was de hele migratie in een middag klaar. Voor geavanceerd metadata-beheer of complexe workflows moet je elders zijn, maar voor 90% van de MKB-bedrijven is dit meer dan voldoende. Als je ook je website bouwt met Google Workspace in het achterhoofd, bekijk dan de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
+[Google Workspace](https://www.dpbolvw.net/click-101698621-13855808) is de documentbeheer software die ik het vaakst aanbeveel aan kleine teams. De reden is nuchter: iedereen kent Google Drive al, niemand heeft training nodig. Bij een MKB-klant van mij was de hele migratie in een middag klaar. Voor uitgebreid metadata-beheer of complexe workflows moet je elders zijn, maar voor 90% van de MKB-bedrijven is dit meer dan voldoende. Als je ook je website bouwt met Google Workspace in het achterhoofd, bekijk dan de [beste website bouwers voor MKB 2026](/blog/beste-website-bouwers-mkb-2026/).
 
 ### Belangrijkste functies
 - **Google Drive** — Bestanden opslaan en delen, map-structuur
@@ -85,11 +85,11 @@ SharePoint is de keuze die ik maak voor bedrijven die al in Microsoft 365 zitten
 | **Enterprise** | Op aanvraag | Onbeperkt |
 
 **✅ Voordelen:** Eenvoudig, iedereen kent het, uitstekende samenwerking, betaalbaar
-**❌ Nadelen:** Minder geavanceerde metadata, beperktere workflows, minder enterprise-functies
+**❌ Nadelen:** Minder uitgebreide metadata, beperktere workflows, minder enterprise-functies
 
 **Review scores:** G2 4,6/5 (42.800+ reviews) · Trustpilot 1,7/5 (Google-profiel, niet representatief voor Workspace)
 
-**Praktisch gebruik:** Google Workspace integreert naadloos met de tools die MKB-bedrijven al gebruiken: Slack (meldingen bij wijzigingen in Drive), HubSpot en Salesforce (documenten koppelen aan CRM-records), en Zapier voor lichtgewicht automatisering. Shared Drives zijn het geheim van goed documentbeheer in Google: bestanden zijn eigendom van het team, niet van een individuele medewerker. Dat voorkomt het klassieke probleem waarbij documenten verdwijnen als iemand vertrekt. Voor bedrijven die ook gebruik maken van boekhoudsoftware als Moneybird of SnelStart: er is geen directe native koppeling, maar via Google Forms kun je documenten en gegevens wel gestructureerd binnenhalen.
+**Praktisch gebruik:** Google Workspace integreert soepel met de tools die MKB-bedrijven al gebruiken: Slack (meldingen bij wijzigingen in Drive), HubSpot en Salesforce (documenten koppelen aan CRM-records), en Zapier voor lichtgewicht automatisering. Shared Drives zijn het geheim van goed documentbeheer in Google: bestanden zijn eigendom van het team, niet van een individuele medewerker. Dat voorkomt het klassieke probleem waarbij documenten verdwijnen als iemand vertrekt. Voor bedrijven die ook gebruik maken van boekhoudsoftware als Moneybird of SnelStart: er is geen directe native koppeling, maar via Google Forms kun je documenten en gegevens wel gestructureerd binnenhalen.
 
 ## 3. Dropbox Business — Beste voor extern delen
 
@@ -119,7 +119,7 @@ Dropbox Business is de tool die ik noem als een bedrijf zegt: "We delen constant
 Box is de documentbeheer software die ik alleen aanbeveel als compliance en beveiliging je topprioriteit zijn. Denk aan de zorgsector, financiële dienstverlening of overheid. De dreigingsdetectie met AI (Box Shield) en het onbeperkte opslagmodel zijn indrukwekkend. Maar voor een gemiddeld MKB-bedrijf is het overkill -- zowel in functies als in prijs. Voor HR-documenten en personeelsdossiers, lees dan ook over de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/).
 
 ### Belangrijkste functies
-- **Content Security** — Geavanceerde classificatie, DLP, watermarking
+- **Content Security** — Uitgebreide classificatie, DLP, watermarking
 - **Box Shield** — AI-gestuurde dreigingsdetectie
 - **Workflows** — Box Relay voor goedkeuringen en processen
 - **Compliance** — HIPAA, FedRAMP, GDPR, SOC, ISO
@@ -182,7 +182,7 @@ De meeste MKB-bedrijven die ik help, starten vanuit hetzelfde punt: een Windows-
 
 | Jouw situatie | Beste keuze | Waarom |
 |-------------|-------------|--------|
-| Microsoft 365 gebruiker | **SharePoint** | Naadloze integratie |
+| Microsoft 365 gebruiker | **SharePoint** | Soepele integratie |
 | Klein team, snel starten | **Google Workspace** | Eenvoudig, betaalbaar |
 | Veel extern delen | **Dropbox Business** | Beste delen en sync |
 | Strenge compliance | **Box** | Enterprise beveiliging |

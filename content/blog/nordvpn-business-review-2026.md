@@ -27,7 +27,7 @@ faq:
   - q: "Bewaart NordVPN gebruiksdata (logs)?"
     a: "NordVPN hanteert een strikte no-logs policy: er worden geen verbindingslogboeken, IP-adressen of browsdata opgeslagen. Deze policy is in 2023 onafhankelijk geaudit door Deloitte. In 2018 was er een inbraak op één server in Finland — er waren geen gebruiksdata te stelen omdat die niet worden opgeslagen."
   - q: "Wat kost NordLayer voor een team van 10 medewerkers?"
-    a: "NordLayer Basic kost €7/gebruiker/mnd bij jaarabonnement. Voor 10 medewerkers is dat €70/mnd of €840/jaar. NordLayer Advanced (met extra functies zoals vaste IP en geavanceerde toegangscontrole) kost €11/gebruiker/mnd — €110/mnd of €1.320/jaar voor 10 medewerkers."
+    a: "NordLayer Basic kost €7/gebruiker/mnd bij jaarabonnement. Voor 10 medewerkers is dat €70/mnd of €840/jaar. NordLayer Advanced (met extra functies zoals vaste IP en uitgebreide toegangscontrole) kost €11/gebruiker/mnd — €110/mnd of €1.320/jaar voor 10 medewerkers."
 ---
 
 Twee jaar geleden schakelde ik een klant over van een dure, omslachtige zakelijke VPN naar NordLayer. De reden was praktisch: de IT-manager was uitgevallen en de ondernemer moest het zelf beheren. De Cisco ASA die ze hadden stond geprogrammeerd als een raket — niemand begreep het meer.
@@ -250,7 +250,7 @@ NordLayer is volledig cloudgebaseerd. Bedrijven met strikte data-soevereiniteits
 | IT-kennis vereist | Minimaal | Gemiddeld-hoog |
 | Zero Trust | Beperkt | Volledig |
 
-**Conclusie:** NordLayer wint op gebruiksgemak en prijs. Perimeter81 wint op geavanceerde zakelijke functionaliteit. Voor MKB zonder IT-afdeling is NordLayer de betere keuze. Voor middelgrote bedrijven met IT-beheerder en complexe netwerkvereisten is Perimeter81 de betere investering.
+**Conclusie:** NordLayer wint op gebruiksgemak en prijs. Perimeter81 wint op uitgebreide zakelijke functionaliteit. Voor MKB zonder IT-afdeling is NordLayer de betere keuze. Voor middelgrote bedrijven met IT-beheerder en complexe netwerkvereisten is Perimeter81 de betere investering.
 
 ---
 
@@ -288,7 +288,7 @@ NordVPN met NordLynx-protocol (WireGuard) heeft in onafhankelijke snelheidstests
 NordVPN hanteert een strikte no-logs policy: er worden geen verbindingslogboeken, IP-adressen of browsdata opgeslagen. Deze policy is in 2023 onafhankelijk geaudit door Deloitte. In 2018 was er een inbraak op één server in Finland — er waren geen gebruiksdata te stelen omdat die niet worden opgeslagen.
 
 **Wat kost NordLayer voor een team van 10 medewerkers?**
-NordLayer Basic kost €7/gebruiker/mnd bij jaarabonnement. Voor 10 medewerkers is dat €70/mnd of €840/jaar. NordLayer Advanced (met extra functies zoals vaste IP en geavanceerde toegangscontrole) kost €11/gebruiker/mnd — €110/mnd of €1.320/jaar voor 10 medewerkers.
+NordLayer Basic kost €7/gebruiker/mnd bij jaarabonnement. Voor 10 medewerkers is dat €70/mnd of €840/jaar. NordLayer Advanced (met extra functies zoals vaste IP en uitgebreide toegangscontrole) kost €11/gebruiker/mnd — €110/mnd of €1.320/jaar voor 10 medewerkers.
 
 ---
 
@@ -338,9 +338,9 @@ Week 3: Obfuscated servers geconfigureerd voor de vier internationale consultant
 
 ---
 
-## NordLayer beheer: geavanceerde configuratie
+## NordLayer beheer: uitgebreide configuratie
 
-Voor IT-beheerders die het maximale uit NordLayer willen halen, beschrijf ik hier de geavanceerde configuratieopties.
+Voor IT-beheerders die het maximale uit NordLayer willen halen, beschrijf ik hier de uitgebreide configuratieopties.
 
 ### Gateway-beheer
 

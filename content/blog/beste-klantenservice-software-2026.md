@@ -24,7 +24,7 @@ faq:
   - q: "Heb ik klantenservice software nodig of kan ik e-mail gebruiken?"
     a: "Met minder dan 10 klantvragen per dag kun je met een gedeelde mailbox werken. Daarboven verlies je overzicht: wie werkt waaraan, welke tickets zijn open, hoe snel reageer je gemiddeld? Klantenservice software biedt inzicht, automatisering en voorkomt dat vragen tussen wal en schip vallen."
   - q: "Kan ik klantenservice software integreren met mijn CRM?"
-    a: "Ja, alle grote klantenservice tools integreren met populaire CRM-systemen. Zendesk en Freshdesk koppelen met Salesforce, HubSpot, Pipedrive en meer. HubSpot Service Hub integreert naadloos met HubSpot CRM. Trengo biedt koppelingen met de meeste Nederlandse tools."
+    a: "Ja, alle grote klantenservice tools integreren met populaire CRM-systemen. Zendesk en Freshdesk koppelen met Salesforce, HubSpot, Pipedrive en meer. HubSpot Service Hub integreert soepel met HubSpot CRM. Trengo biedt koppelingen met de meeste Nederlandse tools."
   - q: "Welke klantenservice software ondersteunt WhatsApp?"
     a: "Trengo, Freshdesk en Zendesk bieden WhatsApp Business API-integratie. Trengo is hierin het sterkst met native WhatsApp-support en de mogelijkheid om WhatsApp-berichten als tickets te behandelen. Dit is vooral relevant voor de Nederlandse markt waar WhatsApp het primaire communicatiekanaal is."
 ---
@@ -52,7 +52,7 @@ Zendesk is het platform waar ik naar verwijs als een bedrijf zegt: "We zijn uit 
 
 ### Belangrijkste functies
 - **Omnichannel ticketing** — E-mail, chat, telefoon, social media, WhatsApp in één inbox
-- **Geavanceerde automatisering** — Triggers, macro's en SLA-beheer
+- **Uitgebreide automatisering** — Triggers, macro's en SLA-beheer
 - **AI-gestuurde chatbot** — Answer Bot beantwoordt veelgestelde vragen automatisch
 - **Knowledge base** — Uitgebreide kennisbank met zoekfunctie
 - **Rapportages** — Diepgaande analytics over responstijd, klanttevredenheid, en agent-prestaties
@@ -64,7 +64,7 @@ Zendesk is het platform waar ik naar verwijs als een bedrijf zegt: "We zijn uit 
 |------|----------------|------------|
 | **Suite Team** | €55 | Ticketing, chat, kennisbank, 1 social kanaal |
 | **Suite Growth** | €89 | + SLA, meerdere ticketformulieren, meertalig |
-| **Suite Professional** | €115 | + Skills-based routing, IVR, geavanceerde analytics |
+| **Suite Professional** | €115 | + Skills-based routing, IVR, diepgaande analytics |
 | **Suite Enterprise** | Op aanvraag | + Custom roles, sandbox, 99,9% SLA |
 
 ### Voor wie?
@@ -99,7 +99,7 @@ Freshdesk is het eerste wat ik aanbeveel aan MKB'ers die van een gedeelde mailbo
 | **Enterprise** | €79 | + Skill-based routing, sandbox, audit log |
 
 ### Voor wie?
-Freshdesk is perfect voor **kleine teams (1-15 agents)** die snel aan de slag willen zonder groot budget. Het gratis plan is ideaal om te starten, en je kunt moeiteloos opschalen.
+Freshdesk is perfect voor **kleine teams (1-15 agents)** die snel aan de slag willen zonder groot budget. Het gratis plan is ideaal om te starten, en je kunt eenvoudig opschalen.
 
 **✅ Voordelen:** Gratis plan, eenvoudige opzet, goede prijs-kwaliteit, geschikt voor starters
 **❌ Nadelen:** Minder krachtige automatisering dan Zendesk, rapportages beperkter, interface soms traag
@@ -127,12 +127,12 @@ HubSpot Service Hub is een no-brainer als je al in het HubSpot-ecosysteem zit. I
 | **Free** | €0 | Ticketing, live chat (beperkt) |
 | **Starter** | €45 | + Gespreksinbox, meerdere pipelines |
 | **Professional** | €450/5 users | + Knowledge base, surveys, SLA, automatisering |
-| **Enterprise** | €1.200/10 users | + Custom objects, playbooks, geavanceerde rapportage |
+| **Enterprise** | €1.200/10 users | + Custom objects, playbooks, gedetailleerde rapportage |
 
 ### Voor wie?
-HubSpot Service Hub is ideaal als je **al HubSpot gebruikt** voor marketing of sales. De naadloze integratie geeft je een 360-graden klantbeeld. Standalone is het duur voor wat je krijgt.
+HubSpot Service Hub is ideaal als je **al HubSpot gebruikt** voor marketing of sales. De directe integratie geeft je een 360-graden klantbeeld. Standalone is het duur voor wat je krijgt.
 
-**✅ Voordelen:** Naadloze CRM-integratie, unified klantbeeld, goede knowledge base, gratis plan beschikbaar
+**✅ Voordelen:** Soepele CRM-integratie, unified klantbeeld, goede knowledge base, gratis plan beschikbaar
 **❌ Nadelen:** Duur als standalone, Professional plan is een grote sprong (€450/mnd), minder kanalen dan Zendesk
 
 <a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>
@@ -191,7 +191,7 @@ Trengo is de tool die ik aanbeveel aan Nederlandse bedrijven waar WhatsApp het b
 |------|----------------|------------|
 | **Essentials** | €19 | 3 kanalen, e-mail + WhatsApp |
 | **Boost** | €29 | + Flowbot, integraties, meerdere kanalen |
-| **Pro** | €41 | + CSAT, geavanceerde routing, API-toegang |
+| **Pro** | €41 | + CSAT, uitgebreide routing, API-toegang |
 | **Enterprise** | Op aanvraag | + Custom integraties, dedicated support |
 
 ### Voor wie?
@@ -208,7 +208,7 @@ Trengo is ideaal voor **Nederlandse bedrijven die WhatsApp als primair klantkana
 |-------------|-------------|--------|
 | Klein team, beperkt budget | **Freshdesk** | Gratis plan, eenvoudig, snel operationeel |
 | 10+ agents, complexe workflows | **Zendesk** | Meest complete, beste automatisering |
-| Al HubSpot-gebruiker | **HubSpot Service Hub** | Naadloze CRM-integratie |
+| Al HubSpot-gebruiker | **HubSpot Service Hub** | Soepele CRM-integratie |
 | SaaS product, in-app support | **Intercom** | Beste chat, proactieve communicatie |
 | WhatsApp als hoofdkanaal | **Trengo** | Beste WhatsApp-integratie, Nederlands |
 | E-commerce met veel kanalen | **Freshdesk of Trengo** | Goede multichannel, betaalbaar |

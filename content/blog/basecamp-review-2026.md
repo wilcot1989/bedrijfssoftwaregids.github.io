@@ -24,7 +24,7 @@ faq:
   - q: "Wat kost Basecamp per maand?"
     a: "Basecamp kost $99 per maand (of $999 per jaar) voor onbeperkte gebruikers en projecten. Dit is een flat fee — geen kosten per gebruiker. Er is ook Basecamp Personal, een gratis versie voor maximaal 3 projecten en 20 gebruikers, geschikt voor kleine teams of freelancers."
   - q: "Is Basecamp geschikt voor grote teams?"
-    a: "Ja, juist voor grotere teams is het flat pricing model van Basecamp financieel aantrekkelijk. Bij 20+ gebruikers wordt Basecamp goedkoper dan per-gebruiker tools zoals Monday.com of Asana. Het nadeel is dat Basecamp minder geavanceerde functies heeft dan enterprise tools zoals Wrike of Jira."
+    a: "Ja, juist voor grotere teams is het flat pricing model van Basecamp financieel aantrekkelijk. Bij 20+ gebruikers wordt Basecamp goedkoper dan per-gebruiker tools zoals Monday.com of Asana. Het nadeel is dat Basecamp minder uitgebreide functies heeft dan enterprise tools zoals Wrike of Jira."
   - q: "Wat zijn Hill Charts in Basecamp?"
     a: "Hill Charts zijn een uniek voortgangsvisualisatie-instrument van Basecamp. Taken worden gepositioneerd op een heuvelgrafiek: de opwaartse kant staat voor 'uitzoeken hoe je het aanpakt', de neerwaartse kant voor 'uitvoeren'. Dit geeft je team in één oogopslag inzicht in welke taken nog onzekerheid bevatten en welke op koers liggen."
   - q: "Heeft Basecamp een Gantt-chart?"
@@ -65,7 +65,7 @@ Wil je eerst een breder overzicht? Bekijk mijn [vergelijking van de beste projec
 
 ## Wat is Basecamp precies?
 
-Basecamp is opgericht in 1999 als 37signals, een webdesignbureau. In 2004 lanceerden ze hun eerste projectmanagement tool onder de naam Basecamp — destijds revolutionair omdat het teams online kon laten samenwerken zonder e-mail te verstoren. Inmiddels is het bedrijf omgedoopt naar Basecamp, maar de kernfilosofie is onveranderd: **minder is meer**.
+Basecamp is opgericht in 1999 als 37signals, een webdesignbureau. In 2004 lanceerden ze hun eerste projectmanagement tool onder de naam Basecamp — destijds vernieuwend omdat het teams online kon laten samenwerken zonder e-mail te verstoren. Inmiddels is het bedrijf omgedoopt naar Basecamp, maar de kernfilosofie is onveranderd: **minder is meer**.
 
 De oprichters Jason Fried en David Heinemeier Hansson zijn niet alleen softwareontwikkelaars, maar ook invloedrijke auteurs. Boeken als *Rework* en *It Doesn't Have to Be Crazy at Work* weerspiegelen hun visie: tools moeten teams rustiger maken, niet drukker. Die filosofie is direct zichtbaar in de productkeuzes van Basecamp.
 
@@ -126,13 +126,13 @@ Voor teams die gewend zijn aan uitgebreid taakbeheer — met statussen, priorite
 
 Een simpel maar effectief document- en bestandsarchief per project. Je kunt tekstedocumenten rechtstreeks in Basecamp schrijven, of bestanden uploaden. Alle documenten zijn doorzoekbaar en versieloze bewerking werkt voor meerdere mensen tegelijk.
 
-Opmerking: de tekstbewerker is basic. Geen tabelondersteuning, geen geavanceerde opmaak zoals in Notion of Google Docs. Voor complexe documentatie gebruik je Basecamp als opslagplaats voor extern gecreëerde bestanden.
+Opmerking: de tekstbewerker is basic. Geen tabelondersteuning, geen uitgebreide opmaak zoals in Notion of Google Docs. Voor complexe documentatie gebruik je Basecamp als opslagplaats voor extern gecreëerde bestanden.
 
 ### 4. Campfire (chat)
 
 Campfire is de groepschat per project — vergelijkbaar met een Slack-kanaal, maar bewust minimalistischer. Geen threads, geen reacties met emoji's, geen status-updates. Gewoon een chronologische berichtenstroom.
 
-Ik heb gemengde gevoelens over Campfire. Het is snel en licht, maar mist de diepgang van Slack. Voor asynchrone teams die communicatie willen stroomlijnen, werkt het. Voor teams die gewend zijn aan rijke Slack-communicatie, voelt het arm.
+Ik heb gemengde gevoelens over Campfire. Het is snel en licht, maar mist de diepgang van Slack. Voor asynchrone teams die communicatie willen vereenvoudigen, werkt het. Voor teams die gewend zijn aan rijke Slack-communicatie, voelt het arm.
 
 **Ping** is de one-on-one chat binnen Basecamp — ook minimalistisch, ook functioneel.
 
@@ -226,7 +226,7 @@ Basecamp Personal is het gratis plan — en het is verrassend goed voor freelanc
 **Beperkingen:**
 - Slechts 3 projecten gelijktijdig actief
 - 1 GB opslag is snel vol bij bestandsdeling
-- Geen geavanceerde rapportage
+- Geen gedetailleerde rapportage
 
 Voor een zzp'er met twee actieve klantprojecten is Basecamp Personal een serieuze optie. Je krijgt meer dan de meeste gratis plannen bij concurrenten bieden. De 3-projectenlimiet is de voornaamste bottleneck.
 
@@ -254,7 +254,7 @@ Na mijn test ben ik tot een heldere conclusie gekomen over de doelgroepen.
 
 **Kleine teams onder 8 personen** — hier is ClickUp of Asana's gratis plan doorgaans voordeliger.
 
-**Enterprise-organisaties** die SSO, audit-logs, geavanceerde beveiliging en SLA's nodig hebben.
+**Enterprise-organisaties** die SSO, audit-logs, uitgebreide beveiliging en SLA's nodig hebben.
 
 ## Vergelijking: Basecamp vs. Monday.com vs. Asana
 
@@ -372,7 +372,7 @@ Basecamp voldoet aan standaard SaaS-beveiligingsnormen:
 - **2FA:** Twee-factor-authenticatie beschikbaar via authenticator-app
 - **Datatoegang:** medewerkers hebben beperkte toegang; Basecamp publiceert geen bug-bounty-programma
 
-**Aandachtspunt voor Nederlandse bedrijven:** Basecamp slaat data op in de VS. Onder de AVG is dit toegestaan via standard contractual clauses, maar sommige organisaties met strenge datavereisten (zorg, overheid, financiën) prefereren EU-opslag. Voor die doelgroep zijn Basecamp's privacyopties minder robuust dan bijv. Asana (EU-dataresidency beschikbaar op Enterprise) of Teamwork (Europese dataopties).
+**Aandachtspunt voor Nederlandse bedrijven:** Basecamp slaat data op in de VS. Onder de AVG is dit toegestaan via standard contractual clauses, maar sommige organisaties met strenge datavereisten (zorg, overheid, financiën) prefereren EU-opslag. Voor die doelgroep zijn Basecamp's privacyopties minder solide dan bijv. Asana (EU-dataresidency beschikbaar op Enterprise) of Teamwork (Europese dataopties).
 
 ## Klantenservice en support
 
@@ -394,7 +394,7 @@ Basecamp kost $99 per maand (of $999 per jaar) voor onbeperkte gebruikers en pro
 
 ### Is Basecamp geschikt voor grote teams?
 
-Ja, juist voor grotere teams is het flat pricing model van Basecamp financieel aantrekkelijk. Bij 20+ gebruikers wordt Basecamp goedkoper dan per-gebruiker tools zoals Monday.com of Asana. Het nadeel is dat Basecamp minder geavanceerde functies heeft dan enterprise tools zoals Wrike of Jira.
+Ja, juist voor grotere teams is het flat pricing model van Basecamp financieel aantrekkelijk. Bij 20+ gebruikers wordt Basecamp goedkoper dan per-gebruiker tools zoals Monday.com of Asana. Het nadeel is dat Basecamp minder uitgebreide functies heeft dan enterprise tools zoals Wrike of Jira.
 
 ### Wat zijn Hill Charts in Basecamp?
 

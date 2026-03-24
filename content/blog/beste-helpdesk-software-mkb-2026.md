@@ -25,11 +25,11 @@ faq:
   - q: "Welke helpdesk software ondersteunt WhatsApp?"
     a: "Trengo is de sterkste keuze voor WhatsApp-integratie — het is een Nederlands product dat WhatsApp Business API native ondersteunt en alle WhatsApp-berichten als tickets behandelt. Freshdesk en Zendesk bieden ook WhatsApp-koppelingen, maar via add-ons die extra kosten. Tidio heeft beperkte WhatsApp-ondersteuning."
   - q: "Kan ik helpdesk software koppelen aan mijn boekhoudsoftware of CRM?"
-    a: "Ja. Freshdesk en Zendesk integreren met vrijwel alle populaire CRM-systemen zoals HubSpot, Salesforce en Pipedrive. HubSpot Service Hub integreert naadloos met HubSpot CRM. Voor koppelingen met Nederlandse boekhoudsoftware zoals Exact Online of Moneybird biedt Zapier een tussenoplossing. Trengo biedt native koppelingen met diverse Nederlandse tools."
+    a: "Ja. Freshdesk en Zendesk integreren met vrijwel alle populaire CRM-systemen zoals HubSpot, Salesforce en Pipedrive. HubSpot Service Hub integreert soepel met HubSpot CRM. Voor koppelingen met Nederlandse boekhoudsoftware zoals Exact Online of Moneybird biedt Zapier een tussenoplossing. Trengo biedt native koppelingen met diverse Nederlandse tools."
   - q: "Wat is een ticketsysteem en heb ik dat nodig?"
     a: "Een ticketsysteem zet elke inkomende klantvraag om in een genummerde taak (ticket) met een status, eigenaar en deadline. Zodra je meer dan 10-15 vragen per dag ontvangt vanuit meerdere kanalen, verlies je zonder ticketsysteem het overzicht. Je mist vragen, dubbelt werk, en klanttevredenheid daalt. Vanaf dat volume is een ticketsysteem geen luxe maar noodzaak."
   - q: "Is HubSpot Service Hub de moeite waard als ik al HubSpot CRM gebruik?"
-    a: "Absoluut. Als je al HubSpot CRM gebruikt, is de overstap naar Service Hub logisch: alle klantcommunicatie, deals en tickets zijn zichtbaar in één interface. Je bespaart op integraties en je support-team ziet direct de saleshistorie van een klant. Begin met het gratis plan en upgrade naar Starter (€9/seat/maand) zodra je geavanceerdere automatisering nodig hebt."
+    a: "Absoluut. Als je al HubSpot CRM gebruikt, is de overstap naar Service Hub logisch: alle klantcommunicatie, deals en tickets zijn zichtbaar in één interface. Je bespaart op integraties en je support-team ziet direct de saleshistorie van een klant. Begin met het gratis plan en upgrade naar Starter (€9/seat/maand) zodra je uitgebreidere automatisering nodig hebt."
   - q: "Welke helpdesk software is het beste voor een kleine non-profit?"
     a: "Voor een kleine non-profit is Freshdesk Free de eerste keuze: echt gratis, geen tijdslimiet, en geschikt voor 2 agents. Veel non-profits werken met vrijwilligers die niet elke dag inloggen — het gratis plan vraagt geen licentiekosten per gebruiker. HubSpot Service Hub Free is een goede tweede optie als je ook een CRM wilt bijhouden voor donateurs en relaties. Heb je een IT-helpdesk nodig (voor interne medewerkers en vrijwilligers), dan is osTicket een gratis open-source optie die je zelf kunt hosten."
   - q: "Wat is het verschil tussen helpdesk software en ITSM software?"
@@ -58,7 +58,7 @@ Een ticketsysteem zet elke inkomende klantvraag om in een genummerd ticket. Dat 
 
 Live chat software plaatst een chatwidget op je website, zodat bezoekers direct kunnen chatten met een medewerker. De focus ligt op real-time communicatie, niet op het beheren van een ticketwachtrij. Veel live chat tools combineren tegenwoordig ook een chatbot die de eerste vragen automatisch beantwoordt.
 
-**Geschikt voor:** Webshops, SaaS-bedrijven, bedrijven met veel pre-sales vragen, iedere situatie waarin snelheid cruciaal is.
+**Geschikt voor:** Webshops, SaaS-bedrijven, bedrijven met veel pre-sales vragen, iedere situatie waarin snelheid essentieel is.
 
 ### Omnichannel klantenservice software
 
@@ -211,7 +211,7 @@ Ik ken Trengo goed, en mijn eerlijke oordeel is: voor bedrijven waarbij WhatsApp
 |------|-------|------------|
 | Essentials | €99/mnd (5 agents) | Alle kanalen, unified inbox, basis automatisering |
 | Boost | €149/mnd (5 agents) | + Flowbuilder, CSAT, API-toegang |
-| Pro | €199/mnd (5 agents) | + Geavanceerde rapportage, SLA, meerdere inboxen |
+| Pro | €199/mnd (5 agents) | + Uitgebreide rapportage, SLA, meerdere inboxen |
 | Enterprise | Op aanvraag | + Maatwerk, dedicated support, SSO |
 
 *Extra agents: €20-€25/agent/maand boven de 5 inbegrepen agents. 14 dagen gratis proberen.*
@@ -320,7 +320,7 @@ LiveChat maakt deel uit van de Text.com-groep, die naast LiveChat ook ChatBot (c
 |------|-------|------------|
 | Starter | €20/agent/mnd | Basis chat, ticketing, 60 dagen chatgeschiedenis |
 | Team | €41/agent/mnd | + Onbeperkte geschiedenis, volledige rapportage, branding verwijderen |
-| Business | €59/agent/mnd | + Geavanceerde rapportage, staffing planning, werk schema's |
+| Business | €59/agent/mnd | + Uitgebreide rapportage, staffing planning, werk schema's |
 | Enterprise | Op aanvraag | + SSO, premium support, aangepaste integraties |
 
 *Jaarlijkse facturering. 14 dagen gratis proberen, geen creditcard vereist.*
@@ -350,7 +350,7 @@ LiveChat is de beste keuze als live chat het hart van je klantenservice is: je w
 
 ## 6. HubSpot Service Hub — Voor de CRM-first organisatie
 
-HubSpot Service Hub is de klantenservicemodule van het HubSpot-platform. Als je al HubSpot CRM gebruikt — of overweegt dat te doen — is dit het meest logische pad naar gestructureerde klantenservice. De kracht zit niet in de helpdesk-functies op zichzelf, maar in de naadloze verbinding met sales, marketing en CRM in één platform.
+HubSpot Service Hub is de klantenservicemodule van het HubSpot-platform. Als je al HubSpot CRM gebruikt — of overweegt dat te doen — is dit het meest logische pad naar gestructureerde klantenservice. De kracht zit niet in de helpdesk-functies op zichzelf, maar in de directe verbinding met sales, marketing en CRM in één platform.
 
 Ik geef standaard HubSpot Service Hub mee als aanbeveling wanneer een klant zegt: "We hebben al HubSpot." In dat geval is het toegevoegde werk om iets anders te implementeren vrijwel nooit de moeite waard. Gebruik je geen HubSpot, dan is de waardepropositie minder sterk.
 
@@ -467,7 +467,7 @@ Voor dienstverlenende bedrijven is de koppeling met projectmanagementsoftware in
 
 ### Helpdesk + webshop
 
-Voor webshops is de koppeling met het orderbeheersysteem cruciaal. Tidio en LiveChat integreren native met Shopify en WooCommerce. Freshdesk doet dat ook via de Marketplace. Trengo heeft een Shopify-koppeling waarmee je orders inziet tijdens een WhatsApp-gesprek.
+Voor webshops is de koppeling met het orderbeheersysteem essentieel. Tidio en LiveChat integreren native met Shopify en WooCommerce. Freshdesk doet dat ook via de Marketplace. Trengo heeft een Shopify-koppeling waarmee je orders inziet tijdens een WhatsApp-gesprek.
 
 ---
 
@@ -477,7 +477,7 @@ Een van de meest gemaakte fouten die ik zie: een tool kopen, accounts aanmaken, 
 
 ### Stap 1: Breng je huidige klantenservicekanalen in kaart
 
-Voordat je een tool kiest, weet je moeten weten: via welke kanalen ontvang je vragen? Alleen e-mail? Dan is een eenvoudig ticketsysteem zoals Freshdesk al voldoende. Veel WhatsApp? Dan is Trengo onmisbaar. Veel websitebezoekers die live contact zoeken? Dan is Tidio of LiveChat logischer.
+Voordat je een tool kiest, weet je moeten weten: via welke kanalen ontvang je vragen? Alleen e-mail? Dan is een eenvoudig ticketsysteem zoals Freshdesk al voldoende. Veel WhatsApp? Dan is Trengo essentieel. Veel websitebezoekers die live contact zoeken? Dan is Tidio of LiveChat logischer.
 
 Maak een lijst: e-mail, WhatsApp, telefoon, social media, live chat. Kruisje bij elk kanaal dat je nu al gebruikt of wilt gaan gebruiken.
 

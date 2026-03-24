@@ -92,7 +92,7 @@ Twinfield (onderdeel van Wolters Kluwer) is het systeem dat ik adviseer aan bedr
 **Wat werkt goed voor MKB:**
 - Multi-currency en internationale administratie ingebouwd
 - Meerdere entiteiten (BV's, dochterbedrijven) in een gecombineerde omgeving
-- Geavanceerde dimensies voor kostplaats- en projectbeheer
+- Uitgebreide dimensies voor kostplaats- en projectbeheer
 - Automatische intercompany-verwerking
 - Breed geaccepteerd door accountants en accountantsorganisaties
 - Sterke audit- en compliance-functionaliteit

@@ -19,7 +19,7 @@ faq:
   - q: "Wat kost een kassasysteem voor een kapsalon per maand?"
     a: "Square en Zettle zijn gratis als software; je betaalt 1,75% transactiekosten per betaling plus de hardware (reader EUR 19 tot EUR 29). Lightspeed Retail kost EUR 59 per maand plus hardware. Bij een maandomzet van EUR 5.000 kost Square/Zettle dus EUR 87,50 aan transactiekosten; bij EUR 59 abonnement is Lightspeed goedkoper boven circa EUR 3.400 omzet."
   - q: "Kan ik afspraken beheren via mijn kassasysteem als kapper?"
-    a: "Square heeft een gratis afsprakenbeheer-app (Square Appointments) die naadloos koppelt aan het kassasysteem: een afgeronde behandeling wordt direct doorgestuurd als af te rekenen bon. Zettle en Lightspeed Retail hebben geen ingebouwd afsprakensysteem; daarvoor heb je een aparte tool als Salonized of Treatwell nodig."
+    a: "Square heeft een gratis afsprakenbeheer-app (Square Appointments) die direct koppelt aan het kassasysteem: een afgeronde behandeling wordt direct doorgestuurd als af te rekenen bon. Zettle en Lightspeed Retail hebben geen ingebouwd afsprakensysteem; daarvoor heb je een aparte tool als Salonized of Treatwell nodig."
   - q: "Hoe bijhoud ik de omzet per stylist als salonhouder?"
     a: "Square houdt automatisch de omzet per medewerker bij op basis van wie de transactie registreerde. Lightspeed Retail heeft uitgebreide medewerker-omzetrapportages per dag, week en behandeling. Zettle heeft geen medewerker-omzetregistratie; dat maakt het minder geschikt voor salons die provisieberekeningen doen."
   - q: "Kan ik cadeaubonnen verkopen en inlossen via het kassasysteem?"
@@ -56,7 +56,7 @@ Square is de meest gebruikte kassa-oplossing onder kapsalons en schoonheidssalon
 - Square Appointments: gratis online afsprakenbeheer inclusief
 - Contactloze betaling via reader van €19
 
-**Wat ontbreekt:** Geen geavanceerd voorraadbeheer; transactiekosten lopen op bij hoge omzet.
+**Wat ontbreekt:** Geen uitgebreid voorraadbeheer; transactiekosten lopen op bij hoge omzet.
 
 **Prijs:** Software gratis. Transactiekosten: 1,75% per betaling. Square Reader: €19. Square Stand (voor vaste opstelling): €129.
 

@@ -112,7 +112,7 @@ Met een marktaandeel van ~39% van alle webshops wereldwijd is WooCommerce het gr
 **Sterke punten:**
 - De plugin zelf is gratis, geen platformtransactiekosten
 - Volledige controle over code, data en server
-- Naadloze integratie met WordPress: blog, CMS en webshop in één systeem
+- Soepele integratie met WordPress: blog, CMS en webshop in één systeem
 - Maximale SEO-controle via Yoast of RankMath
 - 55.000+ WordPress-plugins voor vrijwel elke functionaliteit denkbaar
 - Geen lock-in: je kunt van hostingprovider wisselen zonder platform te wisselen

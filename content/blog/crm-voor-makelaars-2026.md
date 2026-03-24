@@ -18,7 +18,7 @@ faq:
   - q: "Wat is het beste CRM voor een startende makelaar?"
     a: "Voor startende makelaars is Pipedrive een uitstekende keuze vanwege de lage instapprijs (vanaf ~$14 per maand), gebruiksvriendelijkheid en flexibiliteit. Als je al NVM-lid bent en direct een Funda-koppeling nodig hebt, is Realworks de logische keuze ondanks de hogere kosten. HubSpot biedt een gratis CRM als je eerst klein wilt beginnen."
   - q: "Is Realworks verplicht als NVM-makelaar?"
-    a: "Nee, Realworks is niet verplicht voor NVM-makelaars. Het is wel het meest gebruikte platform onder NVM-leden vanwege de naadloze integratie met Funda en het NVM-netwerk. Je kunt als NVM-makelaar ook een ander CRM gebruiken, maar dan moet je de Funda-koppeling via een andere weg regelen."
+    a: "Nee, Realworks is niet verplicht voor NVM-makelaars. Het is wel het meest gebruikte platform onder NVM-leden vanwege de directe integratie met Funda en het NVM-netwerk. Je kunt als NVM-makelaar ook een ander CRM gebruiken, maar dan moet je de Funda-koppeling via een andere weg regelen."
   - q: "Kan ik een algemeen CRM gebruiken als makelaar?"
     a: "Ja, dat kan. Algemene CRM-systemen zoals HubSpot, Pipedrive en Salesforce zijn flexibel genoeg om aan te passen aan de makelaardij. Je mist dan wel specifieke functies zoals Funda-koppeling, woningmatching en NVM-integratie. Voor kleine kantoren of makelaars die niet NVM-gebonden zijn, kan een algemeen CRM prima voldoen."
   - q: "Wat kost een CRM voor makelaars gemiddeld?"
@@ -73,7 +73,7 @@ Realworks is de de facto standaard in de Nederlandse makelaardij, en als ik met 
 
 ### Voordelen
 - Specifiek gebouwd voor de Nederlandse makelaardij
-- Directe, naadloze Funda-koppeling
+- Directe, soepele Funda-koppeling
 - NVM-uitwisseling en -netwerk ingebouwd
 - Automatische woningmatching bespaart veel tijd
 - Compleet platform van intake tot overdracht
@@ -312,7 +312,7 @@ Als je Gripp koppelt aan je boekhouding, bekijk dan ook ons overzicht van de [be
 ## Hoe kies je het juiste CRM als makelaar?
 
 ### 1. Ben je NVM-lid?
-Als NVM-makelaar is de Funda-koppeling vaak cruciaal. Realworks biedt dit out-of-the-box. Als je een ander CRM kiest, moet je de Funda-koppeling via een omweg regelen, wat extra kosten en complexiteit met zich meebrengt.
+Als NVM-makelaar is de Funda-koppeling vaak essentieel. Realworks biedt dit out-of-the-box. Als je een ander CRM kiest, moet je de Funda-koppeling via een omweg regelen, wat extra kosten en complexiteit met zich meebrengt.
 
 ### 2. Kantoorgrootte
 Voor een solo-makelaar of klein kantoor (1-3 personen) is Pipedrive een uitstekende en betaalbare keuze. Voor kantoren met 3-15 makelaars biedt Realworks het meeste gemak. Grote kantoren en ketens (15+) profiteren van de schaalbaarheid van Salesforce.

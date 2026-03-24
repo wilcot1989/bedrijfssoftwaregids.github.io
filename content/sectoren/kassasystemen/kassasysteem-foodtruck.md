@@ -66,7 +66,7 @@ Zettle is mijn eerste aanbeveling voor foodtrucks en mobiele horeca. De reader k
 
 ### 2. Square — Beste voor foodtrucks met eigen website of online bestellen
 
-Square is de sterkste keuze voor foodtrucks die ook online bestellingen willen ontvangen of een eigen webwinkel (merchandise, cadeaubonnen) willen combineren met hun kassasysteem. De gratis Square Online-pagina maakt het mogelijk bestellingen te ontvangen nog voor je klanten bij de truck staan. De Square Terminal is een robuust all-in-one apparaat dat ook buiten goed werkt.
+Square is de sterkste keuze voor foodtrucks die ook online bestellingen willen ontvangen of een eigen webwinkel (merchandise, cadeaubonnen) willen combineren met hun kassasysteem. De gratis Square Online-pagina maakt het mogelijk bestellingen te ontvangen nog voor je klanten bij de truck staan. De Square Terminal is een solide all-in-one apparaat dat ook buiten goed werkt.
 
 **Wat werkt goed voor foodtrucks:**
 - Gratis online bestelpagina voor pre-orders of catering
@@ -96,7 +96,7 @@ SumUp is de meest compacte en goedkoopste instap voor foodtrucks en marktkramen.
 - Omzetrapportages in de SumUp-app
 - Koppeling met externe boekhoudpakketten
 
-**Wat ontbreekt:** Geen offline modus, geen geavanceerd kassasysteem voor grote menu's, geen webshop-integratie.
+**Wat ontbreekt:** Geen offline modus, geen uitgebreid kassasysteem voor grote menu's, geen webshop-integratie.
 
 **Prijs:** Software gratis. Transactiekosten: 1,69% per betaling. SumUp Air reader: €39. SumUp 3G: €69.
 

@@ -102,7 +102,7 @@ Homerun adviseer ik aan startups en creatieve bedrijven die weinig budget hebben
 
 **Trustpilot: 4.0/5 (263 reviews)** — Solide score met een behoorlijk volume aan beoordelingen. Gebruikers waarderen de all-in-one aanpak: minder systemen, minder handmatige overdracht van data. Kritiekpunten gaan vooral over de implementatietijd en de prijs bij groei.
 
-Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces naadloos wilt laten aansluiten op de werving. Heb je nog maar net je eerste medewerker aangenomen? Lees dan ook [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor de wettelijke verplichtingen die meteen spelen. En als je ook verzuim wilt monitoren, bekijk dan mijn overzicht van [verzuimregistratie software conform de WVP](/blog/verzuimregistratie-wvp-software/). Wil je ook een goede CRM-tool combineren met je recruitment software? Lees mijn [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/).
+Als een klant me vraagt "kan ik recruitment en HR in één systeem doen?", is Personio het eerste wat ik noem. Het ATS-gedeelte is niet zo diep als Recruitee, maar je bespaart wel een losse HR-tool. Vooral handig als je het onboarding-proces soepel wilt laten aansluiten op de werving. Heb je nog maar net je eerste medewerker aangenomen? Lees dan ook [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/) voor de wettelijke verplichtingen die meteen spelen. En als je ook verzuim wilt monitoren, bekijk dan mijn overzicht van [verzuimregistratie software conform de WVP](/blog/verzuimregistratie-wvp-software/). Wil je ook een goede CRM-tool combineren met je recruitment software? Lees mijn [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/).
 
 ### Belangrijkste functies
 - **ATS** — Pipeline, multiposting, evaluaties
@@ -164,7 +164,7 @@ Ik merk dat veel ondernemers denken dat een ATS puur een "sollicitaties bijhoude
 
 **Fase 4 — Communicatie:** Automatische statusmails aan kandidaten. Dit klinkt klein, maar het maakt een wereld van verschil voor je employer brand. De kandidaat die jij afwijst, kan over twee jaar een klant of aanbeveling zijn.
 
-**Fase 5 — Aanname en overdracht:** Het ATS genereert een aanbodbrief, registreert de acceptatie en draagt de kandidaat over naar je HR-systeem of onboarding-workflow. Bij Personio gaat dit naadloos; bij een losse ATS-tool (Recruitee) heb je een koppeling nodig met je HR-software.
+**Fase 5 — Aanname en overdracht:** Het ATS genereert een aanbodbrief, registreert de acceptatie en draagt de kandidaat over naar je HR-systeem of onboarding-workflow. Bij Personio gaat dit soepel; bij een losse ATS-tool (Recruitee) heb je een koppeling nodig met je HR-software.
 
 ## Integraties met jobboards: wat werkt in Nederland?
 

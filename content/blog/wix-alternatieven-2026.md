@@ -60,7 +60,7 @@ Wix heeft zijn SEO-mogelijkheden de afgelopen jaren flink verbeterd. Meta-tags, 
 
 **URL-structuur:** Historisch genereert Wix suboptimale URL-structuren. Dit is deels verbeterd, maar je hebt minder controle dan bij WordPress.
 
-**Server-level configuratie:** Geen toegang tot .htaccess of server-instellingen. Voor geavanceerde SEO-technieken (redirect-beheer, HTTP-headers, caching) ben je beperkt.
+**Server-level configuratie:** Geen toegang tot .htaccess of server-instellingen. Voor uitgebreide SEO-technieken (redirect-beheer, HTTP-headers, caching) ben je beperkt.
 
 **Technische SEO-audit:** Tools als Screaming Frog vinden bij Wix-sites structureel meer technische SEO-issues dan bij goed gebouwde WordPress-sites.
 
@@ -166,7 +166,7 @@ Squarespace is de meest consistent goed ontworpen website-builder op de markt. D
 - Personal: €13/mnd
 - Business: €18/mnd
 - Commerce Basic: €23/mnd (webshop)
-- Commerce Advanced: €35/mnd (geavanceerde webshop)
+- Commerce Advanced: €35/mnd (uitgebreide webshop)
 
 **Beste voor:** Fotografen, creatieve professionals, consultants, kleine bedrijven die een professionele site willen zonder technisch gedoe.
 
@@ -176,7 +176,7 @@ Webflow zit tussen WordPress en Wix in: meer flexibiliteit en controle dan Wix, 
 
 **Sterktes:**
 - Professionele, schone code-output
-- Geavanceerde animaties en interacties zonder JavaScript
+- Uitgebreide animaties en interacties zonder JavaScript
 - Ingebouwd CMS voor dynamische content (nieuws, portfolio, blog)
 - Geen plug-in updates nodig — alles is native
 - Uitstekende hosting inbegrepen
@@ -228,7 +228,7 @@ Google Sites is een volledig gratis website-bouwer die integreert met Google Wor
 
 **Sterktes:**
 - Volledig gratis
-- Naadloze integratie met Google Drive, Docs, Sheets, Calendar, Forms
+- Soepele integratie met Google Drive, Docs, Sheets, Calendar, Forms
 - Eenvoudig te delen binnen een organisatie
 - Geen technische kennis nodig
 
@@ -294,7 +294,7 @@ Als je URL-structuur wijzigt (wat bij migratie van Wix bijna altijd het geval is
 
 - **WordPress:** via Rank Math of Yoast SEO redirect manager
 - **Shopify:** via de ingebouwde redirect-tool in het admin-panel
-- **Squarespace:** via Instellingen > Geavanceerd > URL-omleidingen
+- **Squarespace:** via Instellingen > Uitgebreid > URL-omleidingen
 
 ### Fase 5: Go live, monitor en informeer Google
 
@@ -315,11 +315,11 @@ Als je Wix verlaat vanwege de e-commerce-beperkingen, is Shopify de logische keu
 
 **Abandoned cart recovery:** Geautomatiseerde follow-up van verlaten winkelwagentjes. Gemiddeld 5-10% van verlaten carts converteert na een goede follow-up-reeks.
 
-**Geavanceerde rapportages:** Omzet per product, per kanaal, per klanttype, per tijdperiode. Begrijp je bedrijf beter.
+**Uitgebreide rapportages:** Omzet per product, per kanaal, per klanttype, per tijdperiode. Begrijp je bedrijf beter.
 
 **Multi-channel:** Verkoop via je webshop én via Instagram Shopping, Facebook Shop, Pinterest, en andere kanalen vanuit één dashboard.
 
-**App Store:** 8.000+ apps voor elke e-commerce behoefte. Van loyaliteitsprogramma's tot reviewmanagement tot geavanceerde SEO-tools.
+**App Store:** 8.000+ apps voor elke e-commerce behoefte. Van loyaliteitsprogramma's tot reviewmanagement tot uitgebreide SEO-tools.
 
 <a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start een gratis Shopify proefperiode →</a>
 

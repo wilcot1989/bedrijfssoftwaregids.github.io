@@ -23,7 +23,7 @@ faq:
   - q: "Hoe combineer ik Leadinfo met mijn CRM?"
     a: "Leadinfo heeft directe integraties met HubSpot, Salesforce en Pipedrive. Zodra Leadinfo een interessant bedrijf herkent op je website, kan het automatisch een contactrecord of taak aanmaken in je CRM voor opvolging door het salesteam. Dit elimineert handmatig werk en zorgt dat warme leads direct worden opgepakt."
   - q: "Is LinkedIn Sales Navigator het waard voor B2B-leadgeneratie?"
-    a: "Ja, als je een actief salesteam hebt dat systematisch nieuwe accounts benadert. De geavanceerde zoekfilters op functietitel, sector, bedrijfsomvang en activiteit laten je precies de beslissers vinden bij je ideale klantprofiel. Voor bedrijven die puur op inbound willen groeien is het minder relevant; HubSpot of Leadinfo zijn dan betere investeringen."
+    a: "Ja, als je een actief salesteam hebt dat systematisch nieuwe accounts benadert. De uitgebreide zoekfilters op functietitel, sector, bedrijfsomvang en activiteit laten je precies de beslissers vinden bij je ideale klantprofiel. Voor bedrijven die puur op inbound willen groeien is het minder relevant; HubSpot of Leadinfo zijn dan betere investeringen."
 affiliate: true
 ---
 
@@ -77,7 +77,7 @@ HubSpot combineert alle inbound marketingtools die een B2B-bedrijf nodig heeft i
 - Salestools: deals, taken en pipeline-beheer voor het salesteam
 - Rapportages die marketing- en salesactiviteit koppelen aan omzet
 
-**Wat ontbreekt:** Geavanceerde marketingfuncties vereisen een betaald abonnement; prijsstijging naar Professional is groot.
+**Wat ontbreekt:** Uitgebreide marketingfuncties vereisen een betaald abonnement; prijsstijging naar Professional is groot.
 
 **Prijs:** Gratis. Marketing Hub Starter: EUR 45 per maand. Professional: EUR 800 per maand.
 
@@ -87,10 +87,10 @@ HubSpot combineert alle inbound marketingtools die een B2B-bedrijf nodig heeft i
 
 ### 3. LinkedIn Sales Navigator -- Beste voor outbound B2B-prospecting
 
-LinkedIn Sales Navigator is het platform voor B2B-bedrijven die actief op zoek gaan naar nieuwe klanten in plaats van te wachten tot ze zichzelf melden. De geavanceerde zoekfilters laten je precies de beslissers vinden bij de bedrijven die in jouw ideale klantprofiel passen: op sector, functietitel, bedrijfsomvang, locatie en nog tientallen andere criteria. InMail-berichten bereiken contacten direct in hun LinkedIn-inbox, ook als je niet verbonden bent. De koppeling met je CRM zorgt dat nieuwe leads direct op de juiste plek terechtkomen.
+LinkedIn Sales Navigator is het platform voor B2B-bedrijven die actief op zoek gaan naar nieuwe klanten in plaats van te wachten tot ze zichzelf melden. De uitgebreide zoekfilters laten je precies de beslissers vinden bij de bedrijven die in jouw ideale klantprofiel passen: op sector, functietitel, bedrijfsomvang, locatie en nog tientallen andere criteria. InMail-berichten bereiken contacten direct in hun LinkedIn-inbox, ook als je niet verbonden bent. De koppeling met je CRM zorgt dat nieuwe leads direct op de juiste plek terechtkomen.
 
 **Wat werkt goed voor B2B:**
-- Geavanceerde zoekfilters voor precisie-targeting op ideale klantprofielen
+- Uitgebreide zoekfilters voor precisie-targeting op ideale klantprofielen
 - InMail-berichten direct naar beslissers, ook buiten je netwerk
 - Lead-aanbevelingen op basis van je zoekgedrag en CRM-data
 - Bedrijfsupdates: signalen van groeikansen bij doelbedrijven

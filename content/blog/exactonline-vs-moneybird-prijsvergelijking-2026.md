@@ -243,7 +243,7 @@ Dat is een aanzienlijk bedrag dat direct ten goede kan komen aan de marges van h
 
 ## De inflatiefactor: vijf jaar doorgerekend
 
-Een cruciaal element dat veel mensen vergeten in software-kostenberekeningen: prijsverhogingen zijn structureel bij SaaS-producten. Exact Online heeft de afgelopen vijf jaar meerdere significante prijsverhogingen doorgevoerd. In 2023 stegen sommige plannen met 15-20%.
+Een essentieel element dat veel mensen vergeten in software-kostenberekeningen: prijsverhogingen zijn structureel bij SaaS-producten. Exact Online heeft de afgelopen vijf jaar meerdere significante prijsverhogingen doorgevoerd. In 2023 stegen sommige plannen met 15-20%.
 
 Voor onze berekeningen hanteer ik conservatieve schattingen:
 
@@ -313,7 +313,7 @@ SnelStart zit qua prijs en functies tussen Moneybird en Exact Online in. Het is 
 
 **Wanneer SnelStart beter is dan Moneybird:** Als je loonadministratie niet via een externe koppeling wilt regelen maar alles in één pakket wilt hebben, biedt SnelStart dit voor een redelijke prijs.
 
-**Wanneer SnelStart beter is dan Exact Online:** Voor kleine bedrijven die de geavanceerde functies van Exact Online niet nodig hebben maar ook niet van losse tools houden.
+**Wanneer SnelStart beter is dan Exact Online:** Voor kleine bedrijven die de uitgebreide functies van Exact Online niet nodig hebben maar ook niet van losse tools houden.
 
 ### Jortt: de laagste prijs voor zzp'ers
 
@@ -430,7 +430,7 @@ Een laatste afweging: wat als je groeit? Beide tools schalen mee, maar op versch
 **Moneybird bij groei:**
 - Extra gebruikers: €5/gebruiker/mnd, lineaire kostenstijging
 - Geen extra modules: alle functies zijn in het Business-plan inbegrepen
-- Beperking: geen geavanceerde projectbeheer of ERP-functionaliteit — bij verdere groei heb je aanvullende tools nodig
+- Beperking: geen uitgebreide projectbeheer of ERP-functionaliteit — bij verdere groei heb je aanvullende tools nodig
 
 **Exact Online bij groei:**
 - Extra gebruikers: €12-20/gebruiker/mnd

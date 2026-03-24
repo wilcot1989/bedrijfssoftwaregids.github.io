@@ -217,7 +217,7 @@ De keerzijde: Bunni is kleiner dan Moneybird en heeft minder integraties. Als je
 
 Twinfield is de naam die je niet snel tegenkomt als je zelf online zoekt naar boekhoudpakketten, maar die wél regelmatig opduikt als je met accountants praat. Dat is geen toeval.
 
-Twinfield is accountantssoftware. Het is gebouwd voor de samenwerking tussen ondernemer en accountant, met functies die specifiek op dat gebruik zijn gericht: meerdere administraties in één omgeving beheren, geavanceerde periode-afsluiting, uitgebreide rechtenstructuren per gebruiker, en rapportages die direct aansluiten op accountancystandaarden.
+Twinfield is accountantssoftware. Het is gebouwd voor de samenwerking tussen ondernemer en accountant, met functies die specifiek op dat gebruik zijn gericht: meerdere administraties in één omgeving beheren, uitgebreide periode-afsluiting, uitgebreide rechtenstructuren per gebruiker, en rapportages die direct aansluiten op accountancystandaarden.
 
 Als jij als ondernemer Moneybird verlaat omdat je accountant aangeeft dat hij of zij liever met iets anders werkt, is Twinfield een logische optie. Maar als je zelf op zoek bent naar iets eenvoudigers en goedkopers dan Moneybird, dan is Twinfield waarschijnlijk niet de juiste richting.
 

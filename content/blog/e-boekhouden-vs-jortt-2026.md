@@ -147,7 +147,7 @@ Jortt biedt basisrapportages: inkomsten vs. uitgaven, BTW-overzicht, een simpel 
 
 e-Boekhouden heeft een uitgebreide lijst van koppelingen: WooCommerce, Shopify, Mollie, iDEAL, diverse banken, CRM-systemen, en meer. Er is ook een API voor maatwerkkoppelingen.
 
-Jortt heeft minder integraties. De kern — bankimport en betalingsverwerking — is gedekt, maar voor geavanceerde koppelingen met webshops of CRM is het aanbod beperkt.
+Jortt heeft minder integraties. De kern — bankimport en betalingsverwerking — is gedekt, maar voor uitgebreide koppelingen met webshops of CRM is het aanbod beperkt.
 
 Als je een webshop hebt of meerdere systemen wil laten samenwerken, is e-Boekhouden een stuk flexibeler.
 
@@ -184,7 +184,7 @@ Jortt is nieuwer maar volgt de Nederlandse fiscale regels goed. Voor de meeste Z
 
 **Toelichting:** Voor starters met weinig facturen is Jortt Free de duidelijk goedkoopste optie. Zodra je overgaat naar betaalde plannen, liggen de kosten dicht bij elkaar. Het grote voordeel van e-Boekhouden is dat je voor vergelijkbare prijzen veel meer functionaliteit krijgt.
 
-Houd ook rekening met verborgen kosten: extra gebruikers, accountantstoegang, exportmogelijkheden. Bij Jortt stijgt de prijs sneller als je meerdere gebruikers of geavanceerde functies wil.
+Houd ook rekening met verborgen kosten: extra gebruikers, accountantstoegang, exportmogelijkheden. Bij Jortt stijgt de prijs sneller als je meerdere gebruikers of uitgebreide functies wil.
 
 ## Voor wie is e-Boekhouden?
 
@@ -259,7 +259,7 @@ Dit is een onderschat onderdeel van boekhoudsoftware. Als je dagelijks of wekeli
 
 **e-Boekhouden** heeft directe koppelingen met de meeste Nederlandse banken via PSD2. Transacties komen automatisch binnen en het systeem probeert ze te matchen met openstaande facturen. In de praktijk werkt dit goed: 70-80% van transacties worden automatisch gematcht, zodat je alleen de resterende 20-30% handmatig hoeft te verwerken.
 
-**Jortt** heeft ook bankimport, maar de automatische matching is minder geavanceerd. Je importeert je bankafschrift, en het systeem helpt je bij het categoriseren, maar de intelligente matching van e-Boekhouden haalt het niet volledig.
+**Jortt** heeft ook bankimport, maar de automatische matching is minder uitgebreid. Je importeert je bankafschrift, en het systeem helpt je bij het categoriseren, maar de intelligente matching van e-Boekhouden haalt het niet volledig.
 
 Als je veel kleine transacties hebt — denk aan een webwinkelier of iemand met veel kleine klanten — is de betere matching van e-Boekhouden uren per maand waard.
 
@@ -279,7 +279,7 @@ Als ZZP'er heb je vaak terugkerende klanten. Goed klantenbeheer — inclusief be
 
 **e-Boekhouden** heeft een volledigere CRM-light functionaliteit. Je kunt klantdossiers bijhouden, meerdere contactpersonen per klant aanmaken, notities toevoegen, en de betaalgeschiedenis inzien. Dit groeit mee als je meer klanten krijgt.
 
-**Jortt** heeft een eenvoudiger klantenbestand. Contactgegevens, factuurhistorie — dat zit erin. Maar geavanceerder klantenbeheer vereist een aparte CRM-tool.
+**Jortt** heeft een eenvoudiger klantenbestand. Contactgegevens, factuurhistorie — dat zit erin. Maar uitgebreider klantenbeheer vereist een aparte CRM-tool.
 
 ### Debiteurenopvolging: wie volgt niet-betalers beter op?
 

@@ -174,7 +174,7 @@ Moneybird scoort iets hoger dankzij slimmere automatische categorisering. Na een
 
 **Winnaar: Moneybird**
 
-Moneybird biedt mooiere, modernere factuursjablonen en meer aanpassingsmogelijkheden. Je kunt facturen eenvoudig voorzien van je eigen huisstijl, logo en kleuren. Automatische betalingsherinneringen zijn standaard beschikbaar en werken naadloos.
+Moneybird biedt mooiere, modernere factuursjablonen en meer aanpassingsmogelijkheden. Je kunt facturen eenvoudig voorzien van je eigen huisstijl, logo en kleuren. Automatische betalingsherinneringen zijn standaard beschikbaar en werken soepel.
 
 e-Boekhouden biedt ook facturatie met eigen huisstijl, maar de sjablonen zijn minder modern en de aanpassingsmogelijkheden iets beperkter. De basisfunctionaliteit is vergelijkbaar: beide ondersteunen terugkerende facturen, creditnota's en offerte-naar-factuur conversie.
 

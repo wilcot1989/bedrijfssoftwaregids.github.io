@@ -21,7 +21,7 @@ faq:
   - q: "Heeft Exact Online verborgen kosten?"
     a: "Ja, een aantal kostenposten valt mensen pas later op. Denk aan extra gebruikerskosten (~€10/p.p./mnd), aparte modules voor CRM, HRM en projectbeheer, implementatiekosten bij een Exact-partner en de opzegtermijn van 3 maanden bij jaarabonnementen. De advertentieprijs dekt zelden de echte totaalkosten."
   - q: "Is Exact Online goedkoper dan Moneybird?"
-    a: "Nee, Exact Online is aanzienlijk duurder dan Moneybird. Moneybird kost €15 tot €39 per maand, terwijl Exact Online begint bij €49 per maand. Voor ZZP'ers en kleine bedrijven biedt Moneybird vaak dezelfde kernfuncties voor een fractie van de prijs. Exact Online rechtvaardigt zijn prijs pas als je meerdere gebruikers, geavanceerde rapportages of koppelingen met magazijn en HRM nodig hebt."
+    a: "Nee, Exact Online is aanzienlijk duurder dan Moneybird. Moneybird kost €15 tot €39 per maand, terwijl Exact Online begint bij €49 per maand. Voor ZZP'ers en kleine bedrijven biedt Moneybird vaak dezelfde kernfuncties voor een fractie van de prijs. Exact Online rechtvaardigt zijn prijs pas als je meerdere gebruikers, gedetailleerde rapportages of koppelingen met magazijn en HRM nodig hebt."
   - q: "Kan ik jaarlijks betalen bij Exact Online en bespaar ik dan?"
     a: "Ja, Exact Online biedt korting bij jaarabonnementen ten opzichte van maandelijks opzegbare contracten. De exacte korting varieert en wordt berekend bij het afsluiten van het abonnement. Let wel op de opzegtermijn: bij een jaarabonnement geldt doorgaans 3 maanden opzegtermijn. Vergeet dit niet in te calculeren als je wilt overstappen naar een ander pakket."
   - q: "Wat is het goedkoopste alternatief voor Exact Online?"
@@ -209,7 +209,7 @@ Bekijk de opties in mijn overzicht van de [beste boekhoudsoftware voor ZZP'ers](
 
 **Je groeit nog niet boven de 2-3 gebruikers.** Onder die grens bieden Moneybird, SnelStart en e-Boekhouden vergelijkbare kernfunctionaliteit voor minder geld.
 
-**Je hebt geen behoefte aan multi-company of geavanceerde modules.** De premium functies van Exact zijn echt premium — maar je betaalt voor het hele platform ook als je 80% ervan nooit aanraakt.
+**Je hebt geen behoefte aan multi-company of uitgebreide modules.** De premium functies van Exact zijn echt premium — maar je betaalt voor het hele platform ook als je 80% ervan nooit aanraakt.
 
 Als je twijfelt, kijk dan eens naar SnelStart als alternatief voor klein MKB:
 
@@ -277,7 +277,7 @@ Exact Online is niet duur voor wat het biedt — het is duur voor wie er niet vo
 
 Als ZZP'er of klein bedrijf betaal je bij Exact Online voor een platform dat voor 70% een overkill is. Als groeiend bedrijf met 5+ gebruikers, complexe rapportages of een Exact-accountant is het een andere afweging — dan kan Exact Online zijn hogere prijs rechtvaardigen.
 
-Mijn vuistregel: kies Exact Online als je boekhouder het vereist of als je aantoonbaar de geavanceerde functies gebruikt. In alle andere gevallen loop je €300 tot €1.000 per jaar mis die je prima kunt besteden aan andere bedrijfskosten.
+Mijn vuistregel: kies Exact Online als je boekhouder het vereist of als je aantoonbaar de uitgebreide functies gebruikt. In alle andere gevallen loop je €300 tot €1.000 per jaar mis die je prima kunt besteden aan andere bedrijfskosten.
 
 Wil je weten of goedkopere alternatieven voor jouw situatie volstaan? Gebruik dan de [keuzehulp boekhoudsoftware](/tools/boekhouding/keuzehulp/) of lees het vergelijkingsartikel [Moneybird vs Exact Online](/blog/moneybird-vs-exact-online-2026/) voor een kant-op-kant vergelijking.
 

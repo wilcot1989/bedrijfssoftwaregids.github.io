@@ -71,7 +71,7 @@ Naast deze drie: zorg dat je software automatisch de loonheffingstabellen bijwer
 
 ## 1. Nmbrs — Beste voor MKB
 
-Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat komt door de combinatie van gebruiksgemak en betrouwbaarheid. Ik heb HR-managers gezien die na een korte onboarding zelfstandig de maandelijkse loonrun draaiden. De API is een van de sterkste op de markt, waardoor je het moeiteloos koppelt aan je boekhouding of HR-tools. Als je je eerste medewerker aanneemt en vraagt hoe je dit regelt, lees dan eerst mijn artikel over [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/). Wil je ook je contracten met medewerkers digitaal beheren? Lees dan mijn overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/).
+Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat komt door de combinatie van gebruiksgemak en betrouwbaarheid. Ik heb HR-managers gezien die na een korte onboarding zelfstandig de maandelijkse loonrun draaiden. De API is een van de sterkste op de markt, waardoor je het eenvoudig koppelt aan je boekhouding of HR-tools. Als je je eerste medewerker aanneemt en vraagt hoe je dit regelt, lees dan eerst mijn artikel over [HR software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/). Wil je ook je contracten met medewerkers digitaal beheren? Lees dan mijn overzicht van de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/).
 
 **Trustpilot: 4.3/5 (110 reviews)** — Gebruikers waarderen met name de overzichtelijke interface en de snelheid waarmee je de maandelijkse loonrun afrondt. Kritiek gaat vooral over de telefonische support, die soms traag reageert.
 
@@ -87,7 +87,7 @@ Nmbrs is het platform dat ik het vaakst aanbeveel voor loonadministratie, en dat
 ### Prijzen
 - **Basic:** €5/medewerker/maand — Salarisverwerking + loonstroken
 - **Professional:** €8/medewerker/maand — + HR-module, verlof, ziekmeldingen
-- **Enterprise:** €10/medewerker/maand — + Geavanceerde rapportages, workflow
+- **Enterprise:** €10/medewerker/maand — + Uitgebreide rapportages, workflow
 
 **Koppelingen met boekhoudsoftware:** De Nmbrs API is een van de sterkste op de markt. Koppelingen zijn beschikbaar met Exact Online (journaalposten worden automatisch aangemaakt na de loonrun), Twinfield (automatische verwerking in grootboek), en Moneybird (via Zapier of directe koppeling). Voor bedrijven die Exact Online gebruiken is de Nmbrs-koppeling verreweg de meest gebruikte combinatie in het Nederlandse MKB — en die werkt ook daadwerkelijk vlekkeloos.
 
@@ -146,7 +146,7 @@ Loket.nl raad ik aan als de portemonnee krap is maar je wel professionele salari
 
 ## 4. AFAS Software — Meest complete NL platform
 
-AFAS adviseer ik aan bedrijven die salaris, HR, boekhouding en CRM in een platform willen en bereid zijn daar serieus in te investeren. Wil je ook weten hoe je nieuwe medewerkers werft via software? Lees dan het overzicht van de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/). Het is het meest complete Nederlandse platform dat ik ken. De integratie tussen modules is naadloos -- je salarisgegevens stromen direct door naar je boekhouding zonder enige handmatige actie. Overkill voor een klein bedrijf, maar goud voor middelgrote organisaties.
+AFAS adviseer ik aan bedrijven die salaris, HR, boekhouding en CRM in een platform willen en bereid zijn daar serieus in te investeren. Wil je ook weten hoe je nieuwe medewerkers werft via software? Lees dan het overzicht van de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/). Het is het meest complete Nederlandse platform dat ik ken. De integratie tussen modules is soepel -- je salarisgegevens stromen direct door naar je boekhouding zonder enige handmatige actie. Overkill voor een klein bedrijf, maar goud voor middelgrote organisaties.
 
 **Trustpilot: 3.3/5 (152 reviews)** — Een gemengd beeld. Grotere bedrijven zijn doorgaans positiever: zij waarderen de diepe integratie en de complete suite. Kleinere bedrijven klagen vaker over de hoge kosten en de complexiteit van de implementatie.
 

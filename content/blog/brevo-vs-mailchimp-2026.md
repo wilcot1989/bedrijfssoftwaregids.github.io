@@ -83,7 +83,7 @@ Als Frans bedrijf slaat Brevo alle data op binnen de EU. Voor Nederlandse bedrij
 - Deliverability scoort lager in onafhankelijke tests (~75%)
 - Klantenservice krijgt wisselende reviews
 - Brevo-branding verwijderen kost extra op Starter/Standard
-- Minder geavanceerde e-commerce functies
+- Minder uitgebreide e-commerce functies
 - Risico op account-suspensie bij hoog bouncepercentage
 
 ---
@@ -104,7 +104,7 @@ Het platform heeft de afgelopen jaren flink wat functies toegevoegd -- een custo
 - 300+ integraties met third-party tools
 - Intuïtieve drag-and-drop editor
 - AI-tools voor content en campagne-optimalisatie
-- Geavanceerde segmentatie en predictive analytics (Standard+)
+- Uitgebreide segmentatie en predictive analytics (Standard+)
 - Send time optimization
 
 ### Nadelen Mailchimp
@@ -148,7 +148,7 @@ Brevo Standard bij hogere volumes:
 | **Free** | Gratis | 250 | 500 | Basis editor, 1 doelgroep, beperkte templates |
 | **Essentials** | Vanaf $13 (USD) | 500 | 5.000 | E-mail templates, A/B-testing, 24/7 support |
 | **Standard** | Vanaf $20 (USD) | 500 | 6.000 | Automation, send time opt., predictive segmentatie |
-| **Premium** | Vanaf $350 (USD) | 10.000 | 150.000 | Alles onbeperkt, geavanceerde segmentatie |
+| **Premium** | Vanaf $350 (USD) | 10.000 | 150.000 | Alles onbeperkt, gedetailleerde segmentatie |
 
 Mailchimp Essentials bij meer contacten:
 
@@ -213,7 +213,7 @@ Brevo biedt wel betere deliverability-tools: een setup wizard die je door de aut
 
 ### Integraties
 
-**Mailchimp** biedt 300+ integraties, waaronder diepgaande koppelingen met Shopify, WooCommerce, Salesforce, WordPress, Zapier en recent ook ChatGPT. De e-commerce integraties zijn bijzonder sterk: productaanbevelingen, verlaten-winkelwagen tracking en order notifications werken naadloos.
+**Mailchimp** biedt 300+ integraties, waaronder diepgaande koppelingen met Shopify, WooCommerce, Salesforce, WordPress, Zapier en recent ook ChatGPT. De e-commerce integraties zijn bijzonder sterk: productaanbevelingen, verlaten-winkelwagen tracking en order notifications werken soepel.
 
 **Brevo** heeft 150+ integraties, waaronder de gangbare koppelingen met WordPress, Shopify, WooCommerce en Zapier. De integraties zijn functioneel maar minder diep. Voor een koppeling met Salesforce heb je een third-party connector nodig.
 
@@ -312,7 +312,7 @@ Brevo biedt wel betere deliverability-tools: een setup wizard die je door de aut
     <tr>
       <td><strong>E-commerce functies</strong></td>
       <td>Basis</td>
-      <td>Geavanceerd</td>
+      <td>Uitgebreid</td>
       <td>Mailchimp</td>
     </tr>
     <tr>

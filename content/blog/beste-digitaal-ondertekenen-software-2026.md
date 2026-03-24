@@ -25,13 +25,13 @@ products:
     rating_value: "4.5"
     rating_count: "287"
   - name: "Adobe Acrobat Sign"
-    description: "Naadloze digitale handtekening integratie binnen het Adobe-ecosysteem, ideaal voor organisaties die al met Adobe-producten werken."
+    description: "Soepele digitale handtekening integratie binnen het Adobe-ecosysteem, ideaal voor organisaties die al met Adobe-producten werken."
     url: "https://acrobat.adobe.com/nl/nl/sign.html"
     price: "14.99"
     rating_value: "4.3"
     rating_count: "198"
   - name: "Signicat"
-    description: "Noorse digitale identiteitsspecialist met sterke Europese eIDAS-compliance en ondersteuning voor geavanceerde en gekwalificeerde handtekeningen."
+    description: "Noorse digitale identiteitsspecialist met sterke Europese eIDAS-compliance en ondersteuning voor uitgebreide en gekwalificeerde handtekeningen."
     url: "https://www.signicat.com/"
     price: "0.00"
     rating_value: "4.4"
@@ -51,10 +51,10 @@ products:
 faq:
   - q: "Is een digitale handtekening juridisch geldig in Nederland?"
     a: "Ja, digitale handtekeningen zijn juridisch geldig in Nederland op basis van de eIDAS-verordening (EU 910/2014) en de Nederlandse Wet Elektronische Handtekeningen. Een eenvoudige elektronische handtekening heeft dezelfde rechtskracht als een handmatige handtekening, mits de identiteit van de ondertekenaar voldoende vaststaat."
-  - q: "Wat is het verschil tussen een eenvoudige, geavanceerde en gekwalificeerde handtekening?"
-    a: "Een eenvoudige elektronische handtekening (EEH) is een klik of getekende afbeelding. Een geavanceerde elektronische handtekening (GEH) is gekoppeld aan de identiteit van de ondertekenaar via e-mail of SMS-verificatie. Een gekwalificeerde elektronische handtekening (KEH) heeft dezelfde rechtskracht als een notariële handtekening en vereist een erkend certificaat."
+  - q: "Wat is het verschil tussen een eenvoudige, uitgebreide en gekwalificeerde handtekening?"
+    a: "Een eenvoudige elektronische handtekening (EEH) is een klik of getekende afbeelding. Een versterkte elektronische handtekening (GEH) is gekoppeld aan de identiteit van de ondertekenaar via e-mail of SMS-verificatie. Een gekwalificeerde elektronische handtekening (KEH) heeft dezelfde rechtskracht als een notariële handtekening en vereist een erkend certificaat."
   - q: "Voor welke documenten is een gekwalificeerde handtekening verplicht?"
-    a: "Een gekwalificeerde handtekening is verplicht bij notariële akten, bepaalde overheidsformulieren en documenten waarbij de wet expliciete authenticatie vereist. Voor de meeste zakelijke contracten, offertes en arbeidsovereenkomsten volstaat een geavanceerde elektronische handtekening."
+    a: "Een gekwalificeerde handtekening is verplicht bij notariële akten, bepaalde overheidsformulieren en documenten waarbij de wet expliciete authenticatie vereist. Voor de meeste zakelijke contracten, offertes en arbeidsovereenkomsten volstaat een versterkte elektronische handtekening."
   - q: "Hoe lang zijn digitaal ondertekende documenten juridisch geldig?"
     a: "Digitaal ondertekende documenten blijven geldig zolang de digitale handtekening verifieerbaar is. Tools als DocuSign en Signicat bewaren een audittrail en certificaatketen waarmee de handtekening ook tientallen jaren later verifieerbaar blijft. Sla altijd het volledige ondertekeningspakket op inclusief het certificaat."
   - q: "Kan ik gratis digitaal ondertekenen?"
@@ -88,7 +88,7 @@ Dit is de laagste vorm. Denk aan:
 
 ---
 
-**Niveau 2: Geavanceerde elektronische handtekening (GEH)**
+**Niveau 2: Uitgebreide elektronische handtekening (GEH)**
 
 Hier wordt de handtekening gekoppeld aan de identiteit van de ondertekenaar via:
 - E-mailverificatie + unieke link
@@ -113,7 +113,7 @@ De KEH heeft dezelfde juridische status als een handtekening voor de notaris.
 
 **Gebruik voor:** Notariële akten, hypotheekdocumenten, overheidsformulieren, medische dossiers
 
-**Voor 95% van alle zakelijke documenten is een geavanceerde elektronische handtekening (GEH) voldoende.** De meeste tools in dit overzicht bieden dit standaard.
+**Voor 95% van alle zakelijke documenten is een versterkte elektronische handtekening (GEH) voldoende.** De meeste tools in dit overzicht bieden dit standaard.
 
 ## Wanneer is digitaal ondertekenen niet toegestaan?
 
@@ -156,13 +156,13 @@ Twijfel je voor een specifiek document? Raadpleeg een jurist of notaris.
 **Nadelen:**
 - Prijzig bij grotere volumes (kijk uit voor limieten per plan)
 - Geen iDIN-verificatie voor hogere zekerheid op de Nederlandse markt
-- Geavanceerde features vereisen duurdere plannen
+- Uitgebreide features vereisen duurdere plannen
 - Geen ingebouwde contractmanagement functies
 
 **Prijs:**
 - Personal: €10/maand (5 documenten/maand)
 - Standard: €25/gebruiker/maand (onbeperkt)
-- Business Pro: €40/gebruiker/maand (geavanceerde functies)
+- Business Pro: €40/gebruiker/maand (uitgebreide functies)
 
 **Geschikt voor:** Organisaties die internationaal werken, bedrijven die al Salesforce of Microsoft 365 gebruiken, iedereen die de beste integratiemogelijkheden wil
 
@@ -176,7 +176,7 @@ Als je DocuSign combineert met Google Workspace voor documentbeheer, heb je een 
 
 ### 2. Adobe Acrobat Sign — de beste voor Adobe-gebruikers
 
-[Adobe Acrobat Sign](https://acrobat.adobe.com/nl/nl/sign.html) is de logische keuze als je organisatie al werkt met Adobe Creative Cloud of Adobe Acrobat. De integratie is naadloos: je opent een PDF in Acrobat, voegt handtekeningvelden toe, en verzendt — zonder van applicatie te wisselen.
+[Adobe Acrobat Sign](https://acrobat.adobe.com/nl/nl/sign.html) is de logische keuze als je organisatie al werkt met Adobe Creative Cloud of Adobe Acrobat. De integratie is soepel: je opent een PDF in Acrobat, voegt handtekeningvelden toe, en verzendt — zonder van applicatie te wisselen.
 
 **Wat maakt Adobe Sign bijzonder?**
 
@@ -187,7 +187,7 @@ Ten tweede: de integratie met Microsoft 365 is sterk. Documenten vanuit SharePoi
 **Sterke punten:**
 - Beste PDF-ondersteuning van alle tools
 - Integratie met Adobe Creative Cloud, Microsoft 365, Salesforce
-- Geavanceerde formulierfuncties (berekeningen, conditionele velden)
+- Uitgebreide formulierfuncties (berekeningen, conditionele velden)
 - Uitgebreide compliance-certificeringen (ISO 27001, SOC 2, FedRAMP)
 - Bulkverzending — één template naar honderden ontvangers tegelijk
 
@@ -262,7 +262,7 @@ De prijs is ook aantrekkelijk: voor het gebruik van een ZZP'er of klein bedrijf 
 - Minder integraties dan DocuSign (wel de belangrijkste Nederlandse tools)
 - Minder geschikt voor internationaal gebruik
 - Minder naam-bekendheid bij buitenlandse handelspartners
-- Beperkte geavanceerde functies vergeleken met DocuSign Business Pro
+- Beperkte uitgebreide functies vergeleken met DocuSign Business Pro
 
 **Prijs:**
 - Starter: €9,95/maand (25 documenten/maand)
@@ -440,13 +440,13 @@ Onderzoek van DocuSign toont dat het ondertekeningstraject gemiddeld van 5 werkd
 
 Ja, digitale handtekeningen zijn juridisch geldig in Nederland op basis van de eIDAS-verordening (EU 910/2014) en de Nederlandse Wet Elektronische Handtekeningen. Een eenvoudige elektronische handtekening heeft dezelfde rechtskracht als een handmatige handtekening, mits de identiteit van de ondertekenaar voldoende vaststaat.
 
-### Wat is het verschil tussen een eenvoudige, geavanceerde en gekwalificeerde handtekening?
+### Wat is het verschil tussen een eenvoudige, uitgebreide en gekwalificeerde handtekening?
 
-Een eenvoudige elektronische handtekening (EEH) is een klik of getekende afbeelding. Een geavanceerde elektronische handtekening (GEH) is gekoppeld aan de identiteit van de ondertekenaar via e-mail of SMS-verificatie. Een gekwalificeerde elektronische handtekening (KEH) heeft dezelfde rechtskracht als een notariële handtekening en vereist een erkend certificaat.
+Een eenvoudige elektronische handtekening (EEH) is een klik of getekende afbeelding. Een versterkte elektronische handtekening (GEH) is gekoppeld aan de identiteit van de ondertekenaar via e-mail of SMS-verificatie. Een gekwalificeerde elektronische handtekening (KEH) heeft dezelfde rechtskracht als een notariële handtekening en vereist een erkend certificaat.
 
 ### Voor welke documenten is een gekwalificeerde handtekening verplicht?
 
-Een gekwalificeerde handtekening is verplicht bij notariële akten, bepaalde overheidsformulieren en documenten waarbij de wet expliciete authenticatie vereist. Voor de meeste zakelijke contracten, offertes en arbeidsovereenkomsten volstaat een geavanceerde elektronische handtekening.
+Een gekwalificeerde handtekening is verplicht bij notariële akten, bepaalde overheidsformulieren en documenten waarbij de wet expliciete authenticatie vereist. Voor de meeste zakelijke contracten, offertes en arbeidsovereenkomsten volstaat een versterkte elektronische handtekening.
 
 ### Hoe lang zijn digitaal ondertekende documenten juridisch geldig?
 

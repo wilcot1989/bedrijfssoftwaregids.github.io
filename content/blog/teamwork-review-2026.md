@@ -32,7 +32,7 @@ faq:
   - q: "Hoe verhoudt Teamwork zich tot Monday.com voor agencies?"
     a: "Teamwork is beter voor agencies die klantfacturatie, tijdregistratie per klant en budgetbeheer centraal stellen. Monday.com is eenvoudiger en visueler, maar mist native klantfacturatie en heeft minder diepgaande tijdregistratie. Voor bureaus die klanten willen betrekken in het werkproces zonder extra kosten per licentie, is Teamwork de betere keuze."
   - q: "Heeft Teamwork een Gantt-chart?"
-    a: "Ja, Teamwork biedt een Gantt-chart met taakafhankelijkheden, milestones en een tijdlijn-weergave. De Gantt is beschikbaar vanaf het Deliver-plan ($9,99/gebruiker/maand). Vergeleken met Wrike's Gantt is die van Teamwork iets minder geavanceerd (geen kritiek-pad-analyse), maar voldoende voor de meeste agencyprojecten."
+    a: "Ja, Teamwork biedt een Gantt-chart met taakafhankelijkheden, milestones en een tijdlijn-weergave. De Gantt is beschikbaar vanaf het Deliver-plan ($9,99/gebruiker/maand). Vergeleken met Wrike's Gantt is die van Teamwork iets minder uitgebreid (geen kritiek-pad-analyse), maar voldoende voor de meeste agencyprojecten."
   - q: "Welke integraties heeft Teamwork?"
     a: "Teamwork integreert met 100+ tools, waaronder Slack, HubSpot, Salesforce, QuickBooks, Xero, Google Workspace, Microsoft 365, Dropbox, Harvest, Zapier en Stripe. De QuickBooks- en Xero-integraties zijn bijzonder waardevol voor bureaus die facturatie willen koppelen aan hun boekhouding."
 ---
@@ -81,7 +81,7 @@ Teamwork heeft naar eigen zeggen meer dan 20.000 klanten, met een sterke concent
 | **Free** | Gratis | Max. 5 | 2 projecten, basistaken, tijdregistratie |
 | **Starter** | $5,99/gebruiker/maand | 3+ | Onbeperkte projecten, tijdregistratie, basisfacturatie |
 | **Deliver** | $9,99/gebruiker/maand | 3+ | Gantt, budgetten, klantfacturatie, rapporten, risicologboek |
-| **Grow** | $19,99/gebruiker/maand | 5+ | Workload-planning, portfoliorapporten, geavanceerde budgetten |
+| **Grow** | $19,99/gebruiker/maand | 5+ | Workload-planning, portfoliorapporten, uitgebreide budgetten |
 | **Scale** | Op aanvraag | Onbeperkt | Enterprise-functies, dedicated support |
 
 ### Wat betaal je echt bij 10 gebruikers?
@@ -171,13 +171,13 @@ Dit werkt als volgt:
 - Bekijk in de workload-weergave wie overboekt en wie ruimte heeft
 - Herschikte taken door ze vanuit de weergave te verslepen
 
-Vergeleken met Wrike's resource management is Teamwork's implementatie eenvoudiger — geen kritiek-pad-analyse, minder geavanceerde filters. Maar voor de meeste bureaus van 5-50 personen is het voldoende.
+Vergeleken met Wrike's resource management is Teamwork's implementatie eenvoudiger — geen kritiek-pad-analyse, minder uitgebreide filters. Maar voor de meeste bureaus van 5-50 personen is het voldoende.
 
 **Praktijkobservatie:** het digitale marketingbureau gebruikte de workload-weergave om een probleem te ontdekken dat ze al tijden voelden maar nooit konden pinpointen: drie medewerkers waren structureel 120-130% geboekt, terwijl twee anderen gemiddeld 70% bezet waren. Zichtbaar maken was de eerste stap naar een oplossing.
 
 ## Gantt-chart en projectplanning
 
-Teamwork's Gantt-chart is solide maar niet de meest geavanceerde in de markt. Wat je krijgt op het Deliver-plan:
+Teamwork's Gantt-chart is solide maar niet de meest uitgebreide in de markt. Wat je krijgt op het Deliver-plan:
 
 - Visuele tijdlijn met taken en milestones
 - Taakafhankelijkheden instellen (finish-to-start)
@@ -264,7 +264,7 @@ In mijn test bij het communicatiebureau had het team na één week de basisworkf
 
 **Teams die eenvoud boven alles stellen** — [Basecamp](/blog/basecamp-review-2026/) is simpeler en goedkoper voor grotere teams.
 
-**Teams die geavanceerde resource management en proofing nodig hebben** — bekijk dan [Wrike](/blog/wrike-review-2026/).
+**Teams die uitgebreide resource management en proofing nodig hebben** — bekijk dan [Wrike](/blog/wrike-review-2026/).
 
 ## Vergelijking: Teamwork vs. Monday.com vs. Basecamp vs. Asana
 
@@ -421,7 +421,7 @@ Teamwork is beter voor agencies die klantfacturatie, tijdregistratie per klant e
 
 ### Heeft Teamwork een Gantt-chart?
 
-Ja, Teamwork biedt een Gantt-chart met taakafhankelijkheden, milestones en een tijdlijn-weergave. De Gantt is beschikbaar vanaf het Deliver-plan ($9,99/gebruiker/maand). Vergeleken met Wrike's Gantt is die van Teamwork iets minder geavanceerd (geen kritiek-pad-analyse), maar voldoende voor de meeste agencyprojecten.
+Ja, Teamwork biedt een Gantt-chart met taakafhankelijkheden, milestones en een tijdlijn-weergave. De Gantt is beschikbaar vanaf het Deliver-plan ($9,99/gebruiker/maand). Vergeleken met Wrike's Gantt is die van Teamwork iets minder uitgebreid (geen kritiek-pad-analyse), maar voldoende voor de meeste agencyprojecten.
 
 ### Welke integraties heeft Teamwork?
 

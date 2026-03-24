@@ -85,7 +85,7 @@ Zie ook mijn vergelijking van [HubSpot prijzen en plannen 2026](/blog/hubspot-pr
 ### Prijzen (2026)
 - **Gratis**: Uitgebreid CRM met basis marketingtools
 - **Starter**: vanaf €20/maand (meer e-mailmarketing, automatisering)
-- **Professional**: vanaf €890/maand (geavanceerde automatisering, rapportages)
+- **Professional**: vanaf €890/maand (uitgebreide automatisering, rapportages)
 
 ### Voordelen
 - Gratis plan is eerlijk bruikbaar voor coaches
@@ -143,7 +143,7 @@ Lees ook mijn uitgebreide [Pipedrive review 2026](/blog/pipedrive-review-2026/) 
 ### Nadelen
 - Geen gratis plan (alleen 14 dagen trial)
 - Geen specifieke sessienotitie-functionaliteit
-- Geavanceerde rapportages pas vanaf Professional
+- Uitgebreide rapportages pas vanaf Professional
 - Geen ingebouwde facturatiefunctionaliteit
 - Minder marketingtools dan HubSpot
 
@@ -224,7 +224,7 @@ Lees mijn volledige [Moneybird review 2026](/blog/moneybird-review-2026/) voor e
 - **Gratis**: Tot 5 facturen, 5 bonnetjes per maand
 - **ZZP**: €13/maand (onbeperkt factureren)
 - **MKB**: €28/maand (meerdere gebruikers, meer automatisering)
-- **Zakelijk**: €48/maand (geavanceerde functies, meerdere administraties)
+- **Zakelijk**: €48/maand (uitgebreide functies, meerdere administraties)
 
 ### Voordelen
 - Specifiek voor Nederlandse ZZP'ers gebouwd
@@ -315,7 +315,7 @@ Hier loont een iets uitgebreidere toolset:
 
 Totale kosten: circa €57 per maand.
 
-> **Wil je Google Workspace koppelen aan je coachingspraktijk?** Google Workspace geeft je een professioneel e-mailadres (@jouwcoachingsnaam.nl), gedeelde agenda's, Drive-opslag voor cliëntdossiers en Google Meet zonder tijdslimiet. Als je al een Pipedrive abonnement hebt, integreert Google Workspace naadloos.
+> **Wil je Google Workspace koppelen aan je coachingspraktijk?** Google Workspace geeft je een professioneel e-mailadres (@jouwcoachingsnaam.nl), gedeelde agenda's, Drive-opslag voor cliëntdossiers en Google Meet zonder tijdslimiet. Als je al een Pipedrive abonnement hebt, integreert Google Workspace soepel.
 
 <a href="https://www.dpbolvw.net/click-101698621-13855808" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Google Workspace voor coaches →</a>
 

@@ -24,7 +24,7 @@ faq:
   - q: "Heb ik contractmanagement software nodig?"
     a: "Als je 20+ actieve contracten hebt (huur, leveranciers, klanten, licenties), ja. Zonder systeem raak je deadlines kwijt, mist je verlengingen, en kun je voorwaarden niet terugvinden. De gemiddelde MKB'er heeft 50-200 actieve contracten. Onder 20 contracten kan een gedeelde map met herinneringen volstaan."
   - q: "Kan ik contracten digitaal ondertekenen?"
-    a: "Ja, alle CLM-tools in dit artikel bieden digitale handtekeningen die rechtsgeldig zijn onder de eIDAS-verordening (EU) en vergelijkbare wetten wereldwijd. Geavanceerde elektronische handtekeningen (AES) en gekwalificeerde handtekeningen (QES) zijn beschikbaar voor juridisch gevoelige documenten."
+    a: "Ja, alle CLM-tools in dit artikel bieden digitale handtekeningen die rechtsgeldig zijn onder de eIDAS-verordening (EU) en vergelijkbare wetten wereldwijd. Uitgebreide elektronische handtekeningen (AES) en gekwalificeerde handtekeningen (QES) zijn beschikbaar voor juridisch gevoelige documenten."
   - q: "Wat is het verschil tussen contractmanagement en digitaal ondertekenen?"
     a: "Digitaal ondertekenen (DocuSign, HelloSign) is één stap: de handtekening. Contractmanagement beheert het hele proces: maken, templates, goedkeuring, onderhandeling, ondertekening, opslag, bewaking van deadlines en rapportage. CLM-tools bevatten digitaal ondertekenen als één functie."
 ---
@@ -74,7 +74,7 @@ Contractbook is de tool die ik het vaakst aanbeveel voor MKB-contractbeheer. De 
 |------|---------------|-----------|
 | Essential | €39 | Templates, e-sign, herinneringen |
 | Growth | €79 | + Workflows, approval chains |
-| Enterprise | Op aanvraag | + API, SSO, geavanceerde analytics |
+| Enterprise | Op aanvraag | + API, SSO, diepgaande analytics |
 
 **Concreet gebruik:** Een dienstverlener met 15 medewerkers gebruikt Contractbook om elk klantcontract te starten vanuit een template. Variabelen als naam, looptijd en prijs worden ingevuld vanuit HubSpot CRM. Na ondertekening stuurt het systeem automatisch een herinnering 60 dagen voor het einde van de looptijd. De accountmanager hoeft niets bij te houden — het systeem doet het.
 
@@ -131,7 +131,7 @@ PandaDoc is mijn budgettip en tegelijk het meest veelzijdige platform in dit ove
 **Integraties:** Pipedrive, HubSpot, Salesforce (CRM-data direct in documenten), Stripe (betaling bij ondertekening), Zapier (voor koppelingen met andere tools). E-signature werkt ook met externe partijen die geen PandaDoc-account hebben.
 
 **✅ Voordelen:** Goedkoopst, beste offerte-naar-contract flow, onbeperkt e-sign
-**❌ Nadelen:** Minder geavanceerd contractbeheer, geen AI-extractie
+**❌ Nadelen:** Minder uitgebreid contractbeheer, geen AI-extractie
 
 **Review scores:** G2 4,7/5 (2.700+ reviews) · Trustpilot 3,9/5 (100+ reviews)
 
@@ -197,7 +197,7 @@ Gemiste verlengingsdatums? Verloren contracten? Eindeloos zoeken naar de juiste 
 De meeste winst zit in de koppeling tussen je CRM en je CLM-tool. Klantnaam, adres, contractbedrag en looptijd hoef je dan niet dubbel in te voeren. Controleer of de CLM-tool een native integratie heeft met jouw CRM (HubSpot, Salesforce, Pipedrive) of dat je via Zapier moet werken.
 
 **4. Welke e-signature standaard heb je nodig?**
-Voor standaard zakelijke contracten volstaat een geavanceerde elektronische handtekening (AES) — alle tools hier ondersteunen dat. Voor juridisch gevoelige documenten (notariële akten, overheidsaanbestedingen) heb je een gekwalificeerde handtekening (QES) nodig. Dat biedt alleen Precisely en DocuSign standaard aan.
+Voor standaard zakelijke contracten volstaat een versterkte elektronische handtekening (AES) — alle tools hier ondersteunen dat. Voor juridisch gevoelige documenten (notariële akten, overheidsaanbestedingen) heb je een gekwalificeerde handtekening (QES) nodig. Dat biedt alleen Precisely en DocuSign standaard aan.
 
 **5. Wie gaat het systeem beheren?**
 Een CLM-tool werkt alleen als iemand templates aanmaakt en bijhoudt, herinneringen instelt en rapportages leest. Heb je geen aangewezen persoon? Dan investeer je in software die niemand gebruikt. Plan eerst de interne adoptie, dan de tool-keuze.

@@ -46,7 +46,7 @@ Een eenmanszaak heeft andere behoeften dan een ZZP'er die puur facturen stuurt:
 
 ### 1. Moneybird -- Beste instap met groeipotentieel
 
-Moneybird begint als een toegankelijke tool voor kleine administraties, maar groeit mee. Het Growth-abonnement (EUR 28 per maand) ondersteunt meerdere gebruikers, projecten en geavanceerde rapportages. Voor eenmanszaken die nog geen personeel hebben maar daar op afzien, is Moneybird een slimme keuze: je betaalt weinig nu en hoeft later niet te migreren.
+Moneybird begint als een toegankelijke tool voor kleine administraties, maar groeit mee. Het Growth-abonnement (EUR 28 per maand) ondersteunt meerdere gebruikers, projecten en gedetailleerde rapportages. Voor eenmanszaken die nog geen personeel hebben maar daar op afzien, is Moneybird een slimme keuze: je betaalt weinig nu en hoeft later niet te migreren.
 
 **Wat werkt goed voor eenmanszaak:**
 - Volledige inkoop- en verkoopfacturatie

@@ -322,7 +322,7 @@ Eerlijk over de beperkingen: als je 50+ facturen per maand verstuurt, is het Sta
 
 Informer is een pakket dat weinig mensen kennen maar dat me telkens weer verrast. Ik heb het aanbevolen aan een administratiekantoor dat voor meerdere klanten de boekhouding deed, en het werkte uitstekend. **Trustpilot: 4.3/5 (113 reviews)** — Intuïtief platform met snelle chat-support. Multi-administratie, professionele rapportages en een accountantsmodule die echt is doordacht. Ook voor zelfstandige MKB'ers die een volledige boekhouding willen zonder de prijs van Exact is het een serieuze optie.
 
-De ICP-opgave is een feature die voor internationale handelsbedrijven cruciaal is. Verkoop je goederen of diensten aan BTW-plichtige afnemers in andere EU-landen? Dan moet je periodiek een ICP-opgave indienen bij de Belastingdienst. Niet alle factuurprogramma's ondersteunen dit. Informer doet het, Moneybird ook, maar Rompslomp en Jortt zijn hier minder sterk in.
+De ICP-opgave is een feature die voor internationale handelsbedrijven essentieel is. Verkoop je goederen of diensten aan BTW-plichtige afnemers in andere EU-landen? Dan moet je periodiek een ICP-opgave indienen bij de Belastingdienst. Niet alle factuurprogramma's ondersteunen dit. Informer doet het, Moneybird ook, maar Rompslomp en Jortt zijn hier minder sterk in.
 
 Wat ik ook waardeer: de periodieke facturen. Als je vaste klanten hebt die maandelijks hetzelfde bedrag betalen (abonnementen, retainerafspraken, schoonmaakcontracten) -- dan stel je dat éénmalig in bij Informer en het systeem maakt en verstuurt elke maand automatisch de factuur. Dat is een tijdsbesparing die snel oploopt.
 

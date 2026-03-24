@@ -44,7 +44,7 @@ Fysieke producten vereisen verzendintegraties en voorraadbeheer. Digitale produc
 
 ### 2. Hoeveel producten en hoeveel orders?
 
-Bij 50 producten en 20 orders per week volstaat vrijwel elk platform. Bij 5.000 producten en 200 orders per dag heb je robuust voorraadbeheer, geautomatiseerde verzendlabels en een krachtige server nodig. De schaal bepaalt je softwarestack.
+Bij 50 producten en 20 orders per week volstaat vrijwel elk platform. Bij 5.000 producten en 200 orders per dag heb je solide voorraadbeheer, geautomatiseerde verzendlabels en een krachtige server nodig. De schaal bepaalt je softwarestack.
 
 ### 3. Verkoop je via meerdere kanalen?
 
@@ -244,7 +244,7 @@ Sendcloud is de verzendtool die ik het vaakst in Nederlandse webshops tegenkom. 
 - **Free:** gratis -- 1 gebruiker, geen branding-opties
 - **Lite:** €29/maand -- meerdere vervoerders, branding
 - **Growth:** €89/maand -- automatisering, retourportaal
-- **Premium:** €179/maand -- geavanceerde analytics, verzekering
+- **Premium:** €179/maand -- diepgaande analytics, verzekering
 
 **Sterke punten:** brede vervoerderkeuze, retourportaal, automatische tracking-mails, koppeling met alle grote platforms.
 
@@ -317,7 +317,7 @@ E-mail marketing heeft in e-commerce de hoogste ROI van alle kanalen. Verlaten-w
 
 2. **Brevo** (voorheen Sendinblue, vanaf gratis / €25/mnd) -- budgetvriendelijk alternatief met e-mail, SMS en chat in een platform. Sterk voor starters. Lees de [Brevo review](/blog/brevo-review-2026/).
 
-3. **ActiveCampaign** (vanaf $29/mnd) -- voor webshops die geavanceerde automations willen zonder de prijs van Klaviyo bij grote contactlijsten.
+3. **ActiveCampaign** (vanaf $29/mnd) -- voor webshops die uitgebreide automations willen zonder de prijs van Klaviyo bij grote contactlijsten.
 
 ### SEO-tools
 
@@ -325,12 +325,12 @@ Organisch verkeer is de goedkoopste en duurzaamste verkeersbron voor je webshop.
 
 - **Yoast SEO** (WooCommerce, gratis / €99/jaar) -- de standaard voor WordPress/WooCommerce
 - **Ingebouwde SEO** -- Shopify, Lightspeed en CCV Shop hebben basale SEO-functies (meta titles, descriptions, URL-structuur)
-- **Google Search Console** (gratis) -- onmisbaar voor het monitoren van je zoekprestaties
+- **Google Search Console** (gratis) -- essentieel voor het monitoren van je zoekprestaties
 - **SE Ranking** (vanaf €44/mnd) -- betaalbare keyword tracker en site audit tool
 
 ### Social media & advertising
 
-- **Google Ads** -- onmisbaar voor product-gerelateerde zoekopdrachten (Google Shopping)
+- **Google Ads** -- essentieel voor product-gerelateerde zoekopdrachten (Google Shopping)
 - **Meta Ads** (Facebook/Instagram) -- sterk voor visuele producten en retargeting
 - **Google Merchant Center** (gratis) -- koppel je productfeed voor gratis vermeldingen in Google Shopping
 
@@ -475,7 +475,7 @@ Dit is het totaaloverzicht dat ik aan klanten geef als ze vragen: "Wat kost het 
 
 ## Conclusie
 
-De beste software voor je webshop hangt niet alleen af van welk platform je kiest. Het gaat om het totaalpakket: platform, betalingen, verzending, marketing en boekhouding moeten naadloos samenwerken. Ik zie te vaak dat ondernemers het goedkoopste platform kiezen maar vervolgens honderden euro's per maand kwijt zijn aan losse tools die slecht integreren.
+De beste software voor je webshop hangt niet alleen af van welk platform je kiest. Het gaat om het totaalpakket: platform, betalingen, verzending, marketing en boekhouding moeten soepel samenwerken. Ik zie te vaak dat ondernemers het goedkoopste platform kiezen maar vervolgens honderden euro's per maand kwijt zijn aan losse tools die slecht integreren.
 
 Mijn advies in het kort:
 

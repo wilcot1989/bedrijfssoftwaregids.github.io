@@ -47,7 +47,7 @@ faq:
   - q: "Wat kost QMS software?"
     a: "Voor kleinere organisaties zijn eenvoudige oplossingen beschikbaar vanaf €24/maand (iAuditor). Professionele QMS-pakketten lopen van €200 tot €2.000+ per maand afhankelijk van gebruikers en modules. Enterprise-pakketten worden op aanvraag geprijsd."
   - q: "Heb ik QMS software nodig voor ISO 9001 certificering?"
-    a: "Technisch gezien niet: ISO 9001 stelt geen eisen aan de gebruikte software. Maar in de praktijk is een digitaal QMS-systeem vrijwel onmisbaar voor certificering, omdat het de documentatie, audittrails en CAPA-beheer gestructureerd bijhoudt die auditors verwachten."
+    a: "Technisch gezien niet: ISO 9001 stelt geen eisen aan de gebruikte software. Maar in de praktijk is een digitaal QMS-systeem vrijwel noodzakelijk voor certificering, omdat het de documentatie, audittrails en CAPA-beheer gestructureerd bijhoudt die auditors verwachten."
   - q: "Wat is het verschil tussen QMS en EHS software?"
     a: "QMS (Quality Management System) richt zich op productkwaliteit, procesconsistentie en klanttevredenheid. EHS (Environment, Health & Safety) richt zich op veiligheid, gezondheid en milieu. Sommige platforms zoals Intelex combineren beide in één systeem."
   - q: "Wat is CAPA in kwaliteitsmanagement?"
@@ -62,7 +62,7 @@ QMS software maakt kwaliteitsmanagement beheersbaar. In plaats van stapels proce
 
 ## Waarom digitaal kwaliteitsmanagement essentieel is
 
-Handmatig kwaliteitsmanagement schiet tekort op drie cruciale punten:
+Handmatig kwaliteitsmanagement schiet tekort op drie essentiële punten:
 
 **Documentbeheer**: Papieren of Word-documenten zijn lastig te versiebeheren. Medewerkers werken mogelijk met verouderde procedures zonder het te weten. Een digitaal QMS regelt automatisch dat iedereen altijd de actuele versie gebruikt.
 
@@ -161,7 +161,7 @@ Specifiek voor life sciences — minder geschikt voor andere sectoren zoals prod
 
 **Wat maakt MasterControl bijzonder:**
 
-MasterControl's Document Control-module is de meest robuuste in de markt voor gereguleerde sectoren. Versie management, elektronische handtekeningen, toegangscontroles en audit trails zijn volledig conform FDA Part 11 en EU Annex 11 voor computersystemen in gereguleerde omgevingen.
+MasterControl's Document Control-module is de meest solide in de markt voor gereguleerde sectoren. Versie management, elektronische handtekeningen, toegangscontroles en audit trails zijn volledig conform FDA Part 11 en EU Annex 11 voor computersystemen in gereguleerde omgevingen.
 
 De training management-module is bijzonder sterk: medewerkers moeten gewijzigde documenten lezen en bevestigen. Het systeem bewaakt actief of iedereen up-to-date is met de geldende procedures. Dat is een FDA-eis voor gereguleerde productieomgevingen.
 
@@ -396,7 +396,7 @@ iAuditor is beschikbaar vanaf €24 per gebruiker per maand. Professionele QMS-p
 
 ### Heb ik QMS software nodig voor ISO 9001 certificering?
 
-Niet wettelijk verplicht, maar in de praktijk vrijwel onmisbaar. Auditoren verwachten aantoonbare documentatie van al uw kwaliteitsprocessen: CAPA-dossiers, auditverslagen, niet-conformiteiten met opvolging en actuele procedures. Handmatige systemen produceren dit moeilijk betrouwbaar.
+Niet wettelijk verplicht, maar in de praktijk vrijwel noodzakelijk. Auditoren verwachten aantoonbare documentatie van al uw kwaliteitsprocessen: CAPA-dossiers, auditverslagen, niet-conformiteiten met opvolging en actuele procedures. Handmatige systemen produceren dit moeilijk betrouwbaar.
 
 ### Wat is CAPA en waarom is het belangrijk?
 

@@ -65,7 +65,7 @@ De Trustpilot-scores zijn opvallend. Pipedrive scoort 4.5/5 op basis van 3.200+ 
 
 ## Kostenvergelijking: wat betaal je werkelijk?
 
-Dit is het meest cruciale onderdeel van de vergelijking. De startprijzen zijn vergelijkbaar — maar dat is misleidend.
+Dit is het meest essentiële onderdeel van de vergelijking. De startprijzen zijn vergelijkbaar — maar dat is misleidend.
 
 ### Pipedrive prijzen (mrt 2026, jaarlijks)
 
@@ -221,7 +221,7 @@ De 1.5/5 Trustpilot-score vertelt een verhaal. De terugkerende klachten gaan ove
 
 **Salesforce** heeft Einstein AI, de meest volwassen AI in de CRM-markt: lead scoring, conversatieintelligence, omzetprognoses, deal-closing kansen. Serieus onderscheidend voor grote teams die data-driven willen werken.
 
-**Winnaar: Salesforce** — Einstein AI is significant geavanceerder.
+**Winnaar: Salesforce** — Einstein AI is significant uitgebreider.
 
 ## Scenario's: welk CRM past bij wie?
 
@@ -257,7 +257,7 @@ Je buitendienst werkt veel onderweg, wil de mobiele app intensief gebruiken, en 
 
 ### Scenario F: Advocatenkantoor, 8 partners
 
-Je wilt klantenrelaties beheren, deals (opdrachten) bijhouden, en rapportages voor de partnership. Budget is minder een probleem, maar gebruiksgemak is cruciaal.
+Je wilt klantenrelaties beheren, deals (opdrachten) bijhouden, en rapportages voor de partnership. Budget is minder een probleem, maar gebruiksgemak is essentieel.
 
 **Keuze: Pipedrive** — voor een team van 8 is Salesforce overkill en de leercurve te steil.
 
@@ -271,7 +271,7 @@ Je wilt klantenrelaties beheren, deals (opdrachten) bijhouden, en rapportages vo
 
 4. **Niet checken wat de Salesforce-reviews zeggen over contracten** — De klachten over verplichte jaarcontracten, automatische verlengingen en moeizame opzegging zijn consistent. Lees de kleine lettertjes voordat je tekent.
 
-5. **Pipedrive's beperkingen pas ontdekken na implementatie** — Als je weet dat je complexe goedkeuringsflows, multi-entiteit structuren of geavanceerde BI nodig hebt, ontdek dat dan vóór de implementatie. Maak een lijst van specifieke vereisten en test die in een proefomgeving.
+5. **Pipedrive's beperkingen pas ontdekken na implementatie** — Als je weet dat je complexe goedkeuringsflows, multi-entiteit structuren of uitgebreide BI nodig hebt, ontdek dat dan vóór de implementatie. Maak een lijst van specifieke vereisten en test die in een proefomgeving.
 
 6. **Vergeten dat Pipedrive's Trustpilot-score 4.5/5 is** — Die score met 3.200+ reviews is niet voor niets. Gebruikerstevredenheid en productiviteitswinst zijn bij Pipedrive consistent hoog. Dat weegt zwaar in een sector waar gebruikersadoptie het verschil maakt tussen een CRM dat werkt en een dat stof verzamelt.
 
@@ -324,7 +324,7 @@ Na jarenlang beide platforms te hebben geïmplementeerd, is mijn advies helder:
 **Kies Salesforce als:**
 - Je organisatie 75+ medewerkers heeft (of snel groeit naar dat niveau)
 - Je complexe, sterk aanpasbare salesprocessen hebt
-- Je enterprise compliance-eisen hebt (audittrails, geavanceerde autorisatie)
+- Je enterprise compliance-eisen hebt (audittrails, uitgebreide autorisatie)
 - Je de volledige CRM + Marketing + Service integratie nodig hebt
 - Je budget hebt voor implementatie (€10.000+) en doorlopend beheer
 - Jouw industrie of moederbedrijf Salesforce als standaard heeft

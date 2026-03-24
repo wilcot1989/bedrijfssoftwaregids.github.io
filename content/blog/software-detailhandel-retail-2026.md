@@ -33,7 +33,7 @@ products:
     rating_value: "3.7"
     rating_count: "1149"
   - name: "Shopify POS"
-    description: "Kassasysteem van Shopify dat naadloos koppelt met je webshop voor omnichannel retail."
+    description: "Kassasysteem van Shopify dat direct koppelt met je webshop voor omnichannel retail."
     url: "https://shopify.pxf.io/WOqGgA"
     price: "29.00"
     rating_value: "4.4"
@@ -120,8 +120,8 @@ Ik raad Lightspeed Retail NIET aan voor:
 
 ### Prijzen (2026)
 - **Basic**: €89/maand (1 kassa, basisrapportages)
-- **Core**: €149/maand (geavanceerde rapportages, analytics)
-- **Plus**: €269/maand (multi-locatie, geavanceerde functies)
+- **Core**: €149/maand (gedetailleerde rapportages, analytics)
+- **Plus**: €269/maand (multi-locatie, uitgebreide functies)
 - Extra kassa: vanaf €39/maand
 - Hardware: starterset vanaf €499
 
@@ -162,7 +162,7 @@ Ik raad Shopify POS NIET aan voor:
 - Winkels met veel contante transacties en een wens voor sterke offline modus
 
 ### Belangrijkste functies
-- Naadloze koppeling tussen fysieke winkel en webshop
+- Soepele koppeling tussen fysieke winkel en webshop
 - Gecentraliseerde klantprofielen met complete aankoophistorie (online + offline)
 - Voorraadsynchronisatie over alle verkoopkanalen in real-time
 - Omruilingen en retouren over kanalen heen
@@ -175,7 +175,7 @@ Ik raad Shopify POS NIET aan voor:
 - **Basic Shopify**: €29/maand (inclusief POS Lite)
 - **Shopify**: €79/maand
 - **Advanced**: €299/maand
-- **Shopify POS Pro**: +€89/maand per locatie (voor geavanceerde retailfuncties)
+- **Shopify POS Pro**: +€89/maand per locatie (voor uitgebreide retailfuncties)
 - Shopify Payments transactiekosten: 1,5-2% afhankelijk van plan
 
 ### Voordelen
@@ -199,7 +199,7 @@ Ik raad Shopify POS NIET aan voor:
 
 Square is mijn aanbeveling voor startende winkels en retailers met een klein assortiment en beperkt budget. De software is gratis — je betaalt enkel transactiekosten. Dat maakt het ideaal voor wie nog niet zeker is hoe de winkel zich zal ontwikkelen. Ik heb startende ondernemers geholpen die binnen een middag operationeel waren met Square: een reader van €19, hun eigen tablet, en klaar.
 
-De keerzijde is eerlijkheid: Square voor Retail is niet de meest geavanceerde oplossing. Voorraadbeheer is basis, rapportages zijn beperkt vergeleken met Lightspeed, en de Nederlandse support is niet altijd vlot. Maar voor een winkel in de opstartfase die snel wil beginnen zonder grote investering, is er geen betere optie qua prijs-kwaliteitsverhouding.
+De keerzijde is eerlijkheid: Square voor Retail is niet de meest uitgebreide oplossing. Voorraadbeheer is basis, rapportages zijn beperkt vergeleken met Lightspeed, en de Nederlandse support is niet altijd vlot. Maar voor een winkel in de opstartfase die snel wil beginnen zonder grote investering, is er geen betere optie qua prijs-kwaliteitsverhouding.
 
 Square heeft op Trustpilot een 4.2/5 met meer dan 7.100 reviews — de meest gebruikers zijn positief over de eenvoud en betrouwbaarheid.
 
@@ -240,7 +240,7 @@ Ik raad Square NIET aan voor:
 
 ### Nadelen
 - Transactiekosten worden bij hogere omzet duur
-- Beperkte geavanceerde functies voor complexere retail
+- Beperkte uitgebreide functies voor complexere retail
 - Nederlandse support is minder sterk dan Nederlandse aanbieders
 - Beperkte aanpassingsmogelijkheden voor specifieke branchebehoeften
 
@@ -264,7 +264,7 @@ Ik raad CCV Shop aan voor:
 
 Ik raad CCV Shop NIET aan voor:
 - Winkels die een groot internationaal app-ecosysteem willen
-- Retailers met geavanceerde multi-locatie behoeften
+- Retailers met uitgebreide multi-locatie behoeften
 - Starters die zo min mogelijk willen investeren
 
 ### Belangrijkste functies
@@ -280,7 +280,7 @@ Ik raad CCV Shop NIET aan voor:
 ### Prijzen (2026)
 - **Start**: €19/maand (webshop, beperkt)
 - **Business**: €49/maand (volledig webshop + kassokoppeling)
-- **Premium**: €99/maand (geavanceerde functies)
+- **Premium**: €99/maand (uitgebreide functies)
 - Hardware: CCV Pay terminal via lease of koop
 - Transactiekosten afhankelijk van betaalmethode
 
@@ -294,7 +294,7 @@ Ik raad CCV Shop NIET aan voor:
 ### Nadelen
 - Minder app-ecosysteem dan Shopify
 - Interface minder modern dan internationale alternatieven
-- Geavanceerde analytics minder sterk dan Lightspeed
+- Uitgebreide analytics minder sterk dan Lightspeed
 - Minder geschikt voor winkels met hoog transactievolume
 
 <a href="https://www.ccvshop.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk CCV Shop →</a>
@@ -315,7 +315,7 @@ Ik raad Mijnwebwinkel aan voor:
 
 Ik raad Mijnwebwinkel NIET aan voor:
 - Retailers met meer dan 1.000 producten
-- Winkels die geavanceerde voorraadfuncties of rapportages nodig hebben
+- Winkels die uitgebreide voorraadfuncties of rapportages nodig hebben
 - Groeiende ketens of bedrijven met meerdere filialen
 
 ### Belangrijkste functies
@@ -365,7 +365,7 @@ Elke winkel is anders. Hieronder een praktisch advies per situatie:
 **Aanbeveling: CCV Shop.** Volledig Nederlands platform, goede betaalintegraties, telefonische support en geen taalbarrière.
 
 ### Winkel met meerdere filialen of groeiambities
-**Aanbeveling: Lightspeed Retail.** De enige die multi-locatie voorraadbeheer, geavanceerde rapportages en een complete retailervaring combineert in één systeem.
+**Aanbeveling: Lightspeed Retail.** De enige die multi-locatie voorraadbeheer, gedetailleerde rapportages en een complete retailervaring combineert in één systeem.
 
 ### Online-first merk dat ook fysiek verkoopt
 **Aanbeveling: Shopify POS.** De sterkste omnichannel oplossing, met name als je al online actief bent.
@@ -400,7 +400,7 @@ Retail software heeft vaak meer kosten dan de maandprijs doet vermoeden. Waar ik
 
 **Transactiekosten.** Square rekent 1,75% per pinbetaling. Shopify Payments heeft vergelijkbare tarieven. Bij hoge omzet zijn deze kosten significant. Bereken altijd wat de totale jaarkosten zijn inclusief transacties.
 
-**Extra modules.** Multi-locatie bij Lightspeed, POS Pro bij Shopify — geavanceerde functies kosten extra. Lees de kleinlettertjes voordat je tekent.
+**Extra modules.** Multi-locatie bij Lightspeed, POS Pro bij Shopify — uitgebreide functies kosten extra. Lees de kleinlettertjes voordat je tekent.
 
 **Support.** Amerikaanse platforms bieden support in het Engels, op Amerikaanse tijdzones. Als je snel Nederlandse telefonische hulp wilt, zijn CCV Shop en Lightspeed (met Nederlandse vestiging) betere keuzes.
 

@@ -162,7 +162,7 @@ Je voert zelf de ritten in: datum, start- en eindpunt, aantal kilometers.
 
 ### 1. MileIQ — de beste voor ZZP'ers en Microsoft 365-gebruikers
 
-[MileIQ](https://www.mileiq.com/) is veruit de populairste rittenregistratie app ter wereld, en niet zonder reden. Microsoft heeft MileIQ overgenomen, wat betekent dat het naadloos integreert met Microsoft 365 — denk aan Outlook en Teams.
+[MileIQ](https://www.mileiq.com/) is veruit de populairste rittenregistratie app ter wereld, en niet zonder reden. Microsoft heeft MileIQ overgenomen, wat betekent dat het direct integreert met Microsoft 365 — denk aan Outlook en Teams.
 
 **Hoe werkt het?** De app draait op de achtergrond op je telefoon en detecteert automatisch elke rit via GPS. Na afloop verschijnt een notificatie: één swipe naar links voor zakelijk, rechts voor privé. Dat is alles. De rest doet de app zelf.
 
@@ -311,7 +311,7 @@ Niet elke app is voor iedereen geschikt. Hier is mijn aanbeveling per type gebru
 
 **Keuze: MileIQ of TripLog**
 
-Als ZZP'er wil je zo min mogelijk gedoe. MileIQ is de meest gestroomlijnde ervaring — je swipet twee keer per dag en je rapport is klaar. TripLog is iets goedkoper en beter als je voor meerdere klanten verschillende tarieven bijhoudt.
+Als ZZP'er wil je zo min mogelijk gedoe. MileIQ is de meest efficiënte ervaring — je swipet twee keer per dag en je rapport is klaar. TripLog is iets goedkoper en beter als je voor meerdere klanten verschillende tarieven bijhoudt.
 
 Combineer dit met een goed [boekhoudpakket voor ZZP](/blog/beste-boekhoudsoftware-zzp-2026/) en je administratie is volledig geautomatiseerd.
 

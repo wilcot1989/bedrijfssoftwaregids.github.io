@@ -21,7 +21,7 @@ products:
     price: "0.00"
 faq:
   - q: "Heeft Mailchimp nog een gratis plan in 2026?"
-    a: "Ja, maar het is aanzienlijk beperkter dan vroeger. Het gratis plan biedt ruimte voor maximaal 500 contacten en 1.000 e-mails per maand. Bovendien bevat elk e-mail het Mailchimp-logo en heb je geen toegang tot automation, geavanceerde segmentatie of A/B-testen. Voor serieuze gebruik is het gratis plan te beperkt."
+    a: "Ja, maar het is aanzienlijk beperkter dan vroeger. Het gratis plan biedt ruimte voor maximaal 500 contacten en 1.000 e-mails per maand. Bovendien bevat elk e-mail het Mailchimp-logo en heb je geen toegang tot automation, gedetailleerde segmentatie of A/B-testen. Voor serieuze gebruik is het gratis plan te beperkt."
   - q: "Wat kost Mailchimp per maand voor een kleine ondernemer?"
     a: "Voor een kleine ondernemer met een lijst van 500 tot 1.500 contacten ben je al snel €13 tot €30 per maand kwijt voor het Essentials-plan. Let op: Mailchimp rekent op basis van totale contacten in je account, inclusief uitgeschreven contacten. Dat drijft de kosten op als je je lijst niet actief opschoont."
   - q: "Is Mailchimp geschikt voor Nederlandse bedrijven?"
@@ -117,7 +117,7 @@ Mailchimp is jarenlang het go-to gratis platform geweest voor startende ondernem
 **Wat je *niet* krijgt op het gratis plan:**
 - Automation (ook geen welkomstmail)
 - A/B-testen
-- Geavanceerde segmentatie
+- Uitgebreide segmentatie
 - Verwijdering van Mailchimp-branding
 - Klantenservice (alleen community-forums)
 - Meerdere gebruikers
@@ -145,7 +145,7 @@ Dit is waar Mailchimp historisch gezien sterk in is, en dat geldt nog steeds. De
 
 ### Waar de editor tekortschiet:
 
-**Beperkte aanpasbaarheid.** Vergeleken met tools als Klaviyo of ActiveCampaign is de editor redelijk rigide. Geavanceerde lay-outs vereisen HTML-kennis.
+**Beperkte aanpasbaarheid.** Vergeleken met tools als Klaviyo of ActiveCampaign is de editor redelijk rigide. Uitgebreide lay-outs vereisen HTML-kennis.
 
 **Geen dark mode preview.** In 2026 sturen de meeste mensen e-mail via een app die dark mode ondersteunt. Mailchimp biedt geen preview hiervan -- een gemiste kans.
 
@@ -186,7 +186,7 @@ Dit is functioneel en werkt goed. Niet zo uitgebreid als ActiveCampaign, maar me
 
 ### Wat je NIET kunt automatiseren op goedkope plannen
 
-Op het **Essentials-plan** ($13/mnd) is automation ernstig beperkt. Je krijgt toegang tot "klassieke" automation, maar niet tot de Customer Journey Builder. Dat betekent: geen geavanceerde workflows, geen lead scoring, geen conditiegebaseerde paden.
+Op het **Essentials-plan** ($13/mnd) is automation ernstig beperkt. Je krijgt toegang tot "klassieke" automation, maar niet tot de Customer Journey Builder. Dat betekent: geen uitgebreide workflows, geen lead scoring, geen conditiegebaseerde paden.
 
 Op het **gratis plan** is automation volledig afwezig -- zelfs een simpele welkomstmail is er niet bij.
 
@@ -229,7 +229,7 @@ De rapportagefuncties van Mailchimp zijn solide. Na elke campagne krijg je een d
 
 Op het Standard-plan komt daar nog **vergelijkende rapportage** bij: je kunt meerdere campagnes naast elkaar leggen om trends te zien. Handig als je A/B-resultaten over tijd wilt volgen.
 
-Wat ontbreekt: meer geavanceerde attributiemodellen, integratie met GA4 is aanwezig maar niet diepgaand, en de rapportage over automation-reeksen kan beter. Voor e-commerce tracking is Klaviyo of ActiveCampaign superieur.
+Wat ontbreekt: meer uitgebreide attributiemodellen, integratie met GA4 is aanwezig maar niet diepgaand, en de rapportage over automation-reeksen kan beter. Voor e-commerce tracking is Klaviyo of ActiveCampaign superieur.
 
 ---
 
@@ -273,7 +273,7 @@ Dit is waar Mailchimp echt uitblinkt. Met meer dan 300 native integraties is Mai
 - Canva (direct vanuit editor)
 - Google Analytics 4
 
-De Shopify-integratie is bijzonder sterk: producten worden automatisch gesynchroniseerd, je kunt productblokken direct in e-mails trekken, en abandoned cart mails werken naadloos. Voor webshops op Shopify is Mailchimp één van de betere keuzes, hoewel Klaviyo op dat gebied nog sterker is.
+De Shopify-integratie is bijzonder sterk: producten worden automatisch gesynchroniseerd, je kunt productblokken direct in e-mails trekken, en abandoned cart mails werken soepel. Voor webshops op Shopify is Mailchimp één van de betere keuzes, hoewel Klaviyo op dat gebied nog sterker is.
 
 De WooCommerce-integratie werkt goed, maar vereist een plugin installatie. Dat is een extra stap, maar eenmaal ingesteld werkt het betrouwbaar.
 
@@ -340,7 +340,7 @@ Lees de volledige [Brevo vs Mailchimp vergelijking](/blog/brevo-vs-mailchimp-202
 | Kenmerk | Mailchimp | ActiveCampaign |
 |---|---|---|
 | Gratis plan | Ja (beperkt) | Nee (14 dagen trial) |
-| Automation | Basis tot gevorderd (plan-afhankelijk) | Meest geavanceerde op de markt |
+| Automation | Basis tot gevorderd (plan-afhankelijk) | Meest uitgebreide op de markt |
 | CRM | Beperkt | Volledig ingebouwd |
 | Startprijs | $13/mnd | $15/mnd |
 | Nederlandse support | Nee | Nee |

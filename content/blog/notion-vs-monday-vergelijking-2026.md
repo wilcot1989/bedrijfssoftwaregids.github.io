@@ -80,7 +80,7 @@ Ik gebruik Notion zelf al drie jaar voor mijn eigen kennisbank en content planni
 |------|-------|------------|
 | **Free** | $0 | Onbeperkt pagina's, 1 gast |
 | **Plus** | $10/user/mnd | + Onbeperkt uploads, 100 gasten |
-| **Business** | $18/user/mnd | + SAML SSO, geavanceerde permissies |
+| **Business** | $18/user/mnd | + SAML SSO, uitgebreide permissies |
 | **Enterprise** | Op aanvraag | + Audit log, advanced security |
 
 ## Monday.com in detail
@@ -125,7 +125,7 @@ Hier wordt het interessant, want bij Monday.com betaal je per seat met een minim
 | Scenario | Notion | Monday.com | Verschil/jaar |
 |----------|--------|-----------|---------------|
 | Basis functies | 10 x $10 = $100/mnd (Plus) | 10 x $12 = $120/mnd (Standard) | ~$240 |
-| Met geavanceerde features | 10 x $18 = $180/mnd (Business) | 10 x $19 = $190/mnd (Pro) | ~$120 |
+| Met uitgebreide features | 10 x $18 = $180/mnd (Business) | 10 x $19 = $190/mnd (Pro) | ~$120 |
 | Enterprise | Op aanvraag | Op aanvraag | — |
 
 Op het eerste gezicht lijken de kosten vergelijkbaar, maar er zit een addertje onder het gras. Bij Monday.com heb je het Standard-plan nodig voor Gantt-charts en automatiseringen — features die je bij de meeste projectmanagement-taken al snel wilt. Bij Notion krijg je in het Plus-plan al de volledige functionaliteit, maar moet je zelf de projectstructuur bouwen.
@@ -183,7 +183,7 @@ Met 15 man kost Notion $1.800/jaar. Monday Pro kost $3.420/jaar. Dat is $1.620 v
 | Functie | Notion | Monday.com |
 |---------|--------|-----------|
 | Kanban borden | ✅ | ✅ (beter) |
-| Gantt-chart | ❌ (basis timeline) | ✅ (geavanceerd) |
+| Gantt-chart | ❌ (basis timeline) | ✅ (uitgebreid) |
 | Afhankelijkheden | ❌ | ✅ |
 | Workload-management | ❌ | ✅ |
 | Tijdregistratie | ❌ (via integratie) | ✅ (Pro plan) |

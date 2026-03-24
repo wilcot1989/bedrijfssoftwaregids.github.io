@@ -54,7 +54,7 @@ faq:
   - q: "Hoeveel bespaar je met routeplanning software?"
     a: "Bedrijven die overstappen van handmatige routeplanning naar geoptimaliseerde software besparen gemiddeld 20 tot 30% op brandstofkosten en 25 tot 40% op planningtijd. Bij een bezorgbedrijf van vijf rijders die elke dag 80 kilometer rijden, kan de jaarlijkse brandstofbesparing oplopen tot €8.000 tot €15.000 bij een gemiddelde brandstofprijs van €1,80 per liter."
   - q: "Welke routeplanning software werkt het beste in Nederland?"
-    a: "TomTom Business en PlannerStack hebben de sterkste focus op de Nederlandse markt met up-to-date NL-kaarten, Nederlandse taalondersteuning en lokale klantenservice. OptimoRoute en Route4Me werken uitstekend in Nederland maar zijn internationale tools. Voor bezorging in de Randstad en regio's met veel wegwerkzaamheden is een tool met actuele NL-verkeersdata cruciaal."
+    a: "TomTom Business en PlannerStack hebben de sterkste focus op de Nederlandse markt met up-to-date NL-kaarten, Nederlandse taalondersteuning en lokale klantenservice. OptimoRoute en Route4Me werken uitstekend in Nederland maar zijn internationale tools. Voor bezorging in de Randstad en regio's met veel wegwerkzaamheden is een tool met actuele NL-verkeersdata essentieel."
   - q: "Kan routeplanning software koppelen aan mijn bezorgsysteem of CRM?"
     a: "Ja. De meeste routeplanning tools bieden API-koppelingen of directe integraties met webshop-platforms, bezorgmanagementsystemen en CRM-software. OptimoRoute integreert met Shopify, WooCommerce en Zapier. Route4Me biedt een van de meest uitgebreide API's in zijn klasse. Badger Maps integreert native met populaire CRM-systemen als Salesforce, HubSpot en Pipedrive."
   - q: "Is routeplanning software ook geschikt voor kleine bedrijven?"
@@ -115,13 +115,13 @@ Koppel routeplanning ook aan je [planningssoftware](/blog/beste-planningssoftwar
 
 ### Het optimalisatie-algoritme
 
-Wat OptimoRoute onderscheidt is de kwaliteit van het optimalisatie-algoritme. De tool gebruikt een combinatie van geavanceerde heuristieken en exacte optimaliseringsmethoden, waardoor hij ook bij complexe scenario's met veel beperkingen vrijwel altijd de werkelijk kortste of snelste route vindt.
+Wat OptimoRoute onderscheidt is de kwaliteit van het optimalisatie-algoritme. De tool gebruikt een combinatie van uitgebreide heuristieken en exacte optimaliseringsmethoden, waardoor hij ook bij complexe scenario's met veel beperkingen vrijwel altijd de werkelijk kortste of snelste route vindt.
 
 In praktijktests bij bedrijven met 50 stops per dag laat OptimoRoute gemiddeld 15 tot 25% minder gereden kilometers zien vergeleken met handmatige planning. Bij tijdvenster-zware bezorging (e-commerce met beloofde tijdslots) is de meerwaarde nog groter, omdat de software rekening houdt met alle tijdvensters tegelijk.
 
 ### Mobiele app
 
-De chauffeurs-app van OptimoRoute is een van de sterkste in zijn klasse. De app toont de dag-route overzichtelijk, navigeert via Google Maps of Waze, registreert aankomsttijden automatisch en maakt het eenvoudig om proof-of-delivery vast te leggen. De app werkt ook offline — cruciaal in gebieden met slecht mobiel bereik.
+De chauffeurs-app van OptimoRoute is een van de sterkste in zijn klasse. De app toont de dag-route overzichtelijk, navigeert via Google Maps of Waze, registreert aankomsttijden automatisch en maakt het eenvoudig om proof-of-delivery vast te leggen. De app werkt ook offline — essentieel in gebieden met slecht mobiel bereik.
 
 ### Integraties
 
@@ -154,7 +154,7 @@ OptimoRoute is de beste keuze als:
 ### Functies
 
 - **Onbeperkte stops:** Geen limiet op het aantal stops per route
-- **Geavanceerde beperkingen:** Configureer tientallen parameters per route, voertuig of chauffeur — van maximale rijsnelheid tot voertuighoogte en gewichtsbeperkingen
+- **Uitgebreide beperkingen:** Configureer tientallen parameters per route, voertuig of chauffeur — van maximale rijsnelheid tot voertuighoogte en gewichtsbeperkingen
 - **Dynamische herplanning:** Voeg stops toe aan lopende routes en herbereken automatisch
 - **Geofencing:** Automatische alerts als chauffeurs buiten de geplande zone rijden
 - **Rijgedragmonitoring:** Snelheidsoverschrijdingen, hard remmen, onnodig stationair draaien
@@ -176,7 +176,7 @@ Dit is een game-changer voor bezorgoperaties waarbij last-minute wijzigingen de 
 ### Prijs
 
 - **Business:** ~€40 per maand (één chauffeur, basis)
-- **Business Plus:** Op aanvraag (meerdere chauffeurs, geavanceerde functies)
+- **Business Plus:** Op aanvraag (meerdere chauffeurs, uitgebreide functies)
 - **Enterprise:** Op aanvraag (volledige API, dedicated support)
 
 Route4Me werkt met een modulair prijsmodel waarbij je extra functies kunt toevoegen als betaalde add-ons. De totaalprijs is daardoor sterk afhankelijk van je specifieke behoeften.
@@ -323,7 +323,7 @@ PlannerStack is de meest betaalbare optie in dit overzicht, met een prijs die to
 
 ### Vergelijking met internationale tools
 
-PlannerStack biedt niet de geavanceerde optimalisatie-algoritmen van OptimoRoute of de flexibiliteit van Route4Me. Het is een pragmatische keuze voor bedrijven die lokale ondersteuning, een Nederlandse interface en een lage instapprijs belangrijker vinden dan de allerbeste algoritmen. Voor kleine bezorgoperaties (twee tot vijf chauffeurs, eenvoudige routes) is dat een legitieme afweging.
+PlannerStack biedt niet de uitgebreide optimalisatie-algoritmen van OptimoRoute of de flexibiliteit van Route4Me. Het is een pragmatische keuze voor bedrijven die lokale ondersteuning, een Nederlandse interface en een lage instapprijs belangrijker vinden dan de allerbeste algoritmen. Voor kleine bezorgoperaties (twee tot vijf chauffeurs, eenvoudige routes) is dat een legitieme afweging.
 
 ### Voor wie?
 

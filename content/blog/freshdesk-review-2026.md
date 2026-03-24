@@ -84,7 +84,7 @@ Freshdesk hanteert een per-agent-prijsmodel. Je betaalt per supportmedewerker di
 
 **Free**: Verrassend capabel voor een gratis plan. Je krijgt een gedeelde inbox voor email, Twitter en Facebook, een eenvoudige kennisbank en basisrapportages. Wat je mist is pijnlijk: geen automatiseringsregels, geen SLA-beheer, geen live chat, geen telefonische ondersteuning. Voor een klein bedrijf met weinig tickets en één supportkanaal kan dit werken. Zodra je meer dan 20-30 tickets per dag verwerkt, ga je de beperkingen voelen.
 
-**Growth (€15/agent/mnd)**: Dit is het plan dat ik voor de meeste kleine tot middelgrote bedrijven aanbeveel. Je krijgt automatiseringsregels, SLA-beheer, live chat, telefonische ondersteuning en WhatsApp-integratie. Rapportages zijn aanwezig maar beperkt -- je mist geavanceerde analyses en aangepaste dashboards. Voor een team van 5 agents betaal je €75/mnd, wat ik als scherp zie voor het gebodene.
+**Growth (€15/agent/mnd)**: Dit is het plan dat ik voor de meeste kleine tot middelgrote bedrijven aanbeveel. Je krijgt automatiseringsregels, SLA-beheer, live chat, telefonische ondersteuning en WhatsApp-integratie. Rapportages zijn aanwezig maar beperkt -- je mist diepgaande analyses en aangepaste dashboards. Voor een team van 5 agents betaal je €75/mnd, wat ik als scherp zie voor het gebodene.
 
 **Pro (€49/agent/mnd)**: Voor teams die serieuze klantenservice leveren. Custom roles (verschillende rechten per medewerker), round-robin toewijzing zodat tickets automatisch eerlijk worden verdeeld, klanttevredenheidsonderzoeken (CSAT) en aanzienlijk betere rapportages. Dit is ook het plan waar Freddy AI echt bruikbaar wordt. Voor een team van 10 agents betaal je €490/mnd -- vergelijkbaar met wat Zendesk rekent voor zijn instapplan.
 
@@ -171,9 +171,9 @@ Deze regels zijn eenvoudig in te stellen, ook voor mensen zonder technische acht
 
 ### Scenario Automations (Growth+)
 
-Meer geavanceerde workflows waarbij je een reeks acties als één macro kunt uitvoeren. Een agent klikt op "Abonnementsprobleem opgelost" en het systeem past de ticketstatus aan, stuurt een bevestigingsmail, voegt een interne notitie toe en registreert de categorie -- allemaal in één klik. Dit is enorm handig voor terugkerende afhandelingsprocessen.
+Meer uitgebreide workflows waarbij je een reeks acties als één macro kunt uitvoeren. Een agent klikt op "Abonnementsprobleem opgelost" en het systeem past de ticketstatus aan, stuurt een bevestigingsmail, voegt een interne notitie toe en registreert de categorie -- allemaal in één klik. Dit is enorm handig voor terugkerende afhandelingsprocessen.
 
-### Freddy AI (alle plannen, geavanceerd op Pro+)
+### Freddy AI (alle plannen, uitgebreid op Pro+)
 
 Freddy AI is Freshdesk's eigen kunstmatige intelligentie. Wat Freddy doet:
 
@@ -181,7 +181,7 @@ Freddy AI is Freshdesk's eigen kunstmatige intelligentie. Wat Freddy doet:
 
 **Op Pro en Enterprise**: Sentimentanalyse (detecteer boze klanten automatisch voor prioritering), automatische ticketcategorisering op basis van het onderwerp, Freddy Copilot (een AI-assistent die agents helpt bij het opstellen van antwoorden) en Freddy Self Service (een conversationele AI-chatbot die klanten zonder agent kan helpen).
 
-Eerlijk oordeel over Freddy AI: het is nuttig, maar niet revolutionair. De antwoordsuggesties zijn direct bruikbaar. De chatbotfunctionaliteit vereist serieuze configuratie om goed te werken. Voor bedrijven die AI-gestuurde klantenservice als kerncompetentie zien, zijn gespecialiseerde platforms nog altijd een stap voor. Wil je weten welke chatbotopties er zijn? Lees mijn overzicht van de [beste chatbot software 2026](/blog/beste-chatbot-software-2026/).
+Eerlijk oordeel over Freddy AI: het is nuttig, maar niet vernieuwend. De antwoordsuggesties zijn direct bruikbaar. De chatbotfunctionaliteit vereist serieuze configuratie om goed te werken. Voor bedrijven die AI-gestuurde klantenservice als kerncompetentie zien, zijn gespecialiseerde platforms nog altijd een stap voor. Wil je weten welke chatbotopties er zijn? Lees mijn overzicht van de [beste chatbot software 2026](/blog/beste-chatbot-software-2026/).
 
 ---
 
@@ -213,7 +213,7 @@ Met SLA-beleid definieer je hoelang je mag doen over een eerste reactie en over 
 - Agents en teamleiders ontvangen notificaties voordat een SLA wordt overschreden
 - Schending van SLA-afspraken is terug te vinden in de rapportages
 
-Voor MKB-bedrijven die serviceniveaus aan hun klanten garanderen -- denk aan managed service providers of softwarebedrijven met support-SLA's in contracten -- is dit onmisbaar. Op het Free-plan ontbreekt SLA-beheer volledig, wat een serieuze beperking is.
+Voor MKB-bedrijven die serviceniveaus aan hun klanten garanderen -- denk aan managed service providers of softwarebedrijven met support-SLA's in contracten -- is dit essentieel. Op het Free-plan ontbreekt SLA-beheer volledig, wat een serieuze beperking is.
 
 ---
 
@@ -231,7 +231,7 @@ Op Pro wordt het interessant: custom dashboards, doorlooptijdanalyses, CSAT-rapp
 
 ### Wat ontbreekt
 
-Freshdesk mist de geavanceerde business intelligence die Zendesk biedt. Er is geen ingebouwde mogelijkheid om dashboards te bouwen met gecombineerde metrics over meerdere kanalen tegelijk. Voor bedrijven die serieuze datagestuurd werken, is een aanvullende BI-tool of Zendesk de betere keuze.
+Freshdesk mist de uitgebreide business intelligence die Zendesk biedt. Er is geen ingebouwde mogelijkheid om dashboards te bouwen met gecombineerde metrics over meerdere kanalen tegelijk. Voor bedrijven die serieuze datagestuurd werken, is een aanvullende BI-tool of Zendesk de betere keuze.
 
 Lees voor context ook mijn artikel over [beste klantenservice software 2026](/blog/beste-klantenservice-software-2026/) voor een vergelijking van rapportagemogelijkheden over meerdere platforms.
 
@@ -251,7 +251,7 @@ Dit zijn de vier platformen die ik het vaakst naast elkaar leg bij MKB-bedrijven
 | **Automatisering** | Sterk | Zeer sterk | Goed | Gemiddeld |
 | **Kennisbank** | Ja (alle plannen) | Ja | Ja | Ja |
 | **AI** | Freddy (goed) | AI (sterk) | Beperkt | Copilot (goed) |
-| **CRM integratie** | Via koppelingen | Via koppelingen | Via koppelingen | Naadloos (eigen CRM) |
+| **CRM integratie** | Via koppelingen | Via koppelingen | Via koppelingen | Soepel (eigen CRM) |
 | **NL interface** | Ja | Beperkt | Ja | Nee |
 | **NL support** | Enterprise only | Nee | Ja | Nee |
 | **Rapportages** | Goed (Pro+) | Uitstekend | Basis | Goed (Pro+) |
@@ -261,7 +261,7 @@ Dit zijn de vier platformen die ik het vaakst naast elkaar leg bij MKB-bedrijven
 
 Zendesk is de industrie-standaard voor grote supportteams. De aanpassingsmogelijkheden zijn dieper, de rapportages zijn uitgebreider en de API is rijker. Maar Zendesk kost aanzienlijk meer: het goedkoopste betaalde plan begint bij €55/agent/mnd versus €15 bij Freshdesk.
 
-Voor teams onder de 20 agents en budgetten onder de €500/mnd is Freshdesk de betere keuze. Voor enterprise-omgevingen met complexe escalatiepaden, meerdere merken en geavanceerde SLA-structuren heeft Zendesk de voorkeur. Lees de uitgebreide [Zendesk vs Freshdesk vergelijking](/blog/zendesk-vs-freshdesk-2026/) voor een diepgaande analyse.
+Voor teams onder de 20 agents en budgetten onder de €500/mnd is Freshdesk de betere keuze. Voor enterprise-omgevingen met complexe escalatiepaden, meerdere merken en uitgebreide SLA-structuren heeft Zendesk de voorkeur. Lees de uitgebreide [Zendesk vs Freshdesk vergelijking](/blog/zendesk-vs-freshdesk-2026/) voor een diepgaande analyse.
 
 ### Freshdesk vs Trengo
 
@@ -271,7 +271,7 @@ Freshdesk wint op rapportages, ticketbeheer en kennisbank. Voor teams die meer k
 
 ### Freshdesk vs HubSpot Service Hub
 
-HubSpot Service Hub heeft één onoverbrugbaar voordeel: als je al HubSpot CRM gebruikt, is de integratie naadloos. Elk ticket is direct gekoppeld aan het CRM-dossier van een contact. De klantenservice-functies zijn echter minder volledig dan Freshdesk -- minder diep ticketbeheer, beperktere omnichannel en hogere kosten voor vergelijkbare functies.
+HubSpot Service Hub heeft één onoverbrugbaar voordeel: als je al HubSpot CRM gebruikt, is de integratie soepel. Elk ticket is direct gekoppeld aan het CRM-dossier van een contact. De klantenservice-functies zijn echter minder volledig dan Freshdesk -- minder diep ticketbeheer, beperktere omnichannel en hogere kosten voor vergelijkbare functies.
 
 Als je nog geen HubSpot-omgeving hebt: kies Freshdesk. Als je al diep in het HubSpot-ecosysteem zit: kies Service Hub om silovorming te voorkomen. Meer over de [HubSpot prijzen en plannen](/blog/hubspot-prijzen-2026/).
 
@@ -283,7 +283,7 @@ Freshdesk integreert met meer dan 1.000 andere tools via de Freshworks Marketpla
 
 **CRM**
 - Salesforce, HubSpot CRM, Pipedrive, Zoho CRM (bidirectionele sync)
-- Freshsales (eigen Freshworks CRM, naadloos geïntegreerd)
+- Freshsales (eigen Freshworks CRM, volledig geïntegreerd)
 
 **E-commerce**
 - Shopify, WooCommerce, Magento -- bestelhistorie en klantstatus direct zichtbaar in het ticket
@@ -347,7 +347,7 @@ Freshdesk is al jaren actief in Nederland en heeft een redelijke lokale aanwezig
 1. **Interface heeft een update nodig** -- op Growth voelt het scherm wat druk en verouderd; niet onwerkbaar, maar minder modern dan Zendesk of Trengo
 2. **Rapportages zijn beperkt op Growth** -- je mist aangepaste dashboards en diepgaande analyses; pas op Pro word je volwaardig bediend
 3. **Nederlandse support alleen voor Enterprise** -- kleine teams die hulp nodig hebben, zijn aangewezen op Engelstalige supportkanalen
-4. **Freddy AI is nuttig maar niet revolutionair** -- voor AI-gedreven klantenservice als kernstrategie zijn er betere opties
+4. **Freddy AI is nuttig maar niet vernieuwend** -- voor AI-gedreven klantenservice als kernstrategie zijn er betere opties
 5. **WhatsApp-kosten ondoorzichtig** -- de Freshdesk-integratie zelf kost niets extra op Growth, maar de Meta API-tarieven komen er bovenop
 6. **Kennisbankredacteur is beperkt** -- functioneel voor basisartikelen, maar te beperkt voor technische documentatie
 
@@ -424,8 +424,8 @@ De gemiddelde implementatietijd voor een team van vijf agents is twee tot drie w
 
 - **Grote supportteams (50+ agents)** met complexe escalatiepaden -- Zendesk biedt meer diepgang
 - **Teams waar WhatsApp het enige kanaal is** -- Trengo is dan beter geoptimaliseerd
-- **Bedrijven die al zwaar in HubSpot investeren** -- HubSpot Service Hub geeft naadloze CRM-koppeling
-- **Teams met geavanceerde rapportagebehoeften op een laag budget** -- rapportages zijn pas op Pro volledig
+- **Bedrijven die al zwaar in HubSpot investeren** -- HubSpot Service Hub geeft directe CRM-koppeling
+- **Teams met gedetailleerde rapportagebehoeften op een laag budget** -- rapportages zijn pas op Pro volledig
 - **Organisaties die Nederlandse klantenservice van hun softwareleverancier willen** zonder Enterprise te betalen
 
 Zoek je het perfecte CRM om naast je Freshdesk te gebruiken? Lees mijn overzicht van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/).

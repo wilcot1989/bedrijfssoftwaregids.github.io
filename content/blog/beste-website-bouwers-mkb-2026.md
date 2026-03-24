@@ -52,7 +52,7 @@ WordPress is wat ik zelf zou kiezen en het vaakst adviseer aan bedrijven waar co
 
 ### Wanneer WordPress
 - Je hebt veel content (blog, artikelen, kennisbank)
-- SEO is cruciaal voor je bedrijf
+- SEO is essentieel voor je bedrijf
 - Je wilt maximale flexibiliteit en maatwerk
 - Je bent bereid te leren (of hebt een developer)
 - Je wilt een webshop met WooCommerce
@@ -88,7 +88,7 @@ Wix is het platform dat ik aanbeveel aan MKB-klanten zonder technische kennis di
 | **Light** | €17 | 2GB opslag, geen e-commerce |
 | **Core** | ~$29/mnd (USD) | 50GB opslag, basis analytics |
 | **Business** | ~$39/mnd (USD) | Webshop, online betalingen |
-| **Business Elite** | ~$159/mnd (USD) | Priority support, geavanceerd |
+| **Business Elite** | ~$159/mnd (USD) | Priority support, uitgebreid |
 
 **✅ Voordelen:** Makkelijkst te gebruiken, AI-bouwer, alles-in-één, snel online
 **❌ Nadelen:** Minder flexibel dan WordPress, website niet verplaatsbaar, SEO beperkter
@@ -129,7 +129,7 @@ Webflow is de tool die ik voorstel aan designers en agencies die pixel-perfect m
 ### Wanneer Webflow
 - Je bent designer of hebt een developer
 - Maatwerk design zonder code
-- Geavanceerde animaties en interacties
+- Uitgebreide animaties en interacties
 - CMS voor content-gedreven websites
 - Technische SEO belangrijk
 
@@ -138,7 +138,7 @@ Webflow is de tool die ik voorstel aan designers en agencies die pixel-perfect m
 |------|----------|------------|
 | **Basic** | €14 | 1 CMS collectie, 1GB opslag |
 | **CMS** | €23 | 20 CMS collecties, 10GB opslag |
-| **Business** | €39 | 40 CMS collecties, geavanceerde functies |
+| **Business** | €39 | 40 CMS collecties, uitgebreide functies |
 
 **✅ Voordelen:** Meeste design-vrijheid, schone code, uitstekende SEO, CMS flexibiliteit
 **❌ Nadelen:** Steile leercurve, minder plugins, duurder voor e-commerce
@@ -162,7 +162,7 @@ Als een klant me vertelt dat online verkopen het hoofddoel is, stuur ik ze door 
 |------|----------|------------|
 | **Basic** | €21 (jaarlijks) | Onbeperkte producten, 2 accounts |
 | **Grow** | €59 (jaarlijks) | + 5 accounts, rapportages, lagere transactiekosten |
-| **Advanced** | €289 (jaarlijks) | + 15 accounts, geavanceerde rapportages |
+| **Advanced** | €289 (jaarlijks) | + 15 accounts, gedetailleerde rapportages |
 
 *Prijzen bij jaarlijkse facturering. Bij maandelijkse betaling circa 25% hoger.*
 

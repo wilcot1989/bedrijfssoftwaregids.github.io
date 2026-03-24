@@ -31,7 +31,7 @@ De markt versnippert steeds meer, maar ruwweg zijn er drie lagen:
 
 - **Gratis tier**: Trello (simpele borden), Notion (beperkt databases), ClickUp Free (genereus, maar overweldigend) — goed als startpunt voor teams tot 5 mensen
 - **€8–15/gebruiker/maand**: Monday.com Basic, Asana Starter, ClickUp Unlimited — de standaard voor groeiende teams; Gantt-views, automatiseringen en basisrapportages inbegrepen
-- **€20+/gebruiker/maand**: Jira Premium, Basecamp Pro Unlimited, Monday Enterprise — voor grotere organisaties met geavanceerde rechtenstructuren, portfoliobeheer of compliance-eisen
+- **€20+/gebruiker/maand**: Jira Premium, Basecamp Pro Unlimited, Monday Enterprise — voor grotere organisaties met uitgebreide rechtenstructuren, portfoliobeheer of compliance-eisen
 
 Let op: de meeste tools rekenen per gebruiker per maand, afgerond op jaarlijkse betaling. Een team van 10 op Monday.com Basic kost ~€1.000/jaar. Dat is minder dan één gemiste deadline door slechte communicatie.
 

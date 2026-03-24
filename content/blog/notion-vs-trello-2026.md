@@ -32,7 +32,7 @@ faq:
   - q: "Wat kost Notion per maand voor een team?"
     a: "Notion Plus kost $10 per gebruiker per maand bij jaarlijkse betaling. Dit is het meest gekozen plan voor kleine teams en biedt onbeperkte gasten, 100 uploads en volledige versiegeschiedenis. Notion Business kost $18/gebruiker/maand. Trello Standard kost $5/gebruiker/maand en Premium $10/gebruiker/maand — Trello is goedkoper voor vergelijkbare basisfuncties."
   - q: "Kan Notion Trello helemaal vervangen?"
-    a: "Voor de meeste teams: ja. Notion heeft een Kanban-weergave, taakbeheer via databases, deadlines, toewijzingen en statusbeheer. Wat je verliest is de pure Kanban-eenvoud en de naadloze drag-and-drop interface van Trello. Als Kanban 80% van je use case is, blijf dan bij Trello. Gebruik je ook documentatie, wiki of databases? Dan kan Notion Trello volledig vervangen en meer bieden."
+    a: "Voor de meeste teams: ja. Notion heeft een Kanban-weergave, taakbeheer via databases, deadlines, toewijzingen en statusbeheer. Wat je verliest is de pure Kanban-eenvoud en de soepele drag-and-drop interface van Trello. Als Kanban 80% van je use case is, blijf dan bij Trello. Gebruik je ook documentatie, wiki of databases? Dan kan Notion Trello volledig vervangen en meer bieden."
   - q: "Zijn er goede Notion templates voor projectmanagement?"
     a: "Ja, er is een uitgebreide template-galerie op notion.so met honderden gratis templates voor projectmanagement, content calendars, CRM, Kanban-borden en meer. Zowel officiële Notion templates als community-templates zijn beschikbaar. De kwaliteit varieert, maar goede templates besparen je uren aan inrichting. Trello heeft ook templates, maar Notion's template-ecosysteem is rijker en gevarieerder."
 ---
@@ -140,8 +140,8 @@ Winnaar: **Notion**, voor AI-functies.
 |---|---|---|
 | Free | Gratis | Onbeperkte pagina's, 1 gast, 5 MB upload |
 | Plus | $10/gbr/mnd | Onbeperkte gasten, 100 uploads, volledige versiegeschiedenis |
-| Business | $18/gbr/mnd | SAML SSO, geavanceerde rechten, 1 jaar geschiedenis |
-| Enterprise | Op aanvraag | Geavanceerde beveiliging, dedicated support |
+| Business | $18/gbr/mnd | SAML SSO, uitgebreide rechten, 1 jaar geschiedenis |
+| Enterprise | Op aanvraag | Uitgebreide beveiliging, dedicated support |
 | Notion AI | $10/gbr/mnd add-on | Schrijfassistentie, Q&A, samenvatting |
 
 ### Trello prijsplannen
@@ -149,7 +149,7 @@ Winnaar: **Notion**, voor AI-functies.
 | Plan | Prijs | Borden | Kenmerken |
 |---|---|---|---|
 | Free | Gratis | 10 per workspace | Onbeperkte kaarten, 1 Power-Up per bord |
-| Standard | $5/gbr/mnd | Onbeperkt | Onbeperkte Power-Ups, geavanceerde checklists |
+| Standard | $5/gbr/mnd | Onbeperkt | Onbeperkte Power-Ups, uitgebreide checklists |
 | Premium | $10/gbr/mnd | Onbeperkt | Tijdlijn, dashboard, kalender, Butler onbeperkt |
 | Enterprise | $17,50+/gbr/mnd | Onbeperkt | SSO, admin-controles, betere rechten |
 
@@ -328,7 +328,7 @@ Trello's gratis plan biedt één Power-Up per bord, betaalde plannen zijn onbepe
 - **Jira**: Jira-issues tonen en beheren vanuit Trello
 
 **Rapportages:**
-- **Planyway**: Geavanceerde tijdlijn en teamplanning
+- **Planyway**: Uitgebreide tijdlijn en teamplanning
 - **Screenful**: Metrics en rapportages voor Kanban-teams
 
 Voor de meeste teams zijn Calendar + Google Drive + Slack de drie essentiële Power-Ups. De rest is optioneel.
@@ -421,7 +421,7 @@ Ja, Notion heeft een Kanban-weergave via database board view. Je maakt een datab
 Notion Plus kost $10 per gebruiker per maand bij jaarlijkse betaling. Dit is het meest gekozen plan voor kleine teams en biedt onbeperkte gasten, 100 uploads en volledige versiegeschiedenis. Notion Business kost $18/gebruiker/maand. Trello Standard kost $5/gebruiker/maand en Premium $10/gebruiker/maand — Trello is goedkoper voor vergelijkbare basisfuncties.
 
 **Kan Notion Trello helemaal vervangen?**
-Voor de meeste teams: ja. Notion heeft een Kanban-weergave, taakbeheer via databases, deadlines, toewijzingen en statusbeheer. Wat je verliest is de pure Kanban-eenvoud en de naadloze drag-and-drop interface van Trello. Als Kanban 80% van je use case is, blijf dan bij Trello. Gebruik je ook documentatie, wiki of databases? Dan kan Notion Trello volledig vervangen en meer bieden.
+Voor de meeste teams: ja. Notion heeft een Kanban-weergave, taakbeheer via databases, deadlines, toewijzingen en statusbeheer. Wat je verliest is de pure Kanban-eenvoud en de soepele drag-and-drop interface van Trello. Als Kanban 80% van je use case is, blijf dan bij Trello. Gebruik je ook documentatie, wiki of databases? Dan kan Notion Trello volledig vervangen en meer bieden.
 
 **Zijn er goede Notion templates voor projectmanagement?**
 Ja, er is een uitgebreide template-galerie op notion.so met honderden gratis templates voor projectmanagement, content calendars, CRM, Kanban-borden en meer. Zowel officiële Notion templates als community-templates zijn beschikbaar. De kwaliteit varieert, maar goede templates besparen je uren aan inrichting. Trello heeft ook templates, maar Notion's template-ecosysteem is rijker en gevarieerder.

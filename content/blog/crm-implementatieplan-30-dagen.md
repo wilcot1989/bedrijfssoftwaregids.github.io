@@ -31,7 +31,7 @@ Dit stappenplan is gebaseerd op wat werkt bij Nederlandse bedrijven die geen ded
 
 ## Week 1: Keuze en voorbereiding (dag 1 tot en met 7)
 
-Voordat je een licentie koopt, schrijf je maximaal tien user stories op: situaties die het CRM moet oplossen. "Als verkoopmedewerker wil ik iedere ochtend in vijf minuten zien welke leads deze week teruggebeld moeten worden." Die stories bepalen welke functionaliteiten onmisbaar zijn en welke mooi-maar-niet-nodig.
+Voordat je een licentie koopt, schrijf je maximaal tien user stories op: situaties die het CRM moet oplossen. "Als verkoopmedewerker wil ik iedere ochtend in vijf minuten zien welke leads deze week teruggebeld moeten worden." Die stories bepalen welke functionaliteiten essentieel zijn en welke mooi-maar-niet-nodig.
 
 Kies op basis daarvan een pakket. Doe de [CRM keuzehulp](/tools/crm/keuzehulp/) voor een gestructureerde vergelijking op basis van jouw branche, teamgrootte en budget. Test minimaal twee pakketten gratis voor je beslist -- de gebruikersinterface voelt bij elk systeem anders en die indruk vertaalt zich direct naar de adoptie van je team.
 

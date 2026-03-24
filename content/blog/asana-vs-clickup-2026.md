@@ -79,7 +79,7 @@ Dit is het meest besproken verschil tussen de twee tools -- en terecht.
 
 - **Free Forever (gratis):** Onbeperkte gebruikers, 100 MB opslag, basisweergaven
 - **Unlimited:** $7 -- onbeperkte opslag, integraties, dashboards, gasten
-- **Business:** $12 -- geavanceerde automatisering, sprint-planning, aangepaste exportbestanden
+- **Business:** $12 -- uitgebreide automatisering, sprint-planning, aangepaste exportbestanden
 - **Enterprise:** Offerte op aanvraag
 
 **Wat dit betekent voor een team van 10 personen (jaarlijks):**
@@ -105,7 +105,7 @@ Taakbeheer is de kern van beide tools. Beide bieden subtaken, toewijzingen, dead
 
 **Asana's taakbeheer:**
 
-Asana onderscheidt zich door de **eenvoud van de interface**. Taken aanmaken, toewijzen en afvinken voelt intuïtief aan -- zelfs voor mensen die nog nooit projectmanagement software hebben gebruikt. De sectiestructuur binnen projecten is helder en de weergave schakelen tussen lijst en bord is moeiteloos.
+Asana onderscheidt zich door de **eenvoud van de interface**. Taken aanmaken, toewijzen en afvinken voelt intuïtief aan -- zelfs voor mensen die nog nooit projectmanagement software hebben gebruikt. De sectiestructuur binnen projecten is helder en de weergave schakelen tussen lijst en bord is eenvoudig.
 
 Wat Asana goed doet:
 - Een taak kan in meerdere projecten tegelijk leven (multi-homing)
@@ -180,7 +180,7 @@ Beperkingen: het aantal automatiseringen is gelimiteerd per plan en de complexit
 
 ClickUp biedt **100 automatiseringen per maand in het gratis plan** en schaalbare hoeveelheden op betaalde plannen. De builder ondersteunt if-then-logica met meerdere condities en acties in één automatisering. Je kunt ook automatiseringen aanmaken die taken in meerdere spaces beïnvloeden.
 
-ClickUp integreert automatisering ook naadloos met zijn andere functies: automatisch een document aanmaken bij een nieuwe taak, of een doel bijwerken als een project wordt afgerond.
+ClickUp integreert automatisering ook soepel met zijn andere functies: automatisch een document aanmaken bij een nieuwe taak, of een doel bijwerken als een project wordt afgerond.
 
 De keerzijde: de automatiseringsbuilder heeft een steile leercurve. Plan tijd in om het systeem goed te configureren.
 
@@ -245,7 +245,7 @@ Beide tools integreren met de meest gebruikte zakelijke software.
 
 **Asana-integraties (300+):**
 
-Asana's integraties zijn goed gedocumenteerd en stabiel. De native koppelingen met Slack, Microsoft Teams, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), Zoom, Salesforce en Jira zijn robuust. Asana heeft ook een sterke API voor maatwerkintegraties en is volledig beschikbaar via Zapier en Make.
+Asana's integraties zijn goed gedocumenteerd en stabiel. De native koppelingen met Slack, Microsoft Teams, [Google Workspace](https://www.dpbolvw.net/click-101698621-13855808), Zoom, Salesforce en Jira zijn solide. Asana heeft ook een sterke API voor maatwerkintegraties en is volledig beschikbaar via Zapier en Make.
 
 **ClickUp-integraties (1.000+):**
 

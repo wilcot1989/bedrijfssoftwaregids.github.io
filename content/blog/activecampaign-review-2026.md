@@ -164,7 +164,7 @@ Maar voor MKB-bedrijven die hun marketing automation en basisverkoop in een plat
 
 Vanaf het Plus-plan kun je landingspagina's bouwen binnen ActiveCampaign. De editor is vergelijkbaar met een basis drag-and-drop pagebuilder. Je kunt nette opt-in pagina's bouwen, lead magnet download pagina's en campagnepagina's.
 
-**Wat werkt**: De koppeling met je automation is naadloos. Iemand vult een formulier in op een landing page en valt automatisch in de bijbehorende flow. Geen Zapier nodig.
+**Wat werkt**: De koppeling met je automation is soepel. Iemand vult een formulier in op een landing page en valt automatisch in de bijbehorende flow. Geen Zapier nodig.
 
 **Wat niet werkt**: De templates zijn functioneel maar visueel niet bijzonder. De editor is minder vloeiend dan dedicated tools als Unbounce of Leadpages. Voor eenvoudige opt-in pagina's gebruik ik ze bij klanten. Voor serieuze campagnepagina's die moeten converteren, pak ik er een gespecialiseerde tool bij.
 

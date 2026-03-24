@@ -21,7 +21,7 @@ faq:
   - q: "Is Teamleader geschikt voor ZZP'ers?"
     a: "Teamleader is primair ontworpen voor bedrijven met 2 tot 20 medewerkers. Voor ZZP'ers is het aan de dure kant: je betaalt minimaal €30 per maand, terwijl een CRM als HubSpot gratis te gebruiken is. Teamleader wordt pas echt interessant als je naast CRM ook facturatie en projectbeheer nodig hebt."
   - q: "Wat is het verschil tussen Teamleader Focus en Teamleader Orbit?"
-    a: "Teamleader Focus is gericht op kleine bedrijven met 1 tot 20 medewerkers en biedt CRM, facturatie en projectbeheer. Teamleader Orbit is bedoeld voor grotere organisaties met 20 tot 1.000 medewerkers en biedt diepere procesoptimalisatie, geavanceerde analyses en uitgebreidere projectplanning."
+    a: "Teamleader Focus is gericht op kleine bedrijven met 1 tot 20 medewerkers en biedt CRM, facturatie en projectbeheer. Teamleader Orbit is bedoeld voor grotere organisaties met 20 tot 1.000 medewerkers en biedt diepere procesoptimalisatie, diepgaande analyses en uitgebreidere projectplanning."
   - q: "Kan ik Teamleader koppelen aan mijn boekhoudsoftware?"
     a: "Ja, Teamleader Focus integreert met Exact Online, Twinfield en Octopus. Facturen en creditnota's worden automatisch geexporteerd naar je boekhouding, en betalingsstatussen worden teruggesynchroniseerd. Daarnaast kun je Mollie of Stripe koppelen voor online betalingen."
   - q: "Hoe beoordeelt de markt Teamleader?"
@@ -62,7 +62,7 @@ De prijsstructuur van Teamleader Focus is overzichtelijker dan bij veel concurre
 |---|---|---|---|
 | **SMART** | €30 | CRM, deals, tijdregistratie, rapportages | Bedrijven die starten met CRM en sales |
 | **GROW** | €39 | Alles in SMART + offertes, facturatie, betalingsopvolging | Bedrijven die ook factureren via Teamleader |
-| **FLOW** | €99 | Alles in GROW + multi-team, multi-bedrijf, geavanceerde workflows | Grotere organisaties met meerdere afdelingen |
+| **FLOW** | €99 | Alles in GROW + multi-team, multi-bedrijf, uitgebreide workflows | Grotere organisaties met meerdere afdelingen |
 
 <a href="https://www.teamleader.eu/nl-nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Teamleader 14 dagen gratis →</a>
 
@@ -301,7 +301,7 @@ Het is geen beste-in-klasse CRM (dat is Pipedrive), geen beste-in-klasse factura
 
 **Mijn aanbeveling:**
 
-- **Start met het GROW-pakket** (€39/gebruiker/mnd) -- de facturatie en offerte-functies zijn voor de meeste bedrijven onmisbaar
+- **Start met het GROW-pakket** (€39/gebruiker/mnd) -- de facturatie en offerte-functies zijn voor de meeste bedrijven essentieel
 - **Overweeg FLOW** (€99/gebruiker/mnd) alleen als je meerdere teams of bedrijfsentiteiten beheert
 - **Koppel het aan Exact Online of Twinfield** voor je boekhouding -- gebruik Teamleader niet als boekhoudpakket
 

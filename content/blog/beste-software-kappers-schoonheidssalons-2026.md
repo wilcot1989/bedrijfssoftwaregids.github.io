@@ -133,7 +133,7 @@ Treatwell Pro is interessant om een andere reden dan de meeste salon software: h
 
 ## 3. Phorest
 
-Phorest beveel ik aan bij salons die niet alleen hun agenda willen beheren, maar echt willen groeien. Als je medewerkers in dienst hebt en hun administratie wilt stroomlijnen, is ook de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/) een interessante aanvulling. De marketingtools zijn het sterkste punt -- geautomatiseerde verjaardagsmails, campagnes voor klanten die al een tijdje niet zijn geweest, reviewverzoeken. Geen enkel ander salonpakket in dit overzicht komt daar in de buurt. Wel is het prijziger en in Nederland minder bekend dan in Ierland en het VK, waar het vandaan komt.
+Phorest beveel ik aan bij salons die niet alleen hun agenda willen beheren, maar echt willen groeien. Als je medewerkers in dienst hebt en hun administratie wilt vereenvoudigen, is ook de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/) een interessante aanvulling. De marketingtools zijn het sterkste punt -- geautomatiseerde verjaardagsmails, campagnes voor klanten die al een tijdje niet zijn geweest, reviewverzoeken. Geen enkel ander salonpakket in dit overzicht komt daar in de buurt. Wel is het prijziger en in Nederland minder bekend dan in Ierland en het VK, waar het vandaan komt.
 
 ### Belangrijkste functies
 - Online boekingssysteem met slimme suggesties

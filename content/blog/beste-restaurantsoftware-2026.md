@@ -116,7 +116,7 @@ Voordat ik in de reviews duik, wil ik even stilstaan bij de functies die er echt
 
 ### Kassasysteem en tafelbeheer
 
-De kern van elke horeca software is het kassasysteem. Je wilt een POS dat snel werkt -- tijdens de dinerpiek heb je geen tijd voor trage software. Tafelbeheer met een visuele plattegrond van je zaak is onmisbaar: je personeel ziet in een oogopslag welke tafels bezet zijn, welke de rekening verwachten en waar de volgende gasten kunnen zitten. Splitsrekeningen, verplaatsen van items tussen tafels en ganggestuurde bestellingen zijn functies die bij een druk restaurant het verschil maken.
+De kern van elke horeca software is het kassasysteem. Je wilt een POS dat snel werkt -- tijdens de dinerpiek heb je geen tijd voor trage software. Tafelbeheer met een visuele plattegrond van je zaak is essentieel: je personeel ziet in een oogopslag welke tafels bezet zijn, welke de rekening verwachten en waar de volgende gasten kunnen zitten. Splitsrekeningen, verplaatsen van items tussen tafels en ganggestuurde bestellingen zijn functies die bij een druk restaurant het verschil maken.
 
 ### QR-bestellen aan tafel
 
@@ -145,7 +145,7 @@ Je team inplannen, uren registreren, fooien verdelen -- het zijn taken die bij d
 
 ### 1. Lightspeed Restaurant -- Beste allrounder
 
-Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingrediënten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. Wil je ook je horeca-boekhouding koppelen aan je kassasysteem? Lees dan mijn vergelijking van de [beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) voor de populairste koppelingen. De koppeling met Formitable voor reserveringen is naadloos: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews. Ben je ook benieuwd hoe je Lightspeed koppelt aan de boekhouding? Lees mijn artikel over [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
+Lightspeed Restaurant is mijn standaard aanbeveling als restauranthouders een compleet systeem zoeken. Niet alleen vanwege de kassa, maar vanwege wat er omheen zit. De voorraadbeheermodule laat je recepturen invoeren zodat ingrediënten automatisch worden afgeboekt bij elke verkoop -- bij een brasserie in Utrecht bespaarde dat de eigenaar twee uur per week aan handmatige voorraadtellingen. Wil je ook je horeca-boekhouding koppelen aan je kassasysteem? Lees dan mijn vergelijking van de [beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) voor de populairste koppelingen. De koppeling met Formitable voor reserveringen is soepel: gasten die online reserveren verschijnen direct in je tafelplattegrond, inclusief allergenen en voorkeuren. Op Capterra scoort Lightspeed Restaurant een 4.4/5 op basis van 214 reviews. Ben je ook benieuwd hoe je Lightspeed koppelt aan de boekhouding? Lees mijn artikel over [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/).
 
 Het KDS (Kitchen Display System) is waar Lightspeed echt uitblinkt: ganggestuurde bestellingen verschijnen op het keukenscherm met timers en kleurcodering. De integratie met Thuisbezorgd en Uber Eats betekent dat bezorgorders automatisch in je keukenflow landen zonder handmatig overtypen.
 
@@ -168,7 +168,7 @@ Wil je dieper duiken in wat Lightspeed kan? Lees mijn [uitgebreide Lightspeed ka
 
 - **Basic** (€79/mnd): kassa + tafelmanagement -- géén voorraadbeheer of KDS
 - **Core** (€139/mnd): + voorraadbeheer met recepturen en food cost berekening
-- **Pro** (€249/mnd): + KDS, multi-locatie, geavanceerde rapportages
+- **Pro** (€249/mnd): + KDS, multi-locatie, gedetailleerde rapportages
 - Extra kassa: vanaf €39/maand
 - Hardware: iPad + printer + kassalade vanaf €399
 - Lightspeed Payments: 0,6% + €0,05 per transactie
@@ -218,7 +218,7 @@ Ben je benieuwd hoe Untill zich verhoudt tot Lightspeed? Ik schreef er een [dire
 #### Prijzen (2026)
 
 - **Basis** (vanaf €79/mnd): kassa + tafelmanagement + basisvoorraad
-- **Professioneel** (vanaf €129/mnd): + inkoopmodule, geavanceerd voorraadbeheer, personeelskostenanalyse
+- **Professioneel** (vanaf €129/mnd): + inkoopmodule, uitgebreid voorraadbeheer, personeelskostenanalyse
 - **Enterprise**: maatwerk voor multi-locatie met centraal voorraadbeheer
 - Hardware variabel (offerte) -- installatie en training vaak inbegrepen
 - Untill Air: light-versie voor kleinere zaken
@@ -245,7 +245,7 @@ Ben je benieuwd hoe Untill zich verhoudt tot Lightspeed? Ik schreef er een [dire
 
 ### 3. Trivec -- Beste voor hotels en fine dining
 
-Trivec is de keuze die ik maak bij restaurants binnen hotels en fine dining-zaken waar de hele gastervaring naadloos moet zijn. Bij een boutiquehotel in Amsterdam zag ik het in actie: een gast dineerde in het restaurant, bestelde een fles wijn aan de bar en liet alles bijschrijven op de kamer -- drie systemen, een factuur. Die hotel-PMS integratie (Oracle, Mews, Protel) is wat Trivec uniek maakt.
+Trivec is de keuze die ik maak bij restaurants binnen hotels en fine dining-zaken waar de hele gastervaring soepel moet zijn. Bij een boutiquehotel in Amsterdam zag ik het in actie: een gast dineerde in het restaurant, bestelde een fles wijn aan de bar en liet alles bijschrijven op de kamer -- drie systemen, een factuur. Die hotel-PMS integratie (Oracle, Mews, Protel) is wat Trivec uniek maakt.
 
 Wat voor restauranthouders extra interessant is: het reserveringsbeheer is ingebouwd, niet afhankelijk van een externe koppeling. Je menukaartbeheer ondersteunt seizoenskaarten en wijnpairing-opties. De food cost rapportages geven je per gerecht inzicht in je marges. Voor fine dining waar je een 7-gangenmenu met wijnpairing aanbiedt, biedt Trivec de flexibiliteit die je nodig hebt.
 

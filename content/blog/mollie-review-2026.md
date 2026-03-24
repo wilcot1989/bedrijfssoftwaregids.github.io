@@ -37,7 +37,7 @@ faq:
   - q: "Wat zijn de Mollie-kosten vergeleken met Stripe per transactie?"
     a: "Creditcard: Mollie 1,8% + €0,25 vs Stripe 1,5% + €0,25 (Stripe iets goedkoper bij hoog volume). iDEAL: Mollie €0,32 native vs Stripe €0,29 + kosten derde iDEAL-plugin. PayPal: Mollie 1,5% + €0,25 vs Stripe 1,5% + €0,25 (gelijk). Voor de meeste Nederlandse webshops is het totale kostenverschil minimaal; de keuze hangt meer af van platform-integratie en support."
   - q: "Wanneer kies je Adyen boven Mollie?"
-    a: "Kies Adyen boven Mollie zodra je meer dan 10.000 transacties per maand verwerkt, internationaal opereert buiten Europa, of enterprise-functies nodig hebt zoals geavanceerde fraudedetectie, dedicated accountmanagement en directe acquiring. Adyen is ook beter als je één geïntegreerd platform wilt voor online, in-store en mobiel betalen op grote schaal. Voor MKB is Mollie vrijwel altijd de betere keuze vanwege eenvoud en transparante pricing."
+    a: "Kies Adyen boven Mollie zodra je meer dan 10.000 transacties per maand verwerkt, internationaal opereert buiten Europa, of enterprise-functies nodig hebt zoals uitgebreide fraudedetectie, dedicated accountmanagement en directe acquiring. Adyen is ook beter als je één geïntegreerd platform wilt voor online, in-store en mobiel betalen op grote schaal. Voor MKB is Mollie vrijwel altijd de betere keuze vanwege eenvoud en transparante pricing."
   - q: "Werkt Mollie met Shopify en WooCommerce?"
     a: "Ja, Mollie werkt uitstekend met zowel Shopify (via de Mollie Payments app in de Shopify App Store) als WooCommerce (via de officiële gratis plugin). Beide integraties zijn door Mollie zelf onderhouden, goed gedocumenteerd en binnen 15 minuten geïnstalleerd. iDEAL, Bancontact, Klarna en alle andere betaalmethodes zijn direct beschikbaar na activatie."
 ---
@@ -378,7 +378,7 @@ Hetzelfde geldt voor Bancontact, Belfius, KBC, SOFORT en de andere betaalmethode
 - Je een globale SaaS opbouwt (met betalers in de VS, Azië, Australië)
 - Je een groot developer-team hebt dat de volledige Stripe-stack wil benutten
 - Creditcard- en walletbetalingen jouw primaire betaalmethodes zijn
-- Je geavanceerde fraud-detection (Stripe Radar) nodig hebt
+- Je uitgebreide fraud-detection (Stripe Radar) nodig hebt
 - Je veel verschillende valuta verwerkt
 
 Voor de gemiddelde Nederlandse MKB-webshop is Mollie de logische keuze. Voor een Europese scale-up die binnen twee jaar ook in de VS wil verkopen: begin met Mollie en evalueer Stripe zodra de internationale volumes dat rechtvaardigen.
@@ -402,7 +402,7 @@ Dat klinkt abstract, maar het vertaalt zich in concrete verschillen:
 | **Onboarding** | Online, zelfstandig, snel | Commercieel traject, 2-8 weken |
 | **Contracten** | Geen (maandelijks opzegbaar) | Commercieel contract |
 | **In-store betalen** | Beperkt | Volledig (eigen terminals) |
-| **Fraudedetectie** | Basic | Geavanceerd (RevenueProtect) |
+| **Fraudedetectie** | Basic | Uitgebreid (RevenueProtect) |
 | **Valuta** | EUR + 30+ | 150+ valuta |
 | **Settlement** | Volgende werkdag | Configureerbaar |
 
@@ -426,7 +426,7 @@ Als je de stap naar Adyen maakt, krijg je meer dan alleen lagere transactiekoste
 
 **Eén platform voor alles.** Adyen kan je online webshop, je fysieke winkel (via eigen Adyen-terminals), je mobiele app en je telefonische betaalcentrum op één platform draaien. Voor een retailketen met 20 fysieke winkels en een webshop is dat een enorme operationele vereenvoudiging.
 
-**Geavanceerde fraudedetectie.** Adyen RevenueProtect gebruikt machine learning om fraude real-time te detecteren. Bij Mollie ben je afhankelijk van de fraudetooling van je webshop-platform. Voor branches met hoge frauderisico's (elektronica, mode, tickets) kan dit het verschil zijn.
+**Uitgebreide fraudedetectie.** Adyen RevenueProtect gebruikt machine learning om fraude real-time te detecteren. Bij Mollie ben je afhankelijk van de fraudetooling van je webshop-platform. Voor branches met hoge frauderisico's (elektronica, mode, tickets) kan dit het verschil zijn.
 
 **Dedicated support.** Een échte accountmanager die jouw business kent. Bij Mollie ben je bij een issue afhankelijk van de reguliere supportqueue, tenzij je een groot contract hebt.
 
@@ -499,7 +499,7 @@ Als je ook naar België of Duitsland verzendt maar alleen iDEAL aanbiedt, verlie
 ## Tips voor het optimaliseren van je Mollie-setup
 
 1. **Activeer alleen betaalmethodes die je klanten gebruiken** -- elke extra optie in de checkout kan paradoxaal genoeg keuzestress veroorzaken
-2. **Gebruik de Mollie Components voor een naadloze checkout** als je een developer beschikbaar hebt
+2. **Gebruik de Mollie Components voor een soepele checkout** als je een developer beschikbaar hebt
 3. **Monitor je mislukte betalingen** -- een hoog faalpercentage kan duiden op technische problemen of fraudepogingen
 4. **Stel webhooks in** voor betrouwbare communicatie tussen Mollie en je webshop
 5. **Bekijk je transactiekosten maandelijks** -- bij groei kan het lonen om volumekortingen aan te vragen

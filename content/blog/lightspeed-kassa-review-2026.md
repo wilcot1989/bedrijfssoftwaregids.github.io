@@ -81,7 +81,7 @@ Lightspeed Restaurant is het product waar ik de meeste ervaring mee heb. Ik heb 
 
 ### Wat minder goed werkt
 
-**De prijs stijgt snel.** Het Basic-pakket van €79/maand klinkt redelijk, maar zodra je bezorgintegraties, geavanceerde rapportages of een extra kassa wilt, zit je al snel op €139 tot €249/maand. Daar komen hardware en transactiekosten nog bij.
+**De prijs stijgt snel.** Het Basic-pakket van €79/maand klinkt redelijk, maar zodra je bezorgintegraties, gedetailleerde rapportages of een extra kassa wilt, zit je al snel op €139 tot €249/maand. Daar komen hardware en transactiekosten nog bij.
 
 **Internetafhankelijkheid.** Lightspeed is cloud-based. Er is een offline modus, maar die is beperkt: je kunt bestellingen opnemen, maar pinbetalingen zijn onmogelijk. Bij een klant in een oud pand met slechte WiFi was dat een probleem. We moesten eerst een stabiele internetverbinding regelen voordat het systeem betrouwbaar draaide.
 
@@ -95,7 +95,7 @@ Lightspeed Retail richt zich op fysieke winkels en combineert kassafuncties met 
 
 **Voorraadbeheer is de sterkste functie.** Ik noem Lightspeed Retail vaak een "voorraadsysteem met een kassa eraan". Je kunt duizenden producten beheren met varianten (maat, kleur), leveranciersinformatie, aankoopprijzen en herbestelpunten. Voor winkels met een groot assortiment is dat een groot verschil met simpelere systemen als Square.
 
-**Omnichannel werkt echt.** De koppeling tussen fysieke winkel en webshop is naadloos. Voorraad synchroniseert automatisch: verkoop je iets in de winkel, dan past de webshop zich direct aan. Een kledingwinkel die ik begeleidde had daarvoor twee systemen naast elkaar draaien. Na de overstap naar Lightspeed was dat verleden tijd.
+**Omnichannel werkt echt.** De koppeling tussen fysieke winkel en webshop is soepel. Voorraad synchroniseert automatisch: verkoop je iets in de winkel, dan past de webshop zich direct aan. Een kledingwinkel die ik begeleidde had daarvoor twee systemen naast elkaar draaien. Na de overstap naar Lightspeed was dat verleden tijd.
 
 **Leveranciersbeheer bespaart tijd.** Je kunt inkooporders direct vanuit het systeem naar leveranciers sturen, ontvangsten verwerken en marges berekenen. Dat klinkt saai, maar het scheelt uren per week als je met meerdere leveranciers werkt.
 
@@ -174,7 +174,7 @@ Sinds een paar jaar biedt Lightspeed een eigen betaalverwerking aan: Lightspeed 
 | Pakket | Prijs/maand | Inclusief |
 |---|---|---|
 | **Basic** | €79 | 1 kassa, menukaart, tafelmanagement, basisrapportages |
-| **Core** | €139 | + geavanceerde rapportages, meerdere revenue centres |
+| **Core** | €139 | + gedetailleerde rapportages, meerdere revenue centres |
 | **Pro** | €249 | + API-toegang, multi-locatie, premium support |
 | Extra kassa | Vanaf €39/mnd | Per extra register |
 
@@ -184,7 +184,7 @@ Sinds een paar jaar biedt Lightspeed een eigen betaalverwerking aan: Lightspeed 
 |---|---|---|
 | **Basic** | €59 | 1 kassa, voorraadbeheer, basisrapportages |
 | **Core** | €89 | + e-commerce, boekhoudkoppeling |
-| **Plus** | €149 | + loyaliteitsprogramma, geavanceerde analytics |
+| **Plus** | €149 | + loyaliteitsprogramma, diepgaande analytics |
 
 *Prijzen bij jaarlijkse betaling. Maandelijks opzegbaar is circa 10-20% duurder.*
 

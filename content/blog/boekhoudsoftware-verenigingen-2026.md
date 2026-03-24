@@ -38,7 +38,7 @@ Heb je ook een ZZP'er in het bestuur die advies geeft? Stuur ze naar mijn artike
 
 ## Waarom reguliere boekhoudsoftware soms niet voldoet voor verenigingen
 
-De meeste boekhoudsoftware is gebouwd voor commerciële bedrijven. Dat betekent dat sommige functies die cruciaal zijn voor verenigingen ontbreken of omslachtig werken:
+De meeste boekhoudsoftware is gebouwd voor commerciële bedrijven. Dat betekent dat sommige functies die essentieel zijn voor verenigingen ontbreken of omslachtig werken:
 
 **Contributiebeheer**: Commerciële software heeft factuurmodules, maar geen ledenadministratie. Je moet zelf een systematiek opzetten voor jaarlijkse contributies, differentiatie naar lidmaatschapstype en automatische incasso van honderden leden.
 
@@ -62,7 +62,7 @@ De meeste boekhoudsoftware is gebouwd voor commerciële bedrijven. Dat betekent 
 
 ## 1. e-Boekhouden
 
-e-Boekhouden is de tool die ik als eerste noem bij penningmeesters van kleine tot middelgrote verenigingen. Het is Nederlands, relatief betaalbaar, en de interface is begrijpelijk voor mensen zonder accountantsachtergrond. Dat laatste is cruciaal voor vrijwilligersorganisaties waarbij de penningmeester elke vier jaar wisselt.
+e-Boekhouden is de tool die ik als eerste noem bij penningmeesters van kleine tot middelgrote verenigingen. Het is Nederlands, relatief betaalbaar, en de interface is begrijpelijk voor mensen zonder accountantsachtergrond. Dat laatste is essentieel voor vrijwilligersorganisaties waarbij de penningmeester elke vier jaar wisselt.
 
 Wat ik e-Boekhouden het meest waardeer voor verenigingen: de ingebouwde debiteurenbeheer-module werkt goed voor contributiebeheer via herhalende facturen, en het bankimport-systeem ondersteunt nagenoeg alle Nederlandse banken. De overdracht naar een nieuwe penningmeester gaat eenvoudig omdat meerdere gebruikers in de administratie kunnen.
 
@@ -207,7 +207,7 @@ Voor een doorsnee sportvereniging of culturele stichting is Exact Online te uitg
 ### Belangrijkste functies voor grotere organisaties
 - Projectboekhouding per subsidie of activiteit
 - Multi-entiteit beheer (meerdere stichtingen in één omgeving)
-- Geavanceerde rapportages en dashboards
+- Uitgebreide rapportages en dashboards
 - Koppeling met CRM en HR-modules
 - Loonadministratie voor personeel
 - Inkoopbeheer en budgettering
@@ -224,7 +224,7 @@ Voor een doorsnee sportvereniging of culturele stichting is Exact Online te uitg
 - Meest volwassen en complete oplossing
 - Excellent voor complexe subsidie-verantwoording
 - Multi-entiteit beheer
-- Geavanceerde audit trail voor accountants
+- Uitgebreide audit trail voor accountants
 - Sterke partnernetwerk voor implementatie en ondersteuning
 
 ### Nadelen

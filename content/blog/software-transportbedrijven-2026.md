@@ -41,7 +41,7 @@ products:
     rating_count: "43"
 faq:
   - q: "Wat is TMS software voor transportbedrijven?"
-    a: "TMS staat voor Transport Management System. Het beheert het volledige transportproces: ritplanningen, vrachtopdrachten, CMR-documenten, chauffeursbeheer, koppeling met opdrachtgevers en facturatie. Voor transportbedrijven is TMS onmisbaar voor efficiënte operations en compliance."
+    a: "TMS staat voor Transport Management System. Het beheert het volledige transportproces: ritplanningen, vrachtopdrachten, CMR-documenten, chauffeursbeheer, koppeling met opdrachtgevers en facturatie. Voor transportbedrijven is TMS essentieel voor efficiënte operations en compliance."
   - q: "Welke software gebruiken Nederlandse transportbedrijven?"
     a: "Veel voorkomende systemen zijn Boltrics (Microsoft Dynamics-gebaseerd), Ridder iQ en oudere systemen zoals CODA. Grote concerns gebruiken SAP of Oracle TMS. MKB-transporteurs werken ook met sectorspecifieke Nederlandse oplossingen."
   - q: "Wat kost transport management software?"
@@ -257,7 +257,7 @@ Transportbedrijven die gevaarlijke stoffen vervoeren hebben specifieke vergunnin
 
 ## Koppeling met boekhoudsoftware: van vracht naar factuur
 
-Een naadloze koppeling tussen uw TMS en boekhoudsoftware is essentieel voor een efficiënte backoffice. Zonder koppeling voert uw administratie transportopdrachten handmatig over in uw factuurprogramma.
+Een directe koppeling tussen uw TMS en boekhoudsoftware is essentieel voor een efficiënte backoffice. Zonder koppeling voert uw administratie transportopdrachten handmatig over in uw factuurprogramma.
 
 [SnelStart](https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2) is een populaire keuze bij kleine transporteurs voor de boekhouding. Het pakket biedt API-koppelings­mogelijkheden voor integratie met TMS-systemen. Voor grotere bedrijven zijn Exact Online of AFAS logischere keuzes vanwege de krachtigere integraties.
 
@@ -391,9 +391,9 @@ Twee termen die vaak door elkaar worden gebruikt, maar verschillende processen b
 
 **Transportplanning** is het proactieve proces: welke orders moeten morgen worden uitgevoerd? Hoe combineer ik ladingen efficiënt? Welke chauffeur en welk voertuig zijn beschikbaar? Dit is de strategische laag waarbij TMS-software ritoptimalisatie-algoritmen inzet.
 
-**Dispatching** is de operationele uitvoering: de geplande rit wordt daadwerkelijk uitgegeven aan de chauffeur, wijzigingen onderweg worden gecommuniceerd, en de planner bewaakt de real-time uitvoering. Hier spelen boordcomputers en chauffeurs-apps een cruciale rol.
+**Dispatching** is de operationele uitvoering: de geplande rit wordt daadwerkelijk uitgegeven aan de chauffeur, wijzigingen onderweg worden gecommuniceerd, en de planner bewaakt de real-time uitvoering. Hier spelen boordcomputers en chauffeurs-apps een essentiële rol.
 
-De beste TMS-systemen ondersteunen beide naadloos: automatische planning-algoritmen voor efficiëntie, en real-time dispatch-functionaliteit voor operationele flexibiliteit.
+De beste TMS-systemen ondersteunen beide soepel: automatische planning-algoritmen voor efficiëntie, en real-time dispatch-functionaliteit voor operationele flexibiliteit.
 
 ## Subsidies en belastingvoordelen voor transport-digitalisering
 

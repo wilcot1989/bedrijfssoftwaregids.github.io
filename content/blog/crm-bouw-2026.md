@@ -72,7 +72,7 @@ Een CRM dat ook contactbeheer voor onderaannemers ondersteunt — met eigen pipe
 
 ### Mobiel op de bouwplaats
 
-Dit is het punt dat veel CRM-vergelijkingen weglaten, maar voor bouwbedrijven cruciaal is. De uitvoerder staat op de bouwplaats, niet achter een bureau. Hij moet snel een foto kunnen uploaden van een bouwfout, een notitie toevoegen aan een klantdossier, of een subtaak afvinken. Dat lukt alleen met een goede mobiele app — niet een afgeslankte webpagina die je op je telefoon laadt.
+Dit is het punt dat veel CRM-vergelijkingen weglaten, maar voor bouwbedrijven essentieel is. De uitvoerder staat op de bouwplaats, niet achter een bureau. Hij moet snel een foto kunnen uploaden van een bouwfout, een notitie toevoegen aan een klantdossier, of een subtaak afvinken. Dat lukt alleen met een goede mobiele app — niet een afgeslankte webpagina die je op je telefoon laadt.
 
 ### Heldere rapportage over de offertepijplijn
 
@@ -86,7 +86,7 @@ Hoeveel offertes staan er open? Wat is de totale waarde? Wanneer verloopt welke 
 
 Pipedrive is mijn vaste aanbeveling voor bouwbedrijven die primair een sterk sales-CRM zoeken: een duidelijke pipeline voor offertes en opdrachten, een uitstekende mobiele app, en een prijs die voor kleine en middelgrote bouwbedrijven heel acceptabel is.
 
-Ik gebruik Pipedrive zelf in mijn consultancypraktijk en heb het bij meerdere bouwbedrijven geïmplementeerd. Wat opvalt: de mobiele app is beter dan bij de meeste concurrenten. Uitvoerders en rayonmanagers die onderweg klantcontact bijhouden, werken er moeiteloos mee.
+Ik gebruik Pipedrive zelf in mijn consultancypraktijk en heb het bij meerdere bouwbedrijven geïmplementeerd. Wat opvalt: de mobiele app is beter dan bij de meeste concurrenten. Uitvoerders en rayonmanagers die onderweg klantcontact bijhouden, werken er eenvoudig mee.
 
 **Voor wie is Pipedrive het meest geschikt in de bouw?**
 
@@ -141,7 +141,7 @@ Bouwbedrijven die offertes, facturatie en projectbeheer in één systeem willen.
 
 **Beperkingen:**
 - Duurder dan Pipedrive — Teamleader Focus begint circa €25-50 per gebruiker per maand
-- De CRM-pijplijn is minder geavanceerd dan bij Pipedrive
+- De CRM-pijplijn is minder uitgebreid dan bij Pipedrive
 - Voor echt grote bouwprojecten met complexe planningsvereisten is een aparte projectmanagementtool aan te raden
 
 Lees voor een volledig oordeel mijn [Teamleader review 2026](/blog/teamleader-review-2026/).
@@ -186,7 +186,7 @@ Grotere aannemersbedrijven (50+ medewerkers) die al Monday.com gebruiken voor pr
 
 **Sterke punten:**
 - Hoge mate van aanpasbaarheid — je bouwt je eigen processen
-- Koppeling met Monday Projects voor naadloze overdracht van deal naar project
+- Koppeling met Monday Projects voor soepele overdracht van deal naar project
 - Goede dashboards en rapportagemogelijkheden
 - Veel integraties
 

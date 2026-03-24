@@ -96,7 +96,7 @@ NordVPN heeft zijn zakelijke tak herpositioneerd als NordLayer — een completer
 - Goede ondersteuning in het Engels
 
 **Nadelen:**
-- Minder geavanceerde netwerksegmentatie dan Perimeter81
+- Minder uitgebreide netwerksegmentatie dan Perimeter81
 - Geen on-premise installatie-optie
 - Support uitsluitend in het Engels
 
@@ -162,7 +162,7 @@ ExpressVPN staat bekend om de snelste en meest betrouwbare verbindingen wereldwi
 
 **Nadelen:**
 - Duurder dan NordVPN
-- Beheerconsole minder geavanceerd dan NordLayer of Perimeter81
+- Beheerconsole minder uitgebreid dan NordLayer of Perimeter81
 - Minder zakelijke functies (geen SSO in basispakket)
 
 **Prijs:** Circa €9/gebruiker/mnd bij zakelijke plannen
@@ -433,7 +433,7 @@ Bij een standaard zakelijke VPN gebruiken alle medewerkers hetzelfde gedeelde IP
 
 Veel bedrijven installeren VPN op laptops maar vergeten smartphones en tablets. Dat is een beveiligingsgat.
 
-### Waarom mobiele VPN-beveiliging cruciaal is
+### Waarom mobiele VPN-beveiliging essentieel is
 
 - Medewerkers controleren zakelijke e-mail op smartphones
 - Zakelijke apps (CRM, ERP, cloudopslag) zijn op mobiel toegankelijk

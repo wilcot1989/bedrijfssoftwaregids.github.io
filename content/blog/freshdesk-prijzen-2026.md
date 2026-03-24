@@ -17,11 +17,11 @@ author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl"
 featured_image: "/images/categories/klantenservice.svg"
 faq:
   - q: "Is Freshdesk echt gratis?"
-    a: "Ja, het Free-plan van Freshdesk is permanent gratis voor maximaal 10 agents. Je krijgt e-mail en social ticketing, een kennisbank, teamrapportages en 24/5 support. Beperkingen zijn de ontbrekende automation-regels boven een bepaald volume, geen SLA-beheer en geen telefoniesupport. Voor kleine teams is het verrassend compleet, maar zodra je meer dan 10 agents nodig hebt of geavanceerde routering wilt, stap je snel over naar Growth."
+    a: "Ja, het Free-plan van Freshdesk is permanent gratis voor maximaal 10 agents. Je krijgt e-mail en social ticketing, een kennisbank, teamrapportages en 24/5 support. Beperkingen zijn de ontbrekende automation-regels boven een bepaald volume, geen SLA-beheer en geen telefoniesupport. Voor kleine teams is het verrassend compleet, maar zodra je meer dan 10 agents nodig hebt of uitgebreide routering wilt, stap je snel over naar Growth."
   - q: "Wat kost Freshdesk voor een team van 15 agents?"
     a: "Op het Growth-plan (€15 per agent per maand bij jaarlijkse betaling) betaal je voor 15 agents €225 per maand, ofwel €2.700 per jaar. Op het Pro-plan (€49/agent/mnd) is dat €735 per maand, €8.820 per jaar. Hou ook rekening met eventuele marketplace-apps die je nodig hebt; die worden niet meegeteld maar zijn apart betaald per installatie."
   - q: "Wat zijn de verborgen kosten van Freshdesk?"
-    a: "Freshdesk heeft een aantal kostenposten die niet direct op de prijspagina staan. Ten eerste de Freshdesk Marketplace: populaire integraties zoals geavanceerde rapportage-tools of telefoniemodules kosten extra (vaak €5-20 per agent per maand). Ten tweede Field Service Management: dit is een aparte add-on bovenop je reguliere plan. Ten derde de Freddy AI-module: AI-functies zoals geautomatiseerde triage en chatbots zijn niet standaard inbegrepen in elk plan."
+    a: "Freshdesk heeft een aantal kostenposten die niet direct op de prijspagina staan. Ten eerste de Freshdesk Marketplace: populaire integraties zoals gedetailleerde rapportage-tools of telefoniemodules kosten extra (vaak €5-20 per agent per maand). Ten tweede Field Service Management: dit is een aparte add-on bovenop je reguliere plan. Ten derde de Freddy AI-module: AI-functies zoals geautomatiseerde triage en chatbots zijn niet standaard inbegrepen in elk plan."
   - q: "Hoe verhoudt Freshdesk zich qua prijs tot Zendesk?"
     a: "Freshdesk is structureel goedkoper dan Zendesk. Zendesk Suite Team kost circa €55 per agent per maand, terwijl Freshdesk Growth slechts €15 kost. Zelfs Freshdesk Pro (€49) is goedkoper dan de instapprijs van Zendesk Suite. Het Free-plan zonder tijdslimiet is ook uniek voor Freshdesk — Zendesk biedt dat niet. Voor budgetbewuste MKB-bedrijven wint Freshdesk op prijs; Zendesk heeft een voorsprong op enterprise-koppelingen."
   - q: "Biedt Freshdesk een jaarkorting?"
@@ -95,7 +95,7 @@ Growth is **geschikt voor teams die**:
 Growth is **niet geschikt voor teams die**:
 - Round-robin of skill-based routering nodig hebben
 - Meerdere merken of producten vanuit één helpdesk bedienen
-- Geavanceerde AI-functies willen
+- Uitgebreide AI-functies willen
 - Strict auditing of rolbeheer nodig hebben (AVG-logging)
 
 ### Pro — €49 per agent per maand
@@ -104,7 +104,7 @@ Pro is een aanzienlijke stap omhoog in prijs — meer dan drie keer het Growth-p
 
 De meest relevante toevoegingen:
 
-- **Round-robin en skill-based routering:** Tickets gaan automatisch naar de agent met de juiste vaardigheidset of de minste workload. Cruciaal voor teams groter dan 10 agents.
+- **Round-robin en skill-based routering:** Tickets gaan automatisch naar de agent met de juiste vaardigheidset of de minste workload. Essentieel voor teams groter dan 10 agents.
 - **Custom roles:** Fijnmazige permissies per medewerker. Niet iedereen hoeft alles te kunnen.
 - **Custom objects:** Eigen datamodellen koppelen aan tickets — handig voor bedrijven met een eigen CRM-logica.
 - **Omnichannel dashboard:** WhatsApp, chat, e-mail, telefoon in één overzicht.
@@ -141,7 +141,7 @@ Voorbeelden van betaalde marketplace-apps:
 
 - **Avochato (WhatsApp SMS):** circa €10-15 per agent per maand
 - **Recharge (abonnementsmodule):** circa €20 per maand flat fee
-- **Geavanceerde analytics-tools:** €5-20 per agent per maand
+- **Uitgebreide analytics-tools:** €5-20 per agent per maand
 
 Als je een omnichannel-setup wilt met meerdere kanalen, loop je al snel tegen marketplace-apps aan. Reken altijd door welke apps je nodig hebt voordat je een plan kiest.
 
@@ -255,7 +255,7 @@ Voor bedrijven die primair via WhatsApp en Instagram communiceren, is Trengo het
 
 ## Freshdesk vs HubSpot Service Hub: Prijsvergelijking
 
-HubSpot Service Hub is interessant voor bedrijven die al het HubSpot CRM gebruiken. Ik behandel de volledige suite in mijn [HubSpot CRM review](/blog/hubspot-crm-review-2026/). De integratie is naadloos, maar de prijs is een ander verhaal.
+HubSpot Service Hub is interessant voor bedrijven die al het HubSpot CRM gebruiken. Ik behandel de volledige suite in mijn [HubSpot CRM review](/blog/hubspot-crm-review-2026/). De integratie is soepel, maar de prijs is een ander verhaal.
 
 | Plan | Freshdesk | HubSpot Service Hub |
 |------|-----------|---------------------|
@@ -266,7 +266,7 @@ HubSpot Service Hub is interessant voor bedrijven die al het HubSpot CRM gebruik
 
 Op instapniveau zijn HubSpot Starter en Freshdesk Growth vrijwel identiek geprijsd. Het verschil wordt zichtbaar op Professional-niveau: HubSpot is bijna twee keer zo duur als Freshdesk Pro. HubSpot Service Hub Professional vereist bovendien een eenmalige onboarding-fee van circa €1.250 die niet in de maandelijkse prijs zit.
 
-De voornaamste reden om HubSpot Service Hub te kiezen boven Freshdesk is CRM-integratie. Als je al HubSpot CRM gebruikt voor je sales en marketing, is de naadloze verbinding met Service Hub waardevol. Alle contacthistorie, deals en tickets zitten op één plek. Als je geen HubSpot CRM hebt, is de meerprijs vrijwel niet te rechtvaardigen.
+De voornaamste reden om HubSpot Service Hub te kiezen boven Freshdesk is CRM-integratie. Als je al HubSpot CRM gebruikt voor je sales en marketing, is de directe verbinding met Service Hub waardevol. Alle contacthistorie, deals en tickets zitten op één plek. Als je geen HubSpot CRM hebt, is de meerprijs vrijwel niet te rechtvaardigen.
 
 Bekijk mijn [HubSpot prijzen overzicht](/blog/hubspot-prijzen-2026/) voor meer details over HubSpot's volledige pricing.
 

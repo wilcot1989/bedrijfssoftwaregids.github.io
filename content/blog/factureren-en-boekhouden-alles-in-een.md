@@ -41,11 +41,11 @@ Pakketten als Moneybird, Exact Online voor ZZP, e-Boekhouden en [Jortt](https://
 
 ## Wat je inlevert met een gecombineerde aanpak
 
-Het nadeel van gecombineerde pakketten is dat ze vaak minder uitgebreid zijn op het facturatiegedeelte dan gespecialiseerde facturatieprogramma's. Een gespecialiseerde tool heeft meer opties voor factuurontwerp, terugkerende facturen, geavanceerde offerteprocessen, klantportals en meerdere facturatiesjablonen.
+Het nadeel van gecombineerde pakketten is dat ze vaak minder uitgebreid zijn op het facturatiegedeelte dan gespecialiseerde facturatieprogramma's. Een gespecialiseerde tool heeft meer opties voor factuurontwerp, terugkerende facturen, uitgebreide offerteprocessen, klantportals en meerdere facturatiesjablonen.
 
 Voor de meeste [ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/) en [freelancers](/sectoren/boekhouding/boekhoudsoftware-freelancers/) is dat geen probleem. Zij sturen maandelijks tien tot dertig facturen met een standaardopmaak, en de basisopties van een gecombineerd pakket zijn ruim voldoende.
 
-Wie honderden facturen per maand verstuurt, complexe herhalingsreeksen heeft, werkt met geavanceerde offerteprocessen met meerdere goedkeuringsstappen of behoefte heeft aan een klantportal waar klanten zelf hun factuurhistorie kunnen inzien, heeft mogelijk baat bij een gespecialiseerde facturatietool die via een API-koppeling communiceert met het boekhoudpakket. Maar ook dan is het de moeite waard te controleren of die extra complexiteit echt noodzakelijk is of een gewenning aan een werkproces dat efficiënter kan.
+Wie honderden facturen per maand verstuurt, complexe herhalingsreeksen heeft, werkt met uitgebreide offerteprocessen met meerdere goedkeuringsstappen of behoefte heeft aan een klantportal waar klanten zelf hun factuurhistorie kunnen inzien, heeft mogelijk baat bij een gespecialiseerde facturatietool die via een API-koppeling communiceert met het boekhoudpakket. Maar ook dan is het de moeite waard te controleren of die extra complexiteit echt noodzakelijk is of een gewenning aan een werkproces dat efficiënter kan.
 
 ## De drie scenario's vergeleken
 
@@ -65,13 +65,13 @@ Hier wordt het complexer. Je hebt mogelijk een medewerker nodig die andere recht
 
 Een functionaliteit die te weinig aandacht krijgt: de betaalkoppeling op de factuur zelf. Ik adviseer dit standaard aan iedere klant die moeite heeft met trage betalers -- het is de eenvoudigste manier om de gemiddelde betaaltermijn te verkorten zonder een gesprek te hoeven voeren. Een pakket dat een iDEAL-betaallink in de factuur plaatst, zorgt dat klanten direct betalen zonder dat ze een aparte bankoverschrijving hoeven te doen. Klanten die via iDEAL betalen, doen dat gemiddeld drie dagen sneller dan klanten die handmatig een overschrijving moeten uitvoeren.
 
-Moneybird, Factuursturen.nl en Exact Online ondersteunen betaallinks via iDEAL of creditcard. Controleer of dit is inbegrepen in het abonnement of als add-on apart wordt berekend. Bij een ZZP'er die maandelijks EUR 15.000 factureert, kan dit het verschil betekenen tussen betaling binnen drie dagen of betaling na twee weken -- en dat heeft directe impact op je liquiditeit. Voor wie daarna ook de BTW-verwerking wil stroomlijnen, biedt [BTW-aangifte doen met boekhoudsoftware](/blog/btw-aangifte-welke-boekhoudsoftware/) een praktische handleiding per softwarecategorie.
+Moneybird, Factuursturen.nl en Exact Online ondersteunen betaallinks via iDEAL of creditcard. Controleer of dit is inbegrepen in het abonnement of als add-on apart wordt berekend. Bij een ZZP'er die maandelijks EUR 15.000 factureert, kan dit het verschil betekenen tussen betaling binnen drie dagen of betaling na twee weken -- en dat heeft directe impact op je liquiditeit. Voor wie daarna ook de BTW-verwerking wil vereenvoudigen, biedt [BTW-aangifte doen met boekhoudsoftware](/blog/btw-aangifte-welke-boekhoudsoftware/) een praktische handleiding per softwarecategorie.
 
 ## De impact op je liquiditeitspositie
 
 Een onderschat voordeel van gecombineerde pakketten is de real-time liquiditeitsinformatie. Als facturen, betalingen en bankstand allemaal in hetzelfde systeem zitten, zie je op elk moment wat er binnenkomt, wat er uit gaat en wat er openstaat.
 
-Dat klinkt logisch maar de meeste ondernemers die met losse systemen werken, weten hun actuele liquiditeitspositie pas aan het einde van de maand als alles is bijgewerkt. Voor beslissingen over investeringen, aankopen of het aannemen van een medewerker is actuele cashflow-informatie echter onmisbaar.
+Dat klinkt logisch maar de meeste ondernemers die met losse systemen werken, weten hun actuele liquiditeitspositie pas aan het einde van de maand als alles is bijgewerkt. Voor beslissingen over investeringen, aankopen of het aannemen van een medewerker is actuele cashflow-informatie echter essentieel.
 
 Sommige gecombineerde pakketten bieden een cashflow-prognose die openstaande facturen, bekende uitgaven en de verwachte betalingstermijn van klanten combineert tot een meerweekse vooruitblik. Voor een ZZP'er met onregelmatige inkomsten is dat waardevolle informatie om niet voor verrassingen te komen staan.
 

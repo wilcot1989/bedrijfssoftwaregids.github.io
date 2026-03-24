@@ -8,7 +8,7 @@ Een CRM kiezen is vooral een adoptie-vraag: het beste systeem is het systeem dat
 
 ## Voor wie is welk type CRM geschikt?
 
-- **Starter of klein team (1-5 gebruikers)**: lage instapkosten en snelle onboarding zijn cruciaal.
+- **Starter of klein team (1-5 gebruikers)**: lage instapkosten en snelle onboarding zijn essentieel.
 - **Verkoopteam (5-20 gebruikers)**: focus op pipeline-overzicht, automatiseringen en mobiele app.
 - **Marketing + sales samen**: focus op lead nurturing, e-mailflows en rapportages.
 - **Complexe organisatie**: focus op maatwerk, rechtenstructuur en API-koppelingen.
@@ -37,7 +37,7 @@ De licentieprijs is slechts een deel van de totaalrekening. Dit zijn de gangbare
 - **Gratis**: HubSpot Free (tot 2 gebruikers, beperkt), Zoho CRM Free
 - **€15–25/gebruiker/maand**: Pipedrive Essentials, Monday CRM Basic — de sweet spot voor teams van 3–15 mensen
 - **€50–100/gebruiker/maand**: Teamleader Focus, Exact Online CRM — inclusief projectmodules of boekhoudkoppeling
-- **€100+/gebruiker/maand**: Salesforce Sales Cloud, HubSpot Pro — geschikt als je geavanceerde marketing automation nodig hebt
+- **€100+/gebruiker/maand**: Salesforce Sales Cloud, HubSpot Pro — geschikt als je uitgebreide marketing automation nodig hebt
 
 Maar reken ook deze verborgen kosten mee:
 

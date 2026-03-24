@@ -107,7 +107,7 @@ Wat ik merk in de praktijk: de bankintegratie werkt bij de meeste grote Nederlan
 
 **Trustpilot: 1.8/5** (17 reviews, gecheckt mrt 2026) — te weinig reviews voor een betrouwbaar beeld. Twinfield wordt vooral door accountants gebruikt, die zelden Trustpilot-reviews achterlaten.
 
-Twinfield is het pakket waar accountants van houden — en dat is niet toevallig. Het is gebouwd voor **boekhouders en bedrijven met serieuze financiële behoeften**: kostplaatsen, consolidatie, geavanceerde rapportages. Als je accountant Twinfield noemt, weet je dat het pakket past bij professionele administratie.
+Twinfield is het pakket waar accountants van houden — en dat is niet toevallig. Het is gebouwd voor **boekhouders en bedrijven met serieuze financiële behoeften**: kostplaatsen, consolidatie, gedetailleerde rapportages. Als je accountant Twinfield noemt, weet je dat het pakket past bij professionele administratie.
 
 ### Belangrijkste functies
 - **Volledige grootboekadministratie** — Alle standaard en vrij configureerbare grootboekrekeningen
@@ -129,7 +129,7 @@ Twinfield is het pakket waar accountants van houden — en dat is niet toevallig
 ### Sterke punten
 - Professionele boekhoudfunctionaliteit
 - Uitgebreide rapportages en analyses
-- Naadloze samenwerking met boekhouder
+- Soepele samenwerking met boekhouder
 - Kostplaatsen en projectboekhouding
 - Consolidatie voor bedrijvengroepen
 
@@ -212,7 +212,7 @@ Bij meerdere administraties wordt Twinfield ineens de goedkopere optie. Moneybir
 |---------|-----------|----------|
 | Automatische import | ✅ | ✅ |
 | Automatisch matchen | ✅ (goed) | ✅ (goed) |
-| Boekhoudregels | ✅ Basis | ✅ Geavanceerd |
+| Boekhoudregels | ✅ Basis | ✅ Uitgebreid |
 | Alle grote NL banken | ✅ | ✅ |
 | **Winnaar** | Gelijkspel | Gelijkspel |
 
@@ -259,7 +259,7 @@ Wil je de jaarlijkse kosten voor jouw specifieke situatie berekenen? Gebruik de 
 Lisa is zelfstandig marketeer, stuurt 15 facturen per maand en heeft geen boekhouder. Ze scant bonnetjes met haar telefoon, doet zelf BTW-aangifte en wil er zo min mogelijk tijd aan kwijt zijn. **Moneybird Starter (€15/mnd)** is hier de perfecte match. Ze opent de app, scant een bonnetje, en Moneybird herkent automatisch het bedrag en de leverancier. BTW-aangifte? Twee klikken. Klaar. Ik heb haar vorig jaar geholpen met de overstap van Excel en eerlijk gezegd was ze binnen een uur sneller dan met haar oude spreadsheet.
 
 ### Use case 2: Installatiebureau met 8 medewerkers (BV)
-Marco runt een installatiebureau. Zijn boekhouder doet de maandelijkse verwerking, kwartaalaangiftes en de jaarrekening. Marco wil alleen facturen sturen en bonnetjes inscannen — de rest laat hij over aan zijn accountant. **Twinfield Twin (€42/mnd)** past hier als gegoten. De boekhouder werkt rechtstreeks in dezelfde omgeving, hoeft geen exports te importeren, en Marco kan gewoon facturen aanmaken zonder zich zorgen te maken over de rest. Die naadloze samenwerking scheelt letterlijk uren per maand aan heen-en-weer mailen van bestanden.
+Marco runt een installatiebureau. Zijn boekhouder doet de maandelijkse verwerking, kwartaalaangiftes en de jaarrekening. Marco wil alleen facturen sturen en bonnetjes inscannen — de rest laat hij over aan zijn accountant. **Twinfield Twin (€42/mnd)** past hier als gegoten. De boekhouder werkt rechtstreeks in dezelfde omgeving, hoeft geen exports te importeren, en Marco kan gewoon facturen aanmaken zonder zich zorgen te maken over de rest. Die soepele samenwerking scheelt letterlijk uren per maand aan heen-en-weer mailen van bestanden.
 
 ### Use case 3: E-commerce ondernemer met twee webshops (holding + 2 BV's)
 Sanne heeft een holding met twee werkmaatschappijen. Ze heeft kostplaatsen nodig om de winstgevendheid per productlijn te zien, en haar accountant maakt een geconsolideerde jaarrekening. **Twinfield Twin+ (€59/mnd)** is hier de enige serieuze optie van deze twee. Moneybird kan dit simpelweg niet — geen consolidatie, geen kostplaatsen op het niveau dat een accountant nodig heeft.
@@ -312,7 +312,7 @@ Na jarenlang beide pakketten aan te bevelen, komt het steeds op hetzelfde neer:
 
 **Moneybird** is de beste keuze als je zelf je boekhouding wilt doen. Ben je ZZP'er, heb je een eenvoudige BV, of wil je gewoon dat het makkelijk is? Dan is Moneybird wat je zoekt. Goedkoper, makkelijker, en voor 80% van de kleine ondernemers meer dan voldoende.
 
-**Twinfield** is de beste keuze als je accountant de lead neemt in je financiële administratie. Kostplaatsen, consolidatie, geavanceerde rapportages — dat is Twinfield's domein. En als je boekhouder er al mee werkt, scheelt dat enorm in de samenwerking.
+**Twinfield** is de beste keuze als je accountant de lead neemt in je financiële administratie. Kostplaatsen, consolidatie, gedetailleerde rapportages — dat is Twinfield's domein. En als je boekhouder er al mee werkt, scheelt dat enorm in de samenwerking.
 
 **Mijn persoonlijke vuistregel na jaren adviseren:** als een ondernemer mij belt en zegt "ik wil zelf mijn boekhouding doen", stuur ik hem naar Moneybird. Zegt hij "mijn boekhouder regelt alles", dan is Twinfield de logische keuze. Die twee zinnen dekken al 90% van alle gevallen.
 

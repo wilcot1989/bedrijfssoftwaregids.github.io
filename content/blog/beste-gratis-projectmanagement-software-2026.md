@@ -89,9 +89,9 @@ ClickUp's gratis plan heet niet voor niets "Free Forever". Het is het meest uitg
 
 - **100 MB opslagruimte** — de #1 reden waarom teams upgraden. Eén PDF-document van 10 MB + afbeeldingen en je bent er snel doorheen.
 - **100 automatiseringen per maand** — bij een actief team van 5+ haal je dit snel
-- **Beperkte rapportages** — geen exportfunctie, geen geavanceerde teamrapporten
+- **Beperkte rapportages** — geen exportfunctie, geen uitgebreide teamrapporten
 - **Begrensd dashboardgebruik** — aanpasbare dashboards beschikbaar maar met beperkingen
-- **Geen geavanceerde machtigingen** — iedereen ziet alles
+- **Geen uitgebreide machtigingen** — iedereen ziet alles
 
 ### Voor wie is ClickUp Free ideaal?
 
@@ -138,7 +138,7 @@ Asana's gratis plan heet "Personal" en is permanent gratis voor maximaal 10 gebr
 
 - **Geen Gantt/tijdlijn** — die zit pas in Starter ($10,99/gebruiker/maand)
 - **Geen portfoliobeheer**
-- **Geen geavanceerde rapportages**
+- **Geen gedetailleerde rapportages**
 - **Geen taken exporteren naar CSV**
 - **Maximum 10 gebruikers** — als gebruiker 11 komt, moet iedereen upgraden
 
@@ -234,7 +234,7 @@ Jira's gratis plan is uitstekend voor softwareteams die agile werken. Tot 10 geb
 
 - **10 gebruikers maximum** — strikt; bij gebruiker 11 is upgraden verplicht
 - **Geen auditlogs**
-- **Geen geavanceerd gebruikersbeheer**
+- **Geen uitgebreid gebruikersbeheer**
 - **Geen projectarchivering**
 - **Community-support** — geen directe ondersteuning van Atlassian
 
@@ -291,7 +291,7 @@ Notion is geen dedicated projectmanagement-tool, maar een all-in-one workspace. 
 Notion werkt als projectmanagement-oplossing als je:
 - Documentatie en taken in dezelfde tool wil combineren
 - Een klein team hebt met eenvoudige projecten
-- Geen automatiseringen, tijdregistratie of geavanceerde planning nodig hebt
+- Geen automatiseringen, tijdregistratie of uitgebreide planning nodig hebt
 - Een wiki/kennisbank wil combineren met eenvoudig taakbeheer
 
 **Wanneer niet:** Als je serieuze projectplanning, automatiseringen of tijdregistratie nodig hebt, is Notion niet de juiste keuze. Gebruik dan ClickUp of Asana.
@@ -343,7 +343,7 @@ Microsoft Planner is de meest onderschatte gratis projectmanagement-tool op de m
 - Tijdlijn/Gantt
 - Sprintplanning
 - Doeldoelenbeheer (Goals)
-- Geavanceerde rapportages
+- Uitgebreide rapportages
 - Koppelingen met Project voor het web
 
 ### De limieten van Microsoft Planner Basic
@@ -362,7 +362,7 @@ Planner is ideaal als:
 - Je een eenvoudig Kanban-bord wil zonder extra abonnement
 - Je team niet bereid is een nieuwe tool te leren
 
-**Wanneer niet:** Als je geavanceerde projectplanning, Gantt-charts of automatiseringen nodig hebt, biedt ClickUp Free of Asana Personal meer voor hetzelfde geld (gratis).
+**Wanneer niet:** Als je uitgebreide projectplanning, Gantt-charts of automatiseringen nodig hebt, biedt ClickUp Free of Asana Personal meer voor hetzelfde geld (gratis).
 
 ---
 
@@ -441,11 +441,11 @@ Hier zijn de meest voorkomende signalen dat je toe bent aan een upgrade:
 - Je bereikt de limiet van 10 borden
 - Je hebt meer dan 250 automatiseringen per maand nodig
 - Je wil bijlagen groter dan 10 MB uploaden
-- Je wil geavanceerde checklists
+- Je wil uitgebreide checklists
 
 ### Upgrade van Jira Free naar Standard ($8,15/gebruiker/maand):
 - Je team groeit voorbij 10 personen
-- Je wil auditlogs of geavanceerd gebruikersbeheer
+- Je wil auditlogs of uitgebreid gebruikersbeheer
 - Je wil projectarchivering
 
 ### Upgrade van Notion Free naar Plus ($10/gebruiker/maand):

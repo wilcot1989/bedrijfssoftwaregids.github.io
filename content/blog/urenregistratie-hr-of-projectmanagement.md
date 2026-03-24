@@ -56,7 +56,7 @@ Tools als Harvest, Toggl Track en Teamleader zijn in Nederland populair bij dien
 
 ## De gecombineerde aanpak voor bouwbedrijven
 
-[Bouwbedrijven](/sectoren/hr/hr-software-bouw/) hebben een specifiek probleem dat andere sectoren minder kennen: uren moeten worden geregistreerd per bouwproject voor kostprijsberekening en facturatie, én per medewerker voor loonberekening inclusief reistijdvergoeding, cao-toeslagen en overwerk. Beide berekeningen zijn onmisbaar en gebruiken dezelfde uren als bron.
+[Bouwbedrijven](/sectoren/hr/hr-software-bouw/) hebben een specifiek probleem dat andere sectoren minder kennen: uren moeten worden geregistreerd per bouwproject voor kostprijsberekening en facturatie, én per medewerker voor loonberekening inclusief reistijdvergoeding, cao-toeslagen en overwerk. Beide berekeningen zijn essentieel en gebruiken dezelfde uren als bron.
 
 Generieke HR-tools missen het projectniveau. Generieke projecttools kennen de bouw-cao niet. De meest efficiënte oplossing is een sector-specifieke tool die beide combineert -- of een goed geconfigureerde koppeling tussen een HR-systeem en een projectadministratiepakket.
 

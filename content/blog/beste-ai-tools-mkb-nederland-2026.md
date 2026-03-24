@@ -69,7 +69,7 @@ ChatGPT is de bekendste AI-assistent ter wereld, met meer dan 200 miljoen actiev
 | Free | €0 | Incidenteel gebruik, verkenning |
 | Plus | $20/mnd per gebruiker | Intensief persoonlijk gebruik |
 | Team | $30/mnd per gebruiker | Teams van 2+ medewerkers |
-| Enterprise | Prijsopgave | 25+ medewerkers, geavanceerde beveiliging |
+| Enterprise | Prijsopgave | 25+ medewerkers, uitgebreide beveiliging |
 
 Het Team-plan is de beste keuze voor MKB: geen gebruik van data voor AI-training, gedeelde werkruimte voor prompts en hogere gebruikslimits.
 
@@ -370,7 +370,7 @@ AI is geen tovermiddel en ook geen hype die overwaait. Het is gereedschap — en
 Mijn samenvatting voor het Nederlandse MKB:
 
 1. **Begin met ChatGPT Team** voor je zwaarste gebruikers — de ROI is snel zichtbaar bij tekstwerk, analyse en voorbereiding.
-2. **Gebruik de AI die al in je bestaande tools zit** — je betaalt er al voor en de integratie is naadloos.
+2. **Gebruik de AI die al in je bestaande tools zit** — je betaalt er al voor en de integratie is soepel.
 3. **Maak een simpel AI-beleid** — twee pagina's over wat medewerkers wel en niet mogen invoeren.
 4. **Meet tijdsbesparing** — na drie maanden weet je of je meer wilt investeren.
 

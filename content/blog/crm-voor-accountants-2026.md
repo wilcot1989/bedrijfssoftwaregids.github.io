@@ -52,7 +52,7 @@ Het verschil met een generiek CRM zit in de diepte. Een klant is niet één cont
 
 ### Deadlinebewaking voor terugkerende verplichtingen
 
-De fiscale kalender is leidend in een accountantskantoor. BTW-aangiften zijn maandelijks of kwartaal. De jaarrekening heeft een wettelijke indiendatum. De loonaangifte heeft een vaste dag per maand. Als je twintig klanten hebt, zijn die deadlines nog te overzien. Als je honderdvijftig klanten hebt, is een systeem dat automatisch taken aanmaakt en herinnert onmisbaar.
+De fiscale kalender is leidend in een accountantskantoor. BTW-aangiften zijn maandelijks of kwartaal. De jaarrekening heeft een wettelijke indiendatum. De loonaangifte heeft een vaste dag per maand. Als je twintig klanten hebt, zijn die deadlines nog te overzien. Als je honderdvijftig klanten hebt, is een systeem dat automatisch taken aanmaakt en herinnert essentieel.
 
 Het ideale scenario: je stelt per klant in welke diensten je levert, en het systeem genereert automatisch de bijbehorende taken met de juiste deadlines. Dat is niet in elk CRM standaard aanwezig — maar sommige tools zijn hier goed voor in te richten.
 
@@ -64,7 +64,7 @@ Een CRM zonder tijdregistratie of een goede koppeling met een urenregistratietoo
 
 ### Facturatie gekoppeld aan geleverd werk
 
-Facturen op basis van geregistreerde uren, vaste abonnementsbedragen, of een combinatie: voor accountants is de koppeling tussen CRM en facturatie cruciaal. Hoe minder handmatig werk er zit tussen "uren schrijven" en "factuur versturen", hoe beter.
+Facturen op basis van geregistreerde uren, vaste abonnementsbedragen, of een combinatie: voor accountants is de koppeling tussen CRM en facturatie essentieel. Hoe minder handmatig werk er zit tussen "uren schrijven" en "factuur versturen", hoe beter.
 
 Sommige tools combineren dit in één platform. Andere vereisen een koppeling met een extern boekhoudpakket. Wat je kiest, hangt af van hoe je administratie nu georganiseerd is en hoeveel integraties je wilt beheren.
 
@@ -183,7 +183,7 @@ AFAS is geen CRM in de traditionele zin — het is een volledig bedrijfssoftware
 
 **Wat werkt goed voor accountants:**
 - Volledig geïntegreerd: CRM, projecten, uren, facturatie, HR en financiën in één systeem
-- Geavanceerde workflowautomatisering: terugkerende werkzaamheden, goedkeuringsprocessen, automatische herinneringen
+- Uitgebreide workflowautomatisering: terugkerende werkzaamheden, goedkeuringsprocessen, automatische herinneringen
 - Uitstekend documentbeheer met versiebeheer
 - Sterk toegangsbeheer en audit trail
 - Nederlandse ondersteuning en implementatiebegeleiding

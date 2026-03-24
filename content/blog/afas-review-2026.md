@@ -125,7 +125,7 @@ Wil je alternatieven vergelijken? Mijn overzicht van de [beste loonadministratie
 
 De financiële module van AFAS is een volwaardige boekhoudomgeving: crediteuren- en debiteurenbeheer, bankkoppelingen, BTW-aangifte, grootboek, balans en resultatenrekening. Voor organisaties die al AFAS gebruiken voor HR, is het verleidelijk om ook de financiële module aan te schaffen zodat alles in één systeem zit.
 
-De integratie is inderdaad naadloos: facturen die je verstuurt vanuit AFAS-CRM worden automatisch doorgeschreven naar de financiële module. Uren uit de projectmodule worden automatisch doorverrekend. Dat is de belofte van ERP-software.
+De integratie is inderdaad soepel: facturen die je verstuurt vanuit AFAS-CRM worden automatisch doorgeschreven naar de financiële module. Uren uit de projectmodule worden automatisch doorverrekend. Dat is de belofte van ERP-software.
 
 De keerzijde: de financiële module is niet zo intuïtief als dedicated boekhoudpakketten als Exact Online of Moneybird. Het werkt, maar het is gebouwd voor de AFAS-omgeving — niet voor de boekhouder die gewend is aan een modern cloudinterface.
 
@@ -363,7 +363,7 @@ De routes die ik zou aanbevelen afhankelijk van je situatie:
 
 **Middelgroot MKB (25-75 medewerkers):** AFAS verdient een plek in de shortlist, maar vergelijk serieus. Lees ook mijn artikel over [ERP software voor het MKB](/blog/beste-erp-software-mkb-2026/) voor een breder beeld.
 
-**MKB dat sterk groeit:** AFAS is het meest interessant als je de komende twee tot drie jaar door de grens van 50 medewerkers heen verwacht te gaan. De investering in een robuust systeem loont dan.
+**MKB dat sterk groeit:** AFAS is het meest interessant als je de komende twee tot drie jaar door de grens van 50 medewerkers heen verwacht te gaan. De investering in een solide systeem loont dan.
 
 ---
 

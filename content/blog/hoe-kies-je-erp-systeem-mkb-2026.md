@@ -40,7 +40,7 @@ Voor een overzicht van de beste ERP-opties voor MKB lees je ook [beste ERP softw
 
 ## Vraag 1: Heb ik écht een ERP nodig, of zijn losse tools voldoende?
 
-Dit is de meest cruciale vraag, en eerlijk gezegd is het antwoord voor veel MKB-bedrijven: nog niet.
+Dit is de meest essentiële vraag, en eerlijk gezegd is het antwoord voor veel MKB-bedrijven: nog niet.
 
 Een ERP is een geïntegreerd systeem dat meerdere bedrijfsprocessen in één platform samenbrengt: financiën, inkoop, verkoop, voorraadbeheer, productie, HR, projectbeheer. De belofte is dat data niet meer dubbel wordt ingevoerd en alle afdelingen op dezelfde informatie werken.
 

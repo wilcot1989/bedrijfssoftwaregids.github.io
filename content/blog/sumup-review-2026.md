@@ -110,7 +110,7 @@ SumUp biedt drie abonnementen:
 ### SumUp Team (€19,99/mnd)
 - Transactiekosten: **0,99%**
 - Meerdere gebruikers
-- Geavanceerde rapportages
+- Uitgebreide rapportages
 - Ideaal voor: boven €5.000/mnd omzet
 
 ### Kostenberekening
@@ -165,7 +165,7 @@ SumUp integreert met de belangrijkste tools:
 - **Facturering:** eigen module
 - **Zapier:** koppeling met 5.000+ apps
 
-De integratie met Exact Online is minder naadloos dan bij Square of Lightspeed. Je exporteert transactiedata handmatig of via Zapier. Voor kleinere volumes is dit geen bezwaar; voor grotere bedrijven is een directere koppeling fijner.
+De integratie met Exact Online is minder soepel dan bij Square of Lightspeed. Je exporteert transactiedata handmatig of via Zapier. Voor kleinere volumes is dit geen bezwaar; voor grotere bedrijven is een directere koppeling fijner.
 
 ---
 
@@ -198,7 +198,7 @@ SumUp heeft de laagste transactiekosten in het instapsegment en de goedkoopste h
 **Nadelen:**
 - Voorraadbeheer te beperkt voor grotere winkels
 - Beperkte offline werking bij hogere bedragen
-- Integratie met Exact minder naadloos
+- Integratie met Exact minder soepel
 - Geen horeca-specifieke functies
 
 ---
@@ -464,7 +464,7 @@ Bereken bij €5.000 of hoger de totale kosten van SumUp Lite versus Lightspeed.
 SumUp Team is beschikbaar, maar voor complexe medewerker-permissies en gedetailleerde personeelsrapportages is Square beter uitgerust.
 
 **Je wilt integreren met Exact Online:**
-SumUp's Exact-koppeling is indirect (via CSV of Zapier). Als je een naadloze, automatische synchronisatie wilt, zijn Square of Lightspeed beter.
+SumUp's Exact-koppeling is indirect (via CSV of Zapier). Als je een soepele, automatische synchronisatie wilt, zijn Square of Lightspeed beter.
 
 Als je een of meer van deze signalen herkent, is het tijd om te kijken naar [Square](/blog/square-kassa-review-2026/) of [Lightspeed](/blog/lightspeed-prijzen-2026/).
 

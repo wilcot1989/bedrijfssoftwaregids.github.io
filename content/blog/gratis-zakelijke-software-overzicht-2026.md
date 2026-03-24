@@ -16,7 +16,7 @@ faq:
   - q: "Welke gratis boekhoudsoftware is het beste voor ZZP?"
     a: "Wave is de meest complete gratis boekhoudoptie: onbeperkte facturen, kostenregistratie en rapporten. De beperking is dat Wave Payroll (loonadministratie) betaald is. Voor ZZP'ers die alleen facturen en kosten bijhouden, is Wave ideaal. Wil je BTW-aangifte direct koppelen, kijk dan naar het gratis plan van Moneybird (3 facturen/maand) of Flinkey."
   - q: "Heeft HubSpot CRM echt een gratis versie?"
-    a: "Ja, en het is indrukwekkend genereus. HubSpot CRM gratis biedt onbeperkt contacten, deals, taken, e-mailtracking, basisrapportages en een gratis website-chatwidget. De betaalde toevoegingen zijn voor de meeste kleine bedrijven pas nodig bij 10+ actieve verkopers of geavanceerde marketingautomatisering."
+    a: "Ja, en het is indrukwekkend genereus. HubSpot CRM gratis biedt onbeperkt contacten, deals, taken, e-mailtracking, basisrapportages en een gratis website-chatwidget. De betaalde toevoegingen zijn voor de meeste kleine bedrijven pas nodig bij 10+ actieve verkopers of uitgebreide marketingautomatisering."
   - q: "Hoe lang kan ik gratis software blijven gebruiken?"
     a: "Gratis (freemium) plannen zijn permanent — ze zijn een groeimodel voor de aanbieder. Zolang het bedrijf bestaat, heb je toegang. De risico's: het bedrijf stopt (zelden), het gratis plan wordt verslechterd (regelmatig), of je groeit de limieten uit (normaal). Exporteer altijd je data regelmatig als backup."
   - q: "Wat zijn de verborgen kosten van gratis software?"
@@ -87,7 +87,7 @@ Meer lezen: [Moneybird review 2026](/blog/moneybird-review-2026/) | [Beste boekh
 ### 2. Facturatie — Invoice Ninja (open-source)
 
 **Gratis voor:** Onbeperkte facturen, onbeperkte klanten, offertes, creditnota's
-**Betaald voor:** Enterprise-functies, white-label, geavanceerde automatisering
+**Betaald voor:** Enterprise-functies, white-label, uitgebreide automatisering
 **Geschikt voor:** Freelancers en kleine dienstverleners met regelmatige facturatiebehoefte
 
 Invoice Ninja is een open-source factuurapplicatie die je kunt self-hosten (volledig gratis) of in de gehoste versie gebruiken (gratis tot 20 klanten, daarna $10/maand). De self-hosted versie is voor technici eenvoudig op te zetten en daarna volledig gratis.
@@ -123,7 +123,7 @@ HubSpot CRM gratis is het meest genereuze gratis CRM op de markt en dat terwijl 
 - HubSpot-branding op live chat en formulieren in gratis plan
 - Slechts 1 verkoop-pipeline gratis (upgrade nodig voor meerdere)
 - Marketingautomatisering (e-mailsequences, workflows) is betaald
-- Geavanceerde rapportages en AI vereisen Starter of Pro
+- Uitgebreide rapportages en AI vereisen Starter of Pro
 
 **Wanneer upgraden:** Bij 5+ verkopers, bij behoefte aan marketing-e-mailautomatisering, of als je meerdere verkooppijplijnen nodig hebt.
 
@@ -167,17 +167,17 @@ Meer lezen: [Beste projectmanagement software 2026](/blog/beste-projectmanagemen
 ### 5. Tijdregistratie — Clockify
 
 **Gratis voor:** Onbeperkte gebruikers, onbeperkte tijdsvermeldingen, basisrapporten, timer (web, app, desktop)
-**Betaald voor:** Facturatie op basis van uren, GPS-tracking, geavanceerde rapportages, team-dashboards, verzuimregistratie
+**Betaald voor:** Facturatie op basis van uren, GPS-tracking, gedetailleerde rapportages, team-dashboards, verzuimregistratie
 **Geschikt voor:** Elk bedrijf dat uren wil registreren per project of klant, freelancers, bureaus
 
 Clockify is uniek in de SaaS-markt: het gratis plan heeft geen gebruikerslimiet. Nooit. Een bureau van 50 mensen kan Clockify gratis gebruiken voor tijdregistratie. Dat maakt het de meest schaalbare gratis tijdregistratieoptie.
 
-**Mijn persoonlijke gebruik:** Ik gebruik Clockify voor mijn consultancywerk. De Chrome-extensie laat me één klik starten met tijdmeten in elke browser. De mobile app werkt naadloos. De weekrapporten exporteer ik naar mijn boekhoudsoftware.
+**Mijn persoonlijke gebruik:** Ik gebruik Clockify voor mijn consultancywerk. De Chrome-extensie laat me één klik starten met tijdmeten in elke browser. De mobile app werkt soepel. De weekrapporten exporteer ik naar mijn boekhoudsoftware.
 
 **Eerlijke limieten:**
 - Gratis plan bevat geen facturatiefunctie — je kunt niet direct facturen aanmaken vanuit geregistreerde uren
 - GPS-tracking voor buitendienstmedewerkers is betaald
-- Geavanceerde team-analyses (wie werkt hoeveel aan welk project) zijn betaald
+- Uitgebreide team-analyses (wie werkt hoeveel aan welk project) zijn betaald
 
 **Wanneer upgraden:** Als je op basis van geregistreerde uren direct facturen wilt genereren, of als je GPS-tracking nodig hebt.
 
@@ -237,7 +237,7 @@ Meer lezen: [Brevo review 2026](/blog/brevo-review-2026/) | [Beste e-mailmarketi
 <a href="https://www.freshdesk.com" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis met Freshdesk →</a>
 
 **Gratis voor:** Onbeperkte agents (!), e-mailtickets, kennisbank, basisrapportages
-**Betaald voor:** Automatisering, SLA-beheer, meerdere producten, geavanceerde analyses, telefonie
+**Betaald voor:** Automatisering, SLA-beheer, meerdere producten, diepgaande analyses, telefonie
 **Geschikt voor:** Bedrijven die klanttickets via e-mail willen afhandelen, zonder complexe workflows
 
 Freshdesk Free (het Sprout-plan) is verrassend capabel. Het woord "onbeperkte agents" kan ik niet genoeg benadrukken: de hoofdconcurrent Zendesk begint bij €55 per agent per maand. Voor een klantenserviceteam van 5 mensen is Freshdesk gratis versus Zendesk betaald een verschil van €3.300/jaar.
@@ -288,7 +288,7 @@ Meer lezen: [WooCommerce review 2026](/blog/woocommerce-review-2026/) | [WooComm
 **Betaald voor:** Zakelijk e-mailadres (@jouwbedrijf.nl), meer opslag, beheertools (v.a. €6 p.p./maand)
 **Geschikt voor:** Absolute starters die communicatie- en documenttools nodig hebben
 
-De gratis versies van Google's en Microsoft's productiviteitssuites zijn uitstekend voor personeel gebruik. De cruciale beperkingen zijn het ontbreken van een zakelijk e-mailadres en beperkte opslag.
+De gratis versies van Google's en Microsoft's productiviteitssuites zijn uitstekend voor personeel gebruik. De essentiële beperkingen zijn het ontbreken van een zakelijk e-mailadres en beperkte opslag.
 
 **Mijn advies:** Zodra je een zakelijk imago belangrijk vindt (info@jouwbedrijf.nl in plaats van jouwbedrijf@gmail.com), zijn de €6 per persoon per maand voor Google Workspace Starter of Microsoft 365 Business Basic de investering waard. Dat is €72/jaar voor een professional beeld.
 
@@ -318,7 +318,7 @@ Meer lezen: [Mollie review 2026](/blog/mollie-review-2026/) | [Beste payment pro
 **Betaald voor:** Google Analytics 360 (enterprise-datasets, SLA, grotere datavolumes)
 **Geschikt voor:** Elke website, van één pagina tot internationaal platform
 
-Google Analytics 4 is gratis en onmisbaar. Elke website die serieus genomen wil worden, heeft analytics. GA4 vertelt je hoeveel bezoekers je hebt, via welke kanalen ze komen, welke pagina's ze bezoeken, en waar ze afhaken.
+Google Analytics 4 is gratis en essentieel. Elke website die serieus genomen wil worden, heeft analytics. GA4 vertelt je hoeveel bezoekers je hebt, via welke kanalen ze komen, welke pagina's ze bezoeken, en waar ze afhaken.
 
 Combineer GA4 met Google Search Console (ook gratis) voor een volledig beeld van je organische zoekverkeer.
 
@@ -329,12 +329,12 @@ Combineer GA4 met Google Search Console (ook gratis) voor een volledig beeld van
 ### 13. Wachtwoordbeheer — Bitwarden
 
 **Gratis voor:** Onbeperkte wachtwoorden, alle apparaten, basis-2FA
-**Betaald voor:** Geavanceerde 2FA-opties, gedeelde kluizen voor teams, 1GB bestandsopslag, rapporten
+**Betaald voor:** Uitgebreide 2FA-opties, gedeelde kluizen voor teams, 1GB bestandsopslag, rapporten
 **Geschikt voor:** Elk individu en elk klein team dat wachtwoorden veilig wil beheren
 
 Bitwarden is de enige volledig open-source wachtwoordmanager met een gratis plan dat voor onbeperkt individueel gebruik geschikt is. Open-source betekent dat de code publiekelijk controleerbaar is — een sterke veiligheidsgarantie.
 
-**Mijn gebruik:** Ik gebruik Bitwarden voor alle zakelijke en persoonlijke wachtwoorden. De browser-extensie is uitstekend, de mobile app werkt naadloos. Ik heb 300+ wachtwoorden en betaal €0.
+**Mijn gebruik:** Ik gebruik Bitwarden voor alle zakelijke en persoonlijke wachtwoorden. De browser-extensie is uitstekend, de mobile app werkt soepel. Ik heb 300+ wachtwoorden en betaal €0.
 
 **Team-gebruik:** Voor het veilig delen van wachtwoorden binnen een team (bijv. toegang tot social media, hosting, tools) heb je Bitwarden Teams nodig ($3/gebruiker/maand) of 1Password Teams.
 
@@ -369,7 +369,7 @@ Tally is een modernere optie met betere design-opties en een logica-module die G
 ### 16. Digitaal ondertekenen — DocuSign gratis (3/maand)
 
 **Gratis voor:** 3 documenten per maand ondertekenen
-**Betaald voor:** Meer documenten, geavanceerde workflows, bulk send, API
+**Betaald voor:** Meer documenten, uitgebreide workflows, bulk send, API
 **Geschikt voor:** ZZP'ers die sporadisch contracten ondertekenen
 
 Voor bedrijven die 1–3 contracten per maand ondertekenen is DocuSign gratis voldoende. Voor meer documenten per maand: Adobe Sign of Smallpdf (2 taken/dag gratis), of het Nederlandse [beste digitaal ondertekenen software 2026](/blog/beste-digitaal-ondertekenen-software-2026/) overzicht.
@@ -409,7 +409,7 @@ Meer lezen: [Notion review 2026](/blog/notion-review-2026/)
 **Gratis voor:** Onbeperkte meetings, tot 100 deelnemers, maximaal 60 minuten per meeting
 **Betaald voor:** Meetings langer dan 60 minuten, opnames, whiteboards, meer deelnemers
 
-Voor zakelijke videovergaderingen tot 60 minuten is Google Meet gratis uitstekend. Combineer met Google Workspace voor een naadloze integratie met agenda's.
+Voor zakelijke videovergaderingen tot 60 minuten is Google Meet gratis uitstekend. Combineer met Google Workspace voor een directe integratie met agenda's.
 
 **Microsoft alternatief:** Teams gratis biedt vergelijkbare functionaliteit maar is meer geschikt als je al in het Microsoft-ecosysteem zit.
 
@@ -474,7 +474,7 @@ Ja, mits je de juiste tools kiest. HubSpot CRM, Clockify, Trello en Google Works
 Wave is de meest complete gratis boekhoudoptie: onbeperkte facturen, kostenregistratie en rapporten. De beperking is dat Wave Payroll betaald is. Voor ZZP'ers die alleen facturen en kosten bijhouden, is Wave ideaal. Wil je BTW-aangifte direct koppelen, kijk dan naar het gratis plan van Moneybird (3 facturen/maand) of Flinkey.
 
 **Heeft HubSpot CRM echt een gratis versie?**
-Ja, en het is indrukwekkend genereus. HubSpot CRM gratis biedt onbeperkt contacten, deals, taken, e-mailtracking, basisrapportages en een gratis website-chatwidget. De betaalde toevoegingen zijn voor de meeste kleine bedrijven pas nodig bij 10+ actieve verkopers of geavanceerde marketingautomatisering.
+Ja, en het is indrukwekkend genereus. HubSpot CRM gratis biedt onbeperkt contacten, deals, taken, e-mailtracking, basisrapportages en een gratis website-chatwidget. De betaalde toevoegingen zijn voor de meeste kleine bedrijven pas nodig bij 10+ actieve verkopers of uitgebreide marketingautomatisering.
 
 **Hoe lang kan ik gratis software blijven gebruiken?**
 Gratis (freemium) plannen zijn permanent — ze zijn een groeimodel voor de aanbieder. Zolang het bedrijf bestaat, heb je toegang. De risico's: het bedrijf stopt (zelden), het gratis plan wordt verslechterd (regelmatig), of je groeit de limieten uit (normaal). Exporteer altijd je data regelmatig als backup.

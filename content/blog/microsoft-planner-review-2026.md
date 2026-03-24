@@ -25,9 +25,9 @@ faq:
   - q: "Werkt Microsoft Planner met Microsoft Teams?"
     a: "Ja, Planner is diep geïntegreerd in Microsoft Teams. Je kunt een Planner-board toevoegen als tabblad in elk Teams-kanaal. Taken worden gesynchroniseerd en je ontvangt meldingen in Teams. Dit maakt Planner bijzonder aantrekkelijk voor organisaties die al zwaar inzetten op het Microsoft 365-ecosysteem."
   - q: "Is Microsoft Planner geschikt als vervanging voor Monday.com of Asana?"
-    a: "Voor eenvoudige projecten en teams die al Microsoft 365 gebruiken: ja, Planner kan een goede gratis vervanger zijn. Voor complexere projecten met uitgebreide rapportages, cross-project portfoliobeheer, geavanceerde automatiseringen en integraties buiten het Microsoft-ecosysteem zijn Monday.com en Asana duidelijk krachtiger."
+    a: "Voor eenvoudige projecten en teams die al Microsoft 365 gebruiken: ja, Planner kan een goede gratis vervanger zijn. Voor complexere projecten met uitgebreide rapportages, cross-project portfoliobeheer, uitgebreide automatiseringen en integraties buiten het Microsoft-ecosysteem zijn Monday.com en Asana duidelijk krachtiger."
   - q: "Welke Microsoft 365-licentie heb ik nodig voor Planner?"
-    a: "Planner (Kanban + basisplanning) is inbegrepen in Microsoft 365 Business Basic ($6/gebruiker/maand), Microsoft 365 Business Standard ($12,50/gebruiker/maand) en hogere plannen. De geavanceerde Planner-functies zoals tijdlijn en rapportages vereisen Microsoft 365 E3/E5 of een aparte Project Plan-add-on."
+    a: "Planner (Kanban + basisplanning) is inbegrepen in Microsoft 365 Business Basic ($6/gebruiker/maand), Microsoft 365 Business Standard ($12,50/gebruiker/maand) en hogere plannen. De uitgebreide Planner-functies zoals tijdlijn en rapportages vereisen Microsoft 365 E3/E5 of een aparte Project Plan-add-on."
   - q: "Wat zijn de beste alternatieven voor Microsoft Planner?"
     a: "Als je buiten het Microsoft-ecosysteem wilt stappen: Monday.com (meest flexibel, sterkste automatiseringen), Asana (beste structuur voor projectteams) en Trello (goedkoopste Kanban-alternatief). Als je binnen Microsoft wilt blijven maar meer functionaliteit wilt: Microsoft Project voor complexe planning."
 ---
@@ -60,7 +60,7 @@ Wil je eerst het grotere plaatje? Zie mijn [overzicht van de beste projectmanage
 
 Microsoft Planner is de taak- en projectbeheer-tool van Microsoft, ingebouwd in het Microsoft 365-ecosysteem. Planner is inbegrepen in bijna elk zakelijk Microsoft 365-abonnement — je betaalt er dus niet extra voor als je al M365 gebruikt.
 
-De tool heeft een turbulente geschiedenis. Tot 2023 was Planner een beperkte Kanban-tool naast de warboel van Microsoft To Do, Microsoft Lists, Microsoft Project en zelfs Microsoft Teams-taken. Microsoft heeft dit eindelijk gestroomlijnd: in 2024 werd de nieuwe, herwerkte Planner uitgerold die al deze taken-ervaringen integreert in één coherente omgeving.
+De tool heeft een turbulente geschiedenis. Tot 2023 was Planner een beperkte Kanban-tool naast de warboel van Microsoft To Do, Microsoft Lists, Microsoft Project en zelfs Microsoft Teams-taken. Microsoft heeft dit eindelijk geoptimaliseerd: in 2024 werd de nieuwe, herwerkte Planner uitgerold die al deze taken-ervaringen integreert in één coherente omgeving.
 
 De hernieuwde Planner heeft drie lagen:
 
@@ -93,7 +93,7 @@ Planner heeft geen eigen prijskaartje. Je betaalt voor Microsoft 365 en Planner 
 
 ### Project Plan 3 — $30/gebruiker/maand (jaarlijks, add-on)
 - Microsoft Project for the web
-- Geavanceerde resource- en tijdlijnplanning
+- Uitgebreide resource- en tijdlijnplanning
 - Inbegrepen in Planner Premium
 
 ### Wat betaal je effectief voor Planner?
@@ -129,7 +129,7 @@ Ik vind dit een van de meest praktische verbeteringen. In grotere organisaties b
 
 De tijdlijnweergave is een Gantt-achtige weergave van taken op een horizontale tijdas. Je kunt taken met een startdatum en deadline weergeven als balkjes, afhankelijkheden aangeven en zien waar je team op schema ligt.
 
-**Eerlijk oordeel:** De tijdlijnweergave is functioneel maar niet zo krachtig als wat je vindt in Asana of Monday.com. Afhankelijkheden zijn beperkt in aanpasbare weergave, het zoomen op tijdsschaal is minder soepel, en het ontbreekt aan geavanceerde resource-capaciteitsplanning. Voor eenvoudige projectplanning is het voldoende; voor complexe meerdere-teamsplanning schiet het tekort.
+**Eerlijk oordeel:** De tijdlijnweergave is functioneel maar niet zo krachtig als wat je vindt in Asana of Monday.com. Afhankelijkheden zijn beperkt in aanpasbare weergave, het zoomen op tijdsschaal is minder soepel, en het ontbreekt aan uitgebreide resource-capaciteitsplanning. Voor eenvoudige projectplanning is het voldoende; voor complexe meerdere-teamsplanning schiet het tekort.
 
 ### Microsoft Teams-integratie
 
@@ -151,7 +151,7 @@ In de basisversie van Planner zijn de rapportages beperkt: je ziet hoeveel taken
 
 In Planner Premium zijn er meer dashboards beschikbaar, maar ze zijn nog steeds bescheidener dan wat Monday.com, Asana of ClickUp bieden. Geen workloadoverzicht per persoon, geen burndown charts, geen cycle time analyse.
 
-**Workaround:** Via Power BI kun je Planner-data visualiseren in geavanceerde dashboards. Voor organisaties die al Power BI gebruiken, is dit een serieuze optie. Maar het vereist extra setup en kennis.
+**Workaround:** Via Power BI kun je Planner-data visualiseren in uitgebreide dashboards. Voor organisaties die al Power BI gebruiken, is dit een serieuze optie. Maar het vereist extra setup en kennis.
 
 ### Outlook- en Microsoft To Do-integratie
 
@@ -161,7 +161,7 @@ Ik vind dit een onderschatte functie. Hoeveel e-mails blijven er onverwerkt ligg
 
 ### Power Automate-integratie
 
-Microsoft Planner werkt naadloos met **Power Automate** (vroeger Flow): Microsoft's automatiseringsplatform. Je kunt workflows bouwen zoals:
+Microsoft Planner werkt soepel met **Power Automate** (vroeger Flow): Microsoft's automatiseringsplatform. Je kunt workflows bouwen zoals:
 
 - Wanneer een taak in Planner wordt aangemaakt, stuur een Slack-bericht
 - Wanneer een Planner-taak wordt afgerond, maak een Teams-kanaalpost aan
@@ -171,7 +171,7 @@ Power Automate is aanzienlijk krachtiger dan ingebouwde automatiseringen van con
 
 ### SharePoint en OneDrive koppeling
 
-Bestanden koppelen aan taken werkt naadloos via SharePoint en OneDrive. Wanneer je een bijlage toevoegt aan een Planner-taak, sla je het op in SharePoint — niet in een losstaande cloud-bucket. Dit is relevant voor bedrijven die data-governance serieus nemen: bestanden blijven in de bedrijfsomgeving, niet bij een derde partij.
+Bestanden koppelen aan taken werkt soepel via SharePoint en OneDrive. Wanneer je een bijlage toevoegt aan een Planner-taak, sla je het op in SharePoint — niet in een losstaande cloud-bucket. Dit is relevant voor bedrijven die data-governance serieus nemen: bestanden blijven in de bedrijfsomgeving, niet bij een derde partij.
 
 In de praktijk: een marketingmanager koppelt het goedgekeurde design (in OneDrive) aan de Planner-taak "Banner opmaken". De designer opent de taak, ziet het bestand direct zonder door mappen te zoeken. Wijzigingen in het bestand zijn direct zichtbaar in Planner.
 
@@ -255,11 +255,11 @@ Planner werkt alleen goed als je in het Microsoft-ecosysteem blijft. Zodra je ov
 
 ### Licentieveranderingen
 
-Microsoft verandert regelmatig de licentiestructuur. Functies die vandaag in Business Standard zitten, kunnen morgen naar E3 worden verplaatst. Dit is in het verleden al gebeurd met geavanceerde Planner-functies. Als je op de gratis meeleverende versie rekent voor je projectbeheer, loop je het risico dat dat ooit verandert.
+Microsoft verandert regelmatig de licentiestructuur. Functies die vandaag in Business Standard zitten, kunnen morgen naar E3 worden verplaatst. Dit is in het verleden al gebeurd met uitgebreide Planner-functies. Als je op de gratis meeleverende versie rekent voor je projectbeheer, loop je het risico dat dat ooit verandert.
 
 ### Beperkte community en templates
 
-Vergeleken met Asana, Monday.com of Trello heeft Planner een kleinere community. Er zijn minder templates, minder YouTube-tutorials en minder third-party resources. Voor power-users die inspiratie zoeken voor geavanceerde inrichtingen, is de Planner-community teleurstellend klein.
+Vergeleken met Asana, Monday.com of Trello heeft Planner een kleinere community. Er zijn minder templates, minder YouTube-tutorials en minder third-party resources. Voor power-users die inspiratie zoeken voor uitgebreide inrichtingen, is de Planner-community teleurstellend klein.
 
 ## Microsoft Planner vs. de andere Microsoft-tools
 
@@ -273,7 +273,7 @@ Dit is verwarrend voor veel organisaties, dus hier een overzicht:
 | **Microsoft Project** | Complexe projectplanning | Aparte licentie |
 | **Microsoft Teams-taken** | Taken vanuit Teams | M365 |
 
-De vernieuwde Planner integreert To Do (persoonlijk), Planner (team) en taken uit Teams in één omgeving. Lists en Project blijven aparte tools. Voor het MKB is de aanbeveling eenvoudig: **begin met Planner, schakel over naar Project als je resourceplanning en geavanceerde Gantt nodig hebt.**
+De vernieuwde Planner integreert To Do (persoonlijk), Planner (team) en taken uit Teams in één omgeving. Lists en Project blijven aparte tools. Voor het MKB is de aanbeveling eenvoudig: **begin met Planner, schakel over naar Project als je resourceplanning en uitgebreide Gantt nodig hebt.**
 
 ## Planner voor- en nadelen
 
@@ -313,7 +313,7 @@ Planner is de juiste keuze als:
 
 Planner is de verkeerde keuze als:
 
-1. **Je geavanceerde Gantt-planning nodig hebt** met afhankelijkheden en resources (gebruik dan Project)
+1. **Je uitgebreide Gantt-planning nodig hebt** met afhankelijkheden en resources (gebruik dan Project)
 2. **Je buiten het Microsoft-ecosysteem werkt** met tools als Google Workspace, Salesforce of Notion
 3. **Je uitgebreide rapportages wilt** zonder Power BI erbij te betalen en in te richten
 4. **Je complexe automatiseringen nodig hebt** zonder Power Automate te willen leren
@@ -351,7 +351,7 @@ Trello is vergelijkbaar met Planner op het basale niveau: beiden zijn Kanban-too
 
 ### Microsoft Planner vs. ClickUp
 
-[ClickUp](/blog/clickup-review-2026/) biedt tijdregistratie, geavanceerde automatiseringen, subtaak-hiërarchieën en uitgebreide rapportages die Planner mist. Als je bereid bent te betalen (~$7/gebruiker voor Unlimited), krijg je significant meer dan wat Planner biedt. Zie ook de [vergelijking van Monday.com vs. ClickUp](/blog/monday-com-vs-clickup-2026/).
+[ClickUp](/blog/clickup-review-2026/) biedt tijdregistratie, uitgebreide automatiseringen, subtaak-hiërarchieën en uitgebreide rapportages die Planner mist. Als je bereid bent te betalen (~$7/gebruiker voor Unlimited), krijg je significant meer dan wat Planner biedt. Zie ook de [vergelijking van Monday.com vs. ClickUp](/blog/monday-com-vs-clickup-2026/).
 
 **Kies Planner als:** je budget nul is en M365 al draait.
 **Kies ClickUp als:** je meer functies wilt voor een lage prijs.
@@ -364,7 +364,7 @@ Als je MKB kiest voor een puur cloudgebaseerde werkomgeving die intuïtief is en
 
 <a href="https://workspace.google.com/intl/nl/?utm_source=bedrijfssoftwaregids&utm_medium=affiliate&utm_campaign=planner-alternatief" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Google Workspace 14 dagen gratis →</a>
 
-Google Workspace Business Starter kost $6/gebruiker/maand en bevat Gmail, Drive, Meet, Docs, Sheets, Slides en meer. Voor projectmanagement combineer je het dan met een standalone tool als Asana, Trello of Monday — die allemaal naadloos integreren met Google Workspace.
+Google Workspace Business Starter kost $6/gebruiker/maand en bevat Gmail, Drive, Meet, Docs, Sheets, Slides en meer. Voor projectmanagement combineer je het dan met een standalone tool als Asana, Trello of Monday — die allemaal direct integreren met Google Workspace.
 
 ## Mijn eindoordeel
 
@@ -400,11 +400,11 @@ Ja, Planner is diep geïntegreerd in Microsoft Teams. Je kunt een Planner-board 
 
 ### Is Microsoft Planner geschikt als vervanging voor Monday.com of Asana?
 
-Voor eenvoudige projecten en teams die al Microsoft 365 gebruiken: ja, Planner kan een goede gratis vervanger zijn. Voor complexere projecten met uitgebreide rapportages, cross-project portfoliobeheer, geavanceerde automatiseringen en integraties buiten het Microsoft-ecosysteem zijn Monday.com en Asana duidelijk krachtiger.
+Voor eenvoudige projecten en teams die al Microsoft 365 gebruiken: ja, Planner kan een goede gratis vervanger zijn. Voor complexere projecten met uitgebreide rapportages, cross-project portfoliobeheer, uitgebreide automatiseringen en integraties buiten het Microsoft-ecosysteem zijn Monday.com en Asana duidelijk krachtiger.
 
 ### Welke Microsoft 365-licentie heb ik nodig voor Planner?
 
-Planner (Kanban + basisplanning) is inbegrepen in Microsoft 365 Business Basic ($6/gebruiker/maand), Microsoft 365 Business Standard ($12,50/gebruiker/maand) en hogere plannen. De geavanceerde Planner-functies zoals tijdlijn en rapportages vereisen Microsoft 365 E3/E5 of een aparte Project Plan-add-on.
+Planner (Kanban + basisplanning) is inbegrepen in Microsoft 365 Business Basic ($6/gebruiker/maand), Microsoft 365 Business Standard ($12,50/gebruiker/maand) en hogere plannen. De uitgebreide Planner-functies zoals tijdlijn en rapportages vereisen Microsoft 365 E3/E5 of een aparte Project Plan-add-on.
 
 ### Wat zijn de beste alternatieven voor Microsoft Planner?
 

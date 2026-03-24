@@ -60,7 +60,7 @@ Moneybird is mijn standaard aanbeveling voor ZZP'ers die hun boekhouding snel en
 
 **Wat ontbreekt:** Geen ingebouwde urenregistratie; voor projectgebaseerde freelancers is een aparte tool soms nodig.
 
-**Prijs:** Gratis proefperiode. Starter: EUR 15 per maand. Growth: EUR 28 per maand (inclusief meerdere gebruikers en geavanceerde rapportages).
+**Prijs:** Gratis proefperiode. Starter: EUR 15 per maand. Growth: EUR 28 per maand (inclusief meerdere gebruikers en gedetailleerde rapportages).
 
 <a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk Moneybird</a>
 

@@ -25,11 +25,11 @@ faq:
   - q: "Wat zijn de transactiekosten van Shopify in Nederland?"
     a: "Als je Shopify Payments (de eigen betaaloplossing) gebruikt, betaal je geen extra transactiekosten aan Shopify — alleen de kaartkosten van circa 1,5–1,9% per transactie. Gebruik je een externe betaalprovider zoals Mollie of MultiSafepay, dan betaal je bovenop die vergoeding ook nog 2% (Basic), 1% (Shopify-plan) of 0,5% (Advanced) aan Shopify. Bij €10.000 omzet per maand betekent dat €200 per maand extra op het Basic-plan."
   - q: "Hoeveel kosten apps gemiddeld bij Shopify?"
-    a: "Dat is de echte verborgen kostenpost. De meeste nieuwe Shopify-winkels betalen na zes maanden €50 tot €200 per maand aan apps. Denk aan review-apps (€15–30/mnd), upsell-tools (€20–40/mnd), e-mailmarketing (€20–60/mnd), geavanceerde filters (€15–25/mnd) en bundels of subscriptions (€25–50/mnd). Basis Shopify is vrij kaal — de app store vult de gaten, maar dat kost geld."
+    a: "Dat is de echte verborgen kostenpost. De meeste nieuwe Shopify-winkels betalen na zes maanden €50 tot €200 per maand aan apps. Denk aan review-apps (€15–30/mnd), upsell-tools (€20–40/mnd), e-mailmarketing (€20–60/mnd), uitgebreide filters (€15–25/mnd) en bundels of subscriptions (€25–50/mnd). Basis Shopify is vrij kaal — de app store vult de gaten, maar dat kost geld."
   - q: "Heeft Shopify gratis thema's?"
     a: "Ja, Shopify heeft circa 10–12 gratis thema's. Die zijn functioneel en zien er netjes uit. Betaalde thema's kosten eenmalig €150 tot €350 en bieden meer aanpassingsmogelijkheden, snellere laadtijden en uitgebreidere lay-outkeuzes. Voor de meeste startende webshops is een gratis thema prima om mee te beginnen."
   - q: "Wat kost Shopify Plus?"
-    a: "Shopify Plus begint bij circa €2.300 per maand (bij lagere omzetten) en loopt op tot een percentage van je omzet — 0,25% — als je meer dan circa €10 miljoen per jaar omzet. Plus is bedoeld voor grotere e-commerce spelers en biedt onder meer een dedicated accountmanager, uitgebreide API-toegang, geavanceerde checkout-aanpassingen en meerdere winkels onder één contract."
+    a: "Shopify Plus begint bij circa €2.300 per maand (bij lagere omzetten) en loopt op tot een percentage van je omzet — 0,25% — als je meer dan circa €10 miljoen per jaar omzet. Plus is bedoeld voor grotere e-commerce spelers en biedt onder meer een dedicated accountmanager, uitgebreide API-toegang, uitgebreide checkout-aanpassingen en meerdere winkels onder één contract."
   - q: "Is Shopify goedkoper dan WooCommerce?"
     a: "Niet per se. WooCommerce zelf is gratis, maar je betaalt voor hosting (€5–30/mnd), een domeinnaam, premium thema's en plugins. Een professionele WooCommerce-setup kost snel €50–150 per maand in totaal. Shopify Basic is €36/mnd met alles inbegrepen. Bij vergelijkbare functionaliteit liggen de kosten dicht bij elkaar — Shopify is makkelijker te overzien, WooCommerce geeft meer controle over wat je betaalt."
 ---
@@ -59,7 +59,7 @@ Bij jaarlijkse betaling ontvang je een korting van ongeveer 25%, wat neerkomt op
 
 Het instapabonnement geeft je een complete webshop met onbeperkte producten, een eigen checkout, basisfuncties voor verzendkosten en twee medewerkeraccounts. Dat is voldoende voor een startende ondernemer of een kleine webshop met één medewerker.
 
-Wat je niet krijgt op Basic: geavanceerde rapportages, berekende verzendtarieven (carrier-calculated shipping) in de checkout, of uitgebreid rechtenbeheer voor medewerkers. Die functies zitten pas in de hogere plannen.
+Wat je niet krijgt op Basic: gedetailleerde rapportages, berekende verzendtarieven (carrier-calculated shipping) in de checkout, of uitgebreid rechtenbeheer voor medewerkers. Die functies zitten pas in de hogere plannen.
 
 ### Shopify-plan — €105 per maand
 
@@ -67,11 +67,11 @@ Het middelste plan voegt professionele rapportages toe, tot vijf medewerkeraccou
 
 ### Advanced — €384 per maand
 
-Voor grotere webshops met meerdere medewerkers, behoefte aan geavanceerde rapportages en lage transactiekosten (0,5%). Op dit niveau krijg je ook uitgebreide exportmogelijkheden, IP-beveiliging voor de checkout en derde-partij berekende verzendkosten — handig als je met meerdere vervoerders werkt.
+Voor grotere webshops met meerdere medewerkers, behoefte aan gedetailleerde rapportages en lage transactiekosten (0,5%). Op dit niveau krijg je ook uitgebreide exportmogelijkheden, IP-beveiliging voor de checkout en derde-partij berekende verzendkosten — handig als je met meerdere vervoerders werkt.
 
 ### Plus — vanaf €2.300 per maand
 
-Shopify Plus is het enterprise-aanbod en staat eigenlijk buiten de vergelijking voor de meeste lezers van dit artikel. De prijs start bij €2.300 per maand voor kleinere omzetten en verschuift naar een omzetgebaseerd model (0,25% van de omzet) zodra je voldoende verkoopt. Plus biedt een dedicated accountmanager, uitgebreidere API's, meerdere winkels onder één contract en geavanceerde checkout-aanpassingen.
+Shopify Plus is het enterprise-aanbod en staat eigenlijk buiten de vergelijking voor de meeste lezers van dit artikel. De prijs start bij €2.300 per maand voor kleinere omzetten en verschuift naar een omzetgebaseerd model (0,25% van de omzet) zodra je voldoende verkoopt. Plus biedt een dedicated accountmanager, uitgebreidere API's, meerdere winkels onder één contract en uitgebreide checkout-aanpassingen.
 
 <a href="https://shopify.pxf.io/WOqGgA" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start Shopify 3 dagen gratis →</a>
 
@@ -128,7 +128,7 @@ Deze apps verhogen de gemiddelde orderwaarde — en ze betalen zichzelf terug. M
 - ReConvert: €4,99–14,99/mnd (met omzetplafond)
 - Frequently Bought Together: €10/mnd
 
-**Geavanceerde zoek- en filteropties**
+**Uitgebreide zoek- en filteropties**
 Shopify's ingebouwde zoekfunctie is beperkt. Voor een winkel met meer dan 50 producten wil je betere filters en zoekresultaten.
 - Boost Commerce: €14–29/mnd
 - SearchPie: €0–25/mnd
@@ -154,7 +154,7 @@ Op basis van wat ik zie bij klanten en in de industrie: een startende webshop be
 - **Groeiende winkel (6–18 maanden):** €50–100/mnd apps
 - **Volwassen winkel (18+ maanden):** €100–200/mnd apps
 
-Sommige grotere webshops betalen €300–500 per maand aan apps — dat zijn dan winkels met serieus app-gebruik voor loyalty, subscriptions, geavanceerde rapportages en maatwerk-flows.
+Sommige grotere webshops betalen €300–500 per maand aan apps — dat zijn dan winkels met serieus app-gebruik voor loyalty, subscriptions, gedetailleerde rapportages en maatwerk-flows.
 
 ## Thema-kosten
 
@@ -344,7 +344,7 @@ Na al deze cijfers wil ik een praktisch advies geven over wanneer je welk plan k
 
 ### Kies Plus als:
 - Je meerdere winkels (landen) beheert onder één account
-- Je geavanceerde checkout-aanpassingen nodig hebt
+- Je uitgebreide checkout-aanpassingen nodig hebt
 - Je een dedicated accountmanager wilt
 - Je omzet boven €200.000 per maand ligt
 

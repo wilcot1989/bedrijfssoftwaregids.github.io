@@ -22,7 +22,7 @@ faq:
   - q: "Is HoorayHR geschikt voor bedrijven met minder dan 10 medewerkers?"
     a: "Ja, HoorayHR is specifiek ontworpen voor kleine en middelgrote Nederlandse bedrijven. Er is een minimumprijs van €45/mnd, wat betekent dat je voor kleinere bedrijven (minder dan 10 medewerkers) een kleine toeslag betaalt. Dit maakt het toch een van de goedkoopste opties voor kleine teams."
   - q: "Vervangt HoorayHR mijn salarisadministratie?"
-    a: "Nee, HoorayHR vervangt geen volledige salarisadministratie. Het is HR-software gericht op medewerker-zelfservice, verlofbeheer, verzuim en onboarding. Voor salarisadministratie koppel je HoorayHR met Loket.nl, Nmbrs, AFAS of een externe salarisadministrateur. De koppeling met Loket.nl is native en werkt naadloos."
+    a: "Nee, HoorayHR vervangt geen volledige salarisadministratie. Het is HR-software gericht op medewerker-zelfservice, verlofbeheer, verzuim en onboarding. Voor salarisadministratie koppel je HoorayHR met Loket.nl, Nmbrs, AFAS of een externe salarisadministrateur. De koppeling met Loket.nl is native en werkt soepel."
   - q: "Werkt HoorayHR met Nederlandse arbeidswetgeving?"
     a: "Ja, HoorayHR is volledig afgestemd op de Nederlandse wet- en regelgeving. Verlofberekeningen houden rekening met CAO-bepalingen, wettelijke verlofopbouw en vakantiegeld. Verzuimprotocol volgt de Wet Verbetering Poortwachter. Dit is een groot voordeel ten opzichte van buitenlandse HR-tools."
   - q: "Hoe eenvoudig is de implementatie van HoorayHR?"
@@ -63,7 +63,7 @@ Ik heb HoorayHR bij drie bedrijven getest en geïmplementeerd:
 
 **Installatiebedrijf (45 medewerkers, Rotterdam):** CAO Metaal en Techniek. HoorayHR verwerkt de juiste verlofopbouw per CAO-categorie correct. De koppeling met Loket.nl voor salarisadministratie werkt foutloos.
 
-**Zorginstelling (12 medewerkers):** Kleine organisatie die voorheen papieren formulieren gebruikte. Onboarding-checklists en digitale contracten via HoorayHR hebben het inwerken van nieuwe medewerkers gestroomlijnd.
+**Zorginstelling (12 medewerkers):** Kleine organisatie die voorheen papieren formulieren gebruikte. Onboarding-checklists en digitale contracten via HoorayHR hebben het inwerken van nieuwe medewerkers geoptimaliseerd.
 
 ---
 
@@ -251,7 +251,7 @@ HoorayHR integreert met de belangrijkste Nederlandse tools:
 
 HoorayHR is de beste instap-HR-software voor Nederlandse MKB-bedrijven. De combinatie van eenvoud, Nederlandse focus en competitieve prijs maakt het een voor de hand liggende keuze voor bedrijven die van handmatige processen naar digitaal HR-beheer willen gaan.
 
-De beperking is duidelijk: je hebt nog steeds een apart salarisadministratiepakket nodig. Maar de koppeling met Loket.nl is naadloos en werkt goed.
+De beperking is duidelijk: je hebt nog steeds een apart salarisadministratiepakket nodig. Maar de koppeling met Loket.nl is soepel en werkt goed.
 
 **Cijfer: 8,5/10**
 
@@ -268,7 +268,7 @@ HoorayHR kost €4,50 per medewerker per maand bij het Starter-plan, €6,50 bij
 Ja, HoorayHR is specifiek ontworpen voor kleine en middelgrote Nederlandse bedrijven. Er is een minimumprijs van €45/mnd, wat betekent dat je voor kleinere bedrijven (minder dan 10 medewerkers) een kleine toeslag betaalt. Dit maakt het toch een van de goedkoopste opties voor kleine teams.
 
 **Vervangt HoorayHR mijn salarisadministratie?**
-Nee, HoorayHR vervangt geen volledige salarisadministratie. Het is HR-software gericht op medewerker-zelfservice, verlofbeheer, verzuim en onboarding. Voor salarisadministratie koppel je HoorayHR met Loket.nl, Nmbrs, AFAS of een externe salarisadministrateur. De koppeling met Loket.nl is native en werkt naadloos.
+Nee, HoorayHR vervangt geen volledige salarisadministratie. Het is HR-software gericht op medewerker-zelfservice, verlofbeheer, verzuim en onboarding. Voor salarisadministratie koppel je HoorayHR met Loket.nl, Nmbrs, AFAS of een externe salarisadministrateur. De koppeling met Loket.nl is native en werkt soepel.
 
 **Werkt HoorayHR met Nederlandse arbeidswetgeving?**
 Ja, HoorayHR is volledig afgestemd op de Nederlandse wet- en regelgeving. Verlofberekeningen houden rekening met CAO-bepalingen, wettelijke verlofopbouw en vakantiegeld. Verzuimprotocol volgt de Wet Verbetering Poortwachter. Dit is een groot voordeel ten opzichte van buitenlandse HR-tools.

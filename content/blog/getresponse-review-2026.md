@@ -19,7 +19,7 @@ faq:
   - q: "Wat kost GetResponse per maand?"
     a: "GetResponse heeft vier plannen: Free (gratis, 500 contacten), Email Marketing (€15,58/mnd, 1.000 contacten), Marketing Automation (€48,38/mnd) en Ecommerce Marketing (€97,58/mnd). Bij jaarlijkse betaling krijg je 18% korting. Max-plan (Enterprise) is op aanvraag. Alle betaalde plannen hebben onbeperkt emails."
   - q: "Heeft GetResponse een gratis plan?"
-    a: "Ja, GetResponse biedt een gratis plan voor maximaal 500 contacten. Je kunt 2.500 emails per maand versturen, een website aanmaken en signup-formulieren gebruiken. Automation en geavanceerde functies zijn niet beschikbaar in het gratis plan. Het is een goede manier om de interface te leren kennen."
+    a: "Ja, GetResponse biedt een gratis plan voor maximaal 500 contacten. Je kunt 2.500 emails per maand versturen, een website aanmaken en signup-formulieren gebruiken. Automation en uitgebreide functies zijn niet beschikbaar in het gratis plan. Het is een goede manier om de interface te leren kennen."
   - q: "Is GetResponse geschikt voor e-commerce?"
     a: "GetResponse heeft een speciale Ecommerce Marketing-plan met automatische productaanbevelingen, abandoned cart emails en winkelwagen-recovery. De e-commerce functies zijn goed maar niet zo diep als Klaviyo. Voor Shopify en WooCommerce webshops die ook een webinar- of salesfunnelstrategie willen, is GetResponse een interessante optie."
   - q: "Wat maakt GetResponse uniek ten opzichte van concurrenten?"
@@ -34,7 +34,7 @@ GetResponse is een van de oudste en meest volwassen email marketing platforms. O
 
 In deze review vertel ik je wat GetResponse goed doet, waar het tekortschiet, en voor welk type ondernemer het de beste keuze is. Want GetResponse is niet voor iedereen de beste tool — maar voor de juiste doelgroep is het uitstekend.
 
-Wil je meer vergelijken? Lees mijn [Klaviyo review 2026](/blog/klaviyo-review-2026/) voor e-commerce focus of de [ActiveCampaign review](/blog/activecampaign-review-2026/) voor geavanceerde automation.
+Wil je meer vergelijken? Lees mijn [Klaviyo review 2026](/blog/klaviyo-review-2026/) voor e-commerce focus of de [ActiveCampaign review](/blog/activecampaign-review-2026/) voor uitgebreide automation.
 
 ## GetResponse in het kort
 
@@ -91,7 +91,7 @@ De automation-builder van GetResponse is visueel en intuïtief:
 - Lead scoring ingebouwd
 - Website tracking (bezoekers tracken)
 
-Vergeleken met ActiveCampaign is de automation iets minder geavanceerd (minder IF/THEN-vertakkingen, minder complex condities). Voor 80% van de gebruikers is het meer dan voldoende.
+Vergeleken met ActiveCampaign is de automation iets minder uitgebreid (minder IF/THEN-vertakkingen, minder complex condities). Voor 80% van de gebruikers is het meer dan voldoende.
 
 ### Webinars
 
@@ -224,7 +224,7 @@ De Zapier-integratie maakt koppeling mogelijk met 5.000+ apps zonder coding.
 2. Voeg je eerste contacten toe (importeer via CSV of koppel je bestaande tool)
 3. Maak je eerste email of automation aan
 4. Koppel eventueel je webshop (Shopify, WooCommerce)
-5. Activeer website-tracking voor geavanceerde automation
+5. Activeer website-tracking voor uitgebreide automation
 
 De onboarding is goed: video-tutorials, een stapsgewijze wizard en Nederlandstalige klantenservice.
 
@@ -234,7 +234,7 @@ De onboarding is goed: video-tutorials, een stapsgewijze wizard en Nederlandstal
 
 GetResponse is een uitstekend email marketing platform, met name voor online ondernemers die een alles-in-één oplossing willen. De combinatie van email marketing, webinars, salesfunnels en een website-builder is uniek in dit prijssegment.
 
-De deliverability van 99%, het EU-datacenter en de Nederlandse interface zijn extra pluspunten voor de Nederlandse markt. De automation is goed maar niet zo geavanceerd als ActiveCampaign.
+De deliverability van 99%, het EU-datacenter en de Nederlandse interface zijn extra pluspunten voor de Nederlandse markt. De automation is goed maar niet zo uitgebreid als ActiveCampaign.
 
 Voor de meeste Nederlandse MKB-bedrijven is GetResponse een uitstekende keuze die de prijs-kwaliteit verhouding biedt die grote namen als Mailchimp en ActiveCampaign niet kunnen evenaren.
 
@@ -250,7 +250,7 @@ Lees ook mijn [Klaviyo review](/blog/klaviyo-review-2026/) voor e-commerce email
 GetResponse heeft vier plannen: Free (gratis, 500 contacten), Email Marketing (€15,58/mnd, 1.000 contacten), Marketing Automation (€48,38/mnd) en Ecommerce Marketing (€97,58/mnd). Bij jaarlijkse betaling krijg je 18% korting. Max-plan (Enterprise) is op aanvraag. Alle betaalde plannen hebben onbeperkt emails.
 
 **Heeft GetResponse een gratis plan?**
-Ja, GetResponse biedt een gratis plan voor maximaal 500 contacten. Je kunt 2.500 emails per maand versturen, een website aanmaken en signup-formulieren gebruiken. Automation en geavanceerde functies zijn niet beschikbaar in het gratis plan. Het is een goede manier om de interface te leren kennen.
+Ja, GetResponse biedt een gratis plan voor maximaal 500 contacten. Je kunt 2.500 emails per maand versturen, een website aanmaken en signup-formulieren gebruiken. Automation en uitgebreide functies zijn niet beschikbaar in het gratis plan. Het is een goede manier om de interface te leren kennen.
 
 **Is GetResponse geschikt voor e-commerce?**
 GetResponse heeft een speciale Ecommerce Marketing-plan met automatische productaanbevelingen, abandoned cart emails en winkelwagen-recovery. De e-commerce functies zijn goed maar niet zo diep als Klaviyo. Voor Shopify en WooCommerce webshops die ook een webinar- of salesfunnelstrategie willen, is GetResponse een interessante optie.
@@ -331,7 +331,7 @@ Een verschil van 3% klinkt klein, maar bij 10.000 emails zijn dat 300 emails die
 
 ## GetResponse A/B-testen: meer dan alleen onderwerpregels
 
-GetResponse biedt geavanceerde A/B-testfunctionaliteit:
+GetResponse biedt uitgebreide A/B-testfunctionaliteit:
 
 **Wat je kunt testen:**
 - Onderwerpregels (meest gebruikt)
@@ -478,7 +478,7 @@ GetResponse's 99% deliverability claim verdient toelichting. Dit percentage geld
 **Mijn deliverability-test:**
 Met een nieuw account stuurde ik testmails naar 10 testaccounts (Gmail, Outlook, Yahoo, Ziggo, KPN). Resultaat: 9/10 in inbox, 1/10 in promoties-tab (Gmail). Na het toevoegen van DKIM-records: 10/10 in inbox.
 
-### Geavanceerde Automatisering: Workflow Mogelijkheden
+### Uitgebreide Automatisering: Workflow Mogelijkheden
 
 De Marketing Automation Builder van GetResponse ondersteunt meer dan basisflows. Krachtige functies die veel gebruikers missen:
 
@@ -565,7 +565,7 @@ Als GetResponse niet helemaal past, zijn dit de beste alternatieven:
 - Integraties: 7/10
 - **Totaalscore: 7.7/10**
 
-GetResponse is een uitstekende keuze voor coaches, trainers, MKB-bedrijven die e-mail + webinars willen combineren, en webshops met WooCommerce of Shopify. Het is niet de beste keuze voor grote B2B-ondernemingen (HubSpot is beter) of pure Shopify-webshops met geavanceerde segmentatie (Klaviyo is beter).
+GetResponse is een uitstekende keuze voor coaches, trainers, MKB-bedrijven die e-mail + webinars willen combineren, en webshops met WooCommerce of Shopify. Het is niet de beste keuze voor grote B2B-ondernemingen (HubSpot is beter) of pure Shopify-webshops met gedetailleerde segmentatie (Klaviyo is beter).
 
 De prijs-kwaliteitsverhouding is bij GetResponse uitstekend. U krijgt meer functies per euro dan bij de meeste concurrenten.
 

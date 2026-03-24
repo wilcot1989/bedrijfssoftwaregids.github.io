@@ -26,7 +26,7 @@ products:
     price: "7.00"
 faq:
   - q: "Is ClickUp echt gratis?"
-    a: "Ja, het Free Forever plan van ClickUp heeft onbeperkte taken en onbeperkte gebruikers. Je mist wel automatiseringen, Gantt-charts, geavanceerde dashboards en tijdregistratie. Die functies zitten in het Unlimited plan vanaf $7/gebruiker/maand."
+    a: "Ja, het Free Forever plan van ClickUp heeft onbeperkte taken en onbeperkte gebruikers. Je mist wel automatiseringen, Gantt-charts, uitgebreide dashboards en tijdregistratie. Die functies zitten in het Unlimited plan vanaf $7/gebruiker/maand."
   - q: "Wat kost ClickUp per maand?"
     a: "ClickUp biedt vier betaalde plannen: Unlimited ($7/gebruiker/maand), Business ($12/gebruiker/maand), Business Plus ($19/gebruiker/maand) en Enterprise op aanvraag. Bij jaarlijkse betaling zijn de prijzen zo'n 30% lager dan bij maandelijkse betaling. Er is ook een volledig gratis plan zonder tijdslimiet."
   - q: "Is ClickUp geschikt voor kleine teams en ZZP'ers?"
@@ -36,7 +36,7 @@ faq:
   - q: "Wat zijn de grootste nadelen van ClickUp?"
     a: "De drie meest genoemde nadelen zijn: de overweldigende hoeveelheid functies bij de eerste aanmelding, performance-problemen in grote workspaces met honderden taken, en de steile leercurve. Je besteedt bij ClickUp meer tijd aan de initiële inrichting dan bij vergelijkbare tools."
   - q: "Kan ik ClickUp gratis uitproberen?"
-    a: "Ja, op twee manieren. Het Free Forever plan is permanent gratis zonder tijdslimiet. Daarnaast biedt ClickUp een 14 dagen gratis proefperiode van betaalde plannen zodat je alle geavanceerde functies kunt testen voordat je een beslissing neemt."
+    a: "Ja, op twee manieren. Het Free Forever plan is permanent gratis zonder tijdslimiet. Daarnaast biedt ClickUp een 14 dagen gratis proefperiode van betaalde plannen zodat je alle uitgebreide functies kunt testen voordat je een beslissing neemt."
 ---
 
 Ik ben geen fan van hype. Dus toen ClickUp in 2022 de claim neerlegde "één app om ze allemaal te vervangen" — inclusief projectmanagement, documenten, whiteboards, spreadsheets en communicatie — was mijn eerste reactie sceptisch. Dat soort beloftes eindigt meestal in een product dat alles halfbakken doet.
@@ -85,7 +85,7 @@ ClickUp heeft vijf plannen. Hier is wat je werkelijk krijgt:
 |---|---|---|---|
 | **Free Forever** | Gratis | Gratis | Onbeperkte taken, onbeperkte gebruikers, 100 MB opslag |
 | **Unlimited** | $7/gebruiker/maand | $10/gebruiker/maand | Onbeperkte opslag, Gantt-charts, tijdregistratie, doelen, portfolio |
-| **Business** | $12/gebruiker/maand | $19/gebruiker/maand | Google SSO, geavanceerde automatiseringen, workload-beheer, publieke Docs |
+| **Business** | $12/gebruiker/maand | $19/gebruiker/maand | Google SSO, uitgebreide automatiseringen, workload-beheer, publieke Docs |
 | **Business Plus** | $19/gebruiker/maand | $29/gebruiker/maand | Subdelegaties, teams, aangepaste rollen, prioritaire support |
 | **Enterprise** | Op aanvraag | Op aanvraag | SSO/SAML, audit log, contract op maat, dedicated accountmanager |
 
@@ -135,7 +135,7 @@ Het gratis plan van ClickUp is het meest uitgebreide in zijn klasse. Laat ik pre
 - Gantt-charts (Unlimited en hoger)
 - Doelen en portfoliobeheer (Unlimited)
 - Dashboards met meer dan 100 gebruikskaarten (Unlimited)
-- Geavanceerde automatiseringen (Business)
+- Uitgebreide automatiseringen (Business)
 - Workload-weergave (Business)
 - Aangepaste exportopties (Business)
 - ClickUp Brain (add-on, $7 extra)
@@ -337,9 +337,9 @@ De beperking zit in de exportmogelijkheden en rapportages — die zijn op Free b
 
 Dit is het meest veelbelovende segment voor ClickUp. Business-plan ($12/gebruiker) geeft je:
 
-- Geavanceerde automatiseringen (10.000/maand)
+- Uitgebreide automatiseringen (10.000/maand)
 - Workload-management (capaciteitszicht per persoon)
-- Geavanceerde tijdrapportages
+- Uitgebreide tijdrapportages
 - Publieke Docs voor klantcommunicatie
 
 Voor teams in deze categorie adviseer ik altijd een pilotperiode van 4 weken met 5-10 personen voordat je het platform breed uitrolt. De leercurve is dan beter te managen.

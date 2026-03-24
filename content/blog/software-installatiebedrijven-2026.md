@@ -254,7 +254,7 @@ Exact Online is het toonaangevende ERP-pakket voor het Nederlandse MKB en het lo
 
 **Exact Online voor installatiebedrijven: wanneer loont het?** Ik adviseer Exact Online bij bedrijven waar de financiële administratie een aanzienlijk deel van de werklast geworden is. Als je bankafschriften moet verwerken, BTW-aangifte doet, facturen aan meerdere klanten verzendt en betalingen bijhoudt — dan loont het om dit in een volledig boekhoudpakket te doen in plaats van een simpel facturatieprogramma.
 
-De projectmodule van Exact Online is solide en biedt urenregistratie, kostenbewaking en nacalculatie. Het is niet zo intuïtief als Gripp voor dagelijks gebruik, maar de diepgang is groter. En als je boekhouder ook Exact Online gebruikt — wat bij een meerderheid van de Nederlandse accountants het geval is — is de samenwerking naadloos.
+De projectmodule van Exact Online is solide en biedt urenregistratie, kostenbewaking en nacalculatie. Het is niet zo intuïtief als Gripp voor dagelijks gebruik, maar de diepgang is groter. En als je boekhouder ook Exact Online gebruikt — wat bij een meerderheid van de Nederlandse accountants het geval is — is de samenwerking soepel.
 
 Lees ook mijn uitgebreide [Exact Online review](/blog/exact-online-review-2026/) voor een compleet beeld van functies en prijzen.
 
@@ -282,7 +282,7 @@ Ik raad Exact Online NIET aan voor:
 ### Prijzen (2026)
 - **Exact Online Boekhouden**: €39/maand (basisboekhouding)
 - **Exact Online MKB**: €59/maand (inclusief projectmodule)
-- **Exact Online Groot**: €89/maand (geavanceerde functies)
+- **Exact Online Groot**: €89/maand (uitgebreide functies)
 - Prijzen per bedrijf, niet per gebruiker in de basisplannen
 - Op Trustpilot scoort Exact Online een 3.2/5 met 890 reviews
 
