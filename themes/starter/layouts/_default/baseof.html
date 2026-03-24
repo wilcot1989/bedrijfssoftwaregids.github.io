@@ -69,7 +69,7 @@
     "description": "{{ .Site.Params.description }}"
   }
   </script>
-  {{ else if .IsPage }}
+  {{ else if and .IsPage (not .Params.tools_category) }}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -714,7 +714,11 @@
   </div>
   {{ if .Params.tools_category }}
   <script src="/tools/assets/tools/tools-core.js"></script>
+  {{ with .Params.tools_scripts }}{{ range . }}
+  <script src="/tools/assets/tools/{{ . }}"></script>
+  {{ end }}{{ else }}
   <script src="/tools/assets/tools/tools-matrix.js"></script>
+  {{ end }}
   {{ end }}
   <script>
     var header = document.getElementById('siteHeader');

@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="article-hero" style="background-image: url('/images/tools/calculator.svg');">
+  <div class="article-hero-overlay">
+    <div class="container wide">
+      <nav class="breadcrumb breadcrumb-light" aria-label="Breadcrumb">
+        <a href="/">Home</a> &rsaquo;
+        <span>Gratis Tools</span>
+      </nav>
+      <h1 class="article-hero-title">{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+<div class="container wide" style="padding-top:1.5rem;">
+  {{ with .Description }}
+  <p class="bsg-intro">{{ . }}</p>
+  {{ end }}
+
+  {{ .Content }}
+</div>
+{{ end }}

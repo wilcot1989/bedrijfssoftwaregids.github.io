@@ -1,0 +1,49 @@
+{{ define "main" }}
+{{ $catMap := dict "boekhouding" "Boekhoudsoftware" "crm" "CRM Software" "kassasystemen" "Kassasystemen" "projectmanagement" "Projectmanagement" "hr-software" "HR Software" "marketing" "Marketing Software" "productiviteit" "Productiviteitssoftware" "webshops" "Webshop Software" }}
+{{ $catLabel := index $catMap .Params.tools_category | default (.Params.tools_category | humanize | title) }}
+
+{{/* WebApplication JSON-LD */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "url": "{{ .Permalink }}",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" },
+  "provider": { "@type": "Organization", "name": "{{ .Site.Title }}", "url": "{{ .Site.BaseURL }}" },
+  "inLanguage": "nl"
+}
+</script>
+
+<div class="article-hero" style="background-image: url('{{ with .Params.hero_image }}{{ . }}{{ else }}/images/tools/keuzehulp.svg{{ end }}');">
+  <div class="article-hero-overlay">
+    <div class="container wide">
+      <nav class="breadcrumb breadcrumb-light" aria-label="Breadcrumb">
+        <a href="/">Home</a> &rsaquo;
+        <a href="/categories/{{ .Params.tools_category }}/">{{ $catLabel }}</a> &rsaquo;
+        <span>{{ .Params.breadcrumb_label | default .Title }}</span>
+      </nav>
+      <h1 class="article-hero-title">{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+<div class="container wide" style="padding-top:1.5rem;">
+  {{ with .Params.intro }}
+  <p class="bsg-intro">{{ . }}</p>
+  {{ end }}
+
+  <div id="{{ .Params.tool_mount | default "bsg-wizard" }}"></div>
+  <noscript>
+    <p>Deze tool vereist JavaScript. <a href="/categories/{{ .Params.tools_category }}/">Bekijk de {{ $catLabel | lower }} vergelijking</a> voor een overzicht zonder JavaScript.</p>
+  </noscript>
+
+  {{ if .Content }}
+  <section class="bsg-seo">
+    {{ .Content }}
+  </section>
+  {{ end }}
+</div>
+{{ end }}
