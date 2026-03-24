@@ -88,8 +88,86 @@ Daartussenin: probeer drie maanden met software en beoordeel dan eerlijk hoeveel
 
 De kosten zijn het makkelijkste deel van de vergelijking. Het moeilijkere deel is eerlijk inschatten hoeveel jij jouw tijd en de rust van professionele begeleiding waard vindt.
 
+## Kostenvergelijking: drie concrete scenario's
+
+Ik zet drie praktijksituaties naast elkaar om de rekensom concreet te maken.
+
+**Scenario 1: startende fotograaf, ZZP, €40.000 omzet per jaar**
+
+Facturen: 8 per maand, geen personeel, bonnetjes voor materiaal en reiskosten.
+
+| | Boekhouder | Software | Combinatie |
+|---|---|---|---|
+| Jaarlijkse kosten | €1.800 | €180 (Moneybird Starter) | €500 (boekhouder einde jaar) + €180 = €680 |
+| Tijdsinvestering | Minimaal | 1-2 uur/maand | 1 uur/maand |
+| Fiscaal advies | Ja | Nee | Beperkt |
+| **Besparing t.o.v. boekhouder** | — | **€1.620/jaar** | **€1.120/jaar** |
+
+**Scenario 2: bouwvakker ZZP, €85.000 omzet per jaar**
+
+Facturen: 15 per maand, regelmatig materiaalkosten met meerdere BTW-tarieven, zakelijke auto.
+
+| | Boekhouder | Software | Combinatie |
+|---|---|---|---|
+| Jaarlijkse kosten | €2.500 | €468 (Moneybird Professional) | €900 + €468 = €1.368 |
+| Tijdsinvestering | Minimaal | 2-3 uur/maand | 1,5 uur/maand |
+| Fiscaal advies | Ja | Nee | Kwartaal overleg |
+| **Besparing t.o.v. boekhouder** | — | **€2.032/jaar** | **€1.132/jaar** |
+
+**Scenario 3: MKB met 5 medewerkers, €450.000 omzet per jaar**
+
+Salarisadministratie, meerdere BTW-tarieven, projectkosten, internationale leveranciers.
+
+| | Boekhouder (full service) | Software + controller | Combinatie |
+|---|---|---|---|
+| Jaarlijkse kosten | €6.000-€9.000 | €1.900 (Exact Online) + €2.500 controller = €4.400 | €3.500 boekhouder + €1.900 = €5.400 |
+| Tijdsinvestering | Minimaal | 4-6 uur/maand | 3 uur/maand |
+| Salarisadministratie | Ja | Via apart pakket | Via apart pakket |
+
+In dit scenario is de besparing kleiner en de complexiteit groter. Software doet de dagelijkse administratie; voor salarisadministratie en fiscale begeleiding heb je toch een professional nodig.
+
+## Wat een boekhouder wél doet dat software niet kan
+
+Ik wil eerlijk zijn over de beperkingen van software, want ik zie soms dat ondernemers te optimistisch zijn over wat ze zelf kunnen.
+
+**Fiscale optimalisatie.** Een goede boekhouder ziet kansen die jij mist. Zoals de willekeurige afschrijving op investering in het eerste jaar, de kleinschaligheidsinvesteringsaftrek (KIA), of de mogelijkheid om de auto zakelijk op te nemen. Software berekent belasting op basis van wat je invoert; het signaleert niet dat je het beter kunt inrichten.
+
+**Beoordeling van complexe situaties.** Heb je een geschil met een leverancier dat invloed heeft op je BTW? Importeer je goederen uit buiten de EU met bijzondere douane-afhandelingen? Dan is boekhoudkennis onmisbaar. Software geeft geen advies — het registreert.
+
+**Vertegenwoordiging bij de Belastingdienst.** Bij een boekenonderzoek, een naheffing of een bezwaarprocedure wil je iemand naast je die de zaak kent en namens jou communiceert. Software kan dat simpelweg niet.
+
+**Structuuradvies.** Moet je een BV oprichten? Is een fiscale eenheid voordelig? Hoeveel DGA-salaris moet je jezelf uitbetalen? Dit zijn vragen waarbij een foute keuze tienduizenden euro's kan kosten. Een boekhouder die jouw situatie kent, geeft hier gefundeerd advies op.
+
+## Hoe je de overstap naar software aanpakt
+
+Als je besluit om van een boekhouder over te stappen naar zelfstandige software, is de timing en aanpak van de overstap belangrijker dan welk pakket je kiest.
+
+**Begin aan het begin van een boekjaar.** Een overstap op 1 januari voorkomt dat je met een gesplitste administratie zit. Je boekhouder sluit het vorige jaar af; jij begint het nieuwe jaar in je nieuwe software.
+
+**Haal de openstaande posten op.** Vraag je boekhouder om een beginbalans op de overstapdatum: wat staat er nog open bij klanten, wat bij leveranciers, wat is de BTW-schuld of -vordering? Die cijfers heb je nodig om de administratie correct te starten.
+
+**Richt de bankkoppeling meteen in.** Moderne boekhoudsoftware koppelt met alle grote Nederlandse banken. Dat scheelt handmatig overtypen en is de basis voor automatische categorisering. Stel dit op dag één in.
+
+**Doe de eerste BTW-aangifte met begeleiding.** De eerste keer is altijd het spannendst. Vraag een boekhouder of de helpdesk van je software om mee te kijken. Daarna voelt het routinematig.
+
+**Bewaar je oude administratie.** Wettelijk moet je financiële administratie zeven jaar bewaren. Vraag je boekhouder een complete export of PDF-versie van je historische administratie — ook als je niet van plan bent er ooit in te duiken.
+
+## De meest gemaakte fouten bij zelf boekhouden
+
+Ik begeleid regelmatig ondernemers die na een jaar met software terugkomen met problemen die hadden kunnen worden voorkomen.
+
+**BTW-aangifte op kasbasis versus factuurbasis.** Als je met een kassier bent gewisseld, vergeet dan niet dat de BTW-aangiftemethode kan wisselen. Vraag bij de start van je software expliciet welke methode je gebruikt.
+
+**Privéopnames en stortingen.** Als je als eenmanszaak geld uit de zaak haalt of erin stopt, boek dit dan direct correct als privé-opname of kapitaalstorting. Ik heb administraties gezien waar dit jaren lang als "overige kosten" was geboekt — dat levert een verkeerde balans en een problematische jaaraangifte op.
+
+**Geen representatiekosten scheiden van zakenkosten.** Lunch met een klant? Deels aftrekbaar. Persoonlijk diner? Niet. Software maakt dit onderscheid niet vanzelf — jij moet het correct categoriseren.
+
+**Vergeten kosten te boeken.** De abonnementen die automatisch worden afgeschreven, de km-vergoedingen voor zakelijke ritten, de thuiswerkaftrek — dit zijn kosten die je geld besparen maar die veel zelf-boekhouders missen.
+
 ## Lees ook
 
 - [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — vergelijk pakketten op prijs en functies
+- [BTW-aangifte doen met boekhoudsoftware](/blog/btw-aangifte-welke-boekhoudsoftware/) — stap voor stap uitgelegd
+- [Moneybird vs e-Boekhouden 2026](/blog/moneybird-vs-e-boekhouden-2026/) — de twee populairste pakketten vergeleken
 
 Wil je direct boekhoudsoftware vergelijken? Gebruik de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/).

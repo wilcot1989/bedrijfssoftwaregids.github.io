@@ -85,9 +85,53 @@ Na drie maanden: evalueer of de gekozen tool werkt. Is de verlofregistratie in g
 
 Een goed HR-systeem neemt de administratieve druk weg zodat jij je kunt focussen op het werk dat jou en je medewerker vooruitbrengt.
 
+## Arbeidscontract: de basis op orde
+
+Voordat de HR-software zinvol is, moet het arbeidscontract kloppen. Dat klinkt logisch, maar ik zie regelmatig werkgevers die pas na maanden ontdekken dat hun contract niet overeenkomt met wat ze mondeling hebben afgesproken — over overuren, proeftijd, vakantiedagen of functieomschrijving.
+
+Een arbeidscontract voor een eerste medewerker bevat minimaal: naam en adres van werkgever en werknemer, startdatum, functiebeschrijving, arbeidsduur (fulltime of parttime, met uren per week), bruto salaris, proeftijdperiode (maximaal twee maanden bij een contract langer dan zes maanden), vakantiedagen (wettelijk minimum is 20 dagen bij fulltime), en de toepasselijke CAO indien van toepassing.
+
+Gebruik een arbeidsrechtkantoor of een gespecialiseerde HR-dienstverlener voor je eerste contract als je niet zeker bent. De kosten zijn een eenmalige investering van EUR 150 tot EUR 400 en voorkomen juridisch gedoe achteraf. Veel HR-software-leveranciers bieden ook standaard contracttemplates die je kunt aanpassen.
+
+## Onboarding: het eerste werkweek goed aanpakken
+
+Een gestructureerde onboarding verhoogt de kans dat de eerste medewerker na twaalf maanden nog bij je werkt. Dat klinkt als HR-jargon, maar het zit simpeler: als iemand zijn eerste week verwarring ervaart over wat er precies van hem verwacht wordt, begint hij slecht. En een slechte start herstel je moeilijk.
+
+Wat een onboarding in de eerste week minimaal bevat: de medewerker weet wat zijn taken zijn en wie vragen kan beantwoorden, hij heeft toegang tot de systemen die hij nodig heeft, hij heeft een rondleiding gehad en weet waar de koffie staat, en hij heeft zijn eerste salarisstrook of een voorbeeld gezien.
+
+In HR-software kun je een onboarding-checklist aanmaken die per dag of per week laat zien wat er geregeld moet zijn. Zo vergeet je niet de bedrijfspas te regelen, het e-mailadres in te stellen of de toegang tot de salarisstroken te activeren. Bij Personio en AFAS zit onboarding-beheer standaard in het pakket; bij NMBRS en Loket.nl is het beperkter maar volstaat een handmatige checklist.
+
+## Keuzegids: welk HR-pakket past bij jou?
+
+Ik word regelmatig gevraagd om een concrete aanbeveling te doen voor de eerste werkgever. Hier is hoe ik het opsplits.
+
+**1 medewerker, eenvoudige situatie, geen CAO**: Begin met Loket.nl of NMBRS in het instapabonnement. Beide zijn in een middag in te richten, dienen de loonaangifte automatisch in en kosten minder dan EUR 30 per maand voor een klein team. De interface is Nederlandstalig en de klantenservice is goed bereikbaar voor beginnersvragen.
+
+**1-3 medewerkers, branche-CAO van toepassing**: Check eerst of de CAO al is ingebouwd bij de leverancier. Niet elke tool ondersteunt elke CAO. NMBRS heeft het breedste CAO-aanbod ingebouwd. Doe de aanschaf pas nadat je hebt gecontroleerd dat jouw CAO correct wordt toegepast.
+
+**1-3 medewerkers, wil graag zelf weinig doen**: Overweeg een salarisadministrateur te combineren met een eenvoudige verlof- en verzuimtool. De loonadministrateur regelt de loonstroken en de aangifte; de tool beheert verlof en geeft je inzicht in de verzuimhistorie. Dit hybride model is iets duurder maar geeft de meest betrouwbare administratie bij weinig ervaring.
+
+**1-3 medewerkers, plan om snel te groeien**: Kies een systeem dat lineair meegroeit en geen grote prijssprongen heeft bij vijf of tien medewerkers. Personio groeit goed mee maar heeft een hogere instapprijs. AFAS is overkill voor de eerste werknemer maar ideaal als je op termijn twintig of meer medewerkers verwacht.
+
+## Veelgestelde vragen na indiensttreding
+
+**Wanneer doe ik de eerste loonaangifte?**
+De eerste loonaangifte doe je over de eerste maand dat de medewerker in dienst is. De deadline is de laatste werkdag van de volgende maand. Bij een medewerker die op 15 maart in dienst treedt, doe je de aangifte uiterlijk de laatste werkdag van april. Te laat indienen geeft een automatische boete van EUR 65, oplopend bij herhaling.
+
+**Wat als de medewerker ziek is in de proeftijd?**
+Ziekte in de proeftijd schort de proeftijd niet op. Je mag een medewerker tijdens de proeftijd ontslaan, ook als hij ziek is — maar niet vanwege de ziekte zelf. De WVP-verplichtingen gelden ook gewoon bij ziekte in de proeftijd: ziekmelding registreren, bedrijfsarts inschakelen, re-integratiestappen volgen.
+
+**Moet ik een arbodienst hebben?**
+Ja, elke werkgever met personeel is verplicht een contract te hebben met een gecertificeerde arbodienst of een bedrijfsarts. Die is nodig zodra een medewerker langdurig ziek is: voor de probleemanalyse in week 6 en het re-integratietraject. De kosten variëren van EUR 100 tot EUR 400 per jaar voor een basiscontract bij kleine werkgevers.
+
+**Hoe werkt vakantiedagen bijhouden?**
+Wettelijk heeft een fulltime medewerker recht op minimaal 20 vakantiedagen per jaar (4 maal het aantal werkdagen per week). Bovenwettelijke vakantiedagen worden contractueel vastgelegd. HR-software houdt het saldo automatisch bij op basis van het dienstverband en de opgenomen dagen. Wettelijke vakantiedagen vervallen na zes maanden als ze niet zijn opgenomen; bovenwettelijke dagen na vijf jaar.
+
 ## Lees ook
 
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — vergelijk HR-pakketten voor startende werkgevers
+- [Verzuimregistratie en de Wet Verbetering Poortwachter](/blog/verzuimregistratie-wvp-software/) — hoe je de WVP-verplichtingen correct bijhoudt
+- [Personeelsdossier digitaliseren: AVG-proof stappenplan](/blog/personeelsdossier-digitaliseren-avg/) — wat bewaar je en hoe lang
 
 Wil je direct HR software vergelijken? Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/). Wil je ook de kosten vergelijken? Gebruik de [HR software kosten berekenen tool](/tools/hr-software/kosten-berekenen/) voor een berekening op basis van jouw aantal medewerkers.
 

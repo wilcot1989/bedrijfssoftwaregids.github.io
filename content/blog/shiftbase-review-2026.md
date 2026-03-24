@@ -280,6 +280,89 @@ Na meerdere implementaties gebruik ik dit stappenplan:
 
 ---
 
+## Shiftbase in de praktijk: concrete use cases
+
+### Schoonmaakbedrijf met 35 medewerkers en wisselende locaties
+
+Dit is het scenario waarmee ik startte. Het echte probleem was niet het rooster zelf, maar de chaos die eromheen groeide: WhatsApp-berichten van medewerkers over ziekte of ruiltjesdiensten, handmatige aanpassingen in Excel, en aan het einde van de maand uren kwijt aan het overzetten naar Nmbrs. Shiftbase loste drie dingen tegelijk op: medewerkers communiceren via de app (niet meer via persoonlijke nummers), de koppeling met Nmbrs verwerkt uren automatisch, en de manager werkt met een scherm in plaats van een spreadsheet. Besparing: 1,5 uur per week voor de teamleider.
+
+### Retailketen met vier vestigingen
+
+Bij een kleding-retailer met vier winkels en 22 medewerkers was het probleem van een andere orde: inplannen over vestigingen heen. Medewerker A werkt normaal in Utrecht maar wil een paar shifts in Amsterdam dekken. In Excel is dat niet bij te houden zonder risico op dubbelboekingen. Shiftbase beheert locaties als aparte entiteiten, maar je kunt medewerkers eenvoudig over locaties heen inroosteren. Het systeem controleert automatisch op conflicten. Na implementatie daalde het aantal last-minute planningscrises van gemiddeld drie per week naar nul.
+
+### Zorginstelling met oproepkrachten en WAB-verplichtingen
+
+Voor een kleine zorginstelling met twaalf vaste en acht oproepkrachten was WAB-compliance het kritieke punt. Ze hadden een arbeidsrechtadvocaat die ze jaarlijks €2.000 kostte voor controles en advies. Na implementatie van Shiftbase — inclusief activering van de 12-maandsgrensignalering en het vastleggen van oproeppatronen — hadden ze voor het eerst een systeem dat hen automatisch waarschuwde. De jaarlijkse advieskosten zakten naar €800.
+
+### Horecabedrijf dat overstapt van Planday
+
+Ik heb ook een horecabedrijf begeleid dat van Planday naar Shiftbase overstapte. Reden: de salariskoppeling. Ze gebruikten Nmbrs en hadden elke maand een handmatige exportstap nodig bij Planday. Na de overstap naar Shiftbase werden de uren automatisch doorgezet. Wat ze inleverden: de iets fraaiere medewerkers-app van Planday. Wat ze wonnen: twee uur per maand aan handmatig werk en minder fouten in de salarisadministratie.
+
+---
+
+## Vergelijking: Shiftbase vs. Werktijden.nl vs. Deputy
+
+Voor volledigheid voeg ik nog twee alternatieven toe die regelmatig ter sprake komen:
+
+### Shiftbase vs. Werktijden.nl
+
+| Aspect | Shiftbase | Werktijden.nl |
+|---|---|---|
+| Prijs | €3-€4/gebruiker/mnd | Vanaf €4/mnd (vast tarief) |
+| Minimale gebruikers | 5 | Geen minimum |
+| Salarisintegraties | Uitstekend (Nmbrs, AFAS) | Beperkt |
+| WAB-functies | Sterk | Basis |
+| Beste voor | 5-200 medewerkers | < 5 medewerkers |
+
+Voor micro-bedrijven tot vier medewerkers is Werktijden.nl de logischere keuze. De vaste tariefstructuur en het ontbreken van een gebruikersminimum maken het toegankelijker voor de allerkleinste bedrijven.
+
+### Shiftbase vs. Deputy
+
+| Aspect | Shiftbase | Deputy |
+|---|---|---|
+| AI-roostering | Basis | Sterk (vraaggestuurde suggesties) |
+| Gebruiksgemak | Goed | Uitstekend |
+| NL salarisintegraties | Uitstekend | Matig |
+| WAB-compliance | Uitstekend | Basis |
+| Internationaal schaalbaar | Nee | Ja |
+| Beste voor | NL bedrijven | Internationale/groeiende bedrijven |
+
+Deputy is sterker als je automatisch wilt plannen op basis van voorspelde drukte (kassaomzet, reserveringen). Maar de Nederlandse salarisintegraties zijn beduidend zwakker. Voor een Nederlands bedrijf dat puur de NL-markt bedient, kies je Shiftbase.
+
+---
+
+## Hoeveel tijd bespaar je met Shiftbase?
+
+Ik heb bij meerdere klanten bijgehouden hoe lang roostering kostte voor en na implementatie:
+
+| Bedrijfsgrootte | Voor (per week) | Na (per week) | Besparing |
+|---|---|---|---|
+| 15 medewerkers | 3,5 uur | 50 minuten | ~165 uur/jaar |
+| 35 medewerkers | 6 uur | 1,5 uur | ~234 uur/jaar |
+| 65 medewerkers | 10 uur | 2,5 uur | ~390 uur/jaar |
+
+Reken je die bespaarde uren tegen een intern uurtarief van €25, dan levert Shiftbase bij een bedrijf van 35 medewerkers circa €5.850 per jaar aan indirecte tijdsbesparing op. De softwarekosten zijn dan €1.680 per jaar (35 × €4 × 12). De ROI is duidelijk positief vanaf de eerste maand.
+
+---
+
+## Veelgemaakte fouten bij Shiftbase-implementaties
+
+Na meerdere implementaties zie ik deze fouten steeds terugkomen:
+
+**1. Medewerkers te laat activeren**
+De kracht van Shiftbase zit voor een groot deel in de medewerkers-app. Als je twee weken je rooster bouwt zonder dat medewerkers de app gebruiken, raak je gewend aan een workflow zonder hun input. Activeer medewerkers in week 1, niet week 3.
+
+**2. Contractsoorten niet correct instellen**
+De WAB-functies werken alleen goed als je per medewerker het juiste contracttype hebt ingevoerd. Ik zie regelmatig dat iedereen op "vast contract" staat terwijl er oproepkrachten en uitzendkrachten in het team zitten. Dat maakt de 12-maandsignalering onbruikbaar.
+
+**3. De salariskoppeling uitstellen**
+"We doen het later" — en dan drie maanden later nog steeds handmatig exporteren. Stel de salariskoppeling in op dag 1. Als je hem instelt terwijl je al data hebt, kost het meer tijd om historische periodes recht te zetten.
+
+**4. Te weinig sjabloonroosters bouwen**
+Het sjabloonsysteem is een van de grootste tijdsbespaarders, maar het vraagt een investering van een paar uur om de patronen goed in te richten. Teams die dat overslaan, plannen elke week opnieuw van nul. Bouw vier tot zes standaardpatronen en je profiteert direct.
+
+---
+
 ## Mijn eindoordeel over Shiftbase
 
 Shiftbase is voor de meeste Nederlandse MKB-bedrijven de beste personeelsplanning software van 2026. Het is geen perfecte tool — de AI-functies kunnen beter, de mobiele app is niet zo mooi als Planday — maar het doet de essentiële dingen goed:

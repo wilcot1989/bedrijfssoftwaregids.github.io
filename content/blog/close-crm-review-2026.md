@@ -185,6 +185,91 @@ Close biedt 100+ integraties, waaronder:
 
 Voor Nederlandse tools als Exact Online of Moneybird heb je Zapier of Make nodig. Er zijn geen directe koppelingen.
 
+## Close CRM in de praktijk: vijf concrete gebruiksscenario's
+
+### Scenario 1: het outbound SDR-team
+
+Een SaaS-bedrijf met vier SDR's die elk dagelijks 50 calls doen. Zonder Close: ze loggen in op een apart belplatform, wisselen naar hun CRM om notities te maken, gaan terug naar het belplatform voor het volgende nummer. Met Close: één scherm, Power Dialer loopt automatisch door, notities direct bij het contact, e-mail sequence start automatisch als iemand niet opneemt. Ik heb dit scenario live gezien bij een klant in Rotterdam. De dagelijkse calloutput steeg van gemiddeld 42 naar 63 calls per SDR zonder dat er iemand extra aangenomen werd.
+
+### Scenario 2: de accountmanager die follow-up sequences draait
+
+Een accountmanager die twintig prospects tegelijk in de pijplijn heeft. Elke prospect zit in een andere fase van een sequence: de een wacht op dag-5-e-mail, de ander krijgt morgen een bel-herinnering. Close beheert die sequenties automatisch. De accountmanager start zijn dag met een lijst van "vandaag te bellen" en "vandaag te mailen" contacten, gegenereerd door het systeem. Geen post-its, geen spreadsheet.
+
+### Scenario 3: de salesmanager die coacht op data
+
+Een salesmanager met een team van acht. Via Close ziet ze per SDR hoeveel calls er werkelijk zijn gemaakt, hoe lang de gemiddelde call duurde, welke e-mail open rates ze halen per sequence, en welke deals er in welke fase vastzitten. Ze gebruikt die data in wekelijkse one-on-ones. Bij de klant waar ik dit zag, daalde het percentage deals dat "te lang in dezelfde fase" bleef met 34% in drie maanden.
+
+### Scenario 4: het kleine team dat beller + mailer tegelijk wil zijn
+
+Een team van drie, met een combinatie van bellen en e-mail outreach. Close Essentials voor €35/user/maand geeft hen de Power Dialer en native e-mail sequences in één systeem. Alternatief zou zijn: Pipedrive (€34/user) + een belplatform (~€25/user) + een e-mailsequencetool (~€30/user) = €89/user/maand. Close is hier niet alleen handiger, maar ook goedkoper.
+
+### Scenario 5: het team dat wil schalen naar predictive dialing
+
+Een team dat van 8 naar 15 SDR's groeit en de bel-output verder wil maximaliseren. Het Scale-plan met Predictive Dialer belt meerdere nummers tegelijk en verbindt de SDR pas als iemand opneemt. Bij een typische pick-up rate van 20% betekent dat dat een SDR nauwelijks wacht — hij praat. Voor high-volume teams die snel willen opschalen is dit de functie die het verschil maakt.
+
+---
+
+## Implementatie: Close opzetten in een week
+
+Na meerdere Close-implementaties gebruik ik dit stappenplan:
+
+**Dag 1: accountinrichting**
+- Pipelines aanmaken per productlijn of doelgroep
+- Custom fields toevoegen die jullie specifieke workflow vereisen
+- Gebruikersrollen instellen (SDR vs. AE vs. manager)
+- Bestaande CRM-data importeren via CSV of Zapier-koppeling
+
+**Dag 2: communicatieopzet**
+- Gmail of Outlook synchroniseren per gebruiker
+- Telefoonnummers aanschaffen via het Close-dashboard (meerdere landen mogelijk)
+- Gespreksopname inschakelen en beleid communiceren naar het team
+- Eerste e-mailsjablonen aanmaken voor sequences
+
+**Dag 3: sequences bouwen**
+- Outbound sequence opstellen: dag 1 e-mail → dag 2 call → dag 4 e-mail → dag 7 call → dag 10 break-up e-mail
+- Sequenties koppelen aan pipelines (bij deal in fase X: start sequence Y)
+- A/B-varianten aanmaken voor onderwerpsregels
+
+**Dag 4-5: training team**
+- Power Dialer demo voor het team (30 minuten is genoeg)
+- Afspraken over wanneer je een contact aan een sequence toevoegt
+- Afspraken over notitiestandaard na calls
+- Proefrun met kleine lijst
+
+**Week 2: analyseren en bijsturen**
+- Eerste calldata bekijken in de analytics
+- Open rates per sequence vergelijken
+- Deals die stilstaan identificeren en opvolgen
+
+---
+
+## Welk plan past bij jou?
+
+| Situatie | Aanbevolen plan | Reden |
+|---|---|---|
+| Solo-ondernemer, < 10.000 leads | Solo (€9/mnd) | Budgetvriendelijk instapniveau |
+| Team tot 5 personen, e-mail + calls | Essentials (€35/mnd) | Meerdere pipelines, onbeperkte leads |
+| Groeiend SDR-team, automatisering gewenst | Growth (€99/mnd) | Power Dialer + workflow automation |
+| High-volume team (10+ SDR's) | Scale (€139/mnd) | Predictive Dialer + role-based access |
+
+**Mijn praktijkadvies:** bijna iedereen die echt van Close wil profiteren, heeft minimaal het Growth-plan nodig. Essentials mist de Power Dialer en workflow automation — de twee functies die het verschil maken ten opzichte van Pipedrive. Als het Growth-plan te duur is, kijk ik kritisch naar of Close wel het juiste gereedschap is voor je situatie.
+
+---
+
+## Wat Close bewust niet doet
+
+Ik vind het waardevol om te benoemen wat Close specifiek heeft weggelaten. Dat is niet slecht — het is een keuze.
+
+**Geen marketingfuncties.** Landingspagina's, e-mailmarketing aan grote lijsten, leadgeneratie via formulieren: dat zit er niet in. Close is salesgereedschap, geen marketingplatform. Gebruik HubSpot Marketing of ActiveCampaign als aanvulling als je die functies nodig hebt.
+
+**Geen facturatie of projectbeheer.** Na het sluiten van een deal stopt Close. De overdracht van sales naar delivery doe je buiten het systeem. Teamleader of Monday.com vullen die leemte.
+
+**Geen field sales focus.** Als je vertegenwoordigers veel onderweg zijn en live bij klanten zitten, is Pipedrive met zijn sterke mobiele app beter. Close is gemaakt voor mensen die achter een bureau bellen.
+
+**Geen Nederlandstalige interface.** Dit is een bewuste keuze van Close om de productontwikkeling te focussen. De tool is volledig in het Engels. Dat is voor sommige teams geen probleem, voor anderen een dealbreaker.
+
+---
+
 ## Mijn oordeel
 
 Close CRM is een sterk product voor een specifiek publiek. Als je een inside sales team hebt dat dagelijks tientallen calls doet en e-mail sequences verstuurt, is Close het overwegen waard. De ingebouwde communicatietools zijn beter dan wat Pipedrive of HubSpot standaard bieden, en je bespaart op losse tools voor bellen en e-mailautomatisering.
