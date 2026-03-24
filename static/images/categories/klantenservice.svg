@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg_klantenservice" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0c4a6e"/>
-      <stop offset="100%" style="stop-color:#064e6e"/>
+      <stop offset="0%" style="stop-color:#064E3B"/>
+      <stop offset="100%" style="stop-color:#065F46"/>
     </linearGradient>
     <linearGradient id="tg_klantenservice" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#0891b2"/>
-      <stop offset="100%" style="stop-color:#06b6d4"/>
+      <stop offset="0%" style="stop-color:#059669"/>
+      <stop offset="100%" style="stop-color:#10B981"/>
     </linearGradient>
   </defs>
 
@@ -33,8 +33,8 @@
   </g>
 
   <!-- Decorative background circles -->
-  <circle cx="200" cy="500" r="200" fill="#06b6d4" opacity="0.06"/>
-  <circle cx="1000" cy="150" r="240" fill="#0891b2" opacity="0.05"/>
+  <circle cx="200" cy="500" r="200" fill="#10B981" opacity="0.06"/>
+  <circle cx="1000" cy="150" r="240" fill="#059669" opacity="0.05"/>
 
   <!-- === CENTRAL HEADSET ICON === -->
   <!-- Headset band -->
@@ -109,9 +109,9 @@
   </g>
 
   <!-- Scattered decorative dots -->
-  <circle cx="400" cy="170" r="3" fill="#0891b2" opacity="0.3"/>
-  <circle cx="800" cy="165" r="3" fill="#0891b2" opacity="0.25"/>
-  <circle cx="450" cy="520" r="4" fill="#0891b2" opacity="0.2"/>
-  <circle cx="750" cy="530" r="3" fill="#0891b2" opacity="0.2"/>
-  <circle cx="600" cy="560" r="4" fill="#0891b2" opacity="0.15"/>
+  <circle cx="400" cy="170" r="3" fill="#059669" opacity="0.3"/>
+  <circle cx="800" cy="165" r="3" fill="#059669" opacity="0.25"/>
+  <circle cx="450" cy="520" r="4" fill="#059669" opacity="0.2"/>
+  <circle cx="750" cy="530" r="3" fill="#059669" opacity="0.2"/>
+  <circle cx="600" cy="560" r="4" fill="#059669" opacity="0.15"/>
 </svg>
