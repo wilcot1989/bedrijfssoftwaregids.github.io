@@ -32,12 +32,6 @@
     .logo-mark span{background:rgba(255,255,255,0.9);border-radius:2px}
     .logo-mark span:nth-child(2),.logo-mark span:nth-child(3){background:rgba(255,255,255,0.45)}
     .logo-accent{color:#059669}
-    .main-nav{display:flex;align-items:center;gap:.15rem}
-    .main-nav a{color:#475569;font-size:.88rem;font-weight:500;padding:.4rem .7rem;border-radius:8px;transition:color .15s,background .15s;text-decoration:none}
-    .main-nav a:hover{color:#0F172A;background:#F1F5F9}
-    .header-cta-btn{display:inline-flex;align-items:center;gap:.35rem;background:#059669;color:#fff!important;font-size:.82rem;font-weight:600;font-family:'Outfit',sans-serif;padding:.4rem 1rem;border-radius:8px;text-decoration:none!important;transition:background .15s,transform .1s;margin-left:.5rem}
-    .header-cta-btn:hover{background:#047857;color:#fff!important;transform:translateY(-1px)}
-    .header-cta-btn svg{width:14px;height:14px}
     .breadcrumb{font-size:.85rem;color:#94A3B8;margin-bottom:1rem}.breadcrumb a{color:#94A3B8}
     .site-footer{background:#0F172A;color:#94A3B8;margin-top:3rem}
     .site-footer a{color:#94A3B8;text-decoration:none;transition:color .15s}
@@ -55,10 +49,29 @@
     main{padding:2rem 0;min-height:60vh}
     .hamburger{display:none;background:none;border:1px solid #E2E8F0;color:#0F172A;cursor:pointer;padding:.45rem;border-radius:8px;line-height:0}
     .hamburger svg{width:22px;height:22px}
-    @media(max-width:900px){.hamburger{display:block}.main-nav{display:none;padding:.75rem 0;flex-direction:column;align-items:stretch}.main-nav.open{display:flex}.main-nav a{display:block;margin:0;padding:.6rem 1.5rem;border-bottom:1px solid #E2E8F0}.main-nav a:last-child{border-bottom:none}}
+    @media(max-width:900px){.hamburger{display:block}.main-nav.open{display:flex}.main-nav a:last-child{border-bottom:none}}
     @media(max-width:1100px){.footer-grid{grid-template-columns:1fr 1fr}}
     @media(max-width:600px){.footer-grid{grid-template-columns:1fr;gap:1.5rem}}
 
+  
+    .header-nav{display:flex;align-items:center;gap:.15rem}
+    .header-nav a{color:#475569;font-size:.88rem;font-weight:500;padding:.4rem .7rem;border-radius:8px;transition:color .15s,background .15s;text-decoration:none}
+    .header-nav a:hover{color:#0F172A;background:#F1F5F9}
+    .header-actions{display:flex;align-items:center;gap:.5rem;flex-shrink:0}
+    .btn{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;font-family:'Outfit',sans-serif;font-weight:600;border:none;cursor:pointer;text-decoration:none;transition:all .2s;border-radius:12px;font-size:.9rem;padding:.55rem 1.25rem}
+    .btn:hover{text-decoration:none}
+    .btn-primary{background:#059669;color:#fff}
+    .btn-primary:hover{background:#047857;color:#fff;box-shadow:0 4px 14px rgba(5,150,105,0.3);transform:translateY(-1px)}
+    .btn-ghost{background:transparent;color:#475569}
+    .btn-ghost:hover{background:#F1F5F9;color:#0F172A}
+    .btn-sm{font-size:.82rem;padding:.4rem .9rem;border-radius:8px}
+    .mobile-nav{display:none;background:#fff;border-bottom:1px solid #E2E8F0;padding:.75rem 0;box-shadow:0 10px 15px -3px rgba(0,0,0,0.08)}
+    .mobile-nav.open{display:block}
+    .mobile-nav a{display:block;color:#475569;font-size:.92rem;font-weight:500;padding:.65rem 1.5rem;transition:background .15s;text-decoration:none}
+    .mobile-nav a:hover{background:#F8FAFC;color:#059669}
+    .mobile-nav .mobile-cta{padding:.75rem 1.5rem}
+    @media(max-width:900px){.header-nav,.header-actions{display:none}}
+    @media(max-width:900px){.hamburger{display:block}}
   </style>
 <!-- Google Analytics loads only after explicit consent -->
 <script>
@@ -96,7 +109,7 @@
           </div>
           bedrijfssoftware<span class="logo-accent">gids</span>
         </a>
-        <nav class="main-nav">
+        <nav class="header-nav">
           <a href="/categories/boekhouding/">Boekhouding</a>
           <a href="/categories/crm/">CRM</a>
           <a href="/categories/projectmanagement/">PM</a>
@@ -104,16 +117,32 @@
           <a href="/categories/kassasystemen/">Kassa</a>
           <a href="/categories/marketing/">Marketing</a>
           <a href="/categories/webshops/">Webshops</a>
-          <a href="/tools/" class="header-cta-btn">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        </nav>
+        <div class="header-actions">
+          <a href="/about/" class="btn btn-ghost btn-sm">Over Lars</a>
+          <a href="/tools/" class="btn btn-primary btn-sm">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
             Keuzehulp
           </a>
-        </nav>
-        <button class="hamburger" onclick="document.querySelector('.main-nav').classList.toggle('open')" aria-label="Menu">
+        </div>
+        <button class="hamburger" onclick="document.getElementById('mobileNav').classList.toggle('open')" aria-label="Menu">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
         </button>
       </div>
     </div>
+    <nav class="mobile-nav" id="mobileNav">
+      <a href="/categories/boekhouding/">Boekhouding</a>
+      <a href="/categories/crm/">CRM</a>
+      <a href="/categories/projectmanagement/">Projectmanagement</a>
+      <a href="/categories/hr-software/">HR Software</a>
+      <a href="/categories/kassasystemen/">Kassasystemen</a>
+      <a href="/categories/marketing/">Marketing</a>
+      <a href="/categories/webshops/">Webshops</a>
+      <a href="/about/">Over Lars</a>
+      <div class="mobile-cta">
+        <a href="/tools/" class="btn btn-primary" style="width:100%;display:flex;justify-content:center;">Gratis keuzehulp</a>
+      </div>
+    </nav>
   </header>
   <main>
   <div class="article-hero" style="background-image: url('/images/tools/calculator.svg');">
