@@ -57,8 +57,8 @@ function renderAlternatives(selectedTool, allItems, calcType) {
       '<a class="bsg-btn" style="font-size:0.85rem;padding:0.35rem 0.75rem;" href="' + escapeHTML(a.t.affiliate?.url || "#") + '" target="_blank" rel="noopener nofollow sponsored">Bekijk</a>' +
       '</span></div>';
   }).join("");
-  return '<div style="border-top:2px solid #e5e7eb;margin-top:1.25rem;padding-top:1rem;">' +
-    '<p style="font-weight:600;color:#111827;margin:0 0 0.5rem;">Vergelijkbare alternatieven</p>' +
+  return '<div style="border-top:2px solid #E2E8F0;margin-top:1.25rem;padding-top:1rem;">' +
+    '<p style="font-weight:600;color:#0F172A;margin:0 0 0.5rem;">Vergelijkbare alternatieven</p>' +
     rows + '</div>';
 }
 
