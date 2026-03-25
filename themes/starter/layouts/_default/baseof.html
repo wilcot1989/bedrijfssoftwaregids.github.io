@@ -241,7 +241,7 @@
     strong { font-weight: 600; color: var(--text); }
     blockquote { border-left: 3px solid var(--primary); padding: 0.75rem 1.25rem; margin: 1.5rem 0; background: var(--primary-light); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; }
     blockquote p { margin-bottom: 0; color: var(--text-sub); font-style: italic; }
-    hr { border: none; height: 1px; background: var(--border); margin: 2.5rem 0; }
+    hr { border: none; height: 1px; background: var(--border); margin: 2.5rem 0; position: relative; }
     code { font-size: 0.88em; background: var(--gray-100); padding: 0.15em 0.4em; border-radius: 4px; font-family: 'SFMono-Regular', Consolas, monospace; }
     .text-gradient { background: linear-gradient(135deg, var(--emerald-600) 0%, var(--emerald-500) 50%, #34D399 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
 
@@ -579,10 +579,56 @@
     .meta-light .meta-item { color: rgba(255,255,255,0.5); }
     .meta-light .meta-item svg { opacity: 0.6; }
 
-    /* ===== ARTICLE CONTENT TYPOGRAPHY ===== */
-    .article-content h2 { position: relative; padding-bottom: 0.6rem; }
+    /* ===== ARTICLE CONTENT — PREMIUM TYPOGRAPHY ===== */
+
+    /* Lead paragraph: first paragraph is larger & bolder */
+    .article-content > p:first-child { font-size: 1.12rem; line-height: 1.75; color: var(--text); font-weight: 400; }
+
+    /* Headings with accent lines */
+    .article-content h2 { position: relative; padding-bottom: 0.7rem; margin-top: 3rem; }
     .article-content h2::after { content: ""; position: absolute; bottom: 0; left: 0; width: 40px; height: 3px; background: linear-gradient(90deg, var(--emerald-600), var(--emerald-500)); border-radius: 2px; }
     .article-content h3 { border-left: 3px solid var(--emerald-500); padding-left: 0.75rem; }
+
+    /* Links: animated underline */
+    .article-content a:not(.cta-affiliate):not(.tag):not(.bsg-btn):not(.cta):not(.btn):not(.read-more) { color: var(--primary); text-decoration: none; background-image: linear-gradient(var(--primary), var(--primary)); background-size: 0% 1.5px; background-position: 0 100%; background-repeat: no-repeat; transition: background-size 0.3s ease, color 0.15s; }
+    .article-content a:not(.cta-affiliate):not(.tag):not(.bsg-btn):not(.cta):not(.btn):not(.read-more):hover { background-size: 100% 1.5px; color: var(--primary-hover); }
+
+    /* Custom unordered list bullets: emerald dots */
+    .article-content ul { list-style: none; margin-left: 0; padding-left: 0; }
+    .article-content ul > li { position: relative; padding-left: 1.5rem; margin-bottom: 0.5rem; }
+    .article-content ul > li::before { content: ""; position: absolute; left: 0.25rem; top: 0.65rem; width: 7px; height: 7px; background: linear-gradient(135deg, var(--emerald-600), var(--emerald-500)); border-radius: 50%; }
+
+    /* Nested lists */
+    .article-content ul ul > li::before { background: var(--border-strong); width: 5px; height: 5px; top: 0.7rem; }
+
+    /* Ordered list: emerald numbered */
+    .article-content ol { list-style: none; margin-left: 0; padding-left: 0; counter-reset: ol-counter; }
+    .article-content ol > li { position: relative; padding-left: 2rem; margin-bottom: 0.5rem; counter-increment: ol-counter; }
+    .article-content ol > li::before { content: counter(ol-counter); position: absolute; left: 0; top: 0.05rem; width: 1.4rem; height: 1.4rem; background: var(--primary-light); color: var(--primary); font-size: 0.75rem; font-weight: 700; border-radius: 50%; display: flex; align-items: center; justify-content: center; line-height: 1; }
+
+    /* Blockquote: premium with quote icon */
+    .article-content blockquote { border-left: 4px solid var(--primary); padding: 1.25rem 1.5rem 1.25rem 3.25rem; margin: 2rem 0; background: linear-gradient(135deg, var(--primary-light) 0%, rgba(236,253,245,0.5) 100%); border-radius: 0 var(--radius) var(--radius) 0; position: relative; box-shadow: 0 2px 8px rgba(5,150,105,0.06); }
+    .article-content blockquote::before { content: "\201C"; position: absolute; left: 0.75rem; top: 0.5rem; font-size: 2.5rem; font-weight: 900; color: var(--emerald-500); opacity: 0.5; line-height: 1; font-family: Georgia, serif; }
+    .article-content blockquote p { margin-bottom: 0; color: var(--text); font-style: italic; font-size: 1.02rem; line-height: 1.7; }
+
+    /* Horizontal rules: decorative */
+    .article-content hr { border: none; height: 0; margin: 3rem auto; position: relative; max-width: 200px; }
+    .article-content hr::before { content: ""; position: absolute; left: 0; right: 0; top: 50%; height: 1px; background: linear-gradient(90deg, transparent, var(--border-strong), transparent); }
+    .article-content hr::after { content: ""; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%) rotate(45deg); width: 8px; height: 8px; background: var(--surface); border: 2px solid var(--emerald-500); }
+
+    /* Images: rounded with shadow */
+    .article-content img { border-radius: var(--radius); box-shadow: var(--shadow-md); margin: 0.5rem 0; transition: box-shadow 0.3s; }
+    .article-content img:hover { box-shadow: var(--shadow-xl); }
+
+    /* Tables: enhanced header & interactions */
+    .article-content .table-wrap { border: 1px solid var(--border); border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow-sm); }
+    .article-content table { margin: 0; }
+    .article-content th { background: linear-gradient(135deg, var(--gray-900) 0%, var(--gray-800) 100%); font-size: 0.82rem; letter-spacing: 0.02em; }
+    .article-content tr:hover td { background: var(--primary-light); }
+
+    /* Pros/cons: emerald checkmarks & red crosses */
+    .article-content .pros ul > li::before { background: var(--emerald-600); width: 8px; height: 8px; }
+    .article-content .cons ul > li::before { background: #EF4444; width: 8px; height: 8px; border-radius: 2px; }
 
     /* ===== ARTICLE TAGS ===== */
     .article-tags { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
