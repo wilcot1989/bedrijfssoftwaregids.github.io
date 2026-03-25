@@ -321,4 +321,4 @@ Wil je weten of goedkopere alternatieven voor jouw situatie volstaan? Gebruik da
 
 ---
 
-*Prijzen zijn gebaseerd op gepubliceerde tarieven van Exact Online in april 2026. Prijzen kunnen wijzigen — controleer altijd de actuele tarieven op de website van Exact Online.*
+*Prijzen zijn gebaseerd op gepubliceerde tarieven van Exact Online in april 2026. Prijzen kunnen wijzigen — controleer altijd de actuele tarieven op de website van Exact Online voor je een abonnement afsluit.*

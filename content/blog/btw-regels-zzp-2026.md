@@ -194,6 +194,16 @@ De eerste keer dat een Belastingdienst-medewerker vraagt om bewijs dat het BTW-n
 
 BTW hoeft geen bron van stress te zijn. De regels zijn voorspelbaar, de deadlines staan vast en goede software doet het meeste werk. Maar je moet ze wel kennen.
 
+## Wat er verandert in 2026 voor ZZP'ers
+
+Twee wijzigingen die relevant zijn voor ZZP'ers die BTW betalen in 2026.
+
+Ten eerste heeft de Belastingdienst de drempel voor de kleineondernemersregeling (KOR) niet aangepast. De grens blijft €20.000 omzet per jaar. Maar de manier waarop btw bij intracommunautaire diensten wordt verwerkt is voor platformen strenger geworden — als je als ZZP'er diensten verleent via een digitaal platform dat zelf de btw afdraagt, heb je andere rapportageverplichtingen dan wanneer je direct factureert.
+
+Ten tweede is de twaalf-maands-termijn voor teruggaaf van buitenlandse BTW via het OSS-systeem aangescherpt. Als je als ZZP'er kosten maakt in andere EU-landen (hotelovernachting, beurzen, kantoorruimte) en die BTW wil terugvragen, moet je het verzoek nu strikt binnen negen maanden na afloop van het betreffende kalenderjaar indienen. Een verlate aanvraag betekent definitief verlies van de teruggaaf.
+
+Controleer in je boekhoudsoftware of die beide punten automatisch worden verwerkt. Moneybird en e-Boekhouden updaten hun regelgeving doorgaans tijdig, maar het is de moeite waard om te controleren bij je accountant of adviseur of de instellingen correct zijn.
+
 Een volledig overzicht van alle boekhoudsoftware vergelijkingen en ZZP-gidsen vind je op de [boekhouding overzichtspagina](/categories/boekhouding/). Als je ook wil begrijpen hoe je facturen en boekhouding slim combineert, lees dan [factureren en boekhouden alles in één](/blog/factureren-en-boekhouden-alles-in-een/).
 
 ---

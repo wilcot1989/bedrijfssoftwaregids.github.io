@@ -527,3 +527,50 @@ De meeste LMS-systemen hebben een ingebouwde content editor voor eenvoudige teks
 ### Hoe lang duurt de implementatie van een LMS?
 
 Voor een standaard MKB-implementatie van TalentLMS of 360Learning reken je op 1-4 weken. Docebo voor een grotere organisatie vergt 4-12 weken. Moodle-implementaties variëren van 2 weken tot meerdere maanden. Cornerstone vergt een volledig implementatietraject van 2-6 maanden.
+
+---
+
+## Kosten vergelijking LMS software
+
+| Tool | Gratis plan | Per user/maand | Best voor |
+|---|---|---|---|
+| TalentLMS | Tot 5 users gratis | €59/maand (25 users) | MKB, laagdrempelig |
+| Moodle | Open source (gratis) | Hosting €50-200/maand | Technische teams, maatwerk |
+| 360Learning | Nee | €8/user/maand | Collaborative learning |
+| Docebo | Nee | Op aanvraag | Enterprise |
+| Cornerstone | Nee | Op aanvraag | Grote organisaties |
+
+**Aanbeveling voor MKB:** TalentLMS biedt de sterkste prijs-kwaliteitsverhouding voor bedrijven van 10-500 medewerkers. Het gratis plan (5 users) is perfect om mee te starten.
+
+## Leercontent bouwen: wat heb je nodig
+
+Een LMS heeft content nodig. Veel bedrijven die een LMS aanschaffen, onderschatten hoeveel werk content creëren is. Er zijn drie benaderingen:
+
+**1. Kant-en-klare content kopen**
+Veel LMS-systemen hebben een contentmarktplaats. LinkedIn Learning (inbegrepen bij sommige Microsoft 365-pakketten) biedt duizenden kant-en-klare cursussen voor zakelijke vaardigheden. Udemy Business ook. Goed voor soft skills en algemene competenties.
+
+**2. Eigen content maken**
+Voor bedrijfsspecifieke procedures, compliance en productkennnis heb je eigen content nodig. Eenvoudige tool: Loom voor instructievideo's (gratis tot 25 videos). Professioneel: Articulate 360 voor SCORM-content (€1.299/jaar).
+
+**3. Hybride: extern + intern**
+De meest effectieve aanpak. Gebruik kant-en-klare content voor generieke competenties (Excel, communicatie, veiligheid) en maak zelf content voor bedrijfsspecifieke onderwerpen.
+
+## Compliance training: waar LMS de meeste waarde levert
+
+Voor veel sectoren is verplichte compliance training een regelmatige taak: BHV-herhalingen, GDPR/AVG-bewustwording, veiligheidsinstructies. Een LMS maakt dit veel efficiënter:
+
+- **Automatische herinneringen:** Het systeem stuurt een herinnering als iemand een verplichte training moet vernieuwen
+- **Voortgangsrapportage:** In één dashboard zie je wie welke training heeft afgerond en wie nog niet
+- **Certificaten genereren:** Bij afronding genereert het systeem automatisch een PDF-certificaat
+
+TalentLMS en Docebo zijn hier het sterkst in. Voor kleine bedrijven die alleen BHV en AVG-training willen bijhouden, is TalentLMS Free al voldoende.
+
+## ROI van een LMS: wanneer loont het
+
+Een LMS is een investering die betaalt als:
+- Je meer dan 10 medewerkers hebt die regelmatig getraind moeten worden
+- Je compliance-verplichtingen hebt die je moet documenteren
+- Externe trainingen (dagdelen, reiskosten) worden vervangen door digitaal leren
+- Je sneller wil onboarden bij hoge personeelsomloop
+
+**Rekenvoorbeeld:** 20 medewerkers, elk 2 externe trainingen per jaar van €150 + reiskosten €50 = €200/medewerker/jaar = €4.000/jaar. TalentLMS Small Business kost €299/jaar. De besparing is €3.700/jaar — enkel door externe training deels te vervangen door digitaal.

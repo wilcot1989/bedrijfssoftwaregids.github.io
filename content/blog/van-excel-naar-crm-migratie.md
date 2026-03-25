@@ -205,6 +205,29 @@ Dit is de echte waarde van de overstap. Niet sneller werken — hoewel dat ook �
 
 Het accountantskantoor in Utrecht weet nu exact welke klanten hun meest winstgevend zijn. Ze weten wanneer contracten verlopen en kunnen pro-actief contact opnemen. Ze weten welke leads de meeste kans maken en steken daar meer tijd in. Dat wisten ze niet uit Excel. Nu wel.
 
+## Wat het migreren je concreet kost — en oplevert
+
+Een overstap van Excel naar een CRM is een investering. Ik zie ondernemers die de kosten onderschatten en daarna teleurgesteld zijn, en ondernemers die ze overschatten en de overstap uitstellen. Hier is een eerlijk overzicht.
+
+**Kosten (eenmalig):**
+- Licentie CRM eerste jaar: €300–€1.200 voor een team van vijf (afhankelijk van pakket)
+- Importwerk: twee tot vier uur voor een goed opgeschoonde spreadsheet
+- Training: één à twee halve dagen voor het team
+- Aanpassingen en configuratie: vier tot acht uur voor een goede inrichting
+
+**Kosten (terugkerend):**
+- Maandelijkse licentie: €25–€100 per maand voor het hele team
+- Beheer: circa een uur per maand voor updates en datakwaliteitscontrole
+
+**Wat het oplevert:**
+- Tijdsbesparing bij het opzoeken van klantinformatie: conservatief tien minuten per dag per medewerker
+- Minder gemiste opvolgingen: bij een gemiddelde dealwaarde van €5.000 is één extra gewonnen deal per kwartaal voldoende om de investering terug te verdienen
+- Beter inzicht in de pipeline: snellere beslissingen over prioritering zonder extra vergaderingen
+
+De break-even bij een team van vijf ligt bij de meeste MKB-bedrijven binnen zes maanden na implementatie. Dat is een conservatieve schatting.
+
+---
+
 ## Lees ook
 
 - [Beste CRM software voor Nederland 2026: eerlijk vergelijk](/blog/beste-crm-software-nederland-2026/)

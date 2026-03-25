@@ -260,6 +260,22 @@ Naarmate je lijst groeit, veranderen je behoeften. Hier is een groeipad per tool
 
 De meeste ZZP'ers zitten in de eerste twee fasen. Het moment om over te stappen van MailerLite naar een krachtiger systeem is wanneer je meer dan 2.500 actieve abonnees hebt en behoefte krijgt aan geavanceerde segmentatie of een ingebouwd CRM.
 
+## Veelgemaakte fouten bij e-mailmarketing als ZZP'er
+
+Ik zie bij zelfstandige professionals steeds dezelfde fouten:
+
+**1. Geen welkomstmail instellen**
+De open rate van een welkomstmail is twee tot drie keer zo hoog als een reguliere nieuwsbrief. Iemand die net inschrijft, is het meest betrokken op dat moment. Stel in MailerLite of Mailchimp een automatische welkomstmail in die direct na inschrijving verstuurd wordt. Dit kost eenmalig dertig minuten en werkt daarna automatisch.
+
+**2. Te lange e-mails sturen**
+ZZP'ers die een nieuwsbrief starten, schrijven vaak te uitgebreid. Een e-mail van vijfhonderd woorden wordt nauwelijks gelezen. Houd je nieuwsbrief beknopt: één centraal onderwerp, één call-to-action. Leden die meer willen lezen, klikken door naar je website.
+
+**3. Nooit je lijst opschonen**
+Abonnees die een jaar lang geen e-mail hebben geopend, trekken je open rate naar beneden en kosten je geld bij betaalde plannen. Schoon je lijst elk half jaar op: stuur een laatste heractivatie-e-mail ("Wil je ingeschreven blijven?") en verwijder iedereen die niet reageert.
+
+**4. Geen toestemming vastleggen**
+De AVG vereist bewijs van toestemming voor iedere abonnee. MailerLite en Mailchimp leggen de inschrijfdatum en -bron automatisch vast per contact. Koop nooit een e-maillijst — dat is in strijd met de AVG en leidt tot hoge spamklachten die je verzendreputatie beschadigen.
+
 ## Hoe wij vergelijken
 
 Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.

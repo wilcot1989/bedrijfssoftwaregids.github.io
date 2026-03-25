@@ -280,6 +280,58 @@ Ja, Square integreert met Exact Online, QuickBooks, Xero en via Zapier met vrijw
 
 ---
 
+## Veelgemaakte fouten bij Square in Nederland
+
+Na meerdere Square-implementaties zie ik steeds dezelfde fouten terugkomen bij Nederlandse ondernemers:
+
+**Fout 1: De account-verificatie te laat starten**
+Square vereist identiteitsverificatie en een bankrekening voordat je betalingen kunt ontvangen. Dat proces duurt één tot drie werkdagen. Plan dit vóór je opening, niet op de dag zelf. Ik heb een marktondernemer gehad die op zijn eerste marktdag niet kon pinnen omdat de verificatie nog liep.
+
+**Fout 2: Niet testen of je bankpas werkt als Maestro is afgeschaft**
+Maestro-kaarten worden niet meer geaccepteerd door Square. De meeste Nederlandse pinpassen zijn inmiddels omgezet naar Debit Mastercard, maar bij oudere pashouders (met name senioren) zijn er soms kaarten die niet werken. Zorg altijd voor een alternatief — een iDEAL betaallink of een ander apparaat.
+
+**Fout 3: Het risico-algoritme onderschatten**
+Square gebruikt automatische risicodetectie om fraude te voorkomen. Wat voor een legitieme ondernemer ongebruikelijk kan zijn (een piekdag, een grote bestelling), kan het algoritme triggeren om je account tijdelijk te bevriezen. Dit overkomt voornamelijk nieuwe accounts in de eerste drie maanden. Oplossing: communiceer met Square's support als je een bijzondere dag verwacht (event, markt, pop-up).
+
+**Fout 4: Geen offline modus testen**
+Square werkt primair online, maar heeft een beperkte offline modus. Zorg dat je vóór je eerste operationele dag de offline modus hebt getest. In gebieden met zwak signaal (markten, festivals, kelderrestaurants) is dat geen luxe.
+
+---
+
+## Square Online: webshop koppelen aan je kassa
+
+Een functie die ik bij veel Square-reviews te weinig aandacht zie krijgen: Square Online. Dit is Square's eigen webshopplatform, gratis inbegrepen bij je Square-account.
+
+Met Square Online bouw je een eenvoudige webshop die direct synchroniseert met je kassasysteem. Verkoop je een item in de winkel? De voorraad daalt ook in de webshop. Verkoop je online? De kassa ziet de gecombineerde voorraad.
+
+Wat Square Online goed doet:
+- Eenvoudige setup, binnen een uur een basisshop online
+- Automatische voorraadsynchronisatie met de kassa
+- iDEAL betalingen via Square Payments
+- Bestel-online-haal-op-in-de-winkel optie (click & collect)
+
+Wat Square Online minder goed doet:
+- Beperkte designopties vergeleken met Shopify of WooCommerce
+- Geen geavanceerde e-commerce functies (kortingscodes, reviews, bundles)
+- Niet ideaal als je een uitgebreide webshop wilt naast je kassa
+
+Voor een kleine winkel of restaurant die primair fysiek verkoopt maar ook een paar producten online wil aanbieden, is Square Online een elegante, gratis oplossing. Voor wie serieuze online omzet wil draaien, is Shopify met de Square-koppeling beter.
+
+---
+
+## Square in de horeca: wat kan extra?
+
+Square for Restaurants is een aparte versie die specifiek voor de horeca gebouwd is. De extra functies ten opzichte van het basis kassasysteem:
+
+- **Tafelplattegronden:** ingediende bestellingen koppelen aan specifieke tafels of zitplaatsen
+- **Keukendisplay:** bestellingen rechtstreeks naar een keukenscherm sturen zonder bonnetje
+- **Course management:** gang-indeling per bestelling (voorgerecht eerst naar keuken, daarna hoofdgerecht)
+- **Split bills:** rekening splitsen per persoon of per gang
+
+Voor een eenvoudige eet- of lunchroom is de gratis versie voldoende. Voor een volwaardig restaurant dat efficiëntie wil in de bediening, is Square for Restaurants Plus (€60/mnd) het overwegen waard. Het is echter minder uitgebreid dan Lightspeed Restaurant of UNTILL — voor complexe keukens met meerdere afdelingen zijn die nog steeds de betere keuze.
+
+---
+
 ## Square in de praktijk: gebruik per sector
 
 ### Retail: kledingwinkels en boetiekwinkels

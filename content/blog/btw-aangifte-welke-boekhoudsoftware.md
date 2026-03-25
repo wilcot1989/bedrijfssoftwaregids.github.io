@@ -139,6 +139,21 @@ Daarnaast is er toenemende aandacht van de Belastingdienst voor de kwaliteit van
 
 Voor ondernemers met activiteiten in meerdere EU-landen is de OSS-regeling (One Stop Shop) relevant: je doet BTW-aangifte voor alle EU-landen in Nederland via één portaal. Niet alle pakketten in het lagere segment ondersteunen dit volledig. Controleer de OSS-functionaliteit als je online verkoopt aan consumenten in andere EU-landen.
 
+## Snel overzicht: welk pakket voor welke situatie
+
+Als je geen tijd hebt om het volledige artikel door te lezen, hier het beknopte advies per situatie.
+
+| Situatie | Aanbevolen pakket | Reden |
+|---|---|---|
+| ZZP, eenvoudige dienstverlening | Moneybird of e-Boekhouden | Gebruiksvriendelijk, directe BTW-koppeling |
+| ZZP, buitenlandse klanten (EU) | Exact Online Essentials | ICP-aangifte ondersteuning |
+| Klein MKB, 2-5 medewerkers | Exact Online Plus | Meerdere gebruikers, uitgebreide rapportages |
+| BV met DGA-salaris | Exact Online + salarismodule | Geïntegreerde salarisadministratie |
+| Kapper/horeca (gemengde BTW) | Moneybird of Exact | Goede BTW-tarieven per artikel |
+| Omzet <€20.000 (KOR-overweging) | e-Boekhouden of Jortt | Eenvoudig als KOR vervalt |
+
+Voor elke situatie geldt: gebruik altijd een proefperiode voor je een abonnement afsluit. De meeste pakketten bieden twee tot vier weken gratis toegang.
+
 ## Lees ook
 
 - [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — welk pakket maakt BTW-aangifte het makkelijkst?

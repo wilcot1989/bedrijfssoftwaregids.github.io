@@ -468,3 +468,45 @@ Elke grote tool biedt een gratis proefperiode. Dit is mijn advies voor hoe je di
 
 ---
 
+## Kosten vergelijking per teamgrootte
+
+| Tool | Gratis plan | Per agent/maand | Beste voor |
+|---|---|---|---|
+| Freshdesk | Tot 10 agents | €18-€95 | MKB starters |
+| Zendesk | Nee | €55-€115 | Groeiend MKB |
+| HubSpot Service Hub | Beperkt gratis | €45-€1.200/maand (team) | HubSpot-gebruikers |
+| Intercom | Nee | €74-€139/seat | SaaS en tech |
+| Trengo | Nee | €19-€35/user | Multi-channel NL bedrijven |
+| Zoho Desk | Gratis (3 agents) | €14-€40 | Budget MKB |
+
+**Mijn aanbeveling per situatie:**
+- Net gestart, weinig budget: Freshdesk Free (10 agents gratis)
+- Groeiend bedrijf, meerdere kanalen: Trengo of Freshdesk Growth
+- SaaS of tech-bedrijf: Intercom
+- Enterprise, al Salesforce-gebruiker: Zendesk Enterprise
+
+## De drie KPI's die je klantenservice echt meten
+
+De meeste bedrijven meten "klanttevredenheid" te vaag. Ik gebruik drie specifieke KPI's:
+
+**First Response Time (FRT)**
+Hoe lang duurt het voor een klant een eerste reactie ontvangt? De benchmark voor e-mail is 24 uur; voor chat is het 5 minuten. Freshdesk, Zendesk en Trengo tonen dit automatisch in het dashboard.
+
+**First Contact Resolution (FCR)**
+Welk percentage van tickets wordt in één contactmoment opgelost, zonder terugkerende vragen? Een FCR boven de 70% is goed. Lager dan 60% wijst op onduidelijke antwoorden of te complexe procedures.
+
+**Customer Satisfaction Score (CSAT)**
+Na elk gesloten ticket een éénvoudige vraag: "Hoe tevreden ben je met de afhandeling? (1-5)". De meeste tools sturen dit automatisch. Stuur niet méér dan één enquête per klantcontact — meer leidt tot lagere responspercentages.
+
+## Self-service: de beste investering in klantenservice
+
+De meest kostenefficiënte verbetering aan je klantenservice is niet meer agents — het is een goede kennisbank. Als je klanten veelgestelde vragen zelf kunnen beantwoorden, daalt het ticketvolume met 20-40%.
+
+Een effectieve kennisbank heeft:
+- Antwoorden op de 20 meest gestelde vragen
+- Stapsgewijze handleidingen voor veelvoorkomende problemen
+- Een goede zoekfunctie (niet alleen bladeren)
+- Recente updates — verouderde informatie schaadt het vertrouwen
+
+Freshdesk en Zendesk hebben ingebouwde kennisbanken. Intercom heeft een sterke zelfbedieningsportal met AI-suggesties. Ook een eenvoudige FAQ-pagina op je website kan al 15-20% van klantvragen voorkomen.
+

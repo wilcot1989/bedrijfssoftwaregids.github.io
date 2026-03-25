@@ -267,6 +267,16 @@ Horecaondernemers die ook hun boekhouding willen automatiseren, vinden een verge
 
 Bekijk ook de diepgaande reviews: [Shiftbase review 2026](/blog/shiftbase-review-2026/), [Planday review 2026](/blog/planday-review-2026/) en [beste planning software horeca 2026](/blog/beste-planning-software-horeca-2026/).
 
+## Personeelsverloop terugdringen: wat HR-software kan en niet kan
+
+Het personeelsverloop in de horeca is in Nederland gemiddeld 30 tot 40 procent per jaar. Dat betekent dat een restaurant met twaalf medewerkers er jaarlijks vier tot vijf vervangt — en elke vervanging kost tijd, geld en kwaliteit. HR-software kan helpen, maar lost het probleem niet op als de oorzaken dieper liggen.
+
+Wat HR-software wél kan doen:
+- **Exitgegevens bijhouden:** Registreer bij elke uitdiensttreding de vertrekreden (salaris, rooster, sfeer, doorgroei). Na twaalf maanden zie je patronen: als acht van de tien vertrekkers "roostering" noemen, is dat een operationeel probleem.
+- **Beschikbaarheidsregistratie verbeteren:** Medewerkers die hun beschikbaarheid beter kunnen doorgeven, voelen zich meer gehoord. Shiftbase maakt dit laagdrempelig via de app.
+- **Salarisfouten elimineren:** Shiftbase meldt dat horecabedrijven die overstappen van handmatige naar geautomatiseerde salarisverwerking gemiddeld 2,3% minder loonkosten betalen doordat overbetaling door berekeningsfouten wegvalt.
+- **Verlof en rust bewaken:** Medewerkers die structureel hun verlofdagen niet opnemen, raken uitgeput. HR-software met verlofrapportages laat je dit signaleren voor het een probleem wordt.
+
 Een laatste overweging: de horeca kent een unieke combinatie van hoog personeelsverloop en intieme werkrelaties. Je team is kleiner dan in de meeste andere sectoren, maar de band is hechter. Kies daarom HR-software die niet alleen efficient is, maar ook prettig in gebruik. Een rooster-app die medewerkers als nummers behandelt, werkt averechts. Shiftbase begrijpt dit: medewerkers kunnen onderling diensten ruilen, beschikbaarheid doorgeven en verlof aanvragen zonder dat de ondernemer erbij hoeft te zijn. Dat geeft medewerkers autonomie en vermindert de druk op jou als ondernemer.
 
 {{< sector-cta-hr >}}

@@ -255,6 +255,14 @@ Een retailwinkel groeit, en je kassasysteem moet mee kunnen schalen. Hier is een
 
 Het ideale moment voor een upgrade is wanneer je merkt dat je meer tijd besteedt aan handmatig voorraadbeheer dan aan verkopen. De meest voorkomende overstap die ik begeleid is van Square naar Lightspeed. Het moment waarop je deze switch maakt, is doorgaans wanneer je meer dan vijfhonderd artikelen hebt, een webshop erbij neemt, of een tweede medewerker aanneemt die ook met de kassa werkt.
 
+## Omnichannel retailing: kassa en webshop op één lijn
+
+Een van de grootste uitdagingen voor moderne retailers is de combinatie van een fysieke winkel en een webshop. Als je in de winkel iets verkoopt maar de voorraad in je webshop niet wordt bijgewerkt, riskeer je dat je hetzelfde artikel twee keer verkoopt. Of je hebt online-artikelen die in de winkel al uitverkocht zijn, maar niet zichtbaar als "niet beschikbaar" staan.
+
+Lightspeed Retail heeft de sterkste omnichannel-integratie: voorraad wordt realtime gesynchroniseerd tussen de kassa en de Lightspeed eCom webshop. Bij elk kassakoopje wordt de webshopvoorraad direct bijgewerkt. Square Online synchroniseert ook met de Square kassa, maar is minder flexibel in de webshop-configuratie. Zettle heeft geen native webshop-synchronisatie.
+
+Voor retailers die serieus omnichannel willen, is Lightspeed Retail de logische keuze. De maandprijs van €59 is in verhouding met wat je terugverdient door geen dubbel-verkopen en een actueel voorraadoverzicht op beide kanalen.
+
 ## Hoe wij vergelijken
 
 Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.

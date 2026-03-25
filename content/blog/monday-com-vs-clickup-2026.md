@@ -281,6 +281,25 @@ Monday.com heeft geen dedicated ClickUp-importfunctie. Je exporteert ClickUp-tak
 
 Mijn advies als je overweegt om van ClickUp naar Monday.com te gaan: spring er niet in met je volledige workspace. Migreer eerst één team of één project als pilot. Kijk hoe de structuur in Monday.com voelt, train de betrokken mensen, en beslis pas daarna of de rest van de organisatie volgt.
 
+## Monday.com vs ClickUp: kostenvergelijking per teamgrootte
+
+| Teamgrootte | Monday.com Standard | ClickUp Unlimited | ClickUp Business |
+|-------------|--------------------|--------------------|-----------------|
+| **3 gebruikers** | 3 × €12 = €36/mnd | $7 × 3 = €20/mnd | $12 × 3 = €34/mnd |
+| **5 gebruikers** | 5 × €12 = €60/mnd | $7 × 5 = €33/mnd | $12 × 5 = €56/mnd |
+| **10 gebruikers** | 10 × €12 = €120/mnd | $7 × 10 = €65/mnd | $12 × 10 = €112/mnd |
+| **Verschil per jaar (10 gbr)** | — | **€660/jaar goedkoper** | **€96/jaar goedkoper** |
+
+ClickUp Unlimited (het populairste plan) is significant goedkoper dan Monday.com Standard. Op Business-niveau zijn de kosten vergelijkbaar. Maar ClickUp's Business-plan biedt meer functies dan Monday.com Pro — tijdregistratie, meer dashboards, uitgebreide doelen — waardoor de waarde per euro bij ClickUp hoger ligt.
+
+**Gratis plan vergelijking:**
+- **ClickUp Free:** onbeperkte taken, 5 spaces, 100 MB opslag, beperkte rapportages
+- **Monday.com Free:** maximaal 2 gebruikers, 3 borden, beperkte functies
+
+Voor kleine teams die gratis willen starten wint ClickUp duidelijk.
+
+---
+
 ## Concrete teamprofielen: wie kiest wat?
 
 Na jaren van implementaties bij verschillende teams heb ik patronen gezien. Hier zijn de teamprofielen die consequent bij één van beide tools uitkomen.

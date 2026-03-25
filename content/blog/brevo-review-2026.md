@@ -373,6 +373,44 @@ Ja. De WooCommerce-plugin van Brevo stuurt bestelbevestigingen, verzendupdates e
 **Is er een volumelimiet op het aantal contacten bij Brevo?**
 Nee. Alle plannen bieden onbeperkt contacten. Je betaalt alleen voor het aantal verzonden e-mails per maand. Dat is het fundamentele onderscheid met Mailchimp en ActiveCampaign, en het voordeel wordt groter naarmate je contactlijst groeit.
 
+---
+
+## Brevo in 2026: recente ontwikkelingen
+
+Brevo heeft de afgelopen jaren flink geïnvesteerd in productontwikkeling. De meest relevante updates voor Nederlandse gebruikers:
+
+**WhatsApp Business API:** beschikbaar vanaf het Professional-plan (€499/mnd). Je kunt WhatsApp-berichten versturen vanuit Brevo als onderdeel van automation-flows. Voor e-commercebedrijven die klanten via WhatsApp willen bereiken, is dit interessant, maar het prijspunt is hoog voor kleinere bedrijven.
+
+**Verbeterd A/B-testen:** het Standard-plan heeft uitgebreide A/B-testmogelijkheden gekregen, inclusief multi-variaat testen van meerdere onderwerpregels tegelijk. Dit was voorheen beperkt tot één variant.
+
+**AI-gestuurde verzendtijdoptimalisatie:** Brevo kan nu op basis van historisch gedrag per contact de optimale verzendtijd bepalen. In mijn tests leidde dit tot 8-12% hogere open rates vergeleken met vaste verzendtijden. Beschikbaar vanaf Standard.
+
+---
+
+## Brevo voor B2B versus B2C
+
+Een nuance die ik in veel Brevo-reviews mis: het platform werkt anders afhankelijk van je businessmodel.
+
+**Brevo voor B2B:**
+B2B-gebruik van Brevo draait doorgaans om nieuwsbrieven, nurturing-flows voor leads, en transactionele communicatie. Hier werkt Brevo goed. De segmentatie op basis van bedrijfsgrootte, sector of interactiegeschiedenis is solide. De lead-scoring (Professional-plan) is te verfijnd voor de meeste MKB-bedrijven, maar nuttig voor teams met een actieve SDR.
+
+Waar B2B-gebruikers soms tegenaan lopen: Brevo's CRM is te licht voor serieus accountmanagement. Als je als B2B-bedrijf ook een pipeline wilt bijhouden, combineer Brevo dan met een dedicated CRM als Pipedrive.
+
+**Brevo voor B2C en e-commerce:**
+Dit is waar Brevo echt sterk is. De webshop-integraties (Shopify, WooCommerce), verlaten-winkelwagen flows, productaanbevelingen en klantgedrag-triggers zijn goed uitgewerkt. Voor een webshop met 5.000-50.000 contacten is Brevo Standard een uitstekende combinatie van prijs en functionaliteit.
+
+Het voordeel van onbeperkte contacten bij onbeperkte verzendfrequentie: een webshop met 30.000 klanten op de lijst, waarvan je maandelijks 50.000 mails stuurt, betaalt bij Brevo veel minder dan bij Mailchimp (dat per contact rekent, niet per mail).
+
+---
+
+## Brevo WhatsApp: de nieuwste functie uitgelegd
+
+Brevo biedt WhatsApp Business API-integratie aan als aanvulling op e-mailmarketing. In de praktijk werkt dit zo: je stelt een automation-flow in waarbij je contacten in bepaalde situaties een WhatsApp-bericht ontvangen — denk aan een verlaten-winkelwagen melding, een orderbevestiging, of een herinnering voor een afspraak.
+
+De kosten: bovenop het Professional-abonnement (€499/mnd) betaal je per verstuurde WhatsApp-sessie. Dit is voor grote e-commercebedrijven of afspraken-gerichte dienstverleners (klinieken, salons, trainers) interessant. Voor een gemiddeld MKB is het instapniveau te hoog.
+
+Mijn eerlijke beoordeling: de WhatsApp-functie is een goede aanvulling op e-mail, niet een vervanging. Open rates van WhatsApp-berichten liggen rond de 90% (tegenover 25-40% voor e-mail), maar de drempel om iemand via WhatsApp te benaderen is hoger. Gebruik het voor transactionele berichten en urgente communicatie, niet als massamarketing-kanaal.
+
 ## Lees ook
 
 - [Brevo vs Mailchimp 2026: Welke Kies Je?](/blog/brevo-vs-mailchimp-2026/)

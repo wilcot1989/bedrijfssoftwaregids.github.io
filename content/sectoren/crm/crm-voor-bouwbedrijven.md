@@ -247,6 +247,15 @@ Bouwbedrijven die nieuwe opdrachtgevers willen bereiken, kunnen ook marketing st
 
 Lees ook de [Pipedrive review 2026](/blog/pipedrive-review-2026/) en het artikel [projectmanagement software voor bouwbedrijven](/blog/projectmanagement-software-bouwbedrijven-2026/) voor meer diepgang.
 
+## CRM voor bouwbedrijven: offerteproces stroomlijnen
+
+Het offerteproces is in de bouw het meest arbeidsintensieve onderdeel van de salesfunnel. Een offerte voor een verbouwing van €50.000 kan een week werk zijn — tekeningen, materiaalberekeningen, onderaannemersprijzen opvragen. Als je vervolgens de offerte verliest zonder te weten waarom, is dat tijdverspilling die je niet kunt terugwinnen.
+
+Een goed CRM helpt je het offerteproces te structureren:
+- **Verliesredenen bijhouden:** Na elke verloren offerte registreer je de reden. Na tien offertes zie je of je systematisch verliest op prijs, op doorlooptijd of op referenties. Dat stuurt je acquisitieselectie: investeer je energie in de aanvragen waar je realistisch kans hebt om te winnen.
+- **Win rate per opdrachtgevertype:** Heb je een hogere slaagkans bij particuliere opdrachtgevers of bij institutionele opdrachtgevers? Bij renovaties of nieuwbouw? Pipedrive en HubSpot laten je win rate per segment zien.
+- **Offertehistorie per opdrachtgever:** Als een opdrachtgever je belt voor een nieuwe aanvraag, zie je in Pipedrive direct welke offertes je eerder hebt uitgebracht, wat de prijzen waren en of ze zijn gewonnen of verloren. Dat geeft context voor het gesprek.
+
 Een goede CRM-implementatie in de bouw begint niet bij de software maar bij het proces. Breng eerst in kaart hoe je offerteproces nu loopt, hoeveel offertes je per maand uitbrengt, en waar de meeste deals verloren gaan. Dat bepaalt welk systeem het beste past en hoe je het moet inrichten. Zonder die analyse koop je een tool die je niet optimaal gebruikt.
 
 De bouw is een relatiegedreven sector. Een opdrachtgever die tevreden is over een verbouwing, komt over drie jaar terug voor een aanbouw. Een architect die je kent, kan je bij tien projecten aanbevelen. Een CRM dat die relaties bijhoudt en je herinnert aan opvolging, is het verschil tussen een reactief en een proactief bouwbedrijf. De aannemers die dit goed doen, groeien sneller dan hun concurrenten -- niet doordat ze beter bouwen, maar doordat ze beter onderhouden.

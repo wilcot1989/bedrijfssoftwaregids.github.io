@@ -465,3 +465,35 @@ Je kunt je abonnement op elk moment opzeggen via Instellingen > Facturering. Let
 ---
 
 *Wil je meer vergelijkingen lezen? Bekijk het [marketing sectoren-overzicht](/sectoren/marketing/) of ga naar alle [marketing software reviews](/categories/marketing/).*
+
+---
+
+## Veelgemaakte fouten bij Mailchimp
+
+Na jaren van Mailchimp-gebruik en -implementaties bij klanten zie ik steeds dezelfde fouten:
+
+**Fout 1: Uitgeschreven contacten niet opschonen**
+Mailchimp telt uitgeschreven contacten mee in je contactlimiet. Veel gebruikers weten dit niet en betalen voor contacten die ze nooit meer kunnen e-mailen. Archiveer uitgeschreven contacten maandelijks — dat verlaagt je kosten direct.
+
+**Fout 2: Het gratis plan gebruiken voor zakelijke communicatie**
+Op het gratis plan staat een Mailchimp-badge in je footer. Dat ziet er onprofessioneel uit en ondermijnt je merkvertrouwen. Upgrade naar Essentials (€13/mnd) voor zakelijk gebruik — die investering is de moeite waard.
+
+**Fout 3: Geen welkomstreeks instellen**
+Mailchimp heeft goede automatiseringsopties, maar ik zie veel accounts zonder enige welkomstreeks voor nieuwe abonnees. Stel minimaal een driedelige welkomstreeks in: bevestiging, introductie, eerste waarde. Dat verhoogt de betrokkenheid van nieuwe abonnees structureel.
+
+**Fout 4: Segmentatie negeren**
+Dezelfde mail naar je volledige lijst sturen is eenvoudig, maar leidt tot lagere open rates en hogere afmeldingen. Segmenteer op minimaal twee criteria: klanten versus leads, en actief versus inactief. Gesegmenteerde campagnes presteren gemiddeld 14% beter.
+
+---
+
+## Mailchimp voor WooCommerce: werkt de integratie goed?
+
+Voor webshophouders is de WooCommerce-koppeling van Mailchimp een relevante functie. Mijn beoordeling:
+
+De koppeling synchroniseert klantgegevens, bestellingen en productinformatie automatisch. Je kunt verlaten-winkelwagen-mails instellen, productaanbevelingen versturen op basis van aankoopgeschiedenis, en klanten segmenteren op aankoopgedrag.
+
+Wat goed werkt: de basisfuncties zijn betrouwbaar. De synchronisatie loopt soepel voor webshops met tot duizend bestellingen per maand.
+
+Wat minder goed werkt: bij grotere volumes kunnen synchronisatieproblemen optreden. En de productaanbevelingen zijn minder verfijnd dan bij gespecialiseerde e-commerce marketing tools zoals Klaviyo.
+
+Mijn advies voor WooCommerce-webshops: bij een kleine webshop (tot €10.000 maandomzet) is Mailchimp voldoende. Bij grotere volumes en een serieuze focus op e-mailmarketing als groeimotor is Klaviyo of Brevo een betere keuze.

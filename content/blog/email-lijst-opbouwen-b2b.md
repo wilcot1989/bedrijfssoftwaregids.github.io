@@ -169,6 +169,32 @@ Voor een volledige vergelijking van Brevo en andere nieuwsbriefsoftware voor Ned
 
 ---
 
+## Van nul naar 500 abonnees: een realistisch tijdpad
+
+Veel ondernemers geven op voor ze 100 abonnees bereiken, omdat de groei traag aanvoelt. Hier is een realistisch tijdpad zodat je weet wat je kunt verwachten.
+
+**Maanden 1-2: Fundament**
+- E-mailplatform instellen, dubbele opt-in activeren
+- Eerste lead magnet maken (checklist of vergelijkingstabel)
+- Opt-in formulier op de meest bezochte pagina van je website
+- Verwachting: 20-50 abonnees vanuit bestaand netwerk
+
+**Maanden 3-4: Eerste groei**
+- LinkedIn-routine starten (3x/week posten)
+- Eerste webinar of online event
+- Twee nieuwsbrieven verstuurd, feedback verzameld
+- Verwachting: 50-150 abonnees totaal
+
+**Maanden 5-6: Acceleratie**
+- Tweede lead magnet gebaseerd op feedback eerste
+- SEO begint bij te dragen via organisch zoekverkeer
+- LinkedIn-netwerk uitgebreid, eerste directe aanvragen via nieuwsbrief
+- Verwachting: 150-300 abonnees totaal
+
+**Jaar 1 einde:** 300-600 abonnees bij consistente uitvoering van één of twee strategieën. Bij hogere contentfrequentie of een viraal stuk content kan dat sneller gaan.
+
+De sleutel is consistentie over time, niet een grote campagne. Twintig nieuwe abonnees per maand via constante inspanning levert na een jaar een lijst van 240 contacten — allemaal met echte toestemming en echte interesse.
+
 **Lees ook:**
 - [Beste e-mail marketing software 2026](/blog/beste-email-marketing-software-2026/) — vergelijking van de populairste platforms voor Nederlandse bedrijven
 - [Leadgeneratie tools voor B2B Nederland](/blog/leadgeneratie-tools-b2b-nederland/) — welke tools helpen je pipeline structureel te vullen

@@ -256,6 +256,20 @@ Bekijk ook de diepgaande reviews: [AFAS review 2026](/blog/afas-review-2026/), [
 
 Wil je vooraf testen of een systeem bij je past? Veel MKB-bedrijven onderschatten het belang van een goede proefperiode. Mijn tip: test niet met demodata, maar met je eigen bankafschriften, facturen en rekeningschema. Dat geeft een realistischer beeld dan een schone demo-omgeving.
 
+## Kosten totaaloverzicht boekhoudsoftware voor MKB
+
+De licentieprijs is slechts een deel van de totale kosten. Dit is een realistisch beeld voor een MKB-bedrijf met tien tot vijftig medewerkers:
+
+| Kostenpost | Snelstart | Exact Online | AFAS |
+|-----------|-----------|--------------|------|
+| Licentie/jaar | €168-600 | €588-1.200 | Op aanvraag (ca. €3.000-8.000) |
+| Implementatie (eenmalig) | €0-1.000 | €500-3.000 | €5.000-20.000 |
+| Training (eenmalig) | €200-500 | €500-1.500 | €1.000-3.000 |
+| Accountantskosten/jaar | €1.500-3.000 | €1.000-2.000 | €500-1.000 |
+| **Totaal jaar 1** | **€1.868-5.100** | **€2.588-7.700** | **€9.500-32.000** |
+
+AFAS lijkt het duurst, maar dat beeld verschuift als je besparingen meeneemt: minder accountantsuren doordat alles geautomatiseerd is, geen apart HR-systeem nodig, en lagere foutkosten doordat processen gestandaardiseerd zijn. De ROI van AFAS betaalt zich terug bij MKB-bedrijven met meer dan dertig medewerkers en een complexe organisatiestructuur.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

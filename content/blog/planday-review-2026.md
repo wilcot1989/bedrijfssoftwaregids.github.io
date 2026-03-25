@@ -451,3 +451,56 @@ Ja. Je kunt medewerkers deactiveren buiten het seizoen en heractiveren aan het b
 
 **Hoe werkt de 30-daagse gratis proefperiode?**
 Je registreert je zonder creditcard. Je krijgt toegang tot het Plus-plan gedurende 30 dagen. Ik raad aan om in die 30 dagen minimaal één volledig rooster te bouwen, medewerkers te activeren en de app te laten gebruiken. Dat geeft een realistisch beeld van hoe Planday in de dagelijkse praktijk werkt.
+
+---
+
+## Planday vs. Dyflexis: een derde optie
+
+De vergelijking Planday vs. Shiftbase heb ik al gemaakt, maar Dyflexis verdient ook een plek in dit overzicht. Dyflexis is minder bekend, maar heeft een sterke positie in Nederland, met name in zorg, beveiliging en evenementen.
+
+| Criterium | Planday | Dyflexis | Shiftbase |
+|---|---|---|---|
+| **Medewerkers-app kwaliteit** | Uitstekend | Goed | Goed |
+| **WAB-functies** | Basis | Goed | Uitstekend |
+| **Nmbrs koppeling** | Nee (native) | Ja | Ja |
+| **Nederlandstalige support** | Beperkt | Ja | Ja |
+| **Horeca-focus** | Ja | Neutraal | Neutraal |
+| **Prijs (Plus)** | €4,99/user | €3-6/user | €3-5/user |
+
+Dyflexis is een serieus alternatief als je een Nederlandse tool wilt met Nmbrs-koppeling én een goede medewerkers-app. Planday blijft sterker in communicatiefuncties en app-kwaliteit; Dyflexis scoort beter op Nederlandse compliance-functies.
+
+---
+
+## Planday voor retail: een andere dynamiek
+
+Ik heb Planday voornamelijk beschreven vanuit een horeca-perspectief, maar het platform is ook in gebruik bij retailbedrijven. De dynamiek is anders:
+
+**Retail vs. horeca in Planday:**
+- Bij retail zijn diensten voorspelbaarder (winkelopeningstijden zijn vaste kaders), dus sjabloonroosters worden vaker hergebruikt
+- In retail is de compliance-druk rondom pauzetijden en maximale arbeidstijden anders dan in horeca
+- Kassasysteem-koppelingen (voor omzetprognoses bij roostering) zijn in retail relevanter
+
+Planday's Open Shifts-functie is in retail bijzonder handig bij koopzondagen en vakanties: je plaatst extra diensten als open shifts, medewerkers melden zich aan, en de planner verdeelt. Bij een kledingketen in Den Haag met twee vestigingen en 22 medewerkers werkte dit goed: de planningsstress rondom de kerst (traditioneel de drukste periode) daalde aanzienlijk.
+
+Wat retail-gebruikers vaker missen dan horeca-gebruikers: een directe koppeling met kassasystemen voor omzetgebaseerde roostering. In horeca is de bezettingsbehoefte deels te voorspellen vanuit reserveringen; in retail deels vanuit kassa-omzet per uur. Planday biedt dit niet standaard.
+
+---
+
+## Veelgemaakte fouten bij Planday-implementaties
+
+Na meerdere implementaties in de horeca zie ik dezelfde fouten terugkomen:
+
+**Fout 1: Niet alle afdelingen aanmaken vóór de eerste medewerker**
+Starten zonder structuur leidt tot een rommelig systeem. Zorg dat afdelingen, functies en locaties zijn aangemaakt voordat je de eerste medewerker importeert.
+
+**Fout 2: Medewerkers uitnodigen zonder app-introductie**
+Planday stuurt automatisch een uitnodigingsmail, maar medewerkers begrijpen niet altijd wat ze ermee moeten. Plan een korte introductie (vijf minuten bij de briefing is genoeg) voordat je de uitnodigingen verstuurt.
+
+**Fout 3: Ruilverzoeken blijven toestaan via WhatsApp**
+Dit is de meest gemaakte fout. Als je team naast Planday ook nog WhatsApp-groepen gebruikt voor ruilverzoeken, verlies je het overzicht. Maak duidelijk: alles via Planday, WhatsApp-ruilverzoeken worden niet verwerkt. De eerste paar weken vereist dit wat handhaving, daarna is het een gewoonte.
+
+**Fout 4: De kiosk niet instellen voor medewerkers zonder smartphone**
+Niet elke medewerker heeft een smartphone, of ze willen die niet voor werk gebruiken. Zet een gedeelde tablet als Planday Kiosk bij de ingang — medewerkers kunnen inklokken zonder eigen apparaat.
+
+**Fout 5: De NL salarisintegratie als vanzelfsprekend aannemen**
+Zoals ik eerder beschreef: Planday heeft geen native koppeling met Nmbrs of AFAS. Als je na implementatie die koppeling alsnog nodig blijkt te hebben, is het soms makkelijker om over te stappen naar Shiftbase dan een maatwerkkoppeling te bouwen. Beslis dit vóór je implementatie, niet erna.

@@ -503,3 +503,47 @@ De juiste kapsalon software transformeert je dagelijkse werkzaamheden. Minder te
 Mijn advies: vraag een demo of start een proefperiode bij minimaal twee van deze tools. Let daarbij niet alleen op de functies, maar ook op hoe prettig het systeem werkt in de dagelijkse praktijk van jouw salon. De beste software is de software die jij en je team graag gebruiken. Vergelijk je ook met andere zorgpraktijken? Lees dan mijn artikel over de [beste software voor fysiotherapeuten 2026](/blog/beste-software-fysiotherapeuten-2026/) voor vergelijkbare branche-specifieke overwegingen.
 
 Op zoek naar meer opties? Gebruik de **[productiviteit keuzehulp](/tools/productiviteit/keuzehulp/)**, bereken je **[softwarekosten](/tools/productiviteit/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/productiviteit/)**. Je kunt ook de [Notion vs Monday vergelijking](/blog/notion-vs-monday-vergelijking-2026/) lezen als je ook je salonplanning en teamtaken wilt organiseren.
+
+---
+
+## Kosten vergelijking kapsalon software
+
+| Software | Gratis plan | Starter | Pro | Enterprise |
+|---|---|---|---|---|
+| Salonkee | Nee | €39/maand | €79/maand | Op aanvraag |
+| Treatwell Pro | % van omzet | 25-35% per nieuwe klant | Vaste maandprijs | Op aanvraag |
+| Phorest | Nee | Op aanvraag | Op aanvraag | Op aanvraag |
+| Planfy | Ja (beperkt) | €15/maand | €29/maand | N/A |
+| SimplyBook.me | Ja (5 boekingen/dag) | €7,99/maand | €29/maand | €59/maand |
+| Salonized | Nee | €29/maand | €49/maand | Op aanvraag |
+
+**Let op bij Treatwell Pro:** Het percentagemodel is aantrekkelijk als je net begint en weinig nieuwe klanten hebt. Als je groeit en veel klanten via Treatwell binnenhaalt, kan het percentage substantieel worden. Bereken altijd wat je maandelijks betaalt bij je huidige klantenvolume.
+
+## ROI-berekening: wat levert salon software op?
+
+Een praktijkvoorbeeld voor een salon met 4 stoelen, 40 afspraken per week:
+
+**Tijdsbesparing:**
+- Telefonische afspraken: gemiddeld 3 minuten per afspraak × 40 = 120 minuten/week
+- Online boekingen: 0 minuten per afspraak
+- Besparing: 2 uur per week = €40-60/week (bij €20-30/uur voor de frontdesk)
+
+**No-show reductie:**
+- Zonder software: gemiddeld 10-15% no-shows = 4-6 afspraken per week
+- Met automatische herinneringen: 3-5% no-shows = 1-2 afspraken per week
+- Besparing: 3-4 afspraken × €35 gemiddeld = €105-€140/week
+
+**Totale waarde:** €145-€200/week besparing bij salonkosten van €29-79/maand. De terugverdientijd is doorgaans minder dan twee weken.
+
+## No-show preventie: de meest winstgevende functie
+
+No-shows zijn het grootste financiële lek in een kapsalon. Elke lege stoel is directe omzetderving. De meest effectieve aanpak:
+
+**24-uurs SMS-herinnering**
+Een SMS (niet alleen e-mail) 24 uur voor de afspraak geeft de beste resultaten. Klanten zien SMS eerder dan e-mail. Salonkee, Phorest en Salonized sturen dit automatisch.
+
+**Online annulering mogelijk maken**
+Als een klant niet kan, wil je dat ze makkelijk kunnen annuleren zodat je de tijd kunt opvullen. Maak annuleren makkelijk — niet moeilijk. Een makkelijke annulering is beter dan een no-show.
+
+**Annuleringsbeleid duidelijk communiceren**
+Communiceer bij het boeken dat je een annuleringskosten rekent bij minder dan 24 uur van tevoren. De meeste salons hanteren €15-25 annuleringskosten. Salonkee ondersteunt het automatisch incasseren van deze kosten via creditcard bij boeking.

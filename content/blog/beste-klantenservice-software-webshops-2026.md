@@ -616,3 +616,39 @@ Kijk naar: integratie met je webshopplatform (Shopify/WooCommerce), WhatsApp-ond
 
 **Wat kost goede webshop klantenservice software gemiddeld?**
 Goede webshop klantenservice software kost gemiddeld €25-75 per agent per maand voor betaalde plannen. Er zijn gratis opties beschikbaar (Freshdesk Free) voor kleine webshops.
+
+---
+
+## Kosten vergelijking per webshopgrootte
+
+| Tool | Gratis plan | Per agent/maand | Geschikt voor |
+|---|---|---|---|
+| Freshdesk | Tot 10 agents gratis | €18-€95 | Kleine tot middelgrote webshops |
+| Gorgias | Nee (trial) | $10 + per ticket | Shopify/BigCommerce webshops |
+| Trengo | Nee | €19-€35 | WhatsApp-heavy webshops |
+| Zendesk | Nee (trial) | €55-€115 | Middelgrote tot grote webshops |
+| Re:amaze | Nee | €29-€69 | E-commerce specifiek |
+
+**Vuistregel:** Verwacht je meer dan 500 tickets per maand? Dan loont automatisering en betaald plan duidelijk. Onder de 100 tickets per maand werkt Freshdesk Free prima.
+
+## Meest waardevolle automatiseringen voor webshops
+
+**1. Automatische bestelbevestiging en tracking-update**
+Stuur automatisch een e-mail of WhatsApp bij verzending met trackingcode. Dit voorkomt 40-60% van "waar is mijn bestelling?" vragen.
+
+**2. Automatisch antwoord op veelgestelde vragen**
+Stel een chatbot in die direct antwoordt op "Kan ik nog annuleren?", "Hoe retourneer ik?" en "Wanneer wordt mijn order geleverd?". Gorgias en Trengo bieden kant-en-klare FAQ-flows.
+
+**3. Retourproces automatiseren**
+Een geautomatiseerd retourportal — waarbij klanten zelf hun retouropties kiezen — vermindert het aantal handmatige retourafhandelingen met 70-80%.
+
+**4. Escalatie bij negatieve sentiment**
+Detecteer automatisch boze of gefrustreerde berichten (via sentimentanalyse) en routeer die direct naar een ervaren agent. Zendesk en Freshdesk hebben dit ingebouwd.
+
+## WhatsApp Business voor webshops: praktische aanpak
+
+Meer dan 85% van de Nederlanders gebruikt WhatsApp actief. Voor webshops is WhatsApp Business een logisch klantenservicekanaal, maar er zijn valkuilen:
+
+- **WhatsApp Business API** (via Trengo of Gorgias) vs. **WhatsApp Business app** (gratis, één telefoon). De app werkt voor kleine webshops; bij meerdere agents heb je de API nodig.
+- **Zakelijke uren instellen:** Stel duidelijke verwachtingen over wanneer je reageert. "Wij reageren op werkdagen binnen 2 uur" is beter dan geen verwachting scheppen.
+- **Broadcast-berichten:** Met de API kun je klanten pro-actief berichten sturen (verzendbevestiging, verloopdatum actie). Doe dit spaarzaam — WhatsApp wordt slecht gewaardeerd als spamkanaal.

@@ -289,3 +289,162 @@ Mijn advies: doorloop de acht vragen eerlijk en zonder te kijken naar wat concur
 <a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Exact Online voor MKB →</a>
 
 Start je zoektocht met de [beste ERP software MKB 2026](/blog/beste-erp-software-mkb-2026/) voor een overzicht van alle opties, of gebruik de [keuzehulp productiviteitssoftware](/categories/productiviteit/) om gericht te filteren op jouw bedrijfssituatie.
+
+## Praktisch stappenplan: van oriëntatie naar go-live
+
+Theorie is één ding. Maar hoe ziet het ERP-selectietraject er in de praktijk uit? Dit stappenplan heb ik de afgelopen jaren bij meerdere MKB-klanten gevolgd. Het werkt.
+
+### Stap 1: Procesanalyse (week 1-2)
+
+Documenteer je huidige processen voor de drie à vier afdelingen die het meeste baat hebben bij ERP. Gebruik een eenvoudige proceskaart: input → stap → output → wie doet wat. Focus op de knelpunten: waar wordt data dubbel ingevoerd, waar raken dingen zoek, waar kost handmatig werk de meeste tijd?
+
+Stel jezelf per proces de vraag: wat zou dit kosten als ik het automatiseer? En: wat kost het nu? Die berekening maakt de business case concreet.
+
+Betrek de medewerkers die dagelijks in deze processen zitten. Zij weten precies waar de pijn zit, en hun draagvlak is essentieel voor een succesvolle implementatie. Een ERP dat door directie wordt gekozen maar door de vloer wordt gehaat, mislukt vrijwel altijd.
+
+### Stap 2: Requirements-document (week 2-3)
+
+Schrijf een requirements-document van één tot drie pagina's. Niet een uitputtende lijst van honderden wensen, maar de tien tot vijftien functionele eisen die voor jou doorslaggevend zijn. Sorteer op: moet-hebben, goed-om-te-hebben en nice-to-have.
+
+Voorbeelden van must-haves:
+- Koppeling met Nederlandse bank (ING, Rabobank, ABN AMRO)
+- BTW-aangifte direct via het systeem
+- Minimaal vijf gelijktijdige gebruikers
+- Nederlandse support via telefoon
+- GDPR-compliant dataopslag in de EU
+
+Nice-to-haves:
+- Mobiele app
+- Ingebouwde CRM-module
+- Geavanceerde BI-dashboards
+
+Dit document stuur je naar de leveranciers bij stap 4.
+
+### Stap 3: Longlist samenstellen (week 3)
+
+Op basis van je requirements stel je een longlist samen van vijf tot acht ERP-systemen. Gebruik hiervoor drie bronnen: de eerder genoemde vergelijking op [beste ERP software MKB 2026](/blog/beste-erp-software-mkb-2026/), aanbevelingen van je accountant of een vertrouwde branchegenoot, en de reviews op G2 en Capterra voor systemen in jouw segment.
+
+Filter de longlist op basis van drie harde criteria: past het bij jouw bedrijfsgrootte, heeft het de modules die je nodig hebt, en kan de leverancier Nederlandse referenties geven in jouw branche?
+
+### Stap 4: Shortlist en demo's (week 4-6)
+
+Breng de longlist terug naar drie systemen voor een volledige demo. Stuur je requirements-document vooraf op en vraag de leverancier om de demo te richten op jouw specifieke use cases, niet op een generiek productoverzicht.
+
+Stel bij elke demo dezelfde vijf vragen:
+
+1. **Hoe lang duurt een standaard implementatie voor een bedrijf van onze omvang?**
+2. **Kunt u drie recente referenties geven van vergelijkbare bedrijven die ik kan bellen?**
+3. **Wat zijn de totale kosten (licentie + implementatie + onderhoud) voor het eerste jaar?**
+4. **Hoe wordt data gemigreerd vanuit ons huidige systeem?**
+5. **Hoe ziet support na de go-live eruit?**
+
+De antwoorden op deze vijf vragen laten je meer zien over een leverancier dan een uur productdemo.
+
+### Stap 5: Proof of Concept (week 6-8)
+
+Vraag de twee meest kansrijke leveranciers om een korte Proof of Concept: een inrichting van één specifiek bedrijfsproces (bijvoorbeeld het inkoopproces) in hun systeem met jullie eigen testdata. Dit kost je twee tot vier uur per leverancier, maar geeft een veel realistischer beeld dan een demo.
+
+In de PoC zie je:
+- Hoe snel de leverancier begrijpt wat je nodig hebt
+- Hoe goed het systeem aansluit op jouw workflow
+- Hoe responsief het team is bij vragen
+
+### Stap 6: Contractonderhandelingen (week 8-9)
+
+Onderhandel altijd over drie punten: de implementatieprijs (vraag om een vaste prijs of een gegarandeerd maximum), de licentieprijs voor jaar twee en drie (veel leveranciers verhogen na jaar één), en de exitclausule (hoe kun je je data exporteren als je wisselt?).
+
+Een goede leverancier is bereid om transparant te zijn over kosten en over wat er gebeurt als de samenwerking niet bevalt. Pas op voor leveranciers die onwillig zijn om exitcondicties te bespreken.
+
+### Stap 7: Implementatie en go-live (maand 2-8)
+
+De implementatie is een apart traject met een eigen projectplan. Essentieel: wijs intern een projecteigenaar aan die wekelijks tijd vrijmaakt voor het ERP-project. Niet iemand die het "erbij doet" — iemand met daadwerkelijk gereserveerde uren.
+
+Plan twee weken voor de go-live een parallelle testperiode: het nieuwe systeem draait naast het oude. Vergelijk de uitkomsten dagelijks. Als beide systemen gelijke resultaten geven, ben je klaar voor de definitieve overgang.
+
+---
+
+## De vijf duurste ERP-implementatiefouten
+
+Ik zie bij MKB-klanten keer op keer dezelfde fouten die de implementatiekosten verdubbelen of de go-live vertragen. Hier zijn de vijf meest kostbare.
+
+### Fout 1: De datakwaliteit onderschatten
+
+De meest voorkomende vertrager van ERP-implementaties is niet de software maar de data. Klanten die al jaren dubbel staan, artikelen met onjuiste BTW-codes, openstaande posten die niemand meer herkent — al die ruis moet worden opgeruimd voor de migratie.
+
+Plan bij de start van een implementatie minstens vier weken voor data-opschoning. Dit is saai werk, maar het is het belangrijkste werk van het hele project. Data die vuil de migratie ingaat, komt vergroot vuil eruit.
+
+### Fout 2: Te weinig testscenario's
+
+Bedrijven die een ERP-systeem gaan live op basis van één of twee testrondes, ontdekken de problemen aan echte klanten en transacties. Plan minimaal tien uitgebreide testscenario's die jullie echte bedrijfsprocessen nabootsen: een volledig inkoopordertraject, een verkooporder tot en met de factuur, een voorraadmutatie, een BTW-aangifte.
+
+### Fout 3: De eindgebruikers te laat betrekken
+
+Medewerkers die pas de dag voor de go-live voor het eerst het nieuwe systeem zien, blokkeren de adoptie. Plan trainingen minimaal twee weken voor de go-live in en geef medewerkers toegang tot een testomgeving om zelf te experimenteren.
+
+### Fout 4: Scope creep toestaan
+
+Halverwege de implementatie bedenken mensen nieuwe wensen: "kunnen we ook de projectmodule meenemen?" en "eigenlijk wilden we ook de HR-module direct live hebben." Elke uitbreiding van de scope verlengt de implementatietijd en verhoogt de kosten.
+
+Spreek bij de start een vaste scope af en schrijf die vast in het projectplan. Alles wat buiten de scope valt, gaat op een backlog voor fase twee. Na de go-live kan er altijd worden uitgebreid.
+
+### Fout 5: Geen change management
+
+Een ERP-implementatie verandert hoe mensen hun werk doen. Dat roept weerstand op, ook bij goede medewerkers die gewoon gewend zijn aan hun vertrouwde werkwijze.
+
+Communiceer vroeg en eerlijk over wat er gaat veranderen. Betrek medewerkers in de inrichting zodat ze eigenaarschap voelen. Vier de go-live als een team. En plan na de go-live wekelijkse feedback-sessies om problemen snel te signaleren en op te lossen.
+
+---
+
+## ERP-selectie per sector: wat telt in jouw branche
+
+Verschillende sectoren stellen andere eisen aan ERP-systemen. Hier zijn de meest relevante overwegingen per branche.
+
+### Groothandel en distributie
+
+De kern van een ERP voor groothandel is voorraadbeheer en orderverwerking. Eisen: real-time voorraadzichtbaarheid op meerdere locaties, FIFO/LIFO-waardering, automatische herbestellingen op basis van minimumvoorraden, EDI-koppelingen met leveranciers. AFAS en Exact Online zijn hier sterk; voor complexe logistiek is ook Unit4 relevant.
+
+### Bouwbedrijven en aannemers
+
+Bouw-ERP draait om projectadministratie, calculatie en urenadministratie per project. De koppeling met de salarisadministratie voor ploegdiensten en cao-toeslagen is kritisch. AFAS is de sterkste keuze voor middelgrote bouwbedrijven; voor kleinere aannemers is een combinatie van Exact Online met een bouw-projectmodule ook gangbaar.
+
+### Productie
+
+Voor productiebedrijven is de MRP-module (Materials Requirements Planning) de kern: hoeveel grondstoffen zijn nodig voor de geplande productie, wanneer moeten inkooporders worden geplaatst? Odoo en SAP Business One zijn hier sterk in; AFAS is minder geschikt voor complexe productieplanning.
+
+### Dienstverlening
+
+Dienstverlenende bedrijven (adviesbureaus, IT-bedrijven, architecten) gebruiken ERP primair voor projectadministratie, urenregistratie en facturatie. De koppeling tussen uren, projectkosten en factuurlijnen is het belangrijkste. Exact Online met de projectmodule of AFAS zijn hier de meest gebruikte keuzes.
+
+### Retail
+
+Retailers met meerdere locaties hebben een ERP nodig dat kassasystemen integreert, voorraden synchroniseert over locaties en financiële rapportages consolideert. De koppeling met webshops is steeds relevanter. Exact Online heeft goede webshop-koppelingen; voor grotere retail-ketens is SAP Business One een optie.
+
+---
+
+## Checklist: ben je klaar voor ERP?
+
+Gebruik deze checklist om te beoordelen of jouw bedrijf klaar is voor een ERP-implementatie.
+
+**Organisatie**
+- [ ] Je hebt meer dan 15 medewerkers of meer dan €2 miljoen omzet
+- [ ] Je hebt een interne projecteigenaar die uren kan vrijmaken
+- [ ] Je management is bereid te investeren in change management
+
+**Processen**
+- [ ] Je hebt gedocumenteerd welke processen je wilt automatiseren
+- [ ] Je kent de pijnpunten in je huidige dataflow
+- [ ] Je hebt minimaal drie processen geïdentificeerd met aantoonbaar tijdsverlies
+
+**Data**
+- [ ] Je klanten- en leveranciersgegevens zijn op orde
+- [ ] Je voorraadgegevens zijn actueel en betrouwbaar
+- [ ] Je hebt een plan voor het opschonen van historische data
+
+**Budget**
+- [ ] Je hebt een realistisch budget voor licenties én implementatie
+- [ ] Je hebt de terugverdientijd berekend
+- [ ] Je hebt interne uren gereserveerd voor het project
+
+Als je op minder dan tien van deze twaalf punten "ja" antwoordt, is er nog werk te doen voor de selectie begint. Dat is geen slecht nieuws — het is betere voorbereiding voor een succesvolle implementatie.
+
+Voor meer informatie over ERP-opties, lees de [beste ERP software MKB 2026](/blog/beste-erp-software-mkb-2026/) vergelijking of bekijk de reviews van [AFAS](/blog/afas-review-2026/) en [Exact Online](/blog/exact-online-review-2026/).

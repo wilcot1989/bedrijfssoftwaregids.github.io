@@ -456,3 +456,46 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
+## Kosten vergelijking urenregistratie software
+
+| Tool | Gratis plan | Per user/maand | Geschikt voor |
+|---|---|---|---|
+| Clockify | Onbeperkt users | €3,99-€11,99 | ZZP en kleine teams |
+| Toggl Track | Tot 5 users | €10-€20 | Kleine teams, freelancers |
+| Harvest | Nee (trial) | $12/user | Projectfacturatie |
+| Timewax | Nee | €19/user | Professionele dienstverlening |
+| TimeMoto (hardware) | N/A | Hardware €199-€399 | Werkvloer zonder smartphone |
+| Personio (all-in) | Nee | €99+/maand | HR + urenregistratie gecombineerd |
+
+## De koppeling die het meeste oplevert: uren naar factuur
+
+De meeste bedrijven registreren uren in één systeem en factureren in een ander — met handmatige overdracht. Dat is tijdverspilling. De twee sterkste uren-naar-factuur workflows:
+
+**Harvest → Stripe / Exact Online**
+Harvest is specifiek gebouwd voor projectfacturatie. Je registreert uren per project en client, en klikt op "Maak factuur" — Harvest berekent automatisch wat er gefactureerd wordt op basis van je uurtarief. Ideaal voor adviesbureaus, designers en consultants.
+
+**Clockify → Moneybird**
+Via Zapier of directe integratie: gesloten tijdblokken in Clockify worden automatisch verwerkt naar een factuurlijn in Moneybird. Voor ZZP'ers die uren op meerdere projecten bijhouden is dit de meest betaalbare combinatie.
+
+## Urenregistratie voor belastingdoeleinden
+
+Als ZZP'er heb je uren-administratie nodig voor het urencriterium (minimaal 1.225 uur per jaar). De Belastingdienst accepteert een digitale urenregistratie als bewijs, mits:
+
+- Per dag of week bijgehouden (niet achteraf gereconstructeerd)
+- Omschrijving van de activiteit aanwezig
+- Datum en tijdsduur correct vastgelegd
+- Bewaard gedurende 7 jaar
+
+Clockify en Toggl Track genereren automatisch een jaarrapport dat je kunt exporteren als bewijs. Harvest genereert gedetailleerde rapporten per client en project.
+
+## Sector-specifieke overwegingen
+
+**Advocatuur en juridische dienstverlening**
+Minutenregistratie (per 6 of 15 minuten) is de standaard. Clio en Timewax ondersteunen dit. Exporteer maandelijks naar je cliëntadministratie.
+
+**Architectuur en engineering**
+Uren per project en per fase (ontwerp, uitwerking, oplevering) zijn de sleutelparameters. Harvest en Timewax ondersteunen projecthiërarchieën goed.
+
+**IT en software-ontwikkeling**
+Jira-integratie is waardevol: uren registreren vanuit een Jira-issue zonder van tool te wisselen. Clockify en Harvest integreren beide goed met Jira.
+

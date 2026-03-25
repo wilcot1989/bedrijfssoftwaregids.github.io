@@ -505,3 +505,54 @@ Prijzen lopen uiteen van gratis (MoreApp Lite) tot circa €50 per gebruiker per
 Absoluut. MoreApp en Formdesk beginnen zelfs met een gratis plan of goedkoop startersabonnement. Ook een installatiebedrijf met twee monteurs kan direct aan de slag. Combineer het met een tool als SnelStart voor een complete administratie.
 
 <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer SnelStart gratis — de boekhoudkoppeling voor digitale werkbonnen →</a>
+
+---
+
+## Kosten vergelijking werkbonnen software
+
+| Tool | Gratis plan | Starter | Pro | Per user |
+|---|---|---|---|---|
+| MoreApp | Ja (5 formulieren) | €29/maand (5 users) | €79/maand | Variabel |
+| Fieldly | Nee | €15/user/maand | €25/user/maand | Ja |
+| Rapportool | Nee | €29/maand | €79/maand | Variabel |
+| Mobiwork | Nee | Op aanvraag | Op aanvraag | Ja |
+| Formdesk | Nee | €25/maand | €75/maand | Variabel |
+
+**Aanbeveling per bedrijfsgrootte:**
+- 1-3 monteurs: MoreApp gratis plan of Basic (€29/maand)
+- 4-10 monteurs: Fieldly of Rapportool Pro
+- 10+ monteurs: Mobiwork of een ERP-koppeling via Fieldly
+
+## Van papier naar digitaal: wat verandert er in de praktijk
+
+De overgang van papieren werkbonnen naar digitale is groter dan de meeste bedrijven verwachten — maar ook waardevoller. Wat er concreet verandert:
+
+**Werkproces monteur:**
+- Was: Bon invullen met pen, klant tekent, bon mee terug naar kantoor
+- Wordt: App openen, inspectie invullen, klant tekent op scherm, bon direct verzonden
+
+**Werkproces backoffice:**
+- Was: Bonnen handmatig invoeren in boekhouding (30-60 minuten per dag)
+- Wordt: Automatische koppeling, geen handmatig invoeren
+
+**Werkproces klant:**
+- Was: Bon per post of fax ontvangen (soms dagen later)
+- Wordt: PDF direct in inbox na ondertekening
+
+**Tijdsbesparing per week (bedrijf met 5 monteurs):**
+- Monteurs: 30 minuten per dag × 5 = 2,5 uur
+- Backoffice: 45 minuten per dag = 3,75 uur
+- Totaal: 6,25 uur per week = meer dan €200 bij €35/uur
+
+De terugverdientijd voor werkbonnen software is voor de meeste bedrijven minder dan twee maanden.
+
+## Sector-specifieke aandachtspunten
+
+**Installatiebedrijven (elektra, loodgieters, HVAC)**
+Foto's van installaties als bewijs zijn hier waardevol — voor garantieclaims en als bewijs bij schade. Zorg dat de app onbeperkt foto's ondersteunt en dat foto's worden opgeslagen in de werkbon. Fieldly en MoreApp ondersteunen dit.
+
+**Schoonmaak- en onderhoudsbedrijven**
+Checklists per locatie zijn de kernfunctie. Je wilt per locatie een vaste inspectieronde met aanvinkvakjes. Rapportool is hier sterk in door de aanpasbare formulierstructuur.
+
+**Bouw en sloopbedrijven**
+Materiaaldocumentatie (welke materialen zijn gebruikt, serienummers) is belangrijk voor garanties en opleverdossiers. Combineer werkbonnen met een materialenregistratie.

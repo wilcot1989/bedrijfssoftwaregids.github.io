@@ -257,6 +257,18 @@ Donateurs en subsidiegevers bijhouden vraagt om een gestructureerd relatiebeheer
 
 Een stichting die haar doelgroep wil bereiken heeft baat bij een basale marketingtool voor nieuwsbrieven en campagnes. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) vergelijken we welke tools ook voor non-profit goed werken. Bekijk ook de [Twinfield review 2026](/blog/twinfield-review-2026/) en [AFAS review 2026](/blog/afas-review-2026/) voor meer detail.
 
+## Jaarrekening en verantwoording bij stichtingen
+
+Stichtingen hebben specifieke rapportageverplichtingen die afwijken van een commercieel bedrijf. Boekhoudsoftware moet deze goed ondersteunen.
+
+**Fondsverantwoording:** Als je stichting subsidies ontvangt van fondsen of overheden, verwachten die fondsen een jaarlijkse verantwoording per subsidieproject. Twinfield ondersteunt projectdimensies waarbij je per subsidieproject een aparte rapportage kunt genereren. Exact Online doet dit via projectadministratie. AFAS non-profit heeft hier de meest complete module voor.
+
+**Transparantie voor het Centraal Bureau Fondsenwerving (CBF):** Stichtingen met een CBF-keurmerk moeten jaarlijks rapporteren over bestedingsverhouding: hoeveel procent van de inkomsten gaat naar de missie versus organisatiekosten. Een target van minimaal 75% naar de missie is gebruikelijk. Je boekhoudsoftware moet een kostensoortenverdeling bijhouden die dit inzichtelijk maakt.
+
+**ANBI-publicatieplicht:** Stichtingen met ANBI-status zijn verplicht hun beloning voor bestuurders, algemeen beleid en financiën te publiceren op de website. Alle drie de besproken systemen kunnen de benodigde rapportages genereren voor deze publicatieplicht.
+
+Mijn advies voor stichtingen die net beginnen: start met Exact Online (breed ondersteund, externe accountant kent het systeem) en schakel over naar Twinfield of AFAS als de subsidiestructuur complexer wordt dan twee of drie fondsen.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

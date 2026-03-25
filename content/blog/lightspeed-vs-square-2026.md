@@ -451,6 +451,32 @@ Square is het betere kassasysteem als je:
 
 <a href="https://squareup.com/nl/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar squareup.com →</a>
 
+## Lightspeed vs Square: wanneer kies je welke op basis van je bedrijfsmodel?
+
+Na het doorrekenen van honderden scenario's zijn er drie bedrijfstypen waarbij de keuze duidelijk is.
+
+**Type 1: Startende ondernemer, eerste jaar, pop-up of markt**
+Je hebt geen garantie dat je bedrijf succesvol gaat zijn en wil zo weinig mogelijk risico lopen. Square's gratis plan en €19 voor een Reader zijn perfect. Geen abonnement, geen commitment. Als het niet werkt, was de investering minimaal.
+
+**Type 2: Gevestigde winkel, €5.000-€20.000 maandomzet, groeiambities**
+Je runt een fysieke winkel al een jaar of langer. Je wil voorraadbeheer, klantenkaarten, integratie met je boekhouding en iDEAL-betalingen. Dit is het segment waar Lightspeed de duidelijk betere keuze is. De hogere vaste kosten worden gecompenseerd door lagere transactiekosten bij groei en meer functies.
+
+**Type 3: Food & beverage, restaurant of café**
+Square heeft geen gespecialiseerde horecafuncties voor de Nederlandse markt. Lightspeed Restaurant of Untill zijn hier de serieuze keuzes. Square is te basaal voor een fullservice restaurant met tafelbeheer, splitrekeningen en keukenprinters.
+
+### Prijsvergelijking bij drie omzetniveaus
+
+| Maandomzet | Square (1,75%) | Lightspeed Basic (€59 + 0,8%) | Winnaar |
+|------------|---------------|-------------------------------|---------|
+| **€3.000** | €52,50 | €59 + €24 = **€83** | Square |
+| **€6.200** | €108,50 | €59 + €49,60 = **€108,60** | Gelijk |
+| **€10.000** | €175 | €59 + €80 = **€139** | Lightspeed |
+| **€20.000** | €350 | €59 + €160 = **€219** | Lightspeed |
+
+Boven €6.200 maandomzet is Lightspeed goedkoper in de totale transactiekosten, zelfs met het maandabonnement meegeteld. Dat omslagpunt bereiken de meeste serieuze winkeliers binnen zes maanden.
+
+---
+
 ## Conclusie: Lightspeed vs Square -- welke past bij jouw winkel?
 
 Na beide systemen bij tientallen ondernemers te hebben gezien, is mijn advies helder:

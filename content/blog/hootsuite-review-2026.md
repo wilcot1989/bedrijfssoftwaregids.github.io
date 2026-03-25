@@ -338,6 +338,38 @@ Hootsuite is niet voor iedereen de beste keuze, maar voor de juiste gebruiker is
 
 ---
 
+## Veelgemaakte fouten bij het gebruik van Hootsuite
+
+Na jarenlang Hootsuite te gebruiken en te implementeren bij klanten, zie ik steeds dezelfde fouten terugkomen:
+
+**Fout 1: Hetzelfde bericht op alle platforms tegelijk publiceren**
+De auto-cross-post functie is verleidelijk, maar een Instagram-caption met hashtags ziet er raar uit op LinkedIn, en een lange LinkedIn-post past niet bij het tempo van X. Maak per platform een aangepaste versie. OwlyWriter AI helpt je snel variaties te genereren.
+
+**Fout 2: Auto-schedule blindelings vertrouwen**
+De automatische tijdsoptimalisatie werkt beter naarmate je meer historische data hebt. Met een nieuw account zijn de aanbevelingen generiek. Analyseer de eerste drie maanden handmatig welke tijden voor jouw audience werken, en pas daarna de auto-schedule-aanbevelingen bij.
+
+**Fout 3: Analytics niet wekelijks reviewen**
+Hootsuite genereert uitstekende data, maar ik zie veel gebruikers die er nauwelijks naar kijken. Plan een wekelijks kwartier — vrijdagmiddag werkt goed — om de meestpresterende posts te analyseren. Wat werkte? Herhaal dat patroon de volgende week.
+
+**Fout 4: De Canva-integratie niet inschakelen**
+Als je Canva gebruikt voor je visuals (en dat zou je moeten doen), dan is de directe Canva-integratie in Hootsuite een tijdsbesparing. Je ontwerpt in Canva, deelt direct naar Hootsuite, plant in. Dat is drie stappen in plaats van downloaden, uploaden en plannen.
+
+**Fout 5: Niet opzeggen voor het contract automatisch verlengt**
+Net als Salesforce werkt Hootsuite met automatisch verlengbare jaarcontracten. Zet een agenda-herinnering 60 dagen voor het einde van je abonnement om te evalueren of je het wilt verlengen. De Trustpilot-klachten over automatische verlenging zijn voor een deel te wijten aan gebruikers die dit over het hoofd zagen.
+
+---
+
+## Hootsuite TikTok: de meest begrensde integratie
+
+TikTok-integratie is beschikbaar in Hootsuite, maar minder volledig dan de andere platforms. Wat je wel kunt:
+- TikTok-posts plannen (niet direct publiceren, wel een herinnering ontvangen)
+- TikTok-analytics bekijken
+- TikTok-vermeldingen monitoren via Streams
+
+Wat je niet kunt: video's rechtstreeks uploaden en publiceren zonder tussenkomst. TikTok's API beperkingen liggen hier aan ten grondslag — dit is niet een Hootsuite-probleem, maar een TikTok-beleidskwestie. Voor serieus TikTok-beheer is Later of Metricool technisch sterker op dit moment.
+
+---
+
 ## Hootsuite AI: OwlyWriter in de praktijk
 
 Ik heb OwlyWriter uitvoerig getest over drie maanden. Hier zijn mijn eerlijke bevindingen.

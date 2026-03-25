@@ -147,6 +147,76 @@ Als je platform een automatisch rapport verstuurt over de automationprestaties, 
 
 Een overzicht van marketing automation platforms per bedrijfstype en sector vind je op de [marketing software sectorgids](/sectoren/marketing/).
 
+## De kosten van marketing automation eerlijk uitgerekend
+
+Een veelgemaakte fout is de ROI-berekening te starten bij de platformkosten en te stoppen bij de omzetverbetering, zonder de inrichtingstijd mee te tellen. Hier is een eerlijk totaalplaatje voor drie bedrijfstypen.
+
+### Scenario 1: ZZP of klein bedrijf (ActiveCampaign Lite, €29/mnd)
+
+| Post | Jaar 1 | Jaar 2 |
+|---|---|---|
+| Platformkosten | €348 | €348 |
+| Inrichtingstijd (10 uur à €75/uur) | €750 | €0 |
+| Onderhoud per kwartaal (2 uur) | €600 | €600 |
+| **Totale investering** | **€1.698** | **€948** |
+| Extra omzet (conservatief: +15% conversie op 20 leads/mnd à €3.000) | €10.800 | €10.800 |
+| **ROI** | **>500%** | **>1000%** |
+
+De sleutel zit in de aanname over extra omzet. Als je verwacht dat automation je conversie met 15% verbetert op een huidig volume van 20 leads per maand met een gemiddelde orderwaarde van €3.000, dan is de ROI zelfs bij conservatieve aannames positief binnen het eerste kwartaal.
+
+### Scenario 2: MKB-dienstverlener (HubSpot Marketing Starter, €50/mnd)
+
+| Post | Jaar 1 |
+|---|---|
+| Platformkosten | €600 |
+| Inrichtingstijd (20 uur à €60/uur) | €1.200 |
+| Onderhoud (4 uur/kwartaal) | €960 |
+| **Totale investering** | **€2.760** |
+| Verwachte extra omzet (+20% conversie op 50 leads/mnd à €5.000) | €60.000 |
+| **Terugverdientijd** | **< 3 weken** |
+
+### Scenario 3: E-commerce (Klaviyo, €150/mnd bij 10.000 contacten)
+
+Voor e-commerce is de ROI-berekening anders omdat de directe omzetherstel via verlaten-wagen-flows vaak zichtbaar is binnen de eerste week.
+
+Bij een webshop met €80.000 maandelijkse omzet en een verlaten-wagen-rate van 68%:
+- Potentieel verloren omzet per maand: €54.400
+- Verwachte terugwinning via flows: 10-15% = €5.440-€8.160
+- Maandelijkse kosten Klaviyo: €150
+- **Maandelijkse netto ROI: €5.290-€8.010**
+
+---
+
+## De drie vragen die je beantwoordt voor je begint
+
+Marketing automation is zinvol als je drie vragen met "ja" kunt beantwoorden. Ontbreekt één "ja", dan is de timing nog niet goed.
+
+**Vraag 1: Heb je een gestaag leadvolume?**
+Automation heeft brandstof nodig. Als je minder dan tien leads per maand ontvangt, is het lastiger om significante resultaten te meten. Eerst leadvolume opbouwen, dan automatiseren. Welke B2B-kanalen dat volume genereren, lees je in [Leadgeneratie tools voor B2B in Nederland](/blog/leadgeneratie-tools-b2b-nederland/).
+
+**Vraag 2: Is je huidige content van voldoende kwaliteit?**
+Automation versterkt wat er al is. Slechte e-mails worden met automation sneller slecht verspreid. Zorg dat je minimaal twee of drie e-mails hebt die je handmatig al met succes stuurt voor je ze automatiseert.
+
+**Vraag 3: Heeft iemand eigenaarschap?**
+Automation zonder eigenaar veroudert. Er moet één persoon zijn die verantwoordelijk is voor het kwartaalsonderhoud, de statistieken bijhoudt en flows aanpast. Dat hoeft niet fulltime te zijn — twee uur per maand is voldoende voor de meeste MKB-automation-setups. Maar het moet expliciet iemands taak zijn.
+
+---
+
+## Platform kiezen op basis van je bedrijfstype
+
+De keuze voor het juiste automation-platform hangt sterk af van je primaire doel. Hier is een beknopte gids.
+
+| Bedrijfstype | Aanbevolen platform | Reden |
+|---|---|---|
+| B2B dienstverlener | ActiveCampaign | Beste prijs-kwaliteit voor nurturing + CRM-koppeling |
+| E-commerce (Shopify) | Klaviyo | Diepste Shopify-integratie, beste productblokken |
+| E-commerce (WooCommerce) | Klaviyo of Brevo | Klaviyo voor groei, Brevo voor budget |
+| Kleine ondernemer/ZZP | Brevo | Gratis plan met automation, Europese servers |
+| MKB met marketingteam | HubSpot Marketing Hub | Volledigste platform, sterkste rapportages |
+| Startup met developer | Customer.io | Meest flexibel via API, developer-first |
+
+Een volledige vergelijking van e-mailmarketingtools staat in [beste email marketing software 2026](/blog/beste-email-marketing-software-2026/).
+
 ## Lees ook
 
 - [Beste email marketing software 2026](/blog/beste-email-marketing-software-2026/) — platforms met marketing automation vergeleken

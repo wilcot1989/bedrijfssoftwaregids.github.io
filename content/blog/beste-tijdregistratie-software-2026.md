@@ -637,3 +637,44 @@ Wil je meer lezen? Bekijk ook:
 - [NMBRS review 2026](/blog/nmbrs-review-2026/) — diepgaande analyse van het populairste salarispakket
 - [Alle productiviteitstools](/categories/productiviteit/) — meer tools voor efficiënt werken
 - [HR software overzicht](/categories/hr/) — alle HR-gerelateerde software
+
+---
+
+## Kosten vergelijking tijdregistratie software
+
+| Tool | Gratis plan | Betaald (per user/maand) | Hardware nodig? |
+|---|---|---|---|
+| Clockify | Onbeperkt users | €3,99-€11,99 | Nee |
+| Shiftbase | Tot 75 medewerkers | €2,75-€5,50 | Optioneel |
+| Planday | Nee | €2,49-€6,49 | Optioneel |
+| TimeMoto | Nee | Hardware €199-€399 | Ja |
+| Personio | Nee | €99+/maand (all-in) | Nee |
+| AFAS InSite | Nee | Op aanvraag | Optioneel |
+
+**Aanbeveling per budget:**
+- Budget nul: Clockify gratis — volledige tijdregistratie voor onbeperkt gebruikers
+- Tot €5/medewerker/maand: Shiftbase of Planday
+- All-in HR + tijdregistratie: Personio
+
+## WAB-compliance: wat tijdregistratie software moet bijhouden
+
+De Wet Arbeidsmarkt in Balans (WAB) stelt eisen aan hoe je oproepkrachten en flexwerkers administreert:
+
+**Beschikbaarheidsregel (4-dagenregel)**
+Je moet oproepkrachten minimaal 4 dagen van tevoren oproepen. Doe je dat niet, dan hebben ze het recht de oproep te weigeren. Shiftbase en Planday bewaken dit automatisch en sturen een waarschuwing als je te laat plant.
+
+**Ketenbepaling tijdelijke contracten**
+Na 3 tijdelijke contracten of 3 jaar automatisch een vast contract. Goede tijdregistratie software houdt contractdata bij en waarschuwt je voordat de ketenbepaling in werking treedt.
+
+**Gemiddelde arbeidsduur (na 12 maanden)**
+Na 12 maanden werk je een oproepkracht een schriftelijk aanbod voor een contract ter grootte van de gemiddelde gewerkte uren. De software berekent dit gemiddelde automatisch als je alle diensten hebt geregistreerd.
+
+## Sector-specifieke aandachtspunten
+
+**Zorg en thuiszorg:** Gebruik tijdregistratie software die BIG-registratie en kwalificaties bijhoudt naast gewerkte uren. Shiftbase en Personio ondersteunen dit. Koppel bij voorkeur met HiX of Nedap ONS voor zorginstellingen.
+
+**Bouw en productie:** Tijdregistratie op projectniveau is hier het meest waardevol. Je wilt weten hoeveel uren er aan welk project zijn besteed voor nacalculatie. Clockify en Harvest zijn hier sterk in.
+
+**Horeca en retail:** Kassasysteem-integratie is waardevol — als je weet hoe druk het was, kun je je personeelsinzet optimaliseren. Planday en Dyflexis bieden deze koppeling aan.
+
+**Kantoor en professional services:** Projectgebonden tijdregistratie voor facturatie is de prioriteit. Harvest, Toggl en Clockify bieden de beste uren-naar-factuur workflows.

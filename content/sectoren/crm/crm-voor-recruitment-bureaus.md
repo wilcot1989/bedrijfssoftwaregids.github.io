@@ -278,4 +278,15 @@ Tot slot: de kosten van een slecht recruitmentsysteem zijn hoger dan de kosten v
 - **[Boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/)** -- Financiele administratie voor bureaus
 - **[Beste CRM software MKB 2026](/blog/beste-crm-software-mkb-2026/)** -- Breder CRM-overzicht voor groeiende bedrijven
 
+## AVG-compliance in een recruitmentsysteem
+
+Recruitment is een van de meest privacy-gevoelige sectoren. Je verzamelt persoonsgegevens van kandidaten die solliciteren, van contactpersonen bij opdrachtgevers, en soms van mensen die je spontaan benadert via LinkedIn. De GDPR stelt specifieke eisen:
+
+- **Bewaartermijnen:** CV's en kandidaatprofielen mag je maximaal vier weken bewaren na afwijzing, tenzij de kandidaat toestemming geeft voor langere bewaring (doorgaans twee jaar voor een talentpool)
+- **Recht op inzage en verwijdering:** Elke kandidaat heeft het recht om zijn data in te zien en te laten verwijderen. Je recruitmentsysteem moet dit technisch ondersteunen — een knop die alle data van een persoon verwijdert
+- **Toestemming voor talentpools:** Als je cv's wilt bewaren voor toekomstige vacatures, heb je expliciete toestemming nodig. Bullhorn en Recruitee ondersteunen geautomatiseerde toestemmingsverzoeken
+- **Databeveiliging:** Kandidaatdata mag niet toegankelijk zijn voor medewerkers die er geen reden voor hebben. Een goed rechtenstructuur per gebruiker is verplicht
+
+Mijn advies: gebruik het aankoopgesprek met je CRM/ATS-leverancier om te vragen hoe ze AVG-compliance ondersteunen. Vraag specifiek naar de verwijderfunctie, de toestemmingsmodule en de auditlog.
+
 De recruitmentbranche digitaliseert snel. Bureaus die nu investeren in een professioneel CRM/ATS-systeem bouwen een kandidaatdatabase op die over drie jaar hun belangrijkste asset is. Kandidaten die je vandaag niet kunt plaatsen, zijn over zes maanden misschien de perfecte match voor een nieuwe vacature. Een goed systeem onthoudt wat jij vergeet -- en dat maakt het verschil tussen een bureau dat overleeft en een bureau dat groeit.

@@ -248,6 +248,22 @@ Bekijk ook [beste software voor makelaars 2026](/blog/beste-software-makelaars-2
 
 De vastgoedmarkt is cyclisch. In een verkoopmarkt (meer kopers dan woningen) heb je minder CRM nodig omdat woningen vanzelf verkopen. Maar juist in die periode moet je investeren in je database en relatiebeherr, want als de markt draait, zijn het de kantoren met een sterke klantendatabase en systematische opvolging die hun omzet vasthouden. De makelaars die in de goede tijd CRM serieus nemen, zijn de makelaars die in de slechte tijd overleven.
 
+## Automatisering in het makelaarsproces: wat kun je echt automatiseren?
+
+Makelaars besteden veel tijd aan terugkerende communicatie die prima geautomatiseerd kan worden. Dit zijn de workflows die ik het vaakst zie bij makelaars die hun CRM goed gebruiken:
+
+**1. Bezichtingsbevestiging en herinnering**
+Zodra je een bezichtiging inplant in je CRM, stuurt het systeem automatisch een bevestiging naar de koper en een herinnering 24 uur van tevoren. Dit verlaagt het "no-show" percentage bij bezichtigingen.
+
+**2. Follow-up na bezichtiging**
+24 uur na een bezichtiging stuurt je CRM automatisch een e-mail: "Hoe beviel de woning?" met een link naar een feedbackformulier. Die feedback is waardevol voor de verkoper en laat zien dat je proactief communiceert.
+
+**3. Statusupdate bij overdracht**
+Bij grote deals zijn kopers nerveus over de tijdlijn. Stel een automatische statusupdatereeks in: notaris gepasseerd, eigendomsoverdracht bevestigd, sleuteloverdracht ingepland. HubSpot en Pipedrive ondersteunen dit via e-mailsequenties gekoppeld aan deal-stagewijzigingen.
+
+**4. Jaarlijks contact met eerdere klanten**
+Stel een herinnering in je CRM in om één jaar na de overdracht contact op te nemen. Niet om iets te verkopen — gewoon om te vragen hoe ze de woning bevalt. Dat contact levert referrals op.
+
 Een laatste tip: de meest onderschatte functie van een CRM voor makelaars is de review-functionaliteit. Vraag tevreden klanten actief om een Google-review via je CRM -- stuur na de overdracht een automatische e-mail met een reviewverzoek. Bij twintig transacties per jaar levert dat tien tot vijftien nieuwe reviews op, wat je vindbaarheid in lokale Google-zoekresultaten direct verbetert.
 
 {{< sector-cta-crm >}}

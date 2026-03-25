@@ -313,6 +313,39 @@ Asana is over drie jaar €425 goedkoper voor dit scenario. Dat is niet het bedr
 
 Wil je uitgebreidere functies — portfoliomanagement bij Asana, tijdregistratie bij Monday.com — dan stap je naar hogere plannen. Asana Advanced (€24,99) versus Monday.com Pro (€19): hier keert het voordeel om en is Monday.com de goedkoopste keuze voor het hogere plan.
 
+## Monday.com vs Asana: sector en teamtype vergelijking
+
+Na alle concrete vergelijkingen hier een praktisch overzicht per teamtype, gebaseerd op mijn implementatieervaring.
+
+| Teamtype | Aanbeveling | Belangrijkste reden |
+|----------|-------------|---------------------|
+| **Marketingteam (< 15 pers.)** | Monday.com | Flexibele statussen, mooie campagneweergaven |
+| **Creatief bureau** | Monday.com | Klantborden met beperkte toegang |
+| **IT/dev team** | Asana of Jira | Afhankelijkheden, sprint-functionaliteit |
+| **Operationeel team** | Asana | Portfolioweergave, gestructureerde taken |
+| **PMO / projectkantoor** | Asana | Goals, portfolios, rapportages |
+| **Sales team** | Monday.com | CRM-module, pipelineweergave |
+| **HR afdeling** | Monday.com | Formulieren, onboarding-workflows |
+| **Agency met klanten** | Monday.com | Klantportaal, gedeelde borden |
+| **Kleine startup (< 10 pers.)** | Asana | Ruimer gratis plan (10 vs 2 gebruikers) |
+| **Scale-up (50+ pers.)** | Asana of Monday Enterprise | Portfoliomanagement, governance |
+
+---
+
+## Wanneer kies je geen van beide?
+
+Ik ben eerlijk: voor sommige situaties adviseer ik noch Monday.com noch Asana.
+
+**Kies Trello als:** je team klein is (2-8 personen), simpele Kanban-borden volstaan en je budget minimaal is. Trello gratis is voor veel kleine teams permanent voldoende.
+
+**Kies ClickUp als:** je maximale functionaliteit wilt voor de laagste prijs. ClickUp heeft tijdregistratie ingebouwd, onbeperkte taken in het gratis plan en meer weergaven dan beide concurrenten. De leercurve is hoger, maar de waarde is groot.
+
+**Kies Jira als:** je een development team hebt dat Scrum werkt. Jira's native sprint boards, burndown charts en backlog management zijn ongeëvenaard voor softwareontwikkeling.
+
+**Kies Notion als:** je naast taakbeheer ook een bedrijfswiki, kennisbase of documentatiesysteem wilt in dezelfde tool. Notion combineert dat beter dan Monday.com of Asana.
+
+---
+
 ## Conclusie: Monday.com vs Asana
 
 Na beide tools bij diverse teams te hebben geïmplementeerd weet ik: er is geen absolute winnaar. Het hangt af van hoe jouw team werkt en wat jullie nodig hebben.

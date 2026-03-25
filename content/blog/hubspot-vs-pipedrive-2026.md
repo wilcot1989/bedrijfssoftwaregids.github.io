@@ -270,6 +270,64 @@ Na drie maanden weet je welk CRM daadwerkelijk werkt voor je team. Ik vraag alti
 
 Die adoptiegraad is mijn meest voorspellende indicator voor CRM-succes.
 
+## HubSpot vs Pipedrive: wanneer kies je welke op basis van je salesproces?
+
+Na tientallen CRM-implementaties zie ik twee duidelijke patronen in welk type salesproces bij welke tool past.
+
+### Salesproces type 1: Korte cyclus, veel volume
+
+Je verkoopt snel. Een klant heeft binnen een dag of week besloten. Je hebt veel leads tegelijk in behandeling en het draait om snelheid en follow-up.
+
+**Kies Pipedrive.** De visuele pipeline met geforceerde next actions is hier ideaal. Je ziet in één oogopslag welke deals al te lang stilstaan en welke actie je nog moet doen. De mobiele app maakt het makkelijk om onderweg deals bij te werken na een telefoongesprek.
+
+### Salesproces type 2: Lange cyclus, content-gestuurde leads
+
+Je verkoopt langzaam. Leads doen uitgebreid onderzoek, lezen je blogs, downloaden whitepapers en besluiten pas na weken. Je wil elke interactie van een lead met je website en content bijhouden.
+
+**Kies HubSpot.** De marketing automation en contact timeline zijn hier de waardevolle functies. Je ziet precies welke pagina's een lead heeft bezocht, welke e-mails zijn geopend en wanneer hij terugkwam op je prijspagina. Die context geeft je salesperson betere gesprekken.
+
+### Salesproces type 3: Account-based selling (grote deals)
+
+Je verkoopt aan bedrijven, niet individuen. Je hebt meerdere contactpersonen per account, complex stakeholdermanagement en deals die maanden duren.
+
+**Kies HubSpot of overweeg Salesforce.** HubSpot's company-contact structuur is goed geschikt voor account-based selling. Je koppelt meerdere contacten aan één bedrijf, ziet alle interacties op bedrijfsniveau en kunt deals linken aan specifieke stakeholders.
+
+---
+
+## Wanneer overstappen? Concrete signalen
+
+**Signalen dat je Pipedrive ontgroeid bent:**
+- Je hebt een dedicated marketingteam dat leads genereert en wil die leadkwaliteit bijhouden in het CRM
+- Je wilt A/B-testen op e-mailsequences en conversiedata per campagne zien
+- Je sales en marketing teams praten langs elkaar heen omdat ze verschillende tools gebruiken
+- Je investeert serieus in content marketing en wil weten welke content deals sluit
+
+**Signalen dat HubSpot te veel is voor jou:**
+- Minder dan 5 medewerkers en je groeit niet snel
+- Je marketinginspanningen zijn beperkt tot een maandelijkse nieuwsbrief
+- Het team gebruikt minder dan 30% van de beschikbare functies
+- De maandelijkse kosten stijgen maar de ROI is niet aantoonbaar
+- CRM-adoptie door het salesteam daalt omdat de tool te complex aanvoelt
+
+---
+
+## HubSpot vs Pipedrive: sector- en teamtypeoverzicht
+
+| Bedrijfstype | Aanbeveling | Reden |
+|-------------|-------------|-------|
+| **Agency/bureau** | Pipedrive | Eenvoudige pipeline per klant, snel resultaat |
+| **B2B SaaS** | HubSpot | Inbound leads, marketing automation, trial tracking |
+| **Groothandel** | Pipedrive | Veel deals tegelijk, visuele pipeline werkt goed |
+| **Consultancy** | HubSpot of Pipedrive | Hangt af van of marketing centraal staat |
+| **E-commerce B2B** | Pipedrive | Herhaalverkoop, eenvoudige relaties |
+| **Financiële diensten** | HubSpot | Compliance trail, uitgebreide contact timeline |
+| **Makelaar/vastgoed** | Pipedrive | Visuele deals, mobiele app voor onderweg |
+| **IT-dienstverlener** | Pipedrive of HubSpot | Afhankelijk van lead-generatiestrategie |
+| **Startup (pre-series A)** | Pipedrive | Kosteneffectief, snel op te zetten |
+| **Scale-up (groei >50%)** | HubSpot | Schaalbaarheid, marketing-sales alignment |
+
+---
+
 ## Mijn advies: HubSpot of Pipedrive voor jouw situatie
 
 Na 12+ jaar in B2B software en tientallen CRM-implementaties is mijn aanbeveling genuanceerd maar duidelijk:

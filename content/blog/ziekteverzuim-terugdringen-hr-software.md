@@ -172,6 +172,16 @@ De verzuimanalyse, de preventieve surveys, de koppeling met werkdrukdata — dat
 
 Start klein. Houd het bij. En kies een systeem dat de Nederlandse wetgeving kent.
 
+## Verzuimpreventie: wat je kunt doen voordat iemand ziek wordt
+
+De meeste aandacht in verzuimmanagement gaat naar het afhandelen van ziekte als het eenmaal speelt. Dat is begrijpelijk, maar je kunt ook eerder beginnen.
+
+HR-software met welzijnsmodules kan signalen opvangen voordat een medewerker uitvalt. Denk aan regelmatige korte check-ins (pulse surveys), waarbij medewerkers één of twee keer per week via de app aangeven hoe ze zich voelen. Het systeem detecteert trends — niet individuele scores, maar patronen in een team of afdeling. Als de werkdrukscore in een team drie weken op rij daalt, is dat een signaal om een gesprek te starten.
+
+Dit is geen big brother. Het is hetzelfde gesprek dat een goede leidinggevende wekelijks voert, alleen gestructureerd en anoniem gerapporteerd zodat de leidinggevende patronen ziet die hij anders zou missen.
+
+De ROI van preventie is lastig te meten maar reëel. Eén voorkomen langdurig verzuimtraject bespaart al snel €15.000 tot €30.000. Dat is meer dan de jaarkosten van de meeste HR-softwarepakketten voor een team van twintig medewerkers.
+
 Gebruik de [HR-software kosten berekenen tool](/tools/hr-software/kosten-berekenen/) om te zien wat een goed HR-systeem je per maand kost op basis van je personeelsgrootte. En voor een overzicht van alle HR-software vergelijkingen en reviews, bezoek de [HR-software overzichtspagina](/categories/hr-software/). Wil je specifiek de verzuimkosten in kaart brengen, gebruik dan de [HR-software verzuimkosten berekenen tool](/tools/hr-software/verzuimkosten-berekenen/).
 
 ---

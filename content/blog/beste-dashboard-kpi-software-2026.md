@@ -534,3 +534,47 @@ Gebruik Databox's benchmarkfunctie om je eigen metrics te vergelijken met de med
 ### Is er dashboard-software specifiek voor de zorgsector of overheid?
 
 Ja. Microsoft Power BI en Tableau zijn de meest gebruikte tools in de publieke sector, vanwege hun NEN 7510 en ISO 27001-compliance en de mogelijkheid om on-premise te draaien. Voor de zorg zijn specifieke VIPP-rapportages mogelijk. De tools in dit overzicht zijn primair gericht op commercieel MKB.
+
+---
+
+## Kosten vergelijking dashboard software
+
+| Tool | Gratis plan | Per user/maand | Beste voor |
+|---|---|---|---|
+| Google Looker Studio | Gratis | Gratis | Kleine bedrijven, Google-gebruikers |
+| Power BI | Power BI Desktop gratis | €9,40/user | Microsoft-omgevingen |
+| Tableau | Nee (trial) | €75/user | Grote datasets, enterprise |
+| Databox | 3 databronnen gratis | €67-€135/maand | MKB met meerdere tools |
+| Klipfolio | Nee | €49-€199/maand | Bureaus en agentschappen |
+| Geckoboard | Nee | €49-€699/maand | Live TV-dashboards |
+
+**Aanbeveling per situatie:**
+- Budget €0: Google Looker Studio — gratis, koppelt met alle Google-diensten
+- Microsoft-omgeving: Power BI (inbegrepen bij M365 Business-licentie)
+- Meerdere databronnen, geen technische kennis: Databox
+- Grote datasets en geavanceerde analyse: Tableau
+
+## Hoe bouw je een effectief KPI-dashboard in 4 stappen
+
+**Stap 1: Bepaal je 5 meest waardevolle KPI's**
+Begin niet met 20 metrics. Kies de 5 KPI's die het meest direct aantonen of je bedrijf gezond is. Voor een dienstverlener zijn dat typisch: omzet, marge, nieuwe klanten, klantretentie en openstaand debiteurenbedrag.
+
+**Stap 2: Koppel databronnen**
+Verbind je dashboard met de systemen waar de data vandaan komt: je boekhoudpakket (omzet, marge), CRM (klanten, pipeline), Google Analytics (website), en eventueel je klantenservicetool (klanttevredenheid).
+
+**Stap 3: Stel normen en bandbreedtes in**
+Een getal zonder context is waardeloos. Stel voor elke KPI in: wat is de norm (doelwaarde), wat is geel (aandacht nodig) en wat is rood (actie vereist). In Power BI en Databox doe je dit met conditional formatting.
+
+**Stap 4: Review-ritme instellen**
+Een dashboard zonder regelmatige review is decoratie. Plan een wekelijks 15 minuten durend dashboard-review met je management: wat is groen, wat is oranje, wat gaan we deze week anders doen?
+
+## Veelgemaakte fouten bij KPI-dashboards
+
+**Te veel metrics tegelijk**
+Een dashboard met 40 grafieken is onleesbaar. Het psychologische gevolg: niemand kijkt meer naar het dashboard. Beperk je tot 5-8 KPI's per weergave.
+
+**Metrics zonder eigenaar**
+Elke KPI heeft een eigenaar nodig: iemand die verantwoordelijk is voor de score en actie onderneemt als de metric in het rood staat. Zonder eigenaar zijn dashboards passieve informatie in plaats van management-instrumenten.
+
+**Real-time data waar dagelijkse data volstaat**
+Real-time koppelingen zijn duurder en technisch complexer. Voor de meeste MKB-KPI's is dagelijkse of wekelijkse data voldoende. Kies real-time alleen voor metrics waar directe actie noodzakelijk is (stockniveaus, actieve support-tickets).

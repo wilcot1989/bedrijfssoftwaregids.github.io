@@ -185,6 +185,21 @@ Een goede migratie duurt langer dan je wil. Een slechte migratie duurt langer da
 
 Een volledig overzicht van alle boekhoudsoftware vergelijkingen staat op de [boekhouding overzichtspagina](/categories/boekhouding/). Als je overweegt te migreren naar Exact Online, lees dan eerst de [Exact Online review 2026](/blog/exact-online-review-2026/) zodat je weet wat je kunt verwachten.
 
+## Hoeveel tijd kost een migratie: een realistisch tijdpad
+
+De meest gestelde vraag van ondernemers die overwegen te migreren: "Hoe lang duurt dit?" Het eerlijke antwoord hangt af van drie factoren: de omvang van je administratie, de kwaliteit van je huidige data en de complexiteit van je BTW-structuur.
+
+| Situatie | Voorbereiding | Migratie | Parallelle periode | Totaal |
+|---|---|---|---|---|
+| ZZP, < 200 facturen/jaar | 2 uur | 3 uur | 1 maand | ~1 dag werk |
+| ZZP+, 200–500 facturen/jaar | 4 uur | 6 uur | 1 maand | ~1,5 dag werk |
+| BV, geen personeel | 8 uur | 8 uur | 2 maanden | ~2 dagen werk |
+| MKB met personeel | 2 dagen | 2 dagen | 3 maanden | ~1 week werk |
+
+De "parallelle periode" is de tijd dat je beide systemen actief houdt: het oude voor lopende facturen en BTW-controle, het nieuwe voor alle nieuwe boekingen. Pas als de eerste volledige BTW-aangifte in het nieuwe systeem klopt, sluit je het oude af.
+
+Plan de migratie nooit in december, want dan loop je het risico dat je jaarafsluiting in twee systemen moet doen. Begin oktober of januari — beide hebben logische voordelen voor de fiscale knip.
+
 ---
 
 ## Lees ook

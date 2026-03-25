@@ -441,3 +441,30 @@ Ja, Trengo integreert met Shopify, WooCommerce, Magento en andere e-commerce pla
 
 **Voor welke bedrijven is Trengo het meest geschikt?**
 Trengo is ideaal voor Nederlandse MKB-bedrijven van 5-50 medewerkers die klantcontact via meerdere kanalen beheren, met name WhatsApp. Webshops en servicebedrijven profiteren het meest.
+
+---
+
+## Veelgemaakte fouten bij Trengo
+
+**Fout 1: WhatsApp-kanaal niet instellen als eerste**
+WhatsApp is de reden waarom de meeste Nederlandse bedrijven voor Trengo kiezen. Toch zie ik implementaties waarbij teams wekenlang met alleen e-mail werken voordat ze WhatsApp activeren. Activeer WhatsApp op dag één — dat is het directe return-on-investment.
+
+**Fout 2: Geen labelsysteem opzetten**
+Trengo biedt labels (tags) waarmee je gesprekken categoriseert. Zonder labelsysteem wordt je inbox na een paar maanden onmanageable. Stel bij de start een minimaal labelsysteem in: type vraag (klacht / bestelling / algemeen) en prioriteit (urgent / normaal).
+
+**Fout 3: Teamberichten vergeten**
+Trengo heeft een intern communicatiesysteem voor berichten tussen agenten. Veel teams gebruiken dit niet en vallen terug op WhatsApp-groepen voor interne afstemming. Dat is precies het probleem dat Trengo oplost — gebruik het platform volledig.
+
+---
+
+## Trengo vs. Intercom: de Nederlandse keuze
+
+| Criterium | Trengo | Intercom |
+|---|---|---|
+| **NL interface en support** | Ja | Nee |
+| **WhatsApp-integratie** | Uitstekend | Beperkt |
+| **Startprijs** | €25/seat/mnd | €39/mnd (Starter) |
+| **SaaS/in-app messaging** | Basis | Uitstekend |
+| **Beste voor** | NL MKB, webshops | SaaS-bedrijven |
+
+De keuze is eenvoudig: als je een Nederlands bedrijf bent dat met Nederlandse klanten werkt en WhatsApp centraal staat, is Trengo beter. Als je een SaaS-product hebt en in-app klantcommunicatie wil, is Intercom sterker.

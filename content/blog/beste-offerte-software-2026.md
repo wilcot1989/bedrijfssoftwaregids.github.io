@@ -453,3 +453,61 @@ Een offerte is een formeel document met een vaste prijs voor omschreven werkzaam
 
 ---
 
+## Kosten vergelijking per bedrijfsgrootte
+
+| Tool | ZZP (1 user) | Klein MKB (2-5 users) | Middelgroot (5-15 users) |
+|---|---|---|---|
+| Offorte | €19/maand | €39/maand | €79/maand |
+| PandaDoc | €19/maand | €49/maand | €89/maand |
+| Proposify | €49/maand | €99/maand | €199/maand |
+| Moneybird (incl. offertes) | €24/maand | N/A (1 gebruiker) | N/A |
+| Precisely | Op aanvraag | Op aanvraag | Op aanvraag |
+
+Voor ZZP'ers is Moneybird of Offorte Starter de meest kostenefficiënte keuze — je hebt volledige offertefunctionaliteit en directe factuurconversie voor €19-24/maand.
+
+## Hoe een goede offerte-workflow eruitziet
+
+De meeste bedrijven versturen een offerte en wachten passief op een reactie. Met offertesoftware kun je een actievere aanpak hanteren:
+
+**Stap 1: Offerte aanmaken vanuit een template**
+Begin met een goedgekeurde template (30-60 seconden voor standaardwerk). Pas de klantspecifieke onderdelen aan.
+
+**Stap 2: Versturen met tracking**
+De klant ontvangt een gepersonaliseerde link. Jij ziet wanneer hij de offerte opent, hoe lang hij kijkt en welke secties hij leest.
+
+**Stap 3: Opvolgmoment bepalen**
+Als een klant de offerte drie keer heeft geopend maar nog niet heeft getekend, is dat het perfecte moment voor een follow-up gesprek. PandaDoc en Proposify sturen hier automatische meldingen voor.
+
+**Stap 4: Digitaal ondertekenen**
+De klant tekent direct in de browser — geen printen, scannen of PDF-sturen. De getekende offerte wordt automatisch opgeslagen.
+
+**Stap 5: Omzetten naar factuur**
+Met één klik zet je de goedgekeurde offerte om naar een factuur in je boekhoudpakket. Geen dubbele invoer.
+
+## Sector-specifieke offertestijlen
+
+**IT en software-ontwikkeling**
+Gedetailleerde scope-beschrijvingen zijn belangrijk om scope creep te voorkomen. PandaDoc is sterk voor technische bijlagen en meerkeuzeopties. Voeg altijd een "wat valt er niet onder dit project" sectie toe.
+
+**Creatieve bureaus (design, marketing, video)**
+Visueel aantrekkelijke offertes zijn hier een onderscheidende factor — je laat meteen zien wat je kunt. Proposify biedt de meeste design-flexibiliteit. Voeg referentiebeelden of eerder werk in de offerte zelf in.
+
+**Zakelijke dienstverlening (coaching, advies, HR)**
+Resultaatgerichte taal werkt beter dan taakbeschrijvingen. Beschrijf wat de klant na jouw werk anders kan, niet wat jij gaat doen. Gebruik testimonials van vergelijkbare klanten in de offerte.
+
+**Bouw en technische dienstverlening**
+Gedetailleerde materiaalspecificaties en ondubbelzinnige betalingsschema's zijn essentieel. Voeg een "meerwerk-clausule" toe die beschrijft hoe prijsstijgingen worden gecommuniceerd. Offorte heeft hiervoor goede templates.
+
+## Offerteconversie verbeteren: wat werkt
+
+Ik zie bij bedrijven die offertesoftware gebruiken gemiddeld een hogere conversie dan bij bedrijven die Word-offertes versturen. De drie meest effectieve verbeteringen:
+
+**Persoonlijke videopitch toevoegen**
+Een korte video (2-3 minuten) waarin je uitlegt waarom jij de beste keuze bent, verhoogt de conversie met 15-25% bij de meeste bureaus. PandaDoc ondersteunt video-embeds.
+
+**Vervaldatum toevoegen**
+Een offerte zonder vervaldatum heeft geen urgentie. Stel altijd een datum in (14-30 dagen). Offertes die verlopen zetten klanten aan tot actie.
+
+**Vereenvoudigde opties aanbieden**
+Drie keuzepackages (basis/standaard/premium) converteren beter dan één vaste prijs. De middelste optie wordt gemiddeld 60% van de tijd gekozen.
+

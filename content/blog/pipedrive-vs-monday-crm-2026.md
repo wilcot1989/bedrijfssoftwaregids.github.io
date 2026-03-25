@@ -278,6 +278,25 @@ Dezelfde dealcyclus verloopt vergelijkbaar -- visuele pipeline, e-mailkoppeling,
 
 Voor de IT-dienstverlener in mijn voorbeeld was die naadloze overgang van sales naar delivery doorslaggevend voor de keuze voor Monday CRM.
 
+## Pipedrive vs Monday CRM: kostenvergelijking per teamgrootte
+
+| Teamgrootte | Pipedrive Growth | Monday CRM Standard | Verschil/jaar |
+|-------------|-----------------|--------------------|--------------:|
+| **3 gebruikers** | 3 × €39 = €117/mnd | 3 × €17 = €51/mnd | **€792/jaar goedkoper Monday** |
+| **5 gebruikers** | 5 × €39 = €195/mnd | 5 × €17 = €85/mnd | **€1.320/jaar goedkoper Monday** |
+| **10 gebruikers** | 10 × €39 = €390/mnd | 10 × €17 = €170/mnd | **€2.640/jaar goedkoper Monday** |
+
+Monday CRM is op vergelijkbare functieniveaus aanzienlijk goedkoper dan Pipedrive. Maar let op: Monday CRM Standard heeft minder CRM-specifieke diepgang dan Pipedrive Growth. Als je de automatiseringen en uitgebreide CRM-functies van Pipedrive wil matchen bij Monday CRM, heb je het Pro-plan nodig (€28/gebruiker/mnd), en dan kantelt het prijsverschil.
+
+| Teamgrootte | Pipedrive Growth | Monday CRM Pro | Verschil/jaar |
+|-------------|-----------------|----------------|--------------:|
+| **5 gebruikers** | €195/mnd | €140/mnd | **€660/jaar goedkoper Monday** |
+| **10 gebruikers** | €390/mnd | €280/mnd | **€1.320/jaar goedkoper Monday** |
+
+Monday CRM blijft goedkoper op vergelijkbaar niveau, maar het verschil wordt kleiner als je naar de hogere plannen kijkt.
+
+---
+
 ## Mijn advies: Pipedrive vs Monday CRM -- welke past bij jou?
 
 Na tientallen implementaties van beide platformen bij Nederlandse MKB-bedrijven is mijn aanbeveling helder:

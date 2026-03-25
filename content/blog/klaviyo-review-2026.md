@@ -576,3 +576,26 @@ Klaviyo is de beste keuze voor elke serieuze e-commerce webshop. De leercurve is
 
 [Start gratis met Klaviyo (tot 500 contacten)](https://klaviyo.com){rel="noopener nofollow sponsored" class="cta-affiliate"}
 
+---
+
+## Veelgemaakte fouten bij Klaviyo
+
+**Fout 1: Flows activeren zonder split-tests**
+De meeste webshops activeren een abandoned cart-flow en laten hem voor jaren ongewijzigd draaien. Test minimaal één element: de timing (30 minuten vs. 1 uur na verlating), de onderwerpsregel, of de CTA-tekst. Kleine verbeteringen in een evergreen flow leveren maandenlang extra omzet op.
+
+**Fout 2: Unsubscribers niet opschonen**
+Klaviyo rekent op basis van actieve profielen. Profielen die langer dan zes maanden niet hebben geopend of geklikt, zijn actief maar leveren geen waarde. Stel een suppression-filter in voor inactieve contacten — dit verlaagt je maandkosten en verbetert je deliverability.
+
+**Fout 3: SMS alleen als doorstuurkanaal gebruiken**
+De krachtigste SMS-toepassing in Klaviyo is niet het doorsturen van e-mailcampagnes, maar het targeten van inactieve e-mailabonnees die wel SMS-permissie hebben gegeven. Dat herstelt engagement die anders verloren zou gaan.
+
+---
+
+## Klaviyo voor Nederlandse webshops: AVG aandachtspunten
+
+Klaviyo is een Amerikaans bedrijf dat data verwerkt op servers in de VS. Voor Nederlandse webshops die AVG-compliant willen zijn, zijn er aandachtspunten:
+
+Klaviyo biedt een Data Processing Agreement (DPA) conform AVG en is gecertificeerd onder het EU-US Data Privacy Framework. Voor de meeste commerciële e-mail- en SMS-campagnes is dit voldoende.
+
+Wat je zelf moet regelen: expliciete toestemming voor e-mail én SMS bij het inschrijven. Klaviyo ondersteunt double opt-in en SMS-opt-in flows, maar de juiste consent-teksten en privacy-notices moeten door jou correct worden ingesteld. Bij twijfel: laat dit checken door je privacyjurist of gebruik de AVG-richtlijnen van de Autoriteit Persoonsgegevens als referentie.
+

@@ -151,4 +151,30 @@ Dat lijkt overdreven, maar de realiteit is dat de meeste adoptie-problemen voork
 - [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/) — uitgebreide beoordeling van het meest gebruikte CRM voor MKB-implementaties
 - [CRM data opschonen: stappenplan voor betere datakwaliteit](/blog/crm-data-opschonen-stappenplan/) — na de implementatie de datakwaliteit op peil houden
 
+## Checklist: ben je klaar voor de implementatie?
+
+Gebruik deze lijst om te beoordelen of je voldoende voorbereid bent voor de implementatie.
+
+**Organisatie**
+- [ ] Er is een CRM-eigenaar aangewezen met gereserveerde tijd
+- [ ] Het management heeft de tool- en budgetkeuze goedgekeurd
+- [ ] Er zijn geen andere grote projecten gepland in de implementatiemaand
+
+**Techniek**
+- [ ] Het pakket is gekozen en de licentie is actief
+- [ ] De e-mailintegratie werkt (test met een testaccount)
+- [ ] Gebruikersrollen zijn ingericht voor de verschillende teamleden
+
+**Data**
+- [ ] De bestaande klant- en prospectdata is geëxporteerd uit het oude systeem
+- [ ] Duplicaten zijn verwijderd of gemarkeerd
+- [ ] De data is in het importformat van het nieuwe CRM omgezet
+
+**Proces**
+- [ ] De pipeline-stappen zijn gedefinieerd (max. 6)
+- [ ] De minimale veldset is vastgesteld (max. 10 verplichte velden)
+- [ ] Succescriteria zijn bepaald: wat moet na 90 dagen aantoonbaar beter zijn?
+
+Als je op alle punten "ja" kunt zetten, ben je klaar voor de start van week twee. Als er items openstaan, los die dan eerst op voor je verdergaat met de inrichting.
+
 Wil je direct CRM software vergelijken? Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/). Wil je ook de kosten vergelijken? Gebruik de [CRM kosten berekenen tool](/tools/crm/kosten-berekenen/) voor een berekening op basis van jouw teamgrootte en gewenste functies.

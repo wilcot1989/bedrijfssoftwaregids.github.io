@@ -360,4 +360,87 @@ Wil je weten welk pakket het beste bij jou past? Gebruik de [boekhoudprogramma k
 
 ---
 
+## Kosten over drie jaar vergeleken: Moneybird vs alternatieven
+
+Een eenmalig maandbedrag vergelijken is één ding. Maar laten we de kosten concreet doorrekenen over drie jaar, zodat je een eerlijk totaalplaatje hebt. Ik gebruik als uitgangspunt een ZZP'er met gemiddeld 40 banktransacties per maand — net boven de limiet van Moneybird Growth.
+
+### Scenario: ZZP'er, 40 transacties/maand
+
+Bij Moneybird zit je structureel op het Growth-pakket (€28/mnd) omdat je de 20-transacties-limiet van Starter overschrijdt. Bij de alternatieven geldt geen transactielimiet.
+
+| Pakket | Prijs/mnd | Jaar 1 | Jaar 2 | Jaar 3 | Totaal 3 jaar |
+|---|---|---|---|---|---|
+| **Moneybird Growth** | €28 | €336 | €336 | €336 | **€1.008** |
+| **e-Boekhouden ZZP** | €9,95 | €119 | €119 | €119 | **€358** |
+| **Jortt** | €12,50 | €150 | €150 | €150 | **€450** |
+| **fENNA Compleet** | €15 | €180 | €180 | €180 | **€540** |
+| **SnelStart Go** | €22 | €264 | €264 | €264 | **€792** |
+
+*Prijzen excl. 21% BTW. Moneybird 2026 tarieven.*
+
+De besparing van e-Boekhouden ten opzichte van Moneybird over drie jaar: **€650**. Dat is geen wisselgeld — dat zijn twee werkdagen omzet voor een gemiddelde ZZP'er.
+
+De afweging is altijd: wat weegt zwaarder, die besparing of het comfort van een interface die je al kent?
+
+---
+
+## Migratie-timing: het beste moment om over te stappen
+
+De vraag "wanneer stap ik over?" is minstens zo belangrijk als "waarnaar stap ik over?" Hier zijn de drie scenario's.
+
+### Scenario A: Overgang op 1 januari (beste optie)
+
+Begin van het nieuwe boekjaar is de logischste schakelmoment. Je sluit het Moneybird-jaar netjes af, exporteert de eindbalansen, en begint vers in het nieuwe pakket. De BTW-aangifte voor Q4 verwerk je nog in Moneybird, en Q1 van het nieuwe jaar doe je al in het nieuwe systeem.
+
+Wat je doet in december:
+1. Sluit alle openstaande facturen in Moneybird af
+2. Exporteer klanten (CSV), leveranciers en factuurhistorie (PDF + UBL)
+3. Exporteer je grootboeksaldi per 31 december
+4. Richt het nieuwe pakket in met beginbalansen per 1 januari
+5. Koppel de bankrekening in het nieuwe systeem en test de import
+
+### Scenario B: Overgang bij begin van nieuw kwartaal (acceptabel)
+
+Als 1 januari niet haalbaar is, is het begin van een nieuw BTW-kwartaal (1 april, 1 juli, 1 oktober) de volgende beste optie. Je sluit de BTW-aangifte voor het afgelopen kwartaal nog in Moneybird af en begint met het nieuwe kwartaal in het nieuwe pakket.
+
+Let op: je hebt dan twee periodes in hetzelfde boekjaar bij twee systemen. Dat is beheerbaar, maar bespreek het altijd vooraf met je boekhouder of accountant.
+
+### Scenario C: Overgang midden in het jaar (te vermijden)
+
+Overstappen halverwege een BTW-kwartaal is het meest bewerkelijk. Je hebt dan een gesplitst kwartaal in twee systemen, wat de BTW-aangifte complexer maakt. Alleen aan te raden als er een urgente reden is (bijv. de transactielimiet maakt je dagelijkse werk onhoudbaar).
+
+---
+
+## De drie scenario's voor wie net begint met ondernemen
+
+Als je nu start als ondernemer en nog geen boekhoudpakket hebt, zijn de overwegingen anders dan voor wie al bij Moneybird zit.
+
+**Start je met minder dan 10 facturen per maand en een klein budget?**
+Begin met **SnelStart Web Gratis** (nul euro) of het **Moneybird gratis plan** (3 facturen per maand). Test welke interface je fijner vindt. Stap pas over naar een betaald plan als de limieten je beginnen te hinderen.
+
+**Start je met een gemiddeld volume (10-40 facturen/maand)?**
+**e-Boekhouden ZZP** (€9,95/mnd) is de meest kostenefficiënte instap met de meest complete functies in deze prijsklasse. Telefonische support en geen transactielimiet zijn voor beginners extra waardevol.
+
+**Start je meteen met meerdere klanten en intensief gebruik?**
+Kies **Jortt** als je eenvoud wil, of **SnelStart Go** als je al weet dat je binnen een jaar een medewerker aanneemt.
+
+**Heb je een accountant die al met een specifiek pakket werkt?**
+Gebruik wat je accountant aanraadt. De samenwerking en de tijdsbesparing bij de jaarafsluiting wegen zwaarder dan welke interface ook.
+
+---
+
+## Speciale gevallen: wanneer Moneybird wél de beste keuze blijft
+
+Ik heb dit artikel geschreven vanuit het perspectief van wie overstapt. Maar eerlijkheid gebiedt me ook te zeggen wanneer je beter bij Moneybird kunt blijven.
+
+**Je hebt een webshop met Mollie, Shopify of WooCommerce.** Moneybird heeft de sterkste native koppelingen met Nederlandse betaalproviders en webshopplatformen. Overstappen naar een alternatief betekent die koppelingen kwijtraken of via Zapier opnieuw moeten bouwen.
+
+**Je gebruikt de tijdregistratie in Moneybird actief.** De urenmodule van Moneybird is ingebouwd en werkt soepel. Geen van de goedkopere alternatieven biedt dit standaard. Als je regelmatig uren per project registreert en direct doorvertaalt naar facturen, is dat een reële reden om te blijven.
+
+**Je hebt minder dan 20 transacties per maand.** Op het Starter-pakket (€15/mnd) is Moneybird nog steeds concurrerend geprijsd, en de interface is een van de beste op de markt. Voor een starter met weinig transacties is er minder reden om te wisselen.
+
+**Je werkt met een designer of bureau dat specifieke factuursjablonen heeft gemaakt.** Moneybird heeft relatief uitgebreide aanpassingsmogelijkheden voor de factuurlay-out. Als je maanden hebt geïnvesteerd in een perfecte factuurstijl, weeg dan mee wat het overstappen kost in opmaakverlies.
+
+---
+
 *Disclaimer: Dit artikel bevat affiliate links naar SnelStart, Jortt, fENNA en Bunni. Als je via deze links een abonnement afsluit, ontvang ik een vergoeding — zonder extra kosten voor jou. Mijn aanbevelingen zijn gebaseerd op eigen onderzoek en zijn onafhankelijk van deze vergoeding.*

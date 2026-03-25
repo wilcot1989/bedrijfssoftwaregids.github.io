@@ -284,6 +284,30 @@ Voor ZZP'ers die werken voor internationale bureaus of opdrachtgevers in Duitsla
 
 Een aandachtspunt: de BTW-regels voor internationale facturen (ICL, omgekeerde BTW-heffing bij B2B) moet je zelf kennen en correct toepassen. fENNA berekent de BTW op basis van hoe jij de boeking aanmaakt -- de software controleert niet of je de juiste BTW-behandeling kiest voor elke klant. Bij twijfel raadpleeg je je boekhouder of de Belastingdienst-website.
 
+## fENNA Compleet in 2026: wat is er nieuw?
+
+fENNA is een relatief jonge speler op de Nederlandse boekhoudmarkt, maar het team ontwikkelt het product actief door. Wat ik in 2025-2026 heb zien verbeteren:
+
+**Verbeterde bankkoppeling:** de automatische verwerking van terugkerende transacties is betrouwbaarder geworden. Waar je voorheen bij sommige banken regelmatig een herverbinding moest instellen, loopt de koppeling nu stabiel door.
+
+**Snellere BTW-aangifte interface:** het scherm voor de BTW-aangifte is heringericht en intuïtiever geworden. De controle-stap voor je indient is duidelijker, waardoor het minder snel misgaat bij onervaren gebruikers.
+
+**Verbeterde factuurherinneringen:** je kunt nu makkelijker automatische herinneringen instellen op verschillende intervals (7 dagen na vervaldatum, 14 dagen, 30 dagen) zonder handmatig elke factuur op te volgen.
+
+Wat er nog op de roadmap staat, maar nog niet beschikbaar is op het moment van schrijven: OCR voor bonnetjes en een uitgebreidere API voor externe koppelingen. fENNA communiceert hier transparant over via hun blog.
+
+---
+
+## fENNA voor de ZZP'er die van Excel overstapt
+
+Een specifiek scenario dat ik regelmatig meemaak: de ZZP'er die jarenlang alles in Excel bijhield en nu de overstap maakt naar boekhoudsoftware. Hoe verloopt dat met fENNA?
+
+De overgang is bewust laagdrempelig gehouden. Je importeert je openstaande facturen handmatig (of voert ze opnieuw in) en begint met een beginbalans die je samen met je boekhouder vaststelt. De historische data hoef je niet per se over te zetten — je kunt het lopende jaar starten in fENNA en de voorgaande jaren in Excel bewaren als archief.
+
+Wat nieuwe gebruikers die van Excel komen het prettigst vinden: het automatisch bijhouden van btw. In Excel moest je zelf uitrekenen hoeveel btw je verschuldigd was; in fENNA zie je dat elke dag in real-time. Die duidelijkheid — "dit is wat ik aan de Belastingdienst moet betalen" — is voor veel ondernemers een directe stressvermindering.
+
+---
+
 ## Hoe wij vergelijken
 
 Bij Bedrijfssoftwaregids.nl testen wij elk pakket actief: we richten een testadministratie in, verwerken facturen en transacties, controleren de BTW-aangifte en vergelijken de eindkosten bij gelijke functionaliteit. We accepteren geen betaling van softwarebedrijven voor positieve beoordelingen. Affiliate links zijn transparant gelabeld. Onze scores zijn gebaseerd op functionaliteit, prijs, gebruiksgemak en gebruikerservaringen van externe bronnen (Trustpilot, zelfboekhouden.com). Prijzen worden maandelijks gecheckt — zie de datum bovenaan dit artikel voor de laatste controle.

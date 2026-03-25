@@ -481,3 +481,45 @@ Bekijk mijn volledige overzicht van de [beste boekhoudsoftware voor ZZP'ers 2026
 **Mijn laatste tip:** kies een boekhoud-app die je ook op een drukke dag van vijf minuten bij kunt houden. De app die je daadwerkelijk dagelijks gebruikt, is waardevoller dan de meest uitgebreide app die je twee keer per maand opent. Gebruik de gratis proefperiodes — Moneybird, Jortt en FreshBooks bieden allemaal een proefperiode — en test de bonnetjes-scanner met echte bonnetjes van jouw leveranciers. Daarna weet je snel welke app in de praktijk werkt voor jou. Dat is de test die echt telt. Een bonnetje scannen, een factuur versturen, een betaling bevestigen — als dat snel en vlot gaat op je telefoon, heb je de juiste app gevonden. Alles wat daarna komt, is bonus.
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of bekijk de **[volledige boekhoudingsvergelijking](/categories/boekhouding/)** voor alle tools op een rij.
+
+---
+
+## Kosten overzicht: boekhoud-apps per abonnementsniveau
+
+Hier een vergelijkingstabel van de maandelijkse kosten voor de vijf apps in dit overzicht:
+
+| App | Gratis plan | Startersprijs | Volledig pakket |
+|---|---|---|---|
+| Moneybird | Beperkt (3 contacten) | €14/maand | €24/maand |
+| Jortt | Ja (handmatig bankieren) | €19,95/maand | €34,95/maand |
+| Exact Online | Nee | €39/maand | €59/maand |
+| e-Boekhouden | 12 maanden gratis | €7,95/maand | €15,95/maand |
+| FreshBooks | 30 dagen gratis | €17/maand | €27/maand |
+
+**Beste prijs-kwaliteitverhouding voor ZZP:** Moneybird op het Zakelijk-plan (€24/maand) geeft je alles wat je nodig hebt inclusief een sterke mobiele app. Voor wie net begint: e-Boekhouden is 12 maanden gratis en geeft je tijd om je administratie op te zetten voordat je betaalt.
+
+## Veelgemaakte fouten bij het kiezen van een boekhoud-app
+
+**1. App-kwaliteit laten bepalen door de desktop-versie**
+Veel ondernemers kiezen boekhoudsoftware op basis van de webversie en ontdekken pas later dat de mobiele app ondermaats is. Test altijd beide: download de app, scan drie echte bonnetjes en maak een proeffactuur aan. Pas dan weet je of het in de dagelijkse praktijk werkt.
+
+**2. Starten midden in het boekjaar**
+Een overstap midden in het jaar verdubbelt je werk: je moet historische data importeren én je nieuwe administratie bijhouden. Begin altijd op 1 januari of aan het begin van een nieuw kwartaal.
+
+**3. Bankkoppeling niet direct instellen**
+Zonder bankkoppeling moet je transacties handmatig importeren of overtikken. Dit is de nummer-één reden waarom mensen hun administratie uitstellen. Stel de bankkoppeling in op dag één — het duurt vijf minuten en bespaart je uren per maand.
+
+**4. Geen back-up van bonnetjes**
+Scan je bonnetjes direct na ontvangst. Papieren bonnetjes vervagen na zes tot twaalf maanden en zijn dan onleesbaar. De Belastingdienst accepteert digitale kopieën, maar ze moeten wel leesbaar zijn.
+
+## Wanneer je een boekhoud-app niet genoeg is
+
+Een mobiele boekhoud-app is een aanvulling, geen vervanging. Je hebt meer nodig als:
+
+- Je btw-aangifte handmatig berekent in plaats van automatisch
+- Je meerdere medewerkers hebt die declaraties indienen
+- Je te maken hebt met projectfacturatie of urenadministratie
+- Je regelmatig rapportages nodig hebt voor investeerders of de bank
+- Je meer dan €500.000 omzet per jaar hebt
+
+In die gevallen kijk je naar de volledige functionaliteit van [Exact Online](/blog/exact-online-review-2026/) of [AFAS Personal](/blog/afas-personal-review-2026/), niet alleen de mobiele app.

@@ -227,6 +227,36 @@ Voor een eenvoudig systeem (één kassapunt, standaard menukaart) kun je in een 
 
 Dit is een terechte zorg die ik vaker hoor. Mijn advies: exporteer minimaal maandelijks een volledige backup van je transactiehistorie, productlijst en klantgegevens. De meeste cloud-systemen bieden dit als geautomatiseerde export. Bewaar die exports lokaal of op een cloudstorage die jij zelf beheert. Zo ben je niet volledig afhankelijk van de beschikbaarheid van de leverancier voor toegang tot je eigen data.
 
+## Cloud vs lokaal kassasysteem: kostenvergelijking over drie jaar
+
+Een lokaal systeem lijkt bij aanschaf duurder, maar op lange termijn kan het goedkoper zijn. Hier is de rekensom.
+
+### Scenario: horecazaak met 1 kassapunt
+
+| Kostenpost | Cloud (Lightspeed) | Lokaal (eigen server) |
+|------------|-------------------|----------------------|
+| **Aanschaf hardware** | €500-€1.000 (tablet + stand) | €2.000-€5.000 (PC + kassa) |
+| **Software jaar 1** | €59-€119/mnd = €708-€1.428 | €0-€500 eenmalig |
+| **Software jaar 2-3** | €708-€1.428/jaar | €0-€200/jaar (onderhoud) |
+| **IT-onderhoud** | €0 (leverancier regelt) | €500-€2.000/jaar |
+| **Updates** | Inbegrepen | €200-€500/jaar |
+| **Backup** | Automatisch, inbegrepen | €100-€300/jaar extra |
+| **Totaal 3 jaar** | **€3.600-€7.200** | **€5.300-€12.000** |
+
+Over drie jaar is cloud doorgaans goedkoper als je het volledige eigenaarschap van een lokaal systeem meeneemt. Alleen bij grote kassanetwerken (5+ kassa's) waarbij de hardware-investering eenmalig hoog is, kan lokaal over lange termijn goedkoper uitpakken.
+
+### Wanneer cloud toch duurder uitkomt
+
+Er zijn specifieke situaties waarbij lokaal structureel goedkoper is:
+
+- **Meer dan 5 kassapunten:** bij cloud betaal je per kassa of per locatie, waardoor de maandkosten snel oplopen
+- **Stabiele, langjarige installatie:** een casino of bioscoop die tien jaar hetzelfde systeem draait, betaalt lokaal over die periode minder
+- **Hoog transactievolume, lage marge:** als iedere euro telt, zijn cloud-abonnementskosten een fixe last
+
+Voor de meeste kleine tot middelgrote horecazaken en winkels in Nederland weegt het gemak van cloud echter zwaarder dan het theoretische prijsvoordeel van lokale systemen.
+
+---
+
 ## Drie sectoren vergeleken: hoe de keuze er in de praktijk uitziet
 
 De theorie is helder. Maar hoe pakt de keuze tussen cloud en lokaal uit in drie concrete sectoren die ik regelmatig begeleid?

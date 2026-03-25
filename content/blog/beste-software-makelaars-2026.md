@@ -404,3 +404,88 @@ Mijn concrete advies: vraag bij minimaal twee van deze partijen een demo aan en 
 Zoek je een breder overzicht van CRM-systemen, inclusief generieke oplossingen als HubSpot en Pipedrive? Lees dan mijn [CRM voor makelaars vergelijking](/blog/crm-voor-makelaars-2026/) of het complete overzicht van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/). Wil je ook weten hoe HubSpot en Pipedrive zich tot elkaar verhouden? Bekijk dan de [HubSpot vs Pipedrive vergelijking 2026](/blog/hubspot-vs-pipedrive-2026/). Meer informatie over makelaarsspecifieke CRM-tools vind je op de [sectorpagina CRM voor makelaars](/sectoren/crm/crm-voor-makelaars/) en in mijn uitgebreide [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/).
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)** voor meer informatie.
+
+---
+
+## Kosten per kantoorgrootte: wat betaal je werkelijk?
+
+De tariefstructuur van makelaarssoftware is niet altijd transparant. Hier is een eerlijke kostenraming.
+
+### Zelfstandig makelaar (1 persoon)
+
+Voor een solo-makelaar zijn de maandelijkse kosten beheersbaar. Yes-co start al bij €75/mnd, Realworks vraagt meer. Het belang van een goede Funda-koppeling weegt zwaar: elke minuut minder handmatig werk per object telt op bij een druk schema.
+
+Bij één makelaar die 10-15 objecten actief in beheer heeft, is de besparing door automatisch synchroniseren van objectdata naar Funda al 2-4 uur per week.
+
+### Makelaarskantoor (2-5 medewerkers)
+
+Op dit niveau zijn gedeelde agenda's, gezamenlijk CRM en de mogelijkheid om taken toe te wijzen aan teamleden de meest waardevolle functies. De meeste pakketten schalen per gebruiker.
+
+| Software | Prijs (2 gebruikers/mnd) | Funda | WWFT |
+|----------|--------------------------|-------|------|
+| Realworks | Op aanvraag (NVM) | Uitstekend | Via koppeling |
+| Kolibri | Op aanvraag | Goed | Via koppeling |
+| Yes-co | ~€150+ | Goed | Ingebouwd |
+| Friva | Op aanvraag | Goed | Nee |
+| KeySoftware | Op aanvraag | Goed | Nee |
+
+### Groter kantoor (6+ medewerkers, meerdere vestigingen)
+
+Voor kantoren met meerdere vestigingen is Realworks of KeySoftware de sterkste keuze door de multi-vestigingsfunctionaliteit en de centralisatie van klantdata over locaties heen.
+
+---
+
+## WWFT-compliance: waarom dit steeds belangrijker wordt
+
+De Wet ter voorkoming van witwassen en financieren van terrorisme (WWFT) stelt makelaars verplicht een cliëntenonderzoek (UBO-check) uit te voeren bij iedere klant. Dat is administratief werk dat u moet kunnen aantonen bij controle.
+
+Yes-co is de enige tool in dit overzicht met ingebouwde WWFT-screening. Dat betekent dat u het UBO-register kunt raadplegen en de uitkomst direct koppelt aan het klantdossier — zonder externe service of handmatig dokumenten opslaan.
+
+Voor de andere pakketten zijn externe koppelingen beschikbaar (bijv. Graydon of Creditsafe), maar dat vergt extra abonnement en handmatige koppeling aan het dossier.
+
+---
+
+## Digitale woningpresentatie: van foto tot virtual tour
+
+In 2026 verwachten kopers meer dan statische foto's. De software die u kiest, bepaalt mede de kwaliteit van uw woningpresentaties.
+
+**360°-tours en virtual reality:** Matterport-integraties zijn beschikbaar bij Realworks en Kolibri. Een virtual tour vermindert onnodige bezichtigingen van gemotiveerde maar niet-passende kopers, waardoor u meer kwalitatieve bezichtigingen overhoudt.
+
+**3D plattegronden:** Alle grote pakketten ondersteunen het uploaden van professionele plattegronden. Kolibri biedt ook AI-gestuurde plattegrondgeneratie op basis van een basisplattegrond.
+
+**Video-presentaties:** YouTube-embeds zijn standaard in alle pakketten. Sommige pakketten ondersteunen ook directe video-hosting.
+
+**Sociale media-distributie:** Automatisch publiceren van objecten op Instagram en Facebook bespaart een aanzienlijke hoeveelheid tijd. Kolibri heeft hier de sterkste module.
+
+---
+
+## Implementatieplan: van beslissing tot live
+
+**Week 1: Data-export uit huidig systeem**
+Exporteer alle actieve objecten, klantgegevens en historische transacties uit uw huidig systeem. Controleer de datakwaliteit: adressen compleet, contactgegevens up-to-date, documenten geïndexeerd.
+
+**Week 2: Configuratie en koppelingen**
+Funda-koppeling instellen is de meest kritische stap. Zorg dat de testobjecten correct worden gesynchroniseerd en dat foto's, teksten en kenmerken volledig meekomen voordat u live gaat.
+
+**Week 3: Training en pilot**
+Werk de eerste week met het nieuwe systeem voor nieuwe objecten. Houd het oude systeem parallel voor bestaande dossiers totdat alle actieve objecten zijn overgezet.
+
+**Week 4: Volledige migratie**
+Zet alle bestaande dossiers over en sluit het oude systeem af. Monitor de eerste twee weken extra nauwkeurig op eventuele synchronisatiefouten met Funda.
+
+---
+
+## ROI van makelaarssoftware: wat levert het op?
+
+**Tijdsbesparing per object:**
+Handmatige invoer in Funda: 45-90 minuten per object
+Met software-synchronisatie: 10-15 minuten per object
+Besparing: ~1 uur per object × 100 objecten per jaar = 100 uur per jaar = €5.000-€8.000 (bij €50-€80 uurloon)
+
+**Betere lead-opvolging:**
+Een CRM met automatische taakherinneringen zorgt dat geen enkele lead onopgevolgd blijft. Bij 5% hogere conversie op binnenkomende leads van 200 koopzoekers per jaar bij een gemiddelde provisie van €4.000, levert dit €40.000 extra omzet per jaar.
+
+**Compliance-voordelen:**
+Een WWFT-boete bij nalatig cliëntenonderzoek kan oplopen tot €4 miljoen. Software die WWFT-compliance borgt, vermijdt dit risico volledig.
+
+De jaarkosten van makelaarssoftware liggen tussen €1.000 en €5.000 voor een gemiddeld kantoor. De besparingen en extra omzet overtreffen dit ruimschoots.

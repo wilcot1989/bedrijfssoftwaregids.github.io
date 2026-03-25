@@ -184,6 +184,18 @@ Niet omdat het product beter was. Omdat ze eindelijk de juiste mensen bereikten.
 
 Begin met de audit. Meet waar je nu staat. Kies één probleem om als eerste aan te pakken — meestal duplicaten, want daar zie je snel resultaat. Bouw daarna langzaam de standaarden en routine op.
 
+## Datakwaliteit onderhouden: een kwartaalroutine
+
+Eénmalig opschonen is goed. Structureel onderhoud is beter. Dit is de minimale kwartaalroutine die ik adviseer voor elk MKB-bedrijf met een CRM:
+
+**Elke maand (15 minuten):** duplicatencheck draaien, nieuw aangemaakte contacten controleren op invulvolledigheid, inactieve leads ouder dan negentig dagen markeren.
+
+**Elk kwartaal (één uur):** exporteer je actieve pipeline en controleer of alle deals een verwachte sluitdatum hebben. Verwijder of archiveer deals die langer dan zes maanden niet zijn bijgewerkt. Controleer of contacten zonder bijbehorend bedrijf correct zijn gekoppeld of kunnen worden verwijderd.
+
+**Jaarlijks (twee uur):** volledig audit van de tagsstructuur en pipelinedefinities. Zijn er tags die niet meer worden gebruikt? Zijn er pipelinefases die nooit worden ingevuld? Ruim op en pas de definitie aan waar nodig.
+
+Met vijftien minuten per maand en een jaarlijkse grondige check houd je je CRM-data jarenlang bruikbaar. Dat is de investering die voorkomt dat je over drie jaar opnieuw een grote opschoonsessie nodig hebt.
+
 En als je merkt dat je huidige CRM het lastig maakt om data schoon te houden — geen goede duplicaatdetectie, geen verplichte velden, geen slimme integraties — dan is dat misschien het moment om te kijken of het systeem zelf de bottleneck is. De [veelgemaakte CRM-fouten bij MKB](/blog/crm-fouten-mkb/) gaan hier dieper op in.
 
 ---

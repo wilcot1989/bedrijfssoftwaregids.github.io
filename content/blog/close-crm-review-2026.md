@@ -353,6 +353,65 @@ Close biedt een data-export mogelijkheid voor leads, contacts, activities en dea
 
 ---
 
+## Close CRM vs. alternatieven: de volledige vergelijking
+
+Naast de al besproken vergelijking met Pipedrive zijn er meer alternatieven die je moet kennen voordat je Close kiest.
+
+### Close CRM vs. HubSpot Sales Hub
+
+| Functie | Close CRM | HubSpot Sales Hub |
+|---|---|---|
+| **Ingebouwde telefonie** | Ja (Power + Predictive Dialer) | Nee (via VoIP-integraties) |
+| **Gratis plan** | Nee | Ja (beperkt maar functioneel) |
+| **Marketing automation** | Nee | Ja (Professional en hoger) |
+| **Nederlandse interface** | Nee | Ja |
+| **Startprijs** | €35/user/mnd | Gratis / €15/user/mnd |
+| **Beste voor** | Inside sales, dagelijks bellen | Marketing-gedreven sales |
+
+De kernvraag: als je team dagelijks 20+ calls doet en e-mail sequences draait, is Close sterker. Als je ook marketingcampagnes wilt bijhouden en leads vanuit marketing wilt voeden naar sales, is HubSpot de logischere keuze.
+
+### Close CRM vs. Zoho CRM
+
+Zoho is goedkoper dan Close (€14/user/mnd voor Standard) en biedt meer functies op papier: marketing automation, inventory, facturatie. Maar de uitvoering is minder gefocust. Zoho is een uitgebreid systeem voor bedrijven die brede CRM-functionaliteit willen voor een lage prijs. Close is dieper op één ding: sales communicatie. Als bellen en mailen je kern is, is Close beter. Als je breed CRM-beheer wilt voor een klein budget, is Zoho het overwegen waard.
+
+---
+
+## Hoe Close CRM omgaat met data en privacy (AVG)
+
+Een vraag die ik regelmatig krijg van Nederlandse bedrijven: hoe zit het met AVG en de dataverwerking door Close?
+
+Close is gevestigd in de VS en verwerkt klantdata op Amerikaanse servers. Dat betekent dat je als Nederlandse gebruiker van Close strikt genomen persoonsgegevens van Europese contactpersonen naar de VS overbrengt. Close biedt een Data Processing Agreement (DPA) aan en is aangesloten bij het EU-US Data Privacy Framework, wat juridisch transfer mogelijk maakt.
+
+Voor de meeste commerciële toepassingen — een salesteam dat leads en klanten bijhoudt — is dit geen probleem. Maar als je in een gereguleerde sector werkt (zorg, financiën, juridisch) of als je datacontroller bijzondere persoonsgegevens verwerkt, laat dit dan checken door je privacy-officer. Close is hier niet uniek mee — dezelfde vraag speelt bij Pipedrive, HubSpot en Salesforce.
+
+Praktisch advies: vraag Close om hun DPA op te sturen (dit gaat via een standaard verzoek), sla hem op in je verwerkingsregister, en je bent correct gedekt.
+
+---
+
+## Close CRM in 2026: recente updates
+
+Close heeft in het afgelopen jaar een aantal relevante updates doorgevoerd:
+
+**AI Call Assistant:** automatische gesprekstranscripties zijn uitgebreid met AI-samenvattingen. Na elk gesprek krijgt de SDR een compacte samenvatting van de call met actiepunten. Dit werkt goed voor teams die veel calls doen en geen tijd willen besteden aan handmatige notities.
+
+**Verbeterde email deliverability tools:** Close biedt nu meer inzicht in e-mail-deliverability per gebruiker, inclusief spam-scores en open/klik-tracking per individuele afzender. Dit helpt salesmanagers om SDR's te coachen op e-mail-effectiviteit.
+
+**Betere integratie met LinkedIn Sales Navigator:** je kunt LinkedIn-profielinfo direct in een Close-lead laden. Voor B2B-teams die LinkedIn als primair prospecting-kanaal gebruiken, is dit een tijdsbesparing.
+
+---
+
+## Veelgemaakte fouten bij de implementatie van Close CRM
+
+Na meerdere Close-implementaties kom ik steeds dezelfde struikelblokken tegen:
+
+**Sequences te vroeg activeren:** Voordat je sequences inzet, moet je je e-maildomein correct hebben geconfigureerd (DKIM, DMARC). Zonder die instelling landen je sequence-mails vaker in spam, wat je domeinreputatie beschadigt. Neem daar de eerste dag de tijd voor.
+
+**Te weinig custom fields:** Close werkt beter naarmate je contactprofiel meer data bevat. Maak custom fields aan die passen bij jullie salesproces: functietitel van de beslisser, bedrijfsgrootte, CRM-history, branche. Hoe meer data, hoe gerichter je sequences en hoe persoonlijker je outreach.
+
+**De Power Dialer niet goed getraind:** de Power Dialer belt door je lijst heen, maar de kwaliteit hangt af van hoe je de lijst samenstelt. Een lijst van koude leads zonder enige kwalificatie leidt tot frustratie en slechte gesprekskwaliteit. Begin met een gesegmenteerde lijst van warme leads en bouw van daar uit.
+
+---
+
 ## Lees ook
 
 - [Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/) — uitgebreide vergelijking van 8 systemen

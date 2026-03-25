@@ -267,6 +267,18 @@ MKB-bedrijven die ook hun klantrelaties structureel willen beheren, vinden een v
 
 Bekijk ook onze reviews: [Personio review 2026](/blog/personio-review-2026/), [AFAS review 2026](/blog/afas-review-2026/), [Nmbrs review 2026](/blog/nmbrs-review-2026/) en het artikel [personeelsdossier digitaliseren AVG](/blog/personeelsdossier-digitaliseren-avg/).
 
+## Groeipad: van vijf naar vijftig medewerkers
+
+MKB-bedrijven groeien niet lineair, en je HR-software moet meegroeien. Dit is het groeipad dat ik het vaakst zie:
+
+**Vijf tot vijftien medewerkers:** Personio of Loket.nl — focus op salarisadministratie en verlofbeheer, snelle implementatie, geen uitgebreide HR-processen nodig.
+
+**Vijftien tot dertig medewerkers:** Personio Professional of Loket.nl met extra modules — functioneringsgesprekken worden relevant, onboarding heeft structuur nodig, je wilt rapportages voor de directie.
+
+**Dertig tot honderd medewerkers:** AFAS of Personio Enterprise — de HR-afdeling groeit, processen moeten gestandaardiseerd worden, koppeling met boekhouding en CRM wordt steeds belangrijker.
+
+Ik raad MKB-bedrijven aan om bij de selectie een jaar vooruit te denken: kies niet voor het systeem dat nu perfect past, maar voor het systeem dat ook bij dertig procent meer medewerkers nog goed werkt. De overstap van Loket.nl naar AFAS kost drie tot zes maanden implementatie. Als je die overstap pas maakt als het echt nodig is, heb je drie tot zes maanden lang suboptimale HR-processen.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

@@ -478,3 +478,85 @@ Ja, alle serieuze declaratiesoftware heeft een configureerbare goedkeuringsflow.
 ### Is declaratiesoftware AVG-proof voor Nederlandse bedrijven?
 
 De Nederlandse en Europese tools (Declaree, Rydoo, Moss) slaan data op binnen de EU en zijn ontworpen met AVG-compliance in het achterhoofd. SAP Concur biedt EU-dataopslag als optie. Expensify verwerkt data deels in de VS — vraag altijd naar de verwerkersovereenkomst en datalocatie bij implementatie.
+
+---
+
+## Declaratiebeleid opstellen: de basis voor efficiënte verwerking
+
+Software automatiseert het declaratieproces — maar de basis is een helder declaratiebeleid. Hier zijn de essentiële onderdelen.
+
+### Wat moet in het declaratiebeleid staan?
+
+**Kostensoorten:** Welke kosten zijn declarabel? Zakelijke reiskosten, maaltijden bij klantbezoek, representatiekosten, thuiswerkvergoeding, opleidingen — maak per categorie duidelijk wat wel en niet vergoed wordt.
+
+**Maxima per categorie:** Wat is de maximale vergoeding per maaltijd, overnachting of kilometer? Dit voorkomt discussies over de definitie van "redelijke onkosten".
+
+**Bewijsmateriaal:** Welk bewijs is vereist? Bonnetje voor alle uitgaven boven €10, kilometerregistratie voor zakelijk rijden, gespreksverslag bij representatiekosten.
+
+**Indieningstermijn:** Wanneer moeten declaraties worden ingediend? Een termijn van 30-60 dagen na de uitgave is gebruikelijk. Na 3 maanden worden declaraties doorgaans niet meer geaccepteerd.
+
+**Goedkeuringsproces:** Wie keurt welke declaraties goed? Standaard: manager goedkeurt directe medewerker. Declaraties boven drempelbedrag gaan naar directie of financiën.
+
+### Configureer het beleid in de software
+
+Declaratiesoftware als Declaree en Rydoo laat u dit beleid direct in het systeem configureren:
+- Categorieën aanmaken met maximumbedragen
+- Goedkeuringsworkflows instellen per categorie en bedragdrempel
+- Vereiste bijlagen instellen per kostencategorie
+- BTW-regels automatisch toepassen
+
+Een goed geconfigureerd systeem blokkeert automatisch declaraties die het beleid overschrijden en vraagt om ontbrekende bijlagen. Dit verlaagt het handmatig reviewwerk voor de financiële afdeling aanzienlijk.
+
+---
+
+## Reiskostenvergoeding in 2026: de fiscale regels
+
+De Nederlandse Belastingdienst staat een onbelaste kilometervergoeding van maximaal €0,23 per kilometer toe in 2026 (verhoogd van €0,21 in 2023). Dit geldt voor zakelijk rijden met een privévoertuig.
+
+**Woon-werkverkeer:** Is fiscaal gezien privéverkeer — niet onbelast te vergoeden. Tenzij een vaste thuiswerk-vergoeding of OV-vergoeding wordt gegeven.
+
+**Zakelijk verkeer:** Klantbezoeken, externe vergaderingen, dienstreizen — onbelast tot €0,23/km.
+
+**Elektrisch rijden:** Dezelfde regels gelden voor elektrische voertuigen.
+
+**Brandstofbewijs:** Een kilometerregistratie is voldoende bewijs voor de vergoeding. Declaratiesoftware genereert automatisch een fiscaal-conforme kilometerregistratie op basis van ingevoerde ritten.
+
+### Maaltijdkosten bij zakelijke reizen
+
+Maaltijdkosten zijn aftrekbaar als zakelijke kosten maar vallen gedeeltelijk onder de werkkostenregeling (WKR). De fiscale regels zijn complex — laat dit altijd controleren door uw accountant.
+
+Declaratiesoftware categoriseert maaltijdkosten apart en signaleert als de jaarlijkse vrije ruimte van de WKR dreigt te worden overschreden.
+
+---
+
+## Implementatieplan in 4 stappen
+
+**Stap 1: Declaratiebeleid vaststellen (week 1)**
+Definieer kostensoorten, maxima en goedkeuringsworkflows. Leg dit vast in een document dat ook buiten de software als referentie dient.
+
+**Stap 2: Software configureren (week 2)**
+Importeer medewerkers, richt kostensoorten in, configureer goedkeuringsworkflows, stel de boekhoudkoppeling in. Voor Declaree met Exact Online-koppeling: het enige dat u nodig heeft is uw Exact Online API-sleutel.
+
+**Stap 3: Test met een kleine groep (week 3)**
+Laat 5-10 medewerkers een testdeclaratie indienen. Controleer of de OCR-herkenning werkt, of de goedkeuringsflow correct loopt, en of de boekhoudkoppeling de posten correct wegboekt.
+
+**Stap 4: Uitrol en training (week 4)**
+Stuur een korte handleiding aan alle medewerkers (1-2 pagina's). Plan een 30-minutensessie voor de financiële afdeling en de goedkeurders. Na week 4 is het systeem operationeel.
+
+---
+
+## Kosten vergelijking per teamgrootte
+
+| Tool | 10 mdw/jaar | 25 mdw/jaar | 50 mdw/jaar |
+|------|-------------|-------------|-------------|
+| Expensify (gratis) | €0 | Beperkt | Beperkt |
+| Declaree | ~€600 | ~€1.500 | ~€3.000 |
+| Rydoo | ~€1.200 | ~€3.000 | ~€6.000 |
+| Moss | Op aanvraag | Op aanvraag | Op aanvraag |
+| SAP Concur | Op aanvraag | Op aanvraag | Op aanvraag |
+
+*Indicatief, afhankelijk van plan en modules*
+
+De tijdsbesparing is aanzienlijk. Bij handmatige verwerking: gemiddeld 20-30 minuten per declaratieregel door de financiële afdeling. Met software: 3-5 minuten. Bij 100 declaratieregels per maand: 25 uur per maand bespaard = €875/mnd bij €35 uurloon = €10.500/jaar.
+
+De ROI van declaratiesoftware voor een bedrijf met meer dan 10 actieve declarerende medewerkers is vrijwel altijd positief binnen het eerste jaar.

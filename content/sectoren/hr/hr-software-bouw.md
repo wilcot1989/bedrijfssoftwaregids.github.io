@@ -238,6 +238,14 @@ De Nederlandse Arbeidsinspectie voert jaarlijks duizenden inspecties uit op bouw
 
 De grootste pijnpunt in de bouw is het handmatig overtypen van urenbriefjes naar de salarisadministratie. Een medewerker die zijn uren maandag op papier noteert, de voorman die dat vrijdag inlevert en de administratie die het dinsdag verwerkt: dat zijn drie kansen op fouten. Elk systeem dat hier automatisering in brengt, verdient zijn prijs terug.
 
+## Projectgebaseerd werken en HR: uren en certificaten bijhouden
+
+In de bouwsector werken medewerkers doorgaans niet op een vaste locatie maar op wisselende projecten. Dat stelt specifieke eisen aan HR-software die in andere sectoren minder relevant zijn.
+
+**Projecturenregistratie:** Je wilt weten hoeveel uur medewerker X heeft gewerkt op project Y in week Z. Die data heb je nodig voor de projectkostprijsberekening en voor de salarisverwerking. AFAS heeft een volledige urenregistratiemodule die direct koppelt met de projectadministratie. Loket.nl en Nmbrs zijn primair gericht op salarisverwerking en hebben beperktere projecturenregistratie.
+
+**Machinebewijzen en rijbewijzen bijhouden naast VCA:** In de bouw heb je niet alleen VCA-certificaten maar ook rijbewijzen voor het bedienen van heftrucks, kranen en andere machines. De verloopdatum van een rijbewijs is net zo kritisch als een VCA-verloopdatum — een medewerker zonder geldig rijbewijs die toch een machine bedient, is een aansprakelijkheidsprobleem. AFAS ondersteunt een breed scala aan certificaattypen in de HR-module.
+
 Vergeet ook de VCA-administratie niet. In de bouw is het een wettelijke vereiste dat medewerkers de juiste veiligheidscertificaten hebben voordat ze een bouwplaats betreden. HR-software die automatisch bijhoudt wanneer certificaten verlopen en hierover tijdig een melding stuurt, voorkomt boetes en gevaarlijke situaties. Alleen AFAS biedt dit uit de doos; bij Loket.nl en Nmbrs moet je dit handmatig bijhouden of via een externe oplossing regelen.
 
 Gebruik de [HR software keuzehulp](/tools/hr-software/keuzehulp/) voor een advies afgestemd op jouw bouwbedrijf. Bereken ook de [kosten van HR software voor bouwbedrijven](/tools/hr-software/kosten-berekenen/).

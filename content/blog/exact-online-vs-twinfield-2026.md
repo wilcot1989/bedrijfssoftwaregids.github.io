@@ -279,6 +279,37 @@ Migreren van het ene boekhoudpakket naar het andere is geen kleinigheid, maar he
 
 6. **Reken op 2-4 weken doorlooptijd.** Bij een eenvoudige administratie kan het in een week. Bij meerdere administraties of complexe grootboekschema's duurt het langer. Plan het niet tussen twee btw-deadlines in.
 
+## Exact Online vs Twinfield: gebruik per sector
+
+Ik heb beide pakketten geadviseerd aan bedrijven in allerlei sectoren. Dit patroon zie ik steeds terugkomen.
+
+| Sector | Aanbeveling | Reden |
+|--------|-------------|-------|
+| **Groothandel** | Exact Online | Voorraadbeheer, inkoopbeheer, logistiek |
+| **Projectadviesbureau** | Exact Online of Twinfield | Projectadministratie sterker in Exact; consolidatie in Twinfield |
+| **Accountantskantoor (klanten)** | Twinfield | Multi-administratie, consolidatie, sneller schakelen |
+| **Bouwbedrijf** | Exact Online | Werkbonnen, projectkosten, subcontractors |
+| **Productiebedrijf** | Exact Online | Stuklijsten, productieplanning |
+| **Holding + werkmaatschappijen** | Twinfield | Consolidatie, vergelijkende rapportages |
+| **Non-profit** | Twinfield of Exact | Afhankelijk van complexiteit |
+| **IT-dienstverlener** | Exact Online | CRM-integratie, tijdregistratie |
+| **Detailhandel (winkel)** | Exact Online | Kassa-integratie, Lightspeed-koppeling |
+
+---
+
+## Prijsvergelijking per team: wat betaal je echt per jaar?
+
+| Teamgrootte | Exact Online | Twinfield | Verschil/jaar |
+|-------------|-------------|-----------|---------------|
+| **1-2 gebruikers, 1 admin** | €49/mnd (Essentials) | €42/mnd (Extra) | €84/jaar goedkoper Twinfield |
+| **2-5 gebruikers, basis** | €99/mnd (Plus) | €59/mnd (MKB) | €480/jaar goedkoper Twinfield |
+| **5+ gebruikers, uitgebreid** | €159/mnd (Professional) | €88/mnd (Compleet) | €852/jaar goedkoper Twinfield |
+| **Multi-administratie** | €299+/mnd (Premium) | €112/mnd (Multi) | **€2.244/jaar goedkoper Twinfield** |
+
+Twinfield is structureel goedkoper dan Exact Online op vergelijkbare functieniveaus. Maar Exact Online levert bij de hogere plannen ook meer functies buiten de boekhouding (CRM, voorraad, HR). Die vergelijking is daardoor niet één-op-één.
+
+---
+
 ## Verdict: Exact Online vs Twinfield
 
 Na tientallen implementaties van beide pakketten komt mijn advies hierop neer:

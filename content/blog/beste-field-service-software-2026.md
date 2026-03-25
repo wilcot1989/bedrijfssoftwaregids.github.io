@@ -415,3 +415,110 @@ Door technici volledig geïnformeerd de deur uit te sturen: volledige servicehis
 ### Is field service software ook geschikt voor bouw?
 
 Ja, zeker. Fieldly is specifiek populair in de bouwsector voor het beheren van werkbonnen, urenstaten en materiaalregistratie op bouwprojecten. De koppeling met projectadministratie in Exact Online of AFAS is daarbij essentieel voor correcte project-nacalculatie.
+
+---
+
+## Implementatietijdlijn: van aanschaf tot live
+
+Een veelgestelde vraag is hoe lang de implementatie duurt. Het antwoord verschilt sterk per platform en bedrijfsgrootte.
+
+**Fieldly (MKB, 5–25 technici):** 1–2 weken
+- Week 1: accountinrichting, koppeling met boekhoudsoftware, test met 2–3 technici
+- Week 2: training alle technici, eerste werkbonnen in het systeem, go-live
+
+**Salesforce Field Service (enterprise):** 3–9 maanden
+- Fase 1 (maand 1–2): requirements gathering, Salesforce-instantie configureren
+- Fase 2 (maand 2–5): FSL configureren, AI-planningsmodule instellen, integraties bouwen
+- Fase 3 (maand 5–7): testfase, user acceptance testing
+- Fase 4 (maand 7–9): pilot met deelgroep, evaluatie, brede uitrol
+
+**ServiceMax:** 4–8 maanden, afhankelijk van complexiteit van het asset-register en ERP-koppeling
+
+De instaptijd voor het MKB is dus aanzienlijk lager. Fieldly kan in principe binnen een week operationeel zijn.
+
+---
+
+## Veelgemaakte fouten bij de aanschaf van field service software
+
+Na het begeleiden van tientallen implementaties zien we steeds dezelfde fouten. Hier zijn de vijf meest voorkomende.
+
+**Fout 1: Te vroeg kiezen voor enterprise-software**
+
+Een bedrijf met 10 technici heeft geen ClickSoftware nodig. De complexiteit en kosten wegen niet op tegen de functionaliteit die daadwerkelijk gebruikt wordt. Begin met een tool die bij uw huidige schaal past en groei daarna mee.
+
+**Fout 2: De mobiele app niet testen met echte technici**
+
+Kantoorpersoneel dat de app test op een moderne smartphone in een goed verlicht kantoor heeft een heel andere ervaring dan een monteur die met handschoenen aan, op een bouwplaats zonder wifi, zijn werkbon moet invullen. Test de app altijd met de mensen die hem daadwerkelijk gebruiken.
+
+**Fout 3: De koppeling met boekhoudsoftware als bijzaak behandelen**
+
+De koppeling met uw boekhoudpakket is niet een nice-to-have maar de kern van de businesscase. Zonder goede koppeling blijft u handmatig overtypen. Zorg dat de koppeling werkt vóór de go-live, niet erna.
+
+**Fout 4: Onvoldoende data over assets invoeren**
+
+Field service software voor asset management werkt alleen als uw asset-register up-to-date is: welk apparaat staat waar, wat is de installatiedatum, wat is de servicehistorie? Als dit onvolledig is, profiteert u niet van de predictive maintenance- en first-time fix-functies.
+
+**Fout 5: Klantcommunicatie niet activeren**
+
+Automatische updates aan klanten (aankomsttijd, statusmeldingen) zijn een van de meest gewaardeerde functies door klanten. Veel bedrijven zetten dit niet aan bij de implementatie. Dat is een gemiste kans: de klantervaring verbetert direct en de telefonische belasting neemt af.
+
+---
+
+## Sector-specifieke aanbevelingen
+
+### Installatiebedrijven (elektra, sanitair, klimaat)
+
+Installatiebedrijven hebben werkbonnen met veel standaardbewerkingen die terugkomen: cv-ketel inspectie, leidingwerk, elektrische metingen. Field service software moet templating ondersteunen: standaard werkinstructies per opdrachtype die de technicus volgt en afvinkt.
+
+Fieldly en Salesforce FSL ondersteunen templates. De technicus selecteert het opdrachtype en het formulier wordt automatisch gevuld met de relevante checkpunten en verplichte foto's.
+
+Certificaten en garantiedocumenten zijn ook relevant: na een installatie moet de klant een certificaat ontvangen (bijv. NEN 3140 keuringsrapport). Field service apps die certificaat-templates ondersteunen, elimineren de papierenstroom na de klus.
+
+### HVAC-bedrijven (verwarming, ventilatie, koeling)
+
+HVAC heeft een sterk seizoenspatroon: in september en oktober stromen de boiler-onderhoudsmeldingen binnen; in mei en juni de airco-services. Capaciteitsplanning is de uitdaging.
+
+Field service software met bezettingsprognoses (Salesforce FSL, ServiceMax) helpt om de seizoenspiek te managen: op basis van historische werkbondata voorspelt het systeem hoeveel technici er in de piekmaanden nodig zijn. Dat maakt het inhuren van tijdelijke technici op het juiste moment mogelijk.
+
+### Liften en industriële apparatuur
+
+Periodieke onderhoudscontracten zijn de kern van het verdienmodel. Field service software moet ondersteuning bieden voor contractbeheer: welke assets vallen onder welk contract, wat zijn de contractuele onderhoudstermijnen, welke uitvoeringen zijn al gedaan?
+
+ServiceMax is voor dit type bedrijf de sterkste keuze door het uitgebreide asset lifecycle management. Elk apparaat heeft zijn volledige digitale dossier, inclusief alle onderhoudshistorie en technische specificaties.
+
+---
+
+## De ROI van field service software berekenen
+
+Hoe berekent u de business case voor field service software? Hier zijn de concrete besparingsposten.
+
+**Besparing 1: Administratiekosten**
+Bij handmatige werkbonverwerking: 15 minuten per werkbon voor administratie op kantoor.
+Bij 50 werkbonnen per week: 12,5 uur/week × €35/uur = €437,50/week = €22.750/jaar
+
+Met geautomatiseerde verwerking: 2–3 minuten per werkbon.
+Besparing: 80–90% = €18.000–€20.000/jaar
+
+**Besparing 2: Rijkosten door betere routering**
+Gemiddelde besparing door routeoptimalisatie: 15–25% minder kilometers
+Bij 10 technici elk 500 km/week × €0,30/km = €1.500/week
+15% besparing = €225/week = €11.700/jaar
+
+**Besparing 3: Hogere first-time fix rate**
+Een terugkeer (extra rit voor vergeten onderdeel) kost gemiddeld 2 uur extra + rijkosten = €100–€150.
+Als u 3 terugkeervisites per week elimineert: 150 × 3 × 52 = €23.400/jaar
+
+**Totale ROI voor een team van 10 technici (conservatief):**
+- Besparingen: €18.000 + €11.700 + €10.000 = ~€40.000/jaar
+- Kosten Fieldly voor 10 technici: €25 × 10 × 12 = €3.000/jaar
+- **Netto ROI: ~€37.000/jaar**
+
+Deze berekening is conservatief. Bedrijven die ook profiteren van hogere klanttevredenheid (minder klachten, hogere herhaalaankopen) en betere contractretentie, zien een nog hogere ROI.
+
+---
+
+## Conclusie
+
+Field service software is geen luxe meer voor bedrijven met meer dan 5 buitendienstmedewerkers. De ROI is aantoonbaar, de implementatietijd voor het MKB is laag, en de keuze is groot genoeg om voor elke situatie een passende oplossing te vinden.
+
+Voor de Nederlandse markt is Fieldly de duidelijke aanbeveling voor het MKB: Nederlandstalig, snelle implementatie, uitstekende koppelingen met Nederlandse boekhoudsoftware en een prijs die direct zijn rendement oplevert. Bij grotere organisaties of specifieke enterprise-behoeften zijn Salesforce Field Service en ServiceMax de meest volledige opties.

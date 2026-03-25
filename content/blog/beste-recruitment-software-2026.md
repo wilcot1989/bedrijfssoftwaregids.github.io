@@ -394,3 +394,41 @@ De meeste bedrijven die ik adviseer, combineren beide: een ATS voor directe werv
 
 ---
 
+## Kosten vergelijking ATS-systemen
+
+| Tool | Per vacature | Per maand (vaste prijs) | Gratis plan |
+|---|---|---|---|
+| Recruitee | €199/vacature | €269/maand (3 vacatures) | Nee |
+| Homerun | N/A | €89/maand | Nee |
+| Personio | N/A | €99/maand (5 mw) | Nee |
+| Greenhouse | Op aanvraag | Op aanvraag | Nee |
+| Bullhorn | Op aanvraag | Op aanvraag | Nee |
+| Workable | $189/vacature | $189/maand | 15 dagen trial |
+
+Voor bedrijven die minder dan vijf functies per jaar invullen, is een per-vacature prijsmodel (Recruitee, Workable) voordeliger dan een vast maandabonnement. Boven de vijf functies per jaar loont een maandabonnement bij Homerun of Personio.
+
+## Implementatietijdlijn: van Excel naar ATS
+
+**Week 1: Data opschonen en migreren**
+Exporteer je huidige kandidatenlijsten uit Excel of je e-mail en importeer ze in het nieuwe systeem. Zorg dat alle actieve vacatures correct zijn aangemaakt.
+
+**Week 2: Teamtraining**
+Laat alle betrokken recruiters en hiring managers een korte training volgen. De meeste ATS-tools bieden video-tutorials. Stel één intern supergebruiker aan die verantwoordelijk is voor het systeem.
+
+**Week 3: Eerste vacature volledig digitaal doorlopen**
+Publiceer een vacature, ontvang sollicitaties, doorloop het beoordelingsproces en doe een aanbod — alles via het systeem. Noteer wat er stroef loopt.
+
+**Week 4 en verder: Optimaliseren**
+Pas de workflow aan op basis van de eerste ervaringen. Stel automatische herinneringen in voor kandidaatcommunicatie en interview-planning.
+
+## Employer branding: wat je ATS niet kan doen
+
+Een ATS stroomlijnt je wervingsproces, maar trekt niet automatisch betere kandidaten aan. Employer branding doet dat wel:
+
+- **Werkenbij-pagina:** Een goede "Werken bij"-pagina op je eigen website converteert beter dan een vacaturesite. Tools als Homerun zijn hier specifiek voor gebouwd.
+- **Reactiesnelheid:** Kandidaten die binnen 24 uur een reactie krijgen, ervaren je als aantrekkelijkere werkgever — ongeacht je bedrijfsgrootte.
+- **Kandidaatervaring:** Stuur altijd een afwijzingsmail, ook aan kandidaten die de eerste ronde niet halen. Een goede afwijzing wordt onthouden — en kandidaten praten met vrienden.
+- **Glassdoor en LinkedIn:** Monitor je beoordelingen. Eén negatieve Glassdoor-review van een ex-medewerker kan je wervingskosten verhogen.
+
+Recruitee en Homerun bieden specifieke functies voor employer branding, waaronder aanpasbare vacaturepagina's, werknemer-testimonials en integratie met LinkedIn Company Page.
+

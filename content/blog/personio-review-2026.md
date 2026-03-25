@@ -337,4 +337,36 @@ Voor de [HR-softwarecategorie](/categories/hr/) heb ik alle reviews en vergelijk
 
 ---
 
+## Personio in 2026: nieuwe functies
+
+Personio heeft de afgelopen twaalf maanden een aantal relevante updates doorgevoerd:
+
+**Personio Payroll voor meer landen:** Personio breidt zijn payroll-functionaliteit uit, maar Nederland staat vooralsnog niet op de prioriteitslijst voor 2026. De verwachting in de markt is dat dit in 2027 op de roadmap komt, maar officieel is er niets bevestigd.
+
+**AI-functies in de recruiting-module:** Personio heeft AI-gestuurde functies toegevoegd voor het screenen van cv's en het rangschikken van kandidaten. In mijn tests werkt de basisranking redelijk, maar de aanbevelingen zijn nog te generiek om blindelings op te vertrouwen. Nuttig als filters voor het terugdringen van een grote candidate-pool, niet als vervanging voor menselijke beoordeling.
+
+**Verbeterd self-service portaal:** medewerkers kunnen nu via het self-service portaal meer HR-taken zelf afhandelen — van het aanvragen van salariscertificaten tot het bijwerken van bankgegevens. Dat vermindert de administratieve druk op HR.
+
+**Uitgebreide survey-module:** Personio heeft een ingebouwde medewerkerstevredenheids-survey toegevoegd. Simpel maar bruikbaar voor kleinere bedrijven die geen apart engagement-platform willen.
+
+---
+
+## Veelgemaakte fouten bij Personio-implementaties
+
+Na meerdere Personio-trajecten zie ik steeds dezelfde valkuilen:
+
+**Fout 1: Te weinig tijd reserveren voor data-migratie**
+De import van bestaande medewerkersdossiers kost meer tijd dan teams verwachten. Historische data (contracten, loonstroken, functioneringsgesprekken) is zelden in een formaat dat direct importeerbaar is. Reken op twee tot vier weken voor het opschonen en omzetten van data.
+
+**Fout 2: Rechtenstructuur te laat configureren**
+Wie mag wat zien in Personio? Als je dit pas na de live-datum configureert, krijg je privacy-incidenten — medewerkers die elkaars salarisinfo kunnen zien, of managers die dossiers kunnen bewerken die ze niet mogen aanraken. Stel rechten in vóórdat je gebruikers toegang geeft.
+
+**Fout 3: Workflows te complex maken in de eerste fase**
+Personio's workflow-builder verleid je om meteen alles te automatiseren. Ik raad aan: begin met de drie workflows die dagelijks terugkomen (verlofgoedkeuring, ziekmelding, nieuwe medewerker aanmaken), en voeg pas meer toe als het team de basis beheerst.
+
+**Fout 4: Salarisintegratie onderschatten**
+De koppeling met Nmbrs of Loket.nl vereist technische inrichting. Reken hiervoor een aparte sprint van een tot twee weken. Doe het niet op het laatste moment voor de go-live datum.
+
+---
+
 *Dit artikel is geschreven op basis van mijn eigen ervaringen met Personio-implementaties en gesprekken met gebruikers. Ik heb geen betaalde relatie met Personio. Waar affiliate-links staan, staat dit aangegeven.*

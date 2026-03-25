@@ -647,3 +647,26 @@ Loket.nl is de beste keuze voor Nederlandse MKB-bedrijven die hun salarisadminis
 
 [Probeer Loket.nl gratis](https://www.loket.nl){rel="noopener nofollow sponsored" class="cta-affiliate"} — de eerste maand is gratis, geen creditcard vereist.
 
+---
+
+## Veelgemaakte fouten bij Loket.nl
+
+**Fout 1: CAO niet correct instellen bij de start**
+Loket.nl heeft uitgebreide CAO-ondersteuning, maar het vereist correcte initiële configuratie. Als je de verkeerde CAO selecteert of de functieschalen fout koppelt, zijn alle loonberekeningen vanaf dag één incorrect. Neem een uur de tijd bij de setup om de CAO-instellingen te controleren — of schakel een accountant in die Loket kent.
+
+**Fout 2: Verlofmodule niet koppelen aan HoorayHR of Personio**
+Als je naast Loket een HR-tool gebruikt, stel dan de integratie direct in bij de start. Loket werkt native samen met HoorayHR en Nmbrs. Verlofuren die niet automatisch doorgegeven worden, moeten handmatig gecorrigeerd worden — dat ondermijnt precies de tijdsbesparing die je zoekt.
+
+**Fout 3: Medewerkers niet informeren over de loonstrook-app**
+Loket heeft een selfservice-app voor medewerkers om hun loonstroken in te zien. Ik zie werkgevers die dit nooit communiceren naar hun team. Stuur alle medewerkers bij de start een uitnodiging — het bespaart vragen over loonstroken en jaardocumenten.
+
+---
+
+## Loket.nl voor ZZP'ers met personeel
+
+Een specifiek scenario dat ik regelmatig tegenkom: de ZZP'er of kleine ondernemer die zijn eerste medewerker aanneemt. Hoe werkt Loket voor die situatie?
+
+Loket biedt een schaalbaar model dat ook voor één medewerker werkt. De instapprijs is redelijk voor de functionaliteit die je krijgt: volledige CAO-ondersteuning, loonaangiften naar de Belastingdienst, en loonstroken per medewerker.
+
+Wat de meeste kleine werkgevers het meest waarderen: de loonaangifte gaat automatisch naar de Belastingdienst via Loket. Je hoeft zelf niet te berekenen wat je aan loonheffing moet afdragen — dat doet het systeem. Dat neemt een significante administratieve last weg voor ondernemers die voor het eerst personeel aannemen.
+

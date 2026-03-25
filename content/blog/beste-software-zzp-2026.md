@@ -451,3 +451,59 @@ Via Zapier (gratis tot 100 taken/mnd) of Make.com (gratis tot 1.000 operaties/mn
 - **[Kosten berekenen](/tools/productiviteit/keuzehulp/)** — Bereken wat ZZP-software je per maand kost
 - **[Beste Vergadersoftware 2026](/blog/beste-vergadersoftware-2026/)** — Videobellen met klanten en opdrachtgevers
 - **[Beste Afsprakensoftware 2026](/blog/beste-afspraken-software-2026/)** — Efficiënter plannen zonder e-mailheen-en-weer
+
+---
+
+## De ZZP software-stack per fase
+
+Niet elke zelfstandige heeft dezelfde tools nodig. Ik onderscheid drie fasen:
+
+### Fase 1: Net gestart (0-12 maanden, <€50.000 omzet)
+Je hebt minimale tools nodig die snel werken zonder veel configuratie:
+- **Boekhouding:** Jortt of e-Boekhouden (goedkoop, simpel)
+- **Factureren:** Ingebouwd in boekhoudpakket
+- **Urenregistratie:** Clockify (gratis)
+- **Offertes:** Moneybird of simpele Word-template
+
+Totale kosten: €0-€20/maand
+
+### Fase 2: Groeiende praktijk (1-3 jaar, €50.000-€150.000 omzet)
+Nu begin je klanten te herhalen en wil je professioneler overkomen:
+- **Boekhouding:** Moneybird (€24/maand) — sterkste app + online
+- **CRM:** HubSpot Free of Pipedrive (€15/maand)
+- **Offertes:** Offorte of Pandadoc
+- **Projectbeheer:** Notion of Trello (gratis)
+- **E-mailmarketing:** Mailchimp (gratis tot 500 contacten)
+
+Totale kosten: €40-€80/maand
+
+### Fase 3: Gevestigd zelfstandige (3+ jaar, €150.000+ omzet)
+Je focus verschuift naar efficiëntie en schaalbaarheid:
+- **Boekhouding + facturatie:** Exact Online of AFAS Personal
+- **CRM:** HubSpot Starter of Salesforce Essentials
+- **Projectmanagement:** ClickUp of Asana
+- **Digitaal ondertekenen:** Precisley of DocuSign
+- **Marketing automation:** ActiveCampaign of Mailchimp Standard
+
+Totale kosten: €150-€300/maand
+
+## Kosten vergelijking: meest populaire ZZP-combos
+
+| Combinatie | Maandelijkse kosten | Geschikt voor |
+|---|---|---|
+| Jortt + Clockify | €20/maand | Starters, simpele administratie |
+| Moneybird + HubSpot Free | €24/maand | Groeiende freelancers |
+| Moneybird + Pipedrive + Offorte | €64/maand | Actieve verkopers, meerdere klanten |
+| Exact Online + HubSpot Starter | €90/maand | Gevestigde zelfstandigen |
+| Moneybird + Asana + Calendly | €55/maand | Projectmatig werkende ZZP'ers |
+
+## Fiscale aandachtspunten bij ZZP-software
+
+**Urencriterium en administratie**
+De Belastingdienst eist dat je als zelfstandige minimaal 1.225 uur per jaar aan je onderneming besteedt om recht te hebben op de zelfstandigenaftrek (€5.030 in 2026). Software die je uren automatisch bijhoudt — zoals Moneybird, Clockify of Harvest — geeft je direct bewijs voor de Belastingdienst.
+
+**BTW-aangifte automatiseren**
+De meeste boekhoudpakketten kunnen je BTW-aangifte automatisch berekenen en indienen via de NLPORTAL-koppeling. Moneybird en Exact Online doen dit volledig automatisch. Dit bespaart je elk kwartaal een uur aan handmatig werk en vermindert het risico op fouten.
+
+**Rittenadministratie**
+Als je zakelijke kilometers rijdt, heb je recht op €0,23/km belastingvrij (2026). Apps als Mileage Log, TripLog of de ingebouwde kilometerregistratie van Jortt houden dit automatisch bij via GPS. Zonder goede rittenadministratie loop je aftrekposten mis.

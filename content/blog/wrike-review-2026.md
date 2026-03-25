@@ -422,3 +422,26 @@ Ja, Wrike biedt een gratis plan voor maximaal 5 gebruikers. Je krijgt onbeperkte
 ### Welke Wrike-integraties zijn er beschikbaar?
 
 Wrike biedt 400+ native integraties, waaronder Salesforce, HubSpot, Microsoft Teams, Slack, Google Workspace, Adobe Creative Cloud, Zoom en Jira. De Adobe Creative Cloud-integratie is uniek: designers kunnen rechtstreeks vanuit Photoshop of Illustrator taken updaten en bestanden indienen voor goedkeuring.
+
+---
+
+## Veelgemaakte fouten bij Wrike
+
+**Fout 1: Te complexe mappenstructuur opzetten**
+Wrike biedt veel vrijheid in het opbouwen van mappen en projecten, wat leidt tot overcomplicatie bij nieuwe gebruikers. Een mappenstructuur van vijf lagen diep wordt onbeheersbaar. Houd het simpel: maximaal drie niveaus (Ruimte > Map > Project), en voeg alleen diepte toe als de workflow het vereist.
+
+**Fout 2: De Blueprint-functie niet gebruiken**
+Wrike's Blueprints (herbruikbare project-templates) zijn een van de meest tijdbesparende functies, maar worden door veel teams pas ontdekt na weken van handmatig dezelfde projectstructuur opzetten. Maak voor elk terugkerend projecttype een Blueprint aan in de eerste week.
+
+**Fout 3: Resource management pas inzetten bij knelpunten**
+De resource management-module is het meest waardevol als preventief instrument — niet als crisismanagement. Wacht niet tot een teamlid overbelast is. Gebruik de werkbelastingweergave wekelijks om te zien wie wat heeft.
+
+---
+
+## Wrike voor marketingteams: de praktijk
+
+Wrike positioneert zich actief als platform voor marketingteams. Mijn ervaringen bij een marketingbureau met acht personen:
+
+De proofing en approval-workflows zijn voor marketingteams het meest waardevolle onderdeel. Clients kunnen content reviewen en goedkeuren direct in Wrike, zonder dat ze een account hoeven aan te maken. Dat vervangt eindeloze e-mailthreads van "versie_definitief_def2_OK.pdf". De tijdsbesparing per goedkeuringscyclus was bij mijn klant aanzienlijk — gemiddeld twee uur minder per week per accountmanager.
+
+De @mentions en inlinecommentaren op bestanden houden alle feedback in de juiste context. Drie maanden na implementatie waren de e-mails over feedback met 60% gedaald.

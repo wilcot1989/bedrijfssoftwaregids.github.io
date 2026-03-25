@@ -164,6 +164,23 @@ Goede HR-software lost dit op door de leidinggevende automatisch te notificeren 
 
 Investeer ook in een korte training voor leidinggevenden over de WvP en de rol die zij daarin spelen. Een uur training bespaart potentieel tienduizenden euro's aan loonsancties. Dat is een eenvoudig business case.
 
+## Wat je minimaal moet bijhouden: een overzicht
+
+Als samenvatting: dit zijn de verplichte registraties op een rij voor elk bedrijf met medewerkers in loondienst.
+
+| Moment | Actie | Wettelijke grondslag |
+|---|---|---|
+| Dag 1 ziekte | Ziekmelding registreren, contact opnemen | WvP art. 7 |
+| Week 6 | Probleemanalyse bedrijfsarts | WvP art. 14 |
+| Week 8 | Plan van aanpak opstellen en ondertekenen | WvP art. 7a |
+| Week 42 | Ziekmelding bij UWV | Ziektewet |
+| Week 52 | Eerste jaarsevaluatie re-integratie | WvP art. 7a |
+| Week 87 | WIA-aanvraag indienen bij UWV | WIA art. 64 |
+
+Elk van deze stappen moet gedocumenteerd zijn in het re-integratiedossier. HR-software met WvP-module genereert automatisch de juiste alerts en slaat de bevestigingen op. Dat is precies wat je nodig hebt als het UWV of een rechter het dossier opvraagt.
+
+---
+
 ## Lees ook
 
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — HR software met verzuimregistratie vergeleken

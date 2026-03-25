@@ -422,4 +422,39 @@ Bekijk ook mijn andere artikelen in de categorie [kassasystemen](/categories/kas
 
 ---
 
+## Veelgemaakte fouten bij Lightspeed-implementaties
+
+Na meerdere Lightspeed-implementaties bij horecazaken en retailers kom ik steeds dezelfde fouten tegen:
+
+**Fout 1: Hardware niet vóór opening bestellen**
+Lightspeed werkt met specifieke hardware — iPads, bondprinters, kassaladen. Levertijden kunnen oplopen tot twee weken. Bestel hardware vier tot zes weken voor opening; niet twee weken van tevoren.
+
+**Fout 2: Menu of productcatalogus pas op dag één invoeren**
+Bij horeca: voer je volledige menu in (inclusief ingrediënten voor allergenenbeheer) minstens één week voor opening. Test alle modificaties en combos. Bij retail: importeer je productcatalogus via CSV en controleer alle streepjescodes vóór je open gaat.
+
+**Fout 3: Bezorgplatformkoppeling niet testen**
+Als je Thuisbezorgd of Uber Eats koppelt, test dan de volledige flow (van bestelling tot keukendisplay) minstens drie dagen voor opening. Koppelingen via Deliverect hebben eigen inrichting nodig.
+
+**Fout 4: Offline-gedrag niet kennen**
+Lightspeed werkt primair online. Weet vóór je open gaat precies wat er gebeurt als je verbinding wegvalt: wat werkt nog, wat niet. Dit voorkomt paniek bij een verbindingsprobleem tijdens een drukke zaterdagavond.
+
+---
+
+## Lightspeed vs. CCV Shop: welke voor online verkoop?
+
+Een vraag die ik regelmatig krijg van retailers die zowel een fysieke winkel als een webshop willen: Lightspeed eCom of CCV Shop?
+
+| Criterium | Lightspeed eCom | CCV Shop |
+|---|---|---|
+| **Kassa-integratie** | Native (zelfde platform) | Via koppeling |
+| **Voorraadbeheer kassa + online** | Volledig gesynchroniseerd | Via koppeling |
+| **SEO-functies webshop** | Basis | Goed |
+| **Webshop-design opties** | Redelijk | Uitgebreid |
+| **Startprijs** | Onderdeel Lightspeed-plan | Vanaf €19/mnd |
+| **Beste voor** | Retailer die kassa centraal stelt | Webshop die ook kassaoptie wil |
+
+Als de kassafunctie het hart van je bedrijf is en je webshop een aanvulling, kies dan Lightspeed eCom. Als je primair een webshop bent met een fysiek verkooppunt als aanvulling, is CCV Shop vaak een betere keuze.
+
+---
+
 ## Veelgestelde vragen over Lightspeed

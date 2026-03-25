@@ -213,3 +213,15 @@ Een medewerker die zijn contract van vijf jaar geleden niet meer kan vinden en c
 De tijdsinvestering voor een basale digitalisering bij een bedrijf met 10 medewerkers is realistisch één tot twee werkdagen. Dat is minder dan de tijd die één juridisch geschil over dossierinhoud kost.
 
 Gebruik de [HR-software keuzehulp](/tools/hr-software/keuzehulp/) om te zien welk systeem past bij jouw organisatie. Bereken ook de [HR-software kosten](/tools/hr-software/kosten-berekenen/) voor jouw bedrijfsgrootte om te zien wat een goed HR-systeem je per maand kost.
+
+## Drie praktische stappen om morgen te beginnen
+
+Veel ondernemers weten dat ze aan de slag moeten met hun personeelsdossiers, maar weten niet waar ze beginnen. Dit zijn drie concrete stappen die je morgen kunt zetten, zonder dat je een groot project hoeft te starten.
+
+**Stap 1: maak een inventaris van wat je hebt.** Ga na hoeveel papieren dossiers je hebt, waar ze liggen, en of er ook digitale bestanden zijn (e-mails, PDF-bestanden, scan-mappen). Dit duurt voor de meeste MKB-bedrijven een uur en geeft je een helder startpunt.
+
+**Stap 2: start een proefperiode bij één HR-softwareleverancier.** Kies een systeem dat speciaal geschikt is voor jouw bedrijfsgrootte — voor vijf tot vijftien medewerkers zijn Personio Starter of HR Manager goede opties. Voer twee of drie dossiers handmatig in tijdens de proefperiode. Zo leer je de software kennen én heb je direct resultaat.
+
+**Stap 3: stel de bewaartermijnen in voor de meest gevoelige documenten.** Arbeidscontracten en loonstroken staan bovenaan. Stel een herinnering in voor het jaar van uitdiensttreding plus twee jaar (voor contracten) of zeven jaar (voor financiële documenten). De meeste HR-platformen ondersteunen dit met automatische archiveringswaarschuwingen.
+
+Drie stappen, realistische tijdsinvestering van een halve dag. Na die halve dag sta je er een stuk beter voor dan 80% van de vergelijkbare MKB-bedrijven in Nederland.

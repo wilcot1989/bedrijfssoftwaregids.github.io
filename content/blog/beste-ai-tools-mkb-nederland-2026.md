@@ -649,3 +649,54 @@ Exact Online, Moneybird en Twinfield hebben ingebouwde AI voor categorisering en
 
 **Hoe implementeer ik AI in mijn bedrijf zonder IT-afdeling?**
 Start klein: geef vijf medewerkers ChatGPT Team en drie concrete use cases. Evalueer na twee weken. De meeste AI-tools werken volledig via de browser — geen installatie of IT nodig.
+
+---
+
+## AI-tools per afdeling: concrete use cases
+
+### Marketing en communicatie
+- **Contentcreatie:** ChatGPT of Claude voor blogposts, social media teksten, nieuwsbrieven
+- **SEO-optimalisatie:** ChatGPT + Semrush AI voor zoekwoordenanalyse en meta-descriptions
+- **Afbeeldingen:** DALL-E 3 (ingebouwd in ChatGPT Plus) of Midjourney voor campagnebeelden
+
+### Verkoop en CRM
+- **E-mailpersonalisatie:** HubSpot AI schrijft gepersonaliseerde follow-up e-mails op basis van CRM-data
+- **Vergaderingen samenvatten:** Otter.ai of Fireflies.ai transcribeert salesgesprekken en extraheert actiepunten
+- **Leadscoring:** Salesforce Einstein of HubSpot AI prioriteert leads automatisch
+
+### Klantenservice
+- **Chatbots:** Tidio AI of Freshchat AI beantwoordt veelgestelde vragen 24/7
+- **Ticket-routing:** Zendesk AI stuurt tickets automatisch naar de juiste afdeling
+- **Antwoordsuggesties:** Freshdesk Freddy AI suggereert antwoorden op basis van kennisbank
+
+### Finance en boekhouding
+- **Factuurherkenning:** Moneybird, Exact Online en Twinfield herkennen bonnetjes en facturen automatisch
+- **Anomaliedetectie:** AI herkent ongebruikelijke transacties die handmatige controle verdienen
+- **Cashflow-voorspelling:** Float of Dryrun voorspelt je cashflow op basis van historische data
+
+### HR en recruitment
+- **Vacatureteksten:** ChatGPT schrijft inclusieve vacatureteksten in minuten
+- **CV-screening:** Homerun AI of Recruitee sorteert CV's op relevantie
+- **Onboarding-materiaal:** Notion AI of Guru AI helpt bij het schrijven van procedures
+
+## Kosten vergelijking AI-tools
+
+| Tool | Gratis plan | Business plan | Enterprise |
+|---|---|---|---|
+| ChatGPT | GPT-4o-mini gratis | $30/user/mnd (Team) | Op aanvraag |
+| Claude | Beperkt gratis | $20/user/mnd (Pro) | Op aanvraag |
+| Microsoft Copilot | Via M365 gratis (beperkt) | €30/user/mnd (M365 Copilot) | Op aanvraag |
+| Google Gemini | Gratis (Gemini 1.5 Flash) | €22/user/mnd (Workspace AI) | Op aanvraag |
+| Jasper | Nee | €49/user/mnd | Op aanvraag |
+
+**Beste startpunt:** ChatGPT Team ($30/user/maand) biedt de beste prijs-kwaliteitverhouding voor de meeste MKB-bedrijven. Je krijgt GPT-4o, hogere limieten, een gedeelde werkruimte en geen gebruik van data voor training. Voor Microsoft-omgevingen is Copilot M365 de logische uitbreiding.
+
+## AVG en AI: wat je moet weten als MKB
+
+**Wat nooit mag:** Persoonsgegevens (naam, BSN, adres, medische data) van klanten of medewerkers invoeren in publieke AI-tools. Dit is een AVG-overtreding.
+
+**Wat wel mag:** Geanonimiseerde data gebruiken. "Een klant in de logistiek met 50 medewerkers heeft dit probleem" — zonder naam of bedrijfsnaam.
+
+**Veilige alternatieven:** ChatGPT Enterprise, Microsoft Azure OpenAI en Copilot M365 bieden AVG-garanties en verwerken geen data voor modeltraining. Dit zijn de juiste keuzes als je met klantdata wil werken.
+
+**Praktische aanpak:** Stel een AI-gebruiksbeleid op voordat je AI uitrolt. Één A4 met wat wel en niet mag is voldoende voor een MKB-bedrijf.

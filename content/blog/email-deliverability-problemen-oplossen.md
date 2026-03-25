@@ -149,6 +149,74 @@ Een volledig overzicht van e-mailmarketingtools voor jouw situatie vind je op de
 
 ## Lees ook
 
+## Stappenplan: deliverability problemen diagnosticeren en oplossen
+
+Als je open rates dalen of berichten in spam belanden, is dit het stappenplan dat ik bij klanten gebruik. Van diagnose naar oplossing in vier stappen.
+
+### Stap 1: Technische check (15 minuten)
+
+Ga naar MXToolbox, Mail-Tester of de ingebouwde authenticatiecheck van je platform. Controleer:
+- Is de SPF-record correct ingesteld? Er mag maar één SPF-record per domein zijn.
+- Is DKIM ingesteld voor het verzenddomein van je platform?
+- Is er een DMARC-policy actief? Minimaal "p=none" voor monitoring.
+
+Als een van deze drie ontbreekt of fout is geconfigureerd, fix dat eerst. Dit lost bij tachtig procent van de gevallen de ergste problemen op.
+
+### Stap 2: Lijstanalyse (30 minuten)
+
+Exporteer je lijst en analyseer:
+- Hoeveel procent heeft de afgelopen 3 maanden geopend?
+- Hoeveel procent heeft de afgelopen 6 maanden niets geopend?
+- Wat is het bouncepercentage over de laatste drie campagnes?
+
+Als meer dan 30% inactief is (niet geopend in 6 maanden), heb je een lijsthygiëne-probleem. Als het bouncepercentage boven de 2% ligt, is er een data-kwaliteitsprobleem.
+
+### Stap 3: Segmenteer en verzend slim (week 1-2)
+
+Stuur de volgende twee campagnes alleen naar de meest actieve 25% van je lijst (geopend of geklikt in de afgelopen 3 maanden). Dit verhoogt de engagement-statistieken van de verzending en verbetert de reputatie van je verzenddomein.
+
+Stuur tegelijkertijd een reactiveringsmail naar de inactieve groep. Een directe vraag werkt het best: "Wil je onze updates blijven ontvangen? Klik hier om dat te bevestigen." Wie niet reageert binnen twee weken, verwijder je van de actieve lijst.
+
+### Stap 4: Monitor en evalueer (doorlopend)
+
+Na twee weken kijk je opnieuw naar de statistieken. Is het openpercentage gestegen? Dan werkt de segmentatie. Is het bouncepercentage gedaald? Dan werkt de lijstopschoning.
+
+Als de cijfers na een maand niet verbeteren ondanks correcte technische configuratie en opgeschoonde lijst, is het platform zelf het probleem. Dan is de stap naar een alternatief gerechtvaardigd.
+
+---
+
+## Deliverability-benchmarks voor Nederlandse bedrijven
+
+Wat zijn realistische doelstellingen? Hier zijn de benchmarks die ik gebruik bij mijn klanten.
+
+| Metric | Slecht | Acceptabel | Goed | Uitstekend |
+|---|---|---|---|---|
+| **Open rate** | <15% | 15-25% | 25-40% | >40% |
+| **Click rate** | <1% | 1-3% | 3-6% | >6% |
+| **Bouncepercentage** | >3% | 1-3% | 0,5-1% | <0,5% |
+| **Spammeldingrate** | >0,3% | 0,1-0,3% | <0,1% | <0,05% |
+| **Uitschrijfrate** | >0,5% | 0,2-0,5% | 0,1-0,2% | <0,1% |
+
+*Noot: Open rates zijn door Apple Mail Privacy Protection structureel hoger dan voor 2021. Gebruik click rates als betrouwbaardere metric voor engagement.*
+
+Een open rate boven de 40% klinkt hoog, maar is haalbaar voor segmenten met een hoge relevantie en opgebouwde relatie — bijv. bestaande klanten of actieve community-leden. Broadcast naar een koude lijst levert doorgaans lagere percentages op.
+
+---
+
+## De meest voorkomende technische fouten per platform
+
+Elk e-mailmarketingplatform heeft zijn eigen aandachtspunten bij de technische configuratie.
+
+**Mailchimp:** Standaard gebruikt Mailchimp gedeelde domeinen voor SPF. Voor betere deliverability activeer je "Custom Authentication" met je eigen domein. Dat vraagt een aanpassing in je DNS. Niet standaard ingeschakeld, maar sterk aanbevolen.
+
+**Brevo:** Brevo vereist bij aanmelding een domeinverificatie via DKIM. Die stap is verplicht maar wordt door sommige gebruikers overgeslagen bij de initiële setup. Controleer in je Brevo-instellingen onder Senders of je domein "geauthenticeerd" staat.
+
+**ActiveCampaign:** ActiveCampaign biedt standaard gedeelde IP's op instapplannen. Op hogere plannen is een dedicated IP beschikbaar. Bij een lijst boven de 50.000 contacten is dat de moeite van het overwegen waard.
+
+**HubSpot:** HubSpot genereert automatisch DKIM-records per portaldomein. Controleer in het HubSpot-dashboard onder Marketing → Email → Settings of het verzenddomein correct is geverifieerd.
+
+---
+
 - [Beste email marketing software 2026](/blog/beste-email-marketing-software-2026/) — welk platform heeft de beste deliverability?
 
 Wil je direct marketingsoftware vergelijken? Gebruik de [marketing keuzehulp](/tools/marketing/keuzehulp/). Bereken ook de [marketing software kosten](/tools/marketing/kosten-berekenen/) voor jouw lijstgrootte om te zien wat een goed e-mailplatform je per maand kost.

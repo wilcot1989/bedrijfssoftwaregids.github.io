@@ -426,3 +426,30 @@ Ja, Teamwork biedt een Gantt-chart met taakafhankelijkheden, milestones en een t
 ### Welke integraties heeft Teamwork?
 
 Teamwork integreert met 100+ tools, waaronder Slack, HubSpot, Salesforce, QuickBooks, Xero, Google Workspace, Microsoft 365, Dropbox, Harvest, Zapier en Stripe. De QuickBooks- en Xero-integraties zijn bijzonder waardevol voor bureaus die facturatie willen koppelen aan hun boekhouding.
+
+---
+
+## Veelgemaakte fouten bij Teamwork
+
+**Fout 1: Klantcontacten niet vanaf het begin uitnodigen**
+De kracht van Teamwork voor bureaus zit in de klantcollaboratie. Veel bureaus wachten maanden voordat ze klanten uitnodigen in het systeem. Daardoor lopen interne communicatie en klantcommunicatie uit de pas. Nodig klanten bij het eerste project meteen uit — de adoptie is snel, en de e-mailreductie direct merkbaar.
+
+**Fout 2: Tijdregistratie niet consequent invullen**
+De facturatie-module werkt alleen goed als de tijdregistratie volledig is. Geef je team duidelijke afspraken: uren registreer je dezelfde dag, altijd gekoppeld aan een taak. Wekelijkse controle van niet-geregistreerde uren door de projectmanager houdt de data compleet.
+
+**Fout 3: Budgetbewaking pas inschakelen als het al te laat is**
+Teamwork's budgetbewaking laat je instellen bij hoeveel procent verbruikt je een waarschuwing wil ontvangen. Stel dit altijd in bij projecten met vaste prijs. Als je wacht tot het project al over het budget is, is de waarschuwing nutteloos.
+
+---
+
+## Teamwork in de praktijk: een agency van acht personen
+
+Ik begeleidde een communicatiebureau van acht personen bij de Teamwork-implementatie. Ze kwamen van een combinatie van Trello, Harvest en e-mail. De pijnpunten: klanten die via e-mail feedback gaven die verloren ging, tijdregistratie die niet klopte met de gefactureerde uren, en projectmanagers die altijd handmatig moesten samenvoegen.
+
+Na twaalf weken Teamwork:
+- Klantfeedback via het Teamwork-portaal, geen losse e-mails meer
+- Tijdregistratie 95% compleet (van ~70% met Harvest)
+- Facturatiecyclus per project teruggebracht van twee uur naar 25 minuten
+- Projectmanager besteedde 4 uur per week minder aan statusupdates
+
+De adoptie was soepeler dan verwacht, met name omdat klanten het portaal intuïtief vonden. "Beter dan e-mail" was de meest gehoorde reactie.

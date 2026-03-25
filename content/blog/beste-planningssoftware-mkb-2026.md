@@ -533,3 +533,70 @@ Een cloudgebaseerd pakket zoals Shiftbase of Planday is doorgaans binnen één t
 ---
 
 *Gebruik de [productiviteitskeuzehulp](/tools/productiviteit/keuzehulp/) om snel te zien welke planningssoftware bij jouw bedrijfsgrootte en sector past. Bekijk ook de [productiviteitscategorie](/categories/productiviteit/) voor meer vergelijkingen van software voor het MKB.*
+
+---
+
+## Diepere analyse: welke planningsfunctie levert de meeste ROI?
+
+Planningssoftware heeft meerdere functies — roosterplanning, tijdregistratie, verlofbeheer, prognoses. Niet alle functies hebben dezelfde ROI. Hier is een eerlijke analyse.
+
+### Roosterplanning: de basisROI
+
+De besparing op roosterplanning is direct meetbaar: minder uren handmatig plannen. Voor een team van 20 medewerkers met variabele diensten is de besparing al snel 2-3 uur per week. Bij een uurkostprijs van €35-€50 is dat €3.500-€7.800 per jaar.
+
+### Automatische loonadministratie-koppeling: de grootste ROI-driver
+
+De koppeling tussen planningssoftware en salarisadministratie is vaak de grootste ROI-driver. Handmatige verwerking van gewerkte uren inclusief toeslagen (avond, nacht, weekend, overwerk) kost gemiddeld 3-6 uur per loonperiode. Met automatische koppeling daalt dit naar 15-30 minuten.
+
+Bij 26 loonperiodes per jaar (tweewekelijks): 3 uur × 26 × €50 = €3.900 per jaar bespaard.
+
+Bovendien elimineert automatische koppeling fouten in de loonadministratie — fouten die altijd extra kosten om te corrigeren.
+
+### Prognose-gestuurde bezetting: de meest onderschatte ROI
+
+Bezetting afstemmen op werkelijke vraag — via prognoses op basis van historische data, omzetcijfers of bezoekersverwachting — levert structureel 5-15% lagere personeelskosten.
+
+Voor een bedrijf met €500.000 personeelskosten: 8% efficiëntieverbetering = €40.000 besparing. Dat is significant meer dan de jaarlijkse kosten van de software.
+
+---
+
+## Planningssoftware voor projecten versus diensten
+
+Er is een belangrijk onderscheid tussen planningssoftware voor **diensten** (wie werkt wanneer) en **projecten** (wie werkt aan wat). De tools in dit artikel richten zich op dienstrooster-planning. Projectplanning is een andere categorie.
+
+**Dienstrooster-planning (dit artikel):** Shiftbase, Dyflexis, Planday, Deputy — voor bedrijven met variabele diensten en personeel per uur.
+
+**Projectplanning:** ClickUp, Asana, Monday.com, MS Project — voor bedrijven die werken in projecten met taken en afhankelijkheden.
+
+Sommige bedrijven hebben beide nodig: een aannemer plant zijn diensten via Shiftbase maar zijn projecten via MS Project. De meeste tools bieden geen goede ondersteuning voor beide tegelijkertijd.
+
+---
+
+## Praktische tips voor een succesvolle implementatie
+
+### Medewerkers betrekken bij de keuze
+
+Een planningssysteem dat medewerkers niet gebruiken, heeft geen waarde. Betrek 2-3 medewerkers bij de demo-ronde. Ze gebruiken het dagelijks en zien snel wat wel en niet werkt.
+
+### Begin met één team
+
+Implementeer eerst voor één team of afdeling. Verzamel feedback na 3-4 weken en pas de configuratie aan. Rol daarna uit naar de rest van de organisatie.
+
+### Stel direct de koppeling in met salarissoftware
+
+De neiging bestaat om de salariskoppeling later te doen. Doe het niet: richt de koppeling in vóór de eerste live-gang. De eerste loonrun met het nieuwe systeem is het moment waarop fouten het meest pijn doen.
+
+### Maak gebruik van proefperiodes
+
+Alle tools in dit overzicht bieden proefperiodes van 14-30 dagen. Test minimaal twee tools parallel met uw eigen medewerkers en data. Geen vergelijking vervangt de ervaring van daadwerkelijk gebruik.
+
+---
+
+## Conclusie: mijn definitieve rangschikking voor het Nederlandse MKB
+
+1. **Shiftbase** — Beste alles-in-één voor de Nederlandse markt. WAB-compliant, sterke salariskoppelingen, uitstekende app.
+2. **Dyflexis** — Beste voor horeca en retail met kassasynckoppeling en omzetprognoses.
+3. **Planday** — Beste voor multi-locatie en bedrijven die Xero gebruiken voor boekhouding.
+4. **Quinyx** — Beste voor grotere organisaties (50+ medewerkers) die AI-prognoses willen.
+5. **Deputy** — Beste voor internationale teams en open API-behoeften.
+6. **Werktijden.nl** — Beste betaalbare basisoptie voor kleine teams.

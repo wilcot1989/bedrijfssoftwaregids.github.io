@@ -558,3 +558,41 @@ Route4Me is hier het sterkst met zijn dynamische herplanningsfunctie. OptimoRout
 ### Wat is de minimale vlootgrootte waarvoor routeplanning-software lonend is?
 
 Zelfs voor één chauffeur met dagelijks meer dan tien stops is routeplanning-software al rendabel. PlannerStack is betaalbaar genoeg voor kleine operaties. Bij minder dan tien stops per dag en weinig tijdvenster-beperkingen kan Google Maps nog volstaan, maar zodra de route complexer wordt, betaalt software zichzelf terug.
+
+---
+
+## Kosten vergelijking routeplanning software
+
+| Tool | Gratis plan | Per maand | Per driver/maand |
+|---|---|---|---|
+| Google Maps | Gratis (API na limiet betaald) | Gratis voor basis | N/A |
+| OptimoRoute | Nee (trial) | $35/driver | $35 |
+| Route4Me | Nee | $40/driver | $40 |
+| TomTom Business | Nee | Op aanvraag | Op aanvraag |
+| PlannerStack | Nee | €15/driver | €15 |
+| Routific | Nee | $49/driver | $49 |
+
+**Terugverdientijd berekening:**
+Bij 2 chauffeurs, €35/driver/maand = €70/maand kosten. Als de software per chauffeur één rit per dag bespaart (30 minuten × 200 werkdagen = 100 uur/jaar × €30/uur = €3.000/jaar), is de terugverdientijd minder dan één maand.
+
+## Sector-specifieke aandachtspunten
+
+**Bezorgdiensten en last-mile delivery**
+Tijdvensterbeheer is hier het meest waardevol — klanten zijn thuis tussen 9:00-12:00, daarna niet meer. Route4Me en OptimoRoute hebben de sterkste tijdvenster-optimalisatie. Koppel ook met je webshop voor automatische importatie van nieuwe bezorgadressen.
+
+**Thuiszorg en zorgverlening**
+Bijzonder in de zorg: dezelfde medewerker moet bij dezelfde patiënt komen (continuïteit van zorg). Dit is een "zacht tijdvenster" met medewerkersvoorkeur — niet alle routeplanners ondersteunen dit. TomTom Business en OptimoRoute hebben hier de meeste flexibiliteit.
+
+**Technische dienstverlening en onderhoud**
+Urgentie-prioritering is hier belangrijk: een spoedoproep moet direct worden ingepland terwijl geplande onderhoudsstops worden herordend. Route4Me's dynamische herplanning is voor dit scenario het meest geschikt.
+
+**Groothandel en distributie**
+Grote volumes per stop en voertuigcapaciteitslimieten (gewicht, volume) zijn de sleutelparameters. OptimoRoute en Routific ondersteunen capaciteitsplanning het meest volledig.
+
+## Implementatietips
+
+**Begin met historische data**
+Importeer je historische stop-data van de afgelopen maand als test. Laat de software de route optimaliseren en vergelijk met wat je chauffeurs normaal rijden. Het verschil geeft je een eerlijk beeld van de besparing die mogelijk is.
+
+**Laat chauffeurs meedenken**
+Chauffeurs kennen de praktijk: welke locaties zijn moeilijk te vinden, waar is parkeren lastig, welke klanten willen altijd 's ochtends komen. Stel de software in samenwerking met chauffeurs in — niet als iets dat hen wordt opgelegd.

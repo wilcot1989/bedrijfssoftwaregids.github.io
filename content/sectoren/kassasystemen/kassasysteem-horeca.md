@@ -266,6 +266,14 @@ Horeca die ook online bestellingen of cadeaubonnen verkoopt, heeft baat bij mark
 
 Lees ook het artikel [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/) voor een stapsgewijze handleiding. Het artikel [fiscale eisen kassasysteem 2026](/blog/fiscale-eisen-kassasysteem-2026/) legt uit wat de Belastingdienst van je verwacht.
 
+## Kassasysteem en personeelskosten bewaken
+
+In de horeca zijn personeelskosten gemiddeld 30-35% van de omzet. Kassasystemen die omzet per medewerker registreren, geven je een directe koppeling tussen bezetting en productiviteit. Lightspeed Restaurant heeft de meest uitgebreide medewerker-omzetrapportages: per dag, per dienst en per tafelnummer zie je wie welke omzet heeft gegenereerd.
+
+Square for Restaurants registreert ook per medewerker, maar de rapportages zijn minder gedetailleerd. Dat is voldoende voor een klein restaurant; voor een groter restaurant met meerdere secties heb je de rapportagediepte van Lightspeed nodig.
+
+Koppel je kassasysteem aan je roostersoftware (Shiftbase, Loket.nl) voor het meest complete beeld: je ziet dan niet alleen de omzet per medewerker, maar ook de loonkosten van die dienst. Dat geeft je een directe winstgevendheidsindicator per dienst per medewerker — de basis voor betere personeelsplanning.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

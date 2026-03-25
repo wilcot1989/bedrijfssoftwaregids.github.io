@@ -367,6 +367,36 @@ Als ik het moet samenvatten in een score:
 
 Mijn advies: **vraag een demo aan en test het systeem minimaal twee weken voordat je een beslissing neemt.** Gebruik die periode om je belangrijkste workflows door te lopen: bestellingen, afrekenen, voorraadbeheer, rapportages. En reken de totale maandkosten door -- inclusief Deliverect, hardware en transactiekosten. Dan weet je precies of Lightspeed de investering waard is voor jouw zaak.
 
+## Veelgemaakte fouten bij Lightspeed Kassa
+
+**Fout 1: De totale kosten onderschatten**
+De instapprijs van €79 per maand klinkt redelijk, maar de meeste zaken betalen meer. Deliverect voor bezorgintegraties kost extra, een extra kassapunt kost extra, en modules als geavanceerd voorraadbeheer of loyaliteitsprogramma's worden apart aangerekend. Stel een realistisch budget op voordat je tekent: voor een doorsnee horecazaak kom je al snel uit op €130 tot €180 per maand.
+
+**Fout 2: Hardware-compatibiliteit niet checken**
+Lightspeed werkt op iPad, maar niet elke iPad is geschikt. Klanten die een oude iPad Air (1e of 2e generatie) willen hergebruiken, lopen vast. Check de compatibiliteitslijst op de Lightspeed-website voordat je hardware koopt of hergebruikt.
+
+**Fout 3: De offline modus niet testen**
+Lightspeed heeft een offline modus, maar die heeft beperkingen: pinbetalingen werken niet, en sommige rapportages zijn beperkt. Ik zie zaken dit pas ontdekken als het systeem uitvalt tijdens een drukke avond. Test de offline modus bewust voor je opengaat en weet welke workarounds je hebt.
+
+**Fout 4: Rapportages niet gebruiken**
+Lightspeed heeft uitstekende omzetrapportages per productcategorie, per medewerker en per tijdsperiode. De meeste ondernemers kijken alleen naar de dagomzet. Gebruik de wekelijkse rapportage om je populairste producten te identificeren en je menu of assortiment te optimaliseren — dat heeft directe invloed op je marge.
+
+## Lightspeed Kassa vs. Orderbird: directe vergelijking voor horeca
+
+Als je twijfelt tussen Lightspeed en Orderbird, helpt deze vergelijking:
+
+| Criterium | Lightspeed Restaurant | Orderbird |
+|---|---|---|
+| Startprijs | €79/mnd | €49/mnd |
+| Bezorgintegraties | Thuisbezorgd, Uber Eats, Deliveroo | Via Orderbird marketplace |
+| Offline modus | Ja (beperkt) | Ja (beperkt) |
+| Voorraadbeheer | Uitgebreid | Basis |
+| Meerdere locaties | Ja | Ja (duurder) |
+| Nederlandse support | Ja | Ja |
+| Beste voor | Horeca met bezorg + meerdere locaties | Kleine cafes en restaurants |
+
+Orderbird is goedkoper en eenvoudiger voor kleinere zaken. Lightspeed loont wanneer je bezorgplatforms koppelt, meerdere locaties beheert, of serieus voorraadbeheer nodig hebt.
+
 <a href="https://www.lightspeedhq.nl/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar lightspeedhq.nl →</a>
 
 

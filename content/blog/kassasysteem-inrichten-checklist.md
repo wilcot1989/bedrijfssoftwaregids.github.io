@@ -237,6 +237,22 @@ Een overzicht van alle kassasysteem vergelijkingen en reviews vind je op de [kas
 
 ---
 
+## Veelgestelde vragen na de opening
+
+Na de eerste maand gebruik zie ik bij klanten steeds dezelfde vragen terugkomen. Hier zijn de meest gestelde.
+
+**Kan ik achteraf nog artikelen toevoegen zonder de kassainrichting opnieuw te doen?**
+Ja. De meeste kassasystemen laten je op elk moment nieuwe artikelen toevoegen, categorieën herindelen of prijzen aanpassen. Let er alleen op dat je bij nieuwe artikelen altijd het correcte BTW-tarief controleert voordat je ze live zet.
+
+**Hoe ga ik om met dagspecials of wisselende menukaarten?**
+Gebruik een aparte categorie "Dagspecials" of "Seizoenskaart" die je makkelijk kunt aan- en uitzetten. Sommige systemen laten je per artikel een beschikbaarheidsdatum instellen. Zo hoef je dagspecials niet handmatig te verwijderen.
+
+**Wat doe ik als een medewerker de kassa per ongeluk verkeerd heeft afgerekend?**
+Gebruik de retourenmodule om de transactie te corrigeren. Maak nooit handmatig een "negatieve bon" aan — dat verstoort je BTW-administratie. De retourenmodule legt het spoor vast op een manier die bij een controle controleerbaar is.
+
+**Hoeveel kost het gemiddeld om een kassasysteem volledig te laten installeren door een professional?**
+Een professionele installatie voor één locatie kost doorgaans €200-500 voor een eenvoudig systeem, en €500-1.500 voor een restaurant met keukenprinters, meerdere terminals en boekhoudkoppeling. Dat klinkt als veel, maar het bespaart de stress van een mislukte opening en fouten in de BTW-configuratie die later duurder zijn om te herstellen.
+
 **Lees ook:**
 - [Beste kassasysteem horeca 2026: eerlijke vergelijking](/blog/beste-kassasysteem-horeca-2026/)
 - [Fiscale eisen kassasysteem 2026: wat moet jouw kassa kunnen?](/blog/fiscale-eisen-kassasysteem-2026/)

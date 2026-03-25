@@ -139,6 +139,20 @@ Bij een gemiddelde dealwaarde van €8.000 en tien gemiste leads per kwartaal is
 
 Die berekening maakt het gesprek over de investering concreter dan abstracte voordelen als "meer inzicht" of "betere samenwerking".
 
+## Checklist: maak de balans op voor je eigen CRM
+
+Voordat je concludeert dat het systeem het probleem is, doorloop je deze vragen eerlijk:
+
+- **Adoptie:** Gebruiken alle betrokken medewerkers het CRM dagelijks? Als meer dan 20% van het team het regelmatig overslaat, is er een adoptieprobleem.
+- **Data-kwaliteit:** Zijn de contactgegevens actueel? Hebben deals altijd een eigenaar, een bedrag en een verwachte sluitdatum? Als het antwoord "soms" is, is er een data-invul-probleem.
+- **Gebruik voor rapportage:** Maakt de leidinggevende of directeur wekelijks gebruik van CRM-dashboards? Als rapportages buiten het CRM worden gemaakt, is het systeem niet de werkelijkheid.
+- **Koppelingen:** Is het CRM gekoppeld aan e-mail, agenda en boekhouding? Zo niet, dan verlies je dagelijks minimaal tien minuten per medewerker aan handmatige invoer.
+- **Definitie pipeline:** Weet iedereen in het team precies wanneer een lead naar de volgende fase gaat? Als de definitie onduidelijk is, is de pipeline onbetrouwbaar.
+
+Als je op drie of meer vragen "nee" antwoordt, heb je geen systeem-probleem maar een implementatieprobleem. De tool is dan zelden de bottleneck.
+
+---
+
 ## Lees ook
 
 - [Beste CRM software 2026 vergelijken](/blog/beste-crm-software-nederland-2026/) — welk systeem past bij jouw bedrijf?

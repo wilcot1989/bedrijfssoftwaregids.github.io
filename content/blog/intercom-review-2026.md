@@ -370,6 +370,31 @@ Vergelijk meer klantenservice tools:
 
 ---
 
+## Veelgemaakte fouten bij Intercom
+
+**Fout 1: Fin AI te vroeg als eerste lijn inzetten**
+Intercom's AI-bot Fin werkt het best met een uitgebreide kennisbank als fundering. Bedrijven die Fin direct inzetten zonder kennisbank produceren AI-antwoorden die onnauwkeurig zijn. Bouw eerst minimaal vijftig goede helpartikelen, dan pas Fin activeren.
+
+**Fout 2: De prijzen niet maandelijks monitoren**
+Intercom's seat-gebaseerd prijsmodel kan snel oplopen als het klantenserviceteam groeit. Ik zie bedrijven die halverwege het jaar merken dat ze vijf seats meer hebben dan begroot. Plan maandelijks een controle van het aantal actieve seats.
+
+**Fout 3: Proactive messages overmatig gebruiken**
+De proactieve berichten in de app zijn krachtig, maar overdaad is een veelgemaakte fout. Als gebruikers bij elk paginabezoek een chat-prompt zien, sluiten ze die reflexmatig — en raken irritatie gewend aan het merk. Gebruik proactieve berichten spaarzaam voor momenten met echte waarde (onboarding, stagnatie in flow).
+
+---
+
+## Intercom in 2026: de impact van AI
+
+Intercom heeft zwaar geïnvesteerd in AI-functies na de lancering van ChatGPT. Fin, hun AI-klantenservice-bot, is nu het meest besproken onderdeel van het platform. In mijn tests met Fin:
+
+Fin scoort goed bij veelgestelde feitelijke vragen met een duidelijk antwoord: "Hoe reset ik mijn wachtwoord?", "Wat zijn de openingstijden?", "Hoe annuleer ik mijn abonnement?" — bij zulke vragen levert Fin antwoorden die 70-80% van de gevallen correct zijn.
+
+Fin scoort slechter bij nuancevragen, klachten met emotionele lading, en complexe technische situaties. Op die momenten is doorgeven aan een menselijke agent beter. Intercom's hybrid model — Fin begint, mens neemt over bij complexiteit — is conceptueel de juiste aanpak.
+
+De additionele kosten van Fin (per resolutie) zijn een aandachtspunt. Bij hoog supportvolume kan Fin goedkoper zijn dan extra agents; bij laag volume loont het minder.
+
+---
+
 ## Veelgestelde vragen
 
 **Wat is Intercom?**

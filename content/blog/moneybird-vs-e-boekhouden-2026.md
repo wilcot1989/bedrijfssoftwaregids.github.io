@@ -315,6 +315,29 @@ Bekijk ons volledige overzicht in het artikel [Beste Boekhoudsoftware voor ZZP'e
 
 ---
 
+## Moneybird vs e-Boekhouden: detailvergelijking per functie
+
+| Functie | Moneybird | e-Boekhouden |
+|---------|-----------|--------------|
+| **Prijs volledig** | €39/mnd (Pro) | €14,50/mnd (Onbeperkt) |
+| **Gratis plan** | 3 facturen/mnd | 15 mnd gratis voor starters |
+| **Trustpilot** | 3.5/5 | 4.6/5 |
+| **Interface** | Modern, intuïtief | Functioneel, ouder |
+| **Bonnetjes scannen** | ✅ Uitstekend (app) | Basis |
+| **Tijdregistratie** | ✅ Growth+ | ❌ |
+| **Telefonische support** | ❌ | ✅ |
+| **Dubbel boekhouden** | Beperkt | ✅ |
+| **Voorraadbeheer** | ❌ | ✅ |
+| **API kwaliteit** | ✅ Uitstekend | Goed |
+| **Mollie/Stripe koppeling** | ✅ Native | Via Zapier |
+| **WooCommerce/Shopify** | ✅ Native | Via Zapier |
+| **Multi-administratie** | ✅ (betaald per admin) | ✅ |
+| **Rapportages** | Basis | Uitgebreid |
+
+Voor ZZP'ers die prijs als primaire factor nemen, is e-Boekhouden de duidelijke keuze: €9,95-€14,50/mnd versus €15-€39/mnd bij Moneybird. Maar Moneybird rechtvaardigt de meerprijs door een modernere interface, betere mobiele app en uitstekende e-commerce integraties.
+
+---
+
 ## Conclusie: Moneybird vs e-Boekhouden
 
 Ik krijg deze vraag zo vaak dat ik er bijna een standaardantwoord voor heb:

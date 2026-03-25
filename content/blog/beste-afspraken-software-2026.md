@@ -620,3 +620,42 @@ Alle tools bieden een gratis probeerperiode. Gebruik die om met een echt scenari
 ---
 
 Op zoek naar meer opties? Gebruik de **[productiviteit keuzehulp](/tools/productiviteit/keuzehulp/)**, bereken je **[softwarekosten](/tools/productiviteit/keuzehulp/)** of bekijk de **[volledige productiviteitsvergelijking](/categories/productiviteit/)** voor alle tools op een rij.
+
+---
+
+## Hoeveel tijd bespaar je met afsprakensoftware?
+
+Een praktijkberekening voor een freelancer of ZZP'er met 20 klantafspraken per week:
+
+| Actie | Zonder software | Met software |
+|---|---|---|
+| Afspraak inplannen (e-mailheen-en-weer) | 8-15 minuten | 0 minuten (zelfboeking) |
+| Sturen van bevestiging | 2 minuten | 0 minuten (automatisch) |
+| Sturen van herinnering | 3 minuten | 0 minuten (automatisch) |
+| Verwerken van annulering + herplannen | 10 minuten | 2 minuten |
+
+**Totale tijdsbesparing bij 20 afspraken per week:** 3-4 uur per week. Bij een tarief van €75/uur is dat €225-€300 per week — veel meer dan de €10-30/maand die afsprakensoftware kost.
+
+## Integraties: wat echt waardevol is
+
+Niet elke integratie is even waardevol. De drie integraties die het meeste opleveren:
+
+**1. Agenda-synchronisatie (Google Calendar / Outlook)**
+Dit is de basisintegratie die elke tool aanbiedt. Je ziet beschikbaarheid in real-time en dubbele boekingen zijn onmogelijk. Stel dit in voordat je live gaat.
+
+**2. Videoconferentie (Zoom / Teams / Google Meet)**
+Als je online afspraken hebt, genereert een goede integratie automatisch een videolink bij elke boeking. Dit bespaart je het handmatig versturen van links.
+
+**3. CRM-koppeling (HubSpot / Pipedrive)**
+Als je afspraken als salesgesprekken gebruikt, wil je de afspraak automatisch registreren in je CRM. Calendly heeft de sterkste HubSpot- en Salesforce-integraties.
+
+## Wanneer afsprakensoftware niet werkt
+
+Afsprakensoftware werkt goed voor gestructureerde afspraken met een vaste tijdsduur. Het werkt minder goed als:
+
+- Afspraken sterk variëren in duur (30 minuten tot 4 uur)
+- Je complexe afhankelijkheden hebt (meerdere medewerkers moeten beschikbaar zijn)
+- Je klanten verwachten dat jij de afspraak inplant, niet zijzelf
+- Je werkt met spoedafspraken die meteen ingepland moeten worden
+
+In die gevallen overweeg je een combinatie van afsprakensoftware voor routinegesprekken en een handmatig systeem voor complexe planning.

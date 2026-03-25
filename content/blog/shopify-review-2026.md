@@ -345,3 +345,31 @@ De technische SEO-basis is goed: automatische sitemaps, canonical tags, alt-teks
 
 **Wat is Shopify's uptime-garantie?**
 Shopify garandeert 99,99% uptime. In de afgelopen vijf jaar zijn er slechts een handvol incidenten geweest waarbij Shopify-winkels tijdelijk niet bereikbaar waren. Vergeleken met zelfgehoste oplossingen zoals WooCommerce — waarbij je zelf verantwoordelijk bent voor serveronderhoud — is dit een sterk argument voor Shopify.
+
+---
+
+## Veelgemaakte fouten bij Shopify in Nederland
+
+**Fout 1: Te veel apps installeren**
+Elke Shopify-app voegt JavaScript toe aan je winkel, wat de laadtijd verhoogt. Ik zie webshops met dertig actieve apps, waarvan de helft overbodig is. Elke app die je installeert moet een specifiek probleem oplossen. Auditeer je apps elk kwartaal en verwijder wat je niet actief gebruikt.
+
+**Fout 2: Geen verzendstrategie voor Nederlandse klanten**
+Shopify's standaard verzendopties werken, maar zijn niet geoptimaliseerd voor de Nederlandse markt. Integreer Sendcloud of MyParcel van dag één voor correcte PostNL-tarieven en automatische verzendbonnen. Zonder die integratie besteed je uren per week aan handmatige verzendverwerking.
+
+**Fout 3: BTW verkeerd configureren bij buitenlandse klanten**
+Shopify berekent BTW op basis van je instellingen, maar de Nederlandse BTW-regels voor internationale verkopen zijn complex (OSS-regeling voor EU-klanten). Stel de belastingconfiguratie in met hulp van je accountant — fouten hier leiden tot compliance-problemen die achteraf moeilijk te corrigeren zijn.
+
+---
+
+## Shopify vs. WooCommerce: de juiste keuze voor Nederlandse webshops
+
+| Criterium | Shopify | WooCommerce |
+|---|---|---|
+| **Maandkosten** | €29-299 | €5-20 (hosting) + plugins |
+| **Technische kennis vereist** | Laag | Hoog |
+| **Aanpasbaarheid** | Goed | Uitstekend |
+| **App-ecosysteem** | 8.000+ | 60.000+ plugins |
+| **Uptime verantwoordelijkheid** | Shopify | Jijzelf |
+| **Beste voor** | Snelle start, gemak | Technische teams, maatwerk |
+
+Mijn vuistregel: als je snel wil starten en niet in techniek wil investeren, kies Shopify. Als je maximale controle wilt en technische kennis in huis hebt (of beschikbaar), is WooCommerce even krachtig voor lagere vaste kosten.

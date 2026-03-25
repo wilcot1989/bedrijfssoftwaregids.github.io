@@ -443,3 +443,139 @@ Mijn advies: vraag bij minimaal twee aanbieders een demo of proefperiode aan. Te
 Heb je vragen over welk pakket het beste bij jouw praktijk past? Laat een reactie achter of neem contact op via de [over ons-pagina](/about/). Ik help je graag met een persoonlijk advies.
 
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/productiviteit/keuzehulp/)**, bereken je **[softwarekosten](/tools/productiviteit/keuzehulp/)** of bekijk de **[volledige vergelijking](/categories/productiviteit/)** voor alle productiviteitstools op een rij.
+
+---
+
+## Kosten per praktijkgrootte: wat betaal je werkelijk?
+
+De tariefstructuur van fysiotherapie-software is niet altijd transparant. Hier is een realistische kostenraming voor verschillende praktijkgroottes.
+
+### Solopraktijk (1 therapeut)
+
+Voor een startende of gevestigde solopraktijk zijn de kosten behapbaar. SpotOnMedics is met €62,40 per jaar veruit het goedkoopst. Fysiomanager heeft een laag basisbedrag plus een fte-component die bij één therapeut beperkt is. Intramed biedt de eerste drie maanden gratis, wat een goede mogelijkheid is om het systeem zonder investering te testen.
+
+Bij één therapeut draait het om de vraag: heb ik voldoende aan basisfuncties (EPD, agenda, declaratie), of wil ik ook BI-dashboards en uitgebreide oefenmodules? Voor een solopraktijk is SpotOnMedics of Fysiomanager financieel het meest verantwoord.
+
+### Groepspraktijk (2–5 therapeuten)
+
+Bij meerdere therapeuten neemt de waarde van gedeelde agenda's, gezamenlijke rapportages en gecentraliseerd debiteurenbeheer snel toe. De kosten stijgen per therapeut, maar de efficiëntiewinst ook.
+
+| Software | Kosten 3 therapeuten (schatting) | Opmerkingen |
+|----------|----------------------------------|-------------|
+| SpotOnMedics | ~€187/jaar | Basisversie; geen ingebouwde BI |
+| Fysiomanager | Op aanvraag (fte-model) | Inclusief dossiercontrole |
+| FysioRoadmap | Op aanvraag | Beste klinisch EPD |
+| Crossuite | Op aanvraag | Sterkst bij multidisciplinair |
+| Intramed | Op aanvraag | Meest compleet; BI inbegrepen |
+
+### Grote praktijk of keten (6+ therapeuten, meerdere locaties)
+
+Voor grote praktijken is Intramed de meest gebruikte keuze, met 53% marktaandeel. De BI-dashboards en multi-locatiefunctionaliteit rechtvaardigen de hogere investering. Crossuite is hier een sterk alternatief, vooral als er meerdere disciplines in de praktijk werken.
+
+---
+
+## Implementatietijdlijn: van beslissing tot live
+
+De overstap naar nieuwe software vraagt planning. Hier is een realistische tijdlijn.
+
+**Week 1–2: Selectie en aanvraag demo's**
+Vraag bij minimaal twee aanbieders een demo aan. Test specifiek: een intake aanmaken, een behandeling registreren, een declaratie versturen, en een oefenprogramma samenstellen. Dat zijn de handelingen die je dagelijks doet.
+
+**Week 3–4: Contracten en data-export**
+Exporteer je huidige patientgegevens, betalingshistorie en jaarrekeningen uit je oude systeem. Controleer of de nieuwe leverancier een datamigratie-service aanbiedt en wat de kosten zijn.
+
+**Week 5–6: Configuratie en training**
+De leverancier helpt bij de initiële configuratie: zorgverzekeraar-contracten, tarievenlijst, agenda-instellingen. Plan een training met alle therapeuten in de praktijk. Intramed en Crossuite bieden begeleide implementatie aan.
+
+**Week 7: Parallelle fase**
+Draai een week lang beide systemen parallel — invoer in het nieuwe systeem, controle in het oude. Dit geeft vertrouwen en vangt eventuele fouten op voordat het oude systeem definitief wordt afgesloten.
+
+**Week 8: Live-gang**
+Definitieve overstap. Zorg dat je VECOZO-koppeling is getest en dat de eerste declaratierun foutloos verloopt. Dit is het kritieke moment — een fout in de declaratie-instelling kan weken vertraging in je cashflow veroorzaken.
+
+---
+
+## Declaraties bij zorgverzekeraars: de praktijk
+
+Declareren is technisch complex maar met goede software vrijwel automatisch. Hier is wat je moet weten.
+
+### VECOZO en de zorgindicatie
+
+VECOZO is het beveiligde portaal waarmee zorgaanbieders elektronisch declareren bij zorgverzekeraars. Als fysiotherapeut heb je een AGB-code nodig (identificatie als zorgaanbieder) en dient de patient een verwijzing te hebben van een huisarts of specialist voor behandeling die vergoed wordt.
+
+De software controleert automatisch of de indicatiecode klopt, of de verwijzing nog geldig is, en of het verzekerd pakket van de patient de behandeling dekt. Zonder software is dit handmatig werk dat uren kost per week.
+
+### Directe toegang fysiotherapie
+
+Sinds 2006 kunnen patienten zonder verwijzing naar een fysiotherapeut. De behandeling begint dan op eigen kosten of aanvullende verzekering. De software moet dit onderscheid bijhouden: welke behandelingen zijn basisverzekerd, welke vallen onder de aanvullende verzekering, en welke betaalt de patient zelf?
+
+Intramed en Fysiomanager handelen dit automatisch af op basis van de verzekering van de patient, die via VECOZO wordt geverifieerd bij de eerste behandeling.
+
+### Veelvoorkomende declaratiefouten
+
+De meeste afwijzingen van declaraties komen door vijf oorzaken:
+1. Onjuiste of verlopen indicatiecode
+2. Ontbrekende of verlopen verwijzing
+3. Overschreden maximaal behandelaantal per jaar (basisverzekering dekt 12 of 18 behandelingen)
+4. AGB-code niet gekoppeld aan de juiste zorgverzekeraarcontracten
+5. Foutief KvK-nummer of bankrekening van de praktijk
+
+Goede software voorkomt alle vijf. Intramed en Fysiomanager hebben automatische pre-validatie die fouten onderschept vóórdat de declaratie verstuurd wordt.
+
+---
+
+## ROI-berekening: verdient de software zichzelf terug?
+
+De meest concrete vraag van elke fysiotherapeut: is de investering de moeite waard? Hier is een eerlijke berekening.
+
+### Tijdsbesparing per week
+
+Een fysiotherapeut zonder EPD-software besteedt gemiddeld 4–6 uur per week aan administratie: dossierinvoer, agenda-beheer, declaraties versturen en herinneren aan betalingen. Met volledig geautomatiseerde software (incl. VECOZO-koppeling, automatische herinneringen, online agenda) daalt dit naar 1–2 uur per week.
+
+**Besparing: 3 uur per week × €80 (therapeuttarief) × 48 werkweken = €11.520 per jaar.**
+
+De software kost in het meest dure geval (Intramed, groepspraktijk) enkele honderden euro's per maand. Zelfs bij €300/maand (= €3.600/jaar) is de netto tijdsbesparing €7.920 per jaar voor één therapeut.
+
+### Minder gemiste omzet
+
+Een gestructureerde agenda met automatische herinneringen vermindert no-shows. Gemiddeld heeft een fysiotherapeut 3–5% no-shows. Bij een fulltime praktijk met 25 behandelingen per week en een tarief van €35 per behandeling, kost elke procent no-show €455 per jaar. Een verlaging van 3% no-shows bespaart €1.365 per jaar.
+
+### Minder declaratiefouten en afwijzingen
+
+Een afgewezen declaratie kost gemiddeld 30–45 minuten om te corrigeren en opnieuw in te dienen. Bij 5 afwijzingen per maand is dat 2–4 uur extra werk. Met goede software daalt dit naar vrijwel nul.
+
+**Conclusie:** De investering in fysiotherapie-software verdient zichzelf terug voor vrijwel elke praktijk met meer dan twee behandelsessies per dag. De vraag is niet of je software aanschaft, maar welke.
+
+---
+
+## Privacy en AVG: wat je als praktijkhouder moet weten
+
+Patientgegevens zijn bijzondere persoonsgegevens onder de AVG. Als praktijkhouder ben je verwerkingsverantwoordelijke en moet je aan specifieke eisen voldoen.
+
+**Verwerkersovereenkomst**
+Met elke softwareleverancier die toegang heeft tot patientgegevens moet je een verwerkersovereenkomst sluiten. Alle vijf de pakketten in dit overzicht bieden dit standaard aan.
+
+**NEN 7510**
+NEN 7510 is de Nederlandse norm voor informatiebeveiliging in de zorg. Alle pakketten in dit overzicht zijn NEN 7510-gecertificeerd of voldoen aan de eisen. Fysiomanager heeft bovendien ISO 27001-certificering, de internationale standaard voor informatiebeveiliging.
+
+**Bewaartermijnen**
+Op basis van de WGBO moeten patientdossiers minimaal 20 jaar bewaard blijven (of 20 jaar na overlijden van de patient). Zorg dat je software dit ondersteunt en dat dossiers na beëindiging van het softwarecontract exporteerbaar zijn.
+
+**Patientrecht op inzage en verwijdering**
+Patienten hebben het recht hun dossier in te zien en in bepaalde gevallen te laten verwijderen. Goede software maakt dit technisch mogelijk en geeft jou de tools om aan inzageverzoeken te voldoen.
+
+---
+
+## Samenvatting: mijn definitieve advies per situatie
+
+Na het testen van alle vijf de pakketten kom ik tot dit eindoordeel:
+
+**Startende fysiotherapeut of solopraktijk met beperkt budget:** Begin met SpotOnMedics FysioOne (€62/jaar) of gebruik de gratis proefperiode van Intramed. SpotOnMedics geeft je alle basisfuncties voor een minimale investering.
+
+**Solopraktijk die wil groeien:** Fysiomanager met het fte-gebaseerde prijsmodel. Je betaalt mee met je praktijk en krijgt solide declaratiefunctionaliteit en dossiercontrole.
+
+**Groepspraktijk (3–8 therapeuten):** Intramed voor de meeste functionaliteit, FysioRoadmap als je team sterk hecht aan inhoudelijk EPD en klinisch redeneren.
+
+**Multidisciplinaire praktijk:** Crossuite is hier zonder twijfel de beste keuze. Het is gebouwd voor samenwerking tussen disciplines en heeft de modernste interface.
+
+**Maximaal klinisch werken:** FysioRoadmap met Physitrack-koppeling en PREM-module. De inhoudelijk sterkste combinatie voor therapeuten die hun behandelkwaliteit willen aantonen en verbeteren.

@@ -282,6 +282,36 @@ Na jarenlang bedrijven te begeleiden bij deze beslissing, zie ik steeds dezelfde
 
 4. **De verkeerde reden om over te stappen** — Verveeld zijn met je huidige CRM is geen reden om te migreren. Ik vraag altijd: "Welk concreet probleem lost het nieuwe systeem op dat je huidige niet kan?" Als je die vraag niet in twee zinnen kunt beantwoorden, blijf waar je zit.
 
+## Salesforce vs HubSpot: prijsvergelijking per teamgrootte
+
+De prijzen van beide tools zijn complex. Hier is een concrete vergelijking voor drie teamgroottes.
+
+### Team van 5 salesmedewerkers
+
+| Plan niveau | HubSpot Sales Hub | Salesforce Sales Cloud |
+|-------------|------------------|------------------------|
+| **Instap** | 5 × €15 = €75/mnd | 5 × €25 = €125/mnd (Starter) |
+| **Professioneel** | 5 × €90 = €450/mnd | 5 × €80 = €400/mnd (Pro) |
+| **Enterprise** | 5 × €150 = €750/mnd | 5 × €165 = €825/mnd (Enterprise) |
+
+Bij professioneel niveau zijn de kosten vergelijkbaar. Maar voeg implementatie en Salesforce-partner toe, dan loopt Salesforce al snel €5.000-€15.000 extra op in jaar 1.
+
+### Verborgen kosten van Salesforce
+
+- **Implementatiepartner:** €8.000-€30.000 voor een serieuze implementatie
+- **Salesforce-beheerder (intern):** €4.000-€8.000/maand voor een gecertificeerde admin
+- **Add-ons:** Einstein AI, Marketing Cloud, Pardot — elk apart geprijsd
+- **Training:** Salesforce certificeringen kosten €200-€600 per examen per persoon
+
+### Verborgen kosten van HubSpot
+
+- **Onboarding fee:** €3.000 voor Professional, €6.000 voor Enterprise (verplicht)
+- **Hubs:** Marketing, Sales, Service apart geprijsd — elk toevoegen verhoogt de rekening
+- **Contact-limieten:** meer contacten dan het plan toestaat = extra kosten
+- **Rapportages:** geavanceerde rapportages alleen op hogere plannen
+
+---
+
 ## Verdict: Salesforce vs HubSpot
 
 Na jarenlang beide platforms te implementeren is mijn advies helder: voor het Nederlandse MKB is **HubSpot** in de meeste gevallen de betere keuze. Niet omdat Salesforce slecht is — integendeel — maar omdat de meeste MKB-bedrijven die ik begeleid de kracht van Salesforce niet nodig hebben en wel verdrinken in de complexiteit. HubSpot is sneller opgezet, makkelijker te leren, en de kosten liggen 40-60% lager.

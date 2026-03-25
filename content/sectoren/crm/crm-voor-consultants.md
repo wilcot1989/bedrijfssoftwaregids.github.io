@@ -275,6 +275,14 @@ Als je consultancybedrijf groeit naar een klein team, is ook HR-software relevan
 
 Bekijk ook onze reviews: [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/), [Pipedrive review 2026](/blog/pipedrive-review-2026/), [Close CRM review 2026](/blog/close-crm-review-2026/) en [Teamleader review 2026](/blog/teamleader-review-2026/).
 
+## CRM als acquisitietool voor consultants
+
+Een van de meest onderbenutte functies van een CRM voor consultants is het systematisch bijhouden van warme contacten die nu geen opdracht hebben, maar in de toekomst wel kunnen. In de consultancypraktijk heet dit de "warm database" — mensen die jou kennen, die jou waarderen, maar die op dit moment geen behoefte hebben.
+
+Pipedrive heeft hier een handige functie voor: je kunt contacten taggen met een herinnering om over 90 dagen opnieuw contact op te nemen. Dat is geen verkoop — het is relatiebeheer. Stuur een interessant artikel, vraag hoe het gaat met een project dat je begeleid hebt, of nodig ze uit voor een event. HubSpot gaat hier verder met sequenties die automatisch een reeks contactmomenten inplannen.
+
+Het verschil tussen consultants die structureel volle agenda's hebben en consultants die pieken en dalen kennen, is vaak niet de kwaliteit van het werk maar de structuur van het relatiebeheer. Een CRM dat je aanzet om consistent contact te onderhouden, is het verschil.
+
 {{< sector-cta-crm >}}
 
 ## Lees ook

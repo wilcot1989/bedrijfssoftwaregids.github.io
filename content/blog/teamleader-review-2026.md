@@ -353,3 +353,42 @@ De Trustpilot-score van 4,4 en G2-score van 4,3 bevestigen wat ik in de praktijk
 Lees ook mijn overzicht van de [beste CRM software voor Nederland](/blog/beste-crm-software-nederland-2026/) en het artikel over de [beste facturatiesoftware voor het MKB](/blog/beste-facturatie-software-mkb-2026/).
 
 Wil je Teamleader vergelijken met alternatieven? Bekijk de **[vergelijkingsmatrix](/categories/crm/)**, gebruik de **[keuzehulp](/tools/crm/keuzehulp/)** of bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)**.
+
+---
+
+## Teamleader in 2026: nieuwe functies en ontwikkelingen
+
+Teamleader heeft in de afgelopen jaren een aantal relevante verbeteringen doorgevoerd. De meest opvallende:
+
+**AI-functies in offertes:** Teamleader heeft een AI-assistent toegevoegd die helpt bij het schrijven van offertebeschrijvingen. Je geeft een korte omschrijving van je dienst, en de AI stelt een professionele tekst voor. In mijn tests is het een aardige tijdsbesparing bij het opstellen van de eerste offerte voor een nieuw type opdracht. De output is nog generiek en vraagt altijd om menselijke aanpassing, maar als startpunt werkt het.
+
+**Verbeterde Mollie-integratie:** betaallinks in facturen werken nu ook met Bancontact en SEPA-overboeking, naast iDEAL. Voor Belgische klanten (relevant voor een Belgisch platform) is dit een serieuze verbetering.
+
+**Meeting scheduler:** Teamleader heeft een ingebouwde meeting-scheduler toegevoegd waarmee klanten zelf een afspraak kunnen inplannen in je agenda. Dit was jarenlang een aandachtspunt in reviews — het is nu beschikbaar, al is de functionaliteit nog basic vergeleken met Calendly of HubSpot.
+
+---
+
+## Teamleader Orbit: wanneer is het de volgende stap?
+
+Na het FLOW-pakket bestaat er ook Teamleader Orbit, gericht op bedrijven met 20 tot 1.000 medewerkers. Wanneer is het tijd om de overstap te maken?
+
+De signalen die ik in de praktijk zie:
+- Je hebt meerdere teams die op hun eigen manier werken en je wilt processtandaardisatie zonder maatwerk
+- Je hebt behoefte aan diepere analyses die inzicht geven in rendabiliteit per klant, per project en per medewerker
+- Je wilt Teamleader als bedrijfsbrede operating system inzetten in plaats van als CRM-tool
+
+Teamleader Orbit is aanzienlijk duurder dan Focus en vereist een implementatietraject. Voor bedrijven onder de twintig medewerkers is het bijna altijd te vroeg.
+
+---
+
+## Teamleader voor welke sectoren werkt het het best?
+
+In mijn praktijk als consultant zie ik een duidelijk patroon in welke sectoren Teamleader goed aanslaat:
+
+**Marketing- en communicatiebureaus:** de combinatie van CRM, offertes, projectbeheer en tijdregistratie is precies wat bureaus nodig hebben. De workflow van briefing naar offerte naar project naar factuur is vloeiend. Ik ken bureaus van drie tot vijftien mensen die Teamleader als hun complete bedrijfsbackend gebruiken.
+
+**Bouwadviesbureaus en architecten:** offertes zijn hier complex (meerdere varianten, nacalculatie) en projecten lopen maanden. Teamleader verwerkt dat goed, inclusief mijlpalenplanning en urenbewaking per fase.
+
+**IT-dienstverleners:** combineren vaste projecten (uurtje-factuurtje) met support-contracten (abonnementsfacturatie). Teamleader beheerst beide — iets wat bij veel andere tools aparte modules of tools vereist.
+
+**Trainings- en coachingsbedrijven:** hier is Teamleader minder sterk. De ontbrekende online agenda-inplanning (tot de recente meeting scheduler) was een klacht die ik regelmatig hoorde. Met de nieuwe scheduler is dat deels opgelost.

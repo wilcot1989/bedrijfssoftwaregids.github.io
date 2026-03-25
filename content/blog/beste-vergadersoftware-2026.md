@@ -419,3 +419,40 @@ Na alles gezegd te hebben over functies, prijzen en integraties, is de meest eer
 
 ---
 
+## Kosten vergelijking per gebruikersgrootte
+
+| Tool | Tot 10 users | 10-50 users | 50-200 users | 200+ users |
+|---|---|---|---|---|
+| Zoom | €0-€15/user | €13,33/user | €13,33/user | Op aanvraag |
+| Microsoft Teams | Inbegrepen bij M365 (€10/user) | €10/user | €10/user | Enterprise pricing |
+| Google Meet | Inbegrepen bij Workspace (€6/user) | €6/user | €12/user | Op aanvraag |
+| Webex | Gratis (beperkt) | €14/user | €25/user | Op aanvraag |
+| Whereby | €10/host (onbeperkt deelnemers) | €10/host | €10/host | Op aanvraag |
+
+**Opmerking:** Microsoft Teams is alleen zinvol als je al in het Microsoft 365-ecosysteem zit. Als je al Google Workspace gebruikt, is Google Meet de logische keuze. Zoom is het sterkst voor organisaties die primair externe vergaderingen houden met klanten en partners die niet in hetzelfde ecosysteem zitten.
+
+## Sector-specifieke aanbevelingen
+
+**Professionele dienstverlening (advocaten, adviseurs, consultants)**
+Veiligheid en professionaliteit zijn de prioriteiten. Microsoft Teams (met E3-licentie voor extra compliance) of Zoom bieden de beste combinatie van end-to-end encryptie, wachtruimtes en opname-functionaliteit. Webex is een goed alternatief door de sterke privacy-instellingen.
+
+**Onderwijs en training**
+Zoom heeft de sterkste functies voor trainers: breakout rooms, polls, whiteboards en annotaties. Google Meet werkt goed in schoolomgevingen die al Google gebruiken. Waarbij is interessant voor externe docenten die een vaste vergaderlink willen delen.
+
+**Verkoop en klantcontact**
+Zoom is de standaard voor salesgesprekken — bijna elke prospect herkent het. Waarbij biedt een goede gebruikservaring zonder app-download, wat drempelverlaging geeft voor prospects.
+
+**Hybride kantoorteams**
+Microsoft Teams is hier het sterkst door de integratie met agenda's, kanalen en bestanden. De vergaderroomsystemen (Teams Rooms) integreren naadloos met het platform.
+
+## Veelgemaakte fouten bij vergadersoftware
+
+**1. De verkeerde tool kiezen voor externe vergaderingen**
+Voor interne vergaderingen met je eigen team maakt de toolkeuze minder uit — iedereen installeert de app. Voor externe vergaderingen met klanten of partners kies je bij voorkeur voor een tool die werkt zonder verplichte app-installatie (Whereby, Google Meet, Zoom browser) of een tool die al algemeen bekend is (Zoom).
+
+**2. Geen standaard vergaderprotocol afspreken**
+Teams die overstappen van physical naar hybride vergaderen, vergeten vaak om spelregels vast te stellen: wie noteert actiepunten? Waar worden opnames bewaard? Wie beheert de wachtrij voor sprekers? Stel dit vast voordat je de tool uitrolt.
+
+**3. Vergaderen als standaard voor alles**
+Vergadersoftware is geen vervanging voor goede asynchrone communicatie. Slack, Teams-berichten en e-mail zijn sneller voor informatie-uitwisseling. Reserveer videovergaderingen voor situaties waar de nuance echt nodig is: beslissingen, conflicten, complexe discussies.
+

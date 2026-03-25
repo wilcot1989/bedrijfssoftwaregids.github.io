@@ -272,6 +272,16 @@ De [beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) g
 
 Lees ook het artikel over [ziekteverzuim terugdringen met HR software](/blog/ziekteverzuim-terugdringen-hr-software/) voor concrete tips die direct toepasbaar zijn in de zorg.
 
+## Toekomstige ontwikkelingen: AI en HR in de zorg
+
+De zorgsector staat voor een structurele personeelskrapte. HR-software gaat een steeds grotere rol spelen in het behouden en duurzaam inzetbaar houden van medewerkers. De ontwikkelingen die ik nu zie bij de grote spelers:
+
+- **Voorspellend verzuim:** AFAS en Visma Raet investeren in modellen die op basis van werkdruk, roosterpatronen en historisch verzuim een verzuimrisico per medewerker berekenen. Een medewerker die drie weken overwerkt heeft, krijgt een signaalscore — de leidinggevende wordt proactief gevraagd een gesprek te plannen
+- **Automatische CAO-updates:** CAO-wijzigingen worden steeds sneller doorgevoerd via automatische pakketupdates, zodat zorgorganisaties geen handmatige aanpassingen meer hoeven te doen na een CAO-ronde
+- **Medewerker-app als primair communicatiekanaal:** Zorgmedewerkers werken zelden achter een bureau. De mobiele medewerkerapp wordt steeds meer het centrale communicatiekanaal voor roosters, verlof, loonstroken en beoordelingsgesprekken
+
+Voor kleine zorgpraktijken die nu met Loket.nl werken, is de verwachting dat ook hier AI-gestuurde functies beschikbaar komen — zij het later dan bij de grotere spelers. De keuze voor je HR-systeem is een keuze voor minstens drie tot vijf jaar. Investeer in een systeem dat actief doorontwikkeld wordt en de zorgsector serieus neemt als focusmarkt.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

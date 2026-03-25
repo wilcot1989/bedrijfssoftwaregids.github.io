@@ -295,6 +295,18 @@ Als je als freelancer overweegt iemand aan te nemen, verandert je administratiev
 
 Meer weten over de overstap van de ene naar de andere boekhoudsoftware? Lees dan [overstappen van Exact Online naar Moneybird](/blog/overstappen-exact-online-naar-moneybird-2026/) voor een stap-voor-stap handleiding.
 
+## Wanneer overstap je van de ene naar de andere tool?
+
+Een veelgestelde vraag is: hoe weet ik wanneer mijn huidige boekhoudsoftware niet meer voldoet? Dit zijn de signalen die ik het vaakst hoor van freelancers die klaar zijn voor een overstap:
+
+- Je stuurt facturen in meer dan een valuta en je huidige software rekent wisselkoersen handmatig bij
+- Je hebt een klant in de EU die BTW-verlegd wil factureren, maar je software begrijpt de ICP-opgave niet
+- Je besteedt meer dan twee uur per maand aan administratie die je eigenlijk zou willen automatiseren
+- Je boekhouder klaagt dat de aangeleverde data onvolledig of ongestructureerd is
+- Je wilt weten per project hoeveel uur je hebt gespendeerd versus hoeveel je hebt gefactureerd
+
+Moneybird Growth is voor de meeste Nederlandse freelancers met internationale klanten de juiste eindbestemming: meervaluta, urenregistratie, BTW-verlegd en een directe koppeling met Belastingdienst in een systeem dat prettig in gebruik is. Voor wie de administratie echt niet zelf wil doen en de kosten door de vingers kan zien, is Yuki het alternatief: je betaalt voor het gemak van een meewerkende boekhouder.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

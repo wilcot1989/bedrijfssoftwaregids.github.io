@@ -451,4 +451,31 @@ Dan is dat een valide signaal. Niet elke tool past bij elke teamcultuur. Overwee
 
 ---
 
+## Veelgemaakte fouten bij ClickUp
+
+**Fout 1: Alles tegelijk willen instellen**
+ClickUp heeft zoveel functies dat nieuwe gebruikers de neiging hebben om alles tegelijk te willen configureren. De meeste teams zijn na drie weken gefrustreerd, niet door het platform maar door zichzelf. Mijn aanpak: begin met alleen Spaces, Lijsten en Taken. Voeg functies toe als de behoefte er is, niet omdat ze beschikbaar zijn.
+
+**Fout 2: Geen duidelijke templatestrategie**
+ClickUp werkt het best met gestandaardiseerde templates per projecttype. Teams zonder templates creëren elke keer een nieuwe structuur, wat leidt tot inconsistentie en verwarring. Maak in de eerste maand een template voor elk terugkerend projecttype.
+
+**Fout 3: Custom statuses overcompliceren**
+ClickUp laat je eigen statussen aanmaken (beter dan To Do / In Progress / Done). Ik zie teams die tien statussen aanmaken voor een eenvoudige workflow. Beperk je tot vijf statussen maximaal — meer is verwarrend.
+
+---
+
+## ClickUp vs. Asana: de directe vergelijking
+
+| Criterium | ClickUp | Asana |
+|---|---|---|
+| **Prijs (Free)** | Gratis (onbeperkt taken) | Gratis (beperkt) |
+| **Prijs (betaald)** | $7/user/mnd | $10,99/user/mnd |
+| **Functies breadth** | Uitgebreider | Gefocuster |
+| **Leercurve** | Steiler | Vlakker |
+| **Nederlandse taal** | Nee | Ja (deels) |
+| **Time tracking** | Ingebouwd | Via add-on |
+| **Beste voor** | Teams die maximale flexibiliteit willen | Teams die eenvoud boven alles stellen |
+
+---
+
 *Dit artikel bevat een affiliate link naar ClickUp. Als je via deze link een betaald abonnement afneemt, ontvang ik een vergoeding. Mijn beoordeling is gebaseerd op hands-on gebruik en is niet beïnvloed door deze samenwerking.*

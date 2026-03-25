@@ -240,6 +240,25 @@ Marketing automation wordt duurder naarmate je lijst groeit. Hier is een kosteno
 
 Klaviyo is het duurst maar levert bij webshops doorgaans de hoogste ROI door de diepere e-commerce integratie. Een webshop met 10.000 contacten die via Klaviyo 15% van de omzet via e-mail genereert bij EUR 50.000 maandomzet, haalt EUR 7.500 per maand uit automation -- EUR 150 per maand aan kosten is dan verwaarloosbaar.
 
+## De vijf automation-flows die elke webshop zou moeten draaien
+
+Ongeacht welke tool je kiest, zijn er vijf flows die bij vrijwel elke webshop aantoonbaar omzet genereren. Ik zie ze te weinig ingesteld:
+
+**1. Abandoned cart flow**
+Gemiddeld 70% van de winkelwagentjes wordt verlaten. Een driedelige e-mailserie (na 1 uur, na 24 uur en na 72 uur) brengt bij een goede webshop 5-10% van die verlaten carts terug. Klaviyo en ActiveCampaign bieden hier de meest complete templates voor met productafbeeldingen en dynamische inhoud.
+
+**2. Browse abandonment flow**
+Bezoekers die een productpagina bekijken maar niets toevoegen aan de winkelwagen, zijn warm maar niet heet. Een subtiele herinnering ("Je hebt onlangs naar [product] gekeken") na 24 uur kan hen terugbrengen. Klaviyo biedt dit out of the box via Shopify-integratie.
+
+**3. Post-purchase flow**
+Na de eerste aankoop is de kans op een tweede aankoop het hoogst. Stuur vijf tot zeven dagen na levering een e-mail met productgerelateerde aanbevelingen. Voeg na veertien dagen een reviewverzoek toe. Dit bouwt klantloyaliteit en genereert UGC (user-generated content) voor je productpagina's.
+
+**4. Win-back flow**
+Klanten die zes tot twaalf maanden niet meer hebben gekocht, zijn inactief maar niet verloren. Een persoonlijke win-back e-mail met een speciale aanbieding haalt bij de meeste webshops 8-15% van de inactieve klanten terug. Goedkoper dan het werven van nieuwe klanten.
+
+**5. Welcome series voor nieuwe abonnees**
+Nieuwe inschrijvers op je nieuwsbrief verwachten iets van waarde. Stuur een drie-delige welkomstserie: e-mail 1 = welkom + merkwaarden, e-mail 2 = bestsellers of populairste producten, e-mail 3 = sociaal bewijs (reviews, testimonials). De open rate van de welkomstserie is twee tot drie keer hoger dan reguliere nieuwsbrieven.
+
 ## Hoe wij vergelijken
 
 Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.

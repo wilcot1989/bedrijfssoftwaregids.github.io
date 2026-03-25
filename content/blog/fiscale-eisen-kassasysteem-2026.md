@@ -178,6 +178,18 @@ In mijn ervaring is de ondernemer die dit goed voor elkaar heeft bij een boekeno
 
 Een kassasysteem kiezen dat dit alles goed ondersteunt? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/) om een systeem te vinden dat voldoet aan alle eisen. Wil je ook inzicht in wat een kassasysteem je maandelijks kost? Gebruik de [kassasysteem kosten berekenen tool](/tools/kassasystemen/kosten-berekenen/) voor een berekening op basis van jouw omvang en branche.
 
+## De kostprijs van non-compliance
+
+Het loont de moeite om de kosten van non-compliance eens concreet door te rekenen, zodat de investering in een correct geconfigureerd kassasysteem in perspectief staat.
+
+Bij een gemiddeld horecabedrijf met €400.000 jaaromzet en een incorrect BTW-tarief op 20% van de producten — bijvoorbeeld dranken op 9% in plaats van 21% — is het verschil in BTW-afdracht circa 12 procentpunt op dat deel. Dat is €9.600 per jaar aan te weinig afgedragen BTW. Over vijf jaar: €48.000 aan naheffing, plus belastingrente (momenteel 8% per jaar) plus vergrijpboete.
+
+Bij een niet-opzettelijke overtreding bedraagt de vergrijpboete maximaal 25% van het nageheven bedrag. Op €48.000 naheffing is dat €12.000 extra. Bezwaar- en beroepsprocedures bij de Belastingdienst kosten dan nog eens €3.000-8.000 aan juridische bijstand.
+
+Totaal potentiële schade bij één controlecyclus: €60.000-70.000.
+
+De kosten van een correct geconfigureerd kassasysteem en een jaarlijkse controle van de BTW-instellingen bedragen maximaal €500-2.000 per jaar. De rekensom is duidelijk: preventie is altijd goedkoper dan herstel.
+
 ## Lees ook
 
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — overzicht van kassasystemen met sterke datavolledigheid en exportopties

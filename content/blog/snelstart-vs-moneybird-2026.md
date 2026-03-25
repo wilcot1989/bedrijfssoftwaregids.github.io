@@ -338,6 +338,36 @@ Meer achtergrondinformatie vind je in mijn artikel [boekhoudprogramma kiezen: 7 
 
 ---
 
+## SnelStart vs Moneybird: teamgrootte en prijsvergelijking
+
+| Scenario | SnelStart | Moneybird | Verschil/jaar |
+|----------|-----------|-----------|---------------|
+| **ZZP gratis start** | €0 (basis) | €0 (3 facturen/mnd) | Gelijk, SnelStart meer functies gratis |
+| **ZZP actief (onbeperkt)** | ~€24/mnd | €15/mnd (Starter) | **€108/jaar goedkoper Moneybird** |
+| **ZZP volledig** | ~€34/mnd | €39/mnd (Pro) | **€60/jaar goedkoper SnelStart** |
+| **Klein MKB + salarisadmin** | ~€49/mnd (incl. Go) | €39 + Nmbrs (~€25) | **€180/jaar goedkoper SnelStart** |
+
+Op het niveau waar je salarisadministratie nodig hebt, wordt SnelStart interessanter. Voor pure ZZP-facturatie en boekhouden liggen de kosten dicht bij elkaar.
+
+---
+
+## SnelStart vs Moneybird: wanneer overstappen?
+
+**Van Moneybird naar SnelStart:**
+Overweeg dit als je medewerkers in dienst neemt en salarisadministratie nodig hebt, als je accountant SnelStart prefereert boven Moneybird, of als je de kosten wil verlagen bij vergelijkbare functionaliteit.
+
+**Van SnelStart naar Moneybird:**
+Overweeg dit als je interface-gebruik centraal staat en je team liever werkt met een modernere app, als je veel op je telefoon werkt en de mobiele bonnetjesscanner wil gebruiken, of als je meer e-commerce integraties nodig hebt.
+
+**Migratietips voor beide richtingen:**
+- Plan altijd bij de jaarovergang
+- Exporteer contacten en factuuroverzicht als CSV
+- Bewaar alle historische facturen als PDF-archief
+- Check de openingsbalans met je accountant voor je het nieuwe pakket opent
+- Houd het oude abonnement drie maanden actief voor raadpleging
+
+---
+
 ## Alternatieven die het overwegen waard zijn
 
 SnelStart en Moneybird zijn niet de enige opties. Afhankelijk van je situatie zijn er twee alternatieven die ik regelmatig noem:

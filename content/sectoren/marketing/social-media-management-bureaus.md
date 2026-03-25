@@ -249,6 +249,21 @@ Dagelijks bedenken wat je gaat posten leidt tot inconsistente content en stress.
 **5. Community management niet meenemen in je abonnement**
 Als je alleen post maar niet reageert op opmerkingen en berichten, mis je de helft van de waarde van social media. Maak community management expliciet onderdeel van je dienstverlening en gebruik de uniforme inbox van Hootsuite of Sprout Social om efficient te reageren.
 
+## Rapportages als verkoopargument voor bureaus
+
+Klanten investeren in social media management zonder altijd te begrijpen wat het oplevert. Goede rapportages zijn je sterkste retentie-instrument: ze maken de waarde van je werk zichtbaar en voorkomen de vraag "waarom betalen we hier eigenlijk voor?"
+
+**Wat je maandelijks moet rapporteren:**
+- Bereik en impressies per platform (was dit meer of minder dan de vorige maand?)
+- Engagementrate per post (welke content werkte het beste?)
+- Volgerontwikkeling (netto nieuwe volgers, niet alleen het totaal)
+- Beste post van de maand met een korte analyse van waarom hij het goed deed
+- Aanbeveling voor de volgende maand
+
+Sprout Social heeft de sterkste white-label rapportages van dit overzicht: je kunt de rapporten in jouw bureauhuisstijl opleveren aan klanten. Hootsuite heeft ook een rapportagefunctie maar minder aanpassingsmogelijkheden. Buffer is beperkt in rapportages en minder geschikt voor bureaus die professionele maandrapportages willen opleveren.
+
+Een tip die ik elke socialmediabureau megeef: maak de rapportage interactief in plaats van een statisch PDF. Sprout Social biedt deelbare rapportagelinks waarmee klanten real-time in de data kunnen kijken. Dat verhoogt de waargenomen transparantie en verlaagt de kans op opzegging.
+
 ## Hoe wij vergelijken
 
 Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.

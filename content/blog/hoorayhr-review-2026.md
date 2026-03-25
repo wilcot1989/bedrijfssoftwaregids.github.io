@@ -281,6 +281,89 @@ Ja, HoorayHR heeft een mobiele app voor iOS en Android. Medewerkers kunnen verlo
 
 ---
 
+## HoorayHR dieper bekeken: functies die het verschil maken
+
+### Prestatiemanagement en doelstellingen (Complete-plan)
+
+Het prestatiemanagement-onderdeel van HoorayHR is beschikbaar vanaf het Complete-plan (€9,50/mnd per medewerker). De functionaliteit is bewust eenvoudig gehouden en sluit aan op wat kleine en middelgrote bedrijven nodig hebben:
+
+**Doelstellingen instellen:**
+- Teamleiders en medewerkers stellen samen doelen in voor een kwartaal of jaar
+- Doelen zijn te koppelen aan afdelingsdoelstellingen
+- Voortgang bij te houden via statusupdates
+
+**Functioneringsgesprekken:**
+- Gespreksformulieren digitaliseren en koppelen aan medewerkersdossier
+- Automatische herinneringen voor geplande gesprekken
+- Gespreksverslagen opslaan in het HR-dossier
+
+Ik implementeerde dit bij een accountantskantoor met 35 medewerkers dat jarenlang functioneringsgesprekken via Word-documenten bijhield. De HR-manager besteedde elke cyclus twee volle werkdagen aan het verzamelen en ordenen van alle formulieren. Na de overstap naar HoorayHR Complete: minder dan twee uur. De gesprekken vinden nog steeds face-to-face plaats, maar de administratie eromheen is gestroomlijnd.
+
+### Tijdregistratie in HoorayHR
+
+Tijdregistratie zit in het Complete-plan. Het is bewust eenvoudig gehouden:
+- Medewerkers loggen uren in via de app of het webportaal
+- Uren koppelen aan projecten, klanten of interne taken
+- Overzicht per medewerker, team en periode
+- Export naar Excel voor verdere verwerking
+
+HoorayHR is hier geen concurrent voor uitgebreide tools als Simplicate of Harvest. Het is een bijzaak die goed genoeg is voor bedrijven die alleen willen bijhouden hoeveel uren hun medewerkers werken en hoe die verdeeld zijn. Bedrijven die serieus op uurtarieven factureren, zijn beter geholpen met een gespecialiseerde tool.
+
+### De onboarding-module in de praktijk
+
+De onboarding-module van HoorayHR (Growth en Complete) is een van de functies waarvoor ik de meeste positieve reacties hoor van klanten. Waarom? Omdat nieuw personeel aannemen in kleine bedrijven altijd een berg losse to-do's oplevert — en HoorayHR structureert die.
+
+**Zo werkt het:**
+Je maakt een onboarding-checklist aan met alle taken die bij een nieuwe medewerker horen. Die taken wijs je toe aan de medewerker zelf, aan de manager, aan IT, aan de receptie — ieder krijgt zijn eigen deellijst. De nieuwe medewerker ontvangt een uitnodiging via e-mail, kan direct de app downloaden, en ziet meteen welke taken er op hem of haar wachten.
+
+Wat er typisch op zo'n checklist staat bij mijn klanten:
+- IT: laptop bestellen, e-mailaccount aanmaken, toegang tot tools regelen
+- HR: arbeidscontract ondertekenen (digitale handtekening via het platform)
+- Manager: welkomstgesprek plannen, kennismaking met het team
+- Medewerker: bankrekening invullen, BurgerServiceNummer doorgeven, profiel aanvullen
+
+De praktijk bij een installatiebedrijf in Rotterdam: voor HoorayHR namen ze gemiddeld drie nieuwe vakmensen per kwartaal aan. De onboarding was elke keer een chaos van losse mails. Na implementatie: de HR-medewerker maakt één onboarding-dossier aan, nodigt de nieuwe medewerker uit, en het systeem volgt automatisch op. De gemiddelde doorlooptijd voor een complete onboarding daalde van tien werkdagen naar vijf.
+
+### Wet Verbetering Poortwachter: automatische tijdlijnbewaking
+
+Dit is de functie die HoorayHR onderscheidt van veel internationale alternatieven. De Wet Verbetering Poortwachter schrijft bij langdurig verzuim strikte termijnen voor: eerste ziektedag melden bij de arbodienst, probleemanalyse na zes weken, plan van aanpak na acht weken, eerstejaarsevaluatie, enzovoort.
+
+HoorayHR bewaart al deze termijnen automatisch zodra je een ziekmelding invoert. Je krijgt herinneringen ruim van tevoren wanneer een actie vereist is. Dit is voor de meeste MKB-bedrijven onmisbaar — de boetes voor het missen van Poortwachter-termijnen lopen snel in de duizenden euro's.
+
+Bij de drie klanten waar ik HoorayHR implementeerde, was dit telkens een van de meest gewaardeerde functies. Niet omdat ze ooit de wet hadden overtreden, maar omdat ze eindelijk het gevoel hadden dat ze controle hadden over dit complexe dossier.
+
+---
+
+## Veelgemaakte fouten bij HoorayHR
+
+Na meerdere implementaties zie ik steeds dezelfde fouten terugkomen bij nieuwe gebruikers:
+
+### 1. Starten zonder verloftypes goed te configureren
+
+De grootste fout die ik zie: bedrijven die direct de app openstellen voor medewerkers zonder eerst de verloftypes te configureren. Hoe hoog is het wettelijk verlof voor een fulltime medewerker? Hoe zit het met bovenwettelijk verlof? Heeft je CAO extra verloftypes (zoals ADV-dagen of seniorendagen)?
+
+Als je dit niet goed instelt, kloppen de saldo's van dag één niet. Medewerkers raken gefrustreerd en de geloofwaardigheid van het systeem is meteen aangetast. Investeer een halve dag in de verlofconfiguratie vóór je live gaat.
+
+### 2. Medewerkers niet actief onboarden naar de app
+
+Ik zie het regelmatig: de manager stuurt een uitnodigingsmail en gaat er vanuit dat medewerkers de app vanzelf oppakken. In de praktijk is de adoptiegraad dan laag, zeker bij oudere medewerkers of medewerkers zonder smartphone-werkervaring.
+
+Mijn aanpak: plan een korte sessie van twintig minuten waarbij je de app live demonstreert op een groot scherm. Laat een medewerker een verlofaanvraag indienen terwijl de rest toekijkt. Zodra mensen zien hoe eenvoudig het is, neemt de adoptie snel toe.
+
+### 3. De koppeling met salarisadministratie te lang uitstellen
+
+HoorayHR vervangt je salarisadministratie niet — het vult hem aan. De koppeling met Loket.nl of Nmbrs zorgt ervoor dat verlofuren en verzuimdata automatisch worden doorgegeven aan je salarissoftware. Als je die koppeling niet instelt, kopieer je handmatig, en dan verlies je precies de tijdsbesparing waarvoor je het systeem hebt aangeschaft.
+
+### 4. Rapportages negeren
+
+De Bradford Factor-rapportage en het verzuimoverzicht zijn waardevolle managementtools, maar ik zie ze bij veel klanten ongebruikt blijven. Plan een maandelijks moment (vijftien minuten is genoeg) waarop je de verzuimrapportage bekijkt. Patronen in verzuim — altijd maandag, altijd na een drukke week — zijn zichtbaar in de data lang voordat een medewerker zelf aangeeft dat er iets speelt.
+
+### 5. API-toegang vergeten terwijl je het Complete-plan gebruikt
+
+Het Complete-plan biedt API-toegang, wat je in staat stelt HoorayHR te koppelen aan andere systemen die geen native integratie hebben. Veel klanten betalen voor het Complete-plan maar weten niet dat de API beschikbaar is. Vraag je leveranciers of je projectmanagementsoftware of andere tools HoorayHR via API kunnen aanspreken — het kan extra handmatig werk elimineren.
+
+---
+
 ## HoorayHR in de praktijk: concrete gebruiksscenario's
 
 ### Verlofaanvragen: van papier naar digitaal

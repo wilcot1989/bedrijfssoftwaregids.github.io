@@ -289,6 +289,24 @@ ActiveCampaign biedt geen Nederlandse interface. Voor teams met beperkte Engelse
 
 ---
 
+## ActiveCampaign vs Mailchimp: kostenvergelijking op contactlijstgrootte
+
+De prijs van beide tools schaalt mee met het aantal contacten op je lijst. Hier is een vergelijking bij veelvoorkomende lijstgroottes.
+
+| Contacten | ActiveCampaign Starter | Mailchimp Essentials | Mailchimp Standard |
+|-----------|----------------------|----------------------|-------------------|
+| **500** | $15/mnd | $13/mnd | $20/mnd |
+| **2.500** | $49/mnd | $30/mnd | $45/mnd |
+| **5.000** | $79/mnd | $50/mnd | $75/mnd |
+| **10.000** | $139/mnd | $80/mnd | $130/mnd |
+| **25.000** | $239/mnd | $200/mnd | $270/mnd |
+
+Bij kleine lijsten (tot 5.000) is Mailchimp goedkoper. Boven de 10.000 contacten worden de prijzen vergelijkbaar. Maar de planselectie is cruciaal: het Mailchimp Essentials-plan heeft geen geavanceerde automation (dat zit pas in Standard), waardoor de eerlijke vergelijking Mailchimp Standard vs ActiveCampaign Starter is — en dan zijn de prijzen dicht bij elkaar.
+
+**Let op bij ActiveCampaign:** het Starter-plan (voorheen Lite) is beperkt in automations. Voor de volledige kracht van ActiveCampaign — lead scoring, site tracking, CRM — heb je het Plus-plan nodig ($49+/mnd bij 500 contacten). Reken dat mee als je vergelijkt.
+
+---
+
 ## Mijn advies
 
 Na al die vergelijkingen, wat zou ik zelf kiezen? Het hangt af van je situatie:

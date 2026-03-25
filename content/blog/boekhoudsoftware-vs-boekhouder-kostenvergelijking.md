@@ -221,6 +221,45 @@ Dat is niet iets wat een boekhouder die eens per kwartaal meekijkt je kan geven.
 
 **De valkuil van overschatting:** Aan de andere kant zie ik ook ondernemers die te optimistisch zijn over wat ze zelf kunnen. Ze beginnen met software, maken in het eerste jaar een paar categoriseerfouten, en ontdekken dat bij de jaaraangifte — op het moment dat het te laat is om makkelijk te corrigeren. Mijn advies: laat je eerste jaaraangifte altijd controleren door een boekhouder, ook als je de rest van het jaar zelfstandig boekt. Die ene controle kost €300-€500 en geeft je de zekerheid dat je het goed hebt gedaan.
 
+## Concrete kostenvergelijking: software alleen vs software + accountant
+
+Ik hoor van ondernemers dat ze niet weten hoeveel "genoeg" is om voor een boekhouder te betalen. Hier zijn de meest voorkomende scenario's uitgerekend.
+
+### Scenario 1: ZZP'er, 20 facturen per maand, zelfstandig
+
+| Post | Software alleen | Software + kwartaalcontrole |
+|------|----------------|------------------------------|
+| Boekhoudsoftware | €15-€39/mnd | €15-€39/mnd |
+| Boekhouder | €0 | ~€75/mnd (kwartaalaangifte) |
+| Eigen tijd administratie | 3-5 uur/mnd | 2 uur/mnd |
+| **Kosten per jaar** | **€180-€468** | **€1.080-€1.368** |
+
+Voor een ZZP'er die bereid is 3-5 uur per maand te investeren, is software alleen de goedkoopste optie.
+
+### Scenario 2: BV, 50 facturen/maand, boekhouder doet jaarrekening
+
+| Post | Software alleen | Software + boekhouder |
+|------|----------------|------------------------|
+| Boekhoudsoftware | €39-€55/mnd | €39-€55/mnd |
+| Boekhouder (jaarrekening) | €0* | ~€175/mnd |
+| Eigen tijd | 5-8 uur/mnd | 2 uur/mnd |
+| **Kosten per jaar** | **€468-€660*** | **€2.568-€2.760** |
+
+*Let op: een BV is wettelijk verplicht een jaarrekening te deponeren. Dat kost minimaal één keer boekhouder-werk, ook als je zelf boekt. Reken op €800-€2.000 per jaar voor een accountant die jouw BV-jaarrekening opstelt.
+
+### Scenario 3: Klein MKB, 5 medewerkers, alles uitbesteed
+
+| Post | Software + volledig uitbesteed |
+|------|-------------------------------|
+| Boekhoudsoftware | €80-€160/mnd |
+| Boekhouder (volledig) | €250-€600/mnd |
+| Eigen tijd | < 1 uur/mnd |
+| **Kosten per jaar** | **€3.960-€9.120** |
+
+Voor een bedrijf op dit niveau is volledig uitbesteden vrijwel altijd duurder dan software + deel uitbesteden. De vraag is welk deel jij zelf wil bijhouden.
+
+---
+
 ## Lees ook
 
 - [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — vergelijk pakketten op prijs en functies

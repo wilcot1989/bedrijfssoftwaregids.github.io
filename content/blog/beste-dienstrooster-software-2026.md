@@ -582,3 +582,65 @@ Ja, deze functie heet "open shifts" of "beschikbare diensten". Planday is de ste
 
 **Hoe werkt verlofbeheer in dienstrooster software?**
 Medewerkers dienen verlofaanvragen in via de app. De manager keurt goed of af, ook via de app. Goedgekeurd verlof wordt direct zichtbaar in het rooster: als je probeert een medewerker in te plannen op zijn verlofdag, krijg je een waarschuwing. Shiftbase en Dyflexis koppelen het verlofregistratie aan de uren- en salarisadministratie.
+
+---
+
+## Dienstrooster software versus werkrooster software: het onderscheid
+
+De termen worden door elkaar gebruikt, maar er is een nuanceverschil. **Werkrooster software** is de bredere categorie: het plan wie wanneer werkt over een langere periode (wekelijks, maandelijks). **Dienstrooster software** richt zich specifiek op het beheer van diensten in sectoren met wisselende ploegendiensten — 24-uurs bezetting, nachtdiensten, kwalificatievereisten per dienst.
+
+In de praktijk bieden alle tools in dit overzicht beide functies. Het onderscheid is relevant bij de keuze: als u alleen een weekrooster nodig heeft voor een horecazaak, volstaat eenvoudigere software. Als u 24-uurs ploegenroosters beheert voor een productie- of zorgomgeving, heeft u de specifieke functies van Quinyx of Shiftbase Enterprise nodig.
+
+---
+
+## Automatische CAO-compliance: de tijdsbesparing die telt
+
+De Arbeidstijdenwet (ATW) en sectorspecifieke CAO's schrijven regels voor die handmatig nauwelijks te controleren zijn. Dienstrooster software controleert deze automatisch bij elk roosterwijziging.
+
+**ATW-regels die automatisch worden gecontroleerd:**
+- Minimale rusttijd tussen twee diensten (11 uur normaal, 8 uur uitzondering)
+- Maximaal 60 uur per week (gemiddeld 48 uur per 4 weken)
+- Pauzevoorschriften bij diensten van meer dan 5,5 uur
+- Maximaal 8 nachtdiensten per 4 weken
+
+**CAO-specifieke regels (afhankelijk van configuratie):**
+- Toeslag voor avond-, nacht- en weekenddiensten
+- Verplichte rust na reeks nachtdiensten
+- Maximale dienstreeksen zonder vrije dag
+- Rechten bij oproep en annulering
+
+Shiftbase en Quinyx hebben de meest uitgebreide CAO-configuratiemogelijkheden voor de Nederlandse markt. Planday biedt goede basisondersteuning maar vraagt meer handmatige configuratie voor sectorspecifieke CAO's.
+
+---
+
+## Kosten en ROI van dienstrooster software
+
+### Tijdsbesparing per week
+
+| Bedrijfsgrootte | Zonder software | Met software | Besparing |
+|----------------|-----------------|--------------|-----------|
+| 15 medewerkers | 3 uur | 45 min | 2,25 uur |
+| 35 medewerkers | 6 uur | 1,5 uur | 4,5 uur |
+| 75 medewerkers | 12 uur | 3 uur | 9 uur |
+
+Bij een uurkostprijs van €40 voor de planningsverantwoordelijke en 50 werkweken per jaar:
+- 15 medewerkers: 2,25 uur × €40 × 50 = **€4.500/jaar bespaard**
+- 35 medewerkers: 4,5 uur × €40 × 50 = **€9.000/jaar bespaard**
+
+Software-investering voor 35 medewerkers: €50–€175/mnd × 12 = €600–€2.100/jaar. ROI: positief binnen de eerste maand.
+
+---
+
+## Implementatie in 5 dagen: een praktische roadmap
+
+**Dag 1:** Account aanmaken, medewerkerslijst importeren (CSV of handmatig), functies aanmaken.
+
+**Dag 2:** CAO-configuratie instellen, diensttypes definiëren (ochtend, middag, avond, nacht), locaties aanmaken bij meerdere vestigingen.
+
+**Dag 3:** Eerste rooster bouwen voor de komende week. Test de CAO-controle door een regel te overschrijden en controleer of de waarschuwing correct is.
+
+**Dag 4:** App uitrollen aan medewerkers. Stuur een korte instructieboodschap met de installatiestappen. Laat medewerkers het rooster inzien en beschikbaarheid doorgeven.
+
+**Dag 5:** Koppeling met salarisadministratie instellen. Test met drie medewerkers: klokt u de uren, dan stroomt de data door naar de salarisadministratie.
+
+Na vijf dagen bent u operationeel. De verfijning (rapportages, geavanceerde prognoses, extra integraties) voegt u daarna stap voor stap toe.

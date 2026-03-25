@@ -584,3 +584,66 @@ Een cloudgebaseerd systeem als Shiftbase of Planday is doorgaans binnen één to
 
 **Wat is het verschil tussen personeelsplanning en urenregistratie software?**
 Personeelsplanning software richt zich op het vooruit roosteren: wie werkt wanneer, op welke locatie, in welke functie. Urenregistratie legt achteraf vast hoeveel uur er daadwerkelijk gewerkt is. Moderne planningssystemen combineren beide: je bouwt het rooster, medewerkers klokken in via app of tablet, en het systeem vergelijkt gepland versus werkelijk. Standalone urenregistratietools zijn goedkoper maar missen de planningsfunctionaliteit.
+
+---
+
+## Personeelsplanning en de WAB: de regels die u moet kennen
+
+De Wet Arbeidsmarkt in Balans (WAB) heeft directe implicaties voor hoe u personeelsplanning software moet gebruiken. Hier zijn de meest relevante regels.
+
+### Oproepkrachten en de 4-dagenregel
+
+Oproepkrachten moeten minimaal 4 dagen van tevoren worden opgeroepen. Roept u later op of annuleert u korter dan 4 dagen van tevoren, dan heeft de oproepkracht recht op loon over de geplande uren. Personeelsplanning software die de publicatiedatum van het rooster bijhoudt, is bewijsbaar voor naleving.
+
+Shiftbase en Dyflexis tracken automatisch wanneer een dienst is gepubliceerd. Als de medewerker de dienst via de app accepteert, is er een digitale bevestiging. Dat is uw bewijs bij een eventueel geschil.
+
+### Gemiddelde contractomvang na 12 maanden
+
+Na 12 maanden heeft een oproepkracht recht op een aanbod voor vaste uren, gebaseerd op het gemiddeld aantal gewerkte uren in de afgelopen 12 maanden. De software moet dit bijhouden en u tijdig waarschuwen.
+
+Shiftbase heeft hiervoor een ingebouwde alert: wanneer een oproepkracht de grens van 12 maanden nadert, krijgt u een notificatie. U ziet direct het gemiddeld gewerkte uren. Dat voorkomt dat u de verplichting mist.
+
+### Ketenbepaling
+
+Na drie tijdelijke contracten of 36 maanden heeft een medewerker automatisch recht op een vast contract. Personeelsplanning software registreert contractduur maar de juridische beoordeling vereist altijd een HR-adviseur of arbeidsrechtspecialist.
+
+---
+
+## Sector-specifieke overwegingen
+
+### Thuiszorg en VVT
+
+In de thuiszorg gelden naast de WAB ook sectorspecifieke regels uit de Cao VVT. De bezettingsnormen zijn wettelijk vastgelegd: het aantal medewerkers per patiënt per dagdeel. Software die deze normen bewaakt, is in de zorg geen optie maar vereiste.
+
+Quinyx en Shiftbase Enterprise ondersteunen zorg-specifieke bezettingsprofielen. Kleinere zorgorganisaties (< 50 medewerkers) volstaan met Shiftbase Premium.
+
+### Onderwijs en kinderopvang
+
+De kinderopvang heeft strikte kind-medewerker ratio's die per leeftijdsgroep en locatie verschillen. Personeelsplanning software die deze ratio's bewaakt en waarschuwt als een dienst onderbezet is, is hier onmisbaar.
+
+Dyflexis heeft specifieke functies voor de kinderopvangsector met ratio-bewaking per groep.
+
+### Logistiek en distributie
+
+In logistiek is de koppeling tussen personeelsplanning en orderverwachting de meest waardevolle functie. Als u weet dat er morgen 400 pakketten verwacht worden in plaats van de gebruikelijke 200, wil u dat dit automatisch tot extra bezetting leidt.
+
+Quinyx biedt als enige in dit overzicht prognose-driven personeelsplanning op basis van externe data. Voor standaard logistiek MKB is Shiftbase voldoende.
+
+---
+
+## Kosten vergelijking: totale jaarkosten bij drie teamgroottes
+
+| Software | 10 mdw/jaar | 30 mdw/jaar | 75 mdw/jaar |
+|----------|-------------|-------------|-------------|
+| Werktijden.nl | ~€180 | ~€540 | ~€1.350 |
+| Shiftbase Basic | ~€420 | ~€1.260 | ~€3.150 |
+| Shiftbase Premium | ~€600 | ~€1.800 | ~€4.500 |
+| Dyflexis | Op aanvraag | Op aanvraag | Op aanvraag |
+| Quinyx | ~€600 | ~€1.800 | ~€4.500 |
+
+*Indicatieve bedragen — vraag altijd een offerte aan bij meerdere aanbieders*
+
+De besparingen rechtvaardigen de investering bij vrijwel elk bedrijf met variabele diensten:
+- Tijdsbesparing roosterplanning: €2.000-€5.000/jaar
+- Minder loopfouten: €500-€1.000/jaar
+- Lager verloop door betere planningscommunicatie: €3.000-€10.000/jaar (1 medewerker minder vervangen)

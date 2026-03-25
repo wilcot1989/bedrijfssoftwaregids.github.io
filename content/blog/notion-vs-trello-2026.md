@@ -394,6 +394,47 @@ Passen Notion en Trello allebei niet helemaal?
 
 Lees ook het complete overzicht: [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/). Overweeg je ook een gratis optie? Lees dan [beste gratis projectmanagement software 2026](/blog/beste-gratis-projectmanagement-software-2026/). Ben je aan het overgang van spreadsheets? Bekijk [van spreadsheet naar projectmanagement software](/blog/spreadsheet-naar-projectmanagement-2026/).
 
+## Notion vs Trello: prijsvergelijking en wanneer betalen loont
+
+Voor kleine teams is de gratis versie van beide tools goed bruikbaar. Maar zodra je gaat betalen, hoe vergelijken ze?
+
+### Kosten bij 5 gebruikers
+
+| Plan | Notion | Trello |
+|------|--------|--------|
+| **Gratis** | €0 (individueel, 1 gast) | €0 (10 borden) |
+| **Instap betaald** | 5 × $10 = ~€46/mnd (Plus) | 5 × $5 = ~€23/mnd (Standard) |
+| **Vergelijkbaar betaald** | 5 × $10 = ~€46/mnd | 5 × $10 = ~€46/mnd (Premium) |
+| **Inclusief AI** | 5 × $20 = ~€92/mnd (Plus + AI) | Niet beschikbaar |
+
+Op vergelijkbaar betaald niveau liggen de kosten vrijwel gelijk. Trello's Standard is goedkoper, maar mist tijdlijn en dashboards. Notion Plus en Trello Premium kosten hetzelfde maar bieden heel andere functies.
+
+### Wanneer betaal je voor Notion en wanneer blijft Trello gratis genoeg?
+
+**Trello gratis volstaat** voor teams van maximaal 10 personen die eenvoudige Kanban-workflows gebruiken, maximaal 10 borden nodig hebben en geen tijdlijn of uitgebreide rapportages willen. De gratis versie van Trello is voor veel kleine teams permanent voldoende.
+
+**Notion betaald is de moeite waard** zodra je gasten wilt uitnodigen (klanten, freelancers), meer dan 5 MB per upload wilt uploaden of de volledige versiegeschiedenis wilt bewaren. Het Plus-plan ($10/gebruiker/maand) is voor de meeste teams het minimum voor serieus gebruik.
+
+---
+
+## Veelgemaakte fouten bij de keuze Notion vs Trello
+
+Ik zie teams regelmatig dezelfde vergissingen maken.
+
+**Fout 1: Notion kiezen omdat het populair is, niet omdat het past.**
+FOMO is een slechte basis voor een toolkeuze. Notion werkt uitstekend als het goed is ingericht — maar als je alleen Kanban-borden nodig hebt, heb je al die flexibiliteit niet nodig. Begin met Trello en schakel alleen over als je merkt dat het tekortschiet.
+
+**Fout 2: Trello behouden terwijl het duidelijk te beperkt is geworden.**
+Ik zie teams die twintig borden hebben aangemaakt, geen overkoepelend overzicht hebben en wekelijks zoeken naar een kaart die "ergens op een bord" staat. Dat is het signaal dat Trello zijn grens heeft bereikt. Op dat punt is Notion — of Asana — een betere keuze.
+
+**Fout 3: Notion inrichten zonder architectuurplan.**
+Begin niet met klikken. Teken eerst op papier of in een whiteboard welke databases je nodig hebt, hoe ze aan elkaar gekoppeld zijn en welke views je gebruikt. Zonder dit plan eindig je met een chaos van pagina's die niemand meer begrijpt.
+
+**Fout 4: De leercurve van Notion onderschatten bij team-onboarding.**
+Als jij als beheerder Notion al begrijpt, vergeet dan niet dat je team dat niet vanzelf ook doet. Plan een onboardingsessie van twee uur waar je de structuur uitlegt, de databases demonstreert en de drie meest gebruikte views toont. Zonder dat toewijding werkt de tool twee weken en dan niet meer.
+
+---
+
 ## Conclusie: Notion vs Trello 2026
 
 Trello wint op eenvoud, snelheid en Kanban-ervaring. Het is de beste keuze voor kleine teams die snel willen starten en primair Kanban-workflows gebruiken.

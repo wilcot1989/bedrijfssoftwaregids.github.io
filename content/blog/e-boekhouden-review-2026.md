@@ -335,6 +335,55 @@ Wil je e-Boekhouden vergelijken met alternatieven? Bekijk de **[vergelijkingsmat
 **Hoe werkt de 15 maanden gratis startersregeling precies?**
 Als je KvK-inschrijving minder dan 15 maanden oud is op het moment dat je je aanmeldt bij e-Boekhouden, gebruik je het pakket gratis tot je inschrijving 15 maanden oud is. Daarna betaal je automatisch het reguliere tarief tenzij je opzegt. Je krijgt hierover een e-mailherinnering van e-Boekhouden. Er is geen creditcard vereist bij aanmelding.
 
+## e-Boekhouden voor specifieke situaties
+
+### e-Boekhouden voor webshop-eigenaren
+
+Webshop-eigenaren hebben een specifiek boekhoudvraagstuk: ze verwerken veel facturen en transacties, vaak via Stripe, PayPal of Mollie. Hoe werkt dat in e-Boekhouden?
+
+De directe koppeling met Mollie is beschikbaar via een Zapier-integratie of handmatige export. Er is geen native plug-and-play koppeling zoals bij Exact Online. Dat betekent in de praktijk: je exporteert periodiek je Mollie-transacties en importeert ze handmatig in e-Boekhouden, of je automatiseert dat via Zapier.
+
+Voor een webshop met tien tot twintig bestellingen per dag is dat te doen. Voor grotere volumes is Exact Online of Moneybird met de WooCommerce-koppeling praktischer. De bankkoppeling pakt overschrijvingen van Mollie naar je zakelijke rekening automatisch op, maar niet de onderliggende orderdetails.
+
+Mijn advies voor webshop-eigenaren: als je minder dan 200 bestellingen per maand hebt, is e-Boekhouden goed bruikbaar. Daarboven wil je een koppeling die automatisch per bestelling boekt, en dan is Exact Online of een gespecialiseerde oplossing beter.
+
+### e-Boekhouden als je een BV hebt
+
+e-Boekhouden ondersteunt ook BV's, niet alleen eenmanszaken en VOF's. Relevant voor BV-houders:
+
+- **Vennootschapsbelasting:** e-Boekhouden helpt je de cijfers op orde te houden, maar de Vpb-aangifte zelf wordt bijna altijd door een accountant gedaan. De rapportages uit e-Boekhouden zijn goed bruikbaar als basis.
+- **Loon DGA:** salaris van de directeur-grootaandeelhouder boek je als loonkosten. e-Boekhouden ondersteunt dit, al heb je er een salarisadministrateur of accountant voor nodig om de juiste boekingen aan te leveren.
+- **Enkelvoudig en dubbel boekhouden:** beide methoden worden ondersteund. Voor een BV met een externe accountant die dubbel boekhoudt, is e-Boekhouden goed inzetbaar.
+
+Mijn ervaring: BV-houders met een eenvoudige bedrijfsstructuur gebruiken e-Boekhouden goed als hun primaire administratietool, aangevuld met een accountant voor de jaarstukken en belastingaangiften. Zodra een BV complexer wordt (meerdere entiteiten, personeelsleden, internationale activiteiten), is Exact Online een beter fundament.
+
+### e-Boekhouden en de overstap naar een boekhouder
+
+Een veelgehoorde situatie: je bent als ZZP'er gestart, deed alles zelf, en nu groeit je bedrijf en wil je een boekhouder inschakelen. Hoe werkt dat met e-Boekhouden?
+
+De boekhouder krijgt toegang via de boekhouderskoppeling. Dat betekent dat hij of zij direct in jouw administratie kan werken, zonder dat jij bestanden hoeft aan te leveren. Voor de kwartaalcijfers en jaarrekening heeft je accountant daarmee alles wat hij nodig heeft.
+
+Wat je zelf moet doen: je administratie actueel houden. Een boekhouder die midden in een rommelige administratie moet werken, kost je meer per uur. De meeste accountants waarmee ik werk, geven aan dat e-Boekhouden-klanten over het algemeen nettere administraties hebben dan Excel-bijhouders — simpelweg omdat de software structuur afdwingt.
+
+---
+
+## e-Boekhouden vs. FreeAgent en andere internationale alternatieven
+
+Soms kom ik freelancers tegen die internationale alternatieven overwegen zoals FreeAgent, Wave of FreshBooks. Hier is de directe vergelijking:
+
+| Kenmerk | e-Boekhouden | FreeAgent | Wave (gratis) |
+|---|---|---|---|
+| **BTW-aangifte NL** | Ja, direct | Via accountant | Nee |
+| **Bankkoppeling NL** | Ja (alle grote banken) | Beperkt | Nee voor NL |
+| **KOR-ondersteuning** | Ja | Nee | Nee |
+| **Telefonische support NL** | Ja | Nee | Nee |
+| **Prijs/mnd** | €9,95 | £19 (~€22) | Gratis |
+| **Interface** | Traditioneel | Modern | Modern |
+
+Voor Nederlandse ZZP'ers en kleine bedrijven is er geen goede reden om een buitenlands boekhoudpakket te gebruiken. De Nederlandse fiscale eisen (BTW-aangifte, KOR, ICP-aangifte) zijn te specifiek om goed door internationale tools afgedekt te worden.
+
+---
+
 **Kan ik overstappen van Moneybird naar e-Boekhouden?**
 Ja. Moneybird laat je contacten, facturen en transacties exporteren als CSV. Die importeer je in e-Boekhouden. De boekhoudkundige historie -- grootboekboekingen, openstaande posten -- moet je handmatig of via je boekhouder overbrengen als beginbalans. Reken op een middag werk. e-Boekhouden biedt ook een overstapkorting van 50% als je van een ander pakket komt.
 

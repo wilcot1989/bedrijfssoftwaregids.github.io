@@ -167,6 +167,20 @@ Gebruik de [CRM keuzehulp](/tools/crm/keuzehulp/) om een systeem te vinden met s
 
 Een volledig overzicht van alle CRM-software vergelijkingen en reviews vind je op de [CRM overzichtspagina](/categories/crm/). Als je ook wil weten hoe je een CRM stap voor stap invoert, lees dan het [CRM implementatieplan voor 30 dagen](/blog/crm-implementatieplan-30-dagen/).
 
+## De drie retentiemetrieken die je vandaag kunt beginnen te meten
+
+Retentie meten hoeft niet te beginnen met een volledig CRM-dashboard. Er zijn drie basismetrieken die je met elk CRM kunt bijhouden, zelfs met een basisabonnement.
+
+**1. Klantlevensduur per segment.** Hoe lang blijft een gemiddelde klant actief in elke klantcategorie? Als je klanten labelt op type (klein, middel, groot; of sector A, B, C), kun je per label de gemiddelde looptijd berekenen. Dat geeft je inzicht in welk type klant het meest loyaal is en waar churn het hardst toeslaat.
+
+**2. Tijdstip van eerste herhaalaankoop.** In sectoren met herhaalaankopen is de tijd tussen de eerste en tweede order een sterke voorspeller van langetermijnsklantwaarde. Klanten die snel terugkomen, hebben een hogere lifetime value dan klanten die lang wachten. Wie die grens kent, weet wanneer hij proactief contact moet opnemen om een tweede order te stimuleren.
+
+**3. Support-ticketfrequentie per klant.** Klanten die veel support vragen vlak voordat ze opzeggen, geven een patroon. Als je support-tickets koppelt aan klantprofielen in je CRM, zie je of hoge supportfrequentie een voorspeller is van churn. Dat is een stap die weinig MKB-bedrijven nemen, maar die je retentieaanpak aanzienlijk scherper maakt.
+
+Drie metrieken. Combineer ze en je hebt een retentiemonitor die veel complexere dashboards overbodig maakt.
+
+---
+
 **Lees ook:**
 - [Beste CRM-software Nederland 2026](/blog/beste-crm-software-nederland-2026/)
 - [De meest gemaakte CRM-fouten in het MKB](/blog/crm-fouten-mkb/)

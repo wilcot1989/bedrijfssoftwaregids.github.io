@@ -334,6 +334,29 @@ Wil je een directe vergelijking tussen HubSpot en Close? Lees de [HubSpot vs Clo
 
 Bekijk ook mijn complete vergelijking van de [beste CRM software in Nederland](/blog/beste-crm-software-nederland-2026/) voor een uitgebreider overzicht. Wil je ook leren hoe je klantretentie kunt meten via je CRM? Lees dan het artikel over [klantretentie meten met CRM software](/blog/klantretentie-meten-crm-software/). En vermijd de meestgemaakte implementatiefouten via het artikel [CRM fouten bij MKB](/blog/crm-fouten-mkb/).
 
+## Veelgemaakte fouten bij HubSpot CRM
+
+**Fout 1: Direct starten met het betaalde plan zonder het gratis plan te benutten**
+HubSpot's gratis CRM is functioneel genoeg voor de meeste kleine salesteams. Ik zie bedrijven die direct Sales Hub Starter kopen omdat ze "meer willen" — maar in de eerste drie maanden gebruiken ze nauwelijks meer dan het gratis plan biedt. Begin gratis, upgrade alleen als je een specifieke betaalde functie nodig hebt.
+
+**Fout 2: Leads en contacten door elkaar gebruiken**
+HubSpot maakt onderscheid tussen contacten (personen) en bedrijven (companies). Deals koppel je aan contacten en bedrijven. Als je dit niet van begin af aan consequent toepast, wordt je database rommelig en zijn je rapportages onbetrouwbaar.
+
+**Fout 3: Niet segmenteren op lifecycle stage**
+HubSpot heeft lifecycle stages (Subscriber, Lead, MQL, SQL, Customer etc.) die inzicht geven in waar contacten in de funnel zitten. Veel bedrijven laten deze op de standaardwaarde staan. Stel van dag één criteria in voor elke stage — dit maakt je rapportages direct bruikbaar.
+
+---
+
+## HubSpot in 2026: AI-functies
+
+HubSpot heeft de afgelopen twee jaar fors geïnvesteerd in AI-functies onder de noemer "Breeze". De meest relevante voor CRM-gebruikers:
+
+**Breeze Copilot:** een AI-assistent die je helpt bij het schrijven van e-mails, het samenvatten van contactgeschiedenissen en het genereren van taken. In mijn tests is de e-mailhulp nuttig voor eerste concepten, maar vraagt altijd aanpassing voor toonvast merkgebruik.
+
+**Breeze Intelligence:** verrijkt je contactprofielen automatisch met bedrijfsdata, technografie en intentie-signalen. Dit is een betaalde add-on, maar voor B2B-teams die koude prospects kwalificeren, is het de investering waard.
+
+---
+
 *Prijzen en scores gecontroleerd op 1 maart 2026. HubSpot past prijzen regelmatig aan -- controleer altijd de actuele tarieven op hubspot.com/pricing.*
 
 <a href="https://www.hubspot.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar hubspot.com →</a>

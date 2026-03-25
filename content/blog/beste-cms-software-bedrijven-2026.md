@@ -460,3 +460,142 @@ Ja. WordPress ondersteunt WooCommerce voor e-commerce; Webflow heeft een ingebou
 ### Is Contentful goed voor een Nederlandse bedrijfswebsite?
 
 Contentful is uitstekend voor grote organisaties die content op meerdere kanalen publiceren. Voor een typische Nederlandse MKB-bedrijfswebsite is het overkill. WordPress of Webflow zijn eenvoudiger, goedkoper en sneller te implementeren. Contentful is pas interessant als je ook een app, kiosk of ander digitaal kanaal wil voeden met dezelfde content.
+
+---
+
+## Kosten vergelijking: totale jaarkost per bedrijfstype
+
+Wat betaal je werkelijk in het eerste jaar voor je CMS-website? Hier is een eerlijke berekening inclusief verborgen kosten.
+
+### Klein dienstverlenend bedrijf (WordPress)
+
+| Kostenpost | Eenmalig | Jaarlijks |
+|-----------|----------|-----------|
+| WordPress hosting (TransIP) | — | €80–€200 |
+| Premium thema | €60–€150 | — |
+| Yoast SEO premium | — | €99 |
+| Backup plugin | — | €70 |
+| Eventuele contact-plugin | — | €50 |
+| **Totaal** | **€60–€150** | **€299–€419** |
+
+Dit is de goedkoopste professionele optie: een volledig functionele bedrijfswebsite voor minder dan €500 in het eerste jaar.
+
+### Groeiend marketingteam (Webflow)
+
+| Kostenpost | Eenmalig | Jaarlijks |
+|-----------|----------|-----------|
+| Webflow CMS-plan | — | €276 |
+| Premium template | €49–€99 | — |
+| Eventuele add-ons | — | €50–€100 |
+| **Totaal** | **€49–€99** | **€326–€376** |
+
+Webflow is qua jaarkosten vergelijkbaar met WordPress maar scheelt enorm in onderhoudstijd. Er zijn geen updates, geen beveiligingsproblemen en geen hostingbeheer.
+
+### Enterprise headless (Contentful + Next.js front-end)
+
+| Kostenpost | Eenmalig | Jaarlijks |
+|-----------|----------|-----------|
+| Front-end development | €20.000–€80.000 | — |
+| Contentful Basic | — | €3.600 |
+| Hosting (Vercel/Netlify) | — | €600–€2.400 |
+| Onderhoud en updates | — | €5.000–€15.000 |
+| **Totaal** | **€20.000–€80.000** | **€9.200–€21.000** |
+
+Headless is aanzienlijk duurder. De investering is alleen gerechtvaardigd als u meerdere kanalen bedient of extreme prestatie- en schaalbaarheidsbehoeften heeft.
+
+---
+
+## Migratie: van het ene CMS naar het andere
+
+Een vraag die ik regelmatig krijg: hoe migreer je van WordPress naar Webflow (of omgekeerd)? Hier zijn de praktische stappen.
+
+### Van WordPress naar Webflow
+
+1. **Content exporteren**: Exporteer WordPress-posts en pagina's als XML via het WordPress-export-tool.
+2. **Webflow CMS inrichten**: Maak de CMS-collecties aan in Webflow die overeenkomen met je WordPress-structuur (posts, pages, custom post types).
+3. **Content importeren**: Gebruik het Webflow CSV-importformat om content in bulk te importeren. Afbeeldingen moeten apart worden overgezet.
+4. **Redirect-mapping**: Maak een redirect-tabel van alle oude URLs naar nieuwe URLs. Dit is het meest arbeidsintensieve onderdeel en bepaalt of je SEO-waarde behouden blijft.
+5. **DNS overschakelen**: Switch de DNS pas over als alles werkt en getest is.
+
+Een WordPress-naar-Webflow-migratie voor een website met 50–100 pagina's kost bij een bureau doorgaans €2.000–€8.000.
+
+### Van Joomla/Drupal naar WordPress
+
+Vergelijkbaar proces maar met meer complexiteit door de specifieke databasestructuur van Drupal en Joomla. Er zijn migratieplugins (WP All Import, CMS2CMS) die het proces vereenvoudigen, maar handmatige verificatie is altijd nodig.
+
+### Wanneer migreren?
+
+Overweeg een CMS-migratie als:
+- Je huidig CMS niet meer actief wordt doorontwikkeld
+- De beheerslast te hoog is (wekelijkse updates, beveiligingsincidenten)
+- Je behoefte aan functionaliteit is veranderd (bijv. multi-channel)
+- Je team het huidig systeem niet prettig vindt om in te werken
+
+Vermijd migraties kort voor grote SEO-campagnes of productlanceringen. Een migratie heeft altijd tijdelijk effect op je rankings, hoe goed de redirects ook zijn ingericht.
+
+---
+
+## CMS-beveiliging: het onderschatte risico
+
+WordPress is het meest aangevallen CMS op internet — niet omdat het onveilig is, maar omdat 43% marktaandeel het een aantrekkelijk doelwit maakt. De meeste aanvallen zijn geautomatiseerd en richten zich op bekende kwetsbaarheden in verouderde plugins of themes.
+
+**Minimale beveiligingsmaatregelen voor WordPress:**
+
+1. **Automatische updates inschakelen** voor WordPress core, plugins en themes. Verouderde software is de meest voorkomende insteek.
+2. **Sterke wachtwoorden + 2FA** voor alle admin-accounts.
+3. **Beperkte loginpogingen** via een plugin (Limit Login Attempts Reloaded).
+4. **Firewall plugin** (Wordfence of Sucuri) voor real-time malware-scanning en aanvalsdetectie.
+5. **Dagelijkse backups** naar een externe locatie (niet alleen op dezelfde server).
+6. **Verwijder ongebruikte plugins en themes** — ze zijn aanvalsvectoren ook zonder actief gebruik.
+
+Voor Webflow, Contentful en Strapi Cloud hoeft u zich minder zorgen te maken over servers — de providers beheren de beveiligingsinfrastructuur. U bent verantwoordelijk voor toegangsbeheer en sterke wachtwoorden.
+
+---
+
+## Multi-taal websites: welk CMS is het sterkst?
+
+Als uw bedrijf actief is in meerdere talen (Nederlands én Engels, of andere combinaties), is multi-taalondersteuning een belangrijk selectiecriterium.
+
+**WordPress:** Multi-taal via plugins (WPML of Polylang). WPML is de meest complete oplossing en kost €99/jaar. Polylang heeft een gratis versie. Niet ingebouwd maar functioneel uitstekend.
+
+**Joomla:** Multi-taal is ingebouwd en goed uitgewerkt. Een van de sterkste punten van Joomla ten opzichte van WordPress voor internationale websites.
+
+**Drupal:** Uitstekende native multi-taalondersteuning. Ideaal voor overheidswebsites die in meerdere talen beschikbaar moeten zijn.
+
+**Webflow:** Multi-taal is beschikbaar via de Webflow Localization-functie (Beta in 2025, uitgebreider in 2026). Prijs: €11–€44/mnd extra boven het reguliere plan.
+
+**Contentful:** Multi-taal is ingebouwd. Per content-item kun je versies per taal beheren. Dit is een van de sterke punten van headless CMS voor internationale organisaties.
+
+**Strapi:** Multi-taal ingebouwd via de Internationalization (i18n) plugin, kosteloos.
+
+---
+
+## AVG en privacywetgeving: wat betekent dit voor uw CMS-keuze?
+
+De AVG (GDPR) heeft directe implicaties voor uw CMS-keuze, met name rondom data-opslag en cookiebeheer.
+
+**Cookiebanner:** Elke website die cookies plaatst bij bezoekers heeft een cookiebanner nodig. WordPress heeft uitstekende plugins (Complianz, CookieYes) die volledig AVG-compliant zijn. Webflow heeft een ingebouwde cookiebanner-functie.
+
+**Formulierdata:** Contactformulierdata die naam en e-mailadres verzamelt, valt onder de AVG. Zorg dat de data op EU-servers staat. Hosting in Nederland of de EU is aanbevolen voor WordPress. Webflow slaat formulierdata op in zijn eigen cloud (gevestigd in de EU).
+
+**Analyticstools:** Google Analytics is onder de AVG ter discussie gesteld in Nederland (Autoriteit Persoonsgegevens). Alternatieven als Matomo (self-hosted) of Plausible (EU-hosted) zijn volledig AVG-compliant.
+
+**Verwerkersovereenkomsten:** Met uw hostingprovider, analyticsplatform en eventuele CMS-SaaS (Webflow, Contentful) moet u een verwerkersovereenkomst afsluiten. De meeste grote providers bieden dit aan.
+
+---
+
+## Conclusie: mijn definitieve aanbeveling
+
+Na het testen en vergelijken van alle zes platforms kom ik tot deze eindrangschikking voor de meest voorkomende situaties in Nederland:
+
+**Voor 80% van de Nederlandse bedrijven:** WordPress is de veiligste keuze. Het grote ecosysteem, de enorme keuze aan developers en bureaus in Nederland, en de lage kosten maken het het meest veelzijdige platform. Begin hier als u twijfelt.
+
+**Als u design en snelheid boven alles stelt:** Webflow geeft de meest professionele resultaten voor marketingteams zonder developers. De abonnementskosten zijn vergelijkbaar met een WordPress-hostingpakket.
+
+**Als uw organisatie extreem complexe content-eisen heeft:** Drupal is de meest stabiele keuze voor overheidsorganisaties en grote bedrijven met honderden pagina's en complexe gebruikersrollen.
+
+**Als u een developer-team heeft en volledige controle wilt:** Strapi is de open source keuze die u nooit aan een vendor bindt.
+
+**Als u content op meerdere kanalen publiceert:** Contentful is de meest mature enterprise-headless-oplossing.
+
+De CMS-keuze is geen beslissing voor eeuwig — maar zorg dat de eerste keuze weloverwogen is. Een migratie later kost aanzienlijk meer dan de tijd die het vergt om nu de juiste keuze te maken.

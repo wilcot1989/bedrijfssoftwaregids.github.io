@@ -229,6 +229,34 @@ Als je een vaste accountant hebt, vraag hem of haar welk pakket hij prefereert. 
 **Fout 5: De migratiekosten onderschatten**
 Overstappen van het ene naar het andere pakket kost tijd. Klantgegevens, openstaande facturen, historische transacties — dat migreer je niet in een half uur. Kies dus weloverwogen en liefst aan het begin van een boekjaar.
 
+## e-Boekhouden vs Jortt: migreren tussen beide pakketten
+
+Als je al bij één van beide pakketten zit en overweegt over te stappen, is hier het praktische stappenplan.
+
+### Van Jortt naar e-Boekhouden
+
+Dit is de meest voorkomende overstap: je bent gegroeid, je hebt meer functies nodig of je wil meer controle over je boekhouding.
+
+**Wanneer:** Plan de overstap op 1 januari van een nieuw boekjaar. Dan hoef je geen gesplitste administratie bij te houden en begint alles schoon.
+
+**Wat exporteer je uit Jortt:** contactenlijst als CSV, factuuroverzicht als CSV, transactiehistorie als CSV. Bewaar ook je BTW-aangiften als PDF.
+
+**Wat importeer je in e-Boekhouden:** de contactenlijst importeer je via de CSV-importwizard. Historische facturen neem je niet mee als boekingen — je begint met een openingsbalans en bewaart het factuurarchief als PDF-bestand.
+
+**Instellen:** bankimport activeren, BTW-instellingen configureren, je rekeningschema doorlopen. e-Boekhouden biedt een startwizard die je door de basisconfiguratie leidt.
+
+**Tijdsinvestering:** een halve dag voor de technische setup, twee weken totdat je routine hebt in het nieuwe systeem.
+
+### Van e-Boekhouden naar Jortt
+
+Dit is zeldzamer maar het komt voor, met name bij ondernemers die vinden dat e-Boekhouden te complex is voor hun eenvoudige administratie.
+
+**Wat je verliest:** uitgebreide rapportages, voorraadbeheer, projectadministratie. Als je die functies gebruikt, is overstappen naar Jortt niet logisch.
+
+**Procedure:** exporteer contacten en factuurhistorie uit e-Boekhouden, importeer contacten in Jortt, stel de bankimport in. Plan ook hier de overstap bij de jaarovergang.
+
+---
+
 ## Conclusie: welke moet je kiezen?
 
 Na dit alles kom ik tot een duidelijke conclusie:

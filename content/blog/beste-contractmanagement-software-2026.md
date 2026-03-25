@@ -475,3 +475,48 @@ Alle tools sturen de tegenpartij een directe onderteken-link per e-mail. De tege
 
 ---
 
+## Kosten vergelijking contractmanagement software
+
+| Tool | Gratis | Starter | Business | Enterprise |
+|---|---|---|---|---|
+| Contractbook | Nee | €199/maand | €499/maand | Op aanvraag |
+| Juro | Nee | €199/maand | Op aanvraag | Op aanvraag |
+| PandaDoc | Nee | €19/user/maand | €49/user/maand | Op aanvraag |
+| DocuSign CLM | Nee | Op aanvraag | Op aanvraag | Op aanvraag |
+| Precisely | Nee | Op aanvraag | Op aanvraag | Op aanvraag |
+
+Voor kleine bedrijven (1-5 contracten per maand) is PandaDoc Essentials de meest kostenefficiënte keuze: je hebt e-signing, templates en basisworkflows voor €19/gebruiker/maand. Contractbook en Juro lonen pas bij 10+ contracten per maand.
+
+## De contractlevenscyclus: waar software waarde toevoegt
+
+Contractmanagement software ondersteunt elk stadium van de contractlevenscyclus:
+
+**1. Aanmaken (drafting)**
+Templates voorkomen dat je elk contract opnieuw schrijft. Goed CLM-systeem heeft een bibliotheek met goedgekeurde clausules die je kunt invoegen. Contractbook en Juro bieden AI-assistentie bij het opstellen.
+
+**2. Onderhandelen (negotiation)**
+Versiebeheer is hier cruciaal. Welke aanpassingen heeft de tegenpartij gedaan? Zijn die geaccepteerd? Zonder CLM-software leidt dit tot verwarring over welke versie de definitieve is.
+
+**3. Goedkeuren (approval)**
+Stel een goedkeuringsworkflow in: contract gaat automatisch naar juridische afdeling, dan management, dan CEO. Iedereen weet wat er van hen wordt verwacht.
+
+**4. Ondertekenen (execution)**
+Digitaal ondertekenen via e-mail is de standaard geworden. eIDAS-conforme elektronische handtekeningen zijn juridisch geldig in de hele EU.
+
+**5. Opslaan en bewaken (storage & monitoring)**
+Gecentraliseerde opslag met automatische verloopherinneringen. Geen contracten meer die stilzwijgend verlengen omdat niemand de datum kende.
+
+**6. Vernieuwen of beëindigen (renewal/termination)**
+Automatische herinneringen 30-90 dagen voor verloopdatum zodat je tijdig kunt onderhandelen of opzeggen.
+
+## Sector-specifieke overwegingen
+
+**Professionele dienstverlening (advies, juridisch, IT)**
+Vertrouwelijkheidsclausules (NDA's) en SOW's (Statements of Work) zijn de meest gebruikte contracttypen. Contractbook is hier sterk door NDA-templates en integratie met CRM.
+
+**Inkoop en leveranciersrelaties**
+Inkoopteams hebben frameworks nodig voor leverancierscontracten, prijsafspraken en SLA's. DocuSign CLM is hier het sterkst voor grote inkooporganisaties.
+
+**HR en arbeidscontracten**
+Arbeidscontracten, aanvullingen en ontslagdocumenten. Personio biedt geïntegreerde contractbeheer binnen het HR-platform — ideaal als je al Personio gebruikt.
+

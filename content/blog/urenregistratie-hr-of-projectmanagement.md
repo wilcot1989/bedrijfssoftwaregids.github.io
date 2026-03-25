@@ -148,6 +148,28 @@ Dagelijkse registratie aan het einde van de werkdag levert de meest nauwkeurige 
 
 Gebruik de [kosten berekenen tool voor HR software](/tools/hr-software/kosten-berekenen/) om de totale investering te begroten en een vergelijking per bedrijfsgrootte te zien op de [HR software sectorgids](/sectoren/hr/).
 
+## Hoeveel kost het om uren bij te houden: een eerlijke vergelijking
+
+De vraag "HR of PM voor urenregistratie" is ook een kostenvraag. Niet alle oplossingen kosten hetzelfde, en de goedkoopste optie is niet altijd de meest efficiënte.
+
+Standalone urenregistratie tools als Toggl of Clockify zijn gratis of goedkoop (€5–€15 per gebruiker per maand), maar kosten extra tijd in koppeling en rapportage. Je exporteert maandelijks, importeert in de boekhouding of HR-pakket, en controleert op discrepanties. Als dat uur per maand kost: bij vijf medewerkers zijn dat snel twaalf uur per jaar die beter besteed kunnen worden.
+
+HR-software met urenregistratie kost doorgaans €8–€20 per medewerker per maand. Als je het pakket al hebt voor salarisadministratie, zitten de kosten er al in. De extra tijdsbesparing op verlofadministratie en verzuimbeheer is er bovenop.
+
+Projectmanagement tools met tijdregistratie kosten €15–€30 per gebruiker per maand, maar je hebt geen apart PM-pakket nodig als het erin zit. Voor projectgerichte organisaties is dit de meest efficiënte keuze.
+
+**Vuistregel:** bereken de totale kosten inclusief administatietijd. Een gratis tool die een uur per week extra beheer kost, is bij een intern tarief van €40 per uur duurder dan een betaald pakket dat alles automatisch doet.
+
+## Drie situaties en wat ik zou adviseren
+
+**Situatie 1: je bent ZZP'er of freelancer die uren aan klanten factureert.** Kies een standalone urenregistratie tool of gebruik de tijdregistratiefunctie in je boekhoudprogramma (Moneybird heeft dit). Je hebt geen HR- of PM-pakket nodig.
+
+**Situatie 2: je hebt vijf tot twintig medewerkers en een vaste HR-cyclus (verlof, salaris, ziekte).** Kies HR-software met urenregistratie. Dat houdt alles in één systeem en vermindert fouten bij de salarisverwerking. Populaire opties zijn Personio, HR Manager en AFAS.
+
+**Situatie 3: je werkt met projectteams en factureerbare uren zijn de kern van je business.** Kies een projectmanagement tool met tijdregistratie. Tools als Teamleader Focus of Harvest koppelen uren direct aan projecten, klanten en offertes. Dat is waardevol niet alleen voor administratie maar ook voor je winstmarges per project.
+
+---
+
 ## Lees ook
 
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) — HR-pakketten met urenregistratie

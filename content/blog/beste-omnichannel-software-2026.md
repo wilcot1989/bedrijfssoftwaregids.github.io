@@ -600,3 +600,41 @@ De platforms in dit overzicht zijn primair gebouwd voor externe klantenservice. 
 ### Welk platform heeft de beste mobiele app voor agents?
 
 Zendesk en Freshdesk hebben de meest volwassen mobiele apps, met volledige ticket-functionaliteit inclusief foto-upload, interne notities en statuswijzigingen. Trengo's app is goed maar iets minder uitgebreid. Intercom's agent-app is uitstekend voor chat maar minder volledig voor traditionele ticketverwerking.
+
+---
+
+## Kosten vergelijking omnichannel software
+
+| Tool | Gratis plan | Per agent/maand | Geschikt voor |
+|---|---|---|---|
+| Freshdesk | Tot 10 agents | €18-€95 | MKB, e-commerce |
+| Zendesk | Nee | €55-€115 | Middelgroot-groot MKB |
+| Trengo | Nee | €19-€35 | WhatsApp-heavy NL bedrijven |
+| Intercom | Nee | €74-€139/seat | SaaS, tech, B2B |
+| HubSpot Service Hub | Beperkt | €45+/maand | HubSpot-ecosysteem |
+
+## De omnichannel matrix: welke kanalen zijn echt nodig
+
+Niet elk bedrijf heeft alle kanalen nodig. Hier een overzicht van welke kanalen prioriteit verdienen per bedrijfstype:
+
+| Bedrijfstype | Prioriteit 1 | Prioriteit 2 | Prioriteit 3 |
+|---|---|---|---|
+| Webshop | WhatsApp | E-mail | Chat |
+| SaaS/Software | Chat (in-app) | E-mail | Telefoon |
+| B2B dienstverlening | E-mail | Telefoon | WhatsApp |
+| Detailhandel | WhatsApp | Telefoon | E-mail |
+| Horeca | Telefoon | E-mail | Chat |
+
+Implementeer je prioriteit-1-kanaal volledig voordat je prioriteit-2 toevoegt. Een goed geconfigureerd e-mailsysteem is waardevoller dan vijf half-functionerende kanalen.
+
+## SLA-beleid instellen: hoe snel moet je reageren
+
+Een SLA (Service Level Agreement) definieert hoe snel je reageert op verschillende prioriteiten. Zonder SLA worden tijden willekeurig — met SLA heb je een meetbaar doel.
+
+Een realistisch SLA voor MKB:
+- **Kritiek** (systeem down, betaling mislukt): 1 uur eerste reactie
+- **Hoog** (service werkt niet naar verwachting): 4 uur eerste reactie
+- **Normaal** (vraag, niet-dringende klacht): 24 uur eerste reactie
+- **Laag** (suggestie, informatievraag): 48 uur eerste reactie
+
+Freshdesk, Zendesk en Trengo bewaken SLA's automatisch en sturen een waarschuwing als een ticket dreigt te verlopen.

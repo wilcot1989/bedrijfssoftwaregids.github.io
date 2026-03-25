@@ -144,6 +144,28 @@ Die informatie helpt je bij prijsbeslissingen, menuwijzigingen en inkoopkeuzes �
 
 Bespreek met je boekhouder welke kwartaalrapportages je wilt gebruiken en richt de koppeling daarop in. De meeste boekhouders hebben een voorkeur voor een specifieke structuur van de journaalposten. Als je die voorkeur kent voor je de koppeling configureert, bespaar je achteraf correctiewerk.
 
+## Kosten van de koppeling per scenario
+
+Veel ondernemers onderschatten de kosten van een kassaboekhouding-koppeling. Hier een eerlijk overzicht per scenario.
+
+**Scenario 1: Klein horecabedrijf, Lightspeed + Exact Online**
+- Native koppeling: inbegrepen in Lightspeed Restaurant-abonnement
+- Exact Online Professional: €159/mnd
+- Inrichtingstijd: 2-4 uur (eenmalig)
+- Totale extra kosten koppeling: nihil (native integratie)
+
+**Scenario 2: Winkel, kassasysteem via CSV-export naar Moneybird**
+- Zapier Starter: €20/mnd
+- Inrichtingstijd: 4-6 uur (eenmalig) + 30 min/week voor controle
+- Jaarlijkse kosten koppeling: €240 + eigen uren
+
+**Scenario 3: Horecaketen, meerdere locaties, AFAS-koppeling**
+- Middleware-oplossing (Deliverect of maatwerk): €100-300/mnd
+- Implementatie door partner: €1.500-5.000 eenmalig
+- Jaarlijkse kosten: €1.200-3.600 + beheer
+
+De vuistregel: voor één locatie met een bekende POS-boekhoudcombinatie is de koppeling goedkoop of zelfs gratis. Voor meerdere locaties of onbekende combinaties is een budgetpost van €1.000-3.000 per jaar realistisch.
+
 ## Lees ook
 
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — kassasystemen met de beste boekhoudkoppelingen

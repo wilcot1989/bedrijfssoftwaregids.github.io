@@ -415,3 +415,24 @@ Ja, Basecamp biedt een 30 dagen gratis proefperiode zonder creditcardverplichtin
 ### Welke integraties ondersteunt Basecamp?
 
 Basecamp heeft een beperkt maar solide aanbod van native integraties: Zapier, Integromat, Automate.io, Clockify en een aantal andere tools. Via Zapier zijn 5.000+ apps te koppelen. Basecamp heeft bewust geen grote appmarktplaats — het platform is opzettelijk eenvoudig gehouden.
+
+---
+
+## Veelgemaakte fouten bij Basecamp
+
+**Fout 1: Te veel projecten aanmaken**
+De flat-pricing structuur verleidt teams om voor elke kleine taak een apart project aan te maken. Na drie maanden heb je tachtig projecten waarvan een groot deel inactief is. Gebruik projecten voor uitkomsten, niet voor activiteiten. Eén project per klant of per product, niet per deeltaak.
+
+**Fout 2: Todos en Messages verwisselen**
+Basecamp heeft twee soorten content die gemakkelijk verward worden: Todos (actiepunten) en Messages (discussies). Ik zie teams die hun projecten aanmaken als Message Boards vol to-do items in de tekst, in plaats van de Todos-sectie te gebruiken. Dit maakt follow-up moeilijk — Todos hebben eigenaren en deadlines, Messages niet.
+
+**Fout 3: Automatic Check-ins niet inschakelen**
+Basecamp's Automatic Check-ins — terugkerende vragen die het systeem automatisch stelt aan het team ("Waar werk je vandaag aan?") — zijn een van de uniekste features voor remote teams. Ik zie ze bij de meeste Basecamp-implementaties uitgeschakeld staan. Activeer ze en gebruik ze als stand-up vervanging.
+
+---
+
+## Basecamp voor remote teams: de filosofie
+
+Basecamp is gebouwd door een bedrijf (37signals) dat al meer dan twintig jaar volledig remote werkt. Dat is voelbaar in het ontwerp. De nadruk op asynchrone communicatie (alles in tekst, niet in meetings), de message-board structuur en de ping-notificaties die je zelf beheert — dit is software die remote-first denkt.
+
+Voor Nederlandse bedrijven die hybride of volledig remote werken, is Basecamp een filosofisch andere keuze dan Asana of Monday.com. Die tools zijn gebouwd voor synchrone planning; Basecamp is gebouwd voor rustige, gefocuste samenwerking. Of dat bij jou past, hangt af van je teamcultuur.

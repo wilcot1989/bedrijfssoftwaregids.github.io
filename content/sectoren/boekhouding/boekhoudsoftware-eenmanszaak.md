@@ -283,6 +283,18 @@ Naast een goede financiele administratie hoort ook marketing bij een groeiende e
 
 Bekijk ook onze reviews: [Moneybird review 2026](/blog/moneybird-review-2026/), [Snelstart review 2026](/blog/snelstart-review-2026/) en [Snelstart vs Moneybird](/blog/snelstart-vs-moneybird-2026/) voor een directe vergelijking.
 
+## Checklist: klaar om over te stappen naar professionelere boekhoudsoftware?
+
+Een eenmanszaak die groeit, loopt vroeg of laat aan tegen de grenzen van zijn huidige pakket. Dit zijn de signalen dat je een stap omhoog moet maken:
+
+- Je hebt meer dan 50 inkoopfacturen per maand en het verwerken kost te veel tijd
+- Je wilt per klant of project je winstgevendheid inzien, maar je software biedt geen projectadministratie
+- Je boekhouder vraagt om een volledige balans en verlies-en-winstrekening, niet alleen een kasboek
+- Je neemt een medewerker aan en hebt een salarismodule nodig
+- Je webshop of externe tool (CRM, projectmanagement) koppelt niet met je huidige software
+
+Plan de overstap op 1 januari om een schone afsluiting van het vorige boekjaar te hebben. Zorg dat je boekhouder de openingsbalans voor je opstelt in het nieuwe systeem. Lees ook het artikel [overstappen van Exact Online naar Moneybird](/blog/overstappen-exact-online-naar-moneybird-2026/) — de migratieprincipes gelden voor elke boekhoudovergang.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

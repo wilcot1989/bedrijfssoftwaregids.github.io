@@ -537,3 +537,52 @@ Wat wilt u uiteindelijk weten? De waarde van data management software zit in de 
 - Profitability per project-type
 
 Het bouwen van één betrouwbaar dashboard met deze metrics — gevoed door Fivetran + dbt + BigQuery — is een waardevolle investering die betere beslissingen mogelijk maakt voor elke manager in uw organisatie.
+
+---
+
+## Implementatietijdlijn: van losse databronnen naar betrouwbare rapportage
+
+Een realistische tijdlijn voor een middelgroot bedrijf (5-50 medewerkers, 3-8 databronnen):
+
+**Week 1-2: Inventarisatie en architectuurbeslissing**
+Breng alle databronnen in kaart: CRM, boekhoudpakket, e-commerce platform, marketingtools, HR-systeem. Bepaal welke data je eigenlijk nodig hebt en welke vragen je wil beantwoorden. Dit klinkt simpel, maar de meeste bedrijven ontdekken hier dat ze meer systemen hebben dan ze dachten.
+
+**Week 3-4: Data warehouse opzetten**
+Kies je cloudopslag: BigQuery (Google), Snowflake of Redshift (AWS). BigQuery is voor de meeste Nederlandse MKB-bedrijven de beste keuze door de pay-per-query prijsstructuur (je betaalt niets bij laag gebruik).
+
+**Week 5-6: Connectors instellen via Fivetran of Stitch**
+Verbind je databronnen. Fivetran heeft kant-en-klare connectors voor Salesforce, HubSpot, Shopify, WooCommerce, Google Ads, Facebook Ads en 200+ andere tools. De meeste connectors zijn in 30 minuten actief.
+
+**Week 7-8: Transformaties bouwen met dbt**
+Schrijf SQL-modellen in dbt om ruwe data om te zetten naar bruikbare tabellen. Een dbt-model voor "maandelijkse omzet per klant" is 10-20 regels SQL — niet ingewikkelder dan een Excel-formule voor iemand met basiskennis.
+
+**Week 9-10: Dashboard bouwen en valideren**
+Bouw dashboards in Looker Studio (gratis), Power BI of Tableau. Valideer de cijfers door ze te vergelijken met bekende getallen: controleer of de omzet in het dashboard klopt met je boekhouding. Vertrouwen in je data is pas waardevol als je het hebt gevalideerd.
+
+**Week 11-12: Uitrollen naar gebruikers**
+Train de relevante medewerkers (sales, marketing, finance). Begin met één afdeling en één dashboard — niet met alles tegelijk.
+
+## Kosten vergelijking per bedrijfsgrootte
+
+| Bedrijfsgrootte | Aanbevolen stack | Maandelijkse kosten |
+|---|---|---|
+| 1-10 medewerkers | Power Query + Looker Studio | €0-€50 |
+| 10-50 medewerkers | Stitch + dbt Core + BigQuery + Looker Studio | €200-€600 |
+| 50-200 medewerkers | Fivetran + dbt Cloud + Snowflake + Power BI | €800-€2.500 |
+| 200+ medewerkers | Fivetran/Talend + dbt + Snowflake + Tableau | €3.000-€10.000+ |
+
+**Let op:** De kosten voor BigQuery en Snowflake zijn afhankelijk van datavolume en queryfrequentie. Voor kleine bedrijven zijn deze kosten minimaal. Een bedrijf met 1 miljoen rijen data en dagelijkse queries betaalt op BigQuery doorgaans minder dan €50/maand.
+
+## Veelgemaakte fouten bij data management projecten
+
+**1. Beginnen met een dashboard in plaats van de data**
+Veel bedrijven beginnen met "we willen een mooi dashboard" en werken achteruit. Start altijd met de vraag: "Welke beslissing wil ik beter kunnen nemen?" Bouw dan de minimale data-infrastructuur die die vraag beantwoordt.
+
+**2. Alle databronnen tegelijk willen koppelen**
+Begin met de twee meest waardevolle bronnen — doorgaans je CRM en je boekhoudpakket. Voeg pas nieuwe databronnen toe als de bestaande koppelingen stabiel en gevalideerd zijn.
+
+**3. Data governance uitstellen**
+Spreek van dag één af hoe jullie data definieert. Is een "klant" iemand met een actief contract, of ook iemand die ooit een offerte heeft ontvangen? Inconsistente definities leiden tot conflicterende dashboards en verlies van vertrouwen in de data.
+
+**4. Geen eigenaar aanwijzen**
+Data-infrastructuur heeft een eigenaar nodig die verantwoordelijk is voor kwaliteit, updates en beveiliging. Zonder eigenaar raakt de data verouderd en stopt het team met het gebruiken van de dashboards.

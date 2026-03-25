@@ -267,6 +267,22 @@ Als marketinginvestering vruchten afwerpt en je team groeit, wordt ook HR-softwa
 
 Lees ook het artikel [ActiveCampaign review 2026](/blog/activecampaign-review-2026/) voor een diepgaande beoordeling, en [ActiveCampaign vs Mailchimp 2026](/blog/activecampaign-vs-mailchimp-2026/) voor een directe vergelijking.
 
+## Hoe bouw je een marketing-softwarestack voor MKB?
+
+MKB-bedrijven hebben zelden behoefte aan één alles-in-één marketingplatform. De meeste bedrijven combineren twee tot drie tools:
+
+**Basisstack (€50-150/maand totaal):**
+- ActiveCampaign of HubSpot Starter voor e-mailmarketing en automation
+- Google Analytics 4 (gratis) voor websiteanalyse
+- Een social media planner (Buffer of Later) voor contentplanning
+
+**Groeistap (€150-500/maand totaal):**
+- HubSpot Marketing Hub Professional of ActiveCampaign Plus voor uitgebreide automation
+- Leadinfo (€39+) voor het identificeren van B2B-websitebezoekers
+- LinkedIn Sales Navigator (€79/gebruiker) voor outbound prospecting
+
+De sleutel is dat de tools met elkaar communiceren: e-mailsoftware koppelt met je CRM, je CRM koppelt met je boekhouding. Elke losse koppeling kost onderhoud. Kies tools die native met elkaar integreren en gebruik Zapier alleen voor uitzonderingen.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

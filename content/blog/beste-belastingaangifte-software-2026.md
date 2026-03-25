@@ -572,3 +572,54 @@ Als jij en je partner beiden ZZP'er zijn of als één van beiden ZZP'er is, kunt
 ### Hoe werkt de eerste zakelijke aangifte BTW als je net begonnen bent?
 
 Als je je bedrijf op 1 juli 2026 inschrijft, doe je voor het eerste kwartaal (Q3: juli-september) aangifte vóór 31 oktober 2026. Je hebt dan drie maanden tijd om je in te werken in het boekhoudpakket en BTW correct te administreren. Meld je aan voor een gratis proefperiode bij SnelStart, e-Boekhouden of Moneybird en stel in het systeem in dat je kwartaalaangifte doet. Zo is de eerste aangifte al geautomatiseerd.
+
+---
+
+## Kosten vergelijking belastingaangifte software
+
+| Tool | IB-aangifte (eenmalig) | Abonnement/jaar | Meest geschikt voor |
+|---|---|---|---|
+| Aangifte.nl | €29,95 | N/A | Particulieren en ZZP'ers |
+| Fiscaalgemak | €49,95 | €79,95/jaar | ZZP'ers en kleine ondernemers |
+| SnelStart | N/A | €99/jaar (incl. BTW) | ZZP tot klein MKB |
+| Moneybird | N/A | €288/jaar (€24/maand) | ZZP met veel facturen |
+| e-Boekhouden | N/A | €95,40/jaar | Budget-bewuste ZZP'ers |
+| Belastingdienst.nl | Gratis | Gratis | Particulieren, eenvoudige aangifte |
+
+**Let op:** Belastingaangifte software voor ondernemers is anders dan aangifte voor particulieren. Als ZZP'er heb je een boekhoudpakket nodig (Moneybird, SnelStart, e-Boekhouden) dat BTW-aangifte en jaarlijkse IB-aangifte ondersteunt — niet alleen de jaarlijkse particuliere aangifte.
+
+## Aftrekposten die ZZP'ers het vaakst missen
+
+Software helpt je de juiste aftrekposten te claimen. Hier de meest gemiste aftrekposten bij Nederlandse ZZP'ers:
+
+**Zelfstandigenaftrek (2026): €5.030**
+Automatisch voor iedereen die aan het urencriterium (1.225 uur) voldoet. Wordt elk jaar verlaagd — gebruik het zolang het bestaat.
+
+**MKB-winstvrijstelling: 12,7%**
+Na de zelfstandigenaftrek mag je nog eens 12,7% van de winst aftrekken. Volledig automatisch in alle goede boekhoudpakketten.
+
+**Startersaftrek: €2.123 (eerste 3 jaar)**
+Extra aftrek voor startende ondernemers. Geldt maximaal 3 jaar. Veel starters vergeten dit te activeren.
+
+**Investeringsaftrek (KIA)**
+Als je investeert in bedrijfsmiddelen (laptop, bureau, auto) voor meer dan €2.800 per jaar, heb je recht op investeringsaftrek. SnelStart en Moneybird berekenen dit automatisch als je investeringen als zodanig registreert.
+
+**Fiscale oudedagsreserve (FOR)**
+Je mag jaarlijks tot 9,44% van je winst reserveren voor je pensioen (max €9.542 in 2026). Dit verlaagt je belastbaar inkomen nu. Wel opletten: je betaalt belasting bij opname later.
+
+## Aangifte doen: stappenplan voor ZZP'ers
+
+**Q1 (januari-maart):**
+- Stel je jaarcijfers samen (balans + resultatenrekening)
+- Controleer alle zakelijke kosten op correcte registratie
+- Verzamel jaaroverzichten van bankrekeningen
+
+**Q2 (april-mei):**
+- Doe je IB-aangifte voor 1 mei (of vraag uitstel aan)
+- Controleer of je zelfstandigenaftrek, startersaftrek en KIA correct zijn toegepast
+- Zet belastingbedrag opzij (15-25% van je winst als voorzichtige schatting)
+
+**Elk kwartaal:**
+- BTW-aangifte voor de laatste dag van de volgende maand
+- Controleer openstaande debiteuren (invloed op liquiditeit)
+- Stel voorlopige aanslag in als je winst sterk verschilt van vorig jaar

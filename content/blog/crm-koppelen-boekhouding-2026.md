@@ -221,6 +221,78 @@ Pipedrive is de meest gebruikte CRM bij Nederlandse MKB-bedrijven en koppelt een
 
 ---
 
+## Vergevorderde scenario's: wat je ook kunt automatiseren
+
+De basisworkflow — klant aanmaken bij gewonnen deal — is een goed beginpunt. Maar er zijn meer scenario's die waarde toevoegen als de basis eenmaal staat.
+
+### Scenario 1: Automatische factuurstatus in CRM
+
+Als een factuur betaald wordt in Moneybird, wil je dat je salesteam dat direct ziet in Pipedrive. Zo weet een accountmanager of een klant zijn rekeningen bijhoudt voor hij een upsell-gesprek plant.
+
+Via Zapier bouw je dit als volgt:
+- **Trigger:** Moneybird — "Invoice Status Changed" naar "paid"
+- **Actie:** Pipedrive — "Update Organization" met een custom veld "Laatste betaaldatum"
+
+Zo ziet elke Pipedrive-gebruiker in één oogopslag wanneer de klant voor het laatste betaalde.
+
+### Scenario 2: Automatisch terugkerende facturen per CRM-abonnement
+
+Als je abonnementen verkoopt, wil je dat een gewonnen deal in je CRM automatisch een terugkerende factuur aanmaakt in je boekhouding. Dat is complexer maar met Make (voorheen Integromat) goed te realiseren.
+
+De flow: deal gewonnen in Pipedrive → contractduur en maandbedrag uit de dealeigenschappen → aanmaken van een recurring invoicetemplate in Moneybird of Exact Online.
+
+### Scenario 3: Klant-score gebaseerd op factuurhistorie
+
+In HubSpot kun je een custom property "Klantwaarde" bijhouden op basis van de totale gefactureerde omzet vanuit Exact Online. Via de native koppeling synchroniseer je de gefactureerde bedragen per contactpersoon en kun je segmenteren op klantwaarde voor e-mailcampagnes of prioritering van support.
+
+---
+
+## Checklist: CRM-boekhoudkoppeling opzetten in een middag
+
+Gebruik deze checklist als je de koppeling voor het eerst opzet. Met voorbereiding is de basisversie (klantgegevens synchroniseren bij gewonnen deal) in een halve dag klaar.
+
+**Voorbereiding (30 minuten)**
+- [ ] Controleer of CRM-organisatiekaarten een BTW-nummer-veld hebben (aanmaken indien niet)
+- [ ] Stel een vaste notatie af voor bedrijfsnamen (BV vs B.V., afkortingen)
+- [ ] Maak een testbedrijf aan in je CRM als demoklant
+- [ ] Maak een testkoppeling aan in Zapier/Make met gratis account
+
+**Koppeling aanmaken (60-90 minuten)**
+- [ ] Verbind CRM (Pipedrive/HubSpot/Close) met Zapier/Make
+- [ ] Verbind boekhoudpakket (Moneybird/Exact) met Zapier/Make
+- [ ] Stel trigger in op gewonnen deal
+- [ ] Koppel velden: naam, adres, BTW-nummer, e-mail
+- [ ] Bouw filter in: controleer eerst of klant al bestaat
+- [ ] Voer testrun uit met het demoklant-account
+
+**Testen en activeren (30 minuten)**
+- [ ] Zet testdeal op "Gewonnen" en controleer aanmaak in boekhoudpakket
+- [ ] Controleer of BTW-nummer correct is overgekomen
+- [ ] Test ook met een deal zonder BTW-nummer (vrijgesteld/particulier)
+- [ ] Zet Zap live
+- [ ] Stel e-mailmelding in bij Zapier-fouten
+
+**Na live-gang (periodiek)**
+- [ ] Controleer wekelijks de Zap-historiek op fouten
+- [ ] Vergelijk maandelijks de klantlijst in CRM met die in de boekhouding
+- [ ] Evalueer na drie maanden of uitbreiding (factuurstatus terugkoppelen) zinvol is
+
+---
+
+## Wat je verwacht als je naar een all-in-one tool overstapt
+
+Na het koppelen van twee losse systemen kiezen sommige bedrijven voor een all-in-one aanpak: één platform voor CRM, projecten en boekhouding. Teamleader is in Nederland de meest gebruikte optie.
+
+De voordelen zijn duidelijk: geen koppeling nodig, geen synchronisatieproblemen, één factuur voor alle functionaliteit, en het sales-to-cash-proces zit in één systeem.
+
+De nadelen zijn even reëel. Je ruilt specialistische kwaliteit in voor breedte: de CRM-module van Teamleader is minder uitgebreid dan Pipedrive, en de boekhoudmodule is minder diepgaand dan Exact Online. Voor bedrijven die echt complexe salesprocessen of geavanceerde boekhouding nodig hebben, is een all-in-one vaak een stap terug.
+
+De vuistregel die ik hanteer: zijn de integratieproblemen groter dan de functionele tekortkomingen van een all-in-one, dan is all-in-one de betere keuze. Is de huidige koppeling stabiel en zijn beide tools functioneel goed, dan is loskoppelen zelden de moeite waard.
+
+Meer over de specifieke voor- en nadelen van Teamleader staat in mijn [Teamleader review](/blog/teamleader-review-2026/).
+
+---
+
 **Google Workspace voor zakelijke communicatie**
 
 Google Workspace integreert soepel met zowel Pipedrive als de meeste boekhoudtools. Meer dan 150 native integraties beschikbaar.

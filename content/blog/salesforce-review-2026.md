@@ -271,6 +271,38 @@ Voor bedrijven in financiële dienstverlening, zorg of de juridische sector geld
 
 In deze sectoren is de complexiteit en prijs van Salesforce vaak juist te rechtvaardigen -- de alternatieven bieden niet dezelfde diepgang op compliancefuncties. Een zorginstelling of vermogensbeheerder die Salesforce overweegt, weegt de kosten anders dan een regulier MKB-bedrijf.
 
+## Salesforce in 2026: nieuwe functies en ontwikkelingen
+
+Salesforce heeft in de periode 2024-2026 flink geïnvesteerd in AI-functies onder de noemer Einstein. De meest relevante ontwikkelingen voor Nederlandse gebruikers:
+
+**Einstein Copilot:** een conversationele AI-assistent die je vragen kunt stellen over je CRM-data ("Welke deals hebben de meeste kans om deze maand te sluiten?") en acties kunt laten uitvoeren ("Maak een follow-up taak aan voor alle contacten die langer dan twee weken stilstaan"). In mijn tests werkt dit verrassend goed voor standaardvragen, maar bij complexe multi-object queries slaat het systeem nog te vaak de mist in.
+
+**Data Cloud:** Salesforce positioneert Data Cloud als het fundament voor klantdata. Het brengt klantdata uit alle bronnen samen in een unified profiel. Voor enterprise-organisaties is dit interessant; voor het MKB is het vooralsnog overdone.
+
+**Agentforce:** Salesforce's nieuwste initiatief om AI-agents in te zetten die zelfstandig salesactiviteiten uitvoeren — van het kwalificeren van leads tot het inplannen van afspraken. Begin 2026 nog in early access voor de Nederlandse markt, maar de richting is duidelijk: Salesforce zet in op AI als differentiator.
+
+Mijn beoordeling van deze ontwikkelingen: de AI-functies zijn veelbelovend, maar voegen in 2026 voor de meeste MKB-bedrijven nog geen doorslaggevende waarde toe. De waarde van Salesforce zit nog steeds in de kernfunctionaliteit die het platform al twintig jaar biedt: ongeevenaarde flexibiliteit, een diep rapportagesysteem en een volwassen ecosysteem.
+
+---
+
+## De overstap naar Salesforce: wanneer is het het juiste moment?
+
+Een vraag die ik regelmatig krijg van bedrijven die al een eenvoudiger CRM gebruiken: wanneer is het het juiste moment om over te stappen naar Salesforce?
+
+Mijn eerlijke antwoord: later dan je denkt. Ik zie bedrijven die Pipedrive of HubSpot "te simpel" vinden omdat ze het niet goed hebben ingericht. De kans is groot dat met betere configuratie van je huidige tool al veel van je problemen opgelost kunnen worden — zonder de complexiteit en kosten van Salesforce.
+
+De signalen die me vertellen dat een overstap wél gerechtvaardigd is:
+
+**Je hebt territory management nodig.** Als je salesorganisatie groeit naar meerdere regio's, productlijnen of klantsegmenten die ieder hun eigen team en verantwoordelijkheid hebben, dan biedt Salesforce functies die Pipedrive en HubSpot simpelweg niet hebben.
+
+**Je rapportages behoeven combinaties over meerdere objecten.** Als je standaard wil zien wat de omzetbijdrage is per product per regio per vertegenwoordiger in een bepaalde periode, wordt Salesforce's rapportage-engine een werkelijk voordeel.
+
+**Je gebruikt meerdere Salesforce-producten die je wil integreren.** Als je zowel Sales Cloud als Service Cloud en Marketing Cloud overweegt, is de native integratie van Salesforce een reeel voordeel boven losse tools.
+
+**Je hebt een intern Salesforce Admin.** Dit is de meest onderschatte randvoorwaarde. Zonder iemand die het systeem beheert, loopt elke Salesforce-implementatie vast. Als je die persoon niet in huis hebt (of kunt aannemen), overweeg dan of de investering te rechtvaardigen is.
+
+---
+
 ## Mijn eindoordeel
 
 Salesforce verdient zijn reputatie als het krachtigste CRM-platform ter wereld -- voor de doelgroep waarvoor het gebouwd is. Die doelgroep is niet het gemiddelde Nederlandse MKB-bedrijf.

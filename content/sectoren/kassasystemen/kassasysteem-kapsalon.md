@@ -254,6 +254,16 @@ Een klantenkaart bijhouden en afspraakherinneringen sturen werkt beter met een e
 
 Lees ook het artikel [Square kassa review 2026](/blog/square-kassa-review-2026/) voor een uitgebreide beoordeling van het systeem dat ik het vaakst adviseer aan kapsalons. Het artikel [kassasysteem verborgen kosten checklist](/blog/kassasysteem-verborgen-kosten-checklist/) helpt je om onverwachte kosten te voorkomen.
 
+## Afspraken en kassa combineren: waar let je op?
+
+Kapsalons hebben de unieke behoefte om afsprakenbeheer en kassafunctionaliteit te combineren. Die twee systemen hoeven niet hetzelfde te zijn, maar ze moeten bij voorkeur samen kunnen werken.
+
+**Afsprakenbeheer:** Tools zoals Treatwell, Fresha of Salonized zijn gebouwd voor kappers en schoonheidsspecialisten. Ze bieden online boeken voor klanten, automatische herinneringen per sms en e-mail, en een personeelsrooster per behandelaar. Ze zijn niet sterk als kassasysteem voor losse productverkoop.
+
+**Kassa:** Square is de sterkste allrounder voor kapsalons die naast diensten ook haarproducten en accessoires verkopen. Square Appointments heeft een ingebouwde agendafunctie die goed werkt voor kleine kapsalons met een of twee kappers.
+
+**De combinatie:** Voor grotere kapsalons is de combinatie van een dedicated afsprakentool (Treatwell of Salonized) met Square als kassa de meest gebruikte setup. Klanten boeken online via Treatwell; de kapper verwerkt de betaling en productverkoop via Square. Je hebt twee systemen, maar elk doet precies waarvoor het gebouwd is.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

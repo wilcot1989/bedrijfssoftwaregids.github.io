@@ -272,6 +272,56 @@ e-Boekhouden past het beste bij jou als:
 
 ---
 
+## fENNA vs e-Boekhouden: detailvergelijking per ondernemerstype
+
+De keuze tussen fENNA en e-Boekhouden hangt sterk af van wie je bent als ondernemer. Ik heb hieronder de meest voorkomende profielen uitgewerkt.
+
+### Profiel 1: Startende ZZP'er, eerste jaar ondernemer
+
+Je bent pas begonnen, hebt een KvK-nummer maar weet nog niet hoeveel facturen je per maand gaat sturen. Budget is krap.
+
+**Kies e-Boekhouden** vanwege de startersregeling: tot 15 maanden gratis voor nieuwe KvK-inschrijvingen. Dat bespaart je €120-€180 in het eerste jaar. Zodra je weet hoe jouw administratie eruitziet, kun je altijd overstappen naar fENNA als de interface je beter bevalt.
+
+### Profiel 2: Gevestigde ZZP'er met internationale klanten
+
+Je werkt al een paar jaar als zelfstandige, factureert ook klanten in Duitsland of België en wil facturen in de taal van de klant sturen.
+
+**Kies fENNA** vanwege de multi-taal facturatie (NL/DE/FR/EN). e-Boekhouden biedt dit niet. Voor sommige internationale klanten maakt het verschil of je een factuur in het Duits kunt sturen — het oogt professioneler en voorkomt misverstanden.
+
+### Profiel 3: ZZP'er met regelmatige wanbetalers
+
+Je hebt een paar klanten die facturen structureel te laat betalen en je wil een makkelijke manier om incasso in te schakelen.
+
+**Kies fENNA** vanwege de gratis incassodienst via Excellent Incasso. Je kunt een openstaande vordering rechtstreeks vanuit het systeem overdragen zonder aparte contracten. e-Boekhouden biedt dit niet standaard.
+
+### Profiel 4: ZZP'er die wil groeien naar MKB
+
+Je denkt aan je eerste medewerker, wil de boekhouding serieuzer aanpakken en wilt niet over twee jaar opnieuw overstappen.
+
+**Kies e-Boekhouden** vanwege de schaalbaarheid. fENNA is bewust gebouwd voor solo-ondernemers. e-Boekhouden ondersteunt meerdere gebruikers, uitgebreidere rapportages en schaalt mee naar een klein MKB.
+
+---
+
+## Functievergelijking: wat krijg je bij welk pakket?
+
+| Functie | fENNA Compleet | e-Boekhouden ZZP |
+|---------|---------------|-----------------|
+| **Onbeperkt factureren** | ✅ | ✅ |
+| **BTW-aangifte Digipoort** | ✅ | ✅ |
+| **BTW-suppletie** | ✅ | ✅ |
+| **ICP-aangifte** | ✅ | ✅ |
+| **Bankimport automatisch** | ✅ (8 banken) | ✅ (alle grote banken) |
+| **Mollie/iDEAL koppeling** | ✅ | ❌ native |
+| **Multi-taal facturen** | ✅ NL/DE/FR/EN | ❌ |
+| **Gratis incassodienst** | ✅ | ❌ |
+| **OCR bonnetjes scannen** | ❌ | Basis |
+| **Telefonische support** | ❌ | ✅ |
+| **Dubbele boekhouding** | ❌ | ✅ |
+| **Meerdere administraties** | ❌ | ✅ |
+| **Prijs per jaar (jaarlijks)** | €180 | €119,40 |
+
+---
+
 ## Eindoordeel
 
 Ik word niet snel enthousiast over boekhoudpakketten — in deze sector wordt veel beloofd en te weinig transparant bewezen. Maar de fENNA vs e-Boekhouden vergelijking is een van de eerlijkere keuzes in de markt: twee pakketten die doen wat ze beloven, voor een redelijke prijs, voor een duidelijk omschreven doelgroep.

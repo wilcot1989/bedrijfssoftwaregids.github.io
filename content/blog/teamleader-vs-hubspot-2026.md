@@ -382,6 +382,25 @@ Maak je geen zorgen als je er nog niet uitkomt — gebruik onze [CRM keuzehulp](
 
 ---
 
+## Teamleader vs HubSpot: kostenvergelijking voor Nederlandse bedrijven
+
+| Teamgrootte | Teamleader Focus | HubSpot Sales Hub | Verschil/jaar |
+|-------------|-----------------|-------------------|---------------|
+| **3 gebruikers basis** | 3 × €50 = €150/mnd | 3 × €15 = €45/mnd (Starter) | **€1.260/jaar goedkoper HubSpot** |
+| **5 gebruikers professioneel** | 5 × €70 = €350/mnd | 5 × €90 = €450/mnd (Pro) | **€1.200/jaar goedkoper Teamleader** |
+| **10 gebruikers met marketing** | 10 × €70 = €700/mnd | 10 × €90 + Marketing Hub = €1.200+/mnd | **€6.000+/jaar goedkoper Teamleader** |
+
+Op starter-niveau is HubSpot goedkoper. Op professioneel niveau — waar je automatiseringen en uitgebreide functies nodig hebt — is Teamleader voordeliger, zeker als je ook de project- en facturatiefunctionaliteit meeneemt die bij HubSpot losse add-ons vereist.
+
+**Wat Teamleader Focus inbegrepen heeft dat je bij HubSpot apart moet betalen:**
+- Projectmanagement: bij HubSpot is dit niet inbegrepen (zou Asana of Monday extra kosten)
+- Facturatie: bij HubSpot is dit niet inbegrepen (zou Exact Online of Moneybird extra kosten)
+- KvK-integratie: bij HubSpot niet beschikbaar native
+
+Voor een dienstverlenend MKB-bedrijf dat alle drie nodig heeft, is Teamleader Focus de goedkoopste alles-in-een optie.
+
+---
+
 ## Mijn eindoordeel
 
 Na jaren van MKB-implementaties kom ik steeds op dezelfde conclusie: **de beste CRM is de CRM die past bij de manier waarop jij werkt**, niet de tool met de meeste functies of de langste featurelijst.

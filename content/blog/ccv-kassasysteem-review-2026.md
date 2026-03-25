@@ -544,3 +544,33 @@ Voor retailers die prioriteit geven aan Nederlandse support en een all-in-one aa
 
 [Vraag een offerte aan bij CCV](https://www.ccv.eu/nl/){rel="noopener nofollow sponsored" class="cta-affiliate"}
 
+---
+
+## Veelgemaakte fouten bij CCV Kassasysteem
+
+**Fout 1: Contract ondertekenen zonder te onderhandelen**
+CCV werkt met meerjarige contracten. Veel ondernemers tekenen het standaardvoorstel zonder te onderhandelen. In de meeste gevallen is er ruimte: kortere contracttermijn, lagere installatiekosten of extra hardware. Vraag altijd om een aangepast voorstel.
+
+**Fout 2: De webshopkoppeling te laat inschakelen**
+CCV Shop kan aan je kassasysteem gekoppeld worden voor voorraadbeheer. Ondernemers die dit inschakelen nadat ze al maanden met CCV werken, moeten hun voorraad retroactief corrigeren. Activeer de webshop-koppeling bij de initiële installatie.
+
+**Fout 3: Rapportages niet dagelijks doornemen**
+CCV heeft goede rapportages over omzet per product, per medewerker en per betaalmethode. Ik zie ondernemers die deze rapporten nauwelijks raadplegen. Maak het een gewoonte om de dagomzetrapportage 's avonds kort te controleren — patronen in goedlopende en slecht-lopende producten zijn zo snel zichtbaar.
+
+---
+
+## CCV vs. Square: de Nederlandse keuze
+
+Een vergelijking die ik regelmatig maak voor kleine Nederlandse ondernemers:
+
+| Criterium | CCV | Square |
+|---|---|---|
+| **Nederlandse support** | Uitstekend | Beperkt |
+| **Contractvorm** | Meerjarig | Geen verplichting |
+| **Transactiekosten** | 0,9-1,8% | 1,75% |
+| **Hardware** | Huur/koop | Koop |
+| **Voorraadbeheer** | Goed | Goed |
+| **Beste voor** | Stabiele NL-ondernemer | Flexibele starter |
+
+Voor een ondernemer die al jaren in Nederland actief is en zeker weet dat hij gaat pinnen, is CCV financieel gunstig bij hoge omzet door de lagere transactiekosten. Voor een starter zonder langetermijnzekerheid is Square's contractloze model aantrekkelijker.
+

@@ -209,6 +209,37 @@ Jortt heeft een gratis plan; gebruik het. Moneybird heeft een 30-daagse proef; g
 **Fout 5: De switchkosten vergeten**
 Overstappen van boekhoudsoftware is altijd werk. Je wil dat halverwege een boekjaar liever niet doen. Maak een weloverwogen keuze aan het begin van het jaar, of op het moment dat je begint.
 
+## Moneybird vs Jortt: wanneer kies je welke op basis van je bedrijfsprofiel?
+
+Ik heb beide pakketten aangeraden aan tientallen ZZP'ers. Hier zijn de profielen waarvoor elke tool het meest geschikt is.
+
+**Moneybird is de juiste keuze als:**
+- Je meer dan 20 facturen per maand verstuurt en bankimport nodig hebt
+- Je internationale klanten hebt en de API wilt gebruiken voor integraties
+- Je al een paar jaar onderneemt en de boekhouding serieuzer wilt bijhouden
+- Je Shopify, WooCommerce of Mollie wilt koppelen
+- Je gedetailleerde rapportages nodig hebt (W&V, balans, cashflow)
+- Je soms met een boekhouder samenwerkt maar ook zelf wilt meeboekhouden
+
+**Jortt is de juiste keuze als:**
+- Je net begint en zo min mogelijk wilt betalen of nadenken over administratie
+- Je minder dan 10 facturen per maand verstuurt
+- Je geen complexe integraties nodig hebt
+- De eenvoudigste mogelijke interface je prioriteit is
+- Je het gratis plan wilt uitproberen zonder verplichting
+
+**Prijsvergelijking per jaar:**
+
+| Scenario | Moneybird | Jortt |
+|----------|-----------|-------|
+| **Startend (weinig facturen)** | €0 (3 facturen/mnd) | €0 (gratis plan) |
+| **Actief ZZP (20-50 facturen/mnd)** | €15/mnd = €180/jaar | €9/mnd = €108/jaar |
+| **Groeiend ZZP (50+ facturen/mnd)** | €28-€39/mnd = €336-€468/jaar | €19/mnd = €228/jaar |
+
+Jortt is op elk niveau goedkoper dan Moneybird. Maar Moneybird levert voor die meerprijs ook meer: betere integraties, uitgebreidere rapportages, hogere Trustpilot-score.
+
+---
+
 ## Conclusie: welke moet je kiezen?
 
 Dit is mijn eerlijke oordeel na jaren van gebruik en adviezen:

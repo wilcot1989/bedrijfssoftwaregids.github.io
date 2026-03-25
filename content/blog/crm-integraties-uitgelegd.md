@@ -157,6 +157,20 @@ Controleer ook de AVG-implicaties. Als je CRM klantpersoonsgegevens synchronisee
 
 Bij het gebruik van Zapier of Make als integratietussenpunt: ook die platforms verwerken de data die door ze heen stroomt. Controleer of er een DPA beschikbaar is en of de datastroomt over Europese of Amerikaanse servers.
 
+## De drie integraties die de meeste MKB-bedrijven als eerste moeten regelen
+
+Als ik één advies mag geven aan een MKB-bedrijf dat begint met CRM-integraties: kies niet op basis van wat technisch mogelijk is, maar op basis van waar jij vandaag de meeste tijd aan verliest.
+
+**Integratie 1: e-mail en agenda.** Bijna elk CRM ondersteunt Gmail of Outlook. Zodra dit werkt, worden e-mails en afspraken automatisch gelogd bij het juiste contact. Dat is de snelste win: geen handmatige invoer meer, compleet klantdossier zonder extra werk.
+
+**Integratie 2: boekhoudpakket.** Als offertes en facturen automatisch worden gesynchroniseerd, verdwijnt de dubbele invoer. Je ziet in het CRM welke klanten nog een openstaande factuur hebben en kunt vanuit de klantkaart direct de betalingsstatus zien. Dat bespaart elke week tijd én verkleint de kans op communicatiefouten.
+
+**Integratie 3: contact- of leadformulieren op je website.** Nieuwe leads die via je website binnenkomen, zijn direct beschikbaar in het CRM — inclusief de bron (welke pagina, welke campagne). Dat maakt de opvolging sneller en je conversie-rapportage betrouwbaarder.
+
+Alles daarna — telefonie, projectmanagement, social media — is een verbetering op een goede basis. Begin met deze drie en je hebt al een groot deel van de tijdwinst te pakken.
+
+---
+
 ## Lees ook
 
 - [Beste CRM software 2026 vergelijken](/blog/beste-crm-software-nederland-2026/) — ontdek welk CRM de beste integraties biedt

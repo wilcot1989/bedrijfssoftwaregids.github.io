@@ -433,3 +433,45 @@ Stap 1: exporteer alle content uit het oude systeem (PDF of HTML-export). Stap 2
 
 ---
 
+## Kosten vergelijking intranet software
+
+| Tool | Gratis | Per user/maand | Geschikt voor |
+|---|---|---|---|
+| Notion | Gratis (1 workspace) | €10-€18 | Teams tot 50 personen |
+| Microsoft SharePoint | Via M365 (€10+/user) | €5 extra | Microsoft-omgevingen |
+| Confluence | Gratis tot 10 users | €5,75-€11 | Technische teams |
+| Guru | Nee (trial) | $10-$20 | Kennismanagement |
+| Happeo | Nee | Op aanvraag | Google Workspace-gebruikers |
+| Staffbase | Nee | Op aanvraag | Grote organisaties |
+
+**Beste prijs-kwaliteitverhouding voor MKB:** Notion Business (€18/user/maand) biedt de sterkste combinatie van kennisbank, projectbeheer en teamwiki. Voor Microsoft-omgevingen is SharePoint inbegrepen bij bestaande M365-licenties — extra kosten zijn minimaal.
+
+## Intranet vs kennisbank: wat heb je nodig?
+
+Een **intranet** is een intern platform voor communicatie, nieuws, HR-info en teamupdates. Een **kennisbank** is een gestructureerde database met procedures, handleidingen en antwoorden op veelgestelde vragen.
+
+In de praktijk lopen deze functies in elkaar over. Notion, Confluence en Guru doen beide goed. Microsoft SharePoint is primair een intranet; Confluence is primair een kennisbank.
+
+**Wanneer alleen een kennisbank volstaat:**
+- Je hebt al goede interne communicatiekanalen (Slack, Teams)
+- Je probleem is "medewerkers vinden procedures niet" — niet "medewerkers zijn slecht geïnformeerd"
+- Je hebt een klantenserviceteam dat snel antwoorden moet kunnen opzoeken
+
+**Wanneer je een volledig intranet nodig hebt:**
+- Je hebt medewerkers op meerdere locaties of thuiswerkers
+- Je mist een centrale plek voor bedrijfsnieuws, HR-documenten en teamupdates
+- Medewerkers gebruiken nu e-mail voor intern nieuws
+
+## Adoptie: de grootste uitdaging bij intranet-implementaties
+
+Ik zie bij bedrijven dat het intranet vaak goed van start gaat maar na zes maanden uitdooft. De drie redenen:
+
+**1. Content wordt niet bijgehouden**
+Een intranet vol verouderde procedures is erger dan geen intranet — het ondermijnt het vertrouwen in het systeem. Wijs per afdeling een content-eigenaar aan die procedures kwartaal bijwerkt.
+
+**2. Geen dagelijkse reden om te bezoeken**
+Als het intranet alleen wordt bijgewerkt bij grote wijzigingen, bezoeken medewerkers het zelden. Voeg een dagelijks element toe: een nieuwsfeed, team-updates of de weekagenda.
+
+**3. Te ingewikkeld om te vinden**
+Een intranet met 200 pagina's zonder goede zoekfunctie is onbruikbaar. Notion en Confluence hebben sterke zoekfunctionaliteit. Investeer in een heldere navigatiestructuur voordat je live gaat.
+

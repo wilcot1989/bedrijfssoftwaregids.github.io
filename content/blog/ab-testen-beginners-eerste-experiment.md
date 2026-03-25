@@ -171,6 +171,18 @@ Het installatiebedrijf uit Apeldoorn? Die 40 procent meer klikken vertaalde zich
 
 ---
 
+## Wanneer een A/B test zinloos is — en wat je dan beter kunt doen
+
+Niet elke situatie leent zich voor A/B testen. Als je website minder dan driehonderd unieke bezoekers per week heeft, is het bijna onmogelijk om statistisch significante resultaten te behalen binnen een redelijke termijn. Een test op een landingspagina met vijftig bezoekers per week duurt bij een bescheiden conversieverbetering van vijf procentpunt al meer dan drie maanden voordat je betrouwbare data hebt.
+
+In die gevallen adviseer ik twee alternatieven. Het eerste is gebruikersonderzoek: stuur je beste klanten een korte vragenlijst (vijf vragen, vijf minuten) of plan een videogesprek van dertig minuten. Wat je leert uit vijf kwalitatieve gesprekken overtreft wat een slecht opgestelde A/B test je oplevert.
+
+Het tweede alternatief is heatmap-analyse. Tools als Hotjar of Microsoft Clarity (gratis) laten zien waar mensen klikken, hoe ver ze scrollen en waar ze de pagina verlaten. Dat geeft je directe hypotheses voor verbeteringen die je kunt doorvoeren zonder te wachten op statistisch bewijs. Pas dan, als de pagina meer bezoekers trekt, start je met A/B testen.
+
+De volgorde is dus: begrijp eerst het gedrag van je bezoekers, verbeter dan op basis van inzicht, en toets daarna met data.
+
+---
+
 **Lees ook:**
 - [Marketing automation: concrete ROI-voorbeelden voor MKB](/blog/marketing-automation-roi-voorbeelden/)
 - [Beste e-mailmarketing software 2026: eerlijke vergelijking](/blog/beste-email-marketing-software-2026/)

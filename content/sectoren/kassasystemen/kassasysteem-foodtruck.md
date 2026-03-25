@@ -247,6 +247,18 @@ Vaste klanten bereiken via een nieuwsbrief of locatie-updates is een eenvoudige 
 
 Lees ook het artikel [kassasysteem verborgen kosten checklist](/blog/kassasysteem-verborgen-kosten-checklist/) om te voorkomen dat je voor verrassingen komt te staan. En de [kassasysteem inrichten checklist](/blog/kassasysteem-inrichten-checklist/) helpt je om alles in een keer goed op te zetten.
 
+## Praktische tips voor een kassasysteem in een foodtruck
+
+Een foodtruck heeft specifieke uitdagingen die je bij een vaste horecalocatie niet hebt. Hier zijn de dingen die ik van foodtruck-eigenaren het vaakst hoor:
+
+**Stroomvoorziening:** Zorg dat je telefoon of tablet voor aanvang van elke dag volledig opgeladen is. Zettle en Square werken op een smartphone met een losse reader — die telefoon heeft een powerbank nodig bij lange diensten. De Zettle Store Kit met de aparte printer heeft ook een eigen batterij die je dagelijks oplaadt. Test dit thuis voor je eerste event.
+
+**4G-verbinding:** Zowel Zettle als Square vereisen een internetverbinding voor kaartbetalingen. Op een evenemententerrein met duizend bezoekers kan 4G trager zijn dan normaal. Overweeg een aparte 4G-simkaart voor je betaalterminal die losstaat van je eigen data. Zettle werkt met de meeste Nederlandse SIM-kaarten.
+
+**Contant geld als backup:** Zelfs met een goed kassasysteem kan internet uitvallen. Zorg altijd voor een wisselgeldbak als backup. Noteer de bedragen handmatig en voer ze achteraf in als contante transacties.
+
+**Menu-eenvoud:** In een foodtruck heb je zelden meer dan vijftien à twintig menu-items. Zettle en Square zijn gebouwd voor snelle kassa's met een beperkt menu — niet voor restaurants met een uitgebreide kaart. Zet je meest populaire items als sneltoets op het scherm, zodat je met twee tikken kunt afrekenen.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

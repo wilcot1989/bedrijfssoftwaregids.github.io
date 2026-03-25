@@ -612,5 +612,16 @@ Aanbevolen voor: MKB 20-200 medewerkers, bedrijven met internationale ambities, 
 
 Niet aanbevolen voor: Bedrijven die alleen verlof/salarisadministratie willen (dan is HoorayHR of Loket.nl goedkoper), of organisaties boven 500 medewerkers (dan zijn AFAS of YouForce beter).
 
+## Veelgemaakte fouten bij Factorial
+
+**Fout 1: Alle modules tegelijk activeren**
+Factorial biedt veel: verlof, performance, ATS, tijdregistratie. Teams die alles tegelijk willen implementeren, raken overweldigd. Begin met verlofbeheer en tijdregistratie, wacht vier weken, en voeg daarna performance management toe. Dat geeft medewerkers tijd om het systeem te leren kennen.
+
+**Fout 2: Approval-workflows niet instellen**
+Standaard gaat een verlofaanvraag naar de directe manager. Als iemand ziek is of lang afwezig, loopt dat vast. Stel altijd een vervanger in per team en test het approval-proces voor je live gaat.
+
+**Fout 3: Geen gebruik maken van de rapportages**
+Factorial heeft solide HR-analytics: verlooppercentages, ziekteverzuim per afdeling, openstaande vacatures. Ik zie veel HR-managers deze data niet gebruiken. Zet een maandelijkse rapportage klaar als dashboard — dat bespaart je uren handmatig werk in Excel.
+
 [Vraag een gratis Factorial demo aan](https://factorialhr.com){rel="noopener nofollow sponsored" class="cta-affiliate"}
 

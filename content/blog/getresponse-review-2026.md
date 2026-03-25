@@ -569,5 +569,13 @@ GetResponse is een uitstekende keuze voor coaches, trainers, MKB-bedrijven die e
 
 De prijs-kwaliteitsverhouding is bij GetResponse uitstekend. U krijgt meer functies per euro dan bij de meeste concurrenten.
 
+## Veelgemaakte fouten bij GetResponse
+
+**Fout 1: Welkomstmail vergeten**
+Bijna elk account dat ik overneem mist een goede welkomstautomatisering. De meeste opens en clicks komen in de eerste 48 uur na aanmelding. Stel minimaal een driedelige welkomstreeks in: bevestiging, kennismaking, eerste aanbod. GetResponse maakt dit eenvoudig met de automation builder.
+
+**Fout 2: Segmentatie overslaan**
+Beginners sturen elke nieuwsbrief naar de volledige lijst. Dat verlaagt de deliverability. Gebruik GetResponse's tagging om abonnees te segmenteren op basis van klikgedrag, en stuur relevante content naar relevante groepen. Drie maanden later zijn je open rates zichtbaar hoger.
+
 [Start uw gratis 30-daagse proefperiode bij GetResponse](https://www.getresponse.com/?a=bedrijfssoftwaregids){rel="noopener nofollow sponsored" class="cta-affiliate"}
 

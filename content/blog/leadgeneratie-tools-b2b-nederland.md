@@ -149,6 +149,73 @@ Op basis van deze drie vragen kom je tot een prioritering: welk kanaal vergroot 
 
 ## Lees ook
 
+## De leadgeneratie-stack voor Nederlandse B2B: wat werkt samen
+
+Een efficiënte leadgeneratie-setup bestaat uit een kleine stapel tools die goed samenwerken. Hier is de minimale stack die ik bij groeiende B2B-bedrijven aanraad.
+
+### De basis-stack (budget: €150-250/mnd)
+
+**CRM: Pipedrive (€15/gebruiker/mnd)**
+Bijhouden van leads, deals en contactpersonen. Koppelt eenvoudig met e-mailplatforms en LinkedIn.
+
+**E-mail/automation: ActiveCampaign (€29-59/mnd)**
+Nurturing van inbound leads na contentdownload of webinar-aanmelding. Goede CRM-koppeling.
+
+**LinkedIn: Organisch (gratis)**
+Drie tot vijf posts per week met een duidelijk standpunt. Verbindingsverzoeken met korte persoonlijke boodschap aan relevante beslissers.
+
+**Landing page: bestaande website of Unbounce (€74/mnd)**
+Eenvoudige contentdownload-pagina voor lead capture.
+
+Totale maandkosten: €100-200. Focustijd: vier à zes uur per week voor contentcreatie en opvolging.
+
+### De uitgebreide stack (budget: €400-700/mnd)
+
+**CRM: HubSpot Sales Starter (€46/mnd)**
+Uitgebreidere rapportages, directe e-mailintegratie en sequencing.
+
+**Marketing automation: HubSpot Marketing Starter (€46/mnd)**
+Alle marketing en sales in één platform — minder koppelingen, betere rapportages.
+
+**LinkedIn Sales Navigator (€100/mnd/gebruiker)**
+Geavanceerde filteropties, saved searches en account-updates.
+
+**Outbound e-mail: Lemlist (€59/mnd)**
+Gepersonaliseerde cold-outreach met automatische reeksen.
+
+**Content-SEO: onderhoud + eventueel Semrush (€120/mnd)**
+Voor inbound via Google.
+
+Totale maandkosten: €370-600. Focustijd: tien à vijftien uur per week.
+
+---
+
+## De vijf meest gemaakte fouten bij B2B leadgeneratie in Nederland
+
+Op basis van wat ik bij klanten tegenkom, zijn dit de fouten die het meeste leadvolume kosten.
+
+### Fout 1: Eén kanaal opgeven te vroeg
+
+Een kanaal werkt pas als je het drie maanden consequent gebruikt. Ik zie regelmatig bedrijven die zes weken LinkedIn proberen, geen resultaat zien en stoppen. LinkedIn-organic heeft een opbouwtijd van twee à drie maanden voor de eerste serieuze leads binnenkomen. Wie na zes weken stopt, geeft op vlak voor het punt waarop het gaat werken.
+
+### Fout 2: Te generiek blijven in de boodschap
+
+"Wij helpen bedrijven groeien" trekt niemand aan. "Wij helpen horecabedrijven met meer dan drie vestigingen hun administratielast halveren" is specifiek genoeg om aandacht te trekken bij precies de juiste mensen. Hoe specifieker de boodschap, hoe smaller het bereik maar hoe hoger de conversie.
+
+### Fout 3: Leads niet snel genoeg opvolgen
+
+De eerste respons op een aanvraag bepaalt voor een groot deel de uitkomst. Leads die binnen een uur worden opgepakt, converteren significant vaker dan leads die de volgende dag worden gebeld. Automatiseer een directe bevestigingsmail bij elke aanvraag als je niet altijd direct kunt reageren.
+
+### Fout 4: Het kwalificatiegesprek overslaan
+
+Niet elke lead is een goede lead. Bedrijven die hun volledige salesproces inzetten op elk inbound contact, besteden te veel tijd aan prospects die nooit klant worden. Bouw een kwalificatiefilter in — een formulier met twee à drie vragen over budget en urgentie — voor je een eerste gesprek inplant.
+
+### Fout 5: Niets meten
+
+Als je niet weet welk kanaal je leads oplevert die daadwerkelijk kopen, optimaliseer je op de verkeerde dingen. Vraag elke nieuwe klant: hoe hoorde je voor het eerst van ons? En: wat was de doorslaggevende reden om voor ons te kiezen? Die twee vragen zijn de meest waardevolle marktonderzoek die je kunt doen.
+
+---
+
 - [Beste email marketing software 2026](/blog/beste-email-marketing-software-2026/) — email tools voor B2B leadgeneratie
 - [Semrush vs Ahrefs 2026](/blog/semrush-vs-ahrefs-2026/) — de twee beste SEO-tools vergeleken
 

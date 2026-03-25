@@ -141,6 +141,20 @@ Sommige pakketten bieden ook een directe samenwerking met een extern boekhoudkan
 
 Controleer bij de aanschaf of het pakket medewerkers-logins ondersteunt voor externen. Dat bespaart jou tijd en kosten en maakt de samenwerking met de boekhouder transparanter.
 
+## Snelle vergelijking: gecombineerde pakketten naast elkaar
+
+Voor wie snel wil zien welk pakket wat biedt:
+
+| Pakket | Prijs | Terugkerende facturen | Tijdregistratie | Betaallink | Automatische herinneringen |
+|---|---|---|---|---|---|
+| **Moneybird** | €15-€39/mnd | Ja | Ja | Ja (iDEAL) | Ja |
+| **e-Boekhouden** | €9,95/mnd | Ja | Beperkt | Nee | Ja |
+| **Jortt** | ~€12/mnd | Ja | Nee | Beperkt | Ja |
+| **Exact Online** | €49+/mnd | Ja | Ja (Professional) | Ja | Ja |
+| **SnelStart** | €15-€22/mnd | Ja | Nee | Nee | Ja |
+
+Voor ZZP'ers die regelmatig op uren factureren is Moneybird de sterkste keuze in het betaalbare segment. Voor wie alleen facturen wil sturen en bijhouden, doet Jortt of e-Boekhouden prima werk voor minder geld.
+
 ## Lees ook
 
 - [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — de beste pakketten die facturatie en boekhouding combineren

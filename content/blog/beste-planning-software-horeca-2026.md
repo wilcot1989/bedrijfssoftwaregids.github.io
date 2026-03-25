@@ -504,3 +504,47 @@ Mijn advies: begin met het gratis plan van Shiftbase of vraag demo's aan bij Dyf
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**. En vergeet niet een bijpassend [kassasysteem voor je horeca](/blog/beste-kassasysteem-horeca-2026/) te kiezen -- de kassasysteem-inrichtingschecklist op [kassasysteem inrichten](/blog/kassasysteem-inrichten-checklist/) helpt je bij de eerste stappen.
 
 **Mijn laatste tip:** vraag bij je eerste demo altijd of de aanbieder een referentie wil geven van een vergelijkbare horecazaak. Een restauranteigenaar van een soortgelijk bedrijf — qua grootte, type keuken, openingstijden en teamsamenstelling — vertelt je dingen die geen salesgesprek kan vervangen. Vraag specifiek: "Hoe lang duurde de implementatie?" en "Wat zou je achteraf anders doen?" Die twee vragen leveren de eerlijkste antwoorden op die je kunt krijgen voor je een abonnement tekent. Goed referentie-onderzoek bespaart je meer tijd dan welke vergelijkingstabel ook. Die twee specifieke vragen kosten je slechts vijf minuten maar kunnen je maanden implementatieproblemen, onnodig werk en frustraties besparen. Een restauranteigenaar van een soortgelijk bedrijf kan je vertellen wat in de praktijk werkt en wat niet — iets wat geen salesvideo of productpagina kan vervangen.
+
+---
+
+## Kosten en terugverdientijd: een rekenvoorbeeld
+
+Planning software kost geld, maar verdient zichzelf snel terug. Hier een rekenvoorbeeld voor een horecabedrijf met 20 medewerkers:
+
+| Situatie | Zonder software | Met software |
+|---|---|---|
+| Roosteruren per week | 5 uur (manager) | 1 uur |
+| Loonkosten roostering | €160/week | €32/week |
+| Verzuim door planfouten | ~2 oproepen/maand | ~0,5 oproepen/maand |
+| Overwerkkostenoverschrijding | ~€300/maand | ~€80/maand |
+| Communicatiekosten (WhatsApp, bellen) | ~2 uur/week | ~0,5 uur/week |
+
+**Berekening:** Bij €32/uur voor een manager bespaar je €4 uur × €32 = €128 per week, plus €220/maand minder overwerk. Dat is ruim €500/maand besparing bij een softwarekosten van gemiddeld €100-150/maand voor 20 medewerkers.
+
+De terugverdientijd is in de meeste gevallen minder dan één maand.
+
+## Sector-specifieke overwegingen
+
+### Restaurants en cafés
+Je werkt met vaste openingstijden maar wisselende drukte. De koppeling met je kassasysteem is hier het meest waardevol: door omzetdata te importeren kun je bijsturen op drukke avonden. Dyflexis heeft de sterkste integratie met Nederlandse POS-systemen zoals Lightspeed en DISH. Plandag basis via Planday lukt ook goed voor this use case.
+
+### Cateringbedrijven en eventcatering
+Je hebt te maken met projectmatige inzet: grote evenementen met tijdelijke teams. Deputy werkt hier goed door de functie voor "open shifts" die medewerkers zelf kunnen claimen. Zo kun je snel opschalen voor een groot evenement zonder handmatig te bellen.
+
+### Hotels en accommodaties
+Meerdere afdelingen (receptie, keuken, schoonmaak, bediening) met elk hun eigen planningscyclus. Workforce.com en Tamigo zijn hier het sterkst door hun departement-specifieke roosterweergaven.
+
+### Seizoensbedrijven
+Als je terras alleen van april tot september open is, wil je medewerkers niet verwijderen maar tijdelijk inactief zetten. Dyflexis en Deputy ondersteunen dit goed. Sla ook je historische roosterdata op — zo weet je volgend jaar direct hoeveel mensen je nodig had op vergelijkbare zomerse zaterdagen.
+
+## CAO Horeca: wat automatisch moet kloppen
+
+De CAO voor de Horeca bevat specifieke regels die je planning software automatisch moet bewaken:
+
+- **Maximale arbeidstijd**: 10 uur per dienst, 60 uur per week (met expliciete toestemming)
+- **Minimale rusttijd**: 11 uur tussen diensten
+- **Toeslag zaterdagavond**: 25% toeslag na 18:00 uur op zaterdag
+- **Toeslag zondag**: 50% toeslag op zondag
+- **Nachtdienst toeslag**: 50% toeslag tussen 00:00-06:00
+
+Shiftbase en Dyflexis berekenen deze toeslagen automatisch bij het inplannen en koppelen ze direct aan je salarisadministratie. Deputy doet dit ook, maar je moet de CAO-parameters handmatig instellen — dat kost bij de implementatie wat extra tijd maar werkt daarna volledig automatisch.

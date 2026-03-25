@@ -268,6 +268,21 @@ Moneybird en Exact Online zijn niet je enige opties. Afhankelijk van je situatie
 
 Bekijk het volledige overzicht in mijn artikel [Beste Boekhoudsoftware voor ZZP'ers 2026](/blog/beste-boekhoudsoftware-zzp-2026/).
 
+## Moneybird vs Exact Online: wat betaal je echt per jaar?
+
+De prijzen zijn helder, maar de totale jaarkosten inclusief accountant en tijdsinvestering zijn wat telt.
+
+| Scenario | Moneybird | Exact Online |
+|----------|-----------|--------------|
+| **ZZP, zelf boekhouden** | €180-€468/jaar | Niet aanbevolen (te complex) |
+| **Kleine BV, jaarrekening extern** | €468/jaar + €800-€2000 accountant | €588/jaar + €500-€1200 accountant |
+| **MKB 5 pers., voorraad + CRM** | Niet geschikt | €1.188-€1.908/jaar |
+| **MKB volledig uitbesteed** | €468 + €3.000-€6.000 | €1.908 + €2.000-€5.000 |
+
+De prijskloof is aanzienlijk bij kleine bedrijven, maar bij grotere bedrijven met complexere behoeften verdient Exact Online's hogere prijs zich terug door de geïntegreerde functies (voorraad, CRM, projecten).
+
+---
+
 ## Conclusie: Moneybird vs Exact Online -- welke kies je?
 
 Na jaren klanten te hebben geholpen met deze keuze, komt mijn advies neer op een simpele vraag: **hoe complex is je bedrijf?**

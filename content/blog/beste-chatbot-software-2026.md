@@ -432,3 +432,55 @@ Twijfel je nog? Gebruik de gratis tools:
 
 ---
 
+## Kosten vergelijking chatbot software
+
+| Tool | Gratis plan | Starter | Pro | Enterprise |
+|---|---|---|---|---|
+| Tidio | Ja (beperkt) | €29/maand | €59/maand | Op aanvraag |
+| Freshchat | Ja (100 agents) | €15/agent | €39/agent | Op aanvraag |
+| Intercom | Nee | €74/seat | €139/seat | Op aanvraag |
+| ManyChat | Ja (beperkt) | €15/maand | €35/maand | Op aanvraag |
+| Landbot | Ja (100 chats) | €40/maand | €100/maand | Op aanvraag |
+| Drift | Nee | Op aanvraag | Op aanvraag | Op aanvraag |
+
+**Aanbeveling per use case:**
+- Kleine webshop, eerste chatbot: Tidio (gratis plan)
+- WhatsApp-chatbot voor marketing: ManyChat
+- B2B leadgeneratie: Drift of Intercom
+- Complexe conversatieflows: Landbot
+
+## ROI-berekening: wanneer loont een chatbot
+
+Een chatbot is alleen waardevol als hij echte vragen beantwoordt en echte kosten bespaart. Hier een rekenvoorbeeld:
+
+**Situatie:** Webshop met 200 klantvragen per maand, gemiddeld 5 minuten per vraag, 1 klantenservicemedewerker.
+
+- Huidige kosten: 200 vragen × 5 minuten = 16,7 uur/maand × €25/uur = €417/maand
+- Chatbot automatiseert 50% van vragen: 100 vragen × 5 minuten = 8,3 uur/maand = €208/maand besparing
+- Chatbot kosten: €29/maand (Tidio Pro)
+- Netto besparing: €179/maand
+
+De terugverdientijd is direct — in de eerste maand.
+
+## Wat een chatbot niet kan (en waarom dat belangrijk is)
+
+Een chatbot is sterk voor:
+- Veelgestelde vragen beantwoorden (retourbeleid, openingstijden, prijzen)
+- Leadkwalificatie (bedrijfsgrootte, rol, budget verzamelen)
+- Bestellingsstatus opzoeken (via API-koppeling met je webshop)
+
+Een chatbot is slecht in:
+- Complexe klachten waarbij emotie meespeelt
+- Creatieve of onverwachte vragen buiten het script
+- Situaties waarbij menselijk oordeel nodig is
+
+De beste implementatie is een hybride: chatbot voor eerste sortering en veelgestelde vragen, menselijke agent voor alles wat complexer is. Stel altijd een "verbind me met een medewerker" optie in — klanten die echt een mens nodig hebben worden gefrustreerd als ze die niet kunnen bereiken.
+
+## Sector-specifieke inzet van chatbots
+
+**E-commerce:** Focus op orderstatussen en retourvragen. Koppel de chatbot via API aan je Shopify of WooCommerce-backend zodat klanten direct hun trackingnummer kunnen opvragen.
+
+**B2B software en SaaS:** Leadkwalificatie is de sterkste use case. Een chatbot die vraagt "Hoeveel medewerkers heeft uw bedrijf?" en "Wat is uw budget?" kwalificeert leads voordat ze met een verkoper praten.
+
+**Zakelijke dienstverlening:** Afspraken plannen is een waardevolle toepassing. Koppel de chatbot aan Calendly zodat bezoekers direct een gesprek kunnen inplannen zonder met een medewerker te bellen.
+
