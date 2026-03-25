@@ -20,11 +20,13 @@
     {{ $pageTitle := .Title }}
     <div class="card">
       {{ with .Params.featured_image }}<img src="/{{ strings.TrimPrefix "/" . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
-      {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . | urlize }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
-      <div class="meta">{{ .Date.Format "02-01-2006" }} · {{ .ReadingTime }} min leestijd</div>
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <p class="card-excerpt">{{ .Summary }}</p>
-      <a href="{{ .RelPermalink }}" class="read-more">Lees meer</a>
+      <div class="card-body">
+        {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . | urlize }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
+        <div class="meta">{{ .Date.Format "02-01-2006" }} · {{ .ReadingTime }} min leestijd</div>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p class="card-excerpt">{{ .Summary }}</p>
+        <a href="{{ .RelPermalink }}" class="read-more">Lees meer</a>
+      </div>
     </div>
     {{ end }}
   </div>
