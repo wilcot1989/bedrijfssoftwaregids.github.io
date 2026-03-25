@@ -24,6 +24,16 @@ faq:
     a: "Intercom is ideaal voor SaaS-bedrijven en digitale producten die klanten willen onboarden, proactief berichten willen sturen op basis van gebruikersgedrag en een sterk AI-gestuurde chatbot nodig hebben."
   - q: "Kan ik Freshdesk en Intercom combineren?"
     a: "Ja, sommige bedrijven gebruiken Freshdesk als ticketsysteem voor complexe kwesties en Intercom als proactieve chatoplossing op de website. Er is een integratie beschikbaar."
+products:
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
 ---
 
 Freshdesk of Intercom: het lijkt een evidente vergelijking, maar de twee platforms zijn voor heel verschillende doeleinden gebouwd. Toch worden ze regelmatig door bedrijven naast elkaar gelegd als mogelijke klantenserviceoplossing. Ik heb beide intensief getest en geef je een eerlijk, gedetailleerd beeld.

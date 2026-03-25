@@ -28,6 +28,16 @@ faq:
     a: "Notion en Confluence zijn beide kennisbeheersystemen, maar voor verschillende doelgroepen. Confluence is diep geïntegreerd met Jira en Atlassian-producten, waardoor het sterk is voor software-development teams. Notion is veelzijdiger, moderner van interface en combineert kennisbeheer met projectbeheer en databases. Voor MKB-bedrijven zonder Jira is Notion vrijwel altijd de betere keuze — moderner, betaalbaarder en makkelijker om te leren."
   - q: "Kan ik Notion gratis uitproberen?"
     a: "Ja. Het Free-plan is permanent beschikbaar zonder tijdslimiet. Je krijgt onbeperkte pagina's en blokken, maar met één gast en beperkte uploadmogelijkheden. Betaalde plannen hebben geen aparte proefperiode, maar het Free-plan is uitgebreid genoeg om te beoordelen of Notion bij jou past voordat je betaalt."
+products:
+  - name: "Notion"
+    url: "https://www.notion.so/"
+    price: "9.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Ik gebruik Notion al drie jaar. Niet als show-en-tell, maar als mijn dagelijkse werkplek: klantdossiers, onderzoeksnotities, contentplanning, offerteprocessen. Ik ken de tool op zijn best en op zijn frustrerendst. En die combinatie maakt het lastig om een eerlijk oordeel te geven aan mensen die afvragen of Notion iets voor hun team is.

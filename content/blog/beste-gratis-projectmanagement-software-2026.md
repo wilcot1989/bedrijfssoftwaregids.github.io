@@ -29,6 +29,16 @@ faq:
     a: "Overweeg upgraden als je: meer dan de gebruikerslimiet bereikt, opslag vol loopt, automatiseringen te beperkt zijn, Gantt-charts breed wil gebruiken, of rapportages wil exporteren. Bij de meeste tools is het gratis plan voldoende tot 5-10 personen voor eenvoudige projecten."
   - q: "Is Notion goed als gratis projectmanagement tool?"
     a: "Notion Free is krachtig voor documentatie en eenvoudig taakbeheer, maar mist agile-functies zoals Gantt-charts, tijdregistratie en automatiseringen. Het is beter als all-in-one workspace (wiki + taken + database) dan als dedicated projectmanagement tool."
+products:
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Jira"
+    url: "https://www.atlassian.com/software/jira"
+    price: "0.00"
 ---
 
 De meest voorkomende vraag die ik krijg van MKB-ondernemers die net een team opbouwen: "Lars, moeten we meteen betalen voor projectmanagement software, of is er een goede gratis optie?"

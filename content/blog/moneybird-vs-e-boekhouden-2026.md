@@ -30,6 +30,16 @@ faq:
     a: "Moneybird schaalt beter naar grotere teams. Het biedt een duidelijke multi-user structuur met rolbeheer. e-Boekhouden biedt ook meerdere gebruikers via het MKB-pakket, maar Moneybird voelt hier iets natuurlijker aan."
   - q: "Kan ik overstappen van e-Boekhouden naar Moneybird of andersom?"
     a: "Ja, overstappen is mogelijk bij beide pakketten via import- en exportfuncties. Het is het eenvoudigst om te wisselen aan het begin van een nieuw boekjaar. Moneybird biedt een specifieke importfunctie voor gegevens uit andere boekhoudpakketten."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Moneybird vs e-Boekhouden is een keuze die ik vrijwel wekelijks met ZZP'ers bespreek. Op Trustpilot scoort e-Boekhouden opvallend hoog: 4.6/5 met 1.878 reviews — een van de beste scores in de Nederlandse boekhoudsoftware-markt. Moneybird scoort een degelijke 3.5/5 (181 reviews). Mijn korte advies: kies Moneybird als gebruiksgemak bovenaan staat, e-Boekhouden als je elke euro wilt besparen. Maar er zijn meer factoren die meespelen, en die loop ik in deze Moneybird vs e-Boekhouden vergelijking allemaal langs.

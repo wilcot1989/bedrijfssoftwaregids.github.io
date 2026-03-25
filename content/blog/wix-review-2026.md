@@ -28,6 +28,16 @@ faq:
     a: "Voor kleine tot middelgrote webshops kan Wix prima werken, zeker als je weinig producten hebt en geen complexe logistiek nodig hebt. Wix Stores heeft de basisfuncties voor e-commerce: productpagina's, winkelwagen, kortingscodes, verzendopties. Maar bij meer dan ~200 producten, internationale verkoop, of uitgebreid voorraadbeheer is Shopify een sterkere keuze. Wix is meer geschikt voor ondernemers waarbij de website centraal staat en de webshop een secundaire functie is."
   - q: "Kan ik mijn Wix website overzetten naar een ander platform?"
     a: "Dat is helaas zeer moeilijk. Wix heeft geen exportfunctie voor je volledige website. Je kunt wel je blogberichten en productdata (CSV) exporteren, maar de opmaak, het design en de pagina-structuur zijn niet overdraagbaar. In de praktijk betekent een overstap van Wix naar een ander platform dat je je website grotendeels of volledig opnieuw moet bouwen. Dit is misschien wel het grootste risico van Wix op de lange termijn."
+products:
+  - name: "Wix"
+    url: "https://www.wix.com/"
+    price: "17.00"
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
 ---
 
 Ik herinner me een klant — een fotograaf in Amsterdam die een portfolio met een kleine webshop wilde — die mij twee jaar geleden vroeg: "Lars, Wix ziet er zo makkelijk uit, is dat niet gewoon de slimste keuze?" Mijn antwoord was genuanceerder dan hij verwachtte. En die nuance is precies wat ik je in deze review wil meegeven.

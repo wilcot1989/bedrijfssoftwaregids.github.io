@@ -20,6 +20,16 @@ faq:
 tags:
   - hr-software
   - mkb
+products:
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 Een installatiebedrijf in de bouw, 25 medewerkers, goed lopend. De eigenaar bijhield verzuim in een Word-document. Ziekmelding erin, datum eruit, klaar. Totdat er een monteur langdurig uitviel met rugklachten.

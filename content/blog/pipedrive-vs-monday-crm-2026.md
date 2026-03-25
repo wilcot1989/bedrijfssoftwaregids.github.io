@@ -30,6 +30,16 @@ faq:
     a: "Monday CRM, zonder twijfel. Het is gebouwd op het Monday.com Work OS platform, waardoor je soepel kunt schakelen tussen sales pipelines en projectborden. Bij Pipedrive heb je hiervoor een aparte tool nodig, zoals Asana of Trello, plus een Zapier-koppeling."
   - q: "Kan ik Pipedrive en Monday CRM in het Nederlands gebruiken?"
     a: "Ja, beide platforms bieden een Nederlandstalige interface. Pipedrive heeft 24/7 live chat support in het Engels. Monday CRM biedt support via e-mail en chat, eveneens primair in het Engels maar met steeds meer Nederlandse ondersteuning."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Pipedrive vs Monday CRM -- je twijfelt en eerlijk gezegd snap ik dat. Op Trustpilot is het verschil opvallend: Pipedrive scoort 4.5/5 (3.231 reviews) — consistent hoge waarderingen voor gebruiksgemak. Monday CRM deelt de 2.7/5 (3.388 reviews) van het bredere Monday.com-platform, waar de klachten vooral over contractvoorwaarden gaan. Op het eerste gezicht lijken ze vergelijkbaar: visuele pipelines, drag-and-drop deals, automatiseringen. Maar na implementaties van beide platformen bij tientallen Nederlandse MKB-bedrijven kan ik je vertellen dat ze fundamenteel anders werken. Pipedrive is een puur sales-CRM. Monday CRM is een flexibel werkplatform dat ook CRM doet. Dat verschil bepaalt welke bij jou past. In deze vergelijking zet ik beide eerlijk naast elkaar, met echte prijzen en de fouten die ik klanten heb zien maken.

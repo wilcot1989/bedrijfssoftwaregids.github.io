@@ -30,6 +30,16 @@ faq:
     a: "Wix kost €14-35 per maand voor betaalde plannen. Shopify kost $29-79 per maand. Squarespace €13-23 per maand. Webflow $14-23 per maand. WordPress hosting varieert van €3-15 per maand, exclusief premiumthema en plugins. Voor vergelijkbare functionaliteit zijn de prijzen grotendeels vergelijkbaar; Wix is niet per se de goedkoopste optie."
   - q: "Welk Wix-alternatief is het beste voor een kleine ondernemer zonder technische kennis?"
     a: "Squarespace is de beste keuze voor niet-technische gebruikers die een professioneel ogende website willen zonder gedoe. De templates zijn uitstekend, alles is geïntegreerd en het platform is stabieler dan Wix. Voor een kleine webshop tot 50 producten doet Squarespace het ook goed. Shopify is eenvoudiger dan WordPress maar complexer dan Squarespace."
+products:
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
+  - name: "Wix"
+    url: "https://www.wix.com/"
+    price: "17.00"
 ---
 
 Wix heeft miljoenen websites opgebouwd. Maar er is een moment waarop het platform zijn grenzen bereikt — of waarop je beseft dat je in een platform zit waar je nauwelijks uitkomt. Ik spreek regelmatig ondernemers die gefrustreerd zijn over de beperkingen van Wix, maar twijfelen over de overstap omdat ze bang zijn voor het migratietraject.

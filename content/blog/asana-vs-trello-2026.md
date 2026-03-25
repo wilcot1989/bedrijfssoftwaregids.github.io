@@ -34,6 +34,16 @@ faq:
     a: "Ja, Asana biedt een importfunctie voor Trello via CSV-export. Kaarten worden taken, lijsten worden secties en labels worden tags. Bijlagen, commentaren en checklists worden deels meegenomen. Complexe Power-Up instellingen en automations moet je handmatig nabouwen. Plan hier een dag of twee voor in, afhankelijk van de grootte van je workspace."
   - q: "Welke tool is beter voor grotere teams van 20+ personen?"
     a: "Asana wint voor grotere teams. Met portfoliobeheer, workloadmanagement, gedetailleerde rapportages en rolgebaseerde rechten is Asana beter geschaald voor teams van 20 tot 200 mensen. Trello wordt bij grotere teams rommelig: borden vermenigvuldigen, het ontbreekt aan overkoepelende rapportages en rechtenstructuren zijn beperkt."
+products:
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Asana vs Trello — dit is de vergelijking die ik het meest krijg van mensen die net serieus beginnen met projectmanagement software. Logisch ook: beide tools zijn enorm populair, beide hebben een gratis plan en beide richten zich op taakbeheer. Maar de overeenkomsten houden daar grotendeels op.

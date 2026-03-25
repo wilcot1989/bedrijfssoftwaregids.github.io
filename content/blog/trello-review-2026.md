@@ -30,6 +30,16 @@ faq:
     a: "Trello is ontworpen als eenvoudige Kanban-tool en mist functies die grotere teams nodig hebben: geen native tijdregistratie, geen ingebouwde Gantt-charts, beperkte rapportages en geen portfolio-overzicht over meerdere projecten. Voor teams van meer dan 15-20 personen met complexe projecten raad ik Asana, Monday.com of Jira aan."
   - q: "Wat zijn de beste alternatieven voor Trello?"
     a: "De drie beste alternatieven zijn Asana (meer functies, betere structuur voor grotere teams), Monday.com (visueler, flexibeler, sterker in automatiseringen) en Notion (als je ook documentbeheer wilt combineren). Als je agile werkt, is Jira de betere Atlassian-optie. ClickUp biedt meer functionaliteit voor een vergelijkbare prijs."
+products:
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Ik gebruik Trello al jaren om bepaalde typen werk bij te houden — contentcalenders, checklists voor klantonboarding, kleine projecten met een duidelijk begin en eind. En elke keer denk ik: dit werkt verrassend soepel. Totdat iemand vraagt om een Gantt-chart, tijdregistratie of een rapportage over de werkbelasting per teamlid. Dan stopt Trello.

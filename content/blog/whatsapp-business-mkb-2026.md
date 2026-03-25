@@ -29,6 +29,16 @@ faq:
     a: "Trengo (Nederlands platform, €25/gebruiker/mnd) is de meest complete oplossing voor MKB: het combineert WhatsApp, e-mail, chat en sociale media in één inbox. Tidio is goedkoper en focust op live chat en chatbots op je website. Voor puur WhatsApp-communicatie zonder brede multi-channel aanpak is Messagebird een solide keuze. Welke je kiest hangt af van of je alleen WhatsApp wilt of een complete klantenservice-inbox."
   - q: "Hoeveel apparaten kan ik koppelen aan de WhatsApp Business App?"
     a: "Maximaal vijf apparaten: één primair telefoon en vier extra apparaten (tablets, computers via WhatsApp Web). Voor grotere teams is de gratis app dus niet geschikt — je hebt dan de API nodig via een BSP."
+products:
+  - name: "Trengo"
+    url: "https://www.trengo.com/nl"
+    price: "19.00"
+  - name: "Zendesk"
+    url: "https://www.zendesk.nl/"
+    price: "19.00"
+  - name: "Freshdesk"
+    url: "https://www.freshworks.com/freshdesk/"
+    price: "0.00"
 ---
 
 Bijna elk Nederlands MKB-bedrijf krijgt vroeg of laat de vraag van klanten: "Kan ik je ook via WhatsApp bereiken?" Dat is logisch — 12,5 miljoen Nederlanders gebruiken WhatsApp dagelijks, meer dan e-mail voor persoonlijk contact. Maar er is een groot verschil tussen WhatsApp Business snel installeren en het echt goed inrichten voor je bedrijf.

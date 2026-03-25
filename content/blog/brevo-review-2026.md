@@ -29,6 +29,16 @@ faq:
     a: "Het grootste verschil is het prijsmodel: Brevo rekent per verzonden e-mail (onbeperkt contacten), Mailchimp per contact. Bij een grote lijst met lage verzendfrequentie is Brevo voordeliger. Mailchimp biedt iets sterkere e-commerce functies en meer templates. Brevo biedt daarentegen ingebouwde CRM, SMS-marketing en transactionele e-mails."
   - q: "Slaat Brevo data op in de EU?"
     a: "Ja, Brevo is een Frans bedrijf en slaat standaard alle data op binnen de Europese Unie. Dit maakt Brevo een AVG-vriendelijke keuze vergeleken met Amerikaanse alternatieven als Mailchimp of ActiveCampaign. Brevo biedt ook een verwerkersovereenkomst aan."
+products:
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
 ---
 
 Brevo is een van die tools die ik bij veel klanten tegenkom -- vaak nog onder de oude naam Sendinblue. En de vraag is bijna altijd dezelfde: "Is dat gratis plan echt zo goed als het klinkt?" Na tientallen implementaties kan ik zeggen: het gratis plan is degelijk, maar het echte verhaal zit in de nuances. In deze Brevo review deel ik mijn eerlijke ervaringen in 2026, inclusief de punten waar andere reviews omheen draaien.

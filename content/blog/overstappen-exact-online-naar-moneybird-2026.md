@@ -27,6 +27,16 @@ faq:
     a: "Steeds meer accountantskantoren ondersteunen Moneybird, maar het is zeker niet universeel. Exact Online is de marktstandaard in Nederland en vrijwel elk kantoor kent het. Vraag je boekhouder expliciet of zij met Moneybird werken vóórdat je de overstap maakt — want het omgekeerde kan betekenen dat je je boekhouder moet wisselen."
   - q: "Wat verlies ik door over te stappen van Exact Online naar Moneybird?"
     a: "De grootste verliezen zijn de ingebouwde CRM-module (relatiebeheer en contactgeschiedenis), de projectadministratie (urenregistratie per project), en de HRM-functionaliteit (personeelsdossiers, verlofregistratie). Als je die modules actief gebruikt in Exact Online, is Moneybird geen directe vervanging en heb je losse tools nodig."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
 ---
 
 Vorig jaar ontving ik een e-mail van Mark, eigenaar van een klein marketingbureau met vier medewerkers. Zijn boodschap was kort: "Lars, ik betaal €159 per maand voor Exact Online. Ik gebruik eigenlijk alleen de factuurmodule en de banklink. Help."

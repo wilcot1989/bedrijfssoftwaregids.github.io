@@ -40,6 +40,16 @@ faq:
     a: "Yuki is primair een boekhoudplatform voor accountants die voor hun klanten boekhouding doen. Exact Online is breder inzetbaar als zelfstandig platform voor de ondernemer zelf. Yuki blinkt uit in automatisering van de accountantsworkflow (facturen scannen, automatisch boeken, klantportal). Exact Online heeft meer modules (CRM, HRM, projecten) en een groter integratie-ecosysteem. Kies Yuki als je accountant ermee werkt en volledig uitbesteedt; kies Exact als je zelf meer controle en inzicht wilt."
   - q: "Wat zijn de AI-functies van Exact Online?"
     a: "Exact Online biedt meerdere AI-gedreven functies: factuurherkenning (inkoopfacturen worden automatisch herkend en geboekt), slimme bankkoppeling met automatische matching van transacties aan boekingen, en voorspellende cashflow-rapportages. De factuurherkenning werkt via machine learning en leert van je correcties. In de praktijk herkent het systeem na een aanloopperiode van een paar weken het merendeel van je terugkerende leveranciers correct."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Exact Online is het boekhoudpakket dat ik het vaakst tegenkom bij MKB-klanten. Soms terecht, soms omdat de boekhouder het heeft aangeraden zonder naar alternatieven te kijken. In deze Exact Online review geef ik mijn eerlijke oordeel: waar blinkt Exact uit, waar schiet het tekort, en voor wie zijn goedkopere alternatieven als Moneybird of e-Boekhouden een betere keuze?

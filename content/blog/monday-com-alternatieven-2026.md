@@ -30,6 +30,16 @@ faq:
     a: "Basecamp Pro Unlimited kost $299 per maand voor onbeperkt gebruikers. Bij grote teams is dit heel aantrekkelijk, bij kleine teams is het duur. Basecamp Personal is gratis maar beperkt. Basecamp werkt het best voor teams van 10 tot 50 mensen die willen ontsnappen aan per-seat pricing."
   - q: "Welk Monday.com alternatief is het beste voor een Nederlands MKB?"
     a: "Voor Nederlandse mkb-bedrijven is ClickUp de beste keuze: laagste prijs, meeste functies en een actieve Nederlandse community. Teamleader Focus is de beste keuze als je projectmanagement wilt combineren met CRM en facturatie — dat is uniek onder de alternatieven."
+products:
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
 ---
 
 Monday.com is een uitstekend product. Ik schrijf dat niet om aardig te zijn — het is gewoon waar. De interface is strak, de visuele workflow-weergave is intuïtief en het platform heeft de afgelopen jaren flinke stappen gemaakt in automatisering en integraties.

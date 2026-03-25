@@ -34,6 +34,16 @@ faq:
     a: "Voor een kleine non-profit is Freshdesk Free de eerste keuze: echt gratis, geen tijdslimiet, en geschikt voor 2 agents. Veel non-profits werken met vrijwilligers die niet elke dag inloggen — het gratis plan vraagt geen licentiekosten per gebruiker. HubSpot Service Hub Free is een goede tweede optie als je ook een CRM wilt bijhouden voor donateurs en relaties. Heb je een IT-helpdesk nodig (voor interne medewerkers en vrijwilligers), dan is osTicket een gratis open-source optie die je zelf kunt hosten."
   - q: "Wat is het verschil tussen helpdesk software en ITSM software?"
     a: "Helpdesk software richt zich op externe klantenservice: klanten stellen vragen, agents beantwoorden die via tickets. ITSM (IT Service Management) software richt zich op interne IT-dienstverlening: medewerkers melden problemen, IT-afdeling lost ze op volgens ITIL-processen. ITSM-software bevat functies die helpdesk-tools niet hebben: change management, asset management, incident- en problemmanagement en CMDB (configuratiedatabase). Freshservice (van Freshworks) en Jira Service Management zijn voorbeelden van ITSM-tools. Voor gewone klantenservice heb je geen ITSM nodig — dat is overkill en te duur."
+products:
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
 ---
 
 Bij een installatiebedrijf dat ik begeleidde, liepen klantvragen via e-mail, WhatsApp én telefonische voicemail door elkaar. Drie medewerkers, geen enkel overzicht. Vragen bleven soms vier dagen onbeantwoord — niet uit onwil, maar simpelweg omdat niemand wist welke collega waarmee bezig was. Na de implementatie van de juiste helpdesk software daalde de gemiddelde responstijd van 76 naar 11 uur. Klanttevredenheid steeg van een 6,8 naar een 8,1 binnen drie maanden.

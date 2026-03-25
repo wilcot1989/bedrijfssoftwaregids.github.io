@@ -28,6 +28,16 @@ faq:
     a: "Een conflictcheck doorzoekt automatisch je cliëntendatabase op mogelijke belangenconflicten voordat je een nieuwe zaak accepteert. Dit is een beroepsplicht voor advocaten. Juridisch-specifieke CRM's zoals Clio en PracticePanther hebben dit standaard ingebouwd. Bij generalistische CRM's moet je dit handmatig oplossen via een zoekfunctie of aanvullende procedure."
   - q: "Hoe koppel ik mijn CRM aan mijn urensysteem?"
     a: "De meest gebruikte aanpak is een native koppeling via de Marketplace van je CRM (Pipedrive heeft bijvoorbeeld integraties met Toggl en Harvest), of automatisering via Zapier of Make. Bij Teamleader is tijdregistratie per project ingebouwd en koppelbaar aan facturen. Juridisch-specifieke software doet dit alles binnen één platform."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Teamleader"
+    url: "https://www.teamleader.eu/nl"
+    price: "50.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Een advocatenkantoor is geen verkoopteam. Toch zie ik bij veel kantoren dezelfde fout: ze zoeken een CRM alsof ze een salesafdeling runnen, kiezen iets te generalistisch, en bouwen maandenlang aan een systeem dat nooit echt goed werkt.

@@ -30,6 +30,16 @@ faq:
     a: "Ja, zowel HubSpot als Pipedrive bieden een Nederlandstalige interface. De klantenservice van HubSpot is beschikbaar in het Engels en beperkt in het Nederlands. Pipedrive biedt support in het Engels via 24/7 live chat."
   - q: "Welke CRM heeft de beste mobiele app?"
     a: "Beide CRM's hebben goede mobiele apps voor iOS en Android. Pipedrive's app wordt over het algemeen iets hoger beoordeeld vanwege de snelheid en het gebruiksgemak. HubSpot's app biedt meer functies maar kan daardoor wat overweldigender zijn."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 HubSpot of Pipedrive -- ik krijg deze vraag minstens twee keer per maand. Na 12+ jaar in B2B software en tientallen CRM-implementaties bij Nederlandse MKB-bedrijven kan ik je dit vertellen: er is geen "beste" CRM. Maar er is wel een CRM dat beter bij jouw situatie past. In deze vergelijking zet ik HubSpot en Pipedrive eerlijk naast elkaar -- met echte prijzen, Trustpilot-scores en de lessen die ik heb geleerd bij klanten die de verkeerde keuze maakten.

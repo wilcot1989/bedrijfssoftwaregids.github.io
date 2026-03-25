@@ -21,6 +21,16 @@ tags:
   - crm
   - mkb
 affiliate: false
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 Een CRM-implementatie hoeft geen maanden te duren. Voor MKB-bedrijven met twee tot twintig medewerkers is dertig dagen een realistische termijn -- mits je het gefaseerd aanpakt. De valkuil is te veel willen in te korte tijd en het systeem te vroeg open te stellen voor iedereen. De succesfactor is een opbouw waarbij mensen het systeem leren kennen terwijl het al productief is, zodat ze de meerwaarde direct ervaren.

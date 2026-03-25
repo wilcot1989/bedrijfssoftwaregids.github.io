@@ -28,6 +28,16 @@ faq:
     a: "Voor bureaus die actief acquireren is een CRM waardevol: je legt contacten bij opdrachtgevers vast, houdt uitgebrachte offertes bij en ziet wanneer je voor het laatst contact had. Teamleader en Gripp hebben een ingebouwde CRM. Kleinere bureaus die weinig actief acquireren kunnen prima zonder, of gebruiken een eenvoudig spreadsheet."
   - q: "Hoe zorg ik dat mijn medewerkers daadwerkelijk uren registreren?"
     a: "Dit is de grootste uitdaging bij architectenbureaus. Praktische tips: kies software met een mobiele app (zodat uren onderweg ingevoerd worden), stel een wekelijkse deadline in, en koppel urenbeoordeling aan de maandelijkse teammeeting. ClickUp en Teamleader sturen automatische herinneringen als iemand een week niet heeft geregistreerd."
+products:
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
 ---
 
 Architectenbureaus lopen tegen een specifiek probleem aan dat andere MKB-bedrijven niet kennen: projecten lopen maanden of jaren, hebben meerdere fases, en de grens tussen acquisitie, ontwerp en uitvoering is vaag. Ik spreek regelmatig bureaus die uren bijhouden in Excel, facturen maken in Word en acquisitiecontacten bijhouden in een gedeeld notitieboekje. Dat werkt, totdat een project uitloopt en niemand meer weet hoeveel uren er in welke fase zitten.

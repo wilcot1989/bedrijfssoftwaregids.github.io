@@ -29,6 +29,16 @@ faq:
     a: "Ja, alle moderne VoIP-providers bieden mobiele apps voor iOS en Android. Je belt dan via je zakelijke nummer, ook als je onderweg bent. Bij Belfabriek en Voys werkt de mobiele app ook via 4G/5G. Sommige providers bieden ook desktelefoon-ondersteuning voor medewerkers die een fysiek toestel willen."
   - q: "Hoe koppel ik VoIP aan mijn CRM?"
     a: "De meeste VoIP-providers bieden directe integraties met populaire CRM-systemen. Voys koppelt native met HubSpot en Salesforce. CloudTalk integreert met meer dan 35 CRM-tools. Bij een inkomend gesprek verschijnt automatisch de klantkaart in je CRM. Dit bespaart tijd en verbetert de gesprekskwaliteit."
+products:
+  - name: "Belfabriek"
+    url: "https://www.belfabriek.nl/"
+    price: "7.50"
+  - name: "Voys"
+    url: "https://www.voys.nl/"
+    price: "5.00"
+  - name: "3CX"
+    url: "https://www.3cx.com/"
+    price: "0.00"
 ---
 
 Zakelijk bellen via internet is in 2026 de standaard voor vrijwel elk MKB-bedrijf. De traditionele ISDN-lijn bestaat nauwelijks meer — KPN heeft die al jaren terug afgeschakeld. Toch zie ik bij veel bedrijven nog steeds te dure, te rigide telefonieoplossingen die niet koppelen met hun CRM of helpdesk.

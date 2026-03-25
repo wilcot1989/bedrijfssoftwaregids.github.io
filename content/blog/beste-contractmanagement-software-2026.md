@@ -27,6 +27,16 @@ faq:
     a: "Ja, alle CLM-tools in dit artikel bieden digitale handtekeningen die rechtsgeldig zijn onder de eIDAS-verordening (EU) en vergelijkbare wetten wereldwijd. Uitgebreide elektronische handtekeningen (AES) en gekwalificeerde handtekeningen (QES) zijn beschikbaar voor juridisch gevoelige documenten."
   - q: "Wat is het verschil tussen contractmanagement en digitaal ondertekenen?"
     a: "Digitaal ondertekenen (DocuSign, HelloSign) is één stap: de handtekening. Contractmanagement beheert het hele proces: maken, templates, goedkeuring, onderhandeling, ondertekening, opslag, bewaking van deadlines en rapportage. CLM-tools bevatten digitaal ondertekenen als één functie."
+products:
+  - name: "Contractbook"
+    url: "https://contractbook.com/"
+    price: "39.00"
+  - name: "PandaDoc"
+    url: "https://www.pandadoc.com/"
+    price: "19.00"
+  - name: "DocuSign CLM"
+    url: "https://www.docusign.com/"
+    price: "25.00"
 ---
 
 Vorige maand hielp ik een bedrijf dat €14.000 per jaar kwijtraakte aan automatisch verlengde contracten die ze eigenlijk wilden opzeggen. Niemand hield de deadlines bij. Dat is precies het probleem dat contractmanagement software oplost: je weet wat je hebt, wanneer het afloopt, en je mist geen enkele deadline meer. Dit zijn de 5 beste opties.

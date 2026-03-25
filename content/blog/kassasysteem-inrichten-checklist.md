@@ -21,6 +21,16 @@ tags:
   - kassasysteem
   - horeca
 affiliate: true
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Een vriend van mij opende vorig jaar een Italiaans restaurant in Utrecht. Maanden van verbouwen, menukaart schrijven, personeel werven. Op openingsavond stonden er 40 gasten te wachten. En toen ging het mis.

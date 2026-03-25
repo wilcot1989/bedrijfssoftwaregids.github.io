@@ -36,6 +36,16 @@ faq:
     a: "Voor een klein bouwbedrijf of zelfstandig aannemer is Pipedrive de beste keus op prijs-kwaliteit: goede mobiele app, duidelijke pipeline-view, betaalbaar. Als je ook offertes en facturen in hetzelfde systeem wilt, is Teamleader Focus een betere keuze, zij het duurder. Gripp is een alternatief als je sterk projectgericht werkt."
   - q: "Is Salesforce geschikt voor een bouwbedrijf?"
     a: "Salesforce heeft een specifieke Construction Cloud, maar die is bedoeld voor grote bouwbedrijven (50+ medewerkers) met complexe eisen en een IT-afdeling die implementaties kan begeleiden. Voor MKB-bouwbedrijven zijn Salesforce's prijs en complexiteit disproportioneel. De meeste aannemers in het MKB zijn beter af met Pipedrive, Teamleader of Gripp."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Een aannemer van wie ik onlangs een CRM-traject begeleidde, zei het treffend: "Ik verloor vorig jaar twee offertes omdat ik vergat op te volgen. Die twee offertes waren samen €180.000 omzet." Geen CRM-probleem, zei hij zelf. Maar wel een organisatieprobleem dat een CRM had kunnen voorkomen.

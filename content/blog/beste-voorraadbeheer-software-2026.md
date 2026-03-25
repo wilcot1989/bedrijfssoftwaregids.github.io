@@ -21,6 +21,16 @@ faq:
     a: "Ja, vrijwel alle tools in dit overzicht bieden integraties met Shopify, WooCommerce, Magento en Bol.com. Picqer heeft zelfs een directe Bol.com-koppeling. Voor kassasystemen werkt Exact Online goed samen met Lightspeed, en Cin7 heeft koppelingen met de meeste POS-systemen. Controleer altijd of jouw specifieke webshopplatform en kassa ondersteund worden voordat je een keuze maakt."
   - q: "Wat is het verschil tussen voorraadbeheer en warehouse management (WMS)?"
     a: "Voorraadbeheer richt zich op het bijhouden van voorraadniveaus, bestelpunten en inkooporders. Warehouse management gaat een stap verder en optimaliseert ook de fysieke logistiek: locatiebeheer, pickroutes, barcodescanning en verzendlabels. Picqer is een voorbeeld van een tool die beide combineert. Voor de meeste MKB-bedrijven met een klein magazijn volstaat voorraadbeheer; bij meer dan 100 orders per dag wordt WMS-functionaliteit relevant."
+products:
+  - name: "Lightspeed"
+    url: "https://www.lightspeedhq.nl/"
+    price: "59.00"
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Vorig jaar hielp ik een groothandel in kantoorartikelen die drie magazijnen beheerde met Excel-sheets. Elke maandafsluiting kostte twee volle dagen handmatig tellen, en toch klopte de voorraad nooit. Na de overstap naar dedicated voorraadbeheer software daalde het aantal voorraadfouten met 80% en bespaarden ze structureel twee dagen per maand. Dat is geen uitzondering -- het is precies wat ik bij tientallen MKB-bedrijven heb gezien.

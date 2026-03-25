@@ -28,6 +28,16 @@ faq:
     a: "SnelStart dekt de meeste basisfuncties van Exact Online: facturatie, bankkoppeling, BTW-aangifte, inkoop en debiteurenbeheer. De grote uitzondering is de breedte aan aanvullende modules. Exact Online heeft een uitgebreid app-ecosysteem met 450+ integraties en modules voor CRM, projecten en HRM. SnelStart is echter aanzienlijk goedkoper en voor de meeste MKB'ers meer dan voldoende."
   - q: "Wanneer is overstappen van Exact Online NIET verstandig?"
     a: "Overstappen is niet verstandig als: (1) je accountant Exact gebruikt en jullie samenwerking strak geautomatiseerd is, (2) je gebruikmaakt van Exact Online modules zoals projectbeheer, CRM of HRM die je alternatief niet biedt, (3) je integraties hebt met externe systemen die specifiek op Exact Online zijn gebouwd. In die gevallen weegt het gemak van de status quo zwaarder dan de kostenbesparing."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
 ---
 
 Exact Online is de standaard. Maar €49 per maand voor een ZZP'er met tien facturen? Daar betaal je de boekhoudafdeling van een accountantskantoor mee.

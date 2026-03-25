@@ -28,6 +28,16 @@ faq:
     a: "Ja. Bij jaarlijkse facturering zijn de plannen significant goedkoper dan maandelijks betalen. De prijzen op de Freshdesk-website worden doorgaans gepresenteerd als de jaarlijkse prijs. Bij maandelijkse betaling betaal je doorgaans 20-25% meer per agent. Als je redelijk zeker bent van het gebruik, loont jaarlijkse betaling snel."
   - q: "Wanneer is Freshdesk Enterprise de moeite waard?"
     a: "Freshdesk Enterprise (€79/agent/mnd) voegt functies toe die voor grotere teams essentieel zijn: sandbox-omgeving voor het testen van wijzigingen, audit logs, custom roles met fijnmazige rechten, skill-based routing en dedicated account support. Als je meer dan 50 agents hebt, compliancevereisten kent (AVG-logging) of meerdere merken beheert vanuit één helpdesk, wordt Enterprise al snel verantwoord. Onder de 25 agents is Pro bijna altijd toereikend."
+products:
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
 ---
 
 Een klant van mij — ik noem hem Thijs — runde een webshop met een team van 8 klantenservicemedewerkers. Ze gebruikten al twee jaar een combinatie van een gedeeld Gmail-account en een losstaand telefoonplatform. Klachten gingen verloren, reactietijden waren onbeheersbaar en Thijs had geen idee welke medewerker welke tickets afhandelde.

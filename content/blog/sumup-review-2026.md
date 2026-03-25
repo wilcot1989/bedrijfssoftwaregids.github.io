@@ -29,6 +29,16 @@ faq:
     a: "Ja, SumUp is PCI DSS Level 1 gecertificeerd en valt onder toezicht van De Nederlandsche Bank. Het bedrijf versleutelt alle transactiedata en slaat geen kaartgegevens op op het apparaat. SumUp is in 2012 opgericht en verwerkt inmiddels miljarden euro's per jaar voor meer dan 4 miljoen handelaren."
   - q: "Kan ik met SumUp ook facturen sturen?"
     a: "Ja, SumUp heeft een factuurmodule waarmee je professionele facturen kunt aanmaken en versturen per email. Klanten kunnen direct online betalen via de factuurbetaallink. Dit is handig voor dienstverleners die zowel ter plaatse als op afstand betaald worden."
+products:
+- name: "SumUp"
+  url: "https://www.sumup.com/nl-nl/"
+  price: "0.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
 ---
 
 SumUp is de tool die ik het meest aanraad aan ZZP'ers die voor het eerst mobiel willen accepteren. De reden is simpel: de drempel is nul. Je koopt de kaartlezer voor €39, downloadt de app, en je kunt betalen accepteren. Geen maandelijkse kosten, geen vaste abonnementen, geen ingewikkelde contracten. Voor een marktkoopman, hondentrimer of freelance fotograaf is dat perfect.

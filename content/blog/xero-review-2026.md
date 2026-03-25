@@ -29,6 +29,16 @@ faq:
     a: "Moneybird is gebouwd voor de Nederlandse markt: directe BTW-aangifte, alle grote Nederlandse banken, Nederlandse support en lagere prijs. Xero is sterker in multi-valuta, heeft meer internationale integraties (1000+) en een betere projecttracking. Voor puur NL gebruik is Moneybird beter. Voor internationale ZZP'ers en freelancers wint Xero op functies."
   - q: "Heeft Xero een gratis proefperiode?"
     a: "Ja, Xero biedt een 30-daagse gratis proefperiode zonder creditcard. Je hebt toegang tot alle functies van het gekozen pakket, inclusief multi-valuta bij Premium. Na 30 dagen kies je een betaald plan of stop je zonder kosten."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Een tijdje geleden vroeg een lezer me of ik Xero ooit serieus had getest. "Het wordt door veel expats en internationale freelancers gebruikt," schreef ze, "maar ik vind er geen eerlijke Nederlandse review van." Ze had gelijk. De meeste Nederlandstalige informatie over Xero is marketingmateriaal of oppervlakkig. Dus ik besloot het zelf te doen: een volledige testperiode, inclusief de functies die er voor de Nederlandse markt echt toe doen.

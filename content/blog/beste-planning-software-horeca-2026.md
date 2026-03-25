@@ -29,6 +29,16 @@ faq:
     a: "Ja, alle tools ondersteunen flexibele contractvormen. Je kunt oproepkrachten apart inplannen, hun uren bijhouden en automatisch laten voldoen aan de wettelijke regels voor oproepcontracten, zoals de minimale oproeptermijn van 4 dagen."
   - q: "Wat is het verschil tussen personeelsplanning en workforce management?"
     a: "Personeelsplanning richt zich op het maken van roosters en inplannen van medewerkers. Workforce management is breder en omvat ook urenregistratie, verlofbeheer, omzetprognoses, personeelsbezettingsoptimalisatie en loonverwerking. Tools als Workforce.com en Tamigo bieden het bredere workforce management-pakket."
+products:
+- name: "Planday"
+  url: "https://www.planday.com/nl/"
+  price: "2.49"
+- name: "Shiftbase"
+  url: "https://www.shiftbase.com/nl/"
+  price: "3.00"
+- name: "Clockify"
+  url: "https://clockify.me/"
+  price: "0.00"
 ---
 
 Ik heb horeca-ondernemers gesproken die elke week drie uur bezig waren met het Excel-rooster. Diensten ruilen via WhatsApp, bellen naar oproepkrachten, handmatig controleren of ze de CAO-regels niet overtreden. Met de juiste personeelsplanning software horeca kost datzelfde rooster een halfuur. Hier zijn de 6 beste tools die ik voor de horeca aanbeveel.

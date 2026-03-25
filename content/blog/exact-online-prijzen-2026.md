@@ -28,6 +28,16 @@ faq:
     a: "Voor ZZP'ers en kleine bedrijven is e-Boekhouden het goedkoopste alternatief, met pakketten vanaf €8 per maand. Moneybird begint bij €15 per maand en is gebruiksvriendelijker. SnelStart kost €15 tot €49 per maand en heeft een sterk aanbod voor klein MKB. Jortt is een eenvoudig pakket dat specifiek op ZZP'ers en kleine bedrijven gericht is."
   - q: "Wanneer is Exact Online de moeite waard ondanks de hogere prijs?"
     a: "Exact Online is het waard als je meer dan 3 gebruikers hebt die tegelijk in de boekhouding werken, meerdere administraties beheert, serieuze projecten- of CRM-functionaliteit nodig hebt, of als je boekhouder uitsluitend met Exact werkt. Voor eenmanszaken en bedrijven tot 2-3 man is de prijs moeilijk te rechtvaardigen ten opzichte van goedkopere alternatieven."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 De vraag die ik het vaakst krijg van ondernemers die overwegen over te stappen op Exact Online: "Wat kost het nou echt?" En eerlijk gezegd begrijp ik die vraag. De website toont keurige pakketten met maandprijzen, maar als je de deal sluit met een Exact-partner of een grotere licentie wilt, blijkt de rekening opeens heel anders uit te pakken.

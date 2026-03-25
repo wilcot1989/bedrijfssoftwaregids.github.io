@@ -29,6 +29,13 @@ faq:
     a: "Ja, Google biedt een gratis migratietool (Google Workspace Migration for Microsoft Exchange). E-mail, agenda en contacten worden automatisch overgezet. Documenten vereisen handmatige controle: complexe Word-opmaak gaat verloren bij conversie naar Google Docs. Reken op twee tot vier weken voor een migratie van 10-25 medewerkers inclusief training."
   - q: "Welk pakket is beter voor een ZZP'er of freelancer?"
     a: "Voor ZZP'ers is Google Workspace Starter de goedkoopste professionele keuze (€6,90/mnd voor eigen domein e-mail + 30 GB opslag). Microsoft 365 Personal (€7/mnd) is vergelijkbaar maar biedt ook volledige desktopapps. Als je veel in Word of Excel werkt, kies Microsoft. Als je primair in de browser werkt, is Google voordeliger."
+products:
+  - name: "Google Workspace"
+    url: "https://workspace.google.com/intl/nl/"
+    price: "5.75"
+  - name: "Microsoft 365 Business"
+    url: "https://www.microsoft.com/nl-nl/microsoft-365/business/"
+    price: "5.60"
 ---
 
 Twee jaar geleden hielp ik een accountantskantoor van twaalf medewerkers bij hun keuze tussen Google Workspace en Microsoft 365. We brachten vijf uur door met demo's, prijsvergelijkingen en gesprekken over wat ze echt dagelijks doen. Uiteindelijk kozen ze Microsoft — niet omdat het beter is, maar omdat hun klanten Excel-bestanden stuurden die ze "gewoon goed moesten kunnen openen." Die context mist in bijna elke vergelijking die ik online zie.

@@ -28,6 +28,16 @@ faq:
     a: "Direct native integraties met Nederlandse boekhoudsoftware (Exact Online, Moneybird, e-Boekhouden) zijn er niet. Clockify integreert wel met QuickBooks, Xero en FreshBooks. Via Zapier of Make koppel je Clockify aan vrijwel elke tool, inclusief de populaire Nederlandse pakketten. Op het Standard-plan kun je ook rechtstreeks facturen exporteren."
   - q: "Voor welk Clockify-plan moet ik kiezen?"
     a: "Kleine teams (tot 10 personen) die tijdregistratie en basisrapportages nodig hebben: begin met het Free-plan. Heb je goedkeuringsworkflows, projectbudgettering of tijdvergrendeling nodig: kies Standard ($5,49/gebruiker/mnd). Teams met facturatiebehoefte en gedetailleerde rapporten: Pro ($7,99/gebruiker/mnd). Voor grotere organisaties met SSO en auditlog: Enterprise ($11,99/gebruiker/mnd)."
+products:
+- name: "Clockify"
+  url: "https://clockify.me/"
+  price: "0.00"
+- name: "Shiftbase"
+  url: "https://www.shiftbase.com/nl/"
+  price: "3.00"
+- name: "Planday"
+  url: "https://www.planday.com/nl/"
+  price: "2.49"
 ---
 
 Ik zie het regelmatig bij de teams die ik begeleid: tijdregistratie is het eerste wat wordt uitgesteld en het laatste wat serieus wordt genomen. "We weten wel ongeveer hoeveel tijd projecten kosten." Bij een reclamebureau in Amsterdam ontdekten we na implementatie van Clockify dat ze structureel 23% meer uren besteedden aan klantcorrectieronden dan ze hadden begroot. Dat was niet een kwestie van slecht plannen — het was een kwestie van nooit meten.

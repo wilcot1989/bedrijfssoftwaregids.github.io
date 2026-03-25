@@ -36,6 +36,16 @@ faq:
     a: "Ja. Je kunt kiezen voor maandelijkse betaling, dan betaal je per maand en kun je maandelijks opzeggen. Bij jaarlijkse betaling krijg je korting maar zit je voor een jaar vast. Overstap naar een lager plan is altijd mogelijk per einde van de lopende periode."
   - q: "Wat is het MailerLite Enterprise-plan?"
     a: "Het Enterprise-plan is op maat en bedoeld voor organisaties met meer dan 100.000 abonnees of specifieke eisen op het gebied van dedicated IP's, aangepaste account-managers of SLA-afspraken. De prijs is niet openbaar en wordt per offerte bepaald. Voor de meeste MKB-gebruikers is dit niet relevant."
+products:
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
 ---
 
 MailerLite staat bekend als de betaalbare keuze voor email marketing — maar hoe betaalbaar is het nou echt als je lijst groeit? Dat is precies de vraag die ik krijg van ondernemers die overwegen over te stappen van Mailchimp of Brevo. In dit artikel zet ik alle prijzen op een rij, toon ik de staffel per abonneeaantal en vergelijk ik MailerLite direct met de drie grootste concurrenten op prijs.

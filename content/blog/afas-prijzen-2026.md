@@ -36,6 +36,16 @@ faq:
     a: "AFAS is de moeite waard als je bedrijf minimaal 25-50 medewerkers heeft, je Nederlandse CAO-specifieke salarisverwerking nodig hebt die diep geïntegreerd is, je een all-in-one platform wilt voor HR, financiën en projecten, en je bereid bent te investeren in een serieuze implementatie. Als aan één van deze punten niet wordt voldaan, zijn er betere en goedkopere alternatieven."
   - q: "Zijn er goedkopere alternatieven voor AFAS voor HR en salarisadministratie?"
     a: "Ja, zeker. Voor salarisadministratie: Nmbrs (circa €4-8 per medewerker per maand), Loket.nl (vergelijkbaar), of Visma | YouServ. Voor HR-software breder: Personio (toegankelijker voor 50-500 medewerkers). Voor kleine bedrijven die al boekhouden bij Exact: gebruik gewoon de HR-module van Exact Online. SnelStart Go is een aantrekkelijke optie voor ZZP'ers en kleine bedrijven die eenvoudige personeelsadministratie nodig hebben."
+products:
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 Als ik aan ondernemers vraag wat ze het meest irritant vinden aan AFAS, is het antwoord vrijwel altijd hetzelfde: "Ik kon nergens een prijs vinden." En dat klopt. AFAS is het zeldzame geval van een groot softwarebedrijf dat bewust kiest voor volledige prijsopaciteit.

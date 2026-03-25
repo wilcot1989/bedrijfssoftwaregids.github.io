@@ -35,6 +35,16 @@ faq:
     a: "Beide integreren solide met Slack, Microsoft Teams, Google Workspace en Zoom. Jira heeft een strategisch voordeel bij de Atlassian-suite: Confluence (wiki), Bitbucket (code), Trello en Jira Service Management werken soepel samen. Asana wint op breedte van integraties buiten de techstack: 200+ native koppelingen inclusief Salesforce, HubSpot en Adobe Creative Cloud."
   - q: "Wanneer kies ik Asana en wanneer Jira?"
     a: "Kies Asana als je team gemengd is (marketing, operations, sales, projectmanagement) en geen zware development-workflows heeft. Kies Jira als je primair een software- of IT-team beheert dat met sprints, backlogs en code-repositories werkt. Bij twijfel: Asana is de veiligere keuze voor mixed teams, Jira voor pure dev-teams."
+products:
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "Jira"
+    url: "https://www.atlassian.com/software/jira"
+    price: "0.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
 ---
 
 Asana vs Jira -- dit is de vergelijking waar ik de meeste vragen over krijg van teamleiders die niet precies weten of ze een generalistisch projectmanagement-platform nodig hebben of een gespecialiseerde developer tool. De keuze lijkt soms willekeurig: ik kom bedrijven tegen waar marketing in Asana werkt terwijl de afdeling naast hen -- development -- in Jira zit. Soms is dat de juiste beslissing. Vaker is het historisch gegroeide chaos.

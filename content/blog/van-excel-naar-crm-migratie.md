@@ -21,6 +21,16 @@ tags:
   - crm
   - mkb
 affiliate: false
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 Vorig jaar hielp ik een accountantskantoor in Utrecht met de overstap van Excel naar HubSpot. Zeven medewerkers, zo'n 1.400 klantcontacten, een spreadsheet die door de jaren heen was uitgegroeid tot een gedrocht van 23 tabbladen. Kolommen zonder naam. Telefoonnummers in drie verschillende formaten. Bedrijfsnamen afwisselend voluit geschreven, afgekort, of met een typefout.

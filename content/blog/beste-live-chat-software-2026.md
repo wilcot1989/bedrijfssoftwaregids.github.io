@@ -28,6 +28,16 @@ faq:
     a: "WhatsApp heeft in Nederland de hoogste adoptie van Europa -- ruim 14 miljoen gebruikers. Een live chat tool die ook WhatsApp verwerkt is dan ook sterk aan te bevelen. Trengo is hier marktleider in de Nederlandse MKB-markt. Freshchat en Zendesk bieden ook WhatsApp-koppelingen."
   - q: "Wat is het verschil tussen live chat en een chatbot?"
     a: "Live chat verbindt een klant in real-time met een menselijke medewerker. Een chatbot beantwoordt vragen automatisch op basis van regels of AI. Moderne tools zoals Tidio en Intercom combineren beide: een chatbot vangt standaardvragen op, bij complexe vragen neemt een medewerker over. Voor het MKB is die combinatie het meest efficiënt."
+products:
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Trengo"
+  url: "https://trengo.com/nl"
+  price: "99.00"
 ---
 
 Live chat is in 2026 geen nice-to-have meer — het is de snelste manier om een websitebezoeker om te zetten in een klant. Toch zie ik bij veel MKB-bedrijven nog steeds een contactformulier dat niemand invult en een e-mailadres dat nauwelijks wordt gecheckt. Ondertussen loopt de klant weg naar de concurrent die wél direct bereikbaar is.

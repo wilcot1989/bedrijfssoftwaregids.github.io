@@ -22,6 +22,16 @@ tags:
   - horeca
   - vergelijking
 affiliate: false
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Wie een nieuw kassasysteem zoekt, stuit onvermijdelijk op de keuze: cloud of lokaal? Het onderscheid klinkt technisch maar heeft directe gevolgen voor wat er gebeurt als het internet uitvalt, hoeveel je betaalt, hoe eenvoudig het beheer is en hoe snel je kunt uitbreiden naar een tweede locatie of kassa.

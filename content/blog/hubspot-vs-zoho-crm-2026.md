@@ -23,6 +23,16 @@ faq:
     a: "Beide bieden sterke rapportages. HubSpot excelleert in marketing- en contentrapportages (traffic, conversies, lead-attributie). Zoho CRM is sterker op sales-operationele rapportages en biedt met Zia AI-gestuurde analyses. Voor een marketingteam: HubSpot. Voor een salesteam: Zoho CRM."
   - q: "Wat is de echte prijs van HubSpot voor een team van 10 mensen?"
     a: "HubSpot Starter (€45/maand) biedt basale functies voor 2 gebruikers; extra gebruikers kosten €23/gebruiker/maand. Professional (€800/maand) en Enterprise (€3.300/maand) zijn voor grotere teams. Een team van 10 mensen betaalt al snel €300-€500/maand voor HubSpot Starter versus €100-€400/maand voor Zoho CRM met vergelijkbare functionaliteit."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Zoho CRM"
+    url: "https://www.zoho.com/nl/crm/"
+    price: "14.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
 ---
 
 Vorige maand sprak ik een marketingmanager die trots vertelde dat ze overstapten van [Zoho CRM](/blog/zoho-crm-review-2026/) naar [HubSpot](/blog/hubspot-prijzen-2026/). "HubSpot is zoveel beter," zei ze. Ik vroeg: "Wat betaal je per maand?" Een stilte. "Eh... €890." Voor acht gebruikers. Dat is €110 per gebruiker per maand. Ze betaalden drie keer meer dan nodig voor functies waarvan ze er de helft niet gebruikten. Niet omdat HubSpot niet goed is — maar omdat ze het niet goed hadden vergeleken. Dit artikel doet dat wel.

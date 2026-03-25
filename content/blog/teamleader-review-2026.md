@@ -30,6 +30,16 @@ faq:
     a: "Teamleader is opgericht in 2012 in Gent, België. In 2022 is het overgenomen door het Noorse Visma. Het bedrijf is sterk verankerd in de Benelux-markt, met meer dan 20.000 klanten in België en Nederland. De interface, support en facturatie zijn volledig in het Nederlands beschikbaar."
   - q: "Kan ik mijn data exporteren als ik wil overstappen?"
     a: "Dat is een aandachtspunt. Meerdere gebruikers melden dat het lastig is om data in een bruikbaar formaat te exporteren als je Teamleader verlaat. Zorg dat je voor de overstap een volledige export maakt van contacten, facturen en projectgegevens. Vraag eventueel support om een complete dataexport."
+products:
+  - name: "Teamleader"
+    url: "https://www.teamleader.eu/nl"
+    price: "50.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Teamleader is het Belgische alles-in-een platform dat ik bij klanten in de Benelux steeds vaker tegenkom. CRM, facturatie, offertes, projectbeheer en tijdregistratie in een pakket -- het klinkt als de heilige graal voor kleine bedrijven die geen zin hebben in vijf losse tools. Maar houdt die belofte stand als je er dagelijks mee werkt?

@@ -31,6 +31,16 @@ faq:
     a: "Salesforce scoort een 1,5 op Trustpilot met 612 reviews (stand maart 2026). De klachten gaan vrijwel unaniem over drie zaken: moeilijk opzeggen van contracten, agressieve verkooptactieken en slechte support bij problemen. Op G2 en Salesforce AppExchange zijn de scores veel hoger (4,3/5), omdat dat platform primair geverifieerde enterprise-gebruikers trekt."
   - q: "Kan Salesforce koppelen aan Nederlandse boekhoud- en ERP-software?"
     a: "Ja, via de AppExchange zijn er integraties met Exact Online, Unit4 en SAP. Directe native koppelingen met typisch Nederlandse software zoals Moneybird of Snelstart zijn er niet. Je bent doorgaans aangewezen op middleware als MuleSoft (eigendom van Salesforce) of Zapier, wat extra kosten en technische kennis vereist."
+products:
+  - name: "Salesforce"
+    url: "https://www.salesforce.com/nl/"
+    price: "25.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Salesforce is het CRM-platform waar elke MKB-ondernemer ooit van heeft gehoord, en waar ik in mijn werk als consultant de meest uiteenlopende reacties over krijg. Van "dit is het beste systeem dat we ooit hebben gebruikt" tot "we hadden nooit moeten beginnen". Beide reacties kloppen -- het ligt er maar net aan of Salesforce bij jouw situatie past.

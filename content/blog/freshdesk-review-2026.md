@@ -28,6 +28,16 @@ faq:
     a: "Ja, Freshdesk is beschikbaar in het Nederlands. De agentinterface, de klantenportal en de kennisbank kunnen allemaal in het Nederlands worden ingesteld. Dit is een concreet voordeel ten opzichte van tools als HubSpot Service Hub (voornamelijk Engels) en maakt Freshdesk aantrekkelijker voor Nederlandse teams die geen volledig Engelstalige softwareomgeving willen."
   - q: "Wat is Freddy AI in Freshdesk?"
     a: "Freddy AI is de eigen AI-assistent van Freshdesk. Op het Growth-plan helpt Freddy met automatische antwoordsuggesties op basis van je kennisbank. Op Pro en Enterprise komen er AI-gestuurde analyses, sentimentdetectie, automatische ticketcategorisering en chatbotfunctionaliteit bij. Freddy is nuttig maar niet indrukwekkend -- voor gespecialiseerde AI-klantenservice is Intercom of een dedicated chatbotplatform nog altijd krachtiger."
+products:
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
 ---
 
 Freshdesk wordt al jaren in één adem genoemd met Zendesk als de twee dominante krachten in helpdesk software. En na tientallen implementaties bij Nederlandse bedrijven -- van webshops met 3 supportmedewerkers tot softwarebedrijven met 40 agents -- kan ik je een eerlijk beeld geven van wat Freshdesk werkelijk biedt, waar het uitblinkt, en wanneer je beter naar een alternatief kunt kijken.

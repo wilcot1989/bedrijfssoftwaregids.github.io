@@ -35,6 +35,16 @@ faq:
     a: "Beide tools integreren met de belangrijkste CRM-systemen: HubSpot, Salesforce, Pipedrive en Microsoft Dynamics. Zendesk heeft een Marketplace met 1.500+ integraties, Freshdesk heeft er ruim 1.000. Voor Nederlandse tools als Exact Online of AFAS is Zapier doorgaans de tussenoplossing. Freshdesk integreert native met Freshsales (eigen CRM), wat voor Freshworks-gebruikers een groot voordeel is."
   - q: "Welke helpdesk software is beter voor de Nederlandse markt?"
     a: "Freshdesk scoort beter op de Nederlandse markt. De interface is beschikbaar in het Nederlands, de AVG-compliance is goed geregeld, en de prijs-kwaliteitverhouding spreekt het Nederlandse MKB aan. Zendesk heeft geen Nederlandse interface maar is uitgebreider voor grote, internationale organisaties. Voor bedrijven die ook WhatsApp willen integreren, is een Nederlandse tool als Trengo het meest geschikt."
+products:
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
 ---
 
 Twee jaar geleden begeleidde ik een e-commercebedrijf van 12 medewerkers bij de keuze tussen Zendesk en Freshdesk. De eerste oriëntatie duurde weken: vergelijkingssites gaven tegenstrijdige informatie, salesgesprekken waren grotendeels verkooppraatjes en de proefperiodes waren te kort om echte inzichten te krijgen. Uiteindelijk kozen ze voor Freshdesk Growth — en ze zijn er nog steeds blij mee. Maar er zijn goede redenen waarom een ander bedrijf in precies dezelfde situatie Zendesk zou moeten kiezen.

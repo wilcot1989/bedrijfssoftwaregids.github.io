@@ -23,6 +23,16 @@ tags:
   - boekhouding
   - zzp
 affiliate: false
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Veel kleine ondernemers beginnen met twee losse systemen: een facturatieprogramma voor het versturen van rekeningen en een apart systeem -- of een accountant -- voor de boekhouding. Dat levert dubbele invoer op. Elke factuur die je verstuurt, moet je ook nog eens verwerken in de administratie. Dat kost tijd, vergroot de kans op fouten en maakt de BTW-aangifte ingewikkelder dan nodig.

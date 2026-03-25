@@ -35,6 +35,16 @@ faq:
     a: "Ja. ClickUp biedt een ingebouwde Jira-importfunctie die projecten, issues, prioriteiten, toewijzingen en custom fields overzet. Aangepaste workflows, Jira-plugins en complexe automations moet je handmatig nabouwen. Atlassian-suite integraties (Confluence, Bitbucket) vallen weg en moeten worden vervangen. Plan 2-4 weken migratietijd voor een team van middelgrote omvang."
   - q: "Wanneer kies ik ClickUp en wanneer Jira?"
     a: "Kies ClickUp als je een gemengd team hebt dat zowel development als projectmanagement, documenten en communicatie in één tool wil. Kies Jira als je een pure software development organisatie bent die diep in de Atlassian-suite zit (Confluence, Bitbucket) en uitgebreide Scrum-metrics nodig heeft. Bij twijfel: ClickUp voor breedte, Jira voor developer-diepgang."
+products:
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Jira"
+    url: "https://www.atlassian.com/software/jira"
+    price: "0.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 ClickUp vs Jira -- dit is de vergelijking die steeds vaker opduikt in mijn gesprekken met CTO's en IT-managers die hun toolstack willen vereenvoudigen. De vraag is logisch: ClickUp positioneert zich als "the app to replace them all," terwijl Jira de onbetwiste standaard is voor Agile software development. Kan een generalist een specialist verslaan op zijn eigen terrein?

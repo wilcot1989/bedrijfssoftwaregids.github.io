@@ -29,6 +29,16 @@ faq:
     a: "De meeste tools bieden gratis plannen die voor kleine teams voldoende zijn. Betaalde plannen kosten €7-15 per gebruiker per maand. Microsoft 365 (inclusief Excel) kost al €8,25/gebruiker/mnd voor de basisbundel, dus de meerkosten zijn minimaal. De tijdwinst compenseert de kosten al snel."
   - q: "Welke tool is het beste voor freelancers en zzp'ers?"
     a: "Voor zzp'ers die alleen werken is Notion Free of ClickUp Free meer dan voldoende. Notion is sterk als je ook offertes, documentatie en notities op één plek wilt. ClickUp is beter als je specifiek taken en tijdregistratie centraal stelt. Betaalde tools zijn voor zzp'ers zelden nodig."
+products:
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
 ---
 
 Ik zie het keer op keer: bedrijven die met 40 tabbladen in Excel hun projecten proberen te managen. Tot het moment dat twee mensen tegelijk hetzelfde bestand opslaan, de verkeerde versie wins en drie uur werk verdwijnt. Of het moment dat de ondernemer vraagt "hoe staat project X ervoor?" en niemand een helder antwoord kan geven zonder tien minuten zoeken in spreadsheets.

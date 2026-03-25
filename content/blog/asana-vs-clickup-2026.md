@@ -35,6 +35,16 @@ faq:
     a: "Ja. ClickUp biedt een ingebouwde importfunctie voor Asana. Taken, projecten, bijlagen en toewijzingen worden overgezet. Aangepaste velden en complexe automatiseringen moet je handmatig nabouwen. Plan minimaal een week voor de migratie van een gemiddeld team."
   - q: "Welke tool is beter voor software development teams?"
     a: "ClickUp wint voor dev-teams. Het biedt native sprint-planning, GitHub- en GitLab-integraties, story points en een Agile/Scrum-omgeving out of the box. Asana kan dit ook maar vereist meer maatwerk en Asana Intelligence (betaald add-on)."
+products:
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Asana vs ClickUp -- dit is de vergelijking die ik de afgelopen maanden het vaakst heb moeten uitleggen aan Nederlandse ondernemers en teamleiders. Aan de ene kant Asana: de gevestigde naam in projectmanagement, geliefd om zijn overzichtelijkheid en eenvoud. Aan de andere kant ClickUp: de all-in-one uitdager die belooft alles te doen wat Asana doet én meer, voor een fractie van de prijs.

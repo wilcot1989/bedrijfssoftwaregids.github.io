@@ -28,6 +28,16 @@ faq:
     a: "De belangrijkste verborgen kosten zijn: verplichte onboarding fees ($1.500–$3.500 eenmalig), extra kosten voor marketing contacten boven de limiet, extra seats voor niet-sales gebruikers, add-ons zoals extra rapportages of extra pipelines, en jaarlijkse contracten met automatische verlenging die moeilijk op te zeggen zijn."
   - q: "Wanneer is HubSpot het niet waard?"
     a: "HubSpot is het niet waard als je puur een sales CRM nodig hebt zonder marketing automation. Dan betaal je voor functies die je niet gebruikt. Voor ZZP'ers en kleine teams die sales willen structureren, is Pipedrive (vanaf €14/gebruiker/mnd) of Close CRM een betere prijs-kwaliteitskeuze. Kijk naar HubSpot zodra je marketing en sales echt wil integreren en daarvoor budget hebt."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 Vorige week sprak ik met een ondernemer — zeven medewerkers, een solide B2B-dienstverlener in Utrecht — die mij belde met een specifieke klacht: "Lars, ik dacht dat HubSpot gratis was. Nu krijg ik een factuur van €14.000 voor het eerste jaar."

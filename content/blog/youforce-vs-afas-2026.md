@@ -29,6 +29,16 @@ faq:
     a: "YouForce staat bekend om een uitstekend medewerker-selfservice portaal (Youforce Employee Portal). Medewerkers kunnen verlof aanvragen, loonstroken inzien, declaraties indienen en persoonsinformatie bijwerken. AFAS InSite is ook goed maar wordt soms als minder intuïtief ervaren. YouForce heeft een lichte voorsprong op medewerker-ervaring."
   - q: "Zijn er alternatieven voor YouForce en AFAS bij middelgrote organisaties?"
     a: "Ja, alternatieven voor middelgrote organisaties (100-500 medewerkers) zijn: Personio (Duits, internationaler), SAP SuccessFactors (enterprise), Workday (enterprise/internationaal), NMBRS (salarisadministratie-focus) en Unit4 HCM. Voor kleinere organisaties zijn HoorayHR en Loket.nl goede alternatieven."
+products:
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 YouForce en AFAS zijn de twee grootste Nederlandse HR-softwaresystemen voor middelgrote en grote organisaties. Beide bedrijven zijn opgericht in Nederland, begrijpen de Nederlandse arbeidsmarkt door en door, en bieden uitgebreide suites die veel verder gaan dan verlofbeheer alleen.

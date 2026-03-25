@@ -24,6 +24,16 @@ faq:
     a: "Intercom ondersteunt WhatsApp in beperkte mate via de omnichannel inbox. De integratie is minder uitgebreid dan bij Trengo. WhatsApp-flows zijn beperkt beschikbaar."
   - q: "Is Intercom GDPR-compliant?"
     a: "Ja, Intercom is GDPR-compliant en biedt EU-dataopslag. Ze hebben een uitgebreide privacydocumentatie en DPA beschikbaar. Voor Europese bedrijven is het gebruik juridisch in orde."
+products:
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
 ---
 
 Intercom is het platform dat je overal ziet zodra je een SaaS-website bezoekt: die blauwe chatbubbel rechtsonder in de hoek. Het bedrijf heeft de standaard gezet voor in-app klantcommunicatie. Maar is het ook geschikt voor jouw bedrijf? Ik heb het uitgebreid getest en geef je mijn eerlijke oordeel.

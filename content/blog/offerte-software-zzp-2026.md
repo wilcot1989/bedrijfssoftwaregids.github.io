@@ -28,6 +28,16 @@ faq:
     a: "Ja. Een digitale handtekening is in Nederland en de EU rechtsgeldig onder de eIDAS-verordening. De meeste offertesoftware gebruikt een eenvoudige elektronische handtekening (EES), waarbij de klant door te tekenen bevestigt akkoord te gaan. Voor de meeste zakelijke overeenkomsten is dit voldoende. Alleen bij notariële aktes of specifieke juridische documenten is een gekwalificeerde handtekening vereist."
   - q: "Hoe zorg ik dat mijn offerte er professioneel uitziet zonder ontwerper?"
     a: "De meeste offertesoftware biedt kant-en-klare templates die je kunt aanpassen met je logo, kleuren en typografie. Mijn praktische tips: gebruik je bedrijfslogo in goede kwaliteit (minimaal 500x500px), kies één herkenbare kleur als accent, gebruik een standaard lettertype (niet meer dan twee), en laat je offertes altijd luchtig opgemaakt zijn met genoeg witruimte. Offorte en PandaDoc hebben de meest professionele standaardtemplates."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "PandaDoc"
+    url: "https://www.pandadoc.com/"
+    price: "19.00"
+  - name: "Offorte"
+    url: "https://www.offorte.nl/"
+    price: "29.00"
 ---
 
 Een offerte is het visitekaartje van een ZZP'er. Potentiële klanten beoordelen je professionalisme mede op hoe je offerte eruitziet — voordat ze zelfs maar je inhoudelijke voorstel hebben gelezen. Een slordige Word-offerte met een oud logo en ontbrekende BTW-specificatie verstoort dat eerste beeld.

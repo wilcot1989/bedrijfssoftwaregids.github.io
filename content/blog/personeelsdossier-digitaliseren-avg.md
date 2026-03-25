@@ -20,6 +20,16 @@ faq:
 tags:
   - hr-software
   - mkb
+products:
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "HoorayHR"
+  url: "https://www.hoorayhr.com/"
+  price: "3.00"
 ---
 
 Een klant van mij — een installatiebedrijf met 15 medewerkers — had zijn personeelsdossiers verspreid over drie ordners in twee verschillende kasten, plus een plastic zak op het bureau van de eigenaar. Niet ideaal, maar het werkte. Tot een medewerker zijn recht op inzage uitoefende onder de AVG.

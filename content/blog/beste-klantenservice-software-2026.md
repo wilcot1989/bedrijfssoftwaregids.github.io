@@ -27,6 +27,16 @@ faq:
     a: "Ja, alle grote klantenservice tools integreren met populaire CRM-systemen. Zendesk en Freshdesk koppelen met Salesforce, HubSpot, Pipedrive en meer. HubSpot Service Hub integreert soepel met HubSpot CRM. Trengo biedt koppelingen met de meeste Nederlandse tools."
   - q: "Welke klantenservice software ondersteunt WhatsApp?"
     a: "Trengo, Freshdesk en Zendesk bieden WhatsApp Business API-integratie. Trengo is hierin het sterkst met native WhatsApp-support en de mogelijkheid om WhatsApp-berichten als tickets te behandelen. Dit is vooral relevant voor de Nederlandse markt waar WhatsApp het primaire communicatiekanaal is."
+products:
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Trengo"
+  url: "https://trengo.com/nl"
+  price: "99.00"
 ---
 
 Bij een groeiend softwarebedrijf dat ik begeleidde, bleken klantvragen gemiddeld 3 dagen onbeantwoord te blijven -- simpelweg omdat niemand overzicht had over de gedeelde inbox. Na de implementatie van helpdesk software daalde die responstijd naar 4 uur. Helpdesk software is geen luxe zodra je meer dan een handvol vragen per dag krijgt. Dit zijn de 5 beste opties die ik ken.

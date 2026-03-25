@@ -29,6 +29,16 @@ faq:
     a: "Asana heeft specifieke functies voor sprints en agile workflows. Monday.com biedt dit ook via aanpasbare templates en views, maar het is minder gespecialiseerd. Voor volwaardige scrum met burndown charts en velocity tracking zijn beide tools een compromis vergeleken met specialistische tools zoals Jira."
   - q: "Kan ik Monday.com of Asana ook als CRM gebruiken?"
     a: "Monday.com biedt een volwaardige CRM-module (Monday CRM) als aanvulling op het projectmanagement. Asana heeft geen eigen CRM, maar integreert wel met CRM-tools zoals HubSpot en Salesforce. Als je CRM en projectmanagement wilt combineren, heeft Monday.com hier een duidelijk voordeel."
+products:
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
 ---
 
 Monday.com vs Asana is de vergelijking die ik het vaakst maak bij projectmanagement-advies. Op Trustpilot scoort Monday.com een 2.7/5 (3.388 reviews) — de klachten gaan vooral over contractverlenging en prijzen, niet over het product. Asana scoort 1.5/5 (284 reviews), maar met relatief weinig reviews. Ik heb teams geholpen die van Asana naar Monday overstapten, en teams die precies het omgekeerde deden. Beide zijn uitstekende tools, maar ze passen bij een ander type team. Monday.com voor wie vrijheid en visueel werken belangrijk vindt, Asana voor wie structuur en procesbeheer prefereert. In deze vergelijking help ik je de juiste keuze maken.

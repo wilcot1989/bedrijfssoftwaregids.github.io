@@ -28,6 +28,16 @@ faq:
     a: "HubSpot is sterker in marketing automation. Het biedt ingebouwde tools voor e-mailmarketing, landing pages, social media, en lead nurturing. Salesforce biedt dit via Pardot (nu Marketing Cloud Account Engagement), maar dat is een apart product met aanzienlijke extra kosten."
   - q: "Welke CRM heeft betere rapportages?"
     a: "Salesforce heeft krachtigere en meer aanpasbare rapportages, maar deze vereisen meer technische kennis om op te zetten. HubSpot biedt gebruiksvriendelijkere rapportages die voor de meeste MKB-bedrijven ruim voldoende zijn."
+products:
+  - name: "Salesforce"
+    url: "https://www.salesforce.com/nl/"
+    price: "25.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
 ---
 
 Salesforce vs HubSpot is de vergelijking die ik het vaakst maak. Op Trustpilot scoren beide laag: Salesforce 1.5/5 (612 reviews), HubSpot 1.8/5 (1.054 reviews). Die scores weerspiegelen vooral frustratie over contractvoorwaarden en prijsverhogingen — niet per se de productkwaliteit. Ik heb bedrijven begeleid die van HubSpot naar Salesforce migreerden omdat ze de kracht nodig hadden, en bedrijven die van Salesforce terug naar HubSpot gingen omdat ze verdronken in complexiteit. Beide zijn uitstekende CRM-platforms, maar voor totaal verschillende situaties. In deze Salesforce vs HubSpot vergelijking help ik je bepalen welke bij jouw bedrijf past.

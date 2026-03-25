@@ -31,6 +31,16 @@ faq:
     a: "Geen van beide biedt Nederlandstalige klantenservice. Beide hebben Engelse support via chat en email. Monday.com heeft wel een uitgebreidere Nederlandse kennisbank dan ClickUp."
   - q: "Monday.com vs ClickUp: welke is goedkoper?"
     a: "ClickUp is goedkoper op elk niveau. Het gratis plan is ruimer, en het betaalde Unlimited plan (€7/gebruiker) kost minder dan Monday.com Basic (€9/gebruiker). Bij 10 gebruikers bespaar je €20/maand met ClickUp."
+products:
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Monday.com vs ClickUp -- deze vergelijking komt steeds vaker op tafel bij projectmanagement-advies. Beide tools beloven alles wat je nodig hebt voor projectbeheer, maar ze doen het op een fundamenteel andere manier. Monday.com is de efficiënte, visuele aanpak. ClickUp is het Zwitserse zakmes dat alles kan, maar waar je even doorheen moet bijten. Ik heb beide tools uitgebreid getest en bij meerdere teams geïmplementeerd. In deze vergelijking zet ik ze eerlijk naast elkaar.

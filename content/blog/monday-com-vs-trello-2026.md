@@ -35,6 +35,16 @@ faq:
     a: "Monday.com schaalt aanzienlijk beter. Het biedt teambeheer, cross-board dashboards, portfolio-overzichten, werklastbalancering en uitgebreide rechtenstructuren. Trello is eigenlijk ontworpen voor kleine teams en individuele gebruikers -- boven de 15-20 actieve gebruikers wordt het overzicht moeilijker te bewaken. Voor teams boven de 10 personen met serieuze werkvolumes raad ik Monday.com of een alternatief als ClickUp aan."
   - q: "Kan ik van Trello naar Monday.com migreren?"
     a: "Ja. Monday.com biedt een importfunctie voor Trello. Borden, lijsten, kaarten en labels worden omgezet naar Monday-boards, groepen en items. Attachments en comments gaan gedeeltelijk mee. Aangepaste Power-Ups en Butler-automations moeten handmatig worden nagebouwd. De migratie is relatief eenvoudig -- plan een middag voor een gemiddeld team."
+products:
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
 ---
 
 Monday.com vs Trello -- dit is de vergelijking die ik het meest tegenkom bij kleine en middelgrote bedrijven die voor het eerst serieus nadenken over projectmanagement-software. Aan de ene kant Trello: de iconische Kanban-tool die projectmanagement democratiseerde met zijn simpele kaart-en-bord-systeem. Aan de andere kant Monday.com: het complete werkbeheersplatform dat belooft dat je elk soort workflow kunt beheren, volledig naar wens.

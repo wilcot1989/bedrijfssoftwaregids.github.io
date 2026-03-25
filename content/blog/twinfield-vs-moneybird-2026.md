@@ -28,6 +28,16 @@ faq:
     a: "Ja, Moneybird biedt exportfuncties voor alle data. Je boekhouder kan de data importeren in Twinfield. Overstappen is het makkelijkst aan het begin van een nieuw boekjaar. Bespreek de overstap met je boekhouder — zij kennen het migratieproces."
   - q: "Welke boekhoudsoftware werkt het best met mijn accountant?"
     a: "De meeste Nederlandse accountantskantoren werken met Twinfield, Exact Online of Afas. Als je boekhouder al Twinfield gebruikt, is samenwerken zeer eenvoudig. Steeds meer boekhouders accepteren ook Moneybird, maar check dit vooraf."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Twinfield vs Moneybird is een veelgemaakte vergelijking. Op Trustpilot scoort Moneybird een 3.5/5 (181 reviews) — degelijk, met positieve reacties over het gebruiksgemak. Twinfield heeft slechts 17 reviews en een 1.8/5, te weinig om conclusies aan te verbinden. Als een ondernemer mij vraagt "Twinfield of Moneybird?", is mijn tegenvraag altijd: "Doe je zelf je boekhouding, of laat je dat aan je accountant over?" Doe je het zelf, dan is Moneybird bijna altijd beter. Werk je nauw samen met een accountant, dan is Twinfield vaak de logischere keuze. In deze Twinfield vs Moneybird vergelijking leg ik uit waarom.

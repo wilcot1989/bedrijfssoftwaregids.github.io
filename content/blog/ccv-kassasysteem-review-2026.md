@@ -29,6 +29,16 @@ faq:
     a: "CCV contracten lopen standaard 3 jaar bij huur van hardware. Dit is een nadeel: je zit lang vast. Er zijn kortere contracten beschikbaar (1 jaar) tegen hogere maandelijkse kosten. Lees het contract altijd zorgvuldig door, met name de opzegvoorwaarden en automatische verlengingsclausules."
   - q: "Werkt CCV met iDEAL en contactloos?"
     a: "Ja, CCV terminals ondersteunen iDEAL, contactloos (NFC), chip-en-pin, Apple Pay, Google Pay en alle gangbare Europese betaalkaarten. Als oudste betaalverwerker van Nederland is CCV breed geaccepteerd en heeft uitstekende relaties met alle Nederlandse banken."
+products:
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
 ---
 
 CCV is de oudste en een van de grootste betaalverwerkers van Nederland. Het Arnhemse bedrijf bestaat al meer dan 30 jaar en verwerkt jaarlijks tientallen miljarden euro's aan betalingen voor Nederlandse ondernemers. Toch staat CCV niet zo hoog op het verlanglijstje van moderne ondernemers als je zou verwachten. Waarom? Dat ga ik in deze review eerlijk uitleggen.

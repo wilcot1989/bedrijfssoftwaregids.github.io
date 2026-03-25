@@ -20,6 +20,16 @@ faq:
 tags:
   - crm
   - b2b
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Salesforce"
+    url: "https://www.salesforce.com/nl/"
+    price: "25.00"
 ---
 
 Een paar jaar geleden begeleidde ik een accountmanager bij een B2B-groothandel in technische benodigdheden. Aardige vent, keihard werker. Elke week nieuwe prospects bellen, elke maand nieuwe klanten binnenhalen. Zijn pipeline zag er altijd goed uit.

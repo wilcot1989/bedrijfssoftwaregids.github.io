@@ -30,6 +30,16 @@ faq:
     a: "Exact Online heeft de afgelopen jaren regelmatig de prijzen verhoogd, gemiddeld 3-8 procent per jaar. In 2023 waren er significante prijsverhogingen. Moneybird heeft ook prijsverhogingen doorgevoerd, maar die waren minder groot. Houd rekening met jaarlijkse prijsstijgingen in je meerjarenberekening."
   - q: "Zijn er verborgen kosten bij Exact Online?"
     a: "Ja. Naast de licentieprijs betaal je bij Exact Online vaak voor implementatie, training, extra modules zoals HR en CRM, extra gebruikers boven het inbegrepen aantal, en partnerkosten. Moneybird heeft minder verborgen kosten: het prijsmodel is transparanter en er zijn minder betaalde extra modules."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Functievergelijkingen van Exact Online en Moneybird zijn er genoeg — inclusief mijn eigen uitgebreide artikel [Moneybird vs Exact Online](/blog/moneybird-vs-exact-online-2026/). Maar welke kost je nu eigenlijk meer over de looptijd van je abonnement? Die vraag beantwoord ik hier, en alleen die vraag.

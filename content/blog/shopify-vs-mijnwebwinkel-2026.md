@@ -29,6 +29,16 @@ faq:
     a: "Shopify biedt ruim 200 professionele thema's (13 gratis, de rest tussen €150 en €400). Acendy heeft een beperkter aanbod van templates die je binnen het platform kunt aanpassen. Qua designvrijheid en keuze wint Shopify ruimschoots."
   - q: "Is Shopify geschikt voor de Nederlandse markt?"
     a: "Ja, Shopify is volledig beschikbaar in het Nederlands, ondersteunt iDEAL via Shopify Payments, heeft een Nederlands supportteam en werkt soepel met Nederlandse betaalproviders als Mollie. Veel grote Nederlandse webshops draaien op Shopify."
+products:
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "Wix"
+    url: "https://www.wix.com/"
+    price: "17.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
 ---
 
 Shopify vs Mijnwebwinkel -- ik krijg deze vraag steeds vaker: "Lars, ik wil een webshop starten in Nederland, welke kies ik?" Tot voor kort was het antwoord simpel: Shopify voor ambitie en schaal, Mijnwebwinkel voor wie puur Nederlands en eenvoudig wil. Maar sinds januari 2026 is Mijnwebwinkel getransformeerd naar Acendy, en daarmee zijn de kaarten flink geschud. Hogere prijzen, een nieuw platform, andere pakketten.

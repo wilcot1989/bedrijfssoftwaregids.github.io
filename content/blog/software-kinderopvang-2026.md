@@ -30,6 +30,16 @@ faq:
     a: "Kinderopvang verwerkt gevoelige gegevens van kinderen, waardoor de AVG extra streng van toepassing is. Alle serieuze kinderopvangsoftware is AVG-compliant en biedt verwerkingsovereenkomsten. Let op dat ouders extra sterke rechten hebben als het gaat om gegevens van hun kinderen. Kies altijd software met EU-dataopslag."
   - q: "Wat kost kinderopvangsoftware gemiddeld per maand?"
     a: "Prijzen variëren sterk. Konnect en Bitcare beginnen rond €50-100 per maand voor kleine locaties. AFAS Kinderopvang is aanzienlijk duurder, vanaf €500 per maand voor kleinere organisaties. Flexkids heeft vergelijkbare tarieven als AFAS. Vraag altijd een offerte op basis van jouw specifieke situatie en aantallen."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Personio"
+    url: "https://www.personio.com/nl/"
+    price: "3.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Kinderopvang is een van de meest gereguleerde sectoren in Nederland. De combinatie van overheidsregelgeving (kinderopvangtoeslag, GGD-inspectie, beroepskracht-kind-ratio's), hoge verantwoordelijkheid voor de veiligheid en ontwikkeling van kinderen, én de dagelijkse operationele uitdagingen maakt goede software geen luxe maar een absolute noodzaak.

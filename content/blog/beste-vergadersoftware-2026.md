@@ -27,6 +27,16 @@ faq:
     a: "Voor HD-videobellen heb je minimaal 3 Mbps upload en download nodig per persoon. Voor groepsgesprekken: 5-10 Mbps. De meeste Nederlandse internetverbindingen (50+ Mbps) zijn ruim voldoende. Problemen komen vaker door WiFi-kwaliteit dan internetsnelheid — gebruik bij voorkeur een bekabelde verbinding."
   - q: "Welke tool is het beste voor webinars?"
     a: "Zoom Webinars is de marktleider voor webinars: tot 10.000 kijkers, Q&A, polls, registratie en analytics. Voor kleinere events (tot 250 personen) volstaat Microsoft Teams Live Events of Google Meet (met Workspace Business Plus). Whereby is ideaal voor 1-op-1 klantgesprekken dankzij de merkbare kamers."
+products:
+  - name: "Zoom"
+    url: "https://zoom.us/pricing"
+    price: "12.49"
+  - name: "Microsoft Teams"
+    url: "https://www.microsoft.com/nl-nl/microsoft-teams/"
+    price: "3.70"
+  - name: "Google Meet"
+    url: "https://workspace.google.com/intl/nl/"
+    price: "5.75"
 ---
 
 Wat is de beste vergadersoftware voor jouw bedrijf? De meeste bedrijven die ik adviseer gebruiken al een tool, maar vaak niet de juiste. Ze betalen voor Zoom terwijl ze al Teams hebben via Microsoft 365, of worstelen met Google Meet terwijl hun klanten geen Google-account willen aanmaken. In deze vergelijking van de beste vergadersoftware van 2026 help ik je de tool te kiezen die past bij hoe jij online vergadert. Vergadersoftware staat zelden op zichzelf: het is onderdeel van een bredere HR- en communicatiestrategie. Lees ook het overzicht van de [beste HR software in Nederland 2026](/blog/beste-hr-software-nederland-2026/) voor een compleet beeld.

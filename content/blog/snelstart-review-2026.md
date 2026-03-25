@@ -36,6 +36,16 @@ faq:
     a: "SnelStart kan worden ingezet voor een stichting of vereniging, maar met enkele kanttekeningen. Stichtingen en verenigingen vallen buiten de BTW-plicht als ze geen economische activiteiten verrichten, wat betekent dat een groot deel van de BTW-functies van SnelStart niet relevant is. De boekhouding draait dan om inkomsten (donaties, contributie, subsidies) en uitgaven, zonder winstoogmerk. SnelStart Web Compleet ondersteunt dit technisch, maar is niet specifiek ingericht op de rapportagebehoeften van non-profits. Voor grotere stichtingen met meerdere subsidiestromen is gespecialiseerde software soms nuttiger."
   - q: "Wat zijn de beperkingen van SnelStart gratis?"
     a: "SnelStart Web Gratis is beperkt tot 50 boekingen per maand. Daarboven ontbreken: directe bankkoppeling, automatische BTW-aangifte naar de Belastingdienst, de accountantskoppeling en prioriteitsondersteuning. In de praktijk zit je met een paar banktransacties, inkomende facturen en een bonnetje al snel aan het plafond. Het gratis abonnement is zinvol als instap voor de eerste maanden, maar voor een actief bedrijf vrijwel altijd te beperkt."
+products:
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
 ---
 
 Elke keer als ik een startende ondernemer of kleine zelfstandige spreek die voor het eerst boekhoudsoftware zoekt, valt de naam SnelStart vroeg of laat. En dat verbaast me niet. Het pakket bestaat al meer dan veertig jaar, is uitgebouwd voor de Nederlandse markt en hanteert een prijspunt dat voor starters realistisch is — inclusief een gratis variant.

@@ -30,6 +30,16 @@ faq:
     a: "Ja, voor de meeste kleine bedrijven is Salesforce te complex en te duur. De leercurve is steil, de implementatie is tijdrovend, en de kosten zijn voor een team van 5-10 mensen moeilijk te rechtvaardigen. Pipedrive, HubSpot of zelfs Zoho CRM zijn betere alternatieven voor kleine teams."
   - q: "Welke CRM heeft betere rapportages — Pipedrive of Salesforce?"
     a: "Salesforce heeft de krachtigste rapportages en BI-functionaliteit in de markt, maar die vereisen technische kennis om in te stellen. Pipedrive biedt solide, gebruiksvriendelijke rapportages die voor de meeste MKB-salesteams meer dan voldoende zijn. Als je complexe cross-object rapportages en uitgebreide dashboards nodig hebt, is Salesforce sterker."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Salesforce"
+    url: "https://www.salesforce.com/nl/"
+    price: "25.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 [Pipedrive](/blog/pipedrive-review-2026/) versus [Salesforce](/blog/salesforce-vs-hubspot-2026/) is misschien wel de meest ongelijke vergelijking die ik in CRM-land maak. En toch doe ik hem wekelijks, want het is precies de afweging waar veel groeiende bedrijven voor staan.

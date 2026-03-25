@@ -29,6 +29,16 @@ faq:
     a: "HoorayHR is een van de eenvoudigst te implementeren HR-tools voor MKB. De setup duurt gemiddeld 2-4 uur voor een bedrijf met 20-50 medewerkers. Je importeert medewerkerdata via CSV of handmatig, configureert verloftypes en -saldo's, en stuurt medewerkers een uitnodiging. Medewerkers zijn direct operationeel via de app."
   - q: "Heeft HoorayHR een mobiele app?"
     a: "Ja, HoorayHR heeft een mobiele app voor iOS en Android. Medewerkers kunnen verlof aanvragen, ziekte doorgeven, documenten inzien en hun persoonsinformatie bekijken via de app. Managers kunnen verlofverzoeken goedkeuren en medewerkersinformatie raadplegen. De app is goed beoordeeld in de App Store (4,3/5) en Google Play."
+products:
+- name: "HoorayHR"
+  url: "https://www.hoorayhr.com/"
+  price: "3.00"
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 HoorayHR is het HR-softwareplatform dat ik het meest aanraad aan Nederlandse MKB-bedrijven die voor het eerst HR-software overwegen. Het is gebouwd voor de Nederlandse markt, begrijpt Nederlandse wet- en regelgeving, en is eenvoudig genoeg dat HR geen IT-project hoeft te worden.

@@ -30,6 +30,16 @@ faq:
     a: "Specifieke AI in boekhoudpakketten: Exact Online heeft AI-functies voor automatische categorisering en anomaliedetectie. Twinfield biedt slimme boekingsuggesties. Voor algemene financiele analyses kun je ChatGPT gebruiken om Excel-formules te schrijven, budgetrapportages te interpreteren of belastingvraagstukken te verkennen (maar laat nooit AI definitieve fiscale beslissingen nemen). QuickBooks en FreshBooks hebben AI-assistenten ingebouwd voor cashflow-voorspellingen."
   - q: "Hoe implementeer ik AI in mijn bedrijf zonder IT-afdeling?"
     a: "Begin klein: kies één afdeling en twee use cases. Stel een 30-dagen experiment in waarbij twee medewerkers ChatGPT Team gebruiken voor specifieke taken (bijv. e-mails schrijven en vergaderingen samenvatten). Meet de tijdsbesparing. Als het werkt, breid je uit. De grootste fout is te veel tegelijk willen implementeren. Geen IT-afdeling nodig voor ChatGPT, Copilot of Gemini — die werken via de browser."
+products:
+  - name: "ChatGPT Business"
+    url: "https://openai.com/chatgpt/team/"
+    price: "25.00"
+  - name: "Microsoft Copilot"
+    url: "https://www.microsoft.com/nl-nl/microsoft-copilot/"
+    price: "22.00"
+  - name: "Google Gemini"
+    url: "https://gemini.google.com/"
+    price: "0.00"
 ---
 
 Twee jaar geleden vroegen MKB-eigenaren mij: "Moet ik iets met AI?" Tegenwoordig is de vraag: "Welke AI-tools gebruik ik al correct, en waar laat ik kansen liggen?" Die verschuiving zegt alles. AI is van hype naar bruikbaar gereedschap gegaan.

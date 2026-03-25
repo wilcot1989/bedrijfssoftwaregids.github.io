@@ -37,6 +37,16 @@ faq:
     a: "Zelf doen loont als je 5+ medewerkers hebt met een relatief eenvoudige situatie (geen complexe CAO, geen expats, geen onregelmatige diensten). Software kost €3-€10 per medewerker per maand. Uitbesteden loont bij minder dan 5 medewerkers (dan is de tijdsbesparing relatief groot), bij complexe CAO-situaties (bouw, zorg, horeca), of als je geen enkele basiskennis van loonadministratie hebt. Een externe salarisadministrateur kost €15-€25 per medewerker per maand."
   - q: "Is er gratis loonadministratie software?"
     a: "Volledig gratis professionele loonadministratie software bestaat niet in Nederland. De meeste aanbieders bieden wel een gratis proefperiode (14-30 dagen). De goedkoopste betaalde optie is Loket.nl vanaf €3/medewerker/maand. Er zijn gratis tools zoals Excel-sjablonen, maar die zijn niet geschikt voor officiële loonaangifte bij de Belastingdienst — dat vraagt gecertificeerde software."
+products:
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Loket.nl"
+  url: "https://www.loket.nl/"
+  price: "5.00"
 ---
 
 Fouten in de salarisadministratie zijn de snelste manier om het vertrouwen van je medewerkers te verliezen -- en een boete van de Belastingdienst te riskeren. Toch zie ik nog steeds bedrijven die salarissen handmatig berekenen in Excel. Dat hoeft niet. Goede salarissoftware voorkomt fouten, automatiseert loonaangifte en bespaart uren. Ik vergelijk hier de 5 beste loonadministratie software pakketten voor de Nederlandse markt, van betaalbaar voor kleine teams tot enterprise-klaar. Wil je ook je hele HR-administratie compleet digitaliseren? Lees dan het artikel over de [beste boekhouder app 2026](/blog/beste-boekhouder-app-2026/) en het [beste facturatieprogramma voor MKB](/blog/beste-facturatie-software-mkb-2026/).

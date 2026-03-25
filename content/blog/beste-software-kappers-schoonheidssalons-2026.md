@@ -29,6 +29,16 @@ faq:
     a: "Ja, de meeste salon software biedt voorraadbeheer en productverkoop. Je kunt producten registreren, voorraad bijhouden en producten afrekenen via het kassasysteem. Phorest en Salonkee zijn hier het meest uitgebreid in, met inkoopbeheer en automatische herbestellingen."
   - q: "Biedt kapsalon software ook marketingfuncties?"
     a: "Ja, veel kapsalon software biedt marketingtools zoals geautomatiseerde e-mailcampagnes, verjaardagsberichten, loyaliteitsprogramma's en reviewverzoeken. Phorest is hierin het sterkst met een ingebouwd marketingplatform. Treatwell Pro biedt zichtbaarheid via het Treatwell-platform."
+products:
+  - name: "Lightspeed"
+    url: "https://www.lightspeedhq.nl/"
+    price: "59.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Personio"
+    url: "https://www.personio.com/nl/"
+    price: "3.00"
 ---
 
 Saloneigenaren die ik help hebben vaak hetzelfde probleem: ze zijn zo druk met knippen of behandelen dat ze de telefoon niet opnemen, en daardoor boekingen mislopen. Goede kapsalon software lost dat op -- klanten boeken zelf, herinneringen gaan automatisch, en no-shows nemen af. Ik heb de 6 beste kapsalon software opties van 2026 vergeleken op de functies die er voor jouw salon echt toe doen.

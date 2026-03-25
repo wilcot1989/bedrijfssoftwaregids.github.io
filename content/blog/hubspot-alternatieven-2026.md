@@ -28,6 +28,16 @@ faq:
     a: "Voor 5 gebruikers met het Marketing Hub Professional (€800/mnd) plus Sales Hub Professional (€90/gebruiker) kom je op circa €1.250 per maand exclusief btw. Daarbij telt de eenmalige onboarding fee van €3.000+ en eventuele add-ons. Het Sales Hub Starter is goedkoper (€15/gebruiker), maar mist features als sequenties en custom rapportages."
   - q: "Welk HubSpot-alternatief heeft de beste marketing automation?"
     a: "ActiveCampaign heeft de krachtigste marketing automation van alle alternatieven in dit overzicht. De visuele automation builder laat je workflows bouwen die HubSpot's Starter- en Professional-tier overtreffen. Brevo is een goede budgetkeuze voor bedrijven die marketing automation willen zonder het ActiveCampaign-prijskaartje."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
+  - name: "Salesforce"
+    url: "https://www.salesforce.com/nl/"
+    price: "25.00"
 ---
 
 Ik sprak vorig jaar met een marketingmanager van een installatiebedrijf in Utrecht. Vijf man salesteam, gezond groeiend, maar de HubSpot-rekening was opgelopen naar €1.400 per maand. "We gebruiken 20% van de functies," zei hij. "De rest heb ik nog nooit opengemaakt."

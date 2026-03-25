@@ -29,6 +29,16 @@ faq:
     a: "Ja, Loket.nl koppelt met Exact Online, Twinfield, Snelstart, Unit4, King en andere populaire boekhoudpakketten. Loonkosten worden automatisch geboekt in je administratie. Voor Exact Online is er een native koppeling die real-time synchroniseert. Dit bespaart aanzienlijk tijd en voorkomt fouten bij handmatige invoer."
   - q: "Hoe zit het met loonheffingsaangifte bij Loket.nl?"
     a: "Loket.nl verzorgt de automatische aanmaak van de loonheffingsaangifte per tijdvak. Je kunt de aangifte direct vanuit Loket.nl indienen bij de Belastingdienst via Digipoort. De software berekent de te betalen loonheffingen, premies en pensioenbijdragen automatisch op basis van je loonrun."
+products:
+- name: "Loket.nl"
+  url: "https://www.loket.nl/"
+  price: "5.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
 ---
 
 Loket.nl is het salarisadministratieplatform dat ik het vaakst aanbeveel aan Nederlandse MKB-bedrijven die hun loonadministratie zelf willen doen of slim willen uitbesteden. Het combineert de kracht van professionele salarisadministratiesoftware met de toegankelijkheid van een moderne SaaS-tool.

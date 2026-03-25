@@ -28,6 +28,16 @@ faq:
     a: "Kaspersky Small Office Security kost €4/apparaat/mnd bij 5 apparaten. Bitdefender GravityZone Business Security kost €3,50/apparaat/mnd bij jaarabonnement. Bitdefender is goedkoper op papier, maar bij vergelijkbare functionaliteit (inclusief server-bescherming en mobiel) zijn de prijzen vergelijkbaar. Kaspersky's Small Office Security bevat meer functies in één pakket."
   - q: "Welke beheerconsole is beter: Bitdefender GravityZone of Kaspersky Security Center?"
     a: "Bitdefender GravityZone is de krachtigere beheerconsole: meer configuratiemogelijkheden, uitgebreide rapportages, betere beleids-management en uitgebreidere EDR-integratie. Kaspersky's console (voor Small Office Security) is gebruiksvriendelijker maar minder uitgebreid. Voor IT-beheerders: Bitdefender. Voor niet-technische beheerders: Kaspersky."
+products:
+  - name: "Kaspersky Business"
+    url: "https://www.kaspersky.nl/small-to-medium-business-security"
+    price: "5.00"
+  - name: "NordVPN Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "8.00"
+  - name: "NordPass Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "3.99"
 ---
 
 Ik word regelmatig gevraagd: Bitdefender of Kaspersky? Het is de meest gestelde vraag als het gaat om zakelijke endpoint security in Nederland.

@@ -22,6 +22,16 @@ tags:
   - boekhouding
   - horeca
 affiliate: false
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Elke dag afsluiten, de omzet optellen, de BTW berekenen en dat handmatig overtypen in de boekhouding -- het is een tijdrovend ritueel dat foutgevoelig is en niets bijdraagt aan je bedrijf. Een directe koppeling tussen kassasysteem en boekhouding vervangt dit door een automatisch proces dat dagelijks of wekelijks zonder handmatige ingreep verloopt.

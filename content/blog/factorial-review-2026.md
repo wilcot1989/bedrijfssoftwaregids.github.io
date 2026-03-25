@@ -29,6 +29,16 @@ faq:
     a: "Factorial heeft een ingebouwde ATS (Applicant Tracking System) voor recruitment. Je kunt vacatures publiceren op jobboards, kandidaten bijhouden en sollicitatiegesprekken plannen. De ATS is functioneel maar niet zo uitgebreid als standalone ATS-tools zoals Recruitee of Greenhouse. Voor kleine teams is het goed genoeg."
   - q: "Wat maakt Factorial anders dan concurrenten zoals Personio?"
     a: "Factorial richt zich meer op kleinere bedrijven (5-200 medewerkers) dan Personio (50-2.000 medewerkers). Factorial is toegankelijker qua prijs en implementatie. Personio heeft meer enterprise-functies, een uitgebreidere workflow-engine en betere integraties met HR-professionals-software. Factorial wint op eenvoud en prijs-kwaliteit voor kleinere teams."
+products:
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 Factorial is een Spaanse HR-software opkomeling die in korte tijd is uitgegroeid tot een serieuze concurrent van gevestigde namen als Personio en BambooHR. Het Barcelonese bedrijf heeft een modern platform gebouwd dat veel HR-functies bundelt in één tool voor een aantrekkelijke prijs.

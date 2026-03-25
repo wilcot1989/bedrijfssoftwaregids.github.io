@@ -28,6 +28,16 @@ faq:
     a: "Ja, het Personal-plan is permanent gratis voor maximaal 10 gebruikers. Je krijgt onbeperkte taken en projecten, lijst-, bord- en kalenderweergave en basisintegraties. Het is het ruimste gratis plan in zijn klasse — ruimer dan Monday.com (2 users) en Trello (10 users, beperkte Power-Ups)."
   - q: "Wat is het verschil tussen Asana Starter en Advanced?"
     a: "Starter ($10,99/gebruiker/maand) geeft tijdlijn, onbeperkte automations, integraties en dashboards. Advanced ($24,99) voegt portfoliobeheer, workloadmanagement, gedetailleerde rapportages en taakgoedkeuringen toe. Het verschil is $14/gebruiker/maand — voor teams zonder portfoliobeheer is Starter voldoende."
+products:
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
 ---
 
 Een marketingmanager uit Amsterdam belde me vorig jaar met een verrassende vraag: "Lars, waarom is mijn Asana-factuur ineens zo veel hoger?" Ze had haar team uitgebreid van 8 naar 12 personen en was onverwacht in een hoger factuurbedrag terechtgekomen. Het goede nieuws: Asana kent geen minimum seats. Het vervelende nieuws: de stap van Starter naar Advanced zette haar team in één keer op een factor 2,3 hogere prijs per gebruiker.

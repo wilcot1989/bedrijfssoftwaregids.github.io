@@ -31,6 +31,16 @@ faq:
     a: "De Trustpilot-score van Twinfield is zeer laag: 1,8 op 5 (gebaseerd op 17 reviews). De klachten gaan vrijwel zonder uitzondering over slechte klantenservice, trage responstijden en een interface die als gedateerd wordt ervaren."
   - q: "Voor wie is Twinfield het meest geschikt?"
     a: "Twinfield is het meest geschikt voor accountantskantoren die meerdere klantadministraties beheren, en voor middelgrote tot grote bedrijven met complexe boekhouding en consolidatiebehoeften. Voor kleine bedrijven en ZZP'ers zijn alternatieven als Moneybird of Exact Online een betere keuze."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Twinfield kom ik vrijwel uitsluitend tegen bij accountantskantoren. Niet bij de ondernemer zelf die op zoek is naar boekhoudsoftware, maar bij de accountant die zijn klanten al jaren via dit platform bedient. Dat zegt eigenlijk al iets over de positionering: Twinfield is boekhoudersoftware voor professionals, niet voor de ondernemer die zelf zijn eigen administratie wil bijhouden.

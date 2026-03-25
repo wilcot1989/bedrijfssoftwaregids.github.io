@@ -29,6 +29,16 @@ faq:
     a: "Lightspeed verkoopt geen eigen hardware maar werkt met Apple (iPad), Epson printers en Star Micronics bonprinters. Een complete hardware-setup kost €800-2.000 afhankelijk van je behoeften: iPad (€500-700), iPad-stand (€100-200), kassalade (€100-150), bonprinter (€200-400) en barcode-scanner (€100-200)."
   - q: "Kan ik van plan wisselen bij Lightspeed?"
     a: "Ja, je kunt op elk moment upgraden naar een hoger plan. Downgrades zijn mogelijk aan het einde van je contractperiode (jaarcontract). Als je halverwege een jaarcontract wilt downgraden, betaal je het resterende bedrag voor het hogere plan. Lees bij inschrijving de contractvoorwaarden goed door."
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Lightspeed is het meest gebruikte premium kassasysteem onder Nederlandse retailers en restaurants. Het Canadese bedrijf heeft een Nederlandse vestiging in Amsterdam en onderscheidt zich door uitstekende voorraadbeheer-mogelijkheden en een krachtige webshop-koppeling. Maar wat kost het precies?

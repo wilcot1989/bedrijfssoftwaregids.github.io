@@ -35,6 +35,16 @@ faq:
     a: "Voor de meeste teams: ja. Notion heeft een Kanban-weergave, taakbeheer via databases, deadlines, toewijzingen en statusbeheer. Wat je verliest is de pure Kanban-eenvoud en de soepele drag-and-drop interface van Trello. Als Kanban 80% van je use case is, blijf dan bij Trello. Gebruik je ook documentatie, wiki of databases? Dan kan Notion Trello volledig vervangen en meer bieden."
   - q: "Zijn er goede Notion templates voor projectmanagement?"
     a: "Ja, er is een uitgebreide template-galerie op notion.so met honderden gratis templates voor projectmanagement, content calendars, CRM, Kanban-borden en meer. Zowel officiële Notion templates als community-templates zijn beschikbaar. De kwaliteit varieert, maar goede templates besparen je uren aan inrichting. Trello heeft ook templates, maar Notion's template-ecosysteem is rijker en gevarieerder."
+products:
+  - name: "Notion"
+    url: "https://www.notion.so/"
+    price: "9.00"
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Notion vs Trello — dit is de vergelijking van twee tools die op het eerste gezicht helemaal anders zijn, maar dezelfde doelgroep aanspreken: teams die hun werk beter willen organiseren zonder meteen te investeren in een zwaar projectmanagementsysteem.

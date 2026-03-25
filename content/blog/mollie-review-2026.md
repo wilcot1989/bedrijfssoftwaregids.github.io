@@ -40,6 +40,16 @@ faq:
     a: "Kies Adyen boven Mollie zodra je meer dan 10.000 transacties per maand verwerkt, internationaal opereert buiten Europa, of enterprise-functies nodig hebt zoals uitgebreide fraudedetectie, dedicated accountmanagement en directe acquiring. Adyen is ook beter als je één geïntegreerd platform wilt voor online, in-store en mobiel betalen op grote schaal. Voor MKB is Mollie vrijwel altijd de betere keuze vanwege eenvoud en transparante pricing."
   - q: "Werkt Mollie met Shopify en WooCommerce?"
     a: "Ja, Mollie werkt uitstekend met zowel Shopify (via de Mollie Payments app in de Shopify App Store) als WooCommerce (via de officiële gratis plugin). Beide integraties zijn door Mollie zelf onderhouden, goed gedocumenteerd en binnen 15 minuten geïnstalleerd. iDEAL, Bancontact, Klarna en alle andere betaalmethodes zijn direct beschikbaar na activatie."
+products:
+  - name: "Mollie"
+    url: "https://www.mollie.com/nl"
+    price: "0.00"
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
 ---
 
 Toen ik vijf jaar geleden voor het eerst Mollie koppelde aan een WooCommerce webshop voor een klant, duurde dat precies 12 minuten. Account aanmaken, plugin installeren, API-key invoeren, testbetaling doen. Klaar. Dat was het moment dat ik begreep waarom Mollie zo populair is in Nederland: het werkt gewoon.

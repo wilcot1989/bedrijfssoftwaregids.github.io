@@ -28,6 +28,16 @@ faq:
     a: "GetResponse heeft een deliverability van 99%, een van de hoogste in de branche. Het bedrijf heeft dedicated IP-adressen, actieve spam-monitoring en een compliance-team dat lijsten controleert. De deliverability is vergelijkbaar met ActiveCampaign en beter dan sommige goedkopere alternatieven."
   - q: "Werkt GetResponse in het Nederlands?"
     a: "De GetResponse-interface is beschikbaar in het Nederlands. Dit is een voordeel ten opzichte van tools zoals ActiveCampaign en Klaviyo die alleen in het Engels zijn. Voor Nederlandse teams die liever in hun moedertaal werken, is dit een reele plus. De klantenservice biedt ook Nederlandstalige support."
+products:
+- name: "GetResponse"
+  url: "https://www.getresponse.com/"
+  price: "13.10"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
 ---
 
 GetResponse is een van de oudste en meest volwassen email marketing platforms. Opgericht in 1998 in Polen, bedient het bedrijf inmiddels meer dan 350.000 klanten in 183 landen. Ik gebruik GetResponse al jaren voor klanten in uiteenlopende sectoren — van online coaches tot middelgrote webshops.

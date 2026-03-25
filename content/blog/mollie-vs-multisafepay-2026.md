@@ -21,6 +21,16 @@ faq:
     a: "Technisch gezien wel, maar het heeft weinig zin. Je splitst dan je transactiedata over twee dashboards, wat je boekhouding en rapportage ingewikkelder maakt. Kies er een als primaire provider en wissel alleen als de kosten of functionaliteit aantoonbaar beter zijn."
   - q: "Welke betaalprovider heeft de beste klantenservice?"
     a: "Mollie biedt support via e-mail, chat en telefoon (voor grotere accounts). MultiSafepay heeft e-mail en chat, maar geen telefonische support. In online reviews scoort Mollie hoger op klanttevredenheid: 4,5 op Trustpilot (11.000+ reviews) tegenover 4,1 voor MultiSafepay."
+products:
+  - name: "Mollie"
+    url: "https://www.mollie.com/nl"
+    price: "0.00"
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
 ---
 
 Mollie vs MultiSafepay -- welke betaalprovider past bij jouw webshop? Vorig jaar heb ik voor twee verschillende klanten de overstap van betaalprovider begeleid. De ene ging van MultiSafepay naar Mollie, de andere precies andersom. Beide waren achteraf tevreden. Dat klinkt als een nutteloze anekdote, maar het illustreert precies het probleem: Mollie en MultiSafepay zijn allebei goede Nederlandse betaalproviders, maar de juiste keuze hangt volledig af van jouw situatie.

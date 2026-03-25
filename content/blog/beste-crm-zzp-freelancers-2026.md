@@ -29,6 +29,16 @@ faq:
     a: "Als ZZP'er kun je starten met een gratis CRM zoals HubSpot (gratis) of Notion (gratis plan). Betaalde CRM's voor ZZP'ers kosten doorgaans tussen 10 en 30 euro per maand. Pipedrive begint bij ~$14 per gebruiker per maand en Freshsales bij $15 per gebruiker per maand."
   - q: "Kan ik een CRM ook op mijn telefoon gebruiken?"
     a: "Ja, alle CRM-systemen in dit artikel bieden een mobiele app of zijn via de mobiele browser toegankelijk. HubSpot, Pipedrive en Freshsales hebben uitstekende mobiele apps waarmee je onderweg klantgegevens kunt inzien, notities kunt toevoegen en deals kunt bijwerken."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Zoho CRM"
+    url: "https://www.zoho.com/nl/crm/"
+    price: "14.00"
 ---
 
 Eerlijk? De meeste ZZP'ers die ik spreek hebben geen CRM nodig. Een spreadsheet volstaat prima als je vijf vaste klanten hebt. Maar zodra je actief acquireert, offertes verstuurt en leads opvolgt, wordt het zonder systeem al snel een rommeltje. Een goed CRM voor ZZP'ers helpt je overzicht te houden. Voor die groep heb ik de 6 beste CRM-opties op een rij gezet -- inclusief gratis opties die verrassend goed zijn. Wil je ook weten welke andere software ZZP'ers nodig hebben? Bekijk dan het volledige overzicht van de [beste software voor ZZP'ers 2026](/blog/beste-software-zzp-2026/).

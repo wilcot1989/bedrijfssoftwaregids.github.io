@@ -39,6 +39,16 @@ faq:
     a: "AFAS Profit is de desktop-versie (on-premise of hosted), AFAS Online is de volledig cloudgebaseerde variant. Tegenwoordig kiest AFAS voor de cloudomgeving als standaard. Bestaande Profit-gebruikers migreren geleidelijk naar de cloudomgeving."
   - q: "Heeft AFAS een affiliate programma?"
     a: "Nee, AFAS heeft geen publiek affiliate- of partnerprogramma voor websites. AFAS werkt met een netwerk van gecertificeerde implementatiepartners die de software verkopen en implementeren."
+products:
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 Ik kende AFAS eigenlijk alleen van naam toen een klant me vroeg te helpen bij de implementatie van een nieuw HR- en loonadministratiesysteem. Het bedrijf had 50 medewerkers — een middelgrote bouwonderneming in de regio Utrecht — en de accountant van de eigenaar had AFAS aanbevolen. Sterk aanbevolen, eigenlijk. AFAS was de enige optie die hij wilde overwegen.

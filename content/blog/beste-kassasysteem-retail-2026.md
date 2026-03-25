@@ -29,6 +29,16 @@ faq:
     a: "Ja, de meeste moderne kassasystemen bieden omnichannel-koppelingen. Lightspeed heeft een eigen webshop-module. Square koppelt soepel met Shopify en WooCommerce. SumUp en CCV bieden API-koppelingen. De beste setup is een systeem dat voorraad, bestellingen en klantdata real-time synchroniseert tussen je winkel en webshop."
   - q: "Hoe lang duurt het om een kassasysteem te installeren?"
     a: "Instapsystemen (Square, SumUp) zijn binnen een dag operationeel: app downloaden, account aanmaken, hardware ontvangen en klaar. Middenklasse systemen (Lightspeed) vergen 3-5 dagen voor het importeren van productcatalogi en training. Enterprise-systemen (Untill, CCV Full Service) vereisen 1-5 werkdagen voor installatie en training."
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Ik heb de afgelopen jaren tientallen kassasystemen getest en geïmplementeerd bij Nederlandse retailers. Van de kapster op de hoek tot de kledingketen met vijf filialen — het juiste kassasysteem maakt een wereld van verschil. Een slecht systeem kost je dagelijks tijd, frustratie en uiteindelijk geld. Een goed systeem bespaart je uren per week aan administratie.

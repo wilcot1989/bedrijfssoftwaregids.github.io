@@ -23,6 +23,16 @@ tags:
   - marketing
   - b2b
 affiliate: false
+products:
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
 ---
 
 Je hebt een mooie nieuwsbrief samengesteld, het verzendmoment zorgvuldig gekozen en de campagne verstuurd. En dan bereikt de e-mail de helft van je lijst niet. Ze belanden in de spamfolder, de promotietab of worden stil geblokkeerd zonder dat de ontvanger het merkt. Een hoog openpercentage helpt je niets als de e-mail de inbox niet haalt.

@@ -33,6 +33,16 @@ faq:
     a: "fENNA biedt 1 maand gratis proberen. e-Boekhouden biedt een 15-dagentrail, maar heeft ook een startersregeling: ben je pas gestart (KvK-inschrijving jonger dan 15 maanden), dan gebruik je e-Boekhouden tot 15 maanden volledig gratis."
   - q: "Heeft fENNA een OCR-functie voor bonnetjes scannen?"
     a: "Nee. fENNA heeft geen OCR of scan-en-herken-functionaliteit. Als je veel bonnetjes wilt scannen via je telefoon, is dit een serieus gemis. e-Boekhouden heeft een basale scan-functie, en Moneybird heeft verreweg de sterkste bonnetjesscanner."
+products:
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 {{< sector-cta-boekhouding >}}

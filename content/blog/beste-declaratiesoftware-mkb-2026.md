@@ -31,6 +31,16 @@ faq:
     a: "Ja, alle serieuze declaratiesoftware heeft een configureerbare goedkeuringsflow. Je stelt in wie welke declaraties moet goedkeuren (bijv. direct leidinggevende tot €500, financieel manager boven €500). Declaraties boven een drempelbedrag gaan automatisch naar het volgende goedkeuringsniveau. Goedkeuring kan via app of e-mail, wat het proces versnelt voor managers onderweg."
   - q: "Is declaratiesoftware AVG-proof voor Nederlandse bedrijven?"
     a: "De Nederlandse en Europese tools (Declaree, Rydoo, Moss) slaan data op binnen de EU en zijn ontworpen met AVG-compliance in het achterhoofd. SAP Concur biedt EU-dataopslag als optie voor Europese klanten. Expensify (Amerikaans bedrijf) heeft Europese servers maar verwerkt data deels in de VS — vraag altijd naar de verwerkersovereenkomst en datalocatie bij implementatie."
+products:
+- name: "Clockify"
+  url: "https://clockify.me/"
+  price: "0.00"
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 Bij een groothandel die ik begeleidde, verloor de financiële afdeling gemiddeld acht uur per week aan het verwerken van declaraties. Medewerkers stuurden foto's van bonnetjes via WhatsApp, Excel-sheets gingen heen en weer, en de boekhouder moest alles handmatig overtypen in Exact Online. Na de implementatie van de juiste declaratiesoftware daalde de verwerkingstijd met 85 procent. Declaraties werden dezelfde dag goedgekeurd en automatisch doorgestuurd naar de boekhouding.

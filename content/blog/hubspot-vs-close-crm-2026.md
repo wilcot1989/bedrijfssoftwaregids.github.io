@@ -29,6 +29,16 @@ faq:
     a: "Ja, HubSpot heeft een ingebouwde belmodule, maar de serieuze belfuncties zoals een Power Dialer zijn er niet. Voor teams die 30+ calls per dag doen is Close CRM duidelijk superieur. HubSpot's belfunctie is meer een handige aanvulling dan een volwaardige inside sales tool."
   - q: "Welke CRM heeft betere marketing automation — HubSpot of Close?"
     a: "HubSpot is hier veruit de sterkste. E-mailcampagnes, lead nurturing flows, landing pages, lead scoring — dit is HubSpot's kernkracht. Close heeft sterke sales sequences, maar echte marketing automation ontbreekt. Als marketing automation prioriteit is, kies dan HubSpot."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Close CRM"
+    url: "https://refer.close.com/p2kcrnz6lksy"
+    price: "35.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
 ---
 
 Twee jaar geleden begeleidde ik een softwarebedrijf in Amsterdam bij een essentiële keuze. Ze hadden [HubSpot](/blog/hubspot-prijzen-2026/), betaalden €450 per maand voor 5 gebruikers, en vroegen zich af waarom hun SDR-team zo weinig deals sloot. Nadat ik een dag meekeek, was het antwoord duidelijk: ze gebruikten een marketingplatform voor inside sales. Ze schakelden over naar [Close CRM](/blog/close-crm-review-2026/). De belprestaties gingen met 40% omhoog in het eerste kwartaal.

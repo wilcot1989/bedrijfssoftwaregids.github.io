@@ -24,6 +24,16 @@ faq:
     a: "Zendesk heeft geen specifiek Nederlands support team. Support verloopt in het Engels via tickets. De interface is wel beschikbaar in het Nederlands."
   - q: "Is Zendesk AVG/GDPR-compliant?"
     a: "Ja, Zendesk is AVG-compliant en biedt een Data Processing Agreement. Data kan worden opgeslagen in de EU (Frankfurt datacenter). Dit is belangrijk voor Nederlandse bedrijven."
+products:
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
 ---
 
 Zendesk is de bekendste naam in klantenservice software. Maar bekendheid betekent niet automatisch de beste keuze voor jouw bedrijf. Ik gebruik Zendesk nu al een paar jaar en heb ook andere platforms uitgebreid getest. In deze review geef ik je een eerlijk beeld: wat werkt goed, waar loop je tegenaan, en voor wie is het echt geschikt.

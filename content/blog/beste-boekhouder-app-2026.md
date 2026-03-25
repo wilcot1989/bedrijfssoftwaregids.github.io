@@ -29,6 +29,16 @@ faq:
     a: "De meeste boekhoudsoftware biedt een gratis mobiele app als onderdeel van je abonnement. Je hebt dus geen apart abonnement nodig. Moneybird, Exact Online, e-Boekhouden en Jortt bieden allemaal mobiele apps bij hun standaardpakketten."
   - q: "Kan ik facturen versturen vanuit een boekhoud-app?"
     a: "Ja, alle boekhoud-apps in dit artikel ondersteunen het aanmaken en versturen van facturen. Je kunt facturen maken met je eigen logo en huisstijl, en deze direct per e-mail versturen naar je klant. Moneybird en FreshBooks bieden hier de beste mobiele ervaring voor."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "Jortt"
+    url: "https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl="
+    price: "0.00"
 ---
 
 Een van mijn klanten deed zijn hele boekhouding op zondagavond achter de laptop. Tot ik hem liet zien dat een goede boekhoud-app alles verandert: bonnetjes direct na een zakenlunch scannen en facturen versturen vanuit de trein. De juiste boekhoud-app bespaart je niet alleen tijd, het voorkomt dat bonnetjes verdwijnen en facturen blijven liggen. Dit zijn de 5 beste boekhoud-apps die ik daarvoor aanbeveel.

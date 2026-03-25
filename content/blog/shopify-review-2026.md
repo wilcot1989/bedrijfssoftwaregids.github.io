@@ -31,6 +31,16 @@ faq:
     a: "Ja, Shopify ondersteunt Nederlandse taal voor je winkel en de checkout. De beheerinterface (het dashboard) is echter in het Engels. Voor de klantzijde kun je via Shopify's vertalingsfuncties of de Translate & Adapt-app je winkel volledig in het Nederlands zetten. Let wel: niet alle apps en thema's zijn volledig in het Nederlands beschikbaar."
   - q: "Shopify of Mijnwebwinkel: wat is beter voor een Nederlandse webshop?"
     a: "Mijnwebwinkel is volledig Nederlandstalig, heeft ingebouwde iDEAL zonder extra kosten en is goedkoper voor kleine Nederlandse webshops. Shopify is beter bij internationale verkoop, heeft een veel groter app-ecosysteem en schaalt beter bij hogere omzetten. Ben je puur op Nederland gericht en verwacht je onder de €5.000 omzet per maand? Dan is Mijnwebwinkel waarschijnlijk de betere keuze. Wil je internationaal of snel groeien? Dan wint Shopify."
+products:
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "Wix"
+    url: "https://www.wix.com/"
+    price: "17.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
 ---
 
 Shopify is het antwoord dat ik geef als een klant mij vraagt welke webshop software "gewoon werkt". En ik heb dat antwoord de afgelopen jaren meerdere keren gegeven. Een kledingmerk dat in drie maanden van nul naar €30.000 omzet groeide, een import-bedrijf dat naast Nederland ook Duitsland en België aanschreef, een ZZP'er die haar handgemaakte sieraden online wilde verkopen: stuk voor stuk heb ik ze op Shopify gezet.

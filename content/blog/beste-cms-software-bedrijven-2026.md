@@ -26,6 +26,16 @@ faq:
     a: "Contentful is uitstekend voor bedrijven die content op meerdere kanalen willen publiceren of een maatwerk front-end willen bouwen. Het is echter overkill voor een eenvoudige bedrijfswebsite. Voor puur NL gebruik is WordPress of Webflow makkelijker en goedkoper."
   - q: "Kan ik later een webshop toevoegen aan mijn CMS-website?"
     a: "Ja. WordPress (met WooCommerce), Webflow (met ingebouwde e-commerce) en Drupal (met Commerce-module) ondersteunen e-commerce. Wil je een volwaardige webshop, dan is een dedicated platform als Shopify echter krachtiger en eenvoudiger te beheren."
+products:
+  - name: "Wix"
+    url: "https://www.wix.com/"
+    price: "17.00"
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
 ---
 
 Als ik bedrijven adviseer over hun online aanwezigheid, is de vraag welk CMS ze moeten kiezen altijd uitdagender dan het lijkt. Niet omdat de tools slecht zijn, maar omdat de antwoorden zo uiteen lopen: een advocatenkantoor heeft andere eisen dan een marketingbureau, en een internationaal SaaS-bedrijf kiest anders dan een lokale dienstverlener.

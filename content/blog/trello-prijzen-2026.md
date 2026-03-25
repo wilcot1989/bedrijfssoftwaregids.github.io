@@ -28,6 +28,16 @@ faq:
     a: "Trello is uitstekend voor eenvoudig Kanban-gebaseerd taakbeheer. Het mist echter native Gantt-charts (alleen via Power-Up), onbeperkte automatiseringen op lagere plannen en gedetailleerde rapportages. Voor complexe projecten met afhankelijkheden is Asana of ClickUp beter geschikt."
   - q: "Wat is het verschil tussen Trello en Asana?"
     a: "Trello is goedkoper ($5/gebruiker/maand vs. $10,99), eenvoudiger in gebruik maar minder krachtig. Asana heeft betere tijdlijn-views, taakafhankelijkheden, portfoliobeheer en rapportages. Trello past bij teams die Kanban willen; Asana bij teams die uitgebreide projectplanning nodig hebben."
+products:
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
 ---
 
 Trello is het eerste projectmanagement-tool dat ik ooit gebruikte. In 2013 hing ik digitale post-its op een virtueel bord en dacht dat projectmanagement nooit eenvoudiger kon zijn. Anno 2026 is Trello nog steeds het meest intuïtieve Kanban-tool op de markt — maar de prijzen zijn de afgelopen jaren veranderd, de Power-Ups zijn herstructureerd en de concurrentie is scherper geworden.

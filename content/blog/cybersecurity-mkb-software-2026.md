@@ -31,6 +31,16 @@ faq:
     a: "Steeds meer ja. De gemiddelde schade van een cyberaanval op een MKB bedraagt €50.000-€200.000 (inclusief herstelkosten, juridische kosten, boetes en omzetderving). Een cyberverzekering kost €500-€3.000 per jaar voor het MKB, afhankelijk van omzet en sector. De meeste zakelijke aansprakelijkheidsverzekeringen dekken cyberincidenten NIET — controleer dit altijd bij je verzekeraar."
   - q: "Wat moet ik doen als mijn bedrijf gehackt is?"
     a: "1) Isoleer getroffen systemen: koppel ze direct los van het netwerk. 2) Bel een incident response specialist (NFIR, Fox-IT, Northwave actief in Nederland). 3) Doe aangifte bij de politie (Team High Tech Crime). 4) Meld een datalek bij de Autoriteit Persoonsgegevens binnen 72 uur als er persoonsgegevens zijn gelekt. 5) Informeer je verzekeraar. 6) Communiceer intern en extern (klanten, leveranciers) indien nodig."
+products:
+  - name: "NordVPN Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "8.00"
+  - name: "NordPass Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "3.99"
+  - name: "Kaspersky Business"
+    url: "https://www.kaspersky.nl/small-to-medium-business-security"
+    price: "5.00"
 ---
 
 Drie maanden geleden sprak ik een eigenaar van een installatiebedrijf met vijftien medewerkers. Zijn bedrijf was getroffen door ransomware. Alle projectbestanden, offertes en klantdata versleuteld. Herstelkosten: €80.000. Downtime: drie weken. Klanten verloren: twee grote contracten.

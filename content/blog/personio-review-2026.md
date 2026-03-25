@@ -37,6 +37,16 @@ faq:
     a: "Ja, de recruiting-module van Personio is een van de sterkste onderdelen van het platform. Je krijgt multiposting naar vacaturesites, een volwaardige kandidatenpipeline, geautomatiseerde e-mails en integraties met LinkedIn. Voor MKB-bedrijven die een serieuze wervingsoplossing zoeken zonder apart ATS-abonnement, is dit een groot pluspunt."
   - q: "Wat zijn de beste alternatieven voor Personio?"
     a: "De beste alternatieven voor Personio in Nederland zijn: AFAS (breder ERP-platform, inclusief salarisadministratie), Nmbrs (sterk in salarisadministratie, simpeler dan AFAS), en HoorayHR (toegankelijker voor kleine bedrijven, Nederlandse focus). Welk alternatief het beste past, hangt af van je bedrijfsgrootte, budget en of salarisadministratie een vereiste is."
+products:
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 Ik was aanvankelijk sceptisch over Personio. Een Duits HR-platform dat de Nederlandse markt op stormt, met de belofte dat het de 'HR-hub voor het MKB' is — dat klinkt als marketingpraat die ik inmiddels goed herken. In mijn werk als software consultant hoor ik dit soort beloftes regelmatig, en ze kloppen zelden helemaal.

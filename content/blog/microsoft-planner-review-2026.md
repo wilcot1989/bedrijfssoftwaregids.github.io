@@ -30,6 +30,16 @@ faq:
     a: "Planner (Kanban + basisplanning) is inbegrepen in Microsoft 365 Business Basic ($6/gebruiker/maand), Microsoft 365 Business Standard ($12,50/gebruiker/maand) en hogere plannen. De uitgebreide Planner-functies zoals tijdlijn en rapportages vereisen Microsoft 365 E3/E5 of een aparte Project Plan-add-on."
   - q: "Wat zijn de beste alternatieven voor Microsoft Planner?"
     a: "Als je buiten het Microsoft-ecosysteem wilt stappen: Monday.com (meest flexibel, sterkste automatiseringen), Asana (beste structuur voor projectteams) en Trello (goedkoopste Kanban-alternatief). Als je binnen Microsoft wilt blijven maar meer functionaliteit wilt: Microsoft Project voor complexe planning."
+products:
+  - name: "Microsoft Planner"
+    url: "https://www.microsoft.com/nl-nl/microsoft-365/business/task-management-software"
+    price: "5.60"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Ik zie het bij bijna elk MKB-bedrijf dat ik adviseer: ze betalen al voor Microsoft 365, maar gebruiken voor projectbeheer toch Monday.com of Asana. "Want Planner werkt niet goed genoeg." Maar klopt dat nog steeds in 2026?

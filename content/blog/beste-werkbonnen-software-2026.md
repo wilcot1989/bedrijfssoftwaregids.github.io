@@ -26,6 +26,16 @@ faq:
     a: "Absoluut. Formdesk en MoreApp beginnen zelfs met een gratis plan of goedkoop startersabonnement. Ook een installatiebedrijf met twee monteurs kan direct aan de slag zonder grote investering."
   - q: "Wat is het verschil tussen een werkbon en een servicebon?"
     a: "Functioneel zijn het hetzelfde. Een werkbon is de term die vooral in de bouw en technische installatiesector wordt gebruikt; een servicebon of serviceorder is gangbaarder in de servicebranche en facilitaire dienstverlening. De software voor beide is inwisselbaar."
+products:
+- name: "Clockify"
+  url: "https://clockify.me/"
+  price: "0.00"
+- name: "Shiftbase"
+  url: "https://www.shiftbase.com/nl/"
+  price: "3.00"
+- name: "Monday.com"
+  url: "https://monday.com/"
+  price: "9.00"
 ---
 
 Ik spreek regelmatig met eigenaren van installatiebedrijven, dakdekkers en onderhoudsbedrijven die nog altijd werken met papieren werkbonnen. De monteur schrijft alles met de hand op, rijdt de bon naar kantoor, en twee dagen later zit iemand alles over te typen in de administratie. En dat terwijl die bon ondertussen al een keer nat is geworden in een kofferbak.

@@ -20,6 +20,16 @@ faq:
 tags:
   - marketing
   - mkb
+products:
+  - name: "Google Optimize"
+    url: "https://optimize.google.com/"
+    price: "0.00"
+  - name: "VWO"
+    url: "https://vwo.com/"
+    price: "199.00"
+  - name: "Optimizely"
+    url: "https://www.optimizely.com/"
+    price: "79.00"
 ---
 
 Vorig jaar begeleidde ik een installatiebedrijf uit Apeldoorn bij het optimaliseren van hun offerteaanvraagpagina. Ze hadden een fatsoenlijk aantal bezoekers, maar de conversie bleef steken op 2,1 procent. Mijn eerste vraag was altijd: "Heb je ooit iets getest?" Het antwoord kende ik al: nee.

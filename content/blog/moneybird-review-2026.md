@@ -40,6 +40,16 @@ faq:
     a: "MoneyMonk is gebouwd voor freelancers en ZZP'ers met projectbeheer als kern: uren schrijven, projecten bewaken en facturen koppelen aan opdrachten. Moneybird focust op boekhouding met facturatie als sterkste functie. MoneyMonk kost €9-19/maand en is goedkoper. Moneybird is completer qua boekhouding en heeft een betere bankkoppeling. Als je veel met projecten en urenregistratie werkt, past MoneyMonk beter. Als boekhouding en BTW-aangifte de kern zijn, is Moneybird sterker."
   - q: "Is Moneybird geschikt voor een stichting?"
     a: "Moneybird kan technisch worden gebruikt door een stichting, maar heeft geen specifieke stichtingsfuncties zoals subsidie-administratie of fondsenbeheer. Kleine stichtingen met een eenvoudige administratie — inkomsten, uitgaven, bankimport — kunnen er prima mee uit de voeten. Grotere stichtingen met meerdere projecten en rapportageplichten aan subsidieverstrekkers hebben meer aan een pakket als Exact Online."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Vier weken geleden besloot ik Moneybird opnieuw van nul af aan te testen voor deze Moneybird review. Niet even snel rondklikken, maar echt: een complete administratie inrichten, facturen versturen, bonnetjes scannen en de BTW-aangifte doorlopen. De reden? Ik kreeg steeds dezelfde vraag van lezers: "Is Moneybird echt zo goed als iedereen zegt, of is het vooral goede marketing?"

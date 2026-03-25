@@ -21,6 +21,16 @@ tags:
   - kassasysteem
   - horeca
 affiliate: false
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 De maandprijs die een kassasysteem adverteert is het makkelijkste deel van de kostenvergelijking. Wat ondernemers vaker verrast zijn de kosten die er later bijkomen: hardware, transactiefees, support, updates en afschrijvingen. Die kunnen de werkelijke jaarkosten twee tot drie keer zo hoog maken als de geadverteerde prijs.

@@ -29,6 +29,16 @@ faq:
     a: "Klaviyo is significanta beter dan Mailchimp voor e-commerce. De e-commerce data-integratie is dieper, de segmentatie-mogelijkheden uitgebreider en de automation-flows krachtiger. Mailchimp heeft een betere email editor en een meer uitgebreid gratis plan. Voor serieuze webshops is Klaviyo de betere keuze; voor nieuwsbrieven aan niet-kopers is Mailchimp prima."
   - q: "Slaat Klaviyo data op in de EU?"
     a: "Klaviyo slaat data standaard op in de VS. Ze bieden echter een EU-datacenter optie. Je moet actief kiezen voor EU-dataopslag bij account-aanmaak of door je accountinstellingen te wijzigen. Dit is relevant voor AVG-compliance, met name als je EU-persoonsgegevens verwerkt van consumenten."
+products:
+- name: "Klaviyo"
+  url: "https://www.klaviyo.com/"
+  price: "20.00"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
 ---
 
 Ik heb tientallen email marketing tools getest en voor e-commerce webshops ben ik keer op keer bij dezelfde conclusie: Klaviyo is de beste keuze. Niet omdat het goedkoop is — dat is het niet — maar omdat het de meest complete e-commerce data-integratie heeft van alle tools op de markt.

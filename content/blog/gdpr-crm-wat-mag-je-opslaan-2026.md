@@ -30,6 +30,16 @@ faq:
     a: "Voor B2B e-mailmarketing in Nederland geldt een opt-out regime bij bestaande klantrelaties: je mag marketingberichten sturen als de relatie redelijkerwijs relevant is, zolang je een eenvoudige afmeldmogelijkheid biedt. Voor nieuwe zakelijke contacten zonder eerdere relatie is toestemming vereist. Voor consumenten is altijd een actieve opt-in vereist."
   - q: "Wat zijn de risico's als je CRM niet AVG-compliant is?"
     a: "De Autoriteit Persoonsgegevens kan boetes opleggen tot 4% van de wereldwijde jaaromzet of 20 miljoen euro. Maar de praktische risico's zijn minstens zo groot: reputatieschade, verlies van klantvertrouwen en schadeclaims. Bij kleine bedrijven zijn boetes lager, maar ook een waarschuwing of dwangsom kan schade veroorzaken."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 Een van de meest gestelde vragen die ik krijg van mkb-ondernemers die starten met een CRM: "Mag ik dit eigenlijk opslaan?" Ze weten dat de AVG bestaat, maar de regels zijn vaag genoeg om verwarring te zaaien. En die verwarring leidt soms tot twee extremen: bedrijven die te weinig opslaan (en daardoor waardevolle klantinformatie missen) of bedrijven die alles opslaan zonder nadenken (en AVG-problemen riskeren).

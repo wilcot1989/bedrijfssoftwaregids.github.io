@@ -23,6 +23,16 @@ faq:
     a: "Zoho CRM heeft Zia, een uitgebreide AI-assistent die voorspellende analyses, sentimentanalyse en automatische taakprioritering biedt. Pipedrive heeft AI-gestuurde salestips en activiteitsaanbevelingen. Zoho wint op AI-diepgang; Pipedrive's AI is praktischer georiënteerd."
   - q: "Kan ik van Pipedrive naar Zoho CRM overstappen?"
     a: "Ja, maar het vereist planning. Zoho CRM heeft een migratietool voor het importeren van contacten, deals en activiteiten. Verwacht een migratie van een halve tot hele dag afhankelijk van de dataomvang. Beide systemen ondersteunen CSV-import en -export."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Zoho CRM"
+    url: "https://www.zoho.com/nl/crm/"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Een klant van me heeft drie jaar geleden [Zoho CRM](/blog/zoho-crm-review-2026/) geïmplementeerd. Twee jaar geleden zat ik in dezelfde ruimte toen hij zijn salesmanager uitlegde waarom ze toch overstapten naar [Pipedrive](/blog/pipedrive-review-2026/). Niet omdat Zoho slecht was — maar omdat zijn team het gewoon niet gebruikte. "Te veel opties, te weinig focus," zei hij. Dat vat het verschil tussen deze twee CRM's eigenlijk perfect samen. Pipedrive is gebouwd voor sales; Zoho CRM is gebouwd voor alles. Of dat een voordeel of nadeel is, hangt helemaal af van jouw situatie.

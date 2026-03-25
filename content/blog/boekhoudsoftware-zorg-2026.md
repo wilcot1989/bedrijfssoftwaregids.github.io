@@ -28,6 +28,16 @@ faq:
     a: "Declaraties bij zorgverzekeraars verlopen doorgaans via Vecozo (voor erkende zorgaanbieders) of via directe portalen van verzekeraars. Dat is een apart systeem van je boekhoudsoftware. Wat je in de boekhouding verwerkt is de ontvangen betaling: je maakt een verkoopfactuur (of inkomstenboeking) aan per declaratiebatch. Exact Online heeft koppelingen met zorgspecifieke declaratiesoftware; voor andere pakketten gebruik je een exportbestand."
   - q: "Wat kost boekhoudsoftware voor een zorgpraktijk per jaar?"
     a: "Voor een zorg-ZZP'er of kleine praktijk liggen de kosten tussen €10 en €50 per maand. e-Boekhouden is de goedkoopste optie met ca. €9,95/mnd. Moneybird kost ca. €15/mnd voor het basispakket. SnelStart Web Compleet kost ca. €16/mnd. Exact Online begint bij ca. €49/mnd maar biedt meer capaciteit voor grotere praktijken. Twinfield loopt via een accountant."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Als ik praat met een fysiotherapeut die net zijn eigen praktijk is begonnen, of met een verpleegkundige die als ZZP'er bij meerdere zorginstellingen werkt, komen er altijd twee vragen: hoe declareer ik correct bij de zorgverzekeraar, en hoe verwerk ik die gekke BTW-vrijstelling in mijn administratie? Boekhoudsoftware voor de zorg is niet ingewikkeld, maar het vraagt wel een andere instelling dan boekhouding voor een webwinkel of consultant. In dit overzicht bespreek ik de vijf pakketten die het meest gebruikt worden door zorgprofessionals in Nederland — met eerlijke aandacht voor wat elke tool wel en niet kan.

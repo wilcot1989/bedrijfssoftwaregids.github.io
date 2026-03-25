@@ -23,6 +23,16 @@ tags:
   - boekhouding
   - zzp
 affiliate: false
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
 ---
 
 De BTW-aangifte is voor de meeste Nederlandse ondernemers elk kwartaal een terugkerende administratieve verplichting. Wie het goed heeft ingericht, is er in twintig minuten klaar. Wie het verkeerd heeft ingericht, besteedt uren aan het nazoeken van bonnetjes, het handmatig optellen van bedragen en het vervolgens corrigeren van fouten die er achteraf toch in zaten.

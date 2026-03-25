@@ -30,6 +30,16 @@ faq:
     a: "Ja, Shiftbase heeft een iOS en Android app voor medewerkers. Via de app kunnen medewerkers het rooster bekijken, beschikbaarheid doorgeven, verlof aanvragen en in- en uitklokken. De app wordt goed beoordeeld: gemiddeld 4,2 sterren in beide stores."
   - q: "Wat is het verschil tussen Shiftbase en Dyflexis?"
     a: "Shiftbase en Dyflexis zijn beide Nederlandse planningstools voor het MKB. Shiftbase is breder inzetbaar en sterker in HR-integraties (AFAS, Nmbrs). Dyflexis is sterker in horeca en retail door kassasynckoppelingen en omzetgedreven planning. Qua prijs zijn ze vergelijkbaar. Voor de meeste niet-horecabedrijven is Shiftbase de betere keuze."
+products:
+- name: "Shiftbase"
+  url: "https://www.shiftbase.com/nl/"
+  price: "3.00"
+- name: "Planday"
+  url: "https://www.planday.com/nl/"
+  price: "2.49"
+- name: "Clockify"
+  url: "https://clockify.me/"
+  price: "0.00"
 ---
 
 Een eigenaar van een schoonmaakbedrijf met 35 medewerkers belde me vorig jaar (lees ook mijn complete overzicht van [software voor schoonmaakbedrijven](/blog/software-schoonmaakbedrijven-2026/)). Hij vroeg of ik zijn Excel-chaos kon oplossen: zes tabbladen per maand, WhatsApp-groepen per ploeg, handmatige overboekingen naar Nmbrs elke maand. Twee uitzendkrachten en een ziekte hadden hem de week daarvoor drie uur gekost aan roosterwijzigingen.

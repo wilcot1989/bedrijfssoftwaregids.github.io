@@ -20,6 +20,16 @@ faq:
 tags:
   - boekhouding
   - mkb
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Een tijdje terug sprak ik een ondernemer — eigenaar van een klein installatiebedrijf met vier medewerkers — die drie maanden aan factuurhistorie kwijt was. Niet door een hack, niet door een servercrash, maar door een migratie die misliep.

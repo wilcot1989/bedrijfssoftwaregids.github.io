@@ -28,6 +28,16 @@ faq:
     a: "De meeste ZZP'ers met minder dan 20 banktransacties per maand hebben genoeg aan het Starter-plan van €15/mnd. Heb je een drukke agenda, veel kleine uitgaven of een zakelijke rekening met veel mutaties, dan is Growth (€28/mnd) de veilige keuze. Professional is voor de meeste ZZP'ers overkill."
   - q: "Is Moneybird goedkoper dan e-Boekhouden of SnelStart?"
     a: "e-Boekhouden biedt een instapplan vanaf €8,95/mnd (geen bankkoppeling) en is daarmee goedkoper voor beginners. SnelStart Web Compleet kost circa €16/mnd — vrijwel gelijk aan Moneybird Starter. Exact Online begint pas bij €49/mnd en is duidelijk duurder. Jortt zit op €19/mnd met onbeperkte transacties."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Vorig jaar belde een klant van me — Pieter, eigenaar van een klein communicatiebureau — in paniek. Zijn boekhouder had bij de jaarafsluiting ontdekt dat zijn administratie drie maanden lang niet gesynchroniseerd had met zijn bankrekening. Moneybird had hem nooit gewaarschuwd. De reden: hij zat op het Starter-plan, overschreed maandelijks zijn limiet van 20 banktransacties, en had het simpelweg niet in de gaten.

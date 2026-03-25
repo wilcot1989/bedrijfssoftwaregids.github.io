@@ -28,6 +28,16 @@ faq:
     a: "Ja, ClickUp is op elk niveau goedkoper. ClickUp Unlimited ($7/gebruiker/maand) vs. Asana Starter ($10,99/gebruiker/maand) — bijna 40% goedkoper. ClickUp Business ($12/gebruiker/maand) is goedkoper dan Asana Advanced ($24,99/gebruiker/maand). Bovendien heeft ClickUp native tijdregistratie ingebouwd."
   - q: "Heeft ClickUp een minimum aantal seats?"
     a: "Nee, ClickUp heeft geen minimum aantal seats op betaalde plannen. Je betaalt alleen voor de gebruikers die je toevoegt. Dat maakt het veel vriendelijker voor kleine teams dan Monday.com, dat een minimum van 3 seats hanteert."
+products:
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Drie jaar geleden adviseerde ik een IT-bureau in Rotterdam om van Asana naar ClickUp te stappen. Niet omdat Asana slecht is, maar omdat ClickUp bij hun 12-koppige team maandelijks $45 goedkoper uitkwam én tijdregistratie al ingebouwd had. Ze bespaarden $540 per jaar en hoefden Harvest niet meer te betalen.

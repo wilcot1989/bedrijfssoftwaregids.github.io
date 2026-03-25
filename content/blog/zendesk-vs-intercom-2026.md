@@ -24,6 +24,16 @@ faq:
     a: "Zendesk Explore (Professional) biedt diepgaandere rapportages en custom dashboards. Intercom heeft goede standaard rapportages maar minder flexibiliteit voor diepgaande analyses."
   - q: "Welke tool migreert gemakkelijker?"
     a: "Beide tools hebben migratiehulpmiddelen, maar Zendesk heeft meer third-party importeurs. Intercom's data-exportmogelijkheden zijn goed. De moeilijkheid hangt af van je huidige systeem."
+products:
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
 ---
 
 Zendesk of Intercom: twee van de bekendste namen in klantenservice software. Ze zijn allebei krachtig, maar ze zijn fundamenteel anders van opzet. De verkeerde keuze kan je duizenden euro's per jaar kosten en je team frustreren. In dit artikel leg ik de twee platforms naast elkaar op alle relevante criteria — zodat jij de juiste keuze kunt maken.

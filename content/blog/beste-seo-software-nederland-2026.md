@@ -23,6 +23,16 @@ faq:
     a: "Absoluut voor technische SEO. Screaming Frog crawlt je website zoals Googlebot dat doet en vindt broken links, duplicate content, ontbrekende meta-tags, omleidingsketens en meer. De gratis versie (max 500 URL's) is voldoende voor kleine websites. Voor grote sites (1000+ pagina's) is de licentie van £209/jaar bijna verplicht."
   - q: "Werkt Ubersuggest goed voor Nederlandse zoekwoorden?"
     a: "Ubersuggest werkt voor basiszoekwoordenonderzoek in het Nederlands, maar de database is kleiner dan Semrush of Ahrefs. Long-tail zoekwoorden en niche-markten zijn minder goed gedekt. Voor een eerste analyse prima, voor serieuze concurrentieanalyse aanvullen met Semrush of Ahrefs."
+products:
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
 ---
 
 Ik weet nog goed wanneer ik voor het eerst een SEO-tool opende. De hoeveelheid data was overweldigend: tientallen tabbladen, honderden metrics, rapporten die rapporten genereerden. Na drie jaar gebruik van meerdere tools weet ik: je hebt veel minder nodig dan je denkt, maar wat je gebruikt moet je écht begrijpen en actief toepassen.

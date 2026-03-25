@@ -30,6 +30,16 @@ faq:
     a: "Exact Online is de betere keuze voor groeiende MKB-bedrijven. Het biedt modules voor CRM, voorraad, projectbeheer en HRM die je kunt toevoegen wanneer je ze nodig hebt. Moneybird is primair boekhoudsoftware en biedt deze uitbreidingen niet. Als je verwacht binnen twee jaar meer dan alleen boekhouden nodig te hebben, kies dan Exact."
   - q: "Bieden Moneybird en Exact Online allebei automatische BTW-aangifte?"
     a: "Ja, beide pakketten berekenen automatisch je BTW op basis van je boekingen en laten je de aangifte direct indienen bij de Belastingdienst. Exact Online ondersteunt daarnaast ICP-opgave en Intrastat voor internationale handel. Voor reguliere binnenlandse BTW-aangifte merk je in de praktijk geen verschil."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Moneybird vs Exact Online -- de twee grootste namen in Nederlandse boekhoudsoftware naast elkaar. Op Trustpilot scoort Moneybird een 3.5/5 (181 reviews) — gebruikers waarderen het gemak. Exact Online heeft een 2.7/5 (644 reviews) — de klachten gaan vooral over prijsverhogingen en een soms trage interface. Ik krijg deze vergelijking minstens twee keer per week op mijn bureau. En eerlijk gezegd snap ik de twijfel, want het zijn fundamenteel andere producten die toevallig allebei je boekhouding doen.

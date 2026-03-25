@@ -28,6 +28,16 @@ faq:
     a: "Jortt heeft de bankkoppeling standaard inbegrepen in alle betaalde pakketten en staat bekend om de snelste en meest betrouwbare koppeling. Moneybird en e-Boekhouden bieden ook een solide bankkoppeling. fENNA sluit aan op meer dan 100 banken via open banking."
   - q: "Wat zijn de grootste nadelen van SnelStart ten opzichte van concurrenten?"
     a: "De drie voornaamste klachten zijn: een gedateerde interface die minder intuïtief is dan Moneybird of Jortt, beperkte integraties met externe tools zoals Shopify, Mollie of CRM-systemen, en basale rapportages zonder mogelijkheid voor maatwerk dashboards of diepgaande analyses."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
 ---
 
 SnelStart is al decennialang een van de meest vertrouwde namen in de Nederlandse boekhoudsoftware. Het bestaat al sinds 1981 en maakt onderdeel uit van Visma — een van de grootste softwaregroepen van Europa. Die stabiliteit en betrouwbaarheid zijn echte pluspunten.

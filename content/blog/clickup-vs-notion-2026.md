@@ -35,6 +35,16 @@ faq:
     a: "Ja, sommige teams gebruiken ClickUp voor actief projectbeheer en Notion als kennisbase en documentatieplatform. Er is een native ClickUp-Notion integratie via Zapier en andere tools. Dit werkt maar creëert duplicatie: je hebt twee tools met overlappende functies. Overweeg of de combinatie écht meerwaarde biedt of dat één platform volstaat."
   - q: "Welke tool is makkelijker te leren, ClickUp of Notion?"
     a: "Beide tools hebben een leercurve, maar op verschillende vlakken. ClickUp overweldigt met functies: er zijn zoveel opties dat nieuwe gebruikers verloren raken. Notion vraagt conceptueel begrip: je moet begrijpen hoe databases werken voordat je er effectief mee werkt. Mijn ervaring: ClickUp duurt langer om in te richten, Notion duurt langer om te begrijpen. Beide tools vragen 1-2 weken voordat een team echt productief is."
+products:
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Notion"
+    url: "https://www.notion.so/"
+    price: "9.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 ClickUp vs Notion — dit is de vergelijking die ik het vaakst zie bij teams die zoeken naar één centrale tool voor al hun werk. Begrijpelijk: beide tools worden gepromoot als "doe-alles" platforms. Maar de nadruk is fundamenteel anders, en die nuance bepaalt welke tool bij jou past.

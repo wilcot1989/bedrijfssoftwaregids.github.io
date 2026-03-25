@@ -29,6 +29,16 @@ faq:
     a: "Ja, dat is precies waar Zoho sterk in is. Het Zoho-ecosysteem omvat Zoho Books (facturatie), Zoho Campaigns (e-mail), Zoho Projects, Zoho Desk en tientallen andere apps die direct koppelen met Zoho CRM. Als je meerdere Zoho-apps gebruikt, is de integratie een serieus voordeel tegenover close-staande tools."
   - q: "Wat is het grootste nadeel van Close CRM?"
     a: "Het grootste nadeel van Close CRM is het gebrek aan marketing automation en een breder ecosysteem. Close is een gespecialiseerde sales tool en doet sales uitstekend, maar voor marketing, klantenservice of facturatie heb je aparte tools nodig. Ook de beperkte Nederlandse interface en het ontbreken van een gratis plan zijn nadelen voor bepaalde teams."
+products:
+  - name: "Zoho CRM"
+    url: "https://www.zoho.com/nl/crm/"
+    price: "14.00"
+  - name: "Close CRM"
+    url: "https://refer.close.com/p2kcrnz6lksy"
+    price: "35.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
 ---
 
 Vorig jaar begeleidde ik een fintech-startup in Rotterdam bij hun CRM-keuze. Ze hadden twee finalisten: Zoho CRM en Close CRM. De CEO wilde Zoho omdat het "alles deed voor weinig geld." De salesmanager wilde Close omdat zijn team "leefde en stierf bij de telefoon."

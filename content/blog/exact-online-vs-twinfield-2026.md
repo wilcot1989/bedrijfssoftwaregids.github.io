@@ -30,6 +30,16 @@ faq:
     a: "Twinfield is beter voor meerdere administraties. Het is specifiek ontworpen voor het beheren van meerdere administraties met eenvoudig schakelen, consolidatie en vergelijkingsrapportages. Exact Online kan ook meerdere administraties aan, maar dit vereist aparte abonnementen per administratie."
   - q: "Heeft Exact Online of Twinfield een betere klantenservice?"
     a: "Exact Online biedt telefonische support, chat en een uitgebreide kennisbank. Twinfield leunt meer op haar netwerk van accountantspartners voor support. In de praktijk lopen klantenserviceklachten bij beide pakketten via de implementatiepartner of accountant — directe support van de softwareleverancier zelf wordt minder vaak ingezet."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Exact Online vs Twinfield is de vergelijking die ik het vaakst maak voor klanten. Op Trustpilot scoort Exact Online een 2.7/5 (644 reviews) versus Twinfield een 1.8/5 (slechts 17 reviews — te weinig om conclusies aan te verbinden). Het korte antwoord: Exact als je meer wilt dan alleen boekhouden, Twinfield als je accountant de lead neemt en je meerdere administraties beheert. Maar er zit meer nuance in dan dat. In deze Exact Online vs Twinfield vergelijking zet ik beide pakketten punt voor punt naast elkaar.

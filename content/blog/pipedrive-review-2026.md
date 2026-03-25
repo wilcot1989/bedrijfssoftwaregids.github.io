@@ -31,6 +31,16 @@ faq:
     a: "De mobiele app is een van de sterkste punten van Pipedrive. Je beheert deals, logt activiteiten, belt contacten, stuurt e-mails en werkt offline. Vertegenwoordigers die veel onderweg zijn, noemen de app standaard als een van hun favoriete functies."
   - q: "Voor welk Pipedrive-plan moet ik kiezen?"
     a: "Voor de meeste teams is Advanced (€34/gebruiker/mnd) de beste startplek: e-mailsync, automatiseringen en de meeting scheduler zijn inbegrepen. Heb je uitgebreide rapportages en revenue forecasting nodig, kies dan Professional (€49/gebruiker/mnd). Solo-ondernemers en ZZP'ers komen goed weg met Essential."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 Ik gebruik Pipedrive al bijna vijf jaar in mijn eigen praktijk als software consultant, en het is het CRM dat ik het vaakst aanbeveel aan verkoopteams in het Nederlandse MKB. Niet omdat het perfect is -- dat is het niet -- maar omdat het beter dan welk ander pakket ook doet waar het voor bedoeld is: deals bijhouden en verkopen structureren zonder dat het systeem meer werk vraagt dan het oplevert.

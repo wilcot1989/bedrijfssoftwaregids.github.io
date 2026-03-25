@@ -22,6 +22,16 @@ tags:
   - zzp
   - mkb
 affiliate: true
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Vorige maand sprak ik een ondernemer die al drie jaar op hetzelfde boekhoudprogramma zat. Hij betaalde €44 per maand. Ik vroeg hem hoeveel facturen hij per maand verstuurde. "Tien? Twaalf misschien." En of hij personeel had. "Nee, gewoon ik alleen." Dan betaalt hij bijna €500 per jaar te veel.

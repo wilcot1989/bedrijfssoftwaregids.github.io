@@ -28,6 +28,16 @@ faq:
     a: "Nee, gratis antivirus is niet geschikt voor zakelijk gebruik. Gratis versies bieden geen centrale beheerconsole, geen ondersteuning, geen compliance-rapportages en veel minder detectiemogelijkheden. Voor een bedrijf ben je wettelijk verplicht persoonsgegevens te beschermen onder de AVG — gratis antivirus voldoet hier niet aan."
   - q: "Wat is het verschil tussen antivirus en endpoint detection & response (EDR)?"
     a: "Traditionele antivirus detecteert bekende malware op basis van handtekeningen. EDR gaat verder: het monitort gedrag, detecteert onbekende bedreigingen, geeft inzicht in aanvalspaden en biedt respons-mogelijkheden. Voor het MKB is antivirus met gedragsdetectie vaak voldoende. EDR is relevanter voor bedrijven met gevoelige data of een actief IT-securityteam."
+products:
+  - name: "Kaspersky Business"
+    url: "https://www.kaspersky.nl/small-to-medium-business-security"
+    price: "5.00"
+  - name: "NordVPN Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "8.00"
+  - name: "NordPass Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "3.99"
 ---
 
 Vorig jaar testte ik voor een klant — een accountantskantoor met twaalf medewerkers — vijf zakelijke antivirusproducten naast elkaar. Ze wilden weten: welk product biedt de beste bescherming zonder de IT-productiviteit te kelderen?

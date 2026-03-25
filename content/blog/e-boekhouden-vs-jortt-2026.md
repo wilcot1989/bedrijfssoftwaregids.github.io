@@ -23,6 +23,16 @@ faq:
     a: "Een volledige migratie van openstaande posten, klantgegevens en historische boekingen duurt gemiddeld 2-8 uur afhankelijk van de omvang van je administratie. Beide aanbieders hebben importtools voor CSV-bestanden."
   - q: "Hebben e-Boekhouden en Jortt een mobiele app?"
     a: "e-Boekhouden heeft een mobiele app voor iOS en Android. Jortt werkt primair via de browser en heeft een beperkte mobiele weergave, maar geen volwaardige native app."
+products:
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "Jortt"
+    url: "https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl="
+    price: "0.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
 ---
 
 Vorig jaar hielp ik een fotograaf die al drie jaar zijn administratie deed op papier. Letterlijk: een schrift met inkomsten en uitgaven. Hij was klaar voor software, maar had geen idee waar hij moest beginnen. Ik heb hem uiteindelijk door drie pakketten geleid voordat we tot een beslissing kwamen. [e-Boekhouden](/blog/e-boekhouden-review-2026/) en [Jortt](/blog/beste-boekhoudsoftware-zzp-2026/) kwamen allebei voorbij — en het verschil was groter dan ik van tevoren had verwacht. In dit artikel leg ik precies uit waar die twee van elkaar verschillen, welke prijs je echt betaalt, en welk pakket past bij wat voor soort ondernemer.

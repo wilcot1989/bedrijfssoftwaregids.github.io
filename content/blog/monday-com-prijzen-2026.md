@@ -28,6 +28,16 @@ faq:
     a: "Voor teams van 3-10 personen is Standard ($14/gebruiker/maand, jaarlijks) het meest logische instapplan. Je krijgt tijdlijn/Gantt-views, automatiseringen en integraties, wat ontbreekt in Basic. Basic is eigenlijk alleen interessant als je uitsluitend een digitaal taakbord wil zonder automatiseringen."
   - q: "Heeft Monday.com een gratis plan?"
     a: "Ja, Monday.com heeft een permanent gratis plan voor maximaal 2 gebruikers. Je krijgt 200 items, 3 borden, een Kanban-view en beperkte opslag. Er is ook een 14 dagen gratis trial van het Pro-plan zodat je alle betaalde functies kunt testen."
+products:
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
 ---
 
 Een ondernemer uit Utrecht belde me vorig jaar. Zijn team van vier mensen had Monday.com Basic afgesloten — hij had berekend dat het $48 per maand zou kosten. Zijn eerste factuur was $54. Het verschil? Het minimum van 3 seats betekende dat hij $36 per maand betaalde voor de laagste dekking, maar voor zijn vierde gebruiker moest hij opschalen naar 5 seats — Monday.com verkoopt seats in stappen. Uiteindelijk betaalde hij voor 5 seats terwijl hij er 4 gebruikte.

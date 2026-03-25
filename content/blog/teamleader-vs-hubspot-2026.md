@@ -28,6 +28,16 @@ faq:
     a: "Teamleader Focus heeft een duidelijk voordeel voor het Nederlandse en Belgische MKB. De software is ontwikkeld in de Benelux, met Nederlandse boekhoudeisen ingebouwd, een Nederlandse interface en lokale support. HubSpot is Amerikaans en richt zich meer op internationale of marketingintensieve bedrijven."
   - q: "Wat is een goed alternatief voor zowel Teamleader als HubSpot?"
     a: "Als je puur naar CRM en salespijplijn zoekt zonder de projectbeheer- en facturatiefuncties van Teamleader, dan is Pipedrive een uitstekend alternatief. Pipedrive is gebruiksvriendelijker dan HubSpot, eerlijker geprijsd en scoort 4.5/5 op Trustpilot. Het integreert goed met boekhoudsoftware als Exact Online."
+products:
+  - name: "Teamleader"
+    url: "https://www.teamleader.eu/nl"
+    price: "50.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
 ---
 
 Teamleader Focus of HubSpot — het is een vergelijking die ik regelmatig tegenkom bij Nederlandse dienstverleners en bureaus. Aan de ene kant een Belgisch alles-in-één platform dat CRM, projecten en facturatie bundelt. Aan de andere kant een Amerikaans CRM-gigant met een gratis instapoptie en de sterkste marketingtools ter markt.

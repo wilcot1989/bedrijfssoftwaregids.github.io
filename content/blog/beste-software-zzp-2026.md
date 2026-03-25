@@ -25,6 +25,16 @@ faq:
     a: "Moneybird is het populairst vanwege de gebruiksvriendelijkheid. e-Boekhouden biedt de beste prijs-kwaliteit (vanaf 9,95 euro). InformerOnline is het best als je met een boekhouder werkt. Lees mijn uitgebreide vergelijking van de beste boekhoudsoftware voor ZZP'ers voor alle details."
   - q: "Moet ik als ZZP'er een CRM gebruiken?"
     a: "Als je meer dan 10 klanten hebt of regelmatig offertes verstuurt, bespaart een CRM je serieus tijd. HubSpot CRM is gratis en perfect voor ZZP'ers die hun klantcontacten willen organiseren. Werk je met minder dan 10 klanten? Dan volstaat een spreadsheet."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Als ZZP'er draai je alles zelf: klanten binnenhalen, het werk uitvoeren, facturen versturen, je administratie bijhouden en ondertussen ook nog je planning bewaken. De juiste ZZP tools maken het verschil tussen een weekendklus aan administratie en een kwartiertje per week.

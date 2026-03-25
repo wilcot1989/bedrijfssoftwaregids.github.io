@@ -24,6 +24,16 @@ faq:
     a: "Zendesk biedt via het Zendesk for Startups programma gratis toegang voor in aanmerking komende startups (max 6 maanden). Non-profits kunnen korting aanvragen via het Zendesk for Good programma."
   - q: "Hoe vergelijkt Zendesk qua prijs met Freshdesk?"
     a: "Freshdesk is goedkoper dan Zendesk: de gratis versie is al bruikbaar en betaalde plannen starten vanaf €15/agent/maand. Zendesk biedt meer functies maar kost significant meer."
+products:
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Intercom"
+  url: "https://www.intercom.com/"
+  price: "29.00"
 ---
 
 Zendesk staat bekend om krachtige functionaliteit — en hoge prijzen. Maar wat kost het precies? En welk plan heb je echt nodig? Ik heb alle plannen doorgespit, de addertjes onder het gras gevonden en zet alles voor je op een rij.

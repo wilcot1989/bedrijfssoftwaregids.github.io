@@ -27,6 +27,16 @@ faq:
     a: "Ja, Google Drive Business (onderdeel van Google Workspace) biedt enterprise-grade beveiliging: encryptie in transit en at rest, 2FA, audit logs, DLP (data loss prevention), en compliance met ISO 27001, SOC 2/3 en GDPR."
   - q: "Heb ik een DMS nodig of volstaat een gedeelde map op de server?"
     a: "Een gedeelde map mist versiebeheer, zoekfunctionaliteit, toegangscontrole en samenwerking. Zodra je team groeit boven 5 personen of je documenten kritisch zijn (contracten, financieel), is een DMS essentieel. Het voorkomt documentverlies, versieconflicten en ongeautoriseerde toegang."
+products:
+  - name: "SharePoint"
+    url: "https://www.microsoft.com/nl-nl/microsoft-365/sharepoint/"
+    price: "5.10"
+  - name: "Google Workspace"
+    url: "https://workspace.google.com/intl/nl/"
+    price: "5.75"
+  - name: "Dropbox Business"
+    url: "https://www.dropbox.com/business"
+    price: "12.00"
 ---
 
 Bij vrijwel elk MKB-bedrijf waar ik binnenkom, stel ik dezelfde vraag: "Waar staat versie X van contract Y?" En vrijwel altijd volgt er een ongemakkelijke stilte, gevolgd door zoeken in drie mailboxen en een gedeelde map. Documentbeheer software voorkomt die chaos. Dit zijn de 5 systemen die ik aanraad. Wil je ook je projecten en teamtaken rondom documentbeheer organiseren? Lees dan over de [beste projectmanagement software 2026](/blog/beste-projectmanagement-software-2026/).

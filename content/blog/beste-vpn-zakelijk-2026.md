@@ -28,6 +28,16 @@ faq:
     a: "Een zakelijke VPN veroorzaakt een snelheidsverlies van 5-20% afhankelijk van het protocol en de serverlocatie. Voor normale kantoorapplicaties (e-mail, Office, Teams) is dit niet merkbaar. Voor videobellen kan het bij slechte VPN-configuratie hinder geven. NordVPN met het NordLynx-protocol (WireGuard) heeft het laagste snelheidsverlies van de markt."
   - q: "Is een VPN voldoende voor AVG-compliance?"
     a: "Een VPN is één onderdeel van AVG-compliance, niet voldoende op zichzelf. De AVG vereist passende technische maatregelen voor databeveiliging. Een VPN beschermt datatransport, maar u hebt ook endpoint-beveiliging, toegangsbeheer en beleid nodig. Een VPN draagt bij aan compliance maar vervangt andere maatregelen niet."
+products:
+  - name: "NordVPN Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "8.00"
+  - name: "NordPass Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "3.99"
+  - name: "Kaspersky Business"
+    url: "https://www.kaspersky.nl/small-to-medium-business-security"
+    price: "5.00"
 ---
 
 De meeste ondernemers weten pas dat ze een VPN nodig hebben nadat het fout is gegaan. Een medewerker werkt in een café op een open wifi-netwerk. Een klantpresentatie met gevoelige omzetcijfers loopt over een onbeveiligde verbinding. Iemand onderschept de data.

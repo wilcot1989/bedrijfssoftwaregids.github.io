@@ -21,6 +21,16 @@ faq:
   - q: "Is een verzuimverzekering een alternatief voor goede verzuimregistratie?"
     a: "Nee, een verzuimverzekering dekt de financiële schade van loondoorbetaling, maar ontslaat je niet van de wettelijke verplichting tot correcte WVP-naleving. Sterker nog: veel verzuimverzekeraars stellen als voorwaarde dat je aantoonbaar aan de WVP-verplichtingen hebt voldaan. Wie geen goed dossier kan overleggen riskeert ook nog afwijzing van de verzekeringsclaim bovenop de al opgelegde loonsanctie."
 affiliate: false
+products:
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 Verzuim is een van de duurste kostenposten voor Nederlandse werkgevers. Een medewerker die twee weken ziek is, kost een MKB-bedrijf al snel EUR 3.000 tot EUR 5.000 in loondoorbetaling, vervanging en productiviteitsverlies. Wie bovenop de ziekte ook nog de verplichtingen van de Wet Verbetering Poortwachter mist, riskeert een loonsanctie van het UWV: de loondoorbetalingsplicht wordt dan met een heel jaar verlengd. Dat is bij een modaal salaris al snel EUR 30.000 tot EUR 40.000 extra.

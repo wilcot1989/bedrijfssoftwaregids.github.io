@@ -28,6 +28,16 @@ faq:
     a: "ActiveCampaign is het sterkst voor B2B-bedrijven met een langere sales cycle en complexe nurturing-behoeften. Denk aan een SaaS-bedrijf dat leads wil scoren op basis van websitegedrag en email-engagement, of een adviesbureau dat gedragsgestuurde e-mailflows wil koppelen aan CRM-dealfasen. Als je meer dan drie geautomatiseerde flows met conditionele logica wilt bouwen, is ActiveCampaign de enige logische keuze."
   - q: "Kan ik van ActiveCampaign naar Brevo overstappen?"
     a: "Ja, de migratie is technisch haalbaar. Brevo biedt een CSV-importfunctie voor contacten, tags en segmenten. Eenvoudige automatiseringsflows kun je nabouwen in Brevo's workflow-builder. Complexe ActiveCampaign-automations met conditionele splits en lead scoring zijn echter niet volledig na te bouwen in Brevo. De overstap is zinvol als je de complexe automation niet gebruikt en primair wilt besparen op kosten."
+products:
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
 ---
 
 Brevo vs ActiveCampaign -- dit is de vergelijking die ik het meest krijg van MKB-ondernemers die email marketing serieus willen aanpakken maar niet weten of ze een krachtig, duur platform nodig hebben of een betaalbaar, compleet alternatief. Het zijn twee fundamenteel verschillende visies op email marketing: ActiveCampaign bouwt de krachtigste automation-machine op de markt, Brevo bouwt een betaalbaar alles-in-een platform met onbeperkt contacten en een ingebouwd CRM. Na tientallen implementaties van beide tools bij Nederlandse bedrijven kan ik je vertellen dat de keuze zelden vanzelfsprekend is -- en dat de meest gemaakte fout is dat ondernemers te veel betalen voor functies die ze nooit gebruiken.

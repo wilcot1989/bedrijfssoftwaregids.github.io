@@ -28,6 +28,16 @@ faq:
     a: "Uren van onderaannemers registreer je normaal gesproken op basis van hun facturen: die boek je als inkoopkosten. Wil je ook zelf de gewerkte uren bijhouden voor nacalculatie, dan heb je een urenregistratietool nodig die koppelt met je boekhoudsoftware. Exact Online heeft een ingebouwde urenmodule. Voor andere pakketten zijn tools als TimeCamp, Timetac of Togel goede aanvullingen."
   - q: "Wat kost boekhoudsoftware voor een kleine aannemer per jaar?"
     a: "Voor een bouw-ZZP'er of kleine aannemer rekenen de meeste pakketten tussen de €10 en €50 per maand. e-Boekhouden is het goedkoopst met ca. €9,95/mnd. SnelStart kost ca. €16/mnd voor het basispakket. Exact Online begint bij ca. €49/mnd voor de basisversie; een volledige projectmodule voor bouwbedrijven kost aanzienlijk meer. Twinfield loopt via je accountant en valt daarmee onder het accountantstarief."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Als ik praat met een timmerman die net zijn eigen zaak is begonnen, hoor ik steevast hetzelfde: de administratie is een noodzakelijk kwaad. Materialen inkopen, uren bijhouden, facturen sturen, BTW aangifte doen — en dan ook nog eens uitzoeken wat een klus nou echt heeft opgebracht. Boekhoudsoftware voor bouwbedrijven is niet gelijk aan boekhoudsoftware voor een consultant of webwinkel. De sector heeft eigen vereisten: projectkostenregistratie per klus, BTW-verlegging bij onderaanneming, G-rekening-administratie en nacalculatie. In dit overzicht bespreek ik de vijf pakketten die het meest gebruikt worden door bouw-ZZP'ers en kleine aannemers in Nederland — met eerlijke aandacht voor wat ze wel en niet kunnen.

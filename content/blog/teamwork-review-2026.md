@@ -35,6 +35,16 @@ faq:
     a: "Ja, Teamwork biedt een Gantt-chart met taakafhankelijkheden, milestones en een tijdlijn-weergave. De Gantt is beschikbaar vanaf het Deliver-plan ($9,99/gebruiker/maand). Vergeleken met Wrike's Gantt is die van Teamwork iets minder uitgebreid (geen kritiek-pad-analyse), maar voldoende voor de meeste agencyprojecten."
   - q: "Welke integraties heeft Teamwork?"
     a: "Teamwork integreert met 100+ tools, waaronder Slack, HubSpot, Salesforce, QuickBooks, Xero, Google Workspace, Microsoft 365, Dropbox, Harvest, Zapier en Stripe. De QuickBooks- en Xero-integraties zijn bijzonder waardevol voor bureaus die facturatie willen koppelen aan hun boekhouding."
+products:
+  - name: "Teamwork"
+    url: "https://www.teamwork.com/"
+    price: "10.99"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Er zijn honderden projectmanagement tools, maar slechts een handvol is specifiek gebouwd voor de unieke uitdagingen van een bureau of agency. Teamwork is er een van — en het heeft mijn verwachtingen overtroffen op precies de punten die ertoe doen.

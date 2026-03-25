@@ -31,6 +31,16 @@ faq:
     a: "Ja, beide bieden ESS. Medewerkers kunnen zelf loonstroken bekijken, verlof aanvragen en persoonlijke gegevens bijwerken. Nmbrs heeft een moderne ESS-app. AFAS heeft InSite als medewerkerportaal, dat uitgebreider is maar ook complexer om in te stellen."
   - q: "Welke integraties bieden Nmbrs en AFAS?"
     a: "Nmbrs integreert met populaire boekhoudprogramma's zoals Exact, Twinfield en Unit4. AFAS integreert primair binnen het eigen ecosysteem en heeft een open API. Voor bedrijven die al AFAS gebruiken voor financieel beheer, is AFAS Payroll logischer. Voor bedrijven met andere boekhoudtools is Nmbrs flexibeler."
+products:
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
 ---
 
 Salarissoftware kiezen is een beslissing die je niet te licht moet nemen. Een fout in de salarisverwerking zorgt voor directe onvrede onder medewerkers, en een migratie naar een ander systeem halverwege het jaar is een administratief avontuur. Nmbrs en AFAS Payroll zijn de twee meest gebruikte opties in het Nederlandse mkb-segment — maar ze zijn fundamenteel verschillend in aanpak, filosofie en prijs.

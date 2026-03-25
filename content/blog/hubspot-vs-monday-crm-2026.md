@@ -21,6 +21,16 @@ faq:
     a: "Ja, via de Monday-HubSpot integratie of Zapier kun je data tussen beide platformen synchroniseren. Sommige bedrijven gebruiken HubSpot voor marketing en Monday CRM voor projectopvolging na de deal. Dat werkt, maar verhoogt wel de complexiteit."
   - q: "Welk CRM heeft een beter gratis plan?"
     a: "HubSpot heeft een permanent gratis CRM-plan met contactbeheer, deals en beperkte e-mail. Monday CRM biedt alleen een 14-daagse gratis proefperiode. Als budget je belangrijkste criterium is, kun je met HubSpot Free starten -- maar houd rekening met beperkingen op automatisering en rapportages."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
 ---
 
 HubSpot vs Monday CRM -- een vraag die ik steeds vaker krijg van Nederlandse MKB-ondernemers. Logisch ook: beide platforms richten zich op groeiende bedrijven, maar ze pakken het totaal anders aan. HubSpot is het alles-in-een marketingplatform dat ook een CRM heeft. Monday CRM is de flexibele nieuwkomer die vanuit projectmanagement het CRM-domein betrad.

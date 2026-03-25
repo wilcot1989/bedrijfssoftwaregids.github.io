@@ -24,6 +24,16 @@ tags:
   - zzp
   - vergelijking
 affiliate: false
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Veel ondernemers stellen de vraag op het verkeerde moment: niet voor ze een boekhouder inschakelen, maar jaren later als ze de jaarrekening zien. Een externe boekhouder kost voor een eenmanszaak al snel EUR 1.800 tot EUR 4.000 per jaar. Boekhoudsoftware kost een fractie daarvan. Toch is software niet altijd de juiste keuze -- een goedkope keuze aan het begin kan later duur uitpakken als je meer complexiteit krijgt dan het systeem aankan.

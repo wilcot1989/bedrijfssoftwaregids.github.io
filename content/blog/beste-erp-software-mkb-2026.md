@@ -37,6 +37,16 @@ faq:
     a: "Voor bouwbedrijven zijn de sterkste keuzes Exact Online Manufacturing of Afas. Exact Online heeft specifieke projectmodules voor calculatie, meerwerk en nacalculatie die de bouwsector goed kennen. Afas scoort hoog op urenregistratie en salarisadministratie voor flexibele arbeid. Voor grotere aannemers is ook Dynamics 365 met een bouw-specifieke add-on (zoals Bouwconnect of Trimble) een serieuze optie."
   - q: "Welk ERP systeem past bij een productiebedrijf?"
     a: "SAP Business One is mijn eerste advies voor productiebedrijven: de MRP-module (Material Requirements Planning) en werkorderafhandeling zijn klasse apart. Dynamics 365 Business Central Premium is een goed alternatief dat minder implementatiekosten meebrengt. Odoo heeft een verrassend sterke productiefunctie (Manufacturing-module) voor technisch onderlegde bedrijven met een kleiner budget."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
 ---
 
 ERP-implementaties staan bekend als duur en pijnlijk, en eerlijk gezegd: dat klopt regelmatig. Maar ik heb ook genoeg MKB-bedrijven geholpen die na de overstap naar een goed ERP-systeem eindelijk real-time inzicht kregen in hun cijfers en uren per week bespaarden op handmatig overtypen. De truc is het juiste ERP-systeem kiezen voor jouw schaal. Dit zijn de 5 ERP-oplossingen die ik voor het Nederlandse MKB aanbeveel. Wil je ook je CRM-processen integreren naast je ERP? Lees dan het overzicht van de [beste CRM software voor Nederland 2026](/blog/beste-crm-software-nederland-2026/).

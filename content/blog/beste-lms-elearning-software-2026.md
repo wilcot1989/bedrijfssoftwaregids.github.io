@@ -32,6 +32,16 @@ faq:
     a: "De meeste LMS-systemen in dit overzicht hebben een ingebouwde content editor voor eenvoudige tekst- en videocursussen. Voor professionele SCORM-content heb je een apart authoring tool nodig, zoals Articulate 360 of Adobe Captivate. TalentLMS heeft een basiseditor die voldoet voor eenvoudige cursussen. Docebo en 360Learning integreren met externe authoring tools. Moodle heeft eigen content-tools maar is minder gebruiksvriendelijk."
   - q: "Hoe lang duurt de implementatie van een LMS?"
     a: "Voor een standaard MKB-implementatie van TalentLMS of 360Learning reken je op 1-4 weken: platform instellen, gebruikers importeren, eerste cursussen uploaden, integraties configureren. Docebo voor een grotere organisatie vergt 4-12 weken inclusief contentontwikkeling. Moodle-implementaties variëren sterk: 2 weken voor een simpele setup, meerdere maanden voor een complexe maatwerk-omgeving. Cornerstone vergt een volledig implementatietraject van 2-6 maanden."
+products:
+  - name: "TalentLMS"
+    url: "https://www.talentlms.com/"
+    price: "69.00"
+  - name: "Docebo"
+    url: "https://www.docebo.com/"
+    price: "0.00"
+  - name: "360Learning"
+    url: "https://360learning.com/"
+    price: "8.00"
 ---
 
 Bij een IT-dienstverlener die ik begeleidde, moest elk nieuw teamlid zeven verschillende compliance-trainingen doorlopen in de eerste twee weken. Vóór de LMS-implementatie: een map met PDF's, een Excel met handmatige statusupdates, en een manager die elke week checkte of iedereen klaar was. Na implementatie van TalentLMS: automatische toewijzing per functie, herinneringen via e-mail, realtime voortgangsrapportage, en certificaten die automatisch werden gegenereerd bij afronding.

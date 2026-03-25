@@ -20,6 +20,16 @@ faq:
 tags:
   - crm
   - mkb
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 Een klant van mij — een B2B-softwarebedrijf met zo'n 15 man in dienst — stuurde vorig jaar een grote e-mailcampagne uit. Ze hadden een nieuw product gelanceerd en wilden 1.200 contacten bereiken uit hun CRM. De bouncerate na verzending? 35 procent. Van elke drie e-mails kwamen er één gewoon niet aan.

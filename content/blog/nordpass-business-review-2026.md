@@ -28,6 +28,16 @@ faq:
     a: "Ja, NordPass ondersteunt import vanuit LastPass, 1Password, Dashlane, Bitwarden, Keeper en generieke CSV-bestanden. De importtool is beschikbaar in de webapplicatie en werkt eenvoudig. Gemiddelde importtijd voor 200+ wachtwoorden: 5-10 minuten."
   - q: "Heeft NordPass een gratis versie voor bedrijven?"
     a: "NordPass biedt een gratis Teams-plan voor kleine teams, maar dit is beperkt (max 1 gedeelde kluis, geen admin-functies). Voor zakelijk gebruik met meerdere gedeelde kluizen, rechtenmanagement en activiteitsrapporten is het betaalde Business-plan (€4/gebruiker/mnd) nodig."
+products:
+  - name: "NordPass Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "3.99"
+  - name: "NordVPN Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "8.00"
+  - name: "Kaspersky Business"
+    url: "https://www.kaspersky.nl/small-to-medium-business-security"
+    price: "5.00"
 ---
 
 Ik heb NordPass geïmplementeerd bij een creatief bureau met veertien medewerkers. De reden voor de keuze was praktisch: de eigenaar wilde zelf het beheer doen, zonder IT-opleiding. Ze had goede ervaringen met NordVPN en vroeg of NordPass van hetzelfde kaliber was.

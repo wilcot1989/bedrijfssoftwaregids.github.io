@@ -22,6 +22,16 @@ faq:
     a: "Beide systemen koppelen met Thuisbezorgd, Uber Eats en Deliveroo. Lightspeed doet dit via Deliverect, Untill via directe koppelingen of partners als Deliverect en Aareon. Untill heeft met ruim 125 integraties het bredere ecosysteem, maar Lightspeed's koppelingen werken net iets soepeler in de dagelijkse praktijk."
   - q: "Kan ik Lightspeed of Untill koppelen aan mijn boekhoudsoftware?"
     a: "Ja. Lightspeed koppelt met Exact Online, Twinfield en Moneybird. Untill koppelt met Exact Online, Twinfield, AFAS en Mews. Voor de meeste Nederlandse boekhoudpakketten zit je bij beide systemen goed."
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Untill"
+  url: "https://www.untill.com/nl/"
+  price: "79.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
 ---
 
 Lightspeed vs Untill -- twee namen die altijd terugkomen als horecaondernemers mij vragen welk kassasysteem ze moeten kiezen. Ik snap de verwarring. Lightspeed is het hippe cloudsysteem op iPads dat je overal ziet staan. Untill is de stille kracht achter duizenden Nederlandse horecazaken, van strandtenten tot hotels.

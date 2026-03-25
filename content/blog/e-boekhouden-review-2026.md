@@ -30,6 +30,16 @@ faq:
     a: "e-Boekhouden is goedkoper (€9,95 vs. €15 per maand voor een vergelijkbaar pakket) en biedt telefonische support en uitgebreidere rapportages. Moneybird heeft een modernere interface, een betere mobiele app en slimmere automatische categorisering van banktransacties. Voor budgetbewuste ondernemers is e-Boekhouden de betere keuze, voor wie gebruiksgemak prioriteit geeft is Moneybird sterker."
   - q: "Is e-Boekhouden gratis voor starters?"
     a: "Ja, als je KvK-inschrijving minder dan 15 maanden oud is, kun je e-Boekhouden tot 15 maanden gratis gebruiken. Dit is het meest genereuze startersaanbod in de Nederlandse boekhoudmarkt. Na afloop betaal je het reguliere tarief vanaf €9,95 per maand."
+products:
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Mijn e-Boekhouden review in het kort: niet het mooiste pakket, wel een van de degelijkste. Vorige maand hielp ik een interieurstylist die al twee jaar met Excel haar boekhouding deed. Geen bankkoppeling, geen automatische BTW-aangifte, elk kwartaal paniek. Ik zette haar op e-Boekhouden en na een uurtje had ze haar administratie staan. Haar reactie: "Waarom heb ik dit niet eerder gedaan?"

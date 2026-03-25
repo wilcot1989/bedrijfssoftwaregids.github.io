@@ -30,6 +30,16 @@ faq:
     a: "Monday.com is populairste keuze voor marketingteams vanwege de visuele interface, contentkastelen en campagnebeheer-sjablonen. Asana is ook sterk voor marketing met zijn timeline-view en projectdashboards. ClickUp werkt goed als je ook content wil schrijven in het tool zelf via Docs."
   - q: "Welke projectmanagement tool kies je voor een bureau of agency?"
     a: "Voor bureaus adviseer ik ClickUp Business: tijdregistratie (voor klanturen) zit ingebouwd, factureerbare uren kun je instellen, en de prijs is lager dan Monday.com. Als visueel klantcontact belangrijk is, kan Monday.com ook werken. Asana Advanced is een optie voor bureaus die portfoliobeheer boven klanturenadministratie stellen."
+products:
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Ik heb de afgelopen drie jaar tientallen bedrijven geholpen bij de keuze tussen Asana, ClickUp en Monday.com. En elke keer opnieuw merk ik dat de vraag 'welke is de beste?' het verkeerde uitgangspunt is. De vraag is: welke past bij jou?

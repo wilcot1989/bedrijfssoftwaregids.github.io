@@ -28,6 +28,16 @@ faq:
     a: "Exact Online is modulair opgebouwd en ideaal voor bedrijven die beginnen met boekhouding en geleidelijk uitbreiden. Het is goedkoper en sneller te implementeren. AFAS is een volledig geïntegreerd platform, duurder, maar ook completer — zeker voor HR, salarisadministratie en complexe workflows. AFAS groeit beter mee naar grotere bedrijven (50-500 medewerkers); Exact Online is sterker voor het MKB tot 50 medewerkers."
   - q: "Kan ik van mijn huidige boekhoudpakket migreren naar ERP zonder data te verliezen?"
     a: "Ja, maar het vraagt zorgvuldige voorbereiding. De meeste ERP-leveranciers bieden migratietools voor gangbare pakketten (Moneybird, SnelStart, Twinfield). Wat je zelf moet doen: schoon je stamgegevens op (klanten, leveranciers, artikelen) voordat je migreert, want fouten in de brondata komen vergroot terug in het ERP. Plan een overlappingsperiode van minimaal een maand waarbij beide systemen parallel draaien."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl/"
+    price: "39.00"
+  - name: "AFAS"
+    url: "https://www.afas.nl/"
+    price: "0.00"
+  - name: "Odoo"
+    url: "https://www.odoo.com/nl_NL/"
+    price: "24.90"
 ---
 
 De vraag "welk ERP moet ik kiezen?" is de verkeerde vraag. De juiste vraag is: "Heb ik überhaupt een ERP nodig, en zo ja, voor welke problemen moet het een oplossing zijn?"

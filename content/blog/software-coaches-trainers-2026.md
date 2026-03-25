@@ -28,6 +28,16 @@ faq:
     a: "Ja. Calendly biedt een eenvoudige wachtlijstfunctie waarmee geïnteresseerde cliënten zich kunnen aanmelden als er geen plek beschikbaar is. Ze krijgen automatisch een melding zodra er ruimte vrijkomt. SimplyBook.me heeft een uitgebreidere wachtlijstmodule, wat handig is voor trainingen met een vaste groepsgrootte."
   - q: "Welke software combinatie raad je aan voor een teamcoach met meerdere klanten?"
     a: "Voor teamcoaches die meerdere organisaties begeleiden raad ik Pipedrive aan voor het bijhouden van relaties, trajecten en deals, Calendly Teams voor afsprakenbeheer per klantorganisatie, en Moneybird of SnelStart voor facturatie. Zoom Meetings Pro zorgt voor professionele online sessies. Deze combinatie kost circa 80 tot 100 euro per maand en groeit mee met je praktijk."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Als ik coaches en trainers spreek over hun administratie, hoor ik steeds hetzelfde verhaal: ze zijn goed in mensen verder helpen, maar de software achter de schermen is een lappendeken van Excel-sheets, WhatsApp-berichten en facturen die in een Word-document worden bijgehouden. Dat werkt tot het niet meer werkt -- en dan kost het je klanten, tijd en professioneel aanzien.

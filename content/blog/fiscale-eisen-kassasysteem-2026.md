@@ -21,6 +21,16 @@ tags:
   - kassasysteem
   - mkb
 affiliate: true
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Vorig jaar deed een klant van mij mee aan een boekenonderzoek van de Belastingdienst. Niets bijzonders, dacht hij. Zijn omzet was netjes aangegeven, de BTW-aangiften waren op tijd ingediend. Maar de inspecteur vroeg om de ruwe transactielogs van zijn kassasysteem over de afgelopen drie jaar.

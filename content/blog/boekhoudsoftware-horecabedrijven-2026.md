@@ -24,6 +24,16 @@ faq:
     a: "Niet per se. De softwarepakketten zelf kosten hetzelfde als voor andere branches, maar je hebt in de horeca vaker extra modules nodig, zoals salarisadministratie voor veel flexkrachten, kassasysteem-koppelingen en soms voorraadbeheer. Reken op €20 tot €80 per maand afhankelijk van het pakket en de modules die je nodig hebt."
   - q: "Welke boekhoudsoftware past bij Lightspeed Restaurant?"
     a: "Lightspeed Restaurant koppelt goed met Exact Online via een directe integratie, en ook met Moneybird via een koppeltool. Exact Online is de meest gebruikte combinatie voor grotere restaurants en horecaketens die Lightspeed gebruiken. Voor kleinere ondernemers die Lightspeed gebruiken, is Moneybird een toegankelijker en goedkoper alternatief."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Als ik met horecaondernemers praat over hun administratie, hoor ik altijd hetzelfde: "Het is zo veel werk." En dat klopt. Een restaurant of café heeft een complexere boekhouding dan de meeste andere mkb-sectoren. Je hebt te maken met hoog transactievolume, meerdere BTW-tarieven, flexkrachten, seizoenspieken en koppeling met je kassasysteem. Generieke boekhoudsoftware snijdt hier niet altijd het scherpst.

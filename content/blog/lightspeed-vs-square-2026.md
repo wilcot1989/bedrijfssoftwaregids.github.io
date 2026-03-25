@@ -29,6 +29,16 @@ faq:
     a: "Square. Je maakt een account aan, downloadt de app, voert je producten in en koppelt een Square Reader. Binnen een uur draai je je eerste transactie. Lightspeed vereist meer configuratie, maar is ook binnen een dag operationeel."
   - q: "Kan ik Lightspeed of Square koppelen aan mijn boekhoudsoftware?"
     a: "Lightspeed koppelt direct met Exact Online, Twinfield en Moneybird. Square heeft minder directe integraties met Nederlandse boekhoudpakketten, maar biedt koppelingen via Zapier of CSV-exports."
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Lightspeed vs Square -- welk kassasysteem past bij jouw zaak? Square is verleidelijk. Gratis software, een betaalterminal van negentien euro, en binnen een uur draai je je eerste transactie. Maar ik heb meerdere winkeliers begeleid die na zes maanden alsnog overstapten naar Lightspeed -- omdat het voorraadbeheer te beperkt werd, iDEAL ontbrak of de Engelstalige support hen gek maakte.

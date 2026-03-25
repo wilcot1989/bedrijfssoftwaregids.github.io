@@ -30,6 +30,16 @@ faq:
     a: "De drie beste alternatieven zijn Asana (beter voor niet-agile projectteams, mooiere interface), Monday.com (visueler, meer aanpasbaar, geschikt voor alle teamtypen) en Linear (lichter, sneller, populair bij moderne ontwikkelteams). Voor eenvoudige projecten is Trello een goed Atlassian-alternatief. ClickUp combineert functies van Jira en Asana."
   - q: "Werkt Jira goed samen met andere Atlassian-tools?"
     a: "Ja, de integratie met Confluence (documentatie), Bitbucket (code-repositories) en Trello is uitstekend. Als je al gebruikmaakt van Atlassian-producten, is Jira de logische keuze vanwege de soepele samenwerking. De Atlassian-suite biedt een gecombineerd abonnement dat goedkoper kan zijn dan losse tools."
+products:
+  - name: "Jira"
+    url: "https://www.atlassian.com/software/jira"
+    price: "0.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Ik zie het regelmatig bij softwareteams die ik begeleid: Jira staat op de planning als "te vervangen door iets gebruiksvriendelijkers", en een jaar later gebruiken ze het nog steeds. Niet omdat het zo makkelijk is, maar omdat het zo grondig is. Jira doet wat het belooft — mits je bereid bent de steile leercurve te beklimmen.

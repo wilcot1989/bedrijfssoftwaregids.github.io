@@ -25,6 +25,16 @@ faq:
     a: "Dat hangt af van je situatie. Verkoop je alleen via je eigen webshop met minder dan 500 producten? Dan volstaat het ingebouwde voorraadbeheer van je platform. Verkoop je via meerdere kanalen (webshop plus bol.com plus marktplaats) of heb je meer dan 1.000 SKU's? Dan loont een dedicated tool als Picqer of Exact Online."
   - q: "Kan ik later overstappen naar een ander webshopplatform?"
     a: "Ja, maar het is bewerkelijk. Je moet producten, klantdata, bestelgeschiedenis en SEO-instellingen migreren. Tools als Cart2Cart en LitExtension automatiseren een deel van het proces. Mijn advies: kies vanaf het begin een platform dat meegroeit, zodat je niet binnen twee jaar moet overstappen."
+products:
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
+  - name: "Mollie"
+    url: "https://www.mollie.com/nl"
+    price: "0.00"
 ---
 
 Welke webshop starten software heb je nodig? Meer dan alleen een platform. Het gaat om een compleet ecosysteem: hoe ontvang je betalingen, hoe verstuur je pakketten, hoe houd je voorraad bij, en hoe trek je klanten? Ik heb in de afgelopen jaren tientallen webshop-eigenaren geholpen met precies deze puzzel. Het patroon dat ik steeds terugzie: ondernemers die weken besteden aan het kiezen van een platform, maar vergeten dat de betaalprovider, verzendtool en marketingsoftware net zo bepalend zijn voor hun succes.

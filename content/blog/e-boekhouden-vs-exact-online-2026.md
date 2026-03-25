@@ -29,6 +29,16 @@ faq:
     a: "Ja, Exact Online heeft mobiele apps voor zowel iOS als Android. De apps zijn functioneel maar worden door gebruikers als minder intuïtief beoordeeld dan de desktop-versie. e-Boekhouden heeft ook een mobiele app."
   - q: "Welke boekhoudsoftware is beter voor een startend zzp'er?"
     a: "Voor een startend zzp'er is e-Boekhouden de logische keuze: lage prijs (€9,95/maand), Nederlandse interface, eenvoudig te leren, en specifiek gericht op de Nederlandse markt. Exact Online is meer dan de meeste zzp'ers nodig hebben, en de kosten zijn niet te rechtvaardigen bij een kleine administratie."
+products:
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
 ---
 
 Ik krijg deze vraag regelmatig van ondernemers die net beginnen of klaar zijn voor de volgende stap in hun administratie: [e-Boekhouden](/blog/e-boekhouden-review-2026/) of [Exact Online](/blog/exact-online-review-2026/)? Op het eerste gezicht lijkt het een makkelijke vraag — e-Boekhouden kost €9,95 per maand en Exact Online €49. Maar de keuze is genuanceerder dan de prijs alleen.

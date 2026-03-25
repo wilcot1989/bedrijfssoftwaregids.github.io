@@ -20,6 +20,16 @@ faq:
 tags:
   - boekhouding
   - zzp
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Jortt"
+    url: "https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl="
+    price: "0.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
 ---
 
 Vorig jaar sprak ik een grafisch ontwerper die al drie jaar als ZZP'er werkte. Prima inkomen, trouwe klanten, nette administratie — dacht hij. Totdat bleek dat hij de kleineondernemersregeling nooit had aangevraagd terwijl hij er volledig voor in aanmerking kwam. In die drie jaar had hij meer dan €3.200 aan BTW afgedragen die hij gewoon had mogen houden. Geen boete, geen fout — puur onwetendheid.

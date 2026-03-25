@@ -21,6 +21,16 @@ tags:
   - crm
   - mkb
 affiliate: false
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Salesforce"
+    url: "https://www.salesforce.com/nl/"
+    price: "25.00"
 ---
 
 Een CRM-systeem dat niet communiceert met de rest van je softwarestack is een eiland. Data stroomt niet door, medewerkers voeren gegevens dubbel in en rapporten geven een onvolledig beeld van de werkelijkheid. De waarde van een CRM zit niet alleen in het systeem zelf maar in de verbindingen die het legt met de tools die je dagelijks gebruikt.

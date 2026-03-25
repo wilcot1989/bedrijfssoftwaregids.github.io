@@ -28,6 +28,16 @@ faq:
     a: "Salesforce is dan de standaardkeuze. Het biedt onbeperkte aanpasbaarheid, enterprise-integraties en krachtige AI-functies (Agentforce). Wel heb je een ervaren admin nodig en zijn de kosten aanzienlijk: vanaf €25 per gebruiker per maand, maar in de praktijk veel meer."
   - q: "Kan ik mijn Pipedrive-data meenemen naar een ander CRM?"
     a: "Ja. Pipedrive biedt een CSV-export van contacten, organisaties, deals, notities en activiteiten. De meeste alternatieven hebben een importfunctie die Pipedrive-exports direct verwerkt. Plan altijd een datakwaliteitscheck voor de migratie, want dubbele contacten en ontbrekende velden zijn veelvoorkomende problemen."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
+  - name: "Salesforce"
+    url: "https://www.salesforce.com/nl/"
+    price: "25.00"
 ---
 
 Pipedrive is een uitstekend CRM — maar het is niet voor iedereen de beste keuze. Ik implementeer CRM-systemen bij Nederlandse MKB-bedrijven, en minstens een keer per maand spreek ik iemand die meer van Pipedrive verwachtte dan het levert. De klachten zijn consistent: de prijs loopt snel op, marketing automation ontbreekt praktisch volledig en er is geen native projectbeheer.

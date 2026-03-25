@@ -35,6 +35,16 @@ faq:
     a: "Ja, Basecamp biedt een 30 dagen gratis proefperiode zonder creditcardverplichting. Na de proefperiode kies je voor het betaalde plan ($99/maand) of het gratis Basecamp Personal plan met beperkte functionaliteit."
   - q: "Welke integraties ondersteunt Basecamp?"
     a: "Basecamp heeft een beperkt maar solide aanbod van native integraties: Zapier, Integromat, Automate.io, Clockify en een aantal andere tools. Via Zapier zijn 5.000+ apps te koppelen. Basecamp heeft bewust geen grote appmarktplaats — het platform is opzettelijk eenvoudig gehouden."
+products:
+  - name: "Basecamp"
+    url: "https://basecamp.com/"
+    price: "15.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Ik ben een fervent gebruiker van uitgebreide projectmanagement tools — Gantt-charts, automatiseringen, custom workflows. Dus toen ik Basecamp voor het eerst serieus testte, verwachtte ik een product dat me zou teleurstellen met zijn eenvoud. Dat was niet wat er gebeurde.

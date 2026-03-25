@@ -27,6 +27,16 @@ faq:
     a: "Bij 1-3 vacatures per jaar kun je met een spreadsheet en e-mail werken. Bij 4+ vacatures per jaar loont een ATS: je houdt overzicht, communiceert professioneler met kandidaten, en bouwt een talentpool op. Homerun (€79/maand) is een goede instap voor kleinere bedrijven."
   - q: "Wat is het verschil tussen recruitment software en HR software?"
     a: "Recruitment software (ATS) richt zich op het wervingsproces: van vacature tot aanname. HR software beheert medewerkers ná aanname: salarisadministratie, verlof, beoordelingen, ziekteverzuim. Sommige platforms (Personio, HiBob) combineren beide in één systeem."
+products:
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
 ---
 
 Een klant van mij vertelde me laatst dat ze hun beste kandidaat waren kwijtgeraakt omdat zijn sollicitatie drie weken onbeantwoord in een gedeelde mailbox lag. Dat soort verhalen hoor ik vaker dan je zou denken. ATS-software (recruitment software) voorkomt dat je talent mist door chaos in je wervingsproces. Dit zijn de 5 ATS-software oplossingen die ik aanbeveel. Wil je ook de interne communicatie verbeteren bij het onboarden van nieuwe collega's? Lees mijn vergelijking van de [beste intranet software voor MKB 2026](/blog/beste-intranet-software-mkb-2026/).

@@ -27,6 +27,16 @@ faq:
     a: "Een kennisbank (wiki) is een onderdeel van een intranet: het bevat procedures, handleidingen en bedrijfsinformatie. Een intranet is breder: het combineert kennisbank met nieuws, medewerkersprofielen, interne communicatie, links naar tools, en sociale functies (feed, likes, reacties)."
   - q: "Kan ik SharePoint als intranet gebruiken?"
     a: "Ja, SharePoint is het populairste intranet-platform voor bedrijven met Microsoft 365. Je kunt pagina's, nieuws, documentbibliotheken en links maken. Het nadeel: SharePoint vereist configuratie en beheer — het is geen kant-en-klaar intranet. Voor een mooier resultaat gebruik je een SharePoint-intranet template of een tool als Viva Connections."
+products:
+  - name: "SharePoint"
+    url: "https://www.microsoft.com/nl-nl/microsoft-365/sharepoint/"
+    price: "5.10"
+  - name: "Notion"
+    url: "https://www.notion.so/"
+    price: "8.00"
+  - name: "Confluence"
+    url: "https://www.atlassian.com/nl/software/confluence"
+    price: "5.75"
 ---
 
 Ik stel bij elk adviestraject dezelfde testvraag: "Waar vinden nieuwe medewerkers jullie procedures en handleidingen?" Als het antwoord "ergens op de gedeelde schijf" of "vraag maar aan Jan" is, weet ik genoeg. Goede intranet software voorkomt dat bedrijfskennis afhankelijk is van individuele collega's. Dit zijn de 5 intranet software oplossingen die ik voor het MKB aanbeveel.

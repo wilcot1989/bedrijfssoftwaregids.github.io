@@ -23,6 +23,16 @@ faq:
     a: "Technisch gezien wel, maar het is inefficiënt zodra je meer dan 5 medewerkers met variabele tijden hebt. Excel kent geen automatische notificaties, geen mobiele app voor medewerkers, geen verlofbeheer en geen koppeling met uren- of loonadministratie. De software verdient zichzelf terug in de eerste maand."
   - q: "Welke werkrooster software werkt het beste voor zorgorganisaties?"
     a: "Quinyx en Planday zijn het sterkst in zorg, met functies voor BIG-registratie controle, CAO-compliance en bezettingsnormen. Voor thuiszorg specifiek zijn Caren en Nedap ONS betere oplossingen, maar die zijn meer gespecialiseerde zorg-ERP dan zuivere roosterapps."
+products:
+- name: "Shiftbase"
+  url: "https://www.shiftbase.com/nl/"
+  price: "3.00"
+- name: "Planday"
+  url: "https://www.planday.com/nl/"
+  price: "2.49"
+- name: "Clockify"
+  url: "https://clockify.me/"
+  price: "0.00"
 ---
 
 Ik zie het elke week: een horecaondernemer die zijn weekrooster in een WhatsApp-groep verstuurt en vervolgens twintig berichten krijgt van medewerkers die ruilen, vrij vragen of niet kunnen. Een retailmanager die in Excel stoeiert met diensten voor 18 parttimers, elke maandag opnieuw. Een zorgcoördinator die handmatig bezettingsnormen controleert terwijl ze eigenlijk tijd nodig heeft voor haar patiënten.

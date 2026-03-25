@@ -28,6 +28,16 @@ faq:
     a: "Jira is primair gebouwd voor softwareteams (agile development, sprints, bugs bijhouden). Er zijn Jira-sjablonen voor businessteams en HR, maar de interface blijft technisch. Voor niet-softwareteams is Asana, Monday.com of ClickUp toegankelijker."
   - q: "Wat zijn de verborgen kosten van Jira?"
     a: "De grootste verborgen kosten zijn Atlassian-apps uit de Marketplace — sommige integraties zoals Tempo Timesheets of Structure kosten $3-10/gebruiker/maand extra. Confluence (documentatie) is een apart product. Data Center-licenties zijn aanzienlijk duurder dan Cloud."
+products:
+  - name: "Jira"
+    url: "https://www.atlassian.com/software/jira"
+    price: "0.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Jira is de standaard voor softwareteams die agile werken. In mijn advieswerk kom ik het wekelijks tegen — van startups die hun eerste sprints plannen tot enterprise-organisaties met honderden developers. Maar de prijsstructuur van Jira is complexer dan die van de meeste concurrenten, want er zijn twee compleet verschillende productlijnen: Cloud en Data Center.

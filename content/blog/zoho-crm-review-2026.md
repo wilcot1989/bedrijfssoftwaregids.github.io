@@ -28,6 +28,16 @@ faq:
     a: "Ja. Zoho CRM biedt een permanent gratis plan voor maximaal 3 gebruikers met contactbeheer, een eenvoudige pipeline, taken en basisrapportages. Het is meer dan het gratis plan van de meeste concurrenten, maar mist automatisering, workflows en AI-functies."
   - q: "Is Zoho CRM geschikt voor het Nederlandse MKB?"
     a: "Ja en nee. Zoho CRM biedt uitstekende prijs-kwaliteit en uitgebreide functionaliteit die klopt voor MKB-bedrijven. Maar de ontbrekende Nederlandse interface, beperkte lokale support en steile leercurve maken het minder geschikt voor teams zonder technische achtergrond. Voor MKB-bedrijven met een IT-afdeling of een dedicated CRM-beheerder is het een serieuze keuze."
+products:
+  - name: "Zoho CRM"
+    url: "https://www.zoho.com/nl/crm/"
+    price: "14.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Ik ga eerlijk zijn over Zoho CRM: het is het CRM dat ik het vaakst onderschat zie worden, en het vaakst te vroeg afgeschreven. Bedrijven openen de software, zien twintig menu's, klikken zich vast in de instellingen en sluiten het browser-tabblad. Dat is jammer, want achter die drempel zit een van de krachtigste CRM-systemen op de markt — voor een prijs die bij de meeste concurrenten pas beschikbaar is op enterprise-niveau.

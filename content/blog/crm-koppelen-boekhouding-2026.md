@@ -28,6 +28,16 @@ faq:
     a: "Voor bedrijven die alles in één systeem willen: ja, Teamleader is eenvoudiger en goedkoper dan twee losse tools koppelen. De nadelen: je bent afhankelijk van één leverancier, en de CRM en boekhoudmodule zijn allebei minder uitgebreid dan gespecialiseerde tools. Pipedrive is een sterkere CRM dan de Teamleader-CRM; Moneybird of Exact zijn sterkere boekhoudtools dan de Teamleader-boekhouding. Wat je kiest hangt af van hoe uitgebreid je behoeften zijn."
   - q: "Hoe voorkom ik dubbele klantgegevens na de koppeling?"
     a: "Maak duidelijke afspraken over welk systeem de 'master' is voor klantgegevens. Mijn advies: het CRM is de master voor klantinformatie (naam, adres, contactpersoon); de boekhouding krijgt die gegevens alleen via de koppeling. Maak nooit handmatig een nieuwe klant aan in de boekhouding als die al in je CRM staat — dat is de bron van dubbele records. Gebruik bij twijfel een deduplicatietool om bestaande duplicaten op te ruimen."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Teamleader"
+    url: "https://www.teamleader.eu/nl"
+    price: "50.00"
 ---
 
 Twee weken geleden sprak ik een salesmanager bij een IT-dienstverlener. Hij had een probleem dat ik vaker hoor: "Als we een deal sluiten, moet iemand van finance alle klantgegevens handmatig overtypen in ons boekhoudprogramma. Dat zijn adresgegevens, BTW-nummer, contactpersoon — alles opnieuw invoeren wat we al in Pipedrive hebben staan."

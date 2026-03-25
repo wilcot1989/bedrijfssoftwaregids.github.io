@@ -35,6 +35,16 @@ faq:
     a: "Niet verplicht, maar sterk aanbevolen. Jira en Confluence zijn gebouwd om samen te werken. Confluence biedt documentatie, technische specificaties en projectdocumenten die je direct aan Jira-issues kunt koppelen. Veel Jira-gebruikers missen documentatiefunctionaliteit en lossen dit op met Confluence. Zonder Confluence bewaar je documentatie in een losse tool, wat inefficiënt is."
   - q: "Welke tool kies ik voor een startup met een mixed team?"
     a: "Dat hangt af van hoe centraal softwareontwikkeling staat. Als je team voornamelijk developers heeft die Agile werken, start dan met Jira (gratis voor 10 gebruikers). Gebruik Trello voor niet-technische teams als marketing. Als je team gemengd is zonder duidelijke dev-focus, is Monday.com of Asana een betere keuze die voor iedereen werkt."
+products:
+  - name: "Jira"
+    url: "https://www.atlassian.com/software/jira"
+    price: "0.00"
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
 ---
 
 Jira vs Trello is een vergelijking die ik regelmatig tegenkom bij startups en scale-ups die hun projectmanagement willen professionaliseren. Het verwarrende is dat beide tools van hetzelfde bedrijf zijn — Atlassian — maar ze zijn ontworpen voor fundamenteel verschillende doelgroepen en use cases.

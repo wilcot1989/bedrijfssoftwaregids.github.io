@@ -29,6 +29,16 @@ faq:
     a: "Ja, de meeste tools bieden multi-user support. Klanten kiezen dan bij het boeken welke medewerker ze willen, en de beschikbaarheid wordt per medewerker bijgehouden. De prijzen stijgen doorgaans per medewerker."
   - q: "Hoe integreer ik een boekingsknop op mijn website?"
     a: "Alle tools in dit artikel bieden een embed-code of widget die je op je website kunt plaatsen. Klanten klikken op de knop en zien direct je beschikbare tijdsloten. De integratie werkt met vrijwel elke website, inclusief WordPress, Squarespace en Wix."
+products:
+  - name: "Calendly"
+    url: "https://calendly.com/"
+    price: "10.00"
+  - name: "SimplyBook.me"
+    url: "https://simplybook.me/nl/"
+    price: "8.25"
+  - name: "Acuity Scheduling"
+    url: "https://acuityscheduling.com/"
+    price: "16.00"
 ---
 
 Ik heb het al tientallen keren gezien bij klanten: de eigenaar zit midden in een klantenafspraak terwijl de telefoon gaat voor de volgende boeking. Gemiste oproepen, dubbele afspraken, frustratie. Goede afsprakensoftware -- een online afsprakensysteem dat je agenda automatiseert -- lost dat probleem definitief op. Hier zijn de 6 tools die ik als afsprakenplanner in de praktijk het beste heb zien werken.

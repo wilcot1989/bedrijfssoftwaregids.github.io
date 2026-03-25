@@ -33,6 +33,16 @@ faq:
     a: "Technisch gezien wel, maar het is bewerkelijk. Wix exporteert geen volledige WordPress-import. Je moet content handmatig overzetten of een migratiebedrijf inhuren. Denk dus vooraf goed na over de keuze. Als je verwacht dat je ooit naar WordPress wilt, begin dan meteen met WordPress."
   - q: "Welk hosting pakket heb ik nodig bij WordPress?"
     a: "Voor een startende website is gedeelde hosting (€3-8/mnd bij SiteGround, Hostinger) voldoende. Bij meer dan 10.000 bezoekers per maand of een webshop raden we managed WordPress hosting aan (Kinsta, WP Engine: €25-50/mnd). Dat biedt betere snelheid, automatische back-ups en beveiligingsbeheer."
+products:
+  - name: "Wix"
+    url: "https://www.wix.com/"
+    price: "17.00"
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
 ---
 
 Wat is de beste websitebouwer voor het MKB? Ik zie regelmatig bedrijven die duizenden euro's hebben betaald aan een webbureau voor een website die ze vervolgens niet zelf kunnen aanpassen. In 2026 is dat nergens meer voor nodig. Met de juiste websitebouwer heb je als MKB-ondernemer in een dag een professionele site staan. Hier zijn de 5 platforms die ik aanbeveel, van simpel tot volledig maatwerk. Wil je ook je leadgeneratie en klantcontacten professionaliseren? Lees dan ook het overzicht van de [beste CRM software in Nederland 2026](/blog/beste-crm-software-nederland-2026/) voor de beste koppeling tussen je website en je verkoopproces.

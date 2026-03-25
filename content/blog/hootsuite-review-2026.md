@@ -28,6 +28,16 @@ faq:
     a: "Ja, Hootsuite heeft OwlyWriter AI voor het genereren van social media posts. Je kunt bestaande posts recyclen, variaties maken en captions laten schrijven. De kwaliteit is redelijk maar niet uitzonderlijk. Het bespaart wel tijd bij het produceren van grote hoeveelheden content."
   - q: "Wat zijn de beste alternatieven voor Hootsuite?"
     a: "De beste alternatieven voor Hootsuite in 2026 zijn: Buffer (goedkoopst, individuelen en kleine teams), Sprout Social (enterprise, beste analytics), Later (visuele planning, Instagram-focus), Metricool (goed voor MKB, betaalbaar) en SocialBee (automation, kleinere budgetten). Voor bureaus is Sprout Social of Sendible een sterke concurrent."
+products:
+- name: "Hootsuite"
+  url: "https://www.hootsuite.com/"
+  price: "99.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
 ---
 
 Hootsuite is het meest bekende social media beheer platform ter wereld. Maar bekendheid betekent niet altijd dat het de beste keuze is. En eerlijk gezegd: Hootsuite heeft de afgelopen jaren behoorlijk wat kritiek gekregen — met name op de prijsstijgingen en het afschaffen van het gratis plan.

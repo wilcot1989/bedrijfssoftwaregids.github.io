@@ -24,6 +24,16 @@ faq:
     a: "Ja, Trengo integreert met Shopify, WooCommerce, Magento en andere e-commerce platforms. Je ziet klantorder-informatie direct naast het gesprek."
   - q: "Voor welke bedrijven is Trengo het meest geschikt?"
     a: "Trengo is ideaal voor Nederlandse MKB-bedrijven van 5-50 medewerkers die klantcontact via meerdere kanalen beheren, met name WhatsApp. Webshops en servicebedrijven profiteren het meest."
+products:
+- name: "Trengo"
+  url: "https://trengo.com/nl"
+  price: "99.00"
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
 ---
 
 Als ik aan Nederlandse ondernemers klantenservice software aanraad, noem ik bijna altijd Trengo als eerste gesprekspartner. Het is een Nederlands bedrijf uit Utrecht dat in rap tempo terrein wint op de internationale concurrentie. Maar verdient het die lofbetuigingen ook? Ik heb Trengo uitgebreid getest en geef je mijn eerlijke oordeel.

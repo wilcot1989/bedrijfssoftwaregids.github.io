@@ -30,6 +30,16 @@ faq:
     a: "De belangrijkste alternatieven zijn Asana (meer structuur), ClickUp (meer functies, lager geprijsd), Trello (eenvoudiger, goedkoper), en Notion (flexibeler maar meer opzettijd). De beste keuze hangt af van je teamgrootte, budget en werkwijze."
   - q: "Kan ik Monday.com gratis uitproberen?"
     a: "Ja, op twee manieren. Het gratis plan is permanent beschikbaar voor maximaal 2 gebruikers. Daarnaast biedt Monday.com een 14 dagen gratis proefperiode van het Pro-plan, zodat je alle functies kunt testen voordat je betaalt."
+products:
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Ik heb de afgelopen drie jaar Monday.com ingezet bij minstens vijftien klantprojecten. Van een marketingbureau met 6 man tot een logistiek bedrijf met 45 medewerkers. Mijn conclusie: Monday.com is een van de meest toegankelijke projectmanagement tools die er is. Maar toegankelijk betekent niet perfect. In deze Monday.com review deel ik wat goed werkt, waar je tegenaan loopt, en voor wie het echt de moeite waard is.

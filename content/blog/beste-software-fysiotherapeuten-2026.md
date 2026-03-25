@@ -29,6 +29,16 @@ faq:
     a: "Ja, de meeste fysiotherapie-software biedt een oefenbibliotheek of koppeling met externe oefenplatforms zoals Physitrack of FysioTopics. Intramed en FysioRoadmap hebben uitgebreide oefenmodules ingebouwd. Via een patientenportaal of app kunnen patienten hun oefenprogramma thuis bekijken en bijhouden."
   - q: "Hoe lang duurt de overstap naar andere fysiotherapie-software?"
     a: "De meeste leveranciers bieden een migratietraject van 2 tot 6 weken, inclusief dataconversie van je oude EPD. Intramed en Crossuite staan bekend om begeleide overstaptrajecten waarbij je oude data wordt overgezet. Plan de overstap bij voorkeur aan het begin van een kwartaal, zodat de declaratiestroom niet wordt verstoord."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Personio"
+    url: "https://www.personio.com/nl/"
+    price: "3.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Vorige maand hielp ik een fysiotherapeut die nog met Excel-lijsten en papieren dossiers werkte. Zijn declaraties werden regelmatig afgewezen door zorgverzekeraars, hij had geen overzicht over zijn agenda en patienten moesten bellen voor een afspraak. Na de overstap naar een volledig EPD-pakket daalde zijn administratietijd met meer dan de helft. Dat soort verhalen hoor ik vaker — de juiste software maakt het verschil tussen een chaotische praktijk en een die soepel draait.

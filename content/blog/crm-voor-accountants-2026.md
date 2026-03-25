@@ -28,6 +28,16 @@ faq:
     a: "Bij Teamleader en AFAS is tijdregistratie ingebouwd en direct gekoppeld aan facturatie. Bij Pipedrive gebruik je een koppeling met een aparte urenregistratietool zoals Toggl of Harvest, via de eigen Marketplace of via Zapier. Gripp heeft tijdregistratie per project standaard ingebouwd. HubSpot heeft geen native urenregistratie, maar koppelt via integraties met tools als Harvest of Clockify."
   - q: "Wat moet ik qua AVG en audit trail regelen in mijn CRM?"
     a: "Kies een CRM met servers in de EU, ISO 27001-certificering, en de mogelijkheid om een verwerkersovereenkomst af te sluiten. Stel rolgebaseerde toegang in zodat medewerkers alleen bij de klantgegevens kunnen die ze nodig hebben. Zorg dat je een log bijhoudt van wie wanneer welke gegevens heeft ingezien of gewijzigd. Voor accountants geldt bovendien de Wwft-meldplicht: leg ongebruikelijke transacties en cliëntonderzoek goed gedocumenteerd vast."
+products:
+  - name: "Teamleader"
+    url: "https://www.teamleader.eu/nl"
+    price: "50.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
 ---
 
 Een accountantskantoor heeft geen gebrek aan klantcontact. Integendeel. Maar waar een gewoon verkoopteam een CRM gebruikt om leads door een pipeline te sturen, draait het bij accountants om iets fundamenteel anders: vaste klantrelaties, terugkerende werkzaamheden, strikte deadlines, en een audit trail die stand houdt bij een Belastingdienst-controle.

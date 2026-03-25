@@ -23,6 +23,16 @@ tags:
   - marketing
   - mkb
 affiliate: false
+products:
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
 ---
 
 Marketing automation wordt verkocht als de heilige graal voor leadgeneratie en klantbehoud. De werkelijkheid is genuanceerder: voor sommige bedrijven levert het een aantoonbare omzetstijging op, voor anderen is het een duur systeem dat niemand goed gebruikt en dat na een jaar wordt opgezegd.

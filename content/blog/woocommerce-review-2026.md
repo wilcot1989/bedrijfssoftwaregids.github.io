@@ -32,6 +32,16 @@ faq:
     a: "Je hebt een domeinnaam, een WordPress-hostingpakket (bij voorkeur met managed WordPress-ondersteuning), en een SSL-certificaat nodig. Daarna installeer je WordPress en de gratis WooCommerce-plugin. Reken op minimaal een halve dag opzetwerk voor een eenvoudige webshop, en meerdere dagen voor een volledig ingerichte shop."
   - q: "Kan ik WooCommerce koppelen aan boekhoudpakketten?"
     a: "Ja. Via extensies en Zapier koppel je WooCommerce aan SnelStart, Moneybird, e-Boekhouden en Exact Online. De meeste koppelingen zijn betaald (€50-150/jaar). Moneybird biedt een gratis WooCommerce-koppeling voor Moneybird-abonnees."
+products:
+  - name: "WooCommerce"
+    url: "https://woocommerce.com/"
+    price: "0.00"
+  - name: "Shopify"
+    url: "https://www.shopify.com/nl"
+    price: "36.00"
+  - name: "Wix"
+    url: "https://www.wix.com/"
+    price: "17.00"
 ---
 
 WooCommerce duikt op in bijna elk gesprek dat ik voer met ondernemers die al een WordPress-site hebben. "We wilden eigenlijk gewoon een paar producten verkopen, en toen zei iemand: installeer WooCommerce, dat is gratis." Dat klopt. De plugin is inderdaad gratis. Maar in de twee jaar daarna komen dezelfde klanten terug met vragen over trage pagina's, plugins die conflicteren, of een betaalgateway die opeens niet meer werkt.

@@ -28,6 +28,16 @@ faq:
     a: "NordVPN hanteert een strikte no-logs policy: er worden geen verbindingslogboeken, IP-adressen of browsdata opgeslagen. Deze policy is in 2023 onafhankelijk geaudit door Deloitte. In 2018 was er een inbraak op één server in Finland — er waren geen gebruiksdata te stelen omdat die niet worden opgeslagen."
   - q: "Wat kost NordLayer voor een team van 10 medewerkers?"
     a: "NordLayer Basic kost €7/gebruiker/mnd bij jaarabonnement. Voor 10 medewerkers is dat €70/mnd of €840/jaar. NordLayer Advanced (met extra functies zoals vaste IP en uitgebreide toegangscontrole) kost €11/gebruiker/mnd — €110/mnd of €1.320/jaar voor 10 medewerkers."
+products:
+  - name: "NordVPN Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "8.00"
+  - name: "NordPass Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "3.99"
+  - name: "Kaspersky Business"
+    url: "https://www.kaspersky.nl/small-to-medium-business-security"
+    price: "5.00"
 ---
 
 Twee jaar geleden schakelde ik een klant over van een dure, omslachtige zakelijke VPN naar NordLayer. De reden was praktisch: de IT-manager was uitgevallen en de ondernemer moest het zelf beheren. De Cisco ASA die ze hadden stond geprogrammeerd als een raket — niemand begreep het meer.

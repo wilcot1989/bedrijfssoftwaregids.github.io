@@ -21,6 +21,16 @@ faq:
     a: "Nee, een Funda-koppeling is niet verplicht, maar wel sterk aanbevolen. Ruim 90 procent van de woningzoekers begint op Funda. Zonder koppeling moet je woningen handmatig invoeren via Funda Business (Tiara), wat veel extra tijd kost. Alle vijf de pakketten in dit overzicht bieden een directe Funda-koppeling."
   - q: "Kan ik als niet-NVM makelaar ook Realworks gebruiken?"
     a: "Ja, Realworks is beschikbaar voor zowel NVM-leden als niet-NVM makelaars. Sinds enkele jaren heeft Realworks het platform opengesteld voor de hele sector. Wel krijgen NVM-leden vaak een preferentieel tarief en extra functies zoals directe NVM-uitwisseling. Kolibri, Yes-co en Friva zijn eveneens beschikbaar voor alle makelaars, ongeacht branchevereniging."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 Ik heb de afgelopen maanden met meerdere makelaarskantoren gesproken die worstelden met hun software. De een zat vast aan een verouderd systeem zonder fatsoenlijke Funda-koppeling. De ander gebruikte drie losse tools die niet met elkaar praatten -- aparte software voor het CRM, de woningpresentatie en het biedingsproces. Herkenbaar? De Nederlandse makelaarsmarkt heeft gelukkig een aantal sterke softwarepakketten die alles in een platform combineren. In dit overzicht vergelijk ik de 5 beste opties voor 2026. Voor het digitaal beheren van je koopaktes, mandatenovereenkomsten en andere contracten, bekijk dan ook de [beste contractmanagement software 2026](/blog/beste-contractmanagement-software-2026/).

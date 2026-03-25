@@ -32,6 +32,16 @@ faq:
     a: "Voor formele goedkeuringsprocessen (inkooporders, verlofaanvragen, contracten) zijn Nintex en ProcessStreet de sterkste keuzes: ze zijn gebouwd rondom gestructureerde workflows met verplichte stappen, handtekeningen en escalaties. Monday.com heeft ook goede ingebouwde goedkeuringsworkflows. Asana's Approvals-functie werkt goed voor minder formele goedkeuringen binnen projecten."
   - q: "Is Make (Integromat) beter dan Zapier?"
     a: "Dat hangt af van je gebruik. Zapier is eenvoudiger en sneller in te stellen — ideaal voor rechttoe-rechtaan koppelingen (als A dan B). Make is krachtiger voor complexe, vertakte workflows met meerdere stappen, condities en databewerkingen. Make is ook goedkoper per operatie dan Zapier bij hogere volumes. Voor beginners: start met Zapier. Voor complexere automatisering: Make biedt meer mogelijkheden voor de prijs."
+products:
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Een marketingbureau dat ik begeleidde, had een eenvoudig probleem: elke nieuwe klant moest handmatig worden aangemeld in hun CRM, factureringssysteem, projectplanner én interne communicatietool. Vier systemen, vier keer dezelfde gegevens invoeren. Bij 15 nieuwe klanten per maand kostte dit de accountmanager gemiddeld 3 uur. Na de implementatie van de juiste workflow automatisering: 12 minuten. Eén invoer, vier systemen bijgewerkt, automatisch.

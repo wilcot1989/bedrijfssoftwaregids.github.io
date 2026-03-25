@@ -21,6 +21,16 @@ faq:
     a: "Exact Online en Twinfield ondersteunen beide volledige SBR-aangifte voor vennootschapsbelasting, jaarrekening en btw. Minox biedt SBR-btw standaard, en SBR-jaarrekening via een aanvullende module. Yuki focust op btw-aangifte en koppelt voor jaarrekeningen aan externe samensteltools."
   - q: "Kan ik meerdere administraties beheren vanuit één portaal?"
     a: "Ja, alle vijf de pakketten in dit overzicht bieden een multi-administratie portaal. Twinfield en Yuki zijn hier het sterkst in: je schakelt met één klik tussen administraties en hebt een centraal dashboard met statusoverzichten. Exact Online vereist aparte licenties per administratie maar biedt wel een accountancy-portaal."
+products:
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Ik werk al jaren met accountantskantoren die vastlopen op hun software. Het ene kantoor heeft drie verschillende pakketten naast elkaar draaien omdat niemand ooit de keuze heeft geoptimaliseerd. Het andere kantoor betaalt een vermogen aan Exact Online-licenties terwijl de helft van de functies ongebruikt blijft. En dan heb je de kantoren die nog steeds met desktop-software werken en elk jaar in januari de crisis hebben wanneer de samenstelperiode begint.

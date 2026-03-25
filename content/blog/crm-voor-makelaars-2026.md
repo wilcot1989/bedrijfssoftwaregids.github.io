@@ -29,6 +29,16 @@ faq:
     a: "Realworks heeft een directe, volledig geïntegreerde koppeling met Funda. Voor andere CRM-systemen is een Funda-koppeling lastiger; je hebt hiervoor een aparte vastgoedmodule of middleware nodig. Sommige makelaars gebruiken een combinatie van Realworks voor de Funda-koppeling en een apart CRM voor relatiebeheer."
   - q: "Welk CRM is het beste voor een kantoor met meerdere makelaars?"
     a: "Voor grotere makelaarskantoren (5+ makelaars) zijn Realworks en Salesforce het meest geschikt. Realworks biedt kantoorbreed beheer met gedeelde woningportefeuille en contacten. Salesforce biedt de meeste schaalbaarheid en aanpasbaarheid. Gripp is een goede keuze als je ook projectbeheer en facturatie in een systeem wilt."
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Teamleader"
+    url: "https://www.teamleader.eu/nl"
+    price: "50.00"
 ---
 
 Een goed CRM voor makelaars verdient zich sneller terug dan in vrijwel elke andere branche. Ik heb kantoren geholpen waar leads letterlijk verdwenen in een berg post-its en losse e-mails. De Funda-koppeling, woningmatching, bezichtigingsplanning -- het zijn functies die een generiek CRM niet biedt. In deze vergelijking laat ik zien welke 5 CRM-systemen voor makelaars het beste passen bij Nederlandse makelaarskantoren.

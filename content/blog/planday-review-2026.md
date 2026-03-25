@@ -30,6 +30,16 @@ faq:
     a: "Planday heeft geen native koppeling met Nmbrs of AFAS. Wel is er een API waarmee je via maatwerkkoppelingen kunt integreren. Voor de meeste Nederlandse MKB-bedrijven die Nmbrs of AFAS gebruiken, is Shiftbase of Dyflexis een betere keuze vanwege de directe integraties."
   - q: "Wat is het verschil tussen Planday Starter en Plus?"
     a: "Planday Starter biedt basisroostering, beschikbaarheidsbeheer en de medewerkers-app. Planday Plus voegt tijdregistratie, verlofbeheer, communicatietools, rapportages en integraties toe. Voor horecabedrijven is het Plus-plan vrijwel altijd noodzakelijk vanwege de tijdregistratie en communicatiefuncties."
+products:
+- name: "Planday"
+  url: "https://www.planday.com/nl/"
+  price: "2.49"
+- name: "Shiftbase"
+  url: "https://www.shiftbase.com/nl/"
+  price: "3.00"
+- name: "Clockify"
+  url: "https://clockify.me/"
+  price: "0.00"
 ---
 
 Een restauranteigenaar uit Amsterdam vertelde me dat zijn grootste frustratie het beheren van dienstruilverzoeken was. "Elke week tien WhatsApp-berichten van medewerkers die diensten willen ruilen. Ik verlies het overzicht, maak fouten, en dan is er alsnog iemand niet komen opdagen."

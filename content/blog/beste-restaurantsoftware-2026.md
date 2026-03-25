@@ -21,6 +21,16 @@ faq:
     a: "Dat verschilt per aanbieder. Lightspeed Restaurant en Trivec bieden ingebouwde reserveringsfuncties of directe koppelingen met platforms als Formitable en TheFork. Bij Zettle en Orderbird heb je een apart reserveringssysteem nodig. Mijn advies: kies horeca software met native reserveringsintegratie als je regelmatig reserveringen verwerkt."
   - q: "Kan ik met horeca software ook QR-bestellingen aan tafel aanbieden?"
     a: "Ja, Lightspeed Restaurant en Untill ondersteunen bestellen via QR-code aan tafel. Gasten scannen een code, zien de menukaart op hun telefoon en bestellen direct. De bestelling komt automatisch bij de keuken of bar binnen. Dit bespaart loopwerk en verkort wachttijden."
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Untill"
+  url: "https://www.untill.com/nl/"
+  price: "79.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
 ---
 
 Een goed restaurant draait niet alleen op lekker eten. De juiste horeca software maakt het verschil: je kassa moet soepel lopen, reserveringen moeten kloppen, de keuken moet op tijd de juiste gerechten uitdraaien en je voorraad mag nooit onverwacht opraken. Ik heb de afgelopen jaren tientallen restauranthouders geholpen bij het kiezen van de juiste horeca software -- en ik zie steeds dezelfde fout: ze kopen een kassasysteem zonder na te denken over de rest. Reserveringen in een apart Excel-bestand. Voorraad op gevoel. Personeelsplanning op een papiertje aan de muur.

@@ -30,6 +30,16 @@ faq:
     a: "Lightspeed Restaurant is specifiek gebouwd voor horeca met functies als tafelmanagement, keukenprinters, menukaartbeheer en bezorgintegraties. Lightspeed Retail is gericht op winkels met uitgebreid voorraadbeheer, barcodescanning, leveranciersbeheer en een webshopkoppeling. Je kiest het product dat bij jouw type zaak past."
   - q: "Kan ik mijn Lightspeed kassa koppelen aan mijn boekhoudsoftware?"
     a: "Ja. Lightspeed biedt koppelingen met Nederlandse boekhoudpakketten als Exact Online, Twinfield, Moneybird en Xero. Via de Lightspeed API of tussenstappen als Zapier kun je ook andere koppelingen leggen. De boekhoudkoppeling bespaart je handmatig invoerwerk en verkleint de kans op fouten."
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Lightspeed is het kassasysteem dat ik het vaakst tegenkom bij mijn klanten -- en dat is logisch. Het is een van de bekendste namen in Nederland, actief in zowel horeca als retail, en het marketingbudget is enorm. Maar een groot merk betekent niet automatisch de beste keuze voor jouw zaak.

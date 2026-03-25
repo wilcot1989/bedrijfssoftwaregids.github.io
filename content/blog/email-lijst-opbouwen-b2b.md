@@ -20,6 +20,16 @@ faq:
 tags:
   - marketing
   - b2b
+products:
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
 ---
 
 Twee jaar geleden belde een klant van mij — eigenaar van een accountantskantoor met acht medewerkers — me op met een triomfantelijke toon. Hij had net vijfduizend zakelijke e-mailadressen gekocht van een Belgische databaseaanbieder. "Vijfhonderd euro, Lars. Vijfduizend leads. Dat is tien cent per adres." Ik heb hem toen niet tegengehouden. Fout van mij.

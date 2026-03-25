@@ -29,6 +29,16 @@ faq:
     a: "Semrush heeft een gratis account met beperkte functies: 10 queries per dag in de keyword- en domeinoverzicht. Ahrefs had vroeger een gratis plan maar dat is afgeschaft. Ahrefs biedt nu alleen een betaalde 7-daagse trial. Semrush heeft de betere gratis optie voor verkennend gebruik."
   - q: "Welke SEO tool is beter voor Nederlandse bedrijven?"
     a: "Beide tools ondersteunen Nederland goed. Semrush heeft iets meer Nederlandse data in de database en biedt nauwkeurigere zoekvolume-data voor .nl-domeinen. Ahrefs is eveneens uitstekend voor Nederlandse SEO. Het verschil is klein; kies op basis van je workflow-voorkeur en budget."
+products:
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
 ---
 
 Semrush vs. Ahrefs is de eeuwige SEO-tool discussie. Ik gebruik beide tools dagelijks, heb ze bij tientallen klanten geïmplementeerd, en kan je vertellen: er is geen absolute winnaar. Elke tool heeft zijn sterke punten. De juiste keuze hangt af van wat je primair nodig hebt.

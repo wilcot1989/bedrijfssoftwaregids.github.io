@@ -24,6 +24,16 @@ faq:
     a: "Ja, Trengo biedt migratiehulp. De meeste data (gesprekken, contacten) kan worden overgezet. Plan wel tijd voor herconfiguratie van automatiseringen en workflows."
   - q: "Welke biedt betere Exact Online integratie?"
     a: "Trengo heeft een native Exact Online integratie, speciaal gebouwd voor de Nederlandse markt. Zendesk heeft geen directe Exact Online integratie — je hebt een derde partij nodig."
+products:
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Trengo"
+  url: "https://trengo.com/nl"
+  price: "99.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
 ---
 
 Zendesk of Trengo: ik krijg deze vraag regelmatig van Nederlandse ondernemers. Het is een interessante vergelijking: de internationale marktleider versus het Nederlandse alternatief dat steeds meer terrein wint. Ik heb beide platforms jarenlang gebruikt — soms naast elkaar, soms vergeleken bij klanten — en zet ze hier naast elkaar.

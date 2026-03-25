@@ -35,6 +35,16 @@ faq:
     a: "Ja, Wrike biedt een gratis plan voor maximaal 5 gebruikers. Je krijgt onbeperkte taken, Kanban-borden en basistaakvereisten, maar mist Gantt-charts, automatiseringen, tijdregistratie en rapportage. Voor serieuze projecten is het betaalde Team-plan ($9,80/gebruiker/maand) de logische stap."
   - q: "Welke Wrike-integraties zijn er beschikbaar?"
     a: "Wrike biedt 400+ native integraties, waaronder Salesforce, HubSpot, Microsoft Teams, Slack, Google Workspace, Adobe Creative Cloud, Zoom en Jira. De Adobe Creative Cloud-integratie is uniek: designers kunnen rechtstreeks vanuit Photoshop of Illustrator taken updaten en bestanden indienen voor goedkeuring."
+products:
+  - name: "Wrike"
+    url: "https://www.wrike.com/"
+    price: "9.80"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Wrike positioneert zichzelf als enterprise projectmanagement software. Maar de werkelijkheid is dat Wrike ook actief mkb-klanten aantrekt — en daarvoor een Team-plan aanbiedt dat qua prijs niet ver afwijkt van Monday.com of Asana.

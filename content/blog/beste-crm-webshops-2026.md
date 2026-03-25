@@ -30,6 +30,16 @@ faq:
     a: "Abandoned cart recovery stuurt automatisch een e-mail of serie e-mails naar klanten die producten in hun winkelwagen hebben achtergelaten maar niet hebben afgerekend. De CRM haalt de cartdata op uit Shopify of WooCommerce en triggert de automatisering. Klaviyo en ActiveCampaign hebben hier uitstekende kant-en-klare flows voor."
   - q: "Kan ik een loyaliteitsprogramma opzetten met mijn CRM?"
     a: "De meeste CRM-tools ondersteunen geen volledig loyaliteitsprogramma van zichzelf — daarvoor zijn er aparte tools als Smile.io, LoyaltyLion of Yotpo. Wat CRM wel biedt: segmentatie op aankoopfrequentie, automatische belonings-e-mails voor trouwe klanten en VIP-segmenten. Voor een volledig puntensysteem heb je een dedicated loyaliteitstool nodig die koppelt met je CRM."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Zoho CRM"
+    url: "https://www.zoho.com/nl/crm/"
+    price: "14.00"
 ---
 
 Een webshop draaien zonder CRM betekent: je kent je klanten niet. Je weet niet wie drie keer per jaar koopt, wie één keer kocht en nooit terugkwam, en wie een gevulde winkelwagen heeft achtergelaten. Die informatie is letterlijk geld waard — maar alleen als je er iets mee doet.

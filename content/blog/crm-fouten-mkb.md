@@ -21,6 +21,16 @@ tags:
   - crm
   - mkb
 affiliate: false
+products:
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 Een CRM-systeem kopen is makkelijk. Een CRM-systeem laten werken is een tweede. De meeste mislukte CRM-trajecten bij Nederlandse MKB-bedrijven mislukken niet door de technologie maar door een handvol fouten die vermijdbaar waren. Dit zijn de vijf die het meest voorkomen en de meeste schade aanrichten.

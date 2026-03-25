@@ -28,6 +28,16 @@ faq:
     a: "Asana biedt meer structuur, betere taakafhankelijkheden en sterkere portfoliofuncties. Monday.com is visueler, flexibeler in inrichting en heeft krachtigere cross-board automatiseringen. Asana past beter bij gestructureerde projectteams en bureaus die met fasen en milestones werken; Monday.com bij creatieve en visuele teams."
   - q: "Wat zijn goede alternatieven voor Asana?"
     a: "De drie beste alternatieven zijn ClickUp (meer functies, lagere prijs, inclusief tijdregistratie), Monday.com (visueler, betere automatiseringen) en Trello (eenvoudiger, goedkoper voor kleine teams). Notion is een alternatief als je ook documentbeheer wilt combineren met projectplanning."
+products:
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
 ---
 
 Ik gebruik Asana nu een paar jaar bij diverse klanttrajecten en heb een duidelijk beeld gekregen van wat het is: een degelijke, goed doordachte projecttool die van structuur houdt. Niet de goedkoopste. Niet de meest flexibele. Maar voor teams die hun projecten willen bijhouden zonder te verdwalen in een zee van mogelijkheden, werkt het verrassend goed.

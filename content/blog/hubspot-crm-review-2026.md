@@ -30,6 +30,16 @@ faq:
     a: "Ja, HubSpot biedt via de Marketplace meer dan 1.500 integraties. Er zijn koppelingen met Exact Online, Moneybird en andere Nederlandse boekhoudpakketten, al verloopt dit vaak via Zapier of Make. Directe native integraties met Nederlandse software zijn beperkt."
   - q: "Wat zijn de grootste nadelen van HubSpot?"
     a: "De drie grootste nadelen zijn de prijssprong van Starter naar Professional (van 15 naar 90 euro per gebruiker per maand), de beperkte rapportages op lagere plannen, en de verplichte onboarding bij Professional-plannen. Daarnaast klagen gebruikers op Trustpilot over moeilijk opzegbare contracten."
+products:
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
+  - name: "Monday CRM"
+    url: "https://monday.com/lang/nl"
+    price: "12.00"
 ---
 
 Dit is mijn eerlijke HubSpot CRM review, gebaseerd op meer dan dertig implementaties bij Nederlandse MKB-bedrijven -- van een driekoppig salesteam bij een Utrechts marketingbureau tot een scale-up met vijftig medewerkers in Amsterdam. Mijn conclusie na al die trajecten? HubSpot is een fantastisch platform als je het goed inzet. Maar het is ook het CRM waar ik de meeste teleurgestelde ondernemers tegenkom. Niet omdat het product slecht is, maar omdat bedrijven starten met het gratis plan, verliefd worden op de interface, en vervolgens schrikken van de kosten zodra ze echt willen opschalen.

@@ -38,6 +38,16 @@ faq:
     a: "Nmbrs heeft een open REST API en biedt kant-en-klare koppelingen met onder meer Exact Online, AFAS, Twinfield, Reeleezee, diverse HR-platforms en urenregistratietools. Via de API zijn maatwerkkoppelingen mogelijk met vrijwel elk ander systeem."
   - q: "Kan ik Nmbrs direct aanschaffen als ondernemer?"
     a: "Nee, Nmbrs wordt uitsluitend via accountants en gecertificeerde partners aangeboden. Als directe aanschaf voor je een vereiste is, zijn Loket.nl, SnelStart Go of AFAS (via implementatiepartner) betere opties. Loket.nl en SnelStart Go zijn ook direct beschikbaar voor de ondernemer zelf."
+products:
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
 ---
 
 Een klant van me — eigenaar van een uitzendbureau met 60 actieve medewerkers plus een wisselende pool van flexkrachten — belde me op een dinsdagochtend met een simpele vraag: "Lars, mijn accountant wil overstappen op Nmbrs. Is dat verstandig?"

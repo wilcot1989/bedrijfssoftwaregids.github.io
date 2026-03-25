@@ -29,6 +29,16 @@ faq:
     a: "Klaviyo is gebouwd voor e-commerce en integreert native met Shopify, WooCommerce en Magento. Het biedt de sterkste e-commerce automation: verlaten-winkelwagen e-mails, productaanbevelingen op basis van aankoopgedrag en CLV-segmentatie. Voor webshops met meer dan €500K omzet is Klaviyo de beste investering."
   - q: "Kan ik marketing automation koppelen aan mijn CRM?"
     a: "Ja, alle grote marketing automation tools integreren met CRM-systemen. HubSpot Marketing Hub is nativegeïntegreerd met HubSpot CRM. ActiveCampaign heeft zijn eigen ingebouwde CRM en koppelt ook met Salesforce, Pipedrive en HubSpot. Brevo biedt een ingebouwde lichte CRM en externe koppelingen. Voor een diep verbonden ecosysteem is HubSpot het sterkst."
+products:
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
 ---
 
 Marketing automation belooft veel: leads die zichzelf kwalificeren, campagnes die op het juiste moment de juiste boodschap sturen, klanten die worden onboarded zonder handmatig werk. En in de praktijk? Het werkt — maar alleen als je de juiste tool kiest voor jouw situatie en die goed instelt.

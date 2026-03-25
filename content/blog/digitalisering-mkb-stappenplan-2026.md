@@ -23,6 +23,16 @@ faq:
     a: "Dat hangt af van wat je hebt. Bouw voort op wat werkt via integraties (Zapier, Make) voordat je vervangt. Vervang alleen als software fundamenteel tekortschiet: geen API, geen updates meer, of structureel traag. Migratie kost 3–6× meer dan integreren."
   - q: "Is cloud software veiliger dan lokale software voor MKB?"
     a: "Voor de meeste MKB-bedrijven: ja. Cloud providers als Microsoft, Google en gespecialiseerde SaaS-aanbieders investeren meer in beveiliging dan een gemiddeld MKB-bedrijf zelf kan. Zorg wel voor sterke wachtwoorden, 2FA en heldere rechtenstructuren."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl/"
+    price: "39.00"
+  - name: "Monday.com"
+    url: "https://monday.com/lang/nl"
+    price: "9.00"
 ---
 
 Drie jaar geleden werkte een bouwbedrijf met 22 medewerkers dat ik ken nog volledig op papier. Werkbonnen werden uitgeschreven, offertes per post verstuurd, urenstaten wekelijks ingeleverd bij de administratie. De eigenaar wist dat het anders moest, maar wist niet waar te beginnen. Bij elke poging raakte hij overweldigd door de hoeveelheid keuzes en verdween het digitaliseringsplan weer in een la.

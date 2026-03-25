@@ -28,6 +28,16 @@ faq:
     a: "Ja. Het Moneybird Starter-pakket (€15/mnd) is beperkt tot 20 banktransacties per maand. Het Plus-pakket (€28/mnd) tot 50 transacties. Alleen het professionele pakket (€39/mnd) biedt onbeperkte transacties. Dat is precies waarom veel groeiende ZZP'ers naar een alternatief zoeken."
   - q: "Wat is het verschil tussen Jortt en Moneybird?"
     a: "Jortt is nog eenvoudiger dan Moneybird en heeft de bankkoppeling inbegrepen in alle pakketten. Moneybird heeft meer functies (bonnetjesscanner, projectfacturatie, meer integraties) maar is ook iets duurder. Voor een ZZP'er die puur wil factureren en boeken is Jortt een sterk alternatief."
+products:
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
 ---
 
 Moneybird is het populairste boekhoudpakket van Nederland. Meer dan 380.000 ondernemers gebruiken het, en als ik eerlijk ben: in de meeste gevallen terecht. De interface is strak, het werkt intuïtief en voor een starter zonder boekhoudkennis is het een uitstekende keuze.

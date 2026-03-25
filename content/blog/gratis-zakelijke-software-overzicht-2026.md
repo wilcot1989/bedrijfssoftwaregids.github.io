@@ -23,6 +23,16 @@ faq:
     a: "Tijd is de grootste verborgen kost. Gratis software heeft minder support, minder integraties en vereist meer handmatig werk. Reken: bij 2 uur extra per maand × €40 = €80/maand ben je al duurder uit dan een betaald alternatief van €25/maand. Bereken dit eerlijk voordat je voor gratis kiest."
   - q: "Welke gratis projectmanagement tool is het beste?"
     a: "Voor kleine teams (< 10 personen): Trello gratis is uitstekend voor simpele Kanban-workflows. Voor grotere teams of complexere projecten: ClickUp gratis (onbeperkte taken, onbeperkte leden) of Asana gratis (max 15 gebruikers). ClickUp heeft het meest genereuze gratis plan op papier; Trello het meest gebruiksvriendelijke."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "HubSpot CRM"
+    url: "https://www.hubspot.com/nl"
+    price: "0.00"
+  - name: "Pipedrive"
+    url: "https://aff.trypipedrive.com/65scdzrtiyaj"
+    price: "14.00"
 ---
 
 Elke ondernemer begint met beperkt budget. Maar beperkt budget betekent niet dat je slechte software hoeft te gebruiken. In 2026 zijn er uitstekende gratis zakelijke tools beschikbaar die vroeger honderdduizenden euro's kostten.

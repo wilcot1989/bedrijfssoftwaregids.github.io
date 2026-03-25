@@ -35,6 +35,16 @@ faq:
     a: "Voor de meeste freelancers is Trello gratis volkomen voldoende. De eenvoud en nul-leercurve zijn ideaal als je geen uren wilt besteden aan tool-configuratie. Freelancers die meerdere klantprojecten tegelijk beheren, tijdregistratie nodig hebben of uitgebreidere taakstructuren gebruiken, profiteren van ClickUp's gratisplan -- dat meer functies biedt ondanks de opslaglimiet van 100 MB."
   - q: "Kan ik van Trello naar ClickUp overstappen?"
     a: "Ja. ClickUp biedt een directe Trello-importfunctie die borden, lijsten en kaarten omzet naar ClickUp-werkruimten, lijsten en taken. Labels, leden en deadlines gaan mee. Attachments gaan grotendeels mee. Butler-automatisering en Power-Up-koppelingen moet je handmatig nabouwen. De import zelf duurt minuten; het inrichten van je nieuwe ClickUp-werkruimte naar jouw workflow kost meer tijd."
+products:
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Trello"
+    url: "https://trello.com/"
+    price: "5.00"
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
 ---
 
 ClickUp vs Trello -- dit is misschien wel de meest fundamentele vergelijking in de wereld van projectmanagement-tools. Trello staat voor alles wat eenvoudig, direct en toegankelijk is. ClickUp staat voor alles wat compleet, aanpasbaar en uitgebreid is. Het zijn bijna tegengestelde filosofieën over hoe een werkbeheertool eruit zou moeten zien.

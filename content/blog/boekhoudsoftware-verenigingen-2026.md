@@ -28,6 +28,16 @@ faq:
     a: "De meeste Nederlandse verenigingen zijn btw-vrijgesteld, maar dit hangt af van je activiteiten. Sportverenigingen zijn in principe vrijgesteld. Als je ook belaste activiteiten hebt (zoals horeca, verhuur of commerciële cursussen), dan ben je deels btw-plichtig. Raadpleeg bij twijfel een belastingadviseur of de Belastingdienst. Boekhoudsoftware als e-Boekhouden en SnelStart kunnen zowel btw-plichtige als btw-vrijgestelde administraties voeren."
   - q: "Wat is een KvK-depot en hoe werkt dat met boekhoudsoftware?"
     a: "Verenigingen met volledige rechtsbevoegdheid (vastgelegd in notariële statuten) en een omzet boven €4,4 miljoen zijn verplicht hun jaarrekening te deponeren bij de KvK. Kleinere verenigingen zijn dit wettelijk niet verplicht, maar sommige subsidiegevers vragen er wel om. SnelStart, Exact Online en e-Boekhouden kunnen de benodigde jaarrekening in de juiste formaten aanmaken."
+products:
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "Jortt"
+    url: "https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl="
+    price: "0.00"
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
 ---
 
 Penningmeesters van verenigingen bellen mij soms met een bekende noodkreet: het vorige bestuurslid heeft de administratie bijgehouden in een Excel-bestand dat niemand meer begrijpt, er is een subsidie-verantwoording die over drie weken ingediend moet worden, en de contributie-incasso is een handmatige chaos. Ik ken dit scenario maar al te goed.

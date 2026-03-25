@@ -28,6 +28,16 @@ faq:
     a: "Ja. Tentoo en Picompany zijn toegankelijker geprijsd dan AFAS of het Nmbrs+Easyflex-pakket. Voor startende uitzendbureaus of kleine bureaus met minder dan 50 flexwerkers per week is Tentoo een realistische keuze. AFAS en Easyflex zijn beter schaalbaar voor bureaus die doorgroeien naar honderden tot duizenden flexwerkers."
   - q: "Hoe werkt urenregistratie bij uitzendbureaus?"
     a: "De standaard in de branche is digitale urenbriefjes: de flexwerker registreert zijn uren via een app of online portaal, de opdrachtgever keurt ze goed (digitaal), en de goedgekeurde uren gaan automatisch naar de salarisverwerking. Software als Easyflex, AFAS en Tentoo bieden dit volledig geautomatiseerd aan. Dit bespaart het uitzendbureau tientallen uren administratie per week vergeleken met papieren urenregistratie."
+products:
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
+- name: "Nmbrs"
+  url: "https://www.nmbrs.nl/"
+  price: "3.00"
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
 ---
 
 Uitzendbureaus behoren tot de meest administratief intensieve bedrijven in Nederland. Je werkt met flexwerkers die dagelijks van opdrachtgever wisselen, lonen die conform ABU- of NBBU-CAO berekend moeten worden, urenregistratie per opdrachtgever, SNA-certificering die om documentatie vraagt, en een loonheffing-administratie die elke maand feilloos moet kloppen.

@@ -31,6 +31,16 @@ faq:
     a: "Op Trustpilot.nl scoort Lightspeed circa 4,0 op basis van ruim 2.300 reviews. Op G2 staat Lightspeed Retail op 4,0/5 en Lightspeed Restaurant op 3,9/5. Gebruikers zijn overwegend positief over de interface, de integraties en de koppeling met bezorgplatforms. Kritiek gaat vrijwel altijd over de prijs, het jaarcontract en wisselende klantenservice."
   - q: "Kan ik Lightspeed koppelen aan mijn boekhoudsoftware?"
     a: "Ja. Lightspeed biedt directe koppelingen met Exact Online, Twinfield, Moneybird en Xero. Via de Lightspeed API of tools als Zapier zijn ook andere koppelingen mogelijk. De boekhoudkoppeling stuurt dagelijkse omzetgegevens, BTW-splitsingen en betalingsmethodes automatisch door naar je boekhouding. Meer hierover lees je in mijn artikel over het koppelen van kassasystemen aan boekhoudsoftware."
+products:
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "Untill"
+  url: "https://www.untill.com/nl/"
+  price: "79.00"
 ---
 
 Lightspeed is het kassasysteem dat ik het vaakst zie bij mijn klanten — en dat is geen toeval. Het is al jaren een van de bekendste namen in de Nederlandse horeca- en retailmarkt, met een herkenbare iPad-interface en een flinke marketingmachine achter zich. Maar bekendheid is niet hetzelfde als de beste keuze voor jouw specifieke situatie.

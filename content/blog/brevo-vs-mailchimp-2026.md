@@ -27,6 +27,16 @@ faq:
     a: "Brevo is een Frans bedrijf en slaat alle data standaard op binnen de EU. Dat maakt Brevo AVG-vriendelijker. Mailchimp is Amerikaans (Intuit) en slaat data op in de VS. Mailchimp biedt wel een verwerkersovereenkomst aan, maar voor strikt Europese dataopslag is Brevo de veiligere keuze."
   - q: "Welke tool is beter voor beginners?"
     a: "Beide tools zijn toegankelijk voor beginners. Mailchimp heeft een iets intuitivere interface en meer templates om mee te starten. Brevo heeft een eenvoudigere prijsstructuur en een ruimer gratis plan. Voor iemand die net begint met email marketing en een beperkt budget heeft, raad ik Brevo aan vanwege het genereuze gratis plan met 300 mails per dag."
+products:
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "Mailchimp"
+  url: "https://mailchimp.com/"
+  price: "13.00"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
 ---
 
 Brevo vs Mailchimp -- het is een vraag die ik minstens drie keer per maand krijg van klanten. En ik snap waarom: het zijn allebei solide email marketing tools, maar ze werken fundamenteel anders. Het ene platform rekent per e-mail, het andere per contact. Het ene is Frans en AVG-proof, het andere is Amerikaans en sterker op templates. Na tientallen implementaties van beide tools bij Nederlandse bedrijven deel ik hier mijn eerlijke vergelijking -- met echte prijzen, review scores en de fouten die ik klanten heb zien maken.

@@ -28,6 +28,16 @@ faq:
     a: "Small Office Security is ontworpen voor bedrijven tot 25 medewerkers zonder IT-afdeling: eenvoudige installatie, simpele beheerconsole, alles-in-één pakket. Endpoint Security for Business is voor grotere organisaties: uitgebreide beheerconsole (Kaspersky Security Center), meer configuratiemogelijkheden, enterprise-features zoals rollout-beheer en gedetailleerde policy-management. Voor de meeste MKB-bedrijven is Small Office Security voldoende."
   - q: "Vertraagt Kaspersky mijn computers?"
     a: "In mijn test en volgens AV-Test-metingen scoort Kaspersky 5,8/6,0 op prestaties — boven gemiddeld voor de sector. Op moderne hardware (5 jaar of jonger) merkt u vrijwel geen vertraging. Op oudere hardware (8+ jaar) kan de scan wat CPU-gebruik veroorzaken, maar dat is vergelijkbaar met concurrenten. ESET is de enige die structureel lichter is op oudere hardware."
+products:
+  - name: "Kaspersky Business"
+    url: "https://www.kaspersky.nl/small-to-medium-business-security"
+    price: "5.00"
+  - name: "NordVPN Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "8.00"
+  - name: "NordPass Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "3.99"
 ---
 
 Ik gebruik Kaspersky al vier jaar voor kleinere klanten. Niet omdat ik blind trouw ben aan het merk, maar omdat de technische prestaties consistent sterk zijn en de prijs voor kleine bedrijven nergens geklopt wordt.

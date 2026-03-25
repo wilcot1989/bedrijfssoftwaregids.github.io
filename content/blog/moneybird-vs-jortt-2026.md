@@ -23,6 +23,16 @@ faq:
     a: "Ja, beide pakketten bieden een accountantstoegang. Bij Moneybird is dit uitgebreider qua rechten; bij Jortt werkt het op het Business-plan. Vraag je accountant welk pakket hij of zij prefereert."
   - q: "Welk pakket is beter voor een webshop?"
     a: "Moneybird heeft integraties met WooCommerce, Shopify, Magento en Exact. Voor een webshop is Moneybird duidelijk de betere keuze. Jortt heeft geen serieuze webshop-integraties."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "Jortt"
+    url: "https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl="
+    price: "0.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
 ---
 
 Ik sprak onlangs een tekstschrijver die overstapte van [Moneybird](/blog/moneybird-review-2026/) naar [Jortt](/blog/beste-boekhoudsoftware-zzp-2026/). Haar reden? "Ik betaal voor functies die ik nooit gebruik." Ze had gelijk — voor haar situatie was Moneybird overkill. Maar ik ken ook mensen die precies de andere kant op zijn gegaan: van Jortt naar Moneybird, omdat ze toch meer nodig hadden dan ze dachten. De vraag is niet welk pakket beter is in het algemeen, maar welk pakket beter is voor jou. Dit artikel helpt je die keuze maken.

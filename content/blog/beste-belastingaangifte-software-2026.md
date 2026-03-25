@@ -26,6 +26,16 @@ faq:
     a: "Digipoort is de beveiligde infrastructuur van de Nederlandse overheid voor elektronische gegevensuitwisseling. Belastingaangifte software gebruikt Digipoort om BTW-aangiftes, VpB-aangiftes en andere fiscale berichten direct en veilig bij de Belastingdienst in te dienen."
   - q: "Hoe kies ik tussen Aangifte.nl en professionele software?"
     a: "Aangifte.nl (de tool van de Belastingdienst) is gratis en voldoende voor eenvoudige particuliere IB-aangiftes. Heb je een onderneming met meerdere inkomstenbronnen, aftrekposten, winst- en verliesrekening of een BV, dan kies je voor gespecialiseerde software of een accountant. De grens ligt bij complexiteit, niet bij bedrijfsgrootte."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
+  - name: "Exact Online"
+    url: "https://www.exact.com/nl"
+    price: "48.00"
 ---
 
 Belasting doen is zelden leuk, maar met de juiste software is het minder pijnlijk dan het hoeft te zijn. De afgelopen jaren is het aantal tools voor belastingaangifte gegroeid, maar de kwaliteitsverschillen zijn groot. Sommige pakketten zijn bedoeld voor de particulier die één keer per jaar zijn IB-aangifte doet; andere zijn professionele platforms voor accountants en controllers die dagelijks VpB-aangiftes verwerken.

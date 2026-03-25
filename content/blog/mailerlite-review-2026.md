@@ -28,6 +28,16 @@ faq:
     a: "Ja, MailerLite is een Litouws bedrijf en slaat data op binnen de Europese Unie. Dit maakt het een AVG-vriendelijke keuze. MailerLite biedt ook een Data Processing Agreement (DPA) aan, die je kunt aanvragen via hun privacypagina."
   - q: "Wat is het nadeel van het MailerLite goedkeuringsproces?"
     a: "Nieuwe MailerLite-accounts worden handmatig gereviewd voor ze actief zijn. Dit goedkeuringsproces kan 24 tot 48 uur duren. Bedrijven in bepaalde sectoren -- zoals financiën, gezondheid of affiliate marketing -- worden soms afgewezen zonder gedetailleerde uitleg. Wie snel wil starten, kan beter een account aanvragen dan te wachten tot het echt nodig is."
+products:
+- name: "MailerLite"
+  url: "https://www.mailerlite.com/"
+  price: "10.00"
+- name: "Brevo"
+  url: "https://get.brevo.com/0rdgkq6hwdei"
+  price: "9.00"
+- name: "ActiveCampaign"
+  url: "https://try.activecampaign.com/bxnnvkmbvwyf"
+  price: "15.00"
 ---
 
 MailerLite is de stille overperformer van de email marketing wereld. Geen enorm marketingbudget, geen constant aanwezigheid op conferenties -- maar als je vraagt welk gratis plan het beste is, zegt vrijwel iedereen die het weet hetzelfde: MailerLite. Na jaren van implementaties bij klanten kan ik dat bevestigen. Maar het verhaal is genuanceerder dan de headline doet vermoeden.

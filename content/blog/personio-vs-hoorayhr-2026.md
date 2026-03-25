@@ -32,6 +32,16 @@ faq:
     a: "Personio hanteert prijzen vanaf ~€3-4/medewerker/maand voor het basisplan, afhankelijk van het aantal medewerkers en modules. De exacte prijs krijg je via een offerte — Personio publiceert geen vaste prijzen."
   - q: "Is HoorayHR AVG-compliant?"
     a: "Ja, HoorayHR slaat alle data op in Europa en voldoet aan de AVG. Ze bieden een verwerkersovereenkomst en hebben functies voor het beheren van persoonsgegevens-verzoeken."
+products:
+- name: "Personio"
+  url: "https://www.personio.com/nl/"
+  price: "3.00"
+- name: "HoorayHR"
+  url: "https://www.hoorayhr.com/"
+  price: "3.00"
+- name: "AFAS Software"
+  url: "https://www.afas.nl/"
+  price: "8.00"
 ---
 
 Personio of HoorayHR -- ik krijg deze vraag steeds vaker van Nederlandse MKB-bedrijven die hun HR willen digitaliseren. Het is een interessante vergelijking: een Duits platform dat heel Europa bedient versus een Nederlands platform dat specifiek voor de NL-markt is gebouwd. Na meerdere implementaties van beide tools kan ik je dit vertellen: de juiste keuze hangt volledig af van je bedrijfsgrootte, je ambities en hoeveel je bereid bent te betalen voor functies die je misschien pas over twee jaar nodig hebt.

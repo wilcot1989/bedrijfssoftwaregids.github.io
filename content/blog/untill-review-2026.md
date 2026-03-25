@@ -29,6 +29,16 @@ faq:
     a: "Een standaard Untill-installatie voor een restaurant duurt 1-3 dagen. Dit omvat hardware-installatie, software-configuratie, menukaart-invoer en personeelstraining. Complexere installaties (meerdere locaties, terrassen, hotels) kunnen een week of langer duren. Je werkt altijd via een gecertificeerde reseller."
   - q: "Wat zijn de alternatieven voor Untill in de horeca?"
     a: "De belangrijkste alternatieven voor Untill in de Nederlandse horeca zijn Lightspeed Restaurant, Orderbird, Gastrofix en Casio Ordersystemen. Voor kleinere zaken zijn Square for Restaurants en Deliverect ook opties. Untill onderscheidt zich door de offline-first aanpak en de diepe aanpasbaarheid."
+products:
+- name: "Untill"
+  url: "https://www.untill.com/nl/"
+  price: "79.00"
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
 ---
 
 Untill is het meest gebruikte horecakassasysteem in Nederland en België dat je waarschijnlijk nooit hoorde van tenzij je in de horeca zit. Het bedrijf opereert bewust onder de radar: geen agressieve marketingcampagnes, geen directe verkoop — alleen via gecertificeerde resellers die het systeem installeren en ondersteunen. Ik heb Untill uitvoerig getest bij drie Amsterdamse horecagelegenheden: een bruine kroeg, een Italiaans restaurant en een hotelbar. Dit is wat ik vond.

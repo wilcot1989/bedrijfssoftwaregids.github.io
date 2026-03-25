@@ -32,6 +32,16 @@ faq:
     a: "De gemiddelde acceptatierate voor B2B-offertes ligt tussen 20% en 45%, afhankelijk van sector en kwalificatie van leads. Bedrijven die overstappen op interactieve offertes met digitale handtekening zien gemiddeld een stijging van 15-30 procentpunten. Snelheid speelt ook een grote rol: offertes verstuurd binnen 24 uur na gesprek hebben een 50% hogere conversie dan offertes die na 3 dagen volgen."
   - q: "Wat zijn de must-have elementen van een professionele offerte?"
     a: "Een professionele offerte bevat minimaal: een heldere beschrijving van het werk, een gespecificeerde prijsopbouw, een geldigheidsdatum, betalingscondities, en een duidelijke ondertekenmogelijkheid. Optioneel maar effectief: testimonials van andere klanten, een samenvatting van het gesprek dat eraan voorafging, en twee of drie optiepakketten (good/better/best)."
+products:
+  - name: "Moneybird"
+    url: "https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl="
+    price: "15.00"
+  - name: "e-Boekhouden.nl"
+    url: "https://www.e-boekhouden.nl/"
+    price: "9.95"
+  - name: "SnelStart"
+    url: "https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2"
+    price: "16.00"
 ---
 
 Ik heb klanten geholpen die na het invoeren van offertesoftware hun conversiepercentage met 30% zagen stijgen. De reden is simpel: een interactief offerteprogramma waarmee de klant direct kan ondertekenen, wint het van een Word-document als e-mailbijlage. In deze vergelijking deel ik de 5 beste tools om professionele offertes te maken voor het Nederlandse MKB.

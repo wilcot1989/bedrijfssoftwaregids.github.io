@@ -29,6 +29,16 @@ faq:
     a: "Square en SumUp zijn beide gericht op kleine bedrijven en ZZP'ers. SumUp is goedkoper bij lage volumes en heeft een simpeler product. Square biedt meer functies: voorraadbeheer, personeelsplanning, rapportages en een gratis webshopkoppeling. Bij een maandelijks omzet boven €5.000 is Square vaak voordeliger vanwege de lagere transactiekosten."
   - q: "Werkt Square met boekhoudprogramma's?"
     a: "Ja, Square integreert met Exact Online, QuickBooks, Xero en via Zapier met vrijwel elke boekhoudsoftware. De koppeling met Exact is voor Nederland het meest relevant en werkt betrouwbaar. Je exporteert transactiedata automatisch naar je boekhouding."
+products:
+- name: "Square"
+  url: "https://squareup.com/nl/nl"
+  price: "0.00"
+- name: "Lightspeed"
+  url: "https://www.lightspeedhq.nl/"
+  price: "59.00"
+- name: "CCV"
+  url: "https://www.ccv.eu/nl/"
+  price: "29.95"
 ---
 
 Ik test kassasystemen al jaren en Square is altijd een bijzonder geval. Het Amerikaanse bedrijf lanceerde in Nederland pas in 2022, maar heeft wereldwijd al miljoenen kleine bedrijven aan zich gebonden met één simpel argument: de software is gratis. Je betaalt alleen als je verkoopt. Voor een marktkoopman, kapper of kleine winkel klinkt dat als muziek in de oren. Maar klopt dat verhaal ook in de Nederlandse praktijk?

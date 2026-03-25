@@ -28,6 +28,16 @@ faq:
     a: "Ja, dat is precies de hoofdfunctie van zakelijke wachtwoordmanagers. Via gedeelde kluizen kunnen teams wachtwoorden veilig delen zonder dat ze ooit in plaintext worden verzonden. Rechtenmanagement bepaalt wie een wachtwoord kan zien, gebruiken of aanpassen. Bij vertrek van een medewerker trek je toegang in met één klik."
   - q: "Hoeveel kost een zakelijke wachtwoordmanager?"
     a: "Zakelijke wachtwoordmanagers kosten €2-5 per gebruiker per maand. NordPass Business kost €4/gebruiker/mnd, 1Password Teams €4,99/gebruiker/mnd, Bitwarden Teams €3/gebruiker/mnd. Gratis proefperiodes van 14-30 dagen zijn beschikbaar bij alle grote aanbieders."
+products:
+  - name: "NordPass Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "3.99"
+  - name: "NordVPN Business"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "8.00"
+  - name: "Kaspersky Business"
+    url: "https://www.kaspersky.nl/small-to-medium-business-security"
+    price: "5.00"
 ---
 
 Vorig jaar sprak ik een ondernemer van een marketingbureau. Zijn contentmanager vertrok — en nam mentaal alle inloggegevens voor klanttools mee. Twintig accounts. LinkedIn Ads-accounts, Google Ads, diverse CMS-systemen van klanten. Weken werk om alles te resetten en nieuwe toegang te regelen.

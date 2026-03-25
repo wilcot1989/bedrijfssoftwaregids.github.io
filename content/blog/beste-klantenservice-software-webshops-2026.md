@@ -24,6 +24,16 @@ faq:
     a: "Kijk naar: integratie met je webshopplatform (Shopify/WooCommerce), WhatsApp-ondersteuning, automatiseringsmogelijkheden voor order-gerelateerde vragen, prijs per agent en of er een gratis plan beschikbaar is."
   - q: "Wat kost goede webshop klantenservice software gemiddeld?"
     a: "Goede webshop klantenservice software kost gemiddeld €25-75 per agent per maand voor betaalde plannen. Er zijn gratis opties beschikbaar (Freshdesk Free) voor kleine webshops."
+products:
+- name: "Zendesk"
+  url: "https://www.zendesk.nl/"
+  price: "55.00"
+- name: "Freshdesk"
+  url: "https://www.freshworks.com/freshdesk/"
+  price: "15.00"
+- name: "Trengo"
+  url: "https://trengo.com/nl"
+  price: "99.00"
 ---
 
 Webshopklantenservice heeft specifieke uitdagingen: orderstatussen, retourvragen, leveringsproblemen en veeleisende klanten die direct antwoord willen. Generieke helpdesk-software schiet hier vaak tekort. In dit artikel bespreek ik de vijf beste opties speciaal voor webshops, met eerlijke voor- en nadelen.

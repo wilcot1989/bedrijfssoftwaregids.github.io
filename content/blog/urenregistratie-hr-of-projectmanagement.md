@@ -22,6 +22,16 @@ faq:
   - q: "Hoe verhoog ik de adoptie van urenregistratie bij medewerkers?"
     a: "De grootste barrière is gemak: als registreren meer dan twee minuten kost per dag, doen medewerkers het niet consistent. Kies een tool met een mobiele app en een eenvoudig dag-invoerscherm, zorg dat projectcodes herkenbaar zijn en koppel de registratie aan een bestaand dagelijks moment zoals het afsluiten van een taak. Wekelijkse herinneringen helpen, maar lossen het probleem niet op als het systeem zelf te omslachtig is."
 affiliate: false
+products:
+  - name: "Monday.com"
+    url: "https://monday.com/"
+    price: "9.00"
+  - name: "ClickUp"
+    url: "https://try.web.clickup.com/ivsm6ez2ycrs"
+    price: "7.00"
+  - name: "Asana"
+    url: "https://asana.com/"
+    price: "10.99"
 ---
 
 Urenregistratie is voor veel Nederlandse ondernemers een dagelijkse ergernis. Medewerkers vullen te laat in, vergeten projectcodes, registreren minder uren dan ze gewerkt hebben of vullen alles op vrijdagmiddag tegelijk in terwijl ze allang niet meer weten wat ze maandag deden. Het resultaat is een salarisstrook die gecorrigeerd moet worden, een projectkostenberekening die nergens op slaat en een factuurvoorstel dat de accountmanager moet uitleggen aan de klant.
