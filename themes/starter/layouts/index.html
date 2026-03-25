@@ -138,9 +138,52 @@
   </div>
 </div>
 
+{{/* ===== 4b. TOP AANBEVOLEN SOFTWARE ===== */}}
+{{ $productsPages := where $allPosts ".Params.products" "!=" nil }}
+{{ if $productsPages }}
+<div class="section">
+  <div class="container wide">
+    <div class="section-title">
+      <span class="section-label">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        Door ons getest
+      </span>
+      <h2>Meest aanbevolen software</h2>
+      <p class="section-subtitle">Deze tools scoren het best in onze hands-on tests en vergelijkingen.</p>
+    </div>
+    <div class="top-products-grid">
+      {{ $seen := slice }}
+      {{ range $productsPages }}
+        {{ range first 1 .Params.products }}
+          {{ if not (in $seen .name) }}
+            {{ $seen = $seen | append .name }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ $shown := 0 }}
+      {{ range $productsPages }}
+        {{ if ge $shown 6 }}{{ break }}{{ end }}
+        {{ with index .Params.products 0 }}
+        <div class="top-product-card">
+          <div class="top-product-rank">{{ add $shown 1 }}</div>
+          <div class="top-product-info">
+            <div class="top-product-name">{{ .name }}</div>
+            <div class="top-product-price">{{ if eq .price "0.00" }}Gratis{{ else }}Vanaf &euro;{{ .price }}/mnd{{ end }}</div>
+          </div>
+          <a href="{{ .url }}" class="top-product-cta cta-affiliate" target="_blank" rel="noopener noreferrer">Bekijk &rarr;</a>
+        </div>
+        {{ end }}
+        {{ $shown = add $shown 1 }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
 {{/* ===== 5. POPULAIRE VERGELIJKINGEN ===== */}}
 {{ $allPosts := where .Site.RegularPages "Type" "blog" }}
-{{ $popularPosts := first 4 $allPosts }}
+{{ $withProducts := where $allPosts ".Params.products" "!=" nil }}
+{{ $popularPosts := first 4 $withProducts }}
 {{ if $popularPosts }}
 <div class="section section-alt">
   <div class="container wide">

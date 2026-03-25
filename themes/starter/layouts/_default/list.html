@@ -9,16 +9,37 @@
       </div>
       <h1 class="article-hero-title">{{ .Title }}</h1>
       {{ with .Description }}<div class="meta meta-light">{{ . }}</div>{{ end }}
+      {{ if .Pages }}<div class="meta meta-light" style="margin-top:0.5rem;">{{ len .Pages }} {{ if eq (len .Pages) 1 }}artikel{{ else }}artikelen{{ end }}</div>{{ end }}
     </div>
   </div>
 </div>
 <div class="container wide" style="padding-top:1.5rem;">
   {{ .Content }}
+
+  {{/* Category page CTA + filter bar */}}
   {{ if .Pages }}
-  <div class="card-grid" style="margin-top:1.5rem;">
+  <div class="list-toolbar">
+    <div class="list-filter" id="listFilter">
+      <button class="filter-btn active" data-filter="all">Alles</button>
+      <button class="filter-btn" data-filter="review">Reviews</button>
+      <button class="filter-btn" data-filter="vs">Vergelijkingen</button>
+      <button class="filter-btn" data-filter="prijs">Prijzen</button>
+    </div>
+    <a href="/tools/" class="btn btn-accent btn-sm">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+      Keuzehulp
+    </a>
+  </div>
+
+  <div class="card-grid" style="margin-top:1rem;" id="cardGrid">
     {{ range .Pages }}
     {{ $pageTitle := .Title }}
-    <div class="card">
+    {{ $slug := .File.BaseFileName }}
+    {{ $type := "info" }}
+    {{ if findRE "review" $slug }}{{ $type = "review" }}
+    {{ else if or (findRE "\\bvs\\b" $slug) (findRE "vergelijk" $slug) (findRE "beste" $slug) (findRE "alternatieven" $slug) }}{{ $type = "vs" }}
+    {{ else if findRE "prij" $slug }}{{ $type = "prijs" }}{{ end }}
+    <div class="card" data-type="{{ $type }}">
       {{ with .Params.featured_image }}<img src="/{{ strings.TrimPrefix "/" . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
       <div class="card-body">
         {{ with .Params.categories }}{{ range first 1 . }}<a href="/categories/{{ . | urlize }}/" class="card-category">{{ . | humanize | title }}</a>{{ end }}{{ end }}
@@ -37,4 +58,26 @@
   </div>
   {{ end }}
 </div>
+
+<script>
+(function(){
+  var btns = document.querySelectorAll('.filter-btn');
+  var cards = document.querySelectorAll('#cardGrid .card');
+  if(!btns.length || !cards.length) return;
+  btns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      btns.forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+      var f = btn.dataset.filter;
+      cards.forEach(function(c){
+        if(f === 'all' || c.dataset.type === f){
+          c.style.display = '';
+        } else {
+          c.style.display = 'none';
+        }
+      });
+    });
+  });
+})();
+</script>
 {{ end }}

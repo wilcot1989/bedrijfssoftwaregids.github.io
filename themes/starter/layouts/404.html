@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="container" style="padding:6rem 1.5rem;text-align:center;max-width:600px;">
+  <div style="font-size:5rem;font-weight:900;color:var(--emerald-500);letter-spacing:-0.04em;line-height:1;">404</div>
+  <h1 style="font-size:1.6rem;margin-top:1rem;">Pagina niet gevonden</h1>
+  <p style="color:var(--text-sub);margin:1rem 0 2rem;font-size:1rem;line-height:1.7;">De pagina die je zoekt bestaat niet meer of is verplaatst. Geen zorgen — hieronder vind je snel wat je nodig hebt.</p>
+  <div style="display:flex;gap:0.75rem;justify-content:center;flex-wrap:wrap;">
+    <a href="/tools/" class="btn btn-accent btn-lg">Gratis keuzehulp &rarr;</a>
+    <a href="/blog/" class="btn btn-outline btn-lg">Alle artikelen</a>
+  </div>
+  <div style="margin-top:3rem;text-align:left;">
+    <h3 style="font-size:1.1rem;margin-bottom:1rem;">Populaire categorieën</h3>
+    <div class="cat-grid">
+      <a href="/categories/boekhouding/" class="cat-card"><div class="cat-info"><span class="cat-name">Boekhouding</span></div></a>
+      <a href="/categories/crm/" class="cat-card"><div class="cat-info"><span class="cat-name">CRM Software</span></div></a>
+      <a href="/categories/projectmanagement/" class="cat-card"><div class="cat-info"><span class="cat-name">Projectmanagement</span></div></a>
+      <a href="/categories/kassasystemen/" class="cat-card"><div class="cat-info"><span class="cat-name">Kassasystemen</span></div></a>
+      <a href="/categories/hr-software/" class="cat-card"><div class="cat-info"><span class="cat-name">HR Software</span></div></a>
+      <a href="/categories/marketing/" class="cat-card"><div class="cat-info"><span class="cat-name">Marketing</span></div></a>
+    </div>
+  </div>
+</div>
+{{ end }}

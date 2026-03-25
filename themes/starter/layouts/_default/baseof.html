@@ -373,6 +373,11 @@
     .read-more::after { content: "\2192"; transition: transform 0.15s; }
     .read-more:hover::after { transform: translateX(3px); }
     .empty-state { text-align: center; padding: 4rem 1rem; color: var(--text-muted); }
+    .list-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-top: 1.5rem; }
+    .list-filter { display: flex; gap: 0.35rem; flex-wrap: wrap; }
+    .filter-btn { background: var(--gray-100); color: var(--text-sub); border: none; padding: 0.4rem 0.9rem; border-radius: var(--radius-full); font-size: 0.82rem; font-weight: 600; cursor: pointer; font-family: var(--font); transition: all 0.15s; }
+    .filter-btn:hover { background: var(--gray-200); color: var(--text); }
+    .filter-btn.active { background: var(--primary); color: #fff; }
     .popular-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem; }
     .tags { margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.35rem; }
     .tag { display: inline-block; background: var(--gray-100); color: var(--text-sub); padding: 0.2rem 0.65rem; border-radius: var(--radius-full); font-size: 0.72rem; font-weight: 600; text-decoration: none; transition: background 0.15s; }
@@ -415,6 +420,19 @@
     .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; text-align: center; }
     .stat-number { font-size: 3rem; font-weight: 900; color: #fff; letter-spacing: -0.03em; display: block; line-height: 1; }
     .stat-label { font-size: 0.88rem; color: var(--emerald-200); margin-top: 0.5rem; display: block; font-weight: 500; }
+
+    /* ===== TOP PRODUCTS GRID (homepage) ===== */
+    .top-products-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; }
+    .top-product-card { display: flex; align-items: center; gap: 0.75rem; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem 1.25rem; transition: all 0.25s; }
+    .top-product-card:hover { border-color: var(--primary); box-shadow: var(--shadow-md); transform: translateY(-2px); }
+    .top-product-rank { width: 32px; height: 32px; background: linear-gradient(135deg, var(--emerald-600), var(--emerald-500)); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #fff; font-size: 0.8rem; font-weight: 800; flex-shrink: 0; }
+    .top-product-info { flex: 1; min-width: 0; }
+    .top-product-name { font-weight: 700; font-size: 0.92rem; color: var(--text); }
+    .top-product-price { font-size: 0.78rem; color: var(--text-muted); margin-top: 0.1rem; }
+    .top-product-cta { display: inline-flex; align-items: center; gap: 0.3rem; background: linear-gradient(135deg, var(--amber-500), var(--amber-600)); color: #fff; padding: 0.45rem 0.9rem; border-radius: var(--radius-sm); font-size: 0.78rem; font-weight: 700; text-decoration: none; white-space: nowrap; flex-shrink: 0; box-shadow: 0 2px 6px rgba(245,158,11,0.25); transition: all 0.2s; }
+    .top-product-cta:hover { color: #fff; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(245,158,11,0.35); }
+    @media (max-width: 900px) { .top-products-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 600px) { .top-products-grid { grid-template-columns: 1fr; } }
 
     /* ===== CTA BANNER ===== */
     .cta-banner { padding: 4.5rem 0; background: var(--gray-900); text-align: center; position: relative; overflow: hidden; }
@@ -828,18 +846,13 @@
         <div class="footer-col">
           <h4>Categorieën</h4>
           <ul>
-            <li><a href="/categories/kassasystemen/">Kassasystemen</a></li>
-            <li><a href="/categories/crm/">CRM Software</a></li>
             <li><a href="/categories/boekhouding/">Boekhouding</a></li>
-            <li><a href="/categories/projectmanagement/">Projectmanagement</a></li>
-          </ul>
-        </div>
-        <div class="footer-col">
-          <h4>Meer</h4>
-          <ul>
+            <li><a href="/categories/crm/">CRM Software</a></li>
             <li><a href="/categories/hr-software/">HR Software</a></li>
+            <li><a href="/categories/kassasystemen/">Kassasystemen</a></li>
             <li><a href="/categories/marketing/">Marketing</a></li>
             <li><a href="/categories/productiviteit/">Productiviteit</a></li>
+            <li><a href="/categories/projectmanagement/">Projectmanagement</a></li>
             <li><a href="/categories/webshops/">Webshops</a></li>
           </ul>
         </div>
@@ -849,7 +862,15 @@
             <li><a href="/blog/">Alle artikelen</a></li>
             <li><a href="/tools/">Gratis Tools</a></li>
             <li><a href="/about/">Over Lars</a></li>
+            <li><a href="/contact/">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Juridisch</h4>
+          <ul>
             <li><a href="/privacy/">Privacybeleid</a></li>
+            <li><a href="/disclaimer/">Affiliate Disclaimer</a></li>
+            <li><a href="/voorwaarden/">Algemene Voorwaarden</a></li>
           </ul>
         </div>
       </div>
