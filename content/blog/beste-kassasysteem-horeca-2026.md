@@ -329,7 +329,7 @@ Ik raad Square NIET aan voor:
 
 ## 5. Zettle by PayPal
 
-Zettle is de ultieme mobiele oplossing voor foodtrucks, pop-ups en kleine cafes. Ik heb het geadviseerd aan een foodtruck-eigenaar die elke week op een andere locatie stond: reader in de zak, telefoon erbij, klaar. De software is gratis, je betaalt alleen per transactie. Het mist horecaspecifieke functies als tafelmanagement, maar voor wie dat niet nodig heeft, is het de eenvoudigste start. Op Trustpilot scoort Zettle een 3.3/5 (5.500+ reviews) — de meningen zijn verdeeld. Fans waarderen de eenvoud, kritiek gaat over de klantenservice bij problemen.
+Zettle is de beste mobiele oplossing voor foodtrucks, pop-ups en kleine cafes. Ik heb het geadviseerd aan een foodtruck-eigenaar die elke week op een andere locatie stond: reader in de zak, telefoon erbij, klaar. De software is gratis, je betaalt alleen per transactie. Het mist horecaspecifieke functies als tafelmanagement, maar voor wie dat niet nodig heeft, is het de eenvoudigste start. Op Trustpilot scoort Zettle een 3.3/5 (5.500+ reviews) — de meningen zijn verdeeld. Fans waarderen de eenvoud, kritiek gaat over de klantenservice bij problemen.
 
 **Zettle vs Square: wat is het verschil?** Veel mensen vragen me dit. Kort antwoord: ze zijn vergelijkbaar, maar Zettle heeft een iets hogere transactiekost (1,95% vs 1,75%) en is iets meer gericht op de Europese markt. De PayPal-achtergrond betekent dat uitbetalingen snel zijn en de betalingsverwerking betrouwbaar. Zettle heeft ook een iets compactere reader dan Square, wat voor een foodtruck handig is.
 

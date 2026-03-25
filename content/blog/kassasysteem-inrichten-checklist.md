@@ -162,7 +162,7 @@ Medewerkers die het systeem niet kennen, worden zenuwachtig. Zenuwachtige medewe
 
 ---
 
-## De ultieme inrichtingschecklist
+## De complete inrichtingschecklist
 
 Gebruik dit als definitieve controle voor je opening:
 

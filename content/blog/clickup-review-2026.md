@@ -111,7 +111,7 @@ ClickUp Brain is de AI-laag van ClickUp, beschikbaar als add-on voor $7/gebruike
 - **Automatische samenvattingen**: taken en threads samenvatten
 - **Slimme invulling**: taakbeschrijvingen en checklists genereren
 
-In mijn tests werkt ClickUp Brain prima voor basistaken, maar het is geen game-changer vergeleken met het rechtstreeks gebruik van ChatGPT of Notion AI. De toegevoegde waarde zit met name in de integratie met je bestaande werkdata in ClickUp.
+In mijn tests werkt ClickUp Brain prima voor basistaken, maar het is geen grote stap vooruit vergeleken met het rechtstreeks gebruik van ChatGPT of Notion AI. De toegevoegde waarde zit met name in de integratie met je bestaande werkdata in ClickUp.
 
 ## Free Forever plan: wat krijg je echt?
 

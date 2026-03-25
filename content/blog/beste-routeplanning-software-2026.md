@@ -171,7 +171,7 @@ Voor logistiek managers is de mogelijkheid om historische data te analyseren waa
 
 Een unieke kracht van Route4Me is dynamische herplanning. Als halverwege de dag een noodlevering wordt toegevoegd, of als een klant zijn tijdvenster wijzigt, herberekent de tool direct de route voor alle betrokken chauffeurs. De chauffeur krijgt de bijgewerkte route automatisch op zijn telefoon.
 
-Dit is een game-changer voor bezorgoperaties waarbij last-minute wijzigingen de norm zijn, zoals in de voedsellogistiek of medische leveringen.
+Dit is een grote verbetering voor bezorgoperaties waarbij last-minute wijzigingen de norm zijn, zoals in de voedsellogistiek of medische leveringen.
 
 ### Prijs
 

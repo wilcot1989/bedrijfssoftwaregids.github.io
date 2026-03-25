@@ -102,6 +102,31 @@
   </script>
   {{ partial "schema-faq.html" . }}
   {{ partial "schema-webapp.html" . }}
+  {{ with .File }}{{ if and $.Params.products (in .BaseFileName "review") }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "name": "{{ $.Title }}",
+    "reviewBody": "{{ $.Description }}",
+    "datePublished": "{{ $.Date.Format "2006-01-02" }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ with $.Params.author }}{{ . }}{{ else }}Lars de Vries{{ end }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "BedrijfsSoftwareGids",
+      "url": "{{ $.Site.BaseURL }}"
+    },
+    "itemReviewed": {
+      "@type": "SoftwareApplication",
+      "name": "{{ with $.Params.products }}{{ (index . 0).name }}{{ else }}{{ $.Title }}{{ end }}",
+      "applicationCategory": "BusinessApplication"
+    }
+  }
+  </script>
+  {{ end }}{{ end }}
   {{ if .Params.categories }}
   <script type="application/ld+json">
   {

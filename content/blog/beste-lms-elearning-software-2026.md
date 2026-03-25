@@ -504,7 +504,7 @@ Mijn praktische eindadvies:
 
 <a href="https://dpbolvw.net/click-101698621-13855808" rel="noopener nofollow sponsored" class="cta-affiliate">Combineer je LMS met Google Workspace voor soepele samenwerking en e-learning</a>
 
-Wil je ook de rest van je HR-softwarestack optimaliseren? Bekijk mijn overzicht van de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/), lees over de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/), of ontdek hoe je [personeelsdossiers kunt digitaliseren conform de AVG](/blog/personeelsdossier-digitaliseren-avg/).
+Wil je ook de rest van je HR-softwarestack optimaliseren? Bekijk mijn overzicht van de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/), lees over de [beste recruitment software 2026](/blog/beste-recruitment-software-2026/), of lees hoe je [personeelsdossiers kunt digitaliseren conform de AVG](/blog/personeelsdossier-digitaliseren-avg/).
 
 ---
 

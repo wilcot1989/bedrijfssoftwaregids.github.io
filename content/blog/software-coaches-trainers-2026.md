@@ -157,7 +157,7 @@ Lees ook mijn uitgebreide [Pipedrive review 2026](/blog/pipedrive-review-2026/) 
 - Geen ingebouwde facturatiefunctionaliteit
 - Minder marketingtools dan HubSpot
 
-> **Pipedrive proberen?** Start een gratis proefperiode van 14 dagen en ontdek hoe de visuele pijplijn werkt voor jouw coachingspraktijk.
+> **Pipedrive proberen?** Start een gratis proefperiode van 14 dagen en bekijk hoe de visuele pijplijn werkt voor jouw coachingspraktijk.
 
 <a href="https://aff.trypipedrive.com/65scdzrtiyaj" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start gratis Pipedrive trial →</a>
 

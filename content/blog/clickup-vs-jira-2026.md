@@ -231,7 +231,7 @@ ClickUp Brain is een AI-assistent die contextueel begrip heeft van je hele werkr
 - **Duplicate detectie:** Identificeert vergelijkbare bestaande issues
 - **JQL-assistent:** Vertaal gewone vragen naar Jira Query Language
 
-Beide AI-implementaties zijn nuttig maar nog geen game-changers. ClickUp Brain is bruikbaarder voor mixed teams; Atlassian Intelligence specifiek waardevoller voor development-teams.
+Beide AI-implementaties zijn nuttig maar maken nog geen groot verschil. ClickUp Brain is bruikbaarder voor mixed teams; Atlassian Intelligence specifiek waardevoller voor development-teams.
 
 ---
 
