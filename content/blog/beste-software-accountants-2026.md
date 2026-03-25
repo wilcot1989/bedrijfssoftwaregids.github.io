@@ -40,7 +40,7 @@ Je beheert tientallen tot honderden administraties. De software moet het schakel
 
 ### Samenstellen en jaarrekening
 
-De samenstelpraktijk draait om efficiëntie in de drukste periode van het jaar. Je wilt jaarrekeningen kunnen genereren op basis van de lopende administratie, zonder handmatig overzetten. SBR-ready is daarbij verplicht: de Kamer van Koophandel en Belastingdienst accepteren alleen XBRL-taxonomie.
+De samenstelpraktijk draait om efficiëntie in de drukste periode van het jaar. Je wilt jaarrekeningen kunnen genereren op basis van de lopende administratie, zonder handmatig overzetten. SBR-ready is daarbij verplicht: de Kamer van Koophandel en Belastingdienst accepteren alleen XBRL-taxonomie. Wil je weten welke software specifiek voor het samenstellen van jaarrekeningen het beste werkt? Lees dan mijn vergelijking van [jaarrekening software voor accountants](/blog/jaarrekening-software-accountants-2026/).
 
 ### Audit trail en compliance
 
@@ -533,7 +533,7 @@ Ongeacht welk pakket je kiest, een softwareoverstap is een project. Hier zijn de
 
 3. **Train je team.** De software is zo goed als de mensen die ermee werken. Investeer in een dagdeel training per medewerker — dat verdien je in de eerste maand terug.
 
-4. **Check de koppelingen.** Gebruik je cliënten andere software (Mollie, Lightspeed, Shopify)? Controleer vooraf of de koppelingen bestaan en werken. Niets zo frustrerend als een mooie demo die in de praktijk vastloopt op een ontbrekende integratie. Heb je cliënten die ook willen begrijpen hoe boekhouden en factureren gecombineerd kunnen worden? Lees dan het artikel [factureren en boekhouden alles-in-een](/blog/factureren-en-boekhouden-alles-in-een/). Cliënten die twijfelen of ze software zelf willen gebruiken of uitbesteden aan een boekhouder, kun je wijzen op de [kostenvergelijking boekhoudsoftware vs. boekhouder](/blog/boekhoudsoftware-vs-boekhouder-kostenvergelijking/). En cliënten die vragen hebben over BTW-aangifte kun je doorsturen naar mijn artikel over [welke boekhoudsoftware het beste werkt voor BTW-aangifte](/blog/btw-aangifte-welke-boekhoudsoftware/).
+4. **Check de koppelingen.** Gebruik je cliënten andere software (Mollie, Lightspeed, Shopify)? Controleer vooraf of de koppelingen bestaan en werken. Niets zo frustrerend als een mooie demo die in de praktijk vastloopt op een ontbrekende integratie. Heb je cliënten die ook willen begrijpen hoe boekhouden en factureren gecombineerd kunnen worden? Lees dan het artikel [factureren en boekhouden alles-in-een](/blog/factureren-en-boekhouden-alles-in-een/). Cliënten die twijfelen of ze software zelf willen gebruiken of uitbesteden aan een boekhouder, kun je wijzen op de [kostenvergelijking boekhoudsoftware vs. boekhouder](/blog/boekhoudsoftware-vs-boekhouder-kostenvergelijking/). En cliënten die vragen hebben over BTW-aangifte kun je doorsturen naar mijn artikel over [welke boekhoudsoftware het beste werkt voor BTW-aangifte](/blog/btw-aangifte-welke-boekhoudsoftware/). Voor cliënten die hun volledige belastingaangifte (IB, VpB en BTW) zelf willen doen, is mijn overzicht van de [beste belastingaangifte software](/blog/beste-belastingaangifte-software-2026/) een praktisch startpunt.
 
 5. **Onderhandel.** Vooral bij Exact en Twinfield is er ruimte in de prijs. Vraag meerdere offertes aan en laat ze weten dat je vergelijkt.
 

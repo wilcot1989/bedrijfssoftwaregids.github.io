@@ -2,7 +2,7 @@
 title: "HR software bij je eerste werknemer: wat je echt nodig hebt"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "Eerste werknemer in dienst? Ontdek welke HR software je écht nodig hebt als kleine werkgever. Inclusief keuzehulp voor ZZP en klein MKB."
+description: "Eerste werknemer in dienst? Leer welke HR software je écht nodig hebt als kleine werkgever. Inclusief keuzehulp voor ZZP en klein MKB."
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/hr-software.svg"

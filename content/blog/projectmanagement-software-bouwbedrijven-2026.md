@@ -81,7 +81,7 @@ Zoek je een bredere vergelijking van projectmanagement tools buiten de bouw? Lee
 
 Een bouwproject is fundamenteel anders dan een softwareproject of een marketingcampagne. Er zijn een paar kenmerken die bouw-specifieke eisen stellen aan je software:
 
-**Meerdere partijen op één project.** Een gemiddeld bouwproject heeft de hoofdaannemer, meerdere onderaannemers, een architect, een constructeur en soms een opdrachtgever die zelf ook meekijkt. Al die partijen moeten de juiste informatie krijgen, maar niet elkaars vertrouwelijke gegevens zien.
+**Meerdere partijen op één project.** Een gemiddeld bouwproject heeft de hoofdaannemer, meerdere onderaannemers, een architect, een constructeur en soms een opdrachtgever die zelf ook meekijkt. Werk je zelf als architect of ontwerpbureau? Bekijk dan mijn overzicht van [software voor architecten en ontwerpbureaus](/blog/software-architecten-ontwerpbureaus-2026/) voor tools specifiek gericht op jouw werkproces. Al die partijen moeten de juiste informatie krijgen, maar niet elkaars vertrouwelijke gegevens zien.
 
 **Tekeningen en revisies.** Op een bouwplaats werkt iedereen vanuit tekeningen. Als er een revisie uitkomt en de metselaar werkt nog met de oude versie, heeft dat directe gevolgen. Documentbeheer is in de bouw geen bijzaak maar een veiligheidskwestie.
 

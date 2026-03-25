@@ -104,7 +104,7 @@ Niets zo onprofessioneel als een offerte in een Word-document dat je als bijlage
 - **[Rompslomp](https://rompslomp.nl/)** (€7,50/mnd) — het Puur Factuur-pakket bevat al offertes en facturen. De goedkoopste optie als je puur wilt factureren en offreren.
 - **[PandaDoc](https://www.pandadoc.com/)** (gratis basisplan) — als je uitgebreide offertes met e-handtekeningen wilt. Meer geschikt voor ZZP'ers die complexe voorstellen maken (consultants, designers).
 
-**Mijn advies:** als je al Moneybird of Rompslomp gebruikt, heb je geen apart offertepakket nodig — het zit er in. Meer opties: [Beste Offertesoftware 2026](/blog/beste-offerte-software-2026/).
+**Mijn advies:** als je al Moneybird of Rompslomp gebruikt, heb je geen apart offertepakket nodig — het zit er in. Meer opties: [Beste Offertesoftware 2026](/blog/beste-offerte-software-2026/). Zoek je specifiek offertesoftware voor ZZP'ers, inclusief gratis opties? Lees dan mijn artikel over [offertesoftware voor ZZP'ers](/blog/offerte-software-zzp-2026/).
 
 <a href="https://pandadoc.partnerlinks.io/rci4tsq4td8g" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar pandadoc.com →</a>
 

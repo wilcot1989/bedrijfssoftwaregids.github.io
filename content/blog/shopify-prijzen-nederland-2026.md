@@ -370,6 +370,16 @@ Koop geen betaald thema totdat je weet wat je winkel echt nodig heeft. Een grati
 **6. Vergelijk plannen op basis van omzet, niet op basis van abonnementsprijs**
 De abonnementsprijs is slechts een deel van de kosten. Reken altijd de totale kosten inclusief transactiekosten door op jouw verwachte omzet. Dat geeft een veel realistischer beeld.
 
+## Wanneer loont upgraden van Basic naar het Shopify-plan?
+
+Het omslagpunt hangt volledig af van je betaalsetup en je maandomzet. Laat me het concreet doorrekenen.
+
+**Als je Shopify Payments gebruikt:** het prijsverschil is puur het verschil in abonnementskosten (€105 - €36 = €69/mnd). Shopify Payments verlaagt de kaartkosten licht bij hogere plannen, maar het verschil is klein (circa 0,1-0,2%). Bij €10.000 maandomzet bespaart dat €10-20 per maand aan kaartkosten. Conclusie: bij Shopify Payments loont het Shopify-plan pas bij circa €30.000-40.000 maandomzet, en dan vooral vanwege de betere rapportages en extra medewerkeraccounts.
+
+**Als je een externe provider (Mollie, MultiSafepay) gebruikt:** het omslagpunt is veel lager. De transactiekosten dalen van 2% naar 1% — een besparing van 1% van je omzet. Bij €7.000 maandomzet bespaart dat €70 per maand, exact genoeg om het prijsverschil van €69 te compenseren. Boven de €7.000 wordt het Shopify-plan actief goedkoper.
+
+**Mijn vuistregel:** gebruik je een externe betaalprovider en zit je boven de €7.000 maandomzet? Upgrade naar het Shopify-plan. Gebruik je Shopify Payments? Blijf dan op Basic totdat je de rapportages of extra medewerkeraccounts nodig hebt.
+
 ## Mijn conclusie
 
 Shopify is een kwalitatief sterk platform dat zijn prijs waard is — mits je weet waarvoor je betaalt. De abonnementsprijzen zijn transparant: €36, €105 of €384 per maand. Maar het complete plaatje, inclusief transactiekosten bij externe betaalproviders, apps en thema's, is een stuk complexer.

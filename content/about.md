@@ -1,5 +1,5 @@
 ---
-title: "Over Bedrijfssoftwaregids"
+title: "Over Bedrijfssoftwaregids — Wie is Lars de Vries?"
 description: "Maak kennis met Lars de Vries — software consultant en de persoon achter de onafhankelijke reviews op Bedrijfssoftwaregids.nl."
 layout: "single"
 ---

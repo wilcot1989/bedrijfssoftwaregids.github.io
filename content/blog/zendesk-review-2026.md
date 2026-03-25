@@ -343,7 +343,7 @@ Maar het is niet perfect voor iedereen. De prijs is hoog, de leercurve is steil 
 
 **Cijfer 7,5/10** — Uitstekend platform met terechte prijs, maar niet de beste keuze voor elk bedrijf.
 
-Heb je een klein team of zoek je een toegankelijker alternatief? Kijk dan ook naar [Freshdesk](/blog/freshdesk-review-2026/) of [Trengo](/blog/trengo-review-2026/). En voor een totaaloverzicht van de markt: mijn [beste klantenservice software gids](/blog/beste-klantenservice-software-2026/) helpt je de juiste keuze te maken.
+Heb je een klein team of zoek je een toegankelijker alternatief? Kijk dan ook naar [Freshdesk](/blog/freshdesk-review-2026/) of [Trengo](/blog/trengo-review-2026/). Wil je alle kanalen echt vanuit één platform bedienen? Lees dan mijn vergelijking van de [beste omnichannel software 2026](/blog/beste-omnichannel-software-2026/). En voor een totaaloverzicht van de markt: mijn [beste klantenservice software gids](/blog/beste-klantenservice-software-2026/) helpt je de juiste keuze te maken.
 
 <a href="https://www.zendesk.com/nl/" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Zendesk 14 dagen gratis — geen creditcard nodig</a>
 

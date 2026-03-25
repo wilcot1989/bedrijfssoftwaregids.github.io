@@ -357,6 +357,8 @@ Close biedt een data-export mogelijkheid voor leads, contacts, activities en dea
 
 - [Beste CRM software Nederland 2026](/blog/beste-crm-software-nederland-2026/) — uitgebreide vergelijking van 8 systemen
 - [Pipedrive review 2026](/blog/pipedrive-review-2026/) — de directe concurrent
+- [HubSpot vs Close CRM 2026](/blog/hubspot-vs-close-crm-2026/) — directe vergelijking
+- [Zoho vs Close CRM 2026](/blog/zoho-vs-close-crm-2026/) — ecosysteem vs inside sales
 - [HubSpot CRM review 2026](/blog/hubspot-crm-review-2026/) — het populairste gratis CRM
 - [Salesforce review 2026](/blog/salesforce-review-2026/) — het enterprise-alternatief
 - [Teamleader review 2026](/blog/teamleader-review-2026/) — CRM + projectbeheer voor het MKB

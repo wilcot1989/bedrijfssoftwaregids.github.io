@@ -2,7 +2,7 @@
 title: "Beste VPN Zakelijk 2026: Top 5 voor MKB"
 date: 2026-03-22
 lastmod: 2026-03-22
-description: "Beste zakelijke VPN 2026: NordVPN, Perimeter81, Cisco Meraki, ExpressVPN en Mullvad vergeleken op prijs en functies."
+description: "Beste zakelijke VPN 2026: NordVPN, Perimeter81, Cisco Meraki, ExpressVPN en Mullvad vergeleken op prijs, functies en veiligheid voor MKB."
 categories: ["beveiliging"]
 tags:
   - vpn

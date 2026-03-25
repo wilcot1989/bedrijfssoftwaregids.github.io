@@ -40,7 +40,7 @@ Dat is wat een goed LMS doet: het maakt leren schaalbaar, traceerbaar en consist
 
 In dit artikel vergelijk ik de **5 beste LMS-systemen voor Nederlandse bedrijven** in 2026. Van intuïtieve cloud-platforms voor het MKB tot open-source systemen voor wie maximale controle wil. Per tool bespreek ik de prijs, de functies, de integratiemogelijkheden en voor wie het de beste keuze is.
 
-Gebruik je al HR-software? Bekijk dan ook mijn overzicht van de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/) of mijn gids over [personeelsdossiers digitaliseren conform de AVG](/blog/personeelsdossier-digitaliseren-avg/). Wil je ook je onboardingproces verbeteren? Lees dan over [HR-software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/).
+Gebruik je al HR-software? Bekijk dan ook mijn overzicht van de [beste HR-software voor Nederland 2026](/blog/beste-hr-software-nederland-2026/) of mijn gids over [personeelsdossiers digitaliseren conform de AVG](/blog/personeelsdossier-digitaliseren-avg/). Ben je actief in het onderwijs? Lees dan mijn vergelijking van [software voor onderwijsinstellingen](/blog/software-onderwijsinstellingen-2026/) voor LMS-systemen specifiek gericht op scholen en universiteiten. Wil je ook je onboardingproces verbeteren? Lees dan over [HR-software bij je eerste werknemer](/blog/hr-software-bij-eerste-werknemer/).
 
 ## Wat is een LMS en waarom heb je het nodig?
 

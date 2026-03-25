@@ -2,7 +2,7 @@
 title: "Trello Review 2026: Simpel maar Krachtig Genoeg?"
 date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-03-24
-description: "Trello review 2026: Kanban-boards, Power-Ups en Butler automation getest. Is Trello genoeg voor jouw team — of mis je toch essentiële functies?"
+description: "Trello review 2026: Kanban-boards, Power-Ups en Butler automation getest. Is Trello genoeg voor jouw team — of mis je toch belangrijke functies?"
 categories: ["projectmanagement"]
 tags:
   - projectmanagement

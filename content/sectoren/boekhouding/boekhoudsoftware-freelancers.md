@@ -1,7 +1,7 @@
 ---
 title: "Boekhoudsoftware voor freelancers (2026): vergelijk en kies"
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-03-25
 description: "Boekhoudsoftware voor freelancers vergelijken: Moneybird, Bonsai en e-Boekhouden op urenbeheer, projectfacturatie en internationale klanten. Start keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
@@ -31,6 +31,8 @@ affiliate: true
 
 Freelancers werken anders dan zelfstandigen met een vaste dienstverlening. Je werkt op projectbasis, factureert per uur of per mijlpaal, hebt regelmatig internationale opdrachtgevers en wilt weten of een project winstgevend is voor je de volgende aanneemt. De meeste generieke boekhoudtools missen precies de functies die jij nodig hebt: urenregistratie, projectbeheer en meervaluta-facturatie. Ik bespreek de tools die ik het vaakst zie werken bij freelancers.
 
+Ik heb de afgelopen jaren tientallen freelancers geholpen met hun softwarekeuze. Wat me opvalt: de meesten beginnen met een gratis tool of Excel, lopen na drie maanden vast op BTW-verlegd facturen of meervaluta, en stappen dan over naar een betaald systeem. Die overstap kost je een halve werkdag en de kans op fouten in je openingsbalans is groot. Het loont om meteen het juiste systeem te kiezen.
+
 ## Wat heeft een freelancer nodig van boekhoudsoftware?
 
 Freelancers hebben specifieke behoeften die afwijken van een standaard ZZP'er of MKB-bedrijf:
@@ -42,6 +44,52 @@ Freelancers hebben specifieke behoeften die afwijken van een standaard ZZP'er of
 - **Offertes en contracten** -- Projectvoorstel sturen, akkoord ontvangen en direct starten
 - **Cashflow-inzicht** -- Weten welke facturen open staan en wanneer je geld verwacht
 - **Integraties** -- Koppeling met tijdregistratie, projectmanagement of communicatietools
+
+## Waar let je op bij het kiezen van boekhoudsoftware als freelancer?
+
+Ik krijg van freelancers vaak de vraag: "Waar moet ik op letten?" Hieronder de criteria die ik standaard doorloop bij een adviesgesprek.
+
+### 1. Meervaluta-ondersteuning
+
+Werk je voor klanten in het Verenigd Koninkrijk, de VS of Scandinavie? Dan wil je facturen in ponden, dollars of Zweedse kronen sturen. Niet elk boekhoudpakket kan dat. Moneybird ondersteunt meervaluta standaard; Bunni en e-Boekhouden.nl doen dat niet of beperkt. Dit is een dealbreaker als meer dan 20% van je omzet internationaal is.
+
+### 2. Automatische BTW-verlegd verwerking
+
+Als freelancer met EU-klanten maak je regelmatig facturen met BTW-verlegd. Je software moet dit automatisch herkennen op basis van het BTW-nummer van de klant en de juiste ICP-opgave genereren. Handmatig bijhouden in een spreadsheet leidt gegarandeerd tot fouten bij de kwartaalaangifte.
+
+### 3. Urenregistratie gekoppeld aan facturatie
+
+De meeste freelancers factureren op uurbasis. Als je uren in een apart systeem registreert en dan handmatig overneemt in je boekhoudsoftware, maak je fouten en verlies je factureerbare uren. Moneybird heeft native urenregistratie in het Growth-plan. Bunni heeft dat ook. Bij e-Boekhouden.nl en Yuki moet je een apart systeem (Toggl, Harvest) koppelen.
+
+### 4. Offerteflow: van voorstel naar factuur
+
+Een goede freelance-workflow is: offerte versturen, klant akkoord, project starten, uren registreren, factuur genereren. In Moneybird gaat dit in vier klikken. Bij e-Boekhouden.nl is de offertemodule minder sterk -- je maakt een offerte, maar de koppeling naar projecturen ontbreekt.
+
+### 5. Bankkoppeling en automatische matching
+
+Elke keer dat je handmatig een betaling aan een factuur koppelt, verlies je twee minuten. Bij tien facturen per maand is dat twintig minuten -- op jaarbasis vier uur. Moneybird, Bunni en e-Boekhouden.nl hebben allemaal bankkoppelingen, maar Moneybird matcht het slimste: na twee keer dezelfde koppeling herkent het systeem het patroon.
+
+### 6. Kosten voor jouw specifieke situatie
+
+De goedkoopste optie is niet altijd de beste. Bereken je totale kosten per jaar, inclusief eventuele extra modules. Hieronder een concreet rekenvoorbeeld:
+
+| Situatie | Moneybird Growth | Bunni | e-Boekhouden.nl | Yuki |
+|----------|-----------------|-------|-----------------|------|
+| Maandkosten | EUR 28 | EUR 15 | EUR 8,95 | EUR 35 |
+| Jaarkosten | EUR 336 | EUR 180 | EUR 107,40 | EUR 420 |
+| Urenregistratie | Inbegrepen | Inbegrepen | Extra tool nodig (~EUR 10/mnd) | Extra tool nodig |
+| Boekhouder jaaraangifte | ~EUR 300 | ~EUR 300 | ~EUR 300 | Inbegrepen |
+| **Totaal per jaar** | **EUR 636** | **EUR 480** | **EUR 527** | **EUR 420** |
+
+Let op: bij Yuki is de boekhouder inbegrepen. Bij de andere drie moet je dat apart regelen. Als je die kosten meerekent, is Yuki niet per se duurder.
+
+### 7. Accountant-toegang
+
+Welk systeem je boekhouder ook kent, maakt uit. Moneybird en e-Boekhouden.nl worden door het overgrote deel van de Nederlandse boekhouders ondersteund. Yuki heeft een eigen netwerk van Yuki-boekhouders. Vraag je boekhouder vooraf welk systeem ze prefereren -- dat scheelt je elk kwartaal communicatietijd.
+
+### 8. Schaalruimte
+
+Begin je nu als freelancer, maar overweeg je over twee jaar een BV of een eerste medewerker? Dan wil je software die meegroeit. Moneybird schaalt goed naar het Professional-plan. E-Boekhouden.nl is beperkt in groei. Bunni is gebouwd voor kleine administraties en wordt lastig bij een BV-structuur.
 
 ## Beste boekhoudsoftware voor freelancers
 
@@ -98,9 +146,9 @@ Bunni is boekhoudsoftware voor ZZP'ers en freelancers die gewoon willen facturer
 
 **Wat ontbreekt:** Geen meervaluta-facturatie; niet geschikt voor freelancers met internationale klanten in vreemde valuta.
 
-**Prijs:** €10 per maand (omzet onder €2.500/mnd). €15 per maand voor het standaard plan.
+**Prijs:** EUR 10 per maand (omzet onder EUR 2.500/mnd). EUR 15 per maand voor het standaard plan.
 
-<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Bunni →</a>
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Bunni</a>
 
 ---
 
@@ -130,14 +178,55 @@ Veel freelancers hebben een externe boekhouder die ze eenmaal per kwartaal helpt
 |----------|----------------|-----------|----------------|----------------------|-------------------|
 | Moneybird | EUR 28 | Ja | Ja (Growth) | Nee | Ja |
 | Yuki | EUR 35 | Ja | Nee | Ja | Ja |
-| Bunni | EUR 10–15 | Nee | Ja | Nee | Nee |
+| Bunni | EUR 10-15 | Nee | Ja | Nee | Nee |
 | e-Boekhouden.nl | EUR 8,95 | Beperkt | Nee | Nee | Ja |
+
+## Praktijkvoorbeeld: freelance UX-designer met internationale klanten
+
+Laat me een concreet voorbeeld geven. Sara is UX-designer en werkt voor drie vaste klanten: een Nederlands marketingbureau, een Belgisch techbedrijf en een Britse startup. Ze factureert per uur (EUR 85/uur) en stuurt maandelijks drie facturen.
+
+**Haar uitdagingen:**
+- De Belgische klant betaalt in euro maar met BTW-verlegd (intracommunautaire levering)
+- De Britse klant betaalt in ponden, met 0% BTW (buiten de EU)
+- Ze wil haar uren per project bijhouden en direct koppelen aan facturen
+- Elk kwartaal moet ze een ICP-opgave doen voor de Belgische klant
+
+**Hoe ze dit oplost met Moneybird Growth (EUR 28/mnd):**
+1. Ze maakt drie klantrecords aan: per klant stelt ze de BTW-positie in (21% NL, BTW-verlegd BE, 0% UK)
+2. Ze registreert dagelijks haar uren per project in de ingebouwde tijdregistratie
+3. Aan het einde van de maand genereert ze per klant een factuur op basis van gewerkte uren
+4. De Britse factuur wordt automatisch in GBP verstuurd met de actuele wisselkoers
+5. Elk kwartaal genereert Moneybird automatisch de ICP-opgave voor de Belgische klant
+6. Bankbetalingen worden automatisch gematcht aan de juiste facturen
+
+**Resultaat:** Sara besteedt per maand twee uur aan haar administratie. Dat is minder dan de helft van wat ze eerder kwijt was met Excel en losse factuurtools.
+
+Had Sara alleen Nederlandse klanten gehad en geen uren willen registreren, dan was Bunni (EUR 10/mnd) de logische keuze geweest. Had ze helemaal geen tijd voor administratie, dan zou Yuki (EUR 35/mnd inclusief boekhouder) haar meer opleveren dan het kost.
+
+## Veelgemaakte fouten bij freelancers
+
+Ik zie deze fouten keer op keer terugkomen:
+
+**1. Geen gescheiden zakelijke bankrekening**
+Veel freelancers gebruiken hun prive-rekening voor zakelijke transacties. Dat maakt je administratie onnodig complex en je boekhouder duurder. Open een zakelijke bankrekening (Bunq Business: EUR 9,99/mnd, Knab Zakelijk: EUR 7,50/mnd) en koppel die aan je boekhoudsoftware.
+
+**2. Uren niet dagelijks bijhouden**
+Als je vrijdag je uren van de hele week probeert te reconstrueren, vergeet je gegarandeerd factureerbare uren. Bij EUR 85/uur en een half uur vergeten per week verlies je EUR 2.210 per jaar. Registreer je uren dagelijks, of gebruik een timer die automatisch draait.
+
+**3. BTW-aangifte uitstellen**
+De Belastingdienst geeft boetes voor late BTW-aangifte. Met Moneybird of e-Boekhouden.nl kost een BTW-aangifte vijf tot tien minuten. Plan het in je agenda op de eerste werkdag na het kwartaal.
+
+**4. Geen offerte-workflow**
+Freelancers die hun projecten niet via offertes vastleggen, lopen risico op scope creep en betalingsproblemen. Gebruik de offertefunctie in je boekhoudsoftware om projecten schriftelijk te bevestigen voor je begint.
+
+**5. Te laat nadenken over de jaaraangifte**
+Je boekhouder heeft in maart-april piekdrukte. Als je in maart pas je administratie op orde brengt voor het vorige jaar, betaal je extra uren. Houd je administratie maandelijks bij, dan is de jaaraangifte een formaliteit.
 
 ## Mijn advies
 
 - **Freelancer met internationale klanten en eigen administratie:** Moneybird Growth -- de combinatie van meervaluta, urenregistratie en moderne interface is lastig te evenaren.
 - **Freelancer die geen tijd heeft voor administratie:** Yuki -- je betaalt meer, maar je koopt ook tijd terug.
-- **Freelancer met alleen Nederlandse opdrachtgevers en kleine omzet:** Bunni -- €10/mnd, geen boekhoudkennis vereist, BTW-aangifte in vijf minuten.
+- **Freelancer met alleen Nederlandse opdrachtgevers en kleine omzet:** Bunni -- EUR 10/mnd, geen boekhoudkennis vereist, BTW-aangifte in vijf minuten.
 - **Freelancer met vaste externe boekhouder en simpele administratie:** e-Boekhouden.nl -- solide en goedkoop.
 
 Een tip die ik elke freelancer meegeef: begin met het systeem dat je daadwerkelijk bijhoudt. Een perfecte administratie in een systeem dat je te ingewikkeld vindt, is minder waard dan een simpele maar consequente administratie. De Belastingdienst vraagt om nauwkeurigheid, niet om complexiteit.
@@ -145,6 +234,50 @@ Een tip die ik elke freelancer meegeef: begin met het systeem dat je daadwerkeli
 Denk ook na over hoe je je uren registreert. Als je veel projecten parallel doet, loont het om een aparte tijdregistratietool (zoals Toggl of Harvest) te koppelen aan je boekhoudsoftware. Moneybird heeft een native koppeling met Toggl; voor e-Boekhouden.nl gebruik je de exportfunctie.
 
 Wil je weten welke tool het beste past bij jouw projectstructuur en klantenportefeuille? Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) voor een aanbeveling op maat. Bereken ook de [kosten van boekhoudsoftware per jaar](/tools/boekhouding/kosten-berekenen/) zodat je weet wat je daadwerkelijk kwijt bent.
+
+## Integraties die je als freelancer wilt hebben
+
+Boekhoudsoftware staat niet op zichzelf. Dit zijn de koppelingen die ik het vaakst zie bij freelancers:
+
+| Integratie | Waarom | Moneybird | Bunni | e-Boekhouden |
+|-----------|--------|-----------|-------|--------------|
+| Toggl/Harvest | Uitgebreide tijdregistratie | Ja (native) | Nee | Via export |
+| Slack/Teams | Factuurnotificaties | Via Zapier | Nee | Nee |
+| Stripe/Mollie | Online betalingen | Ja | Nee | Ja |
+| Google Drive | Documentopslag | Via Zapier | Nee | Nee |
+| Pipedrive/HubSpot | CRM voor acquisitie | Via Zapier | Nee | Via Zapier |
+
+Als je met een [CRM voor freelancers](/blog/beste-crm-zzp-freelancers-2026/) werkt, is de koppeling met je boekhoudsoftware waardevol: een gewonnen deal in je CRM wordt automatisch een offerte in Moneybird.
+
+## De fiscale kant: wat je als freelancer moet weten
+
+Boekhoudsoftware is geen doel op zich -- het is een middel om je fiscale verplichtingen correct na te komen. Als freelancer heb je te maken met een aantal specifieke fiscale regelingen die je software moet ondersteunen.
+
+### Kleineondernemersregeling (KOR)
+
+Als je jaarlijkse omzet onder de EUR 20.000 blijft, kun je kiezen voor de KOR. Dat betekent dat je geen BTW hoeft af te dragen, maar ook geen BTW mag terugvragen op zakelijke uitgaven. Moneybird, Bunni en e-Boekhouden.nl ondersteunen de KOR. Let op: als je de KOR toepast, kun je BTW-verlegd op facturen aan buitenlandse klanten niet verrekenen. Voor freelancers met een omzet net onder de grens is het vaak voordeliger om de KOR niet toe te passen.
+
+### Zelfstandigenaftrek en startersaftrek
+
+De zelfstandigenaftrek bedraagt in 2026 circa EUR 3.750. De startersaftrek voegt daar nog eens EUR 2.123 aan toe in je eerste drie jaar. Dit zijn aftrekposten die je boekhouder verwerkt in je aangifte inkomstenbelasting. Je boekhoudsoftware registreert de winst; je boekhouder past de aftrekposten toe. Moneybird en e-Boekhouden.nl genereren de rapportages die je boekhouder hiervoor nodig heeft.
+
+### Investeringsaftrek (KIA)
+
+Investeer je als freelancer meer dan EUR 2.801 in bedrijfsmiddelen (laptop, camera, bureau)? Dan heb je recht op de kleinschaligheidsinvesteringsaftrek (KIA). Moneybird en e-Boekhouden.nl ondersteunen afschrijvingen op bedrijfsmiddelen. Het registreren van investeringen in je boekhoudsoftware is de basis; je boekhouder berekent de daadwerkelijke KIA.
+
+### Gemengde kosten
+
+Als freelancer werk je vaak vanuit huis. Kosten als internet, telefoon en een deel van je woonlasten zijn deels aftrekbaar. De Belastingdienst hanteert strikte regels voor welk percentage je mag aftrekken. In Moneybird kun je per kostenpost een zakelijk percentage instellen (bijvoorbeeld 50% van je telefoonkosten). In e-Boekhouden.nl boek je het zakelijk deel apart.
+
+## Wanneer je geen boekhoudsoftware nodig hebt
+
+Niet elke freelancer heeft meteen betaalde software nodig. In deze situaties kun je tijdelijk met eenvoudiger middelen werken:
+
+- **Je hebt minder dan vijf facturen per maand en alleen Nederlandse klanten** -- Een gratis tool als Wave of de gratis versie van Moneybird kan volstaan
+- **Je werkt via een payrolling-bedrijf** -- Als je via een intermediair factureert, doet zij de BTW-aangifte en salarisverwerking
+- **Je bent pas net begonnen en test of freelancen bij je past** -- Begin met een spreadsheet en stap over zodra je de eerste drie klanten hebt
+
+Maar zodra je internationale klanten hebt, meer dan tien facturen per maand stuurt, of je omzet boven de EUR 20.000 uitkomt, is betaalde boekhoudsoftware geen luxe maar een noodzaak. De kosten (EUR 10-35 per maand) verdien je terug doordat je geen fouten maakt in je BTW-aangifte en geen factureerbare uren verliest aan handmatige administratie.
 
 ## Hoe wij vergelijken
 
@@ -160,10 +293,15 @@ E-mailmarketing is voor freelancers een van de meest directe manieren om nieuwe 
 
 Als je als freelancer overweegt iemand aan te nemen, verandert je administratieve situatie ingrijpend. Op de pagina [HR software voor ZZP'ers](/sectoren/hr/hr-software-zzp/) bespreken we welke tools je helpen bij die eerste stap.
 
+Meer weten over de overstap van de ene naar de andere boekhoudsoftware? Lees dan [overstappen van Exact Online naar Moneybird](/blog/overstappen-exact-online-naar-moneybird-2026/) voor een stap-voor-stap handleiding.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook
 
 - **[Boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/)** -- Vergelijkbare behoeften, andere focus
 - **[Boekhoudsoftware voor eenmanszaak](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/)** -- Als je groeiplannen hebt
+- **[Moneybird review 2026](/blog/moneybird-review-2026/)** -- Diepgaande beoordeling
+- **[Moneybird vs e-Boekhouden](/blog/moneybird-vs-e-boekhouden-2026/)** -- Directe vergelijking
+- **[Beste boekhoudsoftware ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/)** -- Uitgebreide vergelijking
 - **[Alle boekhoudsoftware vergelijken](/categories/boekhouding/)** -- Compleet overzicht

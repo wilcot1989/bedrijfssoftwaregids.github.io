@@ -1,6 +1,6 @@
 ---
 title: "Moneybird vs Jortt 2026: Welke Kies Je?"
-description: "Moneybird of Jortt kiezen? Lees onze vergelijking op prijs, functies, gebruiksgemak en meer. Inclusief eerlijk advies voor ZZP'ers en freelancers in Nederland."
+description: "Moneybird of Jortt kiezen? Vergelijking op prijs, functies en gebruiksgemak. Inclusief eerlijk advies voor ZZP'ers en freelancers."
 date: 2026-03-18
 lastmod: 2026-03-18
 author: "Lars de Vries"

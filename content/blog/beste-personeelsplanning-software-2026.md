@@ -522,7 +522,7 @@ Hier is planningssoftware minder relevant dan werkbonnen-software. Shiftbase vol
 
 **Schoonmaak en facilitaire dienstverlening:**
 
-Veel oproepkrachten, wisselende locaties en wisselende opdrachtgevers. Shiftbase heeft hier een goede reputatie. Deputy is ook sterk vanwege de locatie-based scheduling — je plant medewerkers in per adres, niet per afdeling.
+Veel oproepkrachten, wisselende locaties en wisselende opdrachtgevers. Shiftbase heeft hier een goede reputatie. Deputy is ook sterk vanwege de locatie-based scheduling — je plant medewerkers in per adres, niet per afdeling. Wil je een compleet softwareoverzicht voor de schoonmaaksector? Lees dan mijn artikel over [software voor schoonmaakbedrijven](/blog/software-schoonmaakbedrijven-2026/).
 
 **Evenementen en catering:**
 

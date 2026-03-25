@@ -1,7 +1,7 @@
 ---
 title: "Boekhoudsoftware voor eenmanszaak (2026): vergelijk en kies"
 date: 2026-03-03
-lastmod: 2026-03-03
+lastmod: 2026-03-25
 description: "Boekhoudsoftware voor eenmanszaak vergelijken: Moneybird, Snelstart en Exact Online op groei, salarisadministratie en prijs. Start de gratis keuzehulp."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
@@ -31,6 +31,8 @@ affiliate: true
 
 Een eenmanszaak staat op een kruispunt: je bent groter dan een typische ZZP'er, maar nog niet zo complex als een BV met meerdere medewerkers. Je wilt software die nu goed werkt, maar die ook meegroeit als je straks een medewerker aanneemt of je omzet verdubbelt. Ik help je kiezen tussen de tools die ik het vaakst adviseer aan eenmanszaken in de groeifase.
 
+Het verschil tussen een eenmanszaak en een ZZP'er is in de praktijk vaag, maar boekhoudkundig is het helder: een eenmanszaak groeit. Je hebt misschien nu nog geen personeel, maar je denkt erover na. Je omzet stijgt, je kosten worden complexer, en je boekhouder vraagt om gedetailleerdere rapportages. Dat vraagt om software die meer kan dan alleen facturen sturen.
+
 ## Wat heeft een eenmanszaak nodig van boekhoudsoftware?
 
 Een eenmanszaak heeft andere behoeften dan een ZZP'er die puur facturen stuurt:
@@ -41,6 +43,65 @@ Een eenmanszaak heeft andere behoeften dan een ZZP'er die puur facturen stuurt:
 - **Voorraad** -- Verkoop je producten naast diensten, dan is voorraadregistratie een pluspunt
 - **Koppelingsmogelijkheden** -- Met je webshop, CRM of urenregistratie
 - **Meerdere gebruikers** -- Je boekhouder of een administratief medewerker moet ook toegang kunnen krijgen
+
+## Waar let je op bij boekhoudsoftware voor een eenmanszaak?
+
+Ik gebruik de volgende checklist bij elk adviesgesprek met een eenmanszaak.
+
+### 1. Groeiscenario: waar sta je over twee jaar?
+
+Dit is de belangrijkste vraag. Als je verwacht binnen twee jaar personeel aan te nemen of een BV op te richten, kies dan nu software die dat ondersteunt. Een migratie op dat moment kost je twee tot drie werkdagen, brengt risico op boekingsfouten mee, en verstoort je relatie met je boekhouder. Concreet:
+
+- **Blijf je alleen werken?** Moneybird of Bunni is voldoende
+- **Eerste medewerker in zicht?** Snelstart (salarismodule voor EUR 8/mnd extra)
+- **BV-oprichting gepland?** Exact Online (schaalt naar volledig MKB-pakket)
+
+### 2. Product- versus dienstverlenende eenmanszaak
+
+Verkoop je producten (voorraad, inkoop, marge per product) of lever je diensten (facturatie op uur of project)? Dit maakt een groot verschil in je softwarekeuze:
+
+| Aspect | Productverkoop | Dienstverlening |
+|--------|---------------|----------------|
+| Voorraadbeheer | Nodig | Niet nodig |
+| Urenregistratie | Niet nodig | Nodig |
+| Inkoopbeheer | Uitgebreid | Beperkt |
+| Beste keuze | Snelstart | Moneybird |
+
+### 3. Webshopkoppeling
+
+Verkoop je online? Dan wil je dat bestellingen automatisch doorstromen naar je boekhoudsoftware. Moneybird koppelt met Shopify, WooCommerce en Lightspeed. Snelstart koppelt met WooCommerce en Magento. Exact Online heeft de meeste webshopintegraties.
+
+### 4. Kosten in perspectief
+
+De maandkosten van boekhoudsoftware variëren van EUR 10 tot EUR 49. Maar de werkelijke kosten zijn breder. Hieronder een rekenvoorbeeld voor een eenmanszaak met EUR 80.000 omzet per jaar:
+
+| Kostenpost | Moneybird Growth | Snelstart | Exact Online | Bunni |
+|-----------|-----------------|-----------|-------------|-------|
+| Licentie per maand | EUR 28 | EUR 14 | EUR 49 | EUR 15 |
+| Licentie per jaar | EUR 336 | EUR 168 | EUR 588 | EUR 180 |
+| Extra module (salaris) | n.v.t. | EUR 96/jaar | Inbegrepen | n.v.t. |
+| Boekhouder (kwartaal + jaar) | EUR 800 | EUR 800 | EUR 600 | EUR 800 |
+| Migratiekosten (als je switcht) | EUR 0 | EUR 0 | EUR 0 | EUR 500+ later |
+| **Totaal jaar 1** | **EUR 1.136** | **EUR 1.064** | **EUR 1.188** | **EUR 980** |
+| **Totaal jaar 2 (na migratie)** | **EUR 1.136** | **EUR 1.064** | **EUR 1.188** | **EUR 1.636+** |
+
+Let op de laatste regel: als je met Bunni begint en na een jaar moet migreren naar Moneybird of Snelstart, ben je in jaar twee duurder uit dan wanneer je meteen goed gekozen had.
+
+### 5. BTW-regelingen voor eenmanszaken
+
+Als eenmanszaak heb je te maken met de reguliere BTW-aangifte (kwartaal), en mogelijk de kleineondernemersregeling (KOR) als je omzet onder EUR 20.000 ligt. Moneybird, Snelstart en Exact Online ondersteunen alle drie de directe BTW-aangifte bij de Belastingdienst. Moneybird en Exact Online doen dit volledig automatisch; bij Snelstart bereid je de aangifte voor en dien je die handmatig in.
+
+### 6. Boekhouder-compatibiliteit
+
+Net als bij MKB-software geldt: vraag je boekhouder welk systeem ze kennen. Moneybird wordt door de meeste moderne boekhouders ondersteund. Snelstart is populair bij traditionele administratiekantoren. Exact Online wordt door vrijwel iedereen gebruikt.
+
+### 7. Investeringsaftrek en afschrijvingen
+
+Als eenmanszaak maak je gebruik van investeringsaftrek (KIA, MIA, VAMIL) en schrijf je bedrijfsmiddelen af. Je boekhoudsoftware moet afschrijvingen automatisch kunnen verwerken. Exact Online doet dit standaard. Snelstart ondersteunt afschrijvingen in het boekhoudpakket. Moneybird heeft een eenvoudige afschrijvingsmodule die voor de meeste eenmanszaken volstaat.
+
+### 8. Facturatiecomplexiteit
+
+Stuur je elke maand dezelfde factuur naar dezelfde klant? Of factureer je per project, per uur, met wisselende bedragen en BTW-tarieven? Moneybird is het sterkst in flexibele facturatie: terugkerende facturen, offertes, meerdere BTW-tarieven en meervaluta. Snelstart is functioneler maar minder intuïtief. Exact Online biedt de meeste facturatie-opties maar is ook het complexst.
 
 ## Beste boekhoudsoftware voor eenmanszaak
 
@@ -103,19 +164,19 @@ Exact Online is de standaard voor het Nederlandse MKB en dat heeft een reden. Al
 
 ---
 
-### Bunni — Voor de eenmanszaak die nog klein begint
+### Bunni -- Voor de eenmanszaak die nog klein begint
 
-Niet elke eenmanszaak heeft direct een volledig boekhoudpakket nodig. Als je net start, weinig transacties hebt en je omzet onder de €2.500 per maand ligt, is Bunni een eerlijk alternatief voor je eerste jaar. De software is ontworpen voor ZZP'ers die boekhouding willen zonder boekhoudtaal: je werkt met je eigen categorieën, koppelt je bank, factureert, maakt offertes en doet je BTW-aangifte — het hele pakket voor €10 per maand.
+Niet elke eenmanszaak heeft direct een volledig boekhoudpakket nodig. Als je net start, weinig transacties hebt en je omzet onder de EUR 2.500 per maand ligt, is Bunni een eerlijk alternatief voor je eerste jaar. De software is ontworpen voor ZZP'ers die boekhouding willen zonder boekhoudtaal: je werkt met je eigen categorieen, koppelt je bank, factureert, maakt offertes en doet je BTW-aangifte -- het hele pakket voor EUR 10 per maand.
 
 Het eerlijke verhaal: als je eenmanszaak doorgroeit richting personeel, voorraad of een complexere administratie, ga je op een gegeven moment naar Moneybird, Snelstart of Exact Online. Maar in de opstartfase hoef je dat moment niet te forceren.
 
 **Wat Bunni biedt:**
-- Bankkoppeling, facturatie, offertes en BTW-aangifte in één overzicht
+- Bankkoppeling, facturatie, offertes en BTW-aangifte in een overzicht
 - Uren- en kilometerregistratie
 - Accountant-koppeling zodra je die nodig hebt
-- €10/mnd (omzet <€2.500/mnd) of €15/mnd standaard
+- EUR 10/mnd (omzet < EUR 2.500/mnd) of EUR 15/mnd standaard
 
-<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Bunni voor je eenmanszaak →</a>
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Bunni voor je eenmanszaak</a>
 
 ---
 
@@ -126,6 +187,41 @@ Het eerlijke verhaal: als je eenmanszaak doorgroeit richting personeel, voorraad
 | Moneybird | EUR 28 | Nee (extern) | Nee | Ja | Goed |
 | Snelstart | EUR 14 | Ja (module) | Ja | Ja | Goed |
 | Exact Online | EUR 49 | Ja | Ja | Ja | Uitstekend |
+
+## Praktijkvoorbeeld: groeiende eenmanszaak in de bouw
+
+Mark heeft een eenmanszaak als zelfstandig schilder. Hij doet jaarlijks zo'n 60 projecten, variërend van een binnenschilderklus van EUR 800 tot een volledige buitenschilderbeurt van EUR 5.000. Zijn jaaromzet is EUR 120.000 en hij overweegt zijn eerste medewerker aan te nemen.
+
+**Marks uitdagingen:**
+- Hij factureert zowel op uurbasis als met vaste projectprijzen
+- Materiaalkosten (verf, kwasten, tape) wil hij per project bijhouden om zijn marge te kennen
+- Hij heeft een externe boekhouder die elk kwartaal meekijkt
+- Over zes maanden neemt hij waarschijnlijk een leerling-schilder aan
+- Hij wil weten of een project winstgevend was voor hij de volgende soortgelijke klus aanneemt
+
+**Hoe hij dit oplost met Snelstart (EUR 14/mnd + EUR 8/mnd salarismodule zodra nodig):**
+1. Hij maakt per project een projectrecord aan met het budget
+2. Materiaalinkopen boekt hij op het juiste project via de inkoopmodule
+3. Gewerkte uren registreert hij dagelijks in Snelstart (eenvoudige urenregistratie)
+4. Per project ziet hij de totale kosten (materiaal + uren) versus de opbrengst
+5. Zijn boekhouder logt elk kwartaal in via de accountantsmodule
+6. Zodra hij een medewerker aanneemt, activeert hij de salarismodule voor EUR 8/mnd extra
+
+**Resultaat:** Mark weet nu precies welke klussen winstgevend zijn. Vorig jaar ontdekte hij dat kleine klussen onder EUR 1.000 structureel verliesgevend waren door de voorbereidingstijd. Hij heeft zijn minimumtarief aangepast en zijn marge is met 12% gestegen.
+
+Had Mark geen productkosten gehad en alleen uren gefactureerd, dan was Moneybird (EUR 28/mnd) een betere keuze geweest vanwege de sterkere urenregistratie. Had hij al twee medewerkers gehad, dan was Exact Online logischer vanwege de bredere HR- en projectfunctionaliteit.
+
+## De overstap plannen: van eenvoudig naar professioneel
+
+Als je eenmanszaak groeit, komt er een moment dat je huidige software niet meer voldoet. Dit zijn de signalen dat het tijd is om over te stappen:
+
+- Je hebt meer dan 50 facturen per maand en de handmatige verwerking kost te veel tijd
+- Je wilt per project of per klant je winstgevendheid zien, maar je software kan dat niet
+- Je hebt een medewerker aangenomen en hebt salarisadministratie nodig
+- Je boekhouder klaagt over de kwaliteit van je aanlevering
+- Je mist functies zoals voorraadbeheer, kostendeclaraties of projectrapportages
+
+Plan de overstap bij voorkeur op 1 januari, zodat je een schone scheiding hebt tussen boekjaren. Laat je boekhouder de openingsbalans opstellen in het nieuwe systeem. Meer details vind je in ons artikel [overstappen van Exact Online naar Moneybird](/blog/overstappen-exact-online-naar-moneybird-2026/) (de principes gelden voor elke migratie).
 
 ## Mijn advies
 
@@ -139,6 +235,38 @@ Vraag jezelf bij de keuze deze drie dingen af: hoeveel facturen stuur je per maa
 
 Gebruik de [boekhouding keuzehulp](/tools/boekhouding/keuzehulp/) om in vijf vragen te bepalen welke software bij jouw groeifase past. Of bereken direct de [kosten van boekhoudsoftware voor jouw eenmanszaak](/tools/boekhouding/kosten-berekenen/).
 
+## Veelgemaakte fouten bij eenmanszaken
+
+Ik zie deze fouten keer op keer bij eenmanszaken:
+
+**1. Prive en zakelijk door elkaar**
+De nummer-een fout. Een eenmanszaak heeft juridisch geen scheiding tussen prive en zakelijk vermogen, maar boekhoudkundig moet die scheiding er wel zijn. Open een zakelijke bankrekening (Bunq Business: EUR 9,99/mnd, Knab Zakelijk: EUR 7,50/mnd) en gebruik die uitsluitend voor zakelijke transacties. Koppel die rekening aan je boekhoudsoftware en je administratie is voor 80% geautomatiseerd.
+
+**2. Bonnetjes niet bewaren**
+De Belastingdienst vereist dat je de originele administratie zeven jaar bewaart. Papieren bonnetjes vervagen na twee jaar. Scan ze direct met de app van Moneybird of e-Boekhouden.nl en koppel ze aan de boeking. Dat kost per bonnetje tien seconden en voorkomt problemen bij een controle.
+
+**3. BTW-aangifte uitstellen**
+Je kwartaalaangifte is uiterlijk de laatste dag van de maand volgend op het kwartaal. Te laat indienen levert een boete op van minimaal EUR 68. Met Moneybird of Snelstart kost de BTW-aangifte vijf tot tien minuten. Plan het in je agenda.
+
+**4. Afschrijvingen vergeten**
+Als je een laptop van EUR 1.500 koopt, schrijf je die in drie tot vijf jaar af. Veel eenmanszaken boeken het volledige bedrag als kosten in het jaar van aanschaf. Dat is fiscaal niet correct en leidt tot een te lage winst in jaar 1 en een te hoge winst in de jaren erna. Stel in je boekhoudsoftware de afschrijvingsregels in bij de aankoop.
+
+**5. Geen administratie bijhouden in het eerste jaar**
+Veel starters denken: "Ik begin pas met boekhouden als ik weet of het wat wordt." Maar de Belastingdienst verwacht een volledige administratie vanaf dag 1. Begin meteen met een boekhoudpakket -- ook als je in de eerste maanden nog geen omzet hebt. Bunni (EUR 10/mnd) of de gratis versie van Moneybird is voldoende om te starten.
+
+## De eenmanszaak en de BV: wanneer overstappen?
+
+Een veelgestelde vraag bij groeiende eenmanszaken is: wanneer richt ik een BV op? Het fiscale omslagpunt ligt grofweg bij een winst van EUR 100.000 tot EUR 120.000 per jaar. Boven dat bedrag betaal je als BV minder belasting dan als eenmanszaak.
+
+De overgang naar een BV heeft directe gevolgen voor je boekhoudsoftware:
+- Je hebt een aparte loonadministratie nodig (je bent DGA en ontvangt salaris)
+- Je jaarrekening wordt complexer (balans, resultatenrekening, aangifte vennootschapsbelasting)
+- Je boekhouder heeft meer gegevens nodig
+
+Moneybird schaalt goed mee naar een BV-structuur. Bunni is hier niet voor gebouwd. Snelstart biedt een salarismodule die de DGA-loonverwerking ondersteunt. Exact Online is de logische keuze als je bij de BV-oprichting meteen een professioneel systeem wilt.
+
+Mijn advies: als je winst de EUR 80.000 passeert, ga het gesprek aan met je boekhouder over de BV-optie. Wacht niet tot het fiscaal omslagpunt al bereikt is -- de oprichting kost tijd en je wilt de overgang op 1 januari doen.
+
 ## Hoe wij vergelijken
 
 Onze vergelijking is gebaseerd op vier criteria: functionaliteit (features die specifiek voor deze branche relevant zijn), prijs-kwaliteitsverhouding (totale eigendomskosten inclusief implementatie en support), gebruiksgemak (leercurve en kwaliteit van de ondersteuning) en integratiekracht (koppelingen met boekhouding, HR en andere systemen). We nemen alleen systemen op die actief onderhouden worden en beschikbaar zijn in Nederland.
@@ -151,7 +279,9 @@ Een eenmanszaak die groeit heeft vroeg of laat een systeem nodig om klantcontact
 
 Als je eenmanszaak groeit naar je eerste medewerker, verandert ook de administratieve situatie ingrijpend. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) bespreken we welke systemen het beste ondersteunen bij die stap.
 
-Naast een goede financiële administratie hoort ook marketing bij een groeiende eenmanszaak. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) vergelijken we de meest gebruikte opties voor kleine teams.
+Naast een goede financiele administratie hoort ook marketing bij een groeiende eenmanszaak. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) vergelijken we de meest gebruikte opties voor kleine teams.
+
+Bekijk ook onze reviews: [Moneybird review 2026](/blog/moneybird-review-2026/), [Snelstart review 2026](/blog/snelstart-review-2026/) en [Snelstart vs Moneybird](/blog/snelstart-vs-moneybird-2026/) voor een directe vergelijking.
 
 {{< sector-cta-boekhouding >}}
 
@@ -159,4 +289,6 @@ Naast een goede financiële administratie hoort ook marketing bij een groeiende 
 
 - **[Boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/)** -- Eenvoudigere behoeften, lagere prijs
 - **[Boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/)** -- De volgende stap na eenmanszaak
+- **[Snelstart vs Exact Online](/blog/snelstart-vs-exact-online-2026/)** -- Directe vergelijking
+- **[Moneybird alternatieven](/blog/moneybird-alternatieven-2026/)** -- Wat als Moneybird niet past?
 - **[Alle boekhoudsoftware vergelijken](/categories/boekhouding/)** -- Compleet overzicht met filteropties

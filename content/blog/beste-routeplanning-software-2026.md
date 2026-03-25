@@ -67,7 +67,7 @@ Een klant belde me vorig jaar met een simpele vraag: zijn bedrijf had vijf bezor
 
 Na drie maanden met routeplanning software was de planningtijd teruggebracht naar tien minuten, reden de bezorgers gemiddeld 22 kilometer per dag minder, en hadden klanten real-time bezorgnotificaties. De brandstofbesparing alleen al betaalde de software-investering drie keer terug.
 
-Dat is de belofte van goede routeplanning software. In dit artikel vergelijk ik de vijf beste tools voor bezorging, buitendienstmedewerkers en field service teams. Per tool kijk ik naar prijs, optimalisatie-algoritme, geschiktheid voor de Nederlandse markt en integraties.
+Dat is de belofte van goede routeplanning software. Werk je specifiek in de transportsector en zoek je complete TMS-software? Lees dan mijn overzicht van de [beste software voor transportbedrijven](/blog/software-transportbedrijven-2026/). In dit artikel vergelijk ik de vijf beste tools voor bezorging, buitendienstmedewerkers en field service teams. Per tool kijk ik naar prijs, optimalisatie-algoritme, geschiktheid voor de Nederlandse markt en integraties.
 
 Geen tijd voor het volledige artikel? Hier de snelle vergelijking:
 

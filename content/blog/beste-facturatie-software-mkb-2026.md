@@ -236,7 +236,7 @@ Lees ook mijn [e-Boekhouden review 2026](/blog/e-boekhouden-review-2026/) voor e
 - Volledige boekhouding met grootboek
 - Gratis meekijkfunctie voor boekhouder
 - KvK-koppeling voor debiteurengegevens
-- Herinneringen en aanmaningen
+- Herinneringen en aanmaningen (voor uitgebreidere incassomogelijkheden, bekijk de [beste incassosoftware 2026](/blog/beste-incassosoftware-2026/))
 - Bonnetjes scannen via app
 - Rapportages: balans, winst-verlies, BTW-overzicht
 
@@ -533,7 +533,7 @@ UBL (Universal Business Language) is de standaard voor elektronische facturatie.
 
 ### 4. Offertebeheer
 
-Als je regelmatig offertes verstuurt, is een geïntegreerde offertemodule waardevol. De beste pakketten bieden digitale acceptatie en directe omzetting van offerte naar factuur. Moneybird, Exact Online en Rompslomp (met digitale ondertekening) zijn hier het sterkst.
+Als je regelmatig offertes verstuurt, is een geïntegreerde offertemodule waardevol. De beste pakketten bieden digitale acceptatie en directe omzetting van offerte naar factuur. Moneybird, Exact Online en Rompslomp (met digitale ondertekening) zijn hier het sterkst. Heb je medewerkers die regelmatig zakelijke kosten maken? Bekijk dan ook de [beste declaratiesoftware voor het MKB](/blog/beste-declaratiesoftware-mkb-2026/) voor een efficiënte onkostenverwerking.
 
 ### 5. Schaalbaarheid
 

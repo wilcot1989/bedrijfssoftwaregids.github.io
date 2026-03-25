@@ -377,6 +377,28 @@ Dit is de overstap die je maakt als je groeit. Ondernemers die deze stap zetten 
 
 ---
 
+## Voor wie is welk alternatief het beste? Per situatie samengevat
+
+Na al het vergelijkingswerk wil ik de keuze zo concreet mogelijk maken. Hieronder de meest voorkomende situaties die ik tegenkom bij ondernemers die van SnelStart af willen.
+
+**Je bent ZZP'er in de bouw, techniek of handel met veel kleine facturen:**
+→ Kies **Moneybird Growth** (€28/mnd). De automatische transactiecategorisering bespaart je wekelijks een half uur. De bankkoppeling is betrouwbaar en de integratie met platforms als Mollie werkt soepel.
+
+**Je bent starter met minder dan €20.000 omzet per jaar:**
+→ Kies **fENNA Free** als je maximaal 5 facturen per maand stuurt. Kies **e-Boekhouden Lite** (€8,95/mnd) als je de bankkoppeling nodig hebt. Elke euro telt in deze fase.
+
+**Je runt een webshop of e-commerce bedrijf:**
+→ Kies **Moneybird Professional** (€39/mnd) vanwege de onbeperkte transacties en de Shopify/WooCommerce-koppelingen. SnelStart mist die integraties bijna volledig.
+
+**Je hebt 3-10 medewerkers in loondienst:**
+→ Kies **SnelStart Go** als je bij SnelStart wilt blijven maar salaris wilt toevoegen. Kies **Exact Online** als je tegelijkertijd wilt upgraden naar uitgebreidere rapportages en projectadministratie.
+
+**Je accountant stuurt je naar een ander pakket:**
+→ Vraag welk pakket je accountant ondersteunt. In de meeste gevallen is dat **Exact Online** of **Twinfield**. Ga niet zelf iets kiezen dat je accountant niet kent — de meerkosten aan accountantsuren overtreffen al snel het prijsverschil met het pakket dat zij wel kennen.
+
+**Je wilt internationaal factureren (Engelstalige facturen, meerdere valuta):**
+→ Kies **Moneybird** (meertalige facturen, valutaondersteuning) of **Exact Online** (meerdere administraties, internationale btw-regels). SnelStart, e-Boekhouden en Jortt zijn primair gericht op de Nederlandse markt.
+
 ## SnelStart alternatieven: mijn aanbeveling
 
 Na al dit vergelijkingswerk is mijn eerlijke conclusie:

@@ -1,6 +1,6 @@
 ---
-title: "Privacybeleid"
-description: "Privacybeleid van Bedrijfssoftwaregids"
+title: "Privacybeleid — Bedrijfssoftwaregids.nl"
+description: "Hoe Bedrijfssoftwaregids.nl omgaat met je gegevens: welke data we verzamelen, waarvoor we cookies gebruiken en hoe je je rechten uitoefent onder de AVG."
 layout: "single"
 ---
 

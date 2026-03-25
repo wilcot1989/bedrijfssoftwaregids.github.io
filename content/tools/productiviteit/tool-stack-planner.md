@@ -1,6 +1,6 @@
 ---
 title: "Tool stack planner — Stel je ideale software-combinatie samen"
-description: "Stel je ideale software-stack samen. Ontdek welke productiviteitstools goed samenwerken, wat het kost en voorkom dubbele functies."
+description: "Stel je ideale software-stack samen. Bekijk welke productiviteitstools goed samenwerken, wat het kost en voorkom dubbele functies."
 tools_category: "productiviteit"
 tools_scripts: ["tools-advanced.js"]
 tool_mount: "bsg-advanced"

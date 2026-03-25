@@ -1,6 +1,6 @@
 ---
 title: "Webshop software keuzehulp — Welk platform past bij jou?"
-description: "Welk webshop platform past bij jou? Beantwoord 5 vragen en ontdek of Shopify, WooCommerce, Lightspeed of een ander platform de beste keuze is."
+description: "Welk webshop platform past bij jou? Beantwoord 5 vragen en bekijk of Shopify, WooCommerce, Lightspeed of een ander platform de beste keuze is."
 tools_category: "webshops"
 tools_scripts: ["tools-wizard.js"]
 tool_mount: "bsg-wizard"

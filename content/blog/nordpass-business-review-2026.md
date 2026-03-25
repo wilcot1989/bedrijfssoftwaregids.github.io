@@ -2,7 +2,7 @@
 title: "NordPass Business Review 2026: Eerlijk Oordeel"
 date: 2026-03-22
 lastmod: 2026-03-22
-description: "NordPass Business eerlijk getest: functies, beveiliging, gebruiksgemak en prijs. Is het de beste zakelijke wachtwoordmanager voor MKB? Lees het volledige oordeel."
+description: "NordPass Business eerlijk getest: functies, beveiliging, gebruiksgemak en prijs. Is het de beste zakelijke wachtwoordmanager voor MKB?"
 categories: ["beveiliging"]
 tags:
   - wachtwoordbeheer

@@ -32,7 +32,7 @@ faq:
     a: "Shiftbase en Dyflexis zijn beide Nederlandse planningstools voor het MKB. Shiftbase is breder inzetbaar en sterker in HR-integraties (AFAS, Nmbrs). Dyflexis is sterker in horeca en retail door kassasynckoppelingen en omzetgedreven planning. Qua prijs zijn ze vergelijkbaar. Voor de meeste niet-horecabedrijven is Shiftbase de betere keuze."
 ---
 
-Een eigenaar van een schoonmaakbedrijf met 35 medewerkers belde me vorig jaar. Hij vroeg of ik zijn Excel-chaos kon oplossen: zes tabbladen per maand, WhatsApp-groepen per ploeg, handmatige overboekingen naar Nmbrs elke maand. Twee uitzendkrachten en een ziekte hadden hem de week daarvoor drie uur gekost aan roosterwijzigingen.
+Een eigenaar van een schoonmaakbedrijf met 35 medewerkers belde me vorig jaar (lees ook mijn complete overzicht van [software voor schoonmaakbedrijven](/blog/software-schoonmaakbedrijven-2026/)). Hij vroeg of ik zijn Excel-chaos kon oplossen: zes tabbladen per maand, WhatsApp-groepen per ploeg, handmatige overboekingen naar Nmbrs elke maand. Twee uitzendkrachten en een ziekte hadden hem de week daarvoor drie uur gekost aan roosterwijzigingen.
 
 Ik installeerde Shiftbase met hem in een middag. Zes weken later belde hij terug: roostering van 2,5 uur per week naar 45 minuten. Koppeling met Nmbrs werkte direct. Medewerkers gebruikten de app.
 

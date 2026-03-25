@@ -1,6 +1,6 @@
 ---
 title: "HR Software keuzehulp — Welke HR software past bij jou?"
-description: "Beantwoord 5 vragen en ontdek welke HR software het beste bij jouw bedrijf past. Gratis, onafhankelijke keuzehulp met persoonlijk advies."
+description: "Beantwoord 5 vragen en vind welke HR software het beste bij jouw bedrijf past. Gratis, onafhankelijke keuzehulp met persoonlijk advies."
 tools_category: "hr-software"
 tools_scripts: ["tools-wizard.js"]
 tool_mount: "bsg-wizard"

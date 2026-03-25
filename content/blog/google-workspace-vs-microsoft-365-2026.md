@@ -426,7 +426,7 @@ De keuze tussen Google en Microsoft is in veel sectoren al gemaakt — niet per 
 | Juridisch | Microsoft 365 | Word-documenten, Track Changes |
 | Bouw / technisch | Microsoft 365 | Projectdocumentatie, AutoCAD-integratie |
 | Overheid | Microsoft 365 | Europese aanbesteding, compliance |
-| Onderwijs | Google Workspace | Goedkoper, Google Classroom |
+| Onderwijs | Google Workspace | Goedkoper, [Google Classroom](/blog/software-onderwijsinstellingen-2026/) |
 | Zorg | Microsoft 365 | Beveiliging, NEN-7510 compliance |
 | Detailhandel / e-commerce | Wisselend | Afhankelijk van webshopplatform |
 

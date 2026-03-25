@@ -448,6 +448,12 @@ Plan de overstap bij voorkeur 90 dagen voor je verlengingsdatum:
 
 ---
 
+## AVG en datalocatie: een vaak vergeten factor
+
+Bij de keuze voor een CRM-alternatief is de locatie van je data relevanter dan veel bedrijven beseffen. HubSpot slaat data op in de VS, net als Pipedrive, Close CRM en ActiveCampaign. Voor bedrijven die streng met AVG-compliance omgaan — denk aan accountantskantoren, zorggerelateerde dienstverleners of overheidsleveranciers — is EU-dataopslag een harde eis.
+
+Twee alternatieven uit dit overzicht scoren hier beter dan HubSpot: **Teamleader Focus** (data in België/EU) en **Brevo** (data in Frankrijk/EU). Als je klanten expliciet vragen waar hun data staat, of als je in een sector werkt waar een verwerkersovereenkomst met EU-dataopslag verplicht is, beperk je keuze dan tot die twee. De €50-100 per maand aan extra kosten ten opzichte van een VS-gebaseerde oplossing is verwaarloosbaar vergeleken met de compliancerisico's.
+
 ## Conclusie
 
 HubSpot is een goed platform — voor de bedrijven waarvoor het is ontworpen. Maar voor het gemiddelde Nederlandse MKB-bedrijf met een compact sales- of marketingteam is het te duur, te complex en te veel. De onboarding fee, de hub-structuur en de snel oplopende prijzen maken het voor veel bedrijven een onverstandige keuze.

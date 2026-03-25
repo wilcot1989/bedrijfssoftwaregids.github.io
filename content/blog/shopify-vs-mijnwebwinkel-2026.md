@@ -2,7 +2,7 @@
 title: "Shopify vs Mijnwebwinkel 2026: Welke Webshop?"
 date: 2026-03-12
 lastmod: 2026-03-12
-description: "Shopify vs Mijnwebwinkel (Acendy) eerlijk vergeleken op prijs, functies, design en betaalmethoden. Ontdek welk webshopplatform bij jou past."
+description: "Shopify vs Mijnwebwinkel (Acendy) eerlijk vergeleken op prijs, functies, design en betaalmethoden. Bekijk welk webshopplatform bij jou past."
 categories: ["webshops"]
 tags:
   - webshop

@@ -75,7 +75,7 @@ Ik beoordeel de tools op zes criteria:
 **Gratis plan:** Beperkt (10 queries/dag op de meeste tools)
 **Gratis proef:** 7 dagen voor Pro en Guru
 
-Semrush is het meest complete digital marketing platform op de markt. Het begon als keyword research tool maar is uitgegroeid tot een platform dat vrijwel elke facet van online marketing dekt: SEO, betaalde advertenties, social media, contentmarketing en PR. Dat maakt het uniek — maar ook complex.
+Semrush is het meest complete digital marketing platform op de markt. Het begon als keyword research tool maar is uitgegroeid tot een platform dat vrijwel elke facet van online marketing dekt: SEO, betaalde advertenties, social media, contentmarketing en PR. Dat maakt het uniek — maar ook complex. Wil je Semrush direct vergelijken met de grootste concurrent? Lees dan mijn [Semrush vs Ahrefs vergelijking](/blog/semrush-vs-ahrefs-2026/).
 
 **Keyword Magic Tool:**
 

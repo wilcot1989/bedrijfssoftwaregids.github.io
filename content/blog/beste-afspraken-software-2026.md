@@ -349,7 +349,7 @@ Voor solo-gebruik is Tidycal onverslaanbaar in prijs. Voor multi-user of uitgebr
 - Een volledig aanpasbare boekingspagina met eigen branding noodzakelijk is
 - Je herinneringen via SMS wilt sturen
 
-**Typisch profiel:** Fysiotherapeut, coach, trainer, thuiszorgorganisatie, klinieken.
+**Typisch profiel:** Fysiotherapeut, coach, trainer, thuiszorgorganisatie, klinieken. Ben je coach of trainer en wil je een compleet softwareoverzicht? Lees dan mijn artikel over [software voor coaches en trainers](/blog/software-coaches-trainers-2026/).
 
 ### Kies Tidycal als:
 - Je budget zo laag mogelijk wilt houden

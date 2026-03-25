@@ -299,7 +299,7 @@ Weet je nog niet welk pakket bij jou past? Gebruik onze [boekhoudsoftware keuzeh
 
 ## Veelgemaakte fouten bij overstappen van Exact Online
 
-Ik heb tientallen overstaptrajecten begeleid en zie steeds dezelfde fouten terugkomen. Hier zijn de vijf die je het meeste tijd en geld kosten:
+Ik heb tientallen overstaptrajecten begeleid en zie steeds dezelfde fouten terugkomen. Hier zijn de vijf die je het meeste tijd en geld kosten. Stap je specifiek over naar Moneybird? Lees dan het complete stappenplan [overstappen van Exact Online naar Moneybird](/blog/overstappen-exact-online-naar-moneybird-2026/):
 
 ### Fout 1: Overstappen halverwege het boekjaar zonder voorbereiding
 

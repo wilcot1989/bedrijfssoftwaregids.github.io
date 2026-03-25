@@ -1,6 +1,6 @@
 ---
 title: "Projectmanagement software keuzehulp"
-description: "Ontdek in 5 vragen welke projectmanagement software bij jouw team past. Vergelijk Asana, Monday, Trello en meer met deze gratis keuzehulp."
+description: "Vind in 5 vragen welke projectmanagement software bij jouw team past. Vergelijk Asana, Monday, Trello en meer met deze gratis keuzehulp."
 tools_category: "projectmanagement"
 tools_scripts: ["tools-wizard.js"]
 tool_mount: "bsg-wizard"

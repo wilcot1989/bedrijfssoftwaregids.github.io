@@ -227,7 +227,7 @@ Odoo is de buitenbeentje in dit lijstje, en dat bedoel ik positief. Als je een t
 - **Boekhouding** — Facturatie, bankreconciliatie, btw-aangifte
 - **Verkoop & CRM** — Pipeline management, offertes, e-commerce
 - **Voorraad & Productie** — WMS, MRP, kwaliteitscontrole, onderhoud
-- **HR** — Personeelsbeheer, werving, onkosten, aanwezigheid
+- **HR** — Personeelsbeheer, werving, onkosten, aanwezigheid (zoek je een standalone oplossing voor onkostenbeheer? Bekijk de [beste declaratiesoftware voor het MKB](/blog/beste-declaratiesoftware-mkb-2026/))
 - **Website & E-commerce** — Ingebouwde websitebuilder en webshop
 
 ### Prijzen (2026)

@@ -80,7 +80,7 @@ Zoom is wat ik adviseer als een bedrijf veel vergadert met externe partijen -- k
 - **Zoom Clips** — Asynchroon videoboodschappen
 - **Whiteboard** — Interactief whiteboard voor brainstormen
 - **Webinars** — Tot 10.000 kijkers met Q&A en polls
-- **Zoom Phone** — Zakelijke telefonie-integratie
+- **Zoom Phone** — Zakelijke telefonie-integratie (zoek je een volwaardig zakelijk telefoniesysteem? Bekijk mijn vergelijking van de [beste VoIP software voor het MKB](/blog/beste-voip-zakelijke-telefonie-2026/))
 
 ### Prijzen
 | Plan | Prijs/user/mnd | Highlights |

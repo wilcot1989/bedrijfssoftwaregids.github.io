@@ -271,6 +271,44 @@ Wil je een breder overzicht van wat er beschikbaar is? Bekijk het [overzicht van
 
 ---
 
+## Wanneer loont welk abonnement? Per bedrijfsgrootte uitgerekend
+
+Na alle scenario's en vergelijkingen wil ik een concreet beslisschema geven dat je direct kunt toepassen.
+
+### ZZP'er of freelancer (1 gebruiker, <25 facturen/mnd)
+
+**Aanbevolen:** Niet Exact Online. Tenzij je boekhouder het vereist, is de prijs niet te verantwoorden. Moneybird Starter (€15/mnd) of e-Boekhouden (€8,95/mnd) dekken precies dezelfde behoefte voor een fractie van de prijs.
+
+**Rekensom:** Exact Essentials kost €588/jaar. Moneybird Starter kost €180/jaar. Verschil: €408/jaar — dat is meer dan een maand boekhoudkosten bij een accountant.
+
+### Klein bedrijf (2-5 medewerkers, <100 facturen/mnd)
+
+**Aanbevolen:** Exact Online Plus als je boekhouder met Exact werkt. Anders SnelStart of Moneybird Growth.
+
+**Rekensom:** Plus + 3 extra gebruikers = €129/mnd = €1.548/jaar. SnelStart MKB met vergelijkbare functies kost circa €588/jaar. Verschil: €960/jaar. Die €960 moet je terugverdienen via tijdsbesparing bij je accountant of via functies die je daadwerkelijk gebruikt.
+
+### Groeiend MKB (5-15 medewerkers, meerdere modules)
+
+**Aanbevolen:** Exact Online Professional als je rapportage, budgetten en projectregistratie nodig hebt. Dit is het segment waar Exact Online zijn meerwaarde het duidelijkst bewijst.
+
+**Rekensom:** Professional + 8 extra gebruikers + CRM = circa €269/mnd = €3.228/jaar. Losse alternatieven (SnelStart + Pipedrive CRM + urenregistratietool) kosten gezamenlijk circa €200-250/mnd maar missen de integratievoordelen. Op dit niveau is het prijsverschil kleiner en wegen de integratievoordelen zwaarder.
+
+### Holdingstructuur of multi-company (meerdere administraties)
+
+**Aanbevolen:** Exact Online Premium. Er zijn weinig Nederlandse alternatieven die geconsolideerde rapportages over meerdere administraties even goed ondersteunen. Twinfield is de voornaamste concurrent op dit niveau.
+
+**Rekensom:** Premium vanaf €299/mnd + gebruikers = €4.000-6.000/jaar. Op dit niveau vergelijk je niet meer met ZZP-tools maar met Twinfield (vergelijkbaar geprijsd) of AFAS (significant duurder). Lees de [AFAS prijzen 2026](/blog/afas-prijzen-2026/) voor die vergelijking.
+
+### Wanneer is downgraden verstandig?
+
+Een situatie die ik ook regelmatig tegenkom: bedrijven die op Professional zitten maar eigenlijk Plus nodig hebben. Als je de budgetfunctie en projectregistratie niet gebruikt, gooi je elke maand €60 weg. Controleer bij je volgende verlengingsdatum of je daadwerkelijk alle Professional-functies benut — zo niet, downgrade en bespaar €720 per jaar.
+
+### De vuistregel die ik hanteer
+
+Ik geef klanten altijd deze vuistregel: reken uit hoeveel uur je accountant per maand minder kwijt is door de uitgebreidere functies van Exact Online. Als die besparing groter is dan het prijsverschil met een goedkoper pakket, is Exact Online het waard. Is de besparing kleiner, dan betaal je voor functies die je niet benut.
+
+Bij de meeste ZZP'ers is die accountantsbesparing nihil — hun administratie is te eenvoudig. Bij bedrijven met 5+ medewerkers en een complexe financiële structuur kan Exact Online je accountant 2-4 uur per maand besparen. Tegen een gemiddeld accountantstarief van €80-120 per uur is dat €160-480 per maand — ruim voldoende om het prijsverschil te rechtvaardigen.
+
 ## Conclusie
 
 Exact Online is niet duur voor wat het biedt — het is duur voor wie er niet volledig gebruik van maakt. De pakketten zijn transparant geprijsd, maar de totale kostenplaatje (extra gebruikers, modules, implementatie, opzegtermijn) loopt snel op.

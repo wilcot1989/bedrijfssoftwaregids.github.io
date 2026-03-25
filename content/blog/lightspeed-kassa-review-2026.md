@@ -2,7 +2,7 @@
 title: "Lightspeed Kassa Review 2026: Getest"
 date: 2026-04-08
 lastmod: 2026-04-08
-description: "Mijn eerlijke Lightspeed review na 3 jaar testen. Lees over prijzen, functies, bezorgkoppelingen en nadelen. Ontdek of het bij jouw zaak past."
+description: "Mijn eerlijke Lightspeed review na 3 jaar testen. Lees over prijzen, functies, bezorgkoppelingen en nadelen. Bekijk of het bij jouw zaak past."
 categories: ["kassasystemen"]
 tags:
   - kassasysteem

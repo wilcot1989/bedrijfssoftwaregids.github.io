@@ -2,7 +2,7 @@
 title: "CRM Integraties Uitgelegd: Welke Heb Je Nodig?"
 date: 2026-03-03
 lastmod: 2026-03-03
-description: "Welke CRM-integraties zijn essentieel voor jouw bedrijf? Vergelijk koppelingen voor e-mail, boekhouding en marketing. Bereken de ROI van jouw CRM."
+description: "Welke CRM-integraties zijn belangrijk voor jouw bedrijf? Vergelijk koppelingen voor e-mail, boekhouding en marketing. Bereken de ROI van jouw CRM."
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/crm.svg"

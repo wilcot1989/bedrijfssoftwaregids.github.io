@@ -299,7 +299,7 @@ Je verstuurt regelmatig offertes, volgt leads op en wilt je sales-proces vereenv
 
 ### Scenario 3: Je combineert sales met projecten
 
-Je bent een freelance designer, developer of consultant die deals wil tracken en vervolgens projecten wil managen. **Kies [Monday CRM](https://monday.com/lang/nl)**. De combinatie van CRM en projectmanagement in een tool bespaart je het jongleren met meerdere systemen.
+Je bent een freelance designer, developer of consultant die deals wil tracken en vervolgens projecten wil managen. Ben je coach of trainer? Lees dan ook mijn specifieke overzicht van [software voor coaches en trainers](/blog/software-coaches-trainers-2026/). **Kies [Monday CRM](https://monday.com/lang/nl)**. De combinatie van CRM en projectmanagement in een tool bespaart je het jongleren met meerdere systemen.
 
 ### Scenario 4: Je wilt alles in een tool
 

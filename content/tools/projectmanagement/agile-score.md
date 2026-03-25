@@ -1,6 +1,6 @@
 ---
 title: "Agile maturity score — Hoe agile werkt jouw team?"
-description: "Meet de agile maturity van je team in 10 vragen. Ontdek je sterke punten, verbeterkansen en welke projectmanagement tools bij jouw niveau passen."
+description: "Meet de agile maturity van je team in 10 vragen. Bekijk je sterke punten, verbeterkansen en welke projectmanagement tools bij jouw niveau passen."
 tools_category: "projectmanagement"
 tools_scripts: ["tools-advanced.js"]
 tool_mount: "bsg-advanced"

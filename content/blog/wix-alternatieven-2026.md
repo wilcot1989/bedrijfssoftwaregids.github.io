@@ -38,7 +38,7 @@ Terecht, want dat traject is niet niets. Maar de reden dat de overstap zo lastig
 
 In dit artikel behandel ik eerlijk waarom mensen van Wix willen stappen, wat de lock-in precies inhoudt en welke alternatieven het best passen bij welke situatie. Met een complete vergelijkingstabel en praktisch migratieadvies.
 
-Bekijk ook mijn uitgebreide overzicht van de [beste website-bouwers voor het mkb](/blog/beste-website-bouwers-mkb-2026/) voor meer context.
+Bekijk ook mijn uitgebreide overzicht van de [beste website-bouwers voor het mkb](/blog/beste-website-bouwers-mkb-2026/) voor meer context, en lees de volledige [Wix review 2026](/blog/wix-review-2026/) als je eerst wilt weten of Wix toch bij je past.
 
 ## Waarom mensen van Wix af willen: de eerlijke analyse
 

@@ -2,7 +2,7 @@
 title: "Monday.com vs Asana 2026: Welke Projecttool is Beter?"
 date: 2026-03-03
 lastmod: 2026-03-06
-description: "Monday.com vs Asana: een uitgebreide vergelijking op prijs, functies, UI en integraties. Ontdek welke projectmanagement tool bij jouw team past."
+description: "Monday.com vs Asana: een uitgebreide vergelijking op prijs, functies, UI en integraties. Bekijk welke projectmanagement tool bij jouw team past."
 categories: ["projectmanagement"]
 tags:
   - projectmanagement

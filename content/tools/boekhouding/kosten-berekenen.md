@@ -1,6 +1,6 @@
 ---
 title: "Boekhoudsoftware kosten berekenen — Wat kost een boekhoudprogramma?"
-description: "Bereken in 30 seconden wat boekhoudsoftware je per maand kost. Vergelijk prijzen van populaire boekhoudprogramma's en ontdek verborgen kosten."
+description: "Bereken in 30 seconden wat boekhoudsoftware je per maand kost. Vergelijk prijzen van populaire boekhoudprogramma's en vind verborgen kosten."
 tools_category: "boekhouding"
 tools_scripts: ["tools-calculators.js"]
 tool_mount: "bsg-calculator"

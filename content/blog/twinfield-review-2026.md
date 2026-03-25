@@ -108,7 +108,7 @@ Dit is waar Twinfield echt uitblinkt en waarvoor accountantskantoren het pakket 
 
 ### Consolidatie
 
-Twinfield ondersteunt consolidatie van meerdere juridische entiteiten in een geconsolideerde jaarrekening. Dit is een functie die Exact Online ook biedt, maar Twinfield is hier traditioneel sterker in voor de typische accountantsomgeving.
+Twinfield ondersteunt consolidatie van meerdere juridische entiteiten in een geconsolideerde jaarrekening. Dit is een functie die Exact Online ook biedt, maar Twinfield is hier traditioneel sterker in voor de typische accountantsomgeving. Wil je meer weten over specifieke jaarrekeningsoftware? Bekijk mijn vergelijking van [jaarrekening software voor accountants](/blog/jaarrekening-software-accountants-2026/).
 
 ### Bankkoppelingen
 

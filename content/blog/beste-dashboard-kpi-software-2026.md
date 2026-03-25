@@ -65,7 +65,7 @@ faq:
 
 Ik spreek elke week met ondernemers die me vertellen dat ze hun KPI's bijhouden in een Excel-spreadsheet die ze elke maandag handmatig bijwerken. Dat kost gemiddeld twee uur per week — ruim 100 uur per jaar aan werk dat volledig geautomatiseerd kan worden.
 
-Dashboard- en KPI-software doet precies dat. Je koppelt je databronnen één keer, en vervolgens heb je altijd een actueel overzicht van wat er écht in je bedrijf gebeurt. Geen kopieerwerk, geen vergeten cellen, geen versies van "Omzet-definitief-v3.xlsx".
+Dashboard- en KPI-software doet precies dat. Je koppelt je databronnen één keer, en vervolgens heb je altijd een actueel overzicht van wat er écht in je bedrijf gebeurt. Heb je data verspreid over veel systemen en wil je die eerst centraliseren? Bekijk dan de [beste data management software](/blog/beste-data-management-software-2026/) voor ETL-tools die je bronnen samenvoegen. Geen kopieerwerk, geen vergeten cellen, geen versies van "Omzet-definitief-v3.xlsx".
 
 In dit artikel vergelijk ik de 5 beste dashboard- en KPI-tools voor het MKB. Ik kijk naar prijs, integraties, leercurve en geschiktheid voor real-time gebruik en TV-display.
 

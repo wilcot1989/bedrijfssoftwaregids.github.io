@@ -382,7 +382,7 @@ Specifieke functies die je nodig hebt:
 
 **Facilitaire bedrijven (schoonmaak, beveiliging, groenvoorziening)**
 
-Meerdere locaties, standaard werkzaamheden die altijd hetzelfde zijn, en kwaliteitscontroles. Formdesk is hier bijzonder sterk: je ontwerpt een werkbon die exact past bij jouw standaard werkzaamheden, inclusief checkboxes voor kwaliteitscontroles.
+Meerdere locaties, standaard werkzaamheden die altijd hetzelfde zijn, en kwaliteitscontroles. Werk je in de schoonmaak? Lees dan ook mijn compleet overzicht van [software voor schoonmaakbedrijven](/blog/software-schoonmaakbedrijven-2026/). Formdesk is hier bijzonder sterk: je ontwerpt een werkbon die exact past bij jouw standaard werkzaamheden, inclusief checkboxes voor kwaliteitscontroles.
 
 Specifieke functies die je nodig hebt:
 - Checklists met verplichte items

@@ -1,6 +1,6 @@
 ---
 title: "Kassasysteem keuzehulp — Welk kassasysteem past bij jouw zaak?"
-description: "Beantwoord 5 vragen en ontdek welk kassasysteem bij jouw bedrijf past. Gratis keuzehulp voor horeca, retail, kapsalons en foodtrucks."
+description: "Beantwoord 5 vragen en vind welk kassasysteem bij jouw bedrijf past. Gratis keuzehulp voor horeca, retail, kapsalons en foodtrucks."
 tools_category: "kassasystemen"
 tools_scripts: ["tools-wizard.js"]
 tool_mount: "bsg-wizard"

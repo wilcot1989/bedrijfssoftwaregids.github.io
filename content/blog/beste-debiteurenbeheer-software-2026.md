@@ -66,7 +66,7 @@ Ik spreek wekelijks met ondernemers over hun software. En bijna zonder uitzonder
 
 Het goede nieuws: debiteurenbeheer software lost dit grotendeels op. Niet door klanten te dwingen — maar door het systeem zo in te richten dat betalingsherinneringen automatisch worden verstuurd op het juiste moment, in de juiste toon, met de juiste escalatie. Zonder dat jij er elke dag bij na hoeft te denken.
 
-In dit artikel vergelijk ik de vijf beste debiteurenbeheer tools voor de Nederlandse markt in 2026. Ik leg uit hoe automatische herinneringen werken, wanneer incassotrajecten starten, en hoe alles aansluit op je bestaande boekhoudsoftware.
+In dit artikel vergelijk ik de vijf beste debiteurenbeheer tools voor de Nederlandse markt in 2026. Ik leg uit hoe automatische herinneringen werken, wanneer incassotrajecten starten, en hoe alles aansluit op je bestaande boekhoudsoftware. Wil je direct doorschakelen naar de volgende stap wanneer herinneringen niet werken? Lees dan ook mijn vergelijking van de [beste incassosoftware 2026](/blog/beste-incassosoftware-2026/).
 
 ## Het probleem: waarom betalen klanten te laat?
 

@@ -249,7 +249,7 @@ Pipedrive is minder geschikt voor:
 
 Heb je een team dat vooral telefonisch acquireert? Bekijk dan ook [Close CRM](/blog/close-crm-review-2026/) -- met ingebouwde Power Dialer, e-mail sequences en SMS is het gebouwd voor inside sales teams die hoog volume draaien.
 
-Zie voor uitgebreidere vergelijkingen: [HubSpot vs Pipedrive](/blog/hubspot-vs-pipedrive-2026/) en [Pipedrive vs Monday CRM](/blog/pipedrive-vs-monday-crm-2026/).
+Zie voor uitgebreidere vergelijkingen: [HubSpot vs Pipedrive](/blog/hubspot-vs-pipedrive-2026/) en [Pipedrive vs Monday CRM](/blog/pipedrive-vs-monday-crm-2026/). Wil je een breder overzicht van sales-tools? Lees dan mijn vergelijking van de [beste sales software voor het MKB](/blog/beste-sales-software-mkb-2026/).
 
 ---
 

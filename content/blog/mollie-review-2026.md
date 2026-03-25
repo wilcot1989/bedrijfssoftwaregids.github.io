@@ -2,7 +2,7 @@
 title: "Mollie Review 2026: Betaalprovider Getest"
 date: 2026-03-10
 lastmod: 2026-03-18
-description: "Mollie review 2026: transactiekosten, vergelijking met Stripe en Adyen, ervaringen en of Mollie past bij jouw webshop."
+description: "Mollie review 2026: transactiekosten, vergelijking met Stripe en Adyen, ervaringen na maanden testen en of Mollie past bij jouw webshop of MKB."
 categories: ["webshops"]
 tags:
   - webshop

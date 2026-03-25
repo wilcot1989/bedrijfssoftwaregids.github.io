@@ -2,7 +2,7 @@
 title: "Moneybird Review 2026: Eerlijk Oordeel na 4 Weken"
 date: 2026-03-09
 lastmod: 2026-03-09
-description: "Moneybird review 2026: prijzen, functies, voor- en nadelen na 4 weken testen. Ontdek of dit boekhoudpakket bij jouw bedrijf past. Met Trustpilot-score."
+description: "Moneybird review 2026: prijzen, functies, voor- en nadelen na 4 weken testen. Bekijk of dit boekhoudpakket bij jouw bedrijf past. Met Trustpilot-score."
 categories: ["boekhouding"]
 tags:
   - boekhouding

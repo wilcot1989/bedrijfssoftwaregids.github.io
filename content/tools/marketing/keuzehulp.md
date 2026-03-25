@@ -1,6 +1,6 @@
 ---
 title: "Marketing software keuzehulp — Welke tool past bij jou?"
-description: "Ontdek in 5 vragen welke marketing software bij jouw bedrijf past. Vergelijk e-mailmarketing, automation en CRM-tools. Gratis en onafhankelijk."
+description: "Vind in 5 vragen welke marketing software bij jouw bedrijf past. Vergelijk e-mailmarketing, automation en CRM-tools. Gratis en onafhankelijk."
 tools_category: "marketing"
 tools_scripts: ["tools-wizard.js"]
 tool_mount: "bsg-wizard"

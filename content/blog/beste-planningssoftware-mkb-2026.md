@@ -478,7 +478,7 @@ Bekijk ook het artikel over [Personio Review 2026](/blog/personio-review-2026/) 
 
 **Retail (winkel, supermarkt, franchise):** Shiftbase of Dyflexis — afhankelijk van of je meer behoefte hebt aan HR-breedte (Shiftbase) of bezettingsoptimalisatie (Dyflexis).
 
-**Zorg (thuiszorg, kinderopvang, GGZ):** Shiftbase — de sterke WAB-ondersteuning en de integratie met NL-salarissoftware zijn hier essentieel. Controleer of de cao van toepassing is ondersteund.
+**Zorg (thuiszorg, kinderopvang, GGZ):** Shiftbase — de sterke WAB-ondersteuning en de integratie met NL-salarissoftware zijn hier essentieel. Controleer of de cao van toepassing is ondersteund. Specifiek voor kinderopvang: lees mijn artikel over [software voor kinderopvang](/blog/software-kinderopvang-2026/) voor tools gericht op oudercommunicatie en GGD-rapportage.
 
 **Zakelijke dienstverlening (bureau, consultancy):** Planday of Shiftbase — voor teams met projectgebonden diensten is de communicatiefunctionaliteit van Planday waardevol. Als je meer structuur wil voor verlof en HR, kies Shiftbase.
 

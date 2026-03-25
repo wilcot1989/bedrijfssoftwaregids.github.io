@@ -316,6 +316,16 @@ Wil je weten welk pakket echt bij jou past? Gebruik de [boekhoudsoftware keuzehu
 
 ---
 
+## Wanneer loont upgraden naar Growth of Professional?
+
+De meeste ZZP'ers starten op Starter en vragen zich na een paar maanden af of ze moeten upgraden. De beslissing is eenvoudiger dan je denkt.
+
+**Upgrade naar Growth (€28/mnd) als je structureel meer dan 15 banktransacties per maand hebt.** Mijn vuistregel: zit je drie maanden achter elkaar boven de 15, upgrade dan. De marge tot je limiet van 20 is te klein om risico te nemen. €13 per maand extra is minder pijnlijk dan een administratie die weken achterloopt.
+
+**Upgrade naar Professional (€39/mnd) als je een webshop hebt, horeca runt of veel kleine inkopen doet.** In deze sectoren is een maand met meer dan 50 transacties eerder regel dan uitzondering. Het verschil tussen Growth en Professional is €11 per maand — €132 per jaar. Dat is de prijs van drie kwartier accountantstijd. Als Professional je één keer per jaar een administratieprobleem bespaart, is het al terugverdiend.
+
+**Blijf op Starter als je een freelancer bent met weinig zakelijke uitgaven.** Een fotograaf, vertaler of coach die maandelijks 3-5 facturen stuurt en 10-15 zakelijke transacties heeft, zit prima op Starter. Upgrade pas als je bankafschriften anders vertellen.
+
 ## Mijn conclusie
 
 Moneybird is een uitstekend boekhoudpakket met een helder prijsmodel — mits je weet wat je kiest. De valkuil is niet de prijs zelf, maar de banktransactielimiet. Kies je plan op basis van je transactievolume, niet op basis van wat je denkt nodig te hebben.

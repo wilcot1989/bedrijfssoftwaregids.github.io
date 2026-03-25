@@ -101,7 +101,7 @@ Trengo heeft een ingebouwde chatbot builder die werkt op basis van een visuele f
 - Doorsturen naar de juiste afdeling of agent
 - Buiten kantooruren automatisch afhandelen
 
-De Flowbot werkt op alle kanalen tegelijk: website chat, WhatsApp, Facebook Messenger en Instagram. Dat is een groot voordeel: je bouwt één flow die je over alle kanalen kunt inzetten zonder alles dubbel te configureren.
+De Flowbot werkt op alle kanalen tegelijk: website chat, WhatsApp, Facebook Messenger en Instagram. Dat is een groot voordeel: je bouwt één flow die je over alle kanalen kunt inzetten zonder alles dubbel te configureren. Wil je meer omnichannel-platforms vergelijken? Bekijk dan mijn overzicht van de [beste omnichannel software 2026](/blog/beste-omnichannel-software-2026/).
 
 De bot is niet zo krachtig als gespecialiseerde chatbotplatforms of Intercom's Fin. Maar voor de meeste MKB-doeleinden is hij meer dan voldoende. In mijn tests handelde de Flowbot 30-40% van gesprekken volledig af zonder menselijke tussenkomst. Dat is een significante tijdsbesparing.
 

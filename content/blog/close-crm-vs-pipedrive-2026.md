@@ -2,7 +2,7 @@
 title: "Close CRM vs Pipedrive 2026: Welke Wint?"
 date: 2026-04-15T10:00:00+01:00
 lastmod: 2026-04-15T10:00:00+01:00
-description: "Close CRM vs Pipedrive 2026: vergelijking op prijs, belfuncties en automatiseringen. Ontdek welke CRM het beste past bij jouw verkoopproces."
+description: "Close CRM vs Pipedrive 2026: vergelijking op prijs, belfuncties en automatiseringen. Bekijk welke CRM het beste past bij jouw verkoopproces."
 categories: ["crm"]
 tags:
   - crm

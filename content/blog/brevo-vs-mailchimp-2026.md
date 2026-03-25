@@ -2,7 +2,7 @@
 title: "Brevo vs Mailchimp 2026: Welke Kies Je?"
 date: 2026-04-30
 lastmod: 2026-04-30
-description: "Brevo vs Mailchimp eerlijk vergeleken op prijs, functies, deliverability en gebruiksgemak. Ontdek welke e-mailmarketing tool bij jouw bedrijf past."
+description: "Brevo vs Mailchimp eerlijk vergeleken op prijs, functies, deliverability en gebruiksgemak. Bekijk welke e-mailmarketing tool bij jouw bedrijf past."
 categories: ["marketing"]
 tags:
   - marketing

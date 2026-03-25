@@ -306,6 +306,35 @@ Voor een breder kader lees ik je ook mijn artikel over de [beste helpdesk softwa
 
 ---
 
+## Wanneer Loont Welk Plan? Per-agent Kostenberekening
+
+De keuze tussen Freshdesk-plannen draait uiteindelijk om één vraag: welke functies gebruik je daadwerkelijk, en wat kosten die per afgehandeld ticket?
+
+### Kosten per ticket doorgerekend
+
+Stel dat een agent gemiddeld 15 tickets per dag afhandelt (een realistisch getal voor een actieve klantenservicemedewerker). Bij 22 werkdagen per maand is dat 330 tickets per agent per maand.
+
+| Plan | Kosten/agent/mnd | Kosten per ticket |
+|------|-------------------|-------------------|
+| **Free** | €0 | €0,00 |
+| **Growth** | €15 | €0,045 |
+| **Pro** | €49 | €0,15 |
+| **Enterprise** | €79 | €0,24 |
+
+Op Growth-niveau kost elk ticket je minder dan 5 cent aan software. Dat is verwaarloosbaar in vergelijking met de loonkosten van de agent die het ticket afhandelt (reken op €15-25 per uur, dus circa €6-10 per ticket aan arbeidskosten).
+
+Op Pro-niveau stijgt dat naar 15 cent per ticket. Dat verschil rechtvaardigt zich als de extra functies — skill-based routering, custom objects, omnichannel dashboard — de gemiddelde afhandeltijd met minimaal 1-2 minuten per ticket verlagen. Bij 330 tickets per maand bespaart dat 5,5-11 agent-uren per maand — meer dan genoeg om de meerkosten terug te verdienen.
+
+### De echte vraag: wanneer stap je over van Growth naar Pro?
+
+In mijn ervaring is het omslagpunt rond 15-20 agents. Onder die grens heb je geen skill-based routering nodig en zijn de basisautomatiseringen van Growth voldoende. Boven die grens beginnen de inefficiënties op te lopen: tickets belanden bij de verkeerde agent, de workload is ongelijk verdeeld, en je managers missen inzicht in teamprestatiecijfers.
+
+De 250 automations/maand van Growth is ook een harde grens. Bij 15+ agents met meerdere productlijnen overschrijd je die limiet snel. Pro biedt 5.000 automations/maand — voldoende voor de meeste MKB-bedrijven.
+
+Mijn concreet advies: start met Growth, monitor je automation-verbruik maandelijks, en upgrade naar Pro zodra je structureel boven de 200 automations per maand komt of je team boven de 15 agents groeit.
+
+Eén ding dat ik bij klanten altijd benadruk: de kosten van een helpdesk zijn verwaarloosbaar vergeleken met de kosten van een slechte klantenservice. Een onbeantwoord ticket kost je niet €0,15 aan software — het kost je een klant. Focus dus bij de plankeuze niet op de laagste prijs, maar op het plan dat je team in staat stelt om consistent binnen je SLA te presteren.
+
 ## Freshdesk Korting en Onderhandelen
 
 Een paar praktische tips als je serieus overweegt om Freshdesk aan te schaffen:

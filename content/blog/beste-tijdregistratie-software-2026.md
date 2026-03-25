@@ -430,6 +430,12 @@ AFAS InSite is de betere keuze voor grote zorginstellingen (100+ FTE) die volled
 
 Retail heeft veel gemeen met horeca: wisselende diensten, veel deeltijders en oproepkrachten, cao-toeslagen. Planday en ShiftBase zijn beide uitstekende keuzes. De beslissing hangt af van de omvang: ShiftBase is beter voor een winkel met eigen HR-afdeling die verzuim en contractbeheer wil integreren. Planday is beter voor ketens die roostersynchronisatie en medewerker-communicatie centraal stellen.
 
+### Transport en logistiek
+
+**Aanbeveling: ShiftBase of Planday**
+
+Voor transportbedrijven is rijtijdenregistratie en compliance essentieel. Wil je een compleet overzicht van alle software die je als transportbedrijf nodig hebt? Lees dan mijn artikel over [software voor transportbedrijven](/blog/software-transportbedrijven-2026/).
+
 ### Productie en logistiek
 
 **Aanbeveling: TimeMoto + ShiftBase combinatie**

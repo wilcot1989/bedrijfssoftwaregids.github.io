@@ -129,7 +129,7 @@ Een boekhouder die je kwartaalaangifte doet, rekent gemiddeld €75 tot €150 p
 
 Goede boekhoudsoftware voor ZZP'ers kost €8 tot €30 per maand, dus €100 tot €360 per jaar voor het abonnement. Het systeem doet zelf de berekening; jij controleert en dient in. De tijdsbesteding is 20 tot 30 minuten per kwartaal als de administratie bijgehouden is.
 
-De besparing is daarmee €200 tot €800 per jaar op de aangifte alleen, plus de tijdsbesparing die je daarboven hebt bij een goed gecombineerd facturatie- en boekhoudsysteem. Voor wie de besparing wil uitrekenen voor zijn eigen situatie, biedt de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/) een gericht overzicht per doelgroep.
+De besparing is daarmee €200 tot €800 per jaar op de aangifte alleen, plus de tijdsbesparing die je daarboven hebt bij een goed gecombineerd facturatie- en boekhoudsysteem. Doe je naast de BTW ook je IB- of VpB-aangifte zelf? Bekijk dan mijn overzicht van de [beste belastingaangifte software 2026](/blog/beste-belastingaangifte-software-2026/) voor een complete vergelijking. Voor wie de besparing wil uitrekenen voor zijn eigen situatie, biedt de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/) een gericht overzicht per doelgroep.
 
 ## De nieuwe BTW-regels voor 2025 en 2026 die je kent
 

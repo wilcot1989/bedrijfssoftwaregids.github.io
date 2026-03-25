@@ -299,6 +299,27 @@ Als je een organisatie bent in de publieke sector die AFAS overweegt: vraag spec
 
 ---
 
+## Driejaars-berekening: wat kost AFAS werkelijk over de looptijd?
+
+De meeste bedrijven kijken naar de maandelijkse licentiekosten. Maar AFAS is een langetermijninvestering. Laat me de werkelijke kosten over drie jaar doorrekenen voor een concreet scenario.
+
+### Bedrijf van 40 medewerkers, HR + salaris + financiën
+
+| Kostenpost | Jaar 1 | Jaar 2 | Jaar 3 |
+|---|---|---|---|
+| Licentiekosten (schatting €400/mnd) | €4.800 | €4.800 | €4.800 |
+| Implementatiekosten | €20.000 | €0 | €0 |
+| Jaarlijks onderhoud implementatiepartner | €0 | €3.000 | €3.000 |
+| Interne projectkosten (uren eigen team) | €5.000 | €1.000 | €500 |
+| Training nieuwe medewerkers | €500 | €500 | €500 |
+| **Subtotaal** | **€30.300** | **€9.300** | **€8.800** |
+
+**Totaal over 3 jaar: circa €48.400.**
+
+Ter vergelijking: dezelfde organisatie met Nmbrs (salaris) + Exact Online (financiën) + Personio (HR) betaalt geschat €15.000-20.000 over dezelfde drie jaar — maar heeft dan drie losse systemen met handmatige koppelingen. De vraag is of de integratievoordelen van AFAS de meerprijs van circa €28.000-33.000 over drie jaar rechtvaardigen.
+
+Voor organisaties die structureel uren kwijt zijn aan handmatige data-overdracht tussen HR, salaris en financiën, kan AFAS die meerprijs terugverdienen. Maar dat vereist dat je de integratie daadwerkelijk benut — en dat begint bij een goede implementatie.
+
 ## Alternatieven voor een kleiner budget
 
 Als AFAS te duur is voor jouw situatie, zijn er serieuze alternatieven.

@@ -31,7 +31,7 @@ Welke webshop starten software heb je nodig? Meer dan alleen een platform. Het g
 
 In dit artikel behandel ik alle software voor je webshop die je nodig hebt om succesvol te verkopen in 2026. Niet alleen de 6 beste e-commerce platforms, maar ook de betaalproviders, verzendtools, voorraadbeheer-software en marketingoplossingen die het verschil maken.
 
-Zoek je puur een platformvergelijking? Lees dan mijn [uitgebreide webshop software vergelijking](/blog/beste-webshop-software-2026/). Wil je weten welke betaalprovider bij jou past? Bekijk de [Mollie review](/blog/mollie-review-2026/) of de [Mollie vs MultiSafepay vergelijking](/blog/mollie-vs-multisafepay-2026/).
+Zoek je puur een platformvergelijking? Lees dan mijn [uitgebreide webshop software vergelijking](/blog/beste-webshop-software-2026/). Wil je een CMS dat verder gaat dan een webshop? Bekijk de [beste CMS software voor bedrijven](/blog/beste-cms-software-bedrijven-2026/). Wil je weten welke betaalprovider bij jou past? Bekijk de [Mollie review](/blog/mollie-review-2026/) of de [Mollie vs MultiSafepay vergelijking](/blog/mollie-vs-multisafepay-2026/).
 
 
 ## Webshop starten: waar let je op bij het kiezen van software?

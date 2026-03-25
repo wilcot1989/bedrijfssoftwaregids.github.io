@@ -147,6 +147,74 @@ Veel ondernemers weten niet dat de prijzen van kassasystemen niet altijd vast zi
 
 Kortom: het gesprek aangaan kost je niets, en het kan je een significante besparing opleveren over een driejaarsperiode.
 
+## Concrete driejaarsberekening: drie scenario's doorgerekend
+
+Theorie is nuttig, maar rekenen is overtuigender. Hieronder drie scenario's die ik regelmatig tegenkom bij klanten. De getallen zijn gebaseerd op werkelijke offertes en facturen die ik heb ingezien.
+
+### Scenario 1: Kleine koffiebar (1 locatie, 1 kassa)
+
+| Kostenpost | Jaar 1 | Jaar 2 | Jaar 3 |
+|---|---|---|---|
+| Softwareabonnement (€49/mnd) | €588 | €588 | €588 |
+| Hardware (iPad + bonprinter + lade) | €650 | €0 | €0 |
+| Installatie en inrichting | €250 | €0 | €0 |
+| Transactiekosten (1,5% van €15.000/mnd) | €2.700 | €2.700 | €2.700 |
+| Supportpakket (weekendservice) | €180 | €180 | €180 |
+| **Subtotaal** | **€4.368** | **€3.468** | **€3.468** |
+
+**Totaal over 3 jaar: €11.304.** De geadverteerde maandprijs van €49 suggereert jaarkosten van €588 — de werkelijke jaarkosten zijn bijna zes keer hoger. Transactiekosten zijn met afstand de grootste post.
+
+### Scenario 2: Restaurant (1 locatie, 2 kassa's, keukenprinter)
+
+| Kostenpost | Jaar 1 | Jaar 2 | Jaar 3 |
+|---|---|---|---|
+| Softwareabonnement (€79/mnd, 2 terminals) | €948 | €948 | €948 |
+| Hardware (2 tablets + 2 bonprinters + keukenprinter + lade) | €1.800 | €0 | €200 (vervanging) |
+| Installatie en training (2 kassa's + menu-inrichting) | €500 | €0 | €0 |
+| Transactiekosten (1,5% van €40.000/mnd) | €7.200 | €7.200 | €7.200 |
+| Bezorgkoppeling Deliverect | €1.068 | €1.068 | €1.068 |
+| Supportpakket (7-daags) | €360 | €360 | €360 |
+| **Subtotaal** | **€11.876** | **€9.576** | **€9.776** |
+
+**Totaal over 3 jaar: €31.228.** Voor een restaurant met €40.000 maandomzet zijn de transactiekosten de dominante factor. Een verlaging van het transactiepercentage van 1,5% naar 1,0% bespaart €2.400 per jaar — dat is precies waarom onderhandelen over het transactietarief zo belangrijk is.
+
+### Scenario 3: Retailketen (3 locaties, 5 kassa's)
+
+| Kostenpost | Jaar 1 | Jaar 2 | Jaar 3 |
+|---|---|---|---|
+| Softwareabonnement (€149/mnd, multi-locatie) | €1.788 | €1.788 | €1.788 |
+| Hardware (5 terminals + scanners + bonprinters) | €5.500 | €0 | €800 (vervanging) |
+| Installatie per locatie (3 × €400) | €1.200 | €0 | €0 |
+| Transactiekosten (1,2% van €120.000/mnd) | €17.280 | €17.280 | €17.280 |
+| Multi-locatie rapportagemodule | €480 | €480 | €480 |
+| Support + onderhoud SLA | €720 | €720 | €720 |
+| Boekhoudkoppeling (per locatie) | €360 | €360 | €360 |
+| **Subtotaal** | **€27.328** | **€20.628** | **€21.428** |
+
+**Totaal over 3 jaar: €69.384.** Op dit niveau is het verschil in transactiepercentage tussen leveranciers het absolute belangrijkste vergelijkingspunt. Een verschil van 0,3% op €120.000 maandomzet is €4.320 per jaar — meer dan de volledige softwarelicentie.
+
+### Wat deze scenario's laten zien
+
+In alle drie de scenario's geldt hetzelfde patroon: de softwarelicentie is de kleinste kostenpost. Transactiekosten domineren het totaalplaatje zodra je maandomzet boven de €10.000 uitkomt. Hardware is een eenmalige piek in jaar 1. En de verborgen kosten — support, koppelingen, bezorgintegraties — tellen gestaag op.
+
+De enige manier om leveranciers eerlijk te vergelijken is met een volledige driejaarsberekening die al deze posten meeneemt. Doe je dat niet, dan kies je op basis van de verkeerde getallen.
+
+## Wanneer loont een duurder kassasysteem?
+
+Een duurder kassasysteem loont wanneer het je meer bespaart dan het extra kost. Dat klinkt voor de hand liggend, maar in de praktijk missen veel ondernemers de berekening.
+
+**Bij hoge omzet wegen transactiekosten zwaarder dan licentiekosten.** Een systeem dat €30 per maand duurder is maar 0,5% lagere transactiekosten biedt, bespaart je bij €30.000 maandomzet al €150 per maand. Het duurre abonnement is dan €120 per maand goedkoper.
+
+**Bij meerdere medewerkers wegen trainingskosten mee.** Een systeem met een intuïtieve interface bespaart trainingsuren. Als je elk kwartaal een nieuwe medewerker inwerkt, telt een half uur verschil in trainingstijd snel op.
+
+**Bij groeiplannen weegt schaalbaarheid mee.** Een goedkoop systeem dat je bij de tweede locatie dwingt om een compleet nieuw platform te kiezen, kost meer dan een iets duurder systeem dat multi-locatie standaard ondersteunt. Ga je verwachten binnen twee jaar een tweede vestiging te openen? Kies dan nu al een systeem dat daarin voorziet.
+
+**Bij bezorgintegraties weegt middleware mee.** Systemen die native integreren met Thuisbezorgd of Uber Eats besparen je €89-150 per maand aan middleware. Dat compenseert een hoger abonnement ruimschoots.
+
+De stelregel die ik hanteer: vergelijk altijd de totale driejaarskosten van minimaal drie aanbieders. Het goedkoopste abonnement is bijna nooit de goedkoopste totaaloplossing.
+
+Ik raad ondernemers ook aan om bij de leverancier een concrete driejaarsberekening op te vragen voor hun specifieke situatie: verwacht maandomzet, gewenste hardware, koppelingen en supportniveau. Een leverancier die die berekening niet wil maken, vertrouw ik minder dan een leverancier die transparant is over het totaalplaatje. Die bereidheid tot openheid is een signaal over hoe de samenwerking na de aankoop zal verlopen. Een leverancier die transparant is over kosten verdient je vertrouwen eerder dan een leverancier die je alleen het maandbedrag laat zien.
+
 ## Lees ook
 
 - [Beste kassasysteem horeca 2026](/blog/beste-kassasysteem-horeca-2026/) — vergelijk kassasystemen op prijs en verborgen kosten

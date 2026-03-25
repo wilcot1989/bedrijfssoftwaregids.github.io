@@ -324,11 +324,21 @@ Geef je boekhouder tijdig toegang tot het nieuwe pakket en bespreek hoe de histo
 **Stap 5: Sluit Moneybird af op het juiste moment**
 Zeg je Moneybird-abonnement pas op als je zeker weet dat het nieuwe pakket naar behoren werkt en je alle data veilig hebt overgezet. Bewaar altijd een export van je historische Moneybird-data, ook na de overstap.
 
-Meer gedetailleerd migratieadvies vind je in mijn artikel [boekhoudprogramma migratie: data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/).
+Meer gedetailleerd migratieadvies vind je in mijn artikel [boekhoudprogramma migratie: data overzetten](/blog/boekhoudprogramma-migratie-data-overzetten/). Werk je nu met Exact Online en overweeg je juist naar Moneybird over te stappen? Lees dan het [stappenplan Exact Online naar Moneybird](/blog/overstappen-exact-online-naar-moneybird-2026/).
 
 Voor een kostenvergelijking van jouw specifieke situatie gebruik ik graag de [boekhoudsoftware kosten berekenen tool](/tools/boekhouding/kosten-berekenen/).
 
 ---
+
+## De banktransactielimiet als doorslaggevende factor
+
+De meest onderschatte reden om van Moneybird over te stappen is de banktransactielimiet. Moneybird Starter (€15/mnd) biedt slechts 20 automatisch geïmporteerde transacties per maand. Growth (€28/mnd) biedt er 50. Pas bij Professional (€39/mnd) is het onbeperkt.
+
+Ter vergelijking: Jortt biedt onbeperkte transacties vanaf €12,50 per maand. e-Boekhouden rekent niet per transactie. SnelStart Web Compleet heeft geen transactielimiet. Alleen Moneybird hanteert dit model.
+
+Voor ZZP'ers die veel kleine transacties hebben — denk aan horecaondernemers, webshophouders, marktkooplieden of consultants die zakelijk tanken en lunchen — is de transactielimiet de voornaamste kostendriver. Als je structureel meer dan 20 transacties per maand hebt, betaal je bij Moneybird minimaal €28/mnd. Bij Jortt betaal je €12,50/mnd voor dezelfde functionaliteit. Dat scheelt €186 per jaar.
+
+De vraag is niet "welk pakket is goedkoper?" maar "hoeveel banktransacties heb ik per maand?" Tel je transacties van de afgelopen drie maanden en laat dat getal je keuze bepalen.
 
 ## Conclusie: welk Moneybird alternatief is het beste?
 

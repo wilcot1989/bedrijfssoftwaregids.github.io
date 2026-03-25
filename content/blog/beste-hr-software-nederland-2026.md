@@ -572,7 +572,7 @@ Kinderopvang is HR-technisch een van de meest veeleisende sectoren van Nederland
 - **Onregelmatige diensten:** kinderopvang werkt in vroege en late diensten, en ouders melden kinderen soms af op korte termijn. Dat vereist flexibele roosterplanning.
 - **Stagairs en vrijwilligers:** naast vaste medewerkers en oproepkrachten heb je ook niet-beloonde krachten die je wel in je systeem wilt administreren.
 
-**Mijn aanbeveling voor kinderopvang:** AFAS voor middelgrote tot grote organisaties (10+ locaties) — het enige systeem in dit overzicht dat de CAO-complexiteit en ratio-bewaking serieus neemt. Voor kleinere BSO's en peuterspeelzalen (1-3 locaties) is Nmbrs voor de salarisverwerking gecombineerd met een sector-specifieke planningtool de praktische keuze. Personio werkt voor de HR-administratie, maar heeft geen ingebouwde ratio-bewaking en vereist maatwerk voor de CAO.
+**Mijn aanbeveling voor kinderopvang:** AFAS voor middelgrote tot grote organisaties (10+ locaties) — het enige systeem in dit overzicht dat de CAO-complexiteit en ratio-bewaking serieus neemt. Voor kleinere BSO's en peuterspeelzalen (1-3 locaties) is Nmbrs voor de salarisverwerking gecombineerd met een sector-specifieke planningtool de praktische keuze. Personio werkt voor de HR-administratie, maar heeft geen ingebouwde ratio-bewaking en vereist maatwerk voor de CAO. Wil je een compleet overzicht van alle software die kinderopvangorganisaties nodig hebben? Lees mijn artikel over [software voor kinderopvang](/blog/software-kinderopvang-2026/).
 
 ### Bouw
 
