@@ -152,7 +152,7 @@ Als je geen tijd hebt om het volledige artikel door te lezen, hier het beknopte 
 | Kapper/horeca (gemengde BTW) | Moneybird of Exact | Goede BTW-tarieven per artikel |
 | Omzet <€20.000 (KOR-overweging) | e-Boekhouden of Jortt | Eenvoudig als KOR vervalt |
 
-Voor elke situatie geldt: gebruik altijd een proefperiode voor je een abonnement afsluit. De meeste pakketten bieden twee tot vier weken gratis toegang.
+Voor elke situatie geldt: gebruik altijd een proefperiode voor je een abonnement afsluit. De meeste pakketten bieden twee tot vier weken gratis toegang. Voer tijdens die proefperiode minimaal één echte BTW-aangifte (of simulatie) in, zodat je weet of het proces soepel verloopt voordat je betaalt.
 
 ## Drie concrete stappen om je BTW-aangifte te verbeteren
 

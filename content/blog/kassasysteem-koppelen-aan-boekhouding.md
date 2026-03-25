@@ -172,7 +172,7 @@ Veel ondernemers onderschatten de kosten van een kassaboekhouding-koppeling. Hie
 - Implementatie door partner: €1.500-5.000 eenmalig
 - Jaarlijkse kosten: €1.200-3.600 + beheer
 
-De vuistregel: voor één locatie met een bekende POS-boekhoudcombinatie is de koppeling goedkoop of zelfs gratis. Voor meerdere locaties of onbekende combinaties is een budgetpost van €1.000-3.000 per jaar realistisch.
+De vuistregel: voor één locatie met een bekende POS-boekhoudcombinatie is de koppeling goedkoop of zelfs gratis. Voor meerdere locaties of onbekende combinaties is een budgetpost van €1.000-3.000 per jaar realistisch. Vergeet bij je berekening ook de interne tijdskosten niet mee te nemen: de uren die je medewerkers besteden aan het controleren van de koppeling en het oplossen van import-afwijkingen. Bij een goed geconfigureerde koppeling is dat een half uur per week; bij een slecht ingerichte koppeling al snel twee tot drie uur. Reken die uren mee in je kostenvergelijking en je ziet snel of een duurdere maar betrouwbaardere oplossing zichzelf terugverdient.
 
 ## Lees ook
 

@@ -224,7 +224,7 @@ Veel ondernemers weten dat ze aan de slag moeten met hun personeelsdossiers, maa
 
 **Stap 3: stel de bewaartermijnen in voor de meest gevoelige documenten.** Arbeidscontracten en loonstroken staan bovenaan. Stel een herinnering in voor het jaar van uitdiensttreding plus twee jaar (voor contracten) of zeven jaar (voor financiële documenten). De meeste HR-platformen ondersteunen dit met automatische archiveringswaarschuwingen.
 
-Drie stappen, realistische tijdsinvestering van een halve dag. Na die halve dag sta je er een stuk beter voor dan 80% van de vergelijkbare MKB-bedrijven in Nederland.
+Drie stappen, realistische tijdsinvestering van een halve dag. Na die halve dag sta je er een stuk beter voor dan 80% van de vergelijkbare MKB-bedrijven in Nederland. Plan die halve dag bewust in — wie het als tussentijds klusje beschouwt, stelt het steeds uit. Blokkeer een ochtend in je agenda, sluit je deur en werk het door. Het resultaat is direct merkbaar: je vindt documenten sneller, je bent compliant, en je hebt een zorg minder.
 
 ## Lees ook
 

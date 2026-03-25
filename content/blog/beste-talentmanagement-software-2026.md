@@ -501,3 +501,6 @@ Talentmanagement-data heeft alleen waarde als er consequenties aan verbonden zij
 
 **Fout 4: Feedback-cycli te lang plannen.**
 Jaarlijkse beoordelingsgesprekken zijn in veel organisaties het enige formele moment van terugkoppeling. Dat is te weinig. Medewerkers willen weten hoe ze het doen — en managers die alleen één keer per jaar feedback geven, missen de kans om ontwikkeling bij te sturen voordat een probleem groot wordt. Platforms als 15Five en Leapsome zijn gebouwd op kwartaal-reviews aangevuld met wekelijkse check-ins van vijf minuten. Begin met die ritme en je merkt snel dat zowel managers als medewerkers de gesprekken productiever ervaren dan het traditionele jaarlijkse beoordelingsgesprek.
+
+**Fout 5: Geen nulmeting doen voor de implementatie.**
+Zonder nulmeting kunt u na zes maanden niet aantonen wat het systeem heeft opgeleverd. Meet voor de implementatie het huidige verloop, de engagement-score en de gemiddelde time-to-productivity. Vergelijk die cijfers na twaalf maanden met de nieuwe resultaten — dat is de enige manier om de ROI concreet te maken voor het management.

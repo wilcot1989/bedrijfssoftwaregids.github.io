@@ -153,7 +153,7 @@ Voor wie snel wil zien welk pakket wat biedt:
 | **Exact Online** | €49+/mnd | Ja | Ja (Professional) | Ja | Ja |
 | **SnelStart** | €15-€22/mnd | Ja | Nee | Nee | Ja |
 
-Voor ZZP'ers die regelmatig op uren factureren is Moneybird de sterkste keuze in het betaalbare segment. Voor wie alleen facturen wil sturen en bijhouden, doet Jortt of e-Boekhouden prima werk voor minder geld.
+Voor ZZP'ers die regelmatig op uren factureren is Moneybird de sterkste keuze in het betaalbare segment. Voor wie alleen facturen wil sturen en bijhouden, doet Jortt of e-Boekhouden prima werk voor minder geld. Let ook op of het pakket automatische bankrekening-reconciliatie biedt — dat scheelt wekelijks tijd bij het matchen van betalingen met openstaande facturen.
 
 ## Vijf vragen voor je een gecombineerd pakket kiest
 

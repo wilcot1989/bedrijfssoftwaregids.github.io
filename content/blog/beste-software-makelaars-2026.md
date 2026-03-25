@@ -503,3 +503,6 @@ Sommige pakketten prijzen per gebruiker, andere per actief object of per transac
 
 **Fout 4: De datakwaliteit bij migratie niet controleren.**
 Een van de meest onderschatte uitdagingen bij het overstappen van makelaarssoftware is de datakwaliteit van de historische dossiers. Incompleet ingevoerde adressen, ontbrekende transactiedatums of niet-gekoppelde documenten zorgen na migratie voor chaos. Neem voor de overstap twee dagen de tijd om uw bestaande database op te schonen. Een schone import is altijd beter dan een snelle maar rommelige migratie die u nadien maanden achtervolgt.
+
+**Fout 5: Geen rekening houden met toekomstige uitbreiding.**
+Als uw kantoor groeit of een nieuwe vestiging opent, heeft u software nodig die meegroeit. Controleer of het gekozen pakket multi-vestiging ondersteunt, of het aantal gebruikers flexibel op te schalen is en of er extra modules beschikbaar zijn die u later kunt activeren. Een migratie naar een ander pakket halverwege de groei kost meer dan het prijsverschil tussen een instapmodel en een schaalbaar platform.

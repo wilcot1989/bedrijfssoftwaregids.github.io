@@ -188,7 +188,7 @@ Bij een niet-opzettelijke overtreding bedraagt de vergrijpboete maximaal 25% van
 
 Totaal potentiële schade bij één controlecyclus: €60.000-70.000.
 
-De kosten van een correct geconfigureerd kassasysteem en een jaarlijkse controle van de BTW-instellingen bedragen maximaal €500-2.000 per jaar. De rekensom is duidelijk: preventie is altijd goedkoper dan herstel.
+De kosten van een correct geconfigureerd kassasysteem en een jaarlijkse controle van de BTW-instellingen bedragen maximaal €500-2.000 per jaar. De rekensom is duidelijk: preventie is altijd goedkoper dan herstel. Neem die jaarlijkse controle op als vast agendapunt aan het begin van het boekjaar, zodat eventuele wijzigingen in BTW-tarieven direct worden verwerkt voordat ze problemen veroorzaken bij de eerstvolgende aangifte.
 
 ## Wat je boekhouder van je kassasysteem verwacht
 

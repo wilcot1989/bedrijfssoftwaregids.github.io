@@ -511,3 +511,5 @@ Onboarding software is een hulpmiddel, geen vervanging voor menselijk contact. Z
 
 **Vraag na 30 en 90 dagen om feedback.**
 De meeste onboarding-processen stoppen na dag één. Maar de kritische periode voor retentie ligt in de eerste drie maanden. Stuur op dag 30 en dag 90 een kort enquêteformulier — vijf vragen is voldoende — om te meten of de nieuwe medewerker zich welkom voelt, de rol begrijpt en voldoende hulpmiddelen heeft. Personio heeft ingebouwde pulse surveys voor precies dit doel. Die data toont u ook waar het onboarding-programma structureel tekortschiet, zodat u het voor de volgende medewerker kunt verbeteren.
+
+Vergeet niet om het onboarding-programma minstens één keer per jaar te herzien. Processen veranderen, teams groeien en de verwachtingen van nieuwe medewerkers verschuiven mee. Plan een jaarlijkse evaluatie waarin u de feedback van de afgelopen twaalf maanden doorloopt en het programma bijwerkt. Dat houdt uw onboarding relevant en voorkomt dat nieuwe medewerkers verouderde informatie ontvangen over systemen, contactpersonen of werkafspraken die inmiddels zijn gewijzigd.

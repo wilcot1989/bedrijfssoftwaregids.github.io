@@ -471,3 +471,5 @@ Fiscale documenten moeten minimaal zeven jaar bewaard worden; loonadministratie 
 
 **Train uw team op zoeken, niet op bladeren.**
 De meest voorkomende reden waarom DMS-implementaties mislukken: medewerkers vallen terug op de oude gewoonte van mappen doorbladeren in plaats van de zoekfunctie te gebruiken. Plan bij de introductie een korte training waarin u laat zien hoe snel zoeken werkt. Een medewerker die eenmaal heeft ervaren dat hij een document in vijf seconden vindt via een zoekterm, keert zelden terug naar handmatig bladeren. Dat gedragsverandering is minstens zo waardevol als de implementatie zelf.
+
+Overweeg bij de introductie ook een korte interne FAQ te maken: vijf veelgestelde vragen met antwoorden die medewerkers zelf kunnen raadplegen zonder de IT-afdeling of documentbeheerder in te schakelen. Denk aan vragen als "hoe deel ik een document met een klant?", "hoe vind ik een verouderde versie terug?" en "hoe stel ik een vervaldatum in?". Zo'n FAQ vermindert de weerstand bij de overstap en bespaart supporttijd.
