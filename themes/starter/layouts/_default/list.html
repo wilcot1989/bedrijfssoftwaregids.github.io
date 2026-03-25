@@ -34,11 +34,11 @@
   <div class="card-grid" style="margin-top:1rem;" id="cardGrid">
     {{ range .Pages }}
     {{ $pageTitle := .Title }}
-    {{ $slug := .File.BaseFileName }}
+    {{ $slug := "" }}{{ with .File }}{{ $slug = .BaseFileName }}{{ end }}
     {{ $type := "info" }}
-    {{ if findRE "review" $slug }}{{ $type = "review" }}
-    {{ else if or (findRE "\\bvs\\b" $slug) (findRE "vergelijk" $slug) (findRE "beste" $slug) (findRE "alternatieven" $slug) }}{{ $type = "vs" }}
-    {{ else if findRE "prij" $slug }}{{ $type = "prijs" }}{{ end }}
+    {{ if and $slug (findRE "review" $slug) }}{{ $type = "review" }}
+    {{ else if and $slug (or (findRE "\\bvs\\b" $slug) (findRE "vergelijk" $slug) (findRE "beste" $slug) (findRE "alternatieven" $slug)) }}{{ $type = "vs" }}
+    {{ else if and $slug (findRE "prij" $slug) }}{{ $type = "prijs" }}{{ end }}
     <div class="card" data-type="{{ $type }}">
       {{ with .Params.featured_image }}<img src="/{{ strings.TrimPrefix "/" . }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy" decoding="async">{{ end }}
       <div class="card-body">

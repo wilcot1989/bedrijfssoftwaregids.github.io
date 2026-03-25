@@ -139,6 +139,7 @@
 </div>
 
 {{/* ===== 4b. TOP AANBEVOLEN SOFTWARE ===== */}}
+{{ $allPosts := where .Site.RegularPages "Type" "blog" }}
 {{ $productsPages := where $allPosts ".Params.products" "!=" nil }}
 {{ if $productsPages }}
 <div class="section">
