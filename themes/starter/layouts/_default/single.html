@@ -1,4 +1,7 @@
 {{ define "main" }}
+<!-- Reading progress bar -->
+<div class="reading-progress" id="readingProgress"></div>
+
 {{ if .Params.featured_image }}
 <div class="article-hero" style="background-image: url('/{{ strings.TrimPrefix "/" .Params.featured_image }}');">
   <div class="article-hero-overlay">
@@ -9,7 +12,14 @@
         {{ .Title }}
       </div>
       <h1 class="article-hero-title">{{ .Title }}</h1>
-      {{ if not .Date.IsZero }}<div class="meta meta-light">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd{{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}{{ end }}</div>{{ end }}
+      {{ if not .Date.IsZero }}
+      <div class="article-meta-bar meta-light">
+        <span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg> {{ .Date.Format "02-01-2006" }}</span>
+        <span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> {{ .ReadingTime }} min leestijd</span>
+        {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg> Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</span>{{ end }}
+        {{ if .Params.author }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> {{ .Params.author }}</span>{{ end }}
+      </div>
+      {{ end }}
     </div>
   </div>
 </div>
@@ -24,45 +34,73 @@
       {{ if .Params.categories }}{{ range .Params.categories }}<a href="/categories/{{ . | urlize }}/">{{ . | humanize | title }}</a> &rsaquo; {{ end }}{{ else if .Parent }}<a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &rsaquo; {{ end }}
       {{ .Title }}
     </div>
-    {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd{{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }} &middot; Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}{{ end }}</div>{{ end }}
     <h1>{{ .Title }}</h1>
+    {{ if not .Date.IsZero }}
+    <div class="article-meta-bar">
+      <span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg> {{ .Date.Format "02-01-2006" }}</span>
+      <span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> {{ .ReadingTime }} min leestijd</span>
+      {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg> Bijgewerkt {{ .Lastmod.Format "02-01-2006" }}</span>{{ end }}
+      {{ if .Params.author }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> {{ .Params.author }}</span>{{ end }}
+    </div>
+    {{ end }}
 {{ end }}
 {{ if .Params.categories }}<meta name="bsg-category" content="{{ index .Params.categories 0 | urlize }}">{{ end }}
 {{ if .Params.products }}
     <div class="article-layout">
-    <div>{{ .Content }}</div>
+    <div class="article-content" id="articleContent">{{ .Content }}</div>
     <aside class="sticky-sidebar">
-      <h4>Top 3</h4>
-      {{ range first 3 .Params.products }}
-      <div class="sidebar-product">
-        <div class="sidebar-name">{{ .name }}</div>
-        <div class="sidebar-price">{{ if eq .price "0.00" }}Gratis{{ else }}Vanaf &euro;{{ .price }}/mnd{{ end }}</div>
-        <a href="{{ .url }}" class="sidebar-cta cta-affiliate" target="_blank" rel="noopener noreferrer">Bekijk {{ .name }} &rarr;</a>
+      <div class="sidebar-block">
+        <div class="sidebar-block-header">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <h4>Top 3</h4>
+        </div>
+        {{ range $i, $p := first 3 .Params.products }}
+        <div class="sidebar-product">
+          <div class="sidebar-rank">{{ add $i 1 }}</div>
+          <div class="sidebar-product-info">
+            <div class="sidebar-name">{{ $p.name }}</div>
+            <div class="sidebar-price">{{ if eq $p.price "0.00" }}Gratis{{ else }}Vanaf &euro;{{ $p.price }}/mnd{{ end }}</div>
+          </div>
+          <a href="{{ $p.url }}" class="sidebar-cta cta-affiliate" target="_blank" rel="noopener noreferrer">Bekijk &rarr;</a>
+        </div>
+        {{ end }}
       </div>
-      {{ end }}
+      <!-- Table of Contents -->
+      <div class="sidebar-block sidebar-toc" id="sidebarToc">
+        <div class="sidebar-block-header">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+          <h4>Inhoudsopgave</h4>
+        </div>
+        <nav class="toc-nav" id="tocNav"></nav>
+      </div>
     </aside>
     </div>
 {{ else }}
-    {{ .Content }}
+    <div class="article-content" id="articleContent">{{ .Content }}</div>
 {{ end }}
     {{ if .Params.tags }}
-    <div class="tags" style="margin-top:2rem;">
+    <div class="article-tags">
+      <span class="tags-label">Tags:</span>
       {{ range .Params.tags }}<a class="tag" href="/tags/{{ . | urlize }}/">{{ . }}</a>{{ end }}
     </div>
     {{ end }}
     {{ if .Params.affiliate }}
     <div class="affiliate-disclosure">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
       Dit artikel bevat affiliate links. Als je via deze links een aankoop doet, ontvangen wij een kleine commissie zonder extra kosten voor jou.
     </div>
     {{ end }}
 
     {{ if .Params.faq }}
     <div class="faq-section">
-      <h2>Veelgestelde Vragen</h2>
+      <div class="faq-header">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        <h2>Veelgestelde Vragen</h2>
+      </div>
       {{ range .Params.faq }}
       <details class="faq-item">
         <summary>{{ .q }}</summary>
-        <p>{{ .a }}</p>
+        <div class="faq-answer"><p>{{ .a }}</p></div>
       </details>
       {{ end }}
     </div>
@@ -72,12 +110,14 @@
       {{ if .Params.author }}
       {{ $nameParts := split .Params.author " " }}<div class="author-avatar">{{ index $nameParts 0 | truncate 1 "" }}{{ index $nameParts (sub (len $nameParts) 1) | truncate 1 "" }}</div>
       <div class="author-info">
+        <div class="author-label">Geschreven door</div>
         <div class="author-name">{{ .Params.author }}</div>
         <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Software consultant en redacteur bij Bedrijfssoftwaregids.nl.{{ end }}</div>
       </div>
       {{ else }}
       <div class="author-avatar">BSG</div>
       <div class="author-info">
+        <div class="author-label">Geschreven door</div>
         <div class="author-name">Redactie Bedrijfssoftwaregids</div>
         <div class="author-bio">Ons team test en vergelijkt zakelijke software voor het Nederlandse MKB. Elke aanbeveling is gebaseerd op hands-on ervaring en onafhankelijk onderzoek.</div>
       </div>
@@ -89,15 +129,30 @@
     {{ if not $related }}{{ $related = $allOther }}{{ end }}
     {{ $related = first 4 $related }}
     {{ if $related }}
-    <div class="related-articles">
-      <h3>Gerelateerde Artikelen</h3>
-      <ul>
+    <div class="related-section">
+      <div class="related-header">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        <h3>Gerelateerde Artikelen</h3>
+      </div>
+      <div class="related-grid">
         {{ range $related }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        <a href="{{ .RelPermalink }}" class="related-card">
+          <div class="related-card-content">
+            {{ with .Params.categories }}{{ range first 1 . }}<span class="related-category">{{ . | humanize | title }}</span>{{ end }}{{ end }}
+            <span class="related-title">{{ .Title }}</span>
+            <span class="related-meta">{{ .ReadingTime }} min leestijd</span>
+          </div>
+          <svg class="related-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
         {{ end }}
-      </ul>
+      </div>
     </div>
     {{ end }}
   </article>
 </div>
+
+<!-- Back to top button -->
+<button class="back-to-top" id="backToTop" aria-label="Terug naar boven">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>
+</button>
 {{ end }}
