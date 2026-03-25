@@ -1,6 +1,6 @@
 ---
 title: "CRM ROI berekenen — Wat levert een CRM op?"
-description: "Bereken de ROI van je CRM-investering. Ontdek hoeveel omzet, tijdsbesparing en efficiencywinst een CRM-systeem jouw bedrijf oplevert. Gratis calculator 2026."
+description: "Bereken de ROI van je CRM-investering. Ontdek hoeveel omzet en tijdsbesparing een CRM-systeem jouw bedrijf oplevert. Gratis calculator."
 tools_category: "crm"
 tools_scripts: ["tools-advanced.js"]
 tool_mount: "bsg-advanced"

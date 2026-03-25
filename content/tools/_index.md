@@ -1,6 +1,6 @@
 ---
 title: "Gratis tools voor Nederlandse ondernemers"
-description: "23 gratis tools voor het kiezen van bedrijfssoftware. Keuzehulpen, kostenberekenaars en geavanceerde tools voor CRM, boekhouding, HR, kassasystemen en meer."
+description: "23 gratis tools voor het kiezen van bedrijfssoftware. Keuzehulpen, kostenberekenaars en geavanceerde tools voor CRM, boekhouding, HR en meer."
 tools_category: "tools-landing"
 layout: "list"
 ---

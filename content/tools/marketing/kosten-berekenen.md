@@ -1,5 +1,5 @@
 ---
-title: "Marketing software kosten berekenen"
+title: "Marketing software kosten berekenen — Wat kost het?"
 description: "Bereken in 1 minuut wat marketing software je per maand kost. Vergelijk prijzen van Mailchimp, ActiveCampaign, HubSpot en meer."
 tools_category: "marketing"
 tools_scripts: ["tools-calculators.js"]
@@ -31,4 +31,10 @@ noindex: false
     <li><a href="/tools/marketing/lead-roi-berekenen/">Lead ROI calculator</a> &mdash; bereken het rendement van je marketing automation</li>
     <li><a href="/categories/marketing/">Alle marketing software vergelijkingen</a> &mdash; uitgebreide reviews en top-lijsten</li>
   </ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/beste-email-marketing-software-2026/">Beste E-mailmarketing Software 2026: Top 6</a> &mdash; prijzen en functies van Mailchimp, ActiveCampaign, Brevo en meer naast elkaar.</li>
+  <li><a href="/blog/marketing-automation-roi-voorbeelden/">Marketing Automation ROI: 4 NL Voorbeelden</a> &mdash; concrete voorbeelden van wat marketing automation Nederlandse bedrijven oplevert.</li>
+</ul>
 

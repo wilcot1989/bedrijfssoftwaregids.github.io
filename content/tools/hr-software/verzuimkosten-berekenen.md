@@ -1,5 +1,5 @@
 ---
-title: "Verzuimkosten berekenen"
+title: "Verzuimkosten berekenen — Wat kost ziekteverzuim je bedrijf?"
 description: "Bereken wat ziekteverzuim je bedrijf kost. Inclusief CBS-gemiddelden, kostenfactoren en besparingspotentieel met HR-software."
 tools_category: "hr-software"
 tools_scripts: ["tools-advanced.js"]
@@ -33,4 +33,10 @@ noindex: false
   <li><a href="/tools/hr-software/keuzehulp/">HR software keuzehulp</a> &mdash; beantwoord vijf vragen en ontdek welk HR-pakket past bij jouw organisatie.</li>
   <li><a href="/tools/hr-software/kosten-berekenen/">HR software kosten berekenen</a> &mdash; bereken direct je maandelijkse kosten voor HR software op basis van teamgrootte en modules.</li>
   <li><a href="/categories/hr-software/">Alle HR software vergelijkingen</a> &mdash; reviews en vergelijkingen van de beste HR-pakketten voor het Nederlandse MKB.</li>
+</ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/beste-hr-software-nederland-2026/">Beste HR Software Nederland 2026: Top 6 voor MKB</a> &mdash; welk HR-pakket biedt de beste prijs-kwaliteitverhouding voor jouw bedrijf?</li>
+  <li><a href="/blog/ziekteverzuim-terugdringen-hr-software/">Ziekteverzuim terugdringen: wat kan HR-software doen?</a> &mdash; concrete tips om verzuim te verlagen met de juiste software.</li>
 </ul>

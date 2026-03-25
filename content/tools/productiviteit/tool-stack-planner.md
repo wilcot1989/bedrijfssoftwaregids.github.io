@@ -1,5 +1,5 @@
 ---
-title: "Tool stack planner"
+title: "Tool stack planner — Stel je ideale software-combinatie samen"
 description: "Stel je ideale software-stack samen. Ontdek welke productiviteitstools goed samenwerken, wat het kost en voorkom dubbele functies."
 tools_category: "productiviteit"
 tools_scripts: ["tools-advanced.js"]
@@ -31,4 +31,10 @@ noindex: false
         <li><a href="/tools/productiviteit/keuzehulp/">Productiviteit software keuzehulp</a> &mdash; ontdek welke tool bij je past in 5 vragen</li>
         <li><a href="/categories/productiviteit/">Alle productiviteitssoftware vergelijkingen</a> &mdash; uitgebreide reviews en top-lijsten</li>
       </ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/notion-review-2026/">Notion Review 2026: Alles-in-een Workspace Getest</a> &mdash; past Notion in jouw stack? Lees de uitgebreide review.</li>
+  <li><a href="/blog/clickup-vs-notion-2026/">ClickUp vs Notion 2026: PM vs Alles-in-Een</a> &mdash; twee populaire tools vergeleken op functies, integraties en prijs.</li>
+</ul>
     

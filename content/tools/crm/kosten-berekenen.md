@@ -1,6 +1,6 @@
 ---
-title: "CRM software kosten berekenen"
-description: "Bereken in 30 seconden wat CRM software je maandelijks kost. Vergelijk prijzen van HubSpot, Pipedrive, Salesforce en meer. Gratis calculator, bijgewerkt 2026."
+title: "CRM software kosten berekenen — Wat kost een CRM systeem?"
+description: "Bereken in 30 seconden wat CRM software je maandelijks kost. Vergelijk prijzen van HubSpot, Pipedrive, Salesforce en meer. Gratis calculator."
 tools_category: "crm"
 tools_scripts: ["tools-calculators.js"]
 tool_mount: "bsg-calculator"

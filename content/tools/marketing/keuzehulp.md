@@ -1,5 +1,5 @@
 ---
-title: "Marketing software keuzehulp"
+title: "Marketing software keuzehulp — Welke tool past bij jou?"
 description: "Ontdek in 5 vragen welke marketing software bij jouw bedrijf past. Vergelijk e-mailmarketing, automation en CRM-tools. Gratis en onafhankelijk."
 tools_category: "marketing"
 tools_scripts: ["tools-wizard.js"]
@@ -30,4 +30,10 @@ noindex: false
     <li><a href="/tools/marketing/lead-roi-berekenen/">Lead ROI calculator</a> &mdash; bereken wat marketing automation je oplevert per lead</li>
     <li><a href="/categories/marketing/">Alle marketing software vergelijkingen</a> &mdash; uitgebreide reviews en top-lijsten</li>
   </ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/beste-email-marketing-software-2026/">Beste E-mailmarketing Software 2026: Top 6</a> &mdash; vergelijk de populairste e-mailmarketing tools op functies, prijs en gebruiksgemak.</li>
+  <li><a href="/blog/beste-marketing-automation-software-2026/">Beste Marketing Automation Software 2026: Top 6</a> &mdash; ontdek welke automation-tools het beste scoren voor het Nederlandse MKB.</li>
+</ul>
 

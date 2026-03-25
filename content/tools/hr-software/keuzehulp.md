@@ -1,5 +1,5 @@
 ---
-title: "HR Software keuzehulp"
+title: "HR Software keuzehulp — Welke HR software past bij jou?"
 description: "Beantwoord 5 vragen en ontdek welke HR software het beste bij jouw bedrijf past. Gratis, onafhankelijke keuzehulp met persoonlijk advies."
 tools_category: "hr-software"
 tools_scripts: ["tools-wizard.js"]
@@ -33,4 +33,10 @@ noindex: false
   <li><a href="/tools/hr-software/kosten-berekenen/">HR software kosten calculator</a> &mdash; bereken direct wat een HR-pakket je per maand kost op basis van je teamgrootte.</li>
   <li><a href="/tools/hr-software/verzuimkosten-berekenen/">Verzuimkosten berekenen</a> &mdash; ontdek hoeveel ziekteverzuim je bedrijf jaarlijks kost en wat HR-software daarin kan besparen.</li>
   <li><a href="/categories/hr-software/">Alle HR software vergelijkingen</a> &mdash; uitgebreide reviews en vergelijkingen van de populairste HR-pakketten in Nederland.</li>
+</ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/beste-hr-software-nederland-2026/">Beste HR Software Nederland 2026: Top 6 voor MKB</a> &mdash; uitgebreide vergelijking van de populairste HR-pakketten voor het Nederlandse MKB.</li>
+  <li><a href="/blog/ziekteverzuim-terugdringen-hr-software/">Ziekteverzuim terugdringen: wat kan HR-software doen?</a> &mdash; ontdek hoe HR-software je helpt verzuim te verlagen en kosten te besparen.</li>
 </ul>

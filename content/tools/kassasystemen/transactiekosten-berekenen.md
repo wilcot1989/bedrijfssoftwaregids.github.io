@@ -1,6 +1,6 @@
 ---
 title: "POS transactiekosten berekenen — Pinkosten vergelijken"
-description: "Bereken je transactiekosten per pinbetaling en vergelijk tarieven van betaalproviders. Ontdek of een vast tarief of percentage voordeliger is voor jouw omzet."
+description: "Bereken je transactiekosten per pinbetaling en vergelijk tarieven van betaalproviders. Ontdek of een vast tarief of percentage voordeliger is."
 tools_category: "kassasystemen"
 tools_scripts: ["tools-advanced.js"]
 tool_mount: "bsg-advanced"

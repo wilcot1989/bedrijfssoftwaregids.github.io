@@ -1,5 +1,5 @@
 ---
-title: "Webshop migratie planner"
+title: "Webshop migratie planner — Plan je platformwissel stap voor stap"
 description: "Plan je webshop-migratie stap voor stap. Bereken de kosten, tijdlijn en risico's van een platformwissel. Gratis en onafhankelijk."
 tools_category: "webshops"
 tools_scripts: ["tools-advanced.js"]
@@ -36,4 +36,10 @@ noindex: false
     <li><a href="/tools/webshops/kosten-berekenen/">Webshop kosten berekenen</a> &mdash; vergelijk maandkosten per platform</li>
     <li><a href="/categories/webshops/">Alle webshop software vergelijkingen</a> &mdash; uitgebreide reviews en top-lijsten</li>
   </ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/beste-webshop-software-2026/">Beste Webshop Software Nederland 2026</a> &mdash; vergelijk platforms voordat je migreert: functies, prijzen en schaalbaarheid.</li>
+  <li><a href="/blog/woocommerce-vs-shopify-2026/">WooCommerce vs Shopify 2026</a> &mdash; overweeg je een overstap? Lees de uitgebreide vergelijking.</li>
+</ul>
 

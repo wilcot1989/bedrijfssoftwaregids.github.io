@@ -1,5 +1,5 @@
 ---
-title: "Webshop kosten berekenen"
+title: "Webshop kosten berekenen — Wat kost een webshop per maand?"
 description: "Bereken wat een webshop je per maand kost. Vergelijk de prijzen van Shopify, WooCommerce, Lightspeed en meer. Gratis calculator."
 tools_category: "webshops"
 tools_scripts: ["tools-calculators.js"]
@@ -32,4 +32,10 @@ noindex: false
     <li><a href="/tools/webshops/migratie-planner/">Webshop migratie planner</a> &mdash; plan je platformwissel stap voor stap</li>
     <li><a href="/categories/webshops/">Alle webshop software vergelijkingen</a> &mdash; uitgebreide reviews en top-lijsten</li>
   </ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/beste-webshop-software-2026/">Beste Webshop Software Nederland 2026</a> &mdash; vergelijk prijzen en functies van alle populaire webshop platforms.</li>
+  <li><a href="/blog/shopify-prijzen-nederland-2026/">Shopify Prijzen Nederland 2026</a> &mdash; wat kost Shopify echt? Alle abonnementen en verborgen kosten op een rij.</li>
+</ul>
 

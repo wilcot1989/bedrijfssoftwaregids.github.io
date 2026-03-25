@@ -1,5 +1,5 @@
 ---
-title: "Webshop software keuzehulp"
+title: "Webshop software keuzehulp — Welk platform past bij jou?"
 description: "Welk webshop platform past bij jou? Beantwoord 5 vragen en ontdek of Shopify, WooCommerce, Lightspeed of een ander platform de beste keuze is."
 tools_category: "webshops"
 tools_scripts: ["tools-wizard.js"]
@@ -31,4 +31,10 @@ noindex: false
     <li><a href="/tools/webshops/migratie-planner/">Webshop migratie planner</a> &mdash; plan je platformwissel stap voor stap</li>
     <li><a href="/categories/webshops/">Alle webshop software vergelijkingen</a> &mdash; uitgebreide reviews en top-lijsten</li>
   </ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/beste-webshop-software-2026/">Beste Webshop Software Nederland 2026</a> &mdash; uitgebreide vergelijking van Shopify, WooCommerce, Lightspeed en meer.</li>
+  <li><a href="/blog/woocommerce-vs-shopify-2026/">WooCommerce vs Shopify 2026</a> &mdash; de twee populairste platforms vergeleken op prijs, functies en flexibiliteit.</li>
+</ul>
 

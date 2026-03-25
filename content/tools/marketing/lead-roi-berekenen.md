@@ -1,5 +1,5 @@
 ---
-title: "Lead ROI berekenen"
+title: "Lead ROI berekenen — Wat levert marketing automation op?"
 description: "Bereken wat marketing automation je oplevert per lead. Vul je kosten en conversiecijfers in en zie direct je ROI. Gratis calculator."
 tools_category: "marketing"
 tools_scripts: ["tools-advanced.js"]
@@ -35,4 +35,10 @@ noindex: false
     <li><a href="/tools/marketing/kosten-berekenen/">Marketing software kosten berekenen</a> &mdash; vergelijk maandkosten per tool</li>
     <li><a href="/categories/marketing/">Alle marketing software vergelijkingen</a> &mdash; uitgebreide reviews en top-lijsten</li>
   </ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/marketing-automation-roi-voorbeelden/">Marketing Automation ROI: 4 NL Voorbeelden</a> &mdash; lees hoe Nederlandse bedrijven rendement halen uit marketing automation.</li>
+  <li><a href="/blog/beste-marketing-automation-software-2026/">Beste Marketing Automation Software 2026: Top 6</a> &mdash; vergelijk de beste automation-tools voor leadgeneratie en nurturing.</li>
+</ul>
 

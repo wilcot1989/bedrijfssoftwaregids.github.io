@@ -1,5 +1,5 @@
 ---
-title: "HR Software kosten berekenen"
+title: "HR Software kosten berekenen — Wat kost HR software?"
 description: "Bereken direct wat HR software je per maand kost. Vul je teamgrootte in en vergelijk prijzen van populaire HR-pakketten in Nederland."
 tools_category: "hr-software"
 tools_scripts: ["tools-calculators.js"]
@@ -33,4 +33,10 @@ noindex: false
   <li><a href="/tools/hr-software/keuzehulp/">HR software keuzehulp</a> &mdash; beantwoord vijf vragen en ontdek welk HR-pakket het beste bij je organisatie past.</li>
   <li><a href="/tools/hr-software/verzuimkosten-berekenen/">Verzuimkosten berekenen</a> &mdash; bereken hoeveel ziekteverzuim je bedrijf kost en wat HR-software aan besparing oplevert.</li>
   <li><a href="/categories/hr-software/">Alle HR software vergelijkingen</a> &mdash; uitgebreide reviews en vergelijkingen van de beste HR-pakketten voor het Nederlandse MKB.</li>
+</ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/beste-hr-software-nederland-2026/">Beste HR Software Nederland 2026: Top 6 voor MKB</a> &mdash; vergelijk prijzen en functies van de populairste HR-pakketten in Nederland.</li>
+  <li><a href="/blog/ziekteverzuim-terugdringen-hr-software/">Ziekteverzuim terugdringen: wat kan HR-software doen?</a> &mdash; lees hoe HR-software verzuimkosten verlaagt en wat dat je bedrijf oplevert.</li>
 </ul>

@@ -1,5 +1,5 @@
 ---
-title: "Productiviteit software keuzehulp"
+title: "Productiviteitssoftware keuzehulp — Welke tool past bij jou?"
 description: "Vind de beste productiviteitstool voor jouw team. Beantwoord 5 vragen en krijg een persoonlijk advies over taakbeheer, notitie-apps en samenwerktools."
 tools_category: "productiviteit"
 tools_scripts: ["tools-wizard.js"]
@@ -29,4 +29,10 @@ noindex: false
         <li><a href="/tools/productiviteit/tool-stack-planner/">Tool stack planner</a> &mdash; stel je ideale combinatie van productiviteitstools samen</li>
         <li><a href="/categories/productiviteit/">Alle productiviteitssoftware vergelijkingen</a> &mdash; uitgebreide reviews en top-lijsten</li>
       </ul>
+
+<h2>Gerelateerde artikelen</h2>
+<ul>
+  <li><a href="/blog/notion-review-2026/">Notion Review 2026: Alles-in-een Workspace Getest</a> &mdash; uitgebreide review van Notion als productiviteitstool voor teams en solo-gebruikers.</li>
+  <li><a href="/blog/clickup-vs-notion-2026/">ClickUp vs Notion 2026: PM vs Alles-in-Een</a> &mdash; welke tool past beter bij jouw werkwijze? Functies, prijs en gebruiksgemak vergeleken.</li>
+</ul>
     
