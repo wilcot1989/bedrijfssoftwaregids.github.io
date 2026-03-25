@@ -700,8 +700,56 @@
     .inline-toc-nav .toc-link:hover { color: var(--primary); background: var(--primary-light); border-left-color: var(--primary); }
     .inline-toc-nav .toc-link-h3 { padding-left: 1.5rem; font-size: 0.82rem; color: var(--text-muted); }
 
+    /* ===== VERDICT CARD — top product highlight ===== */
+    .verdict-card { background: linear-gradient(135deg, var(--gray-900) 0%, var(--emerald-900) 100%); border-radius: var(--radius-lg); padding: 1.5rem; margin-bottom: 1.5rem; position: relative; overflow: hidden; }
+    .verdict-card::before { content: ""; position: absolute; top: -50%; right: -20%; width: 200px; height: 200px; background: radial-gradient(circle, rgba(16,185,129,0.2) 0%, transparent 70%); pointer-events: none; }
+    .verdict-badge { display: inline-flex; align-items: center; gap: 0.35rem; background: linear-gradient(135deg, var(--amber-500), var(--amber-600)); color: #fff; font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; padding: 0.3rem 0.75rem; border-radius: var(--radius-full); margin-bottom: 1rem; }
+    .verdict-badge svg { flex-shrink: 0; }
+    .verdict-main { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; flex-wrap: wrap; }
+    .verdict-info { flex: 1; min-width: 200px; }
+    .verdict-name { font-size: 1.35rem; font-weight: 800; color: #fff; letter-spacing: -0.02em; }
+    .verdict-price { font-size: 0.88rem; color: var(--emerald-200); margin-top: 0.2rem; font-weight: 500; }
+    .verdict-desc { font-size: 0.85rem; color: var(--gray-400); margin-top: 0.35rem; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .verdict-cta { display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, var(--amber-500) 0%, var(--amber-600) 100%); color: #fff; padding: 0.85rem 1.75rem; border-radius: var(--radius); font-weight: 700; font-size: 0.95rem; text-decoration: none; transition: all 0.3s; box-shadow: 0 4px 15px rgba(245,158,11,0.3); white-space: nowrap; flex-shrink: 0; }
+    .verdict-cta:hover { color: #fff; transform: translateY(-2px); box-shadow: 0 8px 25px rgba(245,158,11,0.4); }
+    @media (max-width: 600px) { .verdict-main { flex-direction: column; align-items: flex-start; } .verdict-cta { width: 100%; justify-content: center; } }
+
+    /* ===== CTA PULSE ANIMATION — all affiliate buttons ===== */
+    @media (prefers-reduced-motion: no-preference) {
+      .cta-affiliate { position: relative; overflow: visible; }
+      .cta-affiliate::after { content: ""; position: absolute; inset: -3px; border-radius: inherit; background: linear-gradient(135deg, var(--amber-500), var(--amber-600)); opacity: 0; z-index: -1; animation: ctaPulse 3s ease-in-out infinite; }
+      @keyframes ctaPulse { 0%, 100% { opacity: 0; transform: scale(1); } 50% { opacity: 0.15; transform: scale(1.04); } }
+    }
+
+    /* ===== CONVERSION BANNER — post-article ===== */
+    .conversion-banner { position: relative; margin-top: 3rem; border-radius: var(--radius-xl); overflow: hidden; background: var(--gray-900); }
+    .conversion-banner-bg { position: absolute; inset: 0; background: linear-gradient(135deg, var(--emerald-900) 0%, var(--gray-900) 50%, var(--emerald-900) 100%); opacity: 0.8; }
+    .conversion-banner-bg::before { content: ""; position: absolute; top: -50%; right: -10%; width: 400px; height: 400px; background: radial-gradient(circle, rgba(16,185,129,0.15) 0%, transparent 70%); }
+    .conversion-banner-content { position: relative; z-index: 1; display: flex; align-items: center; justify-content: space-between; padding: 2rem 2.5rem; gap: 2rem; flex-wrap: wrap; }
+    .conversion-banner-text { flex: 1; min-width: 250px; }
+    .conversion-banner-label { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--emerald-200); margin-bottom: 0.4rem; }
+    .conversion-banner-title { font-size: 1.35rem; font-weight: 800; color: #fff; letter-spacing: -0.02em; }
+    .conversion-banner-sub { font-size: 0.88rem; color: var(--gray-400); margin-top: 0.3rem; }
+    .conversion-banner-cta { display: inline-flex; align-items: center; gap: 0.5rem; background: linear-gradient(135deg, var(--amber-500) 0%, var(--amber-600) 100%); color: #fff; padding: 0.9rem 2rem; border-radius: var(--radius); font-weight: 700; font-size: 1rem; text-decoration: none; transition: all 0.3s; box-shadow: 0 4px 15px rgba(245,158,11,0.3); white-space: nowrap; flex-shrink: 0; }
+    .conversion-banner-cta:hover { color: #fff; transform: translateY(-2px); box-shadow: 0 8px 25px rgba(245,158,11,0.45); }
+    .conversion-banner--tools .conversion-banner-cta { background: linear-gradient(135deg, var(--emerald-600) 0%, var(--emerald-500) 100%); box-shadow: 0 4px 15px rgba(5,150,105,0.3); }
+    .conversion-banner--tools .conversion-banner-cta:hover { box-shadow: 0 8px 25px rgba(5,150,105,0.4); }
+    @media (max-width: 700px) { .conversion-banner-content { flex-direction: column; padding: 1.75rem; text-align: center; } .conversion-banner-cta { width: 100%; justify-content: center; } }
+
+    /* ===== STICKY MOBILE CTA BAR ===== */
+    .mobile-cta-bar { position: fixed; bottom: 0; left: 0; right: 0; z-index: 998; background: var(--surface); border-top: 1px solid var(--border); box-shadow: 0 -4px 20px rgba(0,0,0,0.1); padding: 0.65rem 1rem; display: none; align-items: center; justify-content: space-between; gap: 0.75rem; transform: translateY(100%); transition: transform 0.3s ease; }
+    .mobile-cta-bar.visible { transform: translateY(0); }
+    .mobile-cta-info { display: flex; align-items: center; gap: 0.5rem; min-width: 0; flex: 1; }
+    .mobile-cta-rank { background: linear-gradient(135deg, var(--emerald-600), var(--emerald-500)); color: #fff; font-size: 0.65rem; font-weight: 800; width: 24px; height: 24px; border-radius: 6px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .mobile-cta-name { font-weight: 700; font-size: 0.88rem; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .mobile-cta-price { font-size: 0.75rem; color: var(--text-muted); white-space: nowrap; flex-shrink: 0; }
+    .mobile-cta-btn { display: inline-flex; align-items: center; gap: 0.3rem; background: linear-gradient(135deg, var(--amber-500), var(--amber-600)); color: #fff; padding: 0.6rem 1.2rem; border-radius: var(--radius-sm); font-weight: 700; font-size: 0.85rem; text-decoration: none; white-space: nowrap; flex-shrink: 0; box-shadow: 0 2px 8px rgba(245,158,11,0.3); transition: all 0.2s; }
+    .mobile-cta-btn:hover { color: #fff; box-shadow: 0 4px 12px rgba(245,158,11,0.4); }
+    @media (max-width: 1024px) { .mobile-cta-bar { display: flex; } }
+    @media (min-width: 1025px) { .mobile-cta-bar { display: none !important; } }
+
     /* ===== BACK TO TOP ===== */
-    .back-to-top { position: fixed; bottom: 2rem; right: 2rem; width: 44px; height: 44px; background: var(--surface); border: 1px solid var(--border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; color: var(--text-sub); box-shadow: var(--shadow-md); z-index: 99; opacity: 0; visibility: hidden; transform: translateY(10px); transition: all 0.3s; }
+    .back-to-top { position: fixed; bottom: 5rem; right: 1.5rem; width: 44px; height: 44px; background: var(--surface); border: 1px solid var(--border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; color: var(--text-sub); box-shadow: var(--shadow-md); z-index: 99; opacity: 0; visibility: hidden; transform: translateY(10px); transition: all 0.3s; }
     .back-to-top.visible { opacity: 1; visibility: visible; transform: translateY(0); }
     .back-to-top:hover { background: var(--primary); color: #fff; border-color: var(--primary); box-shadow: 0 4px 14px rgba(5,150,105,0.3); transform: translateY(-2px); }
 
@@ -891,16 +939,16 @@
       });
     })();
 
-    // Back to top button
+    // Back to top button + mobile CTA bar
     (function(){
       var btn = document.getElementById('backToTop');
-      if(!btn) return;
+      var mbar = document.getElementById('mobileCta');
       window.addEventListener('scroll', function(){
-        btn.classList.toggle('visible', window.scrollY > 500);
+        var y = window.scrollY;
+        if(btn) btn.classList.toggle('visible', y > 500);
+        if(mbar) mbar.classList.toggle('visible', y > 400);
       }, {passive:true});
-      btn.addEventListener('click', function(){
-        window.scrollTo({top:0, behavior:'smooth'});
-      });
+      if(btn) btn.addEventListener('click', function(){ window.scrollTo({top:0, behavior:'smooth'}); });
     })();
 
     (function(){

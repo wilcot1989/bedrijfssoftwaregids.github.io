@@ -46,6 +46,27 @@
 {{ end }}
 {{ if .Params.categories }}<meta name="bsg-category" content="{{ index .Params.categories 0 | urlize }}">{{ end }}
 
+    {{/* ===== VERDICT CARD — #1 product met grote CTA ===== */}}
+    {{ if .Params.products }}{{ with index .Params.products 0 }}
+    <div class="verdict-card">
+      <div class="verdict-badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        Topkeuze {{ now.Year }}
+      </div>
+      <div class="verdict-main">
+        <div class="verdict-info">
+          <div class="verdict-name">{{ .name }}</div>
+          <div class="verdict-price">{{ if eq .price "0.00" }}Gratis beschikbaar{{ else }}Vanaf &euro;{{ .price }}/mnd{{ end }}</div>
+          {{ with .description }}<div class="verdict-desc">{{ . }}</div>{{ end }}
+        </div>
+        <a href="{{ .url }}" class="verdict-cta cta-affiliate" target="_blank" rel="noopener noreferrer">
+          Bekijk {{ .name }}
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+    </div>
+    {{ end }}{{ end }}
+
     <!-- Inline Table of Contents (all articles) -->
     <div class="inline-toc" id="inlineToc">
       <details class="inline-toc-details" open>
@@ -110,6 +131,40 @@
     </div>
     {{ end }}
 
+    {{/* ===== POST-ARTICLE CONVERSION BANNER ===== */}}
+    {{ if .Params.products }}
+    {{ $topProduct := index .Params.products 0 }}
+    <div class="conversion-banner">
+      <div class="conversion-banner-bg"></div>
+      <div class="conversion-banner-content">
+        <div class="conversion-banner-text">
+          <div class="conversion-banner-label">Populairste keuze uit deze vergelijking</div>
+          <div class="conversion-banner-title">{{ $topProduct.name }} {{ if eq $topProduct.price "0.00" }}gratis proberen{{ else }}vanaf &euro;{{ $topProduct.price }}/mnd{{ end }}</div>
+          <div class="conversion-banner-sub">Sluit je aan bij duizenden Nederlandse bedrijven</div>
+        </div>
+        <a href="{{ $topProduct.url }}" class="conversion-banner-cta cta-affiliate" target="_blank" rel="noopener noreferrer">
+          Ga naar {{ $topProduct.name }}
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+    </div>
+    {{ else if .Params.categories }}
+    <div class="conversion-banner conversion-banner--tools">
+      <div class="conversion-banner-bg"></div>
+      <div class="conversion-banner-content">
+        <div class="conversion-banner-text">
+          <div class="conversion-banner-label">Niet zeker welke software past?</div>
+          <div class="conversion-banner-title">Gebruik de gratis keuzehulp</div>
+          <div class="conversion-banner-sub">Beantwoord 5 vragen en krijg een persoonlijk advies</div>
+        </div>
+        <a href="/tools/" class="conversion-banner-cta">
+          Start keuzehulp
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+    </div>
+    {{ end }}
+
     <div class="author-box">
       {{ if .Params.author }}
       {{ $nameParts := split .Params.author " " }}<div class="author-avatar">{{ index $nameParts 0 | truncate 1 "" }}{{ index $nameParts (sub (len $nameParts) 1) | truncate 1 "" }}</div>
@@ -154,6 +209,18 @@
     {{ end }}
   </article>
 </div>
+
+{{/* ===== STICKY MOBILE CTA BAR ===== */}}
+{{ if .Params.products }}{{ with index .Params.products 0 }}
+<div class="mobile-cta-bar" id="mobileCta">
+  <div class="mobile-cta-info">
+    <span class="mobile-cta-rank">#1</span>
+    <span class="mobile-cta-name">{{ .name }}</span>
+    <span class="mobile-cta-price">{{ if eq .price "0.00" }}Gratis{{ else }}&euro;{{ .price }}/mnd{{ end }}</span>
+  </div>
+  <a href="{{ .url }}" class="mobile-cta-btn cta-affiliate" target="_blank" rel="noopener noreferrer">Bekijk nu &rarr;</a>
+</div>
+{{ end }}{{ end }}
 
 <!-- Back to top button -->
 <button class="back-to-top" id="backToTop" aria-label="Terug naar boven">
