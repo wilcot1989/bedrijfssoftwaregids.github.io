@@ -290,6 +290,18 @@ E-mailmarketing en een eenvoudig CRM vullen elkaar goed aan: je nieuwsbriefsoftw
 
 Als je klantbestand groeit en je overweegt een eerste medewerker aan te nemen, is het goed om je te orienteren op HR-software. Op de pagina [HR software voor MKB](/sectoren/hr/hr-software-mkb/) bespreken we welke tools je helpen bij die stap.
 
+## E-mailmarketing voor ZZP'ers: wanneer betaald en wanneer gratis?
+
+De meeste gratis e-mailmarketingtools bieden voldoende functies voor ZZP'ers die net beginnen: een paar honderd contacten, een maandelijkse nieuwsbrief, een basissjabloon. Maar er zijn situaties waarin een betaald account de investering binnen een maand terugverdient.
+
+Betaal als je automatisering nodig hebt. Een welkomstsequentie die nieuwe aanmeldingen automatisch ontvangt, of een heractivatiecampagne voor inactieve contacten — dat zit zelden in gratis plannen. MailerLite biedt automations wel op het gratis plan, wat het voor ZZP'ers een van de beste startpunten maakt.
+
+Betaal als je landing pages nodig hebt. Als je een opt-in pagina wilt zonder extra website-software, bieden Mailchimp, MailerLite en Brevo ingebouwde landingspagina's in hun betaalde plannen. Dat bespaart de kosten en complexiteit van een aparte landingspagina-tool.
+
+Gratis volstaat als je minder dan vijfhonderd contacten hebt en maximaal een keer per maand mailt. MailerLite gratis (tot 1.000 contacten, 12.000 mails/maand), Brevo gratis (onbeperkte contacten, 300 mails/dag) en Mailchimp gratis (500 contacten) zijn in dat geval prima keuzes.
+
+Mijn vuistregel: begin gratis, schakel over naar betaald zodra je automations wilt inzetten of je lijst boven de gratis limiet uitgroeit. De overstap kost je bij de meeste platforms minder dan een uur, en je behoudt al je contacten en campagnegeschiedenis.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

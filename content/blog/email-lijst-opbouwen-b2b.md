@@ -195,6 +195,14 @@ Veel ondernemers geven op voor ze 100 abonnees bereiken, omdat de groei traag aa
 
 De sleutel is consistentie over time, niet een grote campagne. Twintig nieuwe abonnees per maand via constante inspanning levert na een jaar een lijst van 240 contacten — allemaal met echte toestemming en echte interesse.
 
+## De ROI van een organisch opgebouwde B2B-lijst
+
+Een e-maillijst is pas waardevol als je weet wat hij oplevert. Bereken het zelf: hoeveel procent van je lijst opent gemiddeld een nieuwsbrief? Hoeveel procent klikt door? En hoeveel procent van de doorklikkers neemt contact op of vraagt een offerte aan?
+
+Bij een lijst van 300 actieve contacten met een openrate van 30% en een doorklikrate van 5% zijn dat vier tot vijf potentiële klantcontacten per mailing. Als je twee keer per maand mailt, zijn dat acht tot tien kwalitatieve contactmomenten per maand — met mensen die zelf toestemming hebben gegeven om van je te horen. De conversie naar daadwerkelijke opdrachten is dan sterk afhankelijk van je product en het aanbod in de mail, maar zelfs bij 10% conversie zijn dat één à twee nieuwe opdrachten per maand die volledig organisch binnenkomen.
+
+Stel die berekening ook op voor jouw situatie: één gewonnen opdracht extra per maand dekt voor de meeste B2B-dienstverleners de volledige investering in e-mailmarketing ruimschoots — voor de meeste platforms niet meer dan €30-50 per maand bij die lijstgrootte.
+
 **Lees ook:**
 - [Beste e-mail marketing software 2026](/blog/beste-email-marketing-software-2026/) — vergelijking van de populairste platforms voor Nederlandse bedrijven
 - [Leadgeneratie tools voor B2B Nederland](/blog/leadgeneratie-tools-b2b-nederland/) — welke tools helpen je pipeline structureel te vullen

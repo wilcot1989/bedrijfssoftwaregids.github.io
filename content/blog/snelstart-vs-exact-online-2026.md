@@ -409,4 +409,8 @@ SnelStart heeft een basismodule voor artikelregistratie, maar geen volwaardig vo
 - [Exact Online alternatieven 2026](/blog/exact-online-alternatieven-2026/) — alle alternatieven op een rij
 - [e-Boekhouden vs Exact Online 2026](/blog/e-boekhouden-vs-exact-online-2026/) — budget-optie vergeleken
 
+## Migreren van SnelStart naar Exact Online: wat te verwachten
+
+De overgang van SnelStart naar Exact Online is een stap die groeibedrijven vroeg of laat overwegen. De migratie is goed te doen maar vraagt voorbereiding. Exporteer uit SnelStart je rekeningschema, openstaande debiteuren en crediteuren, en de beginbalans per de overstapdatum. Exact Online accepteert deze bestanden via de importwizard. Historische transacties hoef je niet over te zetten — bewaar SnelStart als leesarchief voor de Belastingdienst-termijn van zeven jaar. De meest tijdrovende stap bij de migratie is het nabouwen van rapportages en de herinstelling van bankconnecties. SnelStart en Exact Online werken allebei met Twinfield-achtige bankkoppelingen, maar de configuratie verschilt. Plan een halve dag per bankrekening voor herinrichting. Mijn advies: doe de migratie aan het begin van een nieuw boekjaar, zodat je SnelStart afrondt op 31 december en Exact Online start op 1 januari met een schone openingsbalans.
+
 *Prijzen en functies laatst gecheckt: maart 2026.*

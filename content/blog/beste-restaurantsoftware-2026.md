@@ -614,3 +614,11 @@ Recepten invoeren voor food cost berekening, rapportages configureren, personeel
 | Ketenrestaurant (3 vestigingen) | Untill of Lightspeed Enterprise | Op aanvraag |
 
 De software-investering van €1.500-€5.000 per jaar verdient zichzelf terug bij een restaurant met €400.000+ jaaromzet door besparingen op administratietijd, food cost en personeelskosten.
+
+## Implementatietips voor restaurantsoftware
+
+**Test de offline modus voor de go-live.**
+Internetuitval tijdens een drukke zaterdagavond is een nachtmerrie als uw kassasysteem niet offline werkt. Test de offline modus expliciet: trek de stekker eruit en verwerk tien bestellingen. Controleer of ze later correct worden gesynchroniseerd.
+
+**Train keukenpersoneel apart van bediening.**
+De keukenmonitor-module vraagt een apart trainingsprogramma voor keukenpersoneel. Bediening heeft andere behoeften dan koks. Plan twee aparte trainingen en gebruik de eerste week als rustige testperiode.

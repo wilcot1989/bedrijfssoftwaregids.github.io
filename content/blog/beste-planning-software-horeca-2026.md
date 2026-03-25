@@ -548,3 +548,11 @@ De CAO voor de Horeca bevat specifieke regels die je planning software automatis
 - **Nachtdienst toeslag**: 50% toeslag tussen 00:00-06:00
 
 Shiftbase en Dyflexis berekenen deze toeslagen automatisch bij het inplannen en koppelen ze direct aan je salarisadministratie. Deputy doet dit ook, maar je moet de CAO-parameters handmatig instellen — dat kost bij de implementatie wat extra tijd maar werkt daarna volledig automatisch.
+
+## Veelgemaakte fouten bij horeca planningssoftware
+
+**Fout 1: CAO-parameters niet correct instellen.**
+Shiftbase en Dyflexis hebben ingebouwde CAO-controles, maar die moeten wel correct worden geconfigureerd. Controleer bij de implementatie of de toeslagen voor zaterdagavond, zondag en nachtdienst kloppen met uw eigen CAO-afspraken. Een onjuiste configuratie leidt tot loopfouten die u maanden later ontdekt.
+
+**Fout 2: Vergeten de bezettingsprognose te koppelen aan omzetdata.**
+De sterkste horecaplanning-tools (Dyflexis, Quinyx) kunnen de benodigde bezetting voorspellen op basis van historische omzetdata. Koppel uw kassasysteem aan de planningssoftware om dit te activeren. Zonder die koppeling mist u de meest waardevolle functie van het systeem.

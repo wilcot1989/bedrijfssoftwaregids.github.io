@@ -587,3 +587,16 @@ Mijn definitieve advies:
 **U heeft complexe analysevragen:** Tableau voor de meest uitgebreide visualisatiemogelijkheden en analytische diepgang.
 
 Begin klein: bouw één dashboard, gebruik het consistent twee weken, en evalueer. Pas dan beslist u of u verder wilt uitbreiden.
+
+## Implementatietips voor BI in het MKB
+
+Veel MKB-bedrijven schaffen BI-software aan maar gebruiken het niet structureel. Hier is hoe u dat voorkomt.
+
+**Begin met één dashboard, niet tien.**
+De verleiding is groot om alles meteen te visualiseren. Maar een dashboard dat niemand dagelijks opent, heeft geen waarde. Start met één dashboard voor de meest kritische KPI's van het management — omzet, marge, cashflow — en bouw vanuit daar verder.
+
+**Koppel aan de juiste databronnen.**
+Power BI, Looker Studio en Databox halen hun waarde uit de data die u koppelt. Zorg dat uw boekhoudsoftware, CRM en webshop-platform gekoppeld zijn. Zonder actuele data is een BI-dashboard een stilstaand plaatje.
+
+**Stel een wekelijkse update-cyclus in.**
+De beste BI-implementaties die ik heb gezien, hebben één vaste dag per week waarop het management het dashboard bekijkt en bespreekt. Die discipline maakt het verschil tussen een tool die waardevol is en een tool die na drie maanden vergeten is.

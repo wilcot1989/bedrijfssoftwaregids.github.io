@@ -489,3 +489,14 @@ Een CRM met automatische taakherinneringen zorgt dat geen enkele lead onopgevolg
 Een WWFT-boete bij nalatig cliëntenonderzoek kan oplopen tot €4 miljoen. Software die WWFT-compliance borgt, vermijdt dit risico volledig.
 
 De jaarkosten van makelaarssoftware liggen tussen €1.000 en €5.000 voor een gemiddeld kantoor. De besparingen en extra omzet overtreffen dit ruimschoots.
+
+## Veelgemaakte fouten bij de keuze van makelaarssoftware
+
+**Fout 1: Alleen kijken naar de Funda-koppeling.**
+De Funda-koppeling is verplicht voor elk serieus makelaarspakket, maar het is de minst onderscheidende factor. Kijk verder: hoe werkt het klantcommunicatiesysteem, hoe is het dossier-beheer voor WWFT-documentatie, en hoe makkelijk is de agenda-integratie voor bezichtigingen?
+
+**Fout 2: Een pakket kiezen zonder proefperiode.**
+Makelaarssoftware is dagelijks gebruik. Een demo door de leverancier toont de beste functies; een proefperiode laat u ervaren of de workflow aansluit bij uw praktijk. Vraag altijd een proefperiode van minimaal twee weken voordat u tekent.
+
+**Fout 3: Geen rekening houden met het aantal actieve objecten.**
+Sommige pakketten prijzen per gebruiker, andere per actief object of per transactie. Als uw kantoor hoge objectdoorstroom heeft (veel transacties), kan per-object-pricing snel oplopen. Bereken de totale jaarkosten op basis van uw werkelijke volume, niet alleen op de stickprijs per gebruiker.

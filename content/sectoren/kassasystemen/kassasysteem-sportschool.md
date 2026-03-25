@@ -330,7 +330,7 @@ Sportscholen met meerdere instructeurs en wisselende contracttypen hebben baat b
 
 Een sportschool met abonnementsomzet heeft een boekhoudsysteem nodig dat terugkerende inkomsten goed verwerkt. Op de pagina [boekhoudsoftware voor MKB](/sectoren/boekhouding/boekhoudsoftware-mkb/) vergelijken we systemen die hierop zijn ingericht.
 
-Nieuwe leden werven en bestaande leden behouden vraagt om gerichte marketing. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) staan tools voor e-mailcampagnes en automation die goed werken voor sportscholen.
+Nieuwe leden werven en bestaande leden behouden vraagt om gerichte marketing. Op de pagina [marketing software voor MKB](/sectoren/marketing/marketing-software-mkb/) staan tools voor e-mailcampagnes en automation die goed werken voor sportscholen. Voor de fiscale bewaarplicht van kassatransacties is ook het artikel [fiscale eisen kassasysteem 2026](/blog/fiscale-eisen-kassasysteem-2026/) relevant voor sportschooleigenaren.
 
 {{< sector-cta-kassasystemen >}}
 

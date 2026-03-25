@@ -579,3 +579,11 @@ Na het testen van alle vijf de pakketten kom ik tot dit eindoordeel:
 **Multidisciplinaire praktijk:** Crossuite is hier zonder twijfel de beste keuze. Het is gebouwd voor samenwerking tussen disciplines en heeft de modernste interface.
 
 **Maximaal klinisch werken:** FysioRoadmap met Physitrack-koppeling en PREM-module. De inhoudelijk sterkste combinatie voor therapeuten die hun behandelkwaliteit willen aantonen en verbeteren.
+
+## Veelgemaakte fouten bij de keuze van fysiotherapiesoftware
+
+**Fout 1: Vergeten de AGB-koppeling te testen.**
+Alle serieuze paketten ondersteunen AGB-declaratie, maar de kwaliteit van de koppeling met Vecozo verschilt. Test de declaratieflow met een testpatiënt voordat u live gaat. Een fout in de declaratieconfiguratie kost u omzet en tijd.
+
+**Fout 2: De mobiele app onderschatten.**
+Als u mobiel werkt — aan huis, bij sportverenigingen of bij bedrijven — is de kwaliteit van de mobiele app een kritisch criterium. Vraag specifiek naar offline-functionaliteit: kunt u dossiers inzien en notities maken zonder internetverbinding?

@@ -283,6 +283,18 @@ MKB-bedrijven hebben zelden behoefte aan één alles-in-één marketingplatform.
 
 De sleutel is dat de tools met elkaar communiceren: e-mailsoftware koppelt met je CRM, je CRM koppelt met je boekhouding. Elke losse koppeling kost onderhoud. Kies tools die native met elkaar integreren en gebruik Zapier alleen voor uitzonderingen.
 
+## Hoe je de ROI van marketingsoftware berekent voor je MKB
+
+Veel MKB-ondernemers gaan op gevoel af bij de aanschaf van marketingsoftware. Dat hoeft niet. De terugverdientijd is bij de meeste tools concreet te berekenen.
+
+Begin met één vraag: wat kost een nieuwe klant jou nu? Tel de uren op die je besteedt aan outreach, follow-up en offertes, vermenigvuldig met je uurtarief en tel de losse marketingkosten erbij op. Deel het totaal door het aantal gewonnen klanten. Bij de meeste MKB-dienstverleners ligt die acquisitiekosten tussen €200 en €800 per klant.
+
+Een goed e-mailmarketingplatform met automationmogelijkheden kost €30-100 per maand en kan die acquisitiekosten met 30-50% verlagen als je het consistent inzet. De reden: automatische nurture-sequences houden leads warm terwijl jij andere dingen doet. Je hoeft niet actief tijd te investeren in elk contactmoment — het systeem doet dat voor je.
+
+De tweede berekening is de tijdsbesparing op rapportages. Als je nu maandelijks twee uur kwijt bent aan het handmatig samenvoegen van campagnedata, bespaart een goed marketingplatform met gecentraliseerde dashboards die tijd structureel. Bij twaalf maanden is dat 24 uur, of €1.440 aan vrijgekomen werktijd bij een intern tarief van €60.
+
+Mijn advies bij de keuze: vergelijk niet alleen de features op de productpagina maar ook de kwaliteit van de automatiseringen. Een platform met honderd features waarvan je er drie gebruikt, is minder waard dan een platform met twintig features die allemaal feilloos werken in jouw workflow. Test tijdens de proefperiode altijd de twee of drie automations die je direct wilt inzetten.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

@@ -483,3 +483,28 @@ Onboarding software betaalt zichzelf terug als u ook maar één vertrek in de ee
 **Als u investeert in employer branding en een premium welkomstervaring wilt creëren:** Talmundo of Appical zijn de beste gespecialiseerde opties. De initiële content-investering is de moeite waard als u regelmatig instroom heeft en uw werkgeversmerk wilt versterken.
 
 **Als u primair internationaal talent aantrekt en een Engelstalige tool prefereert:** BambooHR heeft de beste internationale track record, het meeste integraties en een uitstekende gebruikerservaring.
+
+## Kostenanalyse: onboarding software voor verschillende bedrijfsgroottes
+
+Onboarding software is geen grote investering in verhouding tot de kosten van verloop. Hier zijn de werkelijke jaarkosten voor de tools in dit overzicht.
+
+| Tool | 25 medewerkers/jaar | 75 medewerkers/jaar | Opmerkingen |
+|------|--------------------|--------------------|-------------|
+| Personio (HR + onboarding) | ~€3.600 | ~€7.200 | All-in-one HR |
+| BambooHR | ~€2.400 | ~€6.000 | Internationale teams |
+| Talmundo | Op aanvraag | Op aanvraag | Specialist onboarding |
+| Appical | Op aanvraag | Op aanvraag | Nl-markt, mobiel |
+| Deel (inclusief onboarding) | ~€1.200 | ~€3.600 | Internationaal |
+
+De kosten van verloop zijn de relevante vergelijking: bij een gemiddeld salaris van €40.000 en vervangingskosten van 50-75% van het jaarsalaris, kost één vermeden vertrek u €20.000-€30.000 aan wervings- en inloopkosten. Software die €3.600/jaar kost en één vertrek per jaar voorkomt, verdient zich dus bijna tien keer terug.
+
+## Implementatietips voor onboarding software
+
+**Start drie weken voor de eerste nieuwe medewerker.**
+De fout die ik het meest zie: onboarding software aanschaffen en dezelfde week in gebruik nemen. U heeft tijd nodig om de content in te richten. Plan drie weken voor de go-live voor het opzetten van de basisstructuur, het uploaden van documenten en het testen van de medewerker-flow.
+
+**Maak een onderscheid tussen pre-boarding en onboarding.**
+Pre-boarding is alles wat de medewerker doet vóór de eerste werkdag: formulieren invullen, apparatuur selecteren, het team leren kennen via een video. Onboarding is de eerste 30-90 dagen. De sterkste resultaten komen van bedrijven die al drie weken voor dag één beginnen met pre-boarding.
+
+**Betrek de direct leidinggevende actief.**
+Onboarding software is een hulpmiddel, geen vervanging voor menselijk contact. Zorg dat de manager wekelijks een check-in heeft met de nieuwe medewerker en de voortgang in het systeem bijhoudt. Appical en Personio hebben manager-dashboards waarmee de leidinggevende de onboarding-voortgang volgt.

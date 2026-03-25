@@ -569,3 +569,14 @@ De templates zijn direct te gebruiken of aan te passen aan uw specifieke situati
 ### Hoe bewijs ik bij een externe audit dat mijn QMS effectief is?
 
 Auditors kijken naar vier typen bewijs: (1) actuele documentatie van procedures, (2) records die aantonen dat procedures worden gevolgd, (3) CAPA-dossiers die aantonen dat problemen systematisch worden aangepakt, en (4) management review-verslagen die aantonen dat de directie betrokken is bij kwaliteitsverbetering. Een goed QMS-systeem produceert al dit bewijs automatisch als bijproduct van dagelijks gebruik.
+
+## Implementatietips voor kwaliteitsmanagement software
+
+**Start met inspecties, niet met de volledige CAPA-module.**
+De meeste QMS-implementaties falen door te hoge ambitie bij de start. Begin met de inspectie-module: digitale checklists voor de controles die uw team al uitvoert. Als dat werkt, voeg dan de CAPA-module toe voor het structureel afhandelen van afwijkingen.
+
+**Koppel aan uw medewerkerstraining.**
+Kwaliteitsmanagement werkt alleen als medewerkers weten wat de procedures zijn. Gebruik de documentmodule van uw QMS om procedures actueel te houden en de trainingsregistratie om bij te houden wie welke training heeft gevolgd.
+
+**Gebruik de audit-trail voor externe audits.**
+Een van de grote voordelen van een digitaal QMS ten opzichte van papieren procedures is de automatische audit-trail. Elke inspectie, CAPA en documentwijziging wordt gedateerd en gekoppeld aan een gebruiker. Bij een externe ISO-audit of NVWA-inspectie levert u dit exporteert in minuten in plaats van uren.

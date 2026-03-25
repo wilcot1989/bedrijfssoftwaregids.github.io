@@ -400,3 +400,11 @@ Ja, sommige teams gebruiken ClickUp voor actief projectbeheer en Notion als kenn
 
 **Welke tool is makkelijker te leren, ClickUp of Notion?**
 Beide tools hebben een leercurve, maar op verschillende vlakken. ClickUp overweldigt met functies: er zijn zoveel opties dat nieuwe gebruikers verloren raken. Notion vraagt conceptueel begrip: je moet begrijpen hoe databases werken voordat je er effectief mee werkt. Mijn ervaring: ClickUp duurt langer om in te richten, Notion duurt langer om te begrijpen. Beide tools vragen 1-2 weken voordat een team echt productief is.
+
+## Prijzen in context: wat betaal je echt?
+
+De tarieven van beide tools zijn begrijpelijk maar verwarrend als je ze voor het eerst vergelijkt. ClickUp rekent in dollar: het populairste Unlimited-plan kost $7 per gebruiker per maand bij jaarlijkse betaling, wat neerkomt op circa €6,50 afhankelijk van de wisselkoers. Dat is voor vijf gebruikers dus circa €32 per maand, inclusief onbeperkte taken, tijdregistratie en de basisdocumentatiefuncties. ClickUp AI is een add-on van $7 extra per gebruiker per maand — veel teams kopen dat niet in het begin.
+
+Notion rekent per gebruiker: het Plus-plan kost $10 per gebruiker per maand bij jaarlijkse betaling, het Business-plan $15. Notion AI kost $10 per gebruiker bovenop elk plan. Voor een team van vijf mensen met Notion Plus én AI betaal je dus $100 per maand, ofwel circa €93. Ter vergelijking: ClickUp Business met AI voor vijf gebruikers kost $(12 + 7) × 5 = $95 per maand — vergelijkbaar. Op het instapniveau is ClickUp goedkoper; met AI-add-ons liggen de kosten dicht bij elkaar.
+
+Waar het verschil bij migratie zit: ClickUp importeert taken uit Asana, Monday.com en Trello via ingebouwde importfuncties. De import werkt goed voor taken en subtaken maar verliest aangepaste velden. Reken op een dag setup voor een team van tien mensen. Notion importeert vanuit Confluence en Evernote, maar de beste manier om documenten over te zetten is via Markdown-export vanuit je huidige tool. Dat werkt goed voor tekst-zware wikis maar minder goed voor spreadsheet-achtige databases. Beide migraties zijn haalbaar — plan twee weken voor een gecontroleerde overgang waarbij het oude systeem en het nieuwe parallel draaien.

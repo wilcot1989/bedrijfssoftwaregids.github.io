@@ -599,3 +599,11 @@ Na het testen en vergelijken van alle zes platforms kom ik tot deze eindrangschi
 **Als u content op meerdere kanalen publiceert:** Contentful is de meest mature enterprise-headless-oplossing.
 
 De CMS-keuze is geen beslissing voor eeuwig — maar zorg dat de eerste keuze weloverwogen is. Een migratie later kost aanzienlijk meer dan de tijd die het vergt om nu de juiste keuze te maken.
+
+## Veelgemaakte fouten bij CMS-selectie
+
+**Fout 1: Kiezen op basis van wat uw concurrent gebruikt.**
+Het CMS van uw concurrent is afgestemd op hun team, hun content-strategie en hun technische capaciteit — niet die van u. Maak een eigen afweging op basis van uw situatie.
+
+**Fout 2: Het onderhoud onderschatten.**
+WordPress vereist regelmatig onderhoud (updates, back-ups, beveiliging). Als uw team geen technisch medewerker heeft, kies dan voor een beheerd CMS of kies voor managed WordPress hosting waarbij de provider het onderhoud regelt.

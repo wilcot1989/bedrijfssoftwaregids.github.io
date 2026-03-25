@@ -644,3 +644,11 @@ Software-investering voor 35 medewerkers: €50–€175/mnd × 12 = €600–�
 **Dag 5:** Koppeling met salarisadministratie instellen. Test met drie medewerkers: klokt u de uren, dan stroomt de data door naar de salarisadministratie.
 
 Na vijf dagen bent u operationeel. De verfijning (rapportages, geavanceerde prognoses, extra integraties) voegt u daarna stap voor stap toe.
+
+## Veelgemaakte fouten bij dienstroostersoftware
+
+**Fout 1: De salarisadministratie-koppeling te laat instellen.**
+De koppeling met uw salarisadministratie is de belangrijkste integratie. Stel die in tijdens de implementatie, niet na een paar maanden. Als de koppeling later wordt toegevoegd, moet u handmatig gecorrigeerde uren afstemmen — dat kost tijd en introduceert fouten.
+
+**Fout 2: Medewerkers niet laten instemmen met hun roostervoorkeur.**
+Dienstroostersoftware die medewerkers beschikbaarheid laat opgeven, leidt tot meer tevredenheid en minder last-minute meldingen. Activeer de beschikbaarheidsfunctie en communiceer aan medewerkers dat hun voorkeuren worden meegenomen in de planning.

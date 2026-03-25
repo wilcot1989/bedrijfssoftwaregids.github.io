@@ -409,6 +409,10 @@ En voor een compleet overzicht van alle boekhoudopties in Nederland, zie de [sec
 
 ---
 
+## Kostenplaatje over twee jaar: inclusief salarisadministratie
+
+Voor ZZP'ers en kleine MKB-bedrijven met één of twee medewerkers is het nuttig om het volledige kostenplaatje te vergelijken inclusief salarisadministratie. Moneybird dekt zelf geen salarisadministratie — je hebt daarvoor Nmbrs, Loket.nl of een boekhouder nodig. Reken op €15-€25 per maand per medewerker extra als je Moneybird combineert met een salarispakket. SnelStart Go includeert basis salarisadministratie voor twee medewerkers in het pakket. Bij SnelStart Go (€37/mnd) plus eventueel twee medewerkers en Moneybird Plus (€29/mnd) plus Nmbrs Solo (€15/mnd) ligt de vergelijking als volgt over 24 maanden: SnelStart Go €888, Moneybird-combo €1.056. SnelStart is dan fors goedkoper voor bedrijven met personeel. Alleen voor de solistische ZZP'er die nooit personeel verwacht, is het prijsverschil minimaal en wint Moneybird op gebruikservaring. Zodra er één medewerker bijkomt, verdient SnelStart de meerprijs terug via de ingebouwde salarisverwerking.
+
 <a href="https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=pakketten%23tab-2" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk SnelStart pakketten →</a>
 
 <a href="https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Moneybird 60 dagen gratis →</a>

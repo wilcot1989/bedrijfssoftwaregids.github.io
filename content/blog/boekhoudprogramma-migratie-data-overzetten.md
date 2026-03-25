@@ -200,6 +200,16 @@ De "parallelle periode" is de tijd dat je beide systemen actief houdt: het oude 
 
 Plan de migratie nooit in december, want dan loop je het risico dat je jaarafsluiting in twee systemen moet doen. Begin oktober of januari — beide hebben logische voordelen voor de fiscale knip.
 
+## Wat te doen als de migratie halverwege misgaat
+
+Soms gaat er iets fout tijdens een boekhoudmigratie: de openingsbalans klopt niet, een BTW-code is verkeerd gemapt, of de bankimport loopt dubbel. Dat hoeft geen ramp te zijn als je weet hoe je het herstelt.
+
+Stap één: stop met nieuwe boekingen in het nieuwe systeem totdat het probleem is geïdentificeerd. Boek je door op een fout fundament, wordt het herstel exponentieel duurder.
+
+Stap twee: vergelijk de totaalcijfers in het nieuwe systeem met het exportbestand uit het oude systeem. Zoek het eerste punt waarop ze divergeren — dat is waar de fout is ingeslopen.
+
+Stap drie: contacteer de klantenservice van het nieuwe pakket. De meeste leveranciers hebben een dedicated onboarding-team dat migratiefouten kent en kan helpen bij herstel. [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) en [SnelStart](https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=) staan beide bekend om goede klantenservice bij migratievragen.
+
 ---
 
 ## Lees ook

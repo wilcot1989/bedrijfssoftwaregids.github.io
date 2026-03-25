@@ -698,3 +698,30 @@ Kies een kassasysteem met **offline modus**. De beste opties voor offline-stabil
 
 Praktisch advies: zorg voor een 4G-backup router (€10-15/mnd). Als uw glasvezel uitvalt, schakelt het kassasysteem automatisch over naar mobiel internet.
 
+
+## Kostenanalyse: totale jaarkosten per type retailer
+
+De software-kosten zijn één deel van de totale kassasysteem-investering. Hardware, betaalterminals en transactiekosten tellen ook mee.
+
+| Kassasysteem | Software/jaar | Hardware (eenmalig) | Betaalterminal | Totaal jaar 1 |
+|-------------|--------------|--------------------|--------------------|--------------|
+| Square Point of Sale | €0 | €0 (Tap to Pay) / €49 (reader) | Via Square | ~€49-€300 |
+| Lightspeed Core | €948 | €300-€600 | Via Lightspeed of extern | ~€1.550-€2.000 |
+| Shopify POS Lite | Inbegrepen bij Shopify | €49-€200 | Via Shopify / Mollie | ~€300-€500 |
+| Untill | ~€1.200 | €400-€800 | Via extern | ~€1.900-€2.500 |
+| Kassacompleet | ~€600 | €0-€400 | Via extern | ~€900-€1.500 |
+
+*Prijzen zijn indicatief. Betaalterminaal-kosten variëren sterk afhankelijk van transactievolume.*
+
+Voor startende retailers met een beperkt budget is Square een uitstekende instap: geen maandelijkse software-abonnementskosten, alleen transactiekosten (1,75% per tap). Bij hogere omzetten (€200K+/jaar) is een vast abonnement zoals Lightspeed of Untill financieel voordeliger.
+
+## Implementatietips voor een nieuw kassasysteem
+
+**Plan de overgang buiten uw drukste periode.**
+Implementeer een nieuw kassasysteem nooit in de aanloop naar een drukke periode (kerst, seizoensopening). Kies een rustige periode met minimale klantdruk zodat u en uw medewerkers de tijd hebben om het systeem te leren kennen.
+
+**Train al uw medewerkers voor de go-live.**
+Een kassasysteem dat de medewerkers niet goed kennen, leidt tot langere rijen en frustratie. Plan twee trainingssessies: één theoretische doorloop van de functies, en één hands-on oefensessie met testbestellingen.
+
+**Migreer uw productencatalogus zorgvuldig.**
+De grootste tijdsinvestering bij een kassawissel is het overzetten van uw productencatalogus. Exporteer uw huidige productlijst naar Excel, controleer artikelnummers en prijzen, en importeer die naar het nieuwe systeem. Lightspeed en Untill ondersteunen beide bulk-import via Excel.

@@ -393,4 +393,10 @@ Acendy is bewust eenvoudig gehouden, maar er zijn een paar instellingen die veel
 - [Beste boekhoudsoftware ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) -- boekhouden naast je webshop
 - [Mollie vs MultiSafepay 2026](/blog/mollie-vs-multisafepay-2026/) -- betaalproviders vergeleken
 
+## Sectoradvies: wie kiest wat in de Nederlandse markt?
+
+Op basis van de implementaties die ik heb begeleid, zie ik duidelijke patronen per sector. Mode en kleding kiezen bijna altijd voor Shopify: de uitgebreide thema-opties, de diepere Instagram- en TikTok-Shop-integraties en de schaalbare app-store zijn voor dit segment doorslaggevend. Webshops in de niche van handgemaakte producten of kleinschalige ambachtslieden kiezen vaker voor Acendy: de lagere instapkosten, de directe Nederlandstalige telefoonlijn en de eenvoudige producttoegang spreken deze doelgroep aan. Lokale retailers die ook online willen verkopen, inclusief superspecialisten als een fietsenwinkel of tuincentrum, starten regelmatig met Acendy vanwege de eenvoud, maar migreren na twee à drie jaar naar Shopify als ze serieuze e-commerceambities ontwikkelen.
+
+Een kosttip die ik geregeld geef: als je twijfelt tussen de twee, reken dan de Total Cost of Ownership over twaalf maanden door. Acendy's hogere maandprijs wordt deels gecompenseerd doordat je geen transactiekosten hebt. Bij een maandelijkse omzet van €4.000 via een externe betaalprovider betaal je bij Shopify Basic €80 extra per jaar aan transactiekosten (2% × €4.000 × 12 maanden gedeeld door twaalf = €80 per maand extra). Dat brengt de effectieve Shopify-kosten dicht bij het Acendy Startup-pakket. Boven €6.000 maandomzet via externe PSP verdwijnt Shopify's prijsvoordeel volledig — tenzij je Shopify Payments activiert, wat de 2% wegneemt maar enige beperkingen kent voor bepaalde productcategorieën.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/webshops/keuzehulp/)**, bereken je **[webshop kosten](/tools/webshops/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/webshops/)**.

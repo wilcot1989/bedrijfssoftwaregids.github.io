@@ -177,7 +177,7 @@ Als samenvatting: dit zijn de verplichte registraties op een rij voor elk bedrij
 | Week 52 | Eerste jaarsevaluatie re-integratie | WvP art. 7a |
 | Week 87 | WIA-aanvraag indienen bij UWV | WIA art. 64 |
 
-Elk van deze stappen moet gedocumenteerd zijn in het re-integratiedossier. HR-software met WvP-module genereert automatisch de juiste alerts en slaat de bevestigingen op. Dat is precies wat je nodig hebt als het UWV of een rechter het dossier opvraagt.
+Elk van deze stappen moet gedocumenteerd zijn in het re-integratiedossier. HR-software met WvP-module genereert automatisch de juiste alerts en slaat de bevestigingen op. Dat is precies wat je nodig hebt als het UWV of een rechter het dossier opvraagt. Zie ook het artikel [ziekteverzuim terugdringen met HR-software](/blog/ziekteverzuim-terugdringen-hr-software/) voor een bredere aanpak die verder gaat dan alleen de WvP-naleving.
 
 ---
 

@@ -303,6 +303,10 @@ Personio hanteert prijzen vanaf ~€3-4/medewerker/maand voor het basisplan, afh
 
 Ja, HoorayHR slaat alle data op in Europa en voldoet aan de AVG. Ze bieden een verwerkersovereenkomst en hebben functies voor het beheren van persoonsgegevens-verzoeken.
 
+## Migreren van HoorayHR naar Personio: wat je moet weten
+
+Als je na een jaar of twee besluit dat HoorayHR te klein wordt voor je organisatie, is de overgang naar Personio goed te doen maar vraagt het voorbereiding. Personen-data (namen, functies, contractdata, salarishistorie) exporteer je uit HoorayHR als CSV-bestand. Personio heeft een importwizard die de meeste standaardvelden herkent. Wat je handmatig moet nabouwen: verlofbeleid per categorie, goedkeuringsflows en eventuele aangepaste rapporten. De Personio-implementatie wordt doorgaans begeleid door een Customer Success Manager — reken op vier tot acht weken voor een volledige go-live bij een team van 20-50 medewerkers. Verlofbalansen overzetten is het meest arbeidsintensieve onderdeel: die moet je per medewerker controleren en handmatig invoeren. Mijn tip: plan de migratie aan het begin van het jaar, zodat verlofbalansen op nul beginnen en je geen historische complexiteit mee hoeft te slepen.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/hr-software/keuzehulp/)**, bereken je **[HR software kosten](/tools/hr-software/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/hr-software/)**.
 
 ## Praktisch scenario: een groeibedrijf kiest HR-software

@@ -269,6 +269,14 @@ Stichtingen hebben specifieke rapportageverplichtingen die afwijken van een comm
 
 Mijn advies voor stichtingen die net beginnen: start met Exact Online (breed ondersteund, externe accountant kent het systeem) en schakel over naar Twinfield of AFAS als de subsidiestructuur complexer wordt dan twee of drie fondsen.
 
+## Rapportage-eisen voor ANBI-stichtingen: wat je software moet kunnen
+
+ANBI-stichtingen (Algemeen Nut Beogende Instellingen) hebben specifieke rapportageverplichtingen die verder gaan dan standaard boekhouding. Het gaat niet alleen om een sluitende jaarrekening, maar ook om een publicatieplicht: ANBI's moeten een actueel beleidsplan, een financieel overzicht en de beloningen van bestuurders openbaar maken op een website.
+
+De boekhoudsoftware die je kiest moet deze rapportages kunnen genereren zonder dat je de cijfers handmatig opnieuw moet verwerken. Exact Online heeft een standaard ANBI-rapportagestructuur die aansluit bij de publicatievereisten van de Belastingdienst. Twinfield biedt soortgelijke rapportage-exports.
+
+Wat ik vaak tegenkom bij kleine stichtingen: de jaarrekening wordt uitbesteed aan een accountant, terwijl de interne administratie in Excel wordt bijgehouden. Dat werkt zolang de subsidiestructuur simpel is, maar zodra een fonds vraagt om een projectgebonden financieel overzicht, wordt Excel-administratie al snel een tijdrovende puzzel. Met Exact Online of Twinfield heb je de projectdimensie standaard beschikbaar: elke boeking koppel je aan een projectcode en het systeem genereert automatisch een subsidie-overzicht per fonds.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

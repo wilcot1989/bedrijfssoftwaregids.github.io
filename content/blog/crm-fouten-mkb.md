@@ -151,6 +151,16 @@ Voordat je concludeert dat het systeem het probleem is, doorloop je deze vragen 
 
 Als je op drie of meer vragen "nee" antwoordt, heb je geen systeem-probleem maar een implementatieprobleem. De tool is dan zelden de bottleneck.
 
+## Het herstelplan als je CRM-implementatie is vastgelopen
+
+Als je CRM nu in gebruik is maar de adoptie tegenvalt, is het geen verloren zaak. Ik heb bedrijven geholpen die drie maanden na implementatie nog maar 30% adoptie hadden en dat in zes weken naar 80% hebben gebracht.
+
+De eerste stap is te begrijpen waarom mensen het systeem niet gebruiken. Dat vraag je niet aan de leidinggevende maar aan de gebruikers. Een kort gesprek van tien minuten per medewerker levert in de meeste gevallen twee of drie concrete bezwaren op: te veel verplichte velden, onduidelijke pipelinedefinities of een interface die op mobiel niet goed werkt.
+
+De tweede stap is de belemmeringen systematisch wegwerken. Schrap alle velden die niet in elke deal worden ingevuld. Versimpel de pipeline naar maximaal vijf stappen. Zorg dat de mobiele app werkt voor buitendienstmedewerkers. Kleine aanpassingen maken het verschil.
+
+De derde stap is zichtbaar gebruik door de leidinggevende. Als de directeur zijn eigen deals bijwerkt in het CRM en er wekelijks naar verwijst in vergaderingen, stuurt dat een duidelijk signaal dat het systeem serieus wordt genomen. Adoptie volgt altijd het voorbeeld van boven.
+
 ---
 
 ## Lees ook

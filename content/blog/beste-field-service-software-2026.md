@@ -522,3 +522,38 @@ Deze berekening is conservatief. Bedrijven die ook profiteren van hogere klantte
 Field service software is geen luxe meer voor bedrijven met meer dan 5 buitendienstmedewerkers. De ROI is aantoonbaar, de implementatietijd voor het MKB is laag, en de keuze is groot genoeg om voor elke situatie een passende oplossing te vinden.
 
 Voor de Nederlandse markt is Fieldly de duidelijke aanbeveling voor het MKB: Nederlandstalig, snelle implementatie, uitstekende koppelingen met Nederlandse boekhoudsoftware en een prijs die direct zijn rendement oplevert. Bij grotere organisaties of specifieke enterprise-behoeften zijn Salesforce Field Service en ServiceMax de meest volledige opties.
+
+## Sector-specifieke aanbevelingen voor field service software
+
+Field service software is breed toepasbaar, maar de beste keuze verschilt per branche.
+
+**Installatiebedrijven (elektrisch, sanitair, HVAC):**
+Fieldly is de beste keuze voor de Nederlandse installatiemarkt. De Nederlandstalige interface, de koppelingen met Snelstart en Exact Online, en de mobiele werkbon-app zijn specifiek afgestemd op deze sector. De quoting-functionaliteit is ook sterk voor het opmaken van offertes op locatie.
+
+**Onderhoud en servicecontracten:**
+Salesforce Field Service voor complexere servicenetwerken met SLA-beheer. Voor MKB is ServiceMax of Fieldly voldoende. De kernfunctie is preventief onderhoud plannen op basis van contract, niet alleen reactief.
+
+**IT-dienstverleners en managed service providers:**
+Freshdesk Field Service of een combinatie van een helpdesk-tool (Freshdesk, Zendesk) met een field service module. IT-serviceverzoeken beginnen vaak online als ticket en escaleren naar een buitendienstbezoek.
+
+**Schoonmaak en facilitaire diensten:**
+Deputy of Shiftbase voor personeelsplanning combineren met een eenvoudigere werkbonoplossing. De complexiteit van field service software is voor dit segment vaak overkill; de nadruk ligt op planning en tijdregistratie.
+
+## Implementatietips: zo gaat de overgang van papier naar digitaal soepel
+
+De meeste bedrijven die field service software implementeren, komen van papieren werkbonnen of een Excel-systeem. Hier zijn de vijf stappen die de overgang soepel maken.
+
+**Stap 1: Digitaliseer uw klantenbestand eerst.**
+Voordat u werkbonnen digitaliseert, heeft u een compleet klantendossier nodig in het systeem. Exporteer uw bestaande klantenlijst naar Excel en importeer die in de software.
+
+**Stap 2: Laat technici de app twee weken parallel met papier gebruiken.**
+Schakel niet abrupt over. Laat uw technici gedurende twee weken zowel de papieren bon als de app invullen. Zo ontdekt u kinderziektes in de configuratie zonder dat klanten er hinder van hebben.
+
+**Stap 3: Koppel de boekhouding pas in week drie.**
+De koppeling met uw boekhoudsoftware is belangrijk, maar stel die in als de basisworkflow werkt. Een te vroege koppeling leidt tot factuurproblemen als de werkbonconfiguratie nog niet klopt.
+
+**Stap 4: Train de planner als eerste, technici als tweede.**
+De planner is de eerste gebruiker van het systeem. Als de planner goed is getraind en vertrouwen heeft in het systeem, zijn technici gemakkelijker mee te nemen.
+
+**Stap 5: Meet na 60 dagen de first-time fix rate.**
+Stel een nulmeting in voor uw first-time fix rate voordat u begint. Na 60 dagen vergelijkt u. Als het percentage niet verbeterd is, is er iets mis met de onderdelen-informatie in het systeem of de toewijzing van de juiste technieker per opdracht.

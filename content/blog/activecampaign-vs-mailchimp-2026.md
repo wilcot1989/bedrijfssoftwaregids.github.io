@@ -364,4 +364,8 @@ Bij 10.000 contacten kost Mailchimp Standard ~$110/mnd en ActiveCampaign Plus ~$
 - [Brevo vs Mailchimp 2026](/blog/brevo-vs-mailchimp-2026/) -- Europees alternatief vergeleken
 - [Brevo review 2026](/blog/brevo-review-2026/) -- uitgebreide hands-on review
 
+## Wanneer is de overstap van Mailchimp naar ActiveCampaign de moeite waard?
+
+De meeste bedrijven die van Mailchimp naar ActiveCampaign migreren, doen dat op één moment: wanneer hun Mailchimp-automatiseringen te simpel worden voor de klantfunnels die ze willen bouwen. De trigger is bijna altijd dezelfde: je wilt een lead scoren op basis van gedrag (welke pagina's bezocht, welke e-mails geopend, welke formulieren ingevuld) en die score gebruiken om automatisch een sales-notificatie te sturen. Mailchimp kan dat niet op het niveau dat ActiveCampaign het biedt. Wat ActiveCampaign's migratie-aanpak prettig maakt: ze bieden een gratis migratieservice voor betaalde accounts. Een medewerker neemt je bestaande Mailchimp-setup door en helpt de belangrijkste automations nabouwen. Dat bespaart een dag werk voor een gemiddeld account met drie tot vijf actieve automations. Wat je zelf moet doen: segmenten verifiëren na import, want Mailchimp-tags worden niet altijd één op één vertaald naar ActiveCampaign-tags. Plan een uur reviewwerk per 5.000 contacten voor kwaliteitscontrole.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/marketing/keuzehulp/)**, bereken je **[marketing software kosten](/tools/marketing/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/marketing/)**.

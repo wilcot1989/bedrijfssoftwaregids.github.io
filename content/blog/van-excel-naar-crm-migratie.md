@@ -226,6 +226,16 @@ Een overstap van Excel naar een CRM is een investering. Ik zie ondernemers die d
 
 De break-even bij een team van vijf ligt bij de meeste MKB-bedrijven binnen zes maanden na implementatie. Dat is een conservatieve schatting.
 
+## Wat je meeneemt uit Excel en wat je achterlaat
+
+Een veelgemaakte fout bij Excel-naar-CRM migraties: alles meenemen. Alle contacten, ook de inactieve uit 2019. Alle notities, ook de irrelevante. Alle tabbladen, ook die waar niemand meer in kijkt.
+
+Mijn advies: maak een harde knip. Migreer alleen contacten die de afgelopen twee jaar actief zijn geweest — een aankoop, een gesprek, een e-mail. Historische contacten die al drie jaar stil zijn, voeg je toe in een aparte "archief" tag in het CRM, zodat ze beschikbaar zijn maar niet je actieve pipeline vervuilen.
+
+Die knip heeft twee voordelen. Eerste: de import is sneller en de datakwaliteit is hoger, want je besteedt je opschoontijd aan de data die er echt toe doet. Tweede: het nieuwe CRM start met een schone, overzichtelijke database in plaats van een digitale rommelkamer.
+
+Leg ook vast welke velden je niet migreert. Kolommen in Excel die niemand meer bijhoudt, zijn data die niemand vertrouwt. Laat ze achter — ze vervuilen anders je CRM-rapportages op dag één.
+
 ---
 
 ## Lees ook

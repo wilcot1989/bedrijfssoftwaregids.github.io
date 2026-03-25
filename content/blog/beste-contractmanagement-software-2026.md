@@ -520,3 +520,11 @@ Inkoopteams hebben frameworks nodig voor leverancierscontracten, prijsafspraken 
 **HR en arbeidscontracten**
 Arbeidscontracten, aanvullingen en ontslagdocumenten. Personio biedt geïntegreerde contractbeheer binnen het HR-platform — ideaal als je al Personio gebruikt.
 
+
+## Implementatietips voor contractmanagement software
+
+**Begin met het in kaart brengen van uw huidige contracten.**
+Voordat u een contractmanagement-tool implementeert, heeft u een inventarisatie nodig van alle lopende contracten: leveranciers, klanten, huurovereenkomsten, arbeidscontracten. Zonder een compleet startpunt is een contractdatabase niet betrouwbaar.
+
+**Stel verloopdatum-meldingen in voor alle contracten.**
+De grootste waarde van contractmanagement software is dat u nooit meer een contract stilzwijgend laat verlengen dat u wilt heronderhandelen. Stel voor elk contract een melding in 90 dagen voor de verloopdatum. Die 90 dagen geeft u ruimte om te heronderhandelen of op te zeggen.

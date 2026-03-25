@@ -433,6 +433,65 @@ Ongeacht welke websitebouwer je kiest, zorg dat je website deze elementen bevat.
 
 **Fout 5: De website bouwen en nooit meer aanraken.** Een website is geen eenmalig project. Voeg regelmatig nieuwe content toe, houd contact- en prijsinformatie actueel, en controleer elke zes maanden of alle formulieren en links nog werken.
 
+## Kostenanalyse: totale eigendomskosten per websitebouwer (3 jaar)
+
+De maandprijs is één ding; de totale kosten over drie jaar zijn een andere berekening. Ik zet ze hier naast elkaar, inclusief verborgen kosten die veel ondernemers vergeten.
+
+| Platform | Abonnement/jaar | Domein/jaar | Thema/plugin | Totaal 3 jaar |
+|----------|----------------|-------------|-------------|--------------|
+| Wix Core | €204 | €12 | €0 | ~€648 |
+| Wix Business | €312 | €12 | €0 | ~€972 |
+| Squarespace Personal | €204 | €12 | €0 | ~€648 |
+| Squarespace Business | €336 | €12 | €0 | ~€1.044 |
+| WordPress (Hostinger) | €60 | €12 | €60-180 | ~€402-€756 |
+| WordPress (managed) | €180 | €12 | €60-180 | ~€756-€1.116 |
+| Webflow Basic | €228 | €12 | €0 | ~€720 |
+| Shopify Basic | €252 | €12 | €0-120 | ~€792-€1.032 |
+
+*Prijzen zijn indicatief op basis van jaarabonnementen 2026. WordPress-kosten variëren sterk afhankelijk van de plugins die je kiest.*
+
+Wat de tabel niet toont: de tijdsinvestering. WordPress vraagt gemiddeld 30-60 minuten per maand aan onderhoud (updates, back-ups, beveiligingscontroles). Beheerde platforms vragen nul onderhoudstijd. Bij een uurtarief van €50 kost dat WordPress-onderhoud €300-600 per jaar — een relevante post in de totaalberekening.
+
+## Implementatietips per websitebouwer
+
+Na honderden gesprekken met MKB-ondernemers heb ik een patroon gezien: de meeste problemen bij het bouwen van een bedrijfswebsite zijn te voorkomen met de juiste aanpak. Hier zijn mijn praktische tips per platform.
+
+**WordPress: start met een goed thema, bespaar niet op hosting.**
+Het populairste struikelblok bij WordPress is trage hosting die de website langzaam maakt. Google's Core Web Vitals meten laadsnelheid — een trage site scoort slechter in zoekresultaten. Gebruik minimaal een SSD-hostingpakket bij Hostinger (€3-5/mnd) of kies managed WordPress via Kinsta of WP Engine als snelheid prioriteit heeft. Het thema Astra of GeneratePress laadt snel en is gratis bruikbaar.
+
+**Wix: gebruik de Wix AI-bouwer als startpunt, niet als eindresultaat.**
+De Wix AI-bouwer genereert een werkende basiswebsite op basis van een paar antwoorden. Dat is een uitstekend startpunt, maar pas het altijd handmatig aan. De gegenereerde teksten zijn generiek en de structuur is misschien niet optimaal voor jouw bedrijf. Zie de AI-output als blauwdruk, niet als eindproduct.
+
+**Squarespace: investeer in goede foto's.**
+Squarespace-templates zijn prachtig, maar de kwaliteit van je foto's bepaalt het eindresultaat. Met slechte stockfoto's of wazig mobiel fotomateriaal ziet zelfs het mooiste Squarespace-template er slecht uit. Besteed €200-300 aan een profesionele fotosessie of gebruik hoogwaardige stockfoto's van Unsplash of Pexels.
+
+**Shopify: configureer de SEO-instellingen direct bij de start.**
+Shopify's standaard URL-structuur (/products/, /collections/) is niet ideaal voor SEO maar ook niet te veranderen. Wat wel kan: pas de paginatitels en meta descriptions aan voor alle productpagina's en categorieën. Installeer de gratis SEO-plugin Yoast voor Shopify en doorloop de basisaanbevelingen.
+
+**Webflow: werk met een ontwerper als je geen code kent.**
+Webflow geeft maximale ontwerpvrijheid, maar de leercurve is steiler dan de andere platforms. Als je geen developer of UX-designer bent, is samenwerken met een Webflow-specialist voor de eerste setup de slimste aanpak. Daarna kun je content zelf beheren via de ingebouwde CMS.
+
+## Website en software-integraties: de meest gevraagde koppelingen
+
+Een bedrijfswebsite staat zelden alleen. Hier zijn de meest gevraagde software-koppelingen per platformtype.
+
+**Voor dienstverleners (coaches, adviseurs, therapeuten):**
+- Afsprakensoftware (Calendly, SimplyBook.me) voor online boekingen
+- CRM (HubSpot Free, Pipedrive) voor lead-opvolging
+- E-mailmarketing (Mailchimp, ActiveCampaign) voor nieuwsbrief
+
+**Voor webshops:**
+- Payment provider (Mollie, Stripe) voor betalingen
+- E-mail automatisering (Klaviyo) voor abandoned cart en klantcommunicatie
+- Voorraadbeheer koppeling voor real-time voorraadstatus
+
+**Voor kennisintensieve bedrijven (bureaus, consultants):**
+- Projectmanagement (Monday.com, Asana) voor koppeling klantportals
+- Offerte/facturatiesoftware (Moneybird, Exact Online)
+- Live chat of chatbot (Intercom, HubSpot) voor websitebezoekers
+
+Wix en Squarespace bieden de meest gebruiksvriendelijke native integraties voor dienstverleners. Shopify wint op e-commerce integraties. WordPress met WooCommerce biedt het breedste scala aan mogelijkheden maar vereist meer technische kennis voor configuratie.
+
 ---
 
 ## Lees ook

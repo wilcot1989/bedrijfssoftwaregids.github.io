@@ -144,6 +144,14 @@ Die informatie helpt je bij prijsbeslissingen, menuwijzigingen en inkoopkeuzes �
 
 Bespreek met je boekhouder welke kwartaalrapportages je wilt gebruiken en richt de koppeling daarop in. De meeste boekhouders hebben een voorkeur voor een specifieke structuur van de journaalposten. Als je die voorkeur kent voor je de koppeling configureert, bespaar je achteraf correctiewerk.
 
+## Wanneer een koppeling meer kwaad dan goed doet
+
+Een koppeling is geen doel op zich. Er zijn situaties waarin een koppeling meer problemen introduceert dan ze oplost, en het beter is om te wachten of een andere aanpak te kiezen.
+
+Als je kassasysteem en boekhoudpakket niet dezelfde BTW-categoriestructuur gebruiken, kan een automatische import leiden tot boekingen in de verkeerde BTW-groep. Dat is erger dan handmatige invoer, want het gaat systematisch fout terwijl je het niet doorhebt. Test altijd of de BTW-split klopt door de eerste twee weken de automatische import te vergelijken met de handmatige dagstaat.
+
+Een tweede situatie waarin een koppeling averechts werkt: als je kassa meerdere locaties beheert maar de boekhouding slechts één kostenplaats kent. De import bundelt dan omzet van vestiging A en B op één boeking, waardoor je per locatie geen inzicht meer hebt. Zorg dat je boekhouding en kassasysteem dezelfde locatiestructuur hebben voor je de koppeling activeert.
+
 ## Kosten van de koppeling per scenario
 
 Veel ondernemers onderschatten de kosten van een kassaboekhouding-koppeling. Hier een eerlijk overzicht per scenario.

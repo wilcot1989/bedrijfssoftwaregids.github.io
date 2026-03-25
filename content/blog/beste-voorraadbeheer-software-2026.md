@@ -602,3 +602,11 @@ Besparing: 5 uur × €35/uur × 52 = €9.100/jaar.
 Besparingen: €15.600 + €1.200 + €9.100 = ~€26.000/jaar
 Kosten Picqer/Cin7: €2.400-€6.000/jaar
 **Netto ROI: €20.000-€24.000/jaar**
+
+## Implementatietips voor voorraadbeheer software
+
+**Begin met een volledige inventarisatie.**
+Voordat u een voorraadbeheer-systeem implementeert, telt u uw voorraad eenmalig handmatig. Dit is de nulmeting voor uw systeem. Zonder accurate beginstand klopt uw voorraadbeheer nooit.
+
+**Stel herbestelniveaus in voor uw snellopende artikelen.**
+De meeste voorraadbeheer-tools kunnen automatisch een inkooporder of melding genereren als een artikel onder een minimumvoorraad zakt. Stel die niveaus in voor uw A-artikelen — de 20% van uw assortiment dat 80% van uw omzet genereert.

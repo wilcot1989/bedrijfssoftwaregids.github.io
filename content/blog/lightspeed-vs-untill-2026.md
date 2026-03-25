@@ -445,4 +445,8 @@ Ja, beide systemen ondersteunen fooienregistratie. In Lightspeed stel je dit in 
 - [Cloud POS vs lokaal kassasysteem: wat past bij jouw zaak?](/blog/cloud-pos-vs-lokaal/)
 - [Beste Horeca Software 2026: Top 5](/blog/beste-restaurantsoftware-2026/)
 
+## Totaalkostenanalyse: wat betaal je écht?
+
+Kassasystemen worden vaak vergeleken op hun maandabonnement, maar de werkelijke kosten zijn complexer. Voor een gemiddeld café of restaurant van gemiddelde omvang ziet het kostenplaatje er over drie jaar als volgt uit. Bij Lightspeed Restaurant: abonnement €69 per maand, pinapparaat via Lightspeed Payments inbegrepen, Deliverect-koppeling voor bezorging €100 per maand, hardware-aanschaf (iPad + houder + bonprinter) €700 eenmalig. Totaal drie jaar: €6.084 + €700 = €6.784. Bij Untill: dealer-abonnement inclusief hardware gemiddeld €120-€150 per maand all-in (hardware in huur of koop), geen bezorgplatformkoppeling inbegrepen. Totaal drie jaar bij huurmodel: €5.400-€5.400. Het prijsverschil is kleiner dan verwacht als je de hardware-investeringen van Lightspeed eerlijk meetelt. Untill is goedkoper als je jarenlang op dezelfde locatie zit en weinig updates nodig hebt. Lightspeed wordt voordeliger voor ondernemers die meerdere locaties plannen of regelmatig nieuwe functionaliteit willen zonder dealer-afhankelijkheid.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)**, bereken je **[kassasysteem kosten](/tools/kassasystemen/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.

@@ -461,3 +461,7 @@ Ja, Trengo biedt migratiehulp. De meeste data (gesprekken, contacten) kan worden
 
 **Welke biedt betere Exact Online integratie?**
 Trengo heeft een native Exact Online integratie, speciaal gebouwd voor de Nederlandse markt. Zendesk heeft geen directe Exact Online integratie — je hebt een derde partij nodig.
+
+## Kosten over twee jaar: het echte plaatje
+
+Bij het vergelijken van helpdesksoftware is de initiële maandprijs zelden het volledige verhaal. Zendesk Suite Growth kost €55 per agent per maand bij jaarlijkse facturering. Trengo Boost kost €35 per seat per maand. Voor een team van vijf agents is het verschil €1.200 per jaar in het voordeel van Trengo. Maar er zijn twee factoren die dit beeld nuanceren. Ten eerste: implementatietijd. Zendesk vraagt meer configuratie en opleiding. Reken bij Zendesk op twee à drie weken voordat een nieuw team zelfstandig werkt; bij Trengo is dat doorgaans één week. Bij een uurtarief van €50 voor de configurerende collega scheelt dat al snel €1.500 aan interne kosten in het eerste jaar. Ten tweede: integraties. Trengo heeft native koppelingen met Exact Online, WooCommerce en WhatsApp Business, zodat je geen Zapier-abonnement nodig hebt. Zendesk vereist voor diezelfde integraties vrijwel altijd een tussenoplossing van €20-€50 per maand. Over twee jaar is het totaalplaatje voor een MKB-team van vijf medewerkers bij Trengo circa €4.000-€5.000 goedkoper dan bij Zendesk op vergelijkbaar functieniveau.

@@ -155,6 +155,20 @@ Voor wie snel wil zien welk pakket wat biedt:
 
 Voor ZZP'ers die regelmatig op uren factureren is Moneybird de sterkste keuze in het betaalbare segment. Voor wie alleen facturen wil sturen en bijhouden, doet Jortt of e-Boekhouden prima werk voor minder geld.
 
+## Vijf vragen voor je een gecombineerd pakket kiest
+
+Na het bespreken van honderden softwarekeuzes met ondernemers heb ik gemerkt dat de beslissing eigenlijk altijd op vijf vragen neerkomt. Beantwoord ze eerlijk en je hebt je antwoord.
+
+**Hoeveel facturen stuur ik per maand?** Tot twintig facturen: elk gecombineerd pakket voldoet. Boven de vijftig facturen per maand: controleer of het pakket bulkverzending en een klantportal ondersteunt.
+
+**Heb ik projectgebonden facturatie nodig?** Als je uren per klant registreert en die direct op een factuur wilt zetten, is [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) met tijdregistratie of Exact Online Professional de juiste keuze. [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) is dan te beperkt.
+
+**Werk ik met internationale klanten?** Bij EU-zakelijke klanten geldt BTW-verlegging en een ICP-aangifte. Controleer of het pakket dit ondersteunt. Niet alle instaptools doen dit correct.
+
+**Werkt mijn accountant ook in het systeem?** Sommige accountants werken liever in Exact Online of Twinfield. Vraag je accountant van tevoren welk pakket hij aanraadt — dat bespaart later extra exportwerk.
+
+**Wil ik groeien?** Kies een pakket met een hoger abonnementsniveau dat je later kunt upgraden zonder van platform te wisselen. De migratie naar een nieuw pakket kost altijd meer dan je vooraf denkt.
+
 ## Lees ook
 
 - [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — de beste pakketten die facturatie en boekhouding combineren

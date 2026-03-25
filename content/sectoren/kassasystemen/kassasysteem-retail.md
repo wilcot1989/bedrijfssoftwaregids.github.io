@@ -279,6 +279,16 @@ Fysieke retailers die ook online verkopen, profiteren van geautomatiseerde marke
 
 Lees ook het artikel [beste kassasysteem retail 2026](/blog/beste-kassasysteem-retail-2026/) voor een uitgebreidere vergelijking inclusief systemen die niet in dit overzicht staan. En het artikel [kassasysteem koppelen aan boekhouding](/blog/kassasysteem-koppelen-aan-boekhouding/) helpt je met de technische setup.
 
+## Voorraadbeheer en kassasysteem: hoe dat samenwerkt in de retailpraktijk
+
+Voorraadbeheer is voor retailers het meest onderschatte voordeel van een goed kassasysteem. Elke scan bij de kassa is ook een voorraadupdating — dat klinkt vanzelfsprekend, maar de praktische implicaties zijn groot. Je weet op elk moment hoeveel stuks je nog hebt van elk artikel, je ziet welke producten snel draaien en welke al weken staan te staan, en je kunt automatische nabestellingen instellen op het moment dat de voorraad onder een drempelwaarde zakt.
+
+Lightspeed Retail is op dit punt het sterkst van de drie opties: minimumvoorraden, automatische inkooporders en koppeling met leveranciers zijn native ingebouwd. Square heeft basale voorraadregistratie maar heeft geen automatische inkooporder-functie. Zettle heeft de zwakste voorraadfunctionaliteit — dat is acceptabel voor een eenmanszaak met twintig producten, maar onvoldoende voor een kledingwinkel met meerdere maten en kleuren per artikel.
+
+Een tweede praktisch punt voor retailiers: de koppeling tussen kassasysteem en webshop. Als je zowel online als fysiek verkoopt, wil je één voorraadadministratie voor beide kanalen. Lightspeed heeft een native webshopkoppeling. Square heeft Square Online als ingebouwde webshopfunctie. Zettle koppelt met Shopify via een externe integratie maar is minder naadloos.
+
+Mijn vuistregel: als je meer dan honderd unieke artikelen verkoopt én een webshop hebt of wilt, is Lightspeed Retail de investering waard. Als je minder dan vijftig producten hebt en alleen fysiek verkoopt, is Square een prima en goedkopere keuze.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

@@ -259,6 +259,18 @@ Een foodtruck heeft specifieke uitdagingen die je bij een vaste horecalocatie ni
 
 **Menu-eenvoud:** In een foodtruck heb je zelden meer dan vijftien à twintig menu-items. Zettle en Square zijn gebouwd voor snelle kassa's met een beperkt menu — niet voor restaurants met een uitgebreide kaart. Zet je meest populaire items als sneltoets op het scherm, zodat je met twee tikken kunt afrekenen.
 
+## Wat kost een kassasysteem voor een foodtruck per jaar?
+
+Bij foodtruck-ondernemers speelt het kostenplaatje een grotere rol dan bij vaste locaties — de marges zijn soms krap en elk euro telt. Hier is een eerlijk overzicht van de werkelijke jaarkosten per scenario.
+
+Bij Zettle of SumUp betaal je geen maandelijkse softwarekosten. Je betaalt alleen per transactie: bij Zettle 1,75% per pintransactie, bij SumUp 1,69%. Op een maandomzet van €5.000 is dat €87-88 aan transactiekosten. Per jaar: ruim €1.000 exclusief de aanschaf van de reader (€29-€49). Dat is goedkoop voor kleine volumes maar loopt op bij hogere omzetten.
+
+Square is vergelijkbaar in transactiekosten (1,75%) maar biedt iets meer functies voor dezelfde prijs. De extra kosten zijn alleen de reader (€19) als je die eenmalig aanschaft. Bij hogere omzetten overweeg je Square voor Teams (€10/maand) voor meerdere medewerkersinlogs.
+
+Bij een maandomzet boven €8.000 wordt het de moeite waard om Square of Zettle te vergelijken met een abonnement-model. Lightspeed Retail kost €59/maand maar heeft geen variabele transactiekosten voor pin via je eigen betaalterminal. Reken het punt uit waarop de vaste maandkosten lager zijn dan de variabele transactiekosten — dat breekpunt ligt voor de meeste foodtrucks rond €10.000-12.000 maandomzet.
+
+Mijn advies: begin klein met Zettle of SumUp en schakel pas over naar een abonnement als je omzet structureel boven het breekpunt ligt. Goedkoper starten heeft zin; duurder starten verdiep je zelden terug.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

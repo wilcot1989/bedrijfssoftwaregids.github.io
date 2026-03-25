@@ -392,6 +392,58 @@ iDEAL 2.0 is de vernieuwde versie van iDEAL die in 2024 werd uitgerold. Het bied
 
 Een payment gateway is de technische verbinding tussen uw webshop en de betaalnetwerken. Een payment provider is de volledige dienstverlener die ook merchant accounts beheert, risico neemt en uitbetalingen regelt. Mollie en Stripe zijn beide payment provider én gateway in één.
 
+## Sector-specifieke aanbevelingen: welke provider past bij uw branche?
+
+De beste payment provider hangt niet alleen af van uw omvang, maar ook van uw branche. Hier zijn mijn aanbevelingen per sector.
+
+**E-commerce / online retail:**
+Mollie is voor de meeste Nederlandse webshops de sterkste keuze. iDEAL als standaard, eenvoudige Shopify- en WooCommerce-integratie, transparante tarieven en dagelijkse uitbetalingen. Voeg PayPal toe als aanvullende betaalmethode voor internationale klanten.
+
+**SaaS en abonnementsdiensten:**
+Stripe Billing is hier de beste keuze. De abonnementsfunctionaliteit is de diepste op de markt: pro-rata berekeningen bij upgrades, automatische dunning (ophalen van mislukte betalingen), en flexibele prijsmodellen per gebruik. Mollie biedt ook recurring payments maar minder uitgebreid.
+
+**Horeca en food delivery:**
+Mollie of MultiSafepay, afhankelijk van het kassasysteem. Zorg dat uw kassasysteem een directe Mollie- of MultiSafepay-integratie heeft. Voor bezorgplatformen kunt u ook bekijken of het platform (Thuisbezorgd, Deliverect) een eigen betaaloplossing biedt.
+
+**Zakelijke dienstverlening (B2B-factuurbetalingen):**
+SEPA-overschrijvingen en iDEAL via Mollie of Stripe zijn hier het meest relevant. Stripe heeft ook Stripe Invoicing voor het versturen en innen van facturen — handig als u wilt dat klanten online kunnen betalen via een factuurlink.
+
+**Internationale webshop (export naar Europa):**
+Stripe voor de bredere betaalmethode-dekking (Bancontact voor België, SOFORT voor Duitsland, iDEAL voor Nederland). Mollie dekt ook meerdere Europese betaalmethoden goed maar heeft minder internationale track record dan Stripe.
+
+## Implementatietips: zo gaat de overstap soepel
+
+Een van de vragen die ik het meest krijg is: hoe moeilijk is het om van payment provider te wisselen? Het antwoord hangt af van uw situatie.
+
+**Standaard webshop (Shopify of WooCommerce):**
+Overstappen is relatief eenvoudig. Installeer de plugin van de nieuwe provider, configureer de betaalmethoden, test met een testbetaling en deactiveer de oude plugin. De hele operatie duurt een uur à twee uur. Let op eventuele abonnementsbetalingen die apart moeten worden gemigreerd.
+
+**Maatwerk-integratie:**
+Als uw webshop rechtstreeks is gekoppeld via de API van de provider, is migreren meer technisch werk. Schakel uw ontwikkelaar in en reserveer een testperiode van minimaal een week voor live-gang.
+
+**Stap-voor-stap implementatieplan:**
+
+1. **Activeer de nieuwe account** en doorloop de verificatieprocedure (KvK, bankgegevens). Plan hier 1-2 werkdagen voor bij Mollie of Stripe.
+2. **Installeer de integratie** in sandbox/testmodus op uw webshop.
+3. **Test alle betaalmethoden** — iDEAL, creditcard, PayPal, Klarna — met echte testbetalingen.
+4. **Configureer de notificaties** voor geslaagde betalingen, terugboekingen en uitbetalingen.
+5. **Ga live** en houd de eerste 48 uur de transactiestroom in de gaten op afwijkingen.
+6. **Deactiveer de oude provider** pas nadat u zeker bent dat alles werkt.
+
+## Veelgemaakte fouten bij de keuze van een payment provider
+
+**Fout 1: Alleen naar de iDEAL-tarieven kijken.**
+iDEAL is belangrijk, maar creditcard-betalingen kosten percentage van de transactiewaarde. Bij een gemiddeld hoge orderwaarde of veel internationale klanten kan het creditcard-tarief meer impact hebben dan het iDEAL-tarief. Bereken de totale jaarlijkse kosten op basis van uw werkelijke betaalmix.
+
+**Fout 2: Geen rekening houden met chargeback-beleid.**
+Elke provider hanteert een andere aanpak bij chargebacks. Bij een chargeback-ratio boven 1% van transacties riskeer u accountblokkering. Kies een provider die transparante chargeback-communicatie biedt en een goed dashboard voor bezwaar-management.
+
+**Fout 3: De uitbetalingstermijn vergeten bij cashflowplanning.**
+Een webshop die dagelijks omzet draait maar wekelijks uitbetaald krijgt, moet een werkkapitaalbuffer aanhouden. Mollie betaalt dagelijks uit op werkdagen; Stripe standaard wekelijks. Dit is een reëel cashflowverschil voor startende webshops.
+
+**Fout 4: Geen BNPL (Buy Now Pay Later) aanbieden.**
+Klarna, Afterpay en vergelijkbare BNPL-methoden verhogen de gemiddelde orderwaarde met 15-25%. Als u ze nog niet aanbiedt, is dit laagdrempelig rendement. Alle providers in dit overzicht ondersteunen minimaal één BNPL-optie.
+
 ### Welke payment provider is het beste voor abonnementsbetalingen?
 
 Stripe Billing is de meest krachtige optie voor abonnementen: prorations bij plan-upgrades, vrije trial-periodes, metered billing en dunning-management (automatisch opvolgen bij mislukte betalingen). Mollie ondersteunt ook recurring payments maar is minder uitgebreid dan Stripe Billing voor complexe abonnementsmodellen.

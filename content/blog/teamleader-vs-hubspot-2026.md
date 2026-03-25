@@ -415,4 +415,8 @@ Wil je meer weten over de bredere CRM-markt in Nederland? Bekijk mijn overzicht 
 
 ---
 
+## Migreren van HubSpot naar Teamleader Focus: wat te verwachten
+
+Ik heb drie migraties begeleid van HubSpot naar Teamleader Focus, en de patroon is elke keer vergelijkbaar. De datamigatie zelf is beheersbaar: HubSpot exporteert contacten, bedrijven en deals als CSV, en Teamleader heeft een importwizard die de meeste standaardvelden herkent. Wat handmatig moet: e-mailsequenties en marketing automation flows bouwen in Teamleader's e-mailmodule. Teamleader biedt geen marketing automation op HubSpot-niveau — dat is bewust, want het is een andere tool. Teams die HubSpot's automation intensief gebruikten en overstappen naar Teamleader, combineren Teamleader soms met Mailchimp of Brevo voor de e-mailmarketing. Dat is een extra abonnement, maar de totale kostensom blijft nog altijd lager dan HubSpot Professional voor vijf gebruikers. De meest onderschatte tijdsinvestering bij de migratie: het opnieuw inrichten van deals-pijplijnen. Teamleader's pipeline is anders gestructureerd dan HubSpot's — neem er een halve dag de tijd voor om de fasen en automatische acties goed in te richten voor jouw salesproces.
+
 *Lars de Vries is B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Hij heeft tientallen CRM-implementaties begeleid bij Nederlandse MKB-bedrijven en test software structureel op prijs, gebruiksgemak en ROI voor de praktijk.*

@@ -439,3 +439,26 @@ Een laatste afweging: wat als je groeit? Beide tools schalen mee, maar op versch
 - Beperking: kosten groeien snel bij uitbreiding van modules en gebruikers
 
 **De conclusie voor groeibedrijven:** Als je verwacht in de komende drie jaar te groeien naar 20+ medewerkers met complexe bedrijfsprocessen, is Exact Online op lange termijn financieel competitiever dan Moneybird plus losse externe tools. Maar voor bedrijven die organisch groeien van zzp naar klein mkb, is Moneybird een prima startpunt dat je met externe koppelingen kunt uitbreiden naar gelang de behoefte.
+
+## Veelgemaakte fouten bij de keuze tussen Exact Online en Moneybird
+
+**Fout 1: Kiezen op basis van de maandprijs, niet op basis van gebruik.**
+Exact Online kost meer per maand, maar als u ook projectbeheer, CRM of voorraadbeheer nodig heeft, betaalt u bij Moneybird alsnog voor losse tools. Bereken de totale softwarekosten voor uw specifieke situatie — inclusief alle losse tools die u anders nodig heeft.
+
+**Fout 2: De implementatietijd onderschatten bij Exact Online.**
+Exact Online is krachtig maar vraagt meer configuratie bij de start. Plan minimaal een dag voor de basisinrichting en doe dit samen met uw boekhouder. Moneybird is sneller up and running maar biedt ook minder configuratiemogelijkheden.
+
+**Fout 3: Niet aan uw accountant vragen wat hij of zij prefereert.**
+Als u een externe accountant heeft, speelt zijn of haar voorkeur een rol. Veel accountants werken dagelijks in Exact Online en kennen dat systeem van binnen en buiten. Als uw accountant Exact Online gebruikt, heeft samenwerking via een gedeelde omgeving grote voordelen. Vraag dit na voordat u kiest.
+
+## Migratie: van Moneybird naar Exact Online (of andersom)
+
+Veel bedrijven beginnen met Moneybird en schakelen later over naar Exact Online bij groei. Hier is wat u moet weten over de migratie.
+
+**Van Moneybird naar Exact Online:**
+Moneybird biedt een export-functie voor alle facturen, klanten en mutaties. Exact Online heeft een import-wizard die de meest gebruikte formaten verwerkt. De migratie is technisch haalbaar maar vraagt een halve dag werk, bij voorkeur gedaan door uw accountant of een Exact-implementatiepartner.
+
+**Van Exact Online naar Moneybird:**
+Minder gebruikelijk maar ook mogelijk. Export via AFAS-formaat of Excel en import via Moneybird's import-tool. Let op: projecten en geavanceerde modules in Exact Online hebben geen directe equivalent in Moneybird — die data moet u apart documenteren.
+
+**Beste moment voor migratie:** Begin van het boekjaar (1 januari). Dat geeft de meest schone overgang en minder reconciliatie-uitdagingen.

@@ -291,7 +291,7 @@ HR-software en boekhoudsoftware werken het best als ze gekoppeld zijn, zodat sal
 
 Als ZZP'er met een eerste medewerker groeit ook je klantenbestand, en dan is een CRM handig om alle contacten bij te houden. Op de pagina [CRM voor consultants](/sectoren/crm/crm-voor-consultants/) staan lichtgewichte CRM-opties die goed passen bij zelfstandigen.
 
-E-mailmarketing is naast HR een effectieve manier om je klantrelaties te onderhouden zonder veel tijdsinvestering. Op de pagina [e-mail marketing voor ZZP'ers](/sectoren/marketing/email-marketing-zzp/) vergelijken we de meest betaalbare opties voor kleine lijsten.
+E-mailmarketing is naast HR een effectieve manier om je klantrelaties te onderhouden zonder veel tijdsinvestering. Op de pagina [e-mail marketing voor ZZP'ers](/sectoren/marketing/email-marketing-zzp/) vergelijken we de meest betaalbare opties voor kleine lijsten. Als ZZP'er die groeit naar een eerste medewerker, is het ook slim om vooraf te kijken naar de [HR software voor MKB](/sectoren/hr/hr-software-mkb/) pagina, zodat je een systeem kiest dat meegroeit met je bedrijf.
 
 {{< sector-cta-hr >}}
 

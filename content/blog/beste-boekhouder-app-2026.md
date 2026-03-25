@@ -523,3 +523,11 @@ Een mobiele boekhoud-app is een aanvulling, geen vervanging. Je hebt meer nodig 
 - Je meer dan €500.000 omzet per jaar hebt
 
 In die gevallen kijk je naar de volledige functionaliteit van [Exact Online](/blog/exact-online-review-2026/) of [AFAS Personal](/blog/afas-personal-review-2026/), niet alleen de mobiele app.
+
+## Veelgemaakte fouten bij boekhoud-apps voor mobiel gebruik
+
+**Fout 1: Bonnetjes bewaren in de app zonder te categoriseren.**
+Een boekhoud-app is pas waardevol als de bonnetjes ook correct zijn gecategoriseerd. Neem er de gewoonte van aan om een bonnetje direct na het scannen te categoriseren — dat kost tien seconden en bespaart u uren aan het einde van het kwartaal.
+
+**Fout 2: De app alleen voor bonnetjes gebruiken.**
+De meeste boekhoud-apps bieden meer dan alleen bonnetjes scannen: bankregels importeren, facturen versturen, kilometerregistratie. Gebruik minimaal drie functies actief, anders bent u over in drie maanden op een beter alternatief.

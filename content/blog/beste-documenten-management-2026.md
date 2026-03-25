@@ -443,3 +443,28 @@ Ja. De meeste tools bieden een bureaublad-synchronisatieclient (Google Drive for
 
 ---
 
+
+## Kostenanalyse: DMS voor MKB
+
+Documentbeheer-software varieert enorm in prijs. Hier is een eerlijk overzicht per bedrijfsgrootte.
+
+| Tool | 5 gebruikers/jaar | 25 gebruikers/jaar | Opslaglimiet |
+|------|------------------|--------------------|-------------|
+| Google Drive Business Starter | €360 | €1.800 | 30 GB/gebruiker |
+| Microsoft SharePoint (M365 Business) | €300 | €1.500 | 1 TB/gebruiker |
+| Dropbox Business | ~€780 | ~€3.900 | 5 TB gedeeld |
+| DocuWare | Op aanvraag | Op aanvraag | Onbeperkt |
+| Laserfiche | Op aanvraag | Op aanvraag | Onbeperkt |
+
+Voor de meeste kleine tot middelgrote bedrijven is Google Drive of Microsoft SharePoint (als onderdeel van Microsoft 365) al een volledig functioneel DMS. Gespecialiseerde tools als DocuWare zijn relevant als u geavanceerde workflow-automatisering, documentrouting en compliancevereisten heeft.
+
+## Implementatietips voor een documentbeheersysteem
+
+**Stel een mapstructuur vast voordat u begint.**
+De grootste fout bij DMS-implementatie is het overzetten van een bestaande mappenstructuur die al jaren rommelig is. Gebruik de implementatie als aanleiding om een logische, consistente structuur te definiëren. Stem dit af met alle teams die documenten opslaan.
+
+**Wijs een documenteigenaar aan per afdeling.**
+Elk team heeft iemand nodig die verantwoordelijk is voor het bijhouden van de documenten in hun afdeling. Zonder eigenaarschap raken mappen snel vervuild met verouderde versies en onjuiste naamgeving.
+
+**Stel bewaartermijnen in voor compliancedocumenten.**
+Fiscale documenten moeten minimaal zeven jaar bewaard worden; loonadministratie vijf jaar. Stel in uw DMS automatische archivering en verwijdering in voor verschillende documentcategorieën, zodat u aan de wettelijke bewaarplicht voldoet zonder handmatig te hoeven opruimen.

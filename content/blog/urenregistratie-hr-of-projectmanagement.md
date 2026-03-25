@@ -166,7 +166,7 @@ Projectmanagement tools met tijdregistratie kosten €15–€30 per gebruiker p
 
 **Situatie 2: je hebt vijf tot twintig medewerkers en een vaste HR-cyclus (verlof, salaris, ziekte).** Kies HR-software met urenregistratie. Dat houdt alles in één systeem en vermindert fouten bij de salarisverwerking. Populaire opties zijn Personio, HR Manager en AFAS.
 
-**Situatie 3: je werkt met projectteams en factureerbare uren zijn de kern van je business.** Kies een projectmanagement tool met tijdregistratie. Tools als Teamleader Focus of Harvest koppelen uren direct aan projecten, klanten en offertes. Dat is waardevol niet alleen voor administratie maar ook voor je winstmarges per project.
+**Situatie 3: je werkt met projectteams en factureerbare uren zijn de kern van je business.** Kies een projectmanagement tool met tijdregistratie. Tools als Teamleader Focus of Harvest koppelen uren direct aan projecten, klanten en offertes. Dat is waardevol niet alleen voor administratie maar ook voor je winstmarges per project. Voor grotere teams is het ook mogelijk om een koppeling te bouwen tussen het projectmanagement-systeem en de HR-software, zodat uren maar één keer worden ingevoerd en automatisch naar beide systemen worden gestuurd.
 
 ---
 

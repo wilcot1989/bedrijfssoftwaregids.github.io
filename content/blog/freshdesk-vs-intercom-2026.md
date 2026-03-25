@@ -466,3 +466,7 @@ Intercom is ideaal voor SaaS-bedrijven en digitale producten die klanten willen 
 
 **Kan ik Freshdesk en Intercom combineren?**
 Ja, sommige bedrijven gebruiken Freshdesk als ticketsysteem voor complexe kwesties en Intercom als proactieve chatoplossing op de website. Er is een integratie beschikbaar.
+
+## Groeiperspectief: wanneer stap je van Freshdesk over?
+
+De meeste teams die beginnen bij Freshdesk stappen pas over naar een ander systeem als één van twee dingen gebeurt: het team groeit naar meer dan 20 agents en de rapportagebehoeften worden complexer, of het bedrijf transformeert van reactieve naar proactieve klantenservice. In het eerste geval is Zendesk de logische stap: betere SLA-tracking, uitgebreider rapportagedashboard en een sterkere omnichannel-router. In het tweede geval is Intercom de betere keuze. Wat de overgang van Freshdesk naar Zendesk technisch betreft: Freshdesk exporteert tickets, contacten en bedrijven als CSV-bestanden. Zendesk's importfunctie verwerkt die bestanden goed, maar aangepaste velden en sla-afspraken moet je handmatig nabouwen. Reken op twee tot vier weken voor een migratieproject bij een team van 10 agents. De meest tijdrovende stap is het herconfigureren van automatiseringsregels — elke Freshdesk-automatisering moet je handmatig vertalen naar een Zendesk-trigger of -automatisering.

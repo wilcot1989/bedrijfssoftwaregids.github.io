@@ -473,6 +473,12 @@ Brevo is een Frans bedrijf en slaat alle data standaard op binnen de EU. Dat maa
 
 Beide tools zijn toegankelijk voor beginners. Mailchimp heeft een iets intuitivere interface en meer templates om mee te starten. Brevo heeft een eenvoudigere prijsstructuur en een ruimer gratis plan. Voor iemand die net begint met email marketing en een beperkt budget heeft, raad ik Brevo aan vanwege het genereuze gratis plan met 300 mails per dag.
 
+## Wanneer overstappen loont — en wanneer niet
+
+Een vraag die ik regelmatig krijg: "Lars, ik zit al jaren op Mailchimp, heeft het zin om over te stappen naar Brevo?" Mijn eerlijke antwoord hangt af van drie factoren. Eerste factor: contactlijstgrootte. Heb je meer dan 5.000 contacten? Dan is Brevo's per-e-mailmodel vrijwel altijd voordeliger, zeker als je niet elke week mailt. Tweede factor: AVG-gevoeligheid. Werk je voor klanten in de zorg, financiën of onderwijs waarbij dataopslag in de EU niet onderhandelbaar is? Dan is Brevo de logische keuze — Franse servers, geen Amerikaanse eigenaar. Derde factor: hoeveel gebruik je van Mailchimp's e-commerce functies? Als je verlaten-winkelwagenmails hebt draaien en productaanbevelingen gebruikt, weegt dat zwaar. Die workflows herinstalleren in Brevo kost tijd, en de resultaten zijn bij Mailchimp iets beter voor webshops met meer dan 500 producten. In dat geval is de moeite van overstappen groter dan de kostenbesparing op een kleine lijst.
+
+Wat betreft migratiekosten: reken gemiddeld op vier tot acht uur werk voor een team dat actief gebruikmaakt van automatiseringen. Contacten importeren gaat snel, maar elke automatiseringsflow moet je handmatig nabouwen in de Brevo-builder. Brevo heeft wel een uitgebreide bibliotheek van flow-templates die het startpunt vergemakkelijken. Als je nu al wil beginnen met testen zonder migratie: beide tools bieden een gratis plan, zodat je ze parallel kunt draaien voor één campagne en het verschil in deliverability zelf kunt meten.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/marketing/keuzehulp/)**, bereken je **[marketing software kosten](/tools/marketing/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/marketing/)**.
 
 ## Lees ook

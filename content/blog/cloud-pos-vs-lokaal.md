@@ -274,3 +274,21 @@ De theorie is helder. Maar hoe pakt de keuze tussen cloud en lokaal uit in drie 
 - [Fiscale eisen kassasysteem 2026](/blog/fiscale-eisen-kassasysteem-2026/) — wettelijke bewaarplicht uitgelegd
 
 Wil je direct kassasystemen vergelijken? Gebruik de [kassasysteem keuzehulp](/tools/kassasystemen/keuzehulp/).
+
+## Praktische checklist: cloud of lokaal voor jouw zaak?
+
+Voor ondernemers die nog twijfelen, heb ik een korte checklist die ik bij klanten gebruik om snel tot een keuze te komen. Antwoord eerlijk op elke vraag.
+
+**Kies cloud als je op meer dan twee vragen 'ja' antwoordt:**
+- Wil je je dagomzet en statistieken bekijken op je telefoon vanuit huis?
+- Heb je meerdere locaties of denk je die in de komende twee jaar te openen?
+- Wil je je menukaart of productenlijst snel aanpassen, ook buiten kantooruren?
+- Ben je bereid €50-€100 per maand te betalen voor een abonnement in ruil voor automatische updates en back-ups?
+
+**Kies lokaal als je op meer dan twee vragen 'ja' antwoordt:**
+- Heb je een locatie met een onbetrouwbare of trage internetverbinding?
+- Heb je al investering gedaan in lokale hardware die je wilt blijven gebruiken?
+- Is jouw dealer of IT-partner vertrouwd met het onderhouden van lokale systemen?
+- Draaij je een hoog transactievolume waarbij elke seconde downtime direct klachten oplevert?
+
+Geen duidelijke winnaar na de checklist? Dan is een hybride systeem — cloud met sterke offline-modus — de veiligste keuze voor jouw situatie.

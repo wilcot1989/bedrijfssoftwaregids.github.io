@@ -184,6 +184,14 @@ De ROI van preventie is lastig te meten maar reëel. Eén voorkomen langdurig ve
 
 Gebruik de [HR-software kosten berekenen tool](/tools/hr-software/kosten-berekenen/) om te zien wat een goed HR-systeem je per maand kost op basis van je personeelsgrootte. En voor een overzicht van alle HR-software vergelijkingen en reviews, bezoek de [HR-software overzichtspagina](/categories/hr-software/). Wil je specifiek de verzuimkosten in kaart brengen, gebruik dan de [HR-software verzuimkosten berekenen tool](/tools/hr-software/verzuimkosten-berekenen/).
 
+## Hoe je een eerste gesprek voert op basis van HR-signalen
+
+Als je HR-software een signaal geeft — een medewerker die herhaaldelijk op maandag ziek is, of een team met stijgend kort verzuim — is de vervolgstap een gesprek. Niet een formeel functioneringsgesprek, maar een informeel check-in van vijftien minuten.
+
+De meest effectieve aanpak: open en concreet. "Ik zie dat je de afgelopen maand vaker kort ziek bent geweest. Hoe gaat het met je?" Geen diagnose, geen aannames over de oorzaak. Alleen oprechte interesse, ingegeven door de data die je systeem je geeft.
+
+Veel leidinggevenden vermijden dit gesprek omdat het ongemakkelijk aanvoelt. Maar medewerkers waarderen het juist — het laat zien dat hun afwezigheid opvalt en dat er iemand om hen geeft. Dat gesprek, gecombineerd met de juiste ondersteuning, is in mijn ervaring de krachtigste verzuimpreventietool die er bestaat.
+
 ---
 
 **Lees ook:**

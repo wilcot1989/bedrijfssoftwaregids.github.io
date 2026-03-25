@@ -385,4 +385,10 @@ Monday.com wint nipt op totaalscore, en het is ook de tool die ik iets vaker aan
 - [Probeer Monday.com gratis](https://monday.com/lang/nl)
 - [Start gratis met Asana](https://asana.com/nl)
 
+## Contractvalkuilen: wat je moet weten voordat je tekent
+
+Beide tools scoren slecht op Trustpilot, en de reden is bijna altijd hetzelfde: automatische contractverlenging. Monday.com en Asana factureren standaard jaarlijks en verlengen automatisch. Bij Monday.com geldt een opzegtermijn van 30 dagen voor het einde van de contractperiode; bij Asana is dit vergelijkbaar. Wat ik altijd aanbeveel bij implementaties: zet de verlengingsdatum direct na aanschaf in je agenda met een waarschuwing dertig dagen van tevoren. Wil je overstappen of downgraden? Dan moet je dat ver voor de verlengingsdatum regelen, anders betaal je onverwacht een heel jaar extra.
+
+Nog een praktisch punt: beide tools bieden kortingen bij jaarlijkse vooruitbetaling versus maandelijks betalen. Monday.com geeft 18% korting bij jaarfacturering; Asana geeft vergelijkbare kortingen. Als je voor een langere termijn kiest, versleutelt je die korting, maar verlies je ook de flexibiliteit om tussentijds te wisselen. Mijn advies: betaal de eerste drie maanden maandelijks om te valideren dat je team het systeem ook echt gebruikt. Daarna stap je over naar jaarabonnement als de adoptie goed is. Die twee à drie maanden hogere kosten zijn de verzekering waard.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/projectmanagement/keuzehulp/)**, bereken je **[projectmanagement kosten](/tools/projectmanagement/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/projectmanagement/)**.

@@ -283,6 +283,16 @@ Pipedrive heeft hier een handige functie voor: je kunt contacten taggen met een 
 
 Het verschil tussen consultants die structureel volle agenda's hebben en consultants die pieken en dalen kennen, is vaak niet de kwaliteit van het werk maar de structuur van het relatiebeheer. Een CRM dat je aanzet om consistent contact te onderhouden, is het verschil.
 
+## Hoe consultants meer deals sluiten met de juiste CRM-inrichting
+
+Een CRM is voor consultants en adviesbureaus pas echt waardevol als het de opvolging van offerte-trajecten structureert. De meeste adviesbureaus die ik spreek, verliezen deals niet in de proposalfase maar in de nazorgfase: de klant heeft een voorstel ontvangen, is geïnteresseerd maar heeft het druk. Twee weken later heeft hij je al half vergeten. Drie weken later tekent hij bij een concurrent die wel twee keer heeft nagebeld.
+
+Een CRM met automatische herinneringen lost dit op. Je stelt in dat een deal die vijf werkdagen na offerteversturing nog op "aangeboden" staat, een follow-up trigger genereert. De herinnering staat in jouw agenda — geen deal glijdt door je vingers zonder dat je het weet.
+
+De tweede inrichting die ik bij elk consultancybureau als eerste doe: een pipeline-fase voor "warm contact" of "niet nu". Dat zijn de potentiële klanten die nu niet klaar zijn maar over zes maanden misschien wél. In de meeste bureaus verdwijnen die in een zwart gat. In een goed ingericht CRM komen ze op een terugkeermoment terug in uw aandacht — automatisch.
+
+Bereken voor je kiest wat de waarde is van één gemiste deal per kwartaal. Bij een gemiddeld adviestraject van €15.000 is dat €60.000 per jaar aan omzet die je weggeeft aan concurrenten die simpelweg beter opvolgen. Een CRM van €50 per maand dat dat voorkomt, verdient zichzelf duizendvoudig terug.
+
 {{< sector-cta-crm >}}
 
 ## Lees ook

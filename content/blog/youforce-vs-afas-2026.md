@@ -554,3 +554,9 @@ Voor de meeste Nederlandse MKB-bedrijven (50-300 medewerkers) is AFAS de praktis
 
 <a href="https://www.exact.com/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk Exact Online als ERP-alternatief →</a>
 
+## Implementatietijd en -kosten: het echte verschil
+
+Bij de keuze tussen AFAS en YouForce is de licentieprijs zelden het beslissende argument — het zijn de implementatiekosten en doorlooptijd die het totaalplaatje bepalen. Een AFAS-implementatie voor een bedrijf van 100 medewerkers duurt gemiddeld drie tot vijf maanden en kost €20.000-€50.000 inclusief partner-kosten, afhankelijk van de complexiteit van de modules en de mate van maatwerk. YouForce-implementaties zijn zwaarder: zes tot twaalf maanden zijn realistisch voor grote organisaties met meerdere vestigingen en complexe CAO-structuren, met implementatiekosten die snel oplopen tot €50.000-€150.000.
+
+Dit verschil heeft een directe impact op je businesscase. Een AFAS-implementatie bij 100 medewerkers heeft bij een jaarlijkse licentiebesparing van €20.000 ten opzichte van YouForce een terugverdientijd van één tot drie jaar op de implementatiekosten. Als je over twee jaar verwacht verder te groeien naar 300+ medewerkers met internationale vestigingen, is die berekening anders. Maar voor het merendeel van de Nederlandse MKB-bedrijven in het segment van 50-250 medewerkers is AFAS de economisch verstandigere keuze, simpelweg omdat de implementatie sneller en goedkoper is en de totale eigendomskosten over vijf jaar lager liggen.
+

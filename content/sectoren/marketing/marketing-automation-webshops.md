@@ -273,6 +273,16 @@ Marketing automation die omzet genereert, moet ook aansluiten op je financiele a
 
 Webshops die ook een B2B-klantensegment bedienen, hebben baat bij een CRM naast hun marketingtool. Op de pagina [CRM voor SaaS-startups](/sectoren/crm/crm-voor-saas-startups/) staan lichtgewichte CRM-opties die goed werken voor snelgroeiende e-commerce bedrijven.
 
+## Abandoned cart automations: wat werkt en wat niet
+
+De abandoned cart email is voor webshops de meest bekende automation — en ook de meest misbruikte. Een slecht opgezette abandoned cart reeks irriteert klanten meer dan dat hij converteert. Hier is wat ik in de praktijk zie werken.
+
+Timing is het belangrijkste onderschatte element. De eerste abandoned cart mail stuur je één uur na het verlaten van de winkelwagen — niet tien minuten later (te opdringerig), niet een dag later (te laat). Na één uur is de intentie nog warm maar heeft de klant tijd gehad om na te denken. De openrate van mails verstuurd na één uur is gemiddeld 40-50% hoger dan die van mails verstuurd na 24 uur.
+
+De tweede mail in de reeks stuur je na 24 uur, de derde na 72 uur. Meer dan drie mails over hetzelfde verlaten winkelwagentje beschadigen je reputatie bij de klant. Klaviyo analyseert de timing automatisch per winkel en stelt de optimale tijden voor op basis van historische conversiedata.
+
+Wat je in de tekst plaatst, maakt meer verschil dan de meeste webshops denken. De meest converterende abandoned cart mails zijn die waarbij je de afbeelding van het product toont, de prijs noemt en één concrete reden geeft om terug te komen. Dat kan een garantie zijn, een klantenservice-link of een inhoudelijke vraag: "Heb je vragen over dit product?" Geen korting in de eerste mail — dat traint klanten om winkelmandjes te verlaten als ze op een korting wachten.
+
 {{< sector-cta-marketing >}}
 
 ## Lees ook

@@ -546,3 +546,23 @@ De sales software markt verandert snel. In 2025-2026 zien we een sterke opkomst 
 **Deal intelligence:** Salesforce Einstein signaleert automatisch welke deals risico lopen ("deal rot") als er te lang geen activiteit is geweest, en stelt de volgende beste actie voor.
 
 Deze AI-functies zijn nog niet perfect, maar verbeteren snel. De verwachting is dat een salesteam van dezelfde omvang in 2027 significant meer deals kan verwerken door betere AI-ondersteuning.
+
+## Kostenanalyse: sales software voor het MKB
+
+| Tool | Per gebruiker/jaar | Beste voor | Gratis tier? |
+|------|-------------------|-----------|-|
+| HubSpot Sales Hub Starter | €180 | Kleine teams, starters | Ja (Free CRM) |
+| Pipedrive Essential | ~€168 | Pipeline-management | 14 dgn trial |
+| Salesforce Starter | ~€300 | Groeiende teams | Nee |
+| Apollo.io Basic | ~€480 | Prospecting + outreach | Ja (beperkt) |
+| Close CRM Startup | ~€684 | Outbound sales, calls | Nee |
+
+Voor kleine MKB-teams van 1-5 verkopers is HubSpot Free CRM + Sales Hub Starter de sterkste combinatie van gratis startpunt en betaalbare upgrade. Pas bij grotere teams of complexe salesprocessen is Salesforce gerechtvaardigd.
+
+## Sector-specifieke aanbevelingen voor sales software
+
+**B2B-dienstverlening:** HubSpot of Pipedrive. De visuele pipeline van Pipedrive is uitstekend voor dienstverleners met een duidelijk meerstappen-verkoopproces. HubSpot als u ook marketing en klantenservice wil integreren.
+
+**SaaS en tech-bedrijven:** Salesforce of HubSpot Sales Hub Professional. Complexe deals met meerdere stakeholders vragen om diepgaand accountbeheer en rapportages.
+
+**Outbound sales teams:** Close CRM of Apollo.io. Als bellen en e-mail sequencing de kern van uw salesproces zijn, wint Close CRM door de ingebouwde Power Dialer. Apollo.io is sterk voor het vinden en benaderen van nieuwe prospects via geautomatiseerde sequenties.

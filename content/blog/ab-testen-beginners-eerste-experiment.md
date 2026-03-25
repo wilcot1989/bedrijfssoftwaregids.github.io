@@ -181,6 +181,16 @@ Het tweede alternatief is heatmap-analyse. Tools als Hotjar of Microsoft Clarity
 
 De volgorde is dus: begrijp eerst het gedrag van je bezoekers, verbeter dan op basis van inzicht, en toets daarna met data.
 
+## Welke tools gebruik je voor A/B testen als MKB?
+
+Voor wie wil beginnen, zijn er drie categorieën tools. De eerste is ingebouwde A/B testfunctionaliteit in je bestaande e-mail of marketingplatform: Brevo, Mailchimp en ActiveCampaign hebben allemaal native A/B tests voor e-mailcampagnes. Dat is het makkelijkste startpunt.
+
+De tweede categorie is website A/B testsoftware: Google Optimize (inmiddels stopgezet), VWO en Convert zijn bekende opties. Voor MKB zonder groot budget is Microsoft Clarity gratis en biedt beperkte experimentfunctionaliteit. AB Tasty is een Nederlandse optie met goede ondersteuning.
+
+De derde categorie is CRO-platforms die A/B tests combineren met heatmaps en sessie-opnames: Hotjar, Crazy Egg en FullStory. Die zijn minder gericht op A/B testen maar bieden het kwalitatieve inzicht dat je nodig hebt om goede hypotheses te formuleren.
+
+Mijn advies: begin met de A/B testfunctie in je bestaande marketingtool, doe je eerste vijf tests daarmee, en kijk dan pas of gespecialiseerde testsoftware nodig is.
+
 ---
 
 **Lees ook:**

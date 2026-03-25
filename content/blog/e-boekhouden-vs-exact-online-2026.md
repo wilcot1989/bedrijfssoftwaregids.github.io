@@ -379,4 +379,10 @@ Voor een startend zzp'er is e-Boekhouden de logische keuze: lage prijs (€9,95/
 - [SnelStart vs Exact Online 2026](/blog/snelstart-vs-exact-online-2026/) — voor wie twijfelt tussen deze twee
 - [Moneybird vs e-Boekhouden 2026](/blog/moneybird-vs-e-boekhouden-2026/) — vergelijking met een sterk alternatief
 
+## Welke sector kiest wat?
+
+In de Nederlandse markt zijn er duidelijke patronen in wie welk pakket kiest. Starters en ZZP'ers in creatieve beroepen — grafisch ontwerpers, fotografen, tekstschrijvers — kiezen overwegend voor e-Boekhouden vanwege de lage prijs en eenvoudige factuurmodule. Hun administratie is eenvoudig: facturen sturen, bonnetjes boeken, kwartaalse BTW-aangifte. Groeiende MKB-bedrijven in de handel of productie kiezen voor Exact Online zodra ze merken dat e-Boekhouden's beperkte voorraadfuncties en rapportages te krap worden. De overgang vindt in mijn ervaring plaats rond de 5-10 medewerkers, wanneer de administratie complex genoeg wordt om te profiteren van Exact's uitgebreidere modules.
+
+Een migratietip voor wie van e-Boekhouden naar Exact Online overstapt: exporteer je rekeningschema, openstaande posten en jaarbalansen als Excel-bestanden. Exact Online heeft een importfunctie voor beginbalansen. Historische transacties hoef je niet over te zetten — bewaar die in e-Boekhouden als archief; je kunt het account gedurende een leesperiode actief houden voor navraag. De volledige migratie van een gemiddelde ZZP-administratie naar Exact duurt twee tot vier uur als je goed voorbereidt.
+
 *Prijzen en functies laatst gecheckt: maart 2026.*

@@ -282,6 +282,16 @@ De zorgsector staat voor een structurele personeelskrapte. HR-software gaat een 
 
 Voor kleine zorgpraktijken die nu met Loket.nl werken, is de verwachting dat ook hier AI-gestuurde functies beschikbaar komen — zij het later dan bij de grotere spelers. De keuze voor je HR-systeem is een keuze voor minstens drie tot vijf jaar. Investeer in een systeem dat actief doorontwikkeld wordt en de zorgsector serieus neemt als focusmarkt.
 
+## BIG-register en diploma-bewaking: hoe HR-software dat ondersteunt
+
+Voor zorgorganisaties is de bewaking van BIG-registraties en diploma's meer dan een administratieve formaliteit — het is een wettelijke vereiste. Een zorgprofessional die werkt met een verlopen BIG-registratie legt de organisatie bloot aan juridische aansprakelijkheid bij incidenten en kan leiden tot intrekking van de erkenning door de IGJ.
+
+In de praktijk zie ik dat kleine en middelgrote zorgorganisaties dit nog altijd in Excel bijhouden. Dat werkt zolang het team klein is, maar zodra je vijftien of meer medewerkers hebt met elk meerdere registraties en diploma's, wordt de kans op een gemist verloopdatum reëel.
+
+Een goed HR-systeem voor de zorg bewaakt alle certificeringen automatisch en stuurt een melding — standaard vier tot acht weken voor de verloopdatum — naar de HR-manager en de medewerker zelf. AFAS en Visma Raet bieden dit natively; bij Loket.nl is het een optionele uitbreiding.
+
+Een bijkomend voordeel van geautomatiseerde certificeringsbewaking: bij een inspectie of audit kun je binnen minuten een overzicht genereren van alle medewerkers met hun actuele BIG-registratiestatus en diploma-overzicht. Dat is aanzienlijk professioneler dan een Excel-bestand dat misschien up-to-date is.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

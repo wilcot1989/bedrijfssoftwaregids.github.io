@@ -279,6 +279,16 @@ MKB-bedrijven groeien niet lineair, en je HR-software moet meegroeien. Dit is he
 
 Ik raad MKB-bedrijven aan om bij de selectie een jaar vooruit te denken: kies niet voor het systeem dat nu perfect past, maar voor het systeem dat ook bij dertig procent meer medewerkers nog goed werkt. De overstap van Loket.nl naar AFAS kost drie tot zes maanden implementatie. Als je die overstap pas maakt als het echt nodig is, heb je drie tot zes maanden lang suboptimale HR-processen.
 
+## Wat MKB-bedrijven over het hoofd zien bij HR-softwarekeuze
+
+De meeste MKB-ondernemers die ik spreek, kiezen HR-software op basis van de salarisverwerking. Dat is logisch — dat is het meest zichtbare pijnpunt. Maar wat ze vergeten: de waarde van een goed HR-systeem zit voor een groot deel in de tijdsbesparing op alles wat naast de salarisverwerking komt. Verlofregistratie. Verzuimopvolging. Contractbeheer. Documenten delen met medewerkers.
+
+Een paar concrete voorbeelden. Verlof bijhouden in een Excel-bestand kost bij tien medewerkers al snel een uur per maand in het bijwerken, controleren en communiceren over de saldi. Een HR-systeem met een selfserviceportal doet dat volledig automatisch: medewerkers vragen verlof aan via de app, de leidinggevende keurt goed of af, de saldi worden bijgewerkt zonder dat jij iets hoeft te doen.
+
+Contractbeheer is een tweede onderschat voordeel. Tijdelijke contracten die bijna verlopen, probeerperiodes die aflopen, cao-aanpassingen die doorvertaald moeten worden naar salarisschalen — een goed HR-systeem bewaakt deze datums automatisch. Zonder systeem verlopen contracten stilletjes, of worden cao-verhogingen te laat doorgevoerd, wat leidt tot naheffingen.
+
+Mijn advies voor MKB-bedrijven die twijfelen over de investering: bereken wat je nu per maand kwijt bent aan handmatige HR-administratie. Tien uur per maand bij een intern tarief van €50 is €500 per maand, of €6.000 per jaar. De meeste HR-pakketten voor tien tot twintig medewerkers kosten minder dan €200 per maand. De terugverdientijd is bij de meeste bedrijven korter dan drie maanden.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

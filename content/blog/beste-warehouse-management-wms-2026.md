@@ -552,3 +552,14 @@ Voor de meeste MKB-magazijnen is batch picking de meest efficiënte methode. Log
 ### Kan WMS-software ook producten beheren met meerdere varianten (maten, kleuren)?
 
 Ja. Alle vier de tools ondersteunen varianten (SKU-varianten). Je beheert één productrecord met meerdere sub-SKU's per variant. Dit is standaard bij mode, schoenen en lifestyle-producten. Logiwa en inFlow zijn het sterkst in variant-management voor webshops.
+
+## Implementatietips voor warehouse management software
+
+**Inventariseer uw locatie-structuur voor de implementatie.**
+Een WMS werkt op basis van locaties: gangpaden, rekken, schappen, posities. Definieer uw locatie-indeling zorgvuldig voordat u artikelen registreert. Eén logisch systeem (bijv. A-01-01 voor gang A, rek 1, positie 1) maakt picken aanzienlijk sneller.
+
+**Train pick-medewerkers met echte orders, niet met testdata.**
+De meeste WMS-leveranciers bieden een sandbox-omgeving voor training. Maar de beste training is met echte orders in een gecontroleerde omgeving. Plan een stille periode voor de go-live en laat medewerkers de eerste week met begeleiding werken.
+
+**Meet uw foutpercentage voor en na implementatie.**
+Definieer welke fouten u meet: verkeerde aantallen, verkeerde artikelen, verzenddatumsfouten. Leg de nulmeting vast. Na 90 dagen vergelijkt u: is het foutpercentage gedaald? Is de pick-tijd verbeterd? Dit geeft u de data om de ROI aan te tonen.

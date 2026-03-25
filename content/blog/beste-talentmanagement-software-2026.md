@@ -471,3 +471,30 @@ Mijn eindadvies:
 - **Meet wat er verandert.** Stel een nulmeting in voor engagement, verloop en productiviteit vóór de implementatie en meet opnieuw na 12 maanden.
 
 Voor de meeste Nederlandse MKB-bedrijven is Leapsome de beste balans tussen functionaliteit, Europese compliance en prijs. Voor bedrijven die starten: probeer 15Five als laagdrempelige instap en upgrade zodra u de waarde van continue feedback heeft bewezen in uw organisatie.
+
+## Sector-specifieke aanbevelingen voor talentmanagement software
+
+De best passende talentmanagement tool verschilt per sector. Hier zijn mijn aanbevelingen op basis van branchespecifieke behoeften.
+
+**Technologiebedrijven en scale-ups:**
+Lattice of Leapsome zijn hier de beste keuzes. Technologiebedrijven hebben doorgaans een OKR-cultuur (Objectives & Key Results) en verwachten van medewerkers dat ze zelfstandig doelen stellen en bijhouden. Beide platforms ondersteunen OKR-management diepgaand.
+
+**Zakelijke dienstverlening (consultancy, advies, accountancy):**
+Leapsome of 15Five. De nadruk op persoonlijke ontwikkeling en continue feedback sluit goed aan bij kennisintensieve bedrijven waar de expertise van medewerkers de kern van het product is.
+
+**Retail en horeca met veel vaste medewerkers:**
+15Five Engage voor engagement-meting en basisperformance. Uitgebreide talentmanagement features zijn voor deze sector minder relevant; de focus ligt op retentie en tevredenheid.
+
+**Zorg en onderwijs:**
+Bob (HiBob) of BambooHR als HCM-platform dat ook talentmanagement-functies bevat. Gespecialiseerde talentmanagement-tools zijn voor deze sectoren vaak te complex en te duur.
+
+## Veelgemaakte fouten bij talentmanagement implementatie
+
+**Fout 1: Talentmanagement als HR-project, niet als managementtool.**
+De grootste fout is dat HR het systeem implementeert en beheert, maar de managers het nauwelijks gebruiken. Talentmanagement werkt alleen als managers actief betrokken zijn bij performance-gesprekken, doelen stellen en feedback geven. Zorg voor management-training en buy-in voordat u live gaat.
+
+**Fout 2: Te veel functionailes tegelijk activeren.**
+Performance reviews, OKR's, 360-graden feedback, engagement-surveys, leermodules — al deze functies tegelijk activeren overweldigt medewerkers en managers. Start met één module (performance conversations of doelstelling), laat het wennen, en voeg daarna pas de volgende toe.
+
+**Fout 3: Geen verbinding met beloning.**
+Talentmanagement-data heeft alleen waarde als er consequenties aan verbonden zijn. Als uitstekende prestaties niet leiden tot positieve erkenning (salaris, promotie, extra verantwoordelijkheid), verliest het systeem zijn geloofwaardigheid. Zorg dat de uitkomsten van performance-reviews expliciet verbonden zijn aan beloningsbeleid.

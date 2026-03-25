@@ -447,6 +447,58 @@ NordLayer heeft apps voor iOS en Android met dezelfde functies als de desktop-ap
 - Kill switch (verbinding verbreekt als VPN uitvalt)
 - Beheer via dezelfde admin-console als desktop-apparaten
 
+## VPN-kosten per bedrijfsomvang: volledige vergelijkingstabel 2026
+
+Een zakelijke VPN-investering moet budgettair verantwoord zijn. Hier is een overzicht van de werkelijke jaarkosten per bedrijfsgrootte voor de tools in dit artikel.
+
+| Provider | 5 gebruikers | 15 gebruikers | 50 gebruikers |
+|----------|-------------|--------------|--------------|
+| NordLayer Basic | €420/jaar | €1.260/jaar | €4.200/jaar |
+| NordLayer Advanced | €600/jaar | €1.800/jaar | €6.000/jaar |
+| Perimeter81 Essentials | €720/jaar | €2.160/jaar | €7.200/jaar |
+| Perimeter81 Premium | €1.200/jaar | €3.600/jaar | €12.000/jaar |
+| ExpressVPN Teams | €800/jaar | €2.400/jaar | €8.000/jaar |
+| Cisco Meraki VPN | Hardware + licentie | Vanaf €2.000/jaar | Variabel |
+| Mullvad Business | €228/jaar | €684/jaar | €2.280/jaar |
+
+*Prijzen zijn indicatief en op basis van gepubliceerde abonnementstarieven — vraag altijd een offerte aan bij Cisco Meraki en Perimeter81 voor grotere teams.*
+
+## Veelgemaakte fouten bij VPN-implementatie
+
+In mijn adviespraktijk zie ik bij MKB-bedrijven steeds dezelfde implementatiefouten terugkomen. Hier zijn de vijf die het meest voorkomen.
+
+**Fout 1: VPN alleen op laptops, niet op smartphones.**
+Medewerkers gebruiken zakelijke e-mail en apps ook op hun telefoon, vaak op openbare wifi. Een VPN die alleen op laptops is geïnstalleerd, laat een groot beveiligingsgat open. Zorg dat de uitrol ook Android- en iOS-apparaten omvat.
+
+**Fout 2: Kill switch niet inschakelen.**
+Een kill switch verbreekt de internetverbinding als de VPN-verbinding wegvalt. Zonder kill switch werkt het apparaat gewoon door op de onbeveiligde verbinding als de VPN even weg is. Dat is precies het moment dat de beveiliging faalt. Schakel de kill switch altijd in op het beheerdersniveau.
+
+**Fout 3: Geen MFA instellen.**
+Een VPN-account zonder multi-factor authenticatie is kwetsbaar voor accountovername via gestolen wachtwoorden. Koppel uw VPN aan een authenticator-app (Google Authenticator, Microsoft Authenticator) of gebruik SSO met MFA via Azure AD of Google Workspace.
+
+**Fout 4: Split tunneling te royaal instellen.**
+Split tunneling kan de VPN-belasting verminderen, maar als u te veel verkeer buiten de VPN laat, beschermt u data die u juist wilde beveiligen. Definieer zorgvuldig welk verkeer via de VPN moet en welk niet — en documenteer die keuze.
+
+**Fout 5: VPN niet testen op performance voor kritieke applicaties.**
+Videovergaderen via Teams of Zoom kan merkbaar trager worden via een VPN met hoge latency. Test de VPN-performance voor de meest gebruikte applicaties voordat u de uitrol doet, zodat u niet verrast wordt door klachten van medewerkers.
+
+## NIS2-richtlijn en zakelijke VPN: wat u moet weten
+
+Vanaf oktober 2024 is de NIS2-richtlijn van kracht in Nederland. NIS2 stelt aanvullende cybersecurityeisen aan organisaties in kritieke en belangrijke sectoren. Wat betekent dit voor uw VPN-gebruik?
+
+**Organisaties die onder NIS2 vallen** zijn onder meer: energie, transport, gezondheidszorg, drinkwater, digitale infrastructuur, en een brede categorie van 'belangrijke entiteiten' waaronder veel MKB-bedrijven.
+
+**VPN als NIS2-maatregel:**
+Een zakelijke VPN voldoet aan meerdere NIS2-vereisten:
+- Versleuteling van datatransport (artikel 21, lid 2, punt h)
+- Beveiligde toegang voor thuiswerkers en externe medewerkers
+- Documenteerbare technische maatregel bij een audit
+
+**VPN is niet voldoende alleen:**
+NIS2 vereist een breder beveiligingsbeleid: risicobeheer, incidentmeldingsprocessen, beveiliging van de toeleveringsketen en back-ups. Een VPN is één bouwsteen in een groter geheel.
+
+**Praktisch advies:** Als uw organisatie in een NIS2-sector valt, documenteer dan uw VPN-gebruik als onderdeel van uw beveiligingsdocumentatie. NordLayer en Perimeter81 bieden beide admin-rapportages waarmee u VPN-gebruik kunt exporteren voor compliancedoeleinden.
+
 **Aanbeveling:** Stel in de NordLayer-admin in dat medewerkers de VPN automatisch starten bij verbinding met publieke wifi-netwerken. Op kantoor-wifi is verbinding optioneel; overal anders verplicht.
 
 ---

@@ -453,3 +453,32 @@ Voor Buffer: 30-60 minuten inclusief kanalen verbinden en eerste posts inplannen
 
 ---
 
+
+## Kostenanalyse: wat kost social media management software per jaar?
+
+Social media tools variëren enorm in prijs. Hier is een overzicht van de werkelijke jaarkosten voor MKB-gebruik.
+
+| Tool | Basis-tier/jaar | Zakelijk/jaar | Opmerking |
+|------|----------------|--------------|-----------|
+| Buffer Essentials | ~€72/kanaal | ~€216 (3 kanalen) | Per kanaal geprijsd |
+| Later Starter | €216 | €648 | Per social set |
+| SocialBee Pro | €444 | €444 | Onbeperkt kanalen |
+| Hootsuite Professional | €1.188 | €1.188 | 1 gebruiker |
+| Hootsuite Team | €7.188 | €7.188 | 3 gebruikers |
+| Sprout Social | €2.988 | €5.988 | Per gebruiker |
+
+Voor de meeste kleine MKB-bedrijven met één persoon verantwoordelijk voor social media is Buffer of Later het meest betaalbaar. Hootsuite is pas interessant als je ook social listening en uitgebreide team-workflows nodig hebt. Sprout Social is voor grotere marketingteams of bureaus.
+
+## Veelgemaakte fouten bij social media planning-tools
+
+**Fout 1: Dezelfde post naar alle platforms sturen zonder aanpassing.**
+De meeste tools bieden een "post naar alle kanalen tegelijk" knop. Maar een LinkedIn-post die werkt (informatief, wat langer, professioneel) werkt niet op Instagram (visueel, korte caption, hashtags) of TikTok (conversationeel, trending audio). Gebruik de bulk-functie alleen voor updates die echt identiek zijn.
+
+**Fout 2: De analytics negeren.**
+Plannen is één ding; leren wat werkt is het andere. Kijk minimaal één keer per maand naar je analytics: welke posts hadden het meeste bereik, de meeste interactie, de meeste doorkliks? Gebruik die inzichten om je volgende planningsperiode te verbeteren.
+
+**Fout 3: Te veel kanalen tegelijk beheren.**
+Beter goed aanwezig op twee platforms dan matig op vijf. Kies de twee platforms waar uw doelgroep het meest actief is en focus daar op. Social media management tools leiden je er niet toe om meer kanalen te kiezen dan verstandig is.
+
+**Fout 4: Geen evergreen content hergebruiken.**
+Het meeste sociale media content is eenmalig. Maar informationele posts over uw expertise — tips, inzichten, how-to's — kunnen worden hergebruikt met SocialBee's "recycling" functie. Dit bespaart uren aan content-creatie per maand.

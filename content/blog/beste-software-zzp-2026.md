@@ -507,3 +507,11 @@ De meeste boekhoudpakketten kunnen je BTW-aangifte automatisch berekenen en indi
 
 **Rittenadministratie**
 Als je zakelijke kilometers rijdt, heb je recht op €0,23/km belastingvrij (2026). Apps als Mileage Log, TripLog of de ingebouwde kilometerregistratie van Jortt houden dit automatisch bij via GPS. Zonder goede rittenadministratie loop je aftrekposten mis.
+
+## De meest gemaakte fout bij ZZP-software: te lang wachten
+
+Veel ZZP'ers beginnen met Excel of niets, en schakelen pas over op software als het al te laat is — als de belastingdienst om een correcte administratie vraagt, of als ze een groot project aannemen en merken dat hun papieren factuur niet professioneel overkomt.
+
+Mijn advies: begin met een boekhoud-app bij de eerste factuur die u verstuurt. Moneybird biedt een gratis plan dat al het meeste biedt wat een startende ZZP'er nodig heeft. U bouwt direct een correcte administratie op, u weet altijd wat er openstaat, en u bent klaar voor de btw-aangifte zonder last-minute paniek.
+
+De investering in software is ook fiscaal aftrekbaar als zakelijke kosten. Bij de meeste ZZP'ers valt de jaarkosten van een boekhoudpakket volledig weg tegen de uren die het bespaart.

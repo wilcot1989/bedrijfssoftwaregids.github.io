@@ -518,3 +518,28 @@ Activeer het systeem voor een beperkte groep klanten. Controleer of de herinneri
 
 **Stap 5: Volledige uitrol en monitoring (week 3)**
 Activeer het systeem voor alle debiteuren. Monitor wekelijks de DSO en het percentage openstaande facturen. Na 60-90 dagen heeft u een eerlijk beeld van de verbetering ten opzichte van de nulmeting.
+
+## Sector-specifieke aanbevelingen voor debiteurenbeheer
+
+**Zakelijke dienstverlening (advies, IT, juridisch):**
+Payt of Yuki's debiteuren-module. Dienstverleners werken met projectfacturen met langere betaaltermijnen. Automatische herinneringen en dossiervorming voor incasso zijn de meest waardevolle functies.
+
+**Bouw en installatie:**
+Exact Online of AFAS met debiteuren-module. De integratie met projectadministratie is hier belangrijker dan bij andere sectoren: factuurmijlpalen, termijnbetalingen en bouwdepots vragen om specifieke debiteuren-configuratie.
+
+**Groothandel en productie:**
+Snelstart of Exact Online voor de combinatie van debiteurenbeheer met voorraad en inkoop. Groothandels hebben vaak hoge debiteurenposities met weinig maar grote klanten; persoonlijk contact bij achterstalligheid is relevanter dan geautomatiseerde herinneringsreeksen.
+
+**MKB divers (minder dan 500 facturen per jaar):**
+Moneybird Business heeft een ingebouwde herinneringsfunctie die voor de meeste kleine bedrijven voldoende is zonder een aparte debiteuren-tool. Pas als uw DSO (Days Sales Outstanding) structureel boven de 45 dagen uitkomt, is een gespecialiseerde tool gerechtvaardigd.
+
+## Veelgemaakte fouten bij debiteurenbeheer
+
+**Fout 1: Herinneringen sturen zonder te kijken naar de klantrelatie.**
+Een geautomatiseerde herinnering die naar een grote, loyale klant gaat terwijl u weet dat er een betalingsprobleem is, kan de relatie schaden. Maak in uw debiteurensoftware een onderscheid tussen automatische herinneringen voor kleine/nieuwe klanten en handmatige opvolging voor strategische klantrelaties.
+
+**Fout 2: De DSO niet maandelijks meten.**
+Days Sales Outstanding — het gemiddeld aantal dagen tussen factuurdatum en betaling — is de beste maatstaf voor de gezondheid van uw debiteurenbeheer. Als u dit niet meet, weet u niet of uw aanpak werkt. Stel een maandelijkse rapportage in en vergelijk met de vorige maand en hetzelfde kwartaal vorig jaar.
+
+**Fout 3: Wachten met incasso tot het te laat is.**
+De kans op inning daalt significant na 90 dagen. Na 180 dagen is de kans op volledige inning al onder de 50%. Stel een duidelijk escalatiepad in: herinnering na 14 dagen, aanmaning na 30 dagen, incasso-overdracht na 60-90 dagen achterstand.

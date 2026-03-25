@@ -260,6 +260,14 @@ Een goede CRM-implementatie in de bouw begint niet bij de software maar bij het 
 
 De bouw is een relatiegedreven sector. Een opdrachtgever die tevreden is over een verbouwing, komt over drie jaar terug voor een aanbouw. Een architect die je kent, kan je bij tien projecten aanbevelen. Een CRM dat die relaties bijhoudt en je herinnert aan opvolging, is het verschil tussen een reactief en een proactief bouwbedrijf. De aannemers die dit goed doen, groeien sneller dan hun concurrenten -- niet doordat ze beter bouwen, maar doordat ze beter onderhouden.
 
+## CRM koppelen aan je bestaande bouwsoftware
+
+Bouwbedrijven werken doorgaans al met een of meer systemen: een calculatieprogramma, AFAS of een andere bouw-ERP, Exact Online voor de boekhouding. De vraag is hoe een CRM daarin past zonder dat data dubbel ingevoerd moet worden.
+
+De meest gekozen koppeling bij middelgrote aannemers is Pipedrive of HubSpot gekoppeld aan Exact Online. Als een offerte in het CRM de status "gewonnen" krijgt, wordt er automatisch een klant aangemaakt in Exact Online en een concept-factuur of projectorder klaargemaakt. Dat bespaart bij elk gewonnen project twintig tot dertig minuten handmatige invoer.
+
+Voor bedrijven die met AFAS werken is de situatie anders: AFAS heeft een eigen CRM-module. De keuze is dan of je de AFAS-module gebruikt (minder flexibel maar geen extra koppelingskosten) of een extern CRM koppelt via de AFAS-API (meer flexibel maar meer beheerwerk). In mijn ervaring werkt de AFAS-CRM-module prima voor bouwbedrijven waarbij de koppeling met de projectadministratie leidend is. Bedrijven die primair op salesfunctionaliteit sturen, kiezen liever voor Pipedrive of HubSpot.
+
 {{< sector-cta-crm >}}
 
 ## Lees ook

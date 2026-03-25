@@ -264,6 +264,18 @@ Kapsalons hebben de unieke behoefte om afsprakenbeheer en kassafunctionaliteit t
 
 **De combinatie:** Voor grotere kapsalons is de combinatie van een dedicated afsprakentool (Treatwell of Salonized) met Square als kassa de meest gebruikte setup. Klanten boeken online via Treatwell; de kapper verwerkt de betaling en productverkoop via Square. Je hebt twee systemen, maar elk doet precies waarvoor het gebouwd is.
 
+## Kapsalon kassasysteem en de Belastingdienst: wat je moet weten
+
+De Belastingdienst houdt specifiek toezicht op sectoren met veel contante betalingen — en de kappersbanche valt daar traditioneel onder. Dat betekent niet dat elke kapper wordt gecontroleerd, maar het betekent wel dat je administratie waterdicht moet zijn als het zover komt.
+
+Drie punten zijn voor kappers en schoonheidssalons specifiek relevant. Allereerst: elk kassasysteem dat je gebruikt moet alle transacties registreren, inclusief annuleringen en kortingen. Een systeem waarbij je een bon kunt verwijderen zonder dat er een spoor achterblijft, voldoet niet aan de fiscale bewaarplicht.
+
+Ten tweede is de BTW-indeling in een kapsalon ingewikkelder dan in een eenvoudige winkel. Diensten (knippen, kleuren, behandelingen) vallen doorgaans onder het lage BTW-tarief van 9%. Producten die je verkoopt aan klanten (shampoo, haarlak, serums) vallen onder het hoge tarief van 21%. Dat onderscheid moet je kassasysteem correct bijhouden en apart registreren. Een kassa die alle omzet op één BTW-code zet, geeft bij een controle een vertekend beeld van de afgedragen belasting.
+
+Ten derde: bewaar alle kassadata zeven jaar. Square, Zettle en Lightspeed doen dit automatisch in de cloud. Controleer bij je leverancier wat er met je data gebeurt als je het abonnement opzegt — sommige aanbieders verwijderen data binnen twee à drie maanden na opzegging.
+
+Mijn advies: combineer je kassasoftware altijd met een boekhoudpakket. De koppeling zorgt dat je dagomzet automatisch in de boekhouding terechtkomt, wat de kwartaalaangifte terugbrengt van uren naar minuten.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

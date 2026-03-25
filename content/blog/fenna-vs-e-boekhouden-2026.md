@@ -392,3 +392,7 @@ Lees meer over de vergelijkingsmethode op de [keuzehulp pagina](/tools/boekhoudi
 - [Alle boekhoudsoftware vergelijken](/categories/boekhouding/)
 
 Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of lees het overzicht van [boekhoudsoftware voor ZZP'ers](/sectoren/boekhouding/boekhoudsoftware-zzp/).
+
+## Prijzen en wat je er voor krijgt in 2026
+
+De prijzen van fENNA en e-Boekhouden liggen dichter bij elkaar dan ze op het eerste gezicht lijken. fENNA's populairste plan kost €9,95 per maand bij jaarlijkse betaling, e-Boekhouden €9,95 per maand. Op maandprijsniveau is er geen verschil. Waar het verschil zit: e-Boekhouden biedt op dat niveau dubbel boekhouden en uitgebreidere rapportages, terwijl fENNA op hetzelfde niveau puur gefocust is op facturen en BTW. Voor ZZP'ers die nooit behoefte hebben aan diepgaande winst-en-verliesrekeningen is fENNA voldoende. Voor wie toch af en toe een balansrapportage wil presenteren aan een bank of investeerder, biedt e-Boekhouden meer op hetzelfde prijsniveau. De keuze hangt dus minder af van prijs en meer van welke functies je daadwerkelijk nodig hebt buiten de basisfacturatie.

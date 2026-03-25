@@ -253,6 +253,16 @@ Gebruik de retourenmodule om de transactie te corrigeren. Maak nooit handmatig e
 **Hoeveel kost het gemiddeld om een kassasysteem volledig te laten installeren door een professional?**
 Een professionele installatie voor één locatie kost doorgaans €200-500 voor een eenvoudig systeem, en €500-1.500 voor een restaurant met keukenprinters, meerdere terminals en boekhoudkoppeling. Dat klinkt als veel, maar het bespaart de stress van een mislukte opening en fouten in de BTW-configuratie die later duurder zijn om te herstellen.
 
+## Dertig dagen na de opening: de eerste evaluatie
+
+Na een maand operationele ervaring zie je wat je bij de inrichting had willen weten. Dat is het moment voor een eerste evaluatie.
+
+Loop de BTW-aangifte door en vergelijk de geconfigureerde tarieven met de daadwerkelijk geboekte categorieën. Controleer of de totaalomzet in het kassasysteem overeenkomt met de totaalomzet in je boekhouding — een afwijking van meer dan 1% is een signaal dat er iets in de koppeling niet klopt.
+
+Vraag je medewerkers welke handelingen ze onhandig vinden. Na een maand dagelijks gebruik hebben ze concrete feedback die bij de inrichting nog niet te voorspellen was. Kleine aanpassingen — een kortere knoprij, een andere volgorde van categorieën — kunnen de afrekentijd per klant met twintig seconden verkorten. Bij honderd transacties per dag is dat meer dan een half uur minder wachttijd.
+
+Controleer ook of je de dagsluiting elke dag consequent uitvoert. De meeste kassasystemen koppelen automatisch naar de boekhouding na de dagsluiting. Een gemiste dagsluiting betekent een dag zonder automatische import — dat herstel je handmatig.
+
 **Lees ook:**
 - [Beste kassasysteem horeca 2026: eerlijke vergelijking](/blog/beste-kassasysteem-horeca-2026/)
 - [Fiscale eisen kassasysteem 2026: wat moet jouw kassa kunnen?](/blog/fiscale-eisen-kassasysteem-2026/)

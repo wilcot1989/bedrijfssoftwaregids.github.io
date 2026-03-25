@@ -659,3 +659,11 @@ Afsprakensoftware werkt goed voor gestructureerde afspraken met een vaste tijdsd
 - Je werkt met spoedafspraken die meteen ingepland moeten worden
 
 In die gevallen overweeg je een combinatie van afsprakensoftware voor routinegesprekken en een handmatig systeem voor complexe planning.
+
+## Veelgemaakte fouten bij afsprakensoftware
+
+**Fout 1: De agenda niet real-time synchroniseren.**
+Als uw beschikbaarheid in de afsprakentool niet gesynchroniseerd is met uw Google Calendar of Outlook, worden er dubbele boekingen gemaakt. Zorg dat de twee-richtings synchronisatie actief is en test dit met een testafspraak voordat u de tool aan klanten geeft.
+
+**Fout 2: Te weinig hersteltijd tussen afspraken.**
+Stel standaard 10-15 minuten buffer in tussen afspraken. Zonder buffer loopt het schema al bij de eerste vertraging uit de klok, en dat heeft een cascade-effect op de rest van de dag.

@@ -509,6 +509,10 @@ Benieuwd hoe Lightspeed zich verhoudt tot andere horecakassa's? Lees dan mijn [L
 
 *Prijzen en review scores laatst gecontroleerd: april 2026.*
 
+## Sectoradvies: voor wie is welk systeem het beste?
+
+Op basis van de implementaties en adviesgesprekken die ik heb gevoerd, zijn de sectorpatronen duidelijk. Horeca — cafés, restaurants, takeaways — kiest overwegend voor Lightspeed Restaurant vanwege de tafelindeling, splitsing van rekeningen en de koppeling met reserveringsplatforms als Formitable. Square heeft geen horeca-specifieke functies voor tafelservice en is daarmee voor dit segment minder geschikt. Detailhandel met lage tot gemiddelde omzet — kleding, cadeauartikelen, bloemenwinkel — kan goed starten met Square: het maandabonnement is er niet of laag, en de transactiekosten bij beperkt volume zijn te overzien. Detailhandel die doorgroeit of meerdere locaties opent, stroomt bijna altijd door naar Lightspeed Retail voor de betere voorraadbeheer-functies en de schaalbare multi-vestigingopzet. Beauty en wellness — kappers, nagelsalons, massagepraktijken — zit in de tussenzone: Square biedt een eenvoudige afspraakmodule die voor dit segment volstaat, maar wie ook een webshop wil voor producten, merkt al snel dat Lightspeed's multi-channel aanpak sterker is.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/kassasystemen/keuzehulp/)**, bereken je **[kassasysteem kosten](/tools/kassasystemen/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/kassasystemen/)**.
 
 ## Praktische tip: zo reken je het omslagpunt uit voor jouw zaak

@@ -356,4 +356,8 @@ Laat me eerlijk zijn: beide pakketten doen wat ze moeten doen. Je BTW-aangifte i
 
 **Mijn advies**: probeer allebei. Moneybird heeft een gratis plan, e-Boekhouden een 15-dagen trial. Binnen een uurtje weet je welke beter voelt. Wil je ook mobiel boekhouden? Bekijk dan ons overzicht van de [beste boekhoud-apps](/blog/beste-boekhouder-app-2026/).
 
+## Wat het prijsverschil over drie jaar oplevert
+
+Voor een ZZP'er die de keuze maakt tussen Moneybird en e-Boekhouden is het nuttig om het rekenwerk te doen. e-Boekhouden kost €9,95 per maand, Moneybird's populairste plan kost €29 per maand. Dat verschil van €19,05 per maand is €228,60 per jaar en €685,80 over drie jaar. De vraag is of Moneybird's voordelen dat bedrag rechtvaardigen voor jouw specifieke situatie. Als je maandelijks tien tot vijftien facturen stuurt, je administratie grotendeels via de bankapp regelt en je boekhouder tweemaal per jaar inlogt om de aangifte te controleren, dan is het antwoord voor de meeste mensen: nee. e-Boekhouden doet het werk net zo goed. Als je echter meer dan twintig facturen per maand stuurt, werkt met Mollie of Stripe voor webshopbetalingen, of regelmatig op je telefoon facturen wilt aanmaken en goedkeuren, dan verdient Moneybird's modernere interface en betere mobiele app de meerprijs terug in tijdsbesparing. Eén uur minder administratie per maand bij een uurtarief van €50 is al €600 per jaar — meer dan het prijsverschil.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.

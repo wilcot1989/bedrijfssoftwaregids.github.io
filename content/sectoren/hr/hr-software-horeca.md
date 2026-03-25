@@ -279,6 +279,16 @@ Wat HR-software wél kan doen:
 
 Een laatste overweging: de horeca kent een unieke combinatie van hoog personeelsverloop en intieme werkrelaties. Je team is kleiner dan in de meeste andere sectoren, maar de band is hechter. Kies daarom HR-software die niet alleen efficient is, maar ook prettig in gebruik. Een rooster-app die medewerkers als nummers behandelt, werkt averechts. Shiftbase begrijpt dit: medewerkers kunnen onderling diensten ruilen, beschikbaarheid doorgeven en verlof aanvragen zonder dat de ondernemer erbij hoeft te zijn. Dat geeft medewerkers autonomie en vermindert de druk op jou als ondernemer.
 
+## Oproepkrachten en nuluren-contracten: hoe HR-software dat beheert
+
+De horecasector werkt met een hoog percentage oproepkrachten en medewerkers met een nuluren-contract. Dat brengt specifieke administratieve uitdagingen mee die generieke HR-software slecht ondersteunt.
+
+Een nuluren-medewerker heeft recht op uitbetaling van gewerkte uren per maand, met correct berekende toeslagen voor avonden, weekenden en feestdagen. De CAO Horeca kent tientallen toeslagpercentages. Een HR-pakket dat de CAO Horeca kent, berekent deze automatisch. Eén dat dat niet doet, vereist handmatige invoer per medewerker per dienst — wat bij tien oproepkrachten per week al een substantiële administratieve last is.
+
+Shiftbase is hier sterk in: de roosteringsmodule is speciaal gebouwd voor ploegen- en oproepplanningen en exporteert automatisch naar de salarisadministratie. De CAO Horeca is native ingebouwd, inclusief de toeslagtabellen. Dat bespaart een urenlange handmatige berekening per salarisronde.
+
+Een ander punt dat ik regelmatig aantref bij horecaondernemers: het niet bijhouden van beschikbaarheid van oproepkrachten. Als een oproepkracht zegt op vrijdag niet te kunnen maar dat nergens is vastgelegd, ontstaan er conflicten bij de planning. HR-software met een selfservice-portaal — waarbij medewerkers zelf hun beschikbaarheid invoeren — voorkomt dat. Medewerkers zijn verantwoordelijk voor hun eigen invoer, de leidinggevende plant op basis van beschikbare gegevens.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

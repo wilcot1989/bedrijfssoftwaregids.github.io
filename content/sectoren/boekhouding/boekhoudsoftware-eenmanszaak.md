@@ -295,6 +295,12 @@ Een eenmanszaak die groeit, loopt vroeg of laat aan tegen de grenzen van zijn hu
 
 Plan de overstap op 1 januari om een schone afsluiting van het vorige boekjaar te hebben. Zorg dat je boekhouder de openingsbalans voor je opstelt in het nieuwe systeem. Lees ook het artikel [overstappen van Exact Online naar Moneybird](/blog/overstappen-exact-online-naar-moneybird-2026/) — de migratieprincipes gelden voor elke boekhoudovergang.
 
+## Eenmanszaak met personeel: wanneer je de sprong naar uitgebreidere software moet maken
+
+Als eenmanszaak met één of twee medewerkers in dienst groei je snel voorbij de basisfunctionaliteit van de meeste instaptools. Het eerste moment dat je merkt dat je huidige pakket tekortschiet, is de salarisverwerking. [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) en Jortt zijn niet gebouwd voor salarisadministratie — daarvoor heb je een apart pakket nodig of een overstap naar een meer volledig systeem.
+
+Het tweede moment is rapportages. Zodra je aan de bank een overzicht moet leveren, of wilt weten per kwartaal hoe je marges zich ontwikkelen, schiet een basispakket tekort. [SnelStart](https://jf79.net/c/?si=16383&li=1703816&wi=418626&ws=&dl=) heeft een goed middenweg-aanbod voor eenmanszaken die groeien: salarisadministratie voor een medewerker is inbegrepen, rapportages zijn uitgebreider dan bij instappakketten, en de prijs is lager dan Exact Online.
+
 {{< sector-cta-boekhouding >}}
 
 ## Lees ook

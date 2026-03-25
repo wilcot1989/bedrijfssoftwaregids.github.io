@@ -647,3 +647,11 @@ De besparingen rechtvaardigen de investering bij vrijwel elk bedrijf met variabe
 - Tijdsbesparing roosterplanning: €2.000-€5.000/jaar
 - Minder loopfouten: €500-€1.000/jaar
 - Lager verloop door betere planningscommunicatie: €3.000-€10.000/jaar (1 medewerker minder vervangen)
+
+## Veelgemaakte fouten bij personeelsplanning software
+
+**Fout 1: Software kiezen zonder medewerkers te betrekken.**
+Personeelsplanning software wordt dagelijks gebruikt door medewerkers, niet alleen door managers. Betrek een paar medewerkers bij de proefperiode en vraag naar hun ervaring met de app. Een tool die medewerkers niet willen gebruiken, werkt niet.
+
+**Fout 2: De WAB-configuratie niet laten checken.**
+De Wet Arbeidsmarkt in Balans stelt specifieke eisen aan het registreren van oproepcontracten en tijdige roosterbekendmaking. Shiftbase heeft ingebouwde WAB-controles; configureer die voor u live gaat en laat uw HR-adviseur de instelling bevestigen.

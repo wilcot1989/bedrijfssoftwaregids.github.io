@@ -272,6 +272,18 @@ AFAS lijkt het duurst, maar dat beeld verschuift als je besparingen meeneemt: mi
 
 {{< sector-cta-boekhouding >}}
 
+## De overstap naar een nieuw boekhoudpakket: wat kost het echt?
+
+Veel MKB-bedrijven stellen de overstap naar betere boekhoudsoftware uit omdat de migratiekosten onbekend zijn. In de praktijk valt het mee. De daadwerkelijke import van klanten, leveranciers en openstaande facturen kost bij de meeste pakketten een halve dag. De openingsbalans overzetten kost nog eens een halve dag, bij voorkeur samen met je accountant. Planmatig aanpakken aan het begin van een nieuw boekjaar maakt alles eenvoudiger: je sluit het oude jaar af in het huidige systeem en start het nieuwe jaar in het nieuwe pakket met alleen een openingsbalans.
+
+De verborgen kosten zitten niet in de technische migratie maar in de aanpassingstijd. Reken op twee tot drie weken voordat het team soepel werkt met een nieuwe interface. In die periode is de productiviteit lager dan normaal. Plan dit bewust in een rustigere periode — niet vlak voor een kwartaalafsluiting.
+
+Wat je met de overstap terugverdient: het meest concrete voordeel is de tijdsbesparing bij de BTW-aangifte. Een MKB-bedrijf dat per kwartaal vier uur bezig is met de aangifte in een matig pakket, kan dit terugbrengen naar minder dan een uur in een pakket met goede automatisering. Bij een intern uurtarief van €60 is dat €720 per jaar aan directe besparing, nog los van de fouten die worden voorkomen.
+
+Mijn advies voor MKB-bedrijven die twijfelen: start altijd met een proefperiode van drie tot vier weken en voer tijdens die periode minimaal één echte factuurcyclus door in het nieuwe systeem. Zo zie je of de workflows passen bij hoe jouw team werkt — niet bij hoe de leverancier beweert dat het werkt.
+
+{{< sector-cta-boekhouding >}}
+
 ## Lees ook
 
 - **[Boekhoudsoftware voor eenmanszaak](/sectoren/boekhouding/boekhoudsoftware-eenmanszaak/)** -- Kleiner dan MKB, andere prioriteiten

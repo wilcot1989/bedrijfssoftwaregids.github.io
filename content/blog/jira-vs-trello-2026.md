@@ -405,3 +405,7 @@ Niet verplicht, maar sterk aanbevolen. Jira en Confluence zijn gebouwd om samen 
 
 **Welke tool kies ik voor een startup met een mixed team?**
 Dat hangt af van hoe centraal softwareontwikkeling staat. Als je team voornamelijk developers heeft die Agile werken, start dan met Jira (gratis voor 10 gebruikers). Gebruik Trello voor niet-technische teams als marketing. Als je team gemengd is zonder duidelijke dev-focus, is Monday.com of Asana een betere keuze die voor iedereen werkt.
+
+## Praktische migratietips: van Trello naar Jira
+
+De meeste startups beginnen met Trello en stappen over naar Jira zodra het team groeit en sprints structureel worden. Die overgang is kleiner dan je denkt: Jira heeft een native Trello-importfunctie waarbij borden, lijsten en kaarten worden omgezet naar Jira-projecten, epics en issues. Labels worden labels, checklists worden subtaken. Wat verloren gaat: de kaartbeschrijvingen zijn soms kortaf en Power-Ups worden niet meegenomen. De meeste teams regelen de migratie in een dag: import op vrijdagmiddag, doorloop op maandagochtend met het team, en al die week werken ze in Jira. Wat ik aanbeveel: maak tegelijk met de Jira-import één goede template voor je standaardissue — met de velden die jullie altijd nodig hebben — en train het team op story points in de eerste sprint. Wie die eerste sprint doet zonder training, besteedt de week daarna alsnog aan uitleg.

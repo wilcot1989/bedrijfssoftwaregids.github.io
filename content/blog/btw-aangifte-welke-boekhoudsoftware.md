@@ -154,6 +154,16 @@ Als je geen tijd hebt om het volledige artikel door te lezen, hier het beknopte 
 
 Voor elke situatie geldt: gebruik altijd een proefperiode voor je een abonnement afsluit. De meeste pakketten bieden twee tot vier weken gratis toegang.
 
+## Drie concrete stappen om je BTW-aangifte te verbeteren
+
+Als je nu weet dat je BTW-aangifte beter kan, maar niet weet waar te beginnen, hier zijn drie concrete stappen die je direct kunt zetten.
+
+**Stap 1: controleer of je alle inkoopbonnen verwerkt.** De meest gemaakte fout is het laat invoeren van inkomende facturen — of ze helemaal vergeten. Loop eens na of je inkoopbonnen van de afgelopen drie maanden allemaal in je boekhoudsoftware staan. Elke bon die ontbreekt, is BTW die je niet terugvraagt.
+
+**Stap 2: controleer of je BTW-tarieven correct zijn geconfigureerd.** Open je boekhoudsoftware en bekijk de BTW-codes die je gebruikt. Zijn er diensten of producten die mogelijk op het verkeerde tarief staan? Bij twijfel: 21% is het standaardtarief, 9% geldt voor specifieke categorieën zoals voedsel, boeken en bepaalde diensten. De Belastingdienst-website heeft een actuele lijst.
+
+**Stap 3: plan een vaste aangiftemoment per kwartaal.** Zet in je agenda een blok van twee uur op de vijftiende van de maand na het kwartaalafsluit. Zo mis je nooit een deadline. De meeste boekhoudsoftware stuurt ook een herinnering als de aangifteperiode nadert.
+
 ## Lees ook
 
 - [Beste boekhoudsoftware voor ZZP 2026](/blog/beste-boekhoudsoftware-zzp-2026/) — welk pakket maakt BTW-aangifte het makkelijkst?

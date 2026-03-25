@@ -145,6 +145,14 @@ Een CRM-implementatie vraagt in de eerste vier weken intensieve aandacht van é�
 
 Dat lijkt overdreven, maar de realiteit is dat de meeste adoptie-problemen voorkomen in de eerste twee weken, op momenten waarop iemand een vraag heeft en geen direct antwoord krijgt. De CRM-eigenaar die beschikbaar is, lost problemen op voor ze gewoontes worden.
 
+## Maand twee en drie: waar de meeste implementaties mislukken
+
+De eerste maand gaat bij de meeste bedrijven redelijk. Er is momentum, er is enthousiasme, de implementatie is nieuw en trekt aandacht. Maand twee en drie zijn gevaarlijker: de aandacht verschuift, de CRM-eigenaar heeft het druk, en medewerkers glijden terug in oude gewoontes.
+
+Het meest effectieve middel om dit te voorkomen: anker het CRM-gebruik in een wekelijks terugkerend moment. Elke maandag, vijf minuten, opent de leidinggevende het CRM-dashboard in de teambespreking. Welke deals zijn afgelopen week gewonnen? Welke leads staan al twee weken stil? Welke klant moet deze week worden gebeld?
+
+Dat ritueel van vijf minuten is krachtiger dan welk trainingsmoment ook. Het maakt het CRM onderdeel van de werkweek, niet van een project dat ooit is opgestart. En als de leidinggevende het systeem elke week gebruikt voor concrete beslissingen, begrijpen medewerkers dat de data die ze invoeren er werkelijk toe doet.
+
 ## Lees ook
 
 - [Beste CRM software 2026 vergelijken](/blog/beste-crm-software-nederland-2026/) — complete vergelijking met prijzen en reviews

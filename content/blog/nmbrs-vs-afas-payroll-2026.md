@@ -441,3 +441,11 @@ Op G2 scoort Nmbrs 4,4/5 (350+ reviews). Gebruikers prijzen de intuïtieve inter
 AFAS scoort op Capterra 4,2/5 (150+ reviews). Positief: de brede functionaliteit en de diepgaande integratie tussen modules. Kritisch: de hoge implementatiekosten, de lange implementatietijd en de afhankelijkheid van dure externe partners voor aanpassingen.
 
 Het patroon is consistent: gebruikers die AFAS volledig implementeren zijn over het algemeen tevreden, maar de weg erheen is zwaarder dan bij Nmbrs.
+
+## Conclusie: Nmbrs of AFAS Payroll?
+
+Na alles afgewogen is mijn advies voor de meeste Nederlandse MKB-bedrijven helder. Kies Nmbrs als je een standalone payroll-oplossing zoekt die snel te implementeren is, goed werkt via accountants en HR-adviseurs, en een transparante per-medewerker prijsstructuur heeft. Nmbrs werkt uitstekend voor bedrijven van 10 tot 200 medewerkers die salarisadministratie willen moderniseren zonder de complexiteit van een volledig ERP-systeem. De G2-score van 4,4/5 bevestigt dat gebruikers tevreden zijn met de dagelijkse werking.
+
+Kies AFAS als je naast payroll ook andere AFAS-modules wilt gebruiken en de integratie tussen HR, financiën en CRM je primaire motivatie is. AFAS Payroll als losse module is duur voor wat het biedt — de meerwaarde zit in de combinatie met de bredere AFAS-suite. Reken bij AFAS op een langere implementatietijd en hogere instapkosten, maar ook op een platform dat jarenlang meegroeit.
+
+Twijfel je? Vraag je accountant of HR-adviseur welk systeem zij het meest gebruiken. Bij Nmbrs is de kans groot dat zij al toegang hebben tot het platform en je snel kunnen onboarden.

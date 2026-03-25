@@ -432,3 +432,46 @@ Mijn advies: start vandaag met het gratis plan van HubSpot of Freshsales. Het ko
 Op zoek naar meer opties? Gebruik de **[keuzehulp](/tools/crm/keuzehulp/)**, bereken je **[CRM kosten](/tools/crm/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/crm/)** voor meer informatie. Ben je consultant of freelancer? De [CRM sectorpagina voor consultants](/sectoren/crm/crm-voor-consultants/) biedt branchespecifiek advies.
 
 **Onthoud ten slotte:** het beste CRM is het CRM dat je morgen opent, volgende week nog gebruikt, en over zes maanden niet meer weg wilt. Functionaliteit is minder belangrijk dan gebruiksgemak. Begin simpel, bouw het langzaam uit als je groeit. En als je ooit twijfelt of een CRM het waard is: bereken wat je verdient aan één extra opdracht die je binnenkrijgt door tijdig op te volgen. Vrijwel zeker verdient dat de hele jaarinvestering in de software terug. Bij een gemiddeld ZZP-tarief van €85 per uur en een opdracht van 20 uur is dat al €1.700 extra omzet door één follow-up die je anders was vergeten.
+
+## CRM voor ZZP: kosten per jaar op een rij
+
+Veel freelancers schrikken terug voor CRM-kosten, maar de meeste tools zijn voor een eenpersoonsbedrijf heel betaalbaar. Hier is een eerlijk overzicht.
+
+| Tool | Kosten per jaar (ZZP) | Gratis tier? | Beste voor |
+|------|----------------------|-------------|-----------|
+| HubSpot Free CRM | €0 | Ja, onbeperkt | Startende ZZP'er |
+| Freshsales Growth | ~€216 | 21 dgn trial | Actieve acquisitie |
+| Pipedrive Essential | ~€168 | 14 dgn trial | Dealmanagement |
+| Monday CRM Basic | ~€228 | Gratis (2 seats) | Project + CRM combo |
+| Close CRM Startup | ~€588 | Nee | Telefonische verkoop |
+| Notion | €0-€96 | Ja | Flexibele aanpak |
+
+Voor de meeste ZZP'ers die net starten met CRM is HubSpot Free de slimste keuze: geen kosten, geen tijdslimiet op de gratis versie, en voldoende functionaliteit voor een klantendossier van 50-200 contacten. Pas als je actief nieuwe opdrachten acquireert via outreach, wordt Pipedrive of Freshsales de moeite waard.
+
+## Welke CRM-functies heb je écht nodig als ZZP'er?
+
+Ik zie veel freelancers overweldigd raken door de functielijsten van CRM-tools. Maar voor een eenpersoonsbedrijf zijn maar vijf functies echt relevant.
+
+**1. Contactbeheer met notities.** Wie is het, bij welk bedrijf, wanneer heb je voor het laatste contact gehad, wat is de status van de samenwerking? Dat is het fundament. Alles wat je als ZZP'er wilt bijhouden, kan in een contactrecord met notities.
+
+**2. Taakherinneringen.** "Bel Marijn volgende week terug." Dat soort taak. Zonder CRM zet je dit op je to-dolijst, die je dagelijks bijwerkt maar nooit volledig afwerkt. Met een CRM-tool koppel je de taak aan het contactrecord, zodat je bij het openen van het contact direct ziet wat de volgende actie is.
+
+**3. E-mailintegratie.** Als je Gmail of Outlook koppelt aan je CRM, worden e-mails automatisch opgeslagen in het contactrecord. Geen handmatig kopiëren van e-mailthreads. Bij HubSpot en Pipedrive is dit standaard beschikbaar.
+
+**4. Dealoverzicht.** Een visuele pipeline van openstaande offertes en gesprekken in behandeling. Waar staat elke potentiële opdracht in het proces? Dit overzicht motiveert ook: zien dat je vijf actieve leads hebt geeft een ander gevoel dan een volle inbox die niet bijgehouden wordt.
+
+**5. Basisrapportage.** Hoeveel offertes heb je dit kwartaal verstuurd? Hoeveel zijn er gewonnen, hoeveel verloren? Wat is je gemiddelde doorlooptijd van eerste contact tot opdracht? Deze data helpt je beter te plannen en je acquisitieproces te verbeteren.
+
+Meer dan dit heb je als ZZP'er in de eerste instantie niet nodig. Marketing automation, lead scoring en predictive analytics zijn voor later — als je CRM-gebruik goed in de vingers hebt en wilt uitbreiden.
+
+## Sector-specifieke CRM-aanbevelingen voor freelancers
+
+Niet elke freelancer heeft dezelfde klantrelaties. Hier zijn mijn aanbevelingen op basis van het type werk.
+
+**Creatieve freelancers (ontwerpers, schrijvers, fotografen):** HubSpot Free of Notion. Creatieve projecten hebben weinig salesstappen; de kracht zit in het bijhouden van klantfeedback, revisies en projectstatus. Notion's flexibele databases passen goed bij creatieve workflows.
+
+**IT-freelancers en developers:** Pipedrive of Freshsales. IT-opdrachten hebben vaak langere salestrajecten: meerdere gesprekken, technische offertes, beslissers bij meerdere stakeholders. Een duidelijke pipeline-visualisatie helpt dan.
+
+**Consultants en adviseurs:** HubSpot of Monday CRM. De combinatie van relatiebeheer en projectcoördinatie is hier belangrijk. HubSpot biedt uitstekende e-mailintegratie voor consultants die veel via e-mail communiceren. Monday CRM combineert CRM met project-tracking.
+
+**Coaches en trainers:** SimplyBook.me of Calendly als primaire tool, aangevuld met HubSpot Free als CRM. Afspraken plannen is de kern van het werk; CRM voor de klantgeschiedenis.

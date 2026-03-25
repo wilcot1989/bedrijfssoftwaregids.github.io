@@ -661,3 +661,29 @@ De grote wachtwoordmanagers bewegen mee: NordPass, 1Password en Bitwarden bieden
 Verwachting: in 2027-2028 zullen passkeys voor de meeste consumentendiensten de norm zijn. Zakelijke systemen volgen trager. Een zakelijke wachtwoordmanager blijft de komende jaren relevant, maar de rol verschuift.
 
 **Mijn advies:** Kies een wachtwoordmanager die passkeys ondersteunt (NordPass, 1Password en Bitwarden doen dit). U bent daarmee klaar voor de toekomst terwijl u vandaag al profiteert van de huidige beveiligingsvoordelen.
+
+## Kostenanalyse: wachtwoordmanager voor bedrijven
+
+Een zakelijke wachtwoordmanager is een van de goedkoopste beveiligingsinvesteringen die u kunt doen.
+
+| Tool | Kosten per jaar (10 gebruikers) | SSO-integratie | Audit logs |
+|------|--------------------------------|---------------|-----------|
+| NordPass Business | ~€396 | Ja | Ja |
+| 1Password Business | ~€456 | Ja | Ja |
+| Bitwarden Teams | ~€360 | Ja | Ja |
+| LastPass Teams | ~€480 | Ja | Ja |
+| Keeper Business | ~€480 | Ja | Ja |
+| Dashlane Business | ~€504 | Ja | Ja |
+
+Bitwarden is de meest betaalbare optie voor bedrijven die functionaliteit boven merknaamsbekendheid stellen. Voor bedrijven die al NordVPN of NordLayer gebruiken, biedt NordPass een goede bundel. 1Password is de duurste maar heeft de beste gebruikerservaring en de meest volwassen enterprise-functies.
+
+## Veelgemaakte fouten bij wachtwoordmanager-implementatie
+
+**Fout 1: Implementatie zonder offboarding-beleid.**
+Als een medewerker vertrekt, moet u direct alle gedeelde wachtwoorden roteren die hij of zij kende. Zonder een wachtwoordmanager weet u niet welke wachtwoorden zijn gedeeld. Met een zakelijke wachtwoordmanager kunt u bij offboarding direct de toegang intrekken en een rapport genereren van alle wachtwoorden die gemigreerd moeten worden.
+
+**Fout 2: Persoonlijke wachtwoorden in de zakelijke kluis.**
+Zorg dat medewerkers begrijpen dat de zakelijke kluis uitsluitend voor zakelijke inloggegevens is. Persoonlijke Netflix-wachtwoorden horen er niet in. Stel dit beleid expliciet vast en maak gebruik van de scheiding die tools als 1Password en NordPass bieden tussen persoonlijke en zakelijke kluizen.
+
+**Fout 3: Geen masterpassword-beleid.**
+Het masterpassword is de sleutel tot alles. Als dat zwak is of hergebruikt wordt, is de wachtwoordmanager zelf kwetsbaar. Stel een beleid in voor minimale wachtwoordlengte (minimaal 16 tekens) en koppel aan MFA. NordPass, 1Password en Bitwarden vereisen MFA als optie — maak dit verplicht voor alle zakelijke accounts.

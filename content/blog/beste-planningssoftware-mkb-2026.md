@@ -600,3 +600,11 @@ Alle tools in dit overzicht bieden proefperiodes van 14-30 dagen. Test minimaal 
 4. **Quinyx** — Beste voor grotere organisaties (50+ medewerkers) die AI-prognoses willen.
 5. **Deputy** — Beste voor internationale teams en open API-behoeften.
 6. **Werktijden.nl** — Beste betaalbare basisoptie voor kleine teams.
+
+## Veelgemaakte fouten bij planningssoftware
+
+**Fout 1: De app pas na de go-live aan medewerkers uitrollen.**
+Medewerkers moeten de app al kennen voordat het eerste digitale rooster live staat. Stuur de installatie-instructies een week voor de go-live en laat medewerkers de app installeren en verkennen zonder tijdsdruk.
+
+**Fout 2: Beschikbaarheidsbeheer niet activeren.**
+Alle tools in dit overzicht bieden medewerkers de mogelijkheid om hun beschikbaarheid door te geven. Activeer deze functie: het bespaart u een significant deel van de plannings-overleggen en vermindert last-minute roosterwijzigingen.

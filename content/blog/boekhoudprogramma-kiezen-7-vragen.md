@@ -215,6 +215,16 @@ Let tijdens die twee uur op drie dingen: hoe snel je je weg vindt zonder instruc
 
 De vijf minuten die je nu in een zorgvuldig gekozen softwarepakket steekt, besparen je straks een hoop hoofdpijn. Software wisselen halverwege het jaar is altijd duurder dan het goed kiezen aan het begin.
 
+## Welk pakket voor welke fase?
+
+Na het doorlopen van de zeven vragen is de volgende stap de juiste categorie te kiezen. Een samenvatting op basis van bedrijfsfase.
+
+Als je net begint als ZZP'er of eenmanszaak met weinig facturen: [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) gratis of MailerLite starter, of begin met de gratis variant van e-Boekhouden. Je betaalt niets zolang je binnen de gratis limieten blijft en schaalt op zodra de business dat vraagt.
+
+Als je een eenmanszaak bent met tien tot dertig facturen per maand en een goede boekhouding wilt: [Moneybird](https://bdt9.net/c/?si=19080&li=1819984&wi=418626&ws=&dl=) Starter (€15/maand) of [Jortt](https://jf79.net/c/?si=16611&li=1713658&wi=418626&ws=&dl=) zijn de beste prijs-kwaliteitsopties.
+
+Als je een BV hebt of meer dan vijf medewerkers: Exact Online is de standaard die de meeste accountants ondersteunen. De prijs (€49+/maand) is hoger maar de functionaliteit is compleet voor een formeel bedrijf.
+
 ---
 
 ## Lees ook

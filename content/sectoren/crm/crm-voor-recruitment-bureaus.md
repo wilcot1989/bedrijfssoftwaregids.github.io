@@ -289,4 +289,14 @@ Recruitment is een van de meest privacy-gevoelige sectoren. Je verzamelt persoon
 
 Mijn advies: gebruik het aankoopgesprek met je CRM/ATS-leverancier om te vragen hoe ze AVG-compliance ondersteunen. Vraag specifiek naar de verwijderfunctie, de toestemmingsmodule en de auditlog.
 
+## Kosten en terugverdientijd van een recruitmentsysteem
+
+De vraag die ik van elk recruitmentbureau krijg is dezelfde: wanneer verdien ik het terug? Het antwoord hangt af van hoe het bureau nu werkt en hoe groot het team is.
+
+Bij een bureau van twee tot vijf recruiters is de tijdsbesparing op kandidaatbeheer de grootste driver. Als elke recruiter gemiddeld vijftien minuten per dag bespaart op het zoeken naar kandidaatinformatie — niet meer door e-mailthreads zoeken, niet meer Excel raadplegen — is dat bij vijf recruiters vijftien uur per week. Dat is een halve fte die vrijkomt voor daadwerkelijke plaatsingen.
+
+Een gemiddelde plaatsingsvergoeding bij een recruitmentbureau voor professionals ligt tussen €5.000 en €15.000. Als de tijdsbesparing leidt tot één extra plaatsing per kwartaal, is de investering in software terugverdiend in het eerste kwartaal na implementatie.
+
+De maandelijkse softwarekosten voor een volledig recruitmentsysteem liggen tussen €150 en €600 per maand voor een team van drie tot vijf recruiters, afhankelijk van of je kiest voor Bullhorn (duurder, meer functies), Recruitee (middenklasse, sterk op candidate experience) of HubSpot CRM (goedkoper, iets meer maatwerk nodig). Tel ook de implementatiekosten mee: een dag voor inrichting en een halve dag voor teamtraining zijn realistisch.
+
 De recruitmentbranche digitaliseert snel. Bureaus die nu investeren in een professioneel CRM/ATS-systeem bouwen een kandidaatdatabase op die over drie jaar hun belangrijkste asset is. Kandidaten die je vandaag niet kunt plaatsen, zijn over zes maanden misschien de perfecte match voor een nieuwe vacature. Een goed systeem onthoudt wat jij vergeet -- en dat maakt het verschil tussen een bureau dat overleeft en een bureau dat groeit.

@@ -266,6 +266,14 @@ Stel een herinnering in je CRM in om één jaar na de overdracht contact op te n
 
 Een laatste tip: de meest onderschatte functie van een CRM voor makelaars is de review-functionaliteit. Vraag tevreden klanten actief om een Google-review via je CRM -- stuur na de overdracht een automatische e-mail met een reviewverzoek. Bij twintig transacties per jaar levert dat tien tot vijftien nieuwe reviews op, wat je vindbaarheid in lokale Google-zoekresultaten direct verbetert.
 
+## Makelaarskantoren met meerdere medewerkers: hoe je CRM-gebruik structureert
+
+Bij een kantoor met meerdere makelaars is duidelijke eigenaarschap van contacten en dossiers in het CRM de eerste prioriteit. Zonder heldere structuur werken makelaars op elkaars dossiers, raken klanten in de war over wie hen helpt, en gaan leads verloren tussen collega's.
+
+De inrichting die ik adviseer: elk object krijgt een eigenaar (de verantwoordelijke makelaar), elk contactprofiel een primair aanspreekpunt, en de teamleider heeft leesrechten op alle dossiers. Zo is er nooit discussie over wie de lead heeft en wie de relatie heeft opgebouwd. Bij HubSpot en Pipedrive kun je dit exact zo instellen via de gebruikersrollen.
+
+Een praktisch punt voor makelaars die willen groeien: het CRM als kennis-database over de lokale markt. Noteer bij elk verlopen object wat de uiteindelijke verkoopprijs was, hoe lang het op de markt stond en welke bezwaren kopers hadden. Na honderd transacties heb je een intern overzicht van de lokale markt dat geen concurrent heeft. Die data maakt je taxaties scherper en je advies aan verkopers concreter.
+
 {{< sector-cta-crm >}}
 
 ## Lees ook

@@ -307,4 +307,8 @@ Voor ZZP'ers die kiezen tussen deze twee: de kans is klein dat Moneybird over dr
 
 Heb je nog twijfels? Lees ook mijn [Exact Online review](/blog/exact-online-review-2026/) voor een diepgaande analyse van Exact, mijn [Moneybird review](/blog/moneybird-review-2026/) voor een uitgebreid oordeel, of mijn [Moneybird vs e-Boekhouden vergelijking](/blog/moneybird-vs-e-boekhouden-2026/) als je twijfelt tussen Moneybird en een nog goedkoper alternatief.
 
+## Migreren van Exact Online naar Moneybird — of andersom
+
+Een vraag die ik meerdere keren per kwartaal krijg: "Ik zit op Exact Online maar gebruik nog maar 20% van wat het kan. Heeft het zin om te migreren naar Moneybird?" Mijn antwoord: bijna altijd ja, als je een ZZP'er of klein MKB-bedrijf bent zonder voorraadbeheer of complexe projectadministratie. De migratie zelf is beheersbaar: exporteer je openstaande debiteuren en crediteuren, je beginsaldo per datum en je rekeningschema. Moneybird heeft een importwizard die CSV-bestanden verwerkt. Historische transacties hoef je niet mee te nemen — bewaar die in je Exact-omgeving als archief of exporteer ze naar PDF voor de Belastingdienst. De omgekeerde richting, van Moneybird naar Exact Online, is relevanter voor groeiende bedrijven. Exact heeft een importfunctie maar verwacht een gestructureerde datadump; je boekhouder of een Exact-partner kan je hierbij helpen. Reken op twee tot vier uur begeleiding voor een gemiddeld bedrijf met twee jaar historische data.
+
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/boekhouding/keuzehulp/)**, bereken je **[boekhoudsoftware kosten](/tools/boekhouding/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/boekhouding/)**.

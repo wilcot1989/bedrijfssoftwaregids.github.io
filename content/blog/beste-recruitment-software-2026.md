@@ -432,3 +432,11 @@ Een ATS stroomlijnt je wervingsproces, maar trekt niet automatisch betere kandid
 
 Recruitee en Homerun bieden specifieke functies voor employer branding, waaronder aanpasbare vacaturepagina's, werknemer-testimonials en integratie met LinkedIn Company Page.
 
+
+## Veelgemaakte fouten bij recruitment software
+
+**Fout 1: ATS pas aanschaffen als er een vacature is.**
+Een ATS werkt pas goed als het is ingericht: vragenlijsten, scorecriteria, e-mailsjablonen, interviewfases. Die inrichting kost een paar uur. Doe dat rustig voor u een nieuwe vacature heeft, niet in de hectiek van een lopend wervingstraject.
+
+**Fout 2: Kandidaten na afwijzing geen feedback geven.**
+Een ATS met automatische afwijzingsberichten neemt niet de verantwoordelijkheid weg om serieuze kandidaten persoonlijk te informeren. Stuur een persoonlijk bericht aan iedereen die een interview heeft gehad. Dat kost vijf minuten en maakt een groot verschil voor uw employer brand.

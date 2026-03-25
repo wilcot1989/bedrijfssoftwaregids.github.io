@@ -274,6 +274,16 @@ Square for Restaurants registreert ook per medewerker, maar de rapportages zijn 
 
 Koppel je kassasysteem aan je roostersoftware (Shiftbase, Loket.nl) voor het meest complete beeld: je ziet dan niet alleen de omzet per medewerker, maar ook de loonkosten van die dienst. Dat geeft je een directe winstgevendheidsindicator per dienst per medewerker — de basis voor betere personeelsplanning.
 
+## Veelgemaakte fouten bij de aanschaf van een horecakassasysteem
+
+Na het begeleiden van tientallen horecaopeningen zie ik steeds dezelfde fouten terugkomen. De eerste is het onderschatten van de inrichttijd. Veel ondernemers kopen een kassasysteem twee weken voor opening en ontdekken dan dat het invoeren van de menukaart, het instellen van BTW-tarieven en het trainen van personeel minstens vier tot zes werkdagen kost. Reken altijd drie weken minimaal.
+
+De tweede fout is het niet testen van de BTW-configuratie. In de horeca geldt 9% op eten en 21% op alcohol. Een onjuiste instelling levert bij een boekenonderzoek een naheffing op over alle verkochte dranken van de afgelopen jaren. Ik adviseer altijd om de BTW-split na inrichting te verifiëren aan de hand van een proefrekening: bestel een maaltijd en een fles wijn en controleer of het kassabewijs de juiste percentages toont.
+
+De derde fout is het kiezen van hardware die niet past bij de omgeving. Een open keuken met veel stoom en hitte vraagt om een IP54-gecertificeerd apparaat. Standaard iPads zijn daar niet voor ontworpen. Bespreek de omgevingseisen altijd expliciet met de leverancier voor je hardware bestelt.
+
+Tot slot zien veel horecaondernemers de kosten van een kassasysteem puur als de maandelijkse softwareprijs. De werkelijke kosten omvatten ook de bonprinter (€100-250), de betaalterminal (koop of huur), de keukenprinter of monitor (€150-400) en de eventuele installatiekosten. Een realistisch totaalbudget voor een gemiddeld café bedraagt €800-1.500 voor de initiële hardware, bovenop de maandelijkse softwarekosten.
+
 {{< sector-cta-kassasystemen >}}
 
 ## Lees ook

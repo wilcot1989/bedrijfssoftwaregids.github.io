@@ -337,6 +337,10 @@ Een praktisch punt dat ik zelden zie besproken in CRM-vergelijkingen: hoe krijg 
 
 Mijn advies voor teams die nog moeten beslissen: vraag beide leveranciers om een demo met jullie eigen data en jullie eigen use cases. Niet de standaarddemo, maar een sessie waarbij je salesmanager zijn of haar dagelijkse workflow nabootst. Die twee uur leveren meer inzicht op dan alle vergelijkingsartikelen bij elkaar.
 
+## Wat de totale eigendomskosten je écht leren
+
+Een vergelijking op licentieprijs alleen vertelt je het halve verhaal. De totale eigendomskosten (TCO) over drie jaar omvatten licenties, implementatie, opleiding en onderhoud. Op dat vlak is het verschil tussen Salesforce en HubSpot aanzienlijk voor het MKB. Een typische HubSpot Sales Hub Professional-implementatie voor tien gebruikers kost: licentie €9.000 per jaar, eenmalige implementatiebegeleiding €3.000-€6.000, training €1.000. Totaal jaar één: €13.000-€16.000. Een vergelijkbare Salesforce Sales Cloud Professional-implementatie: licentie €17.400 per jaar (10 × €145), implementatiepartner €15.000-€30.000 voor aanpassing en integraties, training €2.000-€5.000. Totaal jaar één: €34.000-€52.000. De kans dat een MKB-bedrijf die investering terugverdient is alleen reëel als het salesvolume en de pipelinecomplexiteit navenant zijn. Boven de twintig salesgebruikers met complexe forecasting-eisen verkleint het kostenverschil relatief, maar voor de meeste Nederlandse MKB-bedrijven is de HubSpot-route de economisch verstandigere keuze.
+
 ## Lees ook
 
 - **[Beste CRM Software Nederland 2026](/blog/beste-crm-software-nederland-2026/)** — Compleet overzicht van alle CRM-opties

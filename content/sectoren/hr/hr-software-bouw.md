@@ -264,6 +264,16 @@ Naast HR hoort ook een solide financiele administratie bij een georganiseerd bou
 
 Bekijk ook de diepgaande reviews: [AFAS review 2026](/blog/afas-review-2026/), [Nmbrs review 2026](/blog/nmbrs-review-2026/) en [Shiftbase review 2026](/blog/shiftbase-review-2026/) voor aanvullende informatie over planning in de bouw.
 
+## Veelgemaakte fouten bij HR-softwarekeuze in de bouw
+
+De meest gemaakte fout die ik tegenkom bij bouwbedrijven: een generieke HR-tool aanschaffen die de CAO Bouw niet kent. Dat lijkt in eerste instantie goedkoper, maar leidt binnen een maand tot handmatige correcties op loonstroken, foutieve berekeningen van ADV-uren en een salarisverwerker die twee keer zo lang nodig heeft als met een branchespecifiek pakket.
+
+De CAO Bouw is een van de ingewikkeldste cao's in Nederland. Er zijn meer dan twintig loonschalen, meerdere toeslagstructuren voor overwerk, koud weer en vroeg vertrek, en specifieke regels voor leerlingsalarissen. Een HR-pakket dat de cao handmatig moet worden ingeprogrammeerd is in de praktijk geen werkbare oplossing voor een bouwbedrijf met meer dan vijf medewerkers.
+
+Een tweede veelgemaakte fout is het niet koppelen van projecturenregistratie aan de salarisadministratie. In de bouw worden uren per project bijgehouden — voor projectkostenbeheersing én voor de salarisverwerking. Als die twee systemen niet communiceren, voer je dezelfde uren tweemaal in: eerst in de projectadministratie, dan opnieuw in het HR-systeem. Dat kost wekelijks uren en introduceert fouten.
+
+Derde fout: VCA-certificaten niet automatisch laten bewaken. Een monteur die met verlopen VCA-certificaat op de bouwplaats werkt, is een veiligheidsrisico én een juridisch probleem. De meeste bouwbedrijven beheren dit in Excel, wat betekent dat er regelmatig iets door de mazen valt. HR-software die automatisch een melding geeft vier weken voor verloopdatum is voor bouwbedrijven geen luxe maar een noodzaak.
+
 {{< sector-cta-hr >}}
 
 ## Lees ook

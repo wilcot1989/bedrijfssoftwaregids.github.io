@@ -483,3 +483,7 @@ Zendesk Explore (Professional) biedt diepgaandere rapportages en custom dashboar
 
 **Welke tool migreert gemakkelijker?**
 Beide tools hebben migratiehulpmiddelen, maar Zendesk heeft meer third-party importeurs. Intercom's data-exportmogelijkheden zijn goed. De moeilijkheid hangt af van je huidige systeem.
+
+## Voor welk bedrijfstype is de keuze het duidelijkst?
+
+Na jarenlang implementaties bij verschillende typen bedrijven zijn er twee situaties waar de keuze tussen Zendesk en Intercom zonder discussie is. Ten eerste: e-commercebedrijven met een hoog ticketvolume en klanten via meerdere kanalen (e-mail, WhatsApp, Instagram, telefoon). Hier wint Zendesk op alle fronten: betere omnichannel routing, sterkere SLA-rapportages en een bewezen schaalmodel voor seizoenspieken. De kosten bij 10+ agents zijn hoger dan bij Intercom, maar de functies zijn beter afgestemd op de e-commerce realiteit. Ten tweede: SaaS-bedrijven die hun product actief willen gebruiken als communicatiekanaal — in-app berichten sturen op basis van gebruikerssessies, onboarding-flows triggeren na een specifieke actie in de software, proactief reageren voordat een gebruiker een klacht indient. Intercom's product tour en messaging-functies zijn voor deze use case de sterkste op de markt. Zendesk heeft vergelijkbare functies maar ze zijn minder geïntegreerd en vereisen meer configuratie. Als je SaaS bouwt en klantcommunicatie direct aan gebruikersgedrag wilt koppelen, is Intercom de betere investering ondanks de hogere prijs.

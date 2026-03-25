@@ -169,6 +169,18 @@ Als ik één advies mag geven aan een MKB-bedrijf dat begint met CRM-integraties
 
 Alles daarna — telefonie, projectmanagement, social media — is een verbetering op een goede basis. Begin met deze drie en je hebt al een groot deel van de tijdwinst te pakken.
 
+## Integraties evalueren: vier vragen die je stelt voordat je activeert
+
+Niet elke beschikbare integratie is de moeite waard om in te stellen. Voordat je een koppeling activeert, stel je jezelf vier vragen.
+
+**Is de koppeling bidirectioneel?** Een koppeling die alleen data in één richting stuurt, lost maar de helft van het dubbele-invoer-probleem op. Controleer in de documentatie of de synchronisatie beide kanten opgaat.
+
+**Hoe snel synchroniseert de data?** Real-time koppelingen zijn ideaal. Koppelingen die eens per dag syncen zijn voldoende voor boekhouding maar te traag voor klantenservice.
+
+**Wat gebeurt er bij een synchronisatiefout?** Krijg je een melding? Wordt de fout gelogd? Een stille koppeling die mislukt zonder waarschuwing is gevaarlijker dan geen koppeling.
+
+**Hoeveel extra beheer vraagt de koppeling?** Sommige koppelingen vereisen periodieke controle of handmatige correcties. Reken die tijd mee in je totaalbeoordeling.
+
 ---
 
 ## Lees ook

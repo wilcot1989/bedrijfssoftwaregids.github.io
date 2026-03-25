@@ -652,3 +652,11 @@ Meer dan 85% van de Nederlanders gebruikt WhatsApp actief. Voor webshops is What
 - **WhatsApp Business API** (via Trengo of Gorgias) vs. **WhatsApp Business app** (gratis, één telefoon). De app werkt voor kleine webshops; bij meerdere agents heb je de API nodig.
 - **Zakelijke uren instellen:** Stel duidelijke verwachtingen over wanneer je reageert. "Wij reageren op werkdagen binnen 2 uur" is beter dan geen verwachting scheppen.
 - **Broadcast-berichten:** Met de API kun je klanten pro-actief berichten sturen (verzendbevestiging, verloopdatum actie). Doe dit spaarzaam — WhatsApp wordt slecht gewaardeerd als spamkanaal.
+
+## Veelgemaakte fouten bij klantenservice software voor webshops
+
+**Fout 1: Reactiesnelheid niet meten.**
+Reactiesnelheid is de meest directe graadmeter voor klanttevredenheid in e-commerce. Stel in uw helpdesk-tool een SLA in voor eerste respons (bijv. binnen 2 uur op werkdagen) en meet wekelijks of u die haalt. Gorgias en Freshdesk bieden beide ingebouwde SLA-rapportages.
+
+**Fout 2: De klantenservice-data niet koppelen aan productverbetering.**
+Elke week dezelfde vraag over de verpakking, de maatvoering of het retourbeleid? Dat zijn signalen voor productverbetering, niet alleen klantenservice-problemen. Stel een wekelijkse review in van de meest gestelde vragen en gebruik die om FAQ-content bij te werken en producten te verbeteren.

@@ -204,7 +204,7 @@ Ten tweede is de twaalf-maands-termijn voor teruggaaf van buitenlandse BTW via h
 
 Controleer in je boekhoudsoftware of die beide punten automatisch worden verwerkt. Moneybird en e-Boekhouden updaten hun regelgeving doorgaans tijdig, maar het is de moeite waard om te controleren bij je accountant of adviseur of de instellingen correct zijn.
 
-Een volledig overzicht van alle boekhoudsoftware vergelijkingen en ZZP-gidsen vind je op de [boekhouding overzichtspagina](/categories/boekhouding/). Als je ook wil begrijpen hoe je facturen en boekhouding slim combineert, lees dan [factureren en boekhouden alles in één](/blog/factureren-en-boekhouden-alles-in-een/).
+Een volledig overzicht van alle boekhoudsoftware vergelijkingen en ZZP-gidsen vind je op de [boekhouding overzichtspagina](/categories/boekhouding/). Als je ook wil begrijpen hoe je facturen en boekhouding slim combineert, lees dan [factureren en boekhouden alles in één](/blog/factureren-en-boekhouden-alles-in-een/). Twijfel je welk boekhoudpakket het beste bij jouw BTW-situatie past? Gebruik dan de [boekhoudsoftware keuzehulp](/tools/boekhouding/keuzehulp/) voor een persoonlijk advies op basis van jouw branche en omzet.
 
 ---
 

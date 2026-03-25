@@ -179,6 +179,14 @@ Retentie meten hoeft niet te beginnen met een volledig CRM-dashboard. Er zijn dr
 
 Drie metrieken. Combineer ze en je hebt een retentiemonitor die veel complexere dashboards overbodig maakt.
 
+## Van meten naar actie: wat doe je met churn-signalen?
+
+Meten is een middel, niet een doel. Als je CRM je vertelt dat een klant dreigt af te haken, is de waarde afhankelijk van wat je daarna doet.
+
+De meest effectieve interventie bij een churn-signaal is direct persoonlijk contact — niet een geautomatiseerde e-mail, maar een telefoontje of een korte persoonlijke mail van de accountmanager. Het gesprek begint niet met een verkooppraatje maar met een vraag: "Ik zie dat we al een tijdje niets van je hebben gehoord. Hoe gaat het?" Dat gesprek levert in de helft van de gevallen een verklaring op die je kunt adresseren.
+
+Stel in je CRM in dat een churn-alert automatisch een taak aanmaakt voor de verantwoordelijke accountmanager, met een deadline van twee werkdagen. Dat zorgt dat het signaal niet in een dashboard blijft hangen maar direct tot actie leidt.
+
 ---
 
 **Lees ook:**
