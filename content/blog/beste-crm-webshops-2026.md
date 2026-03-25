@@ -527,3 +527,16 @@ Vink de volgende koppelingen na voor jouw setup:
 - [ ] **Klantenservicetool** (indien aanwezig): ticket-status koppelen aan klantprofiel
 
 Klaviyo scoort het beste op webshopkoppelingen. HubSpot scoort het beste op brede bedrijfssoftware-koppelingen. ActiveCampaign zit er tussenin: goede webshopkoppelingen én een breed integratiesaanbod via Zapier en native connectoren.
+
+## Praktische tips voor de eerste weken na implementatie
+
+De meeste webshophouders die ik spreek, zijn enthousiast bij de aanschaf van een CRM, maar raken na twee weken overweldigd door de mogelijkheden. Dit zijn de drie dingen die ik altijd adviseer om als eerste op te zetten:
+
+**Stap 1: Koppel je webshopplatform en importeer de bestaande klantdata.**
+Zonder historische data heb je geen basis voor segmentatie. Importeer minimaal de orderhistorie van de afgelopen twaalf maanden. Zo kun je direct segmenteren op wie al lang niets meer besteld heeft, wie je trouwste klanten zijn, en wie voor het eerst iets heeft gekocht.
+
+**Stap 2: Zet drie automatiseringen op voordat je iets anders doet.**
+Abandoned cart recovery, de welkomstflow voor nieuwe klanten, en een win-back flow voor klanten die meer dan negentig dagen niets besteld hebben. Deze drie flows leveren in vrijwel elke webshop direct meetbaar rendement op — en ze draaien daarna automatisch zonder dat je er tijd aan besteedt.
+
+**Stap 3: Maak één simpel segment van je beste klanten.**
+Filter op iedereen die meer dan drie keer besteld heeft én een totaalbesteding heeft boven het gemiddelde. Dit zijn je VIP-klanten. Stuur hen als eerste een exclusief aanbod of vroeg toegang tot je volgende sale. De kans dat zij positief reageren is aanzienlijk hoger dan bij je totale lijst, en het versterkt de relatie met de klanten die je het meeste waard zijn.

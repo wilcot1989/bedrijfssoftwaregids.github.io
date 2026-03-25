@@ -482,3 +482,9 @@ Beter goed aanwezig op twee platforms dan matig op vijf. Kies de twee platforms 
 
 **Fout 4: Geen evergreen content hergebruiken.**
 Het meeste sociale media content is eenmalig. Maar informationele posts over uw expertise — tips, inzichten, how-to's — kunnen worden hergebruikt met SocialBee's "recycling" functie. Dit bespaart uren aan content-creatie per maand.
+
+**Fout 5: Reacties en berichten niet vanuit de tool bijhouden.**
+Publiceren is één taak; reageren is de andere helft van social media beheer. Hootsuite en Sprout Social hebben een gecombineerde inbox waarbij berichten, opmerkingen en vermeldingen van alle platforms op één plek binnenkomen. Als je dit niet inricht, loop je het risico dat klantvragen op Instagram of LinkedIn onbeantwoord blijven terwijl je denkt dat alles goed gaat. Zet de unified inbox in als eerste actie nadat je de planningsmodule hebt geconfigureerd.
+
+**Fout 6: Geen goedkeuringsproces instellen voor gevoelige sectoren.**
+In de financiële dienstverlening, gezondheidszorg en juridische wereld moet content voor publicatie worden goedgekeurd. Hootsuite en Sprout Social bieden content-goedkeuringsworkflows waarbij een manager elke post accordeert voordat die automatisch wordt gepubliceerd. Gebruik die functie — één verkeerde post kan meer reputatieschade aanrichten dan een jaar goede content goodwill opbouwt.

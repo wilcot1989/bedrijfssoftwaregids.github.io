@@ -563,3 +563,6 @@ De meeste WMS-leveranciers bieden een sandbox-omgeving voor training. Maar de be
 
 **Meet uw foutpercentage voor en na implementatie.**
 Definieer welke fouten u meet: verkeerde aantallen, verkeerde artikelen, verzenddatumsfouten. Leg de nulmeting vast. Na 90 dagen vergelijkt u: is het foutpercentage gedaald? Is de pick-tijd verbeterd? Dit geeft u de data om de ROI aan te tonen.
+
+**Koppel uw WMS direct aan uw webshop en boekhoudpakket.**
+Veel magazijnbeheerders richten het WMS in, maar stellen de koppelingen met de webshop en boekhouding uit. Dat is een vergissing: zonder die koppelingen creëert u handmatige invoer en desynchroniseerde voorraadstanden. Logiwa, inFlow en Zoho Inventory bieden allemaal native koppelingen met Shopify, WooCommerce en Exact Online. Richt die koppelingen in tijdens de implementatiefase, zodat u van dag één werkt met een volledig geïntegreerd systeem in plaats van achteraf data te moeten reconciliëren.

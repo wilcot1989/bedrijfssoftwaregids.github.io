@@ -725,3 +725,6 @@ Een kassasysteem dat de medewerkers niet goed kennen, leidt tot langere rijen en
 
 **Migreer uw productencatalogus zorgvuldig.**
 De grootste tijdsinvestering bij een kassawissel is het overzetten van uw productencatalogus. Exporteer uw huidige productlijst naar Excel, controleer artikelnummers en prijzen, en importeer die naar het nieuwe systeem. Lightspeed en Untill ondersteunen beide bulk-import via Excel.
+
+**Controleer de rapportages op de eerste dag.**
+Na de eerste dag met een nieuw kassasysteem loop ik altijd de dagrapporten na. Kloppen de omzetcijfers met de kastellingen? Zijn kortingen en retouren correct geboekt? Fouten in de configuratie — een verkeerde btw-categorie, een ontbrekende productgroep — kom je het snelst op het spoor door de rapporten van dag één te vergelijken met wat er werkelijk verkocht is. Hoe vroeger je dat oplost, hoe minder werk het is om de boekhouding achteraf te corrigeren.

@@ -194,7 +194,7 @@ De kosten van een correct geconfigureerd kassasysteem en een jaarlijkse controle
 
 Als je een boekhouder of accountant hebt, is het de moeite waard om te vragen hoe hij de koppeling met je kassasysteem het liefst ziet. De meeste boekhouders hebben een voorkeur voor een specifiek exportformat of een directe koppeling met hun boekhoudpakket. Die voorkeur vooraf kennen bespaart achteraf correctiewerk.
 
-Wat een goede boekhouder minimaal van je kassasysteem verwacht: een dagstaat per afsluiting, een BTW-uitsplitsing per tarief, en een exportmogelijkheid die aansluit op zijn systeem. Als jouw kassasysteem dat niet levert, betekent dat meer handmatig werk voor de boekhouder — werk dat jij uiteindelijk betaalt.
+Wat een goede boekhouder minimaal van je kassasysteem verwacht: een dagstaat per afsluiting, een BTW-uitsplitsing per tarief, en een exportmogelijkheid die aansluit op zijn systeem. Als jouw kassasysteem dat niet levert, betekent dat meer handmatig werk voor de boekhouder — werk dat jij uiteindelijk betaalt. Vraag je boekhouder bij aanschaf van een nieuw kassasysteem om een half uur mee te kijken naar de exportopties. Die investering van zijn tijd kost je misschien €50, maar bespaart je maandelijks uren aan extra boekhouderkosten als de koppeling later niet goed blijkt te werken.
 
 Een boekhouder die actief toegang heeft tot je kassadata via een directe koppeling, kan ook proactief signaleren als er iets niet klopt in de BTW-verdeling. Dat is een tweede controlelevel die je beschermt tegen fouten die je zelf niet doorhebt.
 

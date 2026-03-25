@@ -543,3 +543,6 @@ Days Sales Outstanding — het gemiddeld aantal dagen tussen factuurdatum en bet
 
 **Fout 3: Wachten met incasso tot het te laat is.**
 De kans op inning daalt significant na 90 dagen. Na 180 dagen is de kans op volledige inning al onder de 50%. Stel een duidelijk escalatiepad in: herinnering na 14 dagen, aanmaning na 30 dagen, incasso-overdracht na 60-90 dagen achterstand.
+
+**Fout 4: Herinneringsteksten te formeel of te agressief maken.**
+De toon van uw herinneringen bepaalt deels of klanten betalen én de relatie bewaren. Een eerste herinnering mag vriendelijk en informeel zijn — veel te late betalingen zijn simpelweg vergeten. Pas de toon aan naarmate de achterstand langer duurt. De meeste debiteuren-tools laten u per herinneringsstap een aparte tekst instellen; gebruik die mogelijkheid en stem de toon af op de klantrelatie die u wilt onderhouden.

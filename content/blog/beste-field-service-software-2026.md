@@ -556,4 +556,4 @@ De koppeling met uw boekhoudsoftware is belangrijk, maar stel die in als de basi
 De planner is de eerste gebruiker van het systeem. Als de planner goed is getraind en vertrouwen heeft in het systeem, zijn technici gemakkelijker mee te nemen.
 
 **Stap 5: Meet na 60 dagen de first-time fix rate.**
-Stel een nulmeting in voor uw first-time fix rate voordat u begint. Na 60 dagen vergelijkt u. Als het percentage niet verbeterd is, is er iets mis met de onderdelen-informatie in het systeem of de toewijzing van de juiste technieker per opdracht.
+Stel een nulmeting in voor uw first-time fix rate voordat u begint. Na 60 dagen vergelijkt u. Als het percentage niet verbeterd is, is er iets mis met de onderdelen-informatie in het systeem of de toewijzing van de juiste technieker per opdracht. Een verbeterde first-time fix rate verlaagt direct de reiskosten en verhoogt de klanttevredenheid.

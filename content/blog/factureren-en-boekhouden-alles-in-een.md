@@ -127,7 +127,7 @@ Voor ondernemers die vaste klanten hebben met maandelijkse diensten is de functi
 
 Dat klinkt eenvoudig, maar de fijnere aspecten zijn het waard om goed in te richten. Stel in of de terugkerende factuur automatisch wordt verzonden of eerst ter goedkeuring wordt aangeboden. Voor vaste diensten zonder variatie is automatisch verzenden efficiënt. Voor diensten waarbij het maandbedrag kan variëren — zoals urencontracten of variabele kosten — is goedkeuring verplicht voor verzending.
 
-Controleer ook of het systeem automatisch de factuurdatum correct instelt. Een factuur die op de 31e van de maand staat ingesteld maar in februari verstuurd moet worden, moet worden doorgestuurd naar de 28e. Niet alle pakketten handelen dit automatisch correct af — test dit expliciet voor je op automatische verzending vertrouwt.
+Controleer ook of het systeem automatisch de factuurdatum correct instelt. Een factuur die op de 31e van de maand staat ingesteld maar in februari verstuurd moet worden, moet worden doorgestuurd naar de 28e. Niet alle pakketten handelen dit automatisch correct af — test dit expliciet voor je op automatische verzending vertrouwt. Stuur jezelf bij het instellen van terugkerende facturen altijd een testversie als eerste ontvanger: zo zie je precies hoe de factuur eruitziet in de inbox van je klant, inclusief de betaallink en de layout, voor je de reeks op echte klanten loszet.
 
 Moneybird, Exact Online en Jortt ondersteunen terugkerende facturen standaard. Controleer ook of er een maximum is op het aantal terugkerende facturen in je abonnementsvorm.
 

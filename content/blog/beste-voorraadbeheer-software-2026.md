@@ -609,4 +609,4 @@ Kosten Picqer/Cin7: €2.400-€6.000/jaar
 Voordat u een voorraadbeheer-systeem implementeert, telt u uw voorraad eenmalig handmatig. Dit is de nulmeting voor uw systeem. Zonder accurate beginstand klopt uw voorraadbeheer nooit.
 
 **Stel herbestelniveaus in voor uw snellopende artikelen.**
-De meeste voorraadbeheer-tools kunnen automatisch een inkooporder of melding genereren als een artikel onder een minimumvoorraad zakt. Stel die niveaus in voor uw A-artikelen — de 20% van uw assortiment dat 80% van uw omzet genereert.
+De meeste voorraadbeheer-tools kunnen automatisch een inkooporder of melding genereren als een artikel onder een minimumvoorraad zakt. Stel die niveaus in voor uw A-artikelen — de 20% van uw assortiment dat 80% van uw omzet genereert. Door te beginnen met die snellopende artikelen heeft u direct het grootste effect op stockouts en voelt het systeem meteen nuttig aan voor uw team.

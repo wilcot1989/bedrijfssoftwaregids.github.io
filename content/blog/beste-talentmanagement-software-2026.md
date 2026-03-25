@@ -498,3 +498,6 @@ Performance reviews, OKR's, 360-graden feedback, engagement-surveys, leermodules
 
 **Fout 3: Geen verbinding met beloning.**
 Talentmanagement-data heeft alleen waarde als er consequenties aan verbonden zijn. Als uitstekende prestaties niet leiden tot positieve erkenning (salaris, promotie, extra verantwoordelijkheid), verliest het systeem zijn geloofwaardigheid. Zorg dat de uitkomsten van performance-reviews expliciet verbonden zijn aan beloningsbeleid.
+
+**Fout 4: Feedback-cycli te lang plannen.**
+Jaarlijkse beoordelingsgesprekken zijn in veel organisaties het enige formele moment van terugkoppeling. Dat is te weinig. Medewerkers willen weten hoe ze het doen — en managers die alleen één keer per jaar feedback geven, missen de kans om ontwikkeling bij te sturen voordat een probleem groot wordt. Platforms als 15Five en Leapsome zijn gebouwd op kwartaal-reviews aangevuld met wekelijkse check-ins van vijf minuten. Begin met die ritme en je merkt snel dat zowel managers als medewerkers de gesprekken productiever ervaren dan het traditionele jaarlijkse beoordelingsgesprek.

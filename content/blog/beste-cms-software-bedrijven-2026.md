@@ -607,3 +607,6 @@ Het CMS van uw concurrent is afgestemd op hun team, hun content-strategie en hun
 
 **Fout 2: Het onderhoud onderschatten.**
 WordPress vereist regelmatig onderhoud (updates, back-ups, beveiliging). Als uw team geen technisch medewerker heeft, kies dan voor een beheerd CMS of kies voor managed WordPress hosting waarbij de provider het onderhoud regelt.
+
+**Fout 3: Geen rekening houden met toekomstige groei.**
+Ik zie regelmatig dat bedrijven een CMS kiezen voor hun huidige situatie en na anderhalf jaar vastlopen: te weinig flexibiliteit, te duur bij meer gebruikers, of geen ondersteuning voor meertalige content. Denk bij de selectie minstens drie jaar vooruit. Stel jezelf de vraag: wat als we twee extra markten willen bedienen, of als ons team verdubbelt? Een CMS-migratie halverwege een groeifase is duur en tijdrovend — liever één keer de juiste keuze maken.

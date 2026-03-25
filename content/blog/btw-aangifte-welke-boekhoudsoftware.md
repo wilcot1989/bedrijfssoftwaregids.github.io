@@ -162,7 +162,7 @@ Als je nu weet dat je BTW-aangifte beter kan, maar niet weet waar te beginnen, h
 
 **Stap 2: controleer of je BTW-tarieven correct zijn geconfigureerd.** Open je boekhoudsoftware en bekijk de BTW-codes die je gebruikt. Zijn er diensten of producten die mogelijk op het verkeerde tarief staan? Bij twijfel: 21% is het standaardtarief, 9% geldt voor specifieke categorieën zoals voedsel, boeken en bepaalde diensten. De Belastingdienst-website heeft een actuele lijst.
 
-**Stap 3: plan een vaste aangiftemoment per kwartaal.** Zet in je agenda een blok van twee uur op de vijftiende van de maand na het kwartaalafsluit. Zo mis je nooit een deadline. De meeste boekhoudsoftware stuurt ook een herinnering als de aangifteperiode nadert.
+**Stap 3: plan een vaste aangiftemoment per kwartaal.** Zet in je agenda een blok van twee uur op de vijftiende van de maand na het kwartaalafsluit. Zo mis je nooit een deadline. De meeste boekhoudsoftware stuurt ook een herinnering als de aangifteperiode nadert. Voeg ter controle ook een herinnering toe voor de laatste dag van de aangiftemaand — als het dan nog niet gedaan is, weet je dat er actie nodig is voor de deadline verstrijkt. Die dubbele herinnering kost je niets maar heeft me bij klanten al meer dan eens een boete bespaard.
 
 ## Lees ook
 

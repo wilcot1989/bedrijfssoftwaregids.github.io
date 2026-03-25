@@ -621,4 +621,4 @@ De software-investering van €1.500-€5.000 per jaar verdient zichzelf terug b
 Internetuitval tijdens een drukke zaterdagavond is een nachtmerrie als uw kassasysteem niet offline werkt. Test de offline modus expliciet: trek de stekker eruit en verwerk tien bestellingen. Controleer of ze later correct worden gesynchroniseerd.
 
 **Train keukenpersoneel apart van bediening.**
-De keukenmonitor-module vraagt een apart trainingsprogramma voor keukenpersoneel. Bediening heeft andere behoeften dan koks. Plan twee aparte trainingen en gebruik de eerste week als rustige testperiode.
+De keukenmonitor-module vraagt een apart trainingsprogramma voor keukenpersoneel. Bediening heeft andere behoeften dan koks. Plan twee aparte trainingen en gebruik de eerste week als rustige testperiode. Vraag keukenpersoneel na de eerste week om feedback en pas de weergave-instellingen van de keukenmonitor aan — schermgrootte, kleurcodes per gang, doorlooptijden — zodat het systeem aansluit op de manier waarop jouw keuken werkt.

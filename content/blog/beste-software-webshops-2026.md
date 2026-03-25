@@ -660,4 +660,4 @@ WooCommerce zelf is gratis als WordPress-plugin, maar je bent verantwoordelijk v
 
 ### Wat is de beste webshop software voor een fysieke winkel die ook online wil beginnen?
 
-Lightspeed eCom is de duidelijkste aanbeveling voor ondernemers met een fysieke winkel. De voorraad synchroniseert real-time tussen de kassa en de webshop. Wat je in de winkel verkoopt, is direct verwerkt in je online voorraad. CCV Shop heeft ook een kassaoplossing, maar Lightspeed's POS is marktleider in Nederland voor retail.
+Lightspeed eCom is de duidelijkste aanbeveling voor ondernemers met een fysieke winkel. De voorraad synchroniseert real-time tussen de kassa en de webshop. Wat je in de winkel verkoopt, is direct verwerkt in je online voorraad, zodat je nooit meer een product online verkoopt dat in de winkel al is uitverkocht. CCV Shop heeft ook een kassaoplossing, maar Lightspeed's POS is marktleider in Nederland voor retail.

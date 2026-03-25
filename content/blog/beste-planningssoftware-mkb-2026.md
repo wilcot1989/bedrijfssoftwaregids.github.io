@@ -607,4 +607,4 @@ Alle tools in dit overzicht bieden proefperiodes van 14-30 dagen. Test minimaal 
 Medewerkers moeten de app al kennen voordat het eerste digitale rooster live staat. Stuur de installatie-instructies een week voor de go-live en laat medewerkers de app installeren en verkennen zonder tijdsdruk.
 
 **Fout 2: Beschikbaarheidsbeheer niet activeren.**
-Alle tools in dit overzicht bieden medewerkers de mogelijkheid om hun beschikbaarheid door te geven. Activeer deze functie: het bespaart u een significant deel van de plannings-overleggen en vermindert last-minute roosterwijzigingen.
+Alle tools in dit overzicht bieden medewerkers de mogelijkheid om hun beschikbaarheid door te geven. Activeer deze functie: het bespaart u een significant deel van de plannings-overleggen en vermindert last-minute roosterwijzigingen. Medewerkers die zelf hun beschikbaarheid kunnen opgeven en ruilen, zijn gemiddeld tevredener over hun werkrooster — wat op termijn bijdraagt aan lager verloop.

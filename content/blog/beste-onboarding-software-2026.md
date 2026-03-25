@@ -508,3 +508,6 @@ Pre-boarding is alles wat de medewerker doet vóór de eerste werkdag: formulier
 
 **Betrek de direct leidinggevende actief.**
 Onboarding software is een hulpmiddel, geen vervanging voor menselijk contact. Zorg dat de manager wekelijks een check-in heeft met de nieuwe medewerker en de voortgang in het systeem bijhoudt. Appical en Personio hebben manager-dashboards waarmee de leidinggevende de onboarding-voortgang volgt.
+
+**Vraag na 30 en 90 dagen om feedback.**
+De meeste onboarding-processen stoppen na dag één. Maar de kritische periode voor retentie ligt in de eerste drie maanden. Stuur op dag 30 en dag 90 een kort enquêteformulier — vijf vragen is voldoende — om te meten of de nieuwe medewerker zich welkom voelt, de rol begrijpt en voldoende hulpmiddelen heeft. Personio heeft ingebouwde pulse surveys voor precies dit doel. Die data toont u ook waar het onboarding-programma structureel tekortschiet, zodat u het voor de volgende medewerker kunt verbeteren.

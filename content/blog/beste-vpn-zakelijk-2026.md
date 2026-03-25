@@ -656,3 +656,5 @@ De werkgever kan VPN-verbindingsdata inzien voor beveiligingsdoeleinden. Persoon
 ---
 
 Dit beleid kunt u direct opnemen in uw personeelshandboek of digitale onboarding-documentatie.
+
+Een goed VPN-beleid heeft alleen waarde als medewerkers het ook kennen. Stuur het beleid bij elke nieuwe medewerker actief toe, neem het op in de onboarding-checklist en herhaal het jaarlijks in een kort beveiligingsbewustzijnstrainingsdocument. NordVPN Teams en Perimeter 81 bieden beide beheerdersdashboards waarmee u kunt zien welke medewerkers actief de VPN gebruiken — zo kunt u gericht herinneren wie de verbinding structureel overslaat en een gesprek aangaan voordat een beveiligingsincident ontstaat.

@@ -68,7 +68,7 @@ De meest gemaakte fout is het verkeerd categoriseren van BTW-tarieven aan de kas
 
 Tweede fout: de koppeling te laat instellen en maanden aan historische data handmatig proberen in te voeren. Ik zie dit regelmatig: ondernemers die na zes maanden besluiten te automatiseren en dan uren kwijt zijn aan retroactief importeren. Stel de koppeling in vanaf dag één van gebruik, of aan het begin van een nieuw boekjaar. Retroactief importeren is tijdrovend en foutgevoelig.
 
-Derde fout: geen controle inbouwen. Plan wekelijks een check van vijf minuten: klopt de totale omzet in de boekhouding met de dagstaten uit het kassasysteem? Kleine afwijkingen wijzen op een configuratiefout die je vroeg wilt ontdekken -- voor de kwartaalaangifte, niet erna.
+Derde fout: geen controle inbouwen. Plan wekelijks een check van vijf minuten: klopt de totale omzet in de boekhouding met de dagstaten uit het kassasysteem? Kleine afwijkingen wijzen op een configuratiefout die je vroeg wilt ontdekken -- voor de kwartaalaangifte, niet erna. Maak van die wekelijkse check een vaste gewoonte door hem te koppelen aan iets wat je sowieso al doet, zoals de vrijdagmiddag-afsluiting of het maandelijkse voorraadbeheer. Een patroon van vijf minuten per week is makkelijker vol te houden dan een maandelijkse sessie van een uur die je steeds uitstelt.
 
 Gebruik de [kosten berekenen tool voor kassasystemen](/tools/kassasystemen/kosten-berekenen/) om de totale investering in systeem, hardware en koppeling te begroten. Een overzicht van kassasystemen per branche staat op de [kassasystemen sectorgids](/sectoren/kassasystemen/).
 

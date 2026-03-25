@@ -557,3 +557,13 @@ Bij abonnements-webshops of membership-sites mislukken betalingen regelmatig. Ka
 Mollie heeft basis dunning-functionaliteit. Stripe Billing is de meest uitgebreide optie voor abonnementsbedrijven met hoge churn-risico's door mislukte betalingen.
 
 Voor een SaaS-bedrijf of membership-platform dat maandelijks honderden abonnees factureert, kan goed dunning management de involuntary churn (churn door mislukte betalingen) met 30-50% reduceren. Bij een gemiddeld abonnement van €50/maand en 200 abonnees betekent dit al snel €15.000-25.000 extra jaaromzet die anders verloren zou gaan. De keuze voor Stripe Billing boven Mollie is dan financieel snel gerechtvaardigd, ook als de maandelijkse platformkosten hoger liggen dan bij een eenvoudige Mollie-integratie zonder uitgebreide dunning- en retry-functionaliteit voor mislukte abonnementsbetalingen.
+
+## Aandachtspunten voor AVG-compliante betalingsverwerking
+
+Betalingsdata valt onder de strengste categorie persoonsgegevens in de AVG. Een paar praktische aandachtspunten:
+
+**Sla geen ruwe betaalgegevens op:** Creditcardnummers, CVV-codes en bankpasnummers horen nooit op uw eigen servers te staan. Mollie, Stripe en Adyen verwerken al deze data via hun eigen PCI-DSS gecertificeerde omgeving. U krijgt alleen een token terug — een onherleidbare verwijzing naar de betalingsmethode.
+
+**Verwerkersovereenkomst afsluiten:** Met uw payment provider sluit u een verwerkersovereenkomst af. Mollie en Stripe leveren deze standaard aan. Zorg dat dit geregeld is voordat u live gaat.
+
+**Datalocatie controleren:** Mollie slaat data op in de EU. Stripe heeft EU-dataopslag beschikbaar maar vereist een expliciete instelling in uw account. Adyen is volledig EU-gebaseerd voor Europese merchants. Controleer de datalocatie-instellingen van uw gekozen provider en leg die vast in uw verwerkingsregister.

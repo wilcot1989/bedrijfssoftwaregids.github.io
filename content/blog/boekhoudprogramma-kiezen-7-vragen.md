@@ -211,7 +211,7 @@ Maak een testklant aan. Maak een factuur. Importeer een bankafschrift. Boek een 
 
 Dat duurt twee uur. Het geeft je meer informatie dan alle productpagina's en reviewartikelen bij elkaar.
 
-Let tijdens die twee uur op drie dingen: hoe snel je je weg vindt zonder instructies (intuïtiviteit), hoe de software reageert als je iets verkeerd invoert (foutafhandeling), en hoe de exportbestanden eruitzien (data-kwaliteit). Die drie punten zijn niet terug te vinden in een vergelijkingstabel maar bepalen wel of je er over zes maanden nog blij mee bent.
+Let tijdens die twee uur op drie dingen: hoe snel je je weg vindt zonder instructies (intuïtiviteit), hoe de software reageert als je iets verkeerd invoert (foutafhandeling), en hoe de exportbestanden eruitzien (data-kwaliteit). Die drie punten zijn niet terug te vinden in een vergelijkingstabel maar bepalen wel of je er over zes maanden nog blij mee bent. Een praktische tip: boek tijdens de proefperiode ook één correctie — annuleer een factuur die je al hebt verstuurd en herstel hem opnieuw. Hoe het pakket met correcties omgaat zegt meer over de praktische bruikbaarheid dan de meest gebruikte functies.
 
 De vijf minuten die je nu in een zorgvuldig gekozen softwarepakket steekt, besparen je straks een hoop hoofdpijn. Software wisselen halverwege het jaar is altijd duurder dan het goed kiezen aan het begin.
 

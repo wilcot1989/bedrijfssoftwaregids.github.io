@@ -580,3 +580,6 @@ Kwaliteitsmanagement werkt alleen als medewerkers weten wat de procedures zijn. 
 
 **Gebruik de audit-trail voor externe audits.**
 Een van de grote voordelen van een digitaal QMS ten opzichte van papieren procedures is de automatische audit-trail. Elke inspectie, CAPA en documentwijziging wordt gedateerd en gekoppeld aan een gebruiker. Bij een externe ISO-audit of NVWA-inspectie levert u dit exporteert in minuten in plaats van uren.
+
+**Plan een kwartaalreview van uw open CAPA's.**
+Een CAPA die weken of maanden open blijft zonder actie, is erger dan helemaal geen CAPA-systeem — het toont bij een audit aan dat uw organisatie afwijkingen registreert maar niet oplost. Zet elke drie maanden een vaste vergadering in de agenda voor de kwaliteitsverantwoordelijke om alle open CAPA's te beoordelen, verouderde acties af te sluiten en nieuwe eigenaren aan te wijzen. iAuditor en Ideagen Quality Management bieden automatische herinneringen voor openstaande acties, maar de menselijke review blijft noodzakelijk.

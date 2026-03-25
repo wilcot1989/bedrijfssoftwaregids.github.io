@@ -600,3 +600,6 @@ Power BI, Looker Studio en Databox halen hun waarde uit de data die u koppelt. Z
 
 **Stel een wekelijkse update-cyclus in.**
 De beste BI-implementaties die ik heb gezien, hebben één vaste dag per week waarop het management het dashboard bekijkt en bespreekt. Die discipline maakt het verschil tussen een tool die waardevol is en een tool die na drie maanden vergeten is.
+
+**Geef iedere gebruiker alleen de data die hij nodig heeft.**
+Een logistiek medewerker heeft geen behoefte aan de brutomarge per klant — die is meer geholpen met een overzicht van leveringstijden en voorraadniveaus. De meeste BI-tools laten je rijniveau-beveiliging instellen zodat iedereen zijn eigen dashboardweergave ziet. Dat vergroot het draagvlak en vermindert verwarring over cijfers die buiten de context van iemands functie vallen.

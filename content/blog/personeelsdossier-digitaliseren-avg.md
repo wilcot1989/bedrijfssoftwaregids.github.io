@@ -198,7 +198,7 @@ In de praktijk is dit bij professionele HR-softwareleveranciers eenvoudig gerege
 
 Wat je niet moet doen: aannemen dat de DPA automatisch is geregeld zonder te controleren. Ik zie bij audits regelmatig dat bedrijven al twee jaar werken met een softwareleverancier zonder dat er ooit een DPA is ondertekend. Dat is een AVG-overtreding, ook al heeft de leverancier geen kwade bedoelingen.
 
-Maak een lijstje van alle softwareleveranciers die medewerkersinformatie verwerken: HR-software, salarisadministratie, e-mailprogramma's, projectmanagementsystemen. Controleer per leverancier of er een DPA is en bewaar een kopie.
+Maak een lijstje van alle softwareleveranciers die medewerkersinformatie verwerken: HR-software, salarisadministratie, e-mailprogramma's, projectmanagementsystemen. Controleer per leverancier of er een DPA is en bewaar een kopie. Gebruik een eenvoudig overzichtsbestand — een spreadsheet met de naam van de leverancier, datum ondertekening en een link naar de DPA — zodat je bij een AP-onderzoek in twee minuten kunt aantonen dat je dit op orde hebt. Dat overzicht bijwerken kost je eens per jaar een kwartier.
 
 ## Wat het kost om digitalisering uit te stellen
 

@@ -566,3 +566,5 @@ Voor kleine MKB-teams van 1-5 verkopers is HubSpot Free CRM + Sales Hub Starter 
 **SaaS en tech-bedrijven:** Salesforce of HubSpot Sales Hub Professional. Complexe deals met meerdere stakeholders vragen om diepgaand accountbeheer en rapportages.
 
 **Outbound sales teams:** Close CRM of Apollo.io. Als bellen en e-mail sequencing de kern van uw salesproces zijn, wint Close CRM door de ingebouwde Power Dialer. Apollo.io is sterk voor het vinden en benaderen van nieuwe prospects via geautomatiseerde sequenties.
+
+**Groothandel en B2B-productbedrijven:** Pipedrive of Salesforce Starter. Groothandels met vaste klanten en herhalingsorders zijn geholpen met een eenvoudige pipeline plus goede contacthistorie. Salesforce loont pas bij grotere teams of als er meerdere verkoopkanalen zijn — binnen-dienst, buitendienst en e-commerce — die gezamenlijk beheerd worden vanuit één systeem.

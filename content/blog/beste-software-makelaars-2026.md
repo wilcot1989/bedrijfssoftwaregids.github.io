@@ -500,3 +500,6 @@ Makelaarssoftware is dagelijks gebruik. Een demo door de leverancier toont de be
 
 **Fout 3: Geen rekening houden met het aantal actieve objecten.**
 Sommige pakketten prijzen per gebruiker, andere per actief object of per transactie. Als uw kantoor hoge objectdoorstroom heeft (veel transacties), kan per-object-pricing snel oplopen. Bereken de totale jaarkosten op basis van uw werkelijke volume, niet alleen op de stickprijs per gebruiker.
+
+**Fout 4: De datakwaliteit bij migratie niet controleren.**
+Een van de meest onderschatte uitdagingen bij het overstappen van makelaarssoftware is de datakwaliteit van de historische dossiers. Incompleet ingevoerde adressen, ontbrekende transactiedatums of niet-gekoppelde documenten zorgen na migratie voor chaos. Neem voor de overstap twee dagen de tijd om uw bestaande database op te schonen. Een schone import is altijd beter dan een snelle maar rommelige migratie die u nadien maanden achtervolgt.

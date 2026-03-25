@@ -587,3 +587,6 @@ Alle serieuze paketten ondersteunen AGB-declaratie, maar de kwaliteit van de kop
 
 **Fout 2: De mobiele app onderschatten.**
 Als u mobiel werkt — aan huis, bij sportverenigingen of bij bedrijven — is de kwaliteit van de mobiele app een kritisch criterium. Vraag specifiek naar offline-functionaliteit: kunt u dossiers inzien en notities maken zonder internetverbinding?
+
+**Fout 3: De overstap plannen in een drukke periode.**
+Een migratie van pakket A naar pakket B kost u minimaal één tot twee weken extra aandacht. Importeer historische dossiers, configureer declaratiekoppelingen en train uw medewerkers buiten uw drukste maanden. Veel fysiotherapiepraktijken draaien vol in januari en september; plan een overstap liever in de zomervakantie wanneer het patiëntenaanbod wat lager ligt en er ruimte is om kinderziektes te ontdekken zonder directe consequenties voor de dienstverlening.

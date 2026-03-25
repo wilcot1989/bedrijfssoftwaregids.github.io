@@ -481,6 +481,8 @@ Wat betreft migratiekosten: reken gemiddeld op vier tot acht uur werk voor een t
 
 Vergelijk meer opties? Gebruik de **[keuzehulp](/tools/marketing/keuzehulp/)**, bereken je **[marketing software kosten](/tools/marketing/kosten-berekenen/)** of bekijk de **[volledige vergelijking](/categories/marketing/)**.
 
+Wil je Brevo concreet vergelijken met andere Europese alternatieven? MailerLite is een derde optie die steeds meer terrein wint bij Nederlandse MKB-bedrijven: lagere prijzen dan Mailchimp, data in de EU en een interface die net zo intuïtief aanvoelt als Mailchimp's editor. Voor bedrijven die puur naar kostenbesparing kijken én EU-dataopslag willen, is het de moeite waard om MailerLite naast Brevo te zetten voordat je een definitieve keuze maakt.
+
 ## Lees ook
 
 - [Beste E-mailmarketing Software 2026: Top 6](/blog/beste-email-marketing-software-2026/)

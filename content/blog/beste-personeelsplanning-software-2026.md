@@ -655,3 +655,6 @@ Personeelsplanning software wordt dagelijks gebruikt door medewerkers, niet alle
 
 **Fout 2: De WAB-configuratie niet laten checken.**
 De Wet Arbeidsmarkt in Balans stelt specifieke eisen aan het registreren van oproepcontracten en tijdige roosterbekendmaking. Shiftbase heeft ingebouwde WAB-controles; configureer die voor u live gaat en laat uw HR-adviseur de instelling bevestigen.
+
+**Fout 3: Overuren niet zichtbaar maken in het systeem.**
+Veel MKB-bedrijven volgen overuren informeel bij — in een notitieboekje of een losse Excel. Dat werkt totdat er een arbeidsrechtelijk geschil ontstaat of een medewerker onterecht uitbetaald krijgt. Alle tools in dit overzicht kunnen overuren automatisch bijhouden en ter goedkeuring voorleggen aan een leidinggevende. Activeer die functie en zorg dat overuren altijd schriftelijk akkoord zijn voordat ze worden uitbetaald.

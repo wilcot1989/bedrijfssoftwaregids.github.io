@@ -334,3 +334,5 @@ Als je groeiplan concrete HR-uitbreidingen inhoudt, ga je óf later migreren van
 - [Beste HR software Nederland 2026](/blog/beste-hr-software-nederland-2026/) -- compleet overzicht van alle HR-platforms
 - [Beste loonadministratie software 2026](/blog/beste-loonadministratie-software-2026/) -- als salarisverwerking je prioriteit is
 - [Beste recruitment software 2026](/blog/beste-recruitment-software-2026/) -- als je een apart ATS overweegt
+
+Een laatste overweging die ik weinig terugzie in andere vergelijkingen: de impact op je medewerkers. Bij Personio zijn onboarding en verlofaanvragen strak gestroomlijnd, maar de interface is zakelijk. HoorayHR scoort in feedback van medewerkers doorgaans hoger op gebruiksgemak en "fijn gevoel" — wat bij kleinere teams bijdraagt aan daadwerkelijke adoptie. Een HR-systeem dat iedereen daadwerkelijk gebruikt is waardevoller dan een systeem met meer functies dat medewerkers omzeilen zodra ze kunnen. Vraag bij je proefperiode ook een paar toekomstige gebruikers om een week lang verlof aan te vragen en een ziekmelding te doen — hun feedback geeft je een realistischer beeld dan welke feature-sheet ook.

@@ -687,3 +687,6 @@ Zorg dat medewerkers begrijpen dat de zakelijke kluis uitsluitend voor zakelijke
 
 **Fout 3: Geen masterpassword-beleid.**
 Het masterpassword is de sleutel tot alles. Als dat zwak is of hergebruikt wordt, is de wachtwoordmanager zelf kwetsbaar. Stel een beleid in voor minimale wachtwoordlengte (minimaal 16 tekens) en koppel aan MFA. NordPass, 1Password en Bitwarden vereisen MFA als optie — maak dit verplicht voor alle zakelijke accounts.
+
+**Fout 4: De beveiligingsaudit-rapporten niet gebruiken.**
+Elke zakelijke wachtwoordmanager in dit overzicht biedt een beveiligingsrapport dat laat zien welke medewerkers zwakke, hergebruikte of gelekte wachtwoorden hebben. Ik zie dat bedrijven dit rapport nooit openen na de initiële implementatie. Plan één keer per kwartaal een kwartier om het rapport te bekijken en medewerkers met kritieke problemen actief te benaderen. Dit is het laaghangende fruit van wachtwoordbeveiliging: je hoeft niets nieuws te configureren, alleen te kijken naar wat de tool al voor je analyseert.
