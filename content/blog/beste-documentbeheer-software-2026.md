@@ -1,7 +1,7 @@
 ---
 title: "Beste Documentbeheer Software 2026: Top 8 voor het MKB"
-date: 2026-07-14T10:00:00+01:00
-lastmod: 2026-07-14T10:00:00+01:00
+date: 2026-03-26T10:00:00+01:00
+lastmod: 2026-03-26T10:00:00+01:00
 description: "Welke documentbeheer software past bij jouw bedrijf? Ik vergelijk 8 DMS-platforms op prijs, zoekfunctie, AVG-compliance en gebruiksgemak voor het MKB."
 categories: ["productiviteit"]
 tags:

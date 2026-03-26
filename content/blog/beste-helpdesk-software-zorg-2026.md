@@ -1,7 +1,7 @@
 ---
 title: "Beste Helpdesk Software Zorg 2026: Top 5 voor Zorginstellingen"
-date: 2026-07-22
-lastmod: 2026-07-22
+date: 2026-03-26
+lastmod: 2026-03-26
 draft: false
 author: "Lars de Vries"
 authorBio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."

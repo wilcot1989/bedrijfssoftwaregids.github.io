@@ -1,7 +1,7 @@
 ---
 title: "Freshdesk vs TOPdesk 2026: Helpdesk Software Vergeleken"
-date: 2026-07-18T10:00:00+01:00
-lastmod: 2026-07-18T10:00:00+01:00
+date: 2026-03-26T10:00:00+01:00
+lastmod: 2026-03-26T10:00:00+01:00
 description: "Freshdesk vs TOPdesk 2026: welke helpdesk software past bij jouw organisatie? Vergelijking op prijs, ITIL, ticketing en doelgroep. Inclusief wanneer welke tool wint."
 categories: ["klantenservice"]
 tags:

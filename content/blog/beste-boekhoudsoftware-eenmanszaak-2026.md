@@ -1,7 +1,7 @@
 ---
 title: "Beste Boekhoudsoftware Eenmanszaak 2026: Top 6 Vergeleken"
-date: 2026-07-17T09:00:00+02:00
-lastmod: 2026-07-17T09:00:00+02:00
+date: 2026-03-26T09:00:00+02:00
+lastmod: 2026-03-26T09:00:00+02:00
 description: "De beste boekhoudsoftware voor een eenmanszaak in 2026. Top 6 vergeleken op prijs, functies en gebruiksgemak — speciaal voor ZZP'ers en zelfstandig ondernemers."
 categories: ["boekhouding"]
 tags:

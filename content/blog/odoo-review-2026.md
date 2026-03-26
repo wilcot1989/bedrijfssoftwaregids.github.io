@@ -1,7 +1,7 @@
 ---
 title: "Odoo Review 2026: Open Source ERP voor het MKB Getest"
-date: 2026-07-15
-lastmod: 2026-07-15
+date: 2026-03-26
+lastmod: 2026-03-26
 description: "Odoo review 2026: open source ERP getest voor het MKB. Eerlijk oordeel over prijzen, functies, implementatie en alternatieven. Inclusief vergelijking met Exact Online."
 categories: ["boekhouding"]
 tags:

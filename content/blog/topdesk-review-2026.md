@@ -1,7 +1,7 @@
 ---
 title: "TOPdesk Review 2026: Beste ITSM Software voor Nederland?"
-date: 2026-07-12
-lastmod: 2026-07-12
+date: 2026-03-26
+lastmod: 2026-03-26
 description: "TOPdesk review 2026: eerlijk oordeel over prijzen, functies en ervaringen. Is TOPdesk de beste ITSM software voor IT-afdelingen in Nederland?"
 categories: ["klantenservice"]
 tags:

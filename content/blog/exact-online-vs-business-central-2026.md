@@ -1,7 +1,7 @@
 ---
 title: "Exact Online vs Microsoft Business Central 2026: ERP Vergelijking"
-date: 2026-07-16
-lastmod: 2026-07-16
+date: 2026-03-26
+lastmod: 2026-03-26
 description: "Exact Online vs Microsoft Business Central 2026: concrete vergelijking van prijzen, functies, schaalbaarheid en implementatietijd. Welk ERP past bij jouw bedrijf?"
 categories: ["boekhouding"]
 tags:

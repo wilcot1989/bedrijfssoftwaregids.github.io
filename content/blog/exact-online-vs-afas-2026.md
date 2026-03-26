@@ -1,7 +1,7 @@
 ---
 title: "Exact Online vs AFAS 2026: Kosten, Functies & Ervaringen"
-date: 2026-07-09
-lastmod: 2026-07-09
+date: 2026-03-26
+lastmod: 2026-03-26
 description: "Exact Online vs AFAS: eerlijke vergelijking van kosten, functies, HR, gebruiksgemak en schaalbaarheid. Voor wie is welk platform de betere keuze in 2026?"
 categories: ["boekhouding"]
 tags:

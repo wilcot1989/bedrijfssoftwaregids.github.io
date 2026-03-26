@@ -1,7 +1,7 @@
 ---
 title: "Beste Kassasysteem Detailhandel 2026: Top 6 voor Retail"
-date: 2026-07-23T08:00:00+02:00
-lastmod: 2026-07-23T08:00:00+02:00
+date: 2026-03-26T08:00:00+02:00
+lastmod: 2026-03-26T08:00:00+02:00
 description: "Welk kassasysteem past bij jouw winkel? Ik vergeleek 6 POS-systemen voor detailhandel op voorraad, retouren, barcode en omnichannel. Mijn eerlijk advies per winkeltype."
 categories: ["kassasystemen"]
 tags:

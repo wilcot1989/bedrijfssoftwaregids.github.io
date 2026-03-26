@@ -1,7 +1,7 @@
 ---
 title: "Yuki Review 2026: Automatisch Boekhouden Eerlijk Getest"
-date: 2026-07-10
-lastmod: 2026-07-10
+date: 2026-03-26
+lastmod: 2026-03-26
 description: "Yuki review 2026: hoe goed werkt de automatische documentherkenning echt? Prijzen, functies, voor- en nadelen getest. Eerlijk oordeel voor ZZP en MKB."
 categories: ["boekhouding"]
 tags:

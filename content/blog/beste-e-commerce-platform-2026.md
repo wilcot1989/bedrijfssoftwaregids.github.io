@@ -1,7 +1,7 @@
 ---
 title: "Beste E-Commerce Platform Nederland 2026: Top 7 Vergeleken"
-date: 2026-07-13T08:00:00+01:00
-lastmod: 2026-07-13T08:00:00+01:00
+date: 2026-03-26T08:00:00+01:00
+lastmod: 2026-03-26T08:00:00+01:00
 description: "Welk e-commerce platform past bij jouw webshop? Ik vergelijk Shopify, WooCommerce, Mijnwebwinkel, CCV Shop en meer op prijs, iDEAL en NL-support."
 categories: ["webshops"]
 tags:

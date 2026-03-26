@@ -1,7 +1,7 @@
 ---
 title: "Mollie vs Stripe vs Adyen 2026: Welke Betaalprovider?"
-date: 2026-07-11
-lastmod: 2026-07-11
+date: 2026-03-26
+lastmod: 2026-03-26
 description: "Mollie vs Stripe vs Adyen vergeleken: transactiekosten, iDEAL tarieven, integraties en voor welke bedrijven elke PSP het best werkt in 2026."
 categories:
   - kassasystemen

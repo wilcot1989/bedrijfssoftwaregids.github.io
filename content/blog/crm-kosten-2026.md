@@ -1,7 +1,7 @@
 ---
 title: "CRM Software Kosten 2026: Wat Betaal Je Per Gebruiker?"
-date: 2026-07-21T08:00:00+02:00
-lastmod: 2026-07-21T08:00:00+02:00
+date: 2026-03-26T08:00:00+02:00
+lastmod: 2026-03-26T08:00:00+02:00
 description: "Wat kost CRM software in 2026? Ik zet alle prijzen per gebruiker op een rij — van gratis tot €300/maand — inclusief verborgen kosten en een eerlijke TCO-berekening."
 categories: ["crm"]
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Stripe Review Nederland 2026: Kosten, Functies & Ervaringen"
-date: 2026-07-20
-lastmod: 2026-07-20
+date: 2026-03-26
+lastmod: 2026-03-26
 description: "Stripe Review 2026: eerlijke beoordeling van kosten, API, dashboards en iDEAL-integratie. Vergelijk met Mollie en ontdek of Stripe bij jouw webshop past."
 categories: ["kassasystemen"]
 tags:

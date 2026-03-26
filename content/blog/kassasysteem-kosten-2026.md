@@ -1,7 +1,7 @@
 ---
 title: "Kassasysteem Kosten 2026: Wat Betaal Je Echt?"
-date: 2026-07-19T08:00:00+02:00
-lastmod: 2026-07-19
+date: 2026-03-26T08:00:00+02:00
+lastmod: 2026-03-26
 description: "Kassasysteem kosten 2026: wat betaal je voor software, hardware, transacties en installatie? Eerlijke vergelijking van Lightspeed, Square, CCV, Orderbird en meer."
 categories: ["kassasystemen"]
 tags:
