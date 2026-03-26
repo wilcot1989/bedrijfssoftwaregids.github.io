@@ -216,7 +216,7 @@ Notion als CRM is een optie die ik met een kanttekening aanbeveel. Als je toch a
 - Rapportages zijn beperkt vergeleken met echte CRM's
 - Niet geschikt als je serieuze sales-processen hebt
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar Notion →</a>
 
 ---
 
@@ -313,7 +313,7 @@ Je bent een freelance designer, developer of consultant die deals wil tracken en
 
 ### Scenario 4: Je wilt alles in een tool
 
-Je bent al een Notion-gebruiker en wilt klantbeheer integreren in je bestaande werkruimte. **Gebruik [Notion als CRM](https://www.notion.so/)**. Het vergt meer opzettijd, maar je hebt alles op een plek: klanten, projecten, notities en kennis.
+Je bent al een Notion-gebruiker en wilt klantbeheer integreren in je bestaande werkruimte. **Gebruik [Notion als CRM](https://affiliate.notion.so/umbysfa8fxf5)**. Het vergt meer opzettijd, maar je hebt alles op een plek: klanten, projecten, notities en kennis.
 
 ### Scenario 5: Je groeit en zoekt meer dan een basis-CRM
 
@@ -432,7 +432,7 @@ Vermijd ook de bekende valkuilen: lees mijn artikel over [CRM-fouten die MKB-bed
 - **Beste gratis CRM voor ZZP'ers**: [HubSpot Free CRM](https://www.hubspot.com/nl) -- het meest complete gratis pakket dat meegroeit met je bedrijf.
 - **Beste voor actieve acquisitie**: [Pipedrive](https://aff.trypipedrive.com/65scdzrtiyaj) -- de visuele pipeline en slimme herinneringen helpen je om geen deal te missen.
 - **Beste voor sales + projecten**: [Monday CRM](https://monday.com/lang/nl) -- ideaal als je CRM en projectmanagement wilt combineren.
-- **Beste voor Notion-gebruikers**: [Notion](https://www.notion.so/) -- flexibel en gratis, mits je bereid bent het zelf in te richten.
+- **Beste voor Notion-gebruikers**: [Notion](https://affiliate.notion.so/umbysfa8fxf5) -- flexibel en gratis, mits je bereid bent het zelf in te richten.
 - **Beste voor nul budget**: Google Contacts + Sheets -- de meest basale maar werkbare gratis oplossing.
 - **Beste budget-CRM met AI**: [Freshsales](https://www.freshworks.com/nl/crm/) -- krachtige functies voor een scherpe prijs.
 - **Beste voor telefonische acquisitie**: [Close CRM](https://refer.close.com/p2kcrnz6lksy) -- als je veel belt en mailt is de ingebouwde Power Dialer en e-mail sequences een grote tijdsbesparing. Lees de [Close CRM review](/blog/close-crm-review-2026/).

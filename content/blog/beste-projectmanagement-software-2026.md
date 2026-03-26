@@ -47,7 +47,7 @@ products:
     rating_count: "21"
   - name: "Notion"
     description: "Flexibele werkruimte die documenten, databases en projectmanagement combineert in een alles-in-een platform."
-    url: "https://www.notion.so/"
+    url: "https://affiliate.notion.so/umbysfa8fxf5"
     price: "9.00"
     rating_value: "2.5"
     rating_count: "381"
@@ -343,7 +343,7 @@ Startups en kenniswerkers die projectbeheer willen combineren met documentatie. 
 ### Eerlijk nadeel
 Notion vereist configuratietijd. Veel configuratietijd. Zonder iemand die het inricht, eindigen teams met een rommelige workspace die niemand meer begrijpt. Automatiseringen zijn minder uitgebreid dan bij Monday.com of Asana. En de mobiele app is -- laten we eerlijk zijn -- niet geweldig voor snelle taken onderweg.
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar Notion →</a>
 
 ---
 
@@ -787,7 +787,7 @@ Na tientallen implementaties komt het hier op neer:
 - **Je budget is beperkt maar je wilt veel functies?** [ClickUp](https://try.web.clickup.com/ivsm6ez2ycrs) geeft je de meeste features voor de laagste prijs. Reken wel op een week configuratietijd.
 - **Je team is klein en wil gewoon aan de slag?** [Trello](https://trello.com/nl) is in 10 minuten operationeel. Simpel, effectief, goedkoop.
 - **Je team werkt remote en vergadert te veel?** [Basecamp](https://basecamp.com/) dwingt asynchrone communicatie af. Rustgevend.
-- **Je wilt alles op een plek: projecten, wiki en documenten?** [Notion](https://www.notion.so/) is de enige tool die dat echt combineert.
+- **Je wilt alles op een plek: projecten, wiki en documenten?** [Notion](https://affiliate.notion.so/umbysfa8fxf5) is de enige tool die dat echt combineert.
 - **Je hebt al Microsoft 365?** Dan zit [Planner](https://www.microsoft.com/nl-nl/microsoft-365/business/task-management-software) al in je abonnement. Gratis is gratis.
 
 **Wat je vooral niet moet doen**: een jaarcontract tekenen zonder de tool minimaal twee weken met je team te hebben getest. Elke tool in dit overzicht biedt een gratis plan of proefperiode. Gebruik dat. De beste projectmanagement software is de tool die je team daadwerkelijk dagelijks wil gebruiken -- niet de tool met de langste featurelijst.

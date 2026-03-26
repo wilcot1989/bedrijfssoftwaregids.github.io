@@ -30,7 +30,7 @@ faq:
     a: "Ja. Het Free-plan is permanent beschikbaar zonder tijdslimiet. Je krijgt onbeperkte pagina's en blokken, maar met één gast en beperkte uploadmogelijkheden. Betaalde plannen hebben geen aparte proefperiode, maar het Free-plan is uitgebreid genoeg om te beoordelen of Notion bij jou past voordat je betaalt."
 products:
   - name: "Notion"
-    url: "https://www.notion.so/"
+    url: "https://affiliate.notion.so/umbysfa8fxf5"
     price: "9.00"
   - name: "ClickUp"
     url: "https://try.web.clickup.com/ivsm6ez2ycrs"
@@ -112,7 +112,7 @@ Voor een team van 5:
 
 Vergeleken met Monday.com of ClickUp is Notion relatief betaalbaar. Er zijn geen minimum-seat vereisten: je betaalt exact voor hoeveel gebruikers je hebt. Dat maakt het aantrekkelijk voor kleine teams en zzp'ers. Lees mijn [Notion vs Monday.com vergelijking](/blog/notion-vs-monday-vergelijking-2026/) voor een diepere kostenvergelijking.
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow">Bekijk Notion gratis →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored">Bekijk Notion gratis →</a>
 
 ## Interface en gebruiksvriendelijkheid
 
@@ -399,7 +399,7 @@ Voor teams die direct willen werken, sterke automatiseringen nodig hebben, of se
 
 De beste alles-in-één workspace voor teams die bereid zijn te bouwen. De leercurve en ontbrekende automatiseringen houden het van een 9 af.
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow">Ga naar notion.so →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored">Ga naar Notion →</a>
 
 <a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Bekijk ClickUp als alternatief →</a>
 

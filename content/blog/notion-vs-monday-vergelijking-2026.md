@@ -30,7 +30,7 @@ faq:
     a: "Ja, veel teams gebruiken Notion voor kennisbeheer en documentatie en Monday.com voor projectmanagement en taakbeheer. Er zijn integraties beschikbaar (via Zapier/Make) om informatie tussen beide platforms te synchroniseren."
 products:
   - name: "Notion"
-    url: "https://www.notion.so/"
+    url: "https://affiliate.notion.so/umbysfa8fxf5"
     price: "9.00"
   - name: "Monday.com"
     url: "https://monday.com/"
@@ -318,7 +318,7 @@ Mijn advies na beide tools bij tientallen teams te hebben ingezet:
 
 **Power move:** Gebruik beide — Notion voor kennisbeheer en Monday.com voor projectmanagement. Ik zie dit steeds vaker bij klanten, en het werkt verrassend goed.
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar Notion →</a>
 
 <a href="https://monday.com/lang/nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar monday.com →</a>
 

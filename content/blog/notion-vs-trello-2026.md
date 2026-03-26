@@ -37,7 +37,7 @@ faq:
     a: "Ja, er is een uitgebreide template-galerie op notion.so met honderden gratis templates voor projectmanagement, content calendars, CRM, Kanban-borden en meer. Zowel officiële Notion templates als community-templates zijn beschikbaar. De kwaliteit varieert, maar goede templates besparen je uren aan inrichting. Trello heeft ook templates, maar Notion's template-ecosysteem is rijker en gevarieerder."
 products:
   - name: "Notion"
-    url: "https://www.notion.so/"
+    url: "https://affiliate.notion.so/umbysfa8fxf5"
     price: "9.00"
   - name: "Trello"
     url: "https://trello.com/"
@@ -453,7 +453,7 @@ Notion wint op flexibiliteit, kennisbeheer en databases. Het is de betere keuze 
 
 Er is geen absolute winnaar. Trello doet één ding uitstekend. Notion doet veel dingen goed, maar vraagt meer van jou. Kies op basis van je team, je use cases en hoeveel inrichtingstijd je kunt investeren.
 
-<a href="https://notion.so" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Notion gratis →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Notion gratis →</a>
 
 <a href="https://trello.com" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Trello gratis →</a>
 

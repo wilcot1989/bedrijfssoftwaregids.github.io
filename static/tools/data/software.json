@@ -557,7 +557,7 @@
     "time_tracking": false,
     "scrum": false,
     "integrations": ["Google Workspace", "Slack", "Zapier"],
-    "affiliate": { "type": "link", "url": "https://www.notion.so/" },
+    "affiliate": { "type": "link", "url": "https://affiliate.notion.so/umbysfa8fxf5" },
     "cost": { "model": "per_user_monthly", "base": 0, "per_user": 10 }
   },
   {

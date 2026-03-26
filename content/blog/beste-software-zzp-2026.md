@@ -123,13 +123,13 @@ Niets zo onprofessioneel als een offerte in een Word-document dat je als bijlage
 
 Zelfs als solo-ondernemer heb je overzicht nodig over je lopende projecten, deadlines en to-do's. Ik ken ZZP'ers die alles bijhouden in hun hoofd — tot ze een deadline missen en een klant kwijtraken. Dat hoeft niet.
 
-- **[Notion](https://www.notion.so/)** (gratis voor persoonlijk gebruik) — mijn favoriet voor ZZP'ers. Combineer notities, projecten, klantinformatie en to-do's in een tool. Flexibel genoeg om het precies in te richten zoals jij werkt.
+- **[Notion](https://affiliate.notion.so/umbysfa8fxf5)** (gratis voor persoonlijk gebruik) — mijn favoriet voor ZZP'ers. Combineer notities, projecten, klantinformatie en to-do's in een tool. Flexibel genoeg om het precies in te richten zoals jij werkt.
 - **[Trello](https://trello.com/)** (gratis) — simpeler dan Notion, puur kanban-borden. Perfect als je visueel wilt zien welke projecten in welke fase zitten.
 - **[Monday.com](https://monday.com/)** (vanaf €9/mnd) — voor ZZP'ers die structuur nodig hebben. Templates voor projecten, automatische reminders, tijdlijnweergave.
 
 **Mijn advies:** Notion is gratis en doet alles. Start daar. Meer opties: [Beste Projectmanagement Software 2026](/blog/beste-projectmanagement-software-2026/). Als je ook op zoek bent naar een handige boekhoudapp voor onderweg, lees dan mijn vergelijking van de [beste boekhouder app 2026](/blog/beste-boekhouder-app-2026/).
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar Notion →</a>
 
 
 ## 6. Website & online zichtbaarheid

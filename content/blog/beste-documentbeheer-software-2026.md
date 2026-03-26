@@ -48,7 +48,7 @@ products:
     rating_count: "2341"
   - name: "Notion"
     description: "Flexibele werkruimte die wiki, notities en documentbeheer combineert — populair bij startups en creatieve teams."
-    url: "https://www.notion.so"
+    url: "https://affiliate.notion.so/umbysfa8fxf5"
     price: "8.00"
     rating_value: "2.5"
     rating_count: "381"

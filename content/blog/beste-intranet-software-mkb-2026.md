@@ -32,7 +32,7 @@ products:
     url: "https://www.microsoft.com/nl-nl/microsoft-365/sharepoint/"
     price: "5.10"
   - name: "Notion"
-    url: "https://www.notion.so/"
+    url: "https://affiliate.notion.so/umbysfa8fxf5"
     price: "8.00"
   - name: "Confluence"
     url: "https://www.atlassian.com/nl/software/confluence"
@@ -80,7 +80,7 @@ Notion is de tool die ik het vaakst aanbeveel aan kleine teams die snel een werk
 
 **Praktisch gebruik:** Notion werkt het beste als primaire kennisbank voor teams die op Slack of Google Workspace draaien. Ik stel voor elk nieuw bedrijf een basisstructuur op: een "Bedrijfshandboek" space met daarin onboarding, procedures per afdeling en veelgestelde vragen. Dat kost een middag en is daarna meteen bruikbaar. Koppelingen met Slack (automatisch notificaties bij updates), Google Drive (embed bestanden) en GitHub (voor dev-teams) werken goed out of the box. Notion AI is inmiddels ook serieus bruikbaar: je kunt een pagina laten samenvatten, actiepunten laten extraheren uit vergadernotities of content laten herschrijven. Dat scheelt mijn klanten gemiddeld een paar uur per week.
 
-<a href="https://www.notion.so/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar notion.so →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Ga naar Notion →</a>
 
 ## 2. SharePoint — Beste voor Microsoft 365
 

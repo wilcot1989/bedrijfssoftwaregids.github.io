@@ -40,7 +40,7 @@ products:
     url: "https://try.web.clickup.com/ivsm6ez2ycrs"
     price: "7.00"
   - name: "Notion"
-    url: "https://www.notion.so/"
+    url: "https://affiliate.notion.so/umbysfa8fxf5"
     price: "9.00"
   - name: "Monday.com"
     url: "https://monday.com/"
@@ -387,7 +387,7 @@ De juiste keuze hangt af van wat centraal staat in jullie werk. Projecten en tak
 
 <a href="https://try.web.clickup.com/ivsm6ez2ycrs" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer ClickUp gratis →</a>
 
-<a href="https://notion.so" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Notion gratis →</a>
+<a href="https://affiliate.notion.so/umbysfa8fxf5" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Probeer Notion gratis →</a>
 
 Lees ook de [Notion vs Trello vergelijking](/blog/notion-vs-trello-2026/) of de [Jira vs Trello vergelijking](/blog/jira-vs-trello-2026/) voor meer context. Werk je in de bouw? Bekijk dan [projectmanagement software voor bouwbedrijven](/blog/projectmanagement-software-bouwbedrijven-2026/) voor sectorspecifieke aanbevelingen. En als je overstapt van spreadsheets, lees [van spreadsheet naar projectmanagement software](/blog/spreadsheet-naar-projectmanagement-2026/).
 
