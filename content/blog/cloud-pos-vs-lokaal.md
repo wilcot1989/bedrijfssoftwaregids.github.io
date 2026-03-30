@@ -1,8 +1,8 @@
 ---
-title: "Cloud POS vs lokaal kassasysteem: wat past bij jouw zaak?"
+title: "Cloud POS vs Lokaal Kassasysteem (Ook Zonder Internet)"
 date: 2026-03-03
-lastmod: 2026-03-03
-description: "Cloud kassasysteem of lokale POS-software? Vergelijk betrouwbaarheid, kosten en flexibiliteit voor horeca en retail. Doe de gratis kassasysteem keuzehulp."
+lastmod: 2026-03-30T10:00:00+01:00
+description: "Cloud of lokaal kassasysteem? Vergelijk kosten, offline werken zonder internet en flexibiliteit voor horeca en retail. Inclusief keuzehulp."
 author: "Lars de Vries"
 author_bio: "B2B software consultant en oprichter van Bedrijfssoftwaregids.nl. Lars test zakelijke software hands-on en helpt Nederlandse ondernemers de juiste keuze te maken."
 featured_image: "/images/categories/kassasystemen.svg"
@@ -17,6 +17,7 @@ faq:
     a: "Gerenommeerde cloud kassasystemen voldoen aan AVG-regelgeving en slaan data versleuteld op in beveiligde datacenters. Bij lokale systemen is het risico op dataverlies juist groter: als de lokale server of kassa-pc uitvalt zonder recente backup ben je transactiehistorie kwijt. Cloud-systemen lossen dit automatisch op doordat data extern wordt opgeslagen. Het kassasysteem dat je kiest moet wettelijk zeven jaar aan transactiedata beschikbaar houden."
   - q: "Wat kost een cloud kassasysteem vergeleken met een lokaal systeem?"
     a: "Cloud kassasystemen hebben lagere opstartkosten — je betaalt een maandelijks abonnement en gebruikt een standaard tablet als hardware. Lokale systemen vereisen een hogere eenmalige investering in server of kassa-pc, maar hebben soms lagere terugkerende licentiekosten. Over drie jaar zijn de totaalkosten vergelijkbaar, maar cloud wint op flexibiliteit en schaalbaarheid. Vergelijk altijd de total cost of ownership inclusief hardware, software, support en transactiefees."
+keywords: ["cloud kassasysteem", "lokaal kassasysteem", "kassasysteem zonder internet", "offline kassasysteem", "kassa zonder wifi", "cloud pos vs lokaal", "kassasysteem horeca offline"]
 tags:
   - kassasysteem
   - horeca

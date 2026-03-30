@@ -1,13 +1,14 @@
 ---
-title: "Beste HR Software Nederland 2026: Top 6 voor MKB"
+title: "HR Software Prijzen Nederland 2026: Top 6 Vergeleken"
 date: 2026-02-27T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
-description: "Vergelijk de beste HR software voor het MKB in Nederland. Personio, HiBob, Nmbrs, AFAS en meer op prijs, functies en gebruiksgemak."
+lastmod: 2026-03-30T10:00:00+01:00
+description: "HR software prijzen vergeleken: van €3 tot €15 per medewerker. Personio, HiBob, Nmbrs en AFAS op kosten, functies en gebruiksgemak voor MKB."
 categories: ["hr-software"]
 tags:
   - hr-software
   - mkb
-keywords: ["beste hr software", "hr systeem mkb", "personeelssoftware nederland", "hr software vergelijken", "salarisadministratie software"]
+  - prijzen
+keywords: ["hr software prijzen nederland", "hr software kosten", "beste hr software", "hr systeem mkb", "personeelssoftware nederland", "hr software vergelijken", "salarisadministratie software", "hr software prijzen vergelijken"]
 aliases:
   - /posts/beste-hr-software-nederland-2026/
 affiliate: true

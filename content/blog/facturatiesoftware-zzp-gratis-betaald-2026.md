@@ -1,14 +1,14 @@
 ---
-title: "Facturatiesoftware ZZP 2026: Gratis vs Betaald"
+title: "Gratis Facturatiesoftware ZZP 2026 (+ Betaalde Opties)"
 date: 2026-05-13T10:00:00+01:00
-lastmod: 2026-05-13T10:00:00+01:00
-description: "Facturatiesoftware ZZP 2026: 8 opties van gratis tot betaald getest op prijs, BTW-aangifte en bankkoppeling. Vind het beste facturatieprogramma voor jou."
+lastmod: 2026-03-30T10:00:00+01:00
+description: "Gratis facturatiesoftware voor ZZP'ers in 2026: 8 opties getest op prijs, BTW-aangifte en bankkoppeling. Inclusief 3 volledig gratis pakketten."
 categories: ["boekhouding"]
 tags:
   - boekhouding
   - zzp
   - facturatie
-keywords: ["facturatieprogramma zzp", "facturatiesoftware zzp gratis", "beste facturatieprogramma zzp 2026", "facturatiesoftware vergelijken zzp", "gratis facturatieprogramma zzp", "zzp facturen versturen software"]
+keywords: ["facturatieprogramma zzp", "facturatiesoftware zzp gratis", "beste facturatieprogramma zzp 2026", "facturatiesoftware vergelijken zzp", "gratis facturatieprogramma zzp", "zzp facturen versturen software", "factuursoftware zzp gratis", "gratis factureren zzp", "facturatie gratis"]
 aliases:
   - /posts/facturatiesoftware-zzp-gratis-betaald-2026/
 affiliate: true

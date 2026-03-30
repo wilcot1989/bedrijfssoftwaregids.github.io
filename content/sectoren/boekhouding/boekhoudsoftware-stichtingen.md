@@ -1,12 +1,12 @@
 ---
-title: "Boekhoudsoftware voor stichtingen (2026): vergelijk en kies"
+title: "Boekhoudsoftware voor Stichtingen en ANBI (2026)"
 date: 2026-03-03
-lastmod: 2026-03-25
-description: "Boekhoudsoftware voor stichtingen vergelijken: Exact Online, Twinfield en AFAS op ANBI, subsidieadministratie en jaarrekening. Start de gratis keuzehulp."
+lastmod: 2026-03-30T10:00:00+01:00
+description: "Boekhoudprogramma voor stichtingen vergelijken: Exact Online, Twinfield en AFAS op ANBI-boekhouding, subsidieadministratie en jaarrekening."
 author: "Lars de Vries"
 author_bio: "Onafhankelijk software consultant met 6 jaar ervaring in SaaS. Helpt MKB-bedrijven bij het kiezen van de juiste tools."
 featured_image: "images/categories/boekhouding.svg"
-
+keywords: ["boekhoudsoftware stichtingen", "boekhoudprogramma voor stichting", "boekhouding stichting software", "anbi boekhouding", "boekhoudsoftware non-profit", "boekhouding anbi stichting"]
 tags:
   - boekhouding
   - sector

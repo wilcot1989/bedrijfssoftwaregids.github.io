@@ -1,13 +1,13 @@
 ---
 title: "Beste Kassasysteem Horeca 2026: Top 6 Getest"
 date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-03-30T10:00:00+01:00
 description: "Welk kassasysteem past bij jouw horecazaak? Ik vergeleek 6 systemen op prijs, functies en gebruiksgemak. Vanaf €0/mnd. Bekijk mijn top pick."
 categories: ["kassasystemen"]
 tags:
   - kassasysteem
   - horeca
-keywords: ["beste kassasysteem horeca", "kassa restaurant", "pos systeem horeca", "kassasysteem vergelijken", "kassa café", "kassasysteem zonder abonnement", "kassasysteem kledingwinkel", "kassasysteem detailhandel", "kassasysteem retail", "kassasysteem kleine winkel"]
+keywords: ["beste kassasysteem horeca", "kassa restaurant", "pos systeem horeca", "kassasysteem vergelijken", "kassa café", "kassasysteem zonder abonnement", "kassasysteem kledingwinkel", "kassasysteem detailhandel", "kassasysteem retail", "kassasysteem kleine winkel", "kassasystemen horeca vergelijken", "kassa restaurant vergelijken"]
 aliases:
   - /posts/beste-kassasysteem-horeca-2026/
 affiliate: true

@@ -1,14 +1,14 @@
 ---
-title: "Beste CRM-Systeem Nederland 2026: Top 8"
+title: "CRM Systemen Vergelijken 2026: Top 8 Nederland"
 date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-03-06T10:00:00+01:00
-description: "CRM software vergelijken? Ik testte 8 systemen op prijs, functies en gebruiksgemak voor het Nederlandse MKB. Bekijk welke bij jou past."
+lastmod: 2026-03-30T10:00:00+01:00
+description: "CRM systemen vergelijken? Ik testte 8 CRM-pakketten op prijs, functies en gebruiksgemak voor het Nederlandse MKB. Van gratis tot €300/mnd."
 categories: ["crm"]
 tags:
   - crm
   - mkb
   - vergelijking
-keywords: ["beste crm software", "crm vergelijken", "crm voor mkb", "crm nederland", "crm software vergelijken 2026"]
+keywords: ["crm systemen vergelijken", "beste crm software", "crm vergelijken", "crm voor mkb", "crm nederland", "crm software vergelijken 2026", "crm systeem nederland"]
 aliases:
   - /posts/beste-crm-software-nederland-2026/
 affiliate: true
